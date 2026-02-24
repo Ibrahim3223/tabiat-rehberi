@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa Gözlemi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Burdur-Bucak-Pamucak Kızılçam","caption":"Burdur-Bucak-Pamucak Kızılçam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Pamucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227649","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşilliği, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Burdur","Bucak","Pamucak","Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227649"
@@ -40,7 +40,6 @@ Burdur-Bucak-Pamucak Kızılçam Milli Parkı'na ziyaretçiler, kolayca ulaşabi
 
 ## İlginç Bilgiler
 
-- Parkın alanı yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor
 - Parkın flora ve faunası, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösteriyor

@@ -50,8 +50,6 @@ Tekke Hamamı, ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet e
 
 ## İlginç Bilgiler
 
-- Tekke Hamamı, 140 hektarlık bir alana yayılıyor
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde
 - Tekke Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri
 - Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor
 - Tekke Hamamı, ziyaretçilerine güneşin ve denizin keyfini çıkarmaya olanak tanıyor

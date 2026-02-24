@@ -50,6 +50,6 @@ Kumluk Plajı, denize girerek serinlemek isteyenler için ideal bir yer olarak b
 
 - Kumluk Plajı, Muğla'nın en güzel plajlarından biri olarak biliniyor.
 - Bu plaj, Ege Denizi'nin kıyısında yer alıyor.
-- Kumluk Plajı, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bu plaj, kumu ince ve temiz, suyu berra ve serin.
 - Kumluk Plajı, denize girerek serinlemek isteyenler için ideal bir yer olarak biliniyor.

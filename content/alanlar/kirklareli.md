@@ -15,8 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Eski_Depo_Binas%C4%B1%2C_K%C4%B1rklareli.jpg","alt":"KIRKLARELİ manzarası","credit":"Alicembasli","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/K%C4%B1rklareli_museum_0011.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/K%C4%B1rklareli_museum_0011.jpg/1280px-K%C4%B1rklareli_museum_0011.jpg","alt":"KIRKLARELİ - Kırklareli museum 0011","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/K%C4%B1rklareli_Tren_%C4%B0stasyonu_tuvalet_binas%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/K%C4%B1rklareli_Tren_%C4%B0stasyonu_tuvalet_binas%C4%B1.jpg/1280px-K%C4%B1rklareli_Tren_%C4%B0stasyonu_tuvalet_binas%C4%B1.jpg","alt":"KIRKLARELİ - Kırklareli Tren İstasyonu tuvalet binası","credit":"Alicembasli","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/K%C4%B1rklareli_Tren_%C4%B0stasyonu_Tuvalet_Binas%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/K%C4%B1rklareli_Tren_%C4%B0stasyonu_Tuvalet_Binas%C4%B1.jpg/1280px-K%C4%B1rklareli_Tren_%C4%B0stasyonu_Tuvalet_Binas%C4%B1.jpg","alt":"KIRKLARELİ - Kırklareli Tren İstasyonu Tuvalet Binası","credit":"Alicembasli","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/K%C4%B1rklareli_Tarihi_Tren_Gar%C4%B1_do%C4%9Fu_cephesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/K%C4%B1rklareli_Tarihi_Tren_Gar%C4%B1_do%C4%9Fu_cephesi.jpg/1280px-K%C4%B1rklareli_Tarihi_Tren_Gar%C4%B1_do%C4%9Fu_cephesi.jpg","alt":"KIRKLARELİ - Kırklareli Tarihi Tren Garı doğu cephesi","credit":"Alicembasli","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/30/K%C4%B1rklareli_Tarihi_Tren_Gar%C4%B1_bat%C4%B1_cephesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/K%C4%B1rklareli_Tarihi_Tren_Gar%C4%B1_bat%C4%B1_cephesi.jpg/1280px-K%C4%B1rklareli_Tarihi_Tren_Gar%C4%B1_bat%C4%B1_cephesi.jpg","alt":"KIRKLARELİ - Kırklareli Tarihi Tren Garı batı cephesi","credit":"Alicembasli","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KIRKLAREL%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228647","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin göbeğinde yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["milli park","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi","turizm","çevre","ekoloji"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228647"
 ---
@@ -43,7 +42,6 @@ KIRKLARELİ milli parkını ziyaret etmek, doğa severler için harika bir deney
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölgede, çeşitli bitki türleri bulunmakta
 - Milli parkta, çeşitli hayvan türleri bulunmakta
 - Milli parkın kuruluşu, bölgenin koruma altına alınmasına yönelik çabalar sonucu gerçekleşmiş

@@ -38,11 +38,11 @@ Aşçı Baba Türbesi'nin tarihi geçmişi, Konya'nın tarihi ile iç içe geçm
 
 ## Coğrafya
 
-Aşçı Baba Türbesi, Konya'nın Sarayönü ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle step ve ova olarak karakterize ediliyor ve iklimi, karasal iklim özellikleri gösteriyor. Plajın yakınında bulunan diğer coğrafi oluşumlar, bölgenin doğal güzelliklerini zenginleştiren önemli noktalar olarak dikkat çekiyor. Ayrıca, plajın etrafındaki bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor ve bölgenin ekolojisi, doğal güzellikleri ile dikkat çekiyor. Aşçı Baba Türbesi, yaklaşık 140 hektarlık bir alana yayılmış durumda ve plajın uzunluğu, uzun bir mesafe olarak ölçülüyor.
+Aşçı Baba Türbesi, Konya'nın Sarayönü ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle step ve ova olarak karakterize ediliyor ve iklimi, karasal iklim özellikleri gösteriyor. Plajın yakınında bulunan diğer coğrafi oluşumlar, bölgenin doğal güzelliklerini zenginleştiren önemli noktalar olarak dikkat çekiyor. Ayrıca, plajın etrafındaki bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor ve bölgenin ekolojisi, doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
-Aşçı Baba Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bu bölgenin flora ve faunası, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir bölge olarak dikkat çekiyor. Plajın yakınında bulunan diğer coğrafi oluşumlar, bölgenin doğal güzelliklerini zenginleştiren önemli noktalar olarak dikkat çekiyor. Ayrıca, plajın etrafındaki bölge, mevsimsel değişimlere göre farklı bitki ve hayvan türlerine ev sahipliği yapıyor ve bölgenin ekolojisi, doğal güzellikleri ile dikkat çekiyor. Aşçı Baba Türbesi, yaklaşık 140 hektarlık bir alana yayılmış durumda ve plajın etrafındaki bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.
+Aşçı Baba Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bu bölgenin flora ve faunası, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir bölge olarak dikkat çekiyor. Plajın yakınında bulunan diğer coğrafi oluşumlar, bölgenin doğal güzelliklerini zenginleştiren önemli noktalar olarak dikkat çekiyor. Ayrıca, plajın etrafındaki bölge, mevsimsel değişimlere göre farklı bitki ve hayvan türlerine ev sahipliği yapıyor ve bölgenin ekolojisi, doğal güzellikleri ile dikkat çekiyor.
 
 ## Ziyaret Bilgileri
 
@@ -52,6 +52,6 @@ Aşçı Baba Türbesi'ni ziyaret etmek, Konya'nın doğal güzelliklerini ve tar
 
 - Aşçı Baba Türbesi, Selçuklu dönemine ait bir yapı olarak kabul ediliyor.
 - Plajın yakınında bulunan diğer tarihi yapılar, bölgenin tarihini ve kültürünü yansıtan önemli noktalar olarak dikkat çekiyor.
-- Aşçı Baba Türbesi, yaklaşık 140 hektarlık bir alana yayılmış durumda.
+
 - Plajın etrafındaki bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.
 - Aşçı Baba Türbesi, Konya'nın turistik açıdan önemli bir noktası olarak kabul ediliyor.

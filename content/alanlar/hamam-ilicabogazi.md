@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Il%C4%B1cabo%C4%9Faz%C4%B1_k%C3%B6y%C3%BCndeki_cenevizlilerden_kalma_tarihi_hamam.jpg","alt":"Hamam, Ilıcaboğazı manzarası","credit":"Wikimedia Commons","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Il%C4%B1cabo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245799","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık bir alan"
+
 keywords: ["Hamam Ilıcaboğazı","Marmara Bölgesi","Balıkesir","Susurluk","plaj","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245799"
@@ -50,7 +50,6 @@ Hamam Ilıcaboğazı, yıl boyunca ziyaret edilebilir. İlçe merkezine yakın k
 
 ## İlginç Bilgiler
 
-- Hamam Ilıcaboğazı, 140 hektarlık bir alan
 - Bölge, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor
 - İlçe merkezine yakın konumu, bölgeye ulaşımı kolaylaştırıyor
 - Bölge, hem doğa severler hem de plaj tutkunları için ideal bir destinasyon

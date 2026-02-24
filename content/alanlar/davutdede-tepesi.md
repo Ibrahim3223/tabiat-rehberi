@@ -36,7 +36,7 @@ Davutdede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Davutdede Tepesi, Marmara Bölgesi'nin coğrafi yapısını etkileyen önemli bir tepe noktasıdır. Bu tepe, Balıkesir'in kuzeydoğusunda yer alır ve yaklaşık 140 hektarlık bir alanı kapsar. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır. Davutdede Tepesi'nin coğrafi konumu, bölgenin iklimini ve ekolojik dengesini etkiler. Tepenin etekleri, çeşitli bitki türleriyle kaplıdır ve bölgenin fauna açısından zengin olmasını sağlar. Bu tepe, Marmara Bölgesi'nin doğal güzelliklerini korumak için önemli bir role sahiptir. Davutdede Tepesi'nin coğrafi yapısı, ziyaretçilerine büyüleyici manzaralar sunar ve doğa severler için bir cennet olarak kabul edilir.
+Davutdede Tepesi, Marmara Bölgesi'nin coğrafi yapısını etkileyen önemli bir tepe noktasıdır. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır. Davutdede Tepesi'nin coğrafi konumu, bölgenin iklimini ve ekolojik dengesini etkiler. Tepenin etekleri, çeşitli bitki türleriyle kaplıdır ve bölgenin fauna açısından zengin olmasını sağlar. Bu tepe, Marmara Bölgesi'nin doğal güzelliklerini korumak için önemli bir role sahiptir. Davutdede Tepesi'nin coğrafi yapısı, ziyaretçilerine büyüleyici manzaralar sunar ve doğa severler için bir cennet olarak kabul edilir.
 
 ## Flora ve Fauna
 

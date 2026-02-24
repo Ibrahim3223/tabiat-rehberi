@@ -51,7 +51,7 @@ Fatma Hanım Türbesi'ni ziyaret etmek için, Edirne ilinin merkezine gitmek ger
 ## İlginç Bilgiler
 
 - Fatma Hanım Türbesi, Edirne ilinin önemli turistik noktalarından biridir.
-- Türbe, 140 hektarlık bir alanı kaplar.
+
 - Türbenin çevresi, çeşitli ağaçlar ve bitkiler ile çevrilidir.
 - Fatma Hanım Türbesi, hem dinî hem de turistik amaçlarla ziyaret edilebilir.
 - Türbe, dört mevsim ziyaret edilebilir.

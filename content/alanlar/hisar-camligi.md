@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","hayvan gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Hisar Çamlığı","caption":"Hisar Çamlığı","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisar%20%C3%87aml%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228161","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Hisar Çamlığı","İç Anadolu Bölgesi","milli park","doğa","çevre","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228161"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228161"
 
 # Hisar Çamlığı
 
-Hisar Çamlığı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak yaklaşık 140 hektarlık bir alanı kaplıyor. Hisar Çamlığı, doğaseverler ve gezi tutkunları için bir cennet olarak biliniyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Hisar Çamlığı, aynı zamanda geniş yürüyüş yolları ve piknik alanlarıyla aileler ve arkadaş grupları için ideal bir gezi noktası olarak dikkat çekiyor.
+ Hisar Çamlığı, doğaseverler ve gezi tutkunları için bir cennet olarak biliniyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Hisar Çamlığı, aynı zamanda geniş yürüyüş yolları ve piknik alanlarıyla aileler ve arkadaş grupları için ideal bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Hisar Çamlığı, yılın her dönemi ziyaret edilebilecek bir gezi noktası ol
 
 ## İlginç Bilgiler
 
-- Hisar Çamlığı, 140 hektarlık bir alanı kaplıyor
-- Bu doğal alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Hisar Çamlığı, İç Anadolu Bölgesi'nin güzide mekanlarından biri
 - Bu milli park, Türkiye'nin doğal zenginliklerini koruma ve tanıtmak amacıyla önemli bir rol üstleniyor
 - Hisar Çamlığı, yılın her dönemi ziyaret edilebilecek bir gezi noktası

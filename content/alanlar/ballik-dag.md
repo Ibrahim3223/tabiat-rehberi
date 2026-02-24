@@ -49,7 +49,7 @@ Ballık Dağ, ziyaretçilerine çeşitli olanaklar sunar. Ziyaretçiler, bu böl
 ## İlginç Bilgiler
 
 - Ballık Dağ, Konya ilinin coğrafi yapısına uygun olarak, bozkır ikliminin hakim olduğu bir bölgede yer alır.
-- Ballık Dağ, 140 hektarlık bir alanı kapsar.
+
 - Ballık Dağ'ın etrafında, çeşitli bitki türleri ve fauna bulunur.
 - Ballık Dağ, tarihi geçmişiyle dikkat çeker.
 - Ballık Dağ, ziyaretçilerine doğal güzellikleri ve tarihi geçmişiyle birlikte, çeşitli olanaklar sunar.

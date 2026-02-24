@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Yaban hayatı izleme",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Camili Efeler Ormani","caption":"Camili Efeler Ormani","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Camili%20Efeler%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227237","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Camili Efeler Ormani, 140 hektarlık geniş bir alanı kapsar. Zengin flora ve fauna çeşitliliği ile dikkat çeker."
+ Zengin flora ve fauna çeşitliliği ile dikkat çeker."
 keywords: ["Camili Efeler Ormani","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227237"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227237"
 
 # Camili Efeler Ormani
 
-Camili Efeler Ormani, İç Anadolu Bölgesi'nde yer alan 140 hektarlık geniş bir alanı kapsar. Zengin flora ve fauna çeşitliliği ile dikkat çeken bu milli park, aynı zamanda turizm açısından da önemli bir noktada yer alır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Camili Efeler Ormani, ziyaretçilerine doğayla iç içe bir deneyim sunar. Ormanlık alanların yanı sıra, çeşitli bitki türleri de bu bölgeyi süsler. Camili Efeler Ormani, yaban hayatının çeşitliliğini korumak amacıyla kurulmuş bir milli parktır.
+ Zengin flora ve fauna çeşitliliği ile dikkat çeken bu milli park, aynı zamanda turizm açısından da önemli bir noktada yer alır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Camili Efeler Ormani, ziyaretçilerine doğayla iç içe bir deneyim sunar. Ormanlık alanların yanı sıra, çeşitli bitki türleri de bu bölgeyi süsler. Camili Efeler Ormani, yaban hayatının çeşitliliğini korumak amacıyla kurulmuş bir milli parktır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Camili Efeler Ormani, ziyaretçilerine doğanın güzelliğini sunarken, aynı z
 
 ## İlginç Bilgiler
 
-- Camili Efeler Ormani, 140 hektarlık geniş bir alanı kapsar.
 - Bu milli park, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir destinasyondur.
 - Camili Efeler Ormani, yaban hayatının çeşitliliğini korumak amacıyla kurulmuş bir milli parktır.
 - Bu bölgede, zengin flora ve fauna çeşitliliği dikkat çeker.

@@ -48,8 +48,6 @@ Tanrıdağı Tepe, ziyaretçilerin ilgisini çekmek için birçok aktivite sunuy
 
 ## İlginç Bilgiler
 
-- Tanrıdağı Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, 200 futbol sahası büyüklüğünde.
 - Tanrıdağı Tepe, özellikle Osmanlı ve Roma dönemlerinde önemli bir merkez olarak kabul edilmiş.
 - Bu bölge, tarihi kalıntıların yanı sıra yöre halkının geleneksel yaşantısına da tanık olma mümkün.
 - Tanrıdağı Tepe, zengin bir flora ve fauna çeşitliliğine sahip.

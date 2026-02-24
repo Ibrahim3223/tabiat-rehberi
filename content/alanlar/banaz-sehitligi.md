@@ -37,7 +37,7 @@ Banaz Şehitliği'nin lchçe geçmişi, Uşak'ın tarihine uzanan önemli bir b�
 
 ## Coğrafya
 
-Banaz Şehitliği, Uşak'ın Banaz ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölge, 140 hektarlık geniş bir yeşil alan olarak dikkat çekiyor. Coğrafi olarak Uşak'ın merkezi ve diğer ilçelerine yakın olan Banaz Şehitliği, ulaşımın kolay olduğu bir konumda bulunuyor. Bu şehitlik, Ege Bölgesi'nin iklim koşullarına uygun olarak, genellikle ılıman ve yağışlı bir hava ile ziyaretçilerini karşılıyor. Çevre olarak, Banaz Şehitliği'nin bulunduğu bölge, Uşak'ın diğer doğal güzelliklerine ve tarihî mekanlarına yakınlığı ile dikkat çekiyor. Bu özel coğrafi konum, ziyaretçilere geniş bir gezi alanı sunuyor.
+Banaz Şehitliği, Uşak'ın Banaz ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Coğrafi olarak Uşak'ın merkezi ve diğer ilçelerine yakın olan Banaz Şehitliği, ulaşımın kolay olduğu bir konumda bulunuyor. Bu şehitlik, Ege Bölgesi'nin iklim koşullarına uygun olarak, genellikle ılıman ve yağışlı bir hava ile ziyaretçilerini karşılıyor. Çevre olarak, Banaz Şehitliği'nin bulunduğu bölge, Uşak'ın diğer doğal güzelliklerine ve tarihî mekanlarına yakınlığı ile dikkat çekiyor. Bu özel coğrafi konum, ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Banaz Şehitliği'ni ziyaret etmek, hem tarih severler hem de doğaşığı olan
 ## İlginç Bilgiler
 
 - Banaz Şehitliği, Uşak'ın tarihine uzanan önemli bir bölümü olarak dikkat çekiyor
-- 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor
+
 - Ege Bölgesi'nin coğrafi güzelliklerini sunuyor
 - Uşak'ın diğer doğal güzelliklerine ve tarihî mekanlarına yakınlığı ile dikkat çekiyor
 - Zengin bir flora ve fauna ile dikkat çekiyor

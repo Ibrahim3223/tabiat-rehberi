@@ -20,8 +20,8 @@ aktiviteler: ["doğa yürüyüşleri","manzara izleme","bitki ve fauna gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Çalıbalı Tepe","caption":"Çalıbalı Tepe","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1bal%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828051","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide şehirlerinden İzmir'de bulunan Çalıbalı Tepe, ziyaretçiler için bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Çalıbalı Tepe","İzmir","Ege Bölgesi","doğa","yeşil alan","futbol sahası"]
+description: "Ege Bölgesi'nin güzide şehirlerinden İzmir'de bulunan Çalıbalı Tepe, ziyaretçiler için bir doğa harikasıdır."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828051"
 ---
@@ -36,11 +36,11 @@ wikidata_id: "Q34828051"
 
 ## Coğrafya
 
-Çalıbalı Tepe, İzmir'in coğrafi yapısı içinde önemli bir yer tutuyor. 140 hektarlık bu yeşil alan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepe, bölgenin iklimine uygun olarak şekillenmiş ve çeşitli bitki türleri ile zengin fauna barındırıyor. Çalıbalı Tepe'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve Ege Denizi'ne olan yakınlığı ile dikkat çekiyor. Bu coğrafi yapı, ziyaretçilere doğa yürüyüşleri ve keşifler için ideal bir ortam sağlıyor.
+Çalıbalı Tepe, İzmir'in coğrafi yapısı içinde önemli bir yer tutuyor. Tepe, bölgenin iklimine uygun olarak şekillenmiş ve çeşitli bitki türleri ile zengin fauna barındırıyor. Çalıbalı Tepe'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve Ege Denizi'ne olan yakınlığı ile dikkat çekiyor. Bu coğrafi yapı, ziyaretçilere doğa yürüyüşleri ve keşifler için ideal bir ortam sağlıyor.
 
 ## Flora ve Fauna
 
-Çalıbalı Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu 140 hektarlık alan, mevsimsel değişimlere göre farklı canlılara ev sahipliği yapıyor. Tepe ve çevresinde, bölgenin karakteristik bitki türleri yetişiyor ve bu bitkiler, tepe'nin doğal güzelliğini artırıyor. Çalıbalı Tepe'nin fauna zenginliği, bölgenin ekolojik dengesini koruma altına almak için önemli bir role sahip.
+Çalıbalı Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepe ve çevresinde, bölgenin karakteristik bitki türleri yetişiyor ve bu bitkiler, tepe'nin doğal güzelliğini artırıyor. Çalıbalı Tepe'nin fauna zenginliği, bölgenin ekolojik dengesini koruma altına almak için önemli bir role sahip.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ wikidata_id: "Q34828051"
 ## İlginç Bilgiler
 
 - Çalıbalı Tepe, Ege Bölgesi'nin güzide şehirlerinden İzmir'de bulunuyor.
-- Tepe, 140 hektarlık bir yeşil alana sahip.
 
 - Tepe ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Çalıbalı Tepe, yılın her dönemi ziyaret edilebilir.

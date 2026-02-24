@@ -30,7 +30,7 @@ wikidata_id: "Q131390658"
 
 # Şeyh Abdurrahman Çelebi Türbesi
 
-Şeyh Abdurrahman Çelebi Türbesi, Karadeniz Bölgesi'nde bulunan Amasya ilinin merkezinde yer alan bir türbedir. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir yeşil alan sunar. 200 futbol sahası büyüklüğünde olan bu alan, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Şeyh Abdurrahman Çelebi Türbesi, Amasya'nın önemli turistik noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Türbenin etrafında, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği çeşitli alanlar bulunur.
+Şeyh Abdurrahman Çelebi Türbesi, Karadeniz Bölgesi'nde bulunan Amasya ilinin merkezinde yer alan bir türbedir. Şeyh Abdurrahman Çelebi Türbesi, Amasya'nın önemli turistik noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Türbenin etrafında, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği çeşitli alanlar bulunur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390658"
 
 ## Coğrafya
 
-Şeyh Abdurrahman Çelebi Türbesi, Amasya ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplar ve ziyaretçilerine geniş bir açık alan sunar. Bu alan, 200 futbol sahası büyüklüğünde olup, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Karadeniz Bölgesi'nin karakteristik iklimi, türbenin bulunduğu alanda da hüküm sürer. İlkbahar ve yaz aylarında, türbenin etrafındaki yeşil alanlar, renkli çiçekler ve çeşitli bitkilerle dolu olur. Kış aylarında ise, Karadeniz Bölgesi'nin yağışlı iklimi, türbenin bulunduğu alanı yeşillendirir. Şeyh Abdurrahman Çelebi Türbesi, coğrafi konumu itibariyle, ziyaretçilerine doğayı keşfetme fırsatı sunar.
+Şeyh Abdurrahman Çelebi Türbesi, Amasya ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Karadeniz Bölgesi'nin karakteristik iklimi, türbenin bulunduğu alanda da hüküm sürer. İlkbahar ve yaz aylarında, türbenin etrafındaki yeşil alanlar, renkli çiçekler ve çeşitli bitkilerle dolu olur. Kış aylarında ise, Karadeniz Bölgesi'nin yağışlı iklimi, türbenin bulunduğu alanı yeşillendirir. Şeyh Abdurrahman Çelebi Türbesi, coğrafi konumu itibariyle, ziyaretçilerine doğayı keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390658"
 ## İlginç Bilgiler
 
 - Şeyh Abdurrahman Çelebi Türbesi, Amasya ilinin en önemli turistik noktalarından biridir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplar.
+
 - Türbe, Osmanlı İmparatorluğu döneminde inşa edilmiştir.
 - Şeyh Abdurrahman Çelebi Türbesi, Karadeniz Bölgesi'nin karakteristik flora ve faunasını taşır.
 - Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur.

@@ -45,11 +45,10 @@ Kömür Tepe, çeşitli bitki türleri ve zengin fauna ile dolu bir bölgedir. B
 
 ## Ziyaret Bilgileri
 
-Kömür Tepe, ziyaretçilerini, tarih ve doğa ile baş başa bırakmak isteyen herkes için ideal bir destinasyondur. Bu bölge, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar. Kömür Tepe'ye nasıl gidilir? Kömür Tepe, Adıyaman'da yer alıyor ve bu bölgeye, çeşitli ulaşım seçenekleri ile erişme mümkün. Ziyaretçiler, bu bölgeye, kendi araçları ile veya toplu taşıma araçları ile gelebilirler. Kömür Tepe, ziyaretçilerini, ne zaman ziyaret edebilir? Kömür Tepe, yılın her döneminde ziyaret edilebilir, ancak en iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır.
+Kömür Tepe, ziyaretçilerini, tarih ve doğa ile baş başa bırakmak isteyen herkes için ideal bir destinasyondur. Kömür Tepe'ye nasıl gidilir? Kömür Tepe, Adıyaman'da yer alıyor ve bu bölgeye, çeşitli ulaşım seçenekleri ile erişme mümkün. Ziyaretçiler, bu bölgeye, kendi araçları ile veya toplu taşıma araçları ile gelebilirler. Kömür Tepe, ziyaretçilerini, ne zaman ziyaret edebilir? Kömür Tepe, yılın her döneminde ziyaret edilebilir, ancak en iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır.
 
 ## İlginç Bilgiler
 
-- Kömür Tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Kömür Tepe, tarih ve doğa ile baş başa bırakmak isteyen herkes için ideal bir destinasyon.
 - Bu bölge, ekolojik açıdan da önemli bir bölgedir.

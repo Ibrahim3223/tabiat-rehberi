@@ -36,7 +36,7 @@ Kırklareli'nin eşsiz güzelliklerinden biri olan Çengerli Tepe, Marmara Bölg
 
 ## Coğrafya
 
-Çengerli Tepe, Marmara Bölgesi'nin coğrafi yapısının önemli bir parçasıdır. Bu tepe, Kırklareli ilinin sınırında yer almakta ve bölgenin coğrafi çeşitliliğini göstermektedir. Tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu geniş alan, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Coğrafi konumu itibariyle, tepe hem karasal hem de denizel iklimin etkilerini taşır. Bu durum, tepe ve çevresinin iklimini etkileyerek zengin bir flora ve fauna oluşumuna katkıda bulunur. Çengerli Tepe'nin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de bölge hakkında coğrafi bilgi edinme fırsatı sunar. Tepe, etrafındaki diğer doğal güzelliklerle birlikte, Marmara Bölgesi'nin önemli bir turizm noktası olarak kabul edilmektedir.
+Çengerli Tepe, Marmara Bölgesi'nin coğrafi yapısının önemli bir parçasıdır. Bu tepe, Kırklareli ilinin sınırında yer almakta ve bölgenin coğrafi çeşitliliğini göstermektedir. Coğrafi konumu itibariyle, tepe hem karasal hem de denizel iklimin etkilerini taşır. Bu durum, tepe ve çevresinin iklimini etkileyerek zengin bir flora ve fauna oluşumuna katkıda bulunur. Çengerli Tepe'nin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de bölge hakkında coğrafi bilgi edinme fırsatı sunar. Tepe, etrafındaki diğer doğal güzelliklerle birlikte, Marmara Bölgesi'nin önemli bir turizm noktası olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kırklareli'nin eşsiz güzelliklerinden biri olan Çengerli Tepe, Marmara Bölg
 ## İlginç Bilgiler
 
 - Çengerli Tepe, Marmara Bölgesi'nin önemli bir turizm noktasıdır.
-- Tepe, 140 hektarlık bir alanı kapsar.
+
 - Çengerli Tepe, zengin bir flora ve faunaya sahiptir.
 - Tepe, yılın her mevsiminde ziyaret edilebilir.
 - İlkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.

@@ -49,7 +49,7 @@ Harmankaya Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanl
 ## İlginç Bilgiler
 
 - Harmankaya Tepesi, Hatay ilinin önemli doğal alanlarından biridir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Harmankaya Tepesi, Hatay'ın coğrafi yapısını anlamak için önemli bir noktadır.
 - Tepe ve çevresinin tarihi geçmişi, bölgenin genel tarihine paralel olarak şekillenmiştir.

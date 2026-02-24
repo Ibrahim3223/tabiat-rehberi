@@ -37,7 +37,7 @@ Gazi Atik Ali Paşa Türbesi, tarihi geçmişi ile dikkat çekiyor. Türbenin in
 
 ## Coğrafya
 
-Gazi Atik Ali Paşa Türbesi, Karadeniz Bölgesi'nin Amasya ilinde yer alıyor. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevre tarafından yeşilliklerle çevrili. Türbenin mimari yapısı, çevresindeki doğa ile uyum içinde ve ziyaretçilerini doğanın güzelliği ile karşılıyor. Amasya'nın iklimi, türbenin ziyaretçileri için uygun koşullar sunuyor. İlkbahar ve sonbahar ayları, türbenin ziyaret edilmesi için en uygun zamanlar. Türbenin konumu, Amasya'nın merkezi ile yakın mesafede ve ulaşımı kolay. Türbe, Amasya'nın tarihini, kültürünü ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
+Gazi Atik Ali Paşa Türbesi, Karadeniz Bölgesi'nin Amasya ilinde yer alıyor. Türbenin mimari yapısı, çevresindeki doğa ile uyum içinde ve ziyaretçilerini doğanın güzelliği ile karşılıyor. Amasya'nın iklimi, türbenin ziyaretçileri için uygun koşullar sunuyor. İlkbahar ve sonbahar ayları, türbenin ziyaret edilmesi için en uygun zamanlar. Türbenin konumu, Amasya'nın merkezi ile yakın mesafede ve ulaşımı kolay. Türbe, Amasya'nın tarihini, kültürünü ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

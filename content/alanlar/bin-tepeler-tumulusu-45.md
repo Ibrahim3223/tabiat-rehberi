@@ -29,7 +29,7 @@ wikidata_id: "Q134728333"
 
 # Bin Tepeler Tümülüsü 45
 
-Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak kabul ediliyor. Salihli'nin merkezine uzun bir mesafe uzaklıkta bulunan bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Bin Tepeler Tümülüsü 45, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak kabul ediliyor. Bin Tepeler Tümülüsü 45, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 45, tarihin derinliklerine uzanan bir geçmişe sahip. 
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin coğrafi güzelliklerini sergileyen bir alan olarak kabul ediliyor. Bu tarihi alan, doğal güzellikleriyle ziyaretçilerini çekiyor. Yaklaşık 140 hektarlık bir alanı kapsayan Bin Tepeler Tümülüsü 45, ziyaretçilere geniş bir doğal güzellik yelpazesi sunuyor. Bu alan, Ege Bölgesi'nin ikliminin etkilerini taşıyor ve ziyaretçilere, bölgenin coğrafi özelliklerini keşfetme fırsatı sunuyor. Bin Tepeler Tümülüsü 45, ziyaretçilerini doğanın güzelliklerine ve tarihin derinliklerine götürerek, Ege Bölgesi'nin coğrafi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin coğrafi güzelliklerini sergileyen bir alan olarak kabul ediliyor. Bu tarihi alan, doğal güzellikleriyle ziyaretçilerini çekiyor. Bu alan, Ege Bölgesi'nin ikliminin etkilerini taşıyor ve ziyaretçilere, bölgenin coğrafi özelliklerini keşfetme fırsatı sunuyor. Bin Tepeler Tümülüsü 45, ziyaretçilerini doğanın güzelliklerine ve tarihin derinliklerine götürerek, Ege Bölgesi'nin coğrafi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 45, ziyaretçilerini bekliyor. Bu tarihi alan, ziyaret�
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri.
-- Bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bin Tepeler Tümülüsü 45, ziyaretçilerine tarihin derinliklerine götürerek, Ege Bölgesi'nin kültürel mirasını keşfetme fırsatı sunuyor.
 - Bu alan, Ege Bölgesi'nin flora ve faunasının örneklerini sergiliyor.
 - Bin Tepeler Tümülüsü 45, ziyaretçilerine, çeşitli etkinlikler ve gezi fırsatları sunuyor.

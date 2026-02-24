@@ -37,7 +37,7 @@ Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin tarihi geçmişi, Karadeniz Böl
 
 ## Coğrafya
 
-Eş Şeyh Aliyyü-l Müslahiddin Hazretleri, Düzce'nin Çilimli ilçesinde yer alan bir plajdır. Bu plaj, Karadeniz Bölgesi'nin güzelliği ile çevrelenmiş olup, yaklaşık 140 hektarlık bir alanı kaplar. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin coğrafyası, Karadeniz'in serin suları ve yeşilliklerle dolu bir manzarayla çevrilidir. Bu doğal güzelliğin coğrafyası, ziyaretçilerini Karadeniz'in güzelliği ile baş başa bırakıyor. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin iklimi, Karadeniz Bölgesi'nin ılıman iklimi ile karakterizedir. Bu ılıman iklim, ziyaretçilerin yılın her döneminde burayı ziyaret etmesini sağlar. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin coğrafyası, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor.
+Eş Şeyh Aliyyü-l Müslahiddin Hazretleri, Düzce'nin Çilimli ilçesinde yer alan bir plajdır. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin coğrafyası, Karadeniz'in serin suları ve yeşilliklerle dolu bir manzarayla çevrilidir. Bu doğal güzelliğin coğrafyası, ziyaretçilerini Karadeniz'in güzelliği ile baş başa bırakıyor. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin iklimi, Karadeniz Bölgesi'nin ılıman iklimi ile karakterizedir. Bu ılıman iklim, ziyaretçilerin yılın her döneminde burayı ziyaret etmesini sağlar. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin coğrafyası, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

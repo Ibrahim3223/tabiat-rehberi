@@ -28,7 +28,7 @@ wikidata_id: "Q31535256"
 
 # Tayutlukaya Tepesi
 
-Hatay'ın güzide bir bölgesinde yer alan Tayutlukaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Tayutlukaya Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutan önemli bir noktada yer alıyor. Tepenin etrafında historical değer taşıyan bazı eserler ve kalıntılar da bulunuyor. Bu nedenle, hem doğa hem de tarih meraklıları için Tayutlukaya Tepesi, ziyaret edilecek önemli bir destinasyon olarak öne çıkıyor.
+ Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Tayutlukaya Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutan önemli bir noktada yer alıyor. Tepenin etrafında historical değer taşıyan bazı eserler ve kalıntılar da bulunuyor. Bu nedenle, hem doğa hem de tarih meraklıları için Tayutlukaya Tepesi, ziyaret edilecek önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

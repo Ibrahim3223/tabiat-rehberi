@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotografc�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Kazancıkdağı Tepesi","caption":"Kazancıkdağı Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazanc%C4%B1kda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390923","tip":"genel"}]
-description: "Kayseri'nin görkemli doğal alanı, 140 hektarlık yeşil alan"
+
 keywords: ["Kazancıkdağı Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390923"
@@ -36,7 +36,7 @@ Kazancıkdağı Tepesi'nin geçmişi, yüzyıllar boyunca şekillenmiş. Bu böl
 
 ## Coğrafya
 
-Kazancıkdağı Tepesi, Kayseri'nin coğrafi yapısında önemli bir yer tutuyor. 140 hektarlık bu alan, geniş ve verimli bir ova tarafından çevrili. Tepenin yüksekliği, çevreyle birlikte değişkenlik gösteriyor. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, karasal iklim özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı. Çevre, çeşitli bitki türleri ve zengin fauna ile dolu. Kazancıkdağı Tepesi, coğrafi açıdan dikkat çekici bir yer. Tepenin etrafında, farklı yüksekliklerde ve eğimlerde birçok yürüyüş yolu bulunmakta. Bu yollar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Kazancıkdağı Tepesi, Kayseri'nin coğrafi yapısında önemli bir yer tutuyor. Tepenin yüksekliği, çevreyle birlikte değişkenlik gösteriyor. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, karasal iklim özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı. Çevre, çeşitli bitki türleri ve zengin fauna ile dolu. Kazancıkdağı Tepesi, coğrafi açıdan dikkat çekici bir yer. Tepenin etrafında, farklı yüksekliklerde ve eğimlerde birçok yürüyüş yolu bulunmakta. Bu yollar, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kazancıkdağı Tepesi'ni ziyaret etmek, doğa severler için mükemmel bir terc
 
 ## İlginç Bilgiler
 
-- Kazancıkdağı Tepesi, 140 hektarlık bir yeşil alan
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Kazancıkdağı Tepesi, trekking ve doğa yürüyüşü için ideal bir yer
 - Tepenin eteklerinde, eski yerleşim yerlerinin kalıntıları bulunmakta

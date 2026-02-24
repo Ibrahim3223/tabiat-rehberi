@@ -28,7 +28,7 @@ wikidata_id: "Q31388249"
 
 # Ziyaret Tepesi (Kars, 40.45 Kuzey)
 
-Ziyaret Tepesi, Kars ilinin kuzeyinde yer alan, 40.45 kuzey enleminde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri olarak biliniyor. Tepe, şehir merkezine uzun bir mesafe uzaklıkta bulunuyor. Ziyaret Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta.
+Ziyaret Tepesi, Kars ilinin kuzeyinde yer alan, 40.45 kuzey enleminde bulunan bir tepe. Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri olarak biliniyor. Tepe, şehir merkezine uzun bir mesafe uzaklıkta bulunuyor. Ziyaret Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ziyaret Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin hü
 
 ## Coğrafya
 
-Ziyaret Tepesi, Kars ilinin kuzeyinde yer alan, 40.45 kuzey enleminde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaret Tepesi, city merkezine uzun bir mesafe uzaklıkta bulunuyor. Tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri olarak biliniyor. Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta. Ziyaret Tepesi'nin coğrafi yapısı, dağlık bir bölge. Bu bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ziyaret Tepesi, Kars'ın önemli bir coğrafi özelliği.
+Ziyaret Tepesi, Kars ilinin kuzeyinde yer alan, 40.45 kuzey enleminde bulunan bir tepe. Ziyaret Tepesi, city merkezine uzun bir mesafe uzaklıkta bulunuyor. Tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri olarak biliniyor. Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta. Ziyaret Tepesi'nin coğrafi yapısı, dağlık bir bölge. Bu bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ziyaret Tepesi, Kars'ın önemli bir coğrafi özelliği.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ziyaret Tepesi'ne, Kars şehir merkezinden uzun bir mesafe uzaklıkta bulunuyor.
 ## İlginç Bilgiler
 
 - Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Ziyaret Tepesi, Kars şehir merkezine uzun bir mesafe uzaklıkta bulunuyor.
 - Ziyaret Tepesi, birçok tarihi ve kültürel yapıya ev sahipliği yapıyor.
 - Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta.

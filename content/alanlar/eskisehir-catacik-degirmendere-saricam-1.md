@@ -30,7 +30,7 @@ Eskişehir-Catacik-Degirmendere Saricam 1 milli parkının tarihi geçmişi, yü
 
 ## Coğrafya
 
-Eskişehir-Catacik-Degirmendere Saricam 1 milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Parkın etrafı, geniş otlaklarla kaplıdır ve çeşitli bitki türleri ile karşılaşma mümkündür. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin jeolojik yapısını da gözler önüne sermektedir. 140 hektarlık bu yeşil alan, yer tepeli ve yer düzlük arazilerle kaplıdır ve ziyaretçilerini keşfe davet etmektedir.
+Eskişehir-Catacik-Degirmendere Saricam 1 milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Parkın etrafı, geniş otlaklarla kaplıdır ve çeşitli bitki türleri ile karşılaşma mümkündür. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin jeolojik yapısını da gözler önüne sermektedir.
 
 ## Flora ve Fauna
 

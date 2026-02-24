@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Metris Tepesi","caption":"Metris Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/A_Majestic_Wonder_of_Nature_-_Mount_Everest.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A_Majestic_Wonder_of_Nature_-_Mount_Everest.jpg/1280px-A_Majestic_Wonder_of_Nature_-_Mount_Everest.jpg","alt":"Metris Tepesi - A Majestic Wonder of Nature - Mount Everest","credit":"Sunuwargr","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Sunset_view_of_Everest.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sunset_view_of_Everest.jpg/1280px-Sunset_view_of_Everest.jpg","alt":"Metris Tepesi - Sunset view of Everest","credit":"Nir B. Gurung","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/Everest-3D-Map-Type-EN.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Everest-3D-Map-Type-EN.jpg/1280px-Everest-3D-Map-Type-EN.jpg","alt":"Metris Tepesi - Everest-3D-Map-Type-EN","credit":"Tom Patterson","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/37/Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg/1280px-Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg","alt":"Metris Tepesi - Close Up View of Mount Everest from Kala Patthar (5644 m) in 2023-IMG-3485","credit":"Bijay Chaurasia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/Everest%2C_Himalayas.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Everest%2C_Himalayas.jpg/1280px-Everest%2C_Himalayas.jpg","alt":"Metris Tepesi - Everest, Himalayas","credit":"Vyacheslav Argenberg","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Metris%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388571","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Metris Tepesi, 140 hektarlık bir alanı kaplıyor. Doğu Anadolu Bölgesi'nin önemli doğal alanlarından biri."
+ Doğu Anadolu Bölgesi'nin önemli doğal alanlarından biri."
 keywords: ["Metris Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal alan","tepe","gezi","turizm","coğrafya","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388571"
@@ -29,7 +29,7 @@ wikidata_id: "Q31388571"
 
 # Metris Tepesi
 
-Metris Tepesi, Erzurum'un doğusunda yer alan 140 hektarlık bir alanı kaplayan önemli bir doğal alandır. Metris Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Bu tepe, doğal güzelliği ve zengin flora ve faunası ile dikkat çekiyor. Metris Tepesi'ni ziyaret edenler, bölgenin benzersiz manzaralarına tanık olabilir ve doğa ile iç içe bir gün geçirebilirler. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+ Metris Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Bu tepe, doğal güzelliği ve zengin flora ve faunası ile dikkat çekiyor. Metris Tepesi'ni ziyaret edenler, bölgenin benzersiz manzaralarına tanık olabilir ve doğa ile iç içe bir gün geçirebilirler.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul edi
 Metris Tepesi'ni ziyaret etmek, doğa ile iç içe bir gün geçirmek isteyenler için ideal bir destinasyon olarak kabul ediliyor. Bu tepe, trekking, kamp ve doğa yürüyüşü gibi faaliyetler için uygun bir bölge olarak kabul ediliyor. Ziyaretçiler, Metris Tepesi'ni ziyaret ettiklerinde, bölgenin zengin flora ve faunasını keşfetme fırsatı bulabilirler. Metris Tepesi'ne ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabilir. Bu tepe, yılın her dönemi ziyaret edilebilir, ancak en uygun zaman, ilkbahar ve yaz ayları olarak kabul ediliyor.
 
 ## İlginç Bilgiler
-
-- Metris Tepesi, 140 hektarlık bir alanı kaplıyor.
 
 - Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul ediliyor.
 - Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.

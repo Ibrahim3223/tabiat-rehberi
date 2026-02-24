@@ -30,7 +30,7 @@ wikidata_id: "Q121423053"
 
 # Aya Dede Türbesi
 
-Aya Dede Türbesi, İç Anadolu Bölgesi'nde, Yavuz Sultan Selim ve Fatih ilçeleri arasında yer alan bir tarihi ve doğal güzellik alanıdır. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, çeşitli değil, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Aya Dede Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir yer olarak ziyaretçilerini beklemektedir. 200 futbol sahası büyüklüğünde bir alan kaplayan bu yeşil cennet, ziyaretçilerine huzurlu bir ortam sunmaktadır.
+Aya Dede Türbesi, İç Anadolu Bölgesi'nde, Yavuz Sultan Selim ve Fatih ilçeleri arasında yer alan bir tarihi ve doğal güzellik alanıdır. Aya Dede Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir yer olarak ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Aya Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve gü
 
 ## Coğrafya
 
-Aya Dede Türbesi, İç Anadolu Bölgesi'nde, Yavuz Sultan Selim ve Fatih ilçeleri arasında yer alan bir tarihi ve doğal güzellik alanıdır. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Aya Dede Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir yer olarak ziyaretçilerini beklemektedir. Bu yeşil cennet, ziyaretçilerine huzurlu bir ortam sunmaktadır. Aya Dede Türbesi'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezi bir yerinde yer almaktadır. Bu mekan, doğal güzellikleri ile dikkat çekmekte ve ziyaretçilerine geniş bir yeşil alan sunmaktadır.
+Aya Dede Türbesi, İç Anadolu Bölgesi'nde, Yavuz Sultan Selim ve Fatih ilçeleri arasında yer alan bir tarihi ve doğal güzellik alanıdır. Aya Dede Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir yer olarak ziyaretçilerini beklemektedir. Bu yeşil cennet, ziyaretçilerine huzurlu bir ortam sunmaktadır. Aya Dede Türbesi'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezi bir yerinde yer almaktadır. Bu mekan, doğal güzellikleri ile dikkat çekmekte ve ziyaretçilerine geniş bir yeşil alan sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -46,12 +46,12 @@ Aya Dede Türbesi, zengin flora ve fauna ile dikkat çeken bir doğal güzellik 
 
 ## Ziyaret Bilgileri
 
-Aya Dede Türbesi'ni ziyaret etmek, ziyaretçilerine zengin bir kültürel ve doğal deneyim sunmaktadır. Bu mekan, hem tarihi hem de doğal güzelliklerinin birleştiği bir yer olarak ziyaretçilerini beklemektedir. Aya Dede Türbesi'ni ziyaret etmek için, ziyaretçiler Yavuz Sultan Selim ve Fatih ilçeleri arasındaki yolu takip edebilirler. Bu mekan, 200 futbol sahası büyüklüğünde bir alanı kaplayan geniş bir yeşil alan sunmaktadır. Aya Dede Türbesi'ni ziyaret etmek, ziyaretçilerine huzurlu bir ortam sunmaktadır.
+Aya Dede Türbesi'ni ziyaret etmek, ziyaretçilerine zengin bir kültürel ve doğal deneyim sunmaktadır. Bu mekan, hem tarihi hem de doğal güzelliklerinin birleştiği bir yer olarak ziyaretçilerini beklemektedir. Aya Dede Türbesi'ni ziyaret etmek için, ziyaretçiler Yavuz Sultan Selim ve Fatih ilçeleri arasındaki yolu takip edebilirler. Aya Dede Türbesi'ni ziyaret etmek, ziyaretçilerine huzurlu bir ortam sunmaktadır.
 
 ## İlginç Bilgiler
 
 - Aya Dede Türbesi, İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biridir.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunmaktadır.
+
 - Aya Dede Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu mekan, ziyaretçilerine huzurlu bir ortam sunmaktadır.
 - Aya Dede Türbesi, yüzyıllar boyunca önemli bir role sahip olmuştur.

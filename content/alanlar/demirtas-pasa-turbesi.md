@@ -29,7 +29,7 @@ wikidata_id: "Q131391247"
 
 # Demirtaş Paşa Türbesi
 
-Demirtaş Paşa Türbesi, Eskişehir'in Seyitgazi ilçesinde bulunan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alanda yer almakta ve tarihi geçmişi ile dikkat çekmektedir. 200 futbol sahası büyüklüğünde bir alana sahip olan Demirtaş Paşa Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle dolu bir yolculuğa çıkarmaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Demirtaş Paşa Türbesi, Eskişehir'in Seyitgazi ilçesinde bulunan tarihi bir yapıdır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Demirtaş Paşa Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Demirtaş Paşa Türbesi, Eskişehir'in Seyitgazi ilçesinde yer almaktadır. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve tarihi geçmişi ile dikkat çekmektedir. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Coğrafi konumu itibariyle, türbe ziyaretçilerine tarihi ve kültürel zenginliklerin yanı sıra doğal güzellikleri de keşfetme fırsatı sunmaktadır. Demirtaş Paşa Türbesi, Eskişehir'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin coğrafi konumu, ziyaretçilerine Seyitgazi'nin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunmaktadır.
+Demirtaş Paşa Türbesi, Eskişehir'in Seyitgazi ilçesinde yer almaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Coğrafi konumu itibariyle, türbe ziyaretçilerine tarihi ve kültürel zenginliklerin yanı sıra doğal güzellikleri de keşfetme fırsatı sunmaktadır. Demirtaş Paşa Türbesi, Eskişehir'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin coğrafi konumu, ziyaretçilerine Seyitgazi'nin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 
-Demirtaş Paşa Türbesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve tarihi geçmişi ile dikkat çekmektedir. Türbenin etrafındaki bitkiler, mevsimsel değişimlere göre farklılık göstermektedir. İlkbahar ve yaz aylarında, türbenin etrafı yeşillenmektedir. Sonbahar ve kış aylarında ise, bitkiler renk değiştirmektedir. Demirtaş Paşa Türbesi, ziyaretçilerine tarihi ve kültürel zenginliklerin yanı sıra doğal güzellikleri de keşfetme fırsatı sunmaktadır.
+Demirtaş Paşa Türbesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Türbenin etrafındaki bitkiler, mevsimsel değişimlere göre farklılık göstermektedir. İlkbahar ve yaz aylarında, türbenin etrafı yeşillenmektedir. Sonbahar ve kış aylarında ise, bitkiler renk değiştirmektedir. Demirtaş Paşa Türbesi, ziyaretçilerine tarihi ve kültürel zenginliklerin yanı sıra doğal güzellikleri de keşfetme fırsatı sunmaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Demirtaş Paşa Türbesi'ni ziyaret etmek, tarihi ve kültürel zenginliklerini 
 ## İlginç Bilgiler
 
 - Demirtaş Paşa Türbesi, Eskişehir'in Seyitgazi ilçesinde yer almaktadır
-- Türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur
+
 - Demirtaş Paşa Türbesi, tarihi ve kültürel zenginliklerini keşfetme fırsatı sunmaktadır
 - Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır
 - Demirtaş Paşa Türbesi, Eskişehir'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","keşif gezisi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Mersin-Mut Kestel Dagi","caption":"Mersin-Mut Kestel Dagi","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Kestel%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227082","tip":"genel"}]
-description: "Mersin'in doğal güzellikleri arasında yer alan Kestel Dağı, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Mersin","Kestel Dağı","doğal güzellik","yeşil alan","turizm","gezi","Mersin-Mut"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227082"
@@ -30,7 +30,7 @@ Mersin-Mut Kestel Dagi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Mersin-Mut Kestel Dagi, coğrafi olarak Akdeniz Bölgesi'nin güneydoğu kesiminde yer alıyor. Bu bölge, Toros Dağları'nın bir parçası olarak düşünülüyor. Kestel Dağı, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle birlikte, ziyaretçilerine doğal bir ortam sunuyor. Dağın yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunuyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Kestel Dağı, özellikle ilkbahar ve sonbahar aylarında ziyaretçilere güzel bir manzara sunuyor. Bölgenin coğrafi konumu, aynı zamanda çeşitli fauna türlerine de ev sahipliği yapıyor.
+Mersin-Mut Kestel Dagi, coğrafi olarak Akdeniz Bölgesi'nin güneydoğu kesiminde yer alıyor. Bu bölge, Toros Dağları'nın bir parçası olarak düşünülüyor. Dağın yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunuyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Kestel Dağı, özellikle ilkbahar ve sonbahar aylarında ziyaretçilere güzel bir manzara sunuyor. Bölgenin coğrafi konumu, aynı zamanda çeşitli fauna türlerine de ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Mut Kestel Dagi, yılın her döneminde ziyaret edilebiliyor. Ancak, en i
 
 ## İlginç Bilgiler
 
-- Kestel Dağı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında
 - Kestel Dağı, özellikle kızılçam, sedir ve meşe ağaçlarıyla ünlüdür
 - Bölgede, özellikle keçi, yaban domuzu ve çeşitli kuş türleri bulunuyor

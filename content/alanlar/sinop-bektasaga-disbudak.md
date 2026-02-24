@@ -42,7 +42,6 @@ Sinop-Bektasaga Disbudak milli parkını ziyaret etmek, doğa severler için bir
 
 ## İlginç Bilgiler
 
-- Sinop-Bektasaga Disbudak milli parkı, 140 hektarlık bir alana sahiptir.
 - Bölge, çeşitli bitki türleri ile zengin bir flora sunar.
 - Sinop-Bektasaga Disbudak, fauna açısından da zengin bir alandır.
 - Bu milli park, bölgenin ekolojik dengesini korumak için önemli bir rol oynar.

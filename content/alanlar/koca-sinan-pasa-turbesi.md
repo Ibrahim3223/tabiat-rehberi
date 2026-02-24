@@ -53,5 +53,5 @@ Koca Sinan Paşa Türbesi'ni ziyaret etmek, ziyaretçilere tarihi ve kültürel 
 - Koca Sinan Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi mekânlarından biri
 - Türbenin yapımı, Osmanlı Dönemi'nde gerçekleşmiştir
 - Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunmakta
-- Türbe, 140 hektarlık bir alana yayılmaktadır
+
 - Türbenin mimari yapısı, o dönemlerin özelliklerini yansıtmaktadır

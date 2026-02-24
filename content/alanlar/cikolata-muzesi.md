@@ -38,7 +38,7 @@ wikidata_id: "Q132949525"
 
 ## Coğrafya
 
-Çikolata Müzesi, İstanbul'un merkezinde, 140 hektarlık bir alanda kurulmuş. Müzenin çevresinde, çeşitli bitkiler ve ağaçlar bulunan bir yeşil alan mevcut. Müzenin içi, modern ve ferah bir tasarıma sahip. Çikolata Müzesi, ziyaretçilerine konforlu ve keyifli bir gezi deneyimi sunuyor.
+ Müzenin çevresinde, çeşitli bitkiler ve ağaçlar bulunan bir yeşil alan mevcut. Müzenin içi, modern ve ferah bir tasarıma sahip. Çikolata Müzesi, ziyaretçilerine konforlu ve keyifli bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,8 +50,6 @@ wikidata_id: "Q132949525"
 
 ## İlginç Bilgiler
 
-- Çikolata Müzesi, 140 hektarlık bir alanı kapsıyor
-- Çikolata Müzesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunuyor
 - Çikolata Müzesi, çikolata severlerin ve ailelerin keyif alacağı bir destinasyon
 - Çikolata Müzesi, çeşitli bitkiler ve ağaçlar barındırıyor
 - Çikolata Müzesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor

@@ -42,7 +42,6 @@ Karacam Milli Parkı'na ziyaretçiler, yılın dört mevsiminde gelebilir. İlkb
 
 ## İlginç Bilgiler
 
-- Karacam Milli Parkı, 140 hektarlık bir alanı kapsar.
 - Parkta, çeşitli bitki türleri ve ağaçlar bulunur.
 - Parkın etrafındaki ormanlar, yaban hayatının zengin çeşitliliğini barındırır.
 - Park, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir.

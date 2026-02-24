@@ -48,7 +48,6 @@ Abdulkadairdağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa 
 
 ## İlginç Bilgiler
 
-- Abdulkadairdağı Tepesi, yaklaşık olarak 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, Gaziantep'in merkezine yakındır
 - Abdulkadairdağı Tepesi, çeşitli bitki türlerini ve hayvanları barındırır
 - Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sunar

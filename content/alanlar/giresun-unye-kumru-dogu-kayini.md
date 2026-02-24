@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","kamp","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Giresun-Unye-Kumru Dogu Kayini","caption":"Giresun-Unye-Kumru Dogu Kayini","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Unye-Kumru%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227791","tip":"genel"}]
-description: "Karadeniz Bölgesi'nde yer alan bu milli park, 140 hektarlık bir alana yayılmaktadır."
+"
 keywords: ["Giresun","Unye","Kumru","Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227791"
@@ -30,7 +30,7 @@ Giresun-Unye-Kumru Dogu Kayini milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Giresun-Unye-Kumru Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu bölge, 140 hektarlık bir alana yayılmıştır. Milli park, yüksek bir konumda yer alır. Bu bölge, dağlık bir araziden oluşur ve çeşitli bitki türleri ile kaplıdır. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer. Bu bölge, yaz aylarında serin ve yağışlı, kış aylarında soğuk ve karlı bir iklimi sahiptir. Giresun-Unye-Kumru Dogu Kayini milli parkı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar. Bu bölge, yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir.
+Giresun-Unye-Kumru Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Milli park, yüksek bir konumda yer alır. Bu bölge, dağlık bir araziden oluşur ve çeşitli bitki türleri ile kaplıdır. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer. Bu bölge, yaz aylarında serin ve yağışlı, kış aylarında soğuk ve karlı bir iklimi sahiptir. Giresun-Unye-Kumru Dogu Kayini milli parkı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar. Bu bölge, yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Giresun-Unye-Kumru Dogu Kayini milli parkını ziyaret etmek, doğa severler iç
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana yayılmıştır.
 - Milli parkta, çeşitli bitki türleri bulunur.
 - Milli park, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar.
 - Milli park, yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir.

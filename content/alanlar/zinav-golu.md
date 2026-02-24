@@ -23,7 +23,7 @@ wikidata_id: "Q108228264"
 
 # Zinav Gölü
 
-İç Anadolu Bölgesi'nin güzide bir noktasında yer alan Zinav Gölü, yaklaşık 140 hektarlık alanı ile önemli bir doğal bölge olarak dikkat çekiyor. Zinav Gölü, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Gölün çevresinde yer alan doğal güzellikler, ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Zinav Gölü, aynı zamanda önemli bir ekosistem olarak da dikkat çekiyor. Bu bölge, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak kabul ediliyor.
+ Zinav Gölü, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Gölün çevresinde yer alan doğal güzellikler, ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Zinav Gölü, aynı zamanda önemli bir ekosistem olarak da dikkat çekiyor. Bu bölge, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Zinav Gölü, ziyaretçilere çeşitli deneyimler sunuyor. Bu bölge, doğa seve
 
 ## İlginç Bilgiler
 
-- Zinav Gölü, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, önemli bir ekosistem olarak dikkat çekiyor.
 - Zinav Gölü, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı olarak kabul ediliyor.
 - Bu bölge, aynı zamanda önemli bir su kaynağı olarak da dikkat çekiyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31389498"
 
 # Miralı Tepe
 
-Miralı Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Miralı Tepe, bölgenin önemli doğal güzelliklerinden biri olarak bilinir. Tepe, bölgede yer alan diğer doğal güzelliklere de ev sahipliği yapıyor. Miralı Tepe, ziyaretçilerini bekliyor.
+Miralı Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Miralı Tepe, bölgenin önemli doğal güzelliklerinden biri olarak bilinir. Tepe, bölgede yer alan diğer doğal güzelliklere de ev sahipliği yapıyor. Miralı Tepe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Miralı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe
 
 ## Coğrafya
 
-Miralı Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepe, bölgenin önemli coğrafi oluşumlarından biri olarak bilinir. Miralı Tepe, bölgede yer alan diğer coğrafi oluşumlara da ev sahipliği yapıyor. Miralı Tepe, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepe, ziyaretçilerini bekliyor. Miralı Tepe'nin coğrafi yapısı, bölgenin diğer coğrafi oluşumlarına benzerlik gösteriyor.
+Miralı Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alıyor. Tepe, bölgenin önemli coğrafi oluşumlarından biri olarak bilinir. Miralı Tepe, bölgede yer alan diğer coğrafi oluşumlara da ev sahipliği yapıyor. Miralı Tepe, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepe, ziyaretçilerini bekliyor. Miralı Tepe'nin coğrafi yapısı, bölgenin diğer coğrafi oluşumlarına benzerlik gösteriyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Miralı Tepe, ziyaretçilerini bekliyor. Tepe, bölgenin önemli doğal güzelli
 ## İlginç Bilgiler
 
 - Miralı Tepe, bölgenin önemli doğal güzelliklerinden biri.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Miralı Tepe, ziyaretçilerini bekliyor.
 - Tepe, bölgenin önemli tarihi miraslarından biri olarak kabul ediliyor.
 - Miralı Tepe, çeşitli bitki türleri ve hayvan türlerine ev sahipliği yapıyor.

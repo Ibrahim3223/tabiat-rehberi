@@ -49,7 +49,6 @@ Kabalak Tepesi'ni ziyaret etmek, bir gezi sever için unutulmaz bir deneyim olab
 
 ## İlginç Bilgiler
 
-- Kabalak Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunur.
 - Bölge, fauna açısından da önemlidir.
 - Kabalak Tepesi, coğrafi konumu itibariyle Akdeniz Bölgesi'nde bulunur.

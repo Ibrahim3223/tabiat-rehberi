@@ -29,7 +29,7 @@ wikidata_id: "Q134728362"
 
 # Bin Tepeler Tümülüsü 6
 
-Ege Bölgesi'nin zengin tarihi dokusu içinde yer alan Bin Tepeler Tümülüsü 6, Salihli-Manisa bölgesinde bulunan bir diğer önemli arkeolojik alan. Bu tümülüs, yaklaşık 140 hektarlık bir alanda, tarihi geçmişiyle dikkat çekiyor. 200 futbol sahası büyüklüğünde bir alana yayılan bu tümülüs, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bin Tepeler Tümülüsü 6, Ege Bölgesi'nin gizli hazinelerinden biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
+Ege Bölgesi'nin zengin tarihi dokusu içinde yer alan Bin Tepeler Tümülüsü 6, Salihli-Manisa bölgesinde bulunan bir diğer önemli arkeolojik alan. Bin Tepeler Tümülüsü 6, Ege Bölgesi'nin gizli hazinelerinden biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 6, ziyaretçilerini tarihin derinliklerine götürmeyi 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 6, Ege Bölgesi'nin en önemli arkeolojik alanlarından biri
-- Bu tümülüs, yaklaşık 140 hektarlık bir alanda yer alıyor
+
 - Bin Tepeler Tümülüsü 6, tarihin derinliklerine götürmeyi vaat ediyor
 - Bu tümülüs, Ege Bölgesi'nin gizli hazinelerinden biri olarak biliniyor
 - Bin Tepeler Tümülüsü 6, ziyaretçilerine Ege Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor

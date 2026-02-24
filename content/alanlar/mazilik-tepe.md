@@ -36,7 +36,7 @@ Mazılık Tepe'nin tarihi geçmişi, Gaziantep'in tarihinde önemli bir yer tuta
 
 ## Coğrafya
 
-Mazılık Tepe, Gaziantep'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezinde yer alır ve etrafı çeşitli doğal güzelliklerle çevrili bulunmaktadır. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, şehrin en önemli yeşil alanlarından biridir. İklim, tepeye özel bir önem kazandırır. Gaziantep'in karasal iklimi, bu tepeye özgü bitkilerin ve ağaçların yetişmesine olanak sağlar. Çevre, tepeye komşu olan diğer doğal güzelliklerle birlikte, ziyaretçiler için bir doğa harikası sunar. Doğal güzellikleri, tarihi yapıları ve kültürel zenginliği ile Mazılık Tepe, Gaziantep'in önemli bir coğrafi ve kültürel merkezi olarak kabul edilir.
+Mazılık Tepe, Gaziantep'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezinde yer alır ve etrafı çeşitli doğal güzelliklerle çevrili bulunmaktadır. İklim, tepeye özel bir önem kazandırır. Gaziantep'in karasal iklimi, bu tepeye özgü bitkilerin ve ağaçların yetişmesine olanak sağlar. Çevre, tepeye komşu olan diğer doğal güzelliklerle birlikte, ziyaretçiler için bir doğa harikası sunar. Doğal güzellikleri, tarihi yapıları ve kültürel zenginliği ile Mazılık Tepe, Gaziantep'in önemli bir coğrafi ve kültürel merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Mazılık Tepe, ziyaretçiler için bir hazine. Burada, ziyaretçiler tarihi ve 
 ## İlginç Bilgiler
 
 - Mazılık Tepe, Gaziantep'in en önemli turizm merkezlerinden biridir.
-- Tepe, 140 hektarlık bir alanı kaplar.
+
 - Tepe, şehrin merkezinde yer alır.
 - Tepe, çeşitli bitkiler ve hayvanlarla dolu bir doğa harikasıdır.
 - Tepe, Gaziantep'in kültürel mirasının bir parçasıdır.

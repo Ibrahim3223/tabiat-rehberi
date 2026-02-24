@@ -22,7 +22,7 @@ wikidata_id: "Q108227882"
 
 # Gunye-Hasan Kadi
 
-Gunye-Hasan Kadi milli parkı, İç Anadolu Bölgesi'nde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan, doğa severlerin yeni durağı haline gelen bir milli parktır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Milli parkın içinde, ziyaretçilerin doğayı yakından tanımasına olanak sağlayan yürüyüş yolları ve gözlem noktaları bulunmaktadır. Bu milli park, bölgede bulunan tarihi yerleşim yerleri ve kültürel miras ile de dikkat çekmektedir.
+ Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Milli parkın içinde, ziyaretçilerin doğayı yakından tanımasına olanak sağlayan yürüyüş yolları ve gözlem noktaları bulunmaktadır. Bu milli park, bölgede bulunan tarihi yerleşim yerleri ve kültürel miras ile de dikkat çekmektedir.
 
 ## Tarihçe
 

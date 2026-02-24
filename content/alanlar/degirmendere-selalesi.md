@@ -20,7 +20,7 @@ aktiviteler: ["trekking","piknik","doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/M%C4%B1hl%C4%B1_Waterfall.JPG/960px-M%C4%B1hl%C4%B1_Waterfall.JPG","alt":"Değirmendere Şelalesi","caption":"Değirmendere Şelalesi","credit":"Mıhlı Waterfall","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmendere%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207625","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alanDegirmendere Şelalesi, doğa severler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nde yer alanDegirmendere Şelalesi, doğa severler için bir cennet."
 keywords: ["Degirmendere Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","çevre","ekoloji","yaban hayatı","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q97207625"
@@ -48,7 +48,6 @@ Degirmendere Şelalesi, doğa severler için bir cennet olup, ziyaretçilerini d
 
 ## İlginç Bilgiler
 
-- Degirmendere Şelalesi, 140 hektarlık bir alanda yer alır.
 - Şelalenin yüksekliği 10 metre civarındadır.
 - Şelale, yıl boyunca akan bir kaynak tarafından beslenir.
 - Degirmendere Şelalesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.

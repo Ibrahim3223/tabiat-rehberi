@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Çevre güzelliği izleme","Huzurlu atmosfe
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1","caption":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227861","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide yerlerinden biri olan Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, 140 hektarlık geniş bir alanı kapsıyor."
+"
 keywords: ["Bursa","Marmara Bölgesi","milli park","Kızılçam","doğa","turizm","gezi","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227861"
@@ -43,7 +43,7 @@ Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkını ziyaret etmek, d
 ## İlginç Bilgiler
 
 - Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Mevsimsel değişimler, bu bölgenin doğal güzelliğini ve ekosisteminin çeşitliliğini etkiliyor.
 - Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanı olarak görünüyor.

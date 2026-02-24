@@ -40,7 +40,7 @@ Moturklu Tepesi, Hatay ilinin sınırları içerisinde yer alan bir tepe. Bu tep
 
 ## Flora ve Fauna
 
-Moturklu Tepesi, Akdeniz Bölgesi'nin flora ve faunasını gösteren önemli bir doğal güzellik. Tepenin etrafında yer alan 140 hektarlık alan, çeşitli bitki türleri ile dikkat çekiyor. Moturklu Tepesi'nin eteklerinde yer alan köyler, kültürel değerleri ile birlikte importante bir rol oynuyor. Tepenin zirvesi, Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor. Moturklu Tepesi, flora ve faunası ile birlikte bir turizm merkezi olarak da biliniyor.
+Moturklu Tepesi, Akdeniz Bölgesi'nin flora ve faunasını gösteren önemli bir doğal güzellik. Moturklu Tepesi'nin eteklerinde yer alan köyler, kültürel değerleri ile birlikte importante bir rol oynuyor. Tepenin zirvesi, Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor. Moturklu Tepesi, flora ve faunası ile birlikte bir turizm merkezi olarak da biliniyor.
 
 ## Ziyaret Bilgileri
 

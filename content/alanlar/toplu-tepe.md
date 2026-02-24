@@ -36,7 +36,7 @@ Toplu Tepe'nin tarihi geçmişi, Kastamonu'nun tarihiyle iç içe geçmiş. Bu b
 
 ## Coğrafya
 
-Toplu Tepe, Kastamonu'nun coğrafi yapısını yansıtan bir bölge. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Toplu Tepe, 140 hektarlık bir alanı kaplıyor ve bu alanda çeşitli coğrafi oluşumlar mevcut. Bu bölgede, tepeler, vadiler ve ormanlık alanlar bir arada bulunuyor. Toplu Tepe'nin coğrafi yapısı, zengin bir flora ve fauna ile şekillenmiş. Bu bölgede, mevsimsel değişimler, doğanın güzelliğini farklı zamanlarda farklı şekilde gösteriyor. Toplu Tepe, Kastamonu'nun iklimini yansıtan bir bölge. Bu bölgede, Karadeniz ikliminin özellikleri görülüyor. Yağışlı ve nemli bir iklim, Toplu Tepe'nin coğrafi yapısını şekillendirmiş.
+Toplu Tepe, Kastamonu'nun coğrafi yapısını yansıtan bir bölge. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu bölgede, tepeler, vadiler ve ormanlık alanlar bir arada bulunuyor. Toplu Tepe'nin coğrafi yapısı, zengin bir flora ve fauna ile şekillenmiş. Bu bölgede, mevsimsel değişimler, doğanın güzelliğini farklı zamanlarda farklı şekilde gösteriyor. Toplu Tepe, Kastamonu'nun iklimini yansıtan bir bölge. Bu bölgede, Karadeniz ikliminin özellikleri görülüyor. Yağışlı ve nemli bir iklim, Toplu Tepe'nin coğrafi yapısını şekillendirmiş.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Toplu Tepe, Kastamonu'nun merkezine yakın bir konumda bulunuyor. Bu bölgeye, t
 ## İlginç Bilgiler
 
 - Toplu Tepe, Kastamonu'nun gizli cennetlerinden biri
-- 140 hektarlık bir alanı kaplıyor
+
 - Zengin bir flora ve fauna ile bekannt
 - Kastamonu'nun turizm potansiyelini artıran önemli bir destinasyon
 - Yılın farklı zamanlarında ziyaret edilebilir

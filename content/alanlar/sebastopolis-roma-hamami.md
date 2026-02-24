@@ -21,7 +21,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Sebastopolis Roma Hamamı","caption":"Sebastopolis Roma Hamamı","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebastopolis%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739108","tip":"genel"}]
-description: "Tokat'ın Sulusaray ilçesinde bulunan Sebastopolis Roma Hamamı, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine zengin bir tarihi geçmişi sunar."
+description: "Tokat'ın Sulusaray ilçesinde bulunan Sebastopolis Roma Hamamı, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır."
 keywords: ["Sebastopolis Roma Hamamı","Sulusaray","Tokat","Roma Hamamı","tarihi yerler","doğa","gezi noktaları"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739108"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739108"
 
 # Sebastopolis Roma Hamamı
 
-Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunan ve tarihi öneme sahip bir Roma hamamıdır. Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Sebastopolis Roma Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekleyen özel bir gezi noktasıdır.
+Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunan ve tarihi öneme sahip bir Roma hamamıdır. Sebastopolis Roma Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekleyen özel bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sebastopolis Roma Hamamı, tarihi geçmişi ile dikkat çeken bir Roma hamamıd�
 
 ## Coğrafya
 
-Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunan ve doğal güzellikleri ile dikkat çeken bir Roma hamamıdır. Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Tokat'ın coğrafi konumu, Sebastopolis Roma Hamamı'nın güzelliğini daha da artırır. Bu bölge, Karadeniz Bölgesi'nin iç kesimlerinde yer alır ve bu nedenle iklimi karasal iklimdir. Sebastopolis Roma Hamamı, ziyaretçilerine zengin bir flora ve fauna sunar. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur ve bu nedenle doğa severlerin ziyaret etmesi gereken bir yerdir. Sebastopolis Roma Hamamı, Tokat'ın güzelliklerini keşfetmek isteyen ziyaretçilerin ilk durağı olmalıdır.
+Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunan ve doğal güzellikleri ile dikkat çeken bir Roma hamamıdır. Tokat'ın coğrafi konumu, Sebastopolis Roma Hamamı'nın güzelliğini daha da artırır. Bu bölge, Karadeniz Bölgesi'nin iç kesimlerinde yer alır ve bu nedenle iklimi karasal iklimdir. Sebastopolis Roma Hamamı, ziyaretçilerine zengin bir flora ve fauna sunar. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur ve bu nedenle doğa severlerin ziyaret etmesi gereken bir yerdir. Sebastopolis Roma Hamamı, Tokat'ın güzelliklerini keşfetmek isteyen ziyaretçilerin ilk durağı olmalıdır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sebastopolis Roma Hamamı, ziyaretçilerine zengin bir tarihi geçmişi ve doğa
 ## İlginç Bilgiler
 
 - Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunur.
-- Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır.
+
 - Sebastopolis Roma Hamamı, Roma İmparatorluğu döneminde inşa edilmiştir.
 - Bu hamam, yüzyıllar boyunca çeşitli kültürlerin etkisinde kalmıştır.
 - Sebastopolis Roma Hamamı, ziyaretçilerine zengin bir flora ve fauna sunar.

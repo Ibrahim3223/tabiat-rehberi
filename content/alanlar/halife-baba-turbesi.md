@@ -52,6 +52,6 @@ Halife Baba Türbesi'ni ziyaret etmek, oldukça kolay. Çine ilçesi sınırlar�
 
 - Halife Baba Türbesi, Çine ilçesi sınırları içerisinde yer alıyor.
 - Bu bölge, Ege Bölgesi'nin önemli dinî ve turistik mekanlarından biri.
-- 140 hektarlık bir yeşil alan.
+
 - Çam ağaçları ile süslü.
 - Denizin berraklığı ve kumunun inceliği.

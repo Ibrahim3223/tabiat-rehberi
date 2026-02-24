@@ -30,7 +30,7 @@ wikidata_id: "Q131391553"
 
 # Şeyh Garip Türbesi
 
-Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Bitlis ilinin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. Şeyh Garip Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu özel mekanda, tarihin izlerini ve doğanın güzelliklerini keşfedebilirsiniz.
+Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Şeyh Garip Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu özel mekanda, tarihin izlerini ve doğanın güzelliklerini keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391553"
 
 ## Coğrafya
 
-Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bitlis ilinin merkezinde bulunan bu türbe, bölgenin en önemli doğal güzelliklerinden biri. Türbenin etrafında, birçok dağ ve tepe bulunmakta. Bu dağlar, bölgenin iklimini ve doğasını şekillendiriyor. Şeyh Garip Türbesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Şeyh Garip Türbesi, birçok nehir ve akarsunun yakınında bulunuyor. Bu nehirler, bölgenin sulak alanlarını oluşturuyor ve birçok canlıyaşam alanı sağlıyor.
+Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bitlis ilinin merkezinde bulunan bu türbe, bölgenin en önemli doğal güzelliklerinden biri. Türbenin etrafında, birçok dağ ve tepe bulunmakta. Bu dağlar, bölgenin iklimini ve doğasını şekillendiriyor. Bu alan, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Şeyh Garip Türbesi, birçok nehir ve akarsunun yakınında bulunuyor. Bu nehirler, bölgenin sulak alanlarını oluşturuyor ve birçok canlıyaşam alanı sağlıyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131391553"
 ## İlginç Bilgiler
 
 - Şeyh Garip Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edildi
-- Türbe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor
 - Şeyh Garip Türbesi, birçok önemli tarihi eser ve kalıntıya ev sahipliği yapıyor
 - Bölge, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor

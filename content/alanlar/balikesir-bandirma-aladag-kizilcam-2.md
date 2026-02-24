@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Ekosistem keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Balikesir-Bandırma-Aladag-Kızılçam 2","caption":"Balikesir-Bandırma-Aladag-Kızılçam 2","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Band%C4%B1rma-Aladag-K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228427","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["doğa","milli park","İç Anadolu Bölgesi","gezi","yaban hayatı","ekosistem","çevre","koruma","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228427"
@@ -43,7 +43,7 @@ Balikesir-Bandırma-Aladag-Kızılçam 2 milli parkını ziyaret etmek, doğal g
 ## İlginç Bilgiler
 
 - Milli parkın kurulması, bölgenin doğal kaynaklarını korumak amacıyla gerçekleştirilmiştir.
-- Milli park, 140 hektarlık bir alanı kapsar.
+
 - Bölge, yaban hayatı ve ekosistem bakımından zengin bir bölgedir.
 - Milli parkın coğrafyası, ziyaretçilerin doğal güzellikleri keşfetmesi için ideal bir ortam sunar.
 - Milli park, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapar.

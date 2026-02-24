@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","tarihsel geziler","fotoğrafçılık","bitk
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Bursa-Bilecik-Muratdere Uludag Goknari","caption":"Bursa-Bilecik-Muratdere Uludag Goknari","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Bilecik-Muratdere%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227289","tip":"genel"}]
-description: "Marmara Bölgesi'nin doğal güzellikleri arasında yer alan Uludag Goknari, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Uludag","Bursa","Marmara Bölgesi","doğa","gezi","turizm","milli park","Uludag Goknari","Marmara","Bursa-Bilecik-Muratdere"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227289"
@@ -42,7 +42,6 @@ Bursa-Bilecik-Muratdere Uludag Goknari, ziyaretçilerine çeşitli doğal güzel
 
 ## İlginç Bilgiler
 
-- Bursa-Bilecik-Muratdere Uludag Goknari, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türleri ve hayvan türleri ile zengin bir fauna çeşitliliğine sahiptir
 - Uludag Goknari, ziyaretçilerine yılın her mevsiminde gezi imkanı sunmaktadır
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı ve doğal kaynaklarının değerini anladığı bir bölge olarak kabul edilir

@@ -29,7 +29,7 @@ wikidata_id: "Q131738441"
 
 # Tarihi Meydan Hamamı
 
-Tarihi Meydan Hamamı, Sivas'ın merkezinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmıştır. Tarihi Meydan Hamamı, Sivas'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, plajın sunduğu olanaklardan yararlanarak, Sivas'ın güzelliklerini keşfedebilirler.
+Tarihi Meydan Hamamı, Sivas'ın merkezinde yer alan bir plajdır. Tarihi Meydan Hamamı, Sivas'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, plajın sunduğu olanaklardan yararlanarak, Sivas'ın güzelliklerini keşfedebilirler.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Tarihi Meydan Hamamı, Sivas'ın merkezinde yer alan bir plajdır. Bu plajı ziy
 ## İlginç Bilgiler
 
 - Tarihi Meydan Hamamı, Sivas'ın merkezinde yer alır.
-- Plaj, yaklaşık 140 hektarlık bir alana yayılmıştır.
+
 - Tarihi Meydan Hamamı, Sivas'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 - Bu plajda, çeşitli bitki türleri ve zengin fauna bulunur.
 - Tarihi Meydan Hamamı, Sivas'ın kültür ve tarihini yansıtması bakımından önemli bir mekândır.

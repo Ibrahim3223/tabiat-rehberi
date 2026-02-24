@@ -49,7 +49,7 @@ Karaghol Tepe'yi ziyaret etmek, doğa ve tarih severler için önemli bir deneyi
 ## İlginç Bilgiler
 
 - Karaghol Tepe, İç Anadolu Bölgesi'nin en önemli teplerinden biridir.
-- Tepe, 140 hektarlık bir alana sahiptir.
+
 - Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Tepe, yılın her dönemi ziyaret edilebilir.
 - Tepe, doğa ve tarih severler için önemli bir destinasyondur.

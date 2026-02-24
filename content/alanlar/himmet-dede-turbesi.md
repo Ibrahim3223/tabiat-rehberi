@@ -50,7 +50,7 @@ Himmet Dede Türbesi'ni ziyaret etmek, birçok kişinin ilgisini çekiyor. Ziyar
 ## İlginç Bilgiler
 
 - Himmet Dede Türbesi, Karadeniz Bölgesi'nin önemli tarihi mekanlarından biri olarak biliniyor.
-- Bu mekan, 140 hektarlık bir alanda yer alıyor.
+
 - Himmet Dede Türbesi, deniz seviyesinden yüksek değil.
 - Bu mekan, birçok farklı bitki türüne ev sahipliği yapıyor.
 - Himmet Dede Türbesi, birçok ziyaretçinin ilgisini çekiyor.

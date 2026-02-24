@@ -43,7 +43,6 @@ Sancaktepe'yi ziyaret etmek, doğa severler için bir hayal olabilir. Sancaktepe
 
 ## İlginç Bilgiler
 
-- Sancaktepe, 140 hektarlık bir alanı kapsar.
 - Sancaktepe, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır.
 
 - Sancaktepe, yüzyıllar öncesine dayanan bir tarihi geçmişi sahiptir.

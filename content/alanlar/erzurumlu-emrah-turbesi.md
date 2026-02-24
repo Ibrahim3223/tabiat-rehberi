@@ -37,7 +37,7 @@ Erzurumlu Emrah Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Erzurumlu Emrah Türbesi, Tokat'ın Niksar ilçesinde yer alır ve Karadeniz Bölgesi'nin coğrafi güzelliğini taşır. Bölge, yeşilin çeşitli tonlarını barındıran ormanlarla çevrilidir ve ziyaretçilere geniş bir manzara sunar. İklim, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli yapısını taşır. Çevre, tarihi ve doğal güzelliklerin bir arada bulunduğu bir alandır. 140 hektarlık alan, ziyaretçilere doğayla iç içe olabilecekleri geniş bir mekan sunar. Bu coğrafi konum, Erzurumlu Emrah Türbesi'ni ziyaret edenler için unutulmaz bir deneyim sağlar.
+Erzurumlu Emrah Türbesi, Tokat'ın Niksar ilçesinde yer alır ve Karadeniz Bölgesi'nin coğrafi güzelliğini taşır. Bölge, yeşilin çeşitli tonlarını barındıran ormanlarla çevrilidir ve ziyaretçilere geniş bir manzara sunar. İklim, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli yapısını taşır. Çevre, tarihi ve doğal güzelliklerin bir arada bulunduğu bir alandır. Bu coğrafi konum, Erzurumlu Emrah Türbesi'ni ziyaret edenler için unutulmaz bir deneyim sağlar.
 
 ## Flora ve Fauna
 

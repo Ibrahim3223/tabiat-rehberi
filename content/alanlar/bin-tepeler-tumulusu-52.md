@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 52'nin tarihi geçmişi, bölgenin diğer tümülüsler
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 52, Ege Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, genellikle dağlık ve engebeli arazilere sahiptir. Tümülüs, yaklaşık 140 hektarlık bir alanda yer alır ve bu alan, çeşitli bitki türleri ve fauna ile çevrilidir. Bölgenin iklimi, genellikle ılımandır ve ziyaretçilerin tümülüsü ziyaret etmeleri için uygun koşullar sağlar. Bin Tepeler Tümülüsü 52, çevredeki diğer tümülüslerle birlikte, bölgenin coğrafi ve kültürel çeşitliliğini yansıtan önemli bir noktadır. Bu tümülüsler, ziyaretçilerin bölgenin tarihini, kültürünü ve coğrafyasını keşfetmelerine olanak tanır.
+Bin Tepeler Tümülüsü 52, Ege Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, genellikle dağlık ve engebeli arazilere sahiptir. Bölgenin iklimi, genellikle ılımandır ve ziyaretçilerin tümülüsü ziyaret etmeleri için uygun koşullar sağlar. Bin Tepeler Tümülüsü 52, çevredeki diğer tümülüslerle birlikte, bölgenin coğrafi ve kültürel çeşitliliğini yansıtan önemli bir noktadır. Bu tümülüsler, ziyaretçilerin bölgenin tarihini, kültürünü ve coğrafyasını keşfetmelerine olanak tanır.
 
 ## Flora ve Fauna
 

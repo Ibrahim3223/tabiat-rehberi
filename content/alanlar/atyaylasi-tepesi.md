@@ -49,7 +49,6 @@ Atyaylası Tepesi'ni ziyaret etmek, doğayı keşfetme ve doğal güzellikleri d
 
 ## İlginç Bilgiler
 
-- Atyaylası Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor.
 - Bölge, çeşitli bitkiler ve hayvanlar hakkında bilgi edinme fırsatı sunuyor.
 - Atyaylası Tepesi, yüzyıllar boyunca çeşitli medeniyetler tarafından yerleşim yeri olarak kullanılmış.

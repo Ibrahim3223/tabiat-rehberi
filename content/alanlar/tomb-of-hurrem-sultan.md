@@ -30,7 +30,7 @@ wikidata_id: "Q85817411"
 
 # Tomb of Hürrem Sultan
 
-İstanbul'un kalbinde, Süleymaniye Camii'nin yanında yer alan Hürrem Sultan Türbesi, approximately 200 futbol sahası büyüklüğünde bir alan üzerine kurulu. Bu tarihi mekan, ziyaretçilerini Osmanlı İmparatorluğu'nun ihtişamına götürüyor. Hürrem Sultan'ın life hikayesi, tüberin mimari yapısı ve çevresi ile ziyaretçilere zengin bir tarih bilgisi sunuyor. 16. yüzyılda inşa edilen bu tüber, Mimar Sinan'ın eserlerinden biri olarak dikkat çekiyor.
+ Bu tarihi mekan, ziyaretçilerini Osmanlı İmparatorluğu'nun ihtişamına götürüyor. Hürrem Sultan'ın life hikayesi, tüberin mimari yapısı ve çevresi ile ziyaretçilere zengin bir tarih bilgisi sunuyor. 16. yüzyılda inşa edilen bu tüber, Mimar Sinan'ın eserlerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

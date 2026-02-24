@@ -36,7 +36,7 @@ Kocamezar Tepe'nin tarihi geçmişi, yüzyıllar boyunca uzanıyor. Bu tepe, çe
 
 ## Coğrafya
 
-Kocamezar Tepe, Çanakkale'nin coğrafyası içinde önemli bir yer alıyor. Bu tepe, Marmara Bölgesi'nin karakteristik coğrafi özellikleri ile örtüşüyor. 140 hektarlık bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Kocamezar Tepe, ziyaretçilerine geniş bir doğa alanı sunuyor ve burayı gezenler, bölgenin güzelliklerini keşfedebilir. Bu tepe, Çanakkale'nin coğrafyası içinde önemli bir nokta ve ziyaretçilerin burayı gezmeleri Necessary. Kocamezar Tepe'nin coğrafi konumu, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunuyor.
+Kocamezar Tepe, Çanakkale'nin coğrafyası içinde önemli bir yer alıyor. Bu tepe, Marmara Bölgesi'nin karakteristik coğrafi özellikleri ile örtüşüyor. Kocamezar Tepe, ziyaretçilerine geniş bir doğa alanı sunuyor ve burayı gezenler, bölgenin güzelliklerini keşfedebilir. Bu tepe, Çanakkale'nin coğrafyası içinde önemli bir nokta ve ziyaretçilerin burayı gezmeleri Necessary. Kocamezar Tepe'nin coğrafi konumu, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

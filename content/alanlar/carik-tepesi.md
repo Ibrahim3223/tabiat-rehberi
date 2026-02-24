@@ -49,7 +49,7 @@ wikidata_id: "Q34828412"
 ## İlginç Bilgiler
 
 - Çarık Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çarık Tepesi'nin etrafı, zengin bir flora ve fauna ile çevrilidir.
 - Bu tepe, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker.
 - Çarık Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyimdir.

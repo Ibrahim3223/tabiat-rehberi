@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Emir Baba Türbesi","caption":"Emir Baba Türbesi","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1016.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1016.jpg/1280px-Arap_Baba_mescidi_ve_t%C3%BCrbesi_1016.jpg","alt":"Emir Baba Türbesi - Arap Baba mescidi ve türbesi 1016","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1010.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1010.jpg/1280px-Arap_Baba_mescidi_ve_t%C3%BCrbesi_1010.jpg","alt":"Emir Baba Türbesi - Arap Baba mescidi ve türbesi 1010","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1011.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1011.jpg/1280px-Arap_Baba_mescidi_ve_t%C3%BCrbesi_1011.jpg","alt":"Emir Baba Türbesi - Arap Baba mescidi ve türbesi 1011","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1017.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1017.jpg/1280px-Arap_Baba_mescidi_ve_t%C3%BCrbesi_1017.jpg","alt":"Emir Baba Türbesi - Arap Baba mescidi ve türbesi 1017","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1019.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Arap_Baba_mescidi_ve_t%C3%BCrbesi_1019.jpg/1280px-Arap_Baba_mescidi_ve_t%C3%BCrbesi_1019.jpg","alt":"Emir Baba Türbesi - Arap Baba mescidi ve türbesi 1019","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391565","tip":"genel"}]
-description: "İzmir'in Bayındır ilçesinde bulunan Emir Baba Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Tarihi ve doğası ile dikkat çekiyor."
+ Tarihi ve doğası ile dikkat çekiyor."
 keywords: ["Emir Baba Türbesi","Bayındır","İzmir","Ege Bölgesi","Türbe","Doğa","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391565"
@@ -38,7 +38,7 @@ Emir Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu b
 
 ## Coğrafya
 
-Emir Baba Türbesi, İzmir'in Bayındır ilçesinde, Ege Bölgesi'nin coğrafi güzellikleri içinde yer alıyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Coğrafi konumu itibariyle, Emir Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kuru, kış ayları ılıman ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası üzerinde etkili oluyor. Emir Baba Türbesi'nin coğrafi konumu ve iklimi, ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunuyor.
+Emir Baba Türbesi, İzmir'in Bayındır ilçesinde, Ege Bölgesi'nin coğrafi güzellikleri içinde yer alıyor. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Coğrafi konumu itibariyle, Emir Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor. Yaz ayları sıcak ve kuru, kış ayları ılıman ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası üzerinde etkili oluyor. Emir Baba Türbesi'nin coğrafi konumu ve iklimi, ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Emir Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri dene
 
 ## İlginç Bilgiler
 
-- Emir Baba Türbesi, 140 hektarlık yeşil alan üzerine kurulmuştur.
 - Türbenin etrafı, çeşitli bitki türleri ile çevrili.
 - Bölgede, zeytin ağaçları, çam ağaçları ve diğer yerel bitki türleri bulunmakta.
 - Fauna açısından da, bu bölge zengin.

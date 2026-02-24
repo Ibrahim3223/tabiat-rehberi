@@ -21,7 +21,7 @@ aktiviteler: ["Deniz sporları","Kum oyunları","Güneşlenme","Doğa yürüyü�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%209%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728211","tip":"genel"}]
-description: "Karadeniz'in gizli cenneti, 140 hektarlık genişlikte, 200 futbol sahası büyüklüğünde bir doğa harikası"
+
 keywords: ["Kaya Mezarı 9","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","Plaj","Doğa","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728211"
@@ -50,7 +50,6 @@ Kaya Mezarı 9'a ziyaretçiler, kolayca ulaşabilir. Bu plaj, Ordu'nun Gürgente
 ## İlginç Bilgiler
 
 - Kaya Mezarı 9, Karadeniz'in en uzun plajlarından biri
-- 140 hektarlık genişlikte
-- 200 futbol sahası büyüklüğünde
+
 - Zengin flora ve fauna çeşitliliği
 - Mevsimsel değişimlerle birlikte farklı bir güzellik sunuyor

@@ -51,6 +51,6 @@ Phaselis Büyük Hamam'ı ziyaret etmek, hem tarihi hem de doğal güzelliklerin
 
 - Phaselis Büyük Hamam, tarihi bir plaj olarak bilinir
 - Bu bölge, Likya ve Roma dönemlerinden kalan kalıntıları barındırır
-- Phaselis Büyük Hamam, 140 hektarlık bir alana sahiptir
+
 - Bu destinasyon, yıl boyunca ziyaret edilebilir
 - Phaselis Büyük Hamam, önemli bir flora ve fauna çeşitliliğine sahiptir

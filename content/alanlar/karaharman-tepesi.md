@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","yaban hayatı i
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Karaharman Tepesi","caption":"Karaharman Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaharman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389675","tip":"genel"}]
-description: "Kastamonu'nun güzide tepelerinden biri olan Karaharman Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Karaharman Tepesi","Kastamonu","Karadeniz Bölgesi","tepe","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389675"
@@ -48,7 +48,6 @@ Karaharman Tepesi'ne ulaşmak için, Kastamonu merkezinden uzun bir mesafe uzakl
 
 ## İlginç Bilgiler
 
-- Karaharman Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin eteklerinde yer alan köyler, misafirperver halkıyla ve geleneksel mimarisiyle ziyaretçileri karşılıyor
 - Karaharman Tepesi, aynı zamanda birçok efsaneye ve rivayete ev sahipliği yapıyor
 - Tepenin zirvesinde yer alan tarihi yapılar, ziyaretçilere bu bölgenin zengin tarihini anlatıyor

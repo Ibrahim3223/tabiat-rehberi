@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Sansarak Kanyonu Tabiat Parkı
 
-Sansarak Kanyonu Tabiat Parkı, Marmara Bölgesi'nin Bursa ilinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliktir. Bu park, 200 futbol sahası büyüklüğünde bir alan olarak düşünülilebilir. Parkın içinde yer alan kanyon, derin vadileri ve yemyeşil ormanları ile ziyaretçilerini büyülemektedir. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Parkın konumu, ziyaretçilerin hem doğa ile iç içe hem de Bursa'nın tarihi ve kültürel zenginliklerine yakın olmasını sağlamaktadır.
+ Parkın içinde yer alan kanyon, derin vadileri ve yemyeşil ormanları ile ziyaretçilerini büyülemektedir. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Parkın konumu, ziyaretçilerin hem doğa ile iç içe hem de Bursa'nın tarihi ve kültürel zenginliklerine yakın olmasını sağlamaktadır.
 
 ## Tarihçe
 

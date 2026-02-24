@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Indus_civilization_info_map.png","alt":"Bagıl Tepe manzarası","credit":"Merikanto","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bag%C4%B1l%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386698","tip":"genel"}]
-description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği Bagıl Tepe, ziyaretçilerini bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği Bagıl Tepe, ziyaretçilerini bekliyor."
 keywords: ["Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","tepe","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386698"

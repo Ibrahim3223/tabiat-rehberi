@@ -50,7 +50,7 @@ Bakmaca Türbesi'ni ziyaret etmek, İnegöl'ün güzelliğini ve tarihi zenginli
 ## İlginç Bilgiler
 
 - Bakmaca Türbesi, İnegöl'ün en önemli turizm merkezlerinden biri
-- Plajın geniş kumsalı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bakmaca Türbesi, Marmara Bölgesi'nin gizli cennetlerinden biri
 - İnegöl'ün tarihi ve kültürel zenginliği, Bakmaca Türbesi'nde de hissediliyor
 - Bakmaca Türbesi, doğa ve tarih severler için ideal bir destinasyon

@@ -29,7 +29,7 @@ wikidata_id: "Q32139326"
 
 # Güney Tepe
 
-Güney Tepe, Bayburt'un merkezinde yer alan ve şehrin önemli bir bölümünü kapsayan 140 hektarlık bir alana sahiptir. Güney Tepe, ziyaretçilerine şehrin manzarasını seyretme fırsatı sunan bir noktadır. Burada, Bayburt'un tarihi evlerini, camilerini ve diğer önemli yapılarını görebilirsiniz. Ayrıca, tepe çevresinde çeşitli bitki türleri ve ağaçlar bulunmaktadır.
+ Güney Tepe, ziyaretçilerine şehrin manzarasını seyretme fırsatı sunan bir noktadır. Burada, Bayburt'un tarihi evlerini, camilerini ve diğer önemli yapılarını görebilirsiniz. Ayrıca, tepe çevresinde çeşitli bitki türleri ve ağaçlar bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güney Tepe'nin tarihi geçmişi, Bayburt'un tarihi ile iç içedir. Bu bölge, 
 
 ## Coğrafya
 
-Güney Tepe, Bayburt'un merkezinde yer alan bir tepe olup, şehrin önemli bir bölümünü kapsar. Bu tepe, yaklaşık 140 hektarlık bir alana sahiptir ve şehrin manzarasını seyretme fırsatı sunar. Güney Tepe'nin coğrafyası, çeşitli bitki türleri ve ağaçlarla kaplıdır. Burada, ziyaretçiler, şehrin doğal güzelliklerini görebilir ve şehrin manzarasını seyretmek için uygun bir noktadır. Güney Tepe, Karadeniz Bölgesi'nin karakteristik coğrafyasını taşır ve bu bölgenin önemli bir parçasıdır. Bu tepe, ziyaretçilerine şehrin doğal güzelliklerini ve tarihi yapılarını görebilme fırsatı sunmaktadır.
+Güney Tepe, Bayburt'un merkezinde yer alan bir tepe olup, şehrin önemli bir bölümünü kapsar. Güney Tepe'nin coğrafyası, çeşitli bitki türleri ve ağaçlarla kaplıdır. Burada, ziyaretçiler, şehrin doğal güzelliklerini görebilir ve şehrin manzarasını seyretmek için uygun bir noktadır. Güney Tepe, Karadeniz Bölgesi'nin karakteristik coğrafyasını taşır ve bu bölgenin önemli bir parçasıdır. Bu tepe, ziyaretçilerine şehrin doğal güzelliklerini ve tarihi yapılarını görebilme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Güney Tepe, ziyaretçilerine şehrin manzarasını seyretme fırsatı sunan bir
 ## İlginç Bilgiler
 
 - Güney Tepe, Bayburt'un merkezinde yer alır.
-- Güney Tepe, 140 hektarlık bir alana sahiptir.
+
 - Güney Tepe, çeşitli bitki türleri ve ağaçlarla kaplıdır.
 - Güney Tepe, ziyaretçilerine şehrin manzarasını seyretme fırsatı sunar.
 - Güney Tepe, yıl boyunca ziyaret edilebilir.

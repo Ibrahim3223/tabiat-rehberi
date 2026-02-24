@@ -42,7 +42,6 @@ Mugla-Eskere-Cicekli Karacam milli parkını ziyaret etmek, doğa severler ve ma
 
 ## İlginç Bilgiler
 
-- Cicekli Karacam milli parkı, 140 hektarlık bir alana sahip
 - Parkta, çeşitli bitki türleri ve zengin fauna var
 - Cicekli Karacam, Ege Bölgesi'nin coğrafi çeşitliliğini sergileyen bir destinasyon
 - Parkın iklimi, Akdeniz iklimininini gösteriyor

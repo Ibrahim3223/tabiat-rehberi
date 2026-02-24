@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çiçek izleme","hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"PAŞACA_TP","caption":"PAŞACA_TP","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/PA%C5%9EACA_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229006","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, PAŞACA_TP milli parkı. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin gizli cenneti, PAŞACA_TP milli parkı."
 keywords: ["milli park","İç Anadolu Bölgesi","doğal alan","yeşil alan","flora","fauna","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229006"
@@ -41,8 +41,6 @@ PAŞACA_TP milli parkı, çeşitli bitki türleri ve zengin fauna ile dolu. Park
 PAŞACA_TP milli parkını ziyaret etmek, doğa severler ve macera arayanlar için ideal bir deneyim. Ziyaretçiler, parkın farklı güzelliklerini keşfedebilirler. PAŞACA_TP'ye nasıl gidilir? PAŞACA_TP, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Ziyaretçiler, farklı ulaşım seçenekleriyle PAŞACA_TP'ye ulaşabilirler. PAŞACA_TP, ziyaretçilerini dört mevsim boyunca ağırlıyor.
 
 ## İlginç Bilgiler
-
-- PAŞACA_TP, 140 hektarlık bir yeşil alana sahip.
 
 - PAŞACA_TP, İç Anadolu Bölgesi'nin kalbinde yer alıyor.
 - PAŞACA_TP, ziyaretçilerini doğanın kucağına davet ediyor.

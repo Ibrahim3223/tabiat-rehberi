@@ -38,7 +38,7 @@ Aşık Paşa Türbesi, 13. yüzyılda, Aşık Paşa tarafından yaptırılmışt
 
 ## Coğrafya
 
-Aşık Paşa Türbesi, Kırşehir'in merkezinde bulunmaktadır ve çevresindeki yeşil alanlar, türbenin güzelliğini artırmaktadır. Türbenin etrafındaki 140 hektarlık alan, çeşitli bitki türleriyle dolu ve bu alan, hem Kırşehir'in hem de türbenin güzelliğini artırmaktadır. Türbenin mimarisi, Selçuklu dönemi mimari özelliklerini taşır ve bu dönemin en güzel örneklerinden biridir. Türbenin etrafındaki yeşil alanlar, aynı zamanda birçok hayvan türüne de ev sahipliği yapmaktadır. Bu hayvanlar, türbenin etrafındaki yeşil alanlarda yaşamlarını sürdürmektedir. Aşık Paşa Türbesi, sadece dini açıdan değil, aynı zamanda mimari ve tarihi açıdan da önemli bir yapıdır.
+Aşık Paşa Türbesi, Kırşehir'in merkezinde bulunmaktadır ve çevresindeki yeşil alanlar, türbenin güzelliğini artırmaktadır. Türbenin mimarisi, Selçuklu dönemi mimari özelliklerini taşır ve bu dönemin en güzel örneklerinden biridir. Türbenin etrafındaki yeşil alanlar, aynı zamanda birçok hayvan türüne de ev sahipliği yapmaktadır. Bu hayvanlar, türbenin etrafındaki yeşil alanlarda yaşamlarını sürdürmektedir. Aşık Paşa Türbesi, sadece dini açıdan değil, aynı zamanda mimari ve tarihi açıdan da önemli bir yapıdır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Aşık Paşa Türbesi, yıl boyunca ziyaret edilebilir ve türbenin etrafındaki
 ## İlginç Bilgiler
 
 - Aşık Paşa Türbesi, 13. yüzyılda yapılmıştır
-- Türbenin etrafındaki yeşil alanlar, 140 hektarlık bir alandır
+
 - Türbenin mimarisi, Selçuklu dönemi mimari özelliklerini taşır
 - Türbenin etrafındaki yeşil alanlar, birçok hayvan türüne ev sahipliği yapar
 - Aşık Paşa Türbesi, sadece dini açıdan değil, aynı zamanda mimari ve tarihi açıdan da önemli bir yapıdır

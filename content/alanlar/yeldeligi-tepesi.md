@@ -28,7 +28,7 @@ wikidata_id: "Q31390384"
 
 # Yeldeliği Tepesi
 
-Yeldeliği Tepesi, Afyonkarahisar'ın eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak karşımıza çıkar. Yeldeliği Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekici bir noktadır. Bu tepe, Afyonkarahisar'ın önemli turizm noktalarından biri olarak ziyaretçilerini ağırlamaya devam etmektedir.
+Yeldeliği Tepesi, Afyonkarahisar'ın eşsiz doğal güzelliklerinden biridir. Yeldeliği Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekici bir noktadır. Bu tepe, Afyonkarahisar'ın önemli turizm noktalarından biri olarak ziyaretçilerini ağırlamaya devam etmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yeldeliği Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Yeldeliği Tepesi, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biridir. Bu tepe, Afyonkarahisar ilinin sınırları içerisinde yer alır. Yeldeliği Tepesi, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak karşımıza çıkar. Bu tepe, bölgenin iklimine uygun olarak çeşitli bitki türleriyle kaplıdır. Yeldeliği Tepesi'nin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunmaktadır. Yeldeliği Tepesi, coğrafi olarak önemli bir noktayı temsil eder ve bölgenin doğal güzelliğini gözler önüne sermektedir. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir noktadır.
+Yeldeliği Tepesi, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biridir. Bu tepe, Afyonkarahisar ilinin sınırları içerisinde yer alır. Bu tepe, bölgenin iklimine uygun olarak çeşitli bitki türleriyle kaplıdır. Yeldeliği Tepesi'nin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunmaktadır. Yeldeliği Tepesi, coğrafi olarak önemli bir noktayı temsil eder ve bölgenin doğal güzelliğini gözler önüne sermektedir. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yeldeliği Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakm
 ## İlginç Bilgiler
 
 - Yeldeliği Tepesi, Afyonkarahisar'ın önemli turizm noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak karşımıza çıkar.
+
 - Yeldeliği Tepesi, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biridir.
 - Bu tepe, ziyaretçilerine eşsiz bir manzara sunmaktadır.
 - Yeldeliği Tepesi, flora ve fauna açısından zengin bir alandır.

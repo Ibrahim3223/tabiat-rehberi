@@ -50,7 +50,7 @@ Yarenler Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikler
 ## İlginç Bilgiler
 
 - Yarenler Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alır
-- Türbe, yaklaşık 140 hektarlık bir yeşil alanı kaplar
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Yarenler Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker
 - Türbeye ulaşım, Afyonkarahisar il merkezinden dlıkla sağlanabilir

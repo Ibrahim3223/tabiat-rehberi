@@ -21,8 +21,8 @@ aktiviteler: ["doğayı keşfetmek","tarihi öğrenmek","dinlenmek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Nişancı Paşa Hamamı","caption":"Nişancı Paşa Hamamı","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ni%C5%9Fanc%C4%B1%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739127","tip":"genel"}]
-description: "Eyüpsultan'ın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","doğa","yeşil alan","futbol sahası"]
+description: "Eyüpsultan'ın tarihi ve doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739127"
 ---
@@ -49,7 +49,6 @@ Nişancı Paşa Hamamı, ziyaretçilerine önemli bir deneyim sunuyor. Bu bölge
 
 ## İlginç Bilgiler
 
-- Nişancı Paşa Hamamı, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Bu bölgenin tarihi geçmişi, Osmanlı İmparatorluğu döneminde börjed.
 - Nişancı Paşa Hamamı, İstanbul'un önemli tarihi ve kültürel güzelliklerinden biri olarak ziyaret ediliyor.
 - Bu bölgenin coğrafi konumu, ziyaretçilerine önemli bir avantaj sunuyor.

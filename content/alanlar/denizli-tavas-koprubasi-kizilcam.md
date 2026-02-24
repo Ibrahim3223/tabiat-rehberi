@@ -14,15 +14,13 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","bitki gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Denizli-Tavas-Koprubasi Kızılçam","caption":"Denizli-Tavas-Koprubasi Kızılçam","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Tavas-Koprubasi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227647","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["milli park","kızılçam","iç anadolu","doğa","gezi","turizm","yeşil alan","orman"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227647"
 ---
 
 # Denizli-Tavas-Koprubasi Kızılçam
-
- Bu 140 hektarlık alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakinliği ile baş başa bırakıyor.
 
 ## Tarihçe
 

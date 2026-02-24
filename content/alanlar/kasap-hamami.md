@@ -50,7 +50,7 @@ Kasap Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlara
 ## İlginç Bilgiler
 
 - Gelibolu'nun en güzel plajlarından biri
-- 140 hektarlık alan
+
 - Tarihi kalıntılar ve anıtlar
 - Zengin flora ve fauna
 - İlkbahar ve yaz aylarında ziyaret edilebilir

@@ -37,7 +37,7 @@ Silifke Garip Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Silifke Garip Dede Türbesi, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nin güzelliklerini sunan bir konuma sahiptir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir yeşil alan sunar. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve bu, ziyaretçilere doğayla iç içe bir atmosfer sağlar. Silifke Garip Dede Türbesi, denize yakın bir konumda bulunur ve bu, ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj deneyimi sunar. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır ve bu, ziyaretçilere yılın büyük częğinde güneşli günler sunar. Silifke Garip Dede Türbesi'nin coğrafi konumu, ziyaretçilerine birçok olanak sunar ve bu, burayı önemli bir gezi noktası haline getirir. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder.
+Silifke Garip Dede Türbesi, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nin güzelliklerini sunan bir konuma sahiptir. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve bu, ziyaretçilere doğayla iç içe bir atmosfer sağlar. Silifke Garip Dede Türbesi, denize yakın bir konumda bulunur ve bu, ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj deneyimi sunar. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır ve bu, ziyaretçilere yılın büyük częğinde güneşli günler sunar. Silifke Garip Dede Türbesi'nin coğrafi konumu, ziyaretçilerine birçok olanak sunar ve bu, burayı önemli bir gezi noktası haline getirir. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Silifke Garip Dede Türbesi'ni ziyaret etmek, hem tarihi bir deneyimi hem de do�
 ## İlginç Bilgiler
 
 - Silifke Garip Dede Türbesi, Mersin'in önemli tarihi noktalarından biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Türbenin etrafı, çeşitli bitki türleri ile çevrilidir.
 - Silifke Garip Dede Türbesi, denize yakın bir konumda bulunur.
 - Bölge, yılın her döneminde ziyaret edilebilir.

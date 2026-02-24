@@ -28,7 +28,7 @@ wikidata_id: "Q31385909"
 
 # Cefalık Dağı
 
-Kırşehir'in merkezi bir noktasında yer alan Cefalık Dağı, yaklaşık 140 hektarlık bir alanı kaplıyor. Cefalık Dağı, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu dağ, Kırşehir'in sembollerinden biri olarak kabul ediliyor ve yöre halkının gurur kaynağı.
+ Cefalık Dağı, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu dağ, Kırşehir'in sembollerinden biri olarak kabul ediliyor ve yöre halkının gurur kaynağı.
 
 ## Tarihçe
 

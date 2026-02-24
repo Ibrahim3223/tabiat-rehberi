@@ -42,7 +42,6 @@ Bahçeköy Karacam Milli Parkı, ziyaretçilerine doğayla iç içe bir deneyim 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Marmara Bölgesi'nin önemli milli parklarından biri
 - İstanbul'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon
 - Bahçeköy Karacam, ziyaretçilerine doğayla iç içe bir deneyim sunuyor

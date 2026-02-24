@@ -51,7 +51,7 @@ Kızöldün Tümülüsü'ne ziyaretçiler, kolay bir şekilde ulaşabilirler. Bu
 ## İlginç Bilgiler
 
 - Kızöldün Tümülüsü, Marmara Bölgesi'nin en önemli tarihi alanlarından biridir.
-- Bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kızöldün Tümülüsü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Bu tümülüs, coğrafi konumu itibariyle de dikkat çekici bir yerdir.
 - Kızöldün Tümülüsü, flora ve fauna açısından zengin bir alandır.

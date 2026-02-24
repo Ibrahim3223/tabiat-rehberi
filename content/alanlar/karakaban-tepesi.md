@@ -28,7 +28,7 @@ wikidata_id: "Q31565544"
 
 # Karakaban Tepesi
 
-Karakaban Tepesi, Gümüşhane'nin eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir panorama sunar. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çeker. Karakaban Tepesi, özellikle güneşin batış saatlerinde ziyaret edildiğinde, ziyaretçilerini büyüleyici bir manzarayla karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da zengin bir çeşitlilik gösterir.
+Karakaban Tepesi, Gümüşhane'nin eşsiz doğal güzelliklerinden biridir. Karakaban Tepesi, özellikle güneşin batış saatlerinde ziyaret edildiğinde, ziyaretçilerini büyüleyici bir manzarayla karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da zengin bir çeşitlilik gösterir.
 
 ## Tarihçe
 

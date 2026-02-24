@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat ila bir gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/df/Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_08.jpg","alt":"ARTOVA manzarası","credit":"Michal Louč","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tokat_location_Artova.png/960px-Tokat_location_Artova.png","alt":"ARTOVA","caption":"ARTOVA","credit":"Tokat location Artova","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_09.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_09.jpg/1280px-Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_09.jpg","alt":"ARTOVA - Alešova, Poděbrady (2022) 09","credit":"Michal Louč","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/K%C5%99%C3%ADdla_nad_Prahou.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/K%C5%99%C3%ADdla_nad_Prahou.jpg/1280px-K%C5%99%C3%ADdla_nad_Prahou.jpg","alt":"ARTOVA - Křídla nad Prahou","credit":"Katerina Piskacova","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/52/Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_10.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_10.jpg/1280px-Ale%C5%A1ova%2C_Pod%C4%9Bbrady_%282022%29_10.jpg","alt":"ARTOVA - Alešova, Poděbrady (2022) 10","credit":"Michal Louč","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Artova_Evlideresi_K%C3%B6y%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Artova_Evlideresi_K%C3%B6y%C3%BC.jpg/1280px-Artova_Evlideresi_K%C3%B6y%C3%BC.jpg","alt":"ARTOVA - Artova Evlideresi Köyü","credit":"Hüseyin Cem Karabulut","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/%C3%96mer_KARADA%C4%9E.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%C3%96mer_KARADA%C4%9E.jpg/1280px-%C3%96mer_KARADA%C4%9E.jpg","alt":"ARTOVA - Ömer KARADAĞ","credit":"Psikolog10","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ARTOVA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228747","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Artova milli parkı, zengin fauna ve flora ile dikkat çekiyor."
@@ -31,7 +31,7 @@ Artova milli parkı, tarihi geçmişi ile ilgi çekiyor. Bu bölge, yüzyıllar 
 
 ## Coğrafya
 
-Artova milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve akarsular ile karakterize ediliyor. Artova milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve hayvanlar ile dolu. Parkın coğrafi yapısı, farklı iklim koşullarına uygun olarak şekillenmiştir. Artova milli parkı, genellikle karasal iklim koşullarına sahip olsa da, yerel olarak farklı mikroiklimler oluşabiliyor. Parkın coğrafi konumu, aynı zamanda bölgenin ekolojik dengesini koruma konusundaki çalışmalar için önemli bir role sahip. Artova milli parkı, doğa severler ve bilim insanları için önemli bir destinasyon olarak kabul ediliyor ve ziyaretçilere, çeşitli coğrafi oluşumlar ve doğal güzellikler sunuyor.
+Artova milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve akarsular ile karakterize ediliyor. Parkın coğrafi yapısı, farklı iklim koşullarına uygun olarak şekillenmiştir. Artova milli parkı, genellikle karasal iklim koşullarına sahip olsa da, yerel olarak farklı mikroiklimler oluşabiliyor. Parkın coğrafi konumu, aynı zamanda bölgenin ekolojik dengesini koruma konusundaki çalışmalar için önemli bir role sahip. Artova milli parkı, doğa severler ve bilim insanları için önemli bir destinasyon olarak kabul ediliyor ve ziyaretçilere, çeşitli coğrafi oluşumlar ve doğal güzellikler sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Artova milli parkı, ziyaretçilere, çeşitli doğal güzellikler ve fauna/flor
 
 ## İlginç Bilgiler
 
-- Artova milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Park, çeşitli flora ve fauna türleri ile dikkat çekiyor.
 - Artova milli parkı, genellikle doğa severler ve bilim insanları tarafından ziyaret ediliyor.
 - Parkın coğrafi konumu, bölgenin ekolojik dengesini koruma konusundaki çalışmalar için önemli bir role sahip.

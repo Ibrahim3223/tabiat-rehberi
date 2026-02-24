@@ -42,7 +42,6 @@ Kastamonu İnebolu Apaştepe Sit alanı, ziyaretçilere çeşitli aktiviteler su
 
 ## İlginç Bilgiler
 
-- Kastamonu İnebolu Apaştepe Sit alanı, 140 hektarlık bir alana sahiptir.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Kastamonu İnebolu Apaştepe Sit alanı, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir.
 - Bu bölgede, doğa severler ve tarih meraklıları için ideal bir destinasyon sunuluyor.

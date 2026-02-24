@@ -22,7 +22,7 @@ wikidata_id: "Q108228582"
 
 # Kahramanmaras-Andırın-Akifiye-Toros Goknari
 
-Kahramanmaras-Andırın-Akifiye-Toros Goknari milli parkı, yaklaşık 140 hektarlık alanıyla, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Milli parkın zengin fauna ve flora çeşitliliği, ziyaretçilerin doğayı yakından tanımalarına olanak tanır. Doğal güzellikleri, tarihi geçmişi ve turistik olanaklarıyla, Kahramanmaras-Andırın-Akifiye-Toros Goknari milli parkı, ziyaretçilerini bekliyor.
+ Milli parkın zengin fauna ve flora çeşitliliği, ziyaretçilerin doğayı yakından tanımalarına olanak tanır. Doğal güzellikleri, tarihi geçmişi ve turistik olanaklarıyla, Kahramanmaras-Andırın-Akifiye-Toros Goknari milli parkı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

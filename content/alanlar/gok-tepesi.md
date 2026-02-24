@@ -51,5 +51,5 @@ Gök Tepesi'ni ziyaret etmek, ziyaretçilere, Karadeniz Bölgesi'nin güzelliği
 - Gök Tepesi, Giresun ilinin en önemli turizm noktalarından biri
 - Gök Tepesi, Karadeniz Bölgesi'nin karakteristik flora ve faunasını sunuyor
 - Gök Tepesi, ziyaretçilerine, bölgenin güzel manzarasını sunuyor
-- Gök Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde
+
 - Gök Tepesi, yüksek bir konumda

@@ -49,7 +49,7 @@ wikidata_id: "Q31390578"
 ## İlginç Bilgiler
 
 - İyidost Tepesi, Nevşehir ilinin önemli bir turizm merkezi
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - İyidost Tepesi, yüksek bir konumdate yer alıyor
 - Bu tepe, flora ve fauna açısından zengin bir bölge
 - İyidost Tepesi, her mevsim ziyaret edilebilir

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Ballik Koyu Sediri","caption":"Ballik Koyu Sediri","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ballik%20Koyu%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227363","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Ballik Koyu Sediri","İç Anadolu Bölgesi","doğal güzellik","milli park"," Sedir","orman","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227363"

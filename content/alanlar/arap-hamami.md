@@ -29,7 +29,7 @@ wikidata_id: "Q131738908"
 
 # Arap Hamamı
 
-Arap Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bursa'nın Gemlik ilçesinde bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kapsar. Arap Hamamı, denize girerek serinleme ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyondur. Plajın etrafında, çeşitli bitkiler ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir deneyim sunar.
+Arap Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Arap Hamamı, denize girerek serinleme ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyondur. Plajın etrafında, çeşitli bitkiler ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 

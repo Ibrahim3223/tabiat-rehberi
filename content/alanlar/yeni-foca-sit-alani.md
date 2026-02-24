@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşleri","Yaban Hayatı Gözlemi","Fotoğrafçılı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Yeni Foça Sit Alanı","caption":"Yeni Foça Sit Alanı","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Fo%C3%A7a%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225919","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin yeni adresi"
+
 keywords: ["Yeni Foça","Sit Alanı","İç Anadolu Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108225919"
@@ -22,7 +22,7 @@ wikidata_id: "Q108225919"
 
 # Yeni Foça Sit Alanı
 
-Yeni Foça Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Yeni Foça Sit Alanı, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. 140 hektarlık bu yeşil alan, hem doğa yürüyüşleri hem de yaban hayatı gözlemi için ideal bir ortam sunuyor.
+ Yeni Foça Sit Alanı, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor.
 
 ## Tarihçe
 

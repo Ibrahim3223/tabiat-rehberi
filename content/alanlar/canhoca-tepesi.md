@@ -28,7 +28,7 @@ wikidata_id: "Q34828353"
 
 # Çanhoca Tepesi
 
-İç Anadolu Bölgesi'nin merkezi bir konumda yer alan Çanhoca Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğal güzelliklerine davet ediyor. Tepenin yüksekliği ve genişliği, manzarayı izleme ve doğayı keşfetmek için ideal bir nokta sunuyor. Çanhoca Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+ Tepenin yüksekliği ve genişliği, manzarayı izleme ve doğayı keşfetmek için ideal bir nokta sunuyor. Çanhoca Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

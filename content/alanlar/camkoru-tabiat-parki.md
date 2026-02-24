@@ -50,7 +50,6 @@ wikidata_id: "Q6084143"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Ankara'nın en yeşil noktalarından biri
 -  İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor
 - çeşitli bitki türleri ve zengin fauna

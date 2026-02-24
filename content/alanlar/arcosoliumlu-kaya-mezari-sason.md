@@ -29,7 +29,7 @@ wikidata_id: "Q134728188"
 
 # Arcosoliumlu Kaya Mezarı, Sason
 
-Arcosoliumlu Kaya Mezarı, Sason, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve kültürel varlıklarından biri olarak dikkat çekiyor. Bu antik mezar, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor ve coğrafyanın zengin tarihini yansıtıyor. 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilerini geçmişin derinliklerine götürmeye hazır. Arcosoliumlu Kaya Mezarı, Sason'un tarihi geçmişi ve kültürel zenginliği hakkında önemli bilgiler sunuyor. Bu mezar, bölgenin tarihi ve kültürel önemini vurguluyor ve ziyaretçilerini geçmişe doğru bir yolculuğa davet ediyor.
+Arcosoliumlu Kaya Mezarı, Sason, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve kültürel varlıklarından biri olarak dikkat çekiyor. Arcosoliumlu Kaya Mezarı, Sason'un tarihi geçmişi ve kültürel zenginliği hakkında önemli bilgiler sunuyor. Bu mezar, bölgenin tarihi ve kültürel önemini vurguluyor ve ziyaretçilerini geçmişe doğru bir yolculuğa davet ediyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Arcosoliumlu Kaya Mezarı, Sason'a ziyaretçiler, çeşitli ulaşım seçenekler
 ## İlginç Bilgiler
 
 - Arcosoliumlu Kaya Mezarı, Sason'un en önemli tarihi ve kültürel varlıklarından biri.
-- Mezar, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor.
+
 - Bölge, zengin bir flora ve fauna ile kaplı.
 - Mevsimsel değişimler, bu bölgede önemli bir rol oynuyor.
 - Ziyaretçiler, mezarı gezerken, bölgenin tarihi ve kültürel zenginliğini deneyimleme fırsatı buluyor.

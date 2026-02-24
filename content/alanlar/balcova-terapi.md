@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","çevre keşfi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Bal%C3%A7ova_Terapi_Orman%C4%B1_03.jpg","alt":"BALÇOVA TERAPİ manzarası","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bal%C3%A7ova_Terapi_Orman%C4%B1_08.jpg/960px-Bal%C3%A7ova_Terapi_Orman%C4%B1_08.jpg","alt":"BALÇOVA TERAPİ","caption":"BALÇOVA TERAPİ","credit":"Balçova Terapi Ormanı 08","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7e/Bal%C3%A7ova_Terapi_Orman%C4%B1_09.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bal%C3%A7ova_Terapi_Orman%C4%B1_09.jpg/1280px-Bal%C3%A7ova_Terapi_Orman%C4%B1_09.jpg","alt":"BALÇOVA TERAPİ - Balçova Terapi Ormanı 09","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/Bal%C3%A7ova_Terapi_Orman%C4%B1_08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bal%C3%A7ova_Terapi_Orman%C4%B1_08.jpg/1280px-Bal%C3%A7ova_Terapi_Orman%C4%B1_08.jpg","alt":"BALÇOVA TERAPİ - Balçova Terapi Ormanı 08","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/db/Bal%C3%A7ova_Terapi_Orman%C4%B1_11.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bal%C3%A7ova_Terapi_Orman%C4%B1_11.jpg/1280px-Bal%C3%A7ova_Terapi_Orman%C4%B1_11.jpg","alt":"BALÇOVA TERAPİ - Balçova Terapi Ormanı 11","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Bal%C3%A7ova_Terapi_Orman%C4%B1_14.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bal%C3%A7ova_Terapi_Orman%C4%B1_14.jpg/1280px-Bal%C3%A7ova_Terapi_Orman%C4%B1_14.jpg","alt":"BALÇOVA TERAPİ - Balçova Terapi Ormanı 14","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Bal%C3%A7ova_Terapi_Orman%C4%B1_16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bal%C3%A7ova_Terapi_Orman%C4%B1_16.jpg/1280px-Bal%C3%A7ova_Terapi_Orman%C4%B1_16.jpg","alt":"BALÇOVA TERAPİ - Balçova Terapi Ormanı 16","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BAL%C3%87OVA%20TERAP%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228745","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğayı keşfetmek için ideal bir yer."
+"
 keywords: ["BALÇOVA TERAPİ","İç Anadolu Bölgesi","doğa","gezi","milli park","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228745"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228745"
 
 # BALÇOVA TERAPİ
 
-BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alanı kapsayan bir milli parktır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrado. BALÇOVA TERAPİ, hem doğayı korumak hem de ziyaretçilere unutulmaz deneyimler sunmak amacıyla kurulmuştur. Doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir yer olan BALÇOVA TERAPİ, her mevsim ziyaretçilerini bekliyor.
+ Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrado. BALÇOVA TERAPİ, hem doğayı korumak hem de ziyaretçilere unutulmaz deneyimler sunmak amacıyla kurulmuştur. Doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir yer olan BALÇOVA TERAPİ, her mevsim ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ BALÇOVA TERAPİ, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın iç
 BALÇOVA TERAPİ'yi ziyaret etmek, doğa severler için ideal bir aktivite. Parka ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabiliyor. Ziyaretçiler, parkın içerisinde doğa yürüyüşleri yapabilir, piknik alanlarında yemek yiyebilir veya çevreyi keşfedebilir. BALÇOVA TERAPİ, her mevsim ziyaretçilerini bekliyor ve onlara unutulmaz bir deneyim sunuyor. Ziyaretçilerin, parkın kurallarına uyması ve doğayı korumaya dikkat etmesi önemli.
 
 ## İlginç Bilgiler
-
-- BALÇOVA TERAPİ, 140 hektarlık bir alanı kapsıyor.
 
 - BALÇOVA TERAPİ, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Park, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birisidir.

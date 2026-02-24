@@ -38,7 +38,7 @@ wikidata_id: "Q131390936"
 
 ## Coğrafya
 
-Şeyh Mustafa Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Bu bölge, yeşilin ve mavinin birleştiği bir noktada, denizin ve ormanın buluştuğu bir mekan. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve geniş bir plaj ile ziyaretçilerine birçok faaliyet alanı sunuyor. Bu bölgenin coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerine sahip. Dağlar, ormanlar ve deniz, bu bölgenin coğrafi güzelliklerini oluşturuyor. Şeyh Mustafa Türbesi, bu coğrafi güzelliklerin ortasında, ziyaretçilerine huzur ve dinlenme alanı sunuyor.
+Şeyh Mustafa Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Bu bölge, yeşilin ve mavinin birleştiği bir noktada, denizin ve ormanın buluştuğu bir mekan. Bu bölgenin coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerine sahip. Dağlar, ormanlar ve deniz, bu bölgenin coğrafi güzelliklerini oluşturuyor. Şeyh Mustafa Türbesi, bu coğrafi güzelliklerin ortasında, ziyaretçilerine huzur ve dinlenme alanı sunuyor.
 
 ## Flora ve Fauna
 

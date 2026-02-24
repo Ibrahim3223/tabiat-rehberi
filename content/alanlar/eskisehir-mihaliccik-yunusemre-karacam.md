@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fauna","bitki gözlemi","fotografçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Eskisehir-Mihaliccik-Yunusemre-Karacam","caption":"Eskisehir-Mihaliccik-Yunusemre-Karacam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskisehir-Mihaliccik-Yunusemre-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228562","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, 140 hektarlık alanın büyüleyici atmosferini deneyimleyin."
+"
 keywords: ["Eskisehir","Mihaliccik","Yunusemre","Karacam","milli park","doğa","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228562"
@@ -30,7 +30,7 @@ Eskisehir-Mihaliccik-Yunusemre-Karacam milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Eskisehir-Mihaliccik-Yunusemre-Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli arazilerle kaplıdır. Bu milli park, 140 hektarlık bir alana yayılmış ve çeşitli bitki türleriyle doludur. Milli parkın coğrafi yapısı, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak tanır. Ziyaretçiler, bu milli parkı ziyaret ederek, doğal güzellikleri, faunaının çeşitliliğini ve coğrafi yapısını keşfedebilirler. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklimdir. Bu reason, ziyaretçilerin yılın her dönemi milli parkı ziyaret etmelerine olanak tanır.
+Eskisehir-Mihaliccik-Yunusemre-Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli arazilerle kaplıdır. Milli parkın coğrafi yapısı, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak tanır. Ziyaretçiler, bu milli parkı ziyaret ederek, doğal güzellikleri, faunaının çeşitliliğini ve coğrafi yapısını keşfedebilirler. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklimdir. Bu reason, ziyaretçilerin yılın her dönemi milli parkı ziyaret etmelerine olanak tanır.
 
 ## Flora ve Fauna
 

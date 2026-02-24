@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"HUZURLU_TP","caption":"HUZURLU_TP","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HUZURLU_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228777","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan ve zengin fauna"
+
 keywords: ["HUZURLU_TP","İç Anadolu Bölgesi","yeşil alan","zengin fauna","doğa","gezi","turizm","milli park","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228777"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228777"
 
 # HUZURLU_TP
 
-HUZURLU_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. HUZURLU_TP, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğa ile iç içe olmasını sağlar.
+ HUZURLU_TP, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğa ile iç içe olmasını sağlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ HUZURLU_TP'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, tari
 
 ## Coğrafya
 
-HUZURLU_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölge, 140 hektarlık yeşil alan ile çevrilidir ve çeşitli bitki türleri ile zengin fauna barındırır. HUZURLU_TP'nin coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Burada, çeşitli coğrafi oluşumlar ve doğal güzellikler, ziyaretçilerin ilgisini çeker. HUZURLU_TP, doğası ve güzelliği ile ziyaretçilerini etkileyen bir yerdir. Bu bölge, İç Anadolu Bölgesi'nin en önemli doğal bölgelerinden biridir ve ziyaretçilere benzersiz bir deneyim sunar.
+HUZURLU_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. HUZURLU_TP'nin coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Burada, çeşitli coğrafi oluşumlar ve doğal güzellikler, ziyaretçilerin ilgisini çeker. HUZURLU_TP, doğası ve güzelliği ile ziyaretçilerini etkileyen bir yerdir. Bu bölge, İç Anadolu Bölgesi'nin en önemli doğal bölgelerinden biridir ve ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -41,8 +41,6 @@ HUZURLU_TP, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkile
 HUZURLU_TP, ziyaretçilerine benzersiz bir deneyim sunar. Burada, doğa ile iç içe olma ve çeşitli bitki türleri ile zengin fauna görme mümkündür. HUZURLU_TP'ye gitmek için en iyi mevsim, bahar ve yaz aylarıdır. Bu dönemde, doğa en güzel hali ile ziyaretçileri karşılar. HUZURLU_TP'ye gitmek için, çeşitli ulaşım seçenekleri bulunmaktadır. Ziyaretçilerin, buraya gitmeden önce, bölgenin coğrafi yapısı ve doğası hakkında bilgi sahibi olması önerilir.
 
 ## İlginç Bilgiler
-
-- HUZURLU_TP, 140 hektarlık bir yeşil alandır.
 
 - HUZURLU_TP, çeşitli bitki türleri ve zengin fauna barındırır.
 - Bu bölge, doğa severlerin ve bilim insanlarının ilgisini çeker.

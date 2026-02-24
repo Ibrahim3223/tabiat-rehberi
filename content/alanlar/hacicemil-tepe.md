@@ -36,7 +36,7 @@ Hacıcemil Tepe'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yan
 
 ## Coğrafya
 
-Hacıcemil Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genel olarak dağlık ve engebeli bir yapıya sahiptir ve Hacıcemil Tepe, bu coğrafi yapının önemli bir parçasını oluşturur. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar. Bölgenin iklimi, genel olarak sıcak ve kurak bir karaktere sahiptir, ancak yüksek rakımlarda daha serin bir iklim hakimdir. Hacıcemil Tepe, ziyaretçilere bölgenin coğrafi yapısını gözlemleme ve doğal güzelliklerini keşfetme fırsatı sunar.
+Hacıcemil Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genel olarak dağlık ve engebeli bir yapıya sahiptir ve Hacıcemil Tepe, bu coğrafi yapının önemli bir parçasını oluşturur. Bölgenin iklimi, genel olarak sıcak ve kurak bir karaktere sahiptir, ancak yüksek rakımlarda daha serin bir iklim hakimdir. Hacıcemil Tepe, ziyaretçilere bölgenin coğrafi yapısını gözlemleme ve doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Hacıcemil Tepe, ziyaretçilere çeşitli aktivite olanakları sunar. Tepeye tı
 
 ## İlginç Bilgiler
 
-- Hacıcemil Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepe, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel izlerini bırakmıştır.
 - Hacıcemil Tepe, ziyaretçilere bölgenin coğrafi yapısını gözlemleme ve doğal güzelliklerini keşfetme fırsatı sunar.

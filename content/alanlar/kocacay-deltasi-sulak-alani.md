@@ -42,8 +42,6 @@ Kocaçay Deltası Sulak Alanı, doğa severler için önemli bir ziyaret noktas�
 
 ## İlginç Bilgiler
 
-- Kocaçay Deltası Sulak Alanı, 140 hektarlık bir alanı kapsıyor
-- Sulak alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Kocaçay Deltası Sulak Alanı, doğa severler için önemli bir ziyaret noktası
 - Sulak alan, bahar aylarında rengarenk bir güzelliğe bürünüyor

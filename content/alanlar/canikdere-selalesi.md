@@ -46,5 +46,5 @@ Canikdere Şelalesi'ni ziyaret etmek, doğa tutkunları ve fotoğraf sanatçıla
 - Canikdere Şelalesi, Trabzon'un en önemli doğal güzelliklerinden biri.
 - Şelale, Karadeniz Bölgesi'nin zengin florası ve faunası ile çevrili.
 - Canikdere Şelalesi, yıl boyunca ziyaret edilebiliyor.
-- Şelale, 140 hektarlık bir alanda yer alıyor.
+
 - Canikdere Şelalesi, fotoğrafçılar için bir cennet.

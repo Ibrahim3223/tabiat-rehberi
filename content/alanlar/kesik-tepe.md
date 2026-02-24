@@ -36,7 +36,7 @@ Kesik Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-Kesik Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve çeşitli bitki türleriyle kaplıdır. Kesik Tepe'nin etrafı, yaban hayatı açısından zengin bir alandır ve burada verschillı canlı türleri bulunur. Bu tepe, ayrıca, coğrafi açıdan önemli bir noktadır ve ziyaretçiler, burada doğal güzellikleri keşfedebilirler. Kesik Tepe'nin iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve ziyaretçiler, burada dört mevsimi deneyimleyebilirler. Bu tepe, coğrafi açıdan önemli bir noktadır ve ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de coğrafi açıdan zengin bir deneyim yaşayabilirler.
+Kesik Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasıdır. Kesik Tepe'nin etrafı, yaban hayatı açısından zengin bir alandır ve burada verschillı canlı türleri bulunur. Bu tepe, ayrıca, coğrafi açıdan önemli bir noktadır ve ziyaretçiler, burada doğal güzellikleri keşfedebilirler. Kesik Tepe'nin iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve ziyaretçiler, burada dört mevsimi deneyimleyebilirler. Bu tepe, coğrafi açıdan önemli bir noktadır ve ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de coğrafi açıdan zengin bir deneyim yaşayabilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kesik Tepe'yi ziyaret etmek, hem doğa severler hem de tarih meraklıları için
 ## İlginç Bilgiler
 
 - Kesik Tepe, İç Anadolu Bölgesi'nin coğrafi ve tarihi açıdan önemli noktalarından biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kesik Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve yaban hayatı açısından zengin bir alandır.
 - Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır.
 - Kesik Tepe, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar mevsimleri, ziyaret için en uygun zamanlardır.

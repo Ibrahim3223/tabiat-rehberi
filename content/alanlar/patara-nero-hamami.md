@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Patara%20Bath%20of%20Nero-Vespasian%20in%202013%204720.jpg","alt":"Patara Nero Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Patara%20Nero%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738913","tip":"genel"}]
-description: "Kaş'ta bulunan Patara Nero Hamamı, antik Patara kentinde yer alan tarihi bir yapıdır. 140 hektarlık bir alanda kurulmuştur."
+description: "Kaş'ta bulunan Patara Nero Hamamı, antik Patara kentinde yer alan tarihi bir yapıdır."
 keywords: ["Patara","Nero Hamamı","Kaş","Antik Kent","Tarih","Arkeoloji","Gezi","Turizm","Doğa","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738913"

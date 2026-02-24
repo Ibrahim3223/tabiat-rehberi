@@ -38,7 +38,7 @@ Hançerli Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu h
 
 ## Coğrafya
 
-Hançerli Hamam, Ayvansaray'da bulunmaktadır. Bu alan, İç Anadolu Bölgesi'nde yer almaktadır. Hançerli Hamam, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Bu yeşil alan, çeşitli bitki türleri ile kaplıdır. Hançerli Hamam, doğal güzelliği ile dikkat çeker. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmeyi başarmaktadır. Hançerli Hamam, Ayvansaray'ın en önemli turistik noktalarından biridir. Hançerli Hamam, çevredeki dağlar ve yeşil alanlar ile çevrilidir. Bu alan, doğal güzelliği ile dikkat çeker. Hançerli Hamam, ziyaretçilerini doğal güzelliği ile çekmeyi başarmaktadır.
+Hançerli Hamam, Ayvansaray'da bulunmaktadır. Bu alan, İç Anadolu Bölgesi'nde yer almaktadır. Bu yeşil alan, çeşitli bitki türleri ile kaplıdır. Hançerli Hamam, doğal güzelliği ile dikkat çeker. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmeyi başarmaktadır. Hançerli Hamam, Ayvansaray'ın en önemli turistik noktalarından biridir. Hançerli Hamam, çevredeki dağlar ve yeşil alanlar ile çevrilidir. Bu alan, doğal güzelliği ile dikkat çeker. Hançerli Hamam, ziyaretçilerini doğal güzelliği ile çekmeyi başarmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hançerli Hamam, ziyaretçilerini doğal güzelliği ile çekmeyi başarmaktadı
 ## İlginç Bilgiler
 
 - Hançerli Hamam, tarihi bir hamam ve plaj alanıdır
-- Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur
+
 - Hançerli Hamam, doğal güzelliği ile dikkat çeker
 - Bu alan, çeşitli bitki türleri ile kaplıdır
 - Hançerli Hamam, zengin fauna ile dikkat çeker

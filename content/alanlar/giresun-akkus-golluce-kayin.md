@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","trekking","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Giresun-Akkus-Golluce-Kayin","caption":"Giresun-Akkus-Golluce-Kayin","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Akkus-Golluce-Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228548","tip":"genel"}]
-description: "Giresun'un doğal güzellikleri arasında yer alan milli park, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
+"
 keywords: ["Giresun","Akkus","Golluce","Kayin","milli park","doğa","yeşil alan","bitki türleri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228548"
@@ -30,7 +30,7 @@ Giresun-Akkus-Golluce-Kayin milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Giresun-Akkus-Golluce-Kayin milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölge. 140 hektarlık yeşil alan, dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve doğanın güzelliğini deneyimleyebilir edebilmesi için ideal bir yer. Dağların yüksekliği, ormanların yoğunluğu ve nehirlerin akış hızı, bu bölgenin coğrafi çeşitliliğini gösteriyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak belirlenmiş ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Kışın karla kaplı dağlar, ilkbaharda çiçeklerin açtığı ormanlar, yazın sıcakcık güneşin vurduğu nehirler ve sonbaharda renk değiştiren yapraklar, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Giresun-Akkus-Golluce-Kayin milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve doğanın güzelliğini deneyimleyebilir edebilmesi için ideal bir yer. Dağların yüksekliği, ormanların yoğunluğu ve nehirlerin akış hızı, bu bölgenin coğrafi çeşitliliğini gösteriyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak belirlenmiş ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Kışın karla kaplı dağlar, ilkbaharda çiçeklerin açtığı ormanlar, yazın sıcakcık güneşin vurduğu nehirler ve sonbaharda renk değiştiren yapraklar, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Giresun-Akkus-Golluce-Kayin milli parkına ziyaretçiler, çeşitli yollarla ula
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türleri ve hayvanlarla dolu
 - Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor
 - Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak belirlenmiş

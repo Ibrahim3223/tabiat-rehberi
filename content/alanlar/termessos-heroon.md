@@ -42,16 +42,16 @@ Termessos Heroon, Döşemealtı/Antalya'da yer alan bir plajdır. Bu plaj, Akden
 
 ## Flora ve Fauna
 
-Termessos Heroon, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosistem sunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve çeşitli bitki türleri ile birlikte, ziyaretçilerine benzersiz bir doğal güzellik sunmaktadır. Termessos Heroon'un flora ve fauna zenginliği, ziyaretçilerine bu bölgenin doğal güzelliği hakkında bilgi sahibi olma fırsatı sunmaktadır. Bu plaj, ayrıca, çeşitli mevsimlerde ziyaret edilebilmekte ve her mevsim farklı bir güzelliğe sahip olmaktadır. Termessos Heroon'un flora ve fauna zenginliği, ziyaretçilerine bu bölgenin doğal güzelliği ve tarihi önemi hakkında bilgi sahibi olma fırsatı sunmaktadır.
+Termessos Heroon, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosistem sunmaktadır. Termessos Heroon'un flora ve fauna zenginliği, ziyaretçilerine bu bölgenin doğal güzelliği hakkında bilgi sahibi olma fırsatı sunmaktadır. Bu plaj, ayrıca, çeşitli mevsimlerde ziyaret edilebilmekte ve her mevsim farklı bir güzelliğe sahip olmaktadır. Termessos Heroon'un flora ve fauna zenginliği, ziyaretçilerine bu bölgenin doğal güzelliği ve tarihi önemi hakkında bilgi sahibi olma fırsatı sunmaktadır.
 
 ## Ziyaret Bilgileri
 
-Termessos Heroon, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve çeşitli bitki türleri ile birlikte, ziyaretçilerine doğal güzelliği hakkında bilgi sahibi olma fırsatı sunmaktadır. Termessos Heroon'un coğrafi konumu, ziyaretçilerine bu bölgenin doğal güzelliği ve tarihi önemi hakkında bilgi sahibi olma fırsatı sunmaktadır. Bu plaj, ayrıca, çeşitli aktivite olanakları sunmaktadır. Termessos Heroon'u ziyaret etmek için en iyi zaman, genellikle ilkbahar ve yaz aylarıdır. Bu plaj, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır.
+Termessos Heroon, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Termessos Heroon'un coğrafi konumu, ziyaretçilerine bu bölgenin doğal güzelliği ve tarihi önemi hakkında bilgi sahibi olma fırsatı sunmaktadır. Bu plaj, ayrıca, çeşitli aktivite olanakları sunmaktadır. Termessos Heroon'u ziyaret etmek için en iyi zaman, genellikle ilkbahar ve yaz aylarıdır. Bu plaj, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır.
 
 ## İlginç Bilgiler
 
 - Termessos Heroon, Döşemealtı/Antalya'da yer alan bir plajdır.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Termessos Heroon'un coğrafi konumu, ziyaretçilerine benzersiz bir doğal güzellik sunmaktadır.
 - Bu plaj, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosistem sunmaktadır.
 - Termessos Heroon'un tarihi geçmişi, tarihi kaynaklara göre oldukça eskidir.

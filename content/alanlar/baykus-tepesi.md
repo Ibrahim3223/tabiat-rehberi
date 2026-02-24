@@ -36,7 +36,7 @@ Baykuş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan toplu
 
 ## Coğrafya
 
-Baykuş Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, 200 futbol sahası büyüklüğünde olan bir doğal güzelliktir. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Baykuş Tepesi'nin eteklerinde, geniş otlaklar ve ağaçlık alanlar bulunur. Tepenin zirvesinden, bölgenin geniş bir kısmını görme mümkündür. Baykuş Tepesi, bölgenin en önemli coğrafi özelliklerinden biri olarak bilinir. Tepenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Baykuş Tepesi, dört mevsim ziyaret edilebilir.
+ Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Baykuş Tepesi'nin eteklerinde, geniş otlaklar ve ağaçlık alanlar bulunur. Tepenin zirvesinden, bölgenin geniş bir kısmını görme mümkündür. Baykuş Tepesi, bölgenin en önemli coğrafi özelliklerinden biri olarak bilinir. Tepenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Baykuş Tepesi, dört mevsim ziyaret edilebilir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Baykuş Tepesi, ziyaretçilerini doğanın içinde huzurlu bir atmosfere davet e
 
 ## İlginç Bilgiler
 
-- Baykuş Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde, geniş otlaklar ve ağaçlık alanlar bulunur.
 - Baykuş Tepesi, birçok farklı bitki türüne ev sahipliği yapar.
 - Tepede, çeşitli kuş türleri, memeliler ve diğer hayvanlar bulunabilir.

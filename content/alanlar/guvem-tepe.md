@@ -28,7 +28,7 @@ wikidata_id: "Q32139644"
 
 # Güvem Tepe
 
-Güvem Tepe, İç Anadolu Bölgesi'nin kalbinde, Çankırı şehir merkezine yakın bir konumda yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık alanıyla, ziyaretçilerine geniş ve yeşil bir space sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerin doğayla baş başa kalabileceği, dinlenebileceği ve güzellikleri keşfedebileceği bir ortam sağlıyor. Güvem Tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Bu tepe, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
+Güvem Tepe, İç Anadolu Bölgesi'nin kalbinde, Çankırı şehir merkezine yakın bir konumda yer alan bir tepe. Güvem Tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Bu tepe, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Güvem Tepe, ziyaretçilerine birçok aktivite imkanı sunuyor. Ziyaretçiler, b
 ## İlginç Bilgiler
 
 - Güvem Tepe, Çankırı şehir merkezine yakındır.
-- Bu tepe, yaklaşık 140 hektarlık bir alana sahiptir.
+
 - Ziyaretçiler, bu tepeyi yürüyerek gezebilir.
 - Güvem Tepe, doğa severler için bir cennet olarak biliniyor.
 - Bu tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.

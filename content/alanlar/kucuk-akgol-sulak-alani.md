@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğrafçılık","Bilim i
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Küçük Akgöl Sulak Alanı","caption":"Küçük Akgöl Sulak Alanı","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Akg%C3%B6l%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229024","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzel sulak alanlarından biri, 140 hektarlık alanıyla önemli bir ekosistem"
+
 keywords: ["Küçük Akgöl","Sulak Alanı","İç Anadolu Bölgesi","Ekosistem","Doğa","Sulak Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229024"
@@ -30,7 +30,7 @@ Küçük Akgöl Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca oluşan 
 
 ## Coğrafya
 
-Küçük Akgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölümünde yer almaktadır. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Sulak alanın coğrafi yapısı, çevresindeki dağlar ve ovalar ile şekillenmiştir. Bu sulak alan, bölgenin iklim koşullarına bağlı olarak, mevsimsel olarak değişen bir ekosistem olarak değerlendirilebilir. Sulak alanın su kaynakları, bölgedeki yağmur ve kar suyunun toplandığı yerlerdir. Bu sulak alanın coğrafi konumu, aynı zamanda bölgenin flora ve faunası için de önemli bir merkezdir. Sulak alanın coğrafi yapısı, ziyaretçilere güzel manzaralar ve çeşitli doğa güzellikleri sunmaktadır.
+Küçük Akgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölümünde yer almaktadır. Sulak alanın coğrafi yapısı, çevresindeki dağlar ve ovalar ile şekillenmiştir. Bu sulak alan, bölgenin iklim koşullarına bağlı olarak, mevsimsel olarak değişen bir ekosistem olarak değerlendirilebilir. Sulak alanın su kaynakları, bölgedeki yağmur ve kar suyunun toplandığı yerlerdir. Bu sulak alanın coğrafi konumu, aynı zamanda bölgenin flora ve faunası için de önemli bir merkezdir. Sulak alanın coğrafi yapısı, ziyaretçilere güzel manzaralar ve çeşitli doğa güzellikleri sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Küçük Akgöl Sulak Alanı, doğa severler ve bilim insanları için önemli b
 
 ## İlginç Bilgiler
 
-- Sulak alanın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Sulak alan, bölgenin endemik bitki türleri için önemli bir yaşam alanı
 - Sulak alanın fauna çeşitliliği, bölgenin ekolojik dengesi için çok önemlidir
 - Sulak alan, bilim insanları tarafından detaylı olarak incelenmiştir

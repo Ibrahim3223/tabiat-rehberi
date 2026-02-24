@@ -14,7 +14,7 @@ aktiviteler: ["Kuş gözlemciliği","Doğa yürüyüşü","Fotografcılık"," Pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg","alt":"Kaz Gölü Sulak Alanı","caption":"Kaz Gölü Sulak Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546845911)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaz%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229025","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir sulak alan"
+
 keywords: ["Kaz Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğal Alan","Çevre","Ekosistem","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229025"
@@ -42,8 +42,6 @@ Kaz Gölü Sulak Alanı, özellikle kuş gözlemcileri ve doğa severler için b
 
 ## İlginç Bilgiler
 
-- Kaz Gölü Sulak Alanı, 140 hektarlık bir alanı kapsıyor
-- Sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor
 - Kaz Gölü Sulak Alanı, özellikle kuş gözlemcileri için önemli bir destinasyon olarak biliniyor
 - Sulak alan, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapıyor
 - Kaz Gölü Sulak Alanı, doğal güzelliği ve ekolojik önemi itibariyle, ziyaretçilerini bekleyen bir doğa harikası olarak karşımıza çıkıyor

@@ -21,7 +21,7 @@ aktiviteler: ["tarihi yapı gezmek","doğa yürüyüşü","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Tabae Roma Hamamı","caption":"Tabae Roma Hamamı","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tabae%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739091","tip":"genel"}]
-description: "Denizli'nin Kale ilçesinde bulunan tarihi Roma Hamamı, 140 hektarlık alanıyla ziyaretçilerini bekliyor. Roma döneminden kalan bu tarihi yapı, Ege Bölgesi'nin önemli turistik merkezlerinden biri."
+ Roma döneminden kalan bu tarihi yapı, Ege Bölgesi'nin önemli turistik merkezlerinden biri."
 keywords: ["Roma Hamamı","Kale","Denizli","Ege Bölgesi","tarihi yapı","turistik merkez","Roma dönemi","antik kent"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739091"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739091"
 
 # Tabae Roma Hamamı
 
-Tabae Roma Hamamı, Denizli'nin Kale ilçesinde yer alan ve Roma döneminden kalan bir tarihi yapıdır. 140 hektarlık alanıyla dikkat çeken bu hamam, Ege Bölgesi'nin en önemli turistik merkezlerinden biri olarak kabul ediliyor. Roma Hamamı, bölgeye gelen ziyaretçilerin mutlaka görmesi gereken bir destinasyon olarak öneriliyor. Roma Hamamı, Kale ilçesinin merkezine yakın bir konumda bulunması nedeniyle ulaşımı da oldukça kolay.
+Tabae Roma Hamamı, Denizli'nin Kale ilçesinde yer alan ve Roma döneminden kalan bir tarihi yapıdır. Roma Hamamı, bölgeye gelen ziyaretçilerin mutlaka görmesi gereken bir destinasyon olarak öneriliyor. Roma Hamamı, Kale ilçesinin merkezine yakın bir konumda bulunması nedeniyle ulaşımı da oldukça kolay.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Tabae Roma Hamamı, Ege Bölgesi'nin önemli turistik merkezlerinden biri olarak
 ## İlginç Bilgiler
 
 - Roma Hamamı, Roma döneminden kalan bir tarihi yapıdır
-- Roma Hamamı, 140 hektarlık bir alanı kapsıyor
+
 - Roma Hamamı, Ege Bölgesi'nin önemli turistik merkezlerinden biri olarak kabul ediliyor
-- Roma Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alıyor
+
 - Roma Hamamı, Kale ilçesinin merkezine yakın bir konumda bulunması nedeniyle ulaşımı da oldukça kolay

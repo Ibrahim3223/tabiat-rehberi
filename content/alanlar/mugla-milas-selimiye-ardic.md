@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Mugla-Milas-Selimiye-Ardıc","caption":"Mugla-Milas-Selimiye-Ardıc","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Selimiye-Ard%C4%B1c","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228279","tip":"genel"}]
-description: "Muğla'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna."
+description: "Muğla'nın tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Muğla","Milas","Selimiye","Ardıc","Milli Park","Doğa","Tarih","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228279"
@@ -30,7 +30,7 @@ Mugla-Milas-Selimiye-Ardıc Milli Parkı, yüzyıllar boyunca insanların yaşam
 
 ## Coğrafya
 
-Mugla-Milas-Selimiye-Ardıc Milli Parkı, Muğla'nın Milas ilçesinde yer alan, 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu bölge, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağlar, ormanlar ve akarsularla çevrili bir bölgede yer alıyor. İklimi, Ege Bölgesi'nin genel iklimine uygun olarak, ılıman ve yağışlı bir iklim olarak dikkat çekiyor. Bu bölgenin coğrafi konumu, ziyaretçilerin doğayı ve tarihi yakından tanımasına olanak sağlıyor.
+ Bu bölge, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağlar, ormanlar ve akarsularla çevrili bir bölgede yer alıyor. İklimi, Ege Bölgesi'nin genel iklimine uygun olarak, ılıman ve yağışlı bir iklim olarak dikkat çekiyor. Bu bölgenin coğrafi konumu, ziyaretçilerin doğayı ve tarihi yakından tanımasına olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mugla-Milas-Selimiye-Ardıc Milli Parkı, yıl boyunca ziyaret edilebilir. Ziyar
 
 ## İlginç Bilgiler
 
-- Mugla-Milas-Selimiye-Ardıc Milli Parkı, 140 hektarlık bir yeşil alan olarak dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna yaşamaktadır.
 - Bu bölgenin tarihi geçmişi, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve tarihi eserleri ile dikkat çekiyor.
 - Bu bölgenin coğrafi konumu, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağlar, ormanlar ve akarsularla çevrili bir bölgede yer alıyor.

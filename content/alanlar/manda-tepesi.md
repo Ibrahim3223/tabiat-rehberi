@@ -37,7 +37,7 @@ Manda Tepesi'nin tarihi geçmişi, bölgenin coğrafi ve kültürel gelişimini 
 
 ## Coğrafya
 
-Manda Tepesi, Kırklareli ilinin coğrafi yapısını gözlemlemek için ideal bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin bitki örtüsünü, iklimini ve coğrafi özelliklerini yansıtması açısından önemli. Manda Tepesi'nin coğrafi konumu, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemi barındırıyor. Manda Tepesi'nin yüksekliği, bölgenin manzarasını izlemek için mükemmel bir bakış açısı sunuyor. Ayrıca, tepe ve çevresinin coğrafi yapısı, yürüyüş parkurları ve doğa yürüyüşü için ideal bir zemin sunuyor.
+Manda Tepesi, Kırklareli ilinin coğrafi yapısını gözlemlemek için ideal bir nokta. Manda Tepesi'nin coğrafi konumu, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemi barındırıyor. Manda Tepesi'nin yüksekliği, bölgenin manzarasını izlemek için mükemmel bir bakış açısı sunuyor. Ayrıca, tepe ve çevresinin coğrafi yapısı, yürüyüş parkurları ve doğa yürüyüşü için ideal bir zemin sunuyor.
 
 ## Flora ve Fauna
 

@@ -42,8 +42,6 @@ wikidata_id: "Q108227172"
 
 ## İlginç Bilgiler
 
-- Şah Ardic, 140 hektarlık bir alana sahiptir.
-
 - Şah Ardic, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır.
 - Bu bölgenin iklimi, karasal bir iklimdir.
 - Şah Ardic, çeşitli flora ve fauna türlerine ev sahipliği yapar.

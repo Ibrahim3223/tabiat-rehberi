@@ -29,7 +29,7 @@ wikidata_id: "Q134728137"
 
 # Termessos Alketas Mezarı
 
-Termessos Alketas Mezarı, Antalya'nın Döşemealtı ilçesinde, şehrin kalabalığından uzak bir konumda bulunmaktadır. Bu tarihi mezar, yaklaşık 140 hektarlık bir alan içinde yer almaktadır. Termessos Alketas Mezarı, ziyaretçilerini Antalya'nın tarihi ve doğal güzelliklerine davet etmektedir. Mezarın etrafındaki yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunmaktadır.
+Termessos Alketas Mezarı, Antalya'nın Döşemealtı ilçesinde, şehrin kalabalığından uzak bir konumda bulunmaktadır. Termessos Alketas Mezarı, ziyaretçilerini Antalya'nın tarihi ve doğal güzelliklerine davet etmektedir. Mezarın etrafındaki yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunmaktadır.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Termessos Alketas Mezarı, Antalya'nın Döşemealtı ilçesinde yer alan bir de
 - Termessos Alketas Mezarı, Antalya'nın Döşemealtı ilçesinde yer alan bir tarihi mezar
 - Alketas Mezarı, Termessos antik kentinde yer alan önemli tarihi yapılardan biridir
 - Termessos antik kenti, tarihin derinliklerinde gizli bir hazine olarak karşımıza çıkmaktadır
-- Termessos Alketas Mezarı, 140 hektarlık bir alan içinde yer almaktadır
+
 - Alketas Mezarı, ziyaretçilerine Antalya'nın tarihi ve doğal güzelliklerini keşfetme fırsatı sunmaktadır

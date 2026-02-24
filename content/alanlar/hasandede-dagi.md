@@ -28,7 +28,7 @@ wikidata_id: "Q31385761"
 
 # Hasandede Dağı
 
-Yozgat'ın doğal güzelliklerinden biri olan Hasandede Dağı, yaklaşık 140 hektarlık bir alanı kapsıyor. Hasandede Dağı, Yozgat'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Dağın eteklerinde bulunan köyler, ziyaretçilere konaklama ve yemek opportunitiesi sunuyor. Hasandede Dağı, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken bir yer.
+ Hasandede Dağı, Yozgat'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Dağın eteklerinde bulunan köyler, ziyaretçilere konaklama ve yemek opportunitiesi sunuyor. Hasandede Dağı, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

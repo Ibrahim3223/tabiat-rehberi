@@ -16,7 +16,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/de/D%C3%BCl%C3%BCk%27te_LALE_Devri.jpg","alt":"Dülükbaba Tabiat Parkı manzarası","credit":"Mehmet Ali Kıratlı","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/D%C3%BCl%C3%BCk%27te_Renkler.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/D%C3%BCl%C3%BCk%27te_Renkler.jpg/1280px-D%C3%BCl%C3%BCk%27te_Renkler.jpg","alt":"Dülükbaba Tabiat Parkı - Dülük'te Renkler","credit":"Mehmet Ali Kıratlı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bc/%C3%87i%C3%A7eklerin_Ritmi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%87i%C3%A7eklerin_Ritmi.jpg/1280px-%C3%87i%C3%A7eklerin_Ritmi.jpg","alt":"Dülükbaba Tabiat Parkı - Çiçeklerin Ritmi","credit":"Mehmet Ali Kıratlı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Do%C4%9Fa%27n%C4%B1n_Sesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Do%C4%9Fa%27n%C4%B1n_Sesi.jpg/1280px-Do%C4%9Fa%27n%C4%B1n_Sesi.jpg","alt":"Dülükbaba Tabiat Parkı - Doğa'nın Sesi","credit":"Mehmet Ali Kıratlı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Turuncunun_Tonlar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Turuncunun_Tonlar%C4%B1.jpg/1280px-Turuncunun_Tonlar%C4%B1.jpg","alt":"Dülükbaba Tabiat Parkı - Turuncunun Tonları","credit":"Mehmet Ali Kıratlı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/D%C3%BCl%C3%BCk%27te_Yans%C4%B1malar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/D%C3%BCl%C3%BCk%27te_Yans%C4%B1malar.jpg/1280px-D%C3%BCl%C3%BCk%27te_Yans%C4%B1malar.jpg","alt":"Dülükbaba Tabiat Parkı - Dülük'te Yansımalar","credit":"Mehmet Ali Kıratlı","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCl%C3%BCkbaba%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228200","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nde, Şehitkâmil/Gaziantep'te bulunan 140 hektarlık tabiat parkı."
+"
 keywords: ["Dülükbaba Tabiat Parkı","Güneydoğu Anadolu Bölgesi","Şehitkâmil","Gaziantep","Tabiat Parkı","Doğa","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228200"
@@ -24,7 +24,7 @@ wikidata_id: "Q108228200"
 
 # Dülükbaba Tabiat Parkı
 
-Dülükbaba Tabiat Parkı, Güneydoğu Anadolu Bölgesi'nde, Şehitkâmil/Gaziantep'te yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Park, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sağlıyor ve bölgenin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
+ Park, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sağlıyor ve bölgenin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
 
 ## Tarihçe
 

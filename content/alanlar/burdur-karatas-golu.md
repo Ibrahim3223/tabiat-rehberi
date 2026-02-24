@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Burdur-Karataş Gölü","caption":"Burdur-Karataş Gölü","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Columba_livia_-_Rock_Dove_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Columba_livia_-_Rock_Dove_02.jpg/1280px-Columba_livia_-_Rock_Dove_02.jpg","alt":"Burdur-Karataş Gölü - Columba livia - Rock Dove 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Columba_livia_-_Rock_Dove_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Columba_livia_-_Rock_Dove_03.jpg/1280px-Columba_livia_-_Rock_Dove_03.jpg","alt":"Burdur-Karataş Gölü - Columba livia - Rock Dove 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Karata%C5%9F_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Karata%C5%9F_-_panoramio.jpg","alt":"Burdur-Karataş Gölü - Karataş - panoramio","credit":"hursitakinci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Karata%C5%9F%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228372","tip":"genel"}]
-description: "Burdur'un doğal güzellikleri arasında yer alan Burdur-Karataş Gölü, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir göldür."
+"
 keywords: ["Burdur-Karataş Gölü","Burdur","Akdeniz Bölgesi","doğal alan","göl","milli park","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228372"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228372"
 
 # Burdur-Karataş Gölü
 
-Burdur-Karataş Gölü, Burdur'un doğal güzellikleri arasında yer alan ve 140 hektarlık bir alanı kaplayan bir göldür. Gölün etrafında çeşitli bitki türleri ve hayvanlar yaşamaktadır. Burdur-Karataş Gölü, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur. Gölün güzelliği ve doğal zenginliği, ziyaretçilerini cezbeden unsurlardan biridir.
+ Gölün etrafında çeşitli bitki türleri ve hayvanlar yaşamaktadır. Burdur-Karataş Gölü, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur. Gölün güzelliği ve doğal zenginliği, ziyaretçilerini cezbeden unsurlardan biridir.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Burdur-Karataş Gölü, çeşitli bitki türleri ve hayvanlar yaşamaktadır. G�
 Burdur-Karataş Gölü, ziyaretçilerini doğal güzellikleri ve zengin ekosistemi ile cezbeden bir destinasyondur. Göl, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir yerdir. Ziyaretçiler, gölün etrafında yürüyüş yapabilir, flora ve faunayı gözlemleyebilir ve gölün güzelliğini keşfedebilir. Göl, özellikle doğa severler ve fotoğrafçılar için önemli bir destinasyondur. Ziyaretçilerin, gölün doğal güzelliklerini ve ekosistemini korumak için necessary önlemleri almaları gerekmektedir.
 
 ## İlginç Bilgiler
-
-- Göl, 140 hektarlık bir alanı kaplamaktadır.
 
 - Göl, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Göl, bir milli park olarak korunmaktadır.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227940"
 
 # Canakkale-Biga-Karabiga Karacam
 
-Canakkale-Biga-Karabiga Karacam, yaklaşık 140 hektarlık bir alanı kapsıyor. Doğa severler için bir cennet olan bu milli park, zengin flora ve fauna çeşitliliğine sahip. Ziyaretçiler, bu doğal güzelliğin içinde yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyebilir.
+ Doğa severler için bir cennet olan bu milli park, zengin flora ve fauna çeşitliliğine sahip. Ziyaretçiler, bu doğal güzelliğin içinde yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Canakkale-Biga-Karabiga Karacam'ı ziyaret etmek, ziyaretçiler için bir doğa 
 
 ## İlginç Bilgiler
 
-- Canakkale-Biga-Karabiga Karacam, 140 hektarlık bir alanı kapsıyor.
 - Milli park, zengin flora ve fauna çeşitliliğine sahip.
 - Ziyaretçiler, bu doğal güzelliğin içinde yürüyüş yapabilir ve doğanın tüm renklerini görebilir.
 - Milli parkın çevresi, yüksek dağlar ve derin vadilerle çevrili.

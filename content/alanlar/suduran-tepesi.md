@@ -21,7 +21,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Suduran Tepesi","caption":"Suduran Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suduran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31561284","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin Zonguldak şehrinde yer alan Suduran Tepesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["Zonguldak","Karadeniz Bölgesi","Suduran Tepesi","doğa","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31561284"
@@ -37,7 +37,7 @@ Suduran Tepesi'nin tarihi geçmişi, bölgenin jeolojik oluşumuna kadar uzanır
 
 ## Coğrafya
 
-Suduran Tepesi, Karadeniz Bölgesi'nin Zonguldak şehrinde yer alır ve 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem manzaralar sunar ve bölgenin coğrafi özellikleri hakkında bilgi sahibi olma mümkündür. Tepenin eteklerinde yer alan köyler, bölgenin coğrafi çeşitliliği hakkında önemli bilgiler sunar. Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri, Suduran Tepesi'nde de görülebilir. Bu bölge, dağlık bir araziye sahiptir ve bölgenin iklimi, karasal ve denizel iklimlerin etkisinde şekillenir. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar.
+ Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem manzaralar sunar ve bölgenin coğrafi özellikleri hakkında bilgi sahibi olma mümkündür. Tepenin eteklerinde yer alan köyler, bölgenin coğrafi çeşitliliği hakkında önemli bilgiler sunar. Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri, Suduran Tepesi'nde de görülebilir. Bu bölge, dağlık bir araziye sahiptir ve bölgenin iklimi, karasal ve denizel iklimlerin etkisinde şekillenir. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Himama%20Vahap%20Amed%202009.JPG","alt":"Vahap Ağa Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Himama_Vahap_Amed_2009.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Himama_Vahap_Amed_2009.JPG/1280px-Himama_Vahap_Amed_2009.JPG","alt":"Vahap Ağa Hamamı - Himama Vahap Amed 2009","credit":"MikaelF","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vahap%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q87768671","tip":"genel"}]
-description: "Diyarbakır'ın tarihi plajlarından biri olan Vahap Ağa Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Diyarbakır","Vahap Ağa Hamamı","tarih","plaj","yeşil alan","güneydoğu anadolu","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q87768671"
@@ -38,7 +38,7 @@ Vahap Ağa Hamamı, Diyarbakır'ın tarihi geçmişi ile yakından ilgili. Bu b�
 
 ## Coğrafya
 
-Vahap Ağa Hamamı, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır ilinin merkezine yakın bir konumda bulunuyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık arazilerle karakterize ediliyor. Vahap Ağa Hamamı, bu coğrafi yapının içinde, 140 hektarlık geniş bir yeşil alan olarak dikkat çekiyor. Bölgenin iklimi, genellikle sıcak ve kuru bir karakterde. Bu durum, Vahap Ağa Hamamı gibi yeşil alanların, ziyaretçilere serin ve ferah bir ortam sunmasını sağlıyor. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bu bölge, doğa severlerin ilgisini çekiyor. Ayrıca, hamamın yakınında, tarihi yapılar ve kültürel merkezler de bulunmakta, bu da ziyaretçilere bölge hakkında daha geniş bir perspektif sunuyor.
+Vahap Ağa Hamamı, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır ilinin merkezine yakın bir konumda bulunuyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık arazilerle karakterize ediliyor. Bölgenin iklimi, genellikle sıcak ve kuru bir karakterde. Bu durum, Vahap Ağa Hamamı gibi yeşil alanların, ziyaretçilere serin ve ferah bir ortam sunmasını sağlıyor. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bu bölge, doğa severlerin ilgisini çekiyor. Ayrıca, hamamın yakınında, tarihi yapılar ve kültürel merkezler de bulunmakta, bu da ziyaretçilere bölge hakkında daha geniş bir perspektif sunuyor.
 
 ## Flora ve Fauna
 

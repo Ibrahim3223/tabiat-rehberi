@@ -28,7 +28,7 @@ wikidata_id: "Q34810115"
 
 # Üçhöyükler Tepesi
 
-Üçhöyükler Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alana yayılan bir tepe. Üçhöyükler Tepesi, Yozgat'ın merkezine uzun bir mesafe uzaklıkta ve şehrin kuzeydoğusunda yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Üçhöyükler Tepesi, Yozgat'ın merkezine uzun bir mesafe uzaklıkta ve şehrin kuzeydoğusunda yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

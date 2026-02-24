@@ -38,7 +38,7 @@ Hürrem Sultan Türbesi, 16. yüzyılda inşa edilmiştir. Türbenin inşası, K
 
 ## Coğrafya
 
-Hürrem Sultan Türbesi, Fatih'in tarihi semtinde yer almaktadır. Türbe, İstanbul'un en önemli coğrafi noktalarından biri olan Sultanahmet Meydanı'na yakındır. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır. Hürrem Sultan Türbesi, deniz seviyesinden yüksek bir konumdate yer almaktadır. Türbenin bulunduğu semt, tarihi ve kültürel açıdan zengindir. Fatih semti, İstanbul'un en eski semtlerinden biri olarak kabul edilmektedir. Hürrem Sultan Türbesi, bu semtin en önemli turistik noktalarından biri olarak kabul edilmektedir. Türbenin çevresinde, birçok tarihi mekan ve eser bulunmaktadır. Bu mekanlar, ziyaretçilerin ilgisini çekmektedir.
+Hürrem Sultan Türbesi, Fatih'in tarihi semtinde yer almaktadır. Türbe, İstanbul'un en önemli coğrafi noktalarından biri olan Sultanahmet Meydanı'na yakındır. Hürrem Sultan Türbesi, deniz seviyesinden yüksek bir konumdate yer almaktadır. Türbenin bulunduğu semt, tarihi ve kültürel açıdan zengindir. Fatih semti, İstanbul'un en eski semtlerinden biri olarak kabul edilmektedir. Hürrem Sultan Türbesi, bu semtin en önemli turistik noktalarından biri olarak kabul edilmektedir. Türbenin çevresinde, birçok tarihi mekan ve eser bulunmaktadır. Bu mekanlar, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

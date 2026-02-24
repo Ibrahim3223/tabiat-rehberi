@@ -50,7 +50,7 @@ Yıldız Sarayı Ada Köşkü, ziyaretçilerine çeşitli etkinli ve olanaklar s
 ## İlginç Bilgiler
 
 - Yıldız Sarayı Ada Köşkü, 19. yüzyılda yapılmış bir historical yapıdır.
-- Bölge, 140 hektarlık bir alana sahiptir.
+
 - Ada Köşkü, özellikle padişahların ve devlet büyüklerinin yazlık konutu olarak kullanılmıştır.
 - Yıldız Sarayı Ada Köşkü, İstanbul'un en güzel ve tarihi mekanlarından biridir.
 - Bölge, çeşitli su sporları ve etkinliklerine ev sahipliği yapar.

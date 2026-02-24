@@ -20,7 +20,7 @@ aktiviteler: ["trekking","piknik","kuş gözlemciliği","fotoğrafçılık","do�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Papurunkaşı Tepesi","caption":"Papurunkaşı Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Papurunka%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389851","tip":"genel"}]
-description: "Çankırı'nın doğal güzelliklerinden biri olan Papurunkaşı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Papurunkaşı Tepesi","Çankırı","doğa","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389851"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389851"
 
 # Papurunkaşı Tepesi
 
-Papurunkaşı Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kaplayan bir tepe. Papurunkaşı Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Papurunkaşı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veren bir nokta.
+ Papurunkaşı Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Papurunkaşı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veren bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Papurunkaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Papurunkaşı Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça önemli bir konuma sahiptir. Tepenin yüksekliği ve enia natural güzellikleri, ziyaretçilerini etkileyen önemli faktörler. 140 hektarlık alan, çeşitli bitki türleri ve fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve kışları soğuk, yazları sıcak geçer. Papurunkaşı Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur ve bu coğrafi yapı, bölgenin doğal güzelliklerini daha da arttırır.
+Papurunkaşı Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça önemli bir konuma sahiptir. Tepenin yüksekliği ve enia natural güzellikleri, ziyaretçilerini etkileyen önemli faktörler. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve kışları soğuk, yazları sıcak geçer. Papurunkaşı Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur ve bu coğrafi yapı, bölgenin doğal güzelliklerini daha da arttırır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Papurunkaşı Tepesi'ni ziyaret etmek, doğa severler ve trekking yapanlar için
 
 ## İlginç Bilgiler
 
-- Papurunkaşı Tepesi, 140 hektarlık bir alanı kaplar
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur
 - Fauna açısından zengin olan bu bölge, farklı hayvan türlerine ev sahipliği yapar
 - Papurunkaşı Tepesi, göçmen kuşların göç yolları üzerinde yer alır

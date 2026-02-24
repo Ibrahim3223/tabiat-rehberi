@@ -49,7 +49,7 @@ Akdağ Tepesi'ni ziyaret etmek, Ankara'nın doğal ve tarihi güzelliğini görm
 ## İlginç Bilgiler
 
 - Akdağ Tepesi, Ankara'nın en önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Akdağ Tepesi, tarihi geçmişiyle dikkat çekiyor
 - Bu bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor
 - Akdağ Tepesi, yılın herhangi bir zamanında ziyaret edilebilir

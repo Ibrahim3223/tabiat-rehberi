@@ -37,7 +37,7 @@ Cemal Bey Hamamı'nın tarihi geçmişi, Ege Bölgesi'nin zengin kültürel mira
 
 ## Coğrafya
 
-Cemal Bey Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, İon Denizinin güzelliklerini sunan bir kıyı şeridine sahip. Plaj, 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerine geniş bir kumsal sunuyor. Kumsalın etrafı, Ege Bölgesi'nin karakteristik bitkileri ve çamlık alanlarla çevrili. Bu doğal güzelliğin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılımandır. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakim. Çevre, Ege Bölgesi'nin tipik coğrafi özelliklerini taşıyor; dağlar, ormanlar ve deniz birlikte harika bir manzara oluşturuyor. Bu coğrafi güzellikler, Cemal Bey Hamamı'nı ziyaret edenleri etkiliyor ve doğayla iç içe bir deneyim sunuyor.
+Cemal Bey Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, İon Denizinin güzelliklerini sunan bir kıyı şeridine sahip. Kumsalın etrafı, Ege Bölgesi'nin karakteristik bitkileri ve çamlık alanlarla çevrili. Bu doğal güzelliğin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılımandır. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakim. Çevre, Ege Bölgesi'nin tipik coğrafi özelliklerini taşıyor; dağlar, ormanlar ve deniz birlikte harika bir manzara oluşturuyor. Bu coğrafi güzellikler, Cemal Bey Hamamı'nı ziyaret edenleri etkiliyor ve doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Cemal Bey Hamamı'na ziyaret için en uygun zaman, yaz aylarıdır. Bu dönemde 
 ## İlginç Bilgiler
 
 - Ege Bölgesi'nin en güzel plajlarından biri
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
+
 - Efeler'in merkezine yakınlığı
 - Zengin flora ve fauna

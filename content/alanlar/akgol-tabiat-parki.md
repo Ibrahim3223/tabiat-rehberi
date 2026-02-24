@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","fotografçılık","picnic"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Akg%C3%B6l%20Tabiat%20Park%C4%B1.jpg","alt":"Akgöl Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Akg%C3%B6l_Tabiat_Park%C4%B1.jpg/960px-Akg%C3%B6l_Tabiat_Park%C4%B1.jpg","alt":"Akgöl Tabiat Parkı","caption":"Akgöl Tabiat Parkı","credit":"Akgöl Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Akg%C3%B6l-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Akg%C3%B6l-1.jpg/1280px-Akg%C3%B6l-1.jpg","alt":"Akgöl Tabiat Parkı - Akgöl-1","credit":"Chetele","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Akg%C3%B6l_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Akg%C3%B6l_Tabiat_Park%C4%B1.jpg/1280px-Akg%C3%B6l_Tabiat_Park%C4%B1.jpg","alt":"Akgöl Tabiat Parkı - Akgöl Tabiat Parkı","credit":"Egalmak","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/Akg%C3%B6l-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Akg%C3%B6l-2.jpg/1280px-Akg%C3%B6l-2.jpg","alt":"Akgöl Tabiat Parkı - Akgöl-2","credit":"Chetele","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akg%C3%B6l%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110423280","tip":"genel"}]
-description: "Sinop'un Ayancık ilçesinde bulunan Akgöl Tabiat Parkı, 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor."
+"
 keywords: ["Akgöl Tabiat Parkı","Ayancık","Sinop","Tabiat Parkı","Karadeniz Bölgesi","yeşil alan","fauna","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q110423280"
@@ -30,7 +30,7 @@ wikidata_id: "Q110423280"
 
 # Akgöl Tabiat Parkı
 
-Akgöl Tabiat Parkı, Sinop'un Ayancık ilçesinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Akgöl Tabiat Parkı, zengin fauna ve çeşitli bitki türleri ile dikkat çeker. Parkın geniş ve yeşil alanları, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bu tabiat parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak öne çıkar.
+ Akgöl Tabiat Parkı, zengin fauna ve çeşitli bitki türleri ile dikkat çeker. Parkın geniş ve yeşil alanları, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bu tabiat parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak öne çıkar.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Akgöl Tabiat Parkı, zengin bir flora ve fauna ile dikkat çeker. Parkta, çeş
 Akgöl Tabiat Parkı, ziyaretçilerine geniş ve yeşil alanlar sunar. Parkı ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dönemde park, renkli bir manzara sunar. Parka ulaşım, Ayancık ilçesinden kolayca sağlanabilir. Ziyaretçiler, parkın doğal güzelliklerini keşfetmek için parkın içerisinde yürüyüş yapabilirler. Akgöl Tabiat Parkı, ziyaretçilerine doğa ile iç içe olma fırsatı sunar. Parkın ziyaret süresi, ziyaretçilerin parkı keşfetme hızına göre değişebilir. Ancak, ortalama olarak 2-3 saatlik bir ziyaret süresi önerilir.
 
 ## İlginç Bilgiler
-
-- Akgöl Tabiat Parkı, 140 hektarlık bir yeşil alanı kapsar.
 
 - Parkın flora ve faunası, mevsimsel değişimlere göre şekillenir.
 - Park, ziyaretçilerine doğa ile iç içe olma fırsatı sunar.

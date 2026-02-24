@@ -34,7 +34,7 @@ Antalya Kızılçam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Coğ
 
 ## Flora ve Fauna
 
-Antalya Kızılçam, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve birçok farklı doğal güzelliğe sahip. Dağlar, ormanlar ve akarsular, bu bölgenin coğrafi yapısını oluşturuyor. Bitki türleri olarak, bu bölgede birçok farklı tür yetişiyor. Ormanlar, bu bölgenin en önemli doğal güzelliklerinden biri. Hayvan türleri olarak, bu bölgede birçok farklı tür yaşuyor. Dağların yüksekliklerine göre, farklı hayvan türleri yaşiyor. Ziyaretçileri, bu güzel doğal güzellikleri keşfetmek için birçok farklı olanak sunuyor.
+Antalya Kızılçam, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Dağlar, ormanlar ve akarsular, bu bölgenin coğrafi yapısını oluşturuyor. Bitki türleri olarak, bu bölgede birçok farklı tür yetişiyor. Ormanlar, bu bölgenin en önemli doğal güzelliklerinden biri. Hayvan türleri olarak, bu bölgede birçok farklı tür yaşuyor. Dağların yüksekliklerine göre, farklı hayvan türleri yaşiyor. Ziyaretçileri, bu güzel doğal güzellikleri keşfetmek için birçok farklı olanak sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -42,8 +42,6 @@ Antalya Kızılçam, ziyaretçilerini bekliyor. Bu güzel bölge, birçok farkl�
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplıyor
-- yaklaşık 200 futbol sahası büyüklüğünde
 - yüzyıllar öncesine dayanan tarihi geçmişi
 - çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Akdeniz ikliminin özellikleri gösteriyor

@@ -48,7 +48,6 @@ Gökkaya Tepesi'ni ziyaret etmek, doğa severler için bir rüya harika bir dene
 
 ## İlginç Bilgiler
 
-- Gökkaya Tepesi, yaklaşık 140 hektarlık bir alana sahiptir.
 - Tepenin deniz seviyesinden yüksekliği, yaklaşık 500 metre civarındadır.
 - Gökkaya Tepesi, Muğla merkezine uzun bir mesafe uzaklıktadır.
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur.

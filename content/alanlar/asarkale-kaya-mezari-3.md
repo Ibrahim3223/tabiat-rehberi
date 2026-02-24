@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Asarkale.jpg","alt":"Asarkale Kaya Mezarı -3 manzarası","credit":"Chidgk1","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Asarkale.jpg/960px-Asarkale.jpg","alt":"Asarkale Kaya Mezarı -3","caption":"Asarkale Kaya Mezarı -3","credit":"Asarkale","license":"CC0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarkale%20Kaya%20Mezar%C4%B1%20-3","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728224","tip":"genel"}]
 description: "Trabzon'un Bafra ilçesinde yer alan Asarkale Kaya Mezarı -3,histori ve doğal güzellikleri bir arada sunuyor."
@@ -30,7 +30,7 @@ wikidata_id: "Q134728224"
 
 # Asarkale Kaya Mezarı -3
 
-Asarkale Kaya Mezarı -3, Trabzon'un Bafra ilçesinde, İç Anadolu Bölgesi'nin kuzeydoğu ucunda yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanda, çeşitli kaya mezarları ve tarihi kalıntıları ile dikkat çekiyor. Asarkale Kaya Mezarı -3, özellikle kaya mezarlarının farklı mimari stilleri ve tarihi değerleri ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu alan, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri.
+Asarkale Kaya Mezarı -3, Trabzon'un Bafra ilçesinde, İç Anadolu Bölgesi'nin kuzeydoğu ucunda yer alan bir tarihi ve doğal güzellik alanıdır. Asarkale Kaya Mezarı -3, özellikle kaya mezarlarının farklı mimari stilleri ve tarihi değerleri ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Asarkale Kaya Mezarı -3'ün tarihi geçmişi, yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Asarkale Kaya Mezarı -3, coğrafi olarak, İç Anadolu Bölgesi'nin kuzeydoğu ucunda, Bafra ilçesi sınırları içerisinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanda, kaya mezarları, tarihi kalıntılar ve doğal güzelliklerle dolu. Bölge, yüksek bir konumda ve iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanıyor. Asarkale Kaya Mezarı -3'ün coğrafi konumu, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri yapıyor.
+Asarkale Kaya Mezarı -3, coğrafi olarak, İç Anadolu Bölgesi'nin kuzeydoğu ucunda, Bafra ilçesi sınırları içerisinde yer alıyor. Bölge, yüksek bir konumda ve iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkiliyor ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanıyor. Asarkale Kaya Mezarı -3'ün coğrafi konumu, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri yapıyor.
 
 ## Flora ve Fauna
 

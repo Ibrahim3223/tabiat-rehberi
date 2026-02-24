@@ -50,7 +50,7 @@ Kınık Hamamı, ziyaretçilerine birçok oportunite sunar. Ziyaretçiler, bu b�
 ## İlginç Bilgiler
 
 - Kınık Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir.
-- Bu bölge, 140 hektarlık bir yeşil alan üzerinde kuruludur.
+
 - Kınık Hamamı, denizin serin suları ile birlikte, güneşin ılıman ışığı ile ziyaretçilerine mükemmel bir dinlenme deneyimi sunar.
 - Bu bölge, birçok tarihi ve kültürel zenginliğe sahiptir.
 - Kınık Hamamı, ziyaretçilerine birçok oportunite sunar.

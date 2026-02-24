@@ -29,7 +29,7 @@ wikidata_id: "Q131739147"
 
 # Küçük Piyale Hamamı
 
-Küçük Piyale Hamamı, İstanbul'un tarihi ve kültürel zenginliklerinin bir araya geldiği özel bir mekan olarak dikkat çeker. Beyoğlu'nda bulunan bu plaj, yaklaşık 140 hektarlık bir alan üzerinde yer alır. Küçük Piyale Hamamı, İstanbul'un deniz kıyısında yer alan bir plaj olarak, şehrin kalabalık ve gürültüsünden uzak, sakin ve huzurlu bir atmosfere sahiptir. Burada, denizin serinletici suyu ve güneşin ılıman ışıklarıyla birlikte, şehrin stresinden uzaklaşabilir ve doğayla iç içe bir gün geçirebilirsiniz.
+Küçük Piyale Hamamı, İstanbul'un tarihi ve kültürel zenginliklerinin bir araya geldiği özel bir mekan olarak dikkat çeker. Küçük Piyale Hamamı, İstanbul'un deniz kıyısında yer alan bir plaj olarak, şehrin kalabalık ve gürültüsünden uzak, sakin ve huzurlu bir atmosfere sahiptir. Burada, denizin serinletici suyu ve güneşin ılıman ışıklarıyla birlikte, şehrin stresinden uzaklaşabilir ve doğayla iç içe bir gün geçirebilirsiniz.
 
 ## Tarihçe
 

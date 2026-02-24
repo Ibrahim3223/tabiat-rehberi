@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Anadolu_Arabalar_M%C3%BCzesi.jpg","alt":"Umurbey Hamamı manzarası","credit":"Kızıldeniz","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Umurbey_hamam%C4%B1_ve_Camii._Bursa_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Umurbey_hamam%C4%B1_ve_Camii._Bursa_-_panoramio.jpg/1280px-Umurbey_hamam%C4%B1_ve_Camii._Bursa_-_panoramio.jpg","alt":"Umurbey Hamamı - Umurbey hamamı ve Camii. Bursa - panoramio","credit":"HALUK COMERTEL","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Umurbey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738641","tip":"genel"}]
-description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Umurbey Hamamı, Yıldırım/Bursa'da bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Umurbey Hamamı, Yıldırım/Bursa'da bulunmaktadır."
 keywords: ["Umurbey Hamamı","Yıldırım","Bursa","Marmara Bölgesi","plaj","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738641"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738641"
 
 # Umurbey Hamamı
 
-Umurbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir. Yıldırım/Bursa'da bulunan bu plaj, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Umurbey Hamamı, denizin ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon olarak göz önüne çıkmaktadır. Plajın genişliği ve temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır.
+Umurbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir. Umurbey Hamamı, denizin ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon olarak göz önüne çıkmaktadır. Plajın genişliği ve temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Umurbey Hamamı'nin tarihi geçmişi, bölgenin tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Umurbey Hamamı, Marmara Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunmaktadır. Yıldırım/Bursa'da bulunan plaj, denizin ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon olarak göz önüne çıkmaktadır. Plajın genişliği ve temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır. Umurbey Hamamı'nın coğrafi konumu, ziyaretçilerin diğer turistik noktalara kolayca ulaşabilmesine de olanak sağlamaktadır. Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta ve ziyaretçilere yeme ve içecek seçenekleri sunulmaktadır. Umurbey Hamamı, coğrafi konumu ve doğal güzelliği ile ziyaretçilere unutulmaz bir deneyim sunmaktadır. 140 hektarlık yeşil alan, ziyaretçilere geniş bir alan sunmaktadır ve plajın temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır.
+Umurbey Hamamı, Marmara Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunmaktadır. Yıldırım/Bursa'da bulunan plaj, denizin ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon olarak göz önüne çıkmaktadır. Plajın genişliği ve temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır. Umurbey Hamamı'nın coğrafi konumu, ziyaretçilerin diğer turistik noktalara kolayca ulaşabilmesine de olanak sağlamaktadır. Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta ve ziyaretçilere yeme ve içecek seçenekleri sunulmaktadır. Umurbey Hamamı, coğrafi konumu ve doğal güzelliği ile ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Umurbey Hamamı, yıl boyunca ziyaret edilebilecek bir destinasyondur. Plajın g
 ## İlginç Bilgiler
 
 - Umurbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
+
 - Umurbey Hamamı, Yıldırım/Bursa'da bulunmaktadır.
 - Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta ve ziyaretçilere yeme ve içecek seçenekleri sunulmaktadır.
 - Umurbey Hamamı, yıl boyunca ziyaret edilebilecek bir destinasyondur.

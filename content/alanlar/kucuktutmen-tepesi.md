@@ -36,7 +36,7 @@ Küçüktutmen Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarl
 
 ## Coğrafya
 
-Küçüktutmen Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafında çeşitli bitki türleri ile zengin fauna bulunur. Tepenin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Burada, nemli ve ılıman bir iklim hüküm sürer. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde ve çevresinde, küçük dere ve çaylar bulunuyor. Bu coğrafi özellikler, Küçüktutmen Tepesi'ni doğal güzelliği ile ön plana çıkarıyor.
+Küçüktutmen Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Burada, nemli ve ılıman bir iklim hüküm sürer. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde ve çevresinde, küçük dere ve çaylar bulunuyor. Bu coğrafi özellikler, Küçüktutmen Tepesi'ni doğal güzelliği ile ön plana çıkarıyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31531119"
 
 # Azı Tepesi
 
-Azı Tepesi, Mersin'in güzide noktalarından biri olarak karşımıza çıkıyor. Bu doğal alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Burada, Akdeniz Bölgesi'nin özel bitkilerini ve hayvanlarını gözlemleyebilirsiniz. Azı Tepesi, Mersin'in önemli turistik noktalarından biri olarak ziyaretçilerini ağırlıyor. Bu tepe, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. Ziyaretçiler, buranın eşsiz manzarasını seyretme ve doğayla iç içe olmak için gelenler arasında.
+Azı Tepesi, Mersin'in güzide noktalarından biri olarak karşımıza çıkıyor. Burada, Akdeniz Bölgesi'nin özel bitkilerini ve hayvanlarını gözlemleyebilirsiniz. Azı Tepesi, Mersin'in önemli turistik noktalarından biri olarak ziyaretçilerini ağırlıyor. Bu tepe, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. Ziyaretçiler, buranın eşsiz manzarasını seyretme ve doğayla iç içe olmak için gelenler arasında.
 
 ## Tarihçe
 

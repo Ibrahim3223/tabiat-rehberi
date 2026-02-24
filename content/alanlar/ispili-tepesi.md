@@ -48,7 +48,6 @@ wikidata_id: "Q31388424"
 
 ## İlginç Bilgiler
 
-- İspili Tepesi, 140 hektarlık bir alana sahip
 - İspili Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir
 - İspili Tepesi, yaban hayatı ve ekoloji hakkında bilgi sahibi olma mümkün
 - İspili Tepesi, her mevsim ziyaretçilerini ağırlıyor

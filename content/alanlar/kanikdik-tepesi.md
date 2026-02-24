@@ -20,7 +20,7 @@ aktiviteler: ["Gezi","Tarih gezisi","Doğa yürüyüşü","Manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kanikdik Tepesi","caption":"Kanikdik Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kanikdik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542168","tip":"genel"}]
-description: "Diyarbakır'ın tarihi ve doğal güzellikleri olan Kanikdik Tepesi, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Kanikdik Tepesi","Diyarbakır","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31542168"
@@ -50,6 +50,6 @@ Kanikdik Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzellikleri
 
 - Kanikdik Tepesi, Diyarbakır'ın en yüksek noktalarından biri
 - Tepenin etrafında bulunan tarihi yapılar ve anıtlar, bu bölgenin zengin tarihini anlatıyor
-- Kanikdik Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
+
 - Tepenin yüksekliği, Diyarbakır'ın panoramik manzarasını izlemeyi sağlıyor
 - Kanikdik Tepesi, çeşitli bitki türleri ile dolu

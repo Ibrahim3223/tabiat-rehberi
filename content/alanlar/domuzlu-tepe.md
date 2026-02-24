@@ -49,7 +49,7 @@ Domuzlu Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu tepe, hem doğa
 ## İlginç Bilgiler
 
 - Domuzlu Tepe, İstanbul'un en yüksek noktalarından biri.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Domuzlu Tepe, zengin bir flora ve fauna ile dikkat çekiyor.
 - Bu bölgede, çeşitli bitki ve hayvan türleri yer alıyor.
 - Domuzlu Tepe, özellikle bahar ve yaz aylarında ziyaret ediliyor.

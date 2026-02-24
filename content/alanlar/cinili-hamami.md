@@ -38,7 +38,7 @@ wikidata_id: "Q131738607"
 
 ## Coğrafya
 
-Çinili Hamamı, Üsküdar'ın merkezinde, Marmara Bölgesi'nin güzel bir kıyı şeridinde yer alır. Bu bölge, 140 hektarlık bir yeşil alan ve geniş bir kumsala sahiptir. Deniz suyu, temiz ve berra olup, su sporları ve yüzme için idealdir. Kumsalda çeşitli ağaçlar ve bitkiler bulunur, bu da ziyaretçilere gölgelik alanlar sağlar. Çinili Hamamı'nın coğrafi konumu, ziyaretçilere İstanbul'un diğer önemli noktalarına ulaşım kolaylığı sağlar. Bu bölge, hem deniz hem de kara yoluyla ulaşımı kolaydır. Çevre, çeşitli restoranlar, kafeler ve alışveriş merkezleri ile donatılmıştır.
+Çinili Hamamı, Üsküdar'ın merkezinde, Marmara Bölgesi'nin güzel bir kıyı şeridinde yer alır. Deniz suyu, temiz ve berra olup, su sporları ve yüzme için idealdir. Kumsalda çeşitli ağaçlar ve bitkiler bulunur, bu da ziyaretçilere gölgelik alanlar sağlar. Çinili Hamamı'nın coğrafi konumu, ziyaretçilere İstanbul'un diğer önemli noktalarına ulaşım kolaylığı sağlar. Bu bölge, hem deniz hem de kara yoluyla ulaşımı kolaydır. Çevre, çeşitli restoranlar, kafeler ve alışveriş merkezleri ile donatılmıştır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ wikidata_id: "Q131738607"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri
 - Üsküdar'ın merkezine yakın konumu
 - Zengin flora ve fauna

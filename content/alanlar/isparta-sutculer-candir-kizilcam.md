@@ -42,7 +42,6 @@ Isparta-Sutculer-Candir Kızılçam milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Isparta-Sutculer-Candir Kızılçam milli parkı, 140 hektarlık bir alana kurulmuştur.
 - Bölge, özellikle kızılçam ağaçları ile dikkat çekmektedir.
 - Milli park, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır.
 - Bölgenin iklimi, karasal iklim özellikleri gösterir.

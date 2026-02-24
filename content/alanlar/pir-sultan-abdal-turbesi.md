@@ -37,7 +37,7 @@ Pir Sultan Abdal Türbesi, tarihin derinliklerinden gelen bir öyküye sahiptir.
 
 ## Coğrafya
 
-Pir Sultan Abdal Türbesi, Sivas'ın Yıldızeli ilçesinde bulunmaktadır. Bu ilçe, İç Anadolu Bölgesi'nin doğusunda yer almaktadır. Türbenin bulunduğu alan, 140 hektarlık bir arazide yer almaktadır. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu mekân, doğa severler ve tarih meraklıları için ideal bir destinasyondur. Türbenin bulunduğu ilçe, coğrafi olarak önemli bir konuma sahiptir. Bu ilçe, birçok önemli şehir ve ilçeyle komşudur. Türbenin bulunduğu alan, birçok önemli tarihi ve kültürel mekâna yakındır. Bu nedenle, ziyaretçiler, birçok önemli mekânı keşfetmek için buraya gelmektedir.
+Pir Sultan Abdal Türbesi, Sivas'ın Yıldızeli ilçesinde bulunmaktadır. Bu ilçe, İç Anadolu Bölgesi'nin doğusunda yer almaktadır. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu mekân, doğa severler ve tarih meraklıları için ideal bir destinasyondur. Türbenin bulunduğu ilçe, coğrafi olarak önemli bir konuma sahiptir. Bu ilçe, birçok önemli şehir ve ilçeyle komşudur. Türbenin bulunduğu alan, birçok önemli tarihi ve kültürel mekâna yakındır. Bu nedenle, ziyaretçiler, birçok önemli mekânı keşfetmek için buraya gelmektedir.
 
 ## Flora ve Fauna
 

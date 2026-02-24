@@ -28,7 +28,7 @@ wikidata_id: "Q31390456"
 
 # Genek Tepe
 
-Genek Tepe, Konya'nın merkezi bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak bilinir. Genek Tepe, şehre hakim bir konumda bulunduğu için, buradan Konya'nın panoramik manzarasının keyfini çıkarma mümkün. Bu tepe, aynı zamanda şehrin tarihi geçmişi ile ilgili önemli bilgiler sunan bir noktada yer alır. Genek Tepe, Konya'nın zengin kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
+ Genek Tepe, şehre hakim bir konumda bulunduğu için, buradan Konya'nın panoramik manzarasının keyfini çıkarma mümkün. Bu tepe, aynı zamanda şehrin tarihi geçmişi ile ilgili önemli bilgiler sunan bir noktada yer alır. Genek Tepe, Konya'nın zengin kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Genek Tepe'nin tarihi geçmişi, Konya'nın tarihi ile iç içe geçmiş durumda
 
 ## Coğrafya
 
-Genek Tepe, Konya'nın coğrafi yapısı içinde önemli bir yer tutar. Bu tepe, şehrin merkezi bir bölgesinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Genek Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafi özelliklerini taşır. Bu bölgede, genellikle step iklimi hakimdir ve yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Genek Tepe, bu coğrafi yapı içinde, şehre hakim bir konumda yer alır ve buradan Konya'nın panoramik manzarasının keyfini çıkarma mümkün. Bu tepe, aynı zamanda çeşitli bitki ve hayvan türlerine ev sahipliği yapar. Bu bölgede, genellikle step bitkileri ve ağaçları bulunur. Genek Tepe, Konya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir. Bu tepe, aynı zamanda şehir merkezine yakınlığı nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır.
+Genek Tepe, Konya'nın coğrafi yapısı içinde önemli bir yer tutar. Genek Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafi özelliklerini taşır. Bu bölgede, genellikle step iklimi hakimdir ve yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçer. Genek Tepe, bu coğrafi yapı içinde, şehre hakim bir konumda yer alır ve buradan Konya'nın panoramik manzarasının keyfini çıkarma mümkün. Bu tepe, aynı zamanda çeşitli bitki ve hayvan türlerine ev sahipliği yapar. Bu bölgede, genellikle step bitkileri ve ağaçları bulunur. Genek Tepe, Konya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir. Bu tepe, aynı zamanda şehir merkezine yakınlığı nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır.
 
 ## Flora ve Fauna
 

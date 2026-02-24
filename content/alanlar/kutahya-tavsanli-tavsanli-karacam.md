@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Kutahya-Tavsanli-Tavsanli-Karacam","caption":"Kutahya-Tavsanli-Tavsanli-Karacam","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli-Tavsanli-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228560","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin.
 keywords: ["Kutahya","Tavsanli","Karacam","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228560"

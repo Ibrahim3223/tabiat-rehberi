@@ -38,7 +38,7 @@ Sarı Dede Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu
 
 ## Coğrafya
 
-Sarı Dede Türbesi, İstanbul'un Sarıyer ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahiptir. 140 hektarlık bir alanı kapsayan Sarı Dede Türbesi, denize sıfır bir konumda bulunmakta ve ziyaretçilerine Marmara Denizi'nin muhteşem manzarasını sunmaktadır. Bölge, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmakta ve zengin bir fauna ile ziyaretçilerini karşılamaktadır. Sarı Dede Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi bir mekanın atmosferini soluyabilmesine hem de deniz ve doğanın güzelliğini deneyimlemesine olanak tanır. Bu özel konum, Sarı Dede Türbesi'ni İstanbul'un önemli turizm noktalarından biri haline getirmektedir.
+Sarı Dede Türbesi, İstanbul'un Sarıyer ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahiptir. Bölge, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmakta ve zengin bir fauna ile ziyaretçilerini karşılamaktadır. Sarı Dede Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi bir mekanın atmosferini soluyabilmesine hem de deniz ve doğanın güzelliğini deneyimlemesine olanak tanır. Bu özel konum, Sarı Dede Türbesi'ni İstanbul'un önemli turizm noktalarından biri haline getirmektedir.
 
 ## Flora ve Fauna
 

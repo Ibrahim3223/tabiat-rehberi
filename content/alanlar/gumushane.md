@@ -44,7 +44,7 @@ Gümüşhane, ziyaretçilerine çeşitli gezi seçenekleri sunar. Bu bölge, do�
 ## İlginç Bilgiler
 
 - Gümüşhane, İç Anadolu Bölgesi'nin en güzel köşelerinden biridir.
-- Bu bölge, 140 hektarlık bir yeşil alan üzerindedir.
+
 - Gümüşhane, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmıştır.
 - Bu bölge, doğa severlerin buluşma noktası olarak bilinir.
 - Gümüşhane, ziyaretçilerine çeşitli doğa aktiviteleri sunar.

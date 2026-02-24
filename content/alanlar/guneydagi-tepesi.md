@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğrafçılık","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Güneydağı Tepesi","caption":"Güneydağı Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneyda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139398","tip":"genel"}]
-description: "İzmir'de yer alan Güneydağı Tepesi, Ege Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İzmir'de yer alan Güneydağı Tepesi, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Güneydağı Tepesi","İzmir","Ege Bölgesi","doğal alan","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139398"
@@ -47,8 +47,6 @@ Güneydağı Tepesi, çeşitli bitki türleri ve zengin fauna ile karşılaşma 
 Güneydağı Tepesi'ni ziyaret etmek, özellikle doğal güzelliklere ilgi duyanlar için önemli bir deneyim olabilir. Bu bölge, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri ile birlikte zengin bir deneyim sunmaktadır. Güneydağı Tepesi'ne ulaşım, özellikle araç ile possível olmakla birlikte, toplu taşıma araçları ile de ulaşma mümkün olmaktadır. Bu tepe, ziyaretçilerine özellikle bahar ve yaz aylarında, renkli bir manzara sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Güneydağı Tepesi, 140 hektarlık bir yeşil alanı kaplamaktadır.
 
 - Güneydağı Tepesi, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olan bir doğal alan olarak dikkat çekmektedir.
 - Bu bölge, tarih boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır.

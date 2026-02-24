@@ -36,7 +36,7 @@ Hamdan Tepe'nin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtır.
 
 ## Coğrafya
 
-Hamdan Tepe, Şanlıurfa'nın coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık alan, bölgeye özgü bitki türleri ve fauna ile kaplıdır. Coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliğini sunar. Hamdan Tepe, Şanlıurfa'nın iklimini de yansıtan bir yerdir. Bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, Hamdan Tepe, bu iklimin etkilerini hafifleten bir yeşil alan olarak da görev yapar. Ayrıca, bu bölge, çevredeki diğer turistik merkezlerle de bağlantılıdır. Ziyaretçiler, Hamdan Tepe'den, diğer önemli destinasyonlara kolayca ulaşabilirler.
+Hamdan Tepe, Şanlıurfa'nın coğrafi yapısını yansıtan bir bölgedir. Coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliğini sunar. Hamdan Tepe, Şanlıurfa'nın iklimini de yansıtan bir yerdir. Bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, Hamdan Tepe, bu iklimin etkilerini hafifleten bir yeşil alan olarak da görev yapar. Ayrıca, bu bölge, çevredeki diğer turistik merkezlerle de bağlantılıdır. Ziyaretçiler, Hamdan Tepe'den, diğer önemli destinasyonlara kolayca ulaşabilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Hamdan Tepe, ziyaretçilere, birçok aktivite sunar. Ziyaretçiler, bu bölgeyi 
 ## İlginç Bilgiler
 
 - Hamdan Tepe, Şanlıurfa'nın en önemli turizm merkezlerinden biridir.
-- Bu bölge, 140 hektarlık bir alanı kapsar.
 
 - Ziyaretçiler, bu bölgeyi, yılın herhangi bir zamanında ziyaret edebilirler.
 - Hamdan Tepe, Şanlıurfa'nın tarihini ve kültürünü anlamak için önemli bir merkezdir.

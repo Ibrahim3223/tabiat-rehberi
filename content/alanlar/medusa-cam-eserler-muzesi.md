@@ -49,7 +49,7 @@ Medusa Cam Eserler Müzesi'ni ziyaret etmek, Gaziantep'in kültür ve sanat haya
 ## İlginç Bilgiler
 
 - Medusa Cam Eserler Müzesi, cam sanatının önemli merkezlerinden biri
-- Müze, 140 hektarlık alan üzerinde kuruludur
+
 - Müzenin koleksiyonunda yer alan eserler, cam sanatının güzel örneklerini sunar
 - Müze, yıl boyunca ziyaretçilere açık
 - Müzenin çevresindeki yeşil alanlar, ziyaretçiler için dinlenme ve gezi alanı olarak kullanılır

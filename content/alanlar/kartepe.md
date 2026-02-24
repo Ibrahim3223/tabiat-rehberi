@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/4_Kartepe_Off-Road.jpg","alt":"Kartepe manzarası","credit":"Kocaeli Kameraman Şadi Akdoğan","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Kartepe_Off_Road.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kartepe_Off_Road.jpg/1280px-Kartepe_Off_Road.jpg","alt":"Kartepe - Kartepe Off Road","credit":"Kocaeli Kameraman Şadi Akdoğan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c9/8_Kartepe_Off_Road.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/8_Kartepe_Off_Road.jpg/1280px-8_Kartepe_Off_Road.jpg","alt":"Kartepe - 8 Kartepe Off Road","credit":"Kocaeli Kameraman Şadi Akdoğan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Kartepe_Belediyesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kartepe_Belediyesi.jpg/1280px-Kartepe_Belediyesi.jpg","alt":"Kartepe - Kartepe Belediyesi","credit":"Ucandairebaskani","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Kartepe_kayak.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kartepe_kayak.jpg/1280px-Kartepe_kayak.jpg","alt":"Kartepe - Kartepe kayak","credit":"Kastamonu Vehicle","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Kartepe_in_Sapanca.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kartepe_in_Sapanca.jpg/1280px-Kartepe_in_Sapanca.jpg","alt":"Kartepe - Kartepe in Sapanca","credit":"Sammallah49","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227887","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kartepe","İç Anadolu Bölgesi","milli park","140 hektar","doğa","gezi","türkiye","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227887"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227887"
 
 # Kartepe
 
-Kartepe, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Kartepe, yemyeşil ormanları, çeşitliliği yüksek flora ve fauna zenginliği ile bir doğa cenneti. Ziyaretçiler, bu muhteşem parkta doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir veya einfach doğayı seyrederek stres attırabilirler. Kartepe, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+ Kartepe, yemyeşil ormanları, çeşitliliği yüksek flora ve fauna zenginliği ile bir doğa cenneti. Ziyaretçiler, bu muhteşem parkta doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir veya einfach doğayı seyrederek stres attırabilirler. Kartepe, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kartepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere ev sah
 
 ## Coğrafya
 
-Kartepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve dağlık alanlara sahiptir. 140 hektarlık milli park, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunar. Doğa yürüyüşleri, piknik alanları ve gözlem noktaları, ziyaretçilerin doğayı yakından tanımasına olanak tanır. Kartepe, dört mevsim boyunca farklı güzellikler sunar. İlkbahar ve yaz aylarında yeşilin tonlarında, sonbahar ve kış aylarında ise karların beyazlığı ile ziyaretçilerini büyüler. Bu coğrafi çeşitlilik, Kartepe'yi yıl boyunca ziyaret edilebilir bir destinasyon haline getirir.
+Kartepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve dağlık alanlara sahiptir. Parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunar. Doğa yürüyüşleri, piknik alanları ve gözlem noktaları, ziyaretçilerin doğayı yakından tanımasına olanak tanır. Kartepe, dört mevsim boyunca farklı güzellikler sunar. İlkbahar ve yaz aylarında yeşilin tonlarında, sonbahar ve kış aylarında ise karların beyazlığı ile ziyaretçilerini büyüler. Bu coğrafi çeşitlilik, Kartepe'yi yıl boyunca ziyaret edilebilir bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Kartepe'yi ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu m
 
 ## İlginç Bilgiler
 
-- Kartepe, 140 hektarlık bir milli parktır.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunur.
 - İlkbahar ve yaz ayları, ziyaret için en uygun zamandır.
 - Ziyaretçiler, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi aktiviteleri yapabilirler.

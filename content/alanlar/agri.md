@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Porto_turistico_di_Policoro_-_1.jpg","alt":"AĞRI manzarası","credit":"Alessandro Antonelli","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_%28G%C3%BCney-Bat%C4%B1_Y%C3%BCz%C3%BC%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_%28G%C3%BCney-Bat%C4%B1_Y%C3%BCz%C3%BC%29.jpg/1280px-A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_%28G%C3%BCney-Bat%C4%B1_Y%C3%BCz%C3%BC%29.jpg","alt":"AĞRI - Ağrı Dağı (Güney-Batı Yüzü)","credit":"Bya~trwiki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/95/Goats_on_A%C4%9Fr%C4%B1_Mountain.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Goats_on_A%C4%9Fr%C4%B1_Mountain.jpg/1280px-Goats_on_A%C4%9Fr%C4%B1_Mountain.jpg","alt":"AĞRI - Goats on Ağrı Mountain","credit":"Mdegirmenci38","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Kasaba_Ard%C4%B1ndaki_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kasaba_Ard%C4%B1ndaki_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg/1280px-Kasaba_Ard%C4%B1ndaki_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"AĞRI - Kasaba Ardındaki Ağrı Dağı","credit":"HBBE.D","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/Mount_A%C4%9Fr%C4%B1_summit_June_11%2C_1966_by_METU_architects_O.%C3%96zg%C3%BCner_%26_A.Bilg%C3%BCtay.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mount_A%C4%9Fr%C4%B1_summit_June_11%2C_1966_by_METU_architects_O.%C3%96zg%C3%BCner_%26_A.Bilg%C3%BCtay.jpg/1280px-Mount_A%C4%9Fr%C4%B1_summit_June_11%2C_1966_by_METU_architects_O.%C3%96zg%C3%BCner_%26_A.Bilg%C3%BCtay.jpg","alt":"AĞRI - Mount Ağrı summit June 11, 1966 by METU architects O.Özgüner & A.Bilgütay","credit":"Ertly","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Agris_mairie.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Agris_mairie.JPG","alt":"AĞRI - Agris mairie","credit":"Jack ma","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9ERI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228723","tip":"genel"}]
-description: "Afyonkarahisar'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Ağrı","milli park","Afyonkarahisar","Ege Bölgesi","yeşil alan","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228723"
@@ -30,7 +30,7 @@ wikidata_id: "Q108228723"
 
 # AĞRI
 
-Ağrı milli parkı, Afyonkarahisar'ın merkezinde yer alan 140 hektarlık bir yeşil alandır. Ağrı milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, doğayı keşfedebilir ve dinlenebilir.
+ Ağrı milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, doğayı keşfedebilir ve dinlenebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ağrı milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Ağrı milli parkı, Afyonkarahisar'ın merkezinde yer alan bir yeşil alandır. Park, 140 hektarlık bir alanı kaplar ve Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Parkın coğrafyası, ziyaretçilerine doğanın güzelliğini keşfetme imkanı sunar. Parkın içerisinde, yürüyüş yolları, piknik alanları ve dinlenme yerleri bulunur. Ziyaretçiler, parkın coğrafyasını keşfedebilir ve doğanın güzelliğini deneyimleyebilir. Parkın iklimi, Ege Bölgesi'nin tipik iklimi olup, ziyaretçiler yılın her döneminde parkı ziyaret edebilir.
+Ağrı milli parkı, Afyonkarahisar'ın merkezinde yer alan bir yeşil alandır. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Parkın coğrafyası, ziyaretçilerine doğanın güzelliğini keşfetme imkanı sunar. Parkın içerisinde, yürüyüş yolları, piknik alanları ve dinlenme yerleri bulunur. Ziyaretçiler, parkın coğrafyasını keşfedebilir ve doğanın güzelliğini deneyimleyebilir. Parkın iklimi, Ege Bölgesi'nin tipik iklimi olup, ziyaretçiler yılın her döneminde parkı ziyaret edebilir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Ağrı milli parkını ziyaret etmek, doğanın güzelliğini keşfetmek isteyen
 
 ## İlginç Bilgiler
 
-- Ağrı milli parkı, 140 hektarlık bir yeşil alanı kaplar.
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Park, Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir.
 - Parkın içerisinde, yürüyüş yolları, piknik alanları ve dinlenme yerleri bulunur.

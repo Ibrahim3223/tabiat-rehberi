@@ -37,7 +37,7 @@ wikidata_id: "Q131391585"
 
 ## Coğrafya
 
-Çoban Dede Türbesi, Tunceli ilinin Mazgirt ilçesinde, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunan bir konumda yer almaktadır. Bu bölge, dağların ve ormanların bir araya geldiği, doğa ile iç içe bir noktada bulunmaktadır. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunmakta ve doğa yürüyüşleri, piknik gibi aktiviteler için ideal bir ortam sağlamaktadır. Çoban Dede Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin benzersiz manzaralarını sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Coğrafi olarak önemli bir konuma sahip olan Çoban Dede Türbesi, ziyaretçilere hem doğal güzellikleri hem de tarihi ve kültürel zenginlikleri bir arada sunmaktadır.
+Çoban Dede Türbesi, Tunceli ilinin Mazgirt ilçesinde, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunan bir konumda yer almaktadır. Bu bölge, dağların ve ormanların bir araya geldiği, doğa ile iç içe bir noktada bulunmaktadır. Çoban Dede Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin benzersiz manzaralarını sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Coğrafi olarak önemli bir konuma sahip olan Çoban Dede Türbesi, ziyaretçilere hem doğal güzellikleri hem de tarihi ve kültürel zenginlikleri bir arada sunmaktadır.
 
 ## Flora ve Fauna
 

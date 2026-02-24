@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","kış sporlar�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"İncegeriş Tepesi","caption":"İncegeriş Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncegeri%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390755","tip":"genel"}]
-description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan İncegeriş Tepesi, 140 hektarlık geniş yeşil alanı ve tarihi geçmişiyle ziyaretçilerini bekliyor."
+"
 keywords: ["İncegeriş Tepesi","Yozgat","İç Anadolu Bölgesi","yeşil alan","tarihi geçmişi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390755"
@@ -48,7 +48,6 @@ wikidata_id: "Q31390755"
 
 ## İlginç Bilgiler
 
-- İncegeriş Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - İncegeriş Tepesi, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış.
 - Bu tepenin tarihi hakkında detaylı bilgiler bulunmasa da, bölgenin geçmişinin oldukça eskiye dayandığı biliniyor.

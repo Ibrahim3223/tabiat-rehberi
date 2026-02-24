@@ -37,7 +37,7 @@ Sekizgen Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge
 
 ## Coğrafya
 
-Sekizgen Hamam, Pamukkale'de, Denizli'nin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Sekizgen Hamam, 140 hektarlık bir alanı kapsıyor ve çevresinde çeşitli bitki türleri bulunmakta. Bu bölgenin coğrafi yapısı, zengin flora ve fauna ile karakterize ediliyor. İklim, genel olarak ılıman ve yaz aylarında sıcak, kış aylarında ılık passing. Sekizgen Hamam, doğal güzellikleri ile ziyaretçilerini büyülüyor. Çevresinde, birçok tarihi mekan ve doğal güzellik bulunmakta.
+Sekizgen Hamam, Pamukkale'de, Denizli'nin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Bu bölgenin coğrafi yapısı, zengin flora ve fauna ile karakterize ediliyor. İklim, genel olarak ılıman ve yaz aylarında sıcak, kış aylarında ılık passing. Sekizgen Hamam, doğal güzellikleri ile ziyaretçilerini büyülüyor. Çevresinde, birçok tarihi mekan ve doğal güzellik bulunmakta.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sekizgen Hamam, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz a
 ## İlginç Bilgiler
 
 - Sekizgen Hamam, Pamukkale'nin en önemli turistik noktalarından biri.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Sekizgen Hamam, tarihi geçmişi ile dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmakta.
 - Sekizgen Hamam, ekolojik açıdan önemli bir mekan olarak kabul ediliyor.

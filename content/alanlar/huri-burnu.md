@@ -42,7 +42,7 @@ Huri Burnu, Van Gölü'nün güneydoğu kıyısında yer alan bir kuş cenneti o
 
 Doğal güzelliklerin bir araya geldiği Van Gölü'nün yakınında, 38.4733°K, 42.6639°D koordinatlarında yer alan Huri Burnu, coğrafi olarak dikkat çekici bir konumda bulunmaktadır. Bu bölge, Van Gölü'nün kıyı şeridinin bir parçası olarak, gölün sularıyla çevrili bir yarımada gibi görünmektedir. Etrafındaki dağların eteklerine kurulmuş olan Huri Burnu, Van şehrine yaklaşık 20 kilometre uzaklıkta bulunmaktadır.
 
-Jeolojik açıdan bakıldığında, Huri Burnu'nun fiziksel yapısı oldukça ilgi çekicidir. Bu alan, Van Gölü'nün kıyı şeridinin bir parçası olarak, gölün sularının şekillendirdiği bir coğrafyaya sahiptir. Ancak, mevcut veriler bu bölgenin tam olarak ne kadar büyük olduğunu veya şeklini tam olarak belirlememizi sağlamamaktadır. Buna rağmen, bu bölgeyi yaklaşık olarak birkaç futbol sahası büyüklüğünde bir alan olarak hayal edebiliriz, ki bu da oldukça küçük bir bölge olarak görünmektedir.
+Jeolojik açıdan bakıldığında, Huri Burnu'nun fiziksel yapısı oldukça ilgi çekicidir. Bu alan, Van Gölü'nün kıyı şeridinin bir parçası olarak, gölün sularının şekillendirdiği bir coğrafyaya sahiptir. Ancak, mevcut veriler bu bölgenin tam olarak ne kadar büyük olduğunu veya şeklini tam olarak belirlememizi sağlamamaktadır.
 
 İklim açısından, Huri Burnu Van Gölü'nün etkisini gösterir. Bu bölgede, Van Gölü'nün su sıcaklığı ve neminin etkisiyle, mevsimsel değişiklikler belirgin olarak hissedilir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürer. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler.
 

@@ -48,7 +48,6 @@ Haravan Tepe, ziyaretçilerini bekliyor. Bu tepe, coğrafi ve tarihi açıdan ö
 
 ## İlginç Bilgiler
 
-- Haravan Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Bu tepe, coğrafi ve tarihi açıdan önemli bir nokta olarak görülüyor
 - Haravan Tepe, ziyaretçilere sunduğu manzaralar ve tarihi kalıntılar ile dikkat çekici bir gezi deneyimi sunuyor
 - Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası olarak görülüyor

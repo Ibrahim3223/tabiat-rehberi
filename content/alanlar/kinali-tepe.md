@@ -49,7 +49,7 @@ Kınalı Tepe, ziyaretçilerini doğal güzellikleri ile büyülemektedir. Bölg
 ## İlginç Bilgiler
 
 - Kınalı Tepe, Erzurum'un doğal güzelliklerinin öne çıktığı bir bölge olarak bilinir
-- Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
+
 - Kınalı Tepe, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker
 - Bölge, özellikle doğa severler için bir cennet olarak görülür
 - Kınalı Tepe, Erzurum'un kültürel ve doğal varlıklarının birleştiği önemli bir noktadır

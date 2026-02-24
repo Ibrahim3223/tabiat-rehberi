@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Güzel Manzaralar","Flora ve Fauna Keşfi",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"Mugla-Fethiye-Uzumlu Kızılçam","caption":"Mugla-Fethiye-Uzumlu Kızılçam","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Uzumlu%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227665","tip":"genel"}]
-description: "Mugla-Fethiye-Uzumlu Kızılçam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Mugla","Fethiye","Uzumlu Kızılçam","Milli Park","Doğa","Yeşil Alan","Kızılçam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227665"
@@ -30,7 +30,7 @@ Mugla-Fethiye-Uzumlu Kızılçam'ın tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Mugla-Fethiye-Uzumlu Kızılçam, İç Anadolu Bölgesi'nde bulunuyor. Bu bölge, coğrafi olarak zengin ve çeşitli bir yapıya sahiptir. 140 hektarlık yeşil alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilere güzel manzaralar ve çeşitli faaliyetler sunuyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, güzel manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir. Bu bölgenin iklimi, ziyaretçilere uygun koşullar sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor. Ziyaretçiler, bu bölgenin coğrafi yapısını ve zenginliğini keşfedebilir ve güzel anılar edinebilir. Bu bölge, coğrafi olarak zengin ve çeşitli bir yapıya sahiptir ve ziyaretçilere birçok faaliyet alanı sunuyor.
+Mugla-Fethiye-Uzumlu Kızılçam, İç Anadolu Bölgesi'nde bulunuyor. Bu bölge, coğrafi olarak zengin ve çeşitli bir yapıya sahiptir. Bu bölgenin coğrafi yapısı, ziyaretçilere güzel manzaralar ve çeşitli faaliyetler sunuyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, güzel manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir. Bu bölgenin iklimi, ziyaretçilere uygun koşullar sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor. Ziyaretçiler, bu bölgenin coğrafi yapısını ve zenginliğini keşfedebilir ve güzel anılar edinebilir. Bu bölge, coğrafi olarak zengin ve çeşitli bir yapıya sahiptir ve ziyaretçilere birçok faaliyet alanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Mugla-Fethiye-Uzumlu Kızılçam, ziyaretçilere birçok farklı faaliyet alanı
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi
 - Çeşitli bitki türleri
 - Zengin fauna

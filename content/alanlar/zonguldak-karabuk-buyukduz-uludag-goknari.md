@@ -42,7 +42,6 @@ Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkını ziyaret etmek, ziyaret
 
 ## İlginç Bilgiler
 
-- Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, 140 hektarlık bir alana sahiptir.
 - Bu milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, tarihi geçmişiyle dikkat çekmektedir.
 - Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.

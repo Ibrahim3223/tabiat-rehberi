@@ -50,8 +50,6 @@ Eski Kaplıca'yı ziyaret etmek, doğanın güzelliğini keşfetmek isteyenler i
 
 ## İlginç Bilgiler
 
-- Eski Kaplıca, 140 hektarlık bir alana yayılmış
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Eski Kaplıca, çeşitli bitki türleri ve hayvanlarla dolu
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Eski Kaplıca, tarihinin her döneminde önemli bir merkez olarak kabul edilmiş

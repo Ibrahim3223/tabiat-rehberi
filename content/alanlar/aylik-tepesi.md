@@ -36,7 +36,7 @@ Aylık Tepesi, yüzyıllar boyunca bölgenin önemli bir parçası olmuş. Tarih
 
 ## Coğrafya
 
-Aylık Tepesi, Karadeniz Bölgesi'nin dağlıkısmında yer almakta. Bu tepe, 140 hektarlık bir alana yayılmış ve geniş bir görüş açısına sahip. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna barındırmakta. İklim, Karadeniz Bölgesi'nin karakteristik özelliklerini taşımakta ve ziyaretçilere, her mevsim farklı bir güzellik sunmakta. Aylık Tepesi, aynı zamanda bölgenin önemli su kaynaklarına da ev sahipliği yapmakta. Ziyaretçiler, bu tepeye tırmanırken, kendilerini Karadeniz Bölgesi'nin muhteşem manzarasının içinde bulacaklar.
+Aylık Tepesi, Karadeniz Bölgesi'nin dağlıkısmında yer almakta. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna barındırmakta. İklim, Karadeniz Bölgesi'nin karakteristik özelliklerini taşımakta ve ziyaretçilere, her mevsim farklı bir güzellik sunmakta. Aylık Tepesi, aynı zamanda bölgenin önemli su kaynaklarına da ev sahipliği yapmakta. Ziyaretçiler, bu tepeye tırmanırken, kendilerini Karadeniz Bölgesi'nin muhteşem manzarasının içinde bulacaklar.
 
 ## Flora ve Fauna
 

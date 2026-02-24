@@ -37,7 +37,7 @@ Muhammed Beşir Türbesi'nin tarihi geçmişi, Erzincan'ın tarihî sürecine pa
 
 ## Coğrafya
 
-Muhammed Beşir Türbesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölgede yer alır. Erzincan ilinin merkezi kısmında bulunan bu türbe, şehrin coğrafi yapısından da etkilenmiştir. Çevresinde yer alan dağlar ve ovalar, bölgenin iklimini ve bitki örtüsünü etkilemiştir. Muhammed Beşir Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu bölgede çeşitli bitki türleri ve hayvanlar bulunur. Türbenin coğrafi konumu, ziyaretçilere şehrin natuur güzelliklerini keşfetme fırsatı sunar. Erzincan'ın coğrafi özellikleri, Muhammed Beşir Türbesi'nin etrafındaki peyzajı zenginleştirmiştir.
+Muhammed Beşir Türbesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölgede yer alır. Erzincan ilinin merkezi kısmında bulunan bu türbe, şehrin coğrafi yapısından da etkilenmiştir. Çevresinde yer alan dağlar ve ovalar, bölgenin iklimini ve bitki örtüsünü etkilemiştir. Türbenin coğrafi konumu, ziyaretçilere şehrin natuur güzelliklerini keşfetme fırsatı sunar. Erzincan'ın coğrafi özellikleri, Muhammed Beşir Türbesi'nin etrafındaki peyzajı zenginleştirmiştir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Muhammed Beşir Türbesi'ni ziyaret etmek, tarihi ve dinî açıdan zengin bir d
 ## İlginç Bilgiler
 
 - Muhammed Beşir Türbesi, Erzincan'ın önemli dinî ve kültürel miraslarından biri olarak kabul edilir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Muhammed Beşir Türbesi, yüzyıllar boyunca Erzincan'ın dinî ve kültürel kimliği açısından önemli bir rol oynamıştır.
 - Bölge, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Muhammed Beşir Türbesi, yıl boyunca ziyaretçilerini kabul eder ve özellikle dinî bayramlar ve özel günlerde daha çok ziyaretçi alır.

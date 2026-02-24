@@ -49,7 +49,6 @@ Lütfi Paşa Hamamı, ziyaretçilere, benzersiz bir deneyim sunar. Hamama gitmek
 
 ## İlginç Bilgiler
 
-- Lütfi Paşa Hamamı, 140 hektarlık bir arazide kurulmuştur
 - Hamamın tarihi geçmişi, Osmanlı İmparatorluğu'nun önemli dönemlerine ışık tutar
 - Hamamın etrafı, çeşitli bitki türleriyle çevrili olup, ziyaretçilere, İstanbul'un doğal güzelliklerini deneyimleme fırsatı sunar
 - Lütfi Paşa Hamamı, ziyaretçilere, benzersiz bir deneyim sunar

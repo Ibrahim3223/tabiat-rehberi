@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Erenler_tepesi_-_panoramio.jpg","alt":"Erenler Tepesi manzarası","credit":"abdullah ünlü","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erenler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388345","tip":"genel"}]
-description: "Aydın'ın yeşil cenneti Erenler Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Erenler Tepesi","Aydın","Ege Bölgesi","doğa","gezi","tepe","manzara","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388345"
@@ -29,7 +29,7 @@ wikidata_id: "Q31388345"
 
 # Erenler Tepesi
 
- Bu tepe, şehrin koşuşturmacasından kaçmak isteyenler için bir sığınak harika bir deneyim. Erenler Tepesi'ne çıkarken, etrafını saran ağaçların yeşilliği ve doğanın sesleri, ziyaretçilerini bir doğa belgeselinin içine çekiyor. 140 hektarlık bu büyük alan, hem doğa severler hem de sporcular için ideal bir ortam sunuyor.
+ Bu tepe, şehrin koşuşturmacasından kaçmak isteyenler için bir sığınak harika bir deneyim. Erenler Tepesi'ne çıkarken, etrafını saran ağaçların yeşilliği ve doğanın sesleri, ziyaretçilerini bir doğa belgeselinin içine çekiyor.
 
 ## Tarihçe
 

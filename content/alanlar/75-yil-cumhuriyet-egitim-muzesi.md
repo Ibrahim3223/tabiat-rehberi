@@ -38,7 +38,7 @@ wikidata_id: "Q132682032"
 
 ## Coğrafya
 
-75. Yıl Cumhuriyet Eğitim Müzesi, Ankara'nın merkezi bir bölgesinde, Çankaya ilçesinde yer almaktadır. Müzenin bulunduğu alan, yaklaşık 140 hektarlık bir arazidir ve bu alan, ziyaretçilere geniş bir gezi alanı sunmaktadır. Müzenin çevresi, Ankara'nın önemli yönetim ve eğitim merkezlerine yakındır. Ayrıca, müze çevresinde çeşitli restoranlar, kafeler ve parklar da bulunmaktadır. Müzenin coğrafi konumu, ziyaretçilerin diğer turistik noktalara ulaşımını kolaylaştırmaktadır. Ankara'nın iklimi karasal iklim özellikleri göstermektedir ve müze, bu iklim koşullarına uygun bir şekilde tasarlanmıştır.
+75. Yıl Cumhuriyet Eğitim Müzesi, Ankara'nın merkezi bir bölgesinde, Çankaya ilçesinde yer almaktadır. Müzenin çevresi, Ankara'nın önemli yönetim ve eğitim merkezlerine yakındır. Ayrıca, müze çevresinde çeşitli restoranlar, kafeler ve parklar da bulunmaktadır. Müzenin coğrafi konumu, ziyaretçilerin diğer turistik noktalara ulaşımını kolaylaştırmaktadır. Ankara'nın iklimi karasal iklim özellikleri göstermektedir ve müze, bu iklim koşullarına uygun bir şekilde tasarlanmıştır.
 
 ## Flora ve Fauna
 

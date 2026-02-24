@@ -36,7 +36,7 @@ Hastahane Tepesi'nin tarihi geçmişi oldukça eskidir. Bu tepe, yüzyıllar boy
 
 ## Coğrafya
 
-Hastahane Tepesi, Hatay ilinin coğrafi yapısını şekillendiren önemli bir oluşumdur. Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak karşımıza çıkar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitkiler tepe'nin doğal güzelliğini artırır. Hastahane Tepesi, Akdeniz Bölgesi'nin karakteristik iklimini taşır ve bu iklim tepe'nin coğrafi yapısını etkiler. Tepenin coğrafi konumu, ziyaretçilerin buraya gelerek doğayı etmelerine olanak tanır. Hastahane Tepesi, Hatay'ın coğrafi zenginliklerinden biri olarak kabul edilir ve bu tepe'nin coğrafi yapısı, ziyaretçilerini etkileyen bir güzelliğe sahiptir.
+Hastahane Tepesi, Hatay ilinin coğrafi yapısını şekillendiren önemli bir oluşumdur. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitkiler tepe'nin doğal güzelliğini artırır. Hastahane Tepesi, Akdeniz Bölgesi'nin karakteristik iklimini taşır ve bu iklim tepe'nin coğrafi yapısını etkiler. Tepenin coğrafi konumu, ziyaretçilerin buraya gelerek doğayı etmelerine olanak tanır. Hastahane Tepesi, Hatay'ın coğrafi zenginliklerinden biri olarak kabul edilir ve bu tepe'nin coğrafi yapısı, ziyaretçilerini etkileyen bir güzelliğe sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Hastahane Tepesi'ni ziyaret etmek, ziyaretçilere zengin bir doğa deneyimi suna
 ## İlginç Bilgiler
 
 - Hastahane Tepesi, Hatay ilinin coğrafi zenginliklerinden biridir.
-- Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak karşımıza çıkar.
+
 - Tepenin etrafında çeşitli bitki türleri bulunur.
 - Hastahane Tepesi, Akdeniz Bölgesi'nin karakteristik iklimini taşır.
 - Bu tepe, ziyaretçilerine zengin bir doğa deneyimi sunar.

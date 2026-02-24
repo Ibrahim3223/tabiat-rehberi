@@ -37,7 +37,7 @@ Karakuz Tepesi, yüzyıllar boyunca doğal güzelliğini korumuş bir alan. Tari
 
 ## Coğrafya
 
-Karakuz Tepesi, Kars ilinin coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak zengin bir bölge. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karakuz Tepesi, Kars ilinin iklimini etkileyen önemli bir faktör. Tepenin yüksekliği, iklimi ve coğrafi konumu, bu bölgeyi turizm açısından önemli bir destinasyon haline getiriyor. Karakuz Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini göstermek için bekliyor. Tepenin coğrafi konumu, Kars ilinin turizm potansiyelini artıran önemli bir nokta.
+Karakuz Tepesi, Kars ilinin coğrafi yapısını oluşturan önemli bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karakuz Tepesi, Kars ilinin iklimini etkileyen önemli bir faktör. Tepenin yüksekliği, iklimi ve coğrafi konumu, bu bölgeyi turizm açısından önemli bir destinasyon haline getiriyor. Karakuz Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini göstermek için bekliyor. Tepenin coğrafi konumu, Kars ilinin turizm potansiyelini artıran önemli bir nokta.
 
 ## Flora ve Fauna
 

@@ -51,7 +51,7 @@ Kadılar Türbesi'ni ziyaret etmek, hem gezi hem de doğa severler için ideal b
 ## İlginç Bilgiler
 
 - Kadılar Türbesi, Amasya'nın en önemli tarihi mekanlarından biri
-- Bölge, 140 hektarlık bir alanı kaplıyor
+
 - Yeşilırmak Nehri'nin kenarında kurulmuş
 - Karadeniz Bölgesi'nin güzelliklerini taşıyor
 - Zengin flora ve fauna çeşitliliği

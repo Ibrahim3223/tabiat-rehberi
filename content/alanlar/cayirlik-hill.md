@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih keşfi","fotografcılık","ekoloji g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Çayırlık Hill","caption":"Çayırlık Hill","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rl%C4%B1k%20Hill","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828801","tip":"genel"}]
-description: "Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren Çayırlık Hill, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["doğa","tarih","Diyarbakır","gezi","çevre","ekoloji","flora","fauna","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828801"
@@ -36,7 +36,7 @@ wikidata_id: "Q34828801"
 
 ## Coğrafya
 
-Çayırlık Hill, Diyarbakır'ın coğrafi yapısını yansıtması açısından önemli bir bölgedir. Yaklaşık 140 hektarlık yeşil alanı, bölgenin coğrafi özelliklerini gözler önüne sermektedir. Bu bölge, çevresindeki diğer doğal alanlarla birlikte, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir. Çayırlık Hill'in coğrafi konumu, ziyaretçiler için hem doğal güzellikleri keşfetmek hem de bölgenin coğrafi yapısını anlamak açısından önemlidir. Bu bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri göstermektedir.
+Çayırlık Hill, Diyarbakır'ın coğrafi yapısını yansıtması açısından önemli bir bölgedir. Bu bölge, çevresindeki diğer doğal alanlarla birlikte, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir. Çayırlık Hill'in coğrafi konumu, ziyaretçiler için hem doğal güzellikleri keşfetmek hem de bölgenin coğrafi yapısını anlamak açısından önemlidir. Bu bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri göstermektedir.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ wikidata_id: "Q34828801"
 
 - Çayırlık Hill, Diyarbakır'ın önemli tarihi ve doğal sitelerinden biridir.
 - Bu bölgenin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
-- Çayırlık Hill, yaklaşık 140 hektarlık yeşil alanı ile önemli bir doğal alandır.
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Çayırlık Hill, ziyaretçiler için hem doğal güzellikleri keşfetmek hem de tarihi eserleri görmek açısından önemlidir.

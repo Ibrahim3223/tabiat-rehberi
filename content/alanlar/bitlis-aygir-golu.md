@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Balık avı","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d2/S%C3%BCphan_Da%C4%9F%C4%B1_ve_Ayg%C4%B1r_G%C3%B6l%C3%BC.jpg","alt":"BİTLİS AYGIR GÖLÜ manzarası","credit":"Ezfuat13","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/S%C3%BCphan_Da%C4%9F%C4%B1_ve_Ayg%C4%B1r_G%C3%B6l%C3%BC.jpg/960px-S%C3%BCphan_Da%C4%9F%C4%B1_ve_Ayg%C4%B1r_G%C3%B6l%C3%BC.jpg","alt":"BİTLİS AYGIR GÖLÜ","caption":"BİTLİS AYGIR GÖLÜ","credit":"Süphan Dağı ve Aygır Gölü","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B0TL%C4%B0S%20AYGIR%20G%C3%96L%C3%9C","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228884","tip":"genel"}]
-description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Bitlis Aygır Gölü, 140 hektarlık geniş bir alan üzerinde kurulmuştur."
+"
 keywords: ["Bitlis Aygır Gölü","Doğal Alan","Historik Geçmiş","Turizm","Göl","Doğa","Bitlis","Aygır Gölü"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228884"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228884"
 
 # BİTLİS AYGIR GÖLÜ
 
-Bitlis Aygır Gölü, yaklaşık 140 hektarlık geniş bir alan üzerinde kurulmuştur. Bu doğal güzellik, tarihi geçmişi ve çevresindeki flora ile dikkat çeker. Bitlis Aygır Gölü'nün historia geçmişi, yüzyıllar boyunca şekillenmiştir. Gölün etrafındaki dağların yüksekliği ve gölün derinliği, ziyaretçilere eşsiz bir manzara sunar.
+ Bu doğal güzellik, tarihi geçmişi ve çevresindeki flora ile dikkat çeker. Bitlis Aygır Gölü'nün historia geçmişi, yüzyıllar boyunca şekillenmiştir. Gölün etrafındaki dağların yüksekliği ve gölün derinliği, ziyaretçilere eşsiz bir manzara sunar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bitlis Aygır Gölü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Bitlis Aygır Gölü, İç Anadolu Bölgesi'nde yer alır. Gölün coğrafi konumu, ziyaretçilere eşsiz bir manzara sunar. Gölün etrafındaki dağların yüksekliği, gölün derinliğine etki eder. Gölün genişliği ve uzunluğu, yaklaşık 1,5 kilometre ve 2 kilometre olup, gölün alanı 140 hektarlık bir alan üzerinde kurulmuştur. Gölün coğrafi konumu, flora ve fauna açısından zengindir. Gölün etrafındaki dağlar, çeşitli bitki türleri ile kaplıdır. Gölün derinliği, gölün su seviyesini etkiler. Gölün su seviyesi, mevsimsel olarak değişir.
+Bitlis Aygır Gölü, İç Anadolu Bölgesi'nde yer alır. Gölün coğrafi konumu, ziyaretçilere eşsiz bir manzara sunar. Gölün etrafındaki dağların yüksekliği, gölün derinliğine etki eder. Gölün coğrafi konumu, flora ve fauna açısından zengindir. Gölün etrafındaki dağlar, çeşitli bitki türleri ile kaplıdır. Gölün derinliği, gölün su seviyesini etkiler. Gölün su seviyesi, mevsimsel olarak değişir.
 
 ## Flora ve Fauna
 

@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Gezi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Tepetaş Tepesi","caption":"Tepetaş Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepeta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389338","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Tepetaş Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["Mersin","Akdeniz Bölgesi","Tepetaş Tepesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389338"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389338"
 
 # Tepetaş Tepesi
 
-Tepetaş Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe ve 140 hektarlık bir alanı kapsar. Tepetaş Tepesi, doğa severlerin ve gezi tutkunlarının ziyaret ettiği önemli bir noktadır. Burada, Mersin'in güzelliklerini keşfetme ve Akdeniz Bölgesi'nin eşsiz manzaralarını izleme mümkündür. Tepetaş Tepesi'nin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar.
+ Tepetaş Tepesi, doğa severlerin ve gezi tutkunlarının ziyaret ettiği önemli bir noktadır. Burada, Mersin'in güzelliklerini keşfetme ve Akdeniz Bölgesi'nin eşsiz manzaralarını izleme mümkündür. Tepetaş Tepesi'nin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tepetaş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu t
 
 ## Coğrafya
 
-Tepetaş Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alır ve 140 hektarlık bir alanı kapsar. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar. Tepetaş Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Burada, ziyaretçiler, Akdeniz Bölgesi'nin eşsiz manzaralarını izleme ve doğa güzelliklerini keşfetmek için çeşitli fırsatlar bulabilir. Tepetaş Tepesi'nin iklimi, Akdeniz iklimi olarak karakterizedir ve ziyaretçilere, yıl boyunca çeşitli aktiviteler ve deneyimler sunar.
+ Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar. Tepetaş Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Burada, ziyaretçiler, Akdeniz Bölgesi'nin eşsiz manzaralarını izleme ve doğa güzelliklerini keşfetmek için çeşitli fırsatlar bulabilir. Tepetaş Tepesi'nin iklimi, Akdeniz iklimi olarak karakterizedir ve ziyaretçilere, yıl boyunca çeşitli aktiviteler ve deneyimler sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Tepetaş Tepesi'ni ziyaret etmek, doğa severlerin ve gezi tutkunlarının için
 
 ## İlginç Bilgiler
 
-- Tepetaş Tepesi, 140 hektarlık bir alanı kapsar.
 - Tepetaş Tepesi, deniz seviyesinden yüksek bir konumda yer alır.
 - Tepetaş Tepesi'nin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar.
 - Tepetaş Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterizedir.

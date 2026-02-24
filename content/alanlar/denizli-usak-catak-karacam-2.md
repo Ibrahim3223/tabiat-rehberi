@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Denizli-Usak-Catak Karacam 2","caption":"Denizli-Usak-Catak Karacam 2","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Catak%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227502","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin gözdesi"
+
 keywords: ["Denizli","Usak","Catak Karacam 2","milli park","Ege Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227502"
@@ -43,7 +43,7 @@ Denizli-Usak-Catak Karacam 2 milli parkını ziyaret etmek, doğa severler için
 ## İlginç Bilgiler
 
 - Denizli-Usak-Catak Karacam 2 milli parkı, Ege Bölgesi'nin en güzel köşelerinden biri olarak bilinir
-- Milli park, 140 hektarlık bir alanı kapsar
+
 - Denizli-Usak-Catak Karacam 2 milli parkı, çeşitli bitki türleri ve hayvanlarla doludur
 - Milli park, ziyaretçilerine doğal güzelliği ve zengin flora ve faunasıyla, unutulmaz bir deneyim sunar
 - Denizli-Usak-Catak Karacam 2 milli parkı, Ege Bölgesi'nin turizm açısından önemli noktalarından biri olarak kabul edilir

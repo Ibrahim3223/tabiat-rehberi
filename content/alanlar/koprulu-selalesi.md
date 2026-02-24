@@ -28,7 +28,7 @@ wikidata_id: "Q97208089"
 
 # Köprülü Şelalesi
 
-Köprülü Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini büyüleyici bir güzelliğe sahip bir şelaleyle karşılar. Köprülü Şelalesi, hem doğa severlerin hem de tarihi ve kültürel zenginliklere ilgi duyanların ziyaret edebileceği bir destinasyondur. Şelalenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur, bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
+Köprülü Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Köprülü Şelalesi, hem doğa severlerin hem de tarihi ve kültürel zenginliklere ilgi duyanların ziyaret edebileceği bir destinasyondur. Şelalenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur, bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Köprülü Şelalesi'ni ziyaret etmek, doğa severler ve kültürel zenginlikler
 ## İlginç Bilgiler
 
 - Köprülü Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Şelale, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Köprülü Şelalesi, tarihi ve kültürel zenginliklere ilgi duyanlar için ideal bir destinasyondur.
 - Şelale, ziyaretçilerin doğayla iç içe bir deneyim yaşamasına olanak tanır.

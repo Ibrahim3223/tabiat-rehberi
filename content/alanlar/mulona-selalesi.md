@@ -36,7 +36,7 @@ Mulona Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve böl
 
 ## Coğrafya
 
-Mulona Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Şelale, dağların eteklerinde, yemyeşil ormanların arasında, yaklaşık 140 hektarlık bir alanda bulunuyor. Bu bölgede, iklim genellikle karasal ve kurak, yaz aylarında sıca ve kış aylarında soğuk passing. Çevredeki dağlar ve ormanlar, bölgenin ekosistemini zenginleştiren önemli faktörler. Mulona Şelalesi'nin coğrafi konumu, ziyaretçilere, doğa yürüyüşleri, fotoğrafçılık ve diğer açık hava etkinlikleri için ideal bir ortam sunuyor. Şelalenin yakınındaki nehir ve akarsular, bölgenin su kaynaklarını zenginleştiren önemli su yolları. Bu coğrafi zenginlik, Mulona Şelalesi'ni, doğa severler ve macera arayanlar için bir cennet haline getiriyor.
+Mulona Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölgede, iklim genellikle karasal ve kurak, yaz aylarında sıca ve kış aylarında soğuk passing. Çevredeki dağlar ve ormanlar, bölgenin ekosistemini zenginleştiren önemli faktörler. Mulona Şelalesi'nin coğrafi konumu, ziyaretçilere, doğa yürüyüşleri, fotoğrafçılık ve diğer açık hava etkinlikleri için ideal bir ortam sunuyor. Şelalenin yakınındaki nehir ve akarsular, bölgenin su kaynaklarını zenginleştiren önemli su yolları. Bu coğrafi zenginlik, Mulona Şelalesi'ni, doğa severler ve macera arayanlar için bir cennet haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Mulona Şelalesi'ni ziyaret etmek için, en iyi zaman, ilkbahar ve yaz aylarıd�
 
 ## İlginç Bilgiler
 
-- Mulona Şelalesi, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Şelalenin yakınındaki ormanlar, birçok farklı hayvan türüne ev sahipliği yapıyor
 - Bölgede, tarihi kalıntılar ve arkeolojik siteler de bulunmakta
 - Mulona Şelalesi, bir turizm noktası olarak gelişmiştir

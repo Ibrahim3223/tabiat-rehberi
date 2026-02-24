@@ -29,7 +29,7 @@ wikidata_id: "Q131738554"
 
 # Sofular Hamamı
 
-Sofular Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu özel mekan, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor.
+Sofular Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -49,7 +49,7 @@ Yalaktaş Tepe, doğa severler için önemli bir gezi noktası. Buraya, yıl boy
 ## İlginç Bilgiler
 
 - Yalaktaş Tepe, Mersin'in önemli coğrafik noktalarından biri
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Yalaktaş Tepe'nin etrafı, çeşitli bitki türleriyle dolu
 - Bu tepe, birçok canlıya ev sahipliği yapıyor
 - Yalaktaş Tepe, doğa severler için önemli bir gezi noktası

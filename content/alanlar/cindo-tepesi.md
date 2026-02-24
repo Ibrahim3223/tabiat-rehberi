@@ -48,7 +48,6 @@ Cindo Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada 
 
 ## İlginç Bilgiler
 
-- Cindo Tepesi, 140 hektarlık bir alanı kapsıyor
 - Tepenin etrafındaki yeşil alanlar, ziyaretçilere doğayla iç içe bir deneyimi vaat ediyor
 - Cindo Tepesi, aynı zamanda bölgenin önemli bir su kaynağı olarak da kabul ediliyor
 - Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtıyor

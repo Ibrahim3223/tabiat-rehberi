@@ -29,7 +29,7 @@ wikidata_id: "Q31190849"
 
 # Muradiye Şelalesi
 
-Muradiye Şelalesi, İç Anadolu Bölgesi'nin en önemli güzelliklerinden biri olarak kabul ediliyor. Bu şelale, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini doğanın içinde bir macera bekliyor. 200 futbol sahası büyüklüğünde bir alan düşünün, burada doğanın tüm güzellikleri bir araya geliyor. Muradiye Şelalesi, ziyaretçilerine hem doğanın güzelliğini hem de bir şelalenin gücünü gösteriyor. Bu bölge, birçok farklı türün yaşadığı bir ekosistem olarak dikkat çekiyor.
+Muradiye Şelalesi, İç Anadolu Bölgesi'nin en önemli güzelliklerinden biri olarak kabul ediliyor. Muradiye Şelalesi, ziyaretçilerine hem doğanın güzelliğini hem de bir şelalenin gücünü gösteriyor. Bu bölge, birçok farklı türün yaşadığı bir ekosistem olarak dikkat çekiyor.
 
 ## Tarihçe
 

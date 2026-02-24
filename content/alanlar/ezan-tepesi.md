@@ -48,7 +48,6 @@ Ezan Tepesi'ni ziyaret etmek, ziyaretçiler için unutulmaz bir deneyim. Tepenin
 
 ## İlginç Bilgiler
 
-- Ezan Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin eteklerinde, çeşitli bitki türleri bulunmakta.
 - Ezan Tepesi, bölgenin en önemli doğal güzelliklerinden biri.
 - Tepenin etrafında, birçok küçüköy ve kasaba yer alıyor.

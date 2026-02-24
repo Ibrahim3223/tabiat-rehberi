@@ -51,6 +51,6 @@ Abdal Murad Türbesi'ni ziyaret etmek, gezi severler için özel bir deneyim ola
 
 - Abdal Murad Türbesi, Bursa'nın önemli tarihi noktalarından biri
 - Bu türbe, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor
-- Abdal Murad Türbesi, 140 hektarlık bir alanda kurulmuş
+
 - Bu türbe, çeşitli flora ve fauna türlerine ev sahipliği yapıyor
 - Abdal Murad Türbesi, coğrafi konumu itibariyle, ziyaretçilerine huzurlu bir ortam sunuyor

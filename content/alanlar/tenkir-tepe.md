@@ -48,8 +48,6 @@ Tenkir Tepe, ziyaretçilere çeşitli etkinlikler sunar. Tenkir Tepe'de, doğa y
 
 ## İlginç Bilgiler
 
-- Tenkir Tepe, 140 hektarlık bir alana yayılmıştır
-- Tenkir Tepe, yaklaşık 200 futbol sahası büyüklüğündedir
 - Tenkir Tepe, İç Anadolu Bölgesi'nin en ilginç yerlerinden birisidir
 - Tenkir Tepe, flora ve fauna açısından zengin bir alandır
 - Tenkir Tepe, ziyaretçilere ilginç bir gezi deneyimi sunar

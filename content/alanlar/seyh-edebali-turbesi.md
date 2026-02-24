@@ -51,7 +51,7 @@ wikidata_id: "Q6027628"
 ## İlginç Bilgiler
 
 - Şeyh Edebali, Osmanlı Devleti'nin kurucusu Osman Bey'in kayınpederi ve manevi lideridir.
-- Türbe, 140 hektarlık bir alan üzerine kurulmuştur.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Türbenin tarihi geçmişi, ziyaretçilere derin bir saygı ve huzur hissi verir.
 - Bölge, Marmara Bölgesi'nde yer alan Bilecik ilinin merkezinde bulunur.

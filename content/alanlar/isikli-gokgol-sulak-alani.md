@@ -30,7 +30,7 @@ Işıklı-Gökgöl Sulak Alanı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin
 
 ## Coğrafya
 
-Işıklı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, Işıklı-Gökgöl Sulak Alanı'nın güzelliğini daha da artırıyor. Bu alan, çevresindeki dağlar ve ovalarla birlikte bir bütün olarak düşünülüyor ve bu coğrafi yapı, ziyaretçilere benzersiz bir deneyim sunuyor. Işıklı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ve güzelliğinin önemli bir parçasını oluşturuyor.
+Işıklı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, Işıklı-Gökgöl Sulak Alanı'nın güzelliğini daha da artırıyor. Bu alan, çevresindeki dağlar ve ovalarla birlikte bir bütün olarak düşünülüyor ve bu coğrafi yapı, ziyaretçilere benzersiz bir deneyim sunuyor. Işıklı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ve güzelliğinin önemli bir parçasını oluşturuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Işıklı-Gökgöl Sulak Alanı'na ziyaretçiler, İç Anadolu Bölgesi'nin güz
 
 ## İlginç Bilgiler
 
-- Işıklı-Gökgöl Sulak Alanı, 140 hektarlık bir alanı kapsıyor.
 - Bu sulak alan, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Işıklı-Gökgöl Sulak Alanı, birçok farklı türün yaşam alanı olarak hizmet veriyor.
 - Bu alan, mevsimsel değişimlerle birlikte farklı bir güzelli ve canlılık sunuyor.

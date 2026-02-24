@@ -50,8 +50,6 @@ Irmak Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en uygun zaman,
 
 ## İlginç Bilgiler
 
-- Irmak Hamamı, 140 hektarlık bir alana sahip.
-
 - Irmak Hamamı, Adana'nın merkezine yakın bir konumda bulunuyor.
 - Bu plaj, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Irmak Hamamı, mevsimsel değişimlere göre değişen bir ekosisteme sahip.

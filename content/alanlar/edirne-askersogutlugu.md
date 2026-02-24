@@ -43,7 +43,7 @@ EDİRNE ASKERSÖĞÜTLÜĞÜ'ne ziyaretçiler, doğanın güzelliğini keşfetme
 ## İlginç Bilgiler
 
 - EDİRNE ASKERSÖĞÜTLÜĞÜ, İç Anadolu Bölgesi'nin önemli ekolojik noktalarından biridir.
-- Milli park, 140 hektarlık bir alanı kaplamaktadır.
+
 - EDİRNE ASKERSÖĞÜTLÜĞÜ, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Milli park, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar.
 - EDİRNE ASKERSÖĞÜTLÜĞÜ, yüzyıllar boyunca bölgenin doğal güzelliği ve ekolojik önemi nedeniyle, önemli bir turizm merkezi haline gelmiştir.

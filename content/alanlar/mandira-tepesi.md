@@ -48,7 +48,6 @@ Mandıra Tepesi'ni ziyaret etmek isteyenler, bu bölgeye kolayca ulaşabilirler.
 
 ## İlginç Bilgiler
 
-- Mandıra Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Mandıra Tepesi, aynı zamanda birçok efsaneye ve rivayete konu olmuştur.
 - Tepenin etrafındaki köyler ve kasabalar, bu bölgenin tarihi ve kültürel önemini korumuştur.

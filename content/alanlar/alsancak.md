@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzmek","güneşlenmek","kumda vakit geçirmek","restoranlarda yemek"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Alsancak.jpg","alt":"Alsancak manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/0386-%C4%B0zmir-Alsancak-Atat%C3%BCrk%C3%A7%C3%BC.jpg/960px-0386-%C4%B0zmir-Alsancak-Atat%C3%BCrk%C3%A7%C3%BC.jpg","alt":"Alsancak","caption":"Alsancak","credit":"0386-İzmir-Alsancak-Atatürkçü","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Alsancak_Liman%C4%B1_Tramvay_%C4%B0stastonu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alsancak_Liman%C4%B1_Tramvay_%C4%B0stastonu.jpg/1280px-Alsancak_Liman%C4%B1_Tramvay_%C4%B0stastonu.jpg","alt":"Alsancak - Alsancak Limanı Tramvay İstastonu","credit":"0tanımsız","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/59/A_panoramic_view_of_the_Alsancak_quarter_in_Izmir.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_panoramic_view_of_the_Alsancak_quarter_in_Izmir.jpg/1280px-A_panoramic_view_of_the_Alsancak_quarter_in_Izmir.jpg","alt":"Alsancak - A panoramic view of the Alsancak quarter in Izmir","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/34/Alsancak_Gar_tram.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Alsancak_Gar_tram.jpg/1280px-Alsancak_Gar_tram.jpg","alt":"Alsancak - Alsancak Gar tram","credit":"Btian P. Dorsam","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/%C4%B0zmir_Alsancak_Stadium.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%C4%B0zmir_Alsancak_Stadium.jpg/1280px-%C4%B0zmir_Alsancak_Stadium.jpg","alt":"Alsancak - İzmir Alsancak Stadium","credit":"Metuboy","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Alsancak_buildings.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Alsancak_buildings.jpg/1280px-Alsancak_buildings.jpg","alt":"Alsancak - Alsancak buildings","credit":"Btian P. Dorsam","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alsancak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q4735767","tip":"genel"}]
 description: "İzmir'in Konak ilçesinde bulunan Alsancak, Ege Bölgesi'nin en güzel plajlarından biri"
@@ -51,7 +51,7 @@ Alsancak Plajı, yıl boyunca ziyaret edilebilir, ancak en iyi ziyaret zamanı y
 ## İlginç Bilgiler
 
 - Alsancak Plajı, İzmir'in en eski plajlarından biridir
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Alsancak Plajı, Ege Bölgesi'nin en güzel plajlarından biridir
 - Plaj, birçok etkinliğe ev sahipliği yapar
 - Alsancak Plajı, zengin bir faunaya sahiptir

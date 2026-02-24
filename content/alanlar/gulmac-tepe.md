@@ -36,7 +36,7 @@ Gülmaç Tepe, tarihin derinliklerinde gizlenen bir geçmişe sahip. Bu tepe, y�
 
 ## Coğrafya
 
-Gülmaç Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe. Bu tepe, Sivas'ın merkezine yakınlığı nedeniyle ulaşım açısından kolaylık sağlıyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi çeşitli bitki türleriyle kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Tepe, aynı zamanda bölgenin iklimini de yansıtıyor. İç Anadolu Bölgesi'nin karasal iklimi, tepeyi kışın karla kaplıyor ve yazın sıcakk günler yaşıyor. Bu coğrafi özellikler, tepeyi ziyaret edenler için önemli bir deneyim sunuyor.
+Gülmaç Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe. Bu tepe, Sivas'ın merkezine yakınlığı nedeniyle ulaşım açısından kolaylık sağlıyor. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Tepe, aynı zamanda bölgenin iklimini de yansıtıyor. İç Anadolu Bölgesi'nin karasal iklimi, tepeyi kışın karla kaplıyor ve yazın sıcakk günler yaşıyor. Bu coğrafi özellikler, tepeyi ziyaret edenler için önemli bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gülmaç Tepe, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepey
 ## İlginç Bilgiler
 
 - Gülmaç Tepe, Sivas'ın doğal güzelliklerini sunan bir tepe
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Tepe, çeşitli bitki türlerine ev sahipliği yapıyor
 - Tepe, zengin fauna yapısına sahip
 - Tepe, Sivas'ın tarihi geçmişi hakkında önemli ipuçları sunuyor

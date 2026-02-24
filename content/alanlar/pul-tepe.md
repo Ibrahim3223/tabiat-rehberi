@@ -28,7 +28,7 @@ wikidata_id: "Q31390599"
 
 # Pul Tepe
 
-Pul Tepe, Nevşehir'in güzide bir noktasında yer alan, 140 hektarlık bir alanı kapsayan bir tepe. Pul Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla baş başa bırakarak, dinlendirici bir atmosfer sunuyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki denge, ziyaretçilerin ilgisini çekiyor. Pul Tepe, aynı zamanda tarih ve kültür açısından da önemli bir nokta olarak dikkat çekiyor.
+ Pul Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla baş başa bırakarak, dinlendirici bir atmosfer sunuyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki denge, ziyaretçilerin ilgisini çekiyor. Pul Tepe, aynı zamanda tarih ve kültür açısından da önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Pul Tepe'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim. Buraya ul
 
 ## İlginç Bilgiler
 
-- Pul Tepe, 140 hektarlık bir alanı kapsıyor.
 - Pul Tepe, Nevşehir'in doğal güzelliklerini keşfetmek için ideal bir nokta.
 - Pul Tepe, flora ve fauna açısından zengin.
 - Pul Tepe, yaban hayatı gözlemi için ideal.

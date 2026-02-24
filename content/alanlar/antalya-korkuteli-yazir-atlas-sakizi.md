@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Antalya-Korkuteli-Yazir-Atlas Sakizi","caption":"Antalya-Korkuteli-Yazir-Atlas Sakizi","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Korkuteli-Yazir-Atlas%20Sakizi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228580","tip":"genel"}]
-description: "Akdeniz Bölgesi'nde yer alan Atlas Sakızı Milli Parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["Antalya","Korkuteli","Yazır","Atlas Sakızı","Milli Park","Akdeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228580"
@@ -30,7 +30,7 @@ Tarihi geçmişi ile dikkat çeken Antalya-Korkuteli-Yazir-Atlas Sakızı Milli 
 
 ## Coğrafya
 
-Coğrafi olarak Akdeniz Bölgesi'nde yer alan Antalya-Korkuteli-Yazir-Atlas Sakızı Milli Parkı, 140 hektarlık bir alanı kapsar. Parkın coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşur. Atlas sakızı ağacı türleri, parkın flora çeşitliliğinin önemli bir parçasını oluşturur. Parkın iklimi, Akdeniz iklimi özellikleri taşır ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülür. Bu iklim, bölgenin flora ve fauna çeşitliliğinin zenginleşmesine katkıda bulunur. Milli park, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapar ve bu su kaynakları, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlar.
+ Parkın coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşur. Atlas sakızı ağacı türleri, parkın flora çeşitliliğinin önemli bir parçasını oluşturur. Parkın iklimi, Akdeniz iklimi özellikleri taşır ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülür. Bu iklim, bölgenin flora ve fauna çeşitliliğinin zenginleşmesine katkıda bulunur. Milli park, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapar ve bu su kaynakları, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlar.
 
 ## Flora ve Fauna
 

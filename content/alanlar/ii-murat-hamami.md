@@ -30,7 +30,7 @@ wikidata_id: "Q131738465"
 
 # II. Murat Hamamı
 
-II. Murat Hamamı, İznik'in merkezinde yer alan ve tarihi ile dikkat çeken bir destinasyondur. Bu alan, yaklaşık 140 hektar büyüklüğünde ve 200 futbol sahası büyüklüğüne eşdeğer bir yeşil alanı kapsar. İznik Gölü'nün hemen yanında yer alan hamam, şehrin tarihi dokusunu korumuştur. Hamamın tarihi geçmişi, Osmanlı İmparatorluğu döneminde inşa edilmiş olmasıdır. II. Murat Hamamı, İznik'in en önemli turistik noktalarından biri olarak kabul edilir.
+II. Murat Hamamı, İznik'in merkezinde yer alan ve tarihi ile dikkat çeken bir destinasyondur. İznik Gölü'nün hemen yanında yer alan hamam, şehrin tarihi dokusunu korumuştur. Hamamın tarihi geçmişi, Osmanlı İmparatorluğu döneminde inşa edilmiş olmasıdır. II. Murat Hamamı, İznik'in en önemli turistik noktalarından biri olarak kabul edilir.
 
 ## Tarihçe
 

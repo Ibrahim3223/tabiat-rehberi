@@ -36,7 +36,7 @@ Havutbaşı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Havutbaşı Tepe, coğrafi olarak Burdur'un önemli bir bölgesinde yer alır. Yaklaşık 140 hektarlık alan, çeşitli coğrafi özelliklere sahiptir. Bu bölge, dağlık ve engebeli arazilere sahiptir ve ziyaretçiler, bu coğrafi güzelliği keşfedebilir. Havutbaşı Tepe'nin etrafı, çeşitli bitki türleri ve fauna ile çevrilidir. Bu bölge, ziyaretçilere, doğanın güzelliğini ve coğrafi çeşitliliği keşfetme fırsatı sunar. Coğrafi konumu, Havutbaşı Tepe'nin güzelliğini ve önemini daha da artırır. İklimi, ziyaretçilere, her mevsim farklı deneyimler sunar.
+Havutbaşı Tepe, coğrafi olarak Burdur'un önemli bir bölgesinde yer alır. Bu bölge, dağlık ve engebeli arazilere sahiptir ve ziyaretçiler, bu coğrafi güzelliği keşfedebilir. Havutbaşı Tepe'nin etrafı, çeşitli bitki türleri ve fauna ile çevrilidir. Bu bölge, ziyaretçilere, doğanın güzelliğini ve coğrafi çeşitliliği keşfetme fırsatı sunar. Coğrafi konumu, Havutbaşı Tepe'nin güzelliğini ve önemini daha da artırır. İklimi, ziyaretçilere, her mevsim farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

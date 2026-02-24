@@ -29,7 +29,7 @@ wikidata_id: "Q135582341"
 
 # Yahyalı Seyyid Ali Türbesi
 
-Yahyalı Seyyid Ali Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Yahyalı ilçesinde yer alan bir tarihi turbe. Bu turbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevresindeki doğal güzelliklerle ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Turbe, Seyyid Ali'nin hayatını ve önemini anlatan bir yapı olarak dikkat çekiyor. Yahyalı'nın merkezinde yer alan bu turbe, ziyaretçilerin ilgisini çekiyor ve bölgenin önemli turistik noktalarından biri olarak kabul ediliyor.
+Yahyalı Seyyid Ali Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Yahyalı ilçesinde yer alan bir tarihi turbe. Turbe, Seyyid Ali'nin hayatını ve önemini anlatan bir yapı olarak dikkat çekiyor. Yahyalı'nın merkezinde yer alan bu turbe, ziyaretçilerin ilgisini çekiyor ve bölgenin önemli turistik noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -51,6 +51,5 @@ Yahyalı Seyyid Ali Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bi
 
 - Yahyalı Seyyid Ali Türbesi, Kayseri'nin Yahyalı ilçesinde yer alıyor.
 - Turbe, Seyyid Ali'nin hayatını ve öğretileri hakkında bilgi veriyor.
-- Turbe, yaklaşık 140 hektarlık bir alanda kurulmuş.
-- Turbe ve çevresindeki alan, 200 futbol sahası büyüklüğünde.
+
 - Turbe, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiş.

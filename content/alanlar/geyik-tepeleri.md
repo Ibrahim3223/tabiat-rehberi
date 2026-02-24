@@ -28,7 +28,7 @@ wikidata_id: "Q31389614"
 
 # Geyik Tepeleri
 
-Geyik Tepeleri, Marmara Bölgesi'nin önemli coğrafik noktalarından biridir. Balıkesir'in doğal güzellikleri arasında yer alan bu tepeler, yaklaşık 140 hektarlık bir alanı kaplar. Geyik Tepeleri, ziyaretçilerini doğanın güzelliği ve coğrafyanın zenginliği ile karşılar.
+Geyik Tepeleri, Marmara Bölgesi'nin önemli coğrafik noktalarından biridir. Geyik Tepeleri, ziyaretçilerini doğanın güzelliği ve coğrafyanın zenginliği ile karşılar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Geyik Tepeleri'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Geyik Tepeleri, Marmara Bölgesi'nin coğrafyası içinde önemli bir yer tutar. Bu tepeler, Balıkesir'in doğa güzellikleri arasında yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Geyik Tepeleri'nin coğrafyası, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunar. Bu tepelerin coğrafyası, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Geyik Tepeleri'nin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir. Bu bölgenin coğrafyası, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği ile bir deneyim sunar. Geyik Tepeleri, ziyaretçilerini doğanın güzelliği ve coğrafyanın zenginliği ile karşılar.
+Geyik Tepeleri, Marmara Bölgesi'nin coğrafyası içinde önemli bir yer tutar. Geyik Tepeleri'nin coğrafyası, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunar. Bu tepelerin coğrafyası, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Geyik Tepeleri'nin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir. Bu bölgenin coğrafyası, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği ile bir deneyim sunar. Geyik Tepeleri, ziyaretçilerini doğanın güzelliği ve coğrafyanın zenginliği ile karşılar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Geyik Tepeleri'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunar. Bu 
 ## İlginç Bilgiler
 
 - Geyik Tepeleri, Marmara Bölgesi'nin önemli coğrafik noktalarından biridir.
-- Bu tepeler, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Geyik Tepeleri, ziyaretçilerine doğanın güzelliği ve coğrafyanın zenginliği ile bir deneyim sunar.
 - Bu tepelerin flora ve fauna çeşitliliği, mevsimsel değişimlere göre farklılık gösterir.
 - Geyik Tepeleri, ziyaretçilerine hem doğal güzellikleri hem de flora ve fauna zenginliği ile bir zenginlik sunar.

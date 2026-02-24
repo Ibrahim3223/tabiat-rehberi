@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Juniper_tress_-_Ard%C4%B1%C3%A7_a%C4%9Fa%C3%A7lar%C4%B1_01.jpg","alt":"Ana Ardic manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Juniper_tress_-_Ard%C4%B1%C3%A7_a%C4%9Fa%C3%A7lar%C4%B1_01.jpg/960px-Juniper_tress_-_Ard%C4%B1%C3%A7_a%C4%9Fa%C3%A7lar%C4%B1_01.jpg","alt":"Ana Ardic","caption":"Ana Ardic","credit":"Juniper tress - Ardıç ağaçları 01","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ana%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227148","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227148"
@@ -31,7 +31,7 @@ Ana Ardic'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş bir doğa harik
 
 ## Coğrafya
 
-Ana Ardic, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birisidir. Bu bölge, dağlar, ovalar ve akarsularla çevrili bir alandır. Milli parkın coğrafi yapısı, ziyaretçilere zengin bir flora ve fauna sunuyor. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Burada, ziyaretçiler, doğal yaşamın içinde yürüyüş yapabilir, doğayı izleyebilir ve fotoğraf çekilebilir. Milli parkın coğrafi konumu, ayrıca, ziyaretçilere çevredeki bölgeleri keşfetme imkanı da sunuyor. çevredeki dağlar ve ovalar, ziyaretçilere geniş bir yelpaze sunuyor. Bu reasons, Ana Ardic'i sadece bir milli park değil, aynı zamanda bir doğa merkezi haline getiriyor.
+Ana Ardic, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birisidir. Bu bölge, dağlar, ovalar ve akarsularla çevrili bir alandır. Milli parkın coğrafi yapısı, ziyaretçilere zengin bir flora ve fauna sunuyor. Burada, ziyaretçiler, doğal yaşamın içinde yürüyüş yapabilir, doğayı izleyebilir ve fotoğraf çekilebilir. Milli parkın coğrafi konumu, ayrıca, ziyaretçilere çevredeki bölgeleri keşfetme imkanı da sunuyor. çevredeki dağlar ve ovalar, ziyaretçilere geniş bir yelpaze sunuyor. Bu reasons, Ana Ardic'i sadece bir milli park değil, aynı zamanda bir doğa merkezi haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Ana Ardic'i ziyaret etmek, doğaseverler için bir rüya harika bir deneyim. Mil
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - çeşitli bitki türleri
 - zengin fauna
 - tarihi geçmişi

@@ -29,7 +29,7 @@ wikidata_id: "Q131738755"
 
 # Ağzıkarahan Hamamı
 
-Aksaray ilinin merkezinde yer alan Ağzıkarahan Hamamı, yaklaşık olarak 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nin önemli natural güzelliklerinden biridir. Ağzıkarahan Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir ortam sunmaktadır. Doğal güzelliği, tarihi ve coğrafi konumu ile Ağzıkarahan Hamamı, Aksaray'ın önemli turizm merkezlerinden biri haline gelmiştir.
+ Ağzıkarahan Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir ortam sunmaktadır. Doğal güzelliği, tarihi ve coğrafi konumu ile Ağzıkarahan Hamamı, Aksaray'ın önemli turizm merkezlerinden biri haline gelmiştir.
 
 ## Tarihçe
 

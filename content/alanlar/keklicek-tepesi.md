@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Keklicek Tepesi","caption":"Keklicek Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keklicek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388178","tip":"genel"}]
-description: "Denizli'nin doğal güzelliklerinden biri olan Keklicek Tepesi, 140 hektarlık bir alan kapsıyor. Ege Bölgesi'nin önemli noktası."
+ Ege Bölgesi'nin önemli noktası."
 keywords: ["Keklicek Tepesi","Denizli","Ege Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388178"
@@ -36,7 +36,7 @@ Keklicek Tepesi'nin tarihi geçmişi, Denizli'nin tarihine paralel olara ilerlem
 
 ## Coğrafya
 
-Keklicek Tepesi, Denizli'nin coğrafi yapısını anlamak için önemli bir nokta. 140 hektarlık bir alan kapsayan bu tepe, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin yüksekliği ve eğimleri, bölgenin iklim şartlarını etkiliyor. Keklicek Tepesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu bölge, Denizli'nin flora ve faunasını gözlemlemek için ideal bir konum. Tepenin coğrafi yapısı, ziyaretçilere doğanın güzelliklerini sunuyor. Keklicek Tepesi, Ege Bölgesi'nin coğrafi zenginliklerini barındıran önemli bir tepe.
+Keklicek Tepesi, Denizli'nin coğrafi yapısını anlamak için önemli bir nokta. Tepenin yüksekliği ve eğimleri, bölgenin iklim şartlarını etkiliyor. Keklicek Tepesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu bölge, Denizli'nin flora ve faunasını gözlemlemek için ideal bir konum. Tepenin coğrafi yapısı, ziyaretçilere doğanın güzelliklerini sunuyor. Keklicek Tepesi, Ege Bölgesi'nin coğrafi zenginliklerini barındıran önemli bir tepe.
 
 ## Flora ve Fauna
 

@@ -43,7 +43,7 @@ Sarıcăm Milli Parkı'nı ziyaret etmek, doğa severler ve fotoğraf tutkunlar�
 ## İlginç Bilgiler
 
 - Sarıcăm Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir
-- Park, 140 hektarlık bir alana sahiptir
+
 - Sarıcăm, çeşitli bitki türleri ve fauna açısından zengindir
 - Park, Eskişehir şehir merkezine yakınlığıyla dikkat çeker
 - Sarıcăm, doğa severler ve fotoğraf tutkunları için ideal bir kaçış noktasıdır

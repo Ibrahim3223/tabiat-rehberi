@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Doğa Gözlemi","Picnic
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Erzurum-Oltu-Olur Saricam","caption":"Erzurum-Oltu-Olur Saricam","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Oltu-Olur%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227692","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin güzide milli parklarından biri olan Erzurum-Oltu-Olur Saricam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Erzurum","Oltu","Olur","Saricam","Milli Park","Doğu Anadolu Bölgesi","Doğal Alan","Turizm","Gezi","Yaban Hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227692"
@@ -41,8 +41,6 @@ Erzurum-Oltu-Olur Saricam milli parkı, zengin flora ve fauna çeşitliliği ile
 Erzurum-Oltu-Olur Saricam milli parkını ziyaret etmek, doğanın içinde huzurlu bir atmosferi keşfetmek isteyenler için ideal bir seçenektir. Milli parka, Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunan Saricam köyünden ulaşılabilir. Ziyaretçiler, milli parkın zengin flora ve fauna çeşitliliği ile doğal güzelliklerini keşfetme fırsatı sunuyor. Saricam milli parkı, ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor ve mevsimsel değişimlere göre farklı güzellikler sunuyor.
 
 ## İlginç Bilgiler
-
-- Saricam milli parkı, 140 hektarlık bir alan üzerinde kurulmuş.
 
 - Saricam milli parkı, Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunuyor.
 - Milli park, ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor.

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Sallar Tepesi","caption":"Sallar Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sallar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389032","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin güzel illerinden Erzurum'da yer alan Sallar Tepesi, 140 hektarlık bir yeşil alanı kapsıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor."
+"
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","Sallar Tepesi","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389032"
@@ -47,8 +47,6 @@ Sallar Tepesi, çeşitli bitki türlerini ve zengin fauna ile ziyaretçilerini k
 Sallar Tepesi'ni ziyaret etmek için, Erzurum'a ulaşmak gerekiyor. Buraya ulaşım, kara veya hava yoluyla sağlanabiliyor. Sallar Tepesi, Erzurum'un merkezine yakın bir konumda yer almakta. Buraya giderken, doğanın güzelliğini görme ve farklı bir deneyim yaşama mümkün. Ziyaretçiler, Sallar Tepesi'nde doğa yürüyüşü yapabilir, fotoğraf çekilebilir veya sadece doğanın güzelliğini izleyebilir.
 
 ## İlginç Bilgiler
-
-- Sallar Tepesi, 140 hektarlık bir yeşil alanı kapsıyor.
 
 - Doğu Anadolu Bölgesi'nin güzide noktalarından biri.
 - Erzurum'un turizm açısından önemli bir cazibe merkezi.

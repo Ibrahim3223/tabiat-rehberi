@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotografçılık","doğa gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Büyük Hamam, Ödemiş","caption":"Büyük Hamam, Ödemiş","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Hamam%2C%20%C3%96demi%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245842","tip":"genel"}]
-description: "İzmir'in Ödemiş ilçesinde yer alan Büyük Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ödemiş","İzmir","Ege Bölgesi","doğal alanlar","yeşil alanlar","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245842"
@@ -41,7 +41,7 @@ Büyük Hamam, Ödemiş, Ege Bölgesi'nin Ödemiş ilçesinde yer alır ve coğr
 
 ## Flora ve Fauna
 
-Büyük Hamam, Ödemiş, zengin bir flora ve fauna çeşitliliğine sahiptir. Bölgenin 140 hektarlık yeşil alanı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Mevsimsel değişimlerle birlikte, bölge farklı canlı türlerine ev sahipliği yapar. Bölgenin ekolojik dengesi, ziyaretçilere doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin doğal güzelliğini koruma altına alır. Büyük Hamam, Ödemiş'in flora ve faunası, bölgenin turizm değerini artıran önemli bir unsurdur.
+Büyük Hamam, Ödemiş, zengin bir flora ve fauna çeşitliliğine sahiptir. Mevsimsel değişimlerle birlikte, bölge farklı canlı türlerine ev sahipliği yapar. Bölgenin ekolojik dengesi, ziyaretçilere doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin doğal güzelliğini koruma altına alır. Büyük Hamam, Ödemiş'in flora ve faunası, bölgenin turizm değerini artıran önemli bir unsurdur.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ Büyük Hamam, Ödemiş'i ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar
 
 ## İlginç Bilgiler
 
-- Büyük Hamam, Ödemiş, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar ile karakterizedir
 - Büyük Hamam, Ödemiş'in flora ve faunası, bölgenin turizm değerini artıran önemli bir unsurdur
 - Büyük Hamam, Ödemiş, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor

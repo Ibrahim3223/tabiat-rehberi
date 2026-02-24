@@ -22,7 +22,7 @@ wikidata_id: "Q108228933"
 
 # SİVAS İMRANLI İMRANLI BARAJ GÖLÜ VE KIZILIRMAK KAYNAĞI DOĞDUĞU YER
 
-Sivas'ın İmranlı ilçesinde bulunan İmranlı Baraj Gölü ve Kızılırmak'ın kaynağı, yaklaşık 140 hektarlık bir alanı kaplıyor. İmranlı Baraj Gölü'nün suyu, çevredeki tarım arazilerini sulamak için kullanılıyor. Gölün kenarında yer alan köyler, geleneksel mimariyle yapılmış evleri ve misafirperver halkı ile ziyaretçilerini ağırlıyor. Gölün ve çevresinin doğal güzelliği, ziyaretçilere huzurlu bir atmosfer sunuyor.
+ İmranlı Baraj Gölü'nün suyu, çevredeki tarım arazilerini sulamak için kullanılıyor. Gölün kenarında yer alan köyler, geleneksel mimariyle yapılmış evleri ve misafirperver halkı ile ziyaretçilerini ağırlıyor. Gölün ve çevresinin doğal güzelliği, ziyaretçilere huzurlu bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sivas'ın İmranlı ilçesinde bulunan İmranlı Baraj Gölü ve Kızılırmak'�
 
 ## İlginç Bilgiler
 
-- İmranlı Baraj Gölü, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Gölün suyu, çevredeki tarım arazilerini sulamak için kullanılıyor.
 - Gölün kenarında yer alan köyler, geleneksel mimariyle yapılmış evleri ve misafirperver halkı ile ziyaretçilerini ağırlıyor.
 - İmranlı Baraj Gölü ve Kızılırmak'ın kaynağı, yüzyıllar boyunca bölgenin su ihtiyacını karşılamıştır.

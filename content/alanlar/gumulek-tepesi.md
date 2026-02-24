@@ -48,7 +48,6 @@ Gümülek Tepesi'ni ziyaret etmek, doğa severler için gerçek bir macera. Tepe
 
 ## İlginç Bilgiler
 
-- Gümülek Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin yüksekliği, manzarayı geniş bir açıdan görme imkanı sağlıyor.
 - Gümülek Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 - Tepenin eteklerinde, mevsimsel olarak değişen bitki örtüsü, renkli bir manzara sunuyor.

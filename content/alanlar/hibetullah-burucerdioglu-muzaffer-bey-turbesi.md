@@ -29,7 +29,7 @@ wikidata_id: "Q135582368"
 
 # Hibetullah Burucerdioğlu Muzaffer Bey Türbesi
 
-Hibetullah Burucerdioğlu Muzaffer Bey Türbesi, Sivas'ın merkezinde yer alan bir dini yapıdır. 14. yüzyılda yapılmış olan bu türbe, Sivas'ın önemli tarihi yapılarından biri olarak kabul edilir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kurulmuştur. Türbe, Sivas'ın tarihi geçmişi hakkında önemli bilgiler sunar. Ayrıca, türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmektedir. Sivas'ın merkezi konumunda bulunan bu türbe, şehrin önemli turistik noktalarından biridir.
+Hibetullah Burucerdioğlu Muzaffer Bey Türbesi, Sivas'ın merkezinde yer alan bir dini yapıdır. 14. yüzyılda yapılmış olan bu türbe, Sivas'ın önemli tarihi yapılarından biri olarak kabul edilir. Türbe, Sivas'ın tarihi geçmişi hakkında önemli bilgiler sunar. Ayrıca, türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmektedir. Sivas'ın merkezi konumunda bulunan bu türbe, şehrin önemli turistik noktalarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hibetullah Burucerdioğlu Muzaffer Bey Türbesi, 14. yüzyılda yapılmış bir 
 
 ## Coğrafya
 
-Hibetullah Burucerdioğlu Muzaffer Bey Türbesi, Sivas'ın merkezinde yer alan bir arazide kurulmuştur. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kurulmuştur. Türbe, Sivas'ın coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin önemli bir noktasında yer alır. Sivas, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir ildir. İl, coğrafi olarak, yüksek bir plato üzerine kurulmuştur. Sivas'ın iklimi, karasal iklim özellikleri taşır. İlde, yazlar sıcak ve kurak, kışlar soğuk ve karlı geçer. Türbenin bulunduğu alan, Sivas'ın coğrafi ve iklimsel özelliklerini taşır. Ayrıca, türbenin mimarisi, Sivas'ın coğrafi ve kültürel özelliklerini yansıtan bir yapı olarak dikkat çeker.
+Hibetullah Burucerdioğlu Muzaffer Bey Türbesi, Sivas'ın merkezinde yer alan bir arazide kurulmuştur. Türbe, Sivas'ın coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin önemli bir noktasında yer alır. Sivas, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir ildir. İl, coğrafi olarak, yüksek bir plato üzerine kurulmuştur. Sivas'ın iklimi, karasal iklim özellikleri taşır. İlde, yazlar sıcak ve kurak, kışlar soğuk ve karlı geçer. Türbenin bulunduğu alan, Sivas'ın coğrafi ve iklimsel özelliklerini taşır. Ayrıca, türbenin mimarisi, Sivas'ın coğrafi ve kültürel özelliklerini yansıtan bir yapı olarak dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Hibetullah Burucerdioğlu Muzaffer Bey Türbesi, Sivas'ın merkezinde yer alan b
 - Türbenin inşa edildiği dönem, Anadolu'nun Selçuklu ve Osmanlı dönemleri arasında bir geçiş dönemi olarak kabul edilir.
 - Türbenin mimarisi, o dönemin mimari özelliklerini taşıyan bir yapı olarak dikkat çeker.
 - Türbenin tarihsel geçmişi, Sivas'ın tarihi hakkında önemli bilgiler sunar.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kurulmuştur.
+
 - Türbenin mimarisi, Sivas'ın coğrafi ve kültürel özelliklerini yansıtan bir yapı olarak dikkat çeker.

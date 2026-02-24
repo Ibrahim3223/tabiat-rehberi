@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/%C3%87alk%C3%B6y_do%C4%9Fa_park%C4%B1.jpg","alt":"Çalcamili manzarası","credit":"Erkut Meral","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/37/CalcamiliNaturePark3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/CalcamiliNaturePark3.jpg/1280px-CalcamiliNaturePark3.jpg","alt":"Çalcamili - CalcamiliNaturePark3","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c6/CalcamiliNaturePark1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CalcamiliNaturePark1.jpg/1280px-CalcamiliNaturePark1.jpg","alt":"Çalcamili - CalcamiliNaturePark1","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/CalcamiliNaturePark2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CalcamiliNaturePark2.jpg/1280px-CalcamiliNaturePark2.jpg","alt":"Çalcamili - CalcamiliNaturePark2","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/CalcamiliNaturePark4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CalcamiliNaturePark4.jpg/1280px-CalcamiliNaturePark4.jpg","alt":"Çalcamili - CalcamiliNaturePark4","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/CalcamiliNaturePark5.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CalcamiliNaturePark5.jpg/1280px-CalcamiliNaturePark5.jpg","alt":"Çalcamili - CalcamiliNaturePark5","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alcamili","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228242","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severleri bekliyor."
+"
 keywords: ["Çalcamili","İç Anadolu Bölgesi","doğa","gezi","milli park","çevre","iklim","flora","fauna","ziyaret","gezgin"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228242"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228242"
 
 # Çalcamili
 
-Çalcamili, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Çalcamili, ziyaretçilerini bekleyen gizli bir cennet olarak görülüyor. Bölgenin coğrafi özelliklerinin bir araya geldiği bu noktada, ziyaretçiler doğanın mucizelerini keşfetme fırsatı buluyor. Çalcamili, sadece bir doğa alanı değil, aynı zamanda bir kültür ve tarih merkezidir. Burada, ziyaretçiler hem doğal güzellikleri keşfedip hem de bölgenin zengin tarihini öğrenebiliyor.
+ Çalcamili, ziyaretçilerini bekleyen gizli bir cennet olarak görülüyor. Bölgenin coğrafi özelliklerinin bir araya geldiği bu noktada, ziyaretçiler doğanın mucizelerini keşfetme fırsatı buluyor. Çalcamili, sadece bir doğa alanı değil, aynı zamanda bir kültür ve tarih merkezidir. Burada, ziyaretçiler hem doğal güzellikleri keşfedip hem de bölgenin zengin tarihini öğrenebiliyor.
 
 ## Tarihçe
 

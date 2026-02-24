@@ -51,6 +51,6 @@ wikidata_id: "Q131390551"
 
 - İbni Melek Türbesi, Tire'nin tarihi dokusu içinde yer alıyor
 - İbni Melek Türbesi, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri
-- İbni Melek Türbesi, 140 hektarlık bir alanı kaplayan bir yeşil alan
+
 - İbni Melek Türbesi, her mevsim ziyaretçilere farklı güzellikler sunuyor
 - İbni Melek Türbesi, Ege Bölgesi'nin flora ve faunasına ev sahipliği yapıyor

@@ -21,8 +21,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1516.jpg","alt":"Bağları Tepe manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1519.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1519.jpg/1280px-%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1519.jpg","alt":"Bağları Tepe - Çavuşin to Paşa Bağları walk on high ground in 2014 1519","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a6/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1522.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1522.jpg/1280px-%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1522.jpg","alt":"Bağları Tepe - Çavuşin to Paşa Bağları walk on high ground in 2014 1522","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0c/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1524.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1524.jpg/1280px-%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1524.jpg","alt":"Bağları Tepe - Çavuşin to Paşa Bağları walk on high ground in 2014 1524","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/92/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1526.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1526.jpg/1280px-%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1526.jpg","alt":"Bağları Tepe - Çavuşin to Paşa Bağları walk on high ground in 2014 1526","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e5/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1527.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1527.jpg/1280px-%C3%87avu%C5%9Fin_to_Pa%C5%9Fa_Ba%C4%9Flar%C4%B1_walk_on_high_ground_in_2014_1527.jpg","alt":"Bağları Tepe - Çavuşin to Paşa Bağları walk on high ground in 2014 1527","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Flar%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386347","tip":"genel"}]
-description: "Gaziantep'in tarihi ve doğal güzelliklerinin birleştiği nokta, Bağları Tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Bağları Tepe","Gaziantep","doğal güzellik","tarih","yeşil alan","futbol sahası"]
+description: "Gaziantep'in tarihi ve doğal güzelliklerinin birleştiği nokta, Bağları Tepe."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386347"
 ---
@@ -37,7 +37,7 @@ Bağları Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Bağları Tepe, Gaziantep'in merkezi bir bölgesinde yer alıyor. 140 hektarlık bu yeşil alan, şehir merkezine çok yakın bir konumda ve ulaşımı oldukça kolay. Bağları Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, çeşitli ağaç türleri, çiçekler ve diğer bitkileri görebilirsiniz. Ayrıca, Bağları Tepe'nin etrafında, çeşitli tarihi ve kültürel yapılara da rastlayabilirsiniz. Bağları Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültürel zenginlikleri sunuyor.
+Bağları Tepe, Gaziantep'in merkezi bir bölgesinde yer alıyor. Bağları Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, çeşitli ağaç türleri, çiçekler ve diğer bitkileri görebilirsiniz. Ayrıca, Bağları Tepe'nin etrafında, çeşitli tarihi ve kültürel yapılara da rastlayabilirsiniz. Bağları Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültürel zenginlikleri sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Bağları Tepe, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz a
 
 ## İlginç Bilgiler
 
-- Bağları Tepe, 140 hektarlık bir yeşil alandır.
 - Bağları Tepe, Gaziantep'in en önemli tarihi ve doğal merkezlerinden biridir.
 - Bağları Tepe, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor.
 - Bağları Tepe, yılın her dönemi ziyaret edilebilir.

@@ -50,7 +50,7 @@ Anonim Türbe, Çeşmeköy, ziyaretçilerini bekleyen birçok sürprizle dolu. B
 ## İlginç Bilgiler
 
 - Anonim Türbe, Çeşmeköy, Çeşme'nin en güzel plajlarından biri
-- 140 hektarlık yeşil alan
+
 - Ege Bölgesi'nin en çok ziyaret edilen yerlerinden biri
 - tarihi geçmişi
 - doğal güzelliği

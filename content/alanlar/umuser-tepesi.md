@@ -28,7 +28,7 @@ wikidata_id: "Q31558627"
 
 # Umuşer Tepesi
 
-Umuşer Tepesi, Ankara'nın kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Umuşer Tepesi, ziyaretçilerine doğanın güzelliğini ve şehrin manzarasını bir arada sunar. Bu bölge, hem doğa severler hem de şehri keşfetmek isteyenler için harika bir destinasyon.
+ Umuşer Tepesi, ziyaretçilerine doğanın güzelliğini ve şehrin manzarasını bir arada sunar. Bu bölge, hem doğa severler hem de şehri keşfetmek isteyenler için harika bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Umuşer Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliğini keşfetmek ist
 ## İlginç Bilgiler
 
 - Umuşer Tepesi, Ankara'nın en yüksek noktalarından biridir
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Umuşer Tepesi, ziyaretçilerine geniş bir manzara sunar
 - Bu bölge, özellikle gün batımı saatlerinde ziyaret edildiğinde, ziyaretçilerine muhteşem bir doğa manzarası sunar
 - Umuşer Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir

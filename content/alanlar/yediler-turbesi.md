@@ -51,7 +51,6 @@ Yediler Türbesi, yıl boyunca ziyaret edilebilecek bir destinasyon. İlkbahar v
 ## İlginç Bilgiler
 
 - Yediler Türbesi, tarihi ve doğal güzellikleri ile dikkat çekiyor
-- 140 hektarlık bir alana sahip
-- Yaklaşık 200 futbol sahası büyüklüğünde
+
 - Denizli'nin Merkezefendi ilçesinde yer alıyor
 - İlkbahar ve yaz ayları en iyi ziyaret zamanları

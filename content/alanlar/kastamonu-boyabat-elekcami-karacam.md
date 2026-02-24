@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Kastamonu-Boyabat-Elekcami Karacam","caption":"Kastamonu-Boyabat-Elekcami Karacam","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Boyabat-Elekcami%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227826","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin, 140 hektarlık milli parkta yürüyüş ve doğa gözlemi yapın."
+"
 keywords: ["Kastamonu","milli park","doğa","yürüyüş","gözlem","Karadeniz Bölgesi","boyabat","elekcami","karacam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227826"
@@ -30,7 +30,7 @@ Kastamonu-Boyabat-Elekcami Karacam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Kastamonu-Boyabat-Elekcami Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Parkın coğrafyası, dağlar, vadiler ve ormanlarla kaplı. İklim, Karadeniz'in karakteristik nemli ve serin havası. Çevre, zengin bitki türleri ve yaban hayatı ile dolu. Milli parkın sunduğu manzaralar, ziyaretçilere doğanın güzelliğini gösteren bir görsel şölen sunuyor. 140 hektarlık alan, ziyaretçilere geniş bir yürüyüş ve gözlem alanı sunuyor.
+Kastamonu-Boyabat-Elekcami Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Parkın coğrafyası, dağlar, vadiler ve ormanlarla kaplı. İklim, Karadeniz'in karakteristik nemli ve serin havası. Çevre, zengin bitki türleri ve yaban hayatı ile dolu. Milli parkın sunduğu manzaralar, ziyaretçilere doğanın güzelliğini gösteren bir görsel şölen sunuyor.
 
 ## Flora ve Fauna
 

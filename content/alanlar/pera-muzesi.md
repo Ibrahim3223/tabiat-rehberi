@@ -51,5 +51,5 @@ Pera Müzesi'ni ziyaret etmek, sanat ve tarih meraklıları için bir zorunluluk
 ## İlginç Bilgiler
 
 - Pera Müzesi, 1893 yılında inşa edildi.
-- Müze, yaklaşık 140 hektarlık bir alana yayılmış.
+
 - Pera Müzesi, İstanbul'un kültür ve sanat yaşamında önemli bir role sahip.

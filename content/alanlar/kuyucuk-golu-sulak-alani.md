@@ -42,8 +42,6 @@ Kuyucuk Gölü Sulak Alanı, ziyaretçilerini doğal güzelliği ve zengin ekosi
 
 ## İlginç Bilgiler
 
-- Kuyucuk Gölü Sulak Alanı, 140 hektarlık bir büyüklüğe sahiptir.
-- Bu alan, 200 futbol sahası büyüklüğünde bir alan kaplar.
 - Kuyucuk Gölü Sulak Alanı, önemli bir sulak alan olarak kabul edilir.
 - Bu alan, birçok kuş türünün yaşam alanı olarak bilinir.
 - Kuyucuk Gölü Sulak Alanı, doğa severler ve çevre dostları için önemli bir destinasyon olarak kabul edilir.

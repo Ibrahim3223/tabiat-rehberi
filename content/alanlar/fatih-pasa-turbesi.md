@@ -38,7 +38,7 @@ Fatih Paşa Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Fatih Paşa Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde bulunuyor. Bu mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve doğal güzellikleri ile dikkat çekiyor. Fatih Paşa Türbesi, coğrafi olarak çeşitli bölgelere yakın bir konumda bulunuyor. Burada, farklı coğrafi oluşumlar bulunabilir. Fatih Paşa Türbesi, coğrafi olarak zengin bir mekan olarak ziyaretçilerini bekliyor. Bu mekanın coğrafi özellikleri, ziyaretçilerine farklı deneyimler sunuyor. Fatih Paşa Türbesi, coğrafi olarak önemli bir destinasyon olarak kabul ediliyor. Burada, ziyaretçiler farklı coğrafi oluşumları keşfedebilir.
+Fatih Paşa Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde bulunuyor. Fatih Paşa Türbesi, coğrafi olarak çeşitli bölgelere yakın bir konumda bulunuyor. Burada, farklı coğrafi oluşumlar bulunabilir. Fatih Paşa Türbesi, coğrafi olarak zengin bir mekan olarak ziyaretçilerini bekliyor. Bu mekanın coğrafi özellikleri, ziyaretçilerine farklı deneyimler sunuyor. Fatih Paşa Türbesi, coğrafi olarak önemli bir destinasyon olarak kabul ediliyor. Burada, ziyaretçiler farklı coğrafi oluşumları keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Fatih Paşa Türbesi'ni ziyaret etmek, ziyaretçiler için farklı deneyimler su
 ## İlginç Bilgiler
 
 - Fatih Paşa Türbesi, tarihi önemi sahip bir mekan olarak kabul ediliyor.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Fatih Paşa Türbesi, doğal güzellikleri ile dikkat çekiyor.
 - Bu mekan, flora ve fauna açısından zengin bir destinasyon olarak kabul ediliyor.
 - Fatih Paşa Türbesi, ziyaretçilerini tarihi ve doğal güzellikleri ile karşılayan bir destinasyon olarak dikkat çekiyor.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Balikesir-Bandirma-Erdek Ihlamur","caption":"Balikesir-Bandirma-Erdek Ihlamur","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bandirma-Erdek%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227719","tip":"genel"}]
-description: "140 hektarlık yeşil alan, Marmara'nın güzelliğini keşfedin"
+
 keywords: ["Balikesir","Bandirma","Erdek","Ihlamur","Marmara","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227719"
@@ -43,7 +43,7 @@ Balikesir-Bandirma-Erdek Ihlamur'u ziyaret etmek, doğa severler ve bölgeyi ke�
 ## İlginç Bilgiler
 
 - Ihlamur, Marmara bölgesinin en büyük milli parklarından biridir
-- Milli park, 140 hektarlık bir yeşil alanı kapsar
+
 - Ihlamur, çeşitli bitki türleri ve zengin fauna ile karakterizedir
 - Milli parkın coğrafyası, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar
 - Ihlamur, Marmara'nın coğrafi çeşitliliği hakkında fikir verir

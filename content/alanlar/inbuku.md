@@ -22,7 +22,7 @@ wikidata_id: "Q108228196"
 
 # İnbükü
 
-İnbükü milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan doğal bir cennettir. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. İnbükü, doğa severler için bir çekim merkezi olmasının yanı sıra, tarihi geçmişi ile de önemli bir kültürel mirastır.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. İnbükü, doğa severler için bir çekim merkezi olmasının yanı sıra, tarihi geçmişi ile de önemli bir kültürel mirastır.
 
 ## Tarihçe
 

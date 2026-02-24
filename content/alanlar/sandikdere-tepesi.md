@@ -48,7 +48,6 @@ Sandıkdere Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyim olacak. Ziyare
 
 ## İlginç Bilgiler
 
-- Sandıkdere Tepesi, 140 hektarlık bir alana sahip
 - Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Sandıkdere Tepesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor

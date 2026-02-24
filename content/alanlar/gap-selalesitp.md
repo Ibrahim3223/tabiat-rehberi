@@ -14,7 +14,7 @@ aktiviteler: ["trekking","yürüyüş","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"GAP ŞELALESİ_TP","caption":"GAP ŞELALESİ_TP","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GAP%20%C5%9EELALES%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228800","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan GAP Şelalesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["GAP Şelalesi","İç Anadolu Bölgesi","doğal güzellik","şelale","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228800"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228800"
 
 # GAP ŞELALESİ_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan GAP Şelalesi, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini büyülüyor. GAP Şelalesi, doğa severlerin ve macera arayışındaki kişilerin önemli bir destinasyon olarak kabul ediliyor. Yeşilin her tonunu görebileceğiniz bu doğal cennet, ziyaretçiler için gerçek bir huzur kaynağı.
+ GAP Şelalesi, doğa severlerin ve macera arayışındaki kişilerin önemli bir destinasyon olarak kabul ediliyor. Yeşilin her tonunu görebileceğiniz bu doğal cennet, ziyaretçiler için gerçek bir huzur kaynağı.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ GAP Şelalesi'ni ziyaret etmek, doğa severler için gerçek bir macera. Şelale
 
 ## İlginç Bilgiler
 
-- GAP Şelalesi, 140 hektarlık geniş yeşil alana sahiptir
 - GAP Şelalesi, İç Anadolu Bölgesi'nde yer alır
 - GAP Şelalesi, zengin flora ve fauna ile dolu
 - GAP Şelalesi, tarihi geçmişi yüzyıllar öncesine dayanır

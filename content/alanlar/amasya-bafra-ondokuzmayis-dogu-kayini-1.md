@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fauna gözlemi","flora gözlemi","fotografi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 1","caption":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 1","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Bafra-Ondokuzmayis%20Dogu%20Kayini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227772","tip":"genel"}]
-description: "Amasya'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor"
+
 keywords: ["Amasya","milli park","doğa","yeşil alan","fauna","Karadeniz Bölgesi","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227772"
@@ -30,7 +30,7 @@ Amasya-Bafra-Ondokuzmayis Dogu Kayini 1 milli parkının tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Amasya-Bafra-Ondokuzmayis Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin ve mavinin tonlarını bir arada barındıran bir bölge. 140 hektarlık yeşil alanı, doğanın kendi içerisinde bir dünya olarak sunulmasına olanak sağlıyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyan bir şekilde şekillenmiş. Zengin fauna ve çeşitli bitki türleri, bu coğrafi yapının birer parçası. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve ılıman bir yapıya sahip. Bu coğrafi yapı, ziyaretçilerin doğayı keşfetmelerine ve kendi deneyimlerini oluşturmalarına olanak sağlıyor.
+Amasya-Bafra-Ondokuzmayis Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin ve mavinin tonlarını bir arada barındıran bir bölge. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyan bir şekilde şekillenmiş. Zengin fauna ve çeşitli bitki türleri, bu coğrafi yapının birer parçası. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve ılıman bir yapıya sahip. Bu coğrafi yapı, ziyaretçilerin doğayı keşfetmelerine ve kendi deneyimlerini oluşturmalarına olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Amasya-Bafra-Ondokuzmayis Dogu Kayini 1 milli parkını ziyaret etmek, doğa sev
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Zengin fauna ve çeşitli bitki türleri
 - Mevsimsel değişimlere göre şekillenen flora ve fauna
 - Doğa severler ve turistik geziSevenler için ideal bir destinasyon

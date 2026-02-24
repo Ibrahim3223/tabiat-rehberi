@@ -29,7 +29,7 @@ wikidata_id: "Q131390985"
 
 # Nureddin Cerrahi Türbesi
 
-Nureddin Cerrahi Türbesi, İstanbul'un tarihi merkezi Fatih'te yer alan, Marmara Bölgesi'nin önemli dini yapılarından biridir. 140 hektarlık bir alanın içinde yer almayan, fakat tarihi değerleri ile ön plana çıkan bu türbe, yaklaşık olarak birkaç futbol sahası büyüklüğünde bir alanı kaplar. Nureddin Cerrahi Türbesi, tarihi ve mimari özellikleri ile dikkat çeker. Burada yer alan tarihi yapılar, ziyaretçiler için önemli bir çekim merkezi oluşturur. Nureddin Cerrahi Türbesi, özellikle dini ve tarihi açıdan önemli bir değer olarak görülür.
+Nureddin Cerrahi Türbesi, İstanbul'un tarihi merkezi Fatih'te yer alan, Marmara Bölgesi'nin önemli dini yapılarından biridir. Nureddin Cerrahi Türbesi, tarihi ve mimari özellikleri ile dikkat çeker. Burada yer alan tarihi yapılar, ziyaretçiler için önemli bir çekim merkezi oluşturur. Nureddin Cerrahi Türbesi, özellikle dini ve tarihi açıdan önemli bir değer olarak görülür.
 
 ## Tarihçe
 

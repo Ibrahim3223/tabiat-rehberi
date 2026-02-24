@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","dinlendirici aktivite"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Hagia%20Eirene%2C%20Topkapi%20Palace.JPG","alt":"Aya İrini manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%C4%B0stanbul_Arkeoloji_M%C3%BCzesi%27nde_Bulunan_D%C3%BCnyaca_%C3%9Cnl%C3%BC_Lahitler.webm/900px--%C4%B0stanbul_Arkeoloji_M%C3%BCzesi%27nde_Bulunan_D%C3%BCnyaca_%C3%9Cnl%C3%BC_Lahitler.webm.jpg","alt":"Aya İrini","caption":"Aya İrini","credit":"İstanbul Arkeoloji Müzesi'nde Bulunan Dünyaca Ünlü Lahitler","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/88/Hagia_Irene_exterior.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hagia_Irene_exterior.JPG/1280px-Hagia_Irene_exterior.JPG","alt":"Aya İrini - Hagia Irene exterior","credit":"Mattias Hill ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/37/The_Dome_of_Hagia_Irene..jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Dome_of_Hagia_Irene..jpg/1280px-The_Dome_of_Hagia_Irene..jpg","alt":"Aya İrini - The Dome of Hagia Irene.","credit":"BWV784","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/10/Hagia_Irene_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hagia_Irene_01.jpg/1280px-Hagia_Irene_01.jpg","alt":"Aya İrini - Hagia Irene 01","credit":"MilenaBal","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/2024.04.28.12.56.10_IMG_8602_Hagia-Irene.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2024.04.28.12.56.10_IMG_8602_Hagia-Irene.jpg/1280px-2024.04.28.12.56.10_IMG_8602_Hagia-Irene.jpg","alt":"Aya İrini - 2024.04.28.12.56.10 IMG 8602 Hagia-Irene","credit":"Kno-Biesdorf","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/42/Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg/1280px-Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg","alt":"Aya İrini - Hagia Irene, Istanbul (52112279404) (cropped)","credit":"Ninara","license":"cc-by-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aya%20%C4%B0rini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q736676","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin buluştuğu nokta"
@@ -38,7 +38,7 @@ Aya İrini'nin tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Aya İrini, coğrafi olarak İstanbul'un merkezinde yer almaktadır. Eminönü ve Fatih ilçeleri arasında bulunan bu bölge, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aya İrini'nin coğrafi yapısı, yeşilin verschilliliği ile dikkat çekmektedir. Bölge, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, çeşitli bitki türleri ile kaplıdır. Aya İrini'nin iklimi, İstanbul'un genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklimi deneyimleyebilir etmektedir. Aya İrini'nin coğrafi konumu ve iklimi, ziyaretçilerine yılın her dönemi ziyaret edebileceği bir ortam sunmaktadır. Ayrıca, bölgenin etrafında bulunan tarihi yapılar, kiliseler ve camiler, Aya İrini'nin coğrafi güzelliğini daha da artırmaktadır.
+Aya İrini, coğrafi olarak İstanbul'un merkezinde yer almaktadır. Eminönü ve Fatih ilçeleri arasında bulunan bu bölge, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aya İrini'nin coğrafi yapısı, yeşilin verschilliliği ile dikkat çekmektedir. Aya İrini'nin iklimi, İstanbul'un genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklimi deneyimleyebilir etmektedir. Aya İrini'nin coğrafi konumu ve iklimi, ziyaretçilerine yılın her dönemi ziyaret edebileceği bir ortam sunmaktadır. Ayrıca, bölgenin etrafında bulunan tarihi yapılar, kiliseler ve camiler, Aya İrini'nin coğrafi güzelliğini daha da artırmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Aya İrini'yi ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek
 ## İlginç Bilgiler
 
 - Aya İrini, İstanbul'un en büyük yeşil alanlarından biridir
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir
+
 - Aya İrini, tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir noktadır
 - Bölge, yılın her dönemi ziyaret edilebilir
 - Aya İrini, flora ve fauna açısından zengin bir bölgedir

@@ -42,7 +42,6 @@ Mersin-Mut-Camlica-Kizilcam2 milli parkını ziyaret etmek, doğa severler için
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana sahiptir.
 - Milli parkta çeşitli bitki türleri bulunur.
 - Milli parkın fauna zenginliği dikkat çekicidir.
 - Milli park, Mersin'in turizm açısından önemli bir destinasyondur.

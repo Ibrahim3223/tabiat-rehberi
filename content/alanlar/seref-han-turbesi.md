@@ -37,7 +37,7 @@ wikidata_id: "Q131391261"
 
 ## Coğrafya
 
-Şeref Han Türbesi, Bitlis ilinin merkezinde yer alıyor. Bu bölge, coğrafi açıdan çeşitli dağlar, ovalar ve nehirlerle çevrili. Türbenin bulunduğu alan, yaklaşık 140 hektar büyüklüğünde ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu coğrafi konum, türbenin mimari tasarımını ve işlevini etkilemiştir. Şeref Han Türbesi'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta. Bu bölgede, ziyaretçiler çeşitli mevsimsel değişimleri gözlemleyebilir ve bölgenin doğal güzelliklerini keşfedebilir. Coğrafi konumu itibariyle, Şeref Han Türbesi, ziyaretçilere doğanın güzelliklerini ve tarihin derinliklerini keşfetme fırsatı sunuyor.
+Şeref Han Türbesi, Bitlis ilinin merkezinde yer alıyor. Bu bölge, coğrafi açıdan çeşitli dağlar, ovalar ve nehirlerle çevrili. Bu coğrafi konum, türbenin mimari tasarımını ve işlevini etkilemiştir. Şeref Han Türbesi'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta. Bu bölgede, ziyaretçiler çeşitli mevsimsel değişimleri gözlemleyebilir ve bölgenin doğal güzelliklerini keşfedebilir. Coğrafi konumu itibariyle, Şeref Han Türbesi, ziyaretçilere doğanın güzelliklerini ve tarihin derinliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

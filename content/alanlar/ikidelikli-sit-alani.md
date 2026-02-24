@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","doğa fotoğrafçılığı","bitki gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"İkidelikli Sit Alanı","caption":"İkidelikli Sit Alanı","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kidelikli%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226401","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli doğal sit alanlarından biri olan İkidelikli Sit Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["İç Anadolu Bölgesi","doğal sit alanları","İkidelikli Sit Alanı","korunan alanlar","çevre","ekosistem","doğa","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226401"
@@ -41,8 +41,6 @@ wikidata_id: "Q108226401"
 İkidelikli Sit Alanı, ziyaretçiler için bir doğa cenneti olarak ortaya çıkıyor. Bu alan, doğa severler ve môi çevre bilincini destekleyenler için bir çekim noktası olarak kabul ediliyor. İkidelikli Sit Alanı'na ulaşım, bölgenin ana yolları üzerinden sağlanabilir. Bu alan, yılın her mevsiminde ziyaret edilebilir, ancak bahar ve yaz ayları en uygun zamanlar olarak kabul ediliyor. İkidelikli Sit Alanı, ziyaretçiler için doğa yürüyüşleri, doğa fotoğrafçılığı ve diğer doğa aktiviteleri sunuyor.
 
 ## İlginç Bilgiler
-
-- İkidelikli Sit Alanı, 140 hektarlık bir alanı kapsar.
 
 - İkidelikli Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal sit alanlarından biri.
 - Bu alan, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.

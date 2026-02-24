@@ -50,7 +50,7 @@ Ankara Frig Tümülüsü 12, Beştepe'yi ziyaret etmek, hem tarih meraklıları 
 ## İlginç Bilgiler
 
 - Ankara Frig Tümülüsü 12, Beştepe, Ankara'nın en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Frig uygarlığı, bu bölgede önemli bir yer tutmuş ve çeşitli eserler bırakmıştır.
 - Tümülüs, Frig uygarlığının önemli eserlerinden biri olarak kabul edilmektedir.
 - Bölge, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar en ideal mevsimlerdir.

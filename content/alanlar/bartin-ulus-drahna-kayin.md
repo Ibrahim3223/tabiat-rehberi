@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Bartın-Ulus-Drahna Kayin","caption":"Bartın-Ulus-Drahna Kayin","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bart%C4%B1n-Ulus-Drahna%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227274","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin yeşil cenneti, 140 hektarlık alanıyla doğa severleri bekliyor"
+
 keywords: ["Bartın","Ulus","Drahna Kayin","milli park","Karadeniz Bölgesi","doğa","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227274"

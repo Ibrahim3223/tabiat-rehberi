@@ -42,7 +42,6 @@ Aksaz Hamamı, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlik
 
 ## İlginç Bilgiler
 
-- Aksaz Hamamı'nın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nin karakteristik iklimine sahip
 - Zengin flora ve fauna yapısına sahip
 - Tarihi geçmişi yüzyıllar öncesine dayanıyor

@@ -48,8 +48,6 @@ Diyartsatme Tepe, çeşitli bitki türleriyle kaplı bir bölge. Bu tepe, aynı 
 
 ## İlginç Bilgiler
 
-- Diyartsatme Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
-- Bu tepe, 200 futbol sahası büyüklüğünde
 - Diyartsatme Tepe, çeşitli bitki türleriyle kaplı
 - Bu tepe, zengin fauna yapısına sahip
 - Diyartsatme Tepe, tarihsel geçmişiyle dikkat çekiyor

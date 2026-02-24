@@ -28,7 +28,7 @@ wikidata_id: "Q31542951"
 
 # Habeş Tepesi
 
-Habeş Tepesi, Diyarbakır'ın merkezinde yer alan bir tepe ve önemli bir tarihi noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve Diyarbakır'ın tarihi merkezi ile birlikte önemli bir kültürel miras alanı olarak kabul edilir. Habeş Tepesi, şehir merkezine yakın konumu ve tarihi önemi ile together bir gezi noktası olarak dikkat çeker. Tepenin eteklerinde ve çevresinde, tarihi yapılar, camiler ve diğer kültürel tesisler yer alır.
+Habeş Tepesi, Diyarbakır'ın merkezinde yer alan bir tepe ve önemli bir tarihi noktadır. Habeş Tepesi, şehir merkezine yakın konumu ve tarihi önemi ile together bir gezi noktası olarak dikkat çeker. Tepenin eteklerinde ve çevresinde, tarihi yapılar, camiler ve diğer kültürel tesisler yer alır.
 
 ## Tarihçe
 

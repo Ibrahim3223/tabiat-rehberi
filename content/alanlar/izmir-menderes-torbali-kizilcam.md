@@ -22,7 +22,7 @@ wikidata_id: "Q108228444"
 
 # İzmir-Menderes-Torbalı-Kızılçam
 
-İzmir-Menderes-Torbalı-Kızılçam milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biridir. İzmir'in Menderes ilçesine bağlı Torbalı ve Kızılçam köyleri arasında yer alan bu milli park, yaklaşık 140 hektarlık bir alanı kapsar. Milli park, zengin flora ve fauna çeşitliliği ile dikkat çeker. İnsanlar buraya gelerek doğayı gözlemleme, yürüyüş yapma ve piknik gibi faaliyetler gerçekleştirirler.
+İzmir-Menderes-Torbalı-Kızılçam milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biridir. Milli park, zengin flora ve fauna çeşitliliği ile dikkat çeker. İnsanlar buraya gelerek doğayı gözlemleme, yürüyüş yapma ve piknik gibi faaliyetler gerçekleştirirler.
 
 ## Tarihçe
 

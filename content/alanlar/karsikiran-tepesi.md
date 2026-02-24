@@ -36,7 +36,7 @@ Karşıkıran Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği 
 
 ## Coğrafya
 
-Karşıkıran Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, Konya'nın merkezine uzun bir mesafe uzaklıkta yer alır. Karşıkıran Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Karşıkıran Tepesi, Konya'nın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır.
+ Bu tepe, Konya'nın merkezine uzun bir mesafe uzaklıkta yer alır. Karşıkıran Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Karşıkıran Tepesi, Konya'nın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Karşıkıran Tepesi'ni ziyaret etmek isteyenler, Konya'nın merkezinden uzun bi
 ## İlginç Bilgiler
 
 - Karşıkıran Tepesi, Konya'nın doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Karşıkıran Tepesi, Konya'nın merkezine uzun bir mesafe uzaklıkta yer alır.
 - Bu tepe, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar.
 - Karşıkıran Tepesi, Konya'nın flora ve faunasını keşfetmek isteyenler için ideal bir destinasyondur.

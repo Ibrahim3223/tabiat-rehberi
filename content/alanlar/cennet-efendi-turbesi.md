@@ -38,7 +38,7 @@ Cennet Efendi Türbesi'nin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanmakta
 
 ## Coğrafya
 
-Cennet Efendi Türbesi, İstanbul'un Üsküdar ilçesinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölge, coğrafi açıdan önemli bir konumda bulunmakta ve Marmara Bölgesi'nin doğal güzelliğini yansıtmaktadır. Türbenininde, yaklaşık 140 hektarlık bir yeşil alan bulunmaktadır. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sunmakta ve ziyaretçilere doğa ile iç içe bir ortam sunmaktadır. Ayrıca, plaj olarak da kullanılan bu alan, deniz suyu ve kumsal ile birlikte bir bütün olarak düşünülmelidir. Cennet Efendi Türbesi'nin bulunduğu bölge, iklim açısından ılıman bir bölge olup, yaz aylarında sıcak ve nemli, kış aylarında ise ılık ve yağışlı bir hava hüküm sürmektedir. Bu nedenle, ziyaretçilerin yılın her dönemi bu bölgeyi ziyaret etmeleri mümkündür. Cennet Efendi Türbesi ve çevresi, aynı zamanda birçok tarihi ve kültürel yapıya ev sahipliği yapmaktadır. Bu nedenle, ziyaretçiler sadece türbeyi değil, aynı zamanda çevredeki diğer önemli noktaları da keşfedebilirler.
+Cennet Efendi Türbesi, İstanbul'un Üsküdar ilçesinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölge, coğrafi açıdan önemli bir konumda bulunmakta ve Marmara Bölgesi'nin doğal güzelliğini yansıtmaktadır. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sunmakta ve ziyaretçilere doğa ile iç içe bir ortam sunmaktadır. Ayrıca, plaj olarak da kullanılan bu alan, deniz suyu ve kumsal ile birlikte bir bütün olarak düşünülmelidir. Cennet Efendi Türbesi'nin bulunduğu bölge, iklim açısından ılıman bir bölge olup, yaz aylarında sıcak ve nemli, kış aylarında ise ılık ve yağışlı bir hava hüküm sürmektedir. Bu nedenle, ziyaretçilerin yılın her dönemi bu bölgeyi ziyaret etmeleri mümkündür. Cennet Efendi Türbesi ve çevresi, aynı zamanda birçok tarihi ve kültürel yapıya ev sahipliği yapmaktadır. Bu nedenle, ziyaretçiler sadece türbeyi değil, aynı zamanda çevredeki diğer önemli noktaları da keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Cennet Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği ne
 ## İlginç Bilgiler
 
 - Cennet Efendi Türbesi, İstanbul'un en önemli tarihi ve dini merkezlerinden biridir
-- Türbenin etrafındaki yeşil alan, yaklaşık 140 hektarlık bir alanı kaplamaktadır
+
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşamaktadır
 - Cennet Efendi Türbesi, yılın her dönemi ziyaret edilebilir
 - Türbenin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanmaktadır

@@ -48,8 +48,6 @@ Antalya'nın eşsiz güzellikteki ilçelerinden biri olan Çobanece Tepe, hem ta
 
 ## İlginç Bilgiler
 
-- Çobanece Tepe, 140 hektarlık bir yeşil alan olarak biliniyor.
-
 - Çobanece Tepe, çeşitli medeniyetlerin izlerini taşıyor.
 - Bu tepe, ziyaretçilerine eşsiz bir deneyim sunuyor.
 - Çobanece Tepe, Antalya'nın önemli bir kültür ve turizm merkezi olarak kabul ediliyor.

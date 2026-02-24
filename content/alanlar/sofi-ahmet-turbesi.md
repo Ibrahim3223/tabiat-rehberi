@@ -29,7 +29,7 @@ wikidata_id: "Q131390806"
 
 # Sofi Ahmet Türbesi
 
-Sofi Ahmet Türbesi, Narman ilçesinde, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan önemli bir gezi noktasıdır. Bu özel mekan, yaklaşık olarak 140 hektarlık bir alanda, ziyaretçilerini tarihi ve doğal güzelliklerle karşılar. 200 futbol sahası büyüklüğünde bir alanı kaplayan Sofi Ahmet Türbesi, aynı zamanda çevresindeki doğa güzellikleriyle de dikkat çekmektedir. Burada, tarihi yapıların yanında, çeşitli bitki türleri ve zengin fauna da bulunmaktadır. Sofi Ahmet Türbesi, hem tarihi hem de doğal güzellikleriyle, ziyaretçilerini bekliyor.
+Sofi Ahmet Türbesi, Narman ilçesinde, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan önemli bir gezi noktasıdır. Burada, tarihi yapıların yanında, çeşitli bitki türleri ve zengin fauna da bulunmaktadır. Sofi Ahmet Türbesi, hem tarihi hem de doğal güzellikleriyle, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

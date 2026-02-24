@@ -28,7 +28,7 @@ wikidata_id: "Q32210739"
 
 # Külbaşı Tepesi
 
-Isparta'nın eşsiz güzelliklerinden biri olan Külbaşı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Külbaşı Tepesi, Isparta'nın merkezine yakın bir konumda yer alıyor ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir perspektif sunuyor. Külbaşı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak karşımıza çıkıyor.
+ Külbaşı Tepesi, Isparta'nın merkezine yakın bir konumda yer alıyor ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir perspektif sunuyor. Külbaşı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

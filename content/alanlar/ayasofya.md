@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["tarih gezisi","denize girme","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Hagia%20Sophia%20Mars%202013.jpg","alt":"Ayasofya manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hagia-Sophia-Laengsschnitt.jpg/960px-Hagia-Sophia-Laengsschnitt.jpg","alt":"Ayasofya","caption":"Ayasofya","credit":"Hagia-Sophia-Laengsschnitt","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1280px-Hagia_Sophia_Mars_2013.jpg","alt":"Ayasofya - Hagia Sophia Mars 2013","credit":"Arild Vågen","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Hagia_Sophia_%2848985978757%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagia_Sophia_%2848985978757%29.jpg/1280px-Hagia_Sophia_%2848985978757%29.jpg","alt":"Ayasofya - Hagia Sophia (48985978757)","credit":"Julien Maury","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Minarets_of_Hagia_Sophia%2C_Istanbul.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Minarets_of_Hagia_Sophia%2C_Istanbul.jpg/1280px-Minarets_of_Hagia_Sophia%2C_Istanbul.jpg","alt":"Ayasofya - Minarets of Hagia Sophia, Istanbul","credit":"Bernard Gagnon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Kuppel_Kleine_Hagia_Sophia.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kuppel_Kleine_Hagia_Sophia.jpg/1280px-Kuppel_Kleine_Hagia_Sophia.jpg","alt":"Ayasofya - Kuppel Kleine Hagia Sophia","credit":"H005","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/33/Hagia_Sophia_-_coupole.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hagia_Sophia_-_coupole.jpg/1280px-Hagia_Sophia_-_coupole.jpg","alt":"Ayasofya - Hagia Sophia - coupole","credit":"Eusebius","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayasofya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12506","tip":"genel"}]
 description: "Cankurtaran'da bulunan Ayasofya, tarihi ve doğal güzellikleriyle dikkat çeker"
@@ -51,7 +51,7 @@ Ayasofya'yı ziyaret etmek, tarih ve doğa severler için eşsiz bir deneyim sun
 ## İlginç Bilgiler
 
 - Ayasofya, Cankurtaran'da yer alan tarihi bir plajdır
-- 140 hektarlık bir yeşil alan
+
 - yüzyıllar boyunca şekillenmiş tarihi geçmişi
 - deniz kıyısında yer alır
 - tarih ve doğa severler için eşsiz bir deneyim sunar

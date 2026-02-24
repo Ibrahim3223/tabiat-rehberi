@@ -49,7 +49,7 @@ Sarı Kaya Dağı, ziyaretçilerine çeşitli etkinlikler sunuyor. Bu bölgede, 
 ## İlginç Bilgiler
 
 - Sarı Kaya Dağı, Hatay ilinin önemli turizm merkezlerinden biri
-- Bu tepe, 140 hektarlık bir alanı kapsıyor
+
 - Sarı Kaya Dağı, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahip
 - Bölge, coğrafi olarak zengin bir çeşitlilik sunuyor
 - Sarı Kaya Dağı, ziyaretçilerine doğanın güzelliğini gösterme fırsatı sunuyor

@@ -20,7 +20,7 @@ aktiviteler: ["gezi","doğa yürüyüşü","fotoğrafçılık","yürüyüş"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Otlukdağı Tepesi","caption":"Otlukdağı Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otlukda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390969","tip":"genel"}]
-description: "Kayseri'nin İç Anadolu Bölgesi'nde yer alan Otlukdağı Tepesi, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır."
+"
 keywords: ["Otlukdağı Tepesi","Kayseri","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390969"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390969"
 
 # Otlukdağı Tepesi
 
-Otlukdağı Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş bir alanı kapsayan bir doğa harikasıdır. Tepenin eteklerinde yer alan köyler, geleneksel mimari ile süslenmiş ve ziyaretçilere sıcak bir karşılama sunar. Otlukdağı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekmektedir.
+ Tepenin eteklerinde yer alan köyler, geleneksel mimari ile süslenmiş ve ziyaretçilere sıcak bir karşılama sunar. Otlukdağı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Otlukdağı Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylar�
 
 ## İlginç Bilgiler
 
-- Otlukdağı Tepesi, 140 hektarlık geniş bir alanı kapsar.
 - Tepenin eteklerinde yer alan köyler, geleneksel mimari ile süslenmiş.
 - Otlukdağı Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır.
 - Tepenin çevresinde yer alan ormanlar, birçok ağaç ve bitki türünü barındırmaktadır.

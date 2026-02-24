@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Ortahüyük Tepesi","caption":"Ortahüyük Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortah%C3%BCy%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34887844","tip":"genel"}]
-description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Ortahüyük Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Ortahüyük Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34887844"
@@ -36,7 +36,7 @@ Ortahüyük Tepesi, tarihin derin sayfalarına uzanan bir geçmişe sahip. Bu b�
 
 ## Coğrafya
 
-Ortahüyük Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, Ankara'nın merkezinde yer alıyor ve şehrin coğrafi yapısını oluşturan önemli bir nokta. 140 hektarlık alanı, şehrin panoramik manzarasını sunuyor ve ziyaretçilerini Ankara'nın doğal güzellikleri ile baş başa bırakıyor. Tepenin eteklerinde, çeşitli bitkiler ve ağaçlar bulunmakta ve bu bölgede, zengin bir flora çeşitliliği dikkat çekiyor. Ortahüyük Tepesi, aynı zamanda Ankara'nın iklim koşullarını yansıtan bir bölge ve ziyaretçilerine, şehrin dört mevsimini deneyimleme fırsatı sunuyor.
+Ortahüyük Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, Ankara'nın merkezinde yer alıyor ve şehrin coğrafi yapısını oluşturan önemli bir nokta. Tepenin eteklerinde, çeşitli bitkiler ve ağaçlar bulunmakta ve bu bölgede, zengin bir flora çeşitliliği dikkat çekiyor. Ortahüyük Tepesi, aynı zamanda Ankara'nın iklim koşullarını yansıtan bir bölge ve ziyaretçilerine, şehrin dört mevsimini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

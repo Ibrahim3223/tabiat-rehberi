@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Tav Tepe","caption":"Tav Tepe","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387693","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Tav Tepe, doğal güzellikleri ile dikkat çekiyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Erzurum'un doğusunda yer alan Tav Tepe, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Tav Tepe","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387693"

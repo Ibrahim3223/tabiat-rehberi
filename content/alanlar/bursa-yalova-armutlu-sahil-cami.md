@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Cami ziyareti","Deniz manzarası","Yöresel
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Bursa-Yalova-Armutlu Sahil Cami","caption":"Bursa-Yalova-Armutlu Sahil Cami","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Yalova-Armutlu%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227278","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide şehri Bursa'da yer alan Bursa-Yalova-Armutlu Sahil Cami, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bursa","Yalova","Armutlu","Sahil Cami","Marmara Bölgesi","Doğa","Turizm","Gezi","Cami"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227278"
@@ -42,7 +42,6 @@ Bursa-Yalova-Armutlu Sahil Cami'ni ziyaret etmek, hem dini hem de turistik olara
 
 ## İlginç Bilgiler
 
-- Bursa-Yalova-Armutlu Sahil Cami, 140 hektarlık bir alana yayılmıştır.
 - Cami, sahile yakın bir konumda bulunuyor.
 - Bölgede, çeşitli bitki türleri ve zengin bir fauna yer alıyor.
 - Ziyaretçiler, ilkbahar ve yaz aylarında bu bölgeyi ziyaret edebilir.

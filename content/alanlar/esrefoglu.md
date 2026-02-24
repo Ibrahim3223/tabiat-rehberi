@@ -43,8 +43,6 @@ Eşrefoğlu milli parkını ziyaret etmek, doğa severler için ideal bir aktivi
 
 ## İlginç Bilgiler
 
-- Eşrefoğlu milli parkı, 140 hektarlık bir alanı kapsıyor.
-
 - Eşrefoğlu, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Parkın tarihi geçmişi, ziyaretçilerine yüzyılların hikayesini anlatıyor.
 - Eşrefoğlu, coğrafi olarak zengin bir bölge ve ziyaretçilerine çeşitli doğa aktiviteleri sunuyor.

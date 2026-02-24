@@ -36,7 +36,7 @@ Ayaş Kaplıcası, yüzyıllar boyunca insanların saúde ve rahatlık arayış�
 
 ## Coğrafya
 
-Ayaş Kaplıcası, Ankara'nın Ayaş ilçesinde, İç Anadolu Bölgesi'nde yer alır. Coğrafi olarak, kaplıca ve çevresindeki bölge, çeşitli bitki türleri ve fauna ile zengin bir doğa manzarası sunar. Kaplıcanın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve bu alan, ziyaretçilere geniş açık alanlar sunar. Bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir ve burada, karasal iklim özellikleri görülür. Ayaş Kaplıcası, Ankara şehrine uzun bir mesafe uzaklıkta bulunur ve ulaşım için çeşitli araçlar kullanılabilir. Kaplıcanın etrafında, çeşitli konaklama tesisleri ve restoranlar bulunur, bu da ziyaretçilere konforlu bir deneyim sağlar.
+Ayaş Kaplıcası, Ankara'nın Ayaş ilçesinde, İç Anadolu Bölgesi'nde yer alır. Coğrafi olarak, kaplıca ve çevresindeki bölge, çeşitli bitki türleri ve fauna ile zengin bir doğa manzarası sunar. Bölge, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir ve burada, karasal iklim özellikleri görülür. Ayaş Kaplıcası, Ankara şehrine uzun bir mesafe uzaklıkta bulunur ve ulaşım için çeşitli araçlar kullanılabilir. Kaplıcanın etrafında, çeşitli konaklama tesisleri ve restoranlar bulunur, bu da ziyaretçilere konforlu bir deneyim sağlar.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Ayaş Kaplıcası, yıl boyunca ziyaret edilebilir bir destinasyondur. Ziyaretç
 - Ayaş Kaplıcası, yüzyıllar boyunca insanların saúde ve rahatlık arayışının merkezi olmuştur.
 - Kaplıca, Roma ve Bizans dönemlerine kadar uzanan bir tarihi geçmişi sahiptir.
 - Ayaş Kaplıcası, İç Anadolu Bölgesi'nin karakteristik iklimine sahiptir.
-- Kaplıcanın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar.
+
 - Ayaş Kaplıcası, Ankara şehrine uzun bir mesafe uzaklıkta bulunur.

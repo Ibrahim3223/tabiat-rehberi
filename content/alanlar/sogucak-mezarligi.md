@@ -50,7 +50,7 @@ Soğucak Mezarlığı, ziyaretçilerine hem doğal güzelliği hem de tarihi ön
 ## İlginç Bilgiler
 
 - Soğucak Mezarlığı, Aydın'ın Kuşadası ilçesinde yer almaktadır
-- 140 hektarlık bir yeşil alana sahiptir
+
 - Ege Bölgesi'nin en güzel doğal güzelliklerinden biridir
 - Tarihi geçmişi zengin ve çeşitli kültürleri barındırmaktadır
 - Zengin fauna ve çeşitli bitki türleri bulunmaktadır

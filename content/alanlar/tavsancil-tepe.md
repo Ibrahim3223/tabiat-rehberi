@@ -48,8 +48,6 @@ Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini ve eşsiz manzarasın
 
 ## İlginç Bilgiler
 
-- Tavşancıl Tepe, 140 hektarlık bir yeşil alanı kapsar.
-
 - Tavşancıl Tepe, Antalya'nın güzide noktalarından biri olarak kabul edilir.
 - Bu tepe, hem doğa severler hem de gezi severler için önemli bir destinasyon olarak kabul edilir.
 - Tavşancıl Tepe, farklı mevsimlerde farklı güzelliğini sunar.

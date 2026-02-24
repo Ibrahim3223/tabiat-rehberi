@@ -36,7 +36,7 @@ Kızılkuyu Dağı, tarihsel olarak önemli bir geçmişe sahiptir. Ancak, bu da
 
 ## Coğrafya
 
-Kızılkuyu Dağı, Ege Bölgesi'nde Afyonkarahisar ilinin bir parçası olarak yer alır. Bu dağ, coğrafi olarak önemli bir noktada bulunur ve bölgenin doğal yapısını etkiler. Kızılkuyu Dağı'nın etrafında çeşitli bitki türleri bulunur ve fauna açısından da zengin bir alandır. Dağın yüksekliği ve coğrafi konumu, bölgenin iklimini ve hava koşullarını etkiler. Kızılkuyu Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliklerini oluşturur. Dağın coğrafi yapısı, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar. Kızılkuyu Dağı, yaklaşık 140 hektarlık bir alanı kapsar ve coğrafi olarak önemli bir alandır.
+Kızılkuyu Dağı, Ege Bölgesi'nde Afyonkarahisar ilinin bir parçası olarak yer alır. Bu dağ, coğrafi olarak önemli bir noktada bulunur ve bölgenin doğal yapısını etkiler. Kızılkuyu Dağı'nın etrafında çeşitli bitki türleri bulunur ve fauna açısından da zengin bir alandır. Dağın yüksekliği ve coğrafi konumu, bölgenin iklimini ve hava koşullarını etkiler. Kızılkuyu Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliklerini oluşturur. Dağın coğrafi yapısı, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kızılkuyu Dağı, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar. 
 
 ## İlginç Bilgiler
 
-- Kızılkuyu Dağı, yaklaşık 140 hektarlık bir alanı kapsar.
 - Dağın etrafında çeşitli bitki türleri bulunur.
 - Kızılkuyu Dağı, fauna açısından da zengin bir alandır.
 - Dağın yüksekliği ve coğrafi konumu, bölgenin iklimini ve hava koşullarını etkiler.

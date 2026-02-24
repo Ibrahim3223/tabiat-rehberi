@@ -22,7 +22,7 @@ wikidata_id: "Q108227895"
 
 # Izmir-Bergama-Poyracık Kızılçam 2
 
-İzmir-Bergama-Poyracıkızılçam 2 milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini karşılar. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna ziyaretçilerini bekliyor. Özellikle kızılçam ağaçları ile ünlü olan bu bölge, hem doğa yürüyüşleri hem de piknik için ideal bir yer.
+ Milli parkın içinde, çeşitli bitki türleri ve zengin fauna ziyaretçilerini bekliyor. Özellikle kızılçam ağaçları ile ünlü olan bu bölge, hem doğa yürüyüşleri hem de piknik için ideal bir yer.
 
 ## Tarihçe
 

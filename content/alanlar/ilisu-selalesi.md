@@ -30,7 +30,7 @@ wikidata_id: "Q6008276"
 
 # Ilısu Şelalesi
 
-Ilısu Şelalesi, Kars ilinin Gülnar ilçesinde yer alan ve doğa severlerin gözde mekanlarından biri olan bir şelaledir. Şelalenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplıyor. Ilısu Şelalesi, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklar bakımından önemli bir turizm merkezi olarak görülüyor.
+Ilısu Şelalesi, Kars ilinin Gülnar ilçesinde yer alan ve doğa severlerin gözde mekanlarından biri olan bir şelaledir. Ilısu Şelalesi, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklar bakımından önemli bir turizm merkezi olarak görülüyor.
 
 ## Tarihçe
 

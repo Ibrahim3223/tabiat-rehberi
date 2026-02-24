@@ -37,7 +37,7 @@ Atik Valide Sultan Hamamı, Toptaşı, tarihsel geçmişi ile önemli bir yer tu
 
 ## Coğrafya
 
-Atik Valide Sultan Hamamı, Toptaşı, Üsküdar ilçesinin merkezi bir bölgesinde yer alır. Bu bölge, Marmara Denizi'ne kıyısı olan bir sahil şerididir. Hamam ve plaj, denize paralel uzanan bir yeşil alanla çevrilidir. Bu yeşil alan, 140 hektarlık bir büyüklüğe sahip olup, çeşitli bitki türleri ve ağaçlarla kaplıdır. Atik Valide Sultan Hamamı, Toptaşı, İstanbul'un en önemli doğal ve tarihi güzelliklerinden biridir. Bu bölgede, Marmara Denizi'ne açılan bir plaj bulunmakta olup, denize girilebilen bir alan olarak bilinir. Atik Valide Sultan Hamamı, Toptaşı, Üsküdar'ın en önemli çekim merkezlerinden biridir. Bu bölge, hem tarih severler hem de doğaşığılar için bir çekim merkezidir.
+Atik Valide Sultan Hamamı, Toptaşı, Üsküdar ilçesinin merkezi bir bölgesinde yer alır. Bu bölge, Marmara Denizi'ne kıyısı olan bir sahil şerididir. Hamam ve plaj, denize paralel uzanan bir yeşil alanla çevrilidir. Atik Valide Sultan Hamamı, Toptaşı, İstanbul'un en önemli doğal ve tarihi güzelliklerinden biridir. Bu bölgede, Marmara Denizi'ne açılan bir plaj bulunmakta olup, denize girilebilen bir alan olarak bilinir. Atik Valide Sultan Hamamı, Toptaşı, Üsküdar'ın en önemli çekim merkezlerinden biridir. Bu bölge, hem tarih severler hem de doğaşığılar için bir çekim merkezidir.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Atik Valide Sultan Hamamı, Toptaşı, yıl boyunca ziyaret edilebilen bir bölg
 - Bu hamam, Sultan III. Mehmet'in annesi tarafından yaptırılmıştır
 - Atik Valide Sultan Hamamı, Toptaşı, Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir
 - Bu bölge, Üsküdar'ın merkezi konumunda yer alır
-- Atik Valide Sultan Hamamı, Toptaşı, 140 hektarlık bir yeşil alanı kaplar
+

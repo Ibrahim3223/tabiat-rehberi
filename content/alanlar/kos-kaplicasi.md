@@ -48,7 +48,6 @@ Kös Kaplıcası, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziyaret zamanı
 
 ## İlginç Bilgiler
 
-- Kös Kaplıcası, yaklaşık 140 hektarlık bir yeşil alan
 - Kaplıcanın sularının sıcaklığı, yıl boyunca değişmeden khong 40 derece
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dolu
 - Kös Kaplıcası, Çankırı il merkezine uzun bir mesafe uzaklıkta

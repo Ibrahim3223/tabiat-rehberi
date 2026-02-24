@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğraf çekimi","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/North_elevation._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Tekedağ Tepesi","caption":"Tekedağ Tepesi","credit":"North elevation. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekeda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390036","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Tekedağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini doğal güzelliği ile büyüler."
+"
 keywords: ["Tekedağ Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390036"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390036"
 
 # Tekedağ Tepesi
 
-Tekedağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, ziyaretçilerini doğal güzelliği ile büyüler. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severler hem de yürüyüş yapmak isteyenler için ideal bir yerdir. Tekedağ Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı da son derece kolaydır. Doğal güzelliği, yürüyüş parkurları ve manzarasıyla ziyaretçilerini cezbeden Tekedağ Tepesi, Ankara'nın önemli turizm noktalarından biridir.
+Tekedağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tekedağ Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı da son derece kolaydır. Doğal güzelliği, yürüyüş parkurları ve manzarasıyla ziyaretçilerini cezbeden Tekedağ Tepesi, Ankara'nın önemli turizm noktalarından biridir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tekedağ Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmasa da, bu böl
 
 ## Coğrafya
 
-Tekedağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve doğu-batı doğrultusunda uzanır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan Tekedağ Tepesi, step ve orman ekosistemlerini bir arada barındırır. Bu bölgenin iklimi, karasal iklim özellikleri gösterir ve kışları soğuk, yazları sıcak ve kurudur. Tekedağ Tepesi'nin coğrafi konumunun bir diğer önemli özelliği de, Ankara'nın merkezine yakın bir konumda yer almasıdır. Bu sayede, ziyaretçiler tepeye ulaşımı kolay bir şekilde gerçekleştirebilirler. Ayrıca, tepe çevresinde çeşitli su kaynakları ve akarsular bulunur ki, bu da bölgenin ekolojik dengesini destekler.
+Tekedağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan Tekedağ Tepesi, step ve orman ekosistemlerini bir arada barındırır. Bu bölgenin iklimi, karasal iklim özellikleri gösterir ve kışları soğuk, yazları sıcak ve kurudur. Tekedağ Tepesi'nin coğrafi konumunun bir diğer önemli özelliği de, Ankara'nın merkezine yakın bir konumda yer almasıdır. Bu sayede, ziyaretçiler tepeye ulaşımı kolay bir şekilde gerçekleştirebilirler. Ayrıca, tepe çevresinde çeşitli su kaynakları ve akarsular bulunur ki, bu da bölgenin ekolojik dengesini destekler.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Tekedağ Tepesi'ni ziyaret etmek, doğa severler ve yürüyüş yapmak isteyenle
 
 - Tekedağ Tepesi, Ankara'nın merkezine 10 km uzaklıktadır.
 - Tepenin yüksekliği, deniz seviyesinden 1000 metre yukarıdadır.
-- Tekedağ Tepesi, 140 hektarlık bir alanı kaplar.
+
 - Tepede, çeşitli bitki türleri ve fauna bulunur.
 - Tekedağ Tepesi, Ankara'nın önemli turizm noktalarından biridir.

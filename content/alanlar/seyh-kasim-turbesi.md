@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Şeyh Kasım Türbesi","caption":"Şeyh Kasım Türbesi","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391229","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide mekanlarından biri olan Şeyh Kasım Türbesi, Diyarbakır'ın Çınar ilçesinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Güneydoğu Anadolu Bölgesi'nin güzide mekanlarından biri olan Şeyh Kasım Türbesi, Diyarbakır'ın Çınar ilçesinde bulunmaktadır."
 keywords: ["Şeyh Kasım Türbesi","Diyarbakır","Çınar","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391229"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391229"
 
 # Şeyh Kasım Türbesi
 
-Şeyh Kasım Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve turistik mekanlarından biridir. Diyarbakır'ın Çınar ilçesinde yer alan bu türbe, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Şeyh Kasım Türbesi, sadece dini açıdan değil, aynı zamanda coğrafi güzelliği ve zengin flora ve faunası ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem manevi hem de fiziki bir deneyim sunmaktadır.
+Şeyh Kasım Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve turistik mekanlarından biridir. Şeyh Kasım Türbesi, sadece dini açıdan değil, aynı zamanda coğrafi güzelliği ve zengin flora ve faunası ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem manevi hem de fiziki bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131391229"
 ## İlginç Bilgiler
 
 - Şeyh Kasım Türbesi, Diyarbakır'ın Çınar ilçesinde yer almaktadır.
-- 140 hektarlık bir yeşil alan üzerine kurulmuştur.
+
 - Zengin bir flora ve faunaya sahiptir.
 - Dini ve turistik amaçlarla ziyaret edilebilir.
 - Bölgenin kültürel ve dini özelliklerine saygı gösterilmesi gerekmektedir.

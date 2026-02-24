@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografçılık","Balık avı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Çorak Gölü Sulak Alanı","caption":"Çorak Gölü Sulak Alanı","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87orak%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228846","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Çorak Gölü Sulak Alanı, 140 hektarlık alanı ile önemli bir sulak alan"
+
 keywords: ["Çorak Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğal Güzellik","Korunan Alan","Çevre","Ekosistem","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228846"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228846"
 
 # Çorak Gölü Sulak Alanı
 
-İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Çorak Gölü Sulak Alanı, 140 hektarlık alanı ile önemli bir sulak alan olarak dikkat çekmektedir. Çorak Gölü Sulak Alanı, aynı zamanda önemli bir ekosistem olarak bilinmekte ve koruma altına alınmıştır. Bu doğal güzelliği ziyaret edenler, bölgenin eşsiz doğasını ve canlı çeşitliliğini gözlemleyebilirler.
+ Çorak Gölü Sulak Alanı, aynı zamanda önemli bir ekosistem olarak bilinmekte ve koruma altına alınmıştır. Bu doğal güzelliği ziyaret edenler, bölgenin eşsiz doğasını ve canlı çeşitliliğini gözlemleyebilirler.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ wikidata_id: "Q108228846"
 Çorak Gölü Sulak Alanı, ziyaretçilerini doğanın güzelliği ve canlı çeşitliliği ile karşılamaktadır. Bu sulak alan, doğal güzelliği ve zengin fauna ile dikkat çekmekte olup, ziyaretçilerin bölgeyi keşfetmeleri için ideal bir ortam sunmaktadır. Çorak Gölü Sulak Alanı'na ulaşım, İç Anadolu Bölgesi'nden didir. Ziyaretçiler, sulak alanın etrafında yürüyüş yapabilir, çeşitli bitki ve hayvan türlerini gözlemleyebilir ve doğanın güzelliğini keşfedebilirler.
 
 ## İlginç Bilgiler
-
-- Çorak Gölü Sulak Alanı, 140 hektarlık alanı ile önemli bir sulak alan olarak dikkat çekmektedir.
 
 - Çorak Gölü Sulak Alanı, aynı zamanda önemli bir ekosistem olarak bilinmekte ve koruma altına alınmıştır.
 - Bu doğal güzelliği ziyaret edenler, bölgenin eşsiz doğasını ve canlı çeşitliliğini gözlemleyebilirler.

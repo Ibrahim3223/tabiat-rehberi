@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Alt%C4%B1ndere_Valley_National_Park_03.jpg","alt":"Altindere Vadisi manzarası","credit":"Valen1988","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alt%C4%B1ndere_Valley_National_Park_01.jpg/960px-Alt%C4%B1ndere_Valley_National_Park_01.jpg","alt":"Altindere Vadisi","caption":"Altindere Vadisi","credit":"Altındere Valley National Park 01","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Alt%C4%B1ndere_Valley_National_Park_06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alt%C4%B1ndere_Valley_National_Park_06.jpg/1280px-Alt%C4%B1ndere_Valley_National_Park_06.jpg","alt":"Altindere Vadisi - Altındere Valley National Park 06","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Alt%C4%B1ndere_Valley_National_Park_07.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Alt%C4%B1ndere_Valley_National_Park_07.jpg/1280px-Alt%C4%B1ndere_Valley_National_Park_07.jpg","alt":"Altindere Vadisi - Altındere Valley National Park 07","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Alt%C4%B1ndere_Valley_National_Park_08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alt%C4%B1ndere_Valley_National_Park_08.jpg/1280px-Alt%C4%B1ndere_Valley_National_Park_08.jpg","alt":"Altindere Vadisi - Altındere Valley National Park 08","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Alt%C4%B1ndere_Valley_National_Park_13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alt%C4%B1ndere_Valley_National_Park_13.jpg/1280px-Alt%C4%B1ndere_Valley_National_Park_13.jpg","alt":"Altindere Vadisi - Altındere Valley National Park 13","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Alt%C4%B1ndere_Valley_National_Park_14.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Alt%C4%B1ndere_Valley_National_Park_14.jpg/1280px-Alt%C4%B1ndere_Valley_National_Park_14.jpg","alt":"Altindere Vadisi - Altındere Valley National Park 14","credit":"Valen1988","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Altindere%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227050","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Altindere Vadisi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Altindere Vadisi","İç Anadolu Bölgesi","doğa","vadi","gezi","turizm","milli park","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227050"
@@ -43,8 +43,6 @@ Altindere Vadisi'ni ziyaret etmek, doğa severler için gerçek bir deneyim sunu
 
 ## İlginç Bilgiler
 
-- Vadide, yaklaşık 140 hektarlık bir alan found
-- Vadi, 200 futbol sahası büyüklüğünde
 - Vadide, çeşitli bitki türleri ve zengin fauna found
 - Vadi, coğrafi açıdan zengin bir bölge
 - Vadi, ziyaretçiler için uygun bir gezi mevsimi bulunmakta

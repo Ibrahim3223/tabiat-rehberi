@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa Fotoğrafçılığı","Picnic","Kuş İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Arslanbey_Millet_Kona%C4%9F%C4%B1_G%C3%B6ksun_Kahramanmara%C5%9F.jpg","alt":"ARSLANBEY manzarası","credit":"Zkarapatlak","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arslanbey_Millet_Kona%C4%9F%C4%B1_G%C3%B6ksun_Kahramanmara%C5%9F.jpg/960px-Arslanbey_Millet_Kona%C4%9F%C4%B1_G%C3%B6ksun_Kahramanmara%C5%9F.jpg","alt":"ARSLANBEY","caption":"ARSLANBEY","credit":"Arslanbey Millet Konağı Göksun Kahramanmaraş","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ARSLANBEY","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228664","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Arslanbey Milli Parkı"

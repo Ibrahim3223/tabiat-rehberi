@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kaplıca ziyaretleri","Flora ve fauna keşf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Davut Kaplıcası Sit Alanı","caption":"Davut Kaplıcası Sit Alanı","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davut%20Kapl%C4%B1cas%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226252","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Davut Kaplıcası Sit Alanı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Davut Kaplıcası","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Kaplıca","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226252"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226252"
 
 # Davut Kaplıcası Sit Alanı
 
- Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yeşilin çeşitli tonlarını bir arada görebileceğiniz bu sit alanı, aynı zamanda kaplıca olarak da hizmet veriyor. Ziyaretçiler, hem doğal güzelliği discovery hem de kaplıcanın şifalı sularından yararlanabiliyorlar. 140 hektarlık bu yeşil alan, birçok bitki türüne ev sahipliği yapıyor ve ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
+ Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yeşilin çeşitli tonlarını bir arada görebileceğiniz bu sit alanı, aynı zamanda kaplıca olarak da hizmet veriyor. Ziyaretçiler, hem doğal güzelliği discovery hem de kaplıcanın şifalı sularından yararlanabiliyorlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Davut Kaplıcası Sit Alanı, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar 
 
 ## Coğrafya
 
-Davut Kaplıcası Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir çeşitlilik gösteriyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ile kaplı ve ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Alanın coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri yapmasına ve çevreyi keşfetmesine olanak tanıyor. Kaplıcanın bulunduğu bölge, genellikle sıca ve  bir iklime sahip. Bu nedenle, ziyaretçiler, özellikle yaz aylarında serinlemek için bu alanı tercih edebiliyorlar. Davut Kaplıcası Sit Alanı, coğrafi konumu itibariyle ziyaretçilere birçok olanak sunuyor. Ziyaretçiler, bu alanın coğrafi güzelliği ile birlikte, kaplıcanın şifalı sularından da yararlanabiliyorlar.
+Davut Kaplıcası Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir çeşitlilik gösteriyor. Alanın coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri yapmasına ve çevreyi keşfetmesine olanak tanıyor. Kaplıcanın bulunduğu bölge, genellikle sıca ve  bir iklime sahip. Bu nedenle, ziyaretçiler, özellikle yaz aylarında serinlemek için bu alanı tercih edebiliyorlar. Davut Kaplıcası Sit Alanı, coğrafi konumu itibariyle ziyaretçilere birçok olanak sunuyor. Ziyaretçiler, bu alanın coğrafi güzelliği ile birlikte, kaplıcanın şifalı sularından da yararlanabiliyorlar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Davut Kaplıcası Sit Alanı, ziyaretçilere birçok olanak sunuyor. Ziyaretçil
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Kaplıcanın şifalı suları
 - Flora ve fauna açısından zengin bölge
 - Mevsimsel değişimlerin belirgin olduğu bölge

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Çevre gezileri","Do�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Erikli-A.Ayva","caption":"Erikli-A.Ayva","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erikli-A.Ayva","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227803","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Erikli-A.Ayva","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227803"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227803"
 
 # Erikli-A.Ayva
 
-Erikli-A.Ayva milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Burası, hem doğa severler hem de tarih meraklıları için bir cennet olarak kabul edilir. Gökyüzünün mavi tonları, yeşilin farklı tonları ve coğrafyanın eşsiz güzelliği, ziyaretçilere unutulmaz bir deneyim sunar. Milli parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Doğal güzellikleri, flora ve fauna çeşitliliği ile birlikte, bu bölgeyi ziyaret etmek, bir doğa belgeseli izlemek gibi bir deneyim sağlar.
+Erikli-A. Burası, hem doğa severler hem de tarih meraklıları için bir cennet olarak kabul edilir. Gökyüzünün mavi tonları, yeşilin farklı tonları ve coğrafyanın eşsiz güzelliği, ziyaretçilere unutulmaz bir deneyim sunar. Milli parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Doğal güzellikleri, flora ve fauna çeşitliliği ile birlikte, bu bölgeyi ziyaret etmek, bir doğa belgeseli izlemek gibi bir deneyim sağlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erikli-A.Ayva milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli m
 
 ## Coğrafya
 
-Erikli-A.Ayva milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde, geniş ve yeşil bir alana sahiptir. 140 hektarlık bu alan, çeşitli bitki türleri ve hayvanlarla doludur. Coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkiler. Milli parkın yüksekliği, deniz seviyesinden itibaren yaklaşık 1000 metre civarındadır. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkileyen önemli bir faktördür. Erikli-A.Ayva, geniş otlakları, ormanları ve su kaynakları ile birlikte, bir doğa harikası olarak kabul edilir. Coğrafi yapısı, ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunar.
+Erikli-A.Ayva milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde, geniş ve yeşil bir alana sahiptir. Coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkiler. Milli parkın yüksekliği, deniz seviyesinden itibaren yaklaşık 1000 metre civarındadır. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkileyen önemli bir faktördür. Erikli-A.Ayva, geniş otlakları, ormanları ve su kaynakları ile birlikte, bir doğa harikası olarak kabul edilir. Coğrafi yapısı, ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

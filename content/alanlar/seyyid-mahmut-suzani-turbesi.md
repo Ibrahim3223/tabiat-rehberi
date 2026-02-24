@@ -50,7 +50,7 @@ Seyyid Mahmut Suzani Türbesi'ni ziyaret etmek, tarih ve doğa severler için un
 ## İlginç Bilgiler
 
 - Seyyid Mahmut Suzani Türbesi, Eskişehir'in önemli dini ve kültürel merkezlerinden biridir.
-- Türbenin etrafındaki park, 200 futbol sahası büyüklüğünde bir yeşil alandır.
+
 - Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır.
 - Türbenin tarihi geçmişi, birçok farklı medeniyetin izlerini taşır.
 - Seyyid Mahmut Suzani Türbesi, yılın her döneminde ziyaret edilebilir.

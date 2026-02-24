@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora gözlemi","Fauna gözlemi","Çevre ke
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Mersin Davultepe-Kızılçam","caption":"Mersin Davultepe-Kızılçam","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Davultepe-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228060","tip":"genel"}]
-description: "Mersin'de yer alan Davultepe-Kızılçam Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Mersin","Davultepe-Kızılçam","Milli Park","Doğa","Turizm","Çevre","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228060"
@@ -42,7 +42,6 @@ Mersin Davultepe-Kızılçam Milli Parkı, ziyaretçilerine çeşitli etkinlikle
 
 ## İlginç Bilgiler
 
-- Mersin Davultepe-Kızılçam Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Park, flora ve fauna açısından oldukça zengindir
 - İlkbahar ve yaz ayları, parkı ziyaret etmek için en ideal zamandır
 - Parkta, çeşitli bitki türleri ve yaban hayatı bulunur

@@ -49,8 +49,6 @@ Gökgöl Mahallesi Tümülüsü, ziyaretçilere çeşitli olanaklar sunuyor. Bu 
 
 ## İlginç Bilgiler
 
-- Gökgöl Mahallesi Tümülüsü, 140 hektarlık geniş bir alanı kaplıyor.
-
 - Gökgöl Mahallesi Tümülüsü, yaban hayatının zengin çeşitliliği ve eşsiz doğal güzellikleriyle dikkat çekiyor.
 - Bölge, mevsimsel değişimlere göre farklı bir güzellik sunuyor.
 - Gökgöl Mahallesi Tümülüsü, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.

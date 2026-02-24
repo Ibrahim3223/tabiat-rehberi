@@ -30,7 +30,7 @@ wikidata_id: "Q122384874"
 
 # Kocamustafapaşa Hamamı
 
-Kocamustafapaşa Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültür mirasıdır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin kalbinde yer alır ve uzun yıllardır hizmet vermektedir. 140 hektarlık bir alanda kurulmamış olan bu hamam, daha çok tarihi ve kültürel önemini korumak için özenle restore edilmiştir. Kocamustafapaşa Hamamı, ziyaretçilerini İstanbul'un geçmişine götürmeyi vaat ediyor.
+Kocamustafapaşa Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültür mirasıdır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin kalbinde yer alır ve uzun yıllardır hizmet vermektedir. Kocamustafapaşa Hamamı, ziyaretçilerini İstanbul'un geçmişine götürmeyi vaat ediyor.
 
 ## Tarihçe
 

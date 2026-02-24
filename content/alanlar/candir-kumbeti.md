@@ -49,7 +49,6 @@ wikidata_id: "Q135582413"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Yozgat iline 20 kilometre uzaklık
 - İç Anadolu Bölgesi'nin en güzel plajlarından biri
 - Zengin flora ve fauna çeşitliliği

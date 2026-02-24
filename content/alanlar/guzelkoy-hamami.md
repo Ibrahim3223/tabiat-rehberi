@@ -51,7 +51,7 @@ Güzelköy Hamamı, yılın her döneminde ziyaret edilebilir, ancak en uygun za
 ## İlginç Bilgiler
 
 - Güzelköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir
-- 140 hektarlık bir yeşil alan üzerine kurulmuştur
+
 - Şarköy ilçesinde yer alır
 - Yaz aylarında en çok ziyaret edilen yerlerden biridir
 - Doğal güzelliği ve sakin atmosferi ile ziyaretçilere unutulmaz bir deneyim sunar

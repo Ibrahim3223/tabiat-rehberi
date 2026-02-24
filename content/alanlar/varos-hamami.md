@@ -51,7 +51,7 @@ Varoş Hamamı'na ulaşım, Sinop'un merkezinden didir. Plaj, şehir merkezi ile
 ## İlginç Bilgiler
 
 - Sinop'un en önemli plajlarından biri
-- 140 hektarlık alan
+
 - Geniş kumsal
 - Temiz deniz
 - Tarihi geçmişi

@@ -42,7 +42,6 @@ Mersin-Mut-Alahan-Kızılcam milli parkını ziyaret etmek için, Mersin'in Mut 
 
 ## İlginç Bilgiler
 
-- Mersin-Mut-Alahan-Kızılcam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir bölge
 - Bu milli park, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Mersin-Mut-Alahan-Kızılcam milli parkı, ekolojik açıdan önemli bir bölge
 - Bu milli park, doğal dengenin korunması açısından önemli bir rol oynamakta

@@ -37,7 +37,7 @@ Fatma Hatun Türbesi'nin tarihi geçmişi, Kırşehir'in tarihi sürecine parale
 
 ## Coğrafya
 
-Fatma Hatun Türbesi, Kırşehir ilinin coğrafi yapısı içerisinde önemli bir yere sahiptir. Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve coğrafi açıdan zengin bir çeşitlilik sunmaktadır. İl, genel olarak bozkır iklimine sahiptir, ancak farklı mevsimlerde ziyaretçilere çeşitli manzaralar sunar. Fatma Hatun Türbesi, şehrin merkezinde yer almaktadır ve etrafındahistorik yapılar, parklar ve diğer turistik noktalar bulunmaktadır. Türbenin bulunduğu alan, yaklaşık olarak 140 hektarlık bir yeşil alana sahiptir. Ziyaretçiler, türbeyi gezdikten sonra, bu yeşil alanda dinlenebilir ve şehrin manzarasını izleyebilirler. Ayrıca, türbenin yakınında bulunan diğer tarihi yapılara da kolayca ulaşılabilir. Bu nedenle, Fatma Hatun Türbesi, Kırşehir'de gezilecek önemli bir noktadır.
+Fatma Hatun Türbesi, Kırşehir ilinin coğrafi yapısı içerisinde önemli bir yere sahiptir. Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve coğrafi açıdan zengin bir çeşitlilik sunmaktadır. İl, genel olarak bozkır iklimine sahiptir, ancak farklı mevsimlerde ziyaretçilere çeşitli manzaralar sunar. Fatma Hatun Türbesi, şehrin merkezinde yer almaktadır ve etrafındahistorik yapılar, parklar ve diğer turistik noktalar bulunmaktadır. Ziyaretçiler, türbeyi gezdikten sonra, bu yeşil alanda dinlenebilir ve şehrin manzarasını izleyebilirler. Ayrıca, türbenin yakınında bulunan diğer tarihi yapılara da kolayca ulaşılabilir. Bu nedenle, Fatma Hatun Türbesi, Kırşehir'de gezilecek önemli bir noktadır.
 
 ## Flora ve Fauna
 

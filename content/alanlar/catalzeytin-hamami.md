@@ -37,7 +37,7 @@ wikidata_id: "Q131738977"
 
 ## Coğrafya
 
-Çatalzeytin Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Bu plaj, Kastamonu'nun Çatalzeytin ilçesinde yer almakta ve 140 hektarlık bir yeşil alan üzerine kurulmuştur. Çatalzeytin Hamamı, Karadeniz'in en güzel plajlarından biri olarak bilinmektedir. Bu plaj, yerlilerin ve turistlerin gözdesi haline gelmiştir. Çatalzeytin Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin en önemli özelliklerini taşımaktadır. Bu bölgede, ormanlar, dağlar ve nehirler bulunmaktadır. Çatalzeytin Hamamı, bu coğrafi özellikler arasında yer almakta ve Karadeniz'in en güzel manzaralarından birini sunmaktadır. Bu plaj, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilmektedir.
+Çatalzeytin Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Çatalzeytin Hamamı, Karadeniz'in en güzel plajlarından biri olarak bilinmektedir. Bu plaj, yerlilerin ve turistlerin gözdesi haline gelmiştir. Çatalzeytin Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin en önemli özelliklerini taşımaktadır. Bu bölgede, ormanlar, dağlar ve nehirler bulunmaktadır. Çatalzeytin Hamamı, bu coğrafi özellikler arasında yer almakta ve Karadeniz'in en güzel manzaralarından birini sunmaktadır. Bu plaj, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131738977"
 ## İlginç Bilgiler
 
 - Çatalzeytin Hamamı, Kastamonu'nun en güzel plajlarından biridir.
-- Bu plaj, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
+
 - Çatalzeytin Hamamı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.
 - Bu plaj, yıl boyunca birçok turisti ağırlamaktadır.
 - Çatalzeytin Hamamı, ilkbahar ve yaz aylarında ziyaret edilmektedir.

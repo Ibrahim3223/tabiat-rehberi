@@ -31,7 +31,7 @@ wikidata_id: "Q108228757"
 
 ## Coğrafya
 
-Ümraniye, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Bölgenin coğrafi yapısı, ziyaretçilere geniş açık alanlar ve doğal güzellikler sunar. Ümraniye, iklim olarak İç Anadolu Bölgesi'nin genel characteristicsini taşır ve ziyaretçilere dört mevsim farklı deneyimler sunar. Bahar aylarında çiçeklerle dolu olan bölge, yaz aylarında sıcaklığın tadını çıkarmak için ideal bir yerken, sonbahar ve kış aylarında da ziyaretçilere farklı bir güzellik sunar. Ümraniye'nin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetmek için ideal bir ortam sağlar.
+Ümraniye, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bölgenin coğrafi yapısı, ziyaretçilere geniş açık alanlar ve doğal güzellikler sunar. Ümraniye, iklim olarak İç Anadolu Bölgesi'nin genel characteristicsini taşır ve ziyaretçilere dört mevsim farklı deneyimler sunar. Bahar aylarında çiçeklerle dolu olan bölge, yaz aylarında sıcaklığın tadını çıkarmak için ideal bir yerken, sonbahar ve kış aylarında da ziyaretçilere farklı bir güzellik sunar. Ümraniye'nin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetmek için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 

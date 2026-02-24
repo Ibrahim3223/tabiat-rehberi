@@ -38,7 +38,7 @@ Eşrefoğlu Süleyman Bey Türbesi, yüzyıllar önce kurulmuş tarihi bir yapı
 
 ## Coğrafya
 
-Eşrefoğlu Süleyman Bey Türbesi, Konya'nın Beyşehir ilçesinde yer alıyor. Bu türbe, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş. Bölge, genellikle step iklimi ile karakterize ediliyor ve türbenin çevresinde çeşitli bitki türleri bulunmakta. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alan, ziyaretçilere geniş bir açık alan sunuyor. Çevredeki coğrafi oluşumlar, türbenin güzelliğini ve önemini daha da artırıyor. İklim koşulları, bölgenin flora ve faunasını da etkiliyor.
+Eşrefoğlu Süleyman Bey Türbesi, Konya'nın Beyşehir ilçesinde yer alıyor. Bu türbe, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş. Bölge, genellikle step iklimi ile karakterize ediliyor ve türbenin çevresinde çeşitli bitki türleri bulunmakta. Çevredeki coğrafi oluşumlar, türbenin güzelliğini ve önemini daha da artırıyor. İklim koşulları, bölgenin flora ve faunasını da etkiliyor.
 
 ## Flora ve Fauna
 

@@ -48,8 +48,6 @@ Modal Tepesi, ziyaretçilerini bekliyor. Tepe, bölgeye özgü doğal güzellikl
 
 ## İlginç Bilgiler
 
-- Modal Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Tepe, 200 futbol sahası büyüklüğünde.
 - Modal Tepesi, bölgeye özgü flora ve fauna türlerine ev sahipliği yapıyor.
 - Tepe, ziyaretçilerini tarihin gizemli dünyasına davet ediyor.
 - Modal Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri.

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","flora ve fauna gözlemi","doğa fotoğrafçılığ�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Denizli-Acipayam-Alci Ardic 2","caption":"Denizli-Acipayam-Alci Ardic 2","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Alci%20Ardic%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227222","tip":"genel"}]
-description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Denizli-Acipayam-Alci Ardic 2 milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Denizli","Acipayam","Alci Ardic 2","milli park","Ege Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227222"

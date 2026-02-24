@@ -38,7 +38,7 @@ Hatice Sultan Türbesi, tarihi geçmişi ile dikkat çeken bir mekan olarak ön 
 
 ## Coğrafya
 
-Hatice Sultan Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir mekan olarak dikkat çekiyor. Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilen bu mekan, 140 hektarlık bir alan üzerinde bulunuyor. Coğrafi konumu, ziyaretçilerin ilgisini çekmeyi başarıyor. Hatice Sultan Türbesi, Bursa'nın zengin tarihi ve kültürel mirasını yansıtan önemli bir nokta olarak kabul ediliyor. Bu mekan, Marmara Bölgesi'nin en önemli turizm merkezleri arasında yer alıyor. İklimi ve coğrafi konumu, ziyaretçilerin bu mekanı ziyaret etmesinin nedenlerinden biri olarak gösteriliyor.
+Hatice Sultan Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir mekan olarak dikkat çekiyor. Coğrafi konumu, ziyaretçilerin ilgisini çekmeyi başarıyor. Hatice Sultan Türbesi, Bursa'nın zengin tarihi ve kültürel mirasını yansıtan önemli bir nokta olarak kabul ediliyor. Bu mekan, Marmara Bölgesi'nin en önemli turizm merkezleri arasında yer alıyor. İklimi ve coğrafi konumu, ziyaretçilerin bu mekanı ziyaret etmesinin nedenlerinden biri olarak gösteriliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hatice Sultan Türbesi, ziyaretçiler için önemli bir gezi noktası olarak ön
 ## İlginç Bilgiler
 
 - Hatice Sultan Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir mekan olarak dikkat çekiyor
-- 140 hektarlık bir alan üzerinde bulunan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor
+
 - Tarihi geçmişi ile dikkat çeken bu mekan, ziyaretçiler için önemli bir gezi noktası olarak ön plana çıkıyor
 - Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor
 - Flora ve fauna açısından zengin bir mekan olarak dikkat çekiyor

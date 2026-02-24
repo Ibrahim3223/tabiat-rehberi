@@ -37,7 +37,7 @@ Ahmet Şemseddin-i Marmaravi Türbesi, tarihi geçmişi ile dikkat çekmektedir.
 
 ## Coğrafya
 
-Ahmet Şemseddin-i Marmaravi Türbesi, Manisa'nın Şehzadeler ilçesinde yer almaktadır. Bu bölge, Ege Bölgesi'nin önemli noktalarından biridir. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır. Türbenin etrafında bulunan yeşillikler, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır. Ayrıca, plajın bulunduğu alan, ziyaretçilere deniz ve güneş keyfi sunmaktadır. Ahmet Şemseddin-i Marmaravi Türbesi, coğrafi konumu ile dikkat çekmektedir. Türbenin bulunduğu bölge, dağların ve ovaların birleştiği bir noktada yer almaktadır. Bu bölge, ziyaretçilere doğanın güzelliğini göstermektedir.
+Ahmet Şemseddin-i Marmaravi Türbesi, Manisa'nın Şehzadeler ilçesinde yer almaktadır. Bu bölge, Ege Bölgesi'nin önemli noktalarından biridir. Türbenin etrafında bulunan yeşillikler, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır. Ayrıca, plajın bulunduğu alan, ziyaretçilere deniz ve güneş keyfi sunmaktadır. Ahmet Şemseddin-i Marmaravi Türbesi, coğrafi konumu ile dikkat çekmektedir. Türbenin bulunduğu bölge, dağların ve ovaların birleştiği bir noktada yer almaktadır. Bu bölge, ziyaretçilere doğanın güzelliğini göstermektedir.
 
 ## Flora ve Fauna
 

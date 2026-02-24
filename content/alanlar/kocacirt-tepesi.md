@@ -36,7 +36,7 @@ Kocacirt Tepesi, tarihsel geçmişi bakımından zengin bir bölgedir. Bu bölge
 
 ## Coğrafya
 
-Kocacirt Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir oluşumdur. Bu tepe, Batman ilinin sınırları içerisinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Kocacirt Tepesi, bölgenin coğrafi özellikleri açısından zengin bir çeşitliliğe sahiptir. Bu bölgenin iklimi, genellikle sıcak ve kurudur. Kocacirt Tepesi'nin coğrafi yapısı, flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Bu tepe, bölgede yaşayan halk için önemli bir doğal kayna ve gezi alanı olarak bilinir. Kocacirt Tepesi'nin coğrafi özellikleri, ziyaretçilerin ilgi çekici bir deneyim sunar.
+Kocacirt Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir oluşumdur. Kocacirt Tepesi, bölgenin coğrafi özellikleri açısından zengin bir çeşitliliğe sahiptir. Bu bölgenin iklimi, genellikle sıcak ve kurudur. Kocacirt Tepesi'nin coğrafi yapısı, flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Bu tepe, bölgede yaşayan halk için önemli bir doğal kayna ve gezi alanı olarak bilinir. Kocacirt Tepesi'nin coğrafi özellikleri, ziyaretçilerin ilgi çekici bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kocacirt Tepesi, ziyaretçilerin ilgi çekici bir deneyim sunar. Bu tepe, bölge
 
 ## İlginç Bilgiler
 
-- Kocacirt Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşumdur.
 - Kocacirt Tepesi, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Bu tepe, bölgede yaşayan halk için önemli bir doğal kayna ve gezi alanı olarak bilinir.

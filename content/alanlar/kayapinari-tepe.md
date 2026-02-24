@@ -20,7 +20,7 @@ aktiviteler: ["tepeye tırmanmak","manzara seyretmek","bitki türlerini inceleme
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kayapınarı Tepe","caption":"Kayapınarı Tepe","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayap%C4%B1nar%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387401","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Kayapınarı Tepe, 140 hektarlık bir alanı kaplayan geniş ve tarihi bir tepe"
+
 keywords: ["Kayapınarı Tepe","Van","Doğu Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387401"
@@ -49,7 +49,7 @@ Kayapınarı Tepe, ziyaretçilerine birçok olanak sunmakta. Tepeye tırmanmak, 
 ## İlginç Bilgiler
 
 - Kayapınarı Tepe, Van ilinin en önemli tarihi ve doğal güzelliklerinden biri.
-- Tepe, 140 hektarlık bir alanı kaplamakta.
+
 - Van ilinin coğrafi yapısı, tepeyi önemli kılmakta.
 - Tepe, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Ziyaretçiler, tepeye çıkarken Van ilinin tarihini ve kültürünü yakından tanıyabilirler.

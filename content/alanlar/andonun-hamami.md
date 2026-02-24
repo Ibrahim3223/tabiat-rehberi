@@ -50,7 +50,7 @@ Andon’un Hamamı, ziyaretçilere birçok farklı aktivite yapma fırsatı sunu
 ## İlginç Bilgiler
 
 - Andon’un Hamamı, Ege Bölgesi'nin en güzel plajlarından biri
-- Bu plaj, 140 hektarlık bir alana sahip
+
 - Andon’un Hamamı, Menteşe ilçesinin sahil şeridinde yer alıyor
 - Bu plaj, denize açılan bir koyun içinde yer alıyor
 - Andon’un Hamamı, zengin bir flora ve fauna çeşitliliğine sahip

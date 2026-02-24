@@ -42,8 +42,6 @@ Tortum Gölü Sulak Alanı, ziyaretçilere bir deneyim sunuyor. Bu sulak alanı 
 
 ## İlginç Bilgiler
 
-- Tortum Gölü Sulak Alanı, 140 hektarlık bir alanı kapsıyor
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Tortum Gölü Sulak Alanı, zengin bir flora ve fauna çeşitliliğine sahip
 - Bu bölgenin ekolojik önemi, bu bölgede yaşayan canlılar açısından büyük önem taşıyor
 - Tortum Gölü Sulak Alanı, ziyaretçilere bir deneyim sunuyor

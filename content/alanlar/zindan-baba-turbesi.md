@@ -30,7 +30,7 @@ wikidata_id: "Q131391465"
 
 # Zindan Baba Türbesi
 
-Zindan Baba Türbesi, Marmara Bölgesi'nin güzelliklerini gözler önüne seren bir nokta olarak karşımıza çıkıyor. Lüleburgaz ilçesinde yer alan bu tarihi ve doğal güzellik, 140 hektarlık bir alanı kapsıyor. Zindan Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
+Zindan Baba Türbesi, Marmara Bölgesi'nin güzelliklerini gözler önüne seren bir nokta olarak karşımıza çıkıyor. Zindan Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Zindan Baba Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bir arada 
 
 ## İlginç Bilgiler
 
-- Zindan Baba Türbesi, 140 hektarlık bir alanı kapsıyor.
 - Bu türbe, tarihi bir figura ait.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Zindan Baba Türbesi, Marmara Bölgesi'nin güzelliklerini gözler önüne seriyor.

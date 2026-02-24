@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kamp yapma","fotoğrafçılık","doğa göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Elazig-Tunceli-Kutuderesi Mese","caption":"Elazig-Tunceli-Kutuderesi Mese","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elazig-Tunceli-Kutuderesi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227761","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin gözdesi"
+
 keywords: ["Elazig","Tunceli","Kutuderesi","milli park","doğa","gezi","iç anadolu","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227761"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227761"
 
 # Elazig-Tunceli-Kutuderesi Mese
 
-Elazig-Tunceli-Kutuderesi Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bölge, zengin flora ve faunası ile dikkat çekiyor. Her mevsim farklı bir güzelliğe bürünen bu doğa harikası, gezi severlerin kaçırmak istemeyeceği bir destinasyon. İnsanlar, bu güzel milli parkta doğanın sesini dinleyerek, stres ve yorgunluklarını unutmaya geliyor.
+ Bölge, zengin flora ve faunası ile dikkat çekiyor. Her mevsim farklı bir güzelliğe bürünen bu doğa harikası, gezi severlerin kaçırmak istemeyeceği bir destinasyon. İnsanlar, bu güzel milli parkta doğanın sesini dinleyerek, stres ve yorgunluklarını unutmaya geliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Elazig-Tunceli-Kutuderesi Mese'nin tarihi geçmişi, yüzyıllar öncesine uzan�
 
 ## Coğrafya
 
-Elazig-Tunceli-Kutuderesi Mese, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık ve engebeli bir araziye sahip. 140 hektarlık milli park, çeşitli bitki türleriyle kaplı ve zengin bir fauna barındırıyor. İklim, karasal özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Çevre, doğal güzelliklerle dolu; akarsular, göller ve ormanlar bu bölgenin önemli coğrafi özellikleri arasında yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Doğa yürüyüşleri, kamp yapma, fotoğrafçılık ve doğa gözlemi gibi aktiviteler, bu bölgede yapabileceğiniz birçok şey arasında yer alıyor.
+Elazig-Tunceli-Kutuderesi Mese, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık ve engebeli bir araziye sahip. İklim, karasal özellikleri gösteriyor; kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Çevre, doğal güzelliklerle dolu; akarsular, göller ve ormanlar bu bölgenin önemli coğrafi özellikleri arasında yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Doğa yürüyüşleri, kamp yapma, fotoğrafçılık ve doğa gözlemi gibi aktiviteler, bu bölgede yapabileceğiniz birçok şey arasında yer alıyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Keçiyatağı Donmuş Şelalesi'nin tarihi geçmişi, bölgenin jeolojik oluşum
 
 ## Coğrafya
 
-Keçiyatağı Donmuş Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu bölge, dağlık bir araziye sahiptir ve şelale, bir vadi içinde oluşur. Şelalenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve kış aylarında yoğun kar yağışı alır. Bu iklim koşulları, şelalenin donmasını sağlar. Keçiyatağı Donmuş Şelalesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlikte, ziyaretçilere geniş bir alan sunar. Şelale, yükseklik bakımından da dikkat çekici bir yapıya sahiptir ve ziyaretçilere, manzarayı izlemek için uygun bir nokta sunar. Bu coğrafi özellikler, Keçiyatağı Donmuş Şelalesi'ni, doğa severler ve bilim insanları için önemli bir destinasyon haline getirir.
+Keçiyatağı Donmuş Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu bölge, dağlık bir araziye sahiptir ve şelale, bir vadi içinde oluşur. Şelalenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve kış aylarında yoğun kar yağışı alır. Bu iklim koşulları, şelalenin donmasını sağlar. Şelale, yükseklik bakımından da dikkat çekici bir yapıya sahiptir ve ziyaretçilere, manzarayı izlemek için uygun bir nokta sunar. Bu coğrafi özellikler, Keçiyatağı Donmuş Şelalesi'ni, doğa severler ve bilim insanları için önemli bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

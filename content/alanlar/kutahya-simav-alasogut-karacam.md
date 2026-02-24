@@ -30,7 +30,7 @@ Kutahya-Simav-Alasogut Karacam milli parkının tarihi geçmişi, yüzyıllar ö
 
 ## Coğrafya
 
-Kutahya-Simav-Alasogut Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Milli park, 140 hektarlık bir alanı kapsar ve çeşitli coğrafi özellikler ile dolu bir bölgedir. Milli parkın coğrafyası, dağlar, ormanlar ve akarsular ile karakterizedir. Bu coğrafi özellikler, milli parkın iklimini ve môi çevre koşullarını etkiler. Milli parkın iklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler, bölgenin flora ve faunasını etkiler. Milli parkın çevresi, çeşitli bitkiler ve hayvanlar ile dolu bir bölge olup, bu coğrafi özellikler, milli parkın doğal güzelliklerini artırır. Milli parkın coğrafyası, aynı zamanda, çeşitli jeolojik oluşumları da içerir. Bu jeolojik oluşumlar, milli parkın coğrafi yapısını daha da zenginleştirir.
+Kutahya-Simav-Alasogut Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Milli parkın coğrafyası, dağlar, ormanlar ve akarsular ile karakterizedir. Bu coğrafi özellikler, milli parkın iklimini ve môi çevre koşullarını etkiler. Milli parkın iklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler, bölgenin flora ve faunasını etkiler. Milli parkın çevresi, çeşitli bitkiler ve hayvanlar ile dolu bir bölge olup, bu coğrafi özellikler, milli parkın doğal güzelliklerini artırır. Milli parkın coğrafyası, aynı zamanda, çeşitli jeolojik oluşumları da içerir. Bu jeolojik oluşumlar, milli parkın coğrafi yapısını daha da zenginleştirir.
 
 ## Flora ve Fauna
 

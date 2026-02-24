@@ -49,7 +49,7 @@ Yıldıztarla Tepesi'ni ziyaret etmek, Karadeniz Bölgesi'nin eşsiz doğal güz
 ## İlginç Bilgiler
 
 - Yıldıztarla Tepesi, Giresun ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Yıldıztarla Tepesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biridir.
 - Bu tepe, ziyaretçilerine, geniş bir manzara sunar.
 - Yıldıztarla Tepesi, aynı zamanda, Karadeniz Bölgesi'nin önemli su kaynaklarına da ev sahipliği yapar.

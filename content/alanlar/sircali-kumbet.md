@@ -50,7 +50,7 @@ Sırçalı Kümbet, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın g�
 ## İlginç Bilgiler
 
 - Sırçalı Kümbet, Kayseri'nin Melikgazi ilçesinde yer almaktadır
-- Bu destinasyon, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Sırçalı Kümbet, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmaktadır
 - Bu özel destinasyon, ziyaretçilerine hem eğitim hem de kültür anlamında zengin bir deneyim sunmaktadır
 - Sırçalı Kümbet, ilkbahar ve yaz aylarında ziyaretçilerini güneşli günler ve serin akşamlar ile karşılamaktadır

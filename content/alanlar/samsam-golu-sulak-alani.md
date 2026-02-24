@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","çevre 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Samsam Gölü Sulak Alanı","caption":"Samsam Gölü Sulak Alanı","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samsam%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228871","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık sulak alan, çeşitli bitki ve hayvan türleriyle dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Samsam Gölü","Sulak Alan","İç Anadolu Bölgesi","doğal güzellik","bitki türleri","hayvan türleri","ekosistem","korunan alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228871"
@@ -41,8 +41,6 @@ Samsam Gölü Sulak Alanı, çeşitli bitki türleriyle kaplıdır. Bu bölge, b
 Samsam Gölü Sulak Alanı, doğa severler için bir cennet olup, burada birçok farklı faaliyetler yapılabilmektedir. Bu bölge, aynı zamanda birçok farklı türler gözlemlenebilir. Samsam Gölü Sulak Alanı, ekosistemin korunmasına önemli katkılar sağlamaktadır. Bu bölge, günümüzde korunan bir alan olarak kabul edilmekte ve buranın doğal güzellikleri future nesiller için korunmaktadır. Samsam Gölü Sulak Alanı'na ziyaret için en iyi zaman, ilkbahar ve sonbahar aylarıdır. Bu bölge, aynı zamanda önemli bir kültürel miras olarak da dikkat çekmektedir.
 
 ## İlginç Bilgiler
-
-- Samsam Gölü Sulak Alanı, 140 hektarlık bir alanı kaplamaktadır.
 
 - Samsam Gölü Sulak Alanı, çeşitli bitki türleriyle kaplıdır.
 - Bu bölge, birçok hayvan türünün yaşam alanı olarak hizmet vermektedir.

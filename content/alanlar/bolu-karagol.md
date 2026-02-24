@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Çiçek İzleme","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Bolu_-_Karag%C3%B6l.jpg","alt":"Bolu Karagöl manzarası","credit":"Uweys90","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bolu_-_Karag%C3%B6l.jpg/960px-Bolu_-_Karag%C3%B6l.jpg","alt":"Bolu Karagöl","caption":"Bolu Karagöl","credit":"Bolu - Karagöl","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fd/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_29_03_1984_Karag%C3%B6l_Kemeres-Yayla.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_29_03_1984_Karag%C3%B6l_Kemeres-Yayla.jpg/1280px-K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_29_03_1984_Karag%C3%B6l_Kemeres-Yayla.jpg","alt":"Bolu Karagöl - Köroğlu Dağları 29 03 1984 Karagöl Kemeres-Yayla","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Karag%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228186","tip":"genel"}]
-description: "Bolu Karagöl, Türk milletinin ortak mirası, 140 hektarlık yeşil cennet"
+
 keywords: ["Bolu Karagöl","Doğa","Yeşil Alan","Mili Park","İç Anadolu Bölgesi","Turizm","Gezi","Doğa Seyahati","Yeşil Cennet"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228186"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228186"
 
 # Bolu Karagöl
 
-Bolu Karagöl, Türk milletinin ortak mirası, 140 hektarlık yeşil cennet. İç Anadolu Bölgesi'nin kalbinde yer alan Bolu Karagöl, doğa severlerin ve macera arayanların gözdesi. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Bolu Karagöl, hem doğa ile iç içe bir gün geçirmek hem de macera dolu anlar yaşamak isteyenler için ideal bir destinasyon.
+ İç Anadolu Bölgesi'nin kalbinde yer alan Bolu Karagöl, doğa severlerin ve macera arayanların gözdesi. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Bolu Karagöl, hem doğa ile iç içe bir gün geçirmek hem de macera dolu anlar yaşamak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -43,8 +43,6 @@ Bolu Karagöl'ü ziyaret etmek, doğa ile iç içe bir gün geçirmek isteyenler
 
 ## İlginç Bilgiler
 
-- Bolu Karagöl, 140 hektarlık yeşil alan
-- Bolu Karagöl, yaklaşık 200 futbol sahası büyüklüğünde
 - Bolu Karagöl, İç Anadolu Bölgesi'nin kalbinde yer alıyor
 - Bolu Karagöl, doğa severlerin ve macera arayanların gözdesi
 - Bolu Karagöl, zengin florası ve faunası ile dikkat çekiyor

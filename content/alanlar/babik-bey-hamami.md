@@ -50,7 +50,7 @@ Babik Bey Hamamı, Simav'a gelen ziyaretçiler için bir zorunludur. Burada, den
 ## İlginç Bilgiler
 
 - Babik Bey Hamamı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir.
-- Bu bölge, 140 hektarlık bir alanı kapsar.
+
 - Babik Bey Hamamı, özellikle yaz aylarında, turistlerin ve yerli halkın tercih ettiği bir destinasyondur.
 
 - Babik Bey Hamamı, Simav'ın diğer turistik bölgelerine yakınlığı ile dikkat çeker.

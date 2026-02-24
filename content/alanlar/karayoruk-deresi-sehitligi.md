@@ -37,7 +37,7 @@ Karayörük Deresi Şehitliği'nin tarihi geçmişi, Çanakkale Savaşı'nın ba
 
 ## Coğrafya
 
-Karayörük Deresi Şehitliği, Eceabat ilçesinin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, Çanakkale Boğazı'na yakın bir konumda bulunuyor ve stratejik açıdan büyük önem taşıyor. Şehitlik, 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçiler için hem bir anma hem de bir tarih dersi sunuyor. Bölgenin coğrafi özellikleri, Çanakkale Savaşı'nın zorlu şartlarını ve askerlerin fedakarlıklarını anlamak için önemli ipuçları sağlıyor. Şehitliğin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili ve bu doğal güzellik, ziyaretçilere huzurlu bir atmosfer sunuyor. Karayörük Deresi Şehitliği, coğrafi konumu ve tarihi önemi ile birlikte, Türkiye'nin önemli bir kültürel ve tarihi mirası olarak kabul ediliyor.
+Karayörük Deresi Şehitliği, Eceabat ilçesinin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, Çanakkale Boğazı'na yakın bir konumda bulunuyor ve stratejik açıdan büyük önem taşıyor. Bölgenin coğrafi özellikleri, Çanakkale Savaşı'nın zorlu şartlarını ve askerlerin fedakarlıklarını anlamak için önemli ipuçları sağlıyor. Şehitliğin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili ve bu doğal güzellik, ziyaretçilere huzurlu bir atmosfer sunuyor. Karayörük Deresi Şehitliği, coğrafi konumu ve tarihi önemi ile birlikte, Türkiye'nin önemli bir kültürel ve tarihi mirası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Karayörük Deresi Şehitliği'ni ziyaret etmek, hem bir tarih dersi hem de bir 
 ## İlginç Bilgiler
 
 - Karayörük Deresi Şehitliği, Çanakkale Savaşı'nın önemli noktalarından biri
-- Şehitlik, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme ev sahipliği yapıyor
 - Çevre alanlar, ilkbahar ve yaz aylarında yeşillenir
 - Şehitlik, Eceabat ilçesinin coğrafi olarak önemli bir bölgesinde yer alıyor

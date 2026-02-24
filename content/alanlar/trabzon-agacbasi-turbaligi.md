@@ -30,7 +30,7 @@ Trabzon Ağaçbaşı Turbalığı'nın tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Trabzon Ağaçbaşı Turbalığı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Turbalığı, çevresindeki dağlar ve ovalar ile birlikte, bir bütün olarak düşünüluyor. İklim, karasal iklim özellikleri gösteriyor ve bu da bölgenin flora ve faunasını etkiliyor. Trabzon Ağaçbaşı Turbalığı, 140 hektarlık alanı ile birlikte, ziyaretçilerine geniş bir alan sunuyor.
+Trabzon Ağaçbaşı Turbalığı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Turbalığı, çevresindeki dağlar ve ovalar ile birlikte, bir bütün olarak düşünüluyor. İklim, karasal iklim özellikleri gösteriyor ve bu da bölgenin flora ve faunasını etkiliyor.
 
 ## Flora ve Fauna
 
@@ -41,8 +41,6 @@ Trabzon Ağaçbaşı Turbalığı, zengin bir flora ve fauna ile dikkat çekiyor
 Trabzon Ağaçbaşı Turbalığı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu bölge, İç Anadolu Bölgesi'nde yer alıyor ve ulaşımı kolay. Ziyaretçiler, bu bölgeye kendi araçları ile veya toplu taşıma kullanarak ulaşabilirler. Trabzon Ağaçbaşı Turbalığı, yılın her döneminde ziyaret edilebilir. Ancak, mevsimsel değişimler, bu bölgenin güzelliğini etkiliyor. İlkbahar ve sonbahar, ziyaret için en uygun mevsimler.
 
 ## İlginç Bilgiler
-
-- Trabzon Ağaçbaşı Turbalığı, 140 hektarlık bir alana sahip.
 
 - Trabzon Ağaçbaşı Turbalığı, İç Anadolu Bölgesi'nde yer alıyor.
 - Bu bölge, zengin bir flora ve fauna ile dikkat çekiyor.

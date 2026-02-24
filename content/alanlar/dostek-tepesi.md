@@ -28,7 +28,7 @@ wikidata_id: "Q31549071"
 
 # Dostek Tepesi
 
-Dostek Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Dostek Tepesi, ziyaretçilerini farklı manzaralar ve doğal güzelliklerle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar. Dostek Tepesi, aynı zamanda tarihsel bir geçmişe sahip. Tarihi geçmişi, bölgenin kültürel zenginliğini gösterir.
+Dostek Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Dostek Tepesi, ziyaretçilerini farklı manzaralar ve doğal güzelliklerle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar. Dostek Tepesi, aynı zamanda tarihsel bir geçmişe sahip. Tarihi geçmişi, bölgenin kültürel zenginliğini gösterir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dostek Tepesi'nin tarihsel geçmişi, yüzyıllar boyunca şekillenmiştir. Bu t
 
 ## Coğrafya
 
-Dostek Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Tepenin coğrafi yapısı, bölgenin iklimini ve çevresini etkiler. Dostek Tepesi, çevresindeki dağların ve ovaların bir parçasıdır. Bu dağlar ve ovalar, bölgenin coğrafi çeşitliliğini gösterir. Tepenin coğrafi konumu, bölgenin ekolojik dengesini korur. Dostek Tepesi, bölgenin coğrafi yapısını şekillendiren önemli faktörlerden biridir. Tepenin yüksekliği, bölgenin hava koşullarını etkiler. Dostek Tepesi, bölgenin coğrafi çeşitliliğini gösteren önemli bir noktadır. Tepenin coğrafi yapısı, bölgenin doğa güzelliklerini korur.
+Dostek Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin coğrafi yapısı, bölgenin iklimini ve çevresini etkiler. Dostek Tepesi, çevresindeki dağların ve ovaların bir parçasıdır. Bu dağlar ve ovalar, bölgenin coğrafi çeşitliliğini gösterir. Tepenin coğrafi konumu, bölgenin ekolojik dengesini korur. Dostek Tepesi, bölgenin coğrafi yapısını şekillendiren önemli faktörlerden biridir. Tepenin yüksekliği, bölgenin hava koşullarını etkiler. Dostek Tepesi, bölgenin coğrafi çeşitliliğini gösteren önemli bir noktadır. Tepenin coğrafi yapısı, bölgenin doğa güzelliklerini korur.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Dostek Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim. Tepe
 
 ## İlginç Bilgiler
 
-- Dostek Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
 - Tepenin yüksekliği, bölgenin hava koşullarını etkiler.
 - Dostek Tepesi, farklı medeniyetlerin izlerini taşır.
 - Tepenin flora ve fauna çeşitliliği, bölgenin ekolojik yapısını şekillendiren önemli faktörlerden biridir.

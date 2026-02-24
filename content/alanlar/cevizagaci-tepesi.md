@@ -48,7 +48,6 @@ Cevizağacı Tepesi'ni ziyaret etmek, bölgeye gelenlerin yapması gereken bir �
 
 ## İlginç Bilgiler
 
-- Cevizağacı Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Cevizağacı Tepesi, bölgenin coğrafi çeşitliliğini gösterir.
 - Tepenin manzarası, bölgeyi çeviren dağların ve ovaların güzelliğini gösterir.

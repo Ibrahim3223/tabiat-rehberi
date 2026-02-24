@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Zigana.JPG","alt":"Zigana Geçidi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Limni_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_-_A%C4%9Fustos_2014_IMG_8923_hamdigumus.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Limni_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_-_A%C4%9Fustos_2014_IMG_8923_hamdigumus.jpg/1280px-Limni_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_-_A%C4%9Fustos_2014_IMG_8923_hamdigumus.jpg","alt":"Zigana Geçidi - Limni Gölü Tabiat Parkı - Ağustos 2014 IMG 8923 hamdigumus","credit":"Hamdigumus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/83/Zigana_2014.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zigana_2014.jpg/1280px-Zigana_2014.jpg","alt":"Zigana Geçidi - Zigana 2014","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Zigana_2014-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zigana_2014-1.jpg/1280px-Zigana_2014-1.jpg","alt":"Zigana Geçidi - Zigana 2014-1","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/57/Zigana_T%C3%BCneli_2014.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Zigana_T%C3%BCneli_2014.jpg/1280px-Zigana_T%C3%BCneli_2014.jpg","alt":"Zigana Geçidi - Zigana Tüneli 2014","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Lil_monadelphum_var_armenum_01Infl_Tuerkei_Ziganapass_30_06_93.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lil_monadelphum_var_armenum_01Infl_Tuerkei_Ziganapass_30_06_93.jpg/1280px-Lil_monadelphum_var_armenum_01Infl_Tuerkei_Ziganapass_30_06_93.jpg","alt":"Zigana Geçidi - Lil monadelphum var armenum 01Infl Tuerkei Ziganapass 30 06 93","credit":"Ernst Gügel","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zigana%20Ge%C3%A7idi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q4812403","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Zigana Geçidi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Zigana Geçidi","İç Anadolu Bölgesi","doğal güzellikler","gezi","turizm","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q4812403"
@@ -49,7 +49,6 @@ Zigana Geçidi, ziyaretçilere çeşitli aktivite olanakları sunar. Bölge, yü
 
 ## İlginç Bilgiler
 
-- Zigana Geçidi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Zigana Geçidi, tarihi geçmişiyle dikkat çeker
 - Bölge, aynı zamanda, çeşitli doğa yürüyüşleri ve turları için de uygun bir bölgedir

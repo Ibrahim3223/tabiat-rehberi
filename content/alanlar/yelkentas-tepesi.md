@@ -28,7 +28,7 @@ wikidata_id: "Q31388706"
 
 # Yelkentaş Tepesi
 
-Yelkentaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir tepe. Bu 200 futbol sahası büyüklüğünde bir alanı kaplayan tepe, çevre ile birlikte yaklaşık 140 hektarlık bir alanı kapsıyor. Yelkentaş Tepesi'ne tırmanırken, Ege Bölgesi'nin muhteşem manzarasını izleme fırsatı bulacaksınız. Tepenin zirvesine ulaştığınızda, size sunulan manzara, emeğinizin karşılığını verecektir.
+Yelkentaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir tepe. Yelkentaş Tepesi'ne tırmanırken, Ege Bölgesi'nin muhteşem manzarasını izleme fırsatı bulacaksınız. Tepenin zirvesine ulaştığınızda, size sunulan manzara, emeğinizin karşılığını verecektir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yelkentaş Tepesi'nin tarihsel geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Yelkentaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin coğrafi yapısı, Ege Bölgesi'nin genel coğrafi özelliklerine benzerlik gösterir. Yelkentaş Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kapsar. Tepenin yüksekliği, Ege Bölgesi'nin coğrafi yapısını oluşturan önemli bir parçadır. Yelkentaş Tepesi'nin iklimi, Akdeniz ikliminin etkisindedir. Tepenin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Yelkentaş Tepesi, Ege Bölgesi'nin doğal güzelliklerini sunan önemli bir destinasyondur. Tepenin coğrafi konumu, ziyaretçilerin Ege Bölgesi'nin diğer önemli destinasyonlarına ulaşmasını sağlar.
+Yelkentaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin coğrafi yapısı, Ege Bölgesi'nin genel coğrafi özelliklerine benzerlik gösterir. Tepenin yüksekliği, Ege Bölgesi'nin coğrafi yapısını oluşturan önemli bir parçadır. Yelkentaş Tepesi'nin iklimi, Akdeniz ikliminin etkisindedir. Tepenin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Yelkentaş Tepesi, Ege Bölgesi'nin doğal güzelliklerini sunan önemli bir destinasyondur. Tepenin coğrafi konumu, ziyaretçilerin Ege Bölgesi'nin diğer önemli destinasyonlarına ulaşmasını sağlar.
 
 ## Flora ve Fauna
 

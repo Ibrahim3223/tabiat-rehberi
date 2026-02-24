@@ -51,6 +51,6 @@ Deruni Mehmet Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal g�
 
 - Deruni Mehmet Efendi Türbesi, İstanbul'un önemli dini merkezlerinden biri olarak kabul edilir.
 - Türbenin etrafında, çeşitli tarihi ve kültürel mekanlar yer alıyor.
-- Deruni Mehmet Efendi Türbesi, 140 hektarlık bir arazi üzerinde kurulmuş.
+
 - Türbenin tarihi geçmişi, İstanbul'un fethi döneminde önemli bir role sahip olduğunu gösteriyor.
 - Deruni Mehmet Efendi Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.

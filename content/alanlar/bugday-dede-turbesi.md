@@ -37,7 +37,7 @@ Buğday Dede Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu bölgede yapı
 
 ## Coğrafya
 
-Buğday Dede Türbesi, İzmir'in Tire ilçesinde, Ege Bölgesi'nin güzelliklerini sunan bir konuma sahip. Bu bölgenin coğrafyası, yeşilin ve mavinin bir araya geldiği bir manzarayı ziyaretçilere sunuyor. 140 hektarlık alan, geniş yeşil alanlar, ağaçlar ve bitki örtüsü ile birlikte, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, bu bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak, sıcak ve güneşli yazlar ile ılıman kışlar sunuyor. Bu coğrafi konum, ziyaretçilere hem güzellikleri keşfetme hem de tarihi ve kültürel zenginlikleri deneyimleme fırsatı veriyor. Buğday Dede Türbesi ve çevresi, doğa severler, tarih meraklıları ve kültürel zenginlik arayışında olanlar için ideal bir destinasyon olarak öne çıkıyor.
+Buğday Dede Türbesi, İzmir'in Tire ilçesinde, Ege Bölgesi'nin güzelliklerini sunan bir konuma sahip. Bu bölgenin coğrafyası, yeşilin ve mavinin bir araya geldiği bir manzarayı ziyaretçilere sunuyor. Ayrıca, bu bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak, sıcak ve güneşli yazlar ile ılıman kışlar sunuyor. Bu coğrafi konum, ziyaretçilere hem güzellikleri keşfetme hem de tarihi ve kültürel zenginlikleri deneyimleme fırsatı veriyor. Buğday Dede Türbesi ve çevresi, doğa severler, tarih meraklıları ve kültürel zenginlik arayışında olanlar için ideal bir destinasyon olarak öne çıkıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Buğday Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri b
 ## İlginç Bilgiler
 
 - Buğday Dede Türbesi, Tire'nin önemli bir kültürel ve tarihi mirası
-- 140 hektarlık alan, geniş yeşil alanlar sunuyor
+
 - Ege Bölgesi'nin karakteristik Akdeniz iklimine sahip
 - Çeşitli bitki türleri ve fauna zenginliği
 - İlkbahar ve yaz ayları en iyi ziyaret dönemi

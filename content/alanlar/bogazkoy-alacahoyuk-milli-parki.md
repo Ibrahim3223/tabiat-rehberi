@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Aslanli_kapi_2.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı manzarası","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bo%C4%9Fazk%C3%B6y-Alacah%C3%B6y%C3%BCk_National_Park_-_Lions%27_Gate%2C_%C3%87orum%2C_Turkey.jpg/960px-Bo%C4%9Fazk%C3%B6y-Alacah%C3%B6y%C3%BCk_National_Park_-_Lions%27_Gate%2C_%C3%87orum%2C_Turkey.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı","caption":"Boğazköy-Alacahöyük Milli Parkı","credit":"Boğazköy-Alacahöyük National Park - Lions' Gate, Çorum, Turkey","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Lion_Gate%2C_Hattusa_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lion_Gate%2C_Hattusa_01.jpg/1280px-Lion_Gate%2C_Hattusa_01.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı - Lion Gate, Hattusa 01","credit":"Bernard Gagnon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/89/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%283%29.jpg/1280px-Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%283%29.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı - Boğazköy-alacahöyük (3)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%285%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%285%29.jpg/1280px-Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%285%29.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı - Boğazköy-alacahöyük (5)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/28/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%287%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%287%29.jpg/1280px-Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%287%29.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı - Boğazköy-alacahöyük (7)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%2810%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%2810%29.jpg/1280px-Bo%C4%9Fazk%C3%B6y-alacah%C3%B6y%C3%BCk_%2810%29.jpg","alt":"Boğazköy-Alacahöyük Milli Parkı - Boğazköy-alacahöyük (10)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Fazk%C3%B6y-Alacah%C3%B6y%C3%BCk%20Milli%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Tarihi ve doğal güzellikleri ile dikkat çeken Boğazköy-Alacahöyük Milli Parkı, Karadeniz Bölgesi'nde ziyaretçilerini bekliyor."
@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Boğazköy-Alacahöyük Milli Parkı
 
-Boğazköy-Alacahöyük Milli Parkı, Çorum'un Boğazkale ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir milli parktır. Bu park, yaklaşık 140 hektarlık alanı ile ziyaretçilerine geniş bir yeşil alan sunuyor. Parkın içinde yer alan tarihi kalıntılar ve çevresindeki doğal güzellikler, ziyaretçilerin ilgisini çekmeyi başarıyor. Boğazköy-Alacahöyük Milli Parkı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Boğazköy-Alacahöyük Milli Parkı, Çorum'un Boğazkale ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir milli parktır. Parkın içinde yer alan tarihi kalıntılar ve çevresindeki doğal güzellikler, ziyaretçilerin ilgisini çekmeyi başarıyor. Boğazköy-Alacahöyük Milli Parkı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Boğazköy-Alacahöyük Milli Parkı, ziyaretçilerine çeşitli etkinlikler iç
 
 - Boğazköy-Alacahöyük Milli Parkı, Hititlere kadar uzanan bir tarihi geçmişe sahip.
 - Parkın içinde, çeşitli tarihi kalıntılar bulunuyor.
-- Park, 140 hektarlık bir alanı kapsıyor.
+
 - Parkın flora ve fauna yapısı, zengin ve çeşitli.
 - Parka, özel araçlar ile veya toplu taşıma araçları ile ulaşımümkün.

@@ -30,7 +30,7 @@ Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, tarihi geçmişi ile dikk
 
 ## Coğrafya
 
-Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, coğrafi konumu itibariyle dikkat çekiyor. Bu doğal alan, İç Anadolu Bölgesi'nde yer alıyor ve çevresinde birçok önemli dağ ve tepe bulunuyor. Bu milli park, 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine doğal güzellikleriyle dolu bir ortam sunuyor. Coğrafi olarak, bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu doğal alan içinde yer alan yürüyüş parkurlarını kullanarak, çevreyi keşfedebilir ve doğal güzelliklerini yakından görebilir. Ayrıca, bu milli park, çevresindeki dağlarda ve tepelerde yapılan trekking ve doğa yürüyüşü gibi aktiviteler için de uygun bir ortam sunuyor.
+Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, coğrafi konumu itibariyle dikkat çekiyor. Bu doğal alan, İç Anadolu Bölgesi'nde yer alıyor ve çevresinde birçok önemli dağ ve tepe bulunuyor. Coğrafi olarak, bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu doğal alan içinde yer alan yürüyüş parkurlarını kullanarak, çevreyi keşfedebilir ve doğal güzelliklerini yakından görebilir. Ayrıca, bu milli park, çevresindeki dağlarda ve tepelerde yapılan trekking ve doğa yürüyüşü gibi aktiviteler için de uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkını ziyaret etmek, doğa se
 
 ## İlginç Bilgiler
 
-- Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, bu doğal alan içinde yer alan yürüyüş parkurlarını kullanarak, çevreyi keşfedebilir ve doğal güzelliklerini yakından görebilir.
 - Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, tarihi geçmişi ile dikkat çekiyor.

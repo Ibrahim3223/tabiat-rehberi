@@ -28,7 +28,7 @@ wikidata_id: "Q31390716"
 
 # Kucak Tepesi
 
-Kucak Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde bulunmakta ve yaklaşık 140 hektarlık bir alanı kaplamaktadır. Tepenin eteklerinde birbirinden güzel bitkiler ve ağaçlar bulunmakta, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlamaktadır. Kucak Tepesi, aynı zamanda manzarasıyla da dikkat çekmekte ve ziyaretçilerine Yozgat'ın eşsiz güzelliklerini göstermektedir. Burada, güzel bir gün geçirme ve doğanın güzelliğini keşfetme mümkündür.
+ Tepenin eteklerinde birbirinden güzel bitkiler ve ağaçlar bulunmakta, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlamaktadır. Kucak Tepesi, aynı zamanda manzarasıyla da dikkat çekmekte ve ziyaretçilerine Yozgat'ın eşsiz güzelliklerini göstermektedir. Burada, güzel bir gün geçirme ve doğanın güzelliğini keşfetme mümkündür.
 
 ## Tarihçe
 

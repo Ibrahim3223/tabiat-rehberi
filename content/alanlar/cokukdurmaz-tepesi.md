@@ -48,7 +48,6 @@ Kırşehir'in kalbinde yer alan Çökükdurmaz Tepesi, şehrin doğal güzellikl
 
 ## İlginç Bilgiler
 
-- Çökükdurmaz Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, Kırşehir'in merkezine yakın bir konumda bulunuyor.
 - Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor.
 - Çökükdurmaz Tepesi, aynı zamanda çeşitli yaban hayvanlarının da yaşam alanı olarak kullanılıyor.

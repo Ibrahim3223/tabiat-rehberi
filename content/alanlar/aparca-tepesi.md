@@ -48,7 +48,6 @@ Aparca Tepesi'ni ziyaret etmek, ziyaretçiler için benzersiz bir deneyim sunuyo
 
 ## İlginç Bilgiler
 
-- Aparca Tepesi, 140 hektarlık bir alana sahiptir.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Aparca Tepesi, aynı zamanda önemli bir ticaret merkezi olarak da kullanılmış.
 - Bu bölge, zengin flora ve fauna ile doğa severlerin ilgisini çekiyor.

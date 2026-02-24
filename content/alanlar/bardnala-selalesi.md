@@ -43,7 +43,7 @@ Bardnala Şelalesi'ni ziyaret etmek, yıl boyunca mümkündür. Ancak, en iyi zi
 ## İlginç Bilgiler
 
 - Bardnala Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir.
-- Şelale, 140 hektarlık bir yeşil alana sahiptir.
+
 - Bardnala Şelalesi, yıl boyunca ziyaretçilerini ağırlar.
 - Şelale çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Bardnala Şelalesi, trekking ve doğa yürüyüşü için ideal bir yerdir.

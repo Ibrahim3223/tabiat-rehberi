@@ -29,7 +29,7 @@ wikidata_id: "Q132134436"
 
 # Ahi Musa Mescidi ve Türbesi
 
-Ahi Musa Mescidi ve Türbesi, Elazığ'ın merkezinde yer alan tarihi ve dini bir kompleks. Bu kompleks, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve şehrin önemli turisti ve dini merkezlerinden biri. Ahi Musa Mescidi ve Türbesi, mimarisi ve tarihi önemiyle dikkat çekiyor. Mescidin ve türbenin etrafında çeşitli dini ve kültürel etkinlikler düzenleniyor. Ahi Musa Mescidi ve Türbesi, Elazığ'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir merkez.
+Ahi Musa Mescidi ve Türbesi, Elazığ'ın merkezinde yer alan tarihi ve dini bir kompleks. Ahi Musa Mescidi ve Türbesi, mimarisi ve tarihi önemiyle dikkat çekiyor. Mescidin ve türbenin etrafında çeşitli dini ve kültürel etkinlikler düzenleniyor. Ahi Musa Mescidi ve Türbesi, Elazığ'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir merkez.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi Musa Mescidi ve Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Ahi Musa Mescidi ve Türbesi, Elazığ'ın merkezinde yer alıyor. Bu kompleks, şehrin önemli ulaşım hatlarına yakın bir konumda bulunuyor. Mescid ve türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli dini ve kültürel yapılar yer alıyor. Ahi Musa Mescidi ve Türbesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri nedeniyle, karasal iklimin etkilerini gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu bölgede, mescid ve türbe, ziyaretçilerini dört mevsim ağırlıyor. Ahi Musa Mescidi ve Türbesi'nin çevresi, yeşillik alanları ve su kaynakları ile zengin bir coğrafi yapıya sahip.
+Ahi Musa Mescidi ve Türbesi, Elazığ'ın merkezinde yer alıyor. Bu kompleks, şehrin önemli ulaşım hatlarına yakın bir konumda bulunuyor. Ahi Musa Mescidi ve Türbesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri nedeniyle, karasal iklimin etkilerini gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu bölgede, mescid ve türbe, ziyaretçilerini dört mevsim ağırlıyor. Ahi Musa Mescidi ve Türbesi'nin çevresi, yeşillik alanları ve su kaynakları ile zengin bir coğrafi yapıya sahip.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ahi Musa Mescidi ve Türbesi'ni ziyaret etmek, Elazığ'ın tarihi ve kültürel
 ## İlginç Bilgiler
 
 - Ahi Musa Mescidi ve Türbesi, Elazığ'ın en önemli dini ve turistik merkezlerinden biri.
-- Bu kompleks, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Ahi Musa Mescidi ve Türbesi, mimarisi ve tarihi önemiyle dikkat çekiyor.
 - Mescid ve türbe, zaman içinde çeşitli restorasyonlar ve eklemelerle günümüzdeki halini almış.
 - Ahi Musa Mescidi ve Türbesi, Elazığ'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir merkez.

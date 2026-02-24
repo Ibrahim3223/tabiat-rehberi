@@ -28,7 +28,7 @@ wikidata_id: "Q32210384"
 
 # Gerze Köşk Hüyüğü
 
-Gerze Köşk Hüyüğü, Sinop ilinin Gerze ilçesinde yer alan ve tarihin derinliklerine uzanan bir höyüktür. Bu höyük, yaklaşık 140 hektarlık bir alanı kaplar ve Sinop'un tarihi ve kültürel zenginliğinin önemli bir parçasını oluşturur. Gerze Köşk Hüyüğü, Karadeniz Bölgesi'nin coğrafi güzelliklerinin yanı sıra, tarihi değerleri ile de ziyaretçilerini bekliyor. Höyüğün etrafında yer alan yeşillikler ve doğal güzellikler, ziyaretçilere doğayla iç içe bir ortam sunuyor.
+Gerze Köşk Hüyüğü, Sinop ilinin Gerze ilçesinde yer alan ve tarihin derinliklerine uzanan bir höyüktür. Gerze Köşk Hüyüğü, Karadeniz Bölgesi'nin coğrafi güzelliklerinin yanı sıra, tarihi değerleri ile de ziyaretçilerini bekliyor. Höyüğün etrafında yer alan yeşillikler ve doğal güzellikler, ziyaretçilere doğayla iç içe bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gerze Köşk Hüyüğü, tarihi geçmişi ile dikkat çekiyor. Höyüğün tarih
 
 ## Coğrafya
 
-Gerze Köşk Hüyüğü, Sinop ilinin Gerze ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede bulunuyor. Höyüğün etrafında, yeşillikler ve doğal güzellikler ile dolu bir manzara ziyaretçileri karşılıyor. Bölge, Karadeniz ikliminin Characteristicsini taşıyor ve bu nedenle, höyüğe yapılacak ziyaretler için en uygun zaman, genellikle bahar ve yaz ayları oluyor. Höyüğün coğrafi konumu, Sinop ilinin tarihi ve kültürel zenginliğinin yanı sıra, doğal güzelliklerini de keşfetmek isteyenler için ideal bir destinasyon oluşturuyor. Gerze Köşk Hüyüğü, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan, ziyaretçilere doğa yürüyüşleri ve keşifler için geniş imkanlar sunuyor.
+Gerze Köşk Hüyüğü, Sinop ilinin Gerze ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede bulunuyor. Höyüğün etrafında, yeşillikler ve doğal güzellikler ile dolu bir manzara ziyaretçileri karşılıyor. Bölge, Karadeniz ikliminin Characteristicsini taşıyor ve bu nedenle, höyüğe yapılacak ziyaretler için en uygun zaman, genellikle bahar ve yaz ayları oluyor. Höyüğün coğrafi konumu, Sinop ilinin tarihi ve kültürel zenginliğinin yanı sıra, doğal güzelliklerini de keşfetmek isteyenler için ideal bir destinasyon oluşturuyor.
 
 ## Flora ve Fauna
 

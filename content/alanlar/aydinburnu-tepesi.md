@@ -28,7 +28,7 @@ wikidata_id: "Q31537279"
 
 # Aydınburnu Tepesi
 
-Aydınburnu Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir alan olarak dikkat çekiyor. Aydınburnu Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Ayrıca, bu bölgede zengin fauna da dikkat çeker. Aydınburnu Tepesi, ziyaretçilerine hem gezi hem de doğa yürüyüşü imkanı sunar.
+Aydınburnu Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep şehrinde yer alan bir tepe. Aydınburnu Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Ayrıca, bu bölgede zengin fauna da dikkat çeker. Aydınburnu Tepesi, ziyaretçilerine hem gezi hem de doğa yürüyüşü imkanı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aydınburnu Tepesi'nin tarihi geçmişi, Gaziantep şehrinin tarihinde önemli b
 
 ## Coğrafya
 
-Aydınburnu Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep şehrinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir alandır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar. Aydınburnu Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Ayrıca, bu bölgede zengin fauna da dikkat çeker. Aydınburnu Tepesi, ziyaretçilerine hem gezi hem de doğa yürüyüşü imkanı sunar. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak yazları sıcak ve kuru, kışları soğuk ve yağışlıdır.
+Aydınburnu Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep şehrinde yer alır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar. Aydınburnu Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Ayrıca, bu bölgede zengin fauna da dikkat çeker. Aydınburnu Tepesi, ziyaretçilerine hem gezi hem de doğa yürüyüşü imkanı sunar. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak yazları sıcak ve kuru, kışları soğuk ve yağışlıdır.
 
 ## Flora ve Fauna
 

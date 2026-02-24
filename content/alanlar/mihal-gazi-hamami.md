@@ -37,7 +37,7 @@ Mihal Gazi Hamamı'nın tarihi geçmişi, bölgenin zengin kültürel mirasını
 
 ## Coğrafya
 
-Mihal Gazi Hamamı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Gölpazarı ilçesinin merkezine yakın bir konumda yer alan bu doğal alan, 140 hektarlık geniş bir alanı kapsar. Bu bölgenin coğrafi özellikleri, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Mihal Gazi Hamamı, bölgenin ikliminin de etkisiyle, mevsimsel değişimlere göre farklı güzellikler sunar. Bahar aylarında yeşeren bitkiler, yaz aylarında serin bir atmosfer, sonbahar aylarında renkli bir manzara ve kış aylarında karla kaplı bir peyzaj, her mevsim ziyaretçilere farklı bir deneyim sunar. Coğrafi konumu ve doğal güzelliği ile Mihal Gazi Hamamı, bir doğa cenneti olarak dikkat çekmektedir.
+Mihal Gazi Hamamı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölgenin coğrafi özellikleri, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Mihal Gazi Hamamı, bölgenin ikliminin de etkisiyle, mevsimsel değişimlere göre farklı güzellikler sunar. Bahar aylarında yeşeren bitkiler, yaz aylarında serin bir atmosfer, sonbahar aylarında renkli bir manzara ve kış aylarında karla kaplı bir peyzaj, her mevsim ziyaretçilere farklı bir deneyim sunar. Coğrafi konumu ve doğal güzelliği ile Mihal Gazi Hamamı, bir doğa cenneti olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mihal Gazi Hamamı'na ziyaretçiler, yılın her döneminde gidebilir. Bahar ve 
 ## İlginç Bilgiler
 
 - Mihal Gazi Hamamı, Gölpazarı'nın en önemli turizm noktalarından biridir.
-- Bölge, 140 hektarlık bir alanı kapsar.
+
 - Mihal Gazi Hamamı, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Bölge, Osmanlı İmparatorluğu döneminde önemli bir merkez olarak kullanılmıştır.
 - Mihal Gazi Hamamı, mevsimsel değişimlere göre farklı güzellikler sunar.

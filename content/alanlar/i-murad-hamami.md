@@ -53,5 +53,5 @@ I. Murad Hamamı ve plaj alanını ziyaret etmek, İznik'in tarihi ve doğal gü
 - I. Murad Hamamı, İznik'in en önemli turistik noktalarından biridir.
 - Hamam, I. Murad tarafından yaptırılmıştır.
 - I. Murad Hamamı ve plaj alanı, İznik Gölü'nün kıyısında yer almaktadır.
-- Hamam ve plaj alanı, 140 hektarlık bir yeşil alana sahiptir.
+
 - İznik Gölü, Marmara Bölgesi'nin en önemli gölleri arasında yer almaktadır.

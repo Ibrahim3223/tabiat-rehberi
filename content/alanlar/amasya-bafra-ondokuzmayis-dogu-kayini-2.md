@@ -30,7 +30,7 @@ Amasya-Bafra-Ondokuzmayis Dogu Kayini 2 milli parkının tarihi geçmişi, Karad
 
 ## Coğrafya
 
-Amasya-Bafra-Ondokuzmayis Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölge, Karadeniz kıyılarına yakın bir konumda yer alır ve coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Milli parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamını destekler. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve bu, flora ve faunanın çeşitliliğini artırır. 140 hektarlık alan, bölgenin coğrafi özelliklerini koruma altına alırken, aynı zamanda ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Milli parkın coğrafi konumu, bölgenin turizm potansiyelini artırırken, aynı zamanda ekolojik dengenin korunmasına da katkıda bulunur. Coğrafi olarak zengin bir bölgede yer alan Amasya-Bafra-Ondokuzmayis Dogu Kayini 2, ziyaretçilerine çeşitli doğa güzelliklerini sunma imkanını sağlar.
+Amasya-Bafra-Ondokuzmayis Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölge, Karadeniz kıyılarına yakın bir konumda yer alır ve coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Milli parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamını destekler. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve bu, flora ve faunanın çeşitliliğini artırır. Milli parkın coğrafi konumu, bölgenin turizm potansiyelini artırırken, aynı zamanda ekolojik dengenin korunmasına da katkıda bulunur. Coğrafi olarak zengin bir bölgede yer alan Amasya-Bafra-Ondokuzmayis Dogu Kayini 2, ziyaretçilerine çeşitli doğa güzelliklerini sunma imkanını sağlar.
 
 ## Flora ve Fauna
 
@@ -44,5 +44,5 @@ Amasya-Bafra-Ondokuzmayis Dogu Kayini 2 milli parkını ziyaret etmek, doğa sev
 
 - Milli parkın kuruluşu, bölgeye verilen önem ve doğal kaynakların korunmasına yönelik çabalara örnek teşkil eder.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu süreç içerisinde önemli bir kültürel miras birikmiştir.
-- Milli park, 140 hektarlık bir alana sahiptir.
+
 - Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır.

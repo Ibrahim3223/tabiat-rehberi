@@ -36,7 +36,7 @@ Sirgen Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkları
 
 ## Coğrafya
 
-Sirgen Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgeye özgü coğrafi özelliklere sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, Akdeniz ikliminin etkisinde kalır ve bu nedenle, tepe üzerinde genellikle sıcak ve kurak bir iklim hüküm sürer. Sirgen Tepesi, aynı zamanda bölgenin coğrafi yapısı ile de bilinir. Tepe, bölgede yer alan diğer tepeler ve dağlar ile birlikte, bir bütün olarak düşünülür. Sirgen Tepesi'nin coğrafi konumu, bölgede yer alan diğer doğal güzelliklere de yakınlığı ile dikkat çeker. Tepe, bölgenin panoramik manzarasını izlemek için ideal bir noktadır.
+Sirgen Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgeye özgü coğrafi özelliklere sahiptir. Bölge, Akdeniz ikliminin etkisinde kalır ve bu nedenle, tepe üzerinde genellikle sıcak ve kurak bir iklim hüküm sürer. Sirgen Tepesi, aynı zamanda bölgenin coğrafi yapısı ile de bilinir. Tepe, bölgede yer alan diğer tepeler ve dağlar ile birlikte, bir bütün olarak düşünülür. Sirgen Tepesi'nin coğrafi konumu, bölgede yer alan diğer doğal güzelliklere de yakınlığı ile dikkat çeker. Tepe, bölgenin panoramik manzarasını izlemek için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Sirgen Tepesi'ni ziyaret etmek, bölgeyi keşfetme ve doğa ile iç içe olmak i
 ## İlginç Bilgiler
 
 - Sirgen Tepesi, bölgede yer alan en yüksek tepelerden biridir
-- Tepe, yaklaşık 140 hektarlık bir alanı kapsar
+
 - Sirgen Tepesi, Akdeniz Bölgesi'nin panoramik manzarasını izlemek için ideal bir noktadır
 - Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır
 - Sirgen Tepesi, bölgenin ekolojik dengesini korumak için önemlidir

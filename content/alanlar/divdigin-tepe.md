@@ -29,7 +29,7 @@ wikidata_id: "Q31387185"
 
 # Divdiğin Tepe
 
-Divdiğin Tepe, İç Anadolu Bölgesi'nin merkezinde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanı kapsıyor. Tepe, bölgenin coğrafi yapısını oluşturan ana unsurlardan biri olarak, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Ziyaretçiler, tepeyi keşfetmek için çeşitli yürüyüş parkurlarını kullanabiliyor ve bölgenin güzelliğini keşfedebiliyor.
+ Tepe, bölgenin coğrafi yapısını oluşturan ana unsurlardan biri olarak, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Ziyaretçiler, tepeyi keşfetmek için çeşitli yürüyüş parkurlarını kullanabiliyor ve bölgenin güzelliğini keşfedebiliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Divdiğin Tepe, tarihi geçmişiyle dikkat çekiyor. Tepe, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Divdiğin Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan ana unsurlardan biri olarak, yaklaşık 140 hektarlık alanı kapsıyor. Tepe, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve hayvanları barındırıyor. Ziyaretçiler, tepeyi keşfetmek için çeşitli yürüyüş parkurlarını kullanabiliyor ve bölgenin güzelliğini keşfedebiliyor. Tepe, bölgenin coğrafi yapısını oluşturan ana unsurlardan biri olarak, flora ve fauna açısından zengin bir çeşitlilik sunuyor.
+ Tepe, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve hayvanları barındırıyor. Ziyaretçiler, tepeyi keşfetmek için çeşitli yürüyüş parkurlarını kullanabiliyor ve bölgenin güzelliğini keşfedebiliyor. Tepe, bölgenin coğrafi yapısını oluşturan ana unsurlardan biri olarak, flora ve fauna açısından zengin bir çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Divdiğin Tepe, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Tep
 Divdiğin Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile karşılıyor. Tepe, bölgenin coğrafi yapısını oluşturan ana unsurlardan biri olarak, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Ziyaretçiler, tepeyi keşfetmek için çeşitli yürüyüş parkurlarını kullanabiliyor ve bölgenin güzelliğini keşfedebiliyor. Tepe, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve hayvanları barındırıyor.
 
 ## İlginç Bilgiler
-
-- Divdiğin Tepe, yaklaşık 140 hektarlık alanı kapsıyor.
 
 - Bölge, flora ve fauna açısından zengin bir çeşitlilik sunuyor.
 - Tepe, bölgenin coğrafi yapısını oluşturan ana unsurlardan biri olarak, doğal güzelliği ile dikkat çekiyor.

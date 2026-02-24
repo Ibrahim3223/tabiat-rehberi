@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-5 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e9/%28R._M._S._%22Pembroke_Castle%22%29_%28LOC%29_%2816615442940%29.jpg","alt":"Bafra Burnu manzarası","credit":"The Library of Congress","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%28R._M._S._%22Pembroke_Castle%22%29_%28LOC%29_%2816615442940%29.jpg/960px-%28R._M._S._%22Pembroke_Castle%22%29_%28LOC%29_%2816615442940%29.jpg","alt":"Bafra Burnu","caption":"Bafra Burnu","credit":"(R. M. S. \"Pembroke Castle\") (LOC) (16615442940)","license":"No restrictions"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bafra%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34802387","tip":"genel"}]
 description: "Samsun'da yer alan Bafra Burnu, 1200 hektarlık bir alan üzerinde kurulu, çeşitli kuş türlerine ev sahipliği yapan önemli bir kuş cenneti"

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Gözlek Tepesi","caption":"Gözlek Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zlek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138684","tip":"genel"}]
-description: "Hatay'da yer alan Gözlek Tepesi, 140 hektarlık geniş arazisiyle yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar."
+"
 keywords: ["Gözlek Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32138684"
@@ -48,7 +48,6 @@ Gözlek Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu tepe,
 
 ## İlginç Bilgiler
 
-- Gözlek Tepesi 140 hektarlık bir alana sahiptir.
 - Bu tepe, Akdeniz Bölgesi'nde yer alıyor.
 - Gözlek Tepesi, coğrafi olarak önemli bir konumda yer alıyor.
 - Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.

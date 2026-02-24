@@ -28,7 +28,7 @@ wikidata_id: "Q31558016"
 
 # Kayalıboz Tepesi
 
-Kayalıboz Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. İç Anadolu Bölgesi'nin coğrafyasında önemli bir yere sahip olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Kayalıboz Tepesi, doğal güzellikleri ve coğrafi özellikleri ile dikkat çekiyor.
+Kayalıboz Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Kayalıboz Tepesi, doğal güzellikleri ve coğrafi özellikleri ile dikkat çekiyor.
 
 ## Tarihçe
 

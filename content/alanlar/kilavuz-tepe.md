@@ -28,7 +28,7 @@ wikidata_id: "Q31386668"
 
 # Kılavuz Tepe
 
-Kılavuz Tepe, Diyarbakır'ın kalbinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan, ziyaretçilerini büyüleyen bir doğa harikası. Kılavuz Tepe, aynı zamanda şehrin tarihi geçmişini yansıtan önemli bir nokta. Diyarbakır'ın zengin kültürel mirasını keşfetmek isteyenler için Kılavuz Tepe, önemli bir durak noktası.
+ Kılavuz Tepe, aynı zamanda şehrin tarihi geçmişini yansıtan önemli bir nokta. Diyarbakır'ın zengin kültürel mirasını keşfetmek isteyenler için Kılavuz Tepe, önemli bir durak noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kılavuz Tepe'nin tarihi geçmişi, Diyarbakır'ın tarihine paralel olarak şek
 
 ## Coğrafya
 
-Kılavuz Tepe, coğrafi olarak Diyarbakır'ın merkezinde yer alıyor. Bu tepe, şehrin doğal güzelliklerini ve tarihi yapısını bir araya getiren önemli bir nokta. Çevresinde yer alan doğal güzellikler, ziyaretçilere şehrin zengin doğasını keşfetme fırsatı sunuyor. Kılavuz Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve şehrin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, şehrin merkezine yakın olmasına rağmen, ziyaretçilerine şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
+Kılavuz Tepe, coğrafi olarak Diyarbakır'ın merkezinde yer alıyor. Bu tepe, şehrin doğal güzelliklerini ve tarihi yapısını bir araya getiren önemli bir nokta. Çevresinde yer alan doğal güzellikler, ziyaretçilere şehrin zengin doğasını keşfetme fırsatı sunuyor. Bu tepe, şehrin merkezine yakın olmasına rağmen, ziyaretçilerine şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kılavuz Tepe, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Bu tepe,
 ## İlginç Bilgiler
 
 - Kılavuz Tepe, Diyarbakır'ın en önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Kılavuz Tepe, Diyarbakır'ın tarihi geçmişini yansıtan önemli bir nokta.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Kılavuz Tepe, ziyaretçilerine Diyarbakır'ın panaromik manzarası sunuyor.

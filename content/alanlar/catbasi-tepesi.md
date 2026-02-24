@@ -28,7 +28,7 @@ wikidata_id: "Q34828631"
 
 # Çatbaşı Tepesi
 
-Erzurum'un önemli doğa güzelliklerinden biri olan Çatbaşı Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici manzaralarıyla karşılar. Çatbaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunar. Ziyaretçiler, bu tepeye çıkarak hem bölgenin doğal güzelliklerini keşfedebilir hem de tarihsel geçmişini öğrenme fırsatı bulabilir.
+ Çatbaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunar. Ziyaretçiler, bu tepeye çıkarak hem bölgenin doğal güzelliklerini keşfedebilir hem de tarihsel geçmişini öğrenme fırsatı bulabilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Erzurum'un önemli doğa güzelliklerinden biri olan Çatbaşı Tepesi, yaklaş�
 
 ## Coğrafya
 
-Çatbaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, Erzurum'un coğrafi özellikleri hakkında bilgiler sunar ve ziyaretçilerini bölgenin doğal güzellikleriyle karşılar. Çatbaşı Tepesi, yaklaşık 140 hektarlık alanı ile dikkat çeker ve doğa severler için ideal bir gezi noktasıdır. Bu tepe, bölgenin iklimini, bitki örtüsünü ve coğrafi yapısını anlamak için önemli bir noktadır. Ziyaretçiler, bu tepeye çıkarak bölgenin coğrafi özelliklerini öğrenme fırsatı bulabilir ve aynı zamanda doğal güzelliklerini keşfedebilir. Çatbaşı Tepesi, coğrafi açıdan önemli bir nokta olarak dikkat çeker ve ziyaretçilerini bekliyor. Bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölgenin coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir gezi deneyimi yaşamasını sağlar.
+Çatbaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, Erzurum'un coğrafi özellikleri hakkında bilgiler sunar ve ziyaretçilerini bölgenin doğal güzellikleriyle karşılar. Bu tepe, bölgenin iklimini, bitki örtüsünü ve coğrafi yapısını anlamak için önemli bir noktadır. Ziyaretçiler, bu tepeye çıkarak bölgenin coğrafi özelliklerini öğrenme fırsatı bulabilir ve aynı zamanda doğal güzelliklerini keşfedebilir. Çatbaşı Tepesi, coğrafi açıdan önemli bir nokta olarak dikkat çeker ve ziyaretçilerini bekliyor. Bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölgenin coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir gezi deneyimi yaşamasını sağlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Erzurum'un önemli doğa güzelliklerinden biri olan Çatbaşı Tepesi, yaklaş�
 ## İlginç Bilgiler
 
 - Çatbaşı Tepesi, Erzurum'un önemli doğa güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık alanı ile dikkat çeker.
+
 - Çatbaşı Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir.
 - Bu tepe, doğa severler için ideal bir gezi noktasıdır.
 - Çatbaşı Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunar.

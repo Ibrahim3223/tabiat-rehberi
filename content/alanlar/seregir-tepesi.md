@@ -48,8 +48,6 @@ Seregir Tepesi, ziyaretçilerine güzel bir gezi deneyimi sunar. Bu tepe, ulaş�
 
 ## İlginç Bilgiler
 
-- Seregir Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
-
 - Seregir Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
 - Bu tepe, bölgede yaşayan halkın da önemli bir parçası olmuş ve onların yaşantısını etkilemiştir.
 - Seregir Tepesi, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosisteme sahiptir.

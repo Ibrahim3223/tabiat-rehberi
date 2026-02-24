@@ -22,7 +22,7 @@ wikidata_id: "Q108227589"
 
 # Giresun-Sebinkarahisar Dogu Karadeniz Goknari 1
 
-Giresun'un doğusunda yer alan Giresun-Sebinkarahisar Dogu Karadeniz Goknari 1 milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Milli parkın çevresinde, çeşitli ağaç türleri ve bitkiler yer alıyor. Bu alanda, doğa yürüyüşleri yapma ve çevreyi keşfetme mümkün. Ayrıca, bu bölgede, yaban hayatı da oldukça zengin. Burada, çeşitli hayvan türleri ve kuş türleri görülebiliyor.
+ Milli parkın çevresinde, çeşitli ağaç türleri ve bitkiler yer alıyor. Bu alanda, doğa yürüyüşleri yapma ve çevreyi keşfetme mümkün. Ayrıca, bu bölgede, yaban hayatı da oldukça zengin. Burada, çeşitli hayvan türleri ve kuş türleri görülebiliyor.
 
 ## Tarihçe
 

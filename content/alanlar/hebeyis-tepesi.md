@@ -28,7 +28,7 @@ wikidata_id: "Q31549554"
 
 # Hebeyis Tepesi
 
-Hebeyis Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir yapıya sahiptir. Hepsi bir arada, hem doğayı hem de tarihi keşfetmek isteyenler için ideal bir destinasyon olan Hebeyis Tepesi, ziyaretçilerini bekliyor.
+ Tepenin eteklerinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir yapıya sahiptir. Hepsi bir arada, hem doğayı hem de tarihi keşfetmek isteyenler için ideal bir destinasyon olan Hebeyis Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hebeyis Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Hebeyis Tepesi, Siirt ilinin coğrafi yapısı içinde önemli bir yere sahiptir. Tepenin konumu, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve fauna ile doldurulur. Tepenin eteklerinde akan nehirler ve dereler, bölgenin su kaynaklarını oluşturur ve burada yaşayan canlılar için yaşam alanı sağlar. İklim olarak, bölgenin genel iklimi ile benzerlik gösterir ve mevsimsel değişimler, tepe ve çevresinde yaşayan canlıları etkiler. Coğrafi konumu itibariyle, Hebeyis Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi ile birlikte sunar. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi yapısını gözler önüne serer.
+Hebeyis Tepesi, Siirt ilinin coğrafi yapısı içinde önemli bir yere sahiptir. Tepenin eteklerinde akan nehirler ve dereler, bölgenin su kaynaklarını oluşturur ve burada yaşayan canlılar için yaşam alanı sağlar. İklim olarak, bölgenin genel iklimi ile benzerlik gösterir ve mevsimsel değişimler, tepe ve çevresinde yaşayan canlıları etkiler. Coğrafi konumu itibariyle, Hebeyis Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi ile birlikte sunar. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi yapısını gözler önüne serer.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Hebeyis Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi önemi i
 
 ## İlginç Bilgiler
 
-- Hebeyis Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde çeşitli bitki türleri bulunur.
 - Fauna açısından da zengin bir yapıya sahiptir.
 - Tepenin üzerinde ve çevresinde tarihi kalıntılar bulunur.

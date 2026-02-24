@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa keşfi","yaban hayatı gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Alacaasma Kayalığı Sit Alanı","caption":"Alacaasma Kayalığı Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alacaasma%20Kayal%C4%B1%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226116","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Alacaasma Kayalığı Sit Alanı, 140 hektarlık yeşil alanıyla doğa severleri bekliyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Alacaasma Kayalığı","Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226116"
@@ -30,7 +30,7 @@ Alacaasma Kayalığı Sit Alanı, tarihi geçmişiyle dikkat çekiyor. Bu bölge
 
 ## Coğrafya
 
-Alacaasma Kayalığı Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. Alacaasma Kayalığı Sit Alanı, 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve yaban hayatı açısından zengin bir ekosisteme sahip. Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunuyor. Alacaasma Kayalığı Sit Alanı, coğrafi olarak dağlık bir bölge ve bu bölge, ziyaretçilerine doğal güzelliği ile baş başa bırakmak için tasarlandı. Bu bölgede, ziyaretçiler yürüyüş yapabilir, doğayı keşfedebilir ve yaban hayatını gözlemleyebilir. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı ve bu amaçla koruma altına alındı. Alacaasma Kayalığı Sit Alanı, coğrafi olarak önemli bir bölge ve bu bölge, ziyaretçilerine doğal güzelliği ile baş başa bırakmak için tasarlandı.
+Alacaasma Kayalığı Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunuyor. Alacaasma Kayalığı Sit Alanı, coğrafi olarak dağlık bir bölge ve bu bölge, ziyaretçilerine doğal güzelliği ile baş başa bırakmak için tasarlandı. Bu bölgede, ziyaretçiler yürüyüş yapabilir, doğayı keşfedebilir ve yaban hayatını gözlemleyebilir. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı ve bu amaçla koruma altına alındı. Alacaasma Kayalığı Sit Alanı, coğrafi olarak önemli bir bölge ve bu bölge, ziyaretçilerine doğal güzelliği ile baş başa bırakmak için tasarlandı.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Alacaasma Kayalığı Sit Alanı, çeşitli bitki türleri ve yaban hayatı aç�
 
 ## İlginç Bilgiler
 
-- Alacaasma Kayalığı Sit Alanı, 140 hektarlık bir alanı kapsıyor
 - Bu bölge, çeşitli bitki türleri ve yaban hayatı açısından zengin bir ekosisteme sahip
 - Alacaasma Kayalığı Sit Alanı, coğrafi olarak dağlık bir bölge
 - Bu bölge, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak için tasarlandı

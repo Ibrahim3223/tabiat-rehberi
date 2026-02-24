@@ -48,8 +48,6 @@ Tiftiktarlası Tepesi, ziyaretçilerini bekliyor. Bu bölge, birçok doğal güz
 
 ## İlginç Bilgiler
 
-- Tiftiktarlası Tepesi, 140 hektarlık bir alana sahiptir.
-
 - Tiftiktarlası Tepesi, birçok bitki türüne ve canlıya ev sahipliği yapar.
 - Tiftiktarlası Tepesi, birçok doğal güzelliğe de ev sahipliği yapar.
 - Tiftiktarlası Tepesi, tarihi geçmişi ile de dikkat çeker.

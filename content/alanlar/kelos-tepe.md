@@ -48,8 +48,6 @@ Keloş Tepe, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor. Bu tepe, Hat
 
 ## İlginç Bilgiler
 
-- Keloş Tepe, 140 hektarlık bir alanı kaplıyor.
-
 - Keloş Tepe, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor.
 - Bu tepe, Hatay ilinin önemli bir bölümünü oluşturan Akdeniz Bölgesi'nin coğrafi yapısını da yansıtıyor.
 - Keloş Tepe, coğrafi açıdan bakıldığında, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.

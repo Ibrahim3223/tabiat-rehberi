@@ -36,7 +36,7 @@ Sivri Tepesi'nin tarihi geçmişi, Van'ın tarihi ile iç içedir. Bu bölge, y�
 
 ## Coğrafya
 
-Sivri Tepesi, Van şehrinin kuzeybatısında yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepe, Van Gölü'nün kuzey kıyısında yer alır ve gölün manzarasını sunar. Sivri Tepesi, Van'ın coğrafi yapısını ve iklimini anlamak için önemli bir noktadır. Tepe, bölgenin flora ve faunasını gözlemlemek için uygun bir yerdir ve çeşitli bitki ve hayvan türleri barındırır. Sivri Tepesi, aynı zamanda bölgenin doğal güzelliklerini koruma altına almak için çeşitli çalışmaların yapıldığı bir yer olarak da bilinir. Tepe, Van'ın doğal ve kültürel mirasının önemli bir parçasıdır ve ziyaretçiler tarafından sıkça tercih edilir. Sivri Tepesi, Van'ın coğrafi ve stratejik konumu nedeniyle önemli bir nokta olarak kabul edilir ve bölgenin ekonomisi ve turizmi için önemli bir katkı sağlar.
+ Tepe, Van Gölü'nün kuzey kıyısında yer alır ve gölün manzarasını sunar. Sivri Tepesi, Van'ın coğrafi yapısını ve iklimini anlamak için önemli bir noktadır. Tepe, bölgenin flora ve faunasını gözlemlemek için uygun bir yerdir ve çeşitli bitki ve hayvan türleri barındırır. Sivri Tepesi, aynı zamanda bölgenin doğal güzelliklerini koruma altına almak için çeşitli çalışmaların yapıldığı bir yer olarak da bilinir. Tepe, Van'ın doğal ve kültürel mirasının önemli bir parçasıdır ve ziyaretçiler tarafından sıkça tercih edilir. Sivri Tepesi, Van'ın coğrafi ve stratejik konumu nedeniyle önemli bir nokta olarak kabul edilir ve bölgenin ekonomisi ve turizmi için önemli bir katkı sağlar.
 
 ## Flora ve Fauna
 

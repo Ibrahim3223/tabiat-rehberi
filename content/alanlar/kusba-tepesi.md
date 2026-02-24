@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","trekking","manzara izleme","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trabzon_Sultan_Murat_Yaylas%C4%B1_Yolu.jpg/960px-Trabzon_Sultan_Murat_Yaylas%C4%B1_Yolu.jpg","alt":"Kusba Tepesi","caption":"Kusba Tepesi","credit":"Trabzon Sultan Murat Yaylası Yolu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kusba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562807","tip":"genel"}]
-description: "Trabzon'un doğal güzelliklerinden biri olan Kusba Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kusba Tepesi","Trabzon","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31562807"
@@ -36,7 +36,7 @@ Kusba Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin önemli bir mer
 
 ## Coğrafya
 
-Kusba Tepesi, Trabzon'un Karadeniz Bölgesi'nde yer alır ve coğrafi olarak önemli bir konumda bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yüksekliği, ziyaretçilere geniş bir görüş açısı sağlar. Kusba Tepesi'nin coğrafi yapısı, bölgenin iklimini ve bitki örtüsünü etkiler. Tepenin eteklerinde ve yakınında, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki örtüsü, bölgenin ekolojik dengesini korur ve doğal güzelliğini artırır. Kusba Tepesi, aynı zamanda bölgenin su kaynaklarının oluşumunda da önemli bir rol oynar. Tepenin yüksekliği ve coğrafi konumu, bölgede iklim.conditionsını etkileyen faktörler arasında yer alır. Kusba Tepesi, coğrafi güzelliği ve doğal kaynakları ile önemli bir turizm merkezi olarak kabul edilir.
+Kusba Tepesi, Trabzon'un Karadeniz Bölgesi'nde yer alır ve coğrafi olarak önemli bir konumda bulunur. Kusba Tepesi'nin coğrafi yapısı, bölgenin iklimini ve bitki örtüsünü etkiler. Tepenin eteklerinde ve yakınında, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki örtüsü, bölgenin ekolojik dengesini korur ve doğal güzelliğini artırır. Kusba Tepesi, aynı zamanda bölgenin su kaynaklarının oluşumunda da önemli bir rol oynar. Tepenin yüksekliği ve coğrafi konumu, bölgede iklim.conditionsını etkileyen faktörler arasında yer alır. Kusba Tepesi, coğrafi güzelliği ve doğal kaynakları ile önemli bir turizm merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 

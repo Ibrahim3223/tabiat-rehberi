@@ -28,7 +28,7 @@ wikidata_id: "Q31551235"
 
 # Hasanbargut Tepesi
 
-Hasanbargut Tepesi, Mardin'in eşsiz doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Mardin'in coğrafi yapısını anlamak için önemli bir gözlem noktası sunuyor. Mardin'in tarihini ve kültürünü keşfetmek isteyenler için Hasanbargut Tepesi, ziyaret edilmesi gereken önemli bir yer.
+Hasanbargut Tepesi, Mardin'in eşsiz doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir nokta. Mardin'in tarihini ve kültürünü keşfetmek isteyenler için Hasanbargut Tepesi, ziyaret edilmesi gereken önemli bir yer.
 
 ## Tarihçe
 

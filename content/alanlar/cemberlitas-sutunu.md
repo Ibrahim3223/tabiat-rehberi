@@ -29,7 +29,7 @@ wikidata_id: "Q1247287"
 
 # Çemberlitaş Sütunu
 
-İstanbul'un kalbinde yer alan Çemberlitaş Sütunu, yaklaşık 35 metre yüksekliğiyle dikkat çeken bir tarihi yapıdır. Bu yapı, 200 futbol sahası büyüklüğünde bir alanı kaplayan tarihi bir mekândır. Geçmişte önemli bir buluşma noktası olan Çemberlitaş Sütunu, günümüzde de tarihi ve kültürel önemi nedeniyle ziyaret edilen bir noktadır. İstanbul'un Marmara Bölgesi'nde bulunan bu mekân, şehrin zengin tarihini yansıtması bakımından önemli bir turistik noktadır.
+İstanbul'un kalbinde yer alan Çemberlitaş Sütunu, yaklaşık 35 metre yüksekliğiyle dikkat çeken bir tarihi yapıdır. Geçmişte önemli bir buluşma noktası olan Çemberlitaş Sütunu, günümüzde de tarihi ve kültürel önemi nedeniyle ziyaret edilen bir noktadır. İstanbul'un Marmara Bölgesi'nde bulunan bu mekân, şehrin zengin tarihini yansıtması bakımından önemli bir turistik noktadır.
 
 ## Tarihçe
 

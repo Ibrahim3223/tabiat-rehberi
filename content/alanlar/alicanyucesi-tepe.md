@@ -36,7 +36,7 @@ Alicanyücesi Tepe'nin tarihi geçmişi hakkında bilgiler mevcut değil. Ancak,
 
 ## Coğrafya
 
-Alicanyücesi Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Tepe, 140 hektarlık bir alanı kaplıyor. Alicanyücesi Tepe'nin coğrafyası, doğa severler için ideal. Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Alicanyücesi Tepe, ziyaretçilerine güzel manzaralar sunuyor. Tepe ve çevresinin coğrafyası, ziyaretçileri için önemli bir çekim merkezi. Alicanyücesi Tepe, doğa yürüyüşleri, trekking ve kamp gibi aktiviteleri yapmak için ideal bir destinasyon.
+Alicanyücesi Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Alicanyücesi Tepe'nin coğrafyası, doğa severler için ideal. Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Alicanyücesi Tepe, ziyaretçilerine güzel manzaralar sunuyor. Tepe ve çevresinin coğrafyası, ziyaretçileri için önemli bir çekim merkezi. Alicanyücesi Tepe, doğa yürüyüşleri, trekking ve kamp gibi aktiviteleri yapmak için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Alicanyücesi Tepe, ziyaretçilerine güzel manzaralar sunuyor. Doğa yürüyü�
 
 ## İlginç Bilgiler
 
-- Alicanyücesi Tepe, 140 hektarlık bir alanı kaplıyor.
 - Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Alicanyücesi Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon.
 - Tepe, ziyaretçilerine güzel manzaralar sunuyor.

@@ -52,6 +52,6 @@ Telmessos Kaya Mezarları 1, yıl boyunca ziyaret edilebilir. Bu bölge, Muğla'
 
 - Telmessos Kaya Mezarları 1, Muğla'nın en önemli turizm merkezlerinden biri
 - Bu bölge, yüzyıllar öncesine dayanan bir tarihi geçmişi bulunuyor
-- Telmessos Kaya Mezarları 1, 140 hektarlık bir alanı kaplıyor
+
 - Bu bölge, yüksek bir konumda yer alıyor
 - Telmessos Kaya Mezarları 1, zengin bir flora ve fauna'ya sahip

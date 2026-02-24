@@ -29,7 +29,7 @@ wikidata_id: "Q131391797"
 
 # Dedeler Dedesi Türbesi
 
-Dedeler Dedesi Türbesi, Tavas'ın merkezinde, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Tavas'ın tarihi ve doğal güzelliklerini bir araya getiren bu türbe, ziyaretçilerini Ege Bölgesi'nin zengin geçmişine davet ediyor. Etrafındaki tarihi yapılar ve doğal güzelliklerle birlikte, Dedeler Dedesi Türbesi, Tavas'ın önemli bir turizm merkezi haline geliyor.
+ Tavas'ın tarihi ve doğal güzelliklerini bir araya getiren bu türbe, ziyaretçilerini Ege Bölgesi'nin zengin geçmişine davet ediyor. Etrafındaki tarihi yapılar ve doğal güzelliklerle birlikte, Dedeler Dedesi Türbesi, Tavas'ın önemli bir turizm merkezi haline geliyor.
 
 ## Tarihçe
 

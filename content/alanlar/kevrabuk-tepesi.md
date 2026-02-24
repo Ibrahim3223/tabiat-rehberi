@@ -28,7 +28,7 @@ wikidata_id: "Q31552762"
 
 # Kevrabuk Tepesi
 
-Kevrabuk Tepesi, Mardin'in merkezi bir bölgesinde yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Mardin'in önemli bir bölümünü kapsar. Kevrabuk Tepesi, Mardin'in tarihi geçmişi ile birlikte, şehrin önemli bir turizm merkezi haline gelmiştir. Tepenin etrafında, tarihi yapılar ve doğal güzellikler bulunur.
+Kevrabuk Tepesi, Mardin'in merkezi bir bölgesinde yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunur. Kevrabuk Tepesi, Mardin'in tarihi geçmişi ile birlikte, şehrin önemli bir turizm merkezi haline gelmiştir. Tepenin etrafında, tarihi yapılar ve doğal güzellikler bulunur.
 
 ## Tarihçe
 

@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa Gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"GEREDE ŞEHİR ORMANI","caption":"GEREDE ŞEHİR ORMANI","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GEREDE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228672","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşillendirilmiş alanlarından biri olan Gerede Şehir Ormanı, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası"
+
 keywords: ["Gerede","Şehir Ormanı","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Futbol Saha","Orman"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228672"
@@ -43,7 +43,7 @@ Gerede Şehir Ormanı, ziyaretçilere birçok olanak sunuyor. Ormana, kolayca ul
 ## İlginç Bilgiler
 
 - Gerede Şehir Ormanı, İç Anadolu Bölgesi'nin en büyük yeşil alanlarından biri.
-- Orman, 140 hektarlık bir alana yayılmış.
+
 - Gerede Şehir Ormanı, çeşitli bitki türleri ve zengin fauna sunuyor.
 - Orman, yılın her döneminde ziyaret edilebilir.
 - Gerede Şehir Ormanı, doğa severler için bir cennet olarak kabul edilebilir.

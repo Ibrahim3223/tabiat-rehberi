@@ -30,7 +30,7 @@ wikidata_id: "Q131739009"
 
 # Hacı Arif Hamamı
 
-Karadeniz Bölgesi'nin en güzel illerinden biri olan Trabzon'un Ortahisar ilçesinde yer alan Hacı Arif Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Hacı Arif Hamamı, karayolu ile kolayca ulaşılabilen bir konumda olmasıyla da dikkat çekiyor. Ziyaretçiler, bu güzel plajda denize girerek serinleyebilir, güneşin tadını çıkarabilir veya doğa yürüyüşü yapabilir.
+ Hacı Arif Hamamı, karayolu ile kolayca ulaşılabilen bir konumda olmasıyla da dikkat çekiyor. Ziyaretçiler, bu güzel plajda denize girerek serinleyebilir, güneşin tadını çıkarabilir veya doğa yürüyüşü yapabilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hacı Arif Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Hacı Arif Hamamı, Trabzon'un Ortahisar ilçesinde, Karadeniz'in kıyısında bulunuyor. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir hareket alanı sunuyor. Plajın etrafı, yeşilin farklı tonlarını sunan ormanlarla çevrili ve bu ormanlar, ziyaretçilere doğa yürüyüşü yapma imkanı sunuyor. Hacı Arif Hamamı'nın coğrafi konumu, ziyaretçilerine karayolu ile kolayca ulaşabilme imkanı tanıyor. Plajın denizi, Karadeniz'in soğuk sularıyla dolu ve ziyaretçiler, bu güzel suda serinleyerek güneşin tadını çıkarabilir. Hacı Arif Hamamı'nın iklimi, Karadeniz ikliminin özellikleri gösteriyor ve ziyaretçiler, bu bölgede yağışlı bir hava ile karşılaşıyor. Ancak, bu yağışlar, plajın güzelliğini artıran bir unsur olarak dikkat çekiyor.
+Hacı Arif Hamamı, Trabzon'un Ortahisar ilçesinde, Karadeniz'in kıyısında bulunuyor. Plajın etrafı, yeşilin farklı tonlarını sunan ormanlarla çevrili ve bu ormanlar, ziyaretçilere doğa yürüyüşü yapma imkanı sunuyor. Hacı Arif Hamamı'nın coğrafi konumu, ziyaretçilerine karayolu ile kolayca ulaşabilme imkanı tanıyor. Plajın denizi, Karadeniz'in soğuk sularıyla dolu ve ziyaretçiler, bu güzel suda serinleyerek güneşin tadını çıkarabilir. Hacı Arif Hamamı'nın iklimi, Karadeniz ikliminin özellikleri gösteriyor ve ziyaretçiler, bu bölgede yağışlı bir hava ile karşılaşıyor. Ancak, bu yağışlar, plajın güzelliğini artıran bir unsur olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Hacı Arif Hamamı, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Ziy
 
 ## İlginç Bilgiler
 
-- Hacı Arif Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Plajın deniz suyu, soğu ve berrak bir yapıya sahip.
 - Hacı Arif Hamamı'nın etrafındaki ormanlar, çeşitli ağaç türleri ile dolu.
 - Plajda, çeşitli restoran ve kafeler bulunüyor.

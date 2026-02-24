@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 26'nın tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 26, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Salihli, Manisa'nın batısında yer alan bir ilçe ve tümülüsler, ilçe merkezine yakın bir konumda bulunuyor. Bölge, Ege Denizi'ne yakınlığıyla birlikte, iklim olarak ılıman ve nemli bir yapıya sahip. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hüküm sürüyor. Tümülüslerin bulunduğu alan, yaklaşık 140 hektarlık bir araziyi kapsıyor ve bu alan, çeşitli bitki türleri ve fauna ile kaplı. Coğrafi konumu itibariyle, ziyaretçiler için hem tarihi bir gezi noktası hem de doğal güzellikleri keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 26, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Salihli, Manisa'nın batısında yer alan bir ilçe ve tümülüsler, ilçe merkezine yakın bir konumda bulunuyor. Bölge, Ege Denizi'ne yakınlığıyla birlikte, iklim olarak ılıman ve nemli bir yapıya sahip. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hüküm sürüyor. Coğrafi konumu itibariyle, ziyaretçiler için hem tarihi bir gezi noktası hem de doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Bin Tepeler Tümülüsü 26'nın bulunduğu bölge, zengin bir flora ve fauna il
 
 ## Ziyaret Bilgileri
 
-Bin Tepeler Tümülüsü 26'yı ziyaret etmek, Ege Bölgesi'nin tarihî ve kültürel mirasını keşfetmek isteyenler için önemli bir fırsat. Ziyaretçiler, tümülüsleri gezerken, bölgenin tarihî geçmişini ve kültürel zenginliğini yakından tanıyabilir. Tümülüslerin bulunduğu alan, 140 hektarlık bir araziyi kapsıyor ve bu alan, ziyaretçilere geniş bir gezi alanı sunuyor. Ziyaretçiler, tümülüslerin yapısını, tarihî önemini ve bölgenin kültürel mirasını öğrenme fırsatı buluyor.
+Bin Tepeler Tümülüsü 26'yı ziyaret etmek, Ege Bölgesi'nin tarihî ve kültürel mirasını keşfetmek isteyenler için önemli bir fırsat. Ziyaretçiler, tümülüsleri gezerken, bölgenin tarihî geçmişini ve kültürel zenginliğini yakından tanıyabilir. Ziyaretçiler, tümülüslerin yapısını, tarihî önemini ve bölgenin kültürel mirasını öğrenme fırsatı buluyor.
 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 26, Ege Bölgesi'nin en önemli tarihî sit alanlarından biri.
 - Tümülüsler, Lidya Krallığı döneminden kalma.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyetine girmiş.
-- Tümülüslerin bulunduğu alan, 140 hektarlık bir araziyi kapsıyor.
+
 - Bölge, Ege Denizi'ne yakınlığıyla birlikte, iklim olarak ılıman ve nemli.

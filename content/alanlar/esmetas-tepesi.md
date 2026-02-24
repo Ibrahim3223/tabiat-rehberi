@@ -36,7 +36,7 @@ Eşmetaş Tepesi, tarihsel açıdan önemli bir geçmişe sahiptir. Bu tepe, yü
 
 ## Coğrafya
 
-Eşmetaş Tepesi, coğrafi olarak önemli bir konuma sahiptir. Bu tepe, Adana'nın Akdeniz Bölgesi'nde yer alır ve etrafı yeşil alanlarla çevrilidir. Eşmetaş Tepesi, 140 hektarlık bir alanı kaplar ve bu büyük alan, çeşitli bitki türleri ve hayvanlarla doludur. Bu tepe, ziyaretçilerine doğal güzellikleri sunar ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Eşmetaş Tepesi, coğrafi açıdan önemli bir noktadır ve ziyaretçilerine zengin bir doğa sunar. Bu tepe, etrafındaki yeşil alanlarla birlikte ziyaretçilerine geniş bir manzara sunar. Eşmetaş Tepesi, coğrafi konumu ile birlikte ziyaretçilerine önemli bir doğal alan sunar.
+Eşmetaş Tepesi, coğrafi olarak önemli bir konuma sahiptir. Bu tepe, Adana'nın Akdeniz Bölgesi'nde yer alır ve etrafı yeşil alanlarla çevrilidir. Bu tepe, ziyaretçilerine doğal güzellikleri sunar ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Eşmetaş Tepesi, coğrafi açıdan önemli bir noktadır ve ziyaretçilerine zengin bir doğa sunar. Bu tepe, etrafındaki yeşil alanlarla birlikte ziyaretçilerine geniş bir manzara sunar. Eşmetaş Tepesi, coğrafi konumu ile birlikte ziyaretçilerine önemli bir doğal alan sunar.
 
 ## Flora ve Fauna
 
@@ -47,8 +47,6 @@ Eşmetaş Tepesi, flora ve fauna açısından önemli bir alandır. Bu tepe, çe
 Eşmetaş Tepesi, ziyaretçilerine birçok aktivite sunar. Bu tepe, ziyaretçilerine doğa yürüyüşü, manzara izleme ve fotoğraf çekme gibi aktiviteler sunar. Eşmetaş Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunar. Bu tepe, ziyaretçilerine zengin bir tarih ve kültür sunar. Eşmetaş Tepesi, ziyaretçilerine önemli bir doğal alan sunar ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu tepe, her yıl birçok ziyaretçi tarafından tercih edilir ve ziyaretçilerine birçok aktivite sunar.
 
 ## İlginç Bilgiler
-
-- Eşmetaş Tepesi, 140 hektarlık bir alanı kaplar.
 
 - Eşmetaş Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunar.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır.

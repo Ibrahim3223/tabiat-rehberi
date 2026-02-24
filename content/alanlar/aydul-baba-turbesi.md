@@ -50,7 +50,7 @@ Aydul Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği ile b
 ## İlginç Bilgiler
 
 - Aydul Baba Türbesi, yüzyıllar öncesine dayanan tarihi geçmişiyle önemli bir dini merkez olarak kabul edilir.
-- Türbenin bulunduğu alan, 140 hektarlık bir yeşil alandır.
+
 - Bölge, çeşitli flora ve fauna türlerine ev sahipliği yapar.
 - Aydul Baba Türbesi, ziyaretçilerine benzersiz bir deneyim sunar.
 - Bölgenin iklimi, genellikle karasal iklimdir.

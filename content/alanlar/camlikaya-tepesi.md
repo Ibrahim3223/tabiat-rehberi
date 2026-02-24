@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih turu","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Çamlıkaya Tepesi","caption":"Çamlıkaya Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823877","tip":"genel"}]
-description: "Hatay'da yer alan Çamlıkaya Tepesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Çamlıkaya Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34823877"
@@ -48,8 +48,6 @@ wikidata_id: "Q34823877"
 
 ## İlginç Bilgiler
 
-- Çamlıkaya Tepesi, 140 hektarlık bir alanı kapsıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Çamlıkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bu tepe, tarihin derinliklerine inen bir yolculuk için ideal bir başlangıç noktası
 - Çamlıkaya Tepesi, coğrafi olarak zengin bir bölge

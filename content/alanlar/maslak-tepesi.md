@@ -28,7 +28,7 @@ wikidata_id: "Q31387006"
 
 # Maslak Tepesi
 
-Maslak Tepesi, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kapsıyor. Maslak Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor ve Çanakkale'nin güzide mekanlarından biri olarak biliniyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+ Maslak Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor ve Çanakkale'nin güzide mekanlarından biri olarak biliniyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

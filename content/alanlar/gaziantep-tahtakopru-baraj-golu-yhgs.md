@@ -42,7 +42,6 @@ Gaziantep Tahtaköprü Baraj Gölü YHGS, doğa severler ve bilim insanları iç
 
 ## İlginç Bilgiler
 
-- Gaziantep Tahtaköprü Baraj Gölü YHGS, 140 hektarlık bir alan
 - Bu alanda, çeşitli bitki türleri ve yaban hayvanları ile zengin bir ekosistem encontruluyor
 - Gaziantep Tahtaköprü Baraj Gölü YHGS, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğal alan
 - Bu alanda, mevsimsel değişimler, canlıların yaşamını etkiliyor

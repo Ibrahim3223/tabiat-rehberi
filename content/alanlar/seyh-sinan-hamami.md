@@ -49,7 +49,6 @@ wikidata_id: "Q131738840"
 
 ## İlginç Bilgiler
 
-- Şeyh Sinan Hamamı, 140 hektarlık bir alana sahip
 - Plajın etrafında yer alan tepeler ve ormanlık alanlar, manzarayı daha da güzelleştiriyor
 - Bu bölgede, özellikle çam, çınar ve meşe ağaçları gibi orman ağaçları yaygın
 - Şeyh Sinan Hamamı, Marmara Denizi'ne açılıyor

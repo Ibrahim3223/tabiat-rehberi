@@ -49,7 +49,7 @@ Taşlıburun Tepesi, ziyaretçilerine çeşitli imkanlar sunuyor ve bu reason il
 ## İlginç Bilgiler
 
 - Taşlıburun Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan önemli bir coğrafi oluşum.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Taşlıburun Tepesi, tarihi geçmişi ile dikkat çekiyor.
 
 - Taşlıburun Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan önemli bir turizm merkezi.

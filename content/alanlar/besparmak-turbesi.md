@@ -29,7 +29,7 @@ wikidata_id: "Q131391381"
 
 # Beşparmak Türbesi
 
-Beşparmak Türbesi, Kocasinan, Kayseri'de yer alan bir tarihi türbe ve plajdır. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak tanımlanabilir. Beşparmak Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken aynı zamanda doğanın güzelliği ile de büyüler. Bu türbe ve plaj, Kocasinan'ın önemli turistik noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Beşparmak Türbesi, Kocasinan, Kayseri'de yer alan bir tarihi türbe ve plajdır. Beşparmak Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken aynı zamanda doğanın güzelliği ile de büyüler. Bu türbe ve plaj, Kocasinan'ın önemli turistik noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Beşparmak Türbesi ve plajını ziyaret etmek, hem tarihi hem de doğal güzell
 ## İlginç Bilgiler
 
 - Türbenin içinde önemli historical eserler bulunur
-- Bölge, 140 hektarlık bir alanı kaplar
+
 - Beşparmak Türbesi, Kocasinan'ın önemli turistik noktalarından biridir
 - Türbe ve plaj, doğal güzellikleri ve tarihi bir arada sunar
 - Ziyaretçiler, türbeyi ve plajı gezerken, tarihi ve doğal güzelliklerin bir arada sunulduğu bir deneyim yaşarlar

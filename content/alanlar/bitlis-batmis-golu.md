@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Balık avı","Göl etrafında dinlenme","Tarih kal�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"BİTLİS BATMIŞ GÖLÜ","caption":"BİTLİS BATMIŞ GÖLÜ","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B0TL%C4%B0S%20BATMI%C5%9E%20G%C3%96L%C3%9C","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228887","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Bitlis Batmış Gölü, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bitlis","Batmış Gölü","İç Anadolu Bölgesi","doğal güzellik","göl","flora","fauna","coğrafya","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228887"

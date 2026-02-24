@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","kuş gözlemciliği","fotoğrafçıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"KAHVECİDAĞI","caption":"KAHVECİDAĞI","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KAHVEC%C4%B0DA%C4%9EI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228706","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan KAHVECİDAĞI, 140 hektarlık genişliğiyle yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["KAHVECİDAĞI","İç Anadolu Bölgesi","doğa","gezi","milli park","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228706"

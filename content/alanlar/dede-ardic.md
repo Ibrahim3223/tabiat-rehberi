@@ -30,7 +30,7 @@ Dede Ardic'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölged
 
 ## Coğrafya
 
-Dede Ardic, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Milli park, 140 hektarlık bir alana sahiptir ve bölgenin en önemli doğal güzelliklerinden biridir. Dede Ardic'in coğrafyası, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölgede, yaban hayatı ve flora ile ilgili birçok çalışma yapılmıştır. Milli park, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunar. Dede Ardic'in coğrafyası, bölgenin iklimi ve çevresi ile yakından ilgilidir. Bu bölgede, ziyaretçiler birçok doğal güzelliği ve kültürel zenginliği görebilir. Dede Ardic, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir ve bu bölgenin koruma altına alınması için birçok çalışma yapılmaktadır.
+Dede Ardic, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Dede Ardic'in coğrafyası, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölgede, yaban hayatı ve flora ile ilgili birçok çalışma yapılmıştır. Milli park, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunar. Dede Ardic'in coğrafyası, bölgenin iklimi ve çevresi ile yakından ilgilidir. Bu bölgede, ziyaretçiler birçok doğal güzelliği ve kültürel zenginliği görebilir. Dede Ardic, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir ve bu bölgenin koruma altına alınması için birçok çalışma yapılmaktadır.
 
 ## Flora ve Fauna
 
@@ -38,11 +38,10 @@ Dede Ardic, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölg
 
 ## Ziyaret Bilgileri
 
-Dede Ardic, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunar. Milli park, 140 hektarlık bir alana sahiptir ve bölgenin en önemli doğal güzelliklerinden biridir. Dede Ardic'in ziyaret edilmesi, bölgenin doğal güzelliğini ve kültürel zenginliğini korumak için önemlidir. Ziyaretçiler, bu bölgede birçok doğal güzelliği ve kültürel zenginliği görebilir. Dede Ardic, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir ve bu bölgenin koruma altına alınması için birçok çalışma yapılmaktadır.
+Dede Ardic, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunar. Dede Ardic'in ziyaret edilmesi, bölgenin doğal güzelliğini ve kültürel zenginliğini korumak için önemlidir. Ziyaretçiler, bu bölgede birçok doğal güzelliği ve kültürel zenginliği görebilir. Dede Ardic, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir ve bu bölgenin koruma altına alınması için birçok çalışma yapılmaktadır.
 
 ## İlginç Bilgiler
 
-- Dede Ardic, 140 hektarlık bir alana sahiptir
 - Milli park, çeşitli bitki türleri ve hayvanların yaşam alanıdır
 - Dede Ardic, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir
 - Bu bölgede, yaban hayatı ve flora ile ilgili birçok çalışma yapılmıştır

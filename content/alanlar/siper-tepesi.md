@@ -48,8 +48,6 @@ Siper Tepesi'ni ziyaret etmek, birçok ziyaretçiçin önemli bir deneyimi oluş
 
 ## İlginç Bilgiler
 
-- Siper Tepesi, 140 hektarlık bir alana sahiptir.
-
 - Siper Tepesi, birçok önemli doğal güzelliğe sahiptir.
 - Bu tepe, bölgenin önemli bir turizm merkezidir.
 - Siper Tepesi, birçok farklı ulaşım aracıyla ulaşılabilir.

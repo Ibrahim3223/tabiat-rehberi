@@ -51,6 +51,6 @@ Hoca Ahmet Fakih Türbesi, ziyaretçilerini dört mevsim boyunca karşılar. Anc
 
 - Hoca Ahmet Fakih Türbesi, Meram'ın en önemli turistik noktalarından biridir.
 - Türbenin etrafındaki plaj, doğal güzellikleriyle dikkat çeker.
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hoca Ahmet Fakih Türbesi, dini ve kültürel açıdan önemli bir merkez olarak bilinir.
 - Bu mekan, İç Anadolu Bölgesi'nin önemli turistik noktalarından biridir.

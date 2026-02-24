@@ -28,7 +28,7 @@ wikidata_id: "Q31385498"
 
 # Şahinlik Tepe
 
-Gaziantep'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Şahinlik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Şahinlik Tepe, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Ziyaretçiler, bu tepeyi keşfederek hem doğayı hem de tarihin zenginliklerini deneyimleyebilirler.
+ Şahinlik Tepe, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Ziyaretçiler, bu tepeyi keşfederek hem doğayı hem de tarihin zenginliklerini deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gaziantep'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal 
 
 ## Coğrafya
 
-Şahinlik Tepe, Gaziantep'in coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve çevresindeki doğal güzelliklerle birlikte bir bütün oluşturuyor. Şahinlik Tepe'nin coğrafyası, ziyaretçilere geniş bir açık alan sunuyor ve doğanın güzelliklerini keşfetme imkanı sağlıyor. Bu tepe, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte bir ekosistem oluşturuyor ve çeşitli canlıların yaşamsal alanını oluşturuyor. Şahinlik Tepe'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi önemi deneyimleme imkanı sağlıyor.
+Şahinlik Tepe, Gaziantep'in coğrafi olarak önemli bir noktasında yer alıyor. Şahinlik Tepe'nin coğrafyası, ziyaretçilere geniş bir açık alan sunuyor ve doğanın güzelliklerini keşfetme imkanı sağlıyor. Bu tepe, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte bir ekosistem oluşturuyor ve çeşitli canlıların yaşamsal alanını oluşturuyor. Şahinlik Tepe'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi önemi deneyimleme imkanı sağlıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gaziantep'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal 
 
 ## İlginç Bilgiler
 
-- Şahinlik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Bu tepe, tarihin farklı dönemlerinde önemli bir merkez olarak görev yapmış
 - Şahinlik Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri hem de tarihi önemi deneyimleyebilirler

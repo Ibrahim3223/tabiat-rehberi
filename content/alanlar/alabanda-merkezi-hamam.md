@@ -53,4 +53,4 @@ Alabanda Merkezi Hamam, ziyaretçilere yılın dört mevsiminde de gezilebilecek
 - Hamam, geçmişte önemli bir sosyal merkez olarak görev yapmıştır.
 - Alabanda Merkezi Hamam, Çine ilçesinin merkezinde yer alır.
 - Hamamın etrafı, çeşitli bitki türleri ile çevrilidir.
-- Alabanda Merkezi Hamam, 140 hektarlık bir alanı kapsar.
+

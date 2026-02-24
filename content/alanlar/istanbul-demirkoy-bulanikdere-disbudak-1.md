@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki","fauna izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Istanbul Demirkoy Bulanikdere-Disbudak 1","caption":"Istanbul Demirkoy Bulanikdere-Disbudak 1","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul%20Demirkoy%20Bulanikdere-Disbudak%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228057","tip":"genel"}]
-description: "İç Anadolu Bölgesi'ndeki 140 hektarlık milli park, ziyaretçilerini doğanın kucağına davet ediyor."
+"
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","Istanbul Demirkoy Bulanikdere-Disbudak 1","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228057"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228057"
 
 # Istanbul Demirkoy Bulanikdere-Disbudak 1
 
-Istanbul Demirkoy Bulanikdere-Disbudak 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak, ziyaretçilerini 140 hektarlık yeşil alanı ile karşılar. Milli parkın sunduğu geniş alan, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
+ Milli parkın sunduğu geniş alan, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Istanbul Demirkoy Bulanikdere-Disbudak 1 milli parkını ziyaret etmek, doğa se
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkın flora ve fauna çeşitliliği
 - Milli parkın coğrafi yapısı
 - Milli parkın tarihi geçmişi

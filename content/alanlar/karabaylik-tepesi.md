@@ -49,7 +49,7 @@ Karabaylık Tepesi, ziyaretçilerine doğal güzellikleri ve tarihi geçmişiyle
 ## İlginç Bilgiler
 
 - Karabaylık Tepesi, Hatay ilinin en önemli doğal alanlarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Karabaylık Tepesi, ziyaretçilerine doğal güzellikleri sunar.
 - Bu tepe, aynı zamanda bölgenin coğrafi yapısını korumak için önemli bir role sahiptir.
 - Karabaylık Tepesi, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapar.

@@ -48,7 +48,6 @@ Celekuzeğe Tepesi, ziyaretçilerine çeşitli olanaklar sunuyor. Tepenin etekle
 
 ## İlginç Bilgiler
 
-- Celekuzeğe Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin eteklerinde, çeşitli bitki türleri found.
 - Bölge, zengin fauna ile dikkat çekiyor.
 - Tepenin zirvesine, yürüyere veya araçla çıkılabiliyor.

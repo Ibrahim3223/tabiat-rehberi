@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık"," p
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Canakkale-Bayramic-Gokceici Kızılçam 2","caption":"Canakkale-Bayramic-Gokceici Kızılçam 2","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Gokceici%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227864","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en güzel milli parklarından biri olan Canakkale-Bayramic-Gokceici Kızılçam 2, yaklaşık 140 hektarlık bir alanı kaplıyor."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","Kızılçam","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227864"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227864"
 
 # Canakkale-Bayramic-Gokceici Kızılçam 2
 
-Canakkale-Bayramic-Gokceici Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer olan Canakkale-Bayramic-Gokceici Kızılçam 2, aynı zamanda bölgenin tarihi geçmişi hakkında da wicht Informationen sunuyor.
+Canakkale-Bayramic-Gokceici Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. Doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer olan Canakkale-Bayramic-Gokceici Kızılçam 2, aynı zamanda bölgenin tarihi geçmişi hakkında da wicht Informationen sunuyor.
 
 ## Tarihçe
 

@@ -36,7 +36,7 @@ Kanlıgöl Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yap
 
 ## Coğrafya
 
-Kanlıgöl Tepesi, Karadeniz Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafında çeşitli bitki türleri encontruluyor. Tepenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor. Kanlıgöl Tepesi, Çorum'un coğrafi yapısının bir parçası olarak görülüyor ve bu bölgenin doğal güzelliklerini keşfetmek isteyen ziyaretçilere hitap ediyor. Tepenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygun olarak yağışlı ve nemli. Bu iklim, bölgenin flora ve faunasının çeşitliliğini destekyor.
+Kanlıgöl Tepesi, Karadeniz Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özelliklerini taşıyor. Tepenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor. Kanlıgöl Tepesi, Çorum'un coğrafi yapısının bir parçası olarak görülüyor ve bu bölgenin doğal güzelliklerini keşfetmek isteyen ziyaretçilere hitap ediyor. Tepenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygun olarak yağışlı ve nemli. Bu iklim, bölgenin flora ve faunasının çeşitliliğini destekyor.
 
 ## Flora ve Fauna
 

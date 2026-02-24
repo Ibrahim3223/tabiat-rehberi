@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Denizli-Acipayam-Bozdag Kızılçam 2","caption":"Denizli-Acipayam-Bozdag Kızılçam 2","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Bozdag%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227331","tip":"genel"}]
-description: "Ege Bölgesi'nin yeşilliklerle bezeli köşesi, 140 hektarlık bir alan"
+
 keywords: ["Denizli","Acipayam","Bozdag","Kızılçam","milli park","Ege Bölgesi","yeşil alan","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227331"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227331"
 
 # Denizli-Acipayam-Bozdag Kızılçam 2
 
-Denizli-Acipayam-Bozdag Kızılçam 2 milli parkı, Ege Bölgesi'nin güzide bir köşesinde, 140 hektarlık bir alan olarak ziyaretçilerini ağırlıyor. Milli parkın etrafı, yeşilliklerle bezeli tepelerle çevrilidir ve bu bölge, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası sunuyor. Denizli ilinin zengin doğal güzellikleri arasında yer alan bu milli park, hem doğa yürüyüşleri hem de piknik için ideal bir mekan.
+ Milli parkın etrafı, yeşilliklerle bezeli tepelerle çevrilidir ve bu bölge, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası sunuyor. Denizli ilinin zengin doğal güzellikleri arasında yer alan bu milli park, hem doğa yürüyüşleri hem de piknik için ideal bir mekan.
 
 ## Tarihçe
 

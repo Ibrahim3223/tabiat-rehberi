@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Bitki Observation","Fauna İzleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Köprüçay Sit Alanı","caption":"Köprüçay Sit Alanı","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BC%C3%A7ay%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226634","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran Köprüçay Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Köprüçay Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226634"
@@ -42,8 +42,6 @@ Köprüçay Sit Alanı, ziyaretçilerine doğal güzelliklerinin yanı sıra zen
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - zengin fauna
 - tarihi geçmişi

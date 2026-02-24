@@ -51,7 +51,6 @@ Hamza Bey Türbesi'ni ziyaret etmek, ziyaretçilere tarihi ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Hamza Bey Türbesi, Osmangazi, Bursa'da yer alan bir mekan
-- 140 hektarlık bir alanı kapsıyor
-- Yaklaşık 200 futbol sahası büyüklüğünde
+
 - Tarihi geçmişi yüzyıllar boyunca şekillenmiş
 - Bölgenin coğrafi özelliklerini yansıtıyor

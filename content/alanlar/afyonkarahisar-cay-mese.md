@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Trekking","Piknik","Gözlem"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Afyonkarahisar-Cay Mese","caption":"Afyonkarahisar-Cay Mese","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyonkarahisar-Cay%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227705","tip":"genel"}]
-description: "Afyonkarahisar'da yer alan Cay Mese Milli Parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekmektedir."
+"
 keywords: ["Afyonkarahisar","Cay Mese","Milli Park","Doğa","Flora","Fauna","Ege Bölgesi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227705"
@@ -42,7 +42,6 @@ Cay Mese Milli Parkı, ziyaretçilere çeşitli olanaklar sunmaktadır. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Cay Mese Milli Parkı, 140 hektarlık bir alana sahiptir.
 - Milli park, Ege Bölgesi'nde yer almaktadır.
 - Park, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır.
 - Cay Mese Milli Parkı, 1986 yılında milli park olarak ilan edilmiştir.

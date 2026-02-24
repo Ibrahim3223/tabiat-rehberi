@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültür turu","Arkeoloji gezisi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/18/Asi_Nehri_-_2023_depremi_%C3%B6ncesi.jpg","alt":"Antakya Antik Yapıları manzarası","credit":"Ozlmktv","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Antik_Beyaz%C4%B1t_Hotel_-2023_depremi_%C3%B6ncesi.jpg/960px-Antik_Beyaz%C4%B1t_Hotel_-2023_depremi_%C3%B6ncesi.jpg","alt":"Antakya Antik Yapıları","caption":"Antakya Antik Yapıları","credit":"Antik Beyazıt Hotel -2023 depremi öncesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/38/Antik_Beyaz%C4%B1t_Hotel_-2023_depremi_%C3%B6ncesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/38/Antik_Beyaz%C4%B1t_Hotel_-2023_depremi_%C3%B6ncesi.jpg","alt":"Antakya Antik Yapıları - Antik Beyazıt Hotel -2023 depremi öncesi","credit":"Ozlmktv","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Saray_Caddesi_Kuseyri_Kona%C4%9F%C4%B1_-_2023_depremi_%C3%B6ncesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Saray_Caddesi_Kuseyri_Kona%C4%9F%C4%B1_-_2023_depremi_%C3%B6ncesi.jpg","alt":"Antakya Antik Yapıları - Saray Caddesi Kuseyri Konağı - 2023 depremi öncesi","credit":"Ozlmktv","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Antakya_sokaklar%C4%B1_-_2023_depremi_%C3%B6ncesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Antakya_sokaklar%C4%B1_-_2023_depremi_%C3%B6ncesi.jpg","alt":"Antakya Antik Yapıları - Antakya sokakları - 2023 depremi öncesi","credit":"Ozlmktv","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antakya%20Antik%20Yap%C4%B1lar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738990","tip":"genel"}]
-description: "Antakya'nın tarihi ve kültürel zenginlikleri, 140 hektarlık alan üzerinde sergileniyor."
+"
 keywords: ["Antakya","Antik Yapılar","Hatay","Akdeniz Bölgesi","Tarih","Kültür","Arkeoloji","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738990"

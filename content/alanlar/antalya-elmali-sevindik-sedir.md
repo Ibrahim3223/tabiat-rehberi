@@ -14,8 +14,8 @@ aktiviteler: ["Doğa Yürüyüşü","Çevre Gezisi","Flora ve Fauna İncelemesi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Antalya-Elmali-Sevindik Sedir","caption":"Antalya-Elmali-Sevindik Sedir","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Elmali-Sevindik%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227596","tip":"genel"}]
-description: "Antalya'nın doğal güzelliklerini keşfedin. Sevindik Sedir Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Antalya","Elmali","Sevindik Sedir","Milli Park","Doğa","Yeşil Alan","Futbol Sahası"]
+description: "Antalya'nın doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227596"
 ---
@@ -42,8 +42,6 @@ Antalya-Elmali-Sevindik Sedir'i ziyaret etmek, doğa severler ve çevreyi koruma
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Çeşitli bitki türleri
 - Zengin fauna
 - Tarihi geçmişi

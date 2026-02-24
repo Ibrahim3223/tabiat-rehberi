@@ -37,11 +37,11 @@ Kum Kasrı Hamamı'nın tarihi geçmişi, Edirne'nin tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Kum Kasrı Hamamı, Edirne'nin merkezinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, geniş yeşil alanları, deniz kıyısı ve tarihi yapılarla çevrili. Kum Kasrı Hamamı, 140 hektarlık alanı ile ziyaretçilerine geniş bir yeşil alan sunuyor ve bu alanda birçok farklı bitki türü ve hayvan bulunabiliyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor ve genellikle ılıman ve yağışlı. Kum Kasrı Hamamı, deniz kıyısında yer alıyor ve bu sayede ziyaretçilere güzel bir manzara sunuyor. Ayrıca, bu kompleksin çevresinde birçok farklı turizm noktası bulunuyor ve ziyaretçiler, Kum Kasrı Hamamı'na geldiğinde bu noktaları da keşfedebiliyor.
+Kum Kasrı Hamamı, Edirne'nin merkezinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, geniş yeşil alanları, deniz kıyısı ve tarihi yapılarla çevrili. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor ve genellikle ılıman ve yağışlı. Kum Kasrı Hamamı, deniz kıyısında yer alıyor ve bu sayede ziyaretçilere güzel bir manzara sunuyor. Ayrıca, bu kompleksin çevresinde birçok farklı turizm noktası bulunuyor ve ziyaretçiler, Kum Kasrı Hamamı'na geldiğinde bu noktaları da keşfedebiliyor.
 
 ## Flora ve Fauna
 
-Kum Kasrı Hamamı, zengin bir flora ve fauna’ya sahip. Bu kompleksin 140 hektarlık alanı, birçok farklı bitki türünün yaşadığı bir alan ve bu bitkiler, bölgenin iklimine ve coğrafi özelliklerine uyum sağlamış durumda. Ayrıca, Kum Kasrı Hamamı'nın deniz kıyısında yer alması, bu bölgede birçok farklı hayvan türünün yaşamasına olanak sağlıyor. Ziyaretçiler, bu kompleks içinde birçok farklı kuş türü, balık türü ve diğer hayvanları görebiliyor. Kum Kasrı Hamamı, doğa severler için bir cennet ve ziyaretçiler, bu bölgenin güzelliklerini keşfedebiliyor.
+Kum Kasrı Hamamı, zengin bir flora ve fauna’ya sahip. Ayrıca, Kum Kasrı Hamamı'nın deniz kıyısında yer alması, bu bölgede birçok farklı hayvan türünün yaşamasına olanak sağlıyor. Ziyaretçiler, bu kompleks içinde birçok farklı kuş türü, balık türü ve diğer hayvanları görebiliyor. Kum Kasrı Hamamı, doğa severler için bir cennet ve ziyaretçiler, bu bölgenin güzelliklerini keşfedebiliyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Kum Kasrı Hamamı'na ziyaretçiler, Edirne'nin merkezinden kolayca ulaşabiliyo
 ## İlginç Bilgiler
 
 - Kum Kasrı Hamamı, Edirne'nin en önemli turizm noktalarından biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Marmara Bölgesi'nin karakteristik iklimi
 - zengin flora ve fauna
 - tarihî yapılar

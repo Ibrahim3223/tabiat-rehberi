@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih araştırması"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kad%C4%B1nc%C4%B1k_Valley_9.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_9.jpg","alt":"Mersin-Tarsus-Buladan Ardic 2","caption":"Mersin-Tarsus-Buladan Ardic 2","credit":"Kadıncık Valley 9.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Buladan%20Ardic%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227230","tip":"genel"}]
-description: "Mersin'de bulunan milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Mersin","Tarsus","Buladan","Ardic","milli park","Mersin milli parkı","Akdeniz Bölgesi","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227230"

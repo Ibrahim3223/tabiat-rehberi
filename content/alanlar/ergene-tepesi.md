@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","bisiklet","doğa seyri","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Ergene Tepesi","caption":"Ergene Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ergene%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557808","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ergene Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Ergene Tepesi","tepe","doğa","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557808"
@@ -28,7 +28,7 @@ wikidata_id: "Q31557808"
 
 # Ergene Tepesi
 
-Ergene Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alana yayılan bir tepe. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Ergene Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severler hem de tarihi geçmişe meraklı olanlar için ideal bir gezi noktası.
+ Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Ergene Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severler hem de tarihi geçmişe meraklı olanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ergene Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgen
 
 ## Coğrafya
 
-Ergene Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafyasına benzerlik gösteriyor. Bölge, yüksek ovalar, geniş düzlükler ve çeşitli tepe oluşumlarından oluşuyor. Ergene Tepesi, bu coğrafi yapı içinde, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak, kışları soğuk ve yazları sıcak geçiyor. Bu coğrafi ve iklimsel özellikler, Ergene Tepesi'ni doğa severler için ideal bir gezi noktası haline getiriyor.
+Ergene Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafyasına benzerlik gösteriyor. Bölge, yüksek ovalar, geniş düzlükler ve çeşitli tepe oluşumlarından oluşuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak, kışları soğuk ve yazları sıcak geçiyor. Bu coğrafi ve iklimsel özellikler, Ergene Tepesi'ni doğa severler için ideal bir gezi noktası haline getiriyor.
 
 ## Flora ve Fauna
 

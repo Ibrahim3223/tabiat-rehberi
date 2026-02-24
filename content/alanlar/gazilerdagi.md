@@ -43,7 +43,7 @@ Gazilerdağı, ziyaretçilerini doğanın içinde bir macera yaşamaya davet edi
 ## İlginç Bilgiler
 
 - Gazilerdağı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir
-- Bölge, 140 hektarlık bir alanı kapsıyor
+
 - Gazilerdağı, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Bölge, yıl boyunca ziyaret edilebilir ancak en iyi mevsim, ilkbahar ve sonbahar aylarıdır
 - Gazilerdağı, doğa severlerin buluşma noktası haline geliyor

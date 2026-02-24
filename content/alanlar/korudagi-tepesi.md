@@ -48,7 +48,6 @@ Korudağı Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklılar�
 
 ## İlginç Bilgiler
 
-- Korudağı Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepenin etrafı, çeşitli bitki türleriyle dolu
 - Korudağı Tepesi, yaban hayatı açısından da önemli
 - Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümünü görme mümkün

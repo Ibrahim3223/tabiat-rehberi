@@ -38,7 +38,7 @@ wikidata_id: "Q131391685"
 
 ## Coğrafya
 
-Şeyh Mehmed Emin Efendi Türbesi, Osmangazi, Bursa'da yer alır ve Marmara Bölgesi'nin güzel manzarasına sahiptir. Türbe, bir tepe üzerinde yer almaktadır ve çevresinde yaklaşık 140 hektarlık bir yeşil alan bulunur. Bu yeşil alan, çeşitli bitki türleri ile kaplıdır ve ziyaretçilere doğal bir ortam sunar. Plaj, Marmara Denizi'nin güzel suyunda yüzme imkanı sunar ve çevresindeki tepe, manzaranın keyfini çıkarmak için ideal bir noktadır. Bölgenin iklimi, karasal iklimin etkilerini taşır ve dört mevsim ayrı bir güzellik sunar. İlkbahar ve yaz ayları, plajın güzelliğini ortaya çıkarmak için idealdirken, sonbahar ve kış ayları, türbenin tarihi atmosferini daha da vurgulamaktadır.
+Şeyh Mehmed Emin Efendi Türbesi, Osmangazi, Bursa'da yer alır ve Marmara Bölgesi'nin güzel manzarasına sahiptir. Bu yeşil alan, çeşitli bitki türleri ile kaplıdır ve ziyaretçilere doğal bir ortam sunar. Plaj, Marmara Denizi'nin güzel suyunda yüzme imkanı sunar ve çevresindeki tepe, manzaranın keyfini çıkarmak için ideal bir noktadır. Bölgenin iklimi, karasal iklimin etkilerini taşır ve dört mevsim ayrı bir güzellik sunar. İlkbahar ve yaz ayları, plajın güzelliğini ortaya çıkarmak için idealdirken, sonbahar ve kış ayları, türbenin tarihi atmosferini daha da vurgulamaktadır.
 
 ## Flora ve Fauna
 

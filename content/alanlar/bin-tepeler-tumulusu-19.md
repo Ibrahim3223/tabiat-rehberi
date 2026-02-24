@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 19'u ziyaret etmek, Ege Bölgesi'nin tarihini ve coğra
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 19, Ege Bölgesi'nin en önemli tarihi mekanlarından biri
-- Mekan, yaklaşık 140 hektarlık bir büyüklüğe sahip
+
 - Bin Tepeler Tümülüsü 19, çeşitli uygarlıkların izlerini taşıyor
 - Mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor
 - Bin Tepeler Tümülüsü 19, doğa severler için gerçek bir cennet

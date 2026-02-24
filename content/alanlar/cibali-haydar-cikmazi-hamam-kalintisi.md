@@ -37,7 +37,7 @@ Cibali Haydar Çıkmazı Hamam Kalıntısı'nın tarihi geçmişi, bölgenin zen
 
 ## Coğrafya
 
-Cibali Haydar Çıkmazı Hamam Kalıntısı, Fatih ilçesinin merkezi bir bölgesinde yer alıyor. Marmara Bölgesi'nin coğrafi özellikleri, bu hamam kalıntısının bulunduğu bölgeyi de etkiliyor. Bölgenin iklimi, genellikle ılıman ve nemli olarak tanımlanıyor. Cibali Haydar Çıkmazı Hamam Kalıntısı'nın bulunduğu alan, yaklaşık 140 hektarlık bir araziyi kaplıyor ve bu alan, çeşitli bitki türleri ile kaplıdır. Hamam kalıntısının bulunduğu bölge, aynı zamanda tarihi ve kültürel açıdan zengin bir geçmişe sahip. Bölgede, çeşitli tarihi yapılar ve anıtlar yer alıyor. Cibali Haydar Çıkmazı Hamam Kalıntısı, bu tarihi bölgenin önemli bir parçasıdır ve ziyaretçilere bölgenin coğrafi ve kültürel özelliklerini keşfetme fırsatı sunuyor.
+Cibali Haydar Çıkmazı Hamam Kalıntısı, Fatih ilçesinin merkezi bir bölgesinde yer alıyor. Marmara Bölgesi'nin coğrafi özellikleri, bu hamam kalıntısının bulunduğu bölgeyi de etkiliyor. Bölgenin iklimi, genellikle ılıman ve nemli olarak tanımlanıyor. Hamam kalıntısının bulunduğu bölge, aynı zamanda tarihi ve kültürel açıdan zengin bir geçmişe sahip. Bölgede, çeşitli tarihi yapılar ve anıtlar yer alıyor. Cibali Haydar Çıkmazı Hamam Kalıntısı, bu tarihi bölgenin önemli bir parçasıdır ve ziyaretçilere bölgenin coğrafi ve kültürel özelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

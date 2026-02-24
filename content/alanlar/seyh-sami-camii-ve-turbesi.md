@@ -37,7 +37,7 @@ Kırıkkale'nin Sulakyurt ilçesinde yer alan Şeyh Şami Camii ve Türbesi, İ�
 
 ## Coğrafya
 
-Şeyh Şami Camii ve Türbesi, Kırıkkale'nin Sulakyurt ilçesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede de kendisini göstermektedir. Bölge, genellikle step iklimi özellikleri göstermektedir ve yazları sıcak, kışları soğuk geçmektedir. Şeyh Şami Camii ve Türbesi, Sulakyurt ilçesinin merkezinde yer almakta ve d bir ulaşım ağına sahiptir. Cami ve türbenin çevresinde, çeşitli ağaçlar ve bitki türleri bulunmakta ve ziyaretçiler için bir doğal alan olarak hizmet vermektedir. Şeyh Şami Camii ve Türbesi, 140 hektarlık bir alanı kapsar ve bu alanda çeşitli yapılar ve anıtlar bulunmaktadır. Cami ve türbenin mimarisi, geleneksel Türk mimari özellikleri taşımakta ve ziyaretçiler için önemli bir kültürel değer olarak kabul edilmektedir.
+Şeyh Şami Camii ve Türbesi, Kırıkkale'nin Sulakyurt ilçesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede de kendisini göstermektedir. Bölge, genellikle step iklimi özellikleri göstermektedir ve yazları sıcak, kışları soğuk geçmektedir. Şeyh Şami Camii ve Türbesi, Sulakyurt ilçesinin merkezinde yer almakta ve d bir ulaşım ağına sahiptir. Cami ve türbenin çevresinde, çeşitli ağaçlar ve bitki türleri bulunmakta ve ziyaretçiler için bir doğal alan olarak hizmet vermektedir. Cami ve türbenin mimarisi, geleneksel Türk mimari özellikleri taşımakta ve ziyaretçiler için önemli bir kültürel değer olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Kırıkkale'nin Sulakyurt ilçesinde yer alan Şeyh Şami Camii ve Türbesi, İ�
 
 - Şeyh Şami Camii ve Türbesi, Kırıkkale'nin en önemli dini yapılarından biridir.
 - Cami ve türbenin mimarisi, geleneksel Türk mimari özellikleri taşımaktadır.
-- Şeyh Şami Camii ve Türbesi, 140 hektarlık bir alanı kapsar.
+
 - Bölgenin step iklimi özellikleri, flora ve faunanın şekillenmesinde önemli bir rol oynamaktadır.
 - Şeyh Şami Camii ve Türbesi, yıl boyunca açık olmakta ve ziyaretçiler, her zaman cami ve türbeyi ziyaret edebilirler.

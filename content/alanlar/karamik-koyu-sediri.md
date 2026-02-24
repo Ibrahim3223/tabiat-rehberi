@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","bitki gözlemi","yaban
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Karamik Koyu Sediri","caption":"Karamik Koyu Sediri","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamik%20Koyu%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227185","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık bir doğa harikası"
+
 keywords: ["Karamik Koyu Sediri","İç Anadolu Bölgesi","doğa harikası","milli park","doğa turizmi","yaban hayatı","ekosistem","çevre","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227185"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227185"
 
 # Karamik Koyu Sediri
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Karamik Koyu Sediri, 140 hektarlık bir doğa harikası olarak karşımıza çıkıyor. Karamik Koyu Sediri, ziyaretçilerini doğanın içlerine davet ediyor ve burada geçirilen her an, unutulmaz bir deneyim olarak hatıralara kazınıyor. Bu milli park, sadece bir doğa alanı değil, aynı zamanda yaban hayatının önemli bir parçası olarak kabul ediliyor ve burada çeşitli bitki türleri ile karşılaşma mümkün.
+ Karamik Koyu Sediri, ziyaretçilerini doğanın içlerine davet ediyor ve burada geçirilen her an, unutulmaz bir deneyim olarak hatıralara kazınıyor. Bu milli park, sadece bir doğa alanı değil, aynı zamanda yaban hayatının önemli bir parçası olarak kabul ediliyor ve burada çeşitli bitki türleri ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Karamik Koyu Sediri'ni ziyaret etmek, doğa ile baş başa kalma ve unutulmaz bi
 
 ## İlginç Bilgiler
 
-- Karamik Koyu Sediri, 140 hektarlık bir doğa harikası
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Çevresi ile birlikte bir bütün olarak düşünüldüğünde, gerçek bir doğa cenneti sunuyor
 - İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri
 - Flora ve fauna açısından oldukça zengin bir bölge

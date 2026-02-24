@@ -21,7 +21,7 @@ aktiviteler: ["Tarihi Hamam'ın tarihi mimarisini incelemek","Etrafındaki doğa
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Tarihi Hamam, Araç","caption":"Tarihi Hamam, Araç","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Hamam%2C%20Ara%C3%A7","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739050","tip":"genel"}]
-description: "Kastamonu'nun Araç ilçesinde bulunan Tarihi Hamam, ziyaretçilerini tarihi bir atmosfere davet ediyor. 140 hektarlık bir alan üzerine kurulu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu'nun Araç ilçesinde bulunan Tarihi Hamam, ziyaretçilerini tarihi bir atmosfere davet ediyor."
 keywords: ["Tarihi Hamam","Araç","Kastamonu","Karadeniz Bölgesi","Tarih","Kültür","Gezi","Turizm","Doğa","Mimari"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739050"

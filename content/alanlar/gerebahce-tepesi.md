@@ -48,7 +48,6 @@ Gerebahçe Tepesi, ziyaretçilerine çeşitli imkanlar sunar. Tepenin eteklerind
 
 ## İlginç Bilgiler
 
-- Gerebahçe Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
 - Tepenin yüksekliği yaklaşık 1400 metre
 - Gerebahçe Tepesi, bölgenin ekolojik dengesinde önemli bir rol oynar
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur

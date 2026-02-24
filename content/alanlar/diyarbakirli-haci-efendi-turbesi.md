@@ -50,7 +50,7 @@ Diyarbakırlı Hacı Efendi Türbesi'ni ziyaret etmek, Bolu'nun tarihi geçmişi
 ## İlginç Bilgiler
 
 - Diyarbakırlı Hacı Efendi Türbesi, Bolu'nun merkezinde yer alır.
-- Türbe, yaklaşık 140 hektarlık yeşil alanın içinde yer alır.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Ziyaretçiler, türbeyi ziyaret edebileceği gibi, yeşil alanda yürüyüş yapabilir ve doğayı keşfedebilir.
 - Bolu'nun tarihi geçmişi hakkında bilgi edinmek isteyenler için, Diyarbakırlı Hacı Efendi Türbesi önemli bir duraktır.

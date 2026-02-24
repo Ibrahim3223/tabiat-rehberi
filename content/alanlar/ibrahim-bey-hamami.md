@@ -21,8 +21,8 @@ aktiviteler: ["Yüzmek","Güneşlenmek","Su sporları","Doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"İbrahim Bey Hamamı","caption":"İbrahim Bey Hamamı","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0brahim%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738995","tip":"genel"}]
-description: "Didim'in güzide plajlarından biri olan İbrahim Bey Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["İbrahim Bey Hamamı","Didim","Aydın","Ege Bölgesi","plaj","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738995"
 ---

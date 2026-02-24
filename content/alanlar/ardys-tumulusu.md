@@ -29,7 +29,7 @@ wikidata_id: "Q134728382"
 
 # Ardys Tümülüsü
 
-Ardys Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini gözler önüne seren bir arkeolojik alan olarak dikkat çekiyor. Manisa'nın Salihli ilçesinde yer alan bu önemli tarihî mekan, yaklaşık 140 hektarlık bir alanı kaplıyor. Ardys Tümülüsü, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren bir noktada bulunuyor ve hem tarih meraklıları hem de doğa severler için benzersiz bir deneyim sunuyor.
+Ardys Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini gözler önüne seren bir arkeolojik alan olarak dikkat çekiyor. Ardys Tümülüsü, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren bir noktada bulunuyor ve hem tarih meraklıları hem de doğa severler için benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ardys Tümülüsü'nün tarihi geçmişi, Lidya Krallığı dönemine kadar uzan
 
 ## Coğrafya
 
-Ardys Tümülüsü, Ege Bölgesi'nin coğrafi güzelliklerini sergileyen bir konumda yer alıyor. Manisa'nın Salihli ilçesinde bulunan bu tarihî mekan, bölgenin doğal güzelliklerini ve coğrafi özelliklerini bir araya getiriyor. Yaklaşık 140 hektarlık bir alanı kaplayan Ardys Tümülüsü, ziyaretçilerini geniş ve yeşil bir alana davet ediyor. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Bu iklim, Ardys Tümülüsü'nü yıl boyunca ziyaret etmek için uygun bir ortam sunuyor. Ayrıca, bölgenin coğrafi yapısı, tarihî mekanın çevresinde çeşitli doğal güzellikleri de barındırıyor. Ardys Tümülüsü, Ege Bölgesi'nin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir nokta olarak kabul ediliyor.
+Ardys Tümülüsü, Ege Bölgesi'nin coğrafi güzelliklerini sergileyen bir konumda yer alıyor. Manisa'nın Salihli ilçesinde bulunan bu tarihî mekan, bölgenin doğal güzelliklerini ve coğrafi özelliklerini bir araya getiriyor. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Bu iklim, Ardys Tümülüsü'nü yıl boyunca ziyaret etmek için uygun bir ortam sunuyor. Ayrıca, bölgenin coğrafi yapısı, tarihî mekanın çevresinde çeşitli doğal güzellikleri de barındırıyor. Ardys Tümülüsü, Ege Bölgesi'nin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Ardys Tümülüsü'ne ziyaretçiler, yıl boyunca gitmek için uygun bir ortam b
 
 - Ardys Tümülüsü, Lidya Krallığı dönemine ait önemli bir tarihî mekan
 - Bölgede çeşitli bitki türleri ve fauna yapısı bulunur
-- Ardys Tümülüsü, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösterir
 - Ardys Tümülüsü, yıl boyunca ziyaret edilebilir

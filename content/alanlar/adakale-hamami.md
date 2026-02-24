@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","tarihî 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg/960px-Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg","alt":"Adakale Hamamı","caption":"Adakale Hamamı","credit":"Karadouran village, Syria-Turkey boarderline, Kessab","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adakale%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124024458","tip":"genel"}]
-description: "Ardanuç'un doğal güzelliklerini keşfedin, 140 hektarlık alanın büyüklüğü yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ardanuç","Kars Oblastı","İç Anadolu Bölgesi","doğal güzellik","plaj","hamam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q124024458"
@@ -29,7 +29,7 @@ wikidata_id: "Q124024458"
 
 # Adakale Hamamı
 
-Adakale Hamamı, Ardanuç'un büyüleyici bir köşesinde yer alan, 140 hektarlık bir alana sahiptir. Doğal kaynakların zenginliği, bu bölgeyi çekici bir yer haline getirir. Ziyaretçiler, burada yer alan hamamın tarihi ve kültürel önemi hakkında bilgi edinebilirler. Adakale Hamamı, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor.
+ Doğal kaynakların zenginliği, bu bölgeyi çekici bir yer haline getirir. Ziyaretçiler, burada yer alan hamamın tarihi ve kültürel önemi hakkında bilgi edinebilirler. Adakale Hamamı, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Adakale Hamamı, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Z
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer
 - çeşitli bitki türleri ve zengin fauna
 - doğal kaynakların zenginliği

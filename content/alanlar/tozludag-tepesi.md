@@ -48,7 +48,6 @@ Tozludağ Tepesi'ni ziyaret etmek, ziyaretçilere çeşitli güzellikler sunuyor
 
 ## İlginç Bilgiler
 
-- Tozludağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, çevreyi panoramik bir şekilde görmeyi sağlıyor.
 - Tozludağ Tepesi, çeşitli bitki türleri ve zengin faunası ile dikkat çekiyor.
 - Tepenin eteklerinde yer alan köyler, gelen ziyaretçilere sıcak bir karşılama sunuyor.

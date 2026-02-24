@@ -51,6 +51,6 @@ Kaunos Cami ve Türbe Yapıları, çeşitli bitki türleri ve hayvanlar ile çev
 
 - Kaunos Cami ve Türbe Yapıları, Ege Bölgesi'nin en önemli kültürel miraslarından biridir.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır.
-- Kaunos, 140 hektarlık bir alanda yer alan bir bölgedir.
+
 - Bu bölge, çeşitli bitki türleri ve hayvanlar ile çevrili bir bölgedir.
 

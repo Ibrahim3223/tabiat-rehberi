@@ -36,7 +36,7 @@ Mısıraltı Tepesi'nin tarihi geçmişi, oldukça eskilere dayanır. Bu tepe, y
 
 ## Coğrafya
 
-Mısıraltı Tepesi, Kırıkkale'nin merkezine yakın bir konumda yer alır ve buraya ulaşım oldukça kolaydır. Tepenin etrafı, yemyeşil ormanlarla çevrilidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler. Mısıraltı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve tepenin yüksekliği, etraftaki manzaraları seyretmek için ideal bir konum sağlar. Tepenin üzerinde, çeşitli bitkiler ve hayvanlar bulunur ve burası, doğa severler için bir cennet gibidir. Mısıraltı Tepesi'nin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer ve buraya gelenler, dört mevsimi ayrı ayrı yaşayabilirler. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu bölge, her mevsim ziyaret edilebilir.
+Mısıraltı Tepesi, Kırıkkale'nin merkezine yakın bir konumda yer alır ve buraya ulaşım oldukça kolaydır. Tepenin etrafı, yemyeşil ormanlarla çevrilidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler. Tepenin üzerinde, çeşitli bitkiler ve hayvanlar bulunur ve burası, doğa severler için bir cennet gibidir. Mısıraltı Tepesi'nin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer ve buraya gelenler, dört mevsimi ayrı ayrı yaşayabilirler. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu bölge, her mevsim ziyaret edilebilir.
 
 ## Flora ve Fauna
 

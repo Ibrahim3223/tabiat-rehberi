@@ -28,7 +28,7 @@ wikidata_id: "Q31582137"
 
 # Kırıkbakır Tepesi
 
-Kırıkbakır Tepesi, Çorum'un tarihini ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Kırıkbakır Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bire davet ediyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini ve tarihi geçmişini yansıtıyor. Kırıkbakır Tepesi'ni ziyaret etmek, geçmişle geleceği birleştiren bir deneyim sunuyor.
+Kırıkbakır Tepesi, Çorum'un tarihini ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Kırıkbakır Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bire davet ediyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini ve tarihi geçmişini yansıtıyor. Kırıkbakır Tepesi'ni ziyaret etmek, geçmişle geleceği birleştiren bir deneyim sunuyor.
 
 ## Tarihçe
 

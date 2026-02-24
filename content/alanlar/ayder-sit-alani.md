@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kamp yapma","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Ayder Sit Alanı","caption":"Ayder Sit Alanı","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayder%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226918","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ayder Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","korunan alan","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226918"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226918"
 
 # Ayder Sit Alanı
 
-Ayder Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Ayder Sit Alanı, doğa severlerin ve photographerların gözdesi haline gelmiştir. Alanın büyüklüğü ve çeşitliliği, ziyaretçilere kendilerini bir doğa cennetinde hissetme fırsatı sunar. Ayder Sit Alanı, aynı zamanda bir milli park olarak koruma altına alınmıştır ve bu nedenle doğal güzelliği ve biyolojik çeşitliliği korunmaktadır.
+ Ayder Sit Alanı, doğa severlerin ve photographerların gözdesi haline gelmiştir. Alanın büyüklüğü ve çeşitliliği, ziyaretçilere kendilerini bir doğa cennetinde hissetme fırsatı sunar. Ayder Sit Alanı, aynı zamanda bir milli park olarak koruma altına alınmıştır ve bu nedenle doğal güzelliği ve biyolojik çeşitliliği korunmaktadır.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Ayder Sit Alanı, ziyaretçilere çeşitli aktivite olanakları sunar. Bu alan, 
 
 ## İlginç Bilgiler
 
-- Ayder Sit Alanı, 140 hektarlık bir alanı kapsar
-- Ayder Sit Alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Ayder Sit Alanı, bir milli park olarak koruma altına alınmıştır
 - Ayder Sit Alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar
 - Ayder Sit Alanı, doğa severlerin ve photographerların gözdesi haline gelmiştir

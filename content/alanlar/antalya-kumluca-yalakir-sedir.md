@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"Antalya-Kumluca-Y.alakir Sedir","caption":"Antalya-Kumluca-Y.alakir Sedir","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kumluca-Y.alakir%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227601","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alan Kumluca-Y.alakir Sedir Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+description: "Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alan Kumluca-Y."
 keywords: ["Antalya","Kumluca","Y.alakir Sedir","Milli Park","Akdeniz Bölgesi","Turizm","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227601"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227601"
 
 # Antalya-Kumluca-Y.alakir Sedir
 
-Antalya-Kumluca-Y. Bu doğa harikası, Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alır. Milli Park, Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar. 140 hektarlık bu yeşil alan, ziyaretçilere huzur ve dinlenme imkanı sunarken, aynı zamanda Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar.
+Antalya-Kumluca-Y. Bu doğa harikası, Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alır. Milli Park, Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -45,5 +45,5 @@ Antalya-Kumluca-Y.alakir Sedir Milli Parkı, ziyaretçilerine çeşitli yürüy�
 - Sedir ağacı gibi çeşitli ağaç türleri
 - Yaban hayatı
 - Doğa ile iç içe bir deneyim
-- 140 hektarlık yeşil alan
+
 - Yürüyüş parkurları

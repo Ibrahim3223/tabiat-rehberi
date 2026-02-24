@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Kuş Gözlemciliği","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Keremali Gölü Sulak Alanı","caption":"Keremali Gölü Sulak Alanı","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keremali%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229023","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Keremali Gölü Sulak Alanı, yaklaşık 140 hektarlık alanı ile önemli bir sulak alan olarak dikkat çekiyor."
+"
 keywords: ["Keremali Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Koruma","Turizm","Gezi","Seyahat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229023"
@@ -22,7 +22,7 @@ wikidata_id: "Q108229023"
 
 # Keremali Gölü Sulak Alanı
 
-Keremali Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Yaklaşık 140 hektarlık alanı ile bu sulak alan, önemli bir ekosistem olarak karşımıza çıkıyor. Keremali Gölü Sulak Alanı, doğal güzelliği ve zengin biyolojik çeşitliliği ile ziyaretçilerini etkileyen bir destinasyon olarak biliniyor.
+Keremali Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Keremali Gölü Sulak Alanı, doğal güzelliği ve zengin biyolojik çeşitliliği ile ziyaretçilerini etkileyen bir destinasyon olarak biliniyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Keremali Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca devam ed
 
 ## Coğrafya
 
-Keremali Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutuyor. Bu sulak alan, yaklaşık 140 hektarlık alanı ile, bölgenin ekolojik dengesini koruyan bir bileşen olarak görülmektedir. Keremali Gölü Sulak Alanı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini yansıtması bakımından da önemli bir alandır. Bu bölge, çeşitli bitki türleri ve hayvan türleri ile zengin bir biyolojik çeşitliliğe sahiptir. Keremali Gölü Sulak Alanı, thus, bölgenin coğrafi yapısı ve ekolojik dengesi bakımından önemli bir destinasyon olarak biliniyor. Bu sulak alan, bölgenin iklimini ve toprak yapısını da etkileyen bir faktör olarak karşımıza çıkıyor. Keremali Gölü Sulak Alanı, böylece, bölgenin coğrafi ve ekolojik yapısını şekillendiren önemli bir unsur olarak görülebilir.
+Keremali Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutuyor. Keremali Gölü Sulak Alanı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini yansıtması bakımından da önemli bir alandır. Bu bölge, çeşitli bitki türleri ve hayvan türleri ile zengin bir biyolojik çeşitliliğe sahiptir. Keremali Gölü Sulak Alanı, thus, bölgenin coğrafi yapısı ve ekolojik dengesi bakımından önemli bir destinasyon olarak biliniyor. Bu sulak alan, bölgenin iklimini ve toprak yapısını da etkileyen bir faktör olarak karşımıza çıkıyor. Keremali Gölü Sulak Alanı, böylece, bölgenin coğrafi ve ekolojik yapısını şekillendiren önemli bir unsur olarak görülebilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Keremali Gölü Sulak Alanı, ziyaretçilerine çeşitli aktiviteler sunuyor. Bu
 
 ## İlginç Bilgiler
 
-- Keremali Gölü Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu sulak alan, bölgenin ekolojik dengesini koruyan önemli bir bileşen olarak görülmektedir.
 - Keremali Gölü Sulak Alanı, çeşitli bitki türleri ve hayvan türleri ile zengin bir biyolojik çeşitliliğe sahiptir.
 - Bu sulak alan, mevsimsel değişimlere göre farklı türlerin yaşadığı bir alan olarak dikkat çekiyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q131391715"
 
 # Mustafa Mehi Efendi Türbesi
 
-Mustafa Mehi Efendi Türbesi, Erzurum'un Yakutiye ilçesinde bulunan tarihi bir yapıdır. Yakutiye'nin merkezi konumunda yer alan bu türbe, yaklaşık 140 hektarlık bir alanda bulunmaktadır. Bu tarihi türbe, ziyaretçiler için önemli bir kültürel ve tarihi merkez olarak hizmet vermektedir. Mustafa Mehi Efendi Türbesi, Erzurum'un zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
+Mustafa Mehi Efendi Türbesi, Erzurum'un Yakutiye ilçesinde bulunan tarihi bir yapıdır. Bu tarihi türbe, ziyaretçiler için önemli bir kültürel ve tarihi merkez olarak hizmet vermektedir. Mustafa Mehi Efendi Türbesi, Erzurum'un zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

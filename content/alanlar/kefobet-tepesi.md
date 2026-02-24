@@ -28,7 +28,7 @@ wikidata_id: "Q34878444"
 
 # Keföbet Tepesi
 
-Keföbet Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir ziyaret noktası. Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu tepe, yaklaşık 140 hektarlık alanıyla ziyaretçilerini ağırlıyor. Keföbet Tepesi, Mardin'in önemli tarihi ve kültürel noktalarından biri olarak biliniyor ve bölgeyi ziyaret edenlerin mutlaka görmesi gereken yerlerden biri.
+Keföbet Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir ziyaret noktası. Keföbet Tepesi, Mardin'in önemli tarihi ve kültürel noktalarından biri olarak biliniyor ve bölgeyi ziyaret edenlerin mutlaka görmesi gereken yerlerden biri.
 
 ## Tarihçe
 

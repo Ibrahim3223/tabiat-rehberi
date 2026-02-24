@@ -50,7 +50,7 @@ Mevlana Fevzullah Çingilli Dede Türbesi'ni ziyaret etmek, hem tarihi hem de do
 ## İlginç Bilgiler
 
 - Mevlana Fevzullah Çingilli Dede Türbesi, Türk kültürünün önemli bir parçası
-- Bölge, 140 hektarlık bir yeşil alanı kapsıyor
+
 - Türbe ve çevresi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Mevlana Fevzullah Çingilli Dede Türbesi, önemli tarihi olaylara tanıklık etmiş
 - Bölge, Ege Bölgesi'nin coğrafi güzelliklerini taşıyor

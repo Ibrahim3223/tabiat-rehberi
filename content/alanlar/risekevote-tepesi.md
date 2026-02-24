@@ -28,7 +28,7 @@ wikidata_id: "Q31553313"
 
 # Rişekevote Tepesi
 
-Rişekevote Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Riskevote Tepesi, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Rişekevote Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde bulunan bir tepe. Riskevote Tepesi, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Rişevote Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim. Tep
 
 ## İlginç Bilgiler
 
-- Rişekevote Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Tepenin yüksekliği ve konumu, bölgenin manzarasını şekillendiren önemli faktörler
 - Rişekevote Tepesi, Batman ilinin önemli bir coğrafi noktası

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg","alt":"Bolu-Aladag Saricam 3","caption":"Bolu-Aladag Saricam 3","credit":"Bolu Gölcük Tabiat 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227556","tip":"genel"}]
-description: "Bolu'nun güzide milli parklarından biri olan Bolu-Aladag Saricam 3, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bolu-Aladag Saricam 3","milli park","Bolu","Karadeniz Bölgesi","doğa","flora","fauna","ziyaret","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227556"
@@ -30,7 +30,7 @@ Bolu-Aladag Saricam 3'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Bolu-Aladag Saricam 3, Karadeniz Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapar. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilere geniş açılı manzaralar sunar. Parkın içinde, yürüyüş parkurları, piknik alanları ve doğa gözlem noktaları gibi birçok olanak bulunması, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bolu-Aladag Saricam 3'ün coğrafi konumu, Karadeniz Bölgesi'nin en güzel milli parklarından biri olmasını sağlar. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, serin ve yağışlıdır. Bu iklim, bölgenin flora ve faunası için ideal koşulları sağlar.
+Bolu-Aladag Saricam 3, Karadeniz Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapar. Bölgenin coğrafi yapısı, ziyaretçilere geniş açılı manzaralar sunar. Parkın içinde, yürüyüş parkurları, piknik alanları ve doğa gözlem noktaları gibi birçok olanak bulunması, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bolu-Aladag Saricam 3'ün coğrafi konumu, Karadeniz Bölgesi'nin en güzel milli parklarından biri olmasını sağlar. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, serin ve yağışlıdır. Bu iklim, bölgenin flora ve faunası için ideal koşulları sağlar.
 
 ## Flora ve Fauna
 

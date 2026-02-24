@@ -38,7 +38,7 @@ Aydınoğlu Mehmet Bey Türbesi, tarihsel olarak önemli bir figura ait. Aydıno
 
 ## Coğrafya
 
-Aydınoğlu Mehmet Bey Türbesi, Ödemiş'in sahil şeridinde yer alıyor ve Ege Bölgesi'nin doğal güzelliklerini sunuyor. Türbenin bulunduğu alan, 140 hektarlık bir genişlikte ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Plajın yanı sıra, çevredeki dağlar ve ormanlar, bölgenin doğal güzelliklerini tamamlayan önemli unsurlar. İklim olarak, Ege Bölgesi'nin ılıman iklimi, ziyaretçilere yılın dört mevsimi uygun koşullar sunuyor. Çevre, zengin bir flora ve fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, türbenin yakınında bulunan diğer turistik noktalar, ziyaretçilere bölgenin daha geniş bir perspektiften keşfedilmesi için fırsat sağlıyor.
+Aydınoğlu Mehmet Bey Türbesi, Ödemiş'in sahil şeridinde yer alıyor ve Ege Bölgesi'nin doğal güzelliklerini sunuyor. Plajın yanı sıra, çevredeki dağlar ve ormanlar, bölgenin doğal güzelliklerini tamamlayan önemli unsurlar. İklim olarak, Ege Bölgesi'nin ılıman iklimi, ziyaretçilere yılın dört mevsimi uygun koşullar sunuyor. Çevre, zengin bir flora ve fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, türbenin yakınında bulunan diğer turistik noktalar, ziyaretçilere bölgenin daha geniş bir perspektiften keşfedilmesi için fırsat sağlıyor.
 
 ## Flora ve Fauna
 

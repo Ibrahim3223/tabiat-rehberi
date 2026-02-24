@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Haydardağı Tepesi","caption":"Haydardağı Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386227","tip":"genel"}]
-description: "Hatay ilinin doğal güzelliklerinden biri olan Haydardağı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Haydardağı Tepesi","Hatay","Akdeniz Bölgesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386227"
@@ -36,7 +36,7 @@ Haydardağı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taş�
 
 ## Coğrafya
 
-Haydardağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, 140 hektarlık geniş bir alanı kapsıyor. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor. Akdeniz ikliminin hüküm sürdüğü bu bölge, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar görüyor. Haydardağı Tepesi, flora ve fauna açısından zengin bir bölge. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Tepenin coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunuyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin güzelliğini yakından görebiliyor.
+Haydardağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor. Akdeniz ikliminin hüküm sürdüğü bu bölge, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar görüyor. Haydardağı Tepesi, flora ve fauna açısından zengin bir bölge. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Tepenin coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunuyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin güzelliğini yakından görebiliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Haydardağı Tepesi, ziyaretçilere eşsiz bir doğa deneyimi sunuyor. Bu tepeye
 
 ## İlginç Bilgiler
 
-- Haydardağı Tepesi, 140 hektarlık bir alanı kapsıyor
 - Bu tepe, Akdeniz Bölgesi'nin güzelliğini gösteriyor
 - Haydardağı Tepesi, flora ve fauna açısından zengin bir bölge
 - Bu tepe, ziyaretçilere eşsiz bir doğa deneyimi sunuyor

@@ -48,7 +48,6 @@ Akkavşak Tepesi'ni ziyaret etmek, doğa severler için bir hayal gibi gelebilir
 
 ## İlginç Bilgiler
 
-- Akkavşak Tepesi, 140 hektarlık bir alanı kaplar.
 - Bolu merkezine yakındır.
 - Trekking ve kamp için idealdir.
 - Zengin flora ve fauna çeşitliliğine sahiptir.

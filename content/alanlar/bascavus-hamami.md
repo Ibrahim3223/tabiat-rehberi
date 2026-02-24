@@ -29,7 +29,7 @@ wikidata_id: "Q131739172"
 
 # Başçavuş Hamamı
 
-Başçavuş Hamamı, Yozgat ilinin merkezinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmış ve çevresindeki doğal güzelliklerle birlikte ziyaretçilere geniş bir gezi alanı sunmaktadır. Başçavuş Hamamı, hem yerel halk hem de bölgeyi ziyaret eden turistler için önemli bir çekim merkezi olarak dikkat çekmektedir. Plajın etrafında bulunan çeşitli restoran ve kafeler, ziyaretçilere konaklama ve yemek imkanları sunmaktadır.
+Başçavuş Hamamı, Yozgat ilinin merkezinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Başçavuş Hamamı, hem yerel halk hem de bölgeyi ziyaret eden turistler için önemli bir çekim merkezi olarak dikkat çekmektedir. Plajın etrafında bulunan çeşitli restoran ve kafeler, ziyaretçilere konaklama ve yemek imkanları sunmaktadır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Başçavuş Hamamı, ziyaretçilere geniş bir gezi alanı sunmaktadır. Plaja u
 ## İlginç Bilgiler
 
 - Yozgat ilinin en önemli doğal güzelliklerinden biri
-- 140 hektarlık bir alana yayılmış
+
 - İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımakta
 - Çevresindeki flora ve fauna zenginliği
 - Tarihi yapılar ve kalıntılar

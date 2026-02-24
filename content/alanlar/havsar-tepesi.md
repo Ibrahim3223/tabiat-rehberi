@@ -28,7 +28,7 @@ wikidata_id: "Q31520952"
 
 # Havşar Tepesi
 
-Havşar Tepesi, Tokat'ın Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Havşar Tepesi, doğa severler ve yürüyüşçüler için ideal bir destinasyon.
+ Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Havşar Tepesi, doğa severler ve yürüyüşçüler için ideal bir destinasyon.
 
 ## Tarihçe
 

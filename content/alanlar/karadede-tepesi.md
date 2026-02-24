@@ -28,7 +28,7 @@ wikidata_id: "Q31390834"
 
 # Karadede Tepesi
 
-Karadede Tepesi, Yozgat ilinin sınırları içinde yer alan ve bölgeye hakim bir tepe olarak bilinmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve çevresindeki diğer coğrafi oluşumlarla birlikte önemli bir ekosistem oluşturmaktadır. 200 futbol sahası büyüklüğünde olan bu alan, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekmektedir. Karadede Tepesi, bölgede yer alan diğer tepelerle birlikte bir bütün olarak değerlendirildiğinde, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir.
+Karadede Tepesi, Yozgat ilinin sınırları içinde yer alan ve bölgeye hakim bir tepe olarak bilinmektedir. Karadede Tepesi, bölgede yer alan diğer tepelerle birlikte bir bütün olarak değerlendirildiğinde, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Karadede Tepesi, ziyaretçiler için önemli bir destinasyon olarak görülmekte
 ## İlginç Bilgiler
 
 - Karadede Tepesi, Yozgat ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Karadede Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösterir.
 - Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Karadede Tepesi, bölgede yer alan diğer coğrafi oluşumlarla birlikte, önemli bir su toplama alanı olarak görev yapmaktadır.

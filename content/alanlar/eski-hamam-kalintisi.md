@@ -51,7 +51,7 @@ Eski Hamam Kalıntısı, ziyaretçiler için önemli bir gezi noktası oluşturu
 ## İlginç Bilgiler
 
 - Eski Hamam Kalıntısı, Marmara Bölgesi'nin önemli turizm noktalarından biri
-- 140 hektarlık bir yeşil alanı kaplıyor
+
 - Tarihi kalıntıları ve doğal güzelliği ile dikkat çekiyor
 - Şile'den kolayca ulaşımümkün
 - İlkbahar ve yaz ayları en iyi ziyaret dönemi

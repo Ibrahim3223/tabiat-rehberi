@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarihçi gezileri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Silsile Tepesi","caption":"Silsile Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Silsile%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386201","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden Silsile Tepesi, Gaziantep'in sınırları içerisinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden Silsile Tepesi, Gaziantep'in sınırları içerisinde yer alır."
 keywords: ["Silsile Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","Doğa","Turizm","Gezi","Tepeler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386201"

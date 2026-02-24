@@ -49,7 +49,7 @@ Gellek Tepesi'ni ziyaret etmek, ziyaretçilere bu bölgenin doğal güzelliğini
 ## İlginç Bilgiler
 
 - Gellek Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Gellek Tepesi, coğrafi konumu ve doğal güzelliği ile dikkat çeker
 - Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir
 - Gellek Tepesi, yaban hayatı için önemli bir yaşam alanıdır

@@ -51,7 +51,7 @@ wikidata_id: "Q131391555"
 ## İlginç Bilgiler
 
 - Ünsi Hasan Efendi Türbesi, İstanbul'un önemli dini merkezlerinden biridir.
-- Türbe, 140 hektarlık bir alanda yer alır.
+
 - Ünsi Hasan Efendi, Osmanlı Devleti'nin önemli din adamlarından biridir.
 - Türbe, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekandır.
 - Ünsi Hasan Efendi Türbesi, yılın her döneminde ziyaret edilebilir.

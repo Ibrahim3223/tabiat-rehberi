@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 22'nin tarihi geçmişi, yüzyıllar boyunca süren bir
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 22, coğrafi olarak Salihli, Manisa'da yer alır. Bu bölge, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada bulunmaktadır. Bin Tepeler Tümülüsü 22, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin fauna ile örtülüdür. Ayrıca, bu bölge, iklim bakımından ılıman bir yapıya sahiptir ve ziyaretçileri, dört mevsim boyunca farklı güzelliklerle karşılar. Bin Tepeler Tümülüsü 22, coğrafi konumu itibariyle, ziyaretçilerine, hem tarihi hem de doğal güzellikleri bir arada sunar. Bu bölge, çevreyi keşfetme ve tarihi geçmişi öğrenmek için ideal bir yerdir.
+Bin Tepeler Tümülüsü 22, coğrafi olarak Salihli, Manisa'da yer alır. Bu bölge, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada bulunmaktadır. Ayrıca, bu bölge, iklim bakımından ılıman bir yapıya sahiptir ve ziyaretçileri, dört mevsim boyunca farklı güzelliklerle karşılar. Bin Tepeler Tümülüsü 22, coğrafi konumu itibariyle, ziyaretçilerine, hem tarihi hem de doğal güzellikleri bir arada sunar. Bu bölge, çevreyi keşfetme ve tarihi geçmişi öğrenmek için ideal bir yerdir.
 
 ## Flora ve Fauna
 

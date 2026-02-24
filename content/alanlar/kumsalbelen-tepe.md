@@ -28,7 +28,7 @@ wikidata_id: "Q31385574"
 
 # Kumsalbelen Tepe
 
-Kumsalbelen Tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve Gaziantep'in doğal güzelliklerini gözler önüne seriyor. Kumsalbelen Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak karşımıza çıkıyor. Burada, coğrafi özelliklerin yanı sıra tarihi ve kültürel yönleri de keşfetme mümkün.
+Kumsalbelen Tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekiyor. Kumsalbelen Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak karşımıza çıkıyor. Burada, coğrafi özelliklerin yanı sıra tarihi ve kültürel yönleri de keşfetme mümkün.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kumsalbelen Tepe, ziyaretçilere doğal güzelliklerini keşfetme fırsatı sunu
 ## İlginç Bilgiler
 
 - Kumsalbelen Tepe, Gaziantep'in önemli coğrafi oluşumlarından biri.
-- Tepe, 140 hektarlık alanı kaplıyor.
+
 - Kumsalbelen Tepe, zengin flora ve fauna ile dikkat çekiyor.
 - Tepe, önemli bir ekosistem olarak görülüyor.
 - Kumsalbelen Tepe, yılın her döneminde ziyaret edilebiliyor.

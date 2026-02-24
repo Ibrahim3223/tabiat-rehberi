@@ -37,7 +37,7 @@ Emirci Sultan Türbesi Ve Camii'nin tarihi geçmişi, İç Anadolu Bölgesi'nin 
 
 ## Coğrafya
 
-Emirci Sultan Türbesi Ve Camii, Yozgat ilinin coğrafi olarak önemli bir konumda yer alıyor. İç Anadolu Bölgesi'nin merkezi bir bölümünde bulunan bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, ziyaretçilere hem manevi hem de doğal güzellikleri deneyimleme fırsatı sunuyor. Emirci Sultan Türbesi Ve Camii'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu coğrafi konum, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı tanıyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik kara iklimi burada hüküm sürüyor. Bu, ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor.
+Emirci Sultan Türbesi Ve Camii, Yozgat ilinin coğrafi olarak önemli bir konumda yer alıyor. Bu geniş alan, ziyaretçilere hem manevi hem de doğal güzellikleri deneyimleme fırsatı sunuyor. Emirci Sultan Türbesi Ve Camii'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu coğrafi konum, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı tanıyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik kara iklimi burada hüküm sürüyor. Bu, ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Emirci Sultan Türbesi Ve Camii'ni ziyaret etmek, hem manevi hem de kültürel b
 ## İlginç Bilgiler
 
 - Emirci Sultan Türbesi Ve Camii, Yozgat'ın en önemli dini ve turistik mekanlarından biri.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Emirci Sultan Türbesi Ve Camii, İç Anadolu Bölgesi'nin kültürel ve dini mirasını temsil ediyor.
 - Ziyaretçiler, bu mekanın etrafındaki doğal güzellikleri keşfedebilir.
 - Emirci Sultan Türbesi Ve Camii, yılın her dönemi ziyaret edilebilir.

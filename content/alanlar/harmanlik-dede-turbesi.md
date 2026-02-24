@@ -49,8 +49,6 @@ Harmanlık Dede Türbesi, ziyaretçilerine birçok olanak sunmaktadır. Bu bölg
 
 ## İlginç Bilgiler
 
-- Harmanlık Dede Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur.
-
 - Harmanlık Dede Türbesi, Marmara Denizi'nin kıyısında kurulmuştur.
 - Bu bölge, birçok canlıya ev sahipliği yapmaktadır.
 

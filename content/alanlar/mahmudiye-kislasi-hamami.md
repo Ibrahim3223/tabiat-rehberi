@@ -50,7 +50,7 @@ Mahmudiye Kışlası Hamamı'na ziyaretçiler, yılın her döneminde gelebilir.
 ## İlginç Bilgiler
 
 - Mahmudiye Kışlası Hamamı, Edirne'nin en önemli turizm noktalarından biri
-- Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Mahmudiye Kışlası Hamamı, Marmara Bölgesi'nin coğrafi olarak zengin bir alanında yer alıyor
 - Mekan, çeşitli bitki türleri ile kaplı
 - Mahmudiye Kışlası Hamamı, doğa severler için önemli bir destinasyon

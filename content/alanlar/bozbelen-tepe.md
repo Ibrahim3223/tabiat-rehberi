@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bozbelen Tepe","caption":"Bozbelen Tepe","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozbelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390129","tip":"genel"}]
-description: "Antalya'nın gizli güzelliği, 140 hektarlık doğal alan"
+
 keywords: ["Bozbelen Tepe","Antalya","doğal alan","tepe","Akdeniz Bölgesi","gezi","doğa","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390129"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390129"
 
 # Bozbelen Tepe
 
-Bozbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan 140 hektarlık bir doğal alandır. Bozbelen Tepe, doğa severlerin ve gezi tutkunlarının keşfetmeye hazır olduğu bir destinasyon. Bu tepe, Antalya'nın turizm zenginliklerini gösteren önemli bir noktadır. 140 hektarlık bu yeşil alan, ziyaretçilerine doğanın renklerini ve seslerini sunuyor.
+ Bozbelen Tepe, doğa severlerin ve gezi tutkunlarının keşfetmeye hazır olduğu bir destinasyon. Bu tepe, Antalya'nın turizm zenginliklerini gösteren önemli bir noktadır.
 
 ## Tarihçe
 
@@ -47,8 +47,6 @@ Bozbelen Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu tepe, çe
 Bozbelen Tepe'yi ziyaret etmek, doğa severler için harika bir deneyim olabilir. Bu tepeye, Antalya'dan ulaşım mogelij ve ziyaretçilere, farklı ulaşım seçenekleri sunulmaktadır. Ziyaretçiler, bu tepeyi gezerken, doğanın güzelliğini ve zenginliğini keşfedebilirler. Bozbelen Tepe, yılın her dönemi ziyaret edilebilir, ancak en iyi deneyimi için, mevsimsel koşullar dikkate alınmalıdır. Bu tepe, ziyaretçilerine, doğa yürüyüşleri, manzara izleme ve fotoğraf çekme gibi faaliyetler sunar.
 
 ## İlginç Bilgiler
-
-- Bozbelen Tepe, 140 hektarlık bir doğal alana sahiptir.
 
 - Bozbelen Tepe, Akdeniz Bölgesi'nde yer alır.
 - Bu tepe, flora ve fauna için uygun bir ortamdır.

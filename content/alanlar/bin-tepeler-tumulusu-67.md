@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 67, ziyaretçilerini tarihi ve doğal güzelliklerinin 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 67, Ege Bölgesi'nin gizli köşelerinden biri
-- 140 hektarlık bir alanı kaplıyor
+
 - tarihi geçmişi yüzyıllar boyunca çeşitli uygarlıkların yerleşimine sahne olmuş
 - zengin bir flora ve faunaya sahip
 - mevsimsel değişimler, bu alanın güzelliklerini daha da artırıyor

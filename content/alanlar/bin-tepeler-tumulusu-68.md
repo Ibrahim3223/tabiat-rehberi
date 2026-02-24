@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 68, yüzyıllar boyunca birçok farklı medeniyete ev s
 
 ## Coğrafya
 
-Ahmetli'de yer alan Bin Tepeler Tümülüsü 68, Ege Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu bölge, 140 hektarlık geniş bir alanda yer alıyor ve ziyaretçilerine hem historik yapıları hem de doğal güzellikleri keşfetme fırsatı sunuyor. Coğrafi olarak zengin bir yapıya sahip olan Bin Tepeler Tümülüsü 68, ziyaretçilerini etkileyici manzaralar ve geniş gezi alanları ile karşılayacak. Ege Bölgesi'nin iklimi, bu bölgede ziyaretçilerin yılın her dönemi gezi yapmasına olanak tanır.
+Ahmetli'de yer alan Bin Tepeler Tümülüsü 68, Ege Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir nokta. Coğrafi olarak zengin bir yapıya sahip olan Bin Tepeler Tümülüsü 68, ziyaretçilerini etkileyici manzaralar ve geniş gezi alanları ile karşılayacak. Ege Bölgesi'nin iklimi, bu bölgede ziyaretçilerin yılın her dönemi gezi yapmasına olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 68'i ziyaret etmek, hem tarihi hem de doğal güzellikl
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 68, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri
-- 140 hektarlık geniş bir alanda yer alıyor
+
 - Ziyaretçilerine hem historik yapıları hem de doğal güzellikleri keşfetme fırsatı sunuyor
 - Yüzyıllar boyunca birçok farklı medeniyete ev sahipliği yapmış
 - Zengin bir tarihi geçmişi bulunuyor

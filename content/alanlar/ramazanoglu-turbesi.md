@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/20250204_Ramazano%C4%9Flu_T%C3%BCrbesi_01.jpg","alt":"Ramazanoğlu Türbesi manzarası","credit":"Basak","license":"cc0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ramazano%C4%9Flu%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390537","tip":"genel"}]
-description: "Adana'nın tarihi ve doğal güzelliklerini keşfedin. Ramazanoğlu Türbesi ve çevresindeki yeşil alanlar,\n       yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere huzurlu bir ortam sunar."
+description: "Adana'nın tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Adana","Ramazanoğlu Türbesi","tarih","doğa","yeşil alan","huzur","gezi","seyahat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390537"
@@ -30,7 +30,6 @@ wikidata_id: "Q131390537"
 
 # Ramazanoğlu Türbesi
 
-Ramazanoğlu Türbesi, Adana'nın Seyhan ilçesinde bulunan tarihi bir mekan olup, yaklaşık 140 hektarlık bir yeşil alanı içinde yer alır.
  Ramazanoğlu Türbesi,
    tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir yerdir. Ziyaretçiler, hem tarihi mekanın önemini öğrenebilir hem de
    geniş yeşil alanların keyfini çıkarabilirler. Bu türbe, Adana'nın önemli tarihi noktalarından biri olarak bilinir ve ziyaretçilere
@@ -48,7 +47,6 @@ Ramazanoğlu Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe
 
 ## Coğrafya
 
-Ramazanoğlu Türbesi, Adana'nın Seyhan ilçesinde bulunur ve yaklaşık 140 hektarlık bir yeşil alanı içinde yer alır.
    Bu geniş yeşil alan, ziyaretçilere geniş bir açık alan sunar ve şehir hayatının yoğunluğundan uzaklaşmak isteyenler için
    ideal bir kaçış noktasıdır. Türbe ve çevresindeki yeşil alan, Akdeniz Bölgesi'nin karakteristik ikliminin etkilerini taşır.
    Bölge, genellikle sıcak ve kuru yaz ayları ile ılıman ve yağışlı kış aylarıyla karakterizedir. Ramazanoğlu Türbesi
@@ -83,7 +81,7 @@ Ramazanoğlu Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar v
 ## İlginç Bilgiler
 
 - Ramazanoğlu Türbesi, Adana'nın önemli tarihi mekanlarından biridir.
-- Türbe, yaklaşık 140 hektarlık
+
    bir yeşil alanı içinde yer alır.
 - Bölge, çeşitli bitki türleri ile kaplıdır.
 - Ramazanoğlu Türbesi, zengin fauna'ya

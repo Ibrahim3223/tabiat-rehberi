@@ -29,7 +29,7 @@ wikidata_id: "Q31389853"
 
 # Atabey Tepesi
 
-Atabey Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Atabey Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve burada geçirilen her an, unutulmaz bir deneyim oluyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı tanıtmak için mükemmel bir fırsat sunuyor.
+ Atabey Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve burada geçirilen her an, unutulmaz bir deneyim oluyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı tanıtmak için mükemmel bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Atabey Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme
 
 ## İlginç Bilgiler
 
-- Atabey Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepenin çevresi, çeşitli bitki türleri ile kaplı
 - Atabey Tepesi, zengin fauna ile dikkat çekiyor
 - Tepenin iklimi, karasal bir yapıya sahip

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Mount_of_Olives_Jerusalem.jpg","alt":"Zeytin Tepe manzarası","credit":"David Lisbona from Haifa, Israel","license":"cc-by-2.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytin%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386248","tip":"genel"}]
-description: "Hatay'da bulunan Zeytin Tepe, Akdeniz Bölgesi'nin gizli bir hazineți. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Hatay'da bulunan Zeytin Tepe, Akdeniz Bölgesi'nin gizli bir hazineți."
 keywords: ["Zeytin Tepe","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386248"
@@ -29,7 +29,7 @@ wikidata_id: "Q31386248"
 
 # Zeytin Tepe
 
-Zeytin Tepe, Hatay ilinin güzide bir noktası olarak karşımıza çıkıyor. 140 hektarlık bu geniş alan, ziyaretçilerini doğanın kucağına davet ediyor. Zeytin Tepe, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
+Zeytin Tepe, Hatay ilinin güzide bir noktası olarak karşımıza çıkıyor. Zeytin Tepe, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 

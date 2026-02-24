@@ -29,7 +29,7 @@ wikidata_id: "Q131738777"
 
 # Olympos Vespasianus Hamamı
 
-Olympos Vespasianus Hamamı, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nin turizm cennetlerinden biri olan Olympos'ta yer alıyor. Bu tarihi ve doğal güzellikler sunan plaj, yaklaşık 140 hektarlık bir alanı kaplıyor. Historik bir geçmişe sahip olan bu mekan, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Vespasianus Hamamı, Roma İmparatoru Vespasianus'un adını taşıyor ve tarihi geçmişiyle önemli bir kültürel miras olarak kabul ediliyor.
+Olympos Vespasianus Hamamı, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nin turizm cennetlerinden biri olan Olympos'ta yer alıyor. Historik bir geçmişe sahip olan bu mekan, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Vespasianus Hamamı, Roma İmparatoru Vespasianus'un adını taşıyor ve tarihi geçmişiyle önemli bir kültürel miras olarak kabul ediliyor.
 
 ## Tarihçe
 

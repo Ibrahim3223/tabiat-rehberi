@@ -50,7 +50,7 @@ Sarı Ana Türbesi'ni ziyaret etmek, Marmaris'in tarihini ve kültürünü deney
 ## İlginç Bilgiler
 
 - Sarı Ana Türbesi, Marmaris'in merkezine yakın bir konumda yer alıyor
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile çevrili
 - İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor
 - Ziyaretçilere, yılın dört mevsimi farklı güzellikler sunuyor

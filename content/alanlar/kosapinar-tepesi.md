@@ -28,7 +28,7 @@ wikidata_id: "Q31389026"
 
 # Koşapınar Tepesi
 
-Koşapınar Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğa harikasıdır. Bu büyüleyici tepe, 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Koşapınar Tepesi, doğa severler için bir cennet olup, ziyaretçilerine doğanın tüm güzelliğini sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
+ Koşapınar Tepesi, doğa severler için bir cennet olup, ziyaretçilerine doğanın tüm güzelliğini sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Koşapınar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Koşapınar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Bu tepe, 140 hektarlık bir alanı kaplar ve ziyaretçilerini geniş bir görüş açısıyla baş başa bırakır. Koşapınar Tepesi'nin coğrafi konumu, ziyaretçilerine doğanın tüm güzelliğini sunar. Burada, çeşitli bitki türleri, zengin fauna ve geniş bir görüş açısı ile karşılaşabilirsiniz. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve onlara unutulmaz bir deneyim sunar. Koşapınar Tepesi'nin iklimi, karasal iklim özellikleri gösterir ve ziyaretçilere dört mevsimi ayrı ayrı deneyimleme fırsatı sunar.
+Koşapınar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Koşapınar Tepesi'nin coğrafi konumu, ziyaretçilerine doğanın tüm güzelliğini sunar. Burada, çeşitli bitki türleri, zengin fauna ve geniş bir görüş açısı ile karşılaşabilirsiniz. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve onlara unutulmaz bir deneyim sunar. Koşapınar Tepesi'nin iklimi, karasal iklim özellikleri gösterir ve ziyaretçilere dört mevsimi ayrı ayrı deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Koşapınar Tepesi'ni ziyaret etmek, doğa severler için bir hayaldir. Bu tepe,
 
 ## İlginç Bilgiler
 
-- Koşapınar Tepesi, 140 hektarlık bir alanı kaplar
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kapsar
 - Koşapınar Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiler
 - Bu tepe, doğa severler için bir cennet olup, ziyaretçilerine doğanın tüm güzelliğini sunar
 - Koşapınar Tepesi, tarihi bir geçmişe sahiptir

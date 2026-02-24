@@ -49,7 +49,7 @@ Eğrikaya Tepesi, Isparta'nın en önemli turizm merkezlerinden biri. Burada, ç
 ## İlginç Bilgiler
 
 - Eğrikaya Tepesi, Isparta'nın en yüksek noktalarından biri.
-- Eğrikaya Tepesi, 140 hektarlık bir alanı kapsıyor.
+
 - Eğrikaya Tepesi, çeşitli bitki türleri ve zengin fauna ile karşılaşabileceğiniz bir yer.
 - Eğrikaya Tepesi, Isparta'nın tarihi geçmişinin önemli bir parçası.
 - Eğrikaya Tepesi, Isparta'nın coğrafi yapısının önemli bir parçası.

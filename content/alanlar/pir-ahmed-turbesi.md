@@ -29,7 +29,7 @@ wikidata_id: "Q131391737"
 
 # Pir Ahmed Türbesi
 
-Pir Ahmed Türbesi, İç Anadolu Bölgesi'nin güzide illerinden Gümüşhane'de, Trabzon Vilayeti sınırları içinde yer alan bir doğal ve tarihi güzelliktir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan, geniş ve yeşillik bir alana sahiptir. Gümüşhane'nin tarihi ve doğal güzelliklerini bir arada sunan bu mekan, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktası oluşturuyor.
+Pir Ahmed Türbesi, İç Anadolu Bölgesi'nin güzide illerinden Gümüşhane'de, Trabzon Vilayeti sınırları içinde yer alan bir doğal ve tarihi güzelliktir. Gümüşhane'nin tarihi ve doğal güzelliklerini bir arada sunan bu mekan, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktası oluşturuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pir Ahmed Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Pir Ahmed Türbesi, coğrafi olarak Gümüşhane'nin güzide bir bölgesinde yer alır. Trabzon Vilayeti sınırları içerisinde bulunan bu bölge, İç Anadolu Bölgesi'nin doğal güzelliklerini sunar. Bölge, 140 hektarlık geniş bir alanı kaplar ve yeşillik bir görünüm sunar. Coğrafi konumu itibariyle, ziyaretçilere doğanın güzelliğini sunan bu mekan, aynı zamanda tarihi ve kültürel zenginliklere de sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve dört mevsimi yaşayarak, her mevsim ziyaretçilere farklı bir güzellik sunar. Çevre, doğal güzellikler ve tarihi yapılar ile dolu olan bu bölge, ziyaretçilerini etkileyen bir mekan olarak bilinir.
+Pir Ahmed Türbesi, coğrafi olarak Gümüşhane'nin güzide bir bölgesinde yer alır. Trabzon Vilayeti sınırları içerisinde bulunan bu bölge, İç Anadolu Bölgesi'nin doğal güzelliklerini sunar. Coğrafi konumu itibariyle, ziyaretçilere doğanın güzelliğini sunan bu mekan, aynı zamanda tarihi ve kültürel zenginliklere de sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve dört mevsimi yaşayarak, her mevsim ziyaretçilere farklı bir güzellik sunar. Çevre, doğal güzellikler ve tarihi yapılar ile dolu olan bu bölge, ziyaretçilerini etkileyen bir mekan olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Pir Ahmed Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keş
 ## İlginç Bilgiler
 
 - Pir Ahmed Türbesi, Gümüşhane'nin en önemli tarihi mekanlarından biridir.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Pir Ahmed Türbesi, Trabzon Vilayeti sınırları içerisinde yer alır.
 - Bu bölge, flora ve fauna açısından zengindir.
 - Pir Ahmed Türbesi, ziyaretçilerine doğanın güzelliğini sunar.

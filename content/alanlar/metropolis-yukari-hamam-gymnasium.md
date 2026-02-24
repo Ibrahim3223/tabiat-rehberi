@@ -49,8 +49,6 @@ Metropolis Yukarı Hamam Gymnasium'u ziyaret etmek, ziyaretçiler için keyifli 
 
 ## İlginç Bilgiler
 
-- Metropolis Yukarı Hamam Gymnasium, 140 hektarlık bir alana sahip
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Metropolis Yukarı Hamam Gymnasium, Ege Bölgesi'nin güzide şehri İzmir'in Torbalı ilçesinde yer alıyor
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrili
 - Metropolis Yukarı Hamam Gymnasium, hem deniz hem de doğa severler için ideal bir destinasyon

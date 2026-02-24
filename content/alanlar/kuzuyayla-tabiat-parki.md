@@ -50,7 +50,6 @@ Kuzuyayla Tabiat Parkı, ziyaretçiler için ideal bir destinasyondur. Ziyaretç
 
 ## İlginç Bilgiler
 
-- Kuzuyayla Tabiat Parkı, 140 hektarlık bir alan
 - Parkın deniz seviyesinden yüksekliği 500 metre
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır
 - Park, yaban hayatı açısından da zengindir

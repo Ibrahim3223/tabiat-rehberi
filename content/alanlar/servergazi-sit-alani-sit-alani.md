@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Servergazi Sit Alanı","caption":"Servergazi Sit Alanı","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Servergazi%20Sit%20Alan%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226818","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Servergazi Sit Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Servergazi Sit Alanı","İç Anadolu Bölgesi","doğa","sit alanı","korunan alan","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226818"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226818"
 
 # Servergazi Sit Alanı Sit Alanı
 
-Servergazi Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir alanı kapsar. Bölgenin coğrafi yapısı ve iklimi, burada yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlar. Servergazi Sit Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak amacıyla sit alanı olarak belirlenmiştir. Bu alan, aynı zamanda ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunar.
+ Bölgenin coğrafi yapısı ve iklimi, burada yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlar. Servergazi Sit Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak amacıyla sit alanı olarak belirlenmiştir. Bu alan, aynı zamanda ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunar.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Servergazi Sit Alanı, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 Servergazi Sit Alanı, doğa severler ve araştırma yapanlar için önemli bir destinasyondur. Ziyaretçiler, bu alanda doğayla iç içe olabilir, çeşitli bitki ve hayvan türlerini gözlemleyebilir. Alanın coğrafi yapısı, ziyaretçilere farklı manzaralar ve doğal güzellikler sunar. Servergazi Sit Alanı'na ulaşım, bölgenin ulaşım olanaklarına bağlı olarak değişebilir. Ziyaretçilerin, bu alanı ziyaret etmeden önce, ulaşım seçeneklerini ve ziyaret saatlerini öğrenmeleri önerilir. Ziyaret süresi, ziyaretçilerin ilgi alanlarına ve amaçlarına göre değişebilir.
 
 ## İlginç Bilgiler
-
-- Servergazi Sit Alanı, 140 hektarlık bir alanı kapsar.
 
 - İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu bölgede yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlar.
 - Servergazi Sit Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak amacıyla sit alanı olarak belirlenmiştir.

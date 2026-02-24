@@ -38,7 +38,7 @@ Seydi Mahmut Hayrani Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. B
 
 ## Coğrafya
 
-Seydi Mahmut Hayrani Türbesi, Konya'nın Akşehir ilçesinde bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak orta kısmında yer almaktadır. Türbenin bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir. Çevresi, tarihi ve kültürel açıdan önemli yapılarla dolu bir bölgedir. Akşehir'in merkezine yakın bir konumda bulunan türbe, ulaşım açısından kolay bir bölgededir. Türbenin bulunduğu bölge, doğal güzellikleri ile de dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. İklim olarak, karasal iklimin etkileri görülmektedir. Kışlar soğuk, yazlar ise sıcakk geçmektedir. Bu bölge, coğrafi ve tarihi açıdan önemli bir konumda bulunmaktadır.
+Seydi Mahmut Hayrani Türbesi, Konya'nın Akşehir ilçesinde bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak orta kısmında yer almaktadır. Çevresi, tarihi ve kültürel açıdan önemli yapılarla dolu bir bölgedir. Akşehir'in merkezine yakın bir konumda bulunan türbe, ulaşım açısından kolay bir bölgededir. Türbenin bulunduğu bölge, doğal güzellikleri ile de dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. İklim olarak, karasal iklimin etkileri görülmektedir. Kışlar soğuk, yazlar ise sıcakk geçmektedir. Bu bölge, coğrafi ve tarihi açıdan önemli bir konumda bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Seydi Mahmut Hayrani Türbesi'ni ziyaret etmek, tarihi ve kültürel açıdan ö
 
 - Seydi Mahmut Hayrani, bir veli olarak bilinmektedir
 - Türbe, yüzyıllar öncesine dayanmaktadır
-- 140 hektarlık bir alana sahiptir
+
 - Akşehir'in merkezine yakın bir konumda bulunmaktadır
 - Doğal güzellikleri ile dikkat çekmektedir

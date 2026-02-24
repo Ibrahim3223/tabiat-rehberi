@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Yarandağı Tepe","caption":"Yarandağı Tepe","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaranda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387855","tip":"genel"}]
-description: "İzmir'in Ege Bölgesi'nde yer alan Yarandağı Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Doğal güzellikleri ve tarihi önemi ile dikkat çekiyor."
+ Doğal güzellikleri ve tarihi önemi ile dikkat çekiyor."
 keywords: ["Yarandağı Tepe","İzmir","Ege Bölgesi","doğal güzellik","tarih","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387855"
@@ -47,8 +47,6 @@ Yarandağı Tepe, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistem
 Yarandağı Tepe, ziyaretçilere hem doğa hem de tarih hakkında bilgiler sunuyor. Bu bölge, doğa severler ve tarih meraklıları için önemli bir destinasyon. Yarandağı Tepe'ye ulaşım, İzmir'in merkezinden possível. Yarandağı Tepe, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz aylarında daha çok ziyaretçi çekiyor.
 
 ## İlginç Bilgiler
-
-- Yarandağı Tepe, 140 hektarlık bir alan sunuyor.
 
 - Yarandağı Tepe, doğal güzellikleri ile dikkat çekiyor.
 - Bu bölge, tarihi önemi ile dikkat çekiyor.

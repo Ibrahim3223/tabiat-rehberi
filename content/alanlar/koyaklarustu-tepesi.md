@@ -28,7 +28,7 @@ wikidata_id: "Q32200777"
 
 # Koyaklarüstü Tepesi
 
-Koyaklarüstü Tepesi, Diyarbakır ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Koyaklarüstü Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Tepenin yüksekliği ve genişliği, bölgenin iklimini ve yaban hayatını etkiliyor. Koyaklarüstü Tepesi, ziyaretçilerine bölge hakkında derin bilgiler sunuyor.
+Koyaklarüstü Tepesi, Diyarbakır ilinin sınırları içerisinde yer alan bir tepe. Koyaklarüstü Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Tepenin yüksekliği ve genişliği, bölgenin iklimini ve yaban hayatını etkiliyor. Koyaklarüstü Tepesi, ziyaretçilerine bölge hakkında derin bilgiler sunuyor.
 
 ## Tarihçe
 

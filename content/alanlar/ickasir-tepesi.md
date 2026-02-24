@@ -48,8 +48,6 @@ Içkasır Tepesi'ni ziyaret etmek, ziyaretçilere doğayla iç içe olmayı ve b
 
 ## İlginç Bilgiler
 
-- Içkasır Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar.
-
 - Içkasır Tepesi, çeşitli bitki türlerini barındırır.
 - Bu tepe, çeşitli hayvan türlerini barındırır.
 - Içkasır Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.

@@ -29,7 +29,7 @@ wikidata_id: "Q135582375"
 
 # Şeyh Bedreddin Türbesi
 
-Şeyh Bedreddin Türbesi, Konya'nın Ilgın ilçesinde yer alan tarihi ve kültürel bir mekândır. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin etrafı, tarihi değerlere ve doğal güzelliklere sahiptir. Bu mekan, hem tarihsel hem de kültürel açıdan önemli bir yer olarak bilinmektedir. Ziyaretçiler, bu türbeyi gezerek hem tarihi hem de kültürel değerlere tanıklık edebilirler.
+Şeyh Bedreddin Türbesi, Konya'nın Ilgın ilçesinde yer alan tarihi ve kültürel bir mekândır. Türbenin etrafı, tarihi değerlere ve doğal güzelliklere sahiptir. Bu mekan, hem tarihsel hem de kültürel açıdan önemli bir yer olarak bilinmektedir. Ziyaretçiler, bu türbeyi gezerek hem tarihi hem de kültürel değerlere tanıklık edebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q135582375"
 
 ## Coğrafya
 
-Şeyh Bedreddin Türbesi, Konya'nın Ilgın ilçesinde yer almaktadır. Bu ilçe, İç Anadolu Bölgesi'nde bulunmaktadır. Türbenin etrafı, doğal güzelliklere ve tarihi yapılara sahiptir. Yaklaşık 140 hektarlık bir alan üzerinde kurulmuş olan bu türbe, geniş bir görünüm sunmaktadır. Türbenin bulunduğu bölge, iklim açısından ılıman bir yapıya sahiptir. Kışlar soğuk, yazlar ise sıcakk geçmektedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yer almaktadır. Şeyh Bedreddin Türbesi, doğal güzellikleri ve tarihi değerleri ile dikkat çekmektedir. Ziyaretçiler, bu türbeyi gezerek hem tarihi hem de doğal güzelliklere tanıklık edebilirler. Türbenin coğrafi konumu, ziyaretçilerin ilgisini çekmektedir.
+Şeyh Bedreddin Türbesi, Konya'nın Ilgın ilçesinde yer almaktadır. Bu ilçe, İç Anadolu Bölgesi'nde bulunmaktadır. Türbenin etrafı, doğal güzelliklere ve tarihi yapılara sahiptir. Türbenin bulunduğu bölge, iklim açısından ılıman bir yapıya sahiptir. Kışlar soğuk, yazlar ise sıcakk geçmektedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yer almaktadır. Şeyh Bedreddin Türbesi, doğal güzellikleri ve tarihi değerleri ile dikkat çekmektedir. Ziyaretçiler, bu türbeyi gezerek hem tarihi hem de doğal güzelliklere tanıklık edebilirler. Türbenin coğrafi konumu, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ wikidata_id: "Q135582375"
 
 - Şeyh Bedreddin, bir din ve düşünce adamı olarak bilinmektedir.
 - Türbenin inşası, onun anısına yapılmıştır.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Türbenin etrafı, tarihi değerlere ve doğal güzelliklere sahiptir.
 - Ziyaretçiler, türbeyi gezerek hem tarihi hem de kültürel değerlere tanıklık edebilirler.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotografc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kad%C4%B1nc%C4%B1k_Valley_6.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_6.jpg","alt":"Mersin-Anamur-Caltibuku Kızılçam","caption":"Mersin-Anamur-Caltibuku Kızılçam","credit":"Kadıncık Valley 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Anamur-Caltibuku%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227433","tip":"genel"}]
-description: "Mersin'de yer alan milli park, 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor"
+
 keywords: ["Mersin","Anamur","Caltibuku Kızılçam","milli park","yeşil alan","fauna","ekoloji","doğal yaşam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227433"
@@ -30,7 +30,7 @@ Mersin-Anamur-Caltibuku Kızılçam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Mersin-Anamur-Caltibuku Kızılçam milli parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Milli parkın coğrafi yapısı, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Milli parkın bulunduğu bölge, yüksek bir konumda yer alıyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Milli parkın coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor.
+Mersin-Anamur-Caltibuku Kızılçam milli parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Milli parkın bulunduğu bölge, yüksek bir konumda yer alıyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Milli parkın coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Anamur-Caltibuku Kızılçam milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı
 - Zengin fauna yapısı
 - Mersin'in Akdeniz Bölgesi'nde yer alıyor
 - Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor

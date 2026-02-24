@@ -30,7 +30,7 @@ wikidata_id: "Q131391160"
 
 # Nişancı Hamza Paşa Türbesi
 
-Nişancı Hamza Paşa Türbesi, Üsküdar'ın merkezinde, Marmara Denizi'nin kıyısında yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde yer almaktadır. 200 futbol sahası büyüklüğünde olan bu yeşil alan, hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. İstanbul'un kalabalık ve hızlı temposundan kaçmak isteyenler için bir kaçış noktası olan Nişancı Hamza Paşa Türbesi ve plajı, hem yerli hem de yabancı ziyaretçiler tarafından sık sık tercih edilmektedir.
+Nişancı Hamza Paşa Türbesi, Üsküdar'ın merkezinde, Marmara Denizi'nin kıyısında yer alan tarihi bir türbe ve plaj alanıdır. İstanbul'un kalabalık ve hızlı temposundan kaçmak isteyenler için bir kaçış noktası olan Nişancı Hamza Paşa Türbesi ve plajı, hem yerli hem de yabancı ziyaretçiler tarafından sık sık tercih edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nişancı Hamza Paşa Türbesi, tarihsel olarak önemli bir figür olan Nişanc�
 
 ## Coğrafya
 
-Nişancı Hamza Paşa Türbesi, Üsküdar'ın merkezi bölümünde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölge, coğrafi olarak Marmara Bölgesi'nin bir parçasıdır. Türbenin ve plajın bulunduğu alan, geniş bir yeşil alanın içinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu yeşil alan, 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Bölgenin coğrafi yapısı, denize yakınlığı ve geniş yeşil alanları ile birlikte, ziyaretçilere güzel bir manzara ve dinlenme alanı sunmaktadır. İklim olarak, bölgede Karadeniz ve Akdeniz iklimlerinin bir karışımı görülür. Yaz ayları sıcak ve nemli, kış ayları ise ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, Nişancı Hamza Paşa Türbesi ve plajını yıl boyunca ziyaret etmek için uygun bir destinasyon haline getirir.
+Nişancı Hamza Paşa Türbesi, Üsküdar'ın merkezi bölümünde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölge, coğrafi olarak Marmara Bölgesi'nin bir parçasıdır. Bölgenin coğrafi yapısı, denize yakınlığı ve geniş yeşil alanları ile birlikte, ziyaretçilere güzel bir manzara ve dinlenme alanı sunmaktadır. İklim olarak, bölgede Karadeniz ve Akdeniz iklimlerinin bir karışımı görülür. Yaz ayları sıcak ve nemli, kış ayları ise ılıman ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, Nişancı Hamza Paşa Türbesi ve plajını yıl boyunca ziyaret etmek için uygun bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

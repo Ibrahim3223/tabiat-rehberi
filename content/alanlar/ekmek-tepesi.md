@@ -28,7 +28,7 @@ wikidata_id: "Q31387181"
 
 # Ekmek Tepesi
 
-Ekmek Tepesi, Kastamonu'nun Karadeniz Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Kastamonu'nun merkezine yakın bir konumda bulunan Ekmek Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçilere doğayla iç içe olmak için eşsiz bir fırsat sunar.
+ Kastamonu'nun merkezine yakın bir konumda bulunan Ekmek Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçilere doğayla iç içe olmak için eşsiz bir fırsat sunar.
 
 ## Tarihçe
 

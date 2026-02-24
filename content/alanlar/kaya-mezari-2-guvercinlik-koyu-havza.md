@@ -37,7 +37,7 @@ Kaya Mezarı 2'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeşi
 
 ## Coğrafya
 
-Kaya Mezarı 2, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin ve mavinin birleştiği bir görünüme sahiptir. Bu mekan, 140 hektarlık bir alana yayılmış ve çevresi ormanlarla çevrilidir. Kaya Mezarı 2, yüksek bir konumda bulunmakta ve bu yükseklik, ziyaretçilere bölgeyi panoramik olarak görmelerine olanak tanır. Mekanın coğrafi yapısı, aynı zamanda çeşitli bitki ve hayvan türlerinin yaşamına da ev sahipliği yapmaktadır. Kaya Mezarı 2, Karadeniz Bölgesi'nin coğrafi güzelliğini ve çeşitliliğini keşfetmek için ideal bir yer.
+Kaya Mezarı 2, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin ve mavinin birleştiği bir görünüme sahiptir. Kaya Mezarı 2, yüksek bir konumda bulunmakta ve bu yükseklik, ziyaretçilere bölgeyi panoramik olarak görmelerine olanak tanır. Mekanın coğrafi yapısı, aynı zamanda çeşitli bitki ve hayvan türlerinin yaşamına da ev sahipliği yapmaktadır. Kaya Mezarı 2, Karadeniz Bölgesi'nin coğrafi güzelliğini ve çeşitliliğini keşfetmek için ideal bir yer.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kaya Mezarı 2, ziyaretçiler için çeşitli olanaklar sunar. Ziyaretçiler, bu
 
 ## İlginç Bilgiler
 
-- Kaya Mezarı 2, 140 hektarlık bir alana yayılmış
 - Bu mekan, yüksek bir konumda bulunmakta
 - Kaya Mezarı 2, çeşitli bitki ve hayvan türlerinin yaşamına ev sahipliği yapmaktadır
 - Ziyaretçiler, bu mekanın tarihi atmosferini keşfedebilir

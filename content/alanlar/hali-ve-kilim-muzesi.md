@@ -29,7 +29,7 @@ wikidata_id: "Q132949463"
 
 # Halı ve Kilim Müzesi
 
-İstanbul'un kalbinde yer alan Halı ve Kilim Müzesi, 140 hektarlık bir alan üzerinde kurulu. Müzenin koleksiyonunda, farklı dönemlere ait çeşitli halı ve kilimler yer alıyor. Her bir eser, Türk sanatının zenginliğini ve çeşitliliğini gösteriyor. Ziyaretçiler, bu eşsiz koleksiyonu keşfederek Türk kültürünü daha yakından tanıyabilirler.
+ Müzenin koleksiyonunda, farklı dönemlere ait çeşitli halı ve kilimler yer alıyor. Her bir eser, Türk sanatının zenginliğini ve çeşitliliğini gösteriyor. Ziyaretçiler, bu eşsiz koleksiyonu keşfederek Türk kültürünü daha yakından tanıyabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Halı ve Kilim Müzesi'nin tarihi geçmişi, Türk sanatının gelişimi ile ba�
 
 ## Coğrafya
 
-Halı ve Kilim Müzesi, İstanbul'un merkezi bir bölgesinde yer alıyor. Müze, 140 hektarlık bir alan üzerinde kurulu ve geniş bir bahçe ile çevrili. Bahçede, çeşitli ağaçlar ve çiçekler bulunuyor ve ziyaretçilere huzurlu bir ortam sunuyor. Müzenin yapısı, modern ve geleneksel mimariyi bir araya getiriyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Müze, İstanbul'un diğer turistik yerlerine yakınlığı ile dikkat çekiyor ve ziyaretçilere şehirdeki diğer önemli noktaları keşfetme fırsatı sunuyor. İklim, ziyaretçilerin yılın her döneminde müze ziyaretlerini keyifli hale getirecek şekilde güneşli ve ılıman.
+Halı ve Kilim Müzesi, İstanbul'un merkezi bir bölgesinde yer alıyor. Bahçede, çeşitli ağaçlar ve çiçekler bulunuyor ve ziyaretçilere huzurlu bir ortam sunuyor. Müzenin yapısı, modern ve geleneksel mimariyi bir araya getiriyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Müze, İstanbul'un diğer turistik yerlerine yakınlığı ile dikkat çekiyor ve ziyaretçilere şehirdeki diğer önemli noktaları keşfetme fırsatı sunuyor. İklim, ziyaretçilerin yılın her döneminde müze ziyaretlerini keyifli hale getirecek şekilde güneşli ve ılıman.
 
 ## Flora ve Fauna
 

@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fotoğraf çekimi","dinlen
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Tarihi Yalı Hamamı","caption":"Tarihi Yalı Hamamı","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Yal%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739236","tip":"genel"}]
-description: "İzmit'in tarihi ve doğal güzellikleri arasında yer alan Tarihi Yalı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tarihi Yalı Hamamı","İzmit","Anadolu eyaleti","İç Anadolu Bölgesi","doğal alanlar","tarihi mekanlar","yeşil alanlar","gezi noktaları","turistik yerler","çevre güzellikleri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739236"
@@ -49,7 +49,6 @@ Tarihi Yalı Hamamı, ziyaretçilerine birçok olanak sunuyor. Bu alanı ziyaret
 
 ## İlginç Bilgiler
 
-- Tarihi Yalı Hamamı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Tarihi Yalı Hamamı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor
 - Tarihi Yalı Hamamı, zengin bir flora ve fauna sunuyor
 - Tarihi Yalı Hamamı, ilkbahar ve yaz aylarında en çok ziyaret ediliyor

@@ -38,7 +38,7 @@ Ya Vedûd Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanır. O d
 
 ## Coğrafya
 
-Ya Vedûd Türbesi, Eyüpsultan ilçesinin merkezinde yer alır ve çevresinde çeşitli tarihi mekanlar bulunur. Türbenin bulunduğu bölge, Haliç'in kıyısında yer alır ve manzarası ile ziyaretçilerini etkiler. 140 hektarlık yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Bu bölgede, çeşitli bitki türleri ve zengin bir fauna bulunur. Türbenin mimari yapısı, Osmanlı dönemine ait özellikleri taşır ve İstanbul'un tarihi dokusunu korur. Çevresindeki tarihi eserler ve yapılar, bu bölgenin kültürel önemini vurgular.
+Ya Vedûd Türbesi, Eyüpsultan ilçesinin merkezinde yer alır ve çevresinde çeşitli tarihi mekanlar bulunur. Türbenin bulunduğu bölge, Haliç'in kıyısında yer alır ve manzarası ile ziyaretçilerini etkiler. Bu bölgede, çeşitli bitki türleri ve zengin bir fauna bulunur. Türbenin mimari yapısı, Osmanlı dönemine ait özellikleri taşır ve İstanbul'un tarihi dokusunu korur. Çevresindeki tarihi eserler ve yapılar, bu bölgenin kültürel önemini vurgular.
 
 ## Flora ve Fauna
 

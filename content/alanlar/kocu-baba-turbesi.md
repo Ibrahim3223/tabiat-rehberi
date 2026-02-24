@@ -29,7 +29,7 @@ wikidata_id: "Q131390863"
 
 # Koçu Baba Türbesi
 
-Kırıkkale'nin Balışeyh ilçesinde yer alan Koçu Baba Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Koçu Baba Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Bu mekan, özellikle doğa severler ve tarih meraklıları için unutulmaz bir deneyim sunar.
+Kırıkkale'nin Balışeyh ilçesinde yer alan Koçu Baba Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Koçu Baba Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Bu mekan, özellikle doğa severler ve tarih meraklıları için unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Koçu Baba Türbesi'ni ziyaret etmek, ziyaretçiler için özel bir deneyim suna
 ## İlginç Bilgiler
 
 - Koçu Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alır
-- Bölge, yaklaşık 140 hektarlık bir yeşil alana sahiptir
+
 - Koçu Baba Türbesi, tarihi ve doğal güzelliklerin birleştiği bir noktadır
 - Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir
 - Koçu Baba Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar

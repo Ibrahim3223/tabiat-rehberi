@@ -28,7 +28,7 @@ wikidata_id: "Q31548887"
 
 # Deryasi Tepesi
 
-Deryasi Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve coğrafi güzelliği ile tarihi geçmişiyle dikkat çeken bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Deryasi Tepesi, ziyaretçilerini doğanın güzelliğine ve tarihi eserlerine davet eder. Burada, doğal güzelliklerin yanı sıra, tarihi yapılar ve kalıntılar da bulunur. Deryasi Tepesi, Siirt ilinin önemli turizm merkezlerinden biri olarak kabul edilir.
+ Deryasi Tepesi, ziyaretçilerini doğanın güzelliğine ve tarihi eserlerine davet eder. Burada, doğal güzelliklerin yanı sıra, tarihi yapılar ve kalıntılar da bulunur. Deryasi Tepesi, Siirt ilinin önemli turizm merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Deryasi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıklar�
 
 ## Coğrafya
 
-Deryasi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini yansıtan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepenin etrafında, doğal güzellikler ve tarihi kalıntılar bulunur. Deryasi Tepesi, Siirt ilinin önemli coğrafi bölgelerinden biri olarak kabul edilir. Burada, ziyaretçilerin doğanın güzelliğine tanık olmak için çeşitli olanaklar bulunur. Deryasi Tepesi, coğrafi konumu itibariyle, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Bu tepenin coğrafi güzelliği, ziyaretçileri için önemli bir çekim noktasıdır.
+ Bu tepenin etrafında, doğal güzellikler ve tarihi kalıntılar bulunur. Deryasi Tepesi, Siirt ilinin önemli coğrafi bölgelerinden biri olarak kabul edilir. Burada, ziyaretçilerin doğanın güzelliğine tanık olmak için çeşitli olanaklar bulunur. Deryasi Tepesi, coğrafi konumu itibariyle, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Bu tepenin coğrafi güzelliği, ziyaretçileri için önemli bir çekim noktasıdır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Deryasi Tepesi'ne ziyaretçiler, çeşitli ulaşım araçlarını kullanarak ula
 
 ## İlginç Bilgiler
 
-- Deryasi Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepenin etrafında, doğal güzellikler ve tarihi kalıntılar bulunur.
 - Deryasi Tepesi, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar.
 - Bu tepenin flora ve fauna zenginliği, ziyaretçileri için önemli bir çekim noktasıdır.

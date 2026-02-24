@@ -37,7 +37,7 @@ Kızlar Sarayı Hamamı'nın tarihi geçmişi, Amasya'nın tarihine kadar uzanı
 
 ## Coğrafya
 
-Kızlar Sarayı Hamamı, Amasya'nın merkezinde yer alır ve şehrin coğrafi yapısını etkileyen önemli bir noktadır. Bu mekan, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Yeşilin ve mavinin birleştiği bu noktada, ziyaretçiler şehrin doğal güzelliklerini keşfedebilirler. Amasya'nın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, şehrin flora ve faunasını etkileyen önemli bir faktördür. Kızlar Sarayı Hamamı'nın coğrafi konumu, şehrin flora ve faunasının çeşitliliğini etkiler. Bu mekan, şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir merkez olarak kabul edilir. 200 futbol sahası büyüklüğündeki alan, ziyaretçilere geniş bir açık alan sunar. Bu açık alan, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
+Kızlar Sarayı Hamamı, Amasya'nın merkezinde yer alır ve şehrin coğrafi yapısını etkileyen önemli bir noktadır. Bu mekan, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Yeşilin ve mavinin birleştiği bu noktada, ziyaretçiler şehrin doğal güzelliklerini keşfedebilirler. Amasya'nın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, şehrin flora ve faunasını etkileyen önemli bir faktördür. Kızlar Sarayı Hamamı'nın coğrafi konumu, şehrin flora ve faunasının çeşitliliğini etkiler. Bu mekan, şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir merkez olarak kabul edilir. Bu açık alan, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
 
 ## Flora ve Fauna
 

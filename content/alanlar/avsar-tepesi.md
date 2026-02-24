@@ -28,7 +28,7 @@ wikidata_id: "Q31389173"
 
 # Avşar Tepesi
 
-Avşar Tepesi, Giresun'un doğusunda yer alan ve Karadeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir bölge. Avşar Tepesi, Giresun'un şehir merkezine uzun bir mesafe uzaklıkta. Tepenin yüksekliği ise deniz seviyesinden yaklaşık 1000 metre. Bu yükseklik, ziyaretçilere bölgenin eşsiz manzarasını sunuyor. Avşar Tepesi, aynı zamanda bölgenin tarihi ve kültürel değerlerini de taşıyor.
+Avşar Tepesi, Giresun'un doğusunda yer alan ve Karadeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Avşar Tepesi, Giresun'un şehir merkezine uzun bir mesafe uzaklıkta. Tepenin yüksekliği ise deniz seviyesinden yaklaşık 1000 metre. Bu yükseklik, ziyaretçilere bölgenin eşsiz manzarasını sunuyor. Avşar Tepesi, aynı zamanda bölgenin tarihi ve kültürel değerlerini de taşıyor.
 
 ## Tarihçe
 

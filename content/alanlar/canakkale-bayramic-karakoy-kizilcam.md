@@ -22,7 +22,7 @@ wikidata_id: "Q108227326"
 
 # Canakkale-Bayramic-Karakoy Kızılçam
 
- Bu milli park, Çanakkale'nin Bayramiç ve Karaköy gibi önemli yerleşim yerlerine yakın konumuyla dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçiler için hem dinlenme hem de doğayı keşfetme imkanı sunuyor. Doğa severler için bir cennet olan bu milli park, Çanakkale'nin turizm değerlerini artırıyor. Milli parkın büyüklüğü ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Bu milli park, Çanakkale'nin Bayramiç ve Karaköy gibi önemli yerleşim yerlerine yakın konumuyla dikkat çekiyor. Doğa severler için bir cennet olan bu milli park, Çanakkale'nin turizm değerlerini artırıyor. Milli parkın büyüklüğü ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, yılın her dönemi ziyaret
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kapsıyor.
 - Milli parkta, çeşitli bitki türleri ve ağaçlar yer alıyor.
 - Kızılçam ağaçları, milli parkın en önemli ve karakteristik bitki türü.
 - Milli parkın fauna çeşitliliği de oldukça zengin.

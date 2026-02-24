@@ -48,8 +48,6 @@ wikidata_id: "Q34824486"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplıyor
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Mersin'in Akdeniz Bölgesi'nde yer alıyor
 - zengin bir fauna sahip
 - çeşitli bitki türlerine ev sahipliği yapıyor

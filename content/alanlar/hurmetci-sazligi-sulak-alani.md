@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/91/H%C3%BCrmet%C3%A7i_Sazl%C4%B1%C4%9F%C4%B1ndaki_y%C4%B1lk%C4%B1_atlar%C4%B1.jpg","alt":"Hürmetçi Sazlığı Sulak Alanı manzarası","credit":"Mehmet Ali Peker","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/H%C3%BCrmet%C3%A7i_Sazl%C4%B1%C4%9F%C4%B1ndaki_vah%C5%9Fi_Y%C4%B1lk%C4%B1_atlar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%C3%BCrmet%C3%A7i_Sazl%C4%B1%C4%9F%C4%B1ndaki_vah%C5%9Fi_Y%C4%B1lk%C4%B1_atlar%C4%B1.jpg/1280px-H%C3%BCrmet%C3%A7i_Sazl%C4%B1%C4%9F%C4%B1ndaki_vah%C5%9Fi_Y%C4%B1lk%C4%B1_atlar%C4%B1.jpg","alt":"Hürmetçi Sazlığı Sulak Alanı - Hürmetçi Sazlığındaki vahşi Yılkı atları","credit":"Mehmet Ali Peker","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Buffalos_at_H%C3%BCrmet%C3%A7i_Wetlands.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buffalos_at_H%C3%BCrmet%C3%A7i_Wetlands.jpg/1280px-Buffalos_at_H%C3%BCrmet%C3%A7i_Wetlands.jpg","alt":"Hürmetçi Sazlığı Sulak Alanı - Buffalos at Hürmetçi Wetlands","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCrmet%C3%A7i%20Sazl%C4%B1%C4%9F%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228449","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, Hürmetçi Sazlığı Sulak Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Hürmetçi Sazlığı","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Sazlık","Sulak Alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228449"
@@ -42,8 +42,6 @@ Hürmetçi Sazlığı Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak ö
 Hürmetçi Sazlığı Sulak Alanı, ziyaretçilerine çeşitli etkinlikler sunar. Bu sulak alan, doğa yürüyüşleri, doğa ve diğer açık hava etkinlikleri için ideal bir ortam sunar. Hürmetçi Sazlığı Sulak Alanı'na ulaşım, İç Anadolu Bölgesi'nden kolayca sağlanabilir. Ziyaretçiler, bu sulak alanın doğal güzelliklerini ve çeşitliliğini deneyimlemek için en uygun zamanı seçmelidirler. Hürmetçi Sazlığı Sulak Alanı, ziyaretçilerini bekliyor.
 
 ## İlginç Bilgiler
-
-- Hürmetçi Sazlığı Sulak Alanı, 140 hektarlık bir alanı kaplar.
 
 - Bu alan, yaban hayatı için önemli bir habitat olarak kabul edilir.
 - Hürmetçi Sazlığı Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini ve çeşitliliğini sergiler.

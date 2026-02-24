@@ -30,7 +30,7 @@ wikidata_id: "Q108228853"
 
 ## Coğrafya
 
-Çalı Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu sulak alan, bölgenin iklimini etkileyen faktörlerden biri olup, özellikle yağış rejimini düzenlemede önemli bir rol oynamaktadır. Alanda bulunan çeşitli bitki türleri, bu sulak alanın ekolojik çeşitliliğini artırmaktadır. Çalı Gölü Sulak Alanı, aynı zamanda birçok hayvan türünün yaşadığı bir habitat olarak da dikkat çekmektedir. Bu sulak alanın coğrafi konumu, bölgenin doğal güzelliğini korumak için önemli bir faktördür. 140 hektarlık bu alan, bölgenin en önemli sulak alanlarından biridir ve bu nedenle, doğal güzelliğinin korunması büyük önem taşımaktadır.
+Çalı Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu sulak alan, bölgenin iklimini etkileyen faktörlerden biri olup, özellikle yağış rejimini düzenlemede önemli bir rol oynamaktadır. Alanda bulunan çeşitli bitki türleri, bu sulak alanın ekolojik çeşitliliğini artırmaktadır. Çalı Gölü Sulak Alanı, aynı zamanda birçok hayvan türünün yaşadığı bir habitat olarak da dikkat çekmektedir. Bu sulak alanın coğrafi konumu, bölgenin doğal güzelliğini korumak için önemli bir faktördür.
 
 ## Flora ve Fauna
 

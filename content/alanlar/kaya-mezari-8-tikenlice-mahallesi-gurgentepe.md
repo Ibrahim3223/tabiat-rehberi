@@ -29,7 +29,7 @@ wikidata_id: "Q134728209"
 
 # Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 8, Tikenlice Mahallesi'nde bulunan ve yaklaşık 140 hektarlık bir alana yayılan bu plaj, Karadeniz Bölgesi'nin en güzel ve sakin noktalarından biri. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu plaj, geniş kumları ve berrak sularıyla ziyaretçilerini cezbediyor. Gürgentepe'nin merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Kaya Mezarı 8, Tikenlice Mahallesi'nin güzide bir noktası olarak, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
+ Gürgentepe'nin merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Kaya Mezarı 8, Tikenlice Mahallesi'nin güzide bir noktası olarak, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
 
 ## Tarihçe
 

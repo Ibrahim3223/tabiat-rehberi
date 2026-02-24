@@ -51,7 +51,7 @@ wikidata_id: "Q131390785"
 ## İlginç Bilgiler
 
 - Şeyh Çelebi Türbesi, Edirne'nin en önemli dini merkezlerinden biridir
-- Bölge, 140 hektarlık bir alana sahiptir
+
 - Şeyh Çelebi Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşır
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Şeyh Çelebi Türbesi, yıl boyunca ziyaret edilebilir

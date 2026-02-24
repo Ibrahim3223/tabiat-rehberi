@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/40/G%C3%BCnd%C3%BCzbey_Kasabas%C4%B1.jpg","alt":"Gunduzbey manzarası","credit":"UnaL1903","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gunduzbey","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228419","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Gunduzbey milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228419"
@@ -31,7 +31,7 @@ Gunduzbey milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli uygar
 
 ## Coğrafya
 
-Gunduzbey milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısının karakteristik özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle bozkırlar ve step alanlarıyla örtüşüyor. Gunduzbey, 140 hektarlık alanı ile oldukça geniş bir yeşillik alanı sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiş durumda. Bu coğrafi yapı, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bu bölgenin iklimini de yansıtıyor.
+Gunduzbey milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısının karakteristik özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle bozkırlar ve step alanlarıyla örtüşüyor. Milli parkın coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiş durumda. Bu coğrafi yapı, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bu bölgenin iklimini de yansıtıyor.
 
 ## Flora ve Fauna
 

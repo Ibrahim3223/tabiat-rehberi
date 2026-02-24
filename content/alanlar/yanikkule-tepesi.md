@@ -48,7 +48,6 @@ Yanıkkule Tepesi, ziyaretçilere birçok aktivite sunuyor. Tepede, aynı zamand
 
 ## İlginç Bilgiler
 
-- Yanıkkule Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin etrafı, çeşitli ağaç türleriyle çevrili.
 - Tepede, çeşitli yürüyüş parkurları bulunmakta.
 - Tepenin yüksekliği, yaklaşık 500 metre.

@@ -42,8 +42,6 @@ Zeytintaşı Mağarası Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunuy
 
 ## İlginç Bilgiler
 
-- Zeytintaşı Mağarası Sit Alanı, 140 hektarlık bir alanı kaplıyor
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Zeytintaşı Mağarası Sit Alanı, coğrafi olarak önemli bir bölge olarak kabul ediliyor
 - Bu bölgenin flora ve faunası, ziyaretçilerine zengin bir doğa deneyimi sunuyor
 - Zeytintaşı Mağarası Sit Alanı, aynı zamanda önemli bir coğrafi oluşum olarak dikkat çekiyor

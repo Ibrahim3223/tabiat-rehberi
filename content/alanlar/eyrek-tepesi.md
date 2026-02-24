@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","tarih hakkında 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Eyrek Tepesi","caption":"Eyrek Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eyrek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387165","tip":"genel"}]
-description: "Marmara Bölgesi'nin en önemli noktalarından biri olan Eyrek Tepesi, Tekirdağ'da yer alır ve 140 hektarlık geniş bir alanı kapsar."
+"
 keywords: ["Eyrek Tepesi","Tekirdağ","Marmara Bölgesi","doğa","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387165"
@@ -28,7 +28,7 @@ wikidata_id: "Q31387165"
 
 # Eyrek Tepesi
 
-Marmara Bölgesi'nin en önemli noktalarından biri olan Eyrek Tepesi, Tekirdağ'da yer alır ve 140 hektarlık geniş bir alanı kapsar. Eyrek Tepesi, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker. Ziyaretçiler, bu tepeye çıkarak hem çevreyi panoramik olarak izleyebilir hem de bölgenin tarihi hakkında bilgi edinebilirler.
+ Eyrek Tepesi, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker. Ziyaretçiler, bu tepeye çıkarak hem çevreyi panoramik olarak izleyebilir hem de bölgenin tarihi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Eyrek Tepesi'ni ziyaret etmek, Marmara Bölgesi'nin doğal güzelliklerini keşf
 ## İlginç Bilgiler
 
 - Eyrek Tepesi, Marmara Bölgesi'nin en önemli noktalarından biridir.
-- 140 hektarlık geniş bir alanı kapsar.
+
 - Yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında kalmıştır.
 - Zengin bir flora ve fauna ile karakterizedir.
 - Marmara Bölgesi'nin ekolojik dengesini koruyan önemli bir bölgedir.

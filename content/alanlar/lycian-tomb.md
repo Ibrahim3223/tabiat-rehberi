@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/185A7263.jpg","alt":"Lycian tomb manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Lycian_Tomb_in_Ka%C5%9F_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lycian_Tomb_in_Ka%C5%9F_02.jpg/1280px-Lycian_Tomb_in_Ka%C5%9F_02.jpg","alt":"Lycian tomb - Lycian Tomb in Kaş 02","credit":"Kadı","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Lycian_Tomb_in_Ka%C5%9F_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lycian_Tomb_in_Ka%C5%9F_01.jpg/1280px-Lycian_Tomb_in_Ka%C5%9F_01.jpg","alt":"Lycian tomb - Lycian Tomb in Kaş 01","credit":"Kadı","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Lycian_tomb_Fethiye_IMGP8551.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lycian_tomb_Fethiye_IMGP8551.jpg/1280px-Lycian_tomb_Fethiye_IMGP8551.jpg","alt":"Lycian tomb - Lycian tomb Fethiye IMGP8551","credit":"Nikodem Nijaki","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Lycian_tombs_Tlos_IMGP8369.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lycian_tombs_Tlos_IMGP8369.jpg/1280px-Lycian_tombs_Tlos_IMGP8369.jpg","alt":"Lycian tomb - Lycian tombs Tlos IMGP8369","credit":"Nikodem Nijaki","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Lycian_tombs_Tlos_IMGP8449.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lycian_tombs_Tlos_IMGP8449.jpg/1280px-Lycian_tombs_Tlos_IMGP8449.jpg","alt":"Lycian tomb - Lycian tombs Tlos IMGP8449","credit":"Nikodem Nijaki","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lycian%20tomb","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q78206154","tip":"genel"}]
-description: "Muğla'nın tarihi ve doğal güzelliklerini bir arada sunan Lycian tomb, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Lycian tomb","Muğla","Ege Bölgesi","tarih","doğa","plaj","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q78206154"
@@ -50,7 +50,7 @@ Lycian tomb'u ziyaret etmek, tarihi ve doğal güzelliklerini keşfetmek için i
 ## İlginç Bilgiler
 
 - Lycian tomb'un tarihi geçmişi yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
-- Bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Lycian tomb'un flora ve fauna, zengin ve çeşitli
 - Lycian tomb'u ziyaret etmek, tarihi ve doğal güzelliklerini keşfetmek için ideal bir fırsat
 - Bölge, coğrafi olarak özel bir konuma sahip

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Atat%C3%BCrk_Havaliman%C4%B1_Millet_Bah%C3%A7esi%2C_%C5%9Eubat_2025.jpg","alt":"Atatürk Millet Bahçesi manzarası","credit":"Sefabaris","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Atat%C3%BCrk_Havaliman%C4%B1_Millet_Bah%C3%A7esi%2C_%C5%9Eubat_2025.jpg/960px-Atat%C3%BCrk_Havaliman%C4%B1_Millet_Bah%C3%A7esi%2C_%C5%9Eubat_2025.jpg","alt":"Atatürk Millet Bahçesi","caption":"Atatürk Millet Bahçesi","credit":"Atatürk Havalimanı Millet Bahçesi, Şubat 2025","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atat%C3%BCrk%20Millet%20Bah%C3%A7esi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135677474","tip":"genel"}]
 description: "Bakırköy, Yeşilköy'de yer alan Atatürk Millet Bahçesi, 1200 hektarlık yeşil alanı ile İstanbul'un önemli botanik bahçelerinden biri."

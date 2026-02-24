@@ -37,7 +37,7 @@ Beycesultan, tarihin derinliklerine uzanan bir geçmişe sahip. Bu bölgede yap�
 
 ## Coğrafya
 
-Beycesultan, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Denizli'nin merkezine yakınlığı nedeniyle, ulaşım açısından avantajlı bir konumda bulunuyor. Bu bölge, çevredeki dağlarla çevrili ve zengin bir flora ve fauna çeşitliliğine sahip. Beycesultan'ın coğrafi yapısı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunuyor. Alanın 140 hektarlık genişliği, ziyaretçilerin geniş bir alanı keşfetmesine olanak tanıyor.
+Beycesultan, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Denizli'nin merkezine yakınlığı nedeniyle, ulaşım açısından avantajlı bir konumda bulunuyor. Bu bölge, çevredeki dağlarla çevrili ve zengin bir flora ve fauna çeşitliliğine sahip. Beycesultan'ın coğrafi yapısı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Beycesultan'ı ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimleme
 ## İlginç Bilgiler
 
 - Beycesultan, Denizli'nin en önemli tarihi sitelerinden biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Burada yapılan kazılar, tarihi geçmişi hakkında önemli bilgiler sağlıyor
 - Zengin flora ve fauna çeşitliliği
 - İlkbahar ve yaz aylarında ziyaret edilebilir

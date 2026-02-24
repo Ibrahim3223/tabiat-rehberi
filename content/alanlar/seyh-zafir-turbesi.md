@@ -30,7 +30,7 @@ wikidata_id: "Q131391000"
 
 # Şeyh Zafir Türbesi
 
-Şeyh Zafir Türbesi, Cihannüma/Beşiktaş'ta yer alan ve tarihi önemi ile dikkat çeken bir türbe ve plaj alanıdır. İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinen bu bölge, yaklaşık 140 hektarlık bir alanı kapsar. Bu bölge, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Şeyh Zafir Türbesi, bölgenin en önemli tarihi yapılarından biri olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir. Türbenin etrafında found bulunan plaj, temiz suyu ve güzel kumsalı ile ziyaretçilere keyifli bir gün geçirme imkanı sunar.
+Şeyh Zafir Türbesi, Cihannüma/Beşiktaş'ta yer alan ve tarihi önemi ile dikkat çeken bir türbe ve plaj alanıdır. Bu bölge, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Şeyh Zafir Türbesi, bölgenin en önemli tarihi yapılarından biri olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir. Türbenin etrafında found bulunan plaj, temiz suyu ve güzel kumsalı ile ziyaretçilere keyifli bir gün geçirme imkanı sunar.
 
 ## Tarihçe
 

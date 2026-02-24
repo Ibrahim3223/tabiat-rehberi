@@ -50,7 +50,7 @@ Eski Hamam, Foça'ya ziyaretçiler, birçok farklı ulaşım seçeneği ile gele
 ## İlginç Bilgiler
 
 - Eski Hamam, Foça, İzmir'in en önemli plajlarından biri.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Eski Hamam, Foça, tarihin izlerini taşıyan bir plaj olarak bilinir.
 - Bu plaj, birçok bitki ve hayvan türüne ev sahipliği yapar.
 - Eski Hamam, Foça, yılın her döneminde ziyaret edilebilir.

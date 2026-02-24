@@ -48,7 +48,6 @@ Karabel Tepesi, doğa severlerin ziyaret ettiği bir nokta. Ziyaretçiler, bu te
 
 ## İlginç Bilgiler
 
-- Karabel Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepede, çeşitli bitki türleri ve hayvanlar yaşıyor
 - Karabel Tepesi, doğa severlerin ziyaret ettiği bir nokta
 - Tepede, mevsimsel değişimler yaşanır

@@ -50,7 +50,7 @@ Akpınar Kaya Mezarı, ziyaretçiler için önemli bir kültürel ve tarihi dene
 ## İlginç Bilgiler
 
 - Akpınar Kaya Mezarı, Manisa'nın Şehzadeler ilçesinin önemli bir kültürel varlığıdır
-- Mezarlık, 140 hektarlık bir alanı kapsar
+
 - Akpınar Kaya Mezarı, yaban hayatı ve ekolojik çeşitlilik bakımından zengindir
 - Mezarlık, yıl boyunca ziyaret edilebilir
 - Ziyaret için en uygun zaman, ilkbahar ve sonbahar aylarıdır

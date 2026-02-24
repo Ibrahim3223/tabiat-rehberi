@@ -28,7 +28,7 @@ wikidata_id: "Q31552778"
 
 # Firavn Tepesi
 
-Firavn Tepesi, Mardin'in tarihi ve coğrafi açıdan önemli bir noktası olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Mardin'in merkezi ile birlikte şehrin tarihi dokusunu oluşturan bir bölgede yer alıyor. Tepenin yüksekliği ve konumu, ziyaretçilere şehri ve çevresini panoramik olarak görme fırsatı sunuyor. Firavn Tepesi, Mardin'in zengin tarihi ve kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor.
+Firavn Tepesi, Mardin'in tarihi ve coğrafi açıdan önemli bir noktası olarak dikkat çekiyor. Tepenin yüksekliği ve konumu, ziyaretçilere şehri ve çevresini panoramik olarak görme fırsatı sunuyor. Firavn Tepesi, Mardin'in zengin tarihi ve kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Firavn Tepesi'nin tarihi geçmişi, Mardin'in genel tarihi ile paralel olara ile
 
 ## Coğrafya
 
-Firavn Tepesi, Mardin'in coğrafi açıdan önemli bir noktası olarak dikkat çekiyor. Tepenin yüksekliği ve konumu, ziyaretçilere şehri ve çevresini panoramik olarak görme fırsatı sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Mardin'in merkezi ile birlikte şehrin tarihi dokusunu oluşturan bir bölgede yer alıyor. Tepenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaretçiler, doğanın güzelliğini ve renklerini yakından görebilirler. Firavn Tepesi, Mardin'in coğrafi özelliklerini ve doğal güzelliğini deneyimlemek isteyen ziyaretçiler için ideal bir destinasyon olarak görülüyor.
+Firavn Tepesi, Mardin'in coğrafi açıdan önemli bir noktası olarak dikkat çekiyor. Tepenin yüksekliği ve konumu, ziyaretçilere şehri ve çevresini panoramik olarak görme fırsatı sunuyor. Tepenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaretçiler, doğanın güzelliğini ve renklerini yakından görebilirler. Firavn Tepesi, Mardin'in coğrafi özelliklerini ve doğal güzelliğini deneyimlemek isteyen ziyaretçiler için ideal bir destinasyon olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Firavn Tepesi'ni ziyaret etmek, Mardin'in tarihi ve coğrafi güzelliğini deney
 
 - Firavn Tepesi, Mardin'in tarihi dokusunu oluşturan bir bölgede yer alıyor.
 - Tepenin adı, Firavnlardan esinlenere verilmiş olabileceği düşünülür.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Tepenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır.
 - Firavn Tepesi, Mardin'in coğrafi özelliklerini ve doğal güzelliğini deneyimlemek isteyen ziyaretçiler için ideal bir destinasyon olarak görülüyor.

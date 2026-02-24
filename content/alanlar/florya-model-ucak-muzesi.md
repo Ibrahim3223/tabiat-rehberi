@@ -37,7 +37,7 @@ Florya Model Uçak Müzesi'nin tarihi geçmişi, havacılığın Türkiye'deki g
 
 ## Coğrafya
 
-Florya Model Uçak Müzesi, İstanbul'un Florya semtinde yer alır. Bu semt, Marmara Denizi'nin kıyısında bulunur ve çevresi yeşilliklerle kaplıdır. Müze, 140 hektarlık bir alanın içinde yer alır ve etrafı ağaçlar ile çevrili bir ortamda ziyaretçilerini ağırlar. İstanbul'un merkezi bölgelerine yakınlığıyla dikkat çeken müze, ziyaretçilerin ulaşımını kolaylaştırır. Florya semti, aynı zamanda İstanbul'un önemli turizm merkezlerinden biridir. Müzenin konumu, ziyaretçilerin diğer turistik noktalara kolayca ulaşabilmesini sağlar.
+Florya Model Uçak Müzesi, İstanbul'un Florya semtinde yer alır. Bu semt, Marmara Denizi'nin kıyısında bulunur ve çevresi yeşilliklerle kaplıdır. İstanbul'un merkezi bölgelerine yakınlığıyla dikkat çeken müze, ziyaretçilerin ulaşımını kolaylaştırır. Florya semti, aynı zamanda İstanbul'un önemli turizm merkezlerinden biridir. Müzenin konumu, ziyaretçilerin diğer turistik noktalara kolayca ulaşabilmesini sağlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Florya Model Uçak Müzesi'ni ziyaret etmek, havacılık tarihine ilgi duyanlar 
 
 ## İlginç Bilgiler
 
-- Müze, 140 hektarlık bir alanı kaplar.
 - Müzenin koleksiyonunda yer alan model uçaklar, farklı dönemlere ait örnekleri içerir.
 - Florya semti, İstanbul'un önemli turizm merkezlerinden biridir.
 - Müze, hafta içi ve hafta sonu açık olup, ziyaretçilerin rahatça gezebileceği bir atmosfer sunar.

@@ -30,7 +30,7 @@ wikidata_id: "Q21528395"
 
 # İsmail Fakirullah Türbesi
 
-İsmail Fakirullah Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Tillo ilçesinde bulunan tarihi ve kültürel bir miras alanıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilere geniş bir yeşil alan sunmaktadır. İsmail Fakirullah Türbesi, tarihi geçmişi ve kültürel önemi ile birlikte, ziyaretçilere doğanın güzelliklerini sunan bir destinasyon olarak dikkat çekmektedir.
+İsmail Fakirullah Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Tillo ilçesinde bulunan tarihi ve kültürel bir miras alanıdır. İsmail Fakirullah Türbesi, tarihi geçmişi ve kültürel önemi ile birlikte, ziyaretçilere doğanın güzelliklerini sunan bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q21528395"
 
 ## Coğrafya
 
-İsmail Fakirullah Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Tillo ilçesinde bulunmaktadır. Bu bölge, dağlık ve engebeli bir coğrafyaya sahiptir. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilere geniş bir yeşil alan sunmaktadır. Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir. Kış ayları genellikle soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçmektedir. İsmail Fakirullah Türbesi, ziyaretçilere doğanın güzelliklerini sunan bir destinasyon olarak dikkat çekmektedir. Türbe, çeşitli bitki türleri ve zengin fauna ile birlikte, önemli bir ekolojik alan olarak görev yapmaktadır.
+İsmail Fakirullah Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Tillo ilçesinde bulunmaktadır. Bu bölge, dağlık ve engebeli bir coğrafyaya sahiptir. Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir. Kış ayları genellikle soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçmektedir. İsmail Fakirullah Türbesi, ziyaretçilere doğanın güzelliklerini sunan bir destinasyon olarak dikkat çekmektedir. Türbe, çeşitli bitki türleri ve zengin fauna ile birlikte, önemli bir ekolojik alan olarak görev yapmaktadır.
 
 ## Flora ve Fauna
 

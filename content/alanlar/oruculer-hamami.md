@@ -29,7 +29,7 @@ wikidata_id: "Q131738602"
 
 # Örücüler Hamamı
 
-Örücüler Hamamı, İstanbul'un tarihi ilçesi Fatih'te yer alan bir hamam ve plaj alanıdır. 200 futbol sahası büyüklüğünde olan bu yeşil alan, İstanbul'un kalbinde bir nefes alma noktaları arasında yer alır. Tarihi hamam ise, yüzyılların geçişi ile birlikte çeşitli restorasyonlar görmüş ve günümüze ulaşmıştır. Bu tarihi mekan, hem yerel halk hem de turistler tarafından ziyaret edilen önemli bir kültürel mirastır.
+Örücüler Hamamı, İstanbul'un tarihi ilçesi Fatih'te yer alan bir hamam ve plaj alanıdır. Tarihi hamam ise, yüzyılların geçişi ile birlikte çeşitli restorasyonlar görmüş ve günümüze ulaşmıştır. Bu tarihi mekan, hem yerel halk hem de turistler tarafından ziyaret edilen önemli bir kültürel mirastır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738602"
 
 ## Coğrafya
 
-Örücüler Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahiptir. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ile çevrilidir. Hamam ve çevresindeki bölge, özellikle yaz aylarında serin ve ferah bir atmosfere sahip olur. İstanbul'un merkezi bir konumunda yer alan Örücüler Hamamı, ulaşım açısından da kolaylıklar sağlar. Hamamın yakınında, çeşitli ulaşım olanakları bulunmaktadır. Bu sayede, ziyaretçiler kolayca ulaşım sağlayabilirler. Ayrıca, hamamın çevresinde çeşitli restoranlar ve kafeler yer alır. Bu restoranlar ve kafeler, ziyaretçilere yeme ve içecek olanakları sunar.
+Örücüler Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahiptir. Hamam ve çevresindeki bölge, özellikle yaz aylarında serin ve ferah bir atmosfere sahip olur. İstanbul'un merkezi bir konumunda yer alan Örücüler Hamamı, ulaşım açısından da kolaylıklar sağlar. Hamamın yakınında, çeşitli ulaşım olanakları bulunmaktadır. Bu sayede, ziyaretçiler kolayca ulaşım sağlayabilirler. Ayrıca, hamamın çevresinde çeşitli restoranlar ve kafeler yer alır. Bu restoranlar ve kafeler, ziyaretçilere yeme ve içecek olanakları sunar.
 
 ## Flora ve Fauna
 

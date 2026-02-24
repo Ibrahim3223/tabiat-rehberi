@@ -43,6 +43,6 @@ Elmalidere Bogazı, ziyaretçiler için çeşitli gezi ve gözlem olanakları su
 ## İlginç Bilgiler
 
 - Elmalidere Bogazı, İç Anadolu Bölgesi'nin en önemli doğal varlık kaynaklarından biridir
-- Milli park, 140 hektarlık bir alanı kaplar
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile karakterizedir
 - Elmalidere Bogazı, ziyaretçiler için önemli bir çekim merkezi oluşturur

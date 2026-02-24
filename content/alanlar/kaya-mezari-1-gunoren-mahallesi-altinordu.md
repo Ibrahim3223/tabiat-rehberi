@@ -51,6 +51,6 @@ Kaya Mezarı 1 (Günören Mahallesi), ziyaretçilerine çeşitli olanaklar sunma
 
 - Kaya Mezarı 1 (Günören Mahallesi), Karadeniz Bölgesi'nin en güzel plajlarından biridir.
 - Bu alanda, tarihi öneme sahip kaya mezarları bulunmaktadır.
-- Kaya Mezarı 1 (Günören Mahallesi), 140 hektarlık bir yeşil alandır.
+
 - Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Kaya Mezarı 1 (Günören Mahallesi), ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.

@@ -38,7 +38,7 @@ Fatih Camii, tarihçesi ile dikkat çeken bir yapıdır. Yüzyıllar boyunca bir
 
 ## Coğrafya
 
-Fatih Camii, coğrafi konumu ile dikkat çeken bir yapıdır. İstanbul'un merkezinde bulunan camii, 140 hektarlık bir alanda yer alır. Camii, mimari özellikleri ile de dikkat çekmekte ve ziyaretçilerini tarihi bir atmosfere davet etmektedir. Ayrıca, camii, birçok önemli yapıya yakın mesafede bulunmakta ve ziyaretçilerin birçok önemli yeri gezip görmesine olanak sağlamaktadır. Camii, coğrafi konumu ile birlikte birçok önemli olaya sahne olmuş ve İstanbul'un kültürel mirasının önemli bir parçası olarak kabul edilir. Camii, coğrafi konumu ile birlikte birçok önemli yapıya yakın mesafede bulunmakta ve ziyaretçilerin birçok önemli yeri gezip görmesine olanak sağlamaktadır.
+Fatih Camii, coğrafi konumu ile dikkat çeken bir yapıdır. Camii, mimari özellikleri ile de dikkat çekmekte ve ziyaretçilerini tarihi bir atmosfere davet etmektedir. Ayrıca, camii, birçok önemli yapıya yakın mesafede bulunmakta ve ziyaretçilerin birçok önemli yeri gezip görmesine olanak sağlamaktadır. Camii, coğrafi konumu ile birlikte birçok önemli olaya sahne olmuş ve İstanbul'un kültürel mirasının önemli bir parçası olarak kabul edilir. Camii, coğrafi konumu ile birlikte birçok önemli yapıya yakın mesafede bulunmakta ve ziyaretçilerin birçok önemli yeri gezip görmesine olanak sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Fatih Camii, ziyaretçilerini tarihi bir atmosfere davet eden bir yapıdır. Cam
 ## İlginç Bilgiler
 
 - Fatih Camii, İstanbul'un en önemli tarihi ve dini yapılardan biridir
-- Camii, 140 hektarlık bir alanda yer alır
+
 - Camii, birçok önemli bitki ve hayvan türüne ev sahipliği yapar
 - Camii, ziyaretçilerine birçok önemli hizmeti sunar
 - Camii, birçok önemli olaya sahne olmuştur

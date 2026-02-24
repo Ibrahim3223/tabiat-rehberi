@@ -38,7 +38,7 @@ Gebze'nin merkezinde, Marmara Bölgesi'nin zengin tarihini ve doğal güzellikle
 
 ## Coğrafya
 
-Çoban Mustafa Paşa Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir noktada yer alıyor. Hamam, Gebze'nin merkezinde bulunmakta ve çevresi yeşilliklerle dolu. 140 hektarlık bu alan, bölgenin en büyük yeşil alanlarından biri ve ziyaretçilere geniş bir açık alan sunuyor. Hamamın yakınında, çeşitli türde ağaçlar ve bitkiler bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfe çıkabilirler. Bölge, Marmara Denizi'ne yakınlığı nedeniyle, nemli bir iklime sahip ve ziyaretçiler, bu iklime uygun şekilde hazırlanmalılar. Çoban Mustafa Paşa Hamamı, coğrafi konumu ve doğal güzellikleri ile Gebze'nin en önemli turistik noktalarından biri olarak kabul ediliyor.
+Çoban Mustafa Paşa Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir noktada yer alıyor. Hamam, Gebze'nin merkezinde bulunmakta ve çevresi yeşilliklerle dolu. Hamamın yakınında, çeşitli türde ağaçlar ve bitkiler bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfe çıkabilirler. Bölge, Marmara Denizi'ne yakınlığı nedeniyle, nemli bir iklime sahip ve ziyaretçiler, bu iklime uygun şekilde hazırlanmalılar. Çoban Mustafa Paşa Hamamı, coğrafi konumu ve doğal güzellikleri ile Gebze'nin en önemli turistik noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Gebze'nin merkezinde, Marmara Bölgesi'nin zengin tarihini ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Çoban Mustafa Paşa Hamamı, Gebze'nin en önemli tarihi ve turistik noktalarından biri
-- Hamam, 140 hektarlık bir yeşil alan üzerine kurulmuş
+
 - Bölge, Marmara Denizi'ne yakınlığı nedeniyle nemli bir iklime sahip
 - Hamamın yakınında, çeşitli türde ağaçlar ve bitkiler bulunmakta
 - Ziyaretçiler, hamamın tarihi atmosferini keşfedebilir ve çevredeki doğal güzellikleri keşfe çıkabilirler

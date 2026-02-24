@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Adana-Adana-Adana-Karaaagac","caption":"Adana-Adana-Adana-Karaaagac","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Adana-Adana-Karaaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228284","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin güzide milli parklarından biri olan Adana-Adana-Adana-Karaaagac, 140 hektarlık bir alanı kapsıyor."
+"
 keywords: ["Adana","Akdeniz Bölgesi","milli park","doğa","turizm","gezi","yaban hayatı","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228284"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228284"
 
 # Adana-Adana-Adana-Karaaagac
 
- Bu bölge, doğa severler için gerçek bir cennet. Yeşilin her tonunu görebileceğiniz bu alanda, çeşitli bitki türleri ve zengin fauna found. Milli parkın güzelliği, ziyaretçilerini etkisi altına alıyor. Burada, doğanın mucizelerini keşfetmenin keyfini çıkarabilirsiniz. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir gezi alanı sunuyor.
+ Bu bölge, doğa severler için gerçek bir cennet. Yeşilin her tonunu görebileceğiniz bu alanda, çeşitli bitki türleri ve zengin fauna found. Milli parkın güzelliği, ziyaretçilerini etkisi altına alıyor. Burada, doğanın mucizelerini keşfetmenin keyfini çıkarabilirsiniz.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Adana-Adana-Karaaagac milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Adana-Adana-Adana-Karaaagac milli parkı, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Parkın coğrafyası, çeşitli bitki türlerinin yetişmesine uygun bir ortam sunuyor. 140 hektarlık bu alan, ziyaretçilere geniş bir gezi alanı sunuyor. Milli parkın iklimi, Akdeniz ikliminin özelliklerini taşıyor. Bu bölge, yazın sıcak ve kurak, kışın ise ılıman ve yağışlı bir iklimi bulunuyor. Parkın çevresi, doğa güzelliği açısından zengin bir yapıya sahip. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını bulabilirler.
+Adana-Adana-Adana-Karaaagac milli parkı, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Parkın coğrafyası, çeşitli bitki türlerinin yetişmesine uygun bir ortam sunuyor. Milli parkın iklimi, Akdeniz ikliminin özelliklerini taşıyor. Bu bölge, yazın sıcak ve kurak, kışın ise ılıman ve yağışlı bir iklimi bulunuyor. Parkın çevresi, doğa güzelliği açısından zengin bir yapıya sahip. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını bulabilirler.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q131391791"
 
 # Terlemez Baba Türbesi
 
-Aksaray ilinin merkezinde bulunan Terlemez Baba Türbesi, 140 hektarlık bir alanı kaplayan tarihi ve doğal bir mekândır. Terlemez Baba Türbesi, Aksaray'ın önemli tarihi ve turistik mekanlarından biridir. Burada, tarihi yapılar, doğal güzellikler ve zengin flora ile fauna çeşitliliği bulunmaktadır. Terlemez Baba Türbesi, Aksaray'ı ziyaret edenlerin mutlaka görmeniz gereken bir yerdir.
+ Terlemez Baba Türbesi, Aksaray'ın önemli tarihi ve turistik mekanlarından biridir. Burada, tarihi yapılar, doğal güzellikler ve zengin flora ile fauna çeşitliliği bulunmaktadır. Terlemez Baba Türbesi, Aksaray'ı ziyaret edenlerin mutlaka görmeniz gereken bir yerdir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Terlemez Baba Türbesi'ni ziyaret etmek, Aksaray'ı ziyaret edenlerin mutlaka ya
 ## İlginç Bilgiler
 
 - Terlemez Baba Türbesi, Aksaray ilinin merkezinde bulunmaktadır.
-- Terlemez Baba Türbesi, 140 hektarlık bir alanı kaplar.
+
 - Terlemez Baba Türbesi, Aksaray'ın tarihi ve turistik mekanlarından biridir.
 - Terlemez Baba Türbesi, ziyaretçilere, geniş açık alanlar ve tarihi yapılar sunar.
 - Terlemez Baba Türbesi, Aksaray'ın flora ve fauna çeşitliliğinin önemli bir parçasıdır.

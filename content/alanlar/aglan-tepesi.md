@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşleri","tarih gezileri","fotoğrafçılık","yör
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif/lossy-page1-900px-Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif.jpg","alt":"Ağlan Tepesi","caption":"Ağlan Tepesi","credit":"Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-20","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Flan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389780","tip":"genel"}]
-description: "Marmara Bölgesi'nde bulunan Ağlan Tepesi, Bilecik'in önemli doğa alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Marmara Bölgesi'nde bulunan Ağlan Tepesi, Bilecik'in önemli doğa alanlarından biridir."
 keywords: ["Ağlan Tepesi","Bilecik","Marmara Bölgesi","doğa alanı","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389780"
@@ -48,8 +48,7 @@ Ağlan Tepesi, ziyaretçilerini doğanın güzelliği ve tarihin izleriyle karş
 
 ## İlginç Bilgiler
 
-- Ağlan Tepesi, 140 hektarlık bir alanı kaplar.
 - Bu tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur.
 - Ağlan Tepesi, tarihin her döneminde önemli bir yerleşim ve geçiş noktası olarak görev yapmıştır.
 - Bu bölgede, bazı küçük akarsular ve göller de bulunur.
-- Ağlan Tepesi, coğrafi olarak 200 futbol sahası büyüklüğünde bir yeşil alan olarak dikkat çeker.
+

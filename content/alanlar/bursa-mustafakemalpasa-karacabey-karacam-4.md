@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkının tarihi geçmişi, b
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Bölge, dağlar, ormanlar ve nehirler ile çevrilidir ve çeşitli coğrafi oluşumları içerir. Milli parkın coğrafi konumu, iklimini ve doğal yaşamını etkiler. Bölgenin iklimi, ılıman ve yağışlıdır, bu da çeşitli bitki türlerinin yetişmesine uygun bir ortam sağlar. Milli parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve manzaralar sunar. 140 hektarlık alan, ziyaretçilere geniş bir alanda doğayı keşfetme fırsatı verir. Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkı, coğrafi çeşitliliği ve doğal güzellikleriyle ziyaretçileri etkiler.
+Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Bölge, dağlar, ormanlar ve nehirler ile çevrilidir ve çeşitli coğrafi oluşumları içerir. Milli parkın coğrafi konumu, iklimini ve doğal yaşamını etkiler. Bölgenin iklimi, ılıman ve yağışlıdır, bu da çeşitli bitki türlerinin yetişmesine uygun bir ortam sağlar. Milli parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve manzaralar sunar. Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkı, coğrafi çeşitliliği ve doğal güzellikleriyle ziyaretçileri etkiler.
 
 ## Flora ve Fauna
 

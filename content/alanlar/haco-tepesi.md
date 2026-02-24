@@ -28,7 +28,7 @@ wikidata_id: "Q31385778"
 
 # Haco Tepesi
 
-Haco Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. Haco Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunuyor. Bu tepe, Şanlıurfa'nın önemli bir turizm merkezi olarak biliniyor.
+Haco Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Haco Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunuyor. Bu tepe, Şanlıurfa'nın önemli bir turizm merkezi olarak biliniyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Haco Tepesi, ziyaretçilerine çeşitli etkinlikler sunuyor. Bu tepe, doğa yür
 ## İlginç Bilgiler
 
 - Haco Tepesi, Şanlıurfa'nın önemli bir turizm merkezi olarak biliniyor
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor
+
 - Haco Tepesi, yüzyıllar boyunca çeşitli uygarlıkların yaşam alanı olarak kullanılmış olabilir
 - Tepenin üzerinde yer alan tarihi kalıntılar, bu bölgenin tarihini aydınlatmak için önemli ipuçları sunuyor
 - Haco Tepesi, ziyaretçilerine tarihin izlerini takip etme fırsatı sunuyor

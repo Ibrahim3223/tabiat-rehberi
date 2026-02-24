@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 5'i ziyaret etmek, hem tarihi hem de doğal güzellikle
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 5, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri.
-- Tümülüs, 140 hektarlık geniş bir yeşil alanda kurulmuş.
+
 - Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Ziyaretçiler, tümülüsün etrafındaki doğal güzellikleri keşfedebilir ve bölgenin iklimini deneyimleyebilir.
 - Bin Tepeler Tümülüsü 5, sadece bir tarihi yapı değil, aynı zamanda doğanın güzelliğini ve çeşitliliğini yansıtan bir bölge.

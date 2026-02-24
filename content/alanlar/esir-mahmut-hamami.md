@@ -50,7 +50,7 @@ Esir Mahmut Hamamı, hem tarihi hem de doğal güzelliklerini keşfetmek isteyen
 ## İlginç Bilgiler
 
 - Esir Mahmut Hamamı, tarihsel geçmişi ile dikkat çekiyor.
-- Bu nokta, 140 hektarlık bir yeşil alan sunuyor.
+
 - Esir Mahmut Hamamı, Isparta'nın turizm değerlerini koruma ve tanıtmak için önemli bir role sahip.
 - Bu nokta, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Esir Mahmut Hamamı, ziyaretçilere geniş bir açık alan sunuyor.

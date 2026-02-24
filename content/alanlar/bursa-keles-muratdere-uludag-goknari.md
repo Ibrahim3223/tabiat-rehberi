@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Bursa-Keles-Muratdere-Uludag Goknari","caption":"Bursa-Keles-Muratdere-Uludag Goknari","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Keles-Muratdere-Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228590","tip":"genel"}]
-description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Bursa-Keles-Muratdere-Uludag Goknari milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin.
 keywords: ["Marmara Bölgesi","Bursa","milli park","doğal güzellik","yeşil alan","Uludağ"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228590"
@@ -30,7 +30,7 @@ Bursa-Keles-Muratdere-Uludag Goknari milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Bursa-Keles-Muratdere-Uludag Goknari milli parkı, coğrafi olarak Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir. Milli park, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve çevresindeki dağlarla birlikte muhteşem bir manzaraya sahiptir. Burada, çeşitli bitki türleri ve zengin fauna hakkında bilgi edinebilir ve doğanın güzelliğini keşfedebilirsiniz. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçiler, burada dört mevsimi ayrı ayrı deneyimleyebilirler. Çevre, doğal güzelliği ile dikkat çekiyor ve ziyaretçiler, burada doğayla iç içe olabilirler.
+Bursa-Keles-Muratdere-Uludag Goknari milli parkı, coğrafi olarak Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burada, çeşitli bitki türleri ve zengin fauna hakkında bilgi edinebilir ve doğanın güzelliğini keşfedebilirsiniz. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçiler, burada dört mevsimi ayrı ayrı deneyimleyebilirler. Çevre, doğal güzelliği ile dikkat çekiyor ve ziyaretçiler, burada doğayla iç içe olabilirler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bursa-Keles-Muratdere-Uludag Goknari milli parkını ziyaret etmek, doğanın g�
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir
 - Milli parkın tarihi geçmişi, yüzyıllar öncesine dayanıyor
 - Milli parkta, çeşitli bitki türleri ve zengin fauna hakkında bilgi edinebilirsiniz

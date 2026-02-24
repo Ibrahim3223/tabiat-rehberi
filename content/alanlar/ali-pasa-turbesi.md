@@ -30,7 +30,7 @@ wikidata_id: "Q131391507"
 
 # Ali Paşa Türbesi
 
-Ali Paşa Türbesi, Tokat ilinin merkezinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Ali Paşa Türbesi, Tokat'ın tarihi ve kültürel mirasının önemli bir parçasıdır. Türbenin yakınında, çeşitli bitki türleri ve zengin fauna bulunan doğal alanlar yer alır. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar.
+Ali Paşa Türbesi, Tokat ilinin merkezinde yer alan tarihi bir yapıdır. Ali Paşa Türbesi, Tokat'ın tarihi ve kültürel mirasının önemli bir parçasıdır. Türbenin yakınında, çeşitli bitki türleri ve zengin fauna bulunan doğal alanlar yer alır. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar.
 
 ## Tarihçe
 

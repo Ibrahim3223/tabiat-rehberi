@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekmek","Yaban hayatı gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Kocakatran","caption":"Kocakatran","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakatran","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30598182","tip":"genel"}]
-description: "Mersin'in natuur cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Mersin","Kocakatran","milli park","doğa","yaban hayatı","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30598182"
@@ -28,7 +28,7 @@ wikidata_id: "Q30598182"
 
 # Kocakatran
 
-Mersin'in güzelliklerini barındıran Kocakatran milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Kocakatran, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini koruyup sergiliyor. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Kocakatran milli parkı, hem doğa severler hem de gezi düşkünleri için mükemmel bir destinasyon.
+ Kocakatran, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini koruyup sergiliyor. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Kocakatran milli parkı, hem doğa severler hem de gezi düşkünleri için mükemmel bir destinasyon.
 
 ## Tarihçe
 

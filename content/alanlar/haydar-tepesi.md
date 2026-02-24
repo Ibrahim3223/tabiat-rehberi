@@ -29,7 +29,7 @@ wikidata_id: "Q31559119"
 
 # Haydar Tepesi
 
-Haydar Tepesi, İç Anadolu Bölgesi'nin kalbinde, geniş ve yeşillik bir alana hakim olan 140 hektarlık bir tepe. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel Türk misafirperverliğini gösteren küçük yerleşim birimleri. Haydar Tepesi, doğa severler ve tarih meraklıları için bir hazine. Tepenin zirvesine tırmanmak, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor.
+ Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel Türk misafirperverliğini gösteren küçük yerleşim birimleri. Haydar Tepesi, doğa severler ve tarih meraklıları için bir hazine. Tepenin zirvesine tırmanmak, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Haydar Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için bir 
 
 ## İlginç Bilgiler
 
-- Haydar Tepesi, 140 hektarlık bir alana sahip
 - Tepenin zirvesine ulaşmak için, 2-3 saatlik bir yürüyüş gerekiyor
 - Bölge, flora ve fauna açısından zengin
 - Haydar Tepesi, yılın her mevsimi ziyaret edilebilir

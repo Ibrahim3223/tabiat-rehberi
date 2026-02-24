@@ -49,7 +49,7 @@ Koncadağ'ı ziyaret etmek, doğa severler için benzersiz bir deneyim sunmaktad
 ## İlginç Bilgiler
 
 - Koncadağ, Kilis ilinin en önemli doğal güzelliklerinden biri olarak bilinmektedir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Koncadağ'ın flora ve fauna çeşitliliği, mevsimsel değişimlere göre farklılık göstermektedir.
 - Bölgenin coğrafi yapısı, su kaynakları ve toprak yapısı ile dikkat çekmektedir.
 - Koncadağ, doğa severlerin ve bilim insanlarının araştırmalarını destekleyecek zengin bir ekosisteme sahiptir.

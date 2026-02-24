@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9b/%C3%87a%C4%9Flayan%2C_%C5%9Eebinkarahisar_02.jpg","alt":"Çağlayan manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%87a%C4%9Flayan_Metro_%C4%B0stasyonu_M7_2024.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%C3%87a%C4%9Flayan_Metro_%C4%B0stasyonu_M7_2024.jpg/1280px-%C3%87a%C4%9Flayan_Metro_%C4%B0stasyonu_M7_2024.jpg","alt":"Çağlayan - Çağlayan Metro İstasyonu M7 2024","credit":"Kayra","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cc/%C3%87a%C4%9Flayan_metro_station_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%C3%87a%C4%9Flayan_metro_station_1.jpg/1280px-%C3%87a%C4%9Flayan_metro_station_1.jpg","alt":"Çağlayan - Çağlayan metro station 1","credit":"Jelican9","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/%C3%87a%C4%9Flayan_Metro_Platform.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%C3%87a%C4%9Flayan_Metro_Platform.jpg/1280px-%C3%87a%C4%9Flayan_Metro_Platform.jpg","alt":"Çağlayan - Çağlayan Metro Platform","credit":"Alikam1896","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/%C3%87a%C4%9Flayan_Metro_Lifts.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%C3%87a%C4%9Flayan_Metro_Lifts.jpg/1280px-%C3%87a%C4%9Flayan_Metro_Lifts.jpg","alt":"Çağlayan - Çağlayan Metro Lifts","credit":"Alikam1896","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/66/%C3%87a%C4%9Flayan_Metro_Square.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%C3%87a%C4%9Flayan_Metro_Square.jpg/1280px-%C3%87a%C4%9Flayan_Metro_Square.jpg","alt":"Çağlayan - Çağlayan Metro Square","credit":"Alikam1896","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228472","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Çağlayan, 140 hektarlık geniş bir alana yayılmaktadır."
+"
 keywords: ["Çağlayan","milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228472"
@@ -39,7 +39,7 @@ wikidata_id: "Q108228472"
 
 ## Ziyaret Bilgileri
 
-Çağlayan milli parkını ziyaret etmek, doğa ve yaban hayatı ile iç içe bir deneyim sunuyor. Parka ulaşım, bölgeye göre poměrně kolaydır ve ziyaretçilere, çeşitli ulaşım seçenekleri sunulmaktadır. Ziyaretçilerin, parkı keşfetmek için yeterli zaman ayırmaları önerilir, çünkü 140 hektarlık bu alan, oldukça geniş ve ziyaretçilere, her köşesinde yeni bir keşif sunuyor. Parkta, doğa yürüyüşleri, fotoğrafçılık ve yaban hayatı gözlemi gibi çeşitli etkinlikler yapılabilir. Ziyaretçiler, ayrıca, parkın yakınlarında bulunan yerleşim yerlerinde, konaklayabilir ve yerel kültürü deneyimleyebilirler.
+Çağlayan milli parkını ziyaret etmek, doğa ve yaban hayatı ile iç içe bir deneyim sunuyor. Parka ulaşım, bölgeye göre poměrně kolaydır ve ziyaretçilere, çeşitli ulaşım seçenekleri sunulmaktadır. Parkta, doğa yürüyüşleri, fotoğrafçılık ve yaban hayatı gözlemi gibi çeşitli etkinlikler yapılabilir. Ziyaretçiler, ayrıca, parkın yakınlarında bulunan yerleşim yerlerinde, konaklayabilir ve yerel kültürü deneyimleyebilirler.
 
 ## İlginç Bilgiler
 

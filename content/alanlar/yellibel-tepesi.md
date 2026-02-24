@@ -28,7 +28,7 @@ wikidata_id: "Q31534983"
 
 # Yellibel Tepesi
 
-Yellibel Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak iliyor. Gaziantep'in merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Yellibel Tepesi, ziyaretçilerine eşsiz manzaralar sunuyor ve bölgenin kültürel zenginliğini yansıtıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu özellikler, Yellibel Tepesini doğal güzellik açısından önemli bir destinasyon haline getiriyor.
+Yellibel Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak iliyor. Yellibel Tepesi, ziyaretçilerine eşsiz manzaralar sunuyor ve bölgenin kültürel zenginliğini yansıtıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu özellikler, Yellibel Tepesini doğal güzellik açısından önemli bir destinasyon haline getiriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yellibel Tepesi, tarihsel geçmişi ile de dikkat çekiyor. Tepenin tarihi, yüz
 
 ## Coğrafya
 
-Yellibel Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin merkezinde yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölge, iklim olarak ılımandır ve her mevsim ziyaret edilebilir. Yellibel Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli coğrafi özelliklere sahip. Tepenin eteklerinde, çeşitli akarsular ve göller bulunmakta. Bu özellikler, Yellibel Tepesini coğrafi olarak önemli bir destinasyon haline getiriyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Yellibel Tepesi, Gaziantep'in en önemli coğrafi özelliklerinden biri olarak kabul ediliyor ve bölgenin turizm potansiyelini artırıyor.
+Yellibel Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin merkezinde yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölge, iklim olarak ılımandır ve her mevsim ziyaret edilebilir. Tepenin eteklerinde, çeşitli akarsular ve göller bulunmakta. Bu özellikler, Yellibel Tepesini coğrafi olarak önemli bir destinasyon haline getiriyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Yellibel Tepesi, Gaziantep'in en önemli coğrafi özelliklerinden biri olarak kabul ediliyor ve bölgenin turizm potansiyelini artırıyor.
 
 ## Flora ve Fauna
 

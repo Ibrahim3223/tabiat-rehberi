@@ -36,7 +36,7 @@ Kapdağı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Kapdağı Tepe, Şanlıurfa'nın coğrafi yapısını şekillendiren önemli bir nokta olarak görülüyor. Bu tepe, 140 hektarlık geniş bir alana yayılmış ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kapdağı Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor. Bu tepe, aynı zamanda bölgenin iklimini de şekillendiren önemli bir faktör olarak görülüyor. Kapdağı Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor ve doğanın tüm güzelliğini gözler önüne seriyor. Bu tepe, bölgenin en önemli turistik mekanlarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Kapdağı Tepe, Şanlıurfa'nın coğrafi yapısını şekillendiren önemli bir nokta olarak görülüyor. Kapdağı Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor. Bu tepe, aynı zamanda bölgenin iklimini de şekillendiren önemli bir faktör olarak görülüyor. Kapdağı Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor ve doğanın tüm güzelliğini gözler önüne seriyor. Bu tepe, bölgenin en önemli turistik mekanlarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 

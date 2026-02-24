@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık"," piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Yelligedik Tepesi","caption":"Yelligedik Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelligedik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536155","tip":"genel"}]
-description: "Hatay'da bulunan Yelligedik Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Yelligedik Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31536155"
@@ -36,7 +36,7 @@ Yelligedik Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tep
 
 ## Coğrafya
 
-Yelligedik Tepesi, Hatay ilinin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini doğanın içerisinde bir yolculuğa çıkarıyor. Yelligedik Tepesi'nin coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özellikleri taşıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Yelligedik Tepesi, ziyaretçilerine hem doğal güzellikleri hem de panoramik manzaraları sunuyor. Tepenin zirvesinden, çevreyi kuşbakışı olarak görebilme imkanına sahip olmak, ziyaretçilerin keyif alacağı bir deneyim olacak.
+Yelligedik Tepesi, Hatay ilinin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Yelligedik Tepesi'nin coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özellikleri taşıyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Yelligedik Tepesi, ziyaretçilerine hem doğal güzellikleri hem de panoramik manzaraları sunuyor. Tepenin zirvesinden, çevreyi kuşbakışı olarak görebilme imkanına sahip olmak, ziyaretçilerin keyif alacağı bir deneyim olacak.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yelligedik Tepesi'ni ziyaret etmek, doğa ve tarih meraklıları için unutulmaz
 ## İlginç Bilgiler
 
 - Yelligedik Tepesi, Hatay ilinin en önemli turizm noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Yelligedik Tepesi, zengin bir flora ve fauna çeşitliliğine sahip.
 - Tepenin zirvesinden, çevreyi kuşbakışı olarak görebilme imkanına sahip olma mümkün.
 - Yelligedik Tepesi, doğa severler ve fotoğraf meraklıları için bir cennet olarak biliniyor.

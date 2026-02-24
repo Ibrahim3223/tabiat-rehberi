@@ -28,7 +28,7 @@ wikidata_id: "Q31388559"
 
 # Beştaş Tepesi
 
-Rize'nin dağlık bölgesinde yer alan Beştaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Beştaş Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bölgeye gelen ziyaretçiler, tepeye tırmanarak muhteşem manzarayı izleyebiliyorlar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
+ Beştaş Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bölgeye gelen ziyaretçiler, tepeye tırmanarak muhteşem manzarayı izleyebiliyorlar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

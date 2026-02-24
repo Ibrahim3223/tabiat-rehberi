@@ -22,7 +22,7 @@ wikidata_id: "Q108227480"
 
 # Antalya-Gazipaşa-Dogancadere Karacam
 
-Antalya-Gazipaşa-Dogancadere Karacam Milli Parkı, yaklaşık 140 hektarlık bir alanı kaplayan, Akdeniz Bölgesi'nin en özel doğal güzelliklerinden biri. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Parkın konumu, ziyaretçiler için hem doğal güzelliği hem de tarihi geçmişi ile önemli bir çekim merkezi oluşturuyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu milli park, doğa severler için bir cennet.
+ Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Parkın konumu, ziyaretçiler için hem doğal güzelliği hem de tarihi geçmişi ile önemli bir çekim merkezi oluşturuyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Antalya-Gazipaşa-Dogancadere Karacam Milli Parkı, ziyaretçiler için önemli 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplıyor
-- 200 futbol sahası büyüklüğünde
 - Akdeniz Bölgesi'nin en özel doğal güzelliklerinden biri
 - Tarihi geçmişi ile dikkat çekiyor
 - Çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün

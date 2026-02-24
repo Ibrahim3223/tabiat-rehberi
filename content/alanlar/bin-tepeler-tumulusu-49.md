@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 49'u ziyaret etmek, bir tarih ve kültür yolculuğuna 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 49, Ege Bölgesi'nin en önemli tarihi merkezlerinden biri
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Tarihi yapılar, o dönemlerin kültürel ve sosyal yaşamını yansıtan önemli eserler olarak kabul ediliyor
 - Bu bölgenin iklimi, genellikle Akdeniz iklimi özellikleri gösteriyor
 - Çevre, genellikle zeytinli ve ormanlık alanlarla kaplı

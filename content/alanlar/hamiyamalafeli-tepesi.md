@@ -36,7 +36,7 @@ Hamiyamalafeli Tepesi, yüzyıllar boyunca bölgenin önemli bir parçası olara
 
 ## Coğrafya
 
-Hamiyamalafeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta. Tepenin konumu, bölgenin iklimini ve coğrafi özelliklerini etkiliyor. Hamiyamalafeli Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde ve çevresinde, farklı yüksekliklerde ve eğimlerde bulunan araziler, bölgenin coğrafi çeşitliliğini gösteriyor. Tepenin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor.
+Hamiyamalafeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta. Tepenin konumu, bölgenin iklimini ve coğrafi özelliklerini etkiliyor. Tepenin eteklerinde ve çevresinde, farklı yüksekliklerde ve eğimlerde bulunan araziler, bölgenin coğrafi çeşitliliğini gösteriyor. Tepenin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

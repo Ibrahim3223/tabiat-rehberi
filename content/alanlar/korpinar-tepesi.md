@@ -28,7 +28,7 @@ wikidata_id: "Q32210329"
 
 # Körpınar Tepesi
 
-Körpınar Tepesi, Yozgat'ın 중심inde yer alan ve şehre hakim bir konumda bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini geniş ve yeşil bir alanda ağırlıyor. Körpınar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak görülüyor. Tepenin etrafında çeşitli bitki türleri ve ağaçlar bulunmakta. Ayrıca, tepeye tırmanırken manzarayı izlemek de mümkün.
+Körpınar Tepesi, Yozgat'ın 중심inde yer alan ve şehre hakim bir konumda bulunan bir tepe. Körpınar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak görülüyor. Tepenin etrafında çeşitli bitki türleri ve ağaçlar bulunmakta. Ayrıca, tepeye tırmanırken manzarayı izlemek de mümkün.
 
 ## Tarihçe
 

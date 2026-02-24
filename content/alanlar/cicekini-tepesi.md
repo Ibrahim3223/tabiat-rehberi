@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","bitki gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif/lossy-page1-900px-Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif.jpg","alt":"Çiçekini Tepesi","caption":"Çiçekini Tepesi","credit":"Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-20","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C3%A7ekini%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829362","tip":"genel"}]
-description: "Karaman'da bulunan Çiçekini Tepesi, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Karaman'da bulunan Çiçekini Tepesi, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir.
 keywords: ["Karaman","İç Anadolu Bölgesi","doğal alan","tepe","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829362"
@@ -36,7 +36,7 @@ Karaman'da bulunan Çiçekini Tepesi, İç Anadolu Bölgesi'nin önemli doğal a
 
 ## Coğrafya
 
-Çiçekini Tepesi, Karaman ilinin sınırları içerisinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, 140 hektarlık bir alanı kaplıyor. Bölgenin coğrafi yapısı, farklı bitki türlerinin yetişmesine olanak tanıyor. Çiçekini Tepesi, Karaman'ın coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yazları sıcak ve kurak, kışları ise soğuk ve karlı bir iklim hüküm sürüyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendiriyor. Çiçekini Tepesi, Karaman'ın coğrafi ve ekolojik zenginliklerini yansıtan önemli bir doğal alandır.
+Çiçekini Tepesi, Karaman ilinin sınırları içerisinde yer alıyor. Bölgenin coğrafi yapısı, farklı bitki türlerinin yetişmesine olanak tanıyor. Çiçekini Tepesi, Karaman'ın coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgede, yazları sıcak ve kurak, kışları ise soğuk ve karlı bir iklim hüküm sürüyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendiriyor. Çiçekini Tepesi, Karaman'ın coğrafi ve ekolojik zenginliklerini yansıtan önemli bir doğal alandır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Karaman'da bulunan Çiçekini Tepesi, İç Anadolu Bölgesi'nin önemli doğal a
 
 ## İlginç Bilgiler
 
-- Çiçekini Tepesi, 140 hektarlık bir alanı kaplıyor
 - Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor
 - Çiçekini Tepesi, Karaman'ın turizm potansiyelini ortaya koyan önemli bir doğal alandır
 - Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiliyor

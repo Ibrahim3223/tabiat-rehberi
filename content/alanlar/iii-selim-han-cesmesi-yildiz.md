@@ -51,6 +51,6 @@ III. Selim Han Çeşmesi, Yıldız, ziyaretçilere keyifli bir gezi deneyimi sun
 
 - III. Selim Han Çeşmesi, Yıldız, 18. yüzyılda inşa edilmiştir.
 - Çeşme, geleneksel Osmanlı mimari tarzı ile inşa edilmiştir.
-- Bölge, 140 hektarlık bir alanı kaplayan Yıldız Parkı ile çevrili.
+
 - Çeşme, çeşitli restorasyonlar geçirmiştir.
 - Bölge, Marmara Denizi'ne yakın bir konumda bulunduğundan, iklimi ılıman ve nemli.

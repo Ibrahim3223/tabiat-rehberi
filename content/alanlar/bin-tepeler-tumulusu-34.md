@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 34'un tarihi geçmişi, yüzyıllar boyunca çeşitli u
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 34, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin coğrafi güzelliğinin ön plana çıktığı bir alanda bulunuyor. Bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan, ziyaretçilere bölgenin coğrafi çeşitliliğini keşfetme fırsatı sunuyor. Tümülüsün bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilereREGION'un doğal güzelliğini sunuyor. Bin Tepeler Tümülüsü 34, coğrafi konumu itibariyle, ziyaretçilere Ege Bölgesi'nin tarihi, kültürel ve doğal güzelliğini bir arada keşfetme fırsatı tanıyor.
+Bin Tepeler Tümülüsü 34, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin coğrafi güzelliğinin ön plana çıktığı bir alanda bulunuyor. Tümülüsün bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilereREGION'un doğal güzelliğini sunuyor. Bin Tepeler Tümülüsü 34, coğrafi konumu itibariyle, ziyaretçilere Ege Bölgesi'nin tarihi, kültürel ve doğal güzelliğini bir arada keşfetme fırsatı tanıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 34, ziyaretçilere Ege Bölgesi'nin tarihi, kültürel 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 34, Ege Bölgesi'nin en önemli arkeolojik alanlarından biri olarak kabul ediliyor.
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bin Tepeler Tümülüsü 34, yalnızca tarihi önemi ile değil, aynı zamanda doğal güzelliği ile de dikkat çekiyor.
 - Ziyaretçiler, tümülüsün tarihi ve coğrafi önemini öğrenmek için rehberli turlara katılabilirler.
 - Bin Tepeler Tümülüsü 34, Ege Bölgesi'nin coğrafi güzelliğini ve tarihi önemini bir arada keşfetme fırsatı sunuyor.

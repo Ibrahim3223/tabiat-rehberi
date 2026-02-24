@@ -49,7 +49,7 @@ Akpınar Tepesi'ni ziyaret etmek, ziyaretçilere doğal güzelliği ve tarihi ge
 ## İlginç Bilgiler
 
 - Akpınar Tepesi, Ağrı ilinin sınırları içinde yer almaktadır
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır
+
 - Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir
 - Tarihi geçmişi, doğal güzelliği ve coğrafi konumu ile dikkat çekmektedir
 - Bölgenin ekolojik dengesini korumak için önemli bir role sahiptir

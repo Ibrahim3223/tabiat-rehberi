@@ -22,8 +22,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Aphrodite_Dardanos_T%C3%BCm%C3%BCl%C3%BCs%C3%BC_M%C3%96_1._Y%C3%BCzy%C4%B1l_%2853022428076%29.jpg","alt":"Dardanos Tümülüsü manzarası","credit":"Troya  Müzesi from Çanakkale, Türkiye","license":"cc-by-sa-2.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dardanos%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728427","tip":"genel"}]
-description: "Çanakkale'nin tarihi ve doğal güzelliklerini keşfedin. Dardanos Tümülüsü, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Dardanos Tümülüsü","Çanakkale","tarih","doğa","yeşil alan","futbol sahası","tümülüs","gezi","turizm"]
+description: "Çanakkale'nin tarihi ve doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728427"
 ---
@@ -49,8 +49,6 @@ Dardanos Tümülüsü, çeşitli bitki türleri ve zengin faunayla dikkat çeker
 Dardanos Tümülüsü, ziyaretçilerine çeşitli deneyimler sunar. Ziyaretçiler, tümülüsün tarihi ve doğasını keşfedebilir ve güzel manzaralarla karşılaşabilir. Dardanos Tümülüsü'ne ulaşmak, Çanakkale'nin merkezinden kolayca sağlanabilir. Ziyaretçiler, toplu taşıma veya özel araçlarıyla tümülüsün bulunduğu yere ulaşabilir. Dardanos Tümülüsü, ziyaretçilerine çeşitli etkinlikler sunar ve doğa yürüyüşleri, tarih gezileri gibi faaliyetlerle zenginleştirilir.
 
 ## İlginç Bilgiler
-
-- Dardanos Tümülüsü, 140 hektarlık bir yeşil alana kurulmuştur.
 
 - Dardanos Tümülüsü, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeriydi.
 - Tümülüs, tarihi belgelerde söz edilmektedir.

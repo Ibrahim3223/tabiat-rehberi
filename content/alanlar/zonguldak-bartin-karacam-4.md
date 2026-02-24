@@ -30,7 +30,7 @@ Karacam 4 Milli Parkı, tarihi geçmişiyle dikkat çekiyor. Bu bölgenin tarihi
 
 ## Coğrafya
 
-Karacam 4 Milli Parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, dağlar, ormanlar ve akarsularla çevrili. Milli park, 140 hektarlık bir alanda yer alıyor ve ziyaretçilerine doğal güzellikleri sunuyor. Karadeniz Bölgesi'nin iklimi, milli parkın coğrafyasını da etkiliyor. Bu bölgede, karasal iklim hüküm sürüyor ve ziyaretçilere, dört mevsimi yaşayan bir bölge sunuyor. Karacam 4 Milli Parkı, ziyaretçilerine, doğal güzellikleri ve coğrafi özellikleri ile keyifli bir gezi deneyimi sunuyor. Milli parkın coğrafyası, ziyaretçilerin keşfetmek için saatlerce vakit geçirebileceği bir yer.
+Karacam 4 Milli Parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, dağlar, ormanlar ve akarsularla çevrili. Karadeniz Bölgesi'nin iklimi, milli parkın coğrafyasını da etkiliyor. Bu bölgede, karasal iklim hüküm sürüyor ve ziyaretçilere, dört mevsimi yaşayan bir bölge sunuyor. Karacam 4 Milli Parkı, ziyaretçilerine, doğal güzellikleri ve coğrafi özellikleri ile keyifli bir gezi deneyimi sunuyor. Milli parkın coğrafyası, ziyaretçilerin keşfetmek için saatlerce vakit geçirebileceği bir yer.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Karacam 4 Milli Parkı, ziyaretçilerini bekliyor. Bu milli parka, Zonguldak ili
 ## İlginç Bilgiler
 
 - Karacam 4 Milli Parkı, Karadeniz Bölgesi'nin en önemli milli parklarından biridir.
-- Milli park, 140 hektarlık bir alanda yer alıyor.
+
 - Karacam 4 Milli Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Milli park, ziyaretçilerine, doğal güzellikleri ve tarihi değerleri sunuyor.
 - Karacam 4 Milli Parkı, doğa severlerin ve macera arayışında olanların keyif alacağı bir yer.

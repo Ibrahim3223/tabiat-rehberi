@@ -22,7 +22,7 @@ wikidata_id: "Q108227184"
 
 # Örümcek Ormani Ladini 2
 
- Bu muhteşem milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bu yeşil alan, hem doğa severler hem de macera tutkunları için bir cennet. Ziyaretçiler, burada doğanın seslerini dinleyebilir, ağaçların altında yürüyüş yapabilir, çeşitli bitkileri ve hayvanları gözlemleyebilir.
+ Bu muhteşem milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Ziyaretçiler, burada doğanın seslerini dinleyebilir, ağaçların altında yürüyüş yapabilir, çeşitli bitkileri ve hayvanları gözlemleyebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227184"
 
 ## Coğrafya
 
-Örümcek Ormani Ladini 2, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölgede, genellikle karasal iklim hüküm sürer ve kışlar soğuk, yazlar ise sıcak ve kurudur. Milli park, 140 hektarlık bir alana yayılmış olup, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. Burada, ziyaretçiler, ormanlık alanların yanı sıra, çayır ve meraları da görebilirler. Ayrıca, bu bölgede, çeşitli su kaynakları da bulunmaktadır. Örümcek Ormani Ladini 2, coğrafi konumu itibariyle, ziyaretçilerine birçok farklı manzara sunmaktadır.
+Örümcek Ormani Ladini 2, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölgede, genellikle karasal iklim hüküm sürer ve kışlar soğuk, yazlar ise sıcak ve kurudur. Burada, ziyaretçiler, ormanlık alanların yanı sıra, çayır ve meraları da görebilirler. Ayrıca, bu bölgede, çeşitli su kaynakları da bulunmaktadır. Örümcek Ormani Ladini 2, coğrafi konumu itibariyle, ziyaretçilerine birçok farklı manzara sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227184"
 
 ## İlginç Bilgiler
 
-- Örümcek Ormani Ladini 2, 140 hektarlık bir alana yayılmıştır
 - Burada, çeşitli bitki ve hayvan türleri yaşamaktadır
 - Milli park, doğa severler için bir cennettir
 - Ziyaretçiler, buraya, çeşitli ulaşım araçları ile gelebilirler

@@ -49,7 +49,7 @@ Karaali Şelalesi'ni ziyaret etmek, doğa ile baş başa kalmak isteyenler için
 ## İlginç Bilgiler
 
 - Karaali Şelalesi, Rize'nin en önemli turizm noktalarından biridir
-- Şelale, 140 hektarlık bir yeşil alan üzerindedir
+
 - Karaali Şelalesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir
 - Şelale, yıl boyunca ziyaret edilebilir
 - Karaali Şelalesi, doğa severleri ve fotoğrafçıları cezbeden bir destinasyondur

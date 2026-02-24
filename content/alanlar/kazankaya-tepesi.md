@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Bisiklet","Doğa fotoğrafçılığı","Köy ziyare
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Kazankaya Tepesi","caption":"Kazankaya Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazankaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516125","tip":"genel"}]
-description: "Erzincan'ın önemli doğal güzelliklerinden biri olan Kazankaya Tepesi, yaklaşık 140 hektarlık alanıyla büyüleyici bir manzara sunar."
+"
 keywords: ["Kazankaya Tepesi","Erzincan","Doğu Anadolu Bölgesi","Doğal Güzellik","Tepeler","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31516125"

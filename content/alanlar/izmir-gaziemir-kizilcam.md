@@ -14,15 +14,15 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki ve hayv
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Izmir-Gaziemir Kızılçam","caption":"Izmir-Gaziemir Kızılçam","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Gaziemir%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227893","tip":"genel"}]
-description: "İzmir'in doğal güzelliklerini keşfedin. İzmir-Gaziemir Kızılçam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["İzmir","Gaziemir","Kızılçam","milli park","doğa","yeşil alan","futbol sahası"]
+description: "İzmir'in doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227893"
 ---
 
 # Izmir-Gaziemir Kızılçam
 
- Bu büyüklük, birçok futbol sahasının bir arada bulunabileceği kadar geniştir. Parkın içinde, birçok yürüyüş yolu ve piknik alanı bulunur. Doğa severler için ideal bir yer olan İzmir-Gaziemir Kızılçam, ziyaretçilerine huzurlu bir ortam sunar. Parkın girişinde, ziyaretçileri karşılayan bir bilgi panosu bulunur. Bu panoda, parkın tarihi, coğrafi özellikleri ve flora/fauna hakkında bilgi verilir. İzmir-Gaziemir Kızılçam milli parkı, yıl boyunca birçok ziyaretçi tarafından tercih edilir. Parkın içinde, birçok bitki türü ve hayvan bulunur. Ziyaretçiler, parkın içinde yürüyüş yaparak, doğanın güzelliklerini keşfedebilirler.
+ Parkın içinde, birçok yürüyüş yolu ve piknik alanı bulunur. Doğa severler için ideal bir yer olan İzmir-Gaziemir Kızılçam, ziyaretçilerine huzurlu bir ortam sunar. Parkın girişinde, ziyaretçileri karşılayan bir bilgi panosu bulunur. Bu panoda, parkın tarihi, coğrafi özellikleri ve flora/fauna hakkında bilgi verilir. İzmir-Gaziemir Kızılçam milli parkı, yıl boyunca birçok ziyaretçi tarafından tercih edilir. Parkın içinde, birçok bitki türü ve hayvan bulunur. Ziyaretçiler, parkın içinde yürüyüş yaparak, doğanın güzelliklerini keşfedebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227893"
 
 ## Coğrafya
 
-İzmir-Gaziemir Kızılçam milli parkı, İç Anadolu Bölgesi'nde bulunur. Parkın coğrafi özellikleri, birçok ziyaretçi tarafından tercih edilir. Parkın içinde, birçok yürüyüş yolu ve piknik alanı bulunur. Parkın girişinde, ziyaretçileri karşılayan bir bilgi panosu bulunur. Bu panoda, parkın coğrafi özellikleri hakkında bilgi verilir. Bu büyüklük, birçok futbol sahasının bir arada bulunabileceği kadar geniştir. Parkın içinde, birçok bitki türü ve hayvan bulunur. Ziyaretçiler, parkın içinde yürüyüş yaparak, doğanın güzelliklerini keşfedebilirler. Parkın coğrafi özellikleri, birçok ziyaretçi tarafından tercih edilir. İzmir-Gaziemir Kızılçam milli parkı, Türk milletinin ortak mirasıdır. Parkın korunması, gelecek nesiller için önemlidir. Parkın coğrafi özellikleri, birçok belge ve kaynakta yer alır. Bu belgeler, parkın coğrafi özelliklerini ve önemini gösterir.
+İzmir-Gaziemir Kızılçam milli parkı, İç Anadolu Bölgesi'nde bulunur. Parkın coğrafi özellikleri, birçok ziyaretçi tarafından tercih edilir. Parkın içinde, birçok yürüyüş yolu ve piknik alanı bulunur. Parkın girişinde, ziyaretçileri karşılayan bir bilgi panosu bulunur. Bu panoda, parkın coğrafi özellikleri hakkında bilgi verilir. Parkın içinde, birçok bitki türü ve hayvan bulunur. Ziyaretçiler, parkın içinde yürüyüş yaparak, doğanın güzelliklerini keşfedebilirler. Parkın coğrafi özellikleri, birçok ziyaretçi tarafından tercih edilir. İzmir-Gaziemir Kızılçam milli parkı, Türk milletinin ortak mirasıdır. Parkın korunması, gelecek nesiller için önemlidir. Parkın coğrafi özellikleri, birçok belge ve kaynakta yer alır. Bu belgeler, parkın coğrafi özelliklerini ve önemini gösterir.
 
 ## Flora ve Fauna
 

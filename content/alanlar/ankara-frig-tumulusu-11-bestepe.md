@@ -29,7 +29,7 @@ wikidata_id: "Q134728279"
 
 # Ankara Frig Tümülüsü 11, Beştepe
 
-Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin kalbinde yer alan tarihi bir mekan. Bu önemli tarihi alan, yaklaşık 140 hektarlık bir genişlikte yer alıyor. Tarihi geçmişiyle dikkat çeken bu mekan, ziyaretçilerini bekliyor. Ankara'nın Yenimahalle ilçesinde bulunan bu tümülüs, tarihi açıdan zengin bir geçmişe sahip.
+Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin kalbinde yer alan tarihi bir mekan. Tarihi geçmişiyle dikkat çeken bu mekan, ziyaretçilerini bekliyor. Ankara'nın Yenimahalle ilçesinde bulunan bu tümülüs, tarihi açıdan zengin bir geçmişe sahip.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 11, Beştepe'nin tarihi geçmişi oldukça zengin. Tari
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir konumda yer alıyor. Bu mekan, Ankara'nın Yenimahalle ilçesinde bulunuyor. Coğrafi olarak geniş bir alana yayılan bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, ziyaretçilere geniş bir perspektif sunuyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu mekanın güzelliğini arttırıyor. Bu bölge, genellikle step iklimi özellikleri gösteriyor. Step iklimi, bu mekanın coğrafi güzelliğini artırıyor.
+Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir konumda yer alıyor. Bu mekan, Ankara'nın Yenimahalle ilçesinde bulunuyor. Bu geniş alan, ziyaretçilere geniş bir perspektif sunuyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu mekanın güzelliğini arttırıyor. Bu bölge, genellikle step iklimi özellikleri gösteriyor. Step iklimi, bu mekanın coğrafi güzelliğini artırıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ankara Frig Tümülüsü 11, Beştepe'yi ziyaret etmek, tarihi bir deneyim olaca
 ## İlginç Bilgiler
 
 - Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin en önemli tarihi mekanlarından biri.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Friglerin bu bölgeye yerleşmesi, bu mekanın tarihi önemini artırdı.
 - Bu mekan, yüzyıllar boyunca önemli bir merkez olarak kabul edildi.
 - Ziyaretçiler, bu mekanın tarihi geçmişi hakkında bilgi edinebilirler.

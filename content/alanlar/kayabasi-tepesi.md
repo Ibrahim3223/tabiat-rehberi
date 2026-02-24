@@ -28,7 +28,7 @@ wikidata_id: "Q31389624"
 
 # Kayabaşı Tepesi
 
-Kayabaşı Tepesi, Kastamonu'nun Karadeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu tepe, doğa severlerin ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Kayabaşı Tepesi, ziyaretçilere güzel manzaralar sunuyor.
+Kayabaşı Tepesi, Kastamonu'nun Karadeniz Bölgesi'nde yer alan bir tepe. Bu tepe, doğa severlerin ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Kayabaşı Tepesi, ziyaretçilere güzel manzaralar sunuyor.
 
 ## Tarihçe
 

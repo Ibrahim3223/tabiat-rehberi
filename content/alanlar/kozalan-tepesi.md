@@ -28,7 +28,7 @@ wikidata_id: "Q31387037"
 
 # Kozalan Tepesi
 
-Kozalan Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 200 futbol sahası büyüklüğünde bir alanı kaplayan tepe, Karadeniz Bölgesi'nin yeşilliği ve güzelliği ile ziyaretçilerini bekliyor. Kozalan Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Burada, doğa yürüyüşleri yapara ve çevreyi keşfederek harika anlar geçirebilirsiniz.
+Kozalan Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Kozalan Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Burada, doğa yürüyüşleri yapara ve çevreyi keşfederek harika anlar geçirebilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kozalan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bö
 
 ## Coğrafya
 
-Kozalan Tepesi, Kastamonu'nun coğrafi yapısı ile uyumlu olarak, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kaplayarak, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Kozalan Tepesi'nin coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliğini ve çeşitliliğini gösteriyor. Bu bölge, zengin bitki örtüsü ve çeşitli fauna ile birlikte, ziyaretçilere doğanın tüm güzelliğini sunuyor. Kozalan Tepesi'nin coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri ve keşifler yapmalarına olanak sağlıyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi çeşitliliği ve güzelliği ile ziyaretçilerini büyülüyor.
+Kozalan Tepesi, Kastamonu'nun coğrafi yapısı ile uyumlu olarak, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Kozalan Tepesi'nin coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliğini ve çeşitliliğini gösteriyor. Bu bölge, zengin bitki örtüsü ve çeşitli fauna ile birlikte, ziyaretçilere doğanın tüm güzelliğini sunuyor. Kozalan Tepesi'nin coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri ve keşifler yapmalarına olanak sağlıyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi çeşitliliği ve güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kozalan Tepesi'ni ziyaret etmek, doğa severler için harika bir deneyim olabili
 ## İlginç Bilgiler
 
 - Kozalan Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Kozalan Tepesi, çeşitli bitki türleri ve zengin fauna ile birlikte, bir doğa cenneti olarak karşımıza çıkıyor
 - Bu tepe, mevsimsel değişimlere göre, farklı bitki ve hayvan türleri ile birlikte, ziyaretçilere doğanın güzelliğini gösteriyor
 - Kozalan Tepesi, Kastamonu'nun önemli turizm merkezlerinden biri olarak kabul ediliyor

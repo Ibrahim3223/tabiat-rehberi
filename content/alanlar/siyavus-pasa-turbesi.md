@@ -38,7 +38,7 @@ Siyavuş Paşa Türbesi'nin tarihi geçmişi, İstanbul'un fethi ile başlar. Bu
 
 ## Coğrafya
 
-Siyavuş Paşa Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir konumunda yer alır. İstanbul'un Eyüpsultan ilçesinde bulunan türbe, şehrin merkezine yakın bir mesafededir. Mekânın coğrafyası, Karadeniz ve Marmara Denizi'nin etkisi altında şekillenmiştir. Bölge, yeşillik alanları ve tarihi yapıları ile dikkat çeker. Siyavuş Paşa Türbesi'nin çevresi, İstanbul Boğazı'na yakın bir konumda bulunması nedeniyle, ziyaretçiler buradan boğazın güzel manzarasını izleyebilir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve bu yeşil alan, ziyaretçiler için bir dinlenme ve gezi alanı olarak hizmet verir. Coğrafi konumu itibariyle, Siyavuş Paşa Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan önemli bir merkezdir.
+Siyavuş Paşa Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir konumunda yer alır. İstanbul'un Eyüpsultan ilçesinde bulunan türbe, şehrin merkezine yakın bir mesafededir. Mekânın coğrafyası, Karadeniz ve Marmara Denizi'nin etkisi altında şekillenmiştir. Bölge, yeşillik alanları ve tarihi yapıları ile dikkat çeker. Siyavuş Paşa Türbesi'nin çevresi, İstanbul Boğazı'na yakın bir konumda bulunması nedeniyle, ziyaretçiler buradan boğazın güzel manzarasını izleyebilir. Coğrafi konumu itibariyle, Siyavuş Paşa Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan önemli bir merkezdir.
 
 ## Flora ve Fauna
 

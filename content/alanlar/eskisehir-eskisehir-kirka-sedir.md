@@ -42,7 +42,6 @@ Eskişehir-Eskişehir-Kırka-Sedir milli parkını ziyaret etmek, doğa severler
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta çeşitli bitki türleri ve zengin fauna encontrabilirsiniz
 - Milli park, doğa severler için ideal bir gezi seçeneği
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri doğrultusunda karasal bir iklim özellikleri gösteriyor

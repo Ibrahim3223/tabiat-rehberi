@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","fotografçılık","yaban hayatı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Aptalmusa Tepesi","caption":"Aptalmusa Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aptalmusa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387948","tip":"genel"}]
-description: "Gümüşhane'nin Karadeniz Bölgesi'nde bulunan Aptalmusa Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Aptalmusa Tepesi","Gümüşhane","Karadeniz Bölgesi","doğa","tepe","gezi","yaban hayatı","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387948"
@@ -47,8 +47,6 @@ Aptalmusa Tepesi, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosi
 Aptalmusa Tepesi, ziyaretçilerine geniş bir manzara sunmaktadır. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak bilinmektedir. Aptalmusa Tepesi, Gümüşhane'nin önemli bir kültürel mirası olarak kabul edilmektedir. Bu bölge, doğa severler ve fotoğraf tutkunları için bir cennet gibidir. Aptalmusa Tepesi, bölgede yapılan trekking ve doğa yürüyüşleri için popüler bir destinasyondur. Ziyaretçiler, Aptalmusa Tepesi'ne ulaşım için çeşitlioptions kullanabilirler. Aptalmusa Tepesi, ayrıca çeşitli su kaynakları ve akarsular ile zengin bir hidrolojik sistemine sahiptir.
 
 ## İlginç Bilgiler
-
-- Aptalmusa Tepesi, 140 hektarlık yeşil alanına sahiptir.
 
 - Aptalmusa Tepesi, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir.
 - Bu bölge, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahiptir.

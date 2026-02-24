@@ -49,7 +49,7 @@ Battal Hüyük'ü ziyaret etmek, tarihi ve coğrafi güzelliklerini keşfetmek i
 ## İlginç Bilgiler
 
 - Battal Hüyük, Gaziantep'in en önemli tarihi noktalarından biridir.
-- Bölge, 140 hektarlık bir alana sahiptir.
+
 - Battal Hüyük'ün coğrafi konumu, çeşitli bitki türleri ve fauna için uygun bir ortam sağlamaktadır.
 - Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir.
 - Battal Hüyük'ü ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır.

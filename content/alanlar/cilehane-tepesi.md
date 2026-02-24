@@ -28,7 +28,7 @@ wikidata_id: "Q34819013"
 
 # Çilehane Tepesi
 
-Afyonkarahisar'ın güzide noktalarından biri olan Çilehane Tepesi, khong 140 hektarlık bir alanı kaplıyor. Çilehane Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişine ışık tutuyor. Çilehane Tepesi'ne çıkan ziyaretçiler, Ege Bölgesi'nin geniş ve yeşillik bir manzarasına şahit oluyor.
+ Çilehane Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişine ışık tutuyor. Çilehane Tepesi'ne çıkan ziyaretçiler, Ege Bölgesi'nin geniş ve yeşillik bir manzarasına şahit oluyor.
 
 ## Tarihçe
 

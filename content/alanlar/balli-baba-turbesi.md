@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Ballı Baba Türbesi","caption":"Ballı Baba Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391826","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Ballı Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Ballı Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alıyor."
 keywords: ["Ballı Baba Türbesi","Kırıkkale","Balışeyh","İç Anadolu Bölgesi","Türbe","Doğa","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391826"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391826"
 
 # Ballı Baba Türbesi
 
- Bu bölge, ziyaretçilerini doğanın güzelliği ve tarihi zenginlikleriyle karşılar. 140 hektarlık bu yeşil alan, doğa severlerin keyiflenebileceği geniş bir mekân sunar. Ballı Baba Türbesi, hem doğa hem de tarih severler için bir çekim merkezi olarak dikkat çekiyor.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ve tarihi zenginlikleriyle karşılar. Ballı Baba Türbesi, hem doğa hem de tarih severler için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Ballı Baba Türbesi'ni ziyaret etmek, doğa severler ve tarih meraklıları iç
 
 ## İlginç Bilgiler
 
-- Ballı Baba Türbesi, 140 hektarlık bir alanı kapsar.
 - Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırır.
 - Ballı Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alır.
 - Bu bölge, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir.

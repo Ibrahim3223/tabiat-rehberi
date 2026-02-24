@@ -23,7 +23,7 @@ wikidata_id: "Q108227987"
 
 # Giresun-Ordu Dogu Ladini 1
 
-Giresun-Ordu Dogu Ladini 1, yaklaşık 140 hektarlık bir alanı kapsayan, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu alan, 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Ziyaretçiler, bu doğal cennette yürüyüş yapabilir, doğanın güzelliğini keşfedebilir ve bol oksijenli bir ortamda dinlenebilir. Giresun-Ordu Dogu Ladini 1, özellikle doğa severler ve fotoğraf tutkunları için bir cennet gibidir.
+ Ziyaretçiler, bu doğal cennette yürüyüş yapabilir, doğanın güzelliğini keşfedebilir ve bol oksijenli bir ortamda dinlenebilir. Giresun-Ordu Dogu Ladini 1, özellikle doğa severler ve fotoğraf tutkunları için bir cennet gibidir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Giresun-Ordu Dogu Ladini 1'in tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Giresun-Ordu Dogu Ladini 1, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu alan, dağlar, ormanlar ve nehirlerle çevrilidir. Coğrafi olarak, 140 hektarlık bir alanı kaplayan bu milli park, ziyaretçilerine çeşitli coğrafi şekiller sunar. İklim olarak, Karadeniz ikliminin özellikleri görülür; yani, yağışlı ve nemli bir hava hakimdir. Çevre, zengin bir bitki örtüsü ile kaplıdır ve bu bitki örtüsü, çeşitli hayvan türleri için uygun bir yaşam ortamı sağlar. Giresun-Ordu Dogu Ladini 1, coğrafi güzelliği ve doğal zenginliği ile ziyaretçilerini etkiler. Bu bölge, özellikle doğa fotoğrafçıları ve doğa severler için bir çekim merkezi olarak bilinir.
+Giresun-Ordu Dogu Ladini 1, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu alan, dağlar, ormanlar ve nehirlerle çevrilidir. İklim olarak, Karadeniz ikliminin özellikleri görülür; yani, yağışlı ve nemli bir hava hakimdir. Çevre, zengin bir bitki örtüsü ile kaplıdır ve bu bitki örtüsü, çeşitli hayvan türleri için uygun bir yaşam ortamı sağlar. Giresun-Ordu Dogu Ladini 1, coğrafi güzelliği ve doğal zenginliği ile ziyaretçilerini etkiler. Bu bölge, özellikle doğa fotoğrafçıları ve doğa severler için bir çekim merkezi olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Giresun-Ordu Dogu Ladini 1'i ziyaret etmek, doğa severler için unutulmaz bir d
 ## İlginç Bilgiler
 
 - Giresun-Ordu Dogu Ladini 1, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu milli park, 140 hektarlık bir alanı kapsar.
+
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Giresun-Ordu Dogu Ladini 1, özellikle doğa severler ve fotoğraf tutkunları için bir cennet gibidir.
 - Milli parka ulaşım, genellikle özel araçlar veya toplu taşıma araçları ile sağlanır.

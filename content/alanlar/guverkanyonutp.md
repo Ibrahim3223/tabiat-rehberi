@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/G%C3%9CVER_U%C3%87URUMU_ANTALYA-20200812_095100.jpg","alt":"GÜVER_KANYONU_TP manzarası","credit":"BİSİKLETÇİ1234","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Lovely_day_in_G%C3%BCver.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lovely_day_in_G%C3%BCver.jpg/1280px-Lovely_day_in_G%C3%BCver.jpg","alt":"GÜVER_KANYONU_TP - Lovely day in Güver","credit":"Coachkayee","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%9CVER_KANYONU_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229000","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Doğa","Kanyon","Milli Park","İç Anadolu Bölgesi","Yeşil Alan","Futbol Saha","Güver Kanyonu"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229000"
@@ -42,8 +42,6 @@ Güver Kanyonu, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir
 Güver Kanyonu'nu ziyaret etmek, hem doğa severler hem de macera arayanlar için mükemmel bir deneyimi sunar. Ziyaretçiler, kanyonun derinliklerine inerek, eşsiz manzaraları ve çevreyi keşfedebilirler. Kanyona ulaşım, çeşitli ulaşım araçları ile mümkündür ve ziyaretçiler, konaklama seçeneklerini değerlendirebilirler. Güver Kanyonu, ziyaretçilerine, hem doğayı keşfetme hem de macera yaşama fırsatı sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Güver Kanyonu, 140 hektarlık bir alanı kapsar.
 
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Güver Kanyonu, hem doğa severler hem de macera arayanlar için mükemmel bir destinasyondur.

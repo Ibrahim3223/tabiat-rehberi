@@ -28,7 +28,7 @@ wikidata_id: "Q32132500"
 
 # Bakraç Höyüğü
 
-Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bakraç Höyüğü, bölgeye gelen ziyaretçiler için önemli bir tarihi ve kültürel merkez konumundadır. Höyüğün etrafında yer alan doğal güzellikler ve tarihi yapılar, ziyaretçilerin ilgisini çekmektedir. Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir.
+Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür. Bakraç Höyüğü, bölgeye gelen ziyaretçiler için önemli bir tarihi ve kültürel merkez konumundadır. Höyüğün etrafında yer alan doğal güzellikler ve tarihi yapılar, ziyaretçilerin ilgisini çekmektedir. Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bakraç Höyüğü, tarihi geçmişi ile dikkat çekmektedir. Höyüğün tarihi
 
 ## Coğrafya
 
-Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Höyüğün etrafında yer alan doğal güzellikler, höyüğün coğrafi konumunu etkilemektedir. Höyüğün bulunduğu bölge, Akdeniz ikliminin etkisi altındadır. Höyüğün etrafında yer alan dağlar ve ovalar, höyüğün coğrafi konumunu etkilemektedir. Höyüğün coğrafi konumu, höyüğün tarihi geçmişi ile birlikte dikkat çekmektedir. Höyüğün bulunduğu bölgenin coğrafi özellikleri, höyüğün etrafında yer alan doğal güzellikleri etkilemektedir.
+Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür. Höyüğün etrafında yer alan doğal güzellikler, höyüğün coğrafi konumunu etkilemektedir. Höyüğün bulunduğu bölge, Akdeniz ikliminin etkisi altındadır. Höyüğün etrafında yer alan dağlar ve ovalar, höyüğün coğrafi konumunu etkilemektedir. Höyüğün coğrafi konumu, höyüğün tarihi geçmişi ile birlikte dikkat çekmektedir. Höyüğün bulunduğu bölgenin coğrafi özellikleri, höyüğün etrafında yer alan doğal güzellikleri etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -44,12 +44,12 @@ Bakraç Höyüğü, zengin flora ve fauna çeşitliliğine sahiptir. Höyüğün
 
 ## Ziyaret Bilgileri
 
-Bakraç Höyüğü, ziyaretçiler için önemli bir tarihi ve kültürel merkez konumundadır. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Höyüğün etrafında yer alan doğal güzellikler ve tarihi yapılar, ziyaretçilerin ilgisini çekmektedir. Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir. Höyüğün coğrafi konumu, höyüğün tarihi geçmişi ile birlikte dikkat çekmektedir. Höyüğün bulunduğu bölgenin coğrafi özellikleri, höyüğün etrafında yer alan doğal güzellikleri etkilemektedir.
+Bakraç Höyüğü, ziyaretçiler için önemli bir tarihi ve kültürel merkez konumundadır. Höyüğün etrafında yer alan doğal güzellikler ve tarihi yapılar, ziyaretçilerin ilgisini çekmektedir. Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir. Höyüğün coğrafi konumu, höyüğün tarihi geçmişi ile birlikte dikkat çekmektedir. Höyüğün bulunduğu bölgenin coğrafi özellikleri, höyüğün etrafında yer alan doğal güzellikleri etkilemektedir.
 
 ## İlginç Bilgiler
 
 - Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür.
-- Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Höyüğün etrafında yer alan doğal güzellikler, höyüğün coğrafi konumunu etkilemektedir.
 - Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir.
 - Höyüğün flora ve fauna çeşitliliği, höyüğün doğal güzelliklerini etkilemektedir.

@@ -49,7 +49,6 @@ Erikli Tepe'yi ziyaret etmek, bir gezi değil, aynı zamanda bir zaman yolculuğ
 ## İlginç Bilgiler
 
 - Erikli Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri.
-- Bu bölge, 140 hektarlık bir alana yayılıyor.
 
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Erikli Tepe, coğrafi konumu itibariyle de oldukça önemli bir noktada yer alıyor.

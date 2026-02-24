@@ -22,7 +22,7 @@ wikidata_id: "Q108227847"
 
 # Antalya-Döşemealtı Karaçam 1
 
-Antalya-Döşemealtı Karaçam 1 milli parkı, Akdeniz Bölgesi'nde yer alan ve khong 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğanın güzelliğini keşfedebilir hem de yaban hayatını gözlemleyebilir.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğanın güzelliğini keşfedebilir hem de yaban hayatını gözlemleyebilir.
 
 ## Tarihçe
 

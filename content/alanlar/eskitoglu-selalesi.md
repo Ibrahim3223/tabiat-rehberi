@@ -36,7 +36,7 @@ Eskitoğlu Şelalesi, yüzyıllar boyunca, bölgede yaşayan halkın doğa ile i
 
 ## Coğrafya
 
-Eskitoğlu Şelalesi, Karadeniz Bölgesi'nin Rize ilinde, yaklaşık 140 hektarlık bir yeşil alan içinde yer almaktadır. Şelale, bir vadi içinde, aşağıdan yukarıya doğru yükselen bir arazide bulunmaktadır. Şelalenin yüksekliği, yaklaşık 50 metre civarındadır. Şelaleye ulaşmak için, Rize il merkezinden uzun bir mesafe uzaklıktaki bir köyden geçmek gerekmektedir. Bu köy, şelaleye giden yolun başlangıç noktasıdır. Şelaleye ulaştığınızda, sizi muhteşem bir manzara karşılar. Şelalenin suyu, yüksek bir kayadan dökülerek, belowa ulaşmaktadır. Bu manzara, doğa severler için gerçek bir cennettir. Şelalenin etrafında, çeşitli bitki türleri bulunmaktadır. Bu bitkiler, şelalenin suyunun ve ikliminin etkisiyle, buraya özgü bir flora oluşturmaktadır. Ayrıca, şelale, bölgenin iklimini de etkilemektedir. Şelalenin suyu, bölgede yaşayan canlılar için önemli bir kaynak teşkil etmektedir.
+ Şelale, bir vadi içinde, aşağıdan yukarıya doğru yükselen bir arazide bulunmaktadır. Şelalenin yüksekliği, yaklaşık 50 metre civarındadır. Şelaleye ulaşmak için, Rize il merkezinden uzun bir mesafe uzaklıktaki bir köyden geçmek gerekmektedir. Bu köy, şelaleye giden yolun başlangıç noktasıdır. Şelaleye ulaştığınızda, sizi muhteşem bir manzara karşılar. Şelalenin suyu, yüksek bir kayadan dökülerek, belowa ulaşmaktadır. Bu manzara, doğa severler için gerçek bir cennettir. Şelalenin etrafında, çeşitli bitki türleri bulunmaktadır. Bu bitkiler, şelalenin suyunun ve ikliminin etkisiyle, buraya özgü bir flora oluşturmaktadır. Ayrıca, şelale, bölgenin iklimini de etkilemektedir. Şelalenin suyu, bölgede yaşayan canlılar için önemli bir kaynak teşkil etmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Eskitoğlu Şelalesi, doğa severler için gerçek bir cennettir. Şelaleye ula�
 ## İlginç Bilgiler
 
 - Eskitoğlu Şelalesi, Rize ilinin en önemli doğa harikalarından biridir.
-- Şelale, yaklaşık 140 hektarlık bir yeşil alan içinde yer almaktadır.
+
 - Şelalenin yüksekliği, yaklaşık 50 metre civarındadır.
 
 - Şelalenin suyu, bölgede yaşayan canlılar için önemli bir kaynak teşkil etmektedir.

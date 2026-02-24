@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Kuma Tepesi","caption":"Kuma Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuma%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388720","tip":"genel"}]
-description: "Muğla'nın gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Kuma Tepesi","Muğla","Ege Bölgesi","tepe","doğa","gezi","yürüyüş"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388720"
@@ -36,7 +36,7 @@ Kuma Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu tepe,
 
 ## Coğrafya
 
-Kuma Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, 140 hektarlık bir yeşil alan ve yüksek bir konumdate bulunmaktadır. Kuma Tepesi'nin coğrafi yapısı, ziyaretçileri etkileyici manzarası ve zengin bitki örtüsü ile karşılar. Bu tepe, Ege Bölgesi'nin eşsiz güzelliğini keşfetmek için ideal bir noktadır. Kuma Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşır. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir iklimi sahiptir. Kuma Tepesi'nin çevresi, çeşitli bitki türleri ile kaplıdır. Bu tepe, aynı zamanda zengin fauna'ya ev sahipliği yapmaktadır. Ziyaretçiler, bu tepeye tırmanırken, çeşitli bitki ve hayvan türleri ile karşılaşabilirler.
+Kuma Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Kuma Tepesi'nin coğrafi yapısı, ziyaretçileri etkileyici manzarası ve zengin bitki örtüsü ile karşılar. Bu tepe, Ege Bölgesi'nin eşsiz güzelliğini keşfetmek için ideal bir noktadır. Kuma Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşır. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir iklimi sahiptir. Kuma Tepesi'nin çevresi, çeşitli bitki türleri ile kaplıdır. Bu tepe, aynı zamanda zengin fauna'ya ev sahipliği yapmaktadır. Ziyaretçiler, bu tepeye tırmanırken, çeşitli bitki ve hayvan türleri ile karşılaşabilirler.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kuma Tepesi, ziyaretçiler için ideal bir gezi noktasıdır. Bu tepe, etkileyic
 
 ## İlginç Bilgiler
 
-- Kuma Tepesi, 140 hektarlık bir yeşil alan
 - Bu tepe, yüksek bir konumdate bulunmaktadır
 - Kuma Tepesi, Ege Bölgesi'nin eşsiz güzelliğini keşfetmek için ideal bir noktadır
 - Bu tepe, zengin flora ve fauna'ya ev sahipliği yapmaktadır

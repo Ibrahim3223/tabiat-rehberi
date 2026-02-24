@@ -30,7 +30,7 @@ wikidata_id: "Q131391747"
 
 # Çandarlı Türbesi
 
-Çandarlı Türbesi, İznik'in merkezinde yer alan tarihi bir mekan. Bu türbe, İznik Gölü'nün kıyısında bulunan ve şehrin tarihi dokusunu yansıtan önemli bir yapı. Çandarlı Türbesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve İznik'in tarihi geçmişi hakkında bilgi veren önemli bir tarihi mekan. İznik'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
+Çandarlı Türbesi, İznik'in merkezinde yer alan tarihi bir mekan. Bu türbe, İznik Gölü'nün kıyısında bulunan ve şehrin tarihi dokusunu yansıtan önemli bir yapı. İznik'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
 
 ## Tarihçe
 

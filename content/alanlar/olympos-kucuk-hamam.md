@@ -21,7 +21,7 @@ aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Tarih ve k�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667202636%29.jpg/960px-thumbnail.jpg","alt":"Olympos Küçük Hamam","caption":"Olympos Küçük Hamam","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667202636)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Olympos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739230","tip":"genel"}]
-description: "Antalya'nın Kumluca ilçesinde bulunan Olympos Küçük Hamam, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin fauna ile çeşitlilik gösteren bir doğa harikasıdır."
+description: "Antalya'nın Kumluca ilçesinde bulunan Olympos Küçük Hamam, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Olympos","Küçük Hamam","Antalya","Kumluca","Akdeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739230"
@@ -49,7 +49,6 @@ Olympos Küçük Hamam, zengin bir flora ve fauna çeşitliliğine sahip bir do�
 
 ## İlginç Bilgiler
 
-- Olympos Küçük Hamam, 140 hektarlık bir alana yayılmış bir doğa harikasıdır.
 - Bu bölge, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor.
 - Olympos, yüzyıllar boyunca önemli bir yerleşim ve ticaret merkezi olarak bilinen bir antik şehirdir.
 - Olympos Küçük Hamam, zengin bir flora ve fauna çeşitliliğine sahip bir doğa harikasıdır.

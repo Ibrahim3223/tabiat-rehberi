@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 32'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 32, Manisa'nın Salihli ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini taşır. Bu bölge, yeşilin farklı tonlarını bir araya getiren geniş ormanlık alanlarla çevrilidir. Coğrafi olarak, bu bölgeyi 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünme mümkündür. Bin Tepeler Tümülüsü 32, doğa severlerin ve coğrafya meraklılarının ziyaret edebileceği özel bir noktadır. Burada, ziyaretçiler, Ege Bölgesi'nin karakteristik coğrafi özelliklerini gözlemleyebilir ve doğanın güzelliklerini keşfedebilir.
+Bin Tepeler Tümülüsü 32, Manisa'nın Salihli ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini taşır. Bu bölge, yeşilin farklı tonlarını bir araya getiren geniş ormanlık alanlarla çevrilidir. Bin Tepeler Tümülüsü 32, doğa severlerin ve coğrafya meraklılarının ziyaret edebileceği özel bir noktadır. Burada, ziyaretçiler, Ege Bölgesi'nin karakteristik coğrafi özelliklerini gözlemleyebilir ve doğanın güzelliklerini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Bin Tepeler Tümülüsü 32'yi ziyaret etmek, doğa severler ve tarih meraklıla
 
 - Bin Tepeler Tümülüsü 32, Manisa'nın önemli tarihi ve doğal güzelliklerinden biridir.
 - Bu bölgede, çeşitli uygarlıkların izleri bulunmaktadır.
-- Bin Tepeler Tümülüsü 32, 140 hektarlık bir alanı kaplar.
+
 - Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Ziyaretçiler, buraya gelirken, kendi araçlarını kullanabilir veya toplu taşıma araçlarını tercih edebilir.

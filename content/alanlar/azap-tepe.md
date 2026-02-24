@@ -37,7 +37,7 @@ Azap Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve birçok med
 
 ## Coğrafya
 
-Azap Tepe, İzmir'in coğrafi yapısını yansıtan bir tepe. 140 hektarlık bu alan, Ege Bölgesi'nin karakteristik coğrafyasını taşıyor. Bu tepe, deniz seviyesinden belirli bir yükseklikte bulunuyor ve manzarası ile ziyaretçilerini etkiliyor. Azap Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, coğrafi konumu itibariyle, hem doğal güzelliklerini keşfetmek hem de tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir gezi noktası. Azap Tepe'nin coğrafyası, Ege Bölgesi'nin genel coğrafyasını yansıtıyor ve bu nedenle, coğrafya meraklıları için önemli bir destinasyon.
+Azap Tepe, İzmir'in coğrafi yapısını yansıtan bir tepe. Bu tepe, deniz seviyesinden belirli bir yükseklikte bulunuyor ve manzarası ile ziyaretçilerini etkiliyor. Azap Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, coğrafi konumu itibariyle, hem doğal güzelliklerini keşfetmek hem de tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir gezi noktası. Azap Tepe'nin coğrafyası, Ege Bölgesi'nin genel coğrafyasını yansıtıyor ve bu nedenle, coğrafya meraklıları için önemli bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Azap Tepe'yi ziyaret etmek, hem doğa severler hem de tarih meraklıları için 
 
 ## İlginç Bilgiler
 
-- Azap Tepe, 140 hektarlık bir alana yayılmış.
 - Bu tepe, Ege Bölgesi'nin karakteristik coğrafyasını taşıyor.
 - Azap Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 - Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.

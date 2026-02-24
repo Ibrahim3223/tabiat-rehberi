@@ -28,7 +28,7 @@ wikidata_id: "Q31386721"
 
 # Harim Tepesi
 
-Harim Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır şehrinde bulunmakta ve 140 hektarlık bir alanı kaplamaktadır. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur. Ayrıca, bu tepe çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölge, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekmektedir. Harim Tepesi, ziyaretçilerini bekleyen bir doğa harikası olarak görülmektedir.
+ Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur. Ayrıca, bu tepe çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölge, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekmektedir. Harim Tepesi, ziyaretçilerini bekleyen bir doğa harikası olarak görülmektedir.
 
 ## Tarihçe
 
@@ -47,8 +47,6 @@ Harim Tepesi, çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. 
 Harim Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için ideal bir seçimdir. Bu bölge, ziyaretçilerine, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekmektedir. Ziyaretçiler, tepenin çevresinde yürüyüş yapabilir, bitki türleri ve hayvanları gözlemleyebilir, tarihi kalıntıları keşfedebilir. Harim Tepesi, ziyaretçilerini bekleyen bir doğa harikası olarak görülmektedir. Ziyaretçiler, bu bölgeyi ziyaret ederken, çevre ve tarih hakkında bilgi sahibi olabilirler.
 
 ## İlginç Bilgiler
-
-- Harim Tepesi, 140 hektarlık bir alanı kaplamaktadır.
 
 - Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur.
 - Bu bölge, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır.

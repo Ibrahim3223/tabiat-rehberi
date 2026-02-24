@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Kalaçagir Tepesi","caption":"Kalaçagir Tepesi","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kala%C3%A7agir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877443","tip":"genel"}]
-description: "Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken Kalaçagir Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bölgeye özgü flora ile fauna çeşitliliğini sunar."
+"
 keywords: ["Mardin","Kalaçagir Tepesi","doğa","tarih","gezi","tepe","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34877443"
@@ -28,7 +28,7 @@ wikidata_id: "Q34877443"
 
 # Kalaçagir Tepesi
 
-Kalaçagir Tepesi, Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken bir bölgedir. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, bölgeye özgü flora ile fauna çeşitliliğini sunar. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Mardin'in coğrafi yapısı ve iklimi, bu tepenin oluşumunda önemli bir rol oynamıştır. Tarihi geçmişi ve doğal güzelliği ile Kalaçagir Tepesi, ziyaretçilerini bekliyor.
+Kalaçagir Tepesi, Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken bir bölgedir. Mardin'in coğrafi yapısı ve iklimi, bu tepenin oluşumunda önemli bir rol oynamıştır. Tarihi geçmişi ve doğal güzelliği ile Kalaçagir Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kalaçagir Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri o
 
 ## Coğrafya
 
-Kalaçagir Tepesi, Mardin'in coğrafi yapısı ve iklimi tarafından şekillenmiştir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgeye özgü flora ile fauna çeşitliliğini sunar. Tepenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanır. Kalaçagir Tepesi, Mardin'in doğal güzelliklerini sunan önemli bir bölgedir. Bölgenin coğrafi yapısı, tepenin oluşumunda büyük bir rol oynamıştır. Mardin'in iklimi, Kalaçagir Tepesi'nin flora ve fauna çeşitliliğini etkilemiştir. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilerin bölgeden panoramik bir görüş elde etmesine olanak tanır. Kalaçagir Tepesi, Mardin'in coğrafi güzelliklerini sunan önemli bir tepe olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+Kalaçagir Tepesi, Mardin'in coğrafi yapısı ve iklimi tarafından şekillenmiştir. Tepenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanır. Kalaçagir Tepesi, Mardin'in doğal güzelliklerini sunan önemli bir bölgedir. Bölgenin coğrafi yapısı, tepenin oluşumunda büyük bir rol oynamıştır. Mardin'in iklimi, Kalaçagir Tepesi'nin flora ve fauna çeşitliliğini etkilemiştir. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilerin bölgeden panoramik bir görüş elde etmesine olanak tanır. Kalaçagir Tepesi, Mardin'in coğrafi güzelliklerini sunan önemli bir tepe olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Flora ve Fauna
 

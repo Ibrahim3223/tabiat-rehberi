@@ -37,7 +37,7 @@ Mevlana Feyzullah Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine daya
 
 ## Coğrafya
 
-Mevlana Feyzullah Dede Türbesi, Aydın'ın Nazilli ilçesinde yer almaktadır. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerinde kurulmuştur. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ayrıca, türbenin yakınında bir plaj bulunmaktadır. Bu plaj, ziyaretçilerin dinlenmesi ve doğayı seyretmesi için ideal bir yerdir. Mevlana Feyzullah Dede Türbesi'nin coğrafi konumu, ziyaretçilere önemli avantajlar sunmaktadır. Türbenin bulunduğu alan, ulaşım bakımından da kolaylık sağlamaktadır. Ayrıca, türbenin yakınında çeşitli turistik yerler bulunmaktadır. Mevlana Feyzullah Dede Türbesi, coğrafi konumu ile önemli bir destinasyondur.
+Mevlana Feyzullah Dede Türbesi, Aydın'ın Nazilli ilçesinde yer almaktadır. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ayrıca, türbenin yakınında bir plaj bulunmaktadır. Bu plaj, ziyaretçilerin dinlenmesi ve doğayı seyretmesi için ideal bir yerdir. Mevlana Feyzullah Dede Türbesi'nin coğrafi konumu, ziyaretçilere önemli avantajlar sunmaktadır. Türbenin bulunduğu alan, ulaşım bakımından da kolaylık sağlamaktadır. Ayrıca, türbenin yakınında çeşitli turistik yerler bulunmaktadır. Mevlana Feyzullah Dede Türbesi, coğrafi konumu ile önemli bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mevlana Feyzullah Dede Türbesi'ni ziyaret etmek, tarihi ve doğa severler için
 ## İlginç Bilgiler
 
 - Mevlana Feyzullah Dede Türbesi, tarihi ve kültürel önemi nedeniyle önemli bir yerdir.
-- Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerindedir.
+
 - Mevlana Feyzullah Dede Türbesi, yıl boyunca ziyaret edilebilir.
 - Türbenin yakınında bir plaj bulunmaktadır.
 - Mevlana Feyzullah Dede Türbesi, flora ve fauna bakımından zengin bir alana sahiptir.

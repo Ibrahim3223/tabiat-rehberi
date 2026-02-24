@@ -50,7 +50,7 @@ Kum Tepe'yi ziyaret etmek, hem doğa severler hem de tarih meraklıları için g
 ## İlginç Bilgiler
 
 - Kum Tepe, Eskişehir'in coğrafi ve tarihi açıdan önemli bir noktasıdır.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kum Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Bu bölge, yılın her döneminde ziyaret edilebilir.
 - Kum Tepe, gerçek bir doğa ve tarih cenneti olarak kabul edilir.

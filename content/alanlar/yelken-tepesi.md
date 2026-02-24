@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tırmanma","spor aktiviteleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Yelken Tepesi","caption":"Yelken Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelken%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389747","tip":"genel"}]
-description: "Marmara Bölgesi'nin önemli doğal alanlarından biri olan Yelken Tepesi, Kocaeli ilinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar."
+"
 keywords: ["Kocaeli","Marmara Bölgesi","Yelken Tepesi","doğal alan","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389747"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389747"
 
 # Yelken Tepesi
 
-Yelken Tepesi, Marmara Bölgesi'nin önemli doğal alanlarından biri olarak Kocaeli ilinde yer alır. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, bölgenin en önemli turizm merkezlerinden biridir. Yelken Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle karşılar. Tepenin zirvesinden bakıldığında, Marmara Denizi'nin güzel manzarasını izleme mümkündür. Ayrıca, tepe etrafındaki ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçileri büyüler.
+Yelken Tepesi, Marmara Bölgesi'nin önemli doğal alanlarından biri olarak Kocaeli ilinde yer alır. Yelken Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle karşılar. Tepenin zirvesinden bakıldığında, Marmara Denizi'nin güzel manzarasını izleme mümkündür. Ayrıca, tepe etrafındaki ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçileri büyüler.
 
 ## Tarihçe
 

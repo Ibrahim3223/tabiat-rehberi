@@ -50,7 +50,6 @@ wikidata_id: "Q131391781"
 
 ## İlginç Bilgiler
 
-- Şeyh Derviş Türbesi, 140 hektarlık bir yeşil alana sahiptir.
 - Bu bölgede, çeşitli bitki türü bulunmakta.
 - Şeyh Derviş Türbesi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
 - Bu bölgede, çeşitli tarihi eserler ve kalıntılar bulunmakta.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Isparta-Golhisar-Golova Karacam","caption":"Isparta-Golhisar-Golova Karacam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar-Golova%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227943","tip":"genel"}]
-description: "Isparta ilinin Golhisar ilçesinde bulunan milli park, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["Isparta","Golhisar","Golova Karacam","milli park","yeşil alan","fauna","Isparta milli parkları","Akdeniz Bölgesi","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227943"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227943"
 
 # Isparta-Golhisar-Golova Karacam
 
-Isparta-Golhisar-Golova Karacam milli parkı, Isparta ilinin Golhisar ilçesinde yer alan 140 hektarlık bir yeşil alanı kapsamaktadır. Milli park, zengin fauna çeşitliliği ve güzel manzaraları ile dikkat çekmektedir. Isparta'nın önemli turizm noktalarından biri olan milli park, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve burada geçirilen zaman, unutulmaz bir deneyim olarak hatırlanır.
+ Milli park, zengin fauna çeşitliliği ve güzel manzaraları ile dikkat çekmektedir. Isparta'nın önemli turizm noktalarından biri olan milli park, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve burada geçirilen zaman, unutulmaz bir deneyim olarak hatırlanır.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Isparta-Golhisar-Golova Karacam milli parkı, Isparta ilinin Golhisar ilçesinde
 
 ## Flora ve Fauna
 
-Isparta-Golhisar-Golova Karacam milli parkı, zengin fauna çeşitliliği ile dikkat çekmektedir. Milli parkın 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Milli parkın flora çeşitliliği, mevsimsel değişimlere göre farklılık gösterir ve ziyaretçilere renkli bir manzara sunar. Milli parkın fauna çeşitliliği, birçok hayvan türünü içerir ve ziyaretçilere doğa ile iç içe olabilecekleri bir ortam sağlar. Milli parkın ekosistemi, doğal dengenin korunmasına yönelik çabaların sonucudur. Isparta-Golhisar-Golova Karacam milli parkı, ziyaretçilere geniş bir doğa deneyimi sunar ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Milli parkın flora ve fauna çeşitliliği, Isparta ilinin turizm potansiyelini artırmak amacıyla yapılan çalışmaların sonucudur.
+Isparta-Golhisar-Golova Karacam milli parkı, zengin fauna çeşitliliği ile dikkat çekmektedir. Milli parkın flora çeşitliliği, mevsimsel değişimlere göre farklılık gösterir ve ziyaretçilere renkli bir manzara sunar. Milli parkın fauna çeşitliliği, birçok hayvan türünü içerir ve ziyaretçilere doğa ile iç içe olabilecekleri bir ortam sağlar. Milli parkın ekosistemi, doğal dengenin korunmasına yönelik çabaların sonucudur. Isparta-Golhisar-Golova Karacam milli parkı, ziyaretçilere geniş bir doğa deneyimi sunar ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Milli parkın flora ve fauna çeşitliliği, Isparta ilinin turizm potansiyelini artırmak amacıyla yapılan çalışmaların sonucudur.
 
 ## Ziyaret Bilgileri
 

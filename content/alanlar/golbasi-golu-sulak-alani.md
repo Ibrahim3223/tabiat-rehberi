@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotografçılık","Bi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Gölbası Gölü Sulak Alanı","caption":"Gölbası Gölü Sulak Alanı","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lbas%C4%B1%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228863","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Gölbası Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Çevre","Koruma","Sulak Alan Ekosistemi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228863"
@@ -42,8 +42,6 @@ Gölbası Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cenn
 
 ## İlginç Bilgiler
 
-- Gölbası Gölü Sulak Alanı, 140 hektarlık bir alanı kapsıyor
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Gölün çevresinde bulunan çeşitli bitki türleri ve fauna, bölgenin ekolojik dengesini sağlayan önemli unsurlar olarak görülüyor
 - Gölbası Gölü Sulak Alanı, aynı zamanda bölgede yapılan arkeolojik kazılar sonucu ortaya çıkan tarihi eserler ve buluntularla da önemli bir kültür mirası olarak kabul ediliyor
 - Bu sulak alanın coğrafi konumu, bölgede yaşayan insanların yaşam tarzını ve kültürünü etkileyen önemli bir faktör olarak görülüyor

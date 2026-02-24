@@ -49,7 +49,7 @@ Sırnık Tepe'yi ziyaret etmek, Konya'nın tarihi ve doğal güzelliklerini keş
 ## İlginç Bilgiler
 
 - Sırnık Tepe, Konya'nın önemli bir tarihi ve kültürel noktası
-- Tepe, 140 hektarlık bir alanı kapsıyor
+
 - Çevresindeki doğal güzellikler, tepeyi bir gezi destinasyonu olarak önemli kılıyor
 - İlkbahar ve yaz ayları, tepeyi ziyaret etmek için en uygun mevsimler
 - Tepe, Konya'nın tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor

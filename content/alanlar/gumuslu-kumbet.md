@@ -50,7 +50,7 @@ Gümüşlü Kümbet'i ziyaret etmek için, en uygun zaman yaz aylarıdır. Bu d�
 ## İlginç Bilgiler
 
 - Gümüşlü Kümbet, Erzurum'un en çok ziyaret edilen plajlarından biridir.
-- Bu plaj, 140 hektarlık bir alana sahiptir.
+
 - Gümüşlü Kümbet'in adı, bölgede bulunan tarihi bir kümbetle ilgilidir.
 - Bu plaj, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmektedir.
 - Gümüşlü Kümbet'e ulaşım, genellikle Erzurum'un merkezinden yapılan otobüs seferleri ile sağlanabilir.

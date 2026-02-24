@@ -22,7 +22,7 @@ wikidata_id: "Q108228984"
 
 # Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası
 
-Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini doğal güzelliklerle sürprizlere hazırlıyor. Coğrafi konumu itibariyle, bölgenin ekolojisine büyük katkı sağlıyor ve yaban hayatının gelişmesine olanak tanıyor.
+ Coğrafi konumu itibariyle, bölgenin ekolojisine büyük katkı sağlıyor ve yaban hayatının gelişmesine olanak tanıyor.
 
 ## Tarihçe
 

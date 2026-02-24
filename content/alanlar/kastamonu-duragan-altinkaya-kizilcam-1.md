@@ -30,7 +30,7 @@ Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkının tarihi geçmişi, yü
 
 ## Coğrafya
 
-Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, Karadeniz Bölgesi'nin kuzeyinde, Kastamonu ilinin Duragan ilçesinde bulunmaktadır. Bu milli park, 140 hektarlık bir alanı kaplamaktadır. Milli parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Milli parkın iklimi, Karadeniz iklimi özellikleri gösterir ve genellikle yağışlı ve nemlidir. Bu bölgede, mevsimsel değişimler belirgindir ve her mevsim, farklı bir güzellik sunmaktadır. Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, ziyaretçilerine doğanın güzelliği ve çeşitliliği sunmaktadır. Milli parkın coğrafi konumu, ziyaretçilerin doğa ile iç içe olmasını sağlamaktadır.
+Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, Karadeniz Bölgesi'nin kuzeyinde, Kastamonu ilinin Duragan ilçesinde bulunmaktadır. Milli parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Milli parkın iklimi, Karadeniz iklimi özellikleri gösterir ve genellikle yağışlı ve nemlidir. Bu bölgede, mevsimsel değişimler belirgindir ve her mevsim, farklı bir güzellik sunmaktadır. Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, ziyaretçilerine doğanın güzelliği ve çeşitliliği sunmaktadır. Milli parkın coğrafi konumu, ziyaretçilerin doğa ile iç içe olmasını sağlamaktadır.
 
 ## Flora ve Fauna
 

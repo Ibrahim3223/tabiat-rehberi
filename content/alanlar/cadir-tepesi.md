@@ -37,7 +37,7 @@ Bursa'nın doğal güzelliklerinden biri olan Çadır Tepesi, Marmara Bölgesi'n
 
 ## Coğrafya
 
-Çadır Tepesi, Marmara Bölgesi'nde Bursa ilinde yer alır. Coğrafi olarak, bu bölge Karadeniz ve Ege Bölgeleri arasında bir geçiş alanıdır. Çadır Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, flora ve faunası ile dikkat çeker. Çadır Tepesi'nin coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşam alanı olmasını sağlar. İklim olarak, Marmara Bölgesi'nin karasal iklimi hakimdir. Yaz ayları sıcak ve kuru, kış ayları soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel koşullar, Çadır Tepesi'nin doğal güzelliğini etkiler.
+Çadır Tepesi, Marmara Bölgesi'nde Bursa ilinde yer alır. Coğrafi olarak, bu bölge Karadeniz ve Ege Bölgeleri arasında bir geçiş alanıdır. Bu alan, flora ve faunası ile dikkat çeker. Çadır Tepesi'nin coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşam alanı olmasını sağlar. İklim olarak, Marmara Bölgesi'nin karasal iklimi hakimdir. Yaz ayları sıcak ve kuru, kış ayları soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel koşullar, Çadır Tepesi'nin doğal güzelliğini etkiler.
 
 ## Flora ve Fauna
 

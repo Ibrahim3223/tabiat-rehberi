@@ -38,7 +38,7 @@ wikidata_id: "Q131390879"
 
 ## Coğrafya
 
-İlyas Bey Türbesi, Marmara Bölgesi'nin güzel ilçesi Gebze'de yer alır. Bu bölge, coğrafi olarak çeşitli özellikleri barındırır. Türbe, 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli bitki türleri bulunur. İklim olarak, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve dört mevsimi yaşayan bir bölgedir. Kışları ılıman ve yağışlı, yazları ise sıcak ve kurudur. Bu coğrafi özellikler, İlyas Bey Türbesi'nin çevre doğasını zenginleştirir ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Türbenin bulunduğu alan, çevredeki tepe ve vadilerle birlikte bir bütün olarak güzel bir manzara oluşturur.
+İlyas Bey Türbesi, Marmara Bölgesi'nin güzel ilçesi Gebze'de yer alır. Bu bölge, coğrafi olarak çeşitli özellikleri barındırır. İklim olarak, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve dört mevsimi yaşayan bir bölgedir. Kışları ılıman ve yağışlı, yazları ise sıcak ve kurudur. Bu coğrafi özellikler, İlyas Bey Türbesi'nin çevre doğasını zenginleştirir ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Türbenin bulunduğu alan, çevredeki tepe ve vadilerle birlikte bir bütün olarak güzel bir manzara oluşturur.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390879"
 ## İlginç Bilgiler
 
 - İlyas Bey Türbesi, Kocaeli'nin önemli tarih ve kültür miraslarından biridir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - İlyas Bey Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır.
 - Türbe, yılın her mevsiminde ziyaret edilebilir.
 - İlyas Bey Türbesi, tarihi ve doğal güzelliklerin bir arada olduğu önemli bir gezi noktasıdır.

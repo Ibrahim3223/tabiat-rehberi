@@ -28,7 +28,7 @@ wikidata_id: "Q31386812"
 
 # Kozabezari Tepesi
 
-Kozabezari Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman'ın merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kozabezari Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi zenginliklerini sunuyor.
+Kozabezari Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Kozabezari Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi zenginliklerini sunuyor.
 
 ## Tarihçe
 

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/74/Boraboy_G%C3%B6l%C3%BC_Tab%C4%B0at_Park%C4%B1.jpg","alt":"Boraboy Tabiat Parkı manzarası","credit":"gokhan guven batir","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Boraboy_G%C3%B6l%C3%BC_Tab%C4%B0at_Park%C4%B1.jpg/960px-Boraboy_G%C3%B6l%C3%BC_Tab%C4%B0at_Park%C4%B1.jpg","alt":"Boraboy Tabiat Parkı","caption":"Boraboy Tabiat Parkı","credit":"Boraboy Gölü Tabİat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/86/Two_fellows_in_Boraboy_Lake.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Two_fellows_in_Boraboy_Lake.jpg/1280px-Two_fellows_in_Boraboy_Lake.jpg","alt":"Boraboy Tabiat Parkı - Two fellows in Boraboy Lake","credit":"Nisanur Koç","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Lake_with_Tree.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Lake_with_Tree.jpg/1280px-The_Lake_with_Tree.jpg","alt":"Boraboy Tabiat Parkı - The Lake with Tree","credit":"Nisanur Koç","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Borabay.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Borabay.jpg/1280px-Borabay.jpg","alt":"Boraboy Tabiat Parkı - Borabay","credit":"Yavuzsc","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Lake_boraboy.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lake_boraboy.jpg/1280px-Lake_boraboy.jpg","alt":"Boraboy Tabiat Parkı - Lake boraboy","credit":"Mervenilay","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Lake_Boraboy_and_the_surrounding_forest_from_a_viewpoint.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lake_Boraboy_and_the_surrounding_forest_from_a_viewpoint.png/1280px-Lake_Boraboy_and_the_surrounding_forest_from_a_viewpoint.png","alt":"Boraboy Tabiat Parkı - Lake Boraboy and the surrounding forest from a viewpoint","credit":"Burak Önder","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boraboy%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228408","tip":"genel"}]
 description: "Amasya'nın güzide tabiat parkı, zengin flora ve fauna çeşitliliği"
@@ -43,7 +43,6 @@ Boraboy Tabiat Parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fır
 
 ## İlginç Bilgiler
 
-- Boraboy Tabiat Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor
 - Boraboy Tabiat Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişiyor

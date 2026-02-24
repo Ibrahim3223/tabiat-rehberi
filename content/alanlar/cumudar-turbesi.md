@@ -29,7 +29,7 @@ wikidata_id: "Q135582726"
 
 # Cumudar Türbesi
 
-Cumudar Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapı. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna encontrado. Ziyaretçiler, bu güzel ve tarihi mekanın tadını çıkarırken, aynı zamanda doğanın güzelliğini de keşfedebilir.
+Cumudar Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapı. Bu alanda, çeşitli bitki türleri ve zengin fauna encontrado. Ziyaretçiler, bu güzel ve tarihi mekanın tadını çıkarırken, aynı zamanda doğanın güzelliğini de keşfedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cumudar Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu mek
 
 ## Coğrafya
 
-Cumudar Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir mekan. Bu bölge, dağların ve ormanların arasında yer alıyor ve ziyaretçilerine muhteşem manzaralar sunuyor. Coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Karadeniz Bölgesi'nin nemli ve ılıman iklimi ile uyumlu. Cumudar Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Bu mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor.
+Cumudar Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir mekan. Bu bölge, dağların ve ormanların arasında yer alıyor ve ziyaretçilerine muhteşem manzaralar sunuyor. Coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Karadeniz Bölgesi'nin nemli ve ılıman iklimi ile uyumlu. Cumudar Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Cumudar Türbesi'ni ziyaret etmek, Amasya'nın tarihi ve doğal güzelliklerini 
 ## İlginç Bilgiler
 
 - Cumudar Türbesi, Amasya'nın tarihi mekanlarından biri.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Cumudar Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, bu güzel ve tarihi mekanın tadını çıkarırken, aynı zamanda doğanın güzelliğini de keşfedebilir.
 - Cumudar Türbesi, Amasya'nın önemli tarihçesi içerisinde yer alan bir mekan olarak, ziyaretçilerine zengin bir tarihçe sunuyor.

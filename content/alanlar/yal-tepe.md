@@ -49,5 +49,5 @@ Yal Tepe, ziyaretçilerine çeşitli etkinlikler sunuyor. Tepe, doğa yürüyü�
 ## İlginç Bilgiler
 
 - Yal Tepe, Marmara Bölgesi'nin en yüksek noktalarından biri
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Yal Tepe, tarihin farklı dönemlerine ait kalıntılar barındırıyor

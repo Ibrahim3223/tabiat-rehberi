@@ -51,7 +51,7 @@ Abdal Mehmet Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri k
 ## İlginç Bilgiler
 
 - Abdal Mehmet Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir.
-- Bu bölge, 140 hektarlık bir alana sahiptir.
+
 - Abdal Mehmet Türbesi'nin etrafı, çeşitli bitki türleriyle çevrilidir.
 - Bu bölgede, birçok farklı türde canlı bulunmakta ve ekolojik açıdan önemli bir merkez olarak kabul edilmektedir.
 - Abdal Mehmet Türbesi, tarihsel geçmişiyle bir mekan olarak bilinmektedir.

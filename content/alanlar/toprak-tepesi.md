@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi","Doğa g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Toprak Tepesi","caption":"Toprak Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toprak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504380","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık yeşil alan"
+
 keywords: ["Toprak Tepesi","İç Anadolu Bölgesi","doğa","gezilecek yerler","tepe","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31504380"
@@ -29,7 +29,7 @@ wikidata_id: "Q31504380"
 
 # Toprak Tepesi
 
-Toprak Tepesi, İç Anadolu Bölgesi'nin göbeğinde yer alan, yaklaşık 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu tepe, bölgenin gizli güzelliği olarak biliniyor. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor. Toprak Tepesi, doğa severler ve tarih meraklıları için bir hazine. Bölgenin coğrafi özelliklerini ve tarihi değerlerini keşfetmek için ideal bir nokta.
+ Bu tepe, bölgenin gizli güzelliği olarak biliniyor. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor. Toprak Tepesi, doğa severler ve tarih meraklıları için bir hazine. Bölgenin coğrafi özelliklerini ve tarihi değerlerini keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Toprak Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için bir 
 
 ## İlginç Bilgiler
 
-- Toprak Tepesi, 140 hektarlık bir yeşil alan
-- Toprak Tepesi, yaklaşık 200 futbol sahası büyüklüğünde
 - Toprak Tepesi, İç Anadolu Bölgesi'nin gizli güzelliği
 - Toprak Tepesi, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Toprak Tepesi, zengin bir flora ve fauna sahip

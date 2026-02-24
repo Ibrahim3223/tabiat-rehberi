@@ -28,7 +28,7 @@ wikidata_id: "Q34817539"
 
 # Veysoüstü Tepesi
 
-Veysoüstü Tepesi, Diyarbakır'ın güneydoğusunda yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Veysoüstü Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir yer. Tepenin zirvesinden, çevreyi panoramik olarak görme mümkün. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir nokta.
+Veysoüstü Tepesi, Diyarbakır'ın güneydoğusunda yer alan bir tepe. Veysoüstü Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir yer. Tepenin zirvesinden, çevreyi panoramik olarak görme mümkün. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 

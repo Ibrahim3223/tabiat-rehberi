@@ -37,20 +37,20 @@ Eyüp Sultan Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanır. 
 
 ## Coğrafya
 
-Eyüp Sultan Hamamı, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu bölge, İstanbul'un Eyüpsultan ilçesinde, Golden Horn yakınlarında bulunur. Eyüp Sultan Hamamı, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ve hayvanlar tarafından doldurulur. Bu bölgede, çeşitli iklim koşulları hüküm sürer ve bu, flora ve faunayı etkiler. Eyüp Sultan Hamamı, ayrıca, çeşitli su kaynaklarına da sahiptir ve bu su kaynakları, bölgenin ekolojisini destekler. Eyüp Sultan Hamamı'nın coğrafi konumu, İstanbul'un doğal güzelliğini yansıtmaktadır. Bu bölge, Golden Horn'un güzelliği ile birleştirilir ve bu, ziyaretçilere benzersiz bir deneyim sunar.
+Eyüp Sultan Hamamı, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu bölge, İstanbul'un Eyüpsultan ilçesinde, Golden Horn yakınlarında bulunur. Bu bölgede, çeşitli iklim koşulları hüküm sürer ve bu, flora ve faunayı etkiler. Eyüp Sultan Hamamı, ayrıca, çeşitli su kaynaklarına da sahiptir ve bu su kaynakları, bölgenin ekolojisini destekler. Eyüp Sultan Hamamı'nın coğrafi konumu, İstanbul'un doğal güzelliğini yansıtmaktadır. Bu bölge, Golden Horn'un güzelliği ile birleştirilir ve bu, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 
-Eyüp Sultan Hamamı, çeşitli bitki türleri ve hayvanlar tarafından doldurulur. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, flora ve faunayı destekler. Eyüp Sultan Hamamı'nda, çeşitli mevsimsel değişimler yaşanır ve bu değişimler, flora ve faunayı etkiler. Bu bölgede, çeşitli su kaynakları da bulunur ve bu su kaynakları, bölgenin ekolojisini destekler. Eyüp Sultan Hamamı, ayrıca, çeşitli yaban hayvanlarına da ev sahipliği yapmaktadır. Bu bölge, İstanbul'un doğal güzelliğini yansıtmaktadır ve ziyaretçilere, benzersiz bir deneyim sunar.
+Eyüp Sultan Hamamı, çeşitli bitki türleri ve hayvanlar tarafından doldurulur. Eyüp Sultan Hamamı'nda, çeşitli mevsimsel değişimler yaşanır ve bu değişimler, flora ve faunayı etkiler. Bu bölgede, çeşitli su kaynakları da bulunur ve bu su kaynakları, bölgenin ekolojisini destekler. Eyüp Sultan Hamamı, ayrıca, çeşitli yaban hayvanlarına da ev sahipliği yapmaktadır. Bu bölge, İstanbul'un doğal güzelliğini yansıtmaktadır ve ziyaretçilere, benzersiz bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 
-Eyüp Sultan Hamamı'na ziyarette bulunmak, ziyaretçiler için benzersiz bir deneyim sunar. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ve hayvanlar tarafından doldurulur. Eyüp Sultan Hamamı'na, yılın herhangi bir zamanında ziyarette bulunulabilir, ancak en iyi ziyaret zamanı, ilkbahar ve yaz aylarıdır. Bu dönemde, flora ve fauna en aktif durumdadır ve ziyaretçiler, benzersiz bir deneyim yaşayabilirler. Eyüp Sultan Hamamı'na ulaşım, çeşitli toplu taşıma araçları ile sağlanabilir ve bu bölge, İstanbul'un merkezi bölgelerine oldukça yakındır.
+Eyüp Sultan Hamamı'na ziyarette bulunmak, ziyaretçiler için benzersiz bir deneyim sunar. Eyüp Sultan Hamamı'na, yılın herhangi bir zamanında ziyarette bulunulabilir, ancak en iyi ziyaret zamanı, ilkbahar ve yaz aylarıdır. Bu dönemde, flora ve fauna en aktif durumdadır ve ziyaretçiler, benzersiz bir deneyim yaşayabilirler. Eyüp Sultan Hamamı'na ulaşım, çeşitli toplu taşıma araçları ile sağlanabilir ve bu bölge, İstanbul'un merkezi bölgelerine oldukça yakındır.
 
 ## İlginç Bilgiler
 
 - Eyüp Sultan Hamamı, İstanbul'un en önemli dini merkezlerinden biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Eyüp Sultan Hamamı, çeşitli bitki türleri ve hayvanlar tarafından doldurulur.
 - Bu bölge, Golden Horn yakınlarında bulunur.
 - Eyüp Sultan Hamamı, yüzyıllar boyunca çeşitli dönemlerde restore edilmiştir.

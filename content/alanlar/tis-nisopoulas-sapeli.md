@@ -37,7 +37,7 @@ Tis Nisopoulas Şapeli'nin tarihi geçmişi, Bizans Dönemi'ne kadar uzanır. Bu
 
 ## Coğrafya
 
-Tis Nisopoulas Şapeli, Ayvalık'ın merkezine yakın bir konumda bulunur. Şapel, denize yakın bir alanda kurulmuş ve çevresinde çeşitli bitki türleri bulunmaktadır. Şapelin yakınında, denize girilebilecek güzel plajlar ve koylar bulunmaktadır. Ayvalık'ın iklimi, ılıman ve nemlidir. Bölge, yaz aylarında sıca ve yağışlı, kış aylarında ise serin ve yağışlıdır. Tis Nisopoulas Şapeli'nin bulunduğu alan, 140 hektarlık bir yeşil alanı kapsar ve bu alan, çeşitli bitki türleri ve canlılar ile zengin bir ekosisteme sahiptir. Şapelin bulunduğu bölge, aynı zamanda Ayvalık'ın önemli bir turistik merkezi olarak kabul edilir.
+Tis Nisopoulas Şapeli, Ayvalık'ın merkezine yakın bir konumda bulunur. Şapel, denize yakın bir alanda kurulmuş ve çevresinde çeşitli bitki türleri bulunmaktadır. Şapelin yakınında, denize girilebilecek güzel plajlar ve koylar bulunmaktadır. Ayvalık'ın iklimi, ılıman ve nemlidir. Bölge, yaz aylarında sıca ve yağışlı, kış aylarında ise serin ve yağışlıdır. Şapelin bulunduğu bölge, aynı zamanda Ayvalık'ın önemli bir turistik merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Tis Nisopoulas Şapeli'ni ziyaret etmek, Ayvalık'ın en önemli turistik mekanl
 
 - Tis Nisopoulas Şapeli, Ayvalık'ın en önemli turistik mekanlarından biridir.
 - Şapel, denize yakın bir alanda kurulmuş ve çevresinde çeşitli bitki türleri bulunmaktadır.
-- Tis Nisopoulas Şapeli, 140 hektarlık bir yeşil alanı kapsar.
+
 - Şapelin bulunduğu alan, çeşitli bitki türleri ve canlılar ile zengin bir ekosisteme sahiptir.
 - Tis Nisopoulas Şapeli, her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.

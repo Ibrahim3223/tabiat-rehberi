@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","flora ve fauna incelemesi","fotoğrafçı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"BAKLABOSTAN_TP","caption":"BAKLABOSTAN_TP","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BAKLABOSTAN_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228790","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan BAKLABOSTAN_TP, 140 hektarlık geniş alanıyla dikkat çekiyor. Doğal güzellikleri ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
+ Doğal güzellikleri ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
 keywords: ["BAKLABOSTAN_TP","İç Anadolu Bölgesi","doğal alan","flora","fauna","milli park","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228790"
@@ -42,7 +42,6 @@ BAKLABOSTAN_TP, ziyaretçilerini bekleyen bir doğal alan olarak dikkat çekiyor
 
 ## İlginç Bilgiler
 
-- BAKLABOSTAN_TP, 140 hektarlık geniş alanıyla dikkat çekiyor.
 - Bu doğal alan, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor.
 - BAKLABOSTAN_TP, ekolojik dengesi açısından önemli bir bölge olarak görülüyor.
 - Bu bölgede, çeşitli etkinlikler yapılabiliyor.

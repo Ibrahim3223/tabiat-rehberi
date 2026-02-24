@@ -29,7 +29,7 @@ wikidata_id: "Q131391673"
 
 # Ali Seydi Sultan Türbesi
 
-Ali Seydi Sultan Türbesi, Malatya'nın Yazıhan ilçesinde yer alan bir türbe ve aynı zamanda tarihi bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevresi yeşilliklerle dolu. 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilere geniş bir açık alan sunuyor. Türbenin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş olan Selçuklu ve Osmanlı dönemlerine kadar uzanıyor. Ali Seydi Sultan Türbesi, sadece bir tarihi mekan değil, aynı zamanda doğal güzellikleri de içerisinde barındırıyor.
+Ali Seydi Sultan Türbesi, Malatya'nın Yazıhan ilçesinde yer alan bir türbe ve aynı zamanda tarihi bir mekan. Türbenin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş olan Selçuklu ve Osmanlı dönemlerine kadar uzanıyor. Ali Seydi Sultan Türbesi, sadece bir tarihi mekan değil, aynı zamanda doğal güzellikleri de içerisinde barındırıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ali Seydi Sultan Türbesi'nin tarihi, Selçuklu ve Osmanlı dönemlerine kadar u
 
 ## Coğrafya
 
-Ali Seydi Sultan Türbesi, Malatya'nın Yazıhan ilçesinde yer alıyor. Bu ilçe, Doğu Anadolu Bölgesi'nin merkezinde bulunuyor. Türbenin etrafı, yeşilliklerle dolu ve yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, ziyaretçilere geniş bir açık alan sunuyor. Türbenin yapıldığı dönem, bölgenin coğrafi yapısını da etkilemiş. Çevre, dağlar ve ovalarla dolu ve iklim, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Ali Seydi Sultan Türbesi, bu coğrafi yapı içerisinde, önemli bir kültür ve tarih merkezi olarak yer alıyor.
+Ali Seydi Sultan Türbesi, Malatya'nın Yazıhan ilçesinde yer alıyor. Bu ilçe, Doğu Anadolu Bölgesi'nin merkezinde bulunuyor. Bu alan, ziyaretçilere geniş bir açık alan sunuyor. Türbenin yapıldığı dönem, bölgenin coğrafi yapısını da etkilemiş. Çevre, dağlar ve ovalarla dolu ve iklim, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Ali Seydi Sultan Türbesi, bu coğrafi yapı içerisinde, önemli bir kültür ve tarih merkezi olarak yer alıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ali Seydi Sultan Türbesi'ni ziyaret etmek, tarihi ve doğayı sevenler için ö
 ## İlginç Bilgiler
 
 - Ali Seydi Sultan Türbesi, Malatya'nın en önemli tarihi mekanlarından biri
-- Türbenin etrafı, yeşilliklerle dolu ve yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Türbenin tarihi, Selçuklu ve Osmanlı dönemlerine kadar uzanıyor
 - Bölge, karasal iklim özellikleri gösteriyor
 - Türbenin etrafında, çeşitli bitkiler ve hayvanlar bulunuyor

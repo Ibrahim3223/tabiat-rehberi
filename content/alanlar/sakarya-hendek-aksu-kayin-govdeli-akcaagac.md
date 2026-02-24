@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","bitki türler
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Sakarya-Hendek-Aksu Kayın Gövdeli Akcaagac","caption":"Sakarya-Hendek-Aksu Kayın Gövdeli Akcaagac","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Hendek-Aksu%20Kay%C4%B1n%20G%C3%B6vdeli%20Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228049","tip":"genel"}]
-description: "Sakarya'nın doğal güzelliklerini keşfedin, 140 hektarlık alanıyla büyülenin."
+"
 keywords: ["Sakarya","doğal güzellik","milli park","akcaagac","kayın gövdeli","Marmara Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228049"

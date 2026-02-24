@@ -50,7 +50,7 @@ Debbağ Dede Türbesi'ni ziyaret etmek, ziyaretçiler için önemli bir deneyim 
 ## İlginç Bilgiler
 
 - Debbağ Dede Türbesi, Karadeniz Bölgesi'nin önemli turistik noktalarından biridir.
-- Türbe, 140 hektarlık yeşil alan üzerinde yer alır.
+
 - Debbağ Dede Türbesi, tarihi ve kültürel değerleriyle önemli bir çekim noktasıdır.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Debbağ Dede Türbesi, ziyaretçiler için bir doğa deneyimi sunar.

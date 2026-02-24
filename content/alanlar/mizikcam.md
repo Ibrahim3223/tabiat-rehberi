@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Mızıkçam","caption":"Mızıkçam","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1z%C4%B1k%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30590053","tip":"genel"}]
-description: "Ege Bölgesi'nin doğal güzelliklerinden biri olan Mızıkçam, Kütahya'nın Domaniç ilçesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ege Bölgesi'nin doğal güzelliklerinden biri olan Mızıkçam, Kütahya'nın Domaniç ilçesinde yer alıyor."
 keywords: ["Mızıkçam","Domaniç","Kütahya","Ege Bölgesi","doğa","yeşil alan","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30590053"
@@ -50,7 +50,7 @@ Mızıkçam'a ziyaretçiler, Kütahya'nın Domaniç ilçesine gelerek ulaşabili
 ## İlginç Bilgiler
 
 - Mızıkçam, Ege Bölgesi'nin doğal güzelliklerinden biri.
-- 140 hektarlık bir yeşil alan.
+
 - Yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 - Zengin fauna ve çeşitli bitki türleri barındırıyor.
 - Mevsimsel değişimler, ziyaretçilere farklı deneyimler sunuyor.

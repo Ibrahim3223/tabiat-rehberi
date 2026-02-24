@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","fotografç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abant_Lake_Nature_Park.jpg/960px-Abant_Lake_Nature_Park.jpg","alt":"Bolu-Aladag Saricam 4","caption":"Bolu-Aladag Saricam 4","credit":"Abant Lake Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227557","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin doğal güzelliklerini sunan Bolu-Aladag Saricam 4, 140 hektarlık bir alanı kapsar."
+"
 keywords: ["Bolu-Aladag Saricam 4","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekosistem","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227557"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227557"
 
 # Bolu-Aladag Saricam 4
 
-Bolu-Aladag Saricam 4, Karadeniz Bölgesi'nin Bolu ilinde yer alan ve 140 hektarlık bir alanı kapsayan bir milli parktır. Bu bölgenin doğal güzellikleri, ziyaretçilerini cezbeden önemli bir çekim noktasıdır. Bolu-Aladag Saricam 4'ü ziyaret edenler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Milli park, aynı zamanda yaban hayatının korunması için önemli bir rol oynar.
+ Bu bölgenin doğal güzellikleri, ziyaretçilerini cezbeden önemli bir çekim noktasıdır. Bolu-Aladag Saricam 4'ü ziyaret edenler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Milli park, aynı zamanda yaban hayatının korunması için önemli bir rol oynar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Aladag Saricam 4'ün tarihi geçmişi, bölgenin doğal güzelliklerinin ko
 
 ## Coğrafya
 
-Bolu-Aladag Saricam 4, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir milli parktır. Bölge, dağlık bir araziye sahiptir ve bu da çeşitli bitki türlerinin growthına uygun bir ortam sağlar. Milli parkın coğrafyası, ziyaretçilere farklı yüksekliklerde ve iklim koşullarında doğanın güzelliğini keşfetme fırsatı sunar. 140 hektarlık alan, ziyaretçilere geniş bir coğrafi çeşitlilik sunar. Bolu-Aladag Saricam 4'ün coğrafyası, aynı zamanda yaban hayatının çeşitliliğine de katkıda bulunur. Milli parkın iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri ile uyumlu olup, ziyaretçilere dört mevsim boyunca farklı doğa güzelliklerini sunar.
+Bolu-Aladag Saricam 4, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir milli parktır. Bölge, dağlık bir araziye sahiptir ve bu da çeşitli bitki türlerinin growthına uygun bir ortam sağlar. Milli parkın coğrafyası, ziyaretçilere farklı yüksekliklerde ve iklim koşullarında doğanın güzelliğini keşfetme fırsatı sunar. Bolu-Aladag Saricam 4'ün coğrafyası, aynı zamanda yaban hayatının çeşitliliğine de katkıda bulunur. Milli parkın iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri ile uyumlu olup, ziyaretçilere dört mevsim boyunca farklı doğa güzelliklerini sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Aladag Saricam 4'ü ziyaret etmek için, ziyaretçilerin milli parka ulaşm
 
 ## İlginç Bilgiler
 
-- Bolu-Aladag Saricam 4, 140 hektarlık bir alanı kapsar.
 - Milli park, Karadeniz Bölgesi'nin doğal güzelliklerini sunar.
 - Bolu-Aladag Saricam 4, yaban hayatının korunması için önemli bir role sahiptir.
 - Milli park, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir alan sunar.

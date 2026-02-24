@@ -29,7 +29,7 @@ wikidata_id: "Q134728088"
 
 # Limyra Xatabura Anıt Mezarı
 
-Limyra Xatabura Anıt Mezarı, Finike/Antalya'da yer alan tarihi bir yapıdır. Bu anıt mezar, yaklaşık 140 hektarlık bir alanda kurulmuştur. Limyra Xatabura Anıt Mezarı, Akdeniz Bölgesi'nin önemli turistik noktalarından biridir. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çeker. Limyra Xatabura Anıt Mezarı, Finike'nin merkezine uzun bir mesafe uzaklıktadır. Limyra Xatabura Anıt Mezarı'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayeye sahiptir.
+Limyra Xatabura Anıt Mezarı, Finike/Antalya'da yer alan tarihi bir yapıdır. Limyra Xatabura Anıt Mezarı, Akdeniz Bölgesi'nin önemli turistik noktalarından biridir. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çeker. Limyra Xatabura Anıt Mezarı, Finike'nin merkezine uzun bir mesafe uzaklıktadır. Limyra Xatabura Anıt Mezarı'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayeye sahiptir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Limyra Xatabura Anıt Mezarı'nın tarihi geçmişi, yüzyıllar boyunca devam e
 
 ## Coğrafya
 
-Limyra Xatabura Anıt Mezarı, Finike/Antalya'da yer alan bir yapıdır. Bu anıt mezar, Akdeniz Bölgesi'nin önemli turistik noktalarından biridir. Limyra Xatabura Anıt Mezarı, Finike'nin merkezine uzun bir mesafe uzaklıktadır. Bu anıt mezar, yaklaşık 140 hektarlık bir alanda kurulmuştur. Limyra Xatabura Anıt Mezarı'nın çevresi, doğal güzellikleri ve tarihi yapılarıyla dikkat çeker. Bu bölge, Likya uygarlığının önemli yapılarından biridir. Limyra Xatabura Anıt Mezarı, Likya uygarlığının tarihini ve kültürünü yansıtan bir yapıdır. Bu anıt mezar, yüzyıllar boyunca devam eden bir geleneksel yapıdır. Limyra Xatabura Anıt Mezarı'nın iklimi, Akdeniz iklimidir. Bu iklim, sıcak ve kuru yazlar, ılık ve yağışlı kışlar ile karakterizedir.
+Limyra Xatabura Anıt Mezarı, Finike/Antalya'da yer alan bir yapıdır. Bu anıt mezar, Akdeniz Bölgesi'nin önemli turistik noktalarından biridir. Limyra Xatabura Anıt Mezarı, Finike'nin merkezine uzun bir mesafe uzaklıktadır. Limyra Xatabura Anıt Mezarı'nın çevresi, doğal güzellikleri ve tarihi yapılarıyla dikkat çeker. Bu bölge, Likya uygarlığının önemli yapılarından biridir. Limyra Xatabura Anıt Mezarı, Likya uygarlığının tarihini ve kültürünü yansıtan bir yapıdır. Bu anıt mezar, yüzyıllar boyunca devam eden bir geleneksel yapıdır. Limyra Xatabura Anıt Mezarı'nın iklimi, Akdeniz iklimidir. Bu iklim, sıcak ve kuru yazlar, ılık ve yağışlı kışlar ile karakterizedir.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Limyra Xatabura Anıt Mezarı'nın çevresi, doğal güzellikleri ve tarihi yap�
 
 ## Ziyaret Bilgileri
 
-Limyra Xatabura Anıt Mezarı, Finike/Antalya'da yer alan bir yapıdır. Bu anıt mezar, Akdeniz Bölgesi'nin önemli turistik noktalarından biridir. Limyra Xatabura Anıt Mezarı, Finike'nin merkezine uzun bir mesafe uzaklıktadır. Bu anıt mezar, yaklaşık 140 hektarlık bir alanda kurulmuştur. Limyra Xatabura Anıt Mezarı'nın çevresi, doğal güzellikleri ve tarihi yapılarıyla dikkat çeker. Bu bölge, Likya uygarlığının önemli yapılarından biridir. Limyra Xatabura Anıt Mezarı, Likya uygarlığının tarihini ve kültürünü yansıtan bir yapıdır. Bu anıt mezar, yüzyıllar boyunca devam eden bir geleneksel yapıdır. Limyra Xatabura Anıt Mezarı, Finike'nin önemli turistik noktalarından biridir.
+Limyra Xatabura Anıt Mezarı, Finike/Antalya'da yer alan bir yapıdır. Bu anıt mezar, Akdeniz Bölgesi'nin önemli turistik noktalarından biridir. Limyra Xatabura Anıt Mezarı, Finike'nin merkezine uzun bir mesafe uzaklıktadır. Limyra Xatabura Anıt Mezarı'nın çevresi, doğal güzellikleri ve tarihi yapılarıyla dikkat çeker. Bu bölge, Likya uygarlığının önemli yapılarından biridir. Limyra Xatabura Anıt Mezarı, Likya uygarlığının tarihini ve kültürünü yansıtan bir yapıdır. Bu anıt mezar, yüzyıllar boyunca devam eden bir geleneksel yapıdır. Limyra Xatabura Anıt Mezarı, Finike'nin önemli turistik noktalarından biridir.
 
 ## İlginç Bilgiler
 

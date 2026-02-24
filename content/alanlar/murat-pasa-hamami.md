@@ -30,7 +30,7 @@ wikidata_id: "Q131738422"
 
 # Murat Paşa Hamamı
 
-Murat Paşa Hamamı, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Yakutiye ilçesinde bulunan bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Murat Paşa Hamamı, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çeker. Ziyaretçiler, hamamın tarihi atmosferini yaşarken aynı zamanda bölgenin doğal güzelliklerini de keşfedebilirler.
+Murat Paşa Hamamı, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Murat Paşa Hamamı, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çeker. Ziyaretçiler, hamamın tarihi atmosferini yaşarken aynı zamanda bölgenin doğal güzelliklerini de keşfedebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Murat Paşa Hamamı, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzyıllar b
 
 ## Coğrafya
 
-Murat Paşa Hamamı, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunar. Yakutiye ilçesinde yer alan hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, doğal güzellikleri ile dikkat çeker ve ziyaretçiler için geniş bir gezi alanı sunar. Hamamın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sağlar. Murat Paşa Hamamı, Erzurum'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Hamamın coğrafi yapısı, ziyaretçilere geniş bir gezi alanı sunarken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı sağlar.
+Murat Paşa Hamamı, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunar. Bu alan, doğal güzellikleri ile dikkat çeker ve ziyaretçiler için geniş bir gezi alanı sunar. Hamamın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sağlar. Murat Paşa Hamamı, Erzurum'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Hamamın coğrafi yapısı, ziyaretçilere geniş bir gezi alanı sunarken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Murat Paşa Hamamı, ziyaretçilere önemli bir deneyim sunar. Hamamın tarihi v
 ## İlginç Bilgiler
 
 - Murat Paşa Hamamı, tarihi geçmişi ile dikkat çeker.
-- Hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Murat Paşa Hamamı, doğal güzellikleri ile dikkat çeker.
 - Hamam, ziyaretçilere geniş bir gezi alanı sunar.
 - Murat Paşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alır.

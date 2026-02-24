@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi.jpg","alt":"Doğançay Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg/1280px-Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg","alt":"Doğançay Şelalesi - Doğançay Şelalesi","credit":"Acar54","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q27610263","tip":"genel"}]
-description: "Marmara Bölgesi'nin saklı güzelliği, Sakarya'da yer alan Doğançay Şelalesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Doğançay Şelalesi","Sakarya","Marmara Bölgesi","şelale","yeşil alan","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q27610263"
@@ -37,11 +37,11 @@ Doğançay Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Doğançay Şelalesi, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Sakarya ilinin sınırları içinde bulunan şelale, 140 hektarlık bir yeşil alanı kapsıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın güzelliğini sunuyor. Şelale, çevresindeki dağların eteklerinde yer alıyor ve bu coğrafi konumu, bölgenin iklimini ve doğasını etkiliyor. Bölge, genellikle ılıman bir iklime sahip olmakla birlikte, mevsimsel değişimler yaşanabiliyor. Kış aylarında kar yağışı, ilkbahar ve sonbahar aylarında ise yeşilin zenginliği ziyaretçileri bekliyor. Doğançay Şelalesi, coğrafi olarak zengin bir bölgede yer alıyor ve bu özelliği, ziyaretçilere çeşitli doğa deneyimleri sunuyor.
+Doğançay Şelalesi, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın güzelliğini sunuyor. Şelale, çevresindeki dağların eteklerinde yer alıyor ve bu coğrafi konumu, bölgenin iklimini ve doğasını etkiliyor. Bölge, genellikle ılıman bir iklime sahip olmakla birlikte, mevsimsel değişimler yaşanabiliyor. Kış aylarında kar yağışı, ilkbahar ve sonbahar aylarında ise yeşilin zenginliği ziyaretçileri bekliyor. Doğançay Şelalesi, coğrafi olarak zengin bir bölgede yer alıyor ve bu özelliği, ziyaretçilere çeşitli doğa deneyimleri sunuyor.
 
 ## Flora ve Fauna
 
-Doğançay Şelalesi, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyor. Şelale ve çevresindeki 140 hektarlık yeşil alan, çeşitli bitki türleri ile kaplıdır. Bu bitki türleri, mevsimsel değişimlere göre renk değiştirerek ziyaretçilere farklı bir güzellik sunuyor. İlkbahar aylarında çiçeklerin açması, yaz aylarında yeşilin zenginliği, sonbahar aylarında yaprakların renk değiştirmesi ve kış aylarında karın güzelliği, her mevsim ziyaretçilere farklı bir deneyim sunuyor. Bölge, aynı zamanda zengin fauna ile ziyaretçilere çeşitli hayvan türleri sunuyor. Kuş sesleri, böceklerin uçuşu ve diğer hayvanların varlığı, doğanın canlılığını ziyaretçilere hissettiriyor. Doğançay Şelalesi, flora ve fauna açısından zengin bir bölge olarak doğa severler için ideal bir destinasyon.
+Doğançay Şelalesi, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyor. Bu bitki türleri, mevsimsel değişimlere göre renk değiştirerek ziyaretçilere farklı bir güzellik sunuyor. İlkbahar aylarında çiçeklerin açması, yaz aylarında yeşilin zenginliği, sonbahar aylarında yaprakların renk değiştirmesi ve kış aylarında karın güzelliği, her mevsim ziyaretçilere farklı bir deneyim sunuyor. Bölge, aynı zamanda zengin fauna ile ziyaretçilere çeşitli hayvan türleri sunuyor. Kuş sesleri, böceklerin uçuşu ve diğer hayvanların varlığı, doğanın canlılığını ziyaretçilere hissettiriyor. Doğançay Şelalesi, flora ve fauna açısından zengin bir bölge olarak doğa severler için ideal bir destinasyon.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ Doğançay Şelalesi'ni ziyaret etmek, doğa severler ve huzur arayanlar için i
 
 ## İlginç Bilgiler
 
-- Doğançay Şelalesi, 140 hektarlık bir yeşil alanı kapsıyor.
 - Şelale, Marmara Bölgesi'nde yer alıyor.
 - Bölge, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyor.
 - Doğançay Şelalesi, ilkbahar ve sonbahar aylarında ziyaret edilebilir.

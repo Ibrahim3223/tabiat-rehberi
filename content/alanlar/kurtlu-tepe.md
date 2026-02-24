@@ -36,7 +36,7 @@ Kurtlu Tepe'nin tarihi geçmişi, Erzincan'ın tarihi ile iç içe geçmiş duru
 
 ## Coğrafya
 
-Kurtlu Tepe, coğrafi olarak Erzincan'ın merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve çevresinde geniş ovalar ve dağlar bulunuyor. Bölge, iklim olarak karasal bir iklime sahip ve yazları sıcak, kışları soğuk geçiyor. Kurtlu Tepe'nin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilerin interestini çekmeye devam ediyor. Kurtlu Tepe, aynı zamanda bölgenin jeolojik yapısını anlamak için de önemli bir nokta.
+Kurtlu Tepe, coğrafi olarak Erzincan'ın merkezine yakın bir konumda yer alıyor. Bölge, iklim olarak karasal bir iklime sahip ve yazları sıcak, kışları soğuk geçiyor. Kurtlu Tepe'nin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilerin interestini çekmeye devam ediyor. Kurtlu Tepe, aynı zamanda bölgenin jeolojik yapısını anlamak için de önemli bir nokta.
 
 ## Flora ve Fauna
 

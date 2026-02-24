@@ -28,7 +28,7 @@ wikidata_id: "Q31390967"
 
 # Kırıntılı Tepesi
 
-Kırıntılı Tepesi, Kayseri'nin görkemli doğası içinde yer alan bir tepe. Bu  tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kırıntılı Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Burada, şehrin karmaşasının yerine, doğanın seslerini dinleyebilirsiniz. Kırıntılı Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+Kırıntılı Tepesi, Kayseri'nin görkemli doğası içinde yer alan bir tepe. Kırıntılı Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Burada, şehrin karmaşasının yerine, doğanın seslerini dinleyebilirsiniz. Kırıntılı Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kırıntılı Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları i
 
 ## İlginç Bilgiler
 
-- Kırıntılı Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin etrafı, çeşitli bitki türleri ile kaplı.
 - Fauna açısından zengin bir bölge.
 - İlkbahar ve yaz aylarında, tepe etrafı yeşil bir hal alıyor.

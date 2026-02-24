@@ -38,7 +38,7 @@ Eren Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetle
 
 ## Coğrafya
 
-Eren Dede Türbesi, İzmir'in Dikili ilçesinde, Ege Denizi kıyısında yer alıyor. Bu bölge, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Yaklaşık 140 hektarlık bir alanı kaplayan Eren Dede Türbesi, geniş yeşil alanları, plajları ve tarihi yapılarıyla dikkat çekiyor. Bölgenin iklimi, Ege ikliminin tipik özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Eren Dede Türbesi'ni hem bir plaj tatili için hem de tarihi ve kültürel keşifler için ideal bir destinasyon haline getiriyor. Çevre, çeşitli bitki türleriyle zengin bir flora sunarken, fauna açısından da ilgi çekici bir çeşitlilik gösteriyor. Eren Dede Türbesi ve çevresinin coğrafi güzelliği, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Eren Dede Türbesi, İzmir'in Dikili ilçesinde, Ege Denizi kıyısında yer alıyor. Bu bölge, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölgenin iklimi, Ege ikliminin tipik özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Eren Dede Türbesi'ni hem bir plaj tatili için hem de tarihi ve kültürel keşifler için ideal bir destinasyon haline getiriyor. Çevre, çeşitli bitki türleriyle zengin bir flora sunarken, fauna açısından da ilgi çekici bir çeşitlilik gösteriyor. Eren Dede Türbesi ve çevresinin coğrafi güzelliği, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -50,7 +50,7 @@ Söylemez Ana Kümbeti, ziyaretçilerin Karayazı'nın tarihi ve doğal güzelli
 ## İlginç Bilgiler
 
 - Söylemez Ana Kümbeti, Karayazı'nın tarihi ve kültürel mirasının bir parçası olarak kabul edilir
-- Bu kümbet, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Söylemez Ana Kümbeti, Karayazı'nın coğrafi konumu nedeniyle, ziyaretçilerin bölgenin doğal güzelliklerine ulaşmalarına olanak sağlar
 - Bu kümbet, mevsimsel değişimlerin yaşandığı bir bölgede yer alır ve ziyaretçilerin bu değişimleri deneyimlemelerine olanak sağlar
 - Söylemez Ana Kümbeti, Karayazı'nın flora ve faunasının bir parçası olarak kabul edilir

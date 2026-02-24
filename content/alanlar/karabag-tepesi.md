@@ -36,7 +36,7 @@ Karabağ Tepesi'nin tarihi geçmişi, yüzyıllar öncesine kadar uzanır. Bu te
 
 ## Coğrafya
 
-Karabağ Tepesi, Muğla'nın Ege Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri taşır. Tepenin yüksekliği ve konumu, manzarasının güzelliğine katkıda bulunur. Etrafında ve üzerinde çeşitli bitki türleri ve fauna bulunur, bu da bölgenin ekolojik açıdan zengin olduğunu gösterir. Karabağ Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, birçok farklı bitki ve hayvan türüne ev sahipliği yapar. Tepenin iklimi, Ege Bölgesi'nin genel iklimine benzer ve bu nedenle ziyaretçilerin her mevsim bölgeyi ziyaret etmelerine olanak tanır. Karabağ Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekici bir destinasyon olarak bilinir.
+Karabağ Tepesi, Muğla'nın Ege Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri taşır. Tepenin yüksekliği ve konumu, manzarasının güzelliğine katkıda bulunur. Etrafında ve üzerinde çeşitli bitki türleri ve fauna bulunur, bu da bölgenin ekolojik açıdan zengin olduğunu gösterir. Tepenin iklimi, Ege Bölgesi'nin genel iklimine benzer ve bu nedenle ziyaretçilerin her mevsim bölgeyi ziyaret etmelerine olanak tanır. Karabağ Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekici bir destinasyon olarak bilinir.
 
 ## Flora ve Fauna
 

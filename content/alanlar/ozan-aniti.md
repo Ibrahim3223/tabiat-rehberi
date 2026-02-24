@@ -37,7 +37,7 @@ Ozan Anıtı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Ozan Anıtı, Malatya'nın Darende ilçesinde, Doğu Anadolu Bölgesi'nde bulunur. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Anıtın bulunduğu alan, 140 hektarlık bir yeşil alanı kapsar. Ayrıca, anıtın çevresi, çeşitli bitki türleri ve fauna ile dolu bir doğa harikasıdır. Bu bölge, coğrafi olarak, hem dağlık hem de ovalık alanları içerir. İklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler, bu bölgenin güzelliğini daha da arttırır.
+Ozan Anıtı, Malatya'nın Darende ilçesinde, Doğu Anadolu Bölgesi'nde bulunur. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Ayrıca, anıtın çevresi, çeşitli bitki türleri ve fauna ile dolu bir doğa harikasıdır. Bu bölge, coğrafi olarak, hem dağlık hem de ovalık alanları içerir. İklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler, bu bölgenin güzelliğini daha da arttırır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ozan Anıtı, ziyaretçilere birçok fırsat sunar. Ziyaretçiler, bu bölgede, 
 ## İlginç Bilgiler
 
 - Ozan Anıtı, Malatya'nın Darende ilçesinde bulunur
-- 140 hektarlık bir yeşil alanı kapsar
+
 - Tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 - Çeşitli bitki türleri ve fauna ile dolu bir doğa harikasıdır
 - Ekolojik olarak önemli bir bölge olarak kabul edilir

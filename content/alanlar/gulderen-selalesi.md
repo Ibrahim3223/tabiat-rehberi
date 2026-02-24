@@ -22,7 +22,7 @@ wikidata_id: "Q130367210"
 
 # Gülderen Şelalesi
 
-Gülderen Şelalesi, Trabzon'un doğusunda yer alan, yaklaşık 140 hektarlık bir yeşil alan içinde bulunan bir doğa harikasıdır. Şelalenin yüksekliği ve güzelliği, ziyaretçileri büyüler. Gülderen Şelalesi, Karadeniz Bölgesi'nin en güzel şelalelerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Trabzon'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+ Şelalenin yüksekliği ve güzelliği, ziyaretçileri büyüler. Gülderen Şelalesi, Karadeniz Bölgesi'nin en güzel şelalelerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Trabzon'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gülderen Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Gülderen Şelalesi, Trabzon'un doğusunda, Karadeniz Bölgesi'nin dağlık arazisinde yer alır. Şelale, yaklaşık 140 hektarlık bir yeşil alan içinde bulunur ve bu alan, çeşitli bitki türleri ile doludur. Bölgenin iklimi, Karadeniz iklimi özellikleri gösterir ve bu nedenle, şelale ve çevresi, yıl boyunca yeşilliktedir. Şelalenin yüksekliği ve güzelliği, ziyaretçileri büyüler ve bu güzellik, bölgenin coğrafi özelliklerinin bir sonucu olarak oluşmuştur. Gülderen Şelalesi'nin coğrafi konumu, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır ve bu nedenle, şelale, doğa severlerin favori destinasyonlarından biridir. Şelalenin çevresi, trekking ve kamp yapma imkanları sunar ve bu nedenle, ziyaretçiler, şelalenin güzelliğini keşfetmenin yanı sıra, bölgenin coğrafi özelliklerini de deneyimleyebilirler.
+Gülderen Şelalesi, Trabzon'un doğusunda, Karadeniz Bölgesi'nin dağlık arazisinde yer alır. Bölgenin iklimi, Karadeniz iklimi özellikleri gösterir ve bu nedenle, şelale ve çevresi, yıl boyunca yeşilliktedir. Şelalenin yüksekliği ve güzelliği, ziyaretçileri büyüler ve bu güzellik, bölgenin coğrafi özelliklerinin bir sonucu olarak oluşmuştur. Gülderen Şelalesi'nin coğrafi konumu, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır ve bu nedenle, şelale, doğa severlerin favori destinasyonlarından biridir. Şelalenin çevresi, trekking ve kamp yapma imkanları sunar ve bu nedenle, ziyaretçiler, şelalenin güzelliğini keşfetmenin yanı sıra, bölgenin coğrafi özelliklerini de deneyimleyebilirler.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Gülderen Şelalesi'ni ziyaret etmek için, Trabzon'a gelmeniz gerekir. Trabzon'
 ## İlginç Bilgiler
 
 - Gülderen Şelalesi, Trabzon'un en güzel şelalelerinden biridir.
-- Şelale, yaklaşık 140 hektarlık bir yeşil alan içinde bulunur.
+
 - Gülderen Şelalesi, Karadeniz Bölgesi'nin en güzel destinasyonlarından biridir.
 - Şelale, trekking ve kamp yapma imkanları sunar.
 - Gülderen Şelalesi, doğa severlerin favori destinasyonlarından biridir.

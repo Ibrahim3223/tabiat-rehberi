@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme","yerel lezze
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Güdükkavak Tepesi","caption":"Güdükkavak Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCkkavak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138995","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Güdükkavak Tepesi, 140 hektarlık geniş bir alanı kapsar. Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeker."
+ Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeker."
 keywords: ["Güdükkavak Tepesi","Mersin","Akdeniz Bölgesi","doğa","tarih","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32138995"
@@ -36,7 +36,7 @@ Güdükkavak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Güdükkavak Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibarıyla dikkat çeker. Tepenin etrafındaki köyler ve kasabalar, yeşil alanlarla çevrili olarak ziyaretçilere doğal bir güzellik sunar. Güdükkavak Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu olarak ziyaretçilere doğa Harikası bir deneyim sunar. Tepenin coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını izleme fırsatı sunar. Güdükkavak Tepesi, coğrafi konumu itibarıyla ziyaretçilere bir doğa cenneti olarak hizmet eder.
+Güdükkavak Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibarıyla dikkat çeker. Tepenin etrafındaki köyler ve kasabalar, yeşil alanlarla çevrili olarak ziyaretçilere doğal bir güzellik sunar. Tepenin coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını izleme fırsatı sunar. Güdükkavak Tepesi, coğrafi konumu itibarıyla ziyaretçilere bir doğa cenneti olarak hizmet eder.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Güdükkavak Tepesi'ni ziyaret etmek isteyenler, Mersin'in Akdeniz Bölgesi'ne g
 
 - Güdükkavak Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibarıyla dikkat çeker.
 - Tepenin etrafındaki köyler ve kasabalar, tarihi eserler ve kalıntılarla dolu olarak ziyaretçilere zengin bir kültürel deneyim sunar.
-- Güdükkavak Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu olarak ziyaretçilere doğa Harikası bir deneyim sunar.
+
 - Tepenin coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını izleme fırsatı sunar.
 - Güdükkavak Tepesi, flora ve fauna açısından zengin bir bölge olarak kabul edilir.

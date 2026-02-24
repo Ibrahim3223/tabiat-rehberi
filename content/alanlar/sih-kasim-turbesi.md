@@ -21,7 +21,7 @@ aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotoğraf çekimi","dinlenme
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Şıh Kasım Türbesi","caption":"Şıh Kasım Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391220","tip":"genel"}]
-description: "Çankırı'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta, Şıh Kasım Türbesi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Çankırı'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta, Şıh Kasım Türbesi."
 keywords: ["Şıh Kasım Türbesi","Çankırı","tarih","doğa","türbe","gezi","iç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391220"
@@ -53,4 +53,4 @@ wikidata_id: "Q131391220"
 - Türbenin etrafında, çeşitli doğal güzellikler ve tarihi yapılar bulunuyor
 - Şıh Kasım Türbesi, Çankırı'nın kültürel ve tarihi mirasının önemli bir parçasıdır
 - Türbenin tarihi geçmişi, yüzyıllar boyunca wicht bir dini ve kültürel merkez olarak kabul edildiğini gösteriyor
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+

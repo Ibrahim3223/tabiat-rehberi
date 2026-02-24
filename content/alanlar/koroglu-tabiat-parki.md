@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ku%C4%9Fulu%20Park%20g%C3%B6zetleme%20kulesinden%20g%C3%B6r%C3%BCn%C3%BC%C5%9F.jpg","alt":"Köroğlu Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg/1280px-K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg","alt":"Köroğlu Tabiat Parkı - Köroğlu Dağları 08 06 1990 Çamlıdere-Bayındır-Depression Ovacık-Krater Flug","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227820","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin Kars ilinde yer alan Köroğlu Tabiat Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Köroğlu Tabiat Parkı","Doğu Anadolu Bölgesi","Kars","tabiat parkı","yeşil alan","fiziksel veriler","hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227820"
@@ -50,8 +50,6 @@ Köroğlu Tabiat Parkı, Kars ilinin Seydişehir ilçesinde bulunmaktadır. Park
 
 ## İlginç Bilgiler
 
-- Köroğlu Tabiat Parkı, 140 hektarlık bir yeşil alana sahiptir
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir
 - Parkın içerisinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından tanımasına olanak tanır
 - Köroğlu Tabiat Parkı, aynı zamanda bölgenin önemli bir turizm merkezi olarak da bilinir
 - Parkın flora ve fauna zenginliği, bölgenin önemli bir kaynağı teşkil eder

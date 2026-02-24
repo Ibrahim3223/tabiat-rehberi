@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotografçılık","bitki gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Kocamurtluk","caption":"Kocamurtluk","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocamurtluk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227874","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Kocamurtluk, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Kocamurtluk","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227874"
@@ -30,7 +30,7 @@ Kocamurtluk milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Kocamurtluk milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Parkın coğrafyası, dağların, ormanların ve ovaların birleşmesiyle oluşur. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir gezi alanı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının şekillenmesinde önemli bir rol oynar. Kocamurtluk'un coğrafi konumu, ziyaretçilere çeşitli gezi seçenekleri sunar. Ziyaretçiler, parkın doğal güzelliğini keşfederek, doğayla iç içe olabilirler. Milli parkın çevresi, çeşitli bitki türleri ve hayvanlarla doludur. Bu zengin flora ve fauna, ziyaretçilere doğanın güzelliğini göstererek, unutulmaz anlar yaratır.
+Kocamurtluk milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Parkın coğrafyası, dağların, ormanların ve ovaların birleşmesiyle oluşur. Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının şekillenmesinde önemli bir rol oynar. Kocamurtluk'un coğrafi konumu, ziyaretçilere çeşitli gezi seçenekleri sunar. Ziyaretçiler, parkın doğal güzelliğini keşfederek, doğayla iç içe olabilirler. Milli parkın çevresi, çeşitli bitki türleri ve hayvanlarla doludur. Bu zengin flora ve fauna, ziyaretçilere doğanın güzelliğini göstererek, unutulmaz anlar yaratır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kocamurtluk milli parkını ziyaret etmek, ziyaretçilere unutulmaz bir gezi den
 
 ## İlginç Bilgiler
 
-- Kocamurtluk milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor.
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre şekillenir.
 - Kocamurtluk, gezi tutkunları ve doğa severler için ideal bir destinasyondur.
 - Milli parkın ziyaret saatleri, mevsimsel değişimlere göre belirlenir.

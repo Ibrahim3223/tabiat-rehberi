@@ -22,15 +22,15 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Haydar_Hamam%C4%B1.jpg","alt":"Tahta Hamamı manzarası","credit":"Selin Şener","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahta%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738690","tip":"genel"}]
-description: "Erzurum'un Yakutiye ilçesinde yer alan Tahta Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Tahta Hamamı","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738690"
 ---
 
 # Tahta Hamamı
 
-Tahta Hamamı, Erzurum'un Yakutiye ilçesinde yer alan 140 hektarlık yeşil bir alandır. Tahta Hamamı, hem doğanın güzelliğini keşfetmek hem de dinlenmek için ziyaret edilebilir. Bu alan, Erzurum'un tarihi ve kültürel zenginliklerini de keşfetmek isteyenler için önemli bir durak noktasıdır.
+ Tahta Hamamı, hem doğanın güzelliğini keşfetmek hem de dinlenmek için ziyaret edilebilir. Bu alan, Erzurum'un tarihi ve kültürel zenginliklerini de keşfetmek isteyenler için önemli bir durak noktasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tahta Hamamı'nın tarihi geçmişi, Erzurum'un zengin tarihine dayanır. Bu bö
 
 ## Coğrafya
 
-Tahta Hamamı, Erzurum'un Yakutiye ilçesinde yer alan 140 hektarlık bir yeşil alandır. Tahta Hamamı, doğu-batı yönünde uzanan bir vadi içinde yer almaktadır. Bu vadi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu alan, Erzurum'un iklimine uygun olarak, karasal iklim özellikleri göstermektedir. Kış mevsiminde karla kaplı olan Tahta Hamamı, yaz mevsiminde ise yeşilin tüm tonlarını ziyaretçilere sunmaktadır.
+ Tahta Hamamı, doğu-batı yönünde uzanan bir vadi içinde yer almaktadır. Bu vadi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu alan, Erzurum'un iklimine uygun olarak, karasal iklim özellikleri göstermektedir. Kış mevsiminde karla kaplı olan Tahta Hamamı, yaz mevsiminde ise yeşilin tüm tonlarını ziyaretçilere sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Tahta Hamamı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu alan,
 Tahta Hamamı, yılın her mevsiminde ziyaret edilebilir. Ancak, en iyi ziyaret mevsimi, ilkbahar ve yaz aylarıdır. Bu mevsimlerde, Tahta Hamamı'nın flora ve faunası en zengin haliyle ziyaretçilere sunulmaktadır. Tahta Hamamı'na ulaşım, Erzurum'un merkezinden kolayca sağlanabilir. Tahta Hamamı, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, Tahta Hamamı'nda doğanın güzelliğini keşfedebilir, dinlenebilir ve Erzurum'un tarihi ve kültürel zenginliklerini keşfedebilir.
 
 ## İlginç Bilgiler
-
-- Tahta Hamamı, 140 hektarlık yeşil bir alandır.
 
 - Tahta Hamamı, Erzurum'un tarihi ve kültürel zenginliklerini keşfetmek için önemli bir merkezdir.
 - Tahta Hamamı, yılın her mevsiminde ziyaret edilebilir.

@@ -48,8 +48,6 @@ Küçüktepeler'i ziyaret etmek, doğayı keşfetme ve tarihi geçmişi öğrenm
 
 ## İlginç Bilgiler
 
-- Küçüktepeler, 140 hektarlık bir yeşil alana sahiptir.
-
 - Küçüktepeler'in çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Bu bölge, deniz seviyesinden belirli bir yükseklikte yer alır.
 - Küçüktepeler, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Piknik","Fauna Gözlemi","Fotoğrafçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Eskişehir-Kalabak Saricam 2","caption":"Eskişehir-Kalabak Saricam 2","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Kalabak%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227980","tip":"genel"}]
-description: "Eskişehir'in doğal güzelliklerini keşfedin. 140 hektarlık milli parkta doğa ile baş başa kalın."
+description: "Eskişehir'in doğal güzelliklerini keşfedin."
 keywords: ["Eskişehir","Kalabak Saricam","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi","İç Anadolu"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227980"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227980"
 
 # Eskişehir-Kalabak Saricam 2
 
-Eskişehir-Kalabak Saricam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde, Eskişehir ilinin sınırları içerisinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Milli parkın konumu, hem doğal güzellikleri hem de turizm potansiyeli açısından önemli bir yere sahiptir. Ziyaretçiler, bu yeşil cennette doğa ile baş başa kalabilir, temiz hava ve sakin bir ortamın keyfini çıkarabilirler. Eskişehir-Kalabak Saricam 2 milli parkı, özellikle hafta sonları ve tatil günlerinde hem yerli hem de yabancı turistlerin uğrak noktası haline gelmiştir.
+ Milli parkın konumu, hem doğal güzellikleri hem de turizm potansiyeli açısından önemli bir yere sahiptir. Ziyaretçiler, bu yeşil cennette doğa ile baş başa kalabilir, temiz hava ve sakin bir ortamın keyfini çıkarabilirler. Eskişehir-Kalabak Saricam 2 milli parkı, özellikle hafta sonları ve tatil günlerinde hem yerli hem de yabancı turistlerin uğrak noktası haline gelmiştir.
 
 ## Tarihçe
 
@@ -30,19 +30,17 @@ Eskişehir-Kalabak Saricam 2 milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Eskişehir-Kalabak Saricam 2 milli parkı, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özellikleri sergilemektedir. Milli parkın 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölgede, mevsimsel değişimlere bağlı olarak, doğa farklı renkler ve güzellikler sunar. Kış aylarında karla kaplı olan milli park, ilkbahar ve yaz aylarında yeşilin tüm tonlarını ziyaretçilere gösterir. Coğrafi konumu, iklim ve çevre koşulları, milli parkın doğal güzelliklerini etkileyen önemli faktörlerdir. Milli parkın yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlar. Patika yollar, piknik alanları ve gözlem noktaları, ziyaretçilere keyifli bir gezi deneyimi sunar. Eskişehir-Kalabak Saricam 2 milli parkı, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekmektedir.
+Eskişehir-Kalabak Saricam 2 milli parkı, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin karakteristik özellikleri sergilemektedir. Bu bölgede, mevsimsel değişimlere bağlı olarak, doğa farklı renkler ve güzellikler sunar. Kış aylarında karla kaplı olan milli park, ilkbahar ve yaz aylarında yeşilin tüm tonlarını ziyaretçilere gösterir. Coğrafi konumu, iklim ve çevre koşulları, milli parkın doğal güzelliklerini etkileyen önemli faktörlerdir. Milli parkın yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlar. Patika yollar, piknik alanları ve gözlem noktaları, ziyaretçilere keyifli bir gezi deneyimi sunar. Eskişehir-Kalabak Saricam 2 milli parkı, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 
-Eskişehir-Kalabak Saricam 2 milli parkı, zengin bir flora ve fauna ile ziyaretçilerini karşılar. Milli parkın 140 hektarlık alanı, çeşitli bitki türleri ile kaplıdır. Mevsimsel değişimlere bağlı olarak, doğa farklı renkler ve güzellikler sunar. Milli parkın fauna zenginliği de dikkat çekmektedir. Burada, çeşitli hayvan türleri ve kuşlar, doğal yaşam ortamlarında ziyaretçiler tarafından izlenebilir. Milli parkın ekosistemi, doğa severlerin ilgi odağıdır. Ziyaretçiler, milli parkın doğal güzelliklerini ederken, aynı zamanda fauna ve florayı da keşfedebilirler. Eskişehir-Kalabak Saricam 2 milli parkı, doğal güzellikleri ve biyolojik çeşitliliği ile ön plana çıkmaktadır.
+Eskişehir-Kalabak Saricam 2 milli parkı, zengin bir flora ve fauna ile ziyaretçilerini karşılar. Mevsimsel değişimlere bağlı olarak, doğa farklı renkler ve güzellikler sunar. Milli parkın fauna zenginliği de dikkat çekmektedir. Burada, çeşitli hayvan türleri ve kuşlar, doğal yaşam ortamlarında ziyaretçiler tarafından izlenebilir. Milli parkın ekosistemi, doğa severlerin ilgi odağıdır. Ziyaretçiler, milli parkın doğal güzelliklerini ederken, aynı zamanda fauna ve florayı da keşfedebilirler. Eskişehir-Kalabak Saricam 2 milli parkı, doğal güzellikleri ve biyolojik çeşitliliği ile ön plana çıkmaktadır.
 
 ## Ziyaret Bilgileri
 
 Eskişehir-Kalabak Saricam 2 milli parkını ziyaret etmek, doğa severler için unutulmaz bir deneyim olacaktır. Milli parka ulaşım, Eskişehir il merkezinden kolayca sağlanabilir. Milli parka gelindiğinde, ziyaretçiler için çeşitli etkinlikler ve olanaklar sunulmaktadır. Piknik yapma, doğa yürüyüşleri ve fauna gözlemi, ziyaretçilerin keyif alabileceği bazı faaliyetlerdir. Eskişehir-Kalabak Saricam 2 milli parkı, özellikle ilkbahar ve yaz aylarında ziyaret edilmektedir. Bu dönemde, doğa güzellikleri en yüksek seviyededir. Ziyaretçiler, milli parkın doğal güzelliklerini ederken, aynı zamanda fauna ve florayı da keşfedebilirler.
 
 ## İlginç Bilgiler
-
-- Eskişehir-Kalabak Saricam 2 milli parkı, 140 hektarlık bir yeşil alana sahiptir.
 
 - Eskişehir-Kalabak Saricam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini sergiler.
 - Milli parkın flora ve fauna zenginliği, ziyaretçilerin ilgisini çekmektedir.

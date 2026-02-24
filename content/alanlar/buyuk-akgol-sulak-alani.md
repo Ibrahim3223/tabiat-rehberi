@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Büyük Akgöl Sulak Alanı","caption":"Büyük Akgöl Sulak Alanı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Akg%C3%B6l%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228872","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Büyük Akgöl","Sulak Alan","İç Anadolu Bölgesi","Doğa","Korunan Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228872"
@@ -41,8 +41,6 @@ Büyük Akgöl Sulak Alanı, çeşitli bitki türleri ve zengin fauna ile ziyare
 Büyük Akgöl Sulak Alanı, doğa severler için gerçek bir keşif alanı olarak ön plana çıkıyor. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Büyük Akgöl'ü ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır. Bu dönemde, sulak alanın güzelliği en fazla ön plana çıkıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Büyük Akgöl'ü ziyaret etmek için, bölgenin coğrafi koşullarına uygun şekilde hazırlık yapmak gerekiyor. Ziyaretçilerin, sulak alanın güzelliğini korumak için gerekli önlemleri almaları da önemli.
 
 ## İlginç Bilgiler
-
-- Büyük Akgöl Sulak Alanı, 140 hektarlık bir alanı kaplıyor.
 
 - Büyük Akgöl, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 - Bu sulak alan, bölgenin ekolojik dengesini koruyor.

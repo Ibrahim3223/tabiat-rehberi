@@ -51,6 +51,6 @@ Sancaktar Kümbeti, ziyaretçilerini bir gezi ve keşif yolculuğuna çıkarıyo
 
 - Sancaktar Kümbeti, tarihi ve doğal güzelliği ile dikkat çekiyor.
 - Sancaktar Kümbeti, İç Anadolu Bölgesi'nin önemli bir kültürel mirasıdır.
-- Sancaktar Kümbeti, 140 hektarlık bir alanı kaplıyor.
+
 - Sancaktar Kümbeti, ziyaretçilerini bir doğa belgeseli içerisinde sürüklemeye davet ediyor.
 - Sancaktar Kümbeti, ziyaretçilerini bir kültür ve doğa turuna çıkarıyor.

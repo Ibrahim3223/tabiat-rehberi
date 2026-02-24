@@ -51,6 +51,6 @@ Adana Ulu Cami Türbesi'ni ziyaret etmek, tarihin ve kültürün derinliklerine 
 
 - Adana Ulu Cami Türbesi, tarihi ve kültürel önemiyle dikkat çekiyor
 - Bu mekan, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
-- Adana Ulu Cami Türbesi, 140 hektarlık bir alanda kurulmuştur
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Adana Ulu Cami Türbesi, Seyhan Nehri'nin yakınında yer alır

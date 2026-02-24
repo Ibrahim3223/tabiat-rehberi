@@ -51,7 +51,7 @@ Karakuş Tümülüsü'ne ziyaretçiler, Kâhta ve Adıyaman'ın merkezinden kola
 ## İlginç Bilgiler
 
 - Karakuş Tümülüsü, Güneydoğu Anadolu Bölgesi'nin önemli tarihî yapılarından biridir
-- Tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Karakuş Tümülüsü, Kâhta ve Adıyaman'ın tarihî ve kültürel zenginliklerini yansıtan önemli bir abide olarak kabul edilir
 - Ziyaretçiler, tümülüsün tarihi ve kültürel önemini öğrenmek için rehber eşliğinde gezi yapabilirler

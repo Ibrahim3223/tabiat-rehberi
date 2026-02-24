@@ -50,7 +50,7 @@ wikidata_id: "Q131391902"
 ## İlginç Bilgiler
 
 - Şehit Molla Lütfi Türbesi, İstanbul'un fethi döneminde önemli bir role sahip
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Şehit Molla Lütfi Türbesi, Türk tarihi ve kültürü hakkında bilgi edinmek isteyenler için önemli bir kaynak
 - Türbenin çevresi, yeşillik alanlar ve tarihi yapılarla çevrili
 - Şehit Molla Lütfi Türbesi, İstanbul Boğazı'na yakın konumu ile birlikte, türbe ve çevresinin manzarası da oldukça etkileyici

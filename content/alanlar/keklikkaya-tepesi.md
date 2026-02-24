@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Keklikkaya Tepesi","caption":"Keklikkaya Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keklikkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390574","tip":"genel"}]
-description: "Aksaray'da yer alan Keklikkaya Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Aksaray'da yer alan Keklikkaya Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Keklikkaya Tepesi","Aksaray","İç Anadolu Bölgesi","doğa","tarih","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390574"

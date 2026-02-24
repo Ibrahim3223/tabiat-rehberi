@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Enne_Baraj%C4%B1_Tabiat_Park%C4%B1.jpg","alt":"Enne Barajı manzarası","credit":"Emrziel","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Bonanza_rabbitry_manual%3B_a_practical_treatise_presenting_tested_and_approved_methods_for_the_mating%2C_feeding%2C_management%2C_exhibiting_and_marketing_of_the_Belgian_hare%2C_noblest_of_the_rabbit_family_%2814778978882%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Bonanza_rabbitry_manual%3B_a_practical_treatise_presenting_tested_and_approved_methods_for_the_mating%2C_feeding%2C_management%2C_exhibiting_and_marketing_of_the_Belgian_hare%2C_noblest_of_the_rabbit_family_%2814778978882%29.jpg/1280px-thumbnail.jpg","alt":"Enne Barajı - The Bonanza rabbitry manual; a practical treatise presenting tested and approved methods for the mating, feeding, management, exhibiting and marketing of the Belgian hare, noblest of the rabbit family (14778978882)","credit":"Internet Archive Book Images","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Enne%20Baraj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228167","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Enne Barajı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Enne Barajı","İç Anadolu Bölgesi","baraj","milli park","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228167"
@@ -43,7 +43,6 @@ Enne Barajı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar
 
 ## İlginç Bilgiler
 
-- Enne Barajı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bu baraj, bölgenin su ihtiyacını karşılamak amacıyla inşa edilmiştir
 - Enne Barajı, doğal güzellikleri ile ziyaretçilerini çekmektedir
 - Bölgenin flora ve faunası, ziyaretçilerin doğanın güzelliğini keşfetmeleri için uygun bir ortamdır

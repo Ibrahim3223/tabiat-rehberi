@@ -22,7 +22,7 @@ wikidata_id: "Q108228775"
 
 # TEKİROVA_TP
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili TEKİROVA_TP, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın güzelliklerine davet ediyor. TEKİROVA_TP, doğa severler için bir cennet olarak tanımlanabilir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi doğanın güzelliğine bırakabilirsiniz.
+ TEKİROVA_TP, doğa severler için bir cennet olarak tanımlanabilir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi doğanın güzelliğine bırakabilirsiniz.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ TEKİROVA_TP, ziyaretçilere birçok farklı aktivite sunuyor. Ziyaretçiler, mi
 
 ## İlginç Bilgiler
 
-- TEKİROVA_TP, 140 hektarlık alanı ile geniş bir açık alan sunuyor
 - Milli park, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur
 - TEKİROVA_TP, zengin flora ve faunası ile dikkat çekiyor
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır

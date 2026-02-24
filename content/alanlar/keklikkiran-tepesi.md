@@ -36,7 +36,7 @@ Keklikkıran Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmı
 
 ## Coğrafya
 
-Keklikkıran Tepesi, Erzincan'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide bulunuyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Keklikkıran Tepesi, aynı zamanda birçok su kaynağına ev sahipliği yapıyor ve bu su kaynakları, yöre halkı için önemli bir yaşam kaynağı. Bu tepe, coğrafi konumu itibariyle, ziyaretçiler için hem doğal güzellikleri hem de coğrafi çeşitliliği ile dikkat çekiyor. Keklikkıran Tepesi, Erzincan'ın coğrafi yapısını yansıtan önemli bir bölge olarak kabul ediliyor.
+Keklikkıran Tepesi, Erzincan'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide bulunuyor. Keklikkıran Tepesi, aynı zamanda birçok su kaynağına ev sahipliği yapıyor ve bu su kaynakları, yöre halkı için önemli bir yaşam kaynağı. Bu tepe, coğrafi konumu itibariyle, ziyaretçiler için hem doğal güzellikleri hem de coğrafi çeşitliliği ile dikkat çekiyor. Keklikkıran Tepesi, Erzincan'ın coğrafi yapısını yansıtan önemli bir bölge olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

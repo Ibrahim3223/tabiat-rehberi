@@ -14,7 +14,7 @@ aktiviteler: ["kayak","doğa yürüyüşü","çadır kurma","orman gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Bursa-Inegol-Tahtakopru Kayin","caption":"Bursa-Inegol-Tahtakopru Kayin","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Inegol-Tahtakopru%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227235","tip":"genel"}]
-description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin, 140 hektarlık kayak alanı ve zengin fauna"
+
 keywords: ["Bursa","Inegol","Tahtakopru Kayin","Marmara Bölgesi","doğal alan","kayak","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227235"
@@ -30,7 +30,7 @@ Bursa-Inegol-Tahtakopru Kayin milli parkının tarihi geçmişi, yüzyıllar ön
 
 ## Coğrafya
 
-Bursa-Inegol-Tahtakopru Kayin milli parkı, Marmara Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. 140 hektarlık bu alan, kayak pistleri, ormanlar ve doğal yaşam alanlarından oluşuyor. Milli parkın coğrafi yapısı, ziyaretçilerini farklı mevsimlerde farklı güzelliklerle karşılaştırıyor. Kış aylarında, kayak severlerin keyif alacağı karlı dağlar ve kayak pistleri, yaz aylarında ise yeşilin tüm tonlarını sunan ormanlar ve çayırlar ziyaretçileri bekliyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yılın her mevsiminde ziyaret edilebilir. Çevre, flora ve fauna açısından zengin bir çeşitlilik sunuyor ve ziyaretçilerin doğayla iç içe olabilecekleri bir ortam sunuyor.
+Bursa-Inegol-Tahtakopru Kayin milli parkı, Marmara Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilerini farklı mevsimlerde farklı güzelliklerle karşılaştırıyor. Kış aylarında, kayak severlerin keyif alacağı karlı dağlar ve kayak pistleri, yaz aylarında ise yeşilin tüm tonlarını sunan ormanlar ve çayırlar ziyaretçileri bekliyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yılın her mevsiminde ziyaret edilebilir. Çevre, flora ve fauna açısından zengin bir çeşitlilik sunuyor ve ziyaretçilerin doğayla iç içe olabilecekleri bir ortam sunuyor.
 
 ## Flora ve Fauna
 

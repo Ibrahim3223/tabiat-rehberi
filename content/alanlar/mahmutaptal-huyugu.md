@@ -36,7 +36,7 @@ Mahmutaptal Hüyüğü'nün tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Mahmutaptal Hüyüğü, Hatay ilinin sınırları içinde yer alıyor. Bu alan, Akdeniz Bölgesi'nin coğrafi güzelliklerini bir araya getiren özel bir yer. Mahmutaptal Hüyüğü, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, coğrafi konumu itibariyle, yaban hayatı açısından zengin. Mahmutaptal Hüyüğü, çeşitli bitki türleri ve hayvanların yaşam alanı olarak dikkat çekiyor. Bu alanda, mevsimsel değişimler, doğanın güzelliğini daha da artırıyor. Mahmutaptal Hüyüğü'nün coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Bu alan, Hatay'ın önemli coğrafi güzelliklerinden biri olarak kabul ediliyor.
+Mahmutaptal Hüyüğü, Hatay ilinin sınırları içinde yer alıyor. Bu alan, Akdeniz Bölgesi'nin coğrafi güzelliklerini bir araya getiren özel bir yer. Bu alan, coğrafi konumu itibariyle, yaban hayatı açısından zengin. Mahmutaptal Hüyüğü, çeşitli bitki türleri ve hayvanların yaşam alanı olarak dikkat çekiyor. Bu alanda, mevsimsel değişimler, doğanın güzelliğini daha da artırıyor. Mahmutaptal Hüyüğü'nün coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Bu alan, Hatay'ın önemli coğrafi güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Mahmutaptal Hüyüğü, ziyaretçilere tarihin derinliklerine bir yolculuk yapma
 
 ## İlginç Bilgiler
 
-- Mahmutaptal Hüyüğü, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu alan, coğrafi konumu itibariyle, yaban hayatı açısından zengin.
 - Mahmutaptal Hüyüğü, çeşitli bitki türleri ve hayvanların yaşam alanı olarak dikkat çekiyor.
 - Bu alan, mevsimsel değişimler, doğanın güzelliğini daha da artırıyor.

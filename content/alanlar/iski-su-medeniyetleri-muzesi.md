@@ -49,8 +49,6 @@ wikidata_id: "Q132949412"
 
 ## İlginç Bilgiler
 
-- İSKİ Su Medeniyetleri Müzesi, 140 hektarlık bir alan üzerinde kurulu.
-
 - İSKİ Su Medeniyetleri Müzesi, İstanbul'un su medeniyetlerinin tarihine ışık tutan önemli bir mekan.
 - Müzenin koleksiyonunda, suyun şehre kazandırdıklarını gösteren çeşitli eserler ve belgeler yer alıyor.
 - İSKİ Su Medeniyetleri Müzesi, yıl boyunca açık ve ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar.

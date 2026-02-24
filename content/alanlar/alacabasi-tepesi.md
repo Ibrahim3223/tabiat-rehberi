@@ -28,7 +28,7 @@ wikidata_id: "Q31390011"
 
 # Alacabaşı Tepesi
 
-Alacabaşı Tepesi, Eskişehir'in doğal güzelliklerinin wichtığı bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur. Alacabaşı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için  bir gözlem noktasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin flora çeşitliliğini gösterir. Alacabaşı Tepesi, Eskişehir'in turizm potansiyelini ortaya çıkaran önemli bir doğal alan olarak kabul edilir.
+Alacabaşı Tepesi, Eskişehir'in doğal güzelliklerinin wichtığı bir noktadır. Alacabaşı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için  bir gözlem noktasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin flora çeşitliliğini gösterir. Alacabaşı Tepesi, Eskişehir'in turizm potansiyelini ortaya çıkaran önemli bir doğal alan olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Alacabaşı Tepesi'nin tarihi geçmişi, Eskişehir'in tarihi ile iç içedir. B
 
 ## Coğrafya
 
-Alacabaşı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur. Tepenin yüksekliği, deniz seviyesinden khong 1000 metre civarındadır. Alacabaşı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için  bir gözlem noktasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin flora çeşitliliğini gösterir. Alacabaşı Tepesi, Eskişehir'in turizm potansiyelini ortaya çıkaran önemli bir doğal alan olarak kabul edilir. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. İlkbahar ve sonbahar ayları, ılıman ve yağışlıdır. Alacabaşı Tepesi, Eskişehir'in doğal güzelliklerini keşfedin, Alacabaşı Tepesi'ne davetlisiniz!
+Alacabaşı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alır. Tepenin yüksekliği, deniz seviyesinden khong 1000 metre civarındadır. Alacabaşı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için  bir gözlem noktasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin flora çeşitliliğini gösterir. Alacabaşı Tepesi, Eskişehir'in turizm potansiyelini ortaya çıkaran önemli bir doğal alan olarak kabul edilir. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. İlkbahar ve sonbahar ayları, ılıman ve yağışlıdır. Alacabaşı Tepesi, Eskişehir'in doğal güzelliklerini keşfedin, Alacabaşı Tepesi'ne davetlisiniz!
 
 ## Flora ve Fauna
 

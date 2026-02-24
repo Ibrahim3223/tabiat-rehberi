@@ -46,7 +46,7 @@ Türbe Plajı, çeşitli bitki türleri ile örtülü bir yeşil alana sahiptir.
 
 ## Ziyaret Bilgileri
 
-Türbe Plajı, ziyaretçilere, çeşitli etkinlikler sunar. Bu plaj, Amasya'nın merkezinde yer alır ve şehrin tarihi geçmişini yansıtan önemli bir turizm merkezi olarak kabul edilir. Plajın etrafında, çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur, ziyaretçiler için keyifli bir gezi deneyimi sunar. Ziyaretçiler, plajın 140 hektarlık alanını gezebilir, çeşitli bitki türleri ile örtülü bir yeşil alanın keyfini çıkarabilirler. Plajın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzer, yağışlı ve nemlidir. Bu nedenle, ziyaretçiler, gezi planlarını, mevsimsel değişimlere göre ayarlamalıdır.
+Türbe Plajı, ziyaretçilere, çeşitli etkinlikler sunar. Bu plaj, Amasya'nın merkezinde yer alır ve şehrin tarihi geçmişini yansıtan önemli bir turizm merkezi olarak kabul edilir. Plajın etrafında, çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur, ziyaretçiler için keyifli bir gezi deneyimi sunar. Plajın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzer, yağışlı ve nemlidir. Bu nedenle, ziyaretçiler, gezi planlarını, mevsimsel değişimlere göre ayarlamalıdır.
 
 ## İlginç Bilgiler
 

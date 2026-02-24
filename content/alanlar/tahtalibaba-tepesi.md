@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Manzara izlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Tahtalıbaba Tepesi","caption":"Tahtalıbaba Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahtal%C4%B1baba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389959","tip":"genel"}]
-description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Tahtalıbaba Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tahtalıbaba Tepesi","Eskişehir","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389959"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389959"
 
 # Tahtalıbaba Tepesi
 
-Tahtalıbaba Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil bir alandır. Tahtalıbaba Tepesi, ziyaretçilere şehrin panoramik manzarasını sunan bir noktaya sahiptir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tahtalıbaba Tepesi, doğa severler ve Photographerlar için ideal bir destinasyondur. Ziyaretçiler, buraya gelerek hem doğayı keşfedebilir hem de şehrin tarihi hakkında bilgi edinebilir.
+ Tahtalıbaba Tepesi, ziyaretçilere şehrin panoramik manzarasını sunan bir noktaya sahiptir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tahtalıbaba Tepesi, doğa severler ve Photographerlar için ideal bir destinasyondur. Ziyaretçiler, buraya gelerek hem doğayı keşfedebilir hem de şehrin tarihi hakkında bilgi edinebilir.
 
 ## Tarihçe
 

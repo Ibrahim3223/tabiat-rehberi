@@ -49,8 +49,6 @@ Bin Tepeler Tümülüsü 11'i ziyaret etmek, ziyaretçilere, tarihi geçmişi ve
 
 ## İlginç Bilgiler
 
-- Bin Tepeler Tümülüsü 11, 140 hektarlık bir alanı kaplıyor.
-- Bu bölge, 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
 - Bin Tepeler Tümülüsü 11, arkeolojik sit alanı olarak kabul ediliyor.
 - Bu bölge, yüzyıllar boyunca farklı kültürlerin bir araya geldiği bir merkez olarak kabul ediliyor.
 - Bin Tepeler Tümülüsü 11, doğal güzelliği ile dikkat çekiyor.

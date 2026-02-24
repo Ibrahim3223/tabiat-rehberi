@@ -50,6 +50,6 @@ Star İş Merkezi Altındaki Sarnıç, ziyaretçilerin keşfetmek için ideal bi
 ## İlginç Bilgiler
 
 - Star İş Merkezi Altındaki Sarnıç, İstanbul'un en önemli turistik noktalarından biri
-- Sarnıç, 140 hektarlık bir alanı kapsıyor
+
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Sarnıç, doğal güzelliklerinin yanı sıra, tarihi değerleriyle de ziyaretçilerini çekiyor

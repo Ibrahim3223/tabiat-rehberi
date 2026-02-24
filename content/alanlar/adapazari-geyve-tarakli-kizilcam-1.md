@@ -30,7 +30,7 @@ Adapazari-Geyve-Tarakli Kızılçam 1 milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alır. Park, 140 hektarlık geniş bir alana yayılmış ve çeşitli coğrafi oluşumları barındırır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Parkın coğrafi yapısı, ziyaretçilere geniş yeşil alanlar, ormanlık bölgeler ve çeşitli su kaynakları sunar. Coğrafi konumu ve doğal güzellikleri ile Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, ziyaretçilerine geniş bir faaliyet yelpazesi sunar. Parkın çevresi, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çeker.
+Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Parkın coğrafi yapısı, ziyaretçilere geniş yeşil alanlar, ormanlık bölgeler ve çeşitli su kaynakları sunar. Coğrafi konumu ve doğal güzellikleri ile Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, ziyaretçilerine geniş bir faaliyet yelpazesi sunar. Parkın çevresi, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Adapazari-Geyve-Tarakli Kızılçam 1 milli parkını ziyaret etmek, doğa sever
 ## İlginç Bilgiler
 
 - Parkın kuruluşu, bölgenin doğal güzelliklerinin korunması amacıyla gerçekleştirilmiştir.
-- Park, 140 hektarlık geniş bir alana yayılmış ve çeşitli coğrafi oluşumları barındırır.
+
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere bağlı olarak şekillenir.
 - Park, çeşitli bitki türleri ve ağaçlara ev sahipliği yapar.
 - Parkın ekolojik dengesi, flora ve fauna arasında kurulan doğal ilişki ile sağlanır.

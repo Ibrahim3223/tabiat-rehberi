@@ -51,6 +51,6 @@ Haydarhane Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyare
 
 - Haydarhane Hamamı, Marmara Bölgesi'nin tanınmış plajlarından biri.
 - Plajın etrafı, yeşilliklerle çevrilidir.
-- Haydarhane Hamamı, 140 hektarlık bir alana sahip.
+
 - Plajın kumsalı, geniş ve berrak bir denize sahip.
 - Haydarhane Hamamı, yılın her dönemi ziyaret edilebilir.

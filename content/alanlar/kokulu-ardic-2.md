@@ -43,8 +43,6 @@ Kokulu Ardic 2 milli parkını ziyaret etmek, doğa severler ve huzur arayanlar 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - zengin flora ve fauna çeşitliliği
 - doğa yürüyüşü ve piknik alanları
 - gözlem noktaları

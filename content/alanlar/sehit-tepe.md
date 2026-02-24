@@ -28,7 +28,7 @@ wikidata_id: "Q31386852"
 
 # Şehit Tepe
 
-Mardin'in tarihi ve coğrafi açıdan önemli bölgelerinden biri olan Şehit Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tarihi ve doğal güzelliklerinin birleştiği bu tepe, ziyaretçilerini Mardin'in zengin kültürel mirasına götürüyor. Şehit Tepe, şehrin merkezine yakın bir konumda bulunmasıyla kolayca ulaşılabilir ve ziyaret edilebilir.
+ Tarihi ve doğal güzelliklerinin birleştiği bu tepe, ziyaretçilerini Mardin'in zengin kültürel mirasına götürüyor. Şehit Tepe, şehrin merkezine yakın bir konumda bulunmasıyla kolayca ulaşılabilir ve ziyaret edilebilir.
 
 ## Tarihçe
 

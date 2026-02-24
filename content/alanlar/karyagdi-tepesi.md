@@ -49,7 +49,7 @@ Karyağdı Tepesi, birçok farklı mevsimde ziyaret edilebiliyor ve her mevsim d
 ## İlginç Bilgiler
 
 - Karyağdı Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Karyağdı Tepesi, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
 - Bu bölge, Marmara Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor.
 - Karyağdı Tepesi, her yıl birçok ziyaretçi tarafından ziyaret ediliyor.

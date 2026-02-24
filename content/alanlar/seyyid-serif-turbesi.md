@@ -37,11 +37,11 @@ Seyyid Şerif Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Seyyid Şerif Türbesi, Develi'nin merkezinde yer alır ve İç Anadolu Bölgesi'nin coğrafi yapısını yansıtır. Bu bölge, genel olarak bozkır ve step iklimi özellikleri gösterir. Çevre, çoğunlukla tarım arazileriyle kaplıdır ve burada yetiştirilen ürünler, bölgenin ekonomik yaşamına büyük katkı sağlar. Seyyid Şerif Türbesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitki örtüsü, mekanın doğal güzelliğini arttırır. Ayrıca, burada yaşayan hayvanlar, bölgenin fauna çeşitliliğini gösterir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve bu, ziyaretçilere geniş bir açık alan sunar. Bu mekanın coğrafi konumu, hem Develi'nin hem de İç Anadolu Bölgesi'nin önemli bir parçasıdır.
+Seyyid Şerif Türbesi, Develi'nin merkezinde yer alır ve İç Anadolu Bölgesi'nin coğrafi yapısını yansıtır. Bu bölge, genel olarak bozkır ve step iklimi özellikleri gösterir. Çevre, çoğunlukla tarım arazileriyle kaplıdır ve burada yetiştirilen ürünler, bölgenin ekonomik yaşamına büyük katkı sağlar. Seyyid Şerif Türbesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitki örtüsü, mekanın doğal güzelliğini arttırır. Ayrıca, burada yaşayan hayvanlar, bölgenin fauna çeşitliliğini gösterir. Bu mekanın coğrafi konumu, hem Develi'nin hem de İç Anadolu Bölgesi'nin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 
-Seyyid Şerif Türbesi'nin etrafında, çeşitli bitki türleri bulunur. Bu bitki örtüsü, mekanın doğal güzelliğini arttırır ve ziyaretçilere hoş bir görünüm sağlar. Ayrıca, burada yaşayan hayvanlar, bölgenin fauna çeşitliliğini gösterir. Bu türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve bu, ziyaretçilere geniş bir açık alan sunar. Mevsimsel değişimler, burada yaşayan bitkilerin ve hayvanların yaşamını etkiler. Bahar ve yaz aylarında, bitki örtüsü yeşerir ve hayvanlar daha aktif olur. Kış aylarında ise, bazı hayvanlar göç eder veya uykusuna yatarken, bitkiler de mevsime uyum sağlar. Bu mekan, doğal güzelliklerinin yanı sıra, flora ve fauna çeşitliliğiyle de dikkat çeker.
+Seyyid Şerif Türbesi'nin etrafında, çeşitli bitki türleri bulunur. Bu bitki örtüsü, mekanın doğal güzelliğini arttırır ve ziyaretçilere hoş bir görünüm sağlar. Ayrıca, burada yaşayan hayvanlar, bölgenin fauna çeşitliliğini gösterir. Mevsimsel değişimler, burada yaşayan bitkilerin ve hayvanların yaşamını etkiler. Bahar ve yaz aylarında, bitki örtüsü yeşerir ve hayvanlar daha aktif olur. Kış aylarında ise, bazı hayvanlar göç eder veya uykusuna yatarken, bitkiler de mevsime uyum sağlar. Bu mekan, doğal güzelliklerinin yanı sıra, flora ve fauna çeşitliliğiyle de dikkat çeker.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Seyyid Şerif Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerin
 
 - Seyyid Şerif Türbesi, Develi'nin önemli bir tarihi mekanıdır.
 - Türbenin etrafında, çeşitli bitki türleri bulunur.
-- Bu mekan, yaklaşık 140 hektarlık bir yeşil alanı kapsar.
+
 - Seyyid Şerif Türbesi, yılın her dönemi ziyaret edilebilir.
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

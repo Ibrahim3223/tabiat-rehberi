@@ -37,7 +37,7 @@ Mehmet Vusuli Efendi Türbesi, tarihsel açıdan önemli bir geçmişe sahiptir.
 
 ## Coğrafya
 
-Mehmet Vusuli Efendi Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahiptir. Eyüpsultan ilçesinde yer alan türbe, deniz seviyesinden yüksek bir konumda bulunmakta ve çevresi yeşilliklerle kaplıdır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve bu büyük yeşil alan, ziyaretçilere geniş bir açık alan sunar. Ayrıca, türbe ve çevresinin iklimi, Marmara Bölgesi'nin genel iklimine benzerlik gösterir ve dört mevsim yaşanır. Bu coğrafi konum, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar. Türbenin bulunduğu bölge, aynı zamanda İstanbul'un önemli su kaynaklarına da ev sahipliği yapar.
+Mehmet Vusuli Efendi Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahiptir. Eyüpsultan ilçesinde yer alan türbe, deniz seviyesinden yüksek bir konumda bulunmakta ve çevresi yeşilliklerle kaplıdır. Ayrıca, türbe ve çevresinin iklimi, Marmara Bölgesi'nin genel iklimine benzerlik gösterir ve dört mevsim yaşanır. Bu coğrafi konum, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar. Türbenin bulunduğu bölge, aynı zamanda İstanbul'un önemli su kaynaklarına da ev sahipliği yapar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mehmet Vusuli Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzell
 ## İlginç Bilgiler
 
 - Mehmet Vusuli Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır.
+
 - Türbe, Marmara Bölgesi'nin coğrafi güzelliklerini de bünyesinde barındırır.
 - Türbenin tarihi geçmişi, ziyaretçilere İstanbul'un zengin tarihsel mirasını sunar.
 - Türbe ve çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.

@@ -42,8 +42,6 @@ Ulu Mese'yi ziyaret etmek, doğanın güzelliğini keşfetmek isteyenler için �
 
 ## İlginç Bilgiler
 
-- Ulu Mese, 140 hektarlık bir yeşil alana sahip
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Ulu Mese, bölgenin en önemli doğal alanlarından biri
 - Burada, çeşitli bitki türleri ve zengin fauna var
 - Ulu Mese, turizm açısından önemli bir merkez

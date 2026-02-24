@@ -30,7 +30,7 @@ Afyon-Dinar Karakuyu Golu'nun tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Afyon-Dinar Karakuyu Golu, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Göl, yaklaşık 140 hektarlık bir alanı kaplar ve etrafındaki dağlarla çevrili bir vadide yer alır. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Gölün suyu, çevredeki dağlardan gelen akarsularla beslenir. Karakuyu Golu'nun coğrafi konumu, çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanır. Gölün etrafındaki flora, bölgeye özgü bitkilerle zenginleştirilmiştir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar.
+Afyon-Dinar Karakuyu Golu, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Gölün suyu, çevredeki dağlardan gelen akarsularla beslenir. Karakuyu Golu'nun coğrafi konumu, çeşitli bitki ve hayvan türlerinin yaşamasına olanak tanır. Gölün etrafındaki flora, bölgeye özgü bitkilerle zenginleştirilmiştir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar.
 
 ## Flora ve Fauna
 

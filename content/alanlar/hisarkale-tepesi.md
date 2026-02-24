@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotografcılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Hisarkale Tepesi","caption":"Hisarkale Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisarkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387134","tip":"genel"}]
-description: "Bursa'nın Marmara Bölgesi'nde yer alan Hisarkale Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Hisarkale Tepesi","Bursa","Marmara Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387134"
@@ -48,7 +48,6 @@ Hisarkale Tepesi'ni ziyaret etmek, doğa severler ve macera arayanlar için idea
 
 ## İlginç Bilgiler
 
-- Hisarkale Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontruyor
 - Hisarkale Tepesi, tarihin izlerini taşıyan bir doğal güzellik
 - Tepenin yüksekliği ve konumu, ziyaretçilerine muhteşem manzaralar sunuyor

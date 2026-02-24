@@ -29,7 +29,7 @@ wikidata_id: "Q106889452"
 
 # Kerpe Plajı
 
-Kerpe Plajı, Kocaeli'nin en güzel plajlarından biri olarak bilinir. Marmara Bölgesi'nde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Kerpe Plajı, ziyaretçilerine geniş ve temiz bir sahil sunar. Plajın çevresi, yeşilliklerle dolu ve çam ağaçları ile süslüdür. Bu doğal güzellik, ziyaretçilere huzurlu bir ortam sağlar. Kerpe Plajı, hem yerli hem de yabancı turistlerin ilgisini çeker. Plajda, çeşitli su sporları ve aktiviteler yapılabiliyor. Ayrıca, plajda bulunan restoran ve kafeler, ziyaretçilere lezzetli yeme ve içecek seçenekleri sunuyor.
+Kerpe Plajı, Kocaeli'nin en güzel plajlarından biri olarak bilinir. Kerpe Plajı, ziyaretçilerine geniş ve temiz bir sahil sunar. Plajın çevresi, yeşilliklerle dolu ve çam ağaçları ile süslüdür. Bu doğal güzellik, ziyaretçilere huzurlu bir ortam sağlar. Kerpe Plajı, hem yerli hem de yabancı turistlerin ilgisini çeker. Plajda, çeşitli su sporları ve aktiviteler yapılabiliyor. Ayrıca, plajda bulunan restoran ve kafeler, ziyaretçilere lezzetli yeme ve içecek seçenekleri sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kerpe Plajı'nın tarihi geçmişi, yüzyıllar boyunca uzanır. Bu bölge, geç
 
 ## Coğrafya
 
-Kerpe Plajı, Kocaeli'nin en güzel bölgelerinden biri olan Kandıra ilçesinde yer alır. Plaj, Marmara Denizi'nin kıyısında bulunur. Kerpe Plajı'nın çevresi, yeşilliklerle dolu ve çam ağaçları ile süslüdür. Plajın hinterlandında, çeşitli tepeler ve dağlar bulunur. Bu coğrafi yapı, plaja bir doğal güzellik kazandırır. Kerpe Plajı, yaklaşık 140 hektarlık bir alanı kaplar. Plajın sahil şeridi, 1 kilometreden daha uzundur. Kerpe Plajı, Marmara Bölgesi'nin iklimine sahiptir. Bu iklim, ılıman ve nemlidir. Plajın çevresi, çeşitli bitki türleri ile kaplıdır. Kerpe Plajı, ziyaretçilerine bir doğa harikası sunar. Plajın coğrafi yapısı, ziyaretçilere bir macera deneyimi sunar.
+Kerpe Plajı, Kocaeli'nin en güzel bölgelerinden biri olan Kandıra ilçesinde yer alır. Plaj, Marmara Denizi'nin kıyısında bulunur. Kerpe Plajı'nın çevresi, yeşilliklerle dolu ve çam ağaçları ile süslüdür. Plajın hinterlandında, çeşitli tepeler ve dağlar bulunur. Bu coğrafi yapı, plaja bir doğal güzellik kazandırır. Plajın sahil şeridi, 1 kilometreden daha uzundur. Kerpe Plajı, Marmara Bölgesi'nin iklimine sahiptir. Bu iklim, ılıman ve nemlidir. Plajın çevresi, çeşitli bitki türleri ile kaplıdır. Kerpe Plajı, ziyaretçilerine bir doğa harikası sunar. Plajın coğrafi yapısı, ziyaretçilere bir macera deneyimi sunar.
 
 ## Flora ve Fauna
 

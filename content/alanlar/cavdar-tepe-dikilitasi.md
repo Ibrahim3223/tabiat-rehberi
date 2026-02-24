@@ -29,7 +29,7 @@ wikidata_id: "Q134727949"
 
 # Çavdar Tepe Dikilitaşı
 
-Marmara Bölgesi'nin güzide illerinden biri olan Edirne'nin Uzunköprü ilçesinde yer alan Çavdar Tepe Dikilitaşı, 140 hektarlık bir alanı kaplıyor. Çavdar Tepe Dikilitaşı, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Çavdar Tepe Dikilitaşı, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğanın mucizelerini keşfetme fırsatı sunuyor.
+ Çavdar Tepe Dikilitaşı, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Çavdar Tepe Dikilitaşı, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğanın mucizelerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Marmara Bölgesi'nin güzide illerinden biri olan Edirne'nin Uzunköprü ilçesi
 
 ## Coğrafya
 
-Çavdar Tepe Dikilitaşı, Marmara Bölgesi'nin coğrafi güzelliklerini sergileyen bir bölgedir. 140 hektarlık bir alanı kaplayan bu bölge, geniş yeşil alanları, tarihi dikilitaşları ve diğer doğal güzellikleriyle ziyaretçilerini etkiliyor. Çavdar Tepe Dikilitaşı, Edirne'nin Uzunköprü ilçesinde yer aldığı için, bölgeye ulaşım oldukça kolaydır. Bu bölge, aynı zamanda iklim açısından da ziyaretçilerine konfor sunuyor. Çavdar Tepe Dikilitaşı, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bu mevsimlerde, bölgeye gelen ziyaretçiler, doğanın tüm güzelliklerini keşfetme fırsatı buluyorlar. Çavdar Tepe Dikilitaşı, çevresindeki diğer doğal güzelliklerle birlikte, ziyaretçilerine geniş bir gezi alanı sunuyor.
+Çavdar Tepe Dikilitaşı, Marmara Bölgesi'nin coğrafi güzelliklerini sergileyen bir bölgedir. Çavdar Tepe Dikilitaşı, Edirne'nin Uzunköprü ilçesinde yer aldığı için, bölgeye ulaşım oldukça kolaydır. Bu bölge, aynı zamanda iklim açısından da ziyaretçilerine konfor sunuyor. Çavdar Tepe Dikilitaşı, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bu mevsimlerde, bölgeye gelen ziyaretçiler, doğanın tüm güzelliklerini keşfetme fırsatı buluyorlar. Çavdar Tepe Dikilitaşı, çevresindeki diğer doğal güzelliklerle birlikte, ziyaretçilerine geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Marmara Bölgesi'nin güzide illerinden biri olan Edirne'nin Uzunköprü ilçesi
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplıyor
 - yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış
 - tarihi dikilitaşları ve diğer arkeolojik kalıntıları ile dikkat çekiyor
 - zengin flora ve fauna çeşitliliğine sahip

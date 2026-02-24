@@ -22,7 +22,7 @@ wikidata_id: "Q108228271"
 
 # Bursa-Yalova-Armutlu-Fıstıkcamı
 
-Bursa-Yalova-Armutlu-Fıstıkcamı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın içinde bir dünya sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, yaban hayatının çeşitliliği ve ekosistemin zenginliği ile dikkat çekiyor. Doğa severler için bir cennet olarak nitelenen bu yer, ziyaretçilerini güzelliklerinin içine çekiyor.
+Bursa-Yalova-Armutlu-Fıstıkcamı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Doğa severler için bir cennet olarak nitelenen bu yer, ziyaretçilerini güzelliklerinin içine çekiyor.
 
 ## Tarihçe
 

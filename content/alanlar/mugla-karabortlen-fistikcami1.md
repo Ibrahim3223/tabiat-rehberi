@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","bitki gözlemi","hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Mugla-Karabortlen-Fistikcami1","caption":"Mugla-Karabortlen-Fistikcami1","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Karabortlen-Fistikcami1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228520","tip":"genel"}]
-description: "Muğla'da yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["milli park","Muğla","Ege Bölgesi","yeşil alan","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228520"
@@ -30,7 +30,7 @@ Mugla-Karabortlen-Fistikcami1 milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Mugla-Karabortlen-Fistikcami1 milli parkı, Ege Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturur. Bu bölgenin coğrafi özellikleri, ziyaretçileri cezbetmeye yeterli. Milli parkın içerisinde, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu iklim, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına yardımcı olur. Milli parkın çevresi, doğal güzellikleri ile ziyaretçileri etkilemeye đ.
+Mugla-Karabortlen-Fistikcami1 milli parkı, Ege Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturur. Bu bölgenin coğrafi özellikleri, ziyaretçileri cezbetmeye yeterli. Bu bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu iklim, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına yardımcı olur. Milli parkın çevresi, doğal güzellikleri ile ziyaretçileri etkilemeye đ.
 
 ## Flora ve Fauna
 

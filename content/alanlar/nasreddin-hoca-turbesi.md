@@ -38,7 +38,7 @@ Nasreddin Hoca Türbesi'nin tarihi geçmişi, 13. yüzyıla kadar uzanmaktadır.
 
 ## Coğrafya
 
-Nasreddin Hoca Türbesi, Konya'nın Akşehir ilçesinde, İç Anadolu Bölgesi'nin geniş ovalarının arasında yer almaktadır. Türbe, 140 hektarlık bir alanı kaplar ve etrafında, tarihi yapılar ve yeşil alanlar bulunmaktadır. Bölge'nin iklimi, karasal iklim özellikleri gösterir ve yaz ayları sıcak, kış ayları soğuk geçer. Türbenin coğrafi konumu, ziyaretçiler için önemli bir çekim noktasıdır, çünkü ziyaretçiler, bu tarihi mekânı gezerken, aynı zamanda bölgenin doğal güzelliklerini keşfetme fırsatı bulmaktadır. Türbe, Akşehir'in merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylıklar sunar. Ziyaretçiler, türbeye, araçlarıyla veya toplu taşıma araçlarıyla kolayca ulaşabilirler.
+Nasreddin Hoca Türbesi, Konya'nın Akşehir ilçesinde, İç Anadolu Bölgesi'nin geniş ovalarının arasında yer almaktadır. Bölge'nin iklimi, karasal iklim özellikleri gösterir ve yaz ayları sıcak, kış ayları soğuk geçer. Türbenin coğrafi konumu, ziyaretçiler için önemli bir çekim noktasıdır, çünkü ziyaretçiler, bu tarihi mekânı gezerken, aynı zamanda bölgenin doğal güzelliklerini keşfetme fırsatı bulmaktadır. Türbe, Akşehir'in merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylıklar sunar. Ziyaretçiler, türbeye, araçlarıyla veya toplu taşıma araçlarıyla kolayca ulaşabilirler.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Nasreddin Hoca Türbesi'ni ziyaret etmek, ziyaretçiler için önemli bir deneyi
 ## İlginç Bilgiler
 
 - Nasreddin Hoca Türbesi, Konya'nın en önemli tarihi mekânlarından biridir.
-- Türbe, 140 hektarlık bir alanı kaplar.
+
 - Türbenin etrafında, tarihi yapılar ve yeşil alanlar bulunmaktadır.
 - Bölge'nin flora ve fauna'sı, ziyaretçiler için önemli bir çekim noktasıdır.
 - Ziyaretçiler, türbeyi, her mevsim ziyaret edebilir, ancak en iyi ziyaret dönemi, ilkbahar ve sonbahar aylarıdır.

@@ -21,7 +21,7 @@ aktiviteler: ["Denize girme","Tarihçe gezisi","Doğa yürüyüşü","Güneşlen
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Side Büyük Hamam","caption":"Side Büyük Hamam","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Side%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738881","tip":"genel"}]
-description: "Side Büyük Hamam, Antalya'nın Manavgat ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Side Büyük Hamam, Antalya'nın Manavgat ilçesinde bulunan tarihi bir hamam ve plaj alanıdır.
 keywords: ["Side Büyük Hamam","Manavgat","Antalya","Akdeniz Bölgesi","Tarih","Doğal Alan","Plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738881"
@@ -50,7 +50,7 @@ Side Büyük Hamam, ziyaretçilere zengin bir deneyim sunmaktadır. Bu bölgede,
 ## İlginç Bilgiler
 
 - Side Büyük Hamam, tarihi bir hamam ve plaj alanıdır
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğundadır
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmaktadır
 - Side Büyük Hamam, Akdeniz Bölgesi'nin Manavgat ilçesinde bulunmaktadır
 - Bu bölgede, güneşin tadını çıkarma ve tarihi atmosferi hissetme mümkündür

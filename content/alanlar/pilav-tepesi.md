@@ -49,7 +49,7 @@ Pilav Tepesi'ni ziyaret etmek, Rize'nin doğal güzelliklerini keşfetmek isteye
 ## İlginç Bilgiler
 
 - Pilav Tepesi, Rize'nin en önemli doğal güzelliklerinden biri
-- Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Pilav Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor
 - Bu tepe, bölgenin coğrafi yapısı içerisinde önemli bir yer tutuyor
 - Pilav Tepesi, Rize'nin tarihini ve kültürünü öğrenmek isteyenler için önemli bir kaynak

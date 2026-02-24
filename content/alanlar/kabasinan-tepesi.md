@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Kabasinan Tepesi","caption":"Kabasinan Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabasinan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557873","tip":"genel"}]
-description: "Ankara'nın doğal güzellikleri arasında yer alan Kabasinan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olup, ziyaretçilerine zengin bir flora ve fauna sunar."
+ Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olup, ziyaretçilerine zengin bir flora ve fauna sunar."
 keywords: ["Kabasinan Tepesi","Ankara","İç Anadolu Bölgesi","doğa","flora","fauna","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557873"
@@ -28,7 +28,7 @@ wikidata_id: "Q31557873"
 
 # Kabasinan Tepesi
 
-Kabasinan Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge olup, ziyaretçilerine zengin bir flora ve fauna sunar. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve hayvanlarla karşılaşma olanağı sağlar. Kabasinan Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Bu nedenle, hem şehir içinde yaşayanlar hem de dışarıdan gelen ziyaretçiler için popüler bir gezi noktasıdır.
+Kabasinan Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve hayvanlarla karşılaşma olanağı sağlar. Kabasinan Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Bu nedenle, hem şehir içinde yaşayanlar hem de dışarıdan gelen ziyaretçiler için popüler bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kabasinan Tepesi'nin tarihi geçmişi, Ankara'nın tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Kabasinan Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, Ankara'nın merkezine yakın bir konumda yer alır. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve hayvanlarla karşılaşma olanağı sağlar. Kabasinan Tepesi, Ankara'nın coğrafi yapısını oluşturan tepe ve dağların bir parçasıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirir. Kabasinan Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Kabasinan Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve hayvanlarla karşılaşma olanağı sağlar. Kabasinan Tepesi, Ankara'nın coğrafi yapısını oluşturan tepe ve dağların bir parçasıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirir. Kabasinan Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Al-Samra_beach.jpg/960px-Al-Samra_beach.jpg","alt":"Dört Ayaklı Anıt Mezar","caption":"Dört Ayaklı Anıt Mezar","credit":"Al-Samra beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%B6rt%20Ayakl%C4%B1%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728161","tip":"genel"}]
-description: "Mersin'in Aydıncık ilçesinde bulunan tarihi Dört Ayaklı Anıt Mezar, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["Dört Ayaklı Anıt Mezar","Aydıncık","Mersin","tarihi mekanlar","yeşil alan","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728161"
@@ -49,7 +49,6 @@ Dört Ayaklı Anıt Mezarı ziyaret etmek, hem doğa severler hem de tarih merak
 
 ## İlginç Bilgiler
 
-- Dört Ayaklı Anıt Mezar, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Bu alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile ziyaretçileri cezbediyor.
 - Dört Ayaklı Anıt Mezarın coğrafi konumu, ziyaretçilerin yıl boyunca güzel hava koşulları altında bu alanı ziyaret etmelerine olanak tanıyor.
 - Ziyaretçiler, bu özel alanı gezerken, geçmişte yaşamış insanların hayatları ve kültürleri hakkında bilgi edinebiliyorlar.

@@ -50,7 +50,7 @@ Alaca Hamam'ı ziyaret etmek, doğa severlerin ve deniz aşığıların için e�
 ## İlginç Bilgiler
 
 - Alaca Hamam, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir
-- Bu plaj, 140 hektarlık bir yeşil alan üzerine kurulmuş
+
 - Deniz suyu, berra ve temiz
 - Kumsal, geniş ve konforlu
 - Alaca Hamam, doğa severlerin ve deniz aşığıların buluşma noktası olarak kabul edilir

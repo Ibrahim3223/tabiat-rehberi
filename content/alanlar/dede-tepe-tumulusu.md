@@ -29,7 +29,7 @@ wikidata_id: "Q134728306"
 
 # Dede Tepe Tümülüsü
 
-Dede Tepe Tümülüsü, Çanakkale'nin Biga ilçesinde yer alan bir tarihi alan olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan tarihi bir tümülüs olarak biliniyor. Dede Tepe Tümülüsü, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak kabul ediliyor. Bu tümülüs, bölgenin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
+Dede Tepe Tümülüsü, Çanakkale'nin Biga ilçesinde yer alan bir tarihi alan olarak dikkat çekiyor. Dede Tepe Tümülüsü, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak kabul ediliyor. Bu tümülüs, bölgenin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dede Tepe Tümülüsü'nün tarihi geçmişi, yüzyıllar boyunca bölgenin kül
 
 ## Coğrafya
 
-Dede Tepe Tümülüsü, Çanakkale'nin Biga ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Dede Tepe Tümülüsü, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tümülüs, bölgenin coğrafi yapısını oluşturan tepelerin üzerinde yer alıyor. Dede Tepe Tümülüsü'nün çevresi, çeşitli bitki türleri ve fauna ile zenginleştiriliyor. Bu bölge, coğrafi açıdan önemli bir nokta olarak kabul ediliyor. Dede Tepe Tümülüsü, çevresindeki doğal güzellikler ile birlikte önemli bir turizm destinasyonu olarak görülüyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Dede Tepe Tümülüsü, coğrafi ve iklimsel açıdan önemli bir bölge olarak kabul ediliyor.
+Dede Tepe Tümülüsü, Çanakkale'nin Biga ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tümülüs, bölgenin coğrafi yapısını oluşturan tepelerin üzerinde yer alıyor. Dede Tepe Tümülüsü'nün çevresi, çeşitli bitki türleri ve fauna ile zenginleştiriliyor. Bu bölge, coğrafi açıdan önemli bir nokta olarak kabul ediliyor. Dede Tepe Tümülüsü, çevresindeki doğal güzellikler ile birlikte önemli bir turizm destinasyonu olarak görülüyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Dede Tepe Tümülüsü, coğrafi ve iklimsel açıdan önemli bir bölge olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Dede Tepe Tümülüsü, tarih severler ve doğaşığılar için önemli bir des
 ## İlginç Bilgiler
 
 - Dede Tepe Tümülüsü, Çanakkale'nin en önemli tarihi noktalarından biri
-- Bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Dede Tepe Tümülüsü, Marmara Bölgesi'nin önemli turizm destinasyonlarından biri
 - Bu bölge, çeşitli bitki türleri ve fauna ile zenginleştiriliyor
 - Dede Tepe Tümülüsü, tarih severler ve doğaşığılar için önemli bir destinasyon

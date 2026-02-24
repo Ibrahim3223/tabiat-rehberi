@@ -49,7 +49,6 @@ Koçululdağı Tepe, Konya'nın turizm potansiyelini gösteren bir alandır. Bur
 ## İlginç Bilgiler
 
 - Konya'nın en önemli tarihi noktalarından biri
-- 140 hektarlık bir alanı kaplar
-- 200 futbol sahası büyüklüğünde bir alanı temsil eder
+
 - Çeşitli bitki türleri ve hayvanlar barındırır
 - Konya'nın ekolojik dengesini koruma altına almaya yardımcı olur

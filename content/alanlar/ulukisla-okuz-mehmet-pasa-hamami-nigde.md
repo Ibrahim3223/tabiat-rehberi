@@ -49,7 +49,6 @@ Ulukışla Öküz Mehmet Paşa Hamamı, Niğde'nin Ulukışla ilçesinde yer al�
 
 ## İlginç Bilgiler
 
-- Hamam, 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Bölge, Osmanlı dönemine ait önemli mimari özellikler taşır.
 - Hamam, bölgenin kültürel mirasının önemli bir parçasıdır.
 - Bölge, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösterir.

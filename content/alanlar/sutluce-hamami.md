@@ -49,8 +49,6 @@ Sütlüce Hamamı, özellikle yaz aylarında ziyaret edilebilir. Bu dönemde, pl
 
 ## İlginç Bilgiler
 
-- Sütlüce Hamamı, 140 hektarlık bir alana sahip.
-
 - Sütlüce Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri.
 - Plaj, özellikle yaz aylarında çok kalabalık oluyor.
 - Sütlüce Hamamı, bir kültürel miras olarak kabul ediliyor.

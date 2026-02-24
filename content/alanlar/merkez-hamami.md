@@ -51,7 +51,7 @@ Merkez Hamamı, her yıl binlerce turisti ağırlamaktadır. Bu bölge, Dikili'n
 ## İlginç Bilgiler
 
 - Merkez Hamamı, Dikili'nin en güzel plajlarından biridir.
-- Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır.
 - Deniz suyu, berra ve masmavi bir renge sahiptir.
 - Bu bölge, her yıl binlerce turisti ağırlamaktadır.

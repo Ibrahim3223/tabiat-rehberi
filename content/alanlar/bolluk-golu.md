@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Ilica_Yaylasi_22_05_1989_Schafherden_beim_Bolluk_G%C3%B6l%C3%BC.jpg","alt":"Bolluk Gölü manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ilica_Yaylasi_22_05_1989_Schafherden_beim_Bolluk_G%C3%B6l%C3%BC.jpg/960px-Ilica_Yaylasi_22_05_1989_Schafherden_beim_Bolluk_G%C3%B6l%C3%BC.jpg","alt":"Bolluk Gölü","caption":"Bolluk Gölü","credit":"Ilica Yaylasi 22 05 1989 Schafherden beim Bolluk Gölü","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Il%C4%B1ca_Yaylas%C4%B1_08_11_1990_Aufzug_eines_Staubsturms.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Il%C4%B1ca_Yaylas%C4%B1_08_11_1990_Aufzug_eines_Staubsturms.jpg/1280px-Il%C4%B1ca_Yaylas%C4%B1_08_11_1990_Aufzug_eines_Staubsturms.jpg","alt":"Bolluk Gölü - Ilıca Yaylası 08 11 1990 Aufzug eines Staubsturms","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolluk%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30636395","tip":"genel"}]
 description: "Konya'da bulunan Bolluk Gölü, doğal güzellikleri ve zengin wildlife'ı ile dikkat çekiyor."

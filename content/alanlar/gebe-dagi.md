@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Bitki Türleri İnceleme","Hayvan İzlemesi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Gebe Dağı","caption":"Gebe Dağı","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gebe%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386340","tip":"genel"}]
-description: "Kilis'te yer alan Gebe Dağı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kilis'te yer alan Gebe Dağı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Kilis","Güneydoğu Anadolu Bölgesi","Doğa","Gebe Dağı","Yeşil Alan","Fiziksel Veriler","Tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386340"
@@ -47,8 +47,6 @@ Gebe Dağı ve çevresi, çeşitli bitki türleri ve hayvan çeşitliliği ile d
 Gebe Dağı, ziyaretçilerini beklemektedir. Buraya ulaşım, Kilis il merkezinden uzun bir mesafe uzaklıkta yer alan bir yol üzerinden sağlanmaktadır. Gebe Dağı, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Ziyaretçiler, burada yer alan bitki türleri ve hayvan çeşitliliği ile birlikte, bölgenin ekolojik önemini keşfedebilirler. Gebe Dağı, özellikle bahar ve yaz aylarında ziyaret edilebilir ve bu reasonla, bölgenin doğal güzellikleri daha iyi keşfedilebilir.
 
 ## İlginç Bilgiler
-
-- Gebe Dağı, 140 hektarlık bir alanı kaplamaktadır.
 
 - Gebe Dağı, Kilis il merkezine uzun bir mesafe uzaklıkta yer alır.
 - Bölge, ekolojik olarak önemli bir role sahiptir.

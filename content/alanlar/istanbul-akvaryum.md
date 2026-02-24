@@ -51,7 +51,6 @@ wikidata_id: "Q2859182"
 ## İlginç Bilgiler
 
 - İstanbul Akvaryum, Marmara Bölgesi'nin en büyük akvaryumu
-- 140 hektarlık bir alanda kurulmuş
-- yaklaşık 200 futbol sahası büyüklüğünde
+
 - çeşitli balık türleri ve su altı hayvanları barındırmaktadır
 - su altı ekosistemini korumak için çeşitli çalışmalar yürütmektedir

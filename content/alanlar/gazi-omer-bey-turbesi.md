@@ -53,4 +53,4 @@ Gazi Ömer Bey Türbesi, ziyaretçilere açık bir yerdir. Türbeye ulaşım, Ma
 - Türbe, Gazi Ömer Bey'in mezarının bulunduğu bir yapıdır
 - Gazi Ömer Bey, Osmanlı İmparatorluğu'nun önemli komutanlarından biridir
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlar geçirmiştir
-- Gazi Ömer Bey Türbesi, 140 hektarlık bir alana sahiptir
+

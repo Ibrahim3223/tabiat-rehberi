@@ -50,7 +50,7 @@ Kılıçdede Türbesi'ni ziyaret etmek için en uygun zaman, Mayıs ve Eylül ay
 ## İlginç Bilgiler
 
 - Kılıçdede Türbesi, Karadeniz Bölgesi'nin en önemli turistik yerlerinden biri
-- 140 hektarlık bir alanda kurulmuş olan Kılıçdede Türbesi, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kılıçdede Türbesi, çeşitli bitki türlerine ve zengin faunaya ev sahipliği yapıyor
 - Kılıçdede Türbesi, Karadeniz Bölgesi'nin ekolojik dengesini koruyor
 - Kılıçdede Türbesi, ziyaretçilerine geniş bir alan sunuyor

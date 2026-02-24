@@ -30,7 +30,7 @@ wikidata_id: "Q123014534"
 
 # Travertines of Pamukkale
 
-Pamukkale Travertenleri, Denizli ilinin Pamukkale ilçesinde bulunan, yaklaşık 140 hektarlık bir alanı kapsayan ve doğası gereği beyaz, kalkerli bir yapıya sahip olan bir doğal harikadır. Pamukkale, ismini de bu beyaz, pamuk gibi görünen travertenlerden almıştır. Bu bölge, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbeden bir yerdir.
+ Pamukkale, ismini de bu beyaz, pamuk gibi görünen travertenlerden almıştır. Bu bölge, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 

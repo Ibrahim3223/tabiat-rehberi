@@ -48,7 +48,6 @@ Damla Tepe'yi ziyaret etmek, hem doğa severlerin hem de tarihe meraklı olanlar
 
 ## İlginç Bilgiler
 
-- Damla Tepe, 140 hektarlık bir alanı kaplar.
 - Tarihi geçmişi Hitit ve Roma dönemlerine kadar uzanır.
 - Zengin flora ve fauna ile dikkat çeker.
 - İlkbahar ve sonbahar aylarında ziyaret edilebilir.

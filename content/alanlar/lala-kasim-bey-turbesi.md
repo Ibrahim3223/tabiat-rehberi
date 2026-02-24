@@ -51,6 +51,6 @@ Lala Kasım Bey Türbesi, ziyaretçilerine çeşitli olanaklar sunuyor. Bu tarih
 
 - Lala Kasım Bey Türbesi, Diyarbakır'ın tarihi dokusunun önemli bir parçası olarak kabul ediliyor
 - Bu mekân, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
-- Lala Kasım Bey Türbesi, 140 hektarlık bir alanı kaplıyor
+
 - Bu tarihi yapı, bölgenin iklimi ve çevre koşulları ile birlikte değerlendiriliyor
 - Lala Kasım Bey Türbesi, ziyaretçilerine coğrafi açıdan önemli bir noktada bulunuyor

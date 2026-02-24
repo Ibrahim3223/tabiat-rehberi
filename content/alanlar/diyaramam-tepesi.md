@@ -28,7 +28,7 @@ wikidata_id: "Q31544858"
 
 # Diyaramam Tepesi
 
-Diyaramam Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel doğa noktalarından biri olarak bilinir. Batman'ın güzelliğini gözler önüne seren bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Tepenin yüksekliği ve genişliği, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
+Diyaramam Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel doğa noktalarından biri olarak bilinir. Tepenin yüksekliği ve genişliği, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Diyaramam Tepesi, çeşitli bitki türleri ve hayvanlar ile zengin bir flora ve 
 
 ## Ziyaret Bilgileri
 
-Diyaramam Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar için ideal bir deneyimdir. Tepenin konumu, Batman'ın merkezine yakınlığı ile dikkat çeker. Burada, farklı mevsimlerde farklı güzelliğe sahip olan bir doğa bulunur. Tepenin yüksekliği ve genişliği, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Ziyaretçiler, bu alanda çeşitli bitki türleri ve hayvanlar ile karşılaşabilirler.
+Diyaramam Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar için ideal bir deneyimdir. Tepenin konumu, Batman'ın merkezine yakınlığı ile dikkat çeker. Burada, farklı mevsimlerde farklı güzelliğe sahip olan bir doğa bulunur. Tepenin yüksekliği ve genişliği, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Ziyaretçiler, bu alanda çeşitli bitki türleri ve hayvanlar ile karşılaşabilirler.
 
 ## İlginç Bilgiler
 
@@ -52,4 +52,4 @@ Diyaramam Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanla
 - Tepenin çevresi, zengin bir flora ve fauna ile kaplıdır.
 - Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
 - Tepenin yüksekliği, bölgenin iklimini etkiler.
-- Diyaramam Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
+

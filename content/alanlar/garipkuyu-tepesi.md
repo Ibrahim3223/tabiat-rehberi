@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","bisiklet sürme","doğa yürüyüşü","manzara sey
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Garipkuyu Tepesi","caption":"Garipkuyu Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Garipkuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568047","tip":"genel"}]
-description: "İstanbul'un Marmara Bölgesi'ndeki Garipkuyu Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Garipkuyu Tepesi","İstanbul","Marmara Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31568047"
@@ -28,7 +28,7 @@ wikidata_id: "Q31568047"
 
 # Garipkuyu Tepesi
 
-Garipkuyu Tepesi, İstanbul'un Marmara Bölgesi'ndeki bir tepe olarak yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor ve şehri farklı bir açıdan görmelerine olanak sağlıyor. Ayrıca, tepe çevresindeki doğa, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+ Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor ve şehri farklı bir açıdan görmelerine olanak sağlıyor. Ayrıca, tepe çevresindeki doğa, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Garipkuyu Tepesi'ni ziyaret etmek, ziyaretçilere doğayla iç içe bir deneyim 
 
 ## İlginç Bilgiler
 
-- Garipkuyu Tepesi, yaklaşık 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor
 - Bölgenin iklimi, karasal iklim özellikleri gösteriyor
 - Tepenin coğrafi konumu, ziyaretçilerin आसaniyla ulaşabileceği bir konumda bulunuyor

@@ -48,8 +48,6 @@ Tuzlakaya Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğü ile b
 
 ## İlginç Bilgiler
 
-- Tuzlakaya Tepesi, 140 hektarlık bir alanı kapsıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer
 - Tuzlakaya Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Tuzlakaya Tepesi, ekolojik açıdan önemli bir bölge

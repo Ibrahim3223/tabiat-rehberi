@@ -50,7 +50,7 @@ Yıldız Sarayı Müze Müdürlüğü'ne ziyaretçiler, çeşitli ulaşım seçe
 ## İlginç Bilgiler
 
 - Yıldız Sarayı Müze Müdürlüğü, 19. yüzyılda inşa edilmiştir.
-- Saray, 140 hektarlık bir alana kurulmuştur.
+
 - Sarayın bahçesi, çeşitli bitkiler ve ağaçlarla dolu.
 - Yıldız Sarayı Müze Müdürlüğü, İstanbul'un önemli kültür merkezlerinden birisidir.
 - Saray, cumhuriyetin ilanı ardından müze olarak hizmet vermeye başlamıştır.

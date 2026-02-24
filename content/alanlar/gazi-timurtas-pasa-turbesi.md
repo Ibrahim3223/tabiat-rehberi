@@ -51,7 +51,7 @@ Gazi Timurtaş Paşa Türbesi'ni ziyaret etmek, hem tarihi bir mekanın atmosfer
 ## İlginç Bilgiler
 
 - Gazi Timurtaş Paşa Türbesi, Osmanlı dönemine ait bir tarihi yapıdır.
-- Türbe, 140 hektarlık bir yeşil alan sunar.
+
 - Bölge, Marmara Denizi'ne açılır.
 - Çevre, tarihi ve doğal güzelliği ile dikkat çeker.
 - Bölgede, çeşitli bitki ve hayvan türleri bulunur.

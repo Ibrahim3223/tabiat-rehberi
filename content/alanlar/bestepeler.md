@@ -49,7 +49,6 @@ Beştepeler'i ziyaret etmek, hem doğal güzellikleri hem de coğrafi zenginliğ
 
 ## İlginç Bilgiler
 
-- Beştepeler, 140 hektarlık bir alanı kaplar.
 - Beştepeler, Yozgat ilinin sınırları içerisinde yer alır.
 - Beştepeler, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir.
 - Beştepeler, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği sunar.

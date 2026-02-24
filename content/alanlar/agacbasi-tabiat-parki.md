@@ -21,7 +21,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Ağaçbaşı Tabiat Parkı","caption":"Ağaçbaşı Tabiat Parkı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7ba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228131","tip":"genel"}]
-description: "Giresun'un doğal güzelliklerini keşfedin, 140 hektarlık yeşil alanın keyfini çıkarın"
+
 keywords: ["Ağaçbaşı Tabiat Parkı","Giresun","Karadeniz Bölgesi","doğal güzellikler","yeşil alan","tabiat parkı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228131"
@@ -29,7 +29,7 @@ wikidata_id: "Q108228131"
 
 # Ağaçbaşı Tabiat Parkı
 
-Ağaçbaşı Tabiat Parkı, Giresun ilinin merkezinde yer alan 140 hektarlık bir yeşil alandır. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ağaçbaşı Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için mükemmel bir destinasyondur. Parka gelen ziyaretçiler, doğanın güzelliğini keşfedebilir, yürüyüş yapabilir ve piknik yapabilirler. Ayrıca, parkın içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın çeşitliliğini gösterir.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ağaçbaşı Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için mükemmel bir destinasyondur. Parka gelen ziyaretçiler, doğanın güzelliğini keşfedebilir, yürüyüş yapabilir ve piknik yapabilirler. Ayrıca, parkın içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın çeşitliliğini gösterir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ağaçbaşı Tabiat Parkı, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyu
 
 ## Coğrafya
 
-Ağaçbaşı Tabiat Parkı, Giresun ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin doğal güzelliklerini gösterir. Park, 140 hektarlık bir yeşil alandan oluşur ve çeşitli bitki türleri ile zengin fauna encontrabilir. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşur ve bu, parkın doğal güzelliğini arttırır. Parkın iklimi, Karadeniz iklimi olup, yağışlı ve nemlidir. Bu, bölgenin flora ve faunasının zengin olmasına katkıda bulunur. Ağaçbaşı Tabiat Parkı, çevresi ile birlikte koruma altına alınmıştır ve bu, parkın doğal güzelliğinin korunmasına yardımcı olur.
+Ağaçbaşı Tabiat Parkı, Giresun ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin doğal güzelliklerini gösterir. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşur ve bu, parkın doğal güzelliğini arttırır. Parkın iklimi, Karadeniz iklimi olup, yağışlı ve nemlidir. Bu, bölgenin flora ve faunasının zengin olmasına katkıda bulunur. Ağaçbaşı Tabiat Parkı, çevresi ile birlikte koruma altına alınmıştır ve bu, parkın doğal güzelliğinin korunmasına yardımcı olur.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Ağaçbaşı Tabiat Parkı, ziyaretçilere doğanın güzelliğini keşfetme fı
 - Parkın fauna zengin ve çeşitli hayvanlar içerir
 - Park, Karadeniz Bölgesi'nin doğal güzelliklerini gösterir
 - Parkın iklimi, yağışlı ve nemlidir
-- Park, 140 hektarlık bir yeşil alandan oluşur
+

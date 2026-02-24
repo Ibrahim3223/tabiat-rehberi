@@ -38,7 +38,7 @@ Orhan Gazi Türbesi, Osmanlı devletinin kurucularından ve ilk hükümdarların
 
 ## Coğrafya
 
-Orhan Gazi Türbesi, Bursa'nın Hüdavendigâr Vilayeti'nde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, tarihi ve kültürel açıdan önemli bir merkez olarak bilinir. Türbe, yaklaşık 140 hektarlık bir alanda yer alır ve ziyaretçilerini tarihin derinliklerine götürür. Bursa'nın coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamıştır. Şehrin stratejik konumu, Osmanlı devletinin genişlemesine ve ticaretinin gelişmesine katkıda bulunmuştur. Orhan Gazi Türbesi, Bursa'nın tarihi merkezi içinde yer alır ve ziyaretçilere şehrin diğer önemli tarihi mekanlarına ulaşma fırsatı sunar. Türbenin çevresi, tarihi yapılar ve önemli kültürel mekanlarla çevrilidir ve ziyaretçilere tarihin zenginliğini keşfetme fırsatı sunar.
+Orhan Gazi Türbesi, Bursa'nın Hüdavendigâr Vilayeti'nde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, tarihi ve kültürel açıdan önemli bir merkez olarak bilinir. Bursa'nın coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamıştır. Şehrin stratejik konumu, Osmanlı devletinin genişlemesine ve ticaretinin gelişmesine katkıda bulunmuştur. Orhan Gazi Türbesi, Bursa'nın tarihi merkezi içinde yer alır ve ziyaretçilere şehrin diğer önemli tarihi mekanlarına ulaşma fırsatı sunar. Türbenin çevresi, tarihi yapılar ve önemli kültürel mekanlarla çevrilidir ve ziyaretçilere tarihin zenginliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Orhan Gazi Türbesi'ni ziyaret etmek, tarihin derinliklerine bir yolculuk yapmak
 - Orhan Gazi Türbesi, Osmanlı devletinin kuruluş yıllarına ışık tutar.
 - Türbe, Bursa'nın tarihi merkezi içinde yer alır.
 - Orhan Gazi, Osmanlı devletinin ikinci hükümdarıdır.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Orhan Gazi Türbesi, tarihin önemli bir bölümünü ziyaretçilere sunar.

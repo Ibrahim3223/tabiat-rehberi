@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Akyaka_Evleri%2C_Mu%C4%9Fla_2015.jpg","alt":"MUGLA manzarası","credit":"Hamdigumus","license":"cc0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Akyaka_Sokaklar%C4%B1-2%2C_Mu%C4%9Fla_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Akyaka_Sokaklar%C4%B1-2%2C_Mu%C4%9Fla_2015.jpg/1280px-Akyaka_Sokaklar%C4%B1-2%2C_Mu%C4%9Fla_2015.jpg","alt":"MUGLA - Akyaka Sokakları-2, Muğla 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Azmak_%C3%87ay%C4%B1-5%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Azmak_%C3%87ay%C4%B1-5%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg/1280px-Azmak_%C3%87ay%C4%B1-5%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","alt":"MUGLA - Azmak Çayı-5, Akyaka, Muğla 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Azmak_%C3%87ay%C4%B1-8%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Azmak_%C3%87ay%C4%B1-8%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg/1280px-Azmak_%C3%87ay%C4%B1-8%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","alt":"MUGLA - Azmak Çayı-8, Akyaka, Muğla 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Azmak_%C3%87ay%C4%B1-14%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Azmak_%C3%87ay%C4%B1-14%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg/1280px-Azmak_%C3%87ay%C4%B1-14%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","alt":"MUGLA - Azmak Çayı-14, Akyaka, Muğla 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Azmak_%C3%87ay%C4%B1-13%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Azmak_%C3%87ay%C4%B1-13%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg/1280px-Azmak_%C3%87ay%C4%B1-13%2C_Akyaka%2C_Mu%C4%9Fla_2015.jpg","alt":"MUGLA - Azmak Çayı-13, Akyaka, Muğla 2015","credit":"Hamdigumus","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MUGLA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228640","tip":"genel"}]
-description: "MUGLA milli parkı, İç Anadolu Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "MUGLA milli parkı, İç Anadolu Bölgesi'nin en güzel köşelerinden biri."
 keywords: ["MUGLA","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228640"
@@ -43,7 +43,6 @@ MUGLA milli parkını ziyaret etmek, doğa severler için bir rüya harika bir d
 
 ## İlginç Bilgiler
 
-- MUGLA milli parkı, 140 hektarlık bir alana sahip.
 - Parkta, birçok bitki ve hayvan türü living.
 - MUGLA milli parkı, bir doğa koruma alanı olarak faaliyet gösteriyor.
 - Park, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunuyor.

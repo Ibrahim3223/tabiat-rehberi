@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Bitki gözlemi","Hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Gümüldür Tabiat Parkı","caption":"Gümüldür Tabiat Parkı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BCld%C3%BCr%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228154","tip":"genel"}]
-description: "İzmir'in Menderes ilçesinde yer alan Gümüldür Tabiat Parkı, 140 hektarlık geniş bir yeşil alan sunar."
+"
 keywords: ["Gümüldür Tabiat Parkı","Menderes","İzmir","Ege Bölgesi","Tabiat Parkı","Yeşil Alan","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228154"
@@ -29,7 +29,7 @@ wikidata_id: "Q108228154"
 
 # Gümüldür Tabiat Parkı
 
-Gümüldür Tabiat Parkı, İzmir'in Menderes ilçesinde yer alan 140 hektarlık geniş bir yeşil alan sunar. Park, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğa yürüyüşleri, piknik alanları ve çeşitli bitkilerle dolu bir ortam sağlar. Gümüldür Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul edilebilir.
+ Park, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğa yürüyüşleri, piknik alanları ve çeşitli bitkilerle dolu bir ortam sağlar. Gümüldür Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gümüldür Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Gümüldür Tabiat Parkı, Menderes ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliğini gözler önüne serer. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. 140 hektarlık geniş alan, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve doğal güzellikleri keşfetme fırsatı sunar. Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak şekillenir ve ziyaretçilere yıl boyunca ziyaret edebileceği bir ortam sağlar. Gümüldür Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul edilebilir ve ziyaretçilere zengin bir coğrafi deneyim sunar.
+Gümüldür Tabiat Parkı, Menderes ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliğini gözler önüne serer. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak şekillenir ve ziyaretçilere yıl boyunca ziyaret edebileceği bir ortam sağlar. Gümüldür Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul edilebilir ve ziyaretçilere zengin bir coğrafi deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Gümüldür Tabiat Parkı, ziyaretçilere doğayla iç içe bir deneyim sunar. P
 
 ## İlginç Bilgiler
 
-- 140 hektarlık geniş alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Zengin flora ve fauna çeşitliliği
 - Menderes ilçesinde yer alır
 - Ege Bölgesi'nin güzelliğini gözler önüne serer

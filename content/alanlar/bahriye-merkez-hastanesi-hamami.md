@@ -50,7 +50,7 @@ Bahriye Merkez Hastanesi Hamamını ziyaret etmek, İstanbulun tarihini ve kült
 ## İlginç Bilgiler
 
 - Bahriye Merkez Hastanesi Hamamı, İstanbulun en eski hamamlarından biridir.
-- Bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bahriye Merkez Hastanesi Hamamı, İstanbulun tarihini ve kültürünü yansıtan önemli bir mekandır.
 - Bu hamam, ziyaretçilerini geçmişe götürerek onları bu güzel mekanın hikayesiyle baş başa bırakır.
 - Bahriye Merkez Hastanesi Hamamı, İstanbulun flora ve faunasını yansıtan önemli bir mekandır.

@@ -51,7 +51,7 @@ Emir Kümbet Türbesi'ni ziyaret etmek, özellikle tarihi ve kültürel açıdan
 ## İlginç Bilgiler
 
 - Emir Kümbet Türbesi, Aybastı, Ordu'da yer alıyor
-- 140 hektarlık bir alan üzerinde kurulmuş
+
 - Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor
 - Zengin flora ve fauna çeşitliliği
 - Tarihi geçmişi zengin ve çeşitli kültürel etkileri yansıtıyor

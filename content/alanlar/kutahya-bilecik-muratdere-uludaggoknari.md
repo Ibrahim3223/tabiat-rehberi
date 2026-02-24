@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Kütahya Bilecik Muratdere-Uludaggoknari","caption":"Kütahya Bilecik Muratdere-Uludaggoknari","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCtahya%20Bilecik%20Muratdere-Uludaggoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228094","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kütahya","Bilecik","Muratdere","Uludaggoknari","milli park","doğa","turizm","gezi","yerel","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228094"
@@ -30,7 +30,7 @@ Kütahya Bilecik Muratdere-Uludaggoknari'nin tarihi geçmişi, yüzyıllar önce
 
 ## Coğrafya
 
-Kütahya Bilecik Muratdere-Uludaggoknari, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir bölgesinde yer alıyor. 140 hektarlık alan, Muratdere ve Uludaggoknari'nin birleştiği noktada bulunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi olarak, bu alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin ekolojisini şekillendirmiş. Kütahya Bilecik Muratdere-Uludaggoknari, doğal güzellikleri ve coğrafi konumu ile ziyaretçilerini cezbediyor. Bu bölgede, çeşitli yürüyüş parkurları, doğa gözlem noktaları ve yerel ekosistemi inceleyebileceğiniz alanlar bulunuyor.
+Kütahya Bilecik Muratdere-Uludaggoknari, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir bölgesinde yer alıyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi olarak, bu alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer. Bu mevsimsel değişimler, bölgenin ekolojisini şekillendirmiş. Kütahya Bilecik Muratdere-Uludaggoknari, doğal güzellikleri ve coğrafi konumu ile ziyaretçilerini cezbediyor. Bu bölgede, çeşitli yürüyüş parkurları, doğa gözlem noktaları ve yerel ekosistemi inceleyebileceğiniz alanlar bulunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kütahya Bilecik Muratdere-Uludaggoknari, ziyaretçilerini cezbeden bir milli pa
 
 ## İlginç Bilgiler
 
-- Kütahya Bilecik Muratdere-Uludaggoknari, 140 hektarlık bir alana sahip.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Kütahya Bilecik Muratdere-Uludaggoknari, Türkiye'nin önemli milli parklarından biri.
 - Bu bölgede, yılın her mevsiminde ziyaret edilebilir.

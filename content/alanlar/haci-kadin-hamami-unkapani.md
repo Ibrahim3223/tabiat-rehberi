@@ -29,7 +29,7 @@ wikidata_id: "Q131738591"
 
 # Hacı Kadın Hamamı, Unkapanı
 
-Hacı Kadın Hamamı, Unkapanı'nda yer alan ve İstanbul'un tarihi hamamlarından biri olan bu mekan, ziyaretçilerini bekliyor. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak görülebilir. 140 hektarlık bir alanda kurulmamış olsa da, tarihi ve kültürel önemiyle dikkat çeker. Hacı Kadın Hamamı, Unkapanı'nın kalbinde, diğer tarihi mekanlara yakınlığıyla da dikkat çekiyor.
+Hacı Kadın Hamamı, Unkapanı'nda yer alan ve İstanbul'un tarihi hamamlarından biri olan bu mekan, ziyaretçilerini bekliyor. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak görülebilir. Hacı Kadın Hamamı, Unkapanı'nın kalbinde, diğer tarihi mekanlara yakınlığıyla da dikkat çekiyor.
 
 ## Tarihçe
 

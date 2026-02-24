@@ -29,7 +29,7 @@ wikidata_id: "Q31385532"
 
 # Nar Tepesi
 
-Nar Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzaraya davet ediyor. Nar Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası. Burada, doğanın sesini dinleyebilir, tarihi geçmişi hakkında bilgi edinebilirsiniz. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için ideal bir gözlem noktası.
+Nar Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan bir tepe. Nar Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası. Burada, doğanın sesini dinleyebilir, tarihi geçmişi hakkında bilgi edinebilirsiniz. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için ideal bir gözlem noktası.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin iz
 
 ## Coğrafya
 
-Nar Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Bu tepe, yaklaşık 140 hektarlık alanı ile çevreyi etkileyen bir yapıya sahip. Çevresindeki doğal güzellikler, Nar Tepesi'ni ziyaret etmek için bir neden. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Nar Tepesi, bölgenin iklimini anlamak için önemli bir nokta. Bu tepe, aynı zamanda bölgenin coğrafi yapısını gözlemlemek için ideal bir gözlem noktası. Nar Tepesi'nin coğrafi konumu, ziyaretçiler için bir gezi alanı sunuyor. Burada, doğal güzellikleri keşfedebilir, bölgenin coğrafi yapısını öğrenebilirsiniz.
+Nar Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Çevresindeki doğal güzellikler, Nar Tepesi'ni ziyaret etmek için bir neden. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Nar Tepesi, bölgenin iklimini anlamak için önemli bir nokta. Bu tepe, aynı zamanda bölgenin coğrafi yapısını gözlemlemek için ideal bir gözlem noktası. Nar Tepesi'nin coğrafi konumu, ziyaretçiler için bir gezi alanı sunuyor. Burada, doğal güzellikleri keşfedebilir, bölgenin coğrafi yapısını öğrenebilirsiniz.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Nar Tepesi'ni ziyaret etmek, ziyaretçiler için bir gezi alanı sunuyor. Buraya
 
 ## İlginç Bilgiler
 
-- Nar Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzaraya davet ediyor.
 - Bu tepe, tarihin farklı dönemlerine ait kalıntıları barındırıyor.
 - Nar Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 - Bu tepe, ekolojik dengesini korumak için önemli bir bölge.

@@ -30,7 +30,7 @@ wikidata_id: "Q122706523"
 
 # Gazi Ahmed Paşa Türbesi
 
-Gazi Ahmed Paşa Türbesi, İstanbul'un tarihi ve turistik mekanlarından biridir. Fatih ilçesinde yer alan bu türbe, aynı zamanda plaj olarak da kullanılan bir alana sahiptir. Gazi Ahmed Paşa Türbesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin tarihi geçmişi, İstanbul'un fethinden sonra başlar. Bu nedenle, İstanbul'un fethi ve Osmanlı İmparatorluğu'nun kuruluş döneminde önemli bir role sahiptir. Gazi Ahmed Paşa Türbesi, İstanbul'un en önemli tarihi ve turistik mekanlarından biridir.
+Gazi Ahmed Paşa Türbesi, İstanbul'un tarihi ve turistik mekanlarından biridir. Fatih ilçesinde yer alan bu türbe, aynı zamanda plaj olarak da kullanılan bir alana sahiptir. Türbenin tarihi geçmişi, İstanbul'un fethinden sonra başlar. Bu nedenle, İstanbul'un fethi ve Osmanlı İmparatorluğu'nun kuruluş döneminde önemli bir role sahiptir. Gazi Ahmed Paşa Türbesi, İstanbul'un en önemli tarihi ve turistik mekanlarından biridir.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ Gazi Ahmed Paşa Türbesi, ziyaretçilerin ziyaret edebileceği bir mekandır. T
 - Gazi Ahmed Paşa Türbesi, Osmanlı İmparatorluğu döneminde inşa edilmiştir
 - Türbe, Gazi Ahmed Paşa'nın anısına yaptırılmıştır
 - Gazi Ahmed Paşa Türbesi, İstanbul'un en önemli tarihi mekanlarından biridir
-- Türbe ve plaj, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Gazi Ahmed Paşa Türbesi, Marmara Denizi'ne yakındır

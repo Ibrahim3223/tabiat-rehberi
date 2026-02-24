@@ -50,7 +50,7 @@ Bakacak Mahallesi Kaya Mezarı, ziyaretçilerini tarihi ve doğal güzelliklerle
 ## İlginç Bilgiler
 
 - Bakacak Mahallesi Kaya Mezarı, Samsun'un Tekkeköy ilçesinde yer alıyor.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Kaya mezarı, yüzyıllar boyunca çeşitli uygarlıkların yaşamına tanıklık etmiş.
 - Bölge, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor.
 - Ziyaretçiler, bu bölgede doğa yürüyüşleri, fotoğraf çekimi ve tarihi eserleri ziyaret edebiliyor.

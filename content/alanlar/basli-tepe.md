@@ -28,7 +28,7 @@ wikidata_id: "Q31389079"
 
 # Başlı Tepe
 
-Başlı Tepe, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe olarak dikkati çekiyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor. Başlı Tepe, ziyaretçilerini doğanın güzelliklerine davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Başlı Tepe, hem doğal güzellikleri hem de tarihi geçmişi ile önemli bir destinasyon olarak öne çıkıyor.
+Başlı Tepe, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe olarak dikkati çekiyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor. Başlı Tepe, ziyaretçilerini doğanın güzelliklerine davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Başlı Tepe, hem doğal güzellikleri hem de tarihi geçmişi ile önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Başlı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Başlı Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor. Başlı Tepe, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, iklim olarak, karasal iklimin özellikleri gösteriyor. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Başlı Tepe, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikleri sunuyor. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirsiniz.
+Başlı Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Başlı Tepe, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, iklim olarak, karasal iklimin özellikleri gösteriyor. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise sıcak ve kurak geçiyor. Başlı Tepe, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikleri sunuyor. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirsiniz.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Başlı Tepe, ziyaretçilerine çeşitli etkinlikler sunuyor. Burada, doğa yür
 
 ## İlginç Bilgiler
 
-- Başlı Tepe, 140 hektarlık bir alanı kapsıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor
 - Başlı Tepe, flora ve fauna açısından zengin bir bölge
 - Bu tepe, coğrafi konumu itibariyle, ziyaretçilerine doğal güzellikleri sunuyor
 - Başlı Tepe, ziyaretçilerini tarihin izlerine davet ediyor

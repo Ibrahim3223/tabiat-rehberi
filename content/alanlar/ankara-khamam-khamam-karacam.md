@@ -30,7 +30,7 @@ Tarihi geçmişi ile dikkat çeken Ankara-K.Hamam-K.Hamam-Karaçam, yüzyıllar 
 
 ## Coğrafya
 
-Ankara-K.Hamam-K.Hamam-Karaçam, İç Anadolu Bölgesi'nin coğrafi özellikleri ile ön plana çıkan bir bölge. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile ziyaretçilerini doğayla baş başa bırakıyor. Burada, coğrafi özellikleri ile de dikkat çeken birçok dağ, tepe ve vadilere rastlama mümkün. İklimi ile de dikkat çeken Ankara-K.Hamam-K.Hamam-Karaçam, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Kışın karlarla kaplı dağlar, ilkbaharda çiçeklerle dolu vadiler, yazın yeşilin her tonunu barındıran ormanlar ve sonbaharda renk cümbüşü ile ziyaretçilerini büyüleyen bu bölge, her yıl binlerce ziyaretçi tarafından tercih ediliyor. Coğrafi özellikleri, doğal güzellikleri ve historical değerleri ile ön plana çıkan Ankara-K.Hamam-K.Hamam-Karaçam, ziyaretçilerini bekliyor.
+Ankara-K.Hamam-K.Hamam-Karaçam, İç Anadolu Bölgesi'nin coğrafi özellikleri ile ön plana çıkan bir bölge. Burada, coğrafi özellikleri ile de dikkat çeken birçok dağ, tepe ve vadilere rastlama mümkün. İklimi ile de dikkat çeken Ankara-K.Hamam-K.Hamam-Karaçam, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Kışın karlarla kaplı dağlar, ilkbaharda çiçeklerle dolu vadiler, yazın yeşilin her tonunu barındıran ormanlar ve sonbaharda renk cümbüşü ile ziyaretçilerini büyüleyen bu bölge, her yıl binlerce ziyaretçi tarafından tercih ediliyor. Coğrafi özellikleri, doğal güzellikleri ve historical değerleri ile ön plana çıkan Ankara-K.Hamam-K.Hamam-Karaçam, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

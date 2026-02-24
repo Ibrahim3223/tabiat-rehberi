@@ -42,7 +42,6 @@ Alanya Gazipaşa Kıyı Bandı Sit Alanı, ziyaretçilere, çeşitli olanaklar s
 
 ## İlginç Bilgiler
 
-- Sahil şeridi, yaklaşık 140 hektarlık bir alanı kapsar
 - Alan, zengin fauna ve flora çeşitliliği ile dikkat çeker
 - Sit alanı, doğal güzellikleri koruma altına alma amacıyla oluşturulmuştur
 - Alanın tarihi ve doğal özellikleri, ziyaretçilere derin bir anlayış kazandırır

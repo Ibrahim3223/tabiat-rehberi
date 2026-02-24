@@ -49,7 +49,7 @@ Alaşar Dağı, ziyaretçiler için keyifli bir gezi noktası. Bu tepeye ulaşı
 ## İlginç Bilgiler
 
 - Alaşar Dağı, Nevşehir ilinin önemli bir coğrafi oluşumudur.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Alaşar Dağı, zengin flora ve fauna sunuyor.
 - Dağın eteklerinde ve çevresinde çeşitli bitki türleri ve hayvanlar yaşuyor.
 - Alaşar Dağı, aynı zamanda bir kültürel miras olarak da önem taşıyor.

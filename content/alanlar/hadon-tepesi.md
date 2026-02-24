@@ -36,7 +36,7 @@ Hadon Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 
 ## Coğrafya
 
-Hadon Tepesi, Diyarbakır'ın coğrafi yapısını oluşturan önemli bir parça. Tepenin coğrafi konumu, ziyaretçilere bölgenin geniş manzarasını sunuyor. Hadon Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Tepenin eteklerinde, yerleşim yerleri ve tarım alanları bulunuyor. Hadon Tepesi, bölgenin coğrafi çeşitliliğini gösteren önemli bir nokta. Tepenin yüksekliği, bölgenin iklimini etkileyen önemli bir faktör. Hadon Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin çevresindeki dağlar ve vadiler, bölgenin coğrafi zenginliğini gösteriyor.
+Hadon Tepesi, Diyarbakır'ın coğrafi yapısını oluşturan önemli bir parça. Tepenin coğrafi konumu, ziyaretçilere bölgenin geniş manzarasını sunuyor. Tepenin eteklerinde, yerleşim yerleri ve tarım alanları bulunuyor. Hadon Tepesi, bölgenin coğrafi çeşitliliğini gösteren önemli bir nokta. Tepenin yüksekliği, bölgenin iklimini etkileyen önemli bir faktör. Hadon Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin çevresindeki dağlar ve vadiler, bölgenin coğrafi zenginliğini gösteriyor.
 
 ## Flora ve Fauna
 

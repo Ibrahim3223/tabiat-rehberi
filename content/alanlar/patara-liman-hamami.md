@@ -50,7 +50,7 @@ Patara Liman Hamamı, yıl boyunca ziyaret edilebilir. Ziyaretçiler, bu bölgey
 ## İlginç Bilgiler
 
 - Patara Liman Hamamı, Likya uygarlığının önemli liman kentlerinden biri olan Patara'nın kalıntıları arasında yer alıyor.
-- Patara Liman Hamamı,Approximately 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bu bölge, Likya Yürüyüş Yolu gibi önemli rotaların da yakınında bulunuyor.
 - Patara Liman Hamamı, yıl boyunca ziyaret edilebilir.
 - Bölge, çeşitli bitki türleri ve zengin fauna bulunması ile dikkat çekiyor.

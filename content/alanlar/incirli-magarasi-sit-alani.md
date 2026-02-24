@@ -14,8 +14,7 @@ aktiviteler: ["mağara gezi","doğa yürüyüşü","fotografçılık","yaban hay
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"İncirli Mağarası Sit Alanı","caption":"İncirli Mağarası Sit Alanı","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirli%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226048","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan İncirli Mağarası Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["İncirli Mağarası","Sit Alanı","İç Anadolu Bölgesi","doğal güzellikler","mağara","yeşil alan","futbol sahası","büyüklük","alan"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226048"
 ---
@@ -42,7 +41,6 @@ wikidata_id: "Q108226048"
 
 ## İlginç Bilgiler
 
-- İncirli Mağarası Sit Alanı, 140 hektarlık bir yeşil alana sahiptir.
 - Mağaranın içi, çeşitli oluşumlar ve şekiller ile süslenmiştir.
 - İncirli Mağarası, yüzyıllar boyunca oluşan bir doğal güzelliktir.
 - Mağaranın tarihi geçmişi, çeşitli araştırmalar ve kazılar ile aydınlatılmaya çalışılmaktadır.

@@ -37,7 +37,7 @@ Erenler Sultan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktad�
 
 ## Coğrafya
 
-Erenler Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini bir arada sunmaktadır. 140 hektarlık alan, ziyaretçilerine geniş bir doğal güzellik sunmaktadır. Bu alan, zengin flora ve faunaya ev sahipliği yapmaktadır. Coğrafi konum itibariyle, türbe ve çevresindeki doğal güzellikler, ziyaretçilerini etkileyen bir manzara sunmaktadır. İklim, ziyaretçilere uygun koşullar sunmakta ve yıl boyunca çeşitli mevsimsel değişimlere tanıklık etmektedir. Coğrafi konumu nedeniyle, Erenler Sultan Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
+Erenler Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini bir arada sunmaktadır. Bu alan, zengin flora ve faunaya ev sahipliği yapmaktadır. Coğrafi konum itibariyle, türbe ve çevresindeki doğal güzellikler, ziyaretçilerini etkileyen bir manzara sunmaktadır. İklim, ziyaretçilere uygun koşullar sunmakta ve yıl boyunca çeşitli mevsimsel değişimlere tanıklık etmektedir. Coğrafi konumu nedeniyle, Erenler Sultan Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
 
 ## Flora ve Fauna
 

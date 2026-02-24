@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Cams_Hill%2C_Fareham_-_geograph.org.uk_-_5019960.jpg","alt":"Çam Tepesi manzarası","credit":"David Howard ","license":"cc-by-sa-2.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Gatehouses_at_Cams_Hill_-_geograph.org.uk_-_2133540.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gatehouses_at_Cams_Hill_-_geograph.org.uk_-_2133540.jpg/1280px-Gatehouses_at_Cams_Hill_-_geograph.org.uk_-_2133540.jpg","alt":"Çam Tepesi - Gatehouses at Cams Hill - geograph.org.uk - 2133540","credit":"Margaret Sutton ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Allt_Ty-cam_%28hill%29_-_geograph.org.uk_-_7153040.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Allt_Ty-cam_%28hill%29_-_geograph.org.uk_-_7153040.jpg","alt":"Çam Tepesi - Allt Ty-cam (hill) - geograph.org.uk - 7153040","credit":"John Lucas ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/66/A27_Cams_Hill_-_geograph.org.uk_-_8186260.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/6/66/A27_Cams_Hill_-_geograph.org.uk_-_8186260.jpg","alt":"Çam Tepesi - A27 Cams Hill - geograph.org.uk - 8186260","credit":"David Martin ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b4/A27_Cams_Hill_-_geograph.org.uk_-_8186261.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/b/b4/A27_Cams_Hill_-_geograph.org.uk_-_8186261.jpg","alt":"Çam Tepesi - A27 Cams Hill - geograph.org.uk - 8186261","credit":"David Martin ","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87am%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828122","tip":"genel"}]
-description: "Adana'da yer alan Çam Tepesi, 140 hektarlık geniş bir yeşil alan sunar. Yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sağlar."
+"
 keywords: ["Adana","Çam Tepesi","Yeşil Alan","Doğa","Gezi","Tepeler","Akdeniz Bölgesi","Turizm","Doğal Güzellikler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828122"
@@ -29,7 +29,7 @@ wikidata_id: "Q34828122"
 
 # Çam Tepesi
 
-Adana'nın güzide noktalarından biri olan Çam Tepesi, ziyaretçilerini 140 hektarlık geniş bir yeşil alana davet ediyor. Çam Tepesi, hem doğa severler hem de şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir destinasyon. Burada, doğayla iç içe olmanın keyfini çıkarabilir, şehrin stresinden uzaklaşabilirsiniz.
+ Çam Tepesi, hem doğa severler hem de şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir destinasyon. Burada, doğayla iç içe olmanın keyfini çıkarabilir, şehrin stresinden uzaklaşabilirsiniz.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Coğrafi olarak Akdeniz Bölgesi'nde yer alan Çam Tepesi, Adana ilinin önemli 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Çam ormanları
 - Zengin fauna
 - Mevsimsel değişimler

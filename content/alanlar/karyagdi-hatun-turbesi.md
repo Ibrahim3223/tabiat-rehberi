@@ -38,7 +38,7 @@ Karyağdı Hatun Türbesi, tarihi geçmişi ile dikkat çeken bir mekândır. Bu
 
 ## Coğrafya
 
-Karyağdı Hatun Türbesi, İç Anadolu Bölgesi'nde yer alan Ankara'nın Altındağ ilçesinde bulunmaktadır. Bu mekan, Ankara'nın merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Karyağdı Hatun Türbesi, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır ve bu alan, Ankara'nın en büyük yeşil alanlarından biridir. Bu yeşil alan, çeşitli bitkiler ve ağaçlar ile kaplıdır ve Ankara'nın doğal güzelliğini yansıtması açısından önemlidir. Karyağdı Hatun Türbesi, aynı zamanda Ankara'nın iklimini ve coğrafyasını öğrenmek isteyenler için önemli bir mekan niteliğindedir. Bu mekan, Ankara'nın coğrafyası ve iklimi hakkında bilgi edinmek isteyenler için büyük bir önem taşımaktadır.
+Karyağdı Hatun Türbesi, İç Anadolu Bölgesi'nde yer alan Ankara'nın Altındağ ilçesinde bulunmaktadır. Bu mekan, Ankara'nın merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Bu yeşil alan, çeşitli bitkiler ve ağaçlar ile kaplıdır ve Ankara'nın doğal güzelliğini yansıtması açısından önemlidir. Karyağdı Hatun Türbesi, aynı zamanda Ankara'nın iklimini ve coğrafyasını öğrenmek isteyenler için önemli bir mekan niteliğindedir. Bu mekan, Ankara'nın coğrafyası ve iklimi hakkında bilgi edinmek isteyenler için büyük bir önem taşımaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Karyağdı Hatun Türbesi, Ankara'nın önemli turistik noktalarından biridir v
 ## İlginç Bilgiler
 
 - Karyağdı Hatun Türbesi, Ankara'nın tarihi mekanlarından biridir
-- Bu mekan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır
+
 - Karyağdı Hatun Türbesi, tarihi geçmişi ile dikkat çeker
 - Bu mekan, Ankara'nın tarihi ve kültürel mirasının önemli bir parçası niteliğindedir
 - Karyağdı Hatun Türbesi, Ankara'nın doğal güzelliğini yansıtması açısından önemlidir

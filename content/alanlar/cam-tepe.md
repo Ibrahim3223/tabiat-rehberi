@@ -50,7 +50,7 @@ wikidata_id: "Q34828111"
 ## İlginç Bilgiler
 
 - Çam Tepe, Muğla'nın en yüksek noktalarından biridir
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Çam Tepe, farklı bitki türlerine ev sahipliği yapar
 - Bu tepe, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar
 - Çam Tepe, Muğla'nın kültürel mirasının önemli bir parçasıdır

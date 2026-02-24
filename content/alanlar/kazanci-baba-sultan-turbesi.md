@@ -37,7 +37,7 @@ Kazancı Baba Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitl
 
 ## Coğrafya
 
-Kazancı Baba Sultan Türbesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde inşa edilmiştir. Türbenin bulunduğu Kalecik ilçesi, Ankara'nın bir parçasıdır ve İç Anadolu Bölgesi'nin merkezi bir bölümündedir. Bu bölgenin coğrafi özellikleri, türbenin yapısını ve çevresindeki doğal güzellikleri etkilemiştir. İç Anadolu Bölgesi, genellikle step iklimine sahiptir ve bu iklim, türbenin bulunduğu bölgede de hakimdir. Kazancı Baba Sultan Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere, bölgenin coğrafi özelliklerini deneyimleme fırsatı sunar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, ziyaretçilere, geniş bir açık alan sunar.
+Kazancı Baba Sultan Türbesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde inşa edilmiştir. Türbenin bulunduğu Kalecik ilçesi, Ankara'nın bir parçasıdır ve İç Anadolu Bölgesi'nin merkezi bir bölümündedir. Bu bölgenin coğrafi özellikleri, türbenin yapısını ve çevresindeki doğal güzellikleri etkilemiştir. İç Anadolu Bölgesi, genellikle step iklimine sahiptir ve bu iklim, türbenin bulunduğu bölgede de hakimdir. Kazancı Baba Sultan Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere, bölgenin coğrafi özelliklerini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -21,8 +21,7 @@ aktiviteler: ["Doğa Yürüyüşü","Picnic","Fotografcılık","Doğayla İç İ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg","alt":"Pınarbaşı Hamamı","caption":"Pınarbaşı Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1narba%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738843","tip":"genel"}]
-description: "İzmir'in Bornova ilçesinde nmış Pınarbaşı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Pınarbaşı Hamamı","Bornova","İzmir","Ege Bölgesi","Yeşil Alan","Futbol Sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738843"
 ---
@@ -37,7 +36,7 @@ Pınarbaşı Hamamı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir h
 
 ## Coğrafya
 
-Pınarbaşı Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir noktada bulunmakta. 140 hektarlık geniş yeşil alanı, ziyaretçilere doğanın tüm renklerini ve güzelliklerini sunuyor. Pınarbaşı Hamamı, coğrafi konumu itibariyle de önemli bir nokta olarak kabul ediliyor. Ege Bölgesi'nin iklimi, Pınarbaşı Hamamı'nı ziyaret etmek için ideal bir ortam sunuyor. Bölgenin iklimi, genellikle ılıman ve ziyaretçiler için rahat bir gezi deneyimi sunuyor.
+Pınarbaşı Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir noktada bulunmakta. Pınarbaşı Hamamı, coğrafi konumu itibariyle de önemli bir nokta olarak kabul ediliyor. Ege Bölgesi'nin iklimi, Pınarbaşı Hamamı'nı ziyaret etmek için ideal bir ortam sunuyor. Bölgenin iklimi, genellikle ılıman ve ziyaretçiler için rahat bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,8 +48,6 @@ Pınarbaşı Hamamı, ziyaretçilere geniş bir hareket alanı sunuyor. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Pınarbaşı Hamamı, 140 hektarlık yeşil alanına sahip
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal destinasyon
 - Zengin flora ve fauna çeşitliliğine sahip
 - Mevsimsel değişimler, Pınarbaşı Hamamı'nın güzelliğini artırıyor

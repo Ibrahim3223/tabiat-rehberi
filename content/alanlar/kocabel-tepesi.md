@@ -28,7 +28,7 @@ wikidata_id: "Q31390098"
 
 # Kocabel Tepesi
 
-Ankara'nın merkezi bir konumunda yer alan Kocabel Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Kocabel Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunuyor. Kocabel Tepesi, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+ Kocabel Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunuyor. Kocabel Tepesi, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

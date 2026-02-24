@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotoğrafç�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Karayatak Tepesi","caption":"Karayatak Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karayatak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390006","tip":"genel"}]
-description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Karayatak Tepesi, doğa severler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Karayatak Tepesi, doğa severler için bir cennet."
 keywords: ["Eskişehir","İç Anadolu Bölgesi","Karayatak Tepesi","doğa","tepe","gezi","turizm","yerel","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390006"
@@ -36,7 +36,7 @@ Karayatak Tepesi'nin tarihi geçmişi zengin. Bu bölge, yüzyıllar boyunca çe
 
 ## Coğrafya
 
-Karayatak Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Tepenin etrafında, çeşitli dağlar ve vadiler found. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Karayatak Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Bu yükseklik, bölgenin manzarasını ve görkemini artırıyor. Tepenin etrafında, çeşitli su kaynakları ve nehirler found. Bu su kaynakları, bölgenin ekolojisini ve canlılarını desteklıyor.
+Karayatak Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Tepenin etrafında, çeşitli dağlar ve vadiler found. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Bu yükseklik, bölgenin manzarasını ve görkemini artırıyor. Tepenin etrafında, çeşitli su kaynakları ve nehirler found. Bu su kaynakları, bölgenin ekolojisini ve canlılarını desteklıyor.
 
 ## Flora ve Fauna
 

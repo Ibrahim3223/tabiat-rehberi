@@ -37,7 +37,7 @@ Abana Eski Hamam'nın tarihi geçmişi, Kastamonu'nun genel tarihine paralel ola
 
 ## Coğrafya
 
-Abana Eski Hamam, Kastamonu'nun Abana ilçesinde, Karadeniz Bölgesi'nin sahil şeridinde yer almaktadır. 140 hektarlık bir alana yayılan bu plaj, geniş bir sahil şeridine sahip ve Karadeniz'in doğal güzelliğini sunmaktadır. Plajın etrafında, yeşillik alanlar ve ormanlık bölgeler bulunmakta ve ziyaretçiler, deniz, kum ve yeşilin bir arada olduğu bu güzel manzarayı keşfetme fırsatı bulmaktadır. Abana Eski Hamam, Karadeniz'in karakteristik iklimine sahip ve bu bölgede, genellikle ılıman ve yağışlı bir hava hüküm sürmektedir.
+Abana Eski Hamam, Kastamonu'nun Abana ilçesinde, Karadeniz Bölgesi'nin sahil şeridinde yer almaktadır. Plajın etrafında, yeşillik alanlar ve ormanlık bölgeler bulunmakta ve ziyaretçiler, deniz, kum ve yeşilin bir arada olduğu bu güzel manzarayı keşfetme fırsatı bulmaktadır. Abana Eski Hamam, Karadeniz'in karakteristik iklimine sahip ve bu bölgede, genellikle ılıman ve yağışlı bir hava hüküm sürmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Abana Eski Hamam'ı ziyaret etmek, Karadeniz'in doğal güzelliğini keşfetmek 
 ## İlginç Bilgiler
 
 - Abana Eski Hamam, Karadeniz'in en güzel plajlarından biri
-- 140 hektarlık bir alana yayılmaktadır
+
 - Kastamonu'nun Abana ilçesinde bulunmaktadır
 - Karadeniz Bölgesi'nin karakteristik iklimine sahiptir
 - çeşitli bitki türleri ve fauna örnekleri bulunmakta

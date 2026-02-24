@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Flora ve fauna gözlemi","Manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Doğruyalak Tepesi","caption":"Doğruyalak Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fruyalak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389589","tip":"genel"}]
-description: "Balıkesir'in yüksek noktalarından biri olan Doğruyalak Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Doğruyalak Tepesi","Balıkesir","Marmara Bölgesi","Doğal Alan","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389589"
@@ -36,7 +36,7 @@ Doğruyalak Tepesi'nin tarihi geçmişi, bölgenin genel tarihi geçmişi ile pa
 
 ## Coğrafya
 
-Doğruyalak Tepesi, Marmara Bölgesi'nde Balıkesir ilinde bulunur ve coğrafi olarak önemli bir konumdadır. Tepenin yüksekliği, bölgenin diğer tepelerine göre önemli bir yükseklikte değildir, ancak coğrafi konumu ve doğal güzelliği ile dikkat çeker. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve mevsimi yaşar. Kış aylarında kar yağışı, yaz aylarında sıcak ve nemli hava hüküm sürer. Doğruyalak Tepesi, coğrafi konumu ve doğal güzelliği ile önemli bir turizm merkezi olarak kabul edilir.
+Doğruyalak Tepesi, Marmara Bölgesi'nde Balıkesir ilinde bulunur ve coğrafi olarak önemli bir konumdadır. Tepenin yüksekliği, bölgenin diğer tepelerine göre önemli bir yükseklikte değildir, ancak coğrafi konumu ve doğal güzelliği ile dikkat çeker. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve mevsimi yaşar. Kış aylarında kar yağışı, yaz aylarında sıcak ve nemli hava hüküm sürer. Doğruyalak Tepesi, coğrafi konumu ve doğal güzelliği ile önemli bir turizm merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 

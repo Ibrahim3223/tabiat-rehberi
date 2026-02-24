@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 5, Emniyet'in tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 5, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu bölge, Ankara'nın Yenimahalle ilçesinde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Bu green alan, ziyaretçiler için hem bir gezi alanı hem de bir dinlenme yeri olarak hizmet verir. Coğrafi olarak, bu bölge, Ankara'nın şehir merkezine yakındır ve ulaşımı kolaydır. Bu tümülüs, Ankara'nın şehir planlaması içinde önemli bir yer tutar ve yeşil alan olarak kullanılmaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgeyi özel kılar. Bu bölge, yılın dört mevsimi de ziyaret edilebilir ve her mevsim farklı güzellikler sunar.
+Ankara Frig Tümülüsü 5, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu green alan, ziyaretçiler için hem bir gezi alanı hem de bir dinlenme yeri olarak hizmet verir. Coğrafi olarak, bu bölge, Ankara'nın şehir merkezine yakındır ve ulaşımı kolaydır. Bu tümülüs, Ankara'nın şehir planlaması içinde önemli bir yer tutar ve yeşil alan olarak kullanılmaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgeyi özel kılar. Bu bölge, yılın dört mevsimi de ziyaret edilebilir ve her mevsim farklı güzellikler sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Ankara Frig Tümülüsü 5, Emniyet'i ziyaret etmek, ziyaretçiler için önemli
 
 - Ankara Frig Tümülüsü 5, Emniyet, Ankara'nın en önemli tarihi bölgelerinden biridir.
 - Bu tümülüs, Frig uygarlığının önemli bir yerleşim yeri olarak bilinir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Ankara'nın şehir merkezine yakındır ve ulaşımı kolaydır.
 - Bu bölge, yılın dört mevsimi de ziyaret edilebilir.

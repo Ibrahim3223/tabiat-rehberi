@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Lookig_from_%C3%87avu%C5%9F_Tepe_-_panoramio.jpg","alt":"Çavuş Tepe manzarası","credit":"fatma alan","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg/1280px-%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg","alt":"Çavuş Tepe - Çavuş Köyü-Doğan Tepe- Ahmet YAZAR - panoramio","credit":"İlyas YAZAR","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824417","tip":"genel"}]
-description: "Kırklareli'nin doğal güzelliklerinden biri olan Çavuş Tepe, 140 hektarlık alanıyla dikkat çekiyor."
+"
 keywords: ["Kırklareli","Marmara Bölgesi","doğal güzellik","tepe","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34824417"
@@ -29,7 +29,7 @@ wikidata_id: "Q34824417"
 
 # Çavuş Tepe
 
-Kırklareli'nin doğal güzelliklerinden biri olan Çavuş Tepe, 140 hektarlık alanıyla dikkat çekiyor. Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor. Bölge, tarihi geçmişi ve doğal güzelliği ile birlikte ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
+ Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor. Bölge, tarihi geçmişi ve doğal güzelliği ile birlikte ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kırklareli'nin doğal güzelliklerinden biri olan Çavuş Tepe, 140 hektarlık 
 
 ## Coğrafya
 
-Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor. Bu tepe, 140 hektarlık alanıyla dikkat çekiyor ve çevresi zengin flora ve fauna ile kaplı. Çavuş Tepe'nin coğrafyası, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlar, ovalar ve akarsularla çevrili ve bu coğrafik çeşitlilik, Çavuş Tepe'nin doğal güzelliğini artırıyor. Çavuş Tepe'nin iklimi, Marmara Bölgesi'nin iklimine benzer ve bu iklim, flora ve fauna için elverişli koşullar sağlıyor. Bu tepe, Marmara Bölgesi'nin coğrafyasını ve doğal güzelliğini yansıtan önemli bir oluşum olarak kabul ediliyor.
+Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor. Çavuş Tepe'nin coğrafyası, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlar, ovalar ve akarsularla çevrili ve bu coğrafik çeşitlilik, Çavuş Tepe'nin doğal güzelliğini artırıyor. Çavuş Tepe'nin iklimi, Marmara Bölgesi'nin iklimine benzer ve bu iklim, flora ve fauna için elverişli koşullar sağlıyor. Bu tepe, Marmara Bölgesi'nin coğrafyasını ve doğal güzelliğini yansıtan önemli bir oluşum olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kırklareli'nin doğal güzelliklerinden biri olan Çavuş Tepe, 140 hektarlık 
 ## İlginç Bilgiler
 
 - Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor.
-- Bu tepe, 140 hektarlık alanıyla dikkat çekiyor.
+
 - Çavuş Tepe'nin coğrafyası, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Bu tepe, zengin flora ve fauna ile kaplı.
 - Çavuş Tepe, doğa severlerin ve tarih meraklılarının ilgisini çeken bir bölge olarak biliniyor.

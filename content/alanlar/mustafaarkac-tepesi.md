@@ -49,7 +49,7 @@ Mustafaarkaç Tepesi, ziyaretçilerine doğal güzellikleri keşfetme fırsatı 
 ## İlginç Bilgiler
 
 - Mustafaarkaç Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Mustafaarkaç Tepesi, çeşitli bitki türlerine ev sahipliği yapar.
 - Bu tepe, Ankara'nın coğrafi ve kültürel zenginliklerini sergileyen önemli bir noktadır.
 - Mustafaarkaç Tepesi, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar.

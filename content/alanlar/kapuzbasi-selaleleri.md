@@ -50,7 +50,6 @@ Kapuzbaşı Şelaleleri, ziyaretçilerine, çeşitli aktivite seçenekleri sunuy
 
 ## İlginç Bilgiler
 
-- Kapuzbaşı Şelaleleri, 140 hektarlık bir alanı kapsıyor.
 - Şelalelerin yüksekliği, 30 metre civarında.
 - Bölge, çeşitli bitki türleri ile kaplı.
 - Kapuzbaşı Şelaleleri, aynı zamanda, çeşitli hayvan türleri ile dolu.

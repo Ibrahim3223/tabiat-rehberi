@@ -29,7 +29,7 @@ wikidata_id: "Q131391230"
 
 # Şeyh Muhammed Arabkendi Türbesi
 
-Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın Bismil ilçesinde yer alan bir türbe ve plajdır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Şeyh Muhammed Arabkendi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu bölge, doğa severlerin ilgisini çekmektedir. Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçasıdır.
+Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın Bismil ilçesinde yer alan bir türbe ve plajdır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Şeyh Muhammed Arabkendi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir. Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391230"
 
 ## Coğrafya
 
-Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın Bismil ilçesinde yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Şeyh Muhammed Arabkendi Türbesi, yaklaşık 140 hektarlık bir alanı kaplar ve doğal güzelliği ile dikkat çekmektedir. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunar. Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıktadır. Türbenin çevresindeki bölge, dağlar ve ovalar ile çevrilidir. Şeyh Muhammed Arabkendi Türbesi, coğrafi konumu itibari ile ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölge, doğa yürüyüşleri, pikni ve diğer outdoor aktiviteler için idealdir.
+Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın Bismil ilçesinde yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunar. Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıktadır. Türbenin çevresindeki bölge, dağlar ve ovalar ile çevrilidir. Şeyh Muhammed Arabkendi Türbesi, coğrafi konumu itibari ile ziyaretçilere çeşitli aktivite olanakları sunar. Bu bölge, doğa yürüyüşleri, pikni ve diğer outdoor aktiviteler için idealdir.
 
 ## Flora ve Fauna
 

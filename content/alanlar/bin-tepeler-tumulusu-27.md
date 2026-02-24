@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 27'yi ziyaret etmek, ziyaretçiler için gerçek bir ma
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 27, Ege Bölgesi'nin önemli tarihi mekanlarından biri.
-- Bu özel mekan, 140 hektarlık bir alana yayılmış.
+
 - Bin Tepeler Tümülüsü 27, tarihi yapıları ve doğal güzellikleri ile ziyaretçilere unutulmaz anlar vaat ediyor.
 - Buraya ulaşım, özel araç veya toplu taşıma araçları ile sağlanabilir.
 - Ziyaretçilerin, tarihi yapıları ve doğal güzellikleri korumak için gerekli önlemleri almaları önemli.

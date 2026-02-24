@@ -51,6 +51,6 @@ Hızır Paşa Hamamı, yıl boyunca ziyaret edilebilir. Ancak, en uygun ziyaret 
 
 - Hızır Paşa Hamamı, Amasya'nın en önemli turistik noktalarından biridir.
 - Hamamın tarihi geçmişi, Amasya'nın kültür mirasını yansıtan önemli bir yapıdır.
-- Alan, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Hızır Paşa Hamamı, Karadeniz Bölgesi'nin karakteristik iklimini taşımaktadır.
 - Alanın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.

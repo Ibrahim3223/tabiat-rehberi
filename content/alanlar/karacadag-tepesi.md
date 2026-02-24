@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşleri","Piknik","Panoramik Manzara Seyri","Gelene
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Karacadağ Tepesi","caption":"Karacadağ Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacada%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388118","tip":"genel"}]
-description: "Denizli'nin doğal güzelliklerinden biri olan Karacadağ Tepesi, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Karacadağ Tepesi","Denizli","Ege Bölgesi","doğa","tepe","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388118"
@@ -48,7 +48,6 @@ Karacadağ Tepesi'ni ziyaret etmek, doğa ile baş başa kalma ve bölgenin tari
 
 ## İlginç Bilgiler
 
-- Karacadağ Tepesi, yaklaşık 140 hektarlık bir yeşil alanı kapsar.
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunur.
 - Karacadağ Tepesi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Tepenin etrafı, çeşitli bitki türleri ile kaplıdır.

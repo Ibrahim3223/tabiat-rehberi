@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG","alt":"Kirklareli-Degirmendere Kayin","caption":"Kirklareli-Degirmendere Kayin","credit":"İğneadaFloodplainForestsNP (2).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirklareli-Degirmendere%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227257","tip":"genel"}]
-description: "Marmara Bölgesi'nde yer alan Kirklareli-Degirmendere Kayin, 140 hektarlık geniş bir alanı kapsar. Bu bölge, doğa severlerin ilgi odağıdır."
+ Bu bölge, doğa severlerin ilgi odağıdır."
 keywords: ["Kirklareli","Degirmendere Kayin","Marmara Bölgesi","doğa","milli park","gezi","yaban hayatı","ekosistem","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227257"
@@ -41,8 +41,6 @@ Kirklareli-Degirmendere Kayin milli parkı, zengin bir flora ve fauna çeşitlil
 Kirklareli-Degirmendere Kayin milli parkını ziyaret etmek, doğa severler için ideal bir deneymdir. Bu milli park, yılın her dönemi ziyaret edilebilir. İlkbahar ve yaz aylarında yeşilin çeşitli tonlarını, sonbahar ve kış aylarında ise renkli bir manzarayı sunar. Degirmendere Kayin, ziyaretçilerine doğayla iç içe bir deneyim sunar. Milli parka ulaşım, özel araç veya toplu taşıma araçları ile mümkündür. Ziyaretçilerin, milli parkın doğal güzelliklerini korumak amacıyla, çevreye duyarlı davranmaları önemlidir.
 
 ## İlginç Bilgiler
-
-- Kirklareli-Degirmendere Kayin milli parkı, 140 hektarlık geniş bir alanı kapsar.
 
 - Degirmendere Kayin, yaban hayatı koruma ve doğayı korumak amacıyla kurulmuştur.
 - Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunar.

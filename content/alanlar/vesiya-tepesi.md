@@ -28,7 +28,7 @@ wikidata_id: "Q31554356"
 
 # Vesiya Tepesi
 
-Vesiya Tepesi, Mardin'in güneydoğu köşesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan bir doğa harikası. Bu 200 futbol sahası büyüklüğünde olan alan, yaklaşık 140 hektarlık bir yeşil cennet. Vesiya Tepesi, tarihi geçmişi ve zengin ekosistemiyle dikkat çekiyor. Burada, yüzyıllar boyunca şekillenen bir coğrafya ve doğa foundasyonu bulunuyor. Mardin'in kültürel zenginliği ve tarihi dokusu, Vesiya Tepesi'nde de hissediliyor.
+Vesiya Tepesi, Mardin'in güneydoğu köşesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan bir doğa harikası. Vesiya Tepesi, tarihi geçmişi ve zengin ekosistemiyle dikkat çekiyor. Burada, yüzyıllar boyunca şekillenen bir coğrafya ve doğa foundasyonu bulunuyor. Mardin'in kültürel zenginliği ve tarihi dokusu, Vesiya Tepesi'nde de hissediliyor.
 
 ## Tarihçe
 

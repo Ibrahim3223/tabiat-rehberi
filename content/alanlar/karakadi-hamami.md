@@ -21,8 +21,8 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Karakadı Hamamı","caption":"Karakadı Hamamı","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakad%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739029","tip":"genel"}]
-description: "İzmir'in Tire ilçesinde bulunan Karakadı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
-keywords: ["Karakadı Hamamı","Tire","İzmir","Ege Bölgesi","doğa","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739029"
 ---

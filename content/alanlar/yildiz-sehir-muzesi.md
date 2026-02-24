@@ -29,7 +29,7 @@ wikidata_id: "Q111633241"
 
 # Yıldız Şehir Müzesi
 
-Yıldız Şehir Müzesi, Beşiktaş ilçesinde yer alan bir kültür ve sanat merkezidir. Bu müze, yaklaşık 140 hektarlık bir alanı kaplayan Yıldız Parkı içerisinde bulunmaktadır. Yıldız Şehir Müzesi, İstanbul'un tarihi ve kültürel zenginliklerini sergileyen bir mekândır. Burada, İstanbul'un geçmişini ve günümüzdeki durumunu keşfetme mümkündür. Müzenin içerisinde, çeşitli sergi ve etkinlikler düzenlenmektedir. Bunlar, ziyaretçilerin İstanbul'un tarihini ve kültürünü daha iyi anlamalarına yardımcı olur.
+Yıldız Şehir Müzesi, Beşiktaş ilçesinde yer alan bir kültür ve sanat merkezidir. Yıldız Şehir Müzesi, İstanbul'un tarihi ve kültürel zenginliklerini sergileyen bir mekândır. Burada, İstanbul'un geçmişini ve günümüzdeki durumunu keşfetme mümkündür. Müzenin içerisinde, çeşitli sergi ve etkinlikler düzenlenmektedir. Bunlar, ziyaretçilerin İstanbul'un tarihini ve kültürünü daha iyi anlamalarına yardımcı olur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Şehir Müzesi, İstanbul'un tarihi geçmişi hakkında ziyaretçilere 
 
 ## Coğrafya
 
-Yıldız Şehir Müzesi, Beşiktaş ilçesinde yer alan Yıldız Parkı içerisinde bulunmaktadır. Yıldız Parkı, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alandır. Bu park, İstanbul'un en büyük parklarından biridir. Burada, çeşitli bitkiler ve ağaçlar bulunmaktadır. Parkın iklimi, İstanbul'un genel iklimine benzemektedir. Yıldız Şehir Müzesi, Yıldız Parkı içerisinde yer aldığı için, ziyaretçilere güzel bir doğa ortamı sunmaktadır. Müzenin çevresinde, çeşitli restoranlar ve kafeler bulunmaktadır. Bunlar, ziyaretçilerin yeme ve içmek için tercih edebileceği yerlerdir. Yıldız Şehir Müzesi, Beşiktaş ilçesine bağlıdır ve İstanbul'un merkezi bir bölgesinde bulunmaktadır.
+Yıldız Şehir Müzesi, Beşiktaş ilçesinde yer alan Yıldız Parkı içerisinde bulunmaktadır. Bu park, İstanbul'un en büyük parklarından biridir. Burada, çeşitli bitkiler ve ağaçlar bulunmaktadır. Parkın iklimi, İstanbul'un genel iklimine benzemektedir. Yıldız Şehir Müzesi, Yıldız Parkı içerisinde yer aldığı için, ziyaretçilere güzel bir doğa ortamı sunmaktadır. Müzenin çevresinde, çeşitli restoranlar ve kafeler bulunmaktadır. Bunlar, ziyaretçilerin yeme ve içmek için tercih edebileceği yerlerdir. Yıldız Şehir Müzesi, Beşiktaş ilçesine bağlıdır ve İstanbul'un merkezi bir bölgesinde bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Yıldız Şehir Müzesi, Beşiktaş ilçesinde yer almaktadır. Buraya, toplu ta
 
 - Yıldız Şehir Müzesi, Yıldız Parkı içerisinde yer almaktadır.
 - Müzenin koleksiyonunda, çeşitli eserler ve belgeler bulunmaktadır.
-- Yıldız Parkı, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alandır.
+
 - Parkın iklimi, İstanbul'un genel iklimine benzemektedir.
 - Yıldız Şehir Müzesi, haftanın her günü açık olup, ziyaret saatleri sabah 9:00'dan akşam 6:00'a kadardır.

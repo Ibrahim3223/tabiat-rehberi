@@ -50,7 +50,7 @@ Siyavuş Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikler
 ## İlginç Bilgiler
 
 - Siyavuş Sultan Türbesi, Karatay, Konya'nın önemli tarihi simgelerinden biri
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerine kurulmuş
+
 - Bölge, yüzyıllar boyunca önemli bir kültür ve ticaret merkezi olarak biliniyor
 - Siyavuş Sultan Türbesi'nin mimarisi, Osmanlı dönemine ait özellikler taşıyor
 - Türbe ve çevresinde, çeşitli bitki türleri ve zengin fauna özellikleri bulunmakta

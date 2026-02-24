@@ -29,7 +29,7 @@ wikidata_id: "Q131391064"
 
 # Hafız Ahmet Paşa Türbesi
 
-Hafız Ahmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak dikkat çeker. Fatih ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanı kaplar. Türbenin tarihi geçmişi, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar. Ziyaretçiler, bu tarihi mekanın güzelliğini ve önemini keşfetmek için buraya gelirler.
+Hafız Ahmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak dikkat çeker. Türbenin tarihi geçmişi, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar. Ziyaretçiler, bu tarihi mekanın güzelliğini ve önemini keşfetmek için buraya gelirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hafız Ahmet Paşa Türbesi, Osmanlı döneminde inşa edilmiştir. Tarihi geçm
 
 ## Coğrafya
 
-Hafız Ahmet Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alır. Türbe, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Bölge, genellikle ılıman bir iklim karakteri gösterir. Kışlar ılık, yazlar ise sıcakk geçer. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, ziyaretçilere geniş bir açık alan sunar. Türbe, çevresi ile birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere önemli bir görsel şölen sunar. Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır. İnşa edildiği dönemde, kullanılan malzemeler ve teknikler, türbenin güzelliğini ve dayanıklılığını sağlar. Türbe, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar.
+Hafız Ahmet Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alır. Türbe, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Bölge, genellikle ılıman bir iklim karakteri gösterir. Kışlar ılık, yazlar ise sıcakk geçer. Bu alan, ziyaretçilere geniş bir açık alan sunar. Türbe, çevresi ile birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere önemli bir görsel şölen sunar. Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır. İnşa edildiği dönemde, kullanılan malzemeler ve teknikler, türbenin güzelliğini ve dayanıklılığını sağlar. Türbe, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hafız Ahmet Paşa Türbesi, ziyaretçilere önemli bir kültür ve tarih deneyi
 ## İlginç Bilgiler
 
 - Hafız Ahmet Paşa Türbesi, İstanbul'un en önemli tarihi mekanlarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Türbenin tarihi geçmişi, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar.
 - Türbe, Hafız Ahmet Paşa'nın mezarının bulunduğu yer olarak bilinir.
 - Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır.

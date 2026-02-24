@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/03/The_Dolmen_Map_of_the_World.jpg","alt":"Bağ Tepe manzarası","credit":"ERobertLee","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389963","tip":"genel"}]
-description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Bağ Tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir."
+"
 keywords: ["Bağ Tepe","Eskişehir","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389963"

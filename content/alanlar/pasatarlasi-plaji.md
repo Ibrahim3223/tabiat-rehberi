@@ -48,7 +48,6 @@ Paşatarlası Plajı, ziyaretçilere unutulmaz bir deneyim sunuyor. Plaja ulaş�
 
 ## İlginç Bilgiler
 
-- Paşatarlası Plajı, 140 hektarlık bir alanı kapsıyor.
 - Plajın geniş kumsalı, ziyaretçilerin rahatça güneşlenmesine ve deniz keyfi yapmasına olanak tanıyor.
 - Paşatarlası Plajı, Ege Bölgesi'nin iklimi nedeniyle, genellikle ılıman ve güneşlidir.
 - Plajın çevresi, çeşitli bitki türleri ile kaplıdır.

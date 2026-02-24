@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Piknik","Doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Adana-Kadirli Kızılçam 7","caption":"Adana-Kadirli Kızılçam 7","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%207","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227834","tip":"genel"}]
-description: "140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde, Akdeniz Bölgesi'nin önemli doğal alanlarından biri."
+"
 keywords: ["Adana","Kadirli","Kızılçam","Milli Park","Doğal Alan","Akdeniz Bölgesi","Yeşil Alan","Fiziksel Veriler","Tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227834"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227834"
 
 # Adana-Kadirli Kızılçam 7
 
- Bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Fiziksel verileri ile dikkat çeken bu park, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Burada doğanın güzelliği, ziyaretçilerin keyifli zaman geçirmesine olanak sağlıyor.
+ Bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada doğanın güzelliği, ziyaretçilerin keyifli zaman geçirmesine olanak sağlıyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Adana-Kadirli Kızılçam 7 milli parkını ziyaret etmek, keyifli bir deneyim o
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - Akdeniz Bölgesi'nde yer alıyor
 - Zengin flora ve fauna çeşitliliği
 - Mevsimsel değişimler

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora gözlemi","Fauna gözlemi","Fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Kastamonu-Golkoy Piramidal Karacam","caption":"Kastamonu-Golkoy Piramidal Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Golkoy%20Piramidal%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227682","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin. 140 hektarlık bu milli park, yaban hayatının zenginliğini sunar."
+description: "Kastamonu'nun doğal güzelliklerini keşfedin."
 keywords: ["Kastamonu","Golkoy","Piramidal Karacam","milli park","yaban hayatı","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227682"
@@ -42,7 +42,6 @@ Kastamonu-Golkoy Piramidal Karacam'ı ziyaret etmek, doğa severler için unutul
 
 ## İlginç Bilgiler
 
-- Kastamonu-Golkoy Piramidal Karacam, 140 hektarlık bir alanı kaplar.
 - Bu milli park, yaban hayatının korunması açısından önemlidir.
 - Milli parkın coğrafi yapısı, çeşitli manzaralar sunar.
 - Kastamonu-Golkoy Piramidal Karacam, flora ve fauna açısından zengin bir bölge olarak kabul edilir.

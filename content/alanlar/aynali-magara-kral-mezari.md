@@ -29,7 +29,7 @@ wikidata_id: "Q134728154"
 
 # Aynalı Mağara Kral Mezarı
 
-Aynalı Mağara Kral Mezarı, Amasya'nın gizli bir köşesinde, tarihin izlerini taşıyan bir alan olarak karşımıza çıkıyor. Bu mağara, yaklaşık 140 hektarlık bir alanda yer alan ve tarihi geçmişiyle dikkat çeken bir bölgedir. 200 futbol sahası büyüklüğünde bir alan kaplayan bu mağara, ziyaretçilerini tarihin derinliklerine götüren bir yolculuğa çıkarıyor. Aynalı Mağara Kral Mezarı, ziyaretçilerini bekleyen bir gizem ve tarih hazinesi olarak bilinir.
+Aynalı Mağara Kral Mezarı, Amasya'nın gizli bir köşesinde, tarihin izlerini taşıyan bir alan olarak karşımıza çıkıyor. Aynalı Mağara Kral Mezarı, ziyaretçilerini bekleyen bir gizem ve tarih hazinesi olarak bilinir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aynalı Mağara Kral Mezarı, yüzyıllar boyunca gizli kalmış bir tarihe sahi
 
 ## Coğrafya
 
-Aynalı Mağara Kral Mezarı, Amasya'nın coğrafi güzelliklerini taşıyan bir bölgede yer alıyor. Bu mağara, Karadeniz Bölgesi'nin yeşil ormanları ve dağlarıyla çevrili bir alanda bulunuyor. Mağaranın girişi, ziyaretçilerini bir doğa harikasına çıkarıyor. Aynalı Mağara Kral Mezarı, yaklaşık 140 hektarlık bir alanda yer alan ve tarihin izlerini taşıyan bir bölgedir. Bu alan, ziyaretçilerini tarihin derinliklerine götüren bir yolculuğa çıkarırken, aynı zamanda doğanın güzelliklerini de sunuyor. Mağaranın çevresi, yeşil ormanlarla kaplı ve ziyaretçilerini doğanın sesleriyle karşılayan bir bölgedir.
+Aynalı Mağara Kral Mezarı, Amasya'nın coğrafi güzelliklerini taşıyan bir bölgede yer alıyor. Bu mağara, Karadeniz Bölgesi'nin yeşil ormanları ve dağlarıyla çevrili bir alanda bulunuyor. Mağaranın girişi, ziyaretçilerini bir doğa harikasına çıkarıyor. Bu alan, ziyaretçilerini tarihin derinliklerine götüren bir yolculuğa çıkarırken, aynı zamanda doğanın güzelliklerini de sunuyor. Mağaranın çevresi, yeşil ormanlarla kaplı ve ziyaretçilerini doğanın sesleriyle karşılayan bir bölgedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Aynalı Mağara Kral Mezarı, ziyaretçilerini tarihin izlerini takip etmeye dav
 ## İlginç Bilgiler
 
 - Aynalı Mağara Kral Mezarı, tarihin derinliklerinde gizli bir hazine olarak bilinir
-- Bu mağara, yaklaşık 140 hektarlık bir alanda yer alıyor
+
 - Mağaranın tarihi geçmişi, eski uygarlıkların izlerini taşıyor
 - Aynalı Mağara Kral Mezarı, ziyaretçilerini tarihin izlerini takip etmeye davet ediyor
 - Bu mağara, Karadeniz Bölgesi'nin yeşil ormanları ve dağlarıyla çevrili bir alanda bulunuyor

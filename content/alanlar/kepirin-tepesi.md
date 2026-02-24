@@ -36,7 +36,7 @@ Kepirin Tepesi, yüzyıllar boyunca bölgenin önemli doğal oluşumlarından bi
 
 ## Coğrafya
 
-Kepirin Tepesi, Hatay ilinin coğrafi yapısında önemli bir yer tutuyor. Tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çevresinde yer alan diğer tepe ve dağlarla birlikte, bölgenin doğal güzelliğini oluşturan unsurlardan biri. İklim koşulları, Akdeniz ikliminin özelliklerini taşırken, mevsimsel değişimler bölgenin flora ve faunasını etkiliyor. Kepirin Tepesi, çevresindeki diğer doğal alanlarla birlikte, bölgenin ekolojik dengesini koruyor. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla dolu, zengin bir ekosistem sunuyor.
+Kepirin Tepesi, Hatay ilinin coğrafi yapısında önemli bir yer tutuyor. Tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çevresinde yer alan diğer tepe ve dağlarla birlikte, bölgenin doğal güzelliğini oluşturan unsurlardan biri. İklim koşulları, Akdeniz ikliminin özelliklerini taşırken, mevsimsel değişimler bölgenin flora ve faunasını etkiliyor. Kepirin Tepesi, çevresindeki diğer doğal alanlarla birlikte, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kepirin Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar 
 ## İlginç Bilgiler
 
 - Kepirin Tepesi, Hatay ilinin en yüksek noktalarından biri
-- 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu
+
 - Tarihçesi, bölgenin kültürel mirasının önemli bir parçasını oluşturuyor
 - Akdeniz Bölgesi'nin panoramik manzarasına şahitlik etme fırsatı sunuyor
 - Yılın her mevsiminde ziyaret edilebilir

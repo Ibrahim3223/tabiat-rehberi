@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki türleri keşfetme",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Darlık Tepe","caption":"Darlık Tepe","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Darl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387355","tip":"genel"}]
-description: "Samsun'un güzel manzaralı tepesi, Karadeniz Bölgesi'nde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Samsun'un güzel manzaralı tepesi, Karadeniz Bölgesi'nde bulunmaktadır."
 keywords: ["Darlık Tepe","Samsun","Karadeniz Bölgesi","tepe","doğa","gezi","turizm","manzara","alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387355"
@@ -49,7 +49,7 @@ Darlık Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepedir. Ziyaretçil
 ## İlginç Bilgiler
 
 - Darlık Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepedir.
-- Bu tepe, yaklaşık 140 hektarlık bir alana sahiptir.
+
 - Darlık Tepe'nin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar.
 - Bu tepe, doğa severler ve manzara izlemeyi sevenler için ideal bir yerdir.
 - Darlık Tepe, Samsun'un önemli doğal güzelliklerinden biridir.

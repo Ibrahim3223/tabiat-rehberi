@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","trekking"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Mazılığın Tepe","caption":"Mazılığın Tepe","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maz%C4%B1l%C4%B1%C4%9F%C4%B1n%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387004","tip":"genel"}]
-description: "Çorum'un Karadeniz Bölgesi'nde yer alan Mazılığın Tepe, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Mazılığın Tepe","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387004"

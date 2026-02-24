@@ -29,7 +29,7 @@ wikidata_id: "Q134728139"
 
 # Hazer Dinari Hz. Anıt Mezarı
 
-Kütahya ilinin merkezinde yer alan Hazer Dinari Hz. Anıt Mezarı, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu anıt mezar, yaklaşık 140 hektarlık bir alanda, Kütahya'nın merkezi bölgesinde konuşlanmış durumda. 200 futbol sahası büyüklüğünde bir alan kaplayan bu mezar, şehrin önemli tarihi ve dini noktalarından biri olarak kabul ediliyor. Hazer Dinari Hz. Anıt Mezarı, Kütahya'nın zengin tarihsel geçmişi hakkında bilgi edinme ve şehrin kültürel mirasını keşfetmek isteyen ziyaretçilerin ilgisini çekiyor.
+Kütahya ilinin merkezinde yer alan Hazer Dinari Hz. Anıt Mezarı, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Hazer Dinari Hz. Anıt Mezarı, Kütahya'nın zengin tarihsel geçmişi hakkında bilgi edinme ve şehrin kültürel mirasını keşfetmek isteyen ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Hazer Dinari Hz. Anıt Mezarı, Kütahya'nın merkezi bölgesinde yer alıyor ve
 ## İlginç Bilgiler
 
 - Hazer Dinari Hz. Anıt Mezarı, Kütahya'nın en önemli tarihi noktalarından biri.
-- Mezarın bulunduğu alan, 140 hektarlık bir araziyi kaplıyor.
+
 - Hazer Dinari Hz. Anıt Mezarı, yüzyıllar boyunca Kütahya'nın dini ve kültürel yaşamında önemli bir rol oynamış.
 - Mezarın çevresi, şehrin diğer tarihi ve kültürel noktalarına yakın bir mesafede bulunuyor.
 - Kütahya'nın coğrafi yapısı, genel olarak dağlık ve engebeli.

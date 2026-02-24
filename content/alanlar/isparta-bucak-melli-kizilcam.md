@@ -22,7 +22,7 @@ wikidata_id: "Q108227418"
 
 # Isparta-Bucak-Melli Kızılçam
 
-Isparta-Bucak-Melli Kızılçam milli parkı, Isparta ilinin Bucak ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Isparta-Bucak-Melli Kızılçam milli parkı, doğa severlerin ve çevre dostlarının mutlaka ziyaret etmesi gereken bir yer olarak dikkat çekmektedir.
+ Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Isparta-Bucak-Melli Kızılçam milli parkı, doğa severlerin ve çevre dostlarının mutlaka ziyaret etmesi gereken bir yer olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Isparta-Bucak-Melli Kızılçam milli parkını ziyaret etmek, doğa severler ve
 
 ## İlginç Bilgiler
 
-- Isparta-Bucak-Melli Kızılçam milli parkı, 140 hektarlık bir alanı kapsar
 - Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found
 - Isparta-Bucak-Melli Kızılçam milli parkı, yüzyıllar boyunca süregelen tarihi geçmişi sahiptir
 - Milli parkın iklimi, Akdeniz iklimi özellikleri gösterir

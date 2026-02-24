@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 58'i ziyaret etmek için, Salihli/Manisa'ya ulaşmak ge
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 58, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu bölge, 140 hektarlık bir alanı kapsar.
+
 - Tarihi tümülüsler, bu bölgenin kültürel mirasını yansıtan önemli kanıtlardır.
 - Ziyaretçiler, bu bölgede hem tarihi tümülüsleri keşfedebilir hem de doğal güzelliği soluyabilir.
 - Bin Tepeler Tümülüsü 58, hem tarih meraklıları hem de doğa severler için ideal bir gezi noktasıdır.

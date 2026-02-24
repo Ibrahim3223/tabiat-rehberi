@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_01.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_01.JPG","alt":"Gürgendibi Şelalesi","caption":"Gürgendibi Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrgendibi%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320217","tip":"genel"}]
-description: "Rize'de bulunan doğal güzellik, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Rize","Karadeniz Bölgesi","şelale","doğa","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q97320217"
@@ -49,7 +49,7 @@ Gürgendibi Şelalesi'ni ziyaret etmek, doğa severler ve fotoğrafçılar için
 ## İlginç Bilgiler
 
 - Gürgendibi Şelalesi, Rize ilinin en önemli doğal güzelliklerinden biridir
-- Şelale, 140 hektarlık bir yeşil alan içinde yer alır
+
 - Gürgendibi Şelalesi, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor
 - Şelale, yüksek bir konumda yer alır
 - Gürgendibi Şelalesi'ne ulaşım, Rize il merkezinden uzun bir mesafe uzaklıkta yer alıyor

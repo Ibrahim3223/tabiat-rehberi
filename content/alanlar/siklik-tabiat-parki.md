@@ -49,7 +49,7 @@ Sıklık Tabiat Parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. 
 ## İlginç Bilgiler
 
 - Sıklık Tabiat Parkı, Karadeniz Bölgesi'nin en önemli ekosistemlerinden biri
-- Park, 140 hektarlık bir alanı kapsıyor
+
 - Sıklık Tabiat Parkı, yılın her dönemi ziyaret edilebilir
 - Parkın florası, mevsimsel değişimlere göre şekilleniyor
 - Sıklık Tabiat Parkı, doğa severler ve çevre bilimciler için önemli bir araştırma ve gözlem alanı olarak öne çıkıyor

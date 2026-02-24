@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Gezbil Tepesi","caption":"Gezbil Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gezbil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388756","tip":"genel"}]
-description: "Muğla'nın Ege Bölgesi'nde yer alan Gezbil Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Muğla","Ege Bölgesi","Gezbil Tepesi","yeşil alan","fiziksel veriler","coğrafya","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388756"
@@ -48,7 +48,6 @@ Gezbil Tepesi'ni ziyaret etmek isteyenler, Muğla'nın Ege Bölgesi'ne gitmelidi
 
 ## İlginç Bilgiler
 
-- Gezbil Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepenin etrafındaki bölge, zengin flora ve faunayı barındıran bir ekosistem olarak dikkat çekmektedir
 - Gezbil Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir coğrafi oluşumdur
 - Bu tepenin coğrafi konumu, Ege Bölgesi'nin genel coğrafi yapısını yansıtmaktadır

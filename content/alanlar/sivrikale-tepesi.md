@@ -28,7 +28,7 @@ wikidata_id: "Q31390378"
 
 # Sivrikale Tepesi
 
-Sivrikale Tepesi, Afyonkarahisar ilinin merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepenin yüksekliği ve genişliği, onu bölgenin önemli coğrafi oluşumlarından biri haline getiriyor. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal alanın değerini daha da artırıyor. Sivrikale Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunuyor ve bölgenin flora ve faunasını keşfetme imkanı sunuyor.
+ Bu tepenin yüksekliği ve genişliği, onu bölgenin önemli coğrafi oluşumlarından biri haline getiriyor. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal alanın değerini daha da artırıyor. Sivrikale Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunuyor ve bölgenin flora ve faunasını keşfetme imkanı sunuyor.
 
 ## Tarihçe
 

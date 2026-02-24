@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Çıldır Gölü Sulak Alanı","caption":"Çıldır Gölü Sulak Alanı","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ld%C4%B1r%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228814","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık sulak alan. Doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
+ Doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["sulak alan","doğa","fauna","iç anadolu","çevre","ekoloji","koruma","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228814"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228814"
 
 # Çıldır Gölü Sulak Alanı
 
-İç Anadolu Bölgesi'nde yer alan Çıldır Gölü Sulak Alanı, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Bu alan, 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Sulak alanın etrafı, çeşitli bitki türleri ile çevrili ve bu bitkiler, canlıların yaşamını destekliyor. Çıldır Gölü Sulak Alanı, zengin fauna ile birlikte, çevreye duyarlı birçok kişinin ziyaret ettiği bir yer. Bu sulak alan, aynı zamanda birçok canlı türünün yaşam alanı olarak biliniyor.
+ Sulak alanın etrafı, çeşitli bitki türleri ile çevrili ve bu bitkiler, canlıların yaşamını destekliyor. Çıldır Gölü Sulak Alanı, zengin fauna ile birlikte, çevreye duyarlı birçok kişinin ziyaret ettiği bir yer. Bu sulak alan, aynı zamanda birçok canlı türünün yaşam alanı olarak biliniyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228814"
 
 ## Coğrafya
 
-Çıldır Gölü Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu sulak alan, 140 hektarlık bir alanı kapsıyor ve çevresinde, çeşitli bitki türleri yer alıyor. Çıldır Gölü, sulak alanın merkezinde yer alıyor ve birçok canlı türünün yaşam alanı olarak biliniyor. Sulak alanın iklimi, karasal iklim özellikleri taşıyor ve bu nedenle, mevsimsel değişimler oldukça belirgin. Sulak alanın coğrafi yapısı, birçok farklı habitatı barındırıyor ve bu habitatlar, çeşitli canlı türlerinin yaşamını destekliyor. Çıldır Gölü Sulak Alanı, aynı zamanda, birçok jeolojik oluşuma da ev sahipliği yapıyor.
+Çıldır Gölü Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Çıldır Gölü, sulak alanın merkezinde yer alıyor ve birçok canlı türünün yaşam alanı olarak biliniyor. Sulak alanın iklimi, karasal iklim özellikleri taşıyor ve bu nedenle, mevsimsel değişimler oldukça belirgin. Sulak alanın coğrafi yapısı, birçok farklı habitatı barındırıyor ve bu habitatlar, çeşitli canlı türlerinin yaşamını destekliyor. Çıldır Gölü Sulak Alanı, aynı zamanda, birçok jeolojik oluşuma da ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108228814"
 
 ## İlginç Bilgiler
 
-- Çıldır Gölü Sulak Alanı, 140 hektarlık bir alanı kapsıyor.
 - Bu sulak alan, birçok farklı habitatı barındırıyor.
 - Çıldır Gölü, birçok balık türünün yaşam alanı olarak biliniyor.
 - Sulak alanın faunası, birçok farklı türden oluşuyor.

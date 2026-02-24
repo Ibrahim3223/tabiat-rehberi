@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Balikesir-Ivrindi Kızılçam","caption":"Balikesir-Ivrindi Kızılçam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Ivrindi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227853","tip":"genel"}]
-description: "Balikesir-Ivrindi Kızılçam, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Zengin flora ve fauna çeşitliliğiyle dikkat çeker."
+ Zengin flora ve fauna çeşitliliğiyle dikkat çeker."
 keywords: ["Balikesir-Ivrindi Kızılçam","milli park","İç Anadolu Bölgesi","flora","fauna","doğa","çevre","korunma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227853"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227853"
 
 # Balikesir-Ivrindi Kızılçam
 
-Balikesir-Ivrindi Kızılçam, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çeker ve doğa severlerin ilgisini çeker. 140 hektarlık bu yeşil alan, İç Anadolu Bölgesi'nin doğal güzelliğini yansıtan önemli bir merkezdir. Zengin bitki örtüsü ve çeşitli hayvan türleriyle, milli park ziyaretçilerine doğayla iç içe bir deneyim sunar.
+ Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çeker ve doğa severlerin ilgisini çeker. Zengin bitki örtüsü ve çeşitli hayvan türleriyle, milli park ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Balikesir-Ivrindi Kızılçam milli parkını ziyaret etmek, doğa severler içi
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kaplar.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşar.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzerlik gösterir.
 - Milli park, bahar ve yaz aylarında en çok ziyaret edilir.

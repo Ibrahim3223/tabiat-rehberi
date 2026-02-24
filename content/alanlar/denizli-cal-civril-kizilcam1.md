@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çevre keşfi","flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Denizli-Cal-Civril-Kizilcam1","caption":"Denizli-Cal-Civril-Kizilcam1","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Civril-Kizilcam1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228525","tip":"genel"}]
-description: "Denizli'nin doğal güzelliklerini keşfedin. 140 hektarlık milli park, çeşitli bitki türleri ve zengin fauna ile çevreyi keşfedin."
+description: "Denizli'nin doğal güzelliklerini keşfedin."
 keywords: ["Denizli","milli park","doğa","çevre","flora","fauna","gezi","turizm","Denizli-Cal-Civril-Kizilcam1"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228525"
@@ -30,7 +30,7 @@ Denizli-Cal-Civril-Kizilcam1 milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Denizli-Cal-Civril-Kizilcam1 milli parkı, Ege Bölgesi'nin coğrafi yapısını yansıtıyor. 140 hektarlık alan, çeşitli bitki türleri ile dolu ve zengin fauna ile çevreyi keşfetmek için mükemmel bir fırsat sunuyor. Bu milli park, deniz seviyesinden yüksek bir konumda bulunuyor ve manzarası ile ziyaretçilerini büyülüyor. Coğrafi konumu, ziyaretçilerin doğanın güzelliği ile baş başa kalmasına olanak tanıyor ve çeşitli bitki türleri ile dolu. Denizli-Cal-Civril-Kizilcam1, coğrafi güzelliği ile ziyaretçilerini çekmeye devam ediyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı.
+Denizli-Cal-Civril-Kizilcam1 milli parkı, Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Bu milli park, deniz seviyesinden yüksek bir konumda bulunuyor ve manzarası ile ziyaretçilerini büyülüyor. Coğrafi konumu, ziyaretçilerin doğanın güzelliği ile baş başa kalmasına olanak tanıyor ve çeşitli bitki türleri ile dolu. Denizli-Cal-Civril-Kizilcam1, coğrafi güzelliği ile ziyaretçilerini çekmeye devam ediyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Denizli-Cal-Civril-Kizilcam1 milli parkını ziyaret etmek, doğa severlerin key
 
 ## İlginç Bilgiler
 
-- 140 hektarlık milli park
 - çeşitli bitki türleri
 - zengin fauna
 - coğrafi güzellik

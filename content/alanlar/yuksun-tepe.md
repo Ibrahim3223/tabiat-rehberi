@@ -36,7 +36,7 @@ Yüksün Tepe'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yans�
 
 ## Coğrafya
 
-Yüksün Tepe, coğrafi olarak Adana'nın Akdeniz Bölgesi'nde bulunur ve bu bölgenin karakteristik özelliklerini taşır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki ekosistemi önemli ölçüde etkiler. Tepe ve çevresinin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Yüksün Tepe'nin yüksekliği, bölgenin panoramik manzarasını seyretmek için ideal bir noktadır. Bu tepe, aynı zamanda bölgedeki flora ve faunanın çeşitliliğini koruma altına almak için önemli bir role sahiptir. Yüksün Tepe'nin coğrafi konumu ve yapısı, ziyaretçilere bölgenin doğasını keşfetme fırsatı sunar.
+Yüksün Tepe, coğrafi olarak Adana'nın Akdeniz Bölgesi'nde bulunur ve bu bölgenin karakteristik özelliklerini taşır. Tepe ve çevresinin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Yüksün Tepe'nin yüksekliği, bölgenin panoramik manzarasını seyretmek için ideal bir noktadır. Bu tepe, aynı zamanda bölgedeki flora ve faunanın çeşitliliğini koruma altına almak için önemli bir role sahiptir. Yüksün Tepe'nin coğrafi konumu ve yapısı, ziyaretçilere bölgenin doğasını keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yüksün Tepe'yi ziyaret etmek, doğa severler için keyifli bir deneyim olabili
 
 ## İlginç Bilgiler
 
-- Yüksün Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, bölgedeki flora ve faunanın çeşitliliğini koruma altına almak için importante bir role sahiptir.
 - Yüksün Tepe'nin yüksekliği, bölgenin panoramik manzarasını seyretmek için ideal bir noktadır.
 - Bu tepe, aynı zamanda bölgedeki tarihi ve kültürel mirası korumak için önemli bir role sahiptir.

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/BentlerNaturePark%20%281%29.jpg","alt":"Bentler Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bentler_National_Park.jpg/960px-Bentler_National_Park.jpg","alt":"Bentler Tabiat Parkı","caption":"Bentler Tabiat Parkı","credit":"Bentler National Park","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/BentlerNaturePark_%285%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/BentlerNaturePark_%285%29.jpg/1280px-BentlerNaturePark_%285%29.jpg","alt":"Bentler Tabiat Parkı - BentlerNaturePark (5)","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/BentlerNaturePark_%286%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BentlerNaturePark_%286%29.jpg/1280px-BentlerNaturePark_%286%29.jpg","alt":"Bentler Tabiat Parkı - BentlerNaturePark (6)","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/BentlerNaturePark_%284%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BentlerNaturePark_%284%29.jpg/1280px-BentlerNaturePark_%284%29.jpg","alt":"Bentler Tabiat Parkı - BentlerNaturePark (4)","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/31/BentlerNaturePark_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BentlerNaturePark_%283%29.jpg/1280px-BentlerNaturePark_%283%29.jpg","alt":"Bentler Tabiat Parkı - BentlerNaturePark (3)","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Valid_bant.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Valid_bant.jpg/1280px-Valid_bant.jpg","alt":"Bentler Tabiat Parkı - Valid bant","credit":"Hatemnsf","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bentler%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915700","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
@@ -37,7 +37,7 @@ Bentler Tabiat Parkı, yüzyıllar boyunca bölgeye hayat veren bir doğal kayna
 
 ## Coğrafya
 
-Bentler Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşur. Parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar sunar. Bentler Tabiat Parkı, yaklaşık 140 hektarlık bir alanı kaplar ve bu alanı, ziyaretçiler için keyifli bir gezi deneyimi sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlar. Bentler Tabiat Parkı, yeraltı ve yerüstü su kaynakları bakımından zengin bir alana sahiptir. Parkın coğrafi konumu, bölgenin iklim koşullarını da etkiler. Bentler Tabiat Parkı, bölgedeki flora ve fauna çeşitliliği açısından önemli bir alandır. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
+Bentler Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşur. Parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlar. Bentler Tabiat Parkı, yeraltı ve yerüstü su kaynakları bakımından zengin bir alana sahiptir. Parkın coğrafi konumu, bölgenin iklim koşullarını da etkiler. Bentler Tabiat Parkı, bölgedeki flora ve fauna çeşitliliği açısından önemli bir alandır. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bentler Tabiat Parkı, ziyaretçiler için keyifli bir gezi deneyimi sunar. Park
 ## İlginç Bilgiler
 
 - Bentler Tabiat Parkı, bölgedeki en büyük doğal alanlardan birisidir
-- Park, 140 hektarlık bir alanı kaplar
+
 - Bentler Tabiat Parkı, çeşitli flora ve fauna türlerine ev sahipliği yapar
 - Park, yılın her dönemi ziyaret edilebilir
 - Bentler Tabiat Parkı, doğa severler ve huzur arayanlar için ideal bir destinasyondur

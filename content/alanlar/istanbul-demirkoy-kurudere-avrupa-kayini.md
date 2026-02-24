@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Istanbul-Demirkoy-Kurudere Avrupa Kayını","caption":"Istanbul-Demirkoy-Kurudere Avrupa Kayını","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Demirkoy-Kurudere%20Avrupa%20Kay%C4%B1n%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228482","tip":"genel"}]
-description: "İstanbul'un doğal güzelliklerini keşfedin. Marmara Bölgesi'nin en önemli milli parklarından biri olan İstanbul-Demirkoy-Kurudere Avrupa Kayını, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+description: "İstanbul'un doğal güzelliklerini keşfedin."
 keywords: ["Marmara Bölgesi","İstanbul","Demirkoy","Kurudere","Avrupa Kayını","milli park","doğal güzellik","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228482"
@@ -43,7 +43,7 @@ wikidata_id: "Q108228482"
 ## İlginç Bilgiler
 
 - Marmara Bölgesi'nin en önemli milli parklarından biri
-- 140 hektarlık yeşil alan
+
 - İlkbahar ve yaz aylarında ziyaret edilebilir
 - Zengin flora ve fauna
 - İstanbul'un merkezine yakın konumu

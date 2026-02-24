@@ -36,7 +36,7 @@ Mahmut Tepesi, tarihsel açıdan önemli bir geçmişe sahiptir. Tepenin tarihi,
 
 ## Coğrafya
 
-Mahmut Tepesi, coğrafi açıdan dikkat çekici bir bölgedir. Tepenin coğrafi yapısı, Şanlıurfa'nın genel coğrafi özelliklerini taşır. Şanlıurfa, Güneydoğu Anadolu Bölgesi'nin bir parçasıdır ve bu bölgenin coğrafi özellikleri, tepeye özel bir karakter kazandırır. Mahmut Tepesi, 140 hektarlık bir alanı kapsar ve tepe, şehrin panoramik manzarasını sunar. Tepenin etrafında, çeşitli coğrafi oluşumlar bulunur, bunlar da tepeye özel bir güzellik kazandırır. Mahmut Tepesi, ayrıca şehrin iklimini de etkiler. Tepenin yüksekliği, şehrin ikliminin oluşumunda önemli bir rol oynar. Tepenin coğrafi yapısı, ziyaretçilere şehrin doğal güzelliklerini sunar ve onları şehrin coğrafi değerleri ile tanıştırır. Mahmut Tepesi, coğrafi açıdan zengin bir bölgedir ve ziyaretçileri, şehrin doğal güzelliklerini keşfetmeye davet eder.
+Mahmut Tepesi, coğrafi açıdan dikkat çekici bir bölgedir. Tepenin coğrafi yapısı, Şanlıurfa'nın genel coğrafi özelliklerini taşır. Şanlıurfa, Güneydoğu Anadolu Bölgesi'nin bir parçasıdır ve bu bölgenin coğrafi özellikleri, tepeye özel bir karakter kazandırır. Tepenin etrafında, çeşitli coğrafi oluşumlar bulunur, bunlar da tepeye özel bir güzellik kazandırır. Mahmut Tepesi, ayrıca şehrin iklimini de etkiler. Tepenin yüksekliği, şehrin ikliminin oluşumunda önemli bir rol oynar. Tepenin coğrafi yapısı, ziyaretçilere şehrin doğal güzelliklerini sunar ve onları şehrin coğrafi değerleri ile tanıştırır. Mahmut Tepesi, coğrafi açıdan zengin bir bölgedir ve ziyaretçileri, şehrin doğal güzelliklerini keşfetmeye davet eder.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Mahmut Tepesi, ziyaretçilerini bekliyor. Tepenin ziyaretçileri, şehrin panora
 
 - Mahmut Tepesi, Şanlıurfa'nın en önemli tarihi merkezlerinden biridir.
 - Tepenin tarihi, Şanlıurfa'nın tarihi ile bağlantılıdır.
-- Mahmut Tepesi, 140 hektarlık bir alanı kapsar.
+
 - Tepenin etrafında, çeşitli tarihi yapılar ve anıtlar bulunur.
 - Mahmut Tepesi, şehrin panoramik manzarasını sunar.

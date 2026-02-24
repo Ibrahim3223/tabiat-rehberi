@@ -50,7 +50,7 @@ wikidata_id: "Q131390848"
 ## İlginç Bilgiler
 
 - Şeyh Ali Sultan Türbesi, Karaman'ın tarihi mekanları arasında önemli bir yer tutuyor.
-- Türbe, 140 hektarlık bir alanı kaplıyor.
+
 - Şeyh Ali Sultan, Karaman'ın dini ve kültürel hayatında önemli bir figür olarak bilinir.
 - Türbe, özellikle bahar ve yaz aylarında, yeşilin ve çiçeklerin renkleri ile bezeniyor.
 - Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi güzellikleri arasında önemli bir yer tutuyor.

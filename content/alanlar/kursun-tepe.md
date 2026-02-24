@@ -28,7 +28,7 @@ wikidata_id: "Q31388821"
 
 # Kurşun Tepe
 
-Kurşun Tepe, Marmara Bölgesi'nin güzide illerinden Tekirdağ'da yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ziyaretçiler, buraya gelerek hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfedebilecekler. Kurşun Tepe, özellikle trekking ve doğa yürüyüşü severlerin ilgi odağı.
+Kurşun Tepe, Marmara Bölgesi'nin güzide illerinden Tekirdağ'da yer alan bir tepe. Ziyaretçiler, buraya gelerek hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfedebilecekler. Kurşun Tepe, özellikle trekking ve doğa yürüyüşü severlerin ilgi odağı.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Kurşun Tepe, ziyaretçilere çeşitli olanaklar sunuyor. Ziyaretçiler, buraya 
 ## İlginç Bilgiler
 
 - Kurşun Tepe, Tekirdağ merkezine uzun bir mesafe uzaklıkta yer alıyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 
 - Ziyaretçiler, buraya gelerek trekking ve doğa yürüyüşü yapabilecekler.
 - Kurşun Tepe, ilkbahar ve yaz aylarında ziyaret edilebilir.

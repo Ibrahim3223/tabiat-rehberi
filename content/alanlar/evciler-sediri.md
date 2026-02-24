@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan izleme","Fotoğraf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Evciler Sediri","caption":"Evciler Sediri","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evciler%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227356","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Evciler Sediri, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["Evciler Sediri","İç Anadolu Bölgesi","milli park","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227356"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227356"
 
 # Evciler Sediri
 
-Evciler Sediri, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alan 140 hektarlık bir milli parktır. Evciler Sediri'nin tarihi geçmişi, yüzyıllar boyunca korunan doğal güzelliği ve çeşitli bitki türleriyle dikkat çeker. Ziyaretçiler, bu muhteşem doğa alanını keşfetmek için gelenekselleşmiş bir rota izlerler. Evciler Sediri, doğa severlerin ve macera arayanların tercih ettiği bir destinasyon olarak bilinir.
+ Evciler Sediri'nin tarihi geçmişi, yüzyıllar boyunca korunan doğal güzelliği ve çeşitli bitki türleriyle dikkat çeker. Ziyaretçiler, bu muhteşem doğa alanını keşfetmek için gelenekselleşmiş bir rota izlerler. Evciler Sediri, doğa severlerin ve macera arayanların tercih ettiği bir destinasyon olarak bilinir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Evciler Sediri'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal 
 
 ## İlginç Bilgiler
 
-- Evciler Sediri, 140 hektarlık bir yeşil alana sahiptir.
 - Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve hayvanların yaşamına olanak tanır.
 - Evciler Sediri, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeker.
 - Bu bölgenin flora ve faunası, ziyaretçilerin ilgisini çeker ve bu bölgeyi özel kılar.

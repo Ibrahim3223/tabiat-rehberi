@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","manzara izleme","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Davulbaztepe","caption":"Davulbaztepe","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davulbaztepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228137","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık genişlikte"
+
 keywords: ["Davulbaztepe","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228137"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228137"
 
 # Davulbaztepe
 
-Davulbaztepe, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Doğal güzelliği ve zengin ekosistemi ile dikkat çeken Davulbaztepe, ziyaretçilerini büyülemektedir. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, bu doğal cennette doğa yürüyüşleri yapabilir, flora ve faunayılemek içinideal bir ortam bulabilirler.
+ Doğal güzelliği ve zengin ekosistemi ile dikkat çeken Davulbaztepe, ziyaretçilerini büyülemektedir. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, bu doğal cennette doğa yürüyüşleri yapabilir, flora ve faunayılemek içinideal bir ortam bulabilirler.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Davulbaztepe'yi ziyaret etmek, doğa severler için ideal bir deneyimdir. Milli 
 
 ## İlginç Bilgiler
 
-- Davulbaztepe, 140 hektarlık bir milli parktır.
 - Milli parkın coğrafyası, dağlık ve ovalık arazilerden oluşmaktadır.
 - Davulbaztepe, zengin bir flora ve faunaya sahiptir.
 - Milli parkın ekosistemi, doğal dengesini korur.

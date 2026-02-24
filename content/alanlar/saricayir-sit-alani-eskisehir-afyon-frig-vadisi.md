@@ -44,6 +44,6 @@ Sarıçayır Sit Alanı, ziyaretçilerine çeşitli imkanlar sunuyor. Buraya, ö
 
 - Sarıçayır Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri
 - Bu bölge, tarihi geçmişi ile birlikte doğal güzellikleri de barındırıyor
-- Sarıçayır Sit Alanı, yaklaşık 140 hektarlık bir büyüklüğe sahip
+
 - Burada, çeşitli bitki türleri ile karşılaşma mümkün
 - Sarıçayır Sit Alanı, flora ve fauna açısından zengin bir bölge

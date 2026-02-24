@@ -36,7 +36,7 @@ Avahuşhuş Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş.
 
 ## Coğrafya
 
-Avahuşhuş Tepesi, Mardin'in coğrafi yapısını etkileyen önemli bir tepe. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Avahuşhuş Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve çeşitli bitki türleri ile canlıları barındırır. Bu tepe, Mardin'in iklimini etkileyen faktörlerden biri. Avahuşhuş Tepesi, ziyaretçilerini doğal güzellikleri ile karşılar. Bu tepe, Mardin'in coğrafi zenginliklerini sunar. Avahuşhuş Tepesi, coğrafi konumu itibariyle, Mardin'in önemli bir doğal güzelliği.
+Avahuşhuş Tepesi, Mardin'in coğrafi yapısını etkileyen önemli bir tepe. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, Mardin'in iklimini etkileyen faktörlerden biri. Avahuşhuş Tepesi, ziyaretçilerini doğal güzellikleri ile karşılar. Bu tepe, Mardin'in coğrafi zenginliklerini sunar. Avahuşhuş Tepesi, coğrafi konumu itibariyle, Mardin'in önemli bir doğal güzelliği.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Avahuşhuş Tepesi, ziyaretçilerini doğal güzellikleri ile karşılar. Bu tep
 ## İlginç Bilgiler
 
 - Avahuşhuş Tepesi, Mardin'in en yüksek tepelerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Avahuşhuş Tepesi, çeşitli bitki türleri ve canlıları barındırır
 - Bu tepe, Mardin'in coğrafi ve kültürel zenginliklerini sunar
 - Avahuşhuş Tepesi, ziyaretçilerine gezi ve keşif fırsatı sunar

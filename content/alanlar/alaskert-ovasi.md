@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Z%C3%AAdka%20%28Ele%C5%9Fkirt%29%2C%20Agir%C3%AE.jpg","alt":"Alaşkert Ovası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Z%C3%AAdka_%28Ele%C5%9Fkirt%29%2C_Agir%C3%AE.jpg/960px-Z%C3%AAdka_%28Ele%C5%9Fkirt%29%2C_Agir%C3%AE.jpg","alt":"Alaşkert Ovası","caption":"Alaşkert Ovası","credit":"Zêdka (Eleşkirt), Agirî","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/Z%C3%AAdka_%28Ele%C5%9Fkirt%29%2C_Agir%C3%AE.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Z%C3%AAdka_%28Ele%C5%9Fkirt%29%2C_Agir%C3%AE.jpg/1280px-Z%C3%AAdka_%28Ele%C5%9Fkirt%29%2C_Agir%C3%AE.jpg","alt":"Alaşkert Ovası - Zêdka (Eleşkirt), Agirî","credit":"Bibliophile","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%C5%9Fkert%20Ovas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q23011908","tip":"genel"}]
 description: "Ağrı'da bulunan doğal güzellik, kanyon ve ovalarıyla dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

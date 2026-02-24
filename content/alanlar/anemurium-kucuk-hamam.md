@@ -45,12 +45,12 @@ Anemurium Küçük Hamam, flora ve fauna açısından zengin bir bölge. Çeşit
 
 ## Ziyaret Bilgileri
 
-Anemurium Küçük Hamam'ı ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için ideal bir seçenektir. Ziyaretçiler, plajın tarihi kalıntılarını gezdikten sonra, denize girere veya güneşin tadını çıkarak dinlenebilirler. Anemurium Küçük Hamam'a ulaşım, Anamur ilçesinden kolayca sağlanabilir. Ziyaretçiler, özellikle yaz aylarında, plajın keyfini çıkarmak için geniş olanaklar bulabilirler. Anemurium Küçük Hamam, aynı zamanda çevre bölgeler için de bir başlangıç noktası olarak kabul edilebilir, ziyaretçiler buradan diğer tarihi ve doğal güzelliklere fácilce ulaşabilirler.
+Anemurium Küçük Hamam'ı ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için ideal bir seçenektir. Ziyaretçiler, plajın tarihi kalıntılarını gezdikten sonra, denize girere veya güneşin tadını çıkarak dinlenebilirler. Anemurium Küçük Hamam'a ulaşım, Anamur ilçesinden kolayca sağlanabilir. Ziyaretçiler, özellikle yaz aylarında, plajın keyfini çıkarmak için geniş olanaklar bulabilirler. Anemurium Küçük Hamam, aynı zamanda çevre bölgeler için de bir başlangıç noktası olarak kabul edilebilir, ziyaretçiler buradan diğer tarihi ve doğal güzelliklere kolayce ulaşabilirler.
 
 ## İlginç Bilgiler
 
 - Anemurium Küçük Hamam, Roma ve Bizans dönemlerine ait tarihi kalıntılara ev sahipliği yapıyor.
-- Bölge, 140 hektarlık bir yeşil alana sahip.
+
 - Anemurium Küçük Hamam, Akdeniz Bölgesi'nin en önemli tarihi sitelerinden biri.
 - Plaj, deniz seviyesinde ve Akdeniz ikliminin tüm özelliklerini taşıyor.
 - Bölgede, çeşitli bitki türleri ve zengin fauna encontrabilir.

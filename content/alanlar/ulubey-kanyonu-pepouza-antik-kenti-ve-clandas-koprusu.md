@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Tarih turu","Fotoğrafçılık","Doğa göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü","caption":"Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulubey%20Kanyonu%20Pepouza%20Antik%20Kenti%20ve%20Clandas%20K%C3%B6pr%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228988","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Ulubey Kanyonu","Pepouza Antik Kenti","Clandas Köprüsü","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228988"
@@ -43,7 +43,7 @@ Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü'ne gitmek, ziyaretçile
 ## İlginç Bilgiler
 
 - Bölgenin en önemli tarihi yapılarından biri, Clandas Köprüsü'dür.
-- Ulubey Kanyonu, 140 hektarlık bir alana sahiptir.
+
 - Pepouza Antik Kenti, tarihi öneme sahip bir yerleşim yeridir.
 - Bölge, zengin flora ve faunaya sahiptir.
 - Bahar ve yaz ayları, bölgenin güzelliğini en iyi şekilde deneyimlemek için idealdir.

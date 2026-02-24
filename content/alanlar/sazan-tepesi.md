@@ -36,7 +36,7 @@ Sazan Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kültürel m
 
 ## Coğrafya
 
-Sazan Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu 140 hektarlık alan, Yozgat'ın merkezine yakınlığıyla dikkat çekiyor. Coğrafi konumu itibariyle, Sazan Tepesi'nin iklimi karasal iklim özellikleri gösteriyor. Bahar ve yaz aylarında sıcaklığın arttığı, kış aylarında ise soğuyduğu bir bölge. Sazan Tepesi, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda coğrafi zenginliklerini de keşfetme imkanı sunuyor. Çevresinde çeşitli bitki türleri ve fauna bulunması, Sazan Tepesi'nin doğal güzelliğini daha da artırıyor.
+Sazan Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Coğrafi konumu itibariyle, Sazan Tepesi'nin iklimi karasal iklim özellikleri gösteriyor. Bahar ve yaz aylarında sıcaklığın arttığı, kış aylarında ise soğuyduğu bir bölge. Sazan Tepesi, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda coğrafi zenginliklerini de keşfetme imkanı sunuyor. Çevresinde çeşitli bitki türleri ve fauna bulunması, Sazan Tepesi'nin doğal güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Sazan Tepesi'ni ziyaret etmek için en uygun zaman, bahar ve yaz ayları. Bu dö
 ## İlginç Bilgiler
 
 - Sazan Tepesi, Yozgat'ın önemli turizm noktalarından biri.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Sazan Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe.
 - Bölgede, çeşitli bitki türleri ve fauna bulunması, Sazan Tepesi'nin doğal güzelliğini artırıyor.
 - Sazan Tepesi'ne ulaşım, Yozgat merkezinden araçla yaklaşık 30-40 dakika sürüyor.

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"ERİKÇE","caption":"ERİKÇE","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ER%C4%B0K%C3%87E","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228686","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık milli park"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228686"
@@ -42,7 +42,6 @@ ERİKÇE milli parkını ziyaret etmek, doğa severler için gerçek bir keyif. 
 
 ## İlginç Bilgiler
 
-- ERİKÇE milli parkı, 140 hektarlık bir alanı kapsar
 - Parkta, bitki türleri bulunur
 - ERİKÇE, birçok hayvan türünün yaşam alanıdır
 - Parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunar

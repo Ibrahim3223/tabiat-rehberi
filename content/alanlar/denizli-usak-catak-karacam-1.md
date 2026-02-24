@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Denizli-Usak-Catak Karacam 1","caption":"Denizli-Usak-Catak Karacam 1","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Catak%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227503","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli cenneti Denizli-Usak-Catak Karacam 1, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Denizli","Usak","Catak Karacam 1","Ege Bölgesi","milli park","doğa","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227503"

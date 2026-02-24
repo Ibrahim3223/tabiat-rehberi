@@ -49,7 +49,7 @@ Yalliğindeğ Tepesi'ni ziyaret etmek isteyenler, Nevşehir iline ulaştıktan s
 ## İlginç Bilgiler
 
 - Yalinggağ Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Yalinggağ Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın huzurunu yaşamak isteyenler için bir kaçış noktası.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Yalinggağ Tepesi, doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.

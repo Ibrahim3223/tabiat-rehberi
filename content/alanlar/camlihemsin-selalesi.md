@@ -50,7 +50,7 @@ wikidata_id: "Q130366737"
 ## İlginç Bilgiler
 
 - Çamlıhemşin Şelalesi, İç Anadolu Bölgesi'nin en yüksek noktalarından birinde yer alır.
-- Şelale, 140 hektarlık bir yeşil alan içerisine kurulmuştur.
+
 - Çamlıhemşin Şelalesi, doğa severlerin ve photographerlerin uğrak noktalarından biri olarak kabul ediliyor.
 - Şelale, yılın her dönemi ziyaret edilebilir.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanıldı.

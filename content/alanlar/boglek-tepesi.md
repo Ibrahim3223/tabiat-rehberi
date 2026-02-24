@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Fotoğrafçılık","Doğa gözlemi","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Böğlek Tepesi","caption":"Böğlek Tepesi","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6%C4%9Flek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731182","tip":"genel"}]
-description: "Ankara'nın en önemli doğal güzellikleri arasında yer alan Böğlek Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Ankara","doğa","tepe","yeşil alan","gezi","turizm","çevre","ekoloji","gezgin"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q35731182"
@@ -36,7 +36,7 @@ Böğlek Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm�
 
 ## Coğrafya
 
-Böğlek Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin konumu, şehrin merkezi ile doğal alanlar arasındaki sınırı belirliyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin zirvesi, Ankara şehrinin panoramik manzarasını sunuyor ve çevresindeki dağlar ile birlikte bir doğa koridoru oluşturuyor. Böğlek Tepesi, Ankara'nın iklimine uygun olarak karasal bir iklime sahiptir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu iklim, tepeyi ziyaret etmek isteyenler için önemli bir faktör oluyor.
+Böğlek Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin konumu, şehrin merkezi ile doğal alanlar arasındaki sınırı belirliyor. Tepenin zirvesi, Ankara şehrinin panoramik manzarasını sunuyor ve çevresindeki dağlar ile birlikte bir doğa koridoru oluşturuyor. Böğlek Tepesi, Ankara'nın iklimine uygun olarak karasal bir iklime sahiptir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu iklim, tepeyi ziyaret etmek isteyenler için önemli bir faktör oluyor.
 
 ## Flora ve Fauna
 

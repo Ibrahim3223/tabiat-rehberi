@@ -28,7 +28,7 @@ wikidata_id: "Q35731304"
 
 # Büyükbezirgan Tepesi
 
-Büyükbezirgan Tepesi, Kırklareli'nin kuzeydoğusunda yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi ormanlarla kaplı. Tepenin yüksekliği ise yaklaşık 500 metre. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Büyükbezirgan Tepesi, aynı zamanda birçok bitki ve hayvan türüne de ev sahipliği yapıyor. Bu çeşitlilik, ziyaretçiler için önemli bir çekim merkezi.
+Büyükbezirgan Tepesi, Kırklareli'nin kuzeydoğusunda yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Tepenin yüksekliği ise yaklaşık 500 metre. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Büyükbezirgan Tepesi, aynı zamanda birçok bitki ve hayvan türüne de ev sahipliği yapıyor. Bu çeşitlilik, ziyaretçiler için önemli bir çekim merkezi.
 
 ## Tarihçe
 

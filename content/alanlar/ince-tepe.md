@@ -37,7 +37,7 @@ wikidata_id: "Q31390873"
 
 ## Coğrafya
 
-İnce Tepe, Yozgat'ın coğrafi yapısını yansıtan önemli bir noktadır. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, çevredeki coğrafi oluşumlar ile birlikte değerlendirildiğinde, bölgenin coğrafi çeşitliliği hakkında fikir verir. İnce Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle kuru ve step iklimi ile karakterizedir. İnce Tepe ve çevresi, bu iklimin etkilerini taşır ve ziyaretçilerine, step ikliminin güzelliğini sunar. Tepe, ayrıca bölgenin flora ve faunası hakkında da önemli bilgiler sunar. İnce Tepe'nin coğrafi konumu, bölgenin diğer coğrafi oluşumları ile birlikte ele alındığında, İç Anadolu Bölgesi'nin coğrafi çeşitliliği hakkında geniş bir perspektif sunar.
+İnce Tepe, Yozgat'ın coğrafi yapısını yansıtan önemli bir noktadır. İnce Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle kuru ve step iklimi ile karakterizedir. İnce Tepe ve çevresi, bu iklimin etkilerini taşır ve ziyaretçilerine, step ikliminin güzelliğini sunar. Tepe, ayrıca bölgenin flora ve faunası hakkında da önemli bilgiler sunar. İnce Tepe'nin coğrafi konumu, bölgenin diğer coğrafi oluşumları ile birlikte ele alındığında, İç Anadolu Bölgesi'nin coğrafi çeşitliliği hakkında geniş bir perspektif sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q31390873"
 ## İlginç Bilgiler
 
 - İnce Tepe, Yozgat'ın doğal güzellikleri arasında yer alır.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - İnce Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir noktadır.
 - Tepe ve çevresi, çeşitli bitki türleri ile kaplıdır.
 - İnce Tepe, farklı hayvan türlerine de ev sahipliği yapar.

@@ -50,7 +50,7 @@ Kamil Dede Türbesi'ni ziyaret etmek, ziyaretçilere tarihin ve doğanın güzel
 ## İlginç Bilgiler
 
 - Kamil Dede Türbesi, Denizli'nin Acıpayam ilçesinde yer alır.
-- Bu mekan, 140 hektarlık bir alanı kaplar.
+
 - Kamil Dede Türbesi, tarihi ve doğal güzellikleriyle ziyaretçilerini karşılar.
 - Bu mekan, yüzyıllar boyunca önemli roller oynamış ve çeşitli medeniyetlerin izlerini taşır.
 - Kamil Dede Türbesi, türk kültürü ve tarihi hakkında önemli bilgiler sunar.

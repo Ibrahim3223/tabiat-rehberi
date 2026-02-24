@@ -29,7 +29,7 @@ wikidata_id: "Q133684790"
 
 # Yıldız Sarayı Yaveran Dairesi
 
-Yıldız Sarayı Yaveran Dairesi, İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliğini sunan bir mekan. Beşiktaş ilçesinde bulunan bu özel alan, yaklaşık 140 hektarlık bir yeşil alanda yer alıyor. Yıldız Sarayı Yaveran Dairesi, tarih, doğa ve eğlenceyi bir arada sunan bir destinasyon. Ziyaretçiler, bu güzel mekanın sunduğu olanaklardan yararlanarak, hem doğayı keşfedebilir hem de tarihi bir atmosferi deneyimleyebilir.
+Yıldız Sarayı Yaveran Dairesi, İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliğini sunan bir mekan. Yıldız Sarayı Yaveran Dairesi, tarih, doğa ve eğlenceyi bir arada sunan bir destinasyon. Ziyaretçiler, bu güzel mekanın sunduğu olanaklardan yararlanarak, hem doğayı keşfedebilir hem de tarihi bir atmosferi deneyimleyebilir.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Yıldız Sarayı Yaveran Dairesi'ni ziyaret etmek, ziyaretçilere birçok olanak
 
 ## İlginç Bilgiler
 
-- Yıldız Sarayı Yaveran Dairesi, 140 hektarlık bir yeşil alana sahip
 - Yıldız Sarayı Yaveran Dairesi, Beşiktaş ilçesinde bulunuyor
 - Yıldız Sarayı Yaveran Dairesi, Marmara Bölgesi'nin güzelliğini sunuyor
 - Yıldız Sarayı Yaveran Dairesi, tarih, doğa ve eğlenceyi bir arada sunuyor

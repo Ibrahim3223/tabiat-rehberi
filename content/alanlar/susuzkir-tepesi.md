@@ -28,7 +28,7 @@ wikidata_id: "Q31561129"
 
 # Susuzkır Tepesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Susuzkır Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Susuzkır Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Tepenin eteklerinde kurulmuş olan köyler, misafirperverlikleriyle ünlü ve ziyaretçilere sıcak bir karşılama sunuyor. Susuzkır Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, tepeye tırmanarak Sivas'ın panoramik manzarasını izlemek de mümkündür.
+ Susuzkır Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Tepenin eteklerinde kurulmuş olan köyler, misafirperverlikleriyle ünlü ve ziyaretçilere sıcak bir karşılama sunuyor. Susuzkır Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, tepeye tırmanarak Sivas'ın panoramik manzarasını izlemek de mümkündür.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Susuzkır Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi geçmi
 
 - Susuzkır Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alıyor.
 - Tepenin etrafındaki köyler, misafirperverlikleriyle ünlü.
-- Susuzkır Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Tepenin yüksekliği, yüksek bir konumda yer alıyor.
 - Susuzkır Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor.

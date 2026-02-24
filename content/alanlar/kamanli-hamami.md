@@ -50,7 +50,7 @@ Kamanlı Hamamı, ziyaretçilerine çeşitli olanaklar sunar. Plaj, denize sıf�
 ## İlginç Bilgiler
 
 - Kamanlı Hamamı, Ege Bölgesi'nin en güzel plajlarından biri
-- Plaj, 140 hektarlık bir alana kurulmuş
+
 - Kamanlı Hamamı, denize sıfır konumuyla birlikte, ziyaretçilerine harika bir deniz deneyimi sunar
 - Plajın çevresinde, çeşitli ağaçlar ve bitki türleriyle kaplıdır
 - Kamanlı Hamamı, çeşitli hayvan türlerine de ev sahipliği yapar

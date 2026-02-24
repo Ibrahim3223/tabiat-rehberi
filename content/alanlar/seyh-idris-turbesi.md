@@ -51,6 +51,6 @@ wikidata_id: "Q131391795"
 
 - Şeyh İdris Türbesi, Karadeniz Bölgesi'nin güzide plajlarından biridir.
 - Bu türbe, Giresun'un Piraziz ilçesinde yer alır.
-- Şeyh İdris Türbesi, 140 hektarlık bir yeşil alanı kaplar.
+
 - Bu türbe, Karadeniz Bölgesi'nin tarihi ve kültürel mirasını taşır.
 - Şeyh İdris Türbesi, ziyaretçilere hem manevi hem de doğal bir deneyim sunar.

@@ -51,6 +51,6 @@ wikidata_id: "Q34828746"
 
 - Çay Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren bir bölge
 - Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında yer alıyor
-- Çay Tepe, 140 hektarlık bir alana sahip
+
 - Bu bölge, çeşitli bitki türleri ve fauna ile zengin
 - Çay Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleriyle karşılayacak

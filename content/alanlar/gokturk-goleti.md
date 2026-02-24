@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Gokturktabiat1.jpg","alt":"Göktürk Göleti manzarası","credit":"HanBatu95","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Gokturktabiat4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gokturktabiat4.jpg/1280px-Gokturktabiat4.jpg","alt":"Göktürk Göleti - Gokturktabiat4","credit":"HanBatu95","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Gokturktabiat9.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gokturktabiat9.jpg/1280px-Gokturktabiat9.jpg","alt":"Göktürk Göleti - Gokturktabiat9","credit":"HanBatu95","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b7/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1.jpg/1280px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1.jpg","alt":"Göktürk Göleti - Göktürk Tabiat Parkı","credit":"Ceyda Turus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/G%C3%B6kt%C3%BCrk_Pond_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/G%C3%B6kt%C3%BCrk_Pond_Nature_Park.jpg/1280px-G%C3%B6kt%C3%BCrk_Pond_Nature_Park.jpg","alt":"Göktürk Göleti - Göktürk Pond Nature Park","credit":"Deniz Ulusoy","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/1280px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Göktürk Göleti - Göktürk Göleti Tabiat Parkı İstanbul","credit":"Cosmosdust","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228171","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Göktürk Göleti, 140 hektarlık geniş alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Göktürk Göleti","İç Anadolu Bölgesi","doğa","gölet","milli park","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228171"
@@ -43,7 +43,6 @@ Göktürk Göleti'ni ziyaret etmek, doğa severler ve turistler için bir zorunl
 
 ## İlginç Bilgiler
 
-- Göktürk Göleti, 140 hektarlık geniş bir alana sahiptir.
 - Göktürk Göleti, İç Anadolu Bölgesi'nin merkezinde yer alır.
 - Göktürk Göleti, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Göktürk Göleti, yılın her mevsiminde ziyaret edilebilir.

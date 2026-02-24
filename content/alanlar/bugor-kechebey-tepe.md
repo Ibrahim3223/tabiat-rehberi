@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarihî kalıntıları
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif/lossy-page1-900px-Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif.jpg","alt":"Bugor Kechebey-tepe","caption":"Bugor Kechebey-tepe","credit":"Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-20","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bugor%20Kechebey-tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386513","tip":"genel"}]
-description: "Hatay'ın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Hatay'ın doğal güzelliklerini keşfedin."
 keywords: ["Hatay","doğa","tepe","gezi","keşif","yaban hayatı","çevre","iklim","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386513"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386513"
 
 # Bugor Kechebey-tepe
 
-Hatay'ın Akdeniz Bölgesi'nde yer alan Bugor Kechebey-tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak tarihi bir öneme sahip. Doğal güzelliği ve tarihi geçmişiyle birlikte, bu tepe ziyaretçilerini cezbediyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
+ Tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak tarihi bir öneme sahip. Doğal güzelliği ve tarihi geçmişiyle birlikte, bu tepe ziyaretçilerini cezbediyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bugor Kechebey-tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu b
 
 ## Coğrafya
 
-Bugor Kechebey-tepe, Hatay'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğu-batı doğrultusunda uzanan bir sırtla birlikte, çevreye hakim bir konumda bulunuyor. Tepe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor. Yağışlar, genellikle kış ve ilkbahar aylarında görülüyor. Bu tepe, çevreye hakim bir konumda ve geniş bir manzara sunuyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
+Bugor Kechebey-tepe, Hatay'ın coğrafi yapısına uygun olarak, dağlık ve engebeli bir bölge. Tepe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor. Yağışlar, genellikle kış ve ilkbahar aylarında görülüyor. Bu tepe, çevreye hakim bir konumda ve geniş bir manzara sunuyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 
 ## Flora ve Fauna
 
@@ -44,11 +44,10 @@ Bugor Kechebey-tepe, çeşitli bitki türleri ve zengin fauna ile birlikte, doğ
 
 ## Ziyaret Bilgileri
 
-Bugor Kechebey-tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için bir fırsat. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir manzara sunuyor. Ziyaretçiler, tepeye yürüyere veya araçla ulaşabiliyorlar. Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
+Bugor Kechebey-tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için bir fırsat. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar. Ziyaretçiler, tepeye yürüyere veya araçla ulaşabiliyorlar. Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 
 ## İlginç Bilgiler
 
-- Bugor Kechebey-tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, yüksek bir konumda yer alıyor.
 - Bu bölge, iklim olarak Akdeniz ikliminin etkisinde ve yazları sıcak, kışları ılıman geçiyor.
 - Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.

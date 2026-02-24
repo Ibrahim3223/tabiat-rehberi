@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Yerel yaşamı deneyimleme
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Hanım Tepesi","caption":"Hanım Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Han%C4%B1m%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386568","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti Hanım Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Hanım Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386568"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386568"
 
 # Hanım Tepesi
 
-Hanım Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan 140 hektarlık yeşil bir alana sahiptir. Hanım Tepesi, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel yaşamı deneyimleme fırsatı sunar.
+ Hanım Tepesi, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel yaşamı deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hanım Tepesi, tarihin derin sayfalarında gizli bir hazine olarak beklemektedir
 
 ## Coğrafya
 
-Hanım Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir doğa alanını sunar. Tepenin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir. İklimi, bölgenin karakteristik özelliklerini taşır ve mevsimsel değişimler, tepeyi her mevsim farklı bir güzelliğe büründürür. Tepenin eteklerinde akan nehirler ve derenin sesi, ziyaretçilere doğanın sesini dinleme fırsatı sunar. Coğrafi açıdan zengin bir alana sahip olan Hanım Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmayı amaçlar.
+Hanım Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Tepenin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir. İklimi, bölgenin karakteristik özelliklerini taşır ve mevsimsel değişimler, tepeyi her mevsim farklı bir güzelliğe büründürür. Tepenin eteklerinde akan nehirler ve derenin sesi, ziyaretçilere doğanın sesini dinleme fırsatı sunar. Coğrafi açıdan zengin bir alana sahip olan Hanım Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmayı amaçlar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Hanım Tepesi'ne ziyaretçiler, Siirt il merkezinden yaklaşık 1 saatlik bir yo
 
 ## İlginç Bilgiler
 
-- Hanım Tepesi, 140 hektarlık bir alana sahiptir.
 - Tepenin eteklerinde, çeşitli bitki türleri yaşamaktadır.
 - Tepede, farklı hayvan türleri yaşamaktadır.
 - Hanım Tepesi, tarihin derin sayfalarında gizli bir hazine olarak beklemektedir.

@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/47/Rize%2C_Ayder_Yaylas%C4%B1.jpg","alt":"Ayder manzarası","credit":"Phoenix2351","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ayder%2C_August_2019_%281%29.jpg/960px-Ayder%2C_August_2019_%281%29.jpg","alt":"Ayder","caption":"Ayder","credit":"Ayder, August 2019 (1)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Ayder%2C_August_2019_%281%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ayder%2C_August_2019_%281%29.jpg/1280px-Ayder%2C_August_2019_%281%29.jpg","alt":"Ayder - Ayder, August 2019 (1)","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Ayder%2C_August_2019_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ayder%2C_August_2019_%282%29.jpg/1280px-Ayder%2C_August_2019_%282%29.jpg","alt":"Ayder - Ayder, August 2019 (2)","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/Ayder%2C_August_2019_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ayder%2C_August_2019_%283%29.jpg/1280px-Ayder%2C_August_2019_%283%29.jpg","alt":"Ayder - Ayder, August 2019 (3)","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6b/Ayder%2C_August_2019_%284%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ayder%2C_August_2019_%284%29.jpg/1280px-Ayder%2C_August_2019_%284%29.jpg","alt":"Ayder - Ayder, August 2019 (4)","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Ayder%2C_August_2019_%285%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ayder%2C_August_2019_%285%29.jpg/1280px-Ayder%2C_August_2019_%285%29.jpg","alt":"Ayder - Ayder, August 2019 (5)","credit":"BSRF","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayder","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q2582947","tip":"genel"}]
-description: "Rize'nin Çamlıhemşin ilçesinde yer alan Ayder, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor"
+
 keywords: ["Ayder","Çamlıhemşin","Rize","Karadeniz Bölgesi","yeşil alan","fauna","flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q2582947"
@@ -50,7 +50,6 @@ Ayder, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelli
 
 ## İlginç Bilgiler
 
-- Ayder, 140 hektarlık yeşil alanı ile birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
 - Bölge, zengin fauna çeşitliliği ile dikkat çekmekte ve numerous farklı türde bitki ve hayvanın yaşadığı bir bölge olarak bilinir
 - Ayder, özellikle doğa severler için ideal bir destinasyon olarak görülüyor
 - Bölge, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahip olur

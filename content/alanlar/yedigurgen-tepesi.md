@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Yedigürgen Tepesi","caption":"Yedigürgen Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yedig%C3%BCrgen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822255","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide illerinden Yalova'da bulunan Yedigürgen Tepesi, doğa severlerin gözdesi. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Marmara Bölgesi'nin güzide illerinden Yalova'da bulunan Yedigürgen Tepesi, doğa severlerin gözdesi."
 keywords: ["Yedigürgen Tepesi","Yalova","Marmara Bölgesi","doğa","tepe","gezi","yürüyüş","manzara","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34822255"

@@ -52,5 +52,5 @@ Mehmet Akif Ersoy Kabri'ni ziyaret etmek, hem tarihi önemi hem de doğal güzel
 - Mehmet Akif Ersoy, Türk edebiyatının önemli isimlerinden biridir.
 - İstiklâl Marşı'nı yazmıştır.
 - Mehmet Akif Ersoy Kabri, Eyüpsultan'da bulunan bir mezarlıkta yer almaktadır.
-- Kabir, 140 hektarlık bir yeşil alanın içinde bulunmaktadır.
+
 - Mehmet Akif Ersoy Kabri, bir plaj olarak da bilinir.

@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet sürme","oyun alanları","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Trip_to_Ankara_%282015-04-15%29_19.jpg","alt":"Ankapark manzarası","credit":"mos.ru","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trip_to_Ankara_%282015-04-15%29_15.jpg/960px-Trip_to_Ankara_%282015-04-15%29_15.jpg","alt":"Ankapark","caption":"Ankapark","credit":"Trip to Ankara (2015-04-15) 15","license":"CC BY 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Trip_to_Ankara_%282015-04-15%29_15.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trip_to_Ankara_%282015-04-15%29_15.jpg/1280px-Trip_to_Ankara_%282015-04-15%29_15.jpg","alt":"Ankapark - Trip to Ankara (2015-04-15) 15","credit":"mos.ru","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Trip_to_Ankara_%282015-04-15%29_13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Trip_to_Ankara_%282015-04-15%29_13.jpg/1280px-Trip_to_Ankara_%282015-04-15%29_13.jpg","alt":"Ankapark - Trip to Ankara (2015-04-15) 13","credit":"mos.ru","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Trip_to_Ankara_%282015-04-15%29_14.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Trip_to_Ankara_%282015-04-15%29_14.jpg/1280px-Trip_to_Ankara_%282015-04-15%29_14.jpg","alt":"Ankapark - Trip to Ankara (2015-04-15) 14","credit":"mos.ru","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Trip_to_Ankara_%282015-04-15%29_17.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Trip_to_Ankara_%282015-04-15%29_17.jpg/1280px-Trip_to_Ankara_%282015-04-15%29_17.jpg","alt":"Ankapark - Trip to Ankara (2015-04-15) 17","credit":"mos.ru","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/67/Trip_to_Ankara_%282015-04-15%29_16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Trip_to_Ankara_%282015-04-15%29_16.jpg/1280px-Trip_to_Ankara_%282015-04-15%29_16.jpg","alt":"Ankapark - Trip to Ankara (2015-04-15) 16","credit":"mos.ru","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankapark","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20477030","tip":"genel"}]
-description: "Ankara'nın en büyük parklarından biri olan Ankapark, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor."
+"
 keywords: ["Ankapark","Ankara","park","yeşil alan","rekreasyon"," eğlence","doğa","çevre","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q20477030"
@@ -30,7 +30,7 @@ wikidata_id: "Q20477030"
 
 # Ankapark
 
-Ankapark, Ankara'nın kalbinde yer alan 140 hektarlık devasa bir yeşil alan olarak ziyaretçilerini bekliyor. Ankapark'ta çeşitli etkinlikler ve aktiviteleri bulunduran bir mekan olarak, hem çocuklar hem de yetişkinler için keyifli anlar vaat ediyor. Parkın içinde bulunan yürüyüş yolları, bisiklet parkurları ve oyun alanları, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
+ Ankapark'ta çeşitli etkinlikler ve aktiviteleri bulunduran bir mekan olarak, hem çocuklar hem de yetişkinler için keyifli anlar vaat ediyor. Parkın içinde bulunan yürüyüş yolları, bisiklet parkurları ve oyun alanları, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Ankapark'ı ziyaret etmek, her mevsim keyifli olabilir. İlkbahar ve yaz ayları
 ## İlginç Bilgiler
 
 - Ankapark, Ankara'nın en büyük parklarından biri.
-- 140 hektarlık yeşil alan.
+
 - Varyetlivé bitki türleri.
 - Çeşitli hayvan türlerine ev sahipliği yapıyor.
 - Ankara'nın merkezinde bulunuyor.

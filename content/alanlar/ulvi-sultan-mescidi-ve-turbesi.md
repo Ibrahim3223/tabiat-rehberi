@@ -50,7 +50,6 @@ Ulvi Sultan Mescidi ve Türbesi'ni ziyaret etmek, Konya'nın tarihi ve doğal g�
 
 ## İlginç Bilgiler
 
-- Mekan, 140 hektarlık bir yeşil alan içerisinde yer alıyor
 - Ulvi Sultan Mescidi ve Türbesi, Konya'nın Meram ilçesinde yer alıyor
 - Mekan, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor
 - Mekanda, çeşitli bitki türleri ve ağaçlar yer alıyor

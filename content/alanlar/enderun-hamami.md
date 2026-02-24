@@ -29,7 +29,7 @@ wikidata_id: "Q131739150"
 
 # Enderun Hamamı
 
-Enderun Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi plaj, yaklaşık 140 hektarlık bir alanı kaplıyor. Enderun Hamamı'nın tarihi geçmişi, ziyaretçilerini cezbeden bir diğer önemli unsur. Bu plaj, yüzyıllar boyunca insanların çekildiği, dinlendiği ve doğayı seyrettiği bir nokta olarak biliniyor. Enderun Hamamı, hem tarihi zenginliği hem de doğal güzelliği ile ziyaretçilerini bekliyor.
+Enderun Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Enderun Hamamı'nın tarihi geçmişi, ziyaretçilerini cezbeden bir diğer önemli unsur. Bu plaj, yüzyıllar boyunca insanların çekildiği, dinlendiği ve doğayı seyrettiği bir nokta olarak biliniyor. Enderun Hamamı, hem tarihi zenginliği hem de doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Enderun Hamamı, ziyaretçilere yıl boyunca çeşitli aktiviteler ve deneyimler
 
 ## İlginç Bilgiler
 
-- Enderun Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Plajın tarihi geçmişi, yüzyıllar boyunca insanların çekildiği, dinlendiği ve doğayı seyrettiği bir nokta olarak biliniyor.
 - Enderun Hamamı, Marmara Bölgesi'nin güzide noktalarından biri.
 - Plajın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunuyor.

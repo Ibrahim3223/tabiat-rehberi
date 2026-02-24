@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Uzung%C3%B6l_tabiat_park%C4%B1.jpg","alt":"Uzungöl Tabiat Parkı manzarası","credit":"Alizll0421","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/42/Uzung%C3%B6l_Tabiat_Park%C4%B1_-2_%C3%87aykara.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uzung%C3%B6l_Tabiat_Park%C4%B1_-2_%C3%87aykara.jpg/1280px-Uzung%C3%B6l_Tabiat_Park%C4%B1_-2_%C3%87aykara.jpg","alt":"Uzungöl Tabiat Parkı - Uzungöl Tabiat Parkı -2 Çaykara","credit":"ByAktas","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Uzung%C3%B6l_Nature_Park_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Uzung%C3%B6l_Nature_Park_02.jpg/1280px-Uzung%C3%B6l_Nature_Park_02.jpg","alt":"Uzungöl Tabiat Parkı - Uzungöl Nature Park 02","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Uzung%C3%B6l_Nature_Park_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Uzung%C3%B6l_Nature_Park_01.jpg/1280px-Uzung%C3%B6l_Nature_Park_01.jpg","alt":"Uzungöl Tabiat Parkı - Uzungöl Nature Park 01","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Uzung%C3%B6l_Nature_Park_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Uzung%C3%B6l_Nature_Park_03.jpg/1280px-Uzung%C3%B6l_Nature_Park_03.jpg","alt":"Uzungöl Tabiat Parkı - Uzungöl Nature Park 03","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Uzung%C3%B6l_Tabiat_Park%C4%B1_Panorama.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Uzung%C3%B6l_Tabiat_Park%C4%B1_Panorama.jpg/1280px-Uzung%C3%B6l_Tabiat_Park%C4%B1_Panorama.jpg","alt":"Uzungöl Tabiat Parkı - Uzungöl Tabiat Parkı Panorama","credit":"Tipi01","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzung%C3%B6l%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227068","tip":"genel"}]
-description: "Trabzon'da bulunan Uzungöl Tabiat Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Uzungöl","Tabiat Parkı","Trabzon","Karadeniz Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227068"
@@ -50,7 +50,6 @@ Uzungöl Tabiat Parkı, ziyaretçilere çeşitli olanaklar sunar. Parka, Çaykar
 
 ## İlginç Bilgiler
 
-- Uzungöl Tabiat Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Park, Çaykara ilçesinin kuzeybatısında yer alır
 - Uzungöl'ün yüksekliği, yaklaşık 1000 metre
 - Parkta, çeşitli bitki türleri ve yaban hayatı bulunur

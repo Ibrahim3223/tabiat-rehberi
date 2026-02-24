@@ -29,7 +29,7 @@ wikidata_id: "Q131391560"
 
 # Sultan V. Murat Türbesi
 
-Sultan V. Murat Türbesi, Fatih/İstanbul'da yer alan tarihi bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kuruludur. Sultan V. Murat Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Türbenin bulunduğu bölge, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Burada, tarihi eserlerin yanı sıra, doğal güzellikleri de keşfetme mümkündür.
+Sultan V. Murat Türbesi, Fatih/İstanbul'da yer alan tarihi bir türbedir. Sultan V. Murat Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Türbenin bulunduğu bölge, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Burada, tarihi eserlerin yanı sıra, doğal güzellikleri de keşfetme mümkündür.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Sultan V. Murat Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri keşfe
 ## İlginç Bilgiler
 
 - Sultan V. Murat Türbesi, İstanbul'un en önemli tarihi eserlerinden biridir.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kuruludur.
+
 - Sultan V. Murat Türbesi, yüzyıllar boyunca birçok restorasyon çalışmasına sahne olmuştur.
 - Türbenin bulunduğu bölge, birçok tarihi esere ev sahipliği yapmaktadır.
 - Sultan V. Murat Türbesi, doğal güzellikleri ve tarihi eserleri bir araya getiren önemli bir destinasyondur.

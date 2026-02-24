@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/35/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9526_hamdigumus.jpg","alt":"Samandere Selalesi manzarası","credit":"Hamdigumus","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg/1280px-Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg","alt":"Samandere Selalesi - Samandere Şelalesi Tabiat Anıtı - Ağustos 2013 IMG 9443 hamdigumus","credit":"Hamdigumus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Samandere_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Samandere_%C5%9Eelalesi.jpg/1280px-Samandere_%C5%9Eelalesi.jpg","alt":"Samandere Selalesi - Samandere Şelalesi","credit":"Photogrepher98","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/69/Samandere_%C5%9Eelalesi_D%C3%BCzce.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Samandere_%C5%9Eelalesi_D%C3%BCzce.jpg/1280px-Samandere_%C5%9Eelalesi_D%C3%BCzce.jpg","alt":"Samandere Selalesi - Samandere Şelalesi Düzce","credit":"Aierturk","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ab/D%C3%BCzce_Samandere_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/a/ab/D%C3%BCzce_Samandere_%C5%9Eelalesi.jpg","alt":"Samandere Selalesi - Düzce Samandere Şelalesi","credit":"Photogrepher98","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/SamandereSelalesi-SamandereProvince.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f6/SamandereSelalesi-SamandereProvince.jpg","alt":"Samandere Selalesi - SamandereSelalesi-SamandereProvince","credit":"Mehmetserifpasa","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samandere%20Selalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227054","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Samandere Selalesi","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm","milli park","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227054"
@@ -31,7 +31,7 @@ Samandere Selalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Samandere Selalesi, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birisidir. Bu bölge, dağların eteklerinde kurulmuştur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Samandere Selalesi, 140 hektarlık bir alanı kaplar. Samandere Selalesi'nin iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösterir. Burada, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Samandere Selalesi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar. Bahar aylarında, burada bulunan bitkiler çiçek açar ve bölge renklenir. Yaz aylarında, sıcaklık artar ve bölge turizm açısından hareketlenir. Sonbahar aylarında, bölgeye bir güzelliği hakim olur ve bitkiler renk değiştirir. Kış aylarında, bölge karlarla kaplanır ve bir kış güzelliği sunar.
+Samandere Selalesi, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birisidir. Bu bölge, dağların eteklerinde kurulmuştur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Samandere Selalesi'nin iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösterir. Burada, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Samandere Selalesi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar. Bahar aylarında, burada bulunan bitkiler çiçek açar ve bölge renklenir. Yaz aylarında, sıcaklık artar ve bölge turizm açısından hareketlenir. Sonbahar aylarında, bölgeye bir güzelliği hakim olur ve bitkiler renk değiştirir. Kış aylarında, bölge karlarla kaplanır ve bir kış güzelliği sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Samandere Selalesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim 
 
 ## İlginç Bilgiler
 
-- Samandere Selalesi, 140 hektarlık bir alanı kaplar
 - Samandere Selalesi, İç Anadolu Bölgesi'nin kalbinde yer alır
 - Samandere Selalesi, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Samandere Selalesi, ekoloji açısından önemli bir merkezdir

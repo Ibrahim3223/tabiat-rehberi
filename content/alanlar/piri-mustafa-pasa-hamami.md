@@ -29,7 +29,7 @@ wikidata_id: "Q131738618"
 
 # Piri Mustafa Paşa Hamamı
 
-Piri Mustafa Paşa Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültürel miras olarak dikkat çeker. Fatih ilçesinde bulunan bu hamam, tarihi geçmişinin yanı sıra mimari yapısı ile de ziyaretçilerini etkiler. 140 hektarlık bir alanda yer almayan bu hamam, daha çok tarihi ve kültürel önemi ile tanınır. Piri Mustafa Paşa Hamamı, İstanbul'un kalbinde, tarihi yarımadada yer alır ve şehrin önemli turistik noktalarından biridir. Bu hamam, şehrin zengin tarihini ve kültürel mirasını yansıtan önemli bir yapı olarak ziyaretçilerini bekler.
+Piri Mustafa Paşa Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültürel miras olarak dikkat çeker. Fatih ilçesinde bulunan bu hamam, tarihi geçmişinin yanı sıra mimari yapısı ile de ziyaretçilerini etkiler. Piri Mustafa Paşa Hamamı, İstanbul'un kalbinde, tarihi yarımadada yer alır ve şehrin önemli turistik noktalarından biridir. Bu hamam, şehrin zengin tarihini ve kültürel mirasını yansıtan önemli bir yapı olarak ziyaretçilerini bekler.
 
 ## Tarihçe
 

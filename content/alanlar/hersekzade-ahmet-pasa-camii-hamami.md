@@ -29,7 +29,7 @@ wikidata_id: "Q131739225"
 
 # Hersekzade Ahmet Paşa Camii Hamamı
 
-Hersekzade Ahmet Paşa Camii Hamamı, Edirne'nin Keşan ilçesinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde konumlanmış bu eser, tarihin izlerini taşıyan önemli bir kültürel mirastır. Camii ve hamamın bir arada olması, bu yapıyı benzerlerinden ayıran önemli bir özelliktir. Historik dokusu ve mimari güzelliği ile ziyaretçilerini cezbeden bu mekan, Marmara Bölgesi'nin önemli turizm noktalarından biridir.
+Hersekzade Ahmet Paşa Camii Hamamı, Edirne'nin Keşan ilçesinde yer alan tarihi bir yapıdır. Camii ve hamamın bir arada olması, bu yapıyı benzerlerinden ayıran önemli bir özelliktir. Historik dokusu ve mimari güzelliği ile ziyaretçilerini cezbeden bu mekan, Marmara Bölgesi'nin önemli turizm noktalarından biridir.
 
 ## Tarihçe
 

@@ -36,7 +36,7 @@ Alraacık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Alraacık Tepesi, coğrafi olarak Hatay ilinin merkezi ile çevredeki dağların birleştiği bir noktada bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki doğal güzellikler ile birlikte önemli bir ekosistem oluşturur. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda olup, bu yükseklik sayesinde çevre bölgelerin panoramik manzarasını sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur ve bu bölge, doğa severler için önemli bir çekim merkezi olarak kabul edilir.
+Alraacık Tepesi, coğrafi olarak Hatay ilinin merkezi ile çevredeki dağların birleştiği bir noktada bulunur. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda olup, bu yükseklik sayesinde çevre bölgelerin panoramik manzarasını sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur ve bu bölge, doğa severler için önemli bir çekim merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 

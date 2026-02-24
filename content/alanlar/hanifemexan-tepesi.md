@@ -48,8 +48,6 @@ Hanifemexan Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf sanatçıları 
 
 ## İlginç Bilgiler
 
-- Hanifemexan Tepesi, 140 hektarlık bir alanı kaplar.
-
 - Hanifemexan Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır.
 - Bu tepe, çeşitli bitki türleri ile kaplıdır.
 - Hanifemexan Tepesi, aynı zamanda çeşitli hayvan türleri ile ev sahipliği yapar.

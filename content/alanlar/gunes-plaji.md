@@ -51,7 +51,7 @@ Güneş Plajı, yılın her döneminde ziyaret edilebilir. Plaja, toplu taşıma
 ## İlginç Bilgiler
 
 - Plajın uzunluğu uzun bir mesafe, genişliği ise 150 metredir
-- Plaj, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir
+
 - Plajda, deniz suyunun temizliği ve berraklığı, ziyaretçilerin denizde keyifli bir gün geçirmesini sağlar
 - Plajın etrafı, yüksek ağaçlarla çevrili bir yeşil alana sahiptir
 - Plajın yakınında, çeşitli restoranlar ve kafeler bulunmaktadır

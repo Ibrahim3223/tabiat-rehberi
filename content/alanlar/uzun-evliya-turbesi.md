@@ -37,7 +37,7 @@ Uzun Evliya Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Uzun Evliya Türbesi, Beykoz ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, 140 hektarlık alanıyla geniş bir yeşil alanı sunuyor. Coğrafi olarak, Uzun Evliya Türbesi, deniz seviyesinden yüksek bir konumda yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Uzun Evliya Türbesi'nin coğrafi özellikleri, İstanbul'un doğal güzelliklerini sunuyor. Bu bölge, ziyaretçilerine geniş bir yeşil alan ve deniz manzarası sunuyor. Coğrafi olarak, Uzun Evliya Türbesi, İstanbul'un önemli doğal alanlarından biridir.
+Uzun Evliya Türbesi, Beykoz ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Coğrafi olarak, Uzun Evliya Türbesi, deniz seviyesinden yüksek bir konumda yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Uzun Evliya Türbesi'nin coğrafi özellikleri, İstanbul'un doğal güzelliklerini sunuyor. Bu bölge, ziyaretçilerine geniş bir yeşil alan ve deniz manzarası sunuyor. Coğrafi olarak, Uzun Evliya Türbesi, İstanbul'un önemli doğal alanlarından biridir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Uzun Evliya Türbesi'ni ziyaret etmek için, Beykoz ilçesine gitmek gerekiyor. 
 
 ## İlginç Bilgiler
 
-- Uzun Evliya Türbesi, 140 hektarlık bir alana sahiptir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Uzun Evliya Türbesi, İstanbul'un önemli doğal alanlarından biridir.
 - Bu bölge, tarihi yapılar ve anıtlar ile dolu.

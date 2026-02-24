@@ -51,6 +51,6 @@ Sadyattes II Tümülüsü, ziyaretçiler için önemli bir destinasyondur. Buray
 
 - Sadyattes II Tümülüsü, Lidya Krallığı'na aittir.
 - Bu yapı, Sadyattes II'ye aittir.
-- Sadyattes II Tümülüsü, 140 hektarlık bir alana yayılmıştır.
+
 - Bu yapı, tarihin izlerini taşıyan bir mekândır.
 - Sadyattes II Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.

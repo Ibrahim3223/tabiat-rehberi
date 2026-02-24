@@ -38,7 +38,7 @@ wikidata_id: "Q131391758"
 
 ## Coğrafya
 
-Üç Bacılar Türbesi, Bitlis ilinin coğrafi yapısı içerisinde önemli bir yere sahip. İç Anadolu Bölgesi'nde bulunan bu türbe, bölgenin coğrafi özelliklerini yansıtan bir yapı olarak dikkat çekiyor. 140 hektarlık bir alanı kapsayan bu türbe, bölgenin doğal güzelliklerini de içerisinde barındırıyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, burada da görülüyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrado. Mevsimsel değişimler, bu bölgede belirgin olarak görülüyor. Kış aylarında karla kaplanan bölge, yaz aylarında ise yeşilin verschill türlerini sunuyor. Üç Bacılar Türbesi, coğrafi konumu itibariyle, ziyaretçiler için önemli bir gezi noktası olarak kabul ediliyor.
+Üç Bacılar Türbesi, Bitlis ilinin coğrafi yapısı içerisinde önemli bir yere sahip. İç Anadolu Bölgesi'nde bulunan bu türbe, bölgenin coğrafi özelliklerini yansıtan bir yapı olarak dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, burada da görülüyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrado. Mevsimsel değişimler, bu bölgede belirgin olarak görülüyor. Kış aylarında karla kaplanan bölge, yaz aylarında ise yeşilin verschill türlerini sunuyor. Üç Bacılar Türbesi, coğrafi konumu itibariyle, ziyaretçiler için önemli bir gezi noktası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131391758"
 ## İlginç Bilgiler
 
 - Üç Bacılar Türbesi, Bitlis'in en önemli tarihi ve kültürel miraslarından biri olarak kabul ediliyor.
-- Türbe, 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyor.
 - Üç Bacılar Türbesi, yılın her döneminde ziyaret edilebilir.
 - Bölge, mevsimsel değişimlere göre, farklı etkinlikler için uygun bir yer olarak kabul ediliyor.

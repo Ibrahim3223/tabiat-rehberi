@@ -51,5 +51,5 @@ Enver Paşa Anıt Mezarı, ziyaretçilerini tarihin sayfalarına götürüyor ve
 
 - Enver Paşa Anıt Mezarı, Enver Paşa'nın anısına yapılmış bir anıt mezar.
 - Bu mekan, İstanbul'un Şişli ilçesinde bulunuyor.
-- Enver Paşa Anıt Mezarı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Bu mekan, ziyaretçilerini tarihin sayfalarına götürüyor.

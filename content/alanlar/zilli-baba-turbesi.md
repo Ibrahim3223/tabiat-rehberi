@@ -29,7 +29,7 @@ wikidata_id: "Q131391823"
 
 # Zilli Baba Türbesi
 
-Zilli Baba Türbesi, Adana'nın Seyhan ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi türbe ve plaj, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Zilli Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir kültürel miras olan bu türbe, aynı zamanda çevresi ile birlikte güzel bir doğa manzarası sunuyor.
+Zilli Baba Türbesi, Adana'nın Seyhan ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Zilli Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir kültürel miras olan bu türbe, aynı zamanda çevresi ile birlikte güzel bir doğa manzarası sunuyor.
 
 ## Tarihçe
 

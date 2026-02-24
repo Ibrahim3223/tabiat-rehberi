@@ -50,7 +50,7 @@ Abdurrahim Tırsi Türbesi, ziyaretçilerine keyifli vakit geçirtmek için bir�
 ## İlginç Bilgiler
 
 - Abdurrahim Tırsi Türbesi, Mudurnu'nun en önemli turistik merkezlerinden biridir
-- Bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur
+
 - Abdurrahim Tırsi Türbesi, Karadeniz Bölgesi'nin karakteristik iklimini taşıyor
 - Bölge, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor
 - Abdurrahim Tırsi Türbesi, aynı zamanda bir kültür merkezi olarak da kullanılıyor

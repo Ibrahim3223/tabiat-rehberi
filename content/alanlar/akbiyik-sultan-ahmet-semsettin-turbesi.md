@@ -52,5 +52,5 @@ Akbıyık Sultan Ahmet Şemsettin Türbesi'ni ziyaret etmek, tarihin derinlikler
 - Türbenin inşası, 14. yüzyılda yapılmıştır.
 - Türbe, Sultan Ahmet Şemsettin tarafından yaptırılmıştır.
 - Türbenin mimarisi, Osmanlı dönemi özellikleri taşımaktadır.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almaktadır.
+
 - Türbenin çevresinde, çeşitli bitkiler ve ağaçlar bulunmaktadır.

@@ -30,7 +30,7 @@ wikidata_id: "Q21526234"
 
 # Hekatomnos Anıt Mezarı
 
-Hekatomnos Anıt Mezarı, Ege Bölgesi'nin tarihi zenginliklerini yansıtan önemli mekanlardan biri olarak Milas'ta yer alıyor. Bu anıt mezar, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve tarihi geçmişi ile dikkat çekiyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Hekatomnos Anıt Mezarı, sadece bir tarihi yapı değil, aynı zamanda bir kültürel miras olarak da kabul ediliyor.
+Hekatomnos Anıt Mezarı, Ege Bölgesi'nin tarihi zenginliklerini yansıtan önemli mekanlardan biri olarak Milas'ta yer alıyor. Hekatomnos Anıt Mezarı, sadece bir tarihi yapı değil, aynı zamanda bir kültürel miras olarak da kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hekatomnos Anıt Mezarı, tarihi geçmişi ile dikkat çekiyor. Bu anıt mezarı
 
 ## Coğrafya
 
-Hekatomnos Anıt Mezarı, Milas'ta yer alan bir tarihi mekan olarak, coğrafi konumu ile dikkat çekiyor. Bu anıt mezar, Ege Bölgesi'nin coğrafi yapısını yansıtan bir şekilde, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış durumda. Çevresinde yer alan doğal güzellikler, bu mezarın önemini daha da artırıyor. Hekatomnos Anıt Mezarı, bir yandan tarihi değerlerini taşırken, diğer yandan da doğal güzellikleri ile ziyaretçilerini etkiliyor. Coğrafi konumu, bu anıt mezarı özel kılıyor ve onu ziyaret edenler için unutulmaz bir deneyim sunuyor. Hekatomnos Anıt Mezarı, Ege Bölgesi'nin coğrafi çeşitliliğini yansıtan bir mekan olarak, ziyaretçilerine zengin bir deneyim vaat ediyor.
+Hekatomnos Anıt Mezarı, Milas'ta yer alan bir tarihi mekan olarak, coğrafi konumu ile dikkat çekiyor. Çevresinde yer alan doğal güzellikler, bu mezarın önemini daha da artırıyor. Hekatomnos Anıt Mezarı, bir yandan tarihi değerlerini taşırken, diğer yandan da doğal güzellikleri ile ziyaretçilerini etkiliyor. Coğrafi konumu, bu anıt mezarı özel kılıyor ve onu ziyaret edenler için unutulmaz bir deneyim sunuyor. Hekatomnos Anıt Mezarı, Ege Bölgesi'nin coğrafi çeşitliliğini yansıtan bir mekan olarak, ziyaretçilerine zengin bir deneyim vaat ediyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hekatomnos Anıt Mezarı, ziyaretçilerine zengin bir deneyim sunuyor. Bu anıt 
 ## İlginç Bilgiler
 
 - Hekatomnos Anıt Mezarı, Ege Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul ediliyor.
-- Bu anıt mezar, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış durumda.
+
 - Hekatomnos Anıt Mezarı, tarihin sayfalarını açma fırsatı sunuyor.
 - Bu mekan, doğal güzellikleri ile de dikkat çekiyor.
 - Hekatomnos Anıt Mezarı, flora ve fauna açısından zengin bir mekan olarak kabul ediliyor.

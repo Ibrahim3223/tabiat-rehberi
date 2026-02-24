@@ -15,8 +15,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Gölcük Tabiat Parkı manzarası","credit":"Rmznshn","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/1280px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Gölcük Tabiat Parkı - Gölcük Tabiat Parkı Piknik Alanı 2015-1","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/1280px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Gölcük Tabiat Parkı - Gölcük Tabiat Parkı Piknik Alanı 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/1280px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Gölcük Tabiat Parkı - Gölcük Tabiat Parkı Piknik Alanı","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/1280px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Gölcük Tabiat Parkı - Gölcük Tabiat Parkı Karlar Altında 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/1280px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Gölcük Tabiat Parkı - Gölcük Tabiat Parkı Piknik Alanı 2015-2","credit":"Hamdigumus","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lc%C3%BCk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227069","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Gölcük Tabiat Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Gölcük Tabiat Parkı","İç Anadolu Bölgesi","Tabiat Parkı","Doğa","Yeşil Alan","Futbol Sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227069"
 ---
@@ -43,7 +43,6 @@ Gölcük Tabiat Parkı'nı ziyaret etmek, doğa severler için unutulmaz bir den
 
 ## İlginç Bilgiler
 
-- Gölcük Tabiat Parkı, 140 hektarlık bir yeşil alana sahip.
 - Parkta, çeşitli bitki ve hayvan türleri yaşuyor.
 - Gölcük Tabiat Parkı, İç Anadolu Bölgesi'nde yer alıyor.
 - Park, yılın her mevsiminde ziyaret edilebilir.

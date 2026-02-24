@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Bisiklet","Kamp","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"YUNUS EMRE_TP","caption":"YUNUS EMRE_TP","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YUNUS%20EMRE_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228787","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["YUNUS EMRE_TP","İç Anadolu Bölgesi","doğal güzellikler","milli park","çevre","ekoloji","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228787"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228787"
 
 # YUNUS EMRE_TP
 
-YUNUS EMRE_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın güzel manzaralarını keşfedebilir ve doğa ile iç içe olabilir. YUNUS EMRE_TP, aynı zamanda bir eğitim merkezi olarak da hizmet vermektedir. Burada, doğa ve çevre hakkında bilgi edinebilir ve çeşitli etkinliklere katılabilirsiniz.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın güzel manzaralarını keşfedebilir ve doğa ile iç içe olabilir. YUNUS EMRE_TP, aynı zamanda bir eğitim merkezi olarak da hizmet vermektedir. Burada, doğa ve çevre hakkında bilgi edinebilir ve çeşitli etkinliklere katılabilirsiniz.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ YUNUS EMRE_TP, ziyaretçiler için çeşitli olanaklar sunar. Parkın içinde, y
 
 ## İlginç Bilgiler
 
-- YUNUS EMRE_TP, 140 hektarlık bir alana sahiptir.
 - Parkın içinde, çeşitli bitki ve hayvan türleri bulunur.
 - YUNUS EMRE_TP, bir eğitim merkezi olarak da hizmet vermektedir.
 - Parkın ziyaret saatleri, mevsimsel olarak değişir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31386550"
 
 # Toprakkale Tepesi
 
-Toprakkale Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tarihi ve doğal güzellikleriyle dikkat çeken Toprakkale Tepesi, gezginler için önemli bir destinasyon. Bu tepe, bölgenin coğrafi ve kültürel özelliklerini yansıtıyor. Toprakkale Tepesi, ziyaretçilerine tarihi ve doğal güzellikleri bir arada sunuyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Toprakkale Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Tarihi ve doğal güzellikleriyle dikkat çeken Toprakkale Tepesi, gezginler için önemli bir destinasyon. Bu tepe, bölgenin coğrafi ve kültürel özelliklerini yansıtıyor. Toprakkale Tepesi, ziyaretçilerine tarihi ve doğal güzellikleri bir arada sunuyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

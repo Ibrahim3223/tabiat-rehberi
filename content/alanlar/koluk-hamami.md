@@ -49,8 +49,6 @@ Kölük Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en uygun ziyaret
 
 ## İlginç Bilgiler
 
-- Kölük Hamamı, 140 hektarlık bir alanı kaplar.
-
 - Kölük Hamamı, doğal güzellikleri ve tarihi önemi ile dikkat çeker.
 - Bölge, yüzyıllar öncesine kadar uzanan bir tarihi geçmişi sahiptir.
 - Kölük Hamamı, flora ve fauna açısından zengin bir bölge olarak bilinir.

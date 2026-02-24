@@ -48,8 +48,6 @@ wikidata_id: "Q31389243"
 
 ## İlginç Bilgiler
 
-- Şıkırın Tepesi, 140 hektarlık bir alana sahip
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Şıkırın Tepesi, yüksek bir konumdate yer alıyor
 - Bu tepe, birçok farklı türde bitki ve hayvana ev sahipliği yapıyor
 - Şıkırın Tepesi, trekking ve doğa yürüyüşü için ideal bir ortam sunuyor

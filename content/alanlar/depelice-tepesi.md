@@ -50,6 +50,6 @@ Depelice Tepesi, Kastamonu'nun önemli turizm noktalarından biri. Tepenin yüks
 
 - Depelice Tepesi, Kastamonu'nun en yüksek noktalarından biri.
 - Tepenin etrafı, ormanlarla çevrili.
-- Depelice Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Tepenin yüksekliği, Kastamonu'nun en soğuk noktalarından biri olarak biliniyor.
 - Depelice Tepesi, yılın her döneminde ziyaret edilebilir.

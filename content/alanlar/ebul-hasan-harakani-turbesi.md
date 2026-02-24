@@ -29,7 +29,7 @@ wikidata_id: "Q131390852"
 
 # Ebul Hasan Harakani Türbesi
 
-Ebul Hasan Harakani Türbesi, Kars ilinin merkezinde yer alan tarihi ve kültürel bir mekândır. 12. yüzyılda yaşamış olan Ebul Hasan Harakani'nin türbesi, yaklaşık 140 hektarlık bir alan üzerinde bulunmaktadır. Türbe, Kars'ın tarihi ve kültürel mirasının önemli bir parçasıdır ve her yıl çok sayıda ziyaretçi çekmektedir. Ziyaretçiler, türbenin tarihi yapısını ve çevresindeki doğal güzelliği keşfedebilirler.
+Ebul Hasan Harakani Türbesi, Kars ilinin merkezinde yer alan tarihi ve kültürel bir mekândır. 12. Türbe, Kars'ın tarihi ve kültürel mirasının önemli bir parçasıdır ve her yıl çok sayıda ziyaretçi çekmektedir. Ziyaretçiler, türbenin tarihi yapısını ve çevresindeki doğal güzelliği keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ebul Hasan Harakani Türbesi, 12. yüzyılda yaşamış olan Ebul Hasan Harakani
 
 ## Coğrafya
 
-Ebul Hasan Harakani Türbesi, Kars ilinin merkezinde yer almaktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, Kars'ın tarihi ve kültürel merkezi olarak kabul edilen bölgede bulunmaktadır. Türbenin çevresinde, çeşitli tarihi yapılar, müzeler ve kültürel mekânlar yer almaktadır. Kars, Doğu Anadolu Bölgesi'nin en önemli illerinden biri olup, tarihi ve kültürel zenginliklere sahiptir. Şehir, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla önemli bir tarihi mirasa sahiptir.
+Ebul Hasan Harakani Türbesi, Kars ilinin merkezinde yer almaktadır. Bu alan, Kars'ın tarihi ve kültürel merkezi olarak kabul edilen bölgede bulunmaktadır. Türbenin çevresinde, çeşitli tarihi yapılar, müzeler ve kültürel mekânlar yer almaktadır. Kars, Doğu Anadolu Bölgesi'nin en önemli illerinden biri olup, tarihi ve kültürel zenginliklere sahiptir. Şehir, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla önemli bir tarihi mirasa sahiptir.
 
 ## Flora ve Fauna
 

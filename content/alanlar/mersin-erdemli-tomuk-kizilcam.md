@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Orman içi trekking","Flora ve fauna gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kad%C4%B1nc%C4%B1k_Valley_17.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_17.jpg","alt":"Mersin-Erdemli-Tomuk Kızılçam","caption":"Mersin-Erdemli-Tomuk Kızılçam","credit":"Kadıncık Valley 17.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Erdemli-Tomuk%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227435","tip":"genel"}]
-description: "Mersin'in Erdemli ilçesinde yer alan Tomuk Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Mersin","Erdemli","Tomuk Kızılçam","Milli Park","Doğa","Kızılçam","Orman","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227435"

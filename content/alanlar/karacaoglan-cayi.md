@@ -44,7 +44,7 @@ Karacaoğlan Çayı, ziyaretçilere keyifli ve huzurlu bir deneyim sunar. Burada
 ## İlginç Bilgiler
 
 - Karacaoğlan Çayı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çayın kenarında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Karacaoğlan Çayı, Türk edebiyatının önemli isimlerinden biri olan Karacaoğlan'ın yaşadığı ve ilham aldığı bir yerdir.
 - Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı verir.

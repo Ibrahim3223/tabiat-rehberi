@@ -37,7 +37,7 @@ Abalı Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu t�
 
 ## Coğrafya
 
-Abalı Baba Türbesi, Ankara'nın Yenimahalle ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir yeşil alan ve plajıyla, ziyaretçilere geniş bir açık alan sunuyor. Abalı Baba Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi bir türbe deneyimini yaşamasını hem de doğal güzelliklerin keyfini çıkarmasını sağlıyor. Bu bölge, Ankara'nın merkezine yakın bir konumda bulunması nedeniyle, ulaşım açısından da oldukça elverişlidir. Abalı Baba Türbesi ve çevresindeki plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak öne çıkıyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve bn mevsimi yaşayan bir bölgedir. Abalı Baba Türbesi, ziyaretçilerine mevsimsel değişimlerin keyfini çıkarma fırsatı sunuyor.
+Abalı Baba Türbesi, Ankara'nın Yenimahalle ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Abalı Baba Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi bir türbe deneyimini yaşamasını hem de doğal güzelliklerin keyfini çıkarmasını sağlıyor. Bu bölge, Ankara'nın merkezine yakın bir konumda bulunması nedeniyle, ulaşım açısından da oldukça elverişlidir. Abalı Baba Türbesi ve çevresindeki plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak öne çıkıyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve bn mevsimi yaşayan bir bölgedir. Abalı Baba Türbesi, ziyaretçilerine mevsimsel değişimlerin keyfini çıkarma fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Abalı Baba Türbesi ve plajını ziyaret etmek, hem tarihi bir deneyim hem de d
 - Abalı Baba Türbesi, Ankara'nın en önemli tarihi yapıtlarından biridir
 - Bu türbe, yüzyıllar öncesine dayanan bir geçmişe sahiptir
 - Abalı Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır
-- Bu bölge, yaklaşık 140 hektarlık bir yeşil alan ve plajı ile ziyaretçilere geniş bir açık alan sunuyor
+
 - Abalı Baba Türbesi, ziyaretçilerine responsible ve sürdürülebilir turizm uygulamalarına önem veren bir destinasyon olarak, doğal güzellikleri koruma altına alıyor

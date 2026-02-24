@@ -50,7 +50,6 @@ Yıldırım Beyazıt Hamamı, ziyaretçilerine çeşitli aktiviteler sunuyor. Zi
 
 ## İlginç Bilgiler
 
-- Yıldırım Beyazıt Hamamı, yaklaşık 140 hektarlık bir alana sahip
 - Yıldırım Beyazıt Hamamı, Karadeniz Bölgesi'nde yer alıyor
 - Yıldırım Beyazıt Hamamı, tarihi bir hamamın kalıntılarını görebilme imkanını sunuyor
 - Yıldırım Beyazıt Hamamı, çeşitli bitki türleri ile kaplıdır

@@ -52,6 +52,6 @@ Hayme Ana Türbesi'ni ziyaret etmek, ziyaretçilere güzel bir deneyim sunuyor. 
 
 - Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde yer alıyor.
 - Bu mekan, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor.
-- Türbe, 140 hektarlık bir alan içerisinde bulunur.
+
 - Hayme Ana Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliği ile birlikte sunulan bir turizm deneyimi sunuyor.
 - Bu mekan, kolay olarak ulaşılabilir ve ziyaret edilebilir.

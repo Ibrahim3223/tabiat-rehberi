@@ -36,7 +36,7 @@ wikidata_id: "Q31588984"
 
 ## Coğrafya
 
-İspilik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden önemli bir doğal oluşum. Tepenin yüksekliği ve etekleri, bölgenin iklimini ve coğrafi yapısını etkileyen unsurlar arasında yer alıyor. İspilik Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin coğrafi konumu, bölgenin su kaynaklarını ve toprak yapısını da etkiliyor. İspilik Tepesi'nin eteklerinde, sulak alanlar ve nehirler yer alıyor ve bu sulak alanlar, bölgenin ekolojik dengesini korumak için önemli. İspilik Tepesi, coğrafi olarak zengin bir bölge ve buranın doğal güzellikleri, ziyaretçileri cezbediyor. Tepenin yüksekliği ve çevresi, manzarası ile de dikkat çekiyor ve buradan, bölgenin geniş bir alanı görülebiliyor.
+İspilik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden önemli bir doğal oluşum. Tepenin yüksekliği ve etekleri, bölgenin iklimini ve coğrafi yapısını etkileyen unsurlar arasında yer alıyor. Tepenin coğrafi konumu, bölgenin su kaynaklarını ve toprak yapısını da etkiliyor. İspilik Tepesi'nin eteklerinde, sulak alanlar ve nehirler yer alıyor ve bu sulak alanlar, bölgenin ekolojik dengesini korumak için önemli. İspilik Tepesi, coğrafi olarak zengin bir bölge ve buranın doğal güzellikleri, ziyaretçileri cezbediyor. Tepenin yüksekliği ve çevresi, manzarası ile de dikkat çekiyor ve buradan, bölgenin geniş bir alanı görülebiliyor.
 
 ## Flora ve Fauna
 

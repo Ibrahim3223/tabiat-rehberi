@@ -28,7 +28,7 @@ wikidata_id: "Q31390364"
 
 # Karabay Tepesi
 
-Afyonkarahisar'ın güzide bir noktası olan Karabay Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve ziyaretçilerini büyüleyen bir destinasyondur. Karabay Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere ilgi duyanlar için bir çekim merkezi olarak kabul edilebilir. Bu tepe, Afyonkarahisar'ın önemli bir parçası olarak bilinir ve birçok ziyaretçiyi kendine çekmeyi başarır.
+ Karabay Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere ilgi duyanlar için bir çekim merkezi olarak kabul edilebilir. Bu tepe, Afyonkarahisar'ın önemli bir parçası olarak bilinir ve birçok ziyaretçiyi kendine çekmeyi başarır.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Karabay Tepesi'ni ziyaret etmek, birçok ziyaretçiçin unutulmaz bir deneyim ol
 ## İlginç Bilgiler
 
 - Karabay Tepesi, Afyonkarahisar'ın en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Karabay Tepesi, Ege Bölgesi'nin önemli bir coğrafi noktası olarak kabul edilir.
 - Bu tepe, birçok farklı bitki türü ve fauna çeşitliliğine ev sahipliği yapar.
 - Karabay Tepesi'ni ziyaret etmek, birçok ziyaretçiçin unutulmaz bir deneyim olabilir.

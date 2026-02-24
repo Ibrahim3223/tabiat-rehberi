@@ -22,7 +22,7 @@ wikidata_id: "Q108227915"
 
 # Mugla-Koycegiz-Koyobasi Kızılçam2
 
-Muğla'nın Koyceğiz ilçesinde yer alan Koyobasi Kızılçam2 milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Koyceğiz'in doğal güzellikleri arasında yer alan bu milli park, çam ağaçları ile süslü bir doğa harikası. Ziyaretçiler, bu güzel ortamda doğayı keşfe çıkabilir ve huzur dolu anlar yaşayabilir.
+ Koyceğiz'in doğal güzellikleri arasında yer alan bu milli park, çam ağaçları ile süslü bir doğa harikası. Ziyaretçiler, bu güzel ortamda doğayı keşfe çıkabilir ve huzur dolu anlar yaşayabilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Koyobasi Kızılçam2 milli parkını ziyaret etmek, Muğla'nın doğal güzelli
 
 ## İlginç Bilgiler
 
-- Koyobasi Kızılçam2 milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Milli park, Koyceğiz Gölü'nün yakınında yer alıyor.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Milli parkın coğrafi konumu, çeşitli aktiviteler sunuyor.

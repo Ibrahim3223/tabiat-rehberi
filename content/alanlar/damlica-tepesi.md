@@ -36,7 +36,7 @@ Damlıca Tepesi, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapm�
 
 ## Coğrafya
 
-Damlıca Tepesi, Edirne'nin merkezi bölgesinde yer alıyor ve şehrin önemli bir doğal güzelliği. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafı yeşilliklerle çevrili. Damlıca Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve buradan, Edirne'nin panoramik manzarasını izleme mümkün. Bu tepenin eteklerinde, çeşitli bitki türleri bulunuyor ve burası, özellikle bahar aylarında rengarenk bir görünüm sunuyor. Damlıca Tepesi, aynı zamanda bir su kaynağı olarak da kullanılıyor ve burada, çeşitli su türleri yer alıyor. Bu tepe, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı, ilkbahar ve sonbahar ayları.
+Damlıca Tepesi, Edirne'nin merkezi bölgesinde yer alıyor ve şehrin önemli bir doğal güzelliği. Damlıca Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve buradan, Edirne'nin panoramik manzarasını izleme mümkün. Bu tepenin eteklerinde, çeşitli bitki türleri bulunuyor ve burası, özellikle bahar aylarında rengarenk bir görünüm sunuyor. Damlıca Tepesi, aynı zamanda bir su kaynağı olarak da kullanılıyor ve burada, çeşitli su türleri yer alıyor. Bu tepe, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı, ilkbahar ve sonbahar ayları.
 
 ## Flora ve Fauna
 

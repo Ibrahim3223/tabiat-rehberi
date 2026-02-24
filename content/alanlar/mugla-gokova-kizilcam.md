@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Mugla-Gokova Kızılçam","caption":"Mugla-Gokova Kızılçam","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Gokova%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227462","tip":"genel"}]
-description: "Muğla'nın güzide milli parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor."
+"
 keywords: ["Mugla-Gokova Kızılçam","milli park","Muğla","Ege Bölgesi","doğa","kızılçam","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227462"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227462"
 
 # Mugla-Gokova Kızılçam
 
-Mugla-Gokova Kızılçam, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Parkın içinde yer alan kızılçam ağaçları, hem ziyaretçilere görsel bir şölen sunar hem de bölgenin ekolojisine katkı sağlar. Mugla-Gokova Kızılçam, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir destinasyon olarak dikkat çeker.
+ Parkın içinde yer alan kızılçam ağaçları, hem ziyaretçilere görsel bir şölen sunar hem de bölgenin ekolojisine katkı sağlar. Mugla-Gokova Kızılçam, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mugla-Gokova Kızılçam milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Mugla-Gokova Kızılçam milli parkı, Muğla'nın Ege Bölgesi'nde yer alır. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Parkın coğrafi yapısı, kızılçam ağaçları ile kaplı bir araziye sahiptir. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçer. Bu iklim, parkın flora ve faunası için ideal koşulları sağlar. Milli parkın çevresi, doğal güzelliği ile dikkat çeken bir bölgedir. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır.
+Mugla-Gokova Kızılçam milli parkı, Muğla'nın Ege Bölgesi'nde yer alır. Parkın coğrafi yapısı, kızılçam ağaçları ile kaplı bir araziye sahiptir. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçer. Bu iklim, parkın flora ve faunası için ideal koşulları sağlar. Milli parkın çevresi, doğal güzelliği ile dikkat çeken bir bölgedir. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mugla-Gokova Kızılçam milli parkını ziyaret etmek, doğa severler için unu
 
 ## İlginç Bilgiler
 
-- Mugla-Gokova Kızılçam milli parkı, 140 hektarlık bir yeşil alanı kapsar.
 - Parkın flora yapısı, ağırlıklı olarak kızılçam ağaçlarından oluşur.
 - Milli park, çeşitli bitki ve hayvan türleri ile ziyaretçilerini ağırlar.
 - Parkın içinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek tesisler bulunur.

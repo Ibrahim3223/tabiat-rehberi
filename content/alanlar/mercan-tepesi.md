@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/Erzincan_Ovas%C4%B1_17_06_88_Munzur_Da%C4%9Flar%C4%B1_1.jpg","alt":"Mercan Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mercan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562551","tip":"genel"}]
-description: "Ordu'nun eşsiz doğal güzelliklerinden biri olan Mercan Tepesi, Karadeniz Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ordu'nun eşsiz doğal güzelliklerinden biri olan Mercan Tepesi, Karadeniz Bölgesi'nde yer alır."
 keywords: ["Mercan Tepesi","Ordu","Karadeniz Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31562551"

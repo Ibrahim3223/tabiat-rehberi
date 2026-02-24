@@ -37,7 +37,7 @@ Acemoğlu Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. �
 
 ## Coğrafya
 
-Acemoğlu Hamamı, Fatih ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu bölge, coğrafi olarak İstanbul'un merkezi bir konumundadır. Hamam ve plaj alanı, 140 hektarlık bir arazi üzerinde kurulmuştur. Sahil şeridi, uzun bir mesafe uzunluğundadır ve geniş bir kumsal alanı sunmaktadır. Acemoğlu Hamamı'nın coğrafi konumu, ziyaretçilerin hem tarihi bir hamam hem de bir plaj alanında dinlenebilmelerine olanak sağlar. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlıdır. Yaz aylarında, sıcaklık genellikle yüksek olur ve bu, plajın ziyaretçilerini çekmesinin nedenlerinden biridir.
+Acemoğlu Hamamı, Fatih ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu bölge, coğrafi olarak İstanbul'un merkezi bir konumundadır. Sahil şeridi, uzun bir mesafe uzunluğundadır ve geniş bir kumsal alanı sunmaktadır. Acemoğlu Hamamı'nın coğrafi konumu, ziyaretçilerin hem tarihi bir hamam hem de bir plaj alanında dinlenebilmelerine olanak sağlar. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlıdır. Yaz aylarında, sıcaklık genellikle yüksek olur ve bu, plajın ziyaretçilerini çekmesinin nedenlerinden biridir.
 
 ## Flora ve Fauna
 

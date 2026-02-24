@@ -49,8 +49,6 @@ Ağabey Hamamı, Kadıköy'de bulunan bir plaj. Buraya, toplu taşıma araçlar�
 
 ## İlginç Bilgiler
 
-- Ağabey Hamamı, 140 hektarlık bir alan
-- Ağabey Hamamı, yaklaşık 200 futbol sahası büyüklüğünde
 - Ağabey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri
 - Ağabey Hamamı, özellikle yaz aylarında çok sayıda ziyaretçi çekmektedir
 - Ağabey Hamamı, denize girme ve güneşlenme imkanları sunmaktadır

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Statue_of_King_Mutallu_01.jpg","alt":"ORDÜZÜ manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Statue_of_King_Mutallu_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_King_Mutallu_02.jpg/1280px-Statue_of_King_Mutallu_02.jpg","alt":"ORDÜZÜ - Statue of King Mutallu 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/db/Hittite_lions%2C_Arslantepe_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hittite_lions%2C_Arslantepe_01.jpg/1280px-Hittite_lions%2C_Arslantepe_01.jpg","alt":"ORDÜZÜ - Hittite lions, Arslantepe 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Hittite_lions%2C_Arslantepe_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hittite_lions%2C_Arslantepe_03.jpg/1280px-Hittite_lions%2C_Arslantepe_03.jpg","alt":"ORDÜZÜ - Hittite lions, Arslantepe 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Hittite_lions%2C_Arslantepe_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hittite_lions%2C_Arslantepe_04.jpg/1280px-Hittite_lions%2C_Arslantepe_04.jpg","alt":"ORDÜZÜ - Hittite lions, Arslantepe 04","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Ord%C3%BCz%C3%BC_G%C3%B6leti%2C_Battalgazi%2C_Malatya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ord%C3%BCz%C3%BC_G%C3%B6leti%2C_Battalgazi%2C_Malatya.jpg/1280px-Ord%C3%BCz%C3%BC_G%C3%B6leti%2C_Battalgazi%2C_Malatya.jpg","alt":"ORDÜZÜ - Ordüzü Göleti, Battalgazi, Malatya","credit":"Zeynep Ülker","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ORD%C3%9CZ%C3%9C","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228675","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["ORDÜZÜ","İç Anadolu Bölgesi","doğal alan","milli park","gezi","yaban hayatı","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228675"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228675"
 
 # ORDÜZÜ
 
-ORDÜZÜ, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Bölgenin coğrafi özellikleri, iklimi ve bitki örtüsü, bu alanın eşsiz bir ekosistem olmasını sağlıyor. ORDÜZÜ, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+ Bölgenin coğrafi özellikleri, iklimi ve bitki örtüsü, bu alanın eşsiz bir ekosistem olmasını sağlıyor. ORDÜZÜ, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ ORDÜZÜ'ne ziyaret, yılın her dönemi yapılabilir. Ancak, ilkbahar ve yaz ay
 
 ## İlginç Bilgiler
 
-- ORDÜZÜ, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
 - ORDÜZÜ, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır
 - Alan, zengin bir flora ve fauna çeşitliliğine sahiptir

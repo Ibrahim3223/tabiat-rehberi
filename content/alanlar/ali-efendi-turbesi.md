@@ -30,7 +30,7 @@ wikidata_id: "Q131390608"
 
 # Ali Efendi Türbesi
 
-Afyonkarahisar ilinin merkezinde yer alan Ali Efendi Türbesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde bulunuyor. Tarihi ve doğal güzelliklerin bir arada bulunduğu bu özel nokta, hem yerli hem de yabancı ziyaretçiler tarafından ilgi görüyor. Ali Efendi Türbesi, Afyonkarahisar'ın önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor ve şehrin turistik açıdan önemli noktalarından biri olarak ziyaret ediliyor.
+ Tarihi ve doğal güzelliklerin bir arada bulunduğu bu özel nokta, hem yerli hem de yabancı ziyaretçiler tarafından ilgi görüyor. Ali Efendi Türbesi, Afyonkarahisar'ın önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor ve şehrin turistik açıdan önemli noktalarından biri olarak ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Ali Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri ke�
 ## İlginç Bilgiler
 
 - Ali Efendi Türbesi, Afyonkarahisar'ın önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor.
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde bulunuyor.
+
 - Ali Efendi Türbesi'ne, Afyonkarahisar il merkezinden kolayca ulaşılabilir.
 - Ziyaretçiler, türbenin etrafındaki geniş yeşil alanda, hem dinlenmek hem de tarihi mekanları keşfetmek için uygun bir ortam bulabilir.
 - Ali Efendi Türbesi, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor.

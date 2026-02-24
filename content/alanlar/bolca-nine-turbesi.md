@@ -29,7 +29,7 @@ wikidata_id: "Q131390864"
 
 # Bolca Nine Türbesi
 
-Bolca Nine Türbesi, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alan bir plaj olarak dikkat çekiyor. Bu özel destinasyon, yaklaşık 140 hektarlık bir alanı kaplıyor. Bolca Nine Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir nokta olan bu bölge, aynı zamanda doğal güzelliklerin birleştiği bir yer olarak biliniyor.
+Bolca Nine Türbesi, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alan bir plaj olarak dikkat çekiyor. Bolca Nine Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir nokta olan bu bölge, aynı zamanda doğal güzelliklerin birleştiği bir yer olarak biliniyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Bolca Nine Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini k
 
 ## İlginç Bilgiler
 
-- Bolca Nine Türbesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu bölge, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alıyor.
 - Bolca Nine Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor.
 - Bu bölge, ziyaretçilerine hem deniz hem de đt güzelliklerini sunuyor.

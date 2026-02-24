@@ -30,7 +30,7 @@ wikidata_id: "Q108228869"
 
 ## Coğrafya
 
-Çiğ Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan özel bir bölgedir. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kapsar ve bölgenin en büyük sulak alanlarından biridir. Gölün etrafındaki araziler, genellikle düz veya hafif eğimli olup, bölgenin genel coğrafi yapısına uygun bir şekilde oluşmuştur. Çiğ Gölü'nün su seviyesi, mevsimsel değişimlere göre farklılık gösterir. Gölün suyu, 주 olarak yağmur ve yer altı suları ile beslenir. Bu sulak alan, bölgenin iklimine uygun olarak, kış aylarında donar ve yaz aylarında sıcaklık artar. Çiğ Gölü Sulak Alanı, çevresindeki yeşil alanlar ile birlikte, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar.
+Çiğ Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan özel bir bölgedir. Gölün etrafındaki araziler, genellikle düz veya hafif eğimli olup, bölgenin genel coğrafi yapısına uygun bir şekilde oluşmuştur. Çiğ Gölü'nün su seviyesi, mevsimsel değişimlere göre farklılık gösterir. Gölün suyu, 주 olarak yağmur ve yer altı suları ile beslenir. Bu sulak alan, bölgenin iklimine uygun olarak, kış aylarında donar ve yaz aylarında sıcaklık artar. Çiğ Gölü Sulak Alanı, çevresindeki yeşil alanlar ile birlikte, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar.
 
 ## Flora ve Fauna
 

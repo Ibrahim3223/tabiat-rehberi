@@ -29,7 +29,7 @@ wikidata_id: "Q5627140"
 
 # Gürlevik Şelalesi
 
-Gürlevik Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu şelale, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Gürlevik Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

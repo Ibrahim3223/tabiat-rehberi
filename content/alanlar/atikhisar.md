@@ -43,7 +43,6 @@ Atikhisar milli parkına ziyaretçi olarak gitmek, ziyaretçilere birçok olanak
 
 ## İlginç Bilgiler
 
-- Atikhisar milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu milli park, İç Anadolu Bölgesi'nin doğal güzelliklerini sergileyen bir bölge olarak dikkat çekiyor.
 - Atikhisar, zengin ve çeşitlilik gösteren flora ve faunaya ev sahipliği yapıyor.
 - Milli parkın coğrafi konumu, ziyaretçilerin doğal güzelliklerini keşfetmesine olanak tanıyor.

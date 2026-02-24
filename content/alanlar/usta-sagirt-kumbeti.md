@@ -38,7 +38,7 @@ Usta Şagirt Kümbeti'nin tarihi geçmişi, bölgeye ait zengin kültürel miras
 
 ## Coğrafya
 
-Usta Şagirt Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğini yansıtan bir bölgede bulunuyor. Ahlat, Bitlis'in bir ilçesi olarak, Van Gölü'nün batı kıyısında yer alıyor. Bu konum, Usta Şagirt Kümbeti'ne doğal güzellikler sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Usta Şagirt Kümbeti'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Ayrıca, Van Gölü'nün manzarası, kümbetin çevresindeki peyzajı güzelleştiriyor.
+Usta Şagirt Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğini yansıtan bir bölgede bulunuyor. Ahlat, Bitlis'in bir ilçesi olarak, Van Gölü'nün batı kıyısında yer alıyor. Bu konum, Usta Şagirt Kümbeti'ne doğal güzellikler sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Ayrıca, Van Gölü'nün manzarası, kümbetin çevresindeki peyzajı güzelleştiriyor.
 
 ## Flora ve Fauna
 

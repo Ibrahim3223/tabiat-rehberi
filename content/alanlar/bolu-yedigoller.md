@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa Gezisi","Fotoğraf Çekme"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/TR_Yedig%C3%B6ller_asv2021-10_img02.jpg","alt":"Bolu-Yedigoller manzarası","credit":"A.Savin","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Bolu-Yedigoller-07446-nevit.jpg","alt":"Bolu-Yedigoller","caption":"Bolu-Yedigoller","credit":"Bolu-Yedigoller-07446-nevit","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/TR_Yedig%C3%B6ller_asv2021-10_img16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TR_Yedig%C3%B6ller_asv2021-10_img16.jpg/1280px-TR_Yedig%C3%B6ller_asv2021-10_img16.jpg","alt":"Bolu-Yedigoller - TR Yedigöller asv2021-10 img16","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Yedigoller-Bolu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yedigoller-Bolu.jpg/1280px-Yedigoller-Bolu.jpg","alt":"Bolu-Yedigoller - Yedigoller-Bolu","credit":"SDTTZGL","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Bolu_yedig%C3%B6ller.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bolu_yedig%C3%B6ller.jpg/1280px-Bolu_yedig%C3%B6ller.jpg","alt":"Bolu-Yedigoller - Bolu yedigöller","credit":"Zehraoguzturk","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Bolu_Yedigoller.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bolu_Yedigoller.jpg/1280px-Bolu_Yedigoller.jpg","alt":"Bolu-Yedigoller - Bolu Yedigoller","credit":"Ömer Davarcı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Bolu_Yedig%C3%B6ller_milli_park%C4%B1_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bolu_Yedig%C3%B6ller_milli_park%C4%B1_02.jpg/1280px-Bolu_Yedig%C3%B6ller_milli_park%C4%B1_02.jpg","alt":"Bolu-Yedigoller - Bolu Yedigöller milli parkı 02","credit":"Muzocat","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Yedigoller","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227406","tip":"genel"}]
-description: "Bolu'da yer alan Yedigoller Milli Parkı, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
+"
 keywords: ["Bolu-Yedigoller","Milli Park","Yeşil Alan","Bitki Türleri","Doğa","Turizm","Karadeniz Bölgesi","Bolu"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227406"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227406"
 
 # Bolu-Yedigoller
 
-Bolu-Yedigoller Milli Parkı, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Park, ziyaretçilerine doğal güzellikleri ve zengin flora ile birlikte, keyifli bir gezi deneyimi sunuyor. 1965 yılında milli park olarak ilan edilen Bolu-Yedigoller, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor.
+ Park, ziyaretçilerine doğal güzellikleri ve zengin flora ile birlikte, keyifli bir gezi deneyimi sunuyor. 1965 yılında milli park olarak ilan edilen Bolu-Yedigoller, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Bolu-Yedigoller Milli Parkı, Karadeniz Bölgesi'nde yer alan bir milli park. Pa
 
 ## Flora ve Fauna
 
-Bolu-Yedigoller Milli Parkı, zengin bir flora ve fauna ile dikkat çekiyor. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ile dolu ve bu bitki türleri, parkın doğal güzelliklerini daha da artırıyor. Parkta, aynı zamanda çeşitli hayvan türleri de yaşamaktadır. Bu hayvan türleri, parkın ekolojik dengesini korumaya yardımcı oluyor ve ziyaretçilere keyifli bir gezi deneyimi sunuyor. Mevsimsel değişimler, parkın flora ve faunasını da etkiliyor. Parkın flora ve faunası, her mevsim farklı güzellikler sunuyor ve ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunuyor.
+Bolu-Yedigoller Milli Parkı, zengin bir flora ve fauna ile dikkat çekiyor. Parkta, aynı zamanda çeşitli hayvan türleri de yaşamaktadır. Bu hayvan türleri, parkın ekolojik dengesini korumaya yardımcı oluyor ve ziyaretçilere keyifli bir gezi deneyimi sunuyor. Mevsimsel değişimler, parkın flora ve faunasını da etkiliyor. Parkın flora ve faunası, her mevsim farklı güzellikler sunuyor ve ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -37,7 +37,7 @@ Muhterem Hatun Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu 
 
 ## Coğrafya
 
-Muhterem Hatun Türbesi, Kırşehir'in coğrafi yapısını yansıtan bir konumda bulunuyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, geniş otlaklar ve step alanlarıyla çevrilidir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olup, şehrin merkezinde yer alıyor. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Coğrafi olarak, İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösteriyor. Bu więc, türbenin bulunduğu bölgede de hissediliyor. Çevre, tarihi yapılar ve modern yerleşim alanlarıyla bir bütün haline geliyor.
+Muhterem Hatun Türbesi, Kırşehir'in coğrafi yapısını yansıtan bir konumda bulunuyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, geniş otlaklar ve step alanlarıyla çevrilidir. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Coğrafi olarak, İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösteriyor. Bu więc, türbenin bulunduğu bölgede de hissediliyor. Çevre, tarihi yapılar ve modern yerleşim alanlarıyla bir bütün haline geliyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Muhterem Hatun Türbesi'ni ziyaret etmek, Kırşehir'in tarihi ve kültürel de�
 
 - Muhterem Hatun Türbesi, Kırşehir'in en önemli tarihi yapılarından biridir.
 - Türbe, İç Anadolu Bölgesi'nin coğrafi ve kültürel özelliklerini taşıyor.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip.
+
 - Bölge, step bitkileri ve otlaklarla karakterize ediliyor.
 - Ziyaretçiler, türbenin tarihi ve kültürel öneminin yanı sıra, çevreyi de keşfedebilir.

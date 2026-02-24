@@ -50,7 +50,7 @@ Tamzara Hamamı, çeşitli bitki türleri ve zengin fauna tarafından çevrilidi
 ## İlginç Bilgiler
 
 - Tamzara Hamamı, Karadeniz Bölgesi'nin en önemli turistik noktalarından biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölgenin iklimi, Karadeniz ikliminin tipik özellikleri göstermektedir
 - Tamzara Hamamı, çeşitli bitki türleri ve zengin fauna tarafından çevrilidir
 - Bölgenin flora ve faunası, mevsimsel değişimlere göre değişmektedir

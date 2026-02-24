@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Isparta-Golhisar Kızılçam","caption":"Isparta-Golhisar Kızılçam","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227420","tip":"genel"}]
-description: "Isparta'nın doğal güzellikleri arasında yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Isparta","Golhisar","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227420"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227420"
 
 # Isparta-Golhisar Kızılçam
 
-Isparta-Golhisar Kızılçam milli parkı, Isparta'nın Golhisar ilçesinde yer alan 140 hektarlık bir yeşil alandır. Isparta-Golhisar Kızılçam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar. Milli park, yıl boyunca ziyaretçilerini ağırlamaktadır.
+ Isparta-Golhisar Kızılçam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar. Milli park, yıl boyunca ziyaretçilerini ağırlamaktadır.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Isparta-Golhisar Kızılçam milli parkı, zengin bir flora ve fauna çeşitlili
 Isparta-Golhisar Kızılçam milli parkını ziyaret etmek için, Isparta'nın Golhisar ilçesine ulaşılmalıdır. Milli park, yıl boyunca ziyaretçilerini ağırlamaktadır. Ziyaretçiler, milli parkı gezerek, doğayla iç içe bir deneyim yaşayabilirler. Isparta-Golhisar Kızılçam milli parkını ziyaret etmek, doğayı ve kültürel zenginlikleri keşfetmek için önemli bir fırsattır. Ziyaretçiler, milli parkın güzelliklerini keşfederek, unutulmaz bir deneyim yaşayabilirler.
 
 ## İlginç Bilgiler
-
-- Isparta-Golhisar Kızılçam milli parkı, 140 hektarlık bir yeşil alandır.
 
 - Isparta-Golhisar Kızılçam milli parkı, yaban hayatının korunmasına önemli katkılar sağlar.
 - Milli park, ziyaretçilerine mevsimsel değişimleri gözlemleme fırsatı sunar.

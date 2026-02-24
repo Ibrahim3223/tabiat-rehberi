@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","çevre eğitimi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Yakupabdal Tabiat Parkı","caption":"Yakupabdal Tabiat Parkı","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakupabdal%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228501","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Yakupabdal Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Yakupabdal","Tabiat Parkı","İç Anadolu","doğal alan","gezi","turizm","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228501"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228501"
 
 # Yakupabdal Tabiat Parkı
 
-Yakupabdal Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yakupabdal Tabiat Parkı, hem doğa severler hem de bölge tarihini öğrenmek isteyenler için önemli bir destinasyondur.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yakupabdal Tabiat Parkı, hem doğa severler hem de bölge tarihini öğrenmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Yakupabdal Tabiat Parkı, ziyaretçilere doğanın güzelliğini keşfetme fırs
 
 ## İlginç Bilgiler
 
-- Yakupabdal Tabiat Parkı, 140 hektarlık bir alanı kapsar.
 - Parkın flora ve faunası, bölgenin ekolojik dengesini korur.
 - Yakupabdal Tabiat Parkı, bölgenin önemli bir kültürel ve doğal mirasıdır.
 - Parkın ziyaretçileri, bölgenin doğal güzelliklerini ve canlılarını keşfetme fırsatı bulur.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Bitki gözlemi","Hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kad%C4%B1nc%C4%B1k_Valley_8.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_8.jpg","alt":"Mersin-Tarsus-Buladan Ardic 1","caption":"Mersin-Tarsus-Buladan Ardic 1","credit":"Kadıncık Valley 8.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Buladan%20Ardic%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227231","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin Mersin ilinde yer alan Ardic 1 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Mersin","Ardic 1","milli park","Akdeniz Bölgesi","doğa","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227231"
@@ -34,7 +34,7 @@ Ardic 1 milli parkı, Mersin ilinin Tarsus ve Buladan bölgelerinde yer alıyor.
 
 ## Flora ve Fauna
 
-Ardic 1 milli parkı, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ile kaplı durumda. Mevsimsel değişimlere bağlı olarak, parkın bitki örtüsü değişkenlik gösteriyor. İlkbahar ve sonbahar aylarında, parkın flora çeşitliliği en yüksek seviyede oluyor. Ziyaretçiler, bu dönemde parkı gezerken, birçok farklı bitki türünü gözlemleme fırsatı buluyor. Fauna açısından da zengin olan parkta, çeşitli hayvan türleri yaşamlarını sürdürüyor. Parkın coğrafi konumu ve iklimi, bu hayvanların yaşamını destekleyici nitelikte. Ziyaretçiler, parkı gezerken, bu hayvanları doğal ortamlarında gözlemleme fırsatı bulabiliyor. Ardic 1 milli parkı, flora ve fauna açısından zengin bir çeşitlilik sunmasıyla, doğa severlerin ilgisini çekiyor.
+Ardic 1 milli parkı, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Mevsimsel değişimlere bağlı olarak, parkın bitki örtüsü değişkenlik gösteriyor. İlkbahar ve sonbahar aylarında, parkın flora çeşitliliği en yüksek seviyede oluyor. Ziyaretçiler, bu dönemde parkı gezerken, birçok farklı bitki türünü gözlemleme fırsatı buluyor. Fauna açısından da zengin olan parkta, çeşitli hayvan türleri yaşamlarını sürdürüyor. Parkın coğrafi konumu ve iklimi, bu hayvanların yaşamını destekleyici nitelikte. Ziyaretçiler, parkı gezerken, bu hayvanları doğal ortamlarında gözlemleme fırsatı bulabiliyor. Ardic 1 milli parkı, flora ve fauna açısından zengin bir çeşitlilik sunmasıyla, doğa severlerin ilgisini çekiyor.
 
 ## Ziyaret Bilgileri
 

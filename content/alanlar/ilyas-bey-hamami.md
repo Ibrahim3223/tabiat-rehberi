@@ -50,7 +50,7 @@ wikidata_id: "Q131738671"
 ## İlginç Bilgiler
 
 - İlyas Bey Hamamı, Didim'in en önemli turistik noktalarından biri olarak kabul edilir.
-- Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
+
 - İlyas Bey Hamamı, plajın yanı sıra hamam kompleksi ile de bilinir.
 - Bu bölge, Didim'in iklimi ve coğrafi özellikleri ile de dikkat çeker.
 - İlyas Bey Hamamı, ziyaretçilerine doğal güzelliklerinin yanı sıra tarihi ve kültürel zenginliklerini de sunar.

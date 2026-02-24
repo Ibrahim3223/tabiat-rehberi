@@ -36,7 +36,7 @@ Kuyucak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Kuyucak Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğal güzellikleriyle dikkat çekiyor. Özellikle Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bu tepe, ziyaretçilerini doğal güzellikleriyle karşılar. Coğrafi olarak önemli bir konumda bulunan Kuyucak Tepesi, aynı zamanda iklim bakımından da dikkat çekiyor. Bu tepe, Karadeniz Bölgesi'nin ılıman iklimini yansıtıyor ve ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar. Kuyucak Tepesi'nin coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da önemli ölçüde etkiliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor ve ziyaretçilerini doğal güzellikleriyle karşılar.
+Kuyucak Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahip. Özellikle Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bu tepe, ziyaretçilerini doğal güzellikleriyle karşılar. Coğrafi olarak önemli bir konumda bulunan Kuyucak Tepesi, aynı zamanda iklim bakımından da dikkat çekiyor. Bu tepe, Karadeniz Bölgesi'nin ılıman iklimini yansıtıyor ve ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar. Kuyucak Tepesi'nin coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da önemli ölçüde etkiliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor ve ziyaretçilerini doğal güzellikleriyle karşılar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kuyucak Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. B
 
 ## İlginç Bilgiler
 
-- Kuyucak Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor.
 - Kuyucak Tepesi, özellikle historya meraklılarının ve doğa severlerin ilgisini çekiyor.
 - Bu tepe, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar.

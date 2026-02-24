@@ -50,7 +50,6 @@ Arap Mescit Camii'ni ziyaret etmek için, Afyonkarahisar merkezine gelmek gereki
 ## İlginç Bilgiler
 
 - Arap Mescit Camii, Afyonkarahisar'ın en önemli kültürel değerlerinden biridir.
-- Cami, 140 hektarlık bir alanı kaplar.
 
 - Cami, geleneksel Türk mimari tarzında yapılmıştır.
 - Cami, her yıl birçok ziyaretçi tarafından ziyaret edilir.

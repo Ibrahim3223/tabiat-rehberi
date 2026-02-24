@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","photografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"VARSAK OBRUĞU","caption":"VARSAK OBRUĞU","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/VARSAK%20OBRU%C4%9EU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228963","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından Varsak Obruğu, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Varsak Obruğu","milli park","İç Anadolu Bölgesi","doğal güzellik","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228963"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228963"
 
 # VARSAK OBRUĞU
 
-Varsak Obruğu, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Varsak Obruğu'nun sunduğu manzaralar, ziyaretçilerini büyüleyecek güzellikte. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın çeşitliliğini gösteriyor. 140 hektarlık bu yeşil alan, hem doğa severlerin hem dephotografcıların gözdesi.
+ Varsak Obruğu'nun sunduğu manzaralar, ziyaretçilerini büyüleyecek güzellikte. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın çeşitliliğini gösteriyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Varsak Obruğu'nu ziyaret etmek, doğa severler için unutulmaz bir deneyim olab
 
 ## İlginç Bilgiler
 
-- Varsak Obruğu, 140 hektarlık bir alana sahiptir
 - Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar
 - Varsak Obruğu, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygundur

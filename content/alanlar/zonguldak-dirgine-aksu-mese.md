@@ -42,7 +42,6 @@ Zonguldak-Dirgine-Aksu Mese milli parkını ziyaret etmek, doğa severler için 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Karadeniz Bölgesi'nin önemli ekolojik alanlarından biri
 - Zonguldak il merkezine yakın konumu
 - Tarihi geçmişi

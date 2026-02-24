@@ -22,7 +22,7 @@ wikidata_id: "Q108227835"
 
 # Amasya-Aydinca Kızılçam
 
-Amasya-Aydinca Kızılçam Milli Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. yaklaşık 140 hektarlık bir alanı kaplayan bu milli park, ziyaretçilerini doğanın güzelliği ile büyülemektedir. 200 futbol sahası büyüklüğünde olan bu alan, aynı zamanda çeşitli bitki türleri ve hayvanların yaşam alanı olarak görev yapmaktadır. Aydınca Kızılçam Milli Parkı, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Amasya-Aydinca Kızılçam Milli Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Aydınca Kızılçam Milli Parkı, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Amasya-Aydinca Kızılçam Milli Parkı, ziyaretçilerini doğanın güzelliği 
 
 ## İlginç Bilgiler
 
-- Aydınca Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplamaktadır.
 - Bu milli park, aynı zamanda önemli bir su kaynağı olarak da görev yapmaktadır.
 - Aydınca Kızılçam Milli Parkı, ziyaretçilerini doğanın güzelliği ile büyülemektedir.
 - Bu milli park, önemli bir ekolojik zenginliği de barındırmaktadır.

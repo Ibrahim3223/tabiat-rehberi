@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki ve hayva
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Fosil Ardic","caption":"Fosil Ardic","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fosil%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227151","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Fosil Ardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Fosil Ardic","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","flora","fauna","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227151"
@@ -42,7 +42,6 @@ Fosil Ardic, yılın her döneminde ziyaret edilebilir. Milli parka gitmek için
 
 ## İlginç Bilgiler
 
-- Fosil Ardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Fosil Ardic, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor
 - Milli parkın coğrafi konumu, ziyaretçilere farklı doğa manzaraları sunuyor
 - Fosil Ardic, yılın her döneminde ziyaret edilebilir

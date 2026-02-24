@@ -51,6 +51,6 @@ wikidata_id: "Q131737494"
 
 - İskender Paşa Hamamı, Beykoz'un en önemli turistik merkezlerinden biridir.
 - Plajın tarihi geçmişi, Osmanlı dönemine kadar uzanır.
-- İskender Paşa Hamamı, 140 hektarlık bir yeşil alan sunar.
+
 - Plajın coğrafi konumu, ziyaretçilerin deniz ve doğanın güzelliğini deneyimlemelerine olanak sağlar.
 - İskender Paşa Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.

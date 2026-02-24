@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa φωτοğrafçılığı","tarihî yapılar g
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shepherd%27s_Fountain_-_panoramio.jpg/960px-Shepherd%27s_Fountain_-_panoramio.jpg","alt":"Küçüğün Tepesi","caption":"Küçüğün Tepesi","credit":"Shepherd's Fountain - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BC%C4%9F%C3%BCn%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211098","tip":"genel"}]
-description: "Kırşehir'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Küçüğün Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor."
+"
 keywords: ["Küçüğün Tepesi","Kırşehir","İç Anadolu Bölgesi","doğal güzellik","tarihi mekan","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211098"
@@ -28,7 +28,7 @@ wikidata_id: "Q32211098"
 
 # Küçüğün Tepesi
 
-Küçüğün Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilinin önemli doğal ve tarihi güzelliklerinden biridir. Yaklaşık 140 hektarlık bir alanı kapsayan bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtmaktadır. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçiler için geniş bir keşif alanı sunmaktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Küçüğün Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilinin önemli doğal ve tarihi güzelliklerinden biridir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

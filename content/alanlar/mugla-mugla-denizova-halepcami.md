@@ -30,7 +30,7 @@ Denizova Halepçamı milli parkının tarihi geçmişi, yüzyıllar boyunca sür
 
 ## Coğrafya
 
-Denizova Halepçamı milli parkı, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikası. Bu bölge, 140 hektarlık alanıyla, Ege Bölgesi'nin en büyük doğal alanlarından biri. Milli park, deniz seviyesinden yüksek bir konumda yer alıyor ve surroundingsındaki dağlar, bu bölgeye benzersiz bir coğrafi yapı kazandırıyor. Denizova Halepçamı milli parkının coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölge, yaban hayatının çeşitliliği ve doğal güzellikleri ile ziyaretçilerini etkiliyor. Milli parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer ve ziyaretçilere, her mevsim doğanın güzelliğini keşfetme fırsatı sunuyor.
+Denizova Halepçamı milli parkı, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikası. Milli park, deniz seviyesinden yüksek bir konumda yer alıyor ve surroundingsındaki dağlar, bu bölgeye benzersiz bir coğrafi yapı kazandırıyor. Denizova Halepçamı milli parkının coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölge, yaban hayatının çeşitliliği ve doğal güzellikleri ile ziyaretçilerini etkiliyor. Milli parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer ve ziyaretçilere, her mevsim doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

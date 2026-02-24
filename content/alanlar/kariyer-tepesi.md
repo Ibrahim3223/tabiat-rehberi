@@ -36,7 +36,7 @@ Kariyer Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Kariyer Tepesi, Karadeniz Bölgesi'nin Artvin ilinde yer alan bir coğrafi oluşum olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve doğal güzellikleri ile ön plana çıkıyor. Kariyer Tepesi'nin coğrafi yapısı, bölgenin jeolojik özellikleri ile şekillenmiştir. Tepenin yüksekliği ve eğimleri, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörler olarak karşımıza çıkıyor. Kariyer Tepesi'nin etrafı, zengin flora ve fauna ile çevrili ve bu doğal güzellikler, ziyaretçileri büyüleyici bir deneyime davet ediyor. Tepenin zirvesinden, Karadeniz Bölgesi'nin geniş bir alanı gözlemlenebiliyor ve bu manzara, ziyaretçileri büyülüyor. Kariyer Tepesi, coğrafi güzellikleri ile ziyaretçilerini etkileyen bir destinasyon olarak biliniyor.
+Kariyer Tepesi, Karadeniz Bölgesi'nin Artvin ilinde yer alan bir coğrafi oluşum olarak dikkat çekiyor. Kariyer Tepesi'nin coğrafi yapısı, bölgenin jeolojik özellikleri ile şekillenmiştir. Tepenin yüksekliği ve eğimleri, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörler olarak karşımıza çıkıyor. Kariyer Tepesi'nin etrafı, zengin flora ve fauna ile çevrili ve bu doğal güzellikler, ziyaretçileri büyüleyici bir deneyime davet ediyor. Tepenin zirvesinden, Karadeniz Bölgesi'nin geniş bir alanı gözlemlenebiliyor ve bu manzara, ziyaretçileri büyülüyor. Kariyer Tepesi, coğrafi güzellikleri ile ziyaretçilerini etkileyen bir destinasyon olarak biliniyor.
 
 ## Flora ve Fauna
 

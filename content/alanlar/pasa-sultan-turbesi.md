@@ -51,7 +51,7 @@ Paşa Sultan Türbesi'ne ziyarette bulunmak, özellikle yaz aylarında oldukça 
 ## İlginç Bilgiler
 
 - Paşa Sultan Türbesi, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alanı kaplar.
+
 - Paşa Sultan Türbesi, denize sıfır konumuyla dikkat çeker.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Paşa Sultan Türbesi, özellikle yaz aylarında ziyaretçilerini ağırlar.

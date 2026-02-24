@@ -29,7 +29,7 @@ wikidata_id: "Q131738810"
 
 # Nalıncılar Hamamı
 
-Nalıncılar Hamamı, Osmangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Bu bölge, 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alana sahiptir. Nalıncılar Hamamı, hem doğa severler hem de plajsevenler için ideal bir destinasyondur. Burada, denizin serinliği ve güneşin sıcaklığını bir arada deneyimleyebilirsiniz.
+Nalıncılar Hamamı, Osmangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Nalıncılar Hamamı, hem doğa severler hem de plajsevenler için ideal bir destinasyondur. Burada, denizin serinliği ve güneşin sıcaklığını bir arada deneyimleyebilirsiniz.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Nalıncılar Hamamı'na ziyaret için en uygun zaman, genellikle yaz aylarıdır
 ## İlginç Bilgiler
 
 - Nalıncılar Hamamı, Bursa'nın en önemli plajlarından biridir.
-- Plaj, 140 hektarlık bir alanı kaplamaktadır.
+
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Nalıncılar Hamamı, Osmangazi'nin turizm gelirine önemli katkılar sağlamaktadır.
 - Plaj, yıl boyunca çeşitli etkinliklere ev sahipliği yapmaktadır.

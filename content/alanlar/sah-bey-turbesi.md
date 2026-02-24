@@ -38,7 +38,7 @@ wikidata_id: "Q131390935"
 
 ## Coğrafya
 
-Şah Bey Türbesi, Trabzon'un Bafra ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türkbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerinde kurulmuş ve ziyaretçilere geniş bir gezi alanı sunuyor. Coğrafi konum itibariyle, ziyaretçiler bu bölgede çeşitli bitki türleri ile karşılaşabiliyor. Ayrıca, bölgenin iklimi, ziyaretçilerin rahat bir gezi deneyimi için uygun conditions sunuyor. Şah Bey Türbesi ve çevresinin coğrafi güzelliği, ziyaretçileri doğanın içine çekmeyi başarıyor. Bu bölge, hem tarihi hem de doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor.
+Şah Bey Türbesi, Trabzon'un Bafra ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Coğrafi konum itibariyle, ziyaretçiler bu bölgede çeşitli bitki türleri ile karşılaşabiliyor. Ayrıca, bölgenin iklimi, ziyaretçilerin rahat bir gezi deneyimi için uygun conditions sunuyor. Şah Bey Türbesi ve çevresinin coğrafi güzelliği, ziyaretçileri doğanın içine çekmeyi başarıyor. Bu bölge, hem tarihi hem de doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390935"
 ## İlginç Bilgiler
 
 - Şah Bey Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir destinasyon
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölgenin flora ve fauna zenginliği
 - Tarihi yapıların mimarisi
 - Doğal güzelliğin keşfedilmesi

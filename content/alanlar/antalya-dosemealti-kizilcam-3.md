@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Antalya-Döşemealtı Kızılçam 3","caption":"Antalya-Döşemealtı Kızılçam 3","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227848","tip":"genel"}]
-description: "Antalya'nın doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile büyüleyici bir deneyimi sunar."
+description: "Antalya'nın doğal güzelliklerini keşfedin."
 keywords: ["Antalya","Döşemealtı","Kızılçam","milli park","doğal güzellik","bitki türleri","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227848"

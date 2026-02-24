@@ -15,7 +15,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l-201908.jpg","alt":"Sülüklügöl Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l.jpg","alt":"Sülüklügöl Tabiat Parkı - Sülüklügöl","credit":"HatemSultan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Tree_stumps_in_S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tree_stumps_in_S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_04.jpg/1280px-Tree_stumps_in_S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_04.jpg","alt":"Sülüklügöl Tabiat Parkı - Tree stumps in Sülüklügöl 04","credit":"Linda M Caldwell","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/74/S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_Tabiat_Park%C4%B1.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_Tabiat_Park%C4%B1.jpg","alt":"Sülüklügöl Tabiat Parkı - Sülüklügöl Tabiat Parkı","credit":"Hildeuz1","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Tabiat_Park%C4%B1_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Tabiat_Park%C4%B1_03.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Tabiat_Park%C4%B1_03.jpg","alt":"Sülüklügöl Tabiat Parkı - Sülüklü Göl Tabiat Parkı 03","credit":"Hatice Bakır","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cc/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Tabiat_Park%C4%B1_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Tabiat_Park%C4%B1_01.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Tabiat_Park%C4%B1_01.jpg","alt":"Sülüklügöl Tabiat Parkı - Sülüklü Göl Tabiat Parkı 01","credit":"Hatice Bakır","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228359","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Sülüklügöl","Tabiat Parkı","Bolu","Karadeniz Bölgesi","göl","doğa","yeşil alan","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228359"
@@ -31,7 +31,7 @@ Sülüklügöl Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgeye
 
 ## Coğrafya
 
-Sülüklügöl Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından biridir. Park, Bolu ilinin sınırları içinde yer alır ve 140 hektarlık bir alanı kaplar. Parkın merkezi, Sülüklügöl olarak bilinen bir göldür. Bu göl, çeşitli su kuşlarını barındıran ve çevresi zengin bitki türleri ile kaplı bir doğa harikasıdır. Parkın coğrafi yapısı, ziyaretçilere hem güzel manzaralar sunar hem de doğal yaşamı gözlemleme fırsatı verir. Bölge, Karadeniz ikliminin etkisi altında olup, yıl boyunca ılıman ve yağışlı bir hava hüküm sürer. Bu iklim, bölgenin flora ve faunasının çeşitlendirilmesine katkıda bulunur.
+Sülüklügöl Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından biridir. Parkın merkezi, Sülüklügöl olarak bilinen bir göldür. Bu göl, çeşitli su kuşlarını barındıran ve çevresi zengin bitki türleri ile kaplı bir doğa harikasıdır. Parkın coğrafi yapısı, ziyaretçilere hem güzel manzaralar sunar hem de doğal yaşamı gözlemleme fırsatı verir. Bölge, Karadeniz ikliminin etkisi altında olup, yıl boyunca ılıman ve yağışlı bir hava hüküm sürer. Bu iklim, bölgenin flora ve faunasının çeşitlendirilmesine katkıda bulunur.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Sülüklügöl Tabiat Parkı'nı ziyaret etmek, doğa severler için harika bir 
 ## İlginç Bilgiler
 
 - Parkın merkezi, Sülüklügöl olarak bilinen bir göldür
-- 140 hektarlık bir alanı kaplar
+
 - Bölge, Karadeniz ikliminin etkisi altındadır
 - Zengin bir flora ve fauna çeşitliliği vardır
 - Yıl boyunca ziyaret edilebilir

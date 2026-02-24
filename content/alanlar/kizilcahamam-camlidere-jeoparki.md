@@ -16,7 +16,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/K%C4%B1z%C4%B1lcahamam_bazaltlar%C4%B1.jpg","alt":"Kızılcahamam-Çamlıdere Jeoparkı manzarası","credit":"Okhilal","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam-%C3%87aml%C4%B1dere%20Jeopark%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20472992","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerini keşfedin, 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kızılcahamam","Çamlıdere","Jeopark","Ankara","Doğal Alan","Turizm","Gezi","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q20472992"
@@ -32,7 +32,7 @@ Kızılcahamam-Çamlıdere Jeoparkı'nın tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Kızılcahamam-Çamlıdere Jeoparkı, İç Anadolu Bölgesi'nin coğrafyası içinde yer alır. Bu bölge, Ankara'nın Çamlıdere ilçesinde bulunur ve 140 hektarlık bir alanı kaplar. Jeoparkın coğrafyası, çeşitli dağlar, vadiler ve ovalardan oluşur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer ve ziyaretçilere dört mevsimi sunar. Jeoparkın coğrafyası, zengin flora ve fauna ile ziyaretçilerini büyüler. Burada, çeşitli bitki türleri ve yaban hayvanları bulunur. Jeoparkın coğrafyası, ziyaretçilere doğanın güzelliğini sunar ve burada, eşsiz manzaraları görme mümkündür. Ziyaretçiler, jeoparkın coğrafyasını keşfederek, buranın güzelliğini daha iyi anlayabilirler.
+Kızılcahamam-Çamlıdere Jeoparkı, İç Anadolu Bölgesi'nin coğrafyası içinde yer alır. Jeoparkın coğrafyası, çeşitli dağlar, vadiler ve ovalardan oluşur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer ve ziyaretçilere dört mevsimi sunar. Jeoparkın coğrafyası, zengin flora ve fauna ile ziyaretçilerini büyüler. Burada, çeşitli bitki türleri ve yaban hayvanları bulunur. Jeoparkın coğrafyası, ziyaretçilere doğanın güzelliğini sunar ve burada, eşsiz manzaraları görme mümkündür. Ziyaretçiler, jeoparkın coğrafyasını keşfederek, buranın güzelliğini daha iyi anlayabilirler.
 
 ## Flora ve Fauna
 

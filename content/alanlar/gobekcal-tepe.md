@@ -49,7 +49,7 @@ Göbekçal Tepe, ziyaretçilerine çeşitli etkinlikler sunar. Bu tepe, hem gezi
 ## İlginç Bilgiler
 
 - Göbekçal Tepe, Antalya'nın tarihi ve doğal güzellikleri arasında yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Göbekçal Tepe, ziyaretçilerine hem gezi hem de keşif imkanı sunar.
 - Tepenin coğrafi konumu, ziyaretçilerine geniş bir görünüm sunar.
 - Göbekçal Tepe, flora ve faunası nedeniyle önemli bir doğa alanı olarak kabul edilir.

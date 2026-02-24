@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Topkapi%20Palace%20Seen%20From%20Harem.JPG","alt":"Topkapı Sarayı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Istanbul_asv2020-02_img26_Topkap%C4%B1_Palace.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Istanbul_asv2020-02_img26_Topkap%C4%B1_Palace.jpg/1280px-Istanbul_asv2020-02_img26_Topkap%C4%B1_Palace.jpg","alt":"Topkapı Sarayı - Istanbul asv2020-02 img26 Topkapı Palace","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/36/Istanbul_asv2020-02_img25_Topkap%C4%B1_Palace.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_asv2020-02_img25_Topkap%C4%B1_Palace.jpg/1280px-Istanbul_asv2020-02_img25_Topkap%C4%B1_Palace.jpg","alt":"Topkapı Sarayı - Istanbul asv2020-02 img25 Topkapı Palace","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/Istanbul_asv2020-02_img23_Topkap%C4%B1_Palace.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_asv2020-02_img23_Topkap%C4%B1_Palace.jpg/1280px-Istanbul_asv2020-02_img23_Topkap%C4%B1_Palace.jpg","alt":"Topkapı Sarayı - Istanbul asv2020-02 img23 Topkapı Palace","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/64/%C4%B0stanbul_-_Topkap%C4%B1_Saray%C4%B1_1177.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/%C4%B0stanbul_-_Topkap%C4%B1_Saray%C4%B1_1177.jpg/1280px-%C4%B0stanbul_-_Topkap%C4%B1_Saray%C4%B1_1177.jpg","alt":"Topkapı Sarayı - İstanbul - Topkapı Sarayı 1177","credit":"Phyrexian","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ab/%C4%B0stanbul_-_Topkap%C4%B1_Saray%C4%B1_1291.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%B0stanbul_-_Topkap%C4%B1_Saray%C4%B1_1291.jpg/1280px-%C4%B0stanbul_-_Topkap%C4%B1_Saray%C4%B1_1291.jpg","alt":"Topkapı Sarayı - İstanbul - Topkapı Sarayı 1291","credit":"Phyrexian","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topkap%C4%B1%20Saray%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q170495","tip":"genel"}]
-description: "Topkapı Sarayı, İstanbul'un Eminönü ilçesinde yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Topkapı Sarayı","İstanbul","Eminönü","Marmara Bölgesi","tarih","saray","müze","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q170495"
@@ -50,7 +50,6 @@ Topkapı Sarayı, ziyaretçilerin birçok önemli noktayı kolay bir şekilde zi
 
 ## İlginç Bilgiler
 
-- Topkapı Sarayı, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Saray, ilk olarak 1459 yılında, Fatih Sultan Mehmet tarafından inşa edilmiş
 - Saray, birçok önemli olaya tanıklık etmiş
 - Saray, 1921 yılında müze olarak açılmış

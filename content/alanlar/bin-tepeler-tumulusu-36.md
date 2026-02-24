@@ -21,7 +21,7 @@ aktiviteler: ["Tarih gezisi","Arkeoloji turu","Kültür gezisi","Flora ve fauna 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 36","caption":"Bin Tepeler Tümülüsü 36","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2036","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728340","tip":"genel"}]
-description: "Ege Bölgesi'nin tarihi hazinelerinden biri olan Bin Tepeler Tümülüsü 36, Salihli-Manisa'da yer alan 140 hektarlık geniş bir alana yayılmıştır."
+"
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","Tarih","Arkeoloji","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728340"
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 36, ziyaretçiler için önemli bir destinasyondur. Ziy
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin önemli bir arkeolojik alanlarından biridir.
-- Tümülüs, 140 hektarlık geniş bir alanda yer alır.
+
 - Bin Tepeler Tümülüsü 36, tarihi geçmişi ve kültürel önemi ile dikkat çekmektedir.
 - Ziyaretçiler, tümülüsün tarihi geçmişi ve kültürel önemi hakkında bilgi edinebilir.
 - Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin flora ve faunasını koruma ve tanıtmak amacıyla yapılan çalışmalara ev sahipliği yapmaktadır.

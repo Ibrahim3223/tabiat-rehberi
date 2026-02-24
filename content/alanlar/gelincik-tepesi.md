@@ -49,8 +49,6 @@ Gelincik Tepesi, ziyaretçilerine, tarihi geçmişi, coğrafi konumu ve flora ve
 
 ## İlginç Bilgiler
 
-- Gelincik Tepesi, 140 hektarlık bir alanı kaplıyor
-- Bu tepe, 200 futbol sahası büyüklüğünde
 - Gelincik Tepesi, yüzyıllar öncesine dayanan bir tarihi geçmişi bulunuyor
 - Bu bölge, çeşitli uygarlıkların yaşam alanı olarak kullanılmış
 - Gelincik Tepesi, flora ve fauna açısından zengin bir bölge

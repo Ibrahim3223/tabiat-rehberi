@@ -49,7 +49,7 @@ Karakuz Tepe, ziyaretçilerine birçok aktivite sunuyor. Burada, doğa yürüyü
 ## İlginç Bilgiler
 
 - Karakuz Tepe, Ankara'nın en yüksek noktalarından biridir.
-- Tepe, yaklaşık 140 hektarlık bir alana sahiptir.
+
 - Karakuz Tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Tepe, özellikle bahar ve yaz aylarında ziyaret ediliyor.
 - Karakuz Tepe, Ankara'nın merkezine yakın bir konumda bulunuyor.

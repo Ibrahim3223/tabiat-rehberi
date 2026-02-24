@@ -37,7 +37,7 @@ Azebler Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge
 
 ## Coğrafya
 
-Azebler Hamamı, Fatih ilçesinde, Marmara Bölgesi'nin kıyı şeridinde yer alır. Bu bölgenin coğrafyası, deniz ve kara arasındaki geçiş bölgesini oluşturur. Azebler Hamamı, 140 hektarlık bir alana yayılır ve ziyaretçilerine geniş bir yeşil alan sunar. Azebler Hamamı'nın coğrafi konumu, ziyaretçilerine deniz ve kara manzarası sunar. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, ılıman ve nemlidir. Azebler Hamamı, especially yaz aylarında ziyaretçilerini ağırlar ve bölgenin en çok tercih edilen plajlarından biri haline gelir. Azebler Hamamı'nın coğrafi yapısı, ziyaretçilerine geniş bir yeşilli ve deniz manzarası sunar. Bu nedenle, Azebler Hamamı, hem doğal güzelliği hem de coğrafi konumu ile ön plana çıkar.
+Azebler Hamamı, Fatih ilçesinde, Marmara Bölgesi'nin kıyı şeridinde yer alır. Bu bölgenin coğrafyası, deniz ve kara arasındaki geçiş bölgesini oluşturur. Azebler Hamamı'nın coğrafi konumu, ziyaretçilerine deniz ve kara manzarası sunar. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, ılıman ve nemlidir. Azebler Hamamı, especially yaz aylarında ziyaretçilerini ağırlar ve bölgenin en çok tercih edilen plajlarından biri haline gelir. Azebler Hamamı'nın coğrafi yapısı, ziyaretçilerine geniş bir yeşilli ve deniz manzarası sunar. Bu nedenle, Azebler Hamamı, hem doğal güzelliği hem de coğrafi konumu ile ön plana çıkar.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Azebler Hamamı, ziyaretçilerine kolay ulaşım imkanı sunar. Fatih ilçesine 
 
 ## İlginç Bilgiler
 
-- Azebler Hamamı, 140 hektarlık bir alana yayılır
-- Azebler Hamamı, yaklaşık 200 futbol sahası büyüklüğündedir
 - Azebler Hamamı, Marmara Bölgesi'nin önemli doğal alanlarından biridir
 - Azebler Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar
 - Azebler Hamamı, hem doğal güzelliği hem de tarihi zenginliği ile ön plana çıkar

@@ -49,7 +49,7 @@ Melik Tepesi, ziyaretçiler için önemli bir çekim merkezi. Bu tepe, Van'ın d
 ## İlginç Bilgiler
 
 - Melik Tepesi, Van ilinin sınırları içerisinde yer alıyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Melik Tepesi, Van'ın coğrafi yapısını ve tarihi geçmişi yansıtan önemli bir nokta.
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahip.
 - Melik Tepesi, Van Gölü'nün manzarasını izlemek için ideal bir konumda yer alıyor.

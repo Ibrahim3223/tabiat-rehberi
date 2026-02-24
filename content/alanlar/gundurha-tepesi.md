@@ -36,7 +36,7 @@ Gündürha Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yap
 
 ## Coğrafya
 
-Gündürha Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Gündürha Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi destekler. Tepenin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı sunar. Gündürha Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini korumak için önemli bir noktadır.
+Gündürha Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Tepenin coğrafi yapısı, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı sunar. Gündürha Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini korumak için önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gündürha Tepesi, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini ke�
 
 ## İlginç Bilgiler
 
-- Gündürha Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde yer alan yerleşim yerleri, bölge hakkında bilgi vermekte.
 - Gündürha Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir.

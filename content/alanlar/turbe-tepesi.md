@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Kazda%C4%9F%C4%B1_09_2005_Sar%C4%B1k%C4%B1z_Tepesi_1574_m.jpg","alt":"Turbe Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turbe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559010","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Turbe Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Turbe Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31559010"
@@ -29,7 +29,7 @@ wikidata_id: "Q31559010"
 
 # Turbe Tepesi
 
- Bu büyük yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası. Turbe Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. 140 hektarlık bu yeşil alan, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet.
+ Bu büyük yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası. Turbe Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Turbe Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Turbe Tep
 
 ## Flora ve Fauna
 
-Turbe Tepesi, 140 hektarlık yeşil alanı ile zusammen zengin flora ile ziyaretçilerini karşılar. Bu büyük yeşil alan, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet. Turbe Tepesi, ziyaretçilerini mevsimsel değişimlerle birlikte farklı bir güzelliğe sahip. Kış aylarında karla kaplı, ilkbahar aylarında çiçeklerle dolu, yaz aylarında yeşil ve sıcak, sonbahar aylarında ise renkli bir manzara sunar. Turbe Tepesi, bu mevsimsel değişimlerle birlikte ziyaretçilerine farklı bir deneyim sunar. Zengin flora ve fauna, Turbe Tepesi'ni ziyaret edenleri büyüler.
+ Bu büyük yeşil alan, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet. Turbe Tepesi, ziyaretçilerini mevsimsel değişimlerle birlikte farklı bir güzelliğe sahip. Kış aylarında karla kaplı, ilkbahar aylarında çiçeklerle dolu, yaz aylarında yeşil ve sıcak, sonbahar aylarında ise renkli bir manzara sunar. Turbe Tepesi, bu mevsimsel değişimlerle birlikte ziyaretçilerine farklı bir deneyim sunar. Zengin flora ve fauna, Turbe Tepesi'ni ziyaret edenleri büyüler.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ Turbe Tepesi'ni ziyaret etmek, her mevsim möglich. Ancak, en iyi ziyaret mevsim
 
 ## İlginç Bilgiler
 
-- Turbe Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Turbe Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe
 - Turbe Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar
 - Turbe Tepesi, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet

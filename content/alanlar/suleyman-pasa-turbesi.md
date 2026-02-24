@@ -30,7 +30,7 @@ wikidata_id: "Q131391316"
 
 # Süleyman Paşa Türbesi
 
-Süleyman Paşa Türbesi, Ardanuç'un merkezi bir konumda yer alır ve yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir. Tarihi geçmişi ve doğal güzellikleri bir araya getiren Süleyman Paşa Türbesi, ziyaretçilerini bekliyor. Bu mekan, hem tarihe ilgi duyanların hem de doğa severlerin ilgi odağıdır.
+ Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir. Tarihi geçmişi ve doğal güzellikleri bir araya getiren Süleyman Paşa Türbesi, ziyaretçilerini bekliyor. Bu mekan, hem tarihe ilgi duyanların hem de doğa severlerin ilgi odağıdır.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ Süleyman Paşa Türbesi'ni ziyaret etmek, hem tarihe ilgi duyanlar hem de doğa
 - Süleyman Paşa Türbesi, Ardanuç'un merkezi bir konumda yer alır.
 - Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir.
 - Bölge, Karadeniz Bölgesi'nin güzelliklerini içinde barındıran Ardanuç ilçesinde yer alır.
-- Türbenin bulunduğu alan, 140 hektarlık geniş bir arazi üzerindedir.
+
 - Bölge, yeşilin her tonuna sahip ormanlar, dağlar ve nehirlerle çevrilidir.

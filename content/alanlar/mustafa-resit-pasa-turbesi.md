@@ -37,7 +37,7 @@ Mustafa Reşit Paşa Türbesi, 19. yüzyılın önemli figürlerinden biri olan 
 
 ## Coğrafya
 
-Mustafa Reşit Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Denizi'nin kıyısında yer alıyor. Bu konum, ziyaretçilere şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası sunuyor. Türbe ve plaj alanı, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuş ve şehrin en büyük park alanlarından biri olarak kabul ediliyor. Bu büyük yeşil alan, ziyaretçilere dinlenmek, doğayı seyretme ve tarihi bir yapıyı keşfetmek için ideal bir ortam sunuyor. Marmara Denizi'nin kıyısında yer alması, bu alanı aynı zamanda deniz manzarasının keyfini çıkarmak isteyenler için de çekici kılıyor. İstanbul'un coğrafi konumu, türbenin ve plajın güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Tipoğrafya, deniz seviyesine yakın ve genel olarak düz bir arazidir. Bu coğrafi konum, türbenin ve plajın güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
+Mustafa Reşit Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Denizi'nin kıyısında yer alıyor. Bu konum, ziyaretçilere şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası sunuyor. Bu büyük yeşil alan, ziyaretçilere dinlenmek, doğayı seyretme ve tarihi bir yapıyı keşfetmek için ideal bir ortam sunuyor. Marmara Denizi'nin kıyısında yer alması, bu alanı aynı zamanda deniz manzarasının keyfini çıkarmak isteyenler için de çekici kılıyor. İstanbul'un coğrafi konumu, türbenin ve plajın güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Tipoğrafya, deniz seviyesine yakın ve genel olarak düz bir arazidir. Bu coğrafi konum, türbenin ve plajın güzelliğini daha da artırıyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Mustafa Reşit Paşa Türbesi ve plaj alanını ziyaret etmek, hem tarihi hem de
 
 - Mustafa Reşit Paşa, Osmanlı İmparatorluğu'nun modernleşmesinde önemli bir rol oynamıştır.
 - Türbe, klasik Osmanlı mimari tarzını yansıtıyor.
-- Plaj alanı, 140 hektarlık bir yeşil alan üzerinde kurulmuş.
+
 - Bölge, birçok kuş türünün yuvalandığı ve göç ettiği bir bölge.
 - Türbe ve plaj alanı, yılın her dönemi ziyaret edilebilir.

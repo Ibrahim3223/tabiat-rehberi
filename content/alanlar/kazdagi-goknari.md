@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Abiesnordmannianaequitrojani.jpg","alt":"Kazdagi Goknari manzarası","credit":"Stickpen","license":"pd"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/%C5%9Eahin_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%C5%9Eahin_Tepesi.jpg/1280px-%C5%9Eahin_Tepesi.jpg","alt":"Kazdagi Goknari - Şahin Tepesi","credit":"Jhihongear","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazdagi%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227056","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Kazdagi Goknari, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["İç Anadolu Bölgesi","doğal güzellik","Kazdagi Goknari","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227056"
@@ -42,8 +42,6 @@ Kazdagi Goknari, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir
 Kazdagi Goknari, ziyaretçilerine çeşitli etkinlikler sunar. Bu bölge, doğa ile iç içe olmayı sağlayan bir doğal güzellik alanı olarak dikkat çeker. Kazdagi Goknari, ziyaretçilerin bölgenin güzelliklerini keşfetmesine olanak tanır. Bu alan, ziyaretçilerin doğa ile baş başa kalmasına olanak tanır. Kazdagi Goknari, mevsimsel değişimlere göre farklı bir güzellik sunar. Bu bölge, ziyaretçilerin bölgenin güzelliklerini keşfetmesine olanak tanır. Kazdagi Goknari, ziyaretçilerine çeşitli etkinlikler sunan bir doğal güzellik alanı olarak dikkat çeker.
 
 ## İlginç Bilgiler
-
-- Kazdagi Goknari, 140 hektarlık bir alanı kaplar.
 
 - Bu bölge, mevsimsel değişimlere göre farklı bir güzellik sunar.
 - Kazdagi Goknari, ziyaretçilerine çeşitli etkinlikler sunar.

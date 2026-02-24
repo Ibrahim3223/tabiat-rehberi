@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"Adana-Pos-Yaprakli Karacam","caption":"Adana-Pos-Yaprakli Karacam","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Yaprakli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227470","tip":"genel"}]
-description: "Adana'da bulunan Pos-Yaprakli Karacam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Adana","Pos-Yaprakli Karacam","Milli Park","Doğa","Turizm","Yeşil Alan","Çevre","Ekosistem","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227470"
@@ -42,7 +42,6 @@ Adana-Pos-Yaprakli Karacam Milli Parkı, doğa severler için bir cennet olarak 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar
 - Park, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Parkın coğrafi yapısı, dağlık ve ovalık alanların birleşmesinden oluşur
 - Parkın iklimi, Akdeniz iklimi özellikleri gösterir

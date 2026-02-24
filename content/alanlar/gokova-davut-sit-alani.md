@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotoğrafçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Gökova Davut Sit Alanı","caption":"Gökova Davut Sit Alanı","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kova%20Davut%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226422","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Gökova Davut Sit Alanı","İç Anadolu Bölgesi","doğal sit alanı","korunan alan","flora","fauna","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226422"

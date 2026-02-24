@@ -53,5 +53,5 @@ Rum Mehmet Paşa Türbesi, ziyaretçilerini ağırlayan bir tarihi türbe ve pla
 - Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker.
 - Bu türbe, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir.
 - Rum Mehmet Paşa Türbesi, Üsküdar ilçesinde yer alan bir tarihi türbe ve plajdır.
-- Bu türbe, 140 hektarlık bir alanda bulunan bir tarihi eserdir.
+
 - Rum Mehmet Paşa Türbesi, deniz manzarası sunan bir konumda yer alır.

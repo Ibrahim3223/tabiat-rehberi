@@ -37,7 +37,7 @@ Hamam, Uzunköprü'nün tarihi geçmişi oldukça eskidir. Bu bölge, yüzyılla
 
 ## Coğrafya
 
-Hamam, Uzunköprü, Edirne'nin Uzunköprü ilçesinde yer alan bir bölgedir ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve coğrafi olarak çeşitli özelliklere sahiptir. Hamam, Uzunköprü, yüksek bir konumda yer alır ve bu bölgenin iklimi, Marmara Bölgesi'nin iklimine benzerlik gösterir. Bu bölgenin coğrafi özellikleri, ziyaretçiler için çeşitli olanaklar sunar ve ziyaretçiler, bu bölgenin doğal güzelliklerini keşfetmek için ideal bir yerdir. Hamam, Uzunköprü, aynı zamanda çeşitli bitki ve hayvan türlerine ev sahipliği yapar ve bu bölgenin ekolojik dengesi, ziyaretçiler için önemli bir çekim merkezi oluşturur.
+Hamam, Uzunköprü, Edirne'nin Uzunköprü ilçesinde yer alan bir bölgedir ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Hamam, Uzunköprü, yüksek bir konumda yer alır ve bu bölgenin iklimi, Marmara Bölgesi'nin iklimine benzerlik gösterir. Bu bölgenin coğrafi özellikleri, ziyaretçiler için çeşitli olanaklar sunar ve ziyaretçiler, bu bölgenin doğal güzelliklerini keşfetmek için ideal bir yerdir. Hamam, Uzunköprü, aynı zamanda çeşitli bitki ve hayvan türlerine ev sahipliği yapar ve bu bölgenin ekolojik dengesi, ziyaretçiler için önemli bir çekim merkezi oluşturur.
 
 ## Flora ve Fauna
 

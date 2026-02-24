@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Bakkal Gölü Sulak Alanı","caption":"Bakkal Gölü Sulak Alanı","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bakkal%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228868","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Bakkal Gölü Sulak Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bakkal Gölü","Sulak Alan","İç Anadolu Bölgesi","doğa","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228868"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228868"
 
 # Bakkal Gölü Sulak Alanı
 
- Bu büyüleyici doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. 140 hektarlık bu geniş yeşil alan, doğa severlerin ve biyologların ilgisini çekiyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı kuş türüne de ev sahipliği yapıyor.
+ Bu büyüleyici doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı kuş türüne de ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Bakkal Gölü Sulak Alanı, ziyaretçilerine birçok farklı aktivite sunuyor. B
 
 ## İlginç Bilgiler
 
-- Bakkal Gölü Sulak Alanı, 140 hektarlık bir yeşil alan
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Bakkal Gölü Sulak Alanı, birçok farklı bitki türüne ev sahipliği yapıyor
 - Bu bölgede, birçok farklı hayvan türüne de ev sahipliği yapıyor
 - Bakkal Gölü Sulak Alanı, mevsimsel değişimlere göre, birçok farklı canlıya ev sahipliği yapıyor

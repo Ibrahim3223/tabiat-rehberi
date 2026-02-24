@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","balık avı","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Dirianer Tepesi","caption":"Dirianer Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dirianer%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547745","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerinin başında gelen Dirianer Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Dirianer Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31547745"
@@ -48,7 +48,6 @@ Dirianer Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz ayları. 
 
 ## İlginç Bilgiler
 
-- Dirianer Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin etrafında bulunan ormanlık alanlar ve nehirler, bu bölgeyi doğa severler için bir cennete dönüştürüyor
 - Dirianer Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini etkiliyor
 - Tepenin etrafındaki nehirler ve göller, birçok farklı hayvan türüne ev sahipliği yapıyor

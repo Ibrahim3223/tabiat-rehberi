@@ -29,7 +29,7 @@ wikidata_id: "Q116739730"
 
 # Minyatür Amasya Müzesi
 
-Minyatür Amasya Müzesi, Amasya ilimizin merkezinde yer alan ve yaklaşık 140 hektarlık bir alana kurulu olan özel bir müzedir. Müzenin içerisinde, Amasya'nın önemli tarihi ve kültürel yapıları minyatür olarak sergilenmektedir. Ziyaretçiler, müzenin içerisinde gezerken Amasya'nın tarihini ve kültürünü yakından tanıyabilirler.
+ Müzenin içerisinde, Amasya'nın önemli tarihi ve kültürel yapıları minyatür olarak sergilenmektedir. Ziyaretçiler, müzenin içerisinde gezerken Amasya'nın tarihini ve kültürünü yakından tanıyabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Minyatür Amasya Müzesi'nin tarihi geçmişi, Amasya ilinin kuruluşuna kadar u
 
 ## Coğrafya
 
-Minyatür Amasya Müzesi, Amasya ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin önemli turizm merkezlerinden birisidir. Müze, yaklaşık 140 hektarlık bir alana kurulu olup, Amasya'nın tarihi ve kültürel zenginliğini yansıtan önemli bir turizm merkezidir. Müzenin konumu, ziyaretçiler için ulaşımı kolay bir şekilde tasarlanmış olup, Amasya il merkezine uzun bir mesafe uzaklıktadır. Müzenin çevresi, yeşillik alanlarla kaplı olup, ziyaretçiler için dinlenme ve gezi olanakları sunmaktadır. Ayrıca, müzenin içerisinde çeşitli restoran ve kafe gibi tesisler bulunmaktadır.
+Minyatür Amasya Müzesi, Amasya ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin önemli turizm merkezlerinden birisidir. Müzenin konumu, ziyaretçiler için ulaşımı kolay bir şekilde tasarlanmış olup, Amasya il merkezine uzun bir mesafe uzaklıktadır. Müzenin çevresi, yeşillik alanlarla kaplı olup, ziyaretçiler için dinlenme ve gezi olanakları sunmaktadır. Ayrıca, müzenin içerisinde çeşitli restoran ve kafe gibi tesisler bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Minyatür Amasya Müzesi'ni ziyaret etmek için, Amasya il merkezine gelerek mü
 ## İlginç Bilgiler
 
 - Müzenin içerisinde, Amasya'nın önemli tarihi ve kültürel yapıları minyatür olarak sergilenmektedir.
-- Müze, yaklaşık 140 hektarlık bir alana kurulu olup, Amasya'nın tarihi ve kültürel zenginliğini yansıtan önemli bir turizm merkezidir.
+
 - Müzenin içerisinde, çeşitli Sergi ve etkinlikler düzenlenmektedir.
 - Müzenin çevresi, yeşillik alanlarla kaplı olup, ziyaretçiler için dinlenme ve gezi olanakları sunmaktadır.
 - Müzenin içerisinde, çeşitli restoran ve kafe gibi tesisler bulunmaktadır.

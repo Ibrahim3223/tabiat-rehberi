@@ -28,7 +28,7 @@ wikidata_id: "Q31387756"
 
 # Taşkıran Tepesi
 
-Erzurum'un muhteşem manzaralarına ev sahipliği yapan Taşkıran Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölge, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+ Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölge, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

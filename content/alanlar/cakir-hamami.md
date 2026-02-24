@@ -51,7 +51,7 @@ wikidata_id: "Q131738461"
 ## İlginç Bilgiler
 
 - Çakır Hamamı, Bursa'nın en önemli plajlarından biridir.
-- Plaj, 140 hektarlık bir alana sahiptir.
+
 - Çakır Hamamı, Marmara Bölgesi'nin turizm noktaları arasında yer alır.
 - Bursa'nın tarihi ve kültürel zenginliği, Çakır Hamamı'nı da etkiler.
 - Plaj, özellikle yaz aylarında, ziyaretçilere, konforlu ve güvenli bir ortam sunar.

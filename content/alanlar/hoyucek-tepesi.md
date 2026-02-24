@@ -50,7 +50,7 @@ Höyücek Tepesi'ni ziyaret etmek, bir doğa severin hayalini süsleyecek bir de
 ## İlginç Bilgiler
 
 - Höyücek Tepesi, Marmara Bölgesi'nin en önemli doğa noktalarından biri
-- Bu tepe, 140 hektarlık bir alan kaplıyor
+
 - Höyücek Tepesi, çeşitli bitki türleri ve zengin fauna ile dolu
 - Bu tepe, Marmara Denizi'nin kıyısında yer alıyor
 - Höyücek Tepesi'ne ulaşım, Bandırma'ya ulaşarak sağlanabilir

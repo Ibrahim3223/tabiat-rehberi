@@ -50,7 +50,7 @@ Tavşan Tepesi, ziyaretçilerini bekliyor. Bu tepe, Erzurum'un merkezine yakın 
 ## İlginç Bilgiler
 
 - Tavşan Tepesi, Erzurum'un doğal güzelliklerinden biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Tavşan Tepesi, Erzurum'un merkezine yakın bir konumda yer alır.
 - Bu tepe, ziyaretçilerine doğal güzellikleri ve tarihi ile zengin bir deneyim sunar.
 - Tavşan Tepesi, Erzurum'un coğrafi ve tarihi değerlerini yansıtması bakımından önemli bir yerdir.

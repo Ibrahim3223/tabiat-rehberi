@@ -50,7 +50,7 @@ Tahta Tepe, ziyaretçilere birçok olanak sunuyor. Buraya nasıl gidileceği, zi
 ## İlginç Bilgiler
 
 - Tahta Tepe, Diyarbakır'ın önemli tarihi noktalarından biri
-- Bu alan, 140 hektarlık bir büyüklüğe sahip
+
 - Tahta Tepe, çeşitli bitki ve hayvan türlerini barındırıyor
 - Ziyaretçiler, bu alanı yılın her dönemi ziyaret edebilirler
 - Tahta Tepe, doğa severler için ideal bir destinasyon

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Mugla-Fethiye-Guneydag Kızılçam","caption":"Mugla-Fethiye-Guneydag Kızılçam","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Guneydag%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227911","tip":"genel"}]
-description: "Mugla-Fethiye-Guneydag Kızılçam milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar."
+"
 keywords: ["Mugla","Fethiye","Guneydag Kızılçam","milli park","doğa","yeşil alan","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227911"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227911"
 
 # Mugla-Fethiye-Guneydag Kızılçam
 
- Bu alan, ziyaretçilerine doğanın güzelliğini ve zenginliğini deneyimleme fırsatı sunar. Milli park, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Ziyaretçiler, milli parkın içerisinde yer alan doğal güzellikleri keşfedebilir ve doğayla iç içe olabilirler. Milli parkın konumu, ziyaretçilerin doğayı yakından tanımalarına olanak sağlar. 140 hektarlık bu yeşil alan, doğa severlerin ilgi odağıdır.
+ Bu alan, ziyaretçilerine doğanın güzelliğini ve zenginliğini deneyimleme fırsatı sunar. Milli park, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Ziyaretçiler, milli parkın içerisinde yer alan doğal güzellikleri keşfedebilir ve doğayla iç içe olabilirler. Milli parkın konumu, ziyaretçilerin doğayı yakından tanımalarına olanak sağlar.
 
 ## Tarihçe
 

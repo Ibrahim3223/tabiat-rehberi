@@ -51,7 +51,7 @@ Cumhuriyet Hamamı'na ziyaretçiler, Manisa'nın Şehzadeler ilçesine ulaştık
 ## İlginç Bilgiler
 
 - Cumhuriyet Hamamı, Manisa'nın en önemli tarihi ve doğal güzelliklerinden biridir.
-- Alan, 140 hektarlık bir büyüklüğe sahiptir.
+
 - Cumhuriyet Hamamı, yüzyıllar boyunca farklı medeniyetlerin etkisi altında kalmıştır.
 - Bu bölgede yapılan araştırmalar, tarihi eserlerin ve yapıların varlığını ortaya çıkarmıştır.
 - Cumhuriyet Hamamı, geçmişten günümüze ulaşan bir miras olarak ziyaretçilerini ağırlar.

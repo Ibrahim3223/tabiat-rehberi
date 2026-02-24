@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 7, Emniyet'in tarihi geçmişi, yüzyılların ötesine
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 7, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir noktasında yer almaktadır. Bu bölge, Ankara'nın Yenimahalle ilçesinde bulunmaktadır. Coğrafi olarak, bu bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, 200 futbol sahası büyüklüğünde bir alanı kaplar. Ankara Frig Tümülüsü 7, Emniyet, coğrafi olarak, çeşitli doğal güzelliklere de sahiptir. Bu bölge, yaban hayatı açısından da zengindir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Coğrafi olarak, bu bölge, ziyaretçilerini doğal güzelliklerle dolu bir dünya ile karşılamaktadır. Bu bölge, ziyaretçilerini, tarihin derinliklerine götürürken, aynı zamanda doğal güzelliklerin keyfini çıkarmaya da davet etmektedir.
+Ankara Frig Tümülüsü 7, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir noktasında yer almaktadır. Bu bölge, Ankara'nın Yenimahalle ilçesinde bulunmaktadır. Ankara Frig Tümülüsü 7, Emniyet, coğrafi olarak, çeşitli doğal güzelliklere de sahiptir. Bu bölge, yaban hayatı açısından da zengindir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Coğrafi olarak, bu bölge, ziyaretçilerini doğal güzelliklerle dolu bir dünya ile karşılamaktadır. Bu bölge, ziyaretçilerini, tarihin derinliklerine götürürken, aynı zamanda doğal güzelliklerin keyfini çıkarmaya da davet etmektedir.
 
 ## Flora ve Fauna
 

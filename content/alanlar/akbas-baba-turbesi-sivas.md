@@ -37,7 +37,7 @@ Akbaş Baba Türbesi'nin tarihi geçmişi, Sivas'ın zengin kültür ve tarihini
 
 ## Coğrafya
 
-Akbaş Baba Türbesi, Sivas'ın merkezi bölgesinde yer alır ve şehrin coğrafi yapısını yansıtır. Türbe, 140 hektarlık bir alanda kurulmuştur ve şehrin merkezine oldukça yakındır. Sivas'ın coğrafi olarak İç Anadolu Bölgesi'nde yer alması, türbenin mimari yapısını ve çevre düzenlemesini etkilemiştir. Türbe, çevredeki diğer tarihi mekanlarla birlikte, Sivas'ın tarihi ve kültürel dokusunu oluşturur. Akbaş Baba Türbesi, Sivas'ın merkezi bölgesinde yer alan diğer önemli tarihi mekanlarla birlikte, şehrin turizm potansiyelini artırır. Türbenin çevresinde, çeşitli tarihi yapılar ve kültürel merkezler yer alır, bu da ziyaretçilerin Sivas'ın tarihi ve kültürel zenginliklerini keşfetmelerine olanak tanır.
+Akbaş Baba Türbesi, Sivas'ın merkezi bölgesinde yer alır ve şehrin coğrafi yapısını yansıtır. Sivas'ın coğrafi olarak İç Anadolu Bölgesi'nde yer alması, türbenin mimari yapısını ve çevre düzenlemesini etkilemiştir. Türbe, çevredeki diğer tarihi mekanlarla birlikte, Sivas'ın tarihi ve kültürel dokusunu oluşturur. Akbaş Baba Türbesi, Sivas'ın merkezi bölgesinde yer alan diğer önemli tarihi mekanlarla birlikte, şehrin turizm potansiyelini artırır. Türbenin çevresinde, çeşitli tarihi yapılar ve kültürel merkezler yer alır, bu da ziyaretçilerin Sivas'ın tarihi ve kültürel zenginliklerini keşfetmelerine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Akbaş Baba Türbesi, ziyaretçilere Sivas'ın tarihi ve kültürel zenginlikler
 ## İlginç Bilgiler
 
 - Akbaş Baba Türbesi, Sivas'ın tarihi dokusunu korur.
-- Türbe, 140 hektarlık bir alanda kurulmuştur.
+
 - Sivas'ın merkezi bölgesinde yer alır.
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlar geçirmiştir.
 - Akbaş Baba, Sivas'ın tarihinde önemli bir yere sahiptir.

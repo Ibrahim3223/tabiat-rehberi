@@ -30,7 +30,7 @@ Bolu-Aladag-Sarıalan-Goknar milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Bolu-Aladag-Sarıalan-Goknar milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Bu milli park, 140 hektarlık bir alanı kaplamakta ve çeşitli bitki türleri ile fauna çeşitliliğine ev sahipliği yapmaktadır. Milli parkın coğrafi konumu, ziyaretçilerine zengin bir doğal güzellik sunmaktadır. Bolu-Aladag-Sarıalan-Goknar milli parkının iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu milli park, ziyaretçilerine hem doğal güzelliği hem de coğrafi çeşitliliği sunmaktadır. Milli parkın çevresi, çeşitli dağlar ve vadiler ile çevrili olup, ziyaretçilerine geniş bir manzara sunmaktadır.
+Bolu-Aladag-Sarıalan-Goknar milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Milli parkın coğrafi konumu, ziyaretçilerine zengin bir doğal güzellik sunmaktadır. Bolu-Aladag-Sarıalan-Goknar milli parkının iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu milli park, ziyaretçilerine hem doğal güzelliği hem de coğrafi çeşitliliği sunmaktadır. Milli parkın çevresi, çeşitli dağlar ve vadiler ile çevrili olup, ziyaretçilerine geniş bir manzara sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bolu-Aladag-Sarıalan-Goknar milli parkına ziyaretçiler, çeşitli ulaşım se
 ## İlginç Bilgiler
 
 - Bolu-Aladag-Sarıalan-Goknar milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinmektedir.
-- Milli park, 140 hektarlık bir alanı kaplamaktadır.
+
 - Bolu-Aladag-Sarıalan-Goknar milli parkı, çeşitli bitki türleri ile fauna çeşitliliğine ev sahipliği yapmaktadır.
 - Milli parkın coğrafi konumu, ziyaretçilerine zengin bir doğal güzellik sunmaktadır.
 - Bolu-Aladag-Sarıalan-Goknar milli parkı, ekolojik dengenin korunması açısından önemli bir role sahiptir.

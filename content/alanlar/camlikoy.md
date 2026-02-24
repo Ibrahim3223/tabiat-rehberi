@@ -43,8 +43,6 @@ wikidata_id: "Q108228238"
 
 ## İlginç Bilgiler
 
-- Çamlıköy, 140 hektarlık bir alanı kaplamaktadır.
-
 - Çamlıköy'ün flora ve faunası, birçok farklı türü barındırmaktadır.
 - Bu bölge, yıl boyunca ziyaretçilerini ağırlamakta ve her mevsim, farklı bir güzelliği sunmaktadır.
 - Çamlıköy'ün coğrafi konumu, birçok farklı türün yaşam alanı olarak hizmet vermektedir.

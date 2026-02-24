@@ -28,7 +28,7 @@ wikidata_id: "Q31536684"
 
 # Tabansa Tepesi
 
-Tabansa Tepesi, Kilis ilinin güneydoğu kesiminde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tabansa Tepesi, yöre halkı tarafından bilinen ve ziyaret edilen bir nokta. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Tabansa Tepesi, Kilis ilinin güneydoğu kesiminde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Tabansa Tepesi, yöre halkı tarafından bilinen ve ziyaret edilen bir nokta. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

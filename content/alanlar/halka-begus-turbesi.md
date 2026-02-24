@@ -38,7 +38,7 @@ Halka Begüş Türbesi, tarihi geçmişi ile dikkat çekmektedir. Türbenin tam 
 
 ## Coğrafya
 
-Halka Begüş Türbesi, Karatay, Konya'da bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumundadır. Alan, 140 hektarlık geniş bir yeşil alan sunmakta ve ziyaretçilere geniş bir açık alan sağlamaktadır. Coğrafi konumu itibariyle, Halka Begüş Türbesi'nin çevresinde çeşitli doğal güzellikler bulunmaktadır. Bölge, genellikle karasal iklimin hakim olduğu bir bölgedir. Yaz aylarında sıcaklar yaşanırken, kış aylarında soğuklar hissedilmektedir. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkilemektedir. Halka Begüş Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir coğrafi çeşitlilik sunmaktadır.
+Halka Begüş Türbesi, Karatay, Konya'da bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumundadır. Coğrafi konumu itibariyle, Halka Begüş Türbesi'nin çevresinde çeşitli doğal güzellikler bulunmaktadır. Bölge, genellikle karasal iklimin hakim olduğu bir bölgedir. Yaz aylarında sıcaklar yaşanırken, kış aylarında soğuklar hissedilmektedir. Bu coğrafi özellikler, bölgenin flora ve faunasını da etkilemektedir. Halka Begüş Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir coğrafi çeşitlilik sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Halka Begüş Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği de
 
 - Halka Begüş Türbesi, Karatay, Konya'da bulunmaktadır.
 - Türbenin tarihi geçmişi, yüzyıllar boyunca bölgenin kültürel merkezi olarak hizmet vermiştir.
-- Bölge, 140 hektarlık geniş bir yeşil alan sunmaktadır.
+
 - Halka Begüş Türbesi, ziyaretçilerine tarihin derinliklerine bir yolculuk sunmaktadır.
 - Bölge, genellikle karasal iklimin hakim olduğu bir bölgedir.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227909"
 
 # Mersin-Mut-Alahan-Kızılçam 2
 
-Mersin-Mut-Alahan-Kızılçam 2 milli parkı, Mersin ilinin Mut ilçesinde yer alan, 140 hektarlık geniş bir alanı kapsıyor. Milli parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi zenginliklerini öğrenmesine olanak tanıyor. 140 hektarlık bu yeşil alan, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor.
+ Milli parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi zenginliklerini öğrenmesine olanak tanıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Mut-Alahan-Kızılçam 2 milli parkının tarihi geçmişi, bölgenin kü
 
 ## Coğrafya
 
-Mersin-Mut-Alahan-Kızılçam 2 milli parkı, coğrafi olarak Mersin ilinin Mut ilçesinde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Parkın coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere, bölgenin iklimi, bitki örtüsü ve fauna hakkında bilgi edinme fırsatı sunuyor. 140 hektarlık alan, ziyaretçilere geniş bir doğal ortam sunuyor ve bu ortam, çeşitli bitki türleri ve hayvan türleri ile zenginleştiriliyor. Milli parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı tanıyor.
+Mersin-Mut-Alahan-Kızılçam 2 milli parkı, coğrafi olarak Mersin ilinin Mut ilçesinde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Parkın coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere, bölgenin iklimi, bitki örtüsü ve fauna hakkında bilgi edinme fırsatı sunuyor. Milli parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı tanıyor.
 
 ## Flora ve Fauna
 

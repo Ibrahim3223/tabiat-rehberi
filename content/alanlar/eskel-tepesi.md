@@ -36,7 +36,7 @@ Eşkel Tepesi'nin tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal g�
 
 ## Coğrafya
 
-Eşkel Tepesi, Karadeniz Bölgesi'nin en güzel coğrafi noktalarından biri olarak biliniyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsiyor ve burada çeşitli bitki türleri, zengin fauna ve đp bir manzara bulunuyor. Eşkel Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör olarak biliniyor. Tepe, deniz seviyesinden yüksek bir noktada yer alıyor ve burada formedeki değişimler, bölgenin coğrafi özelliklerini şekillendiren önemli faktörler olarak biliniyor. Eşkel Tepesi'nin etrafında, çeşitli akarsular ve göller bulunuyor ve burada su kaynakları, bölgenin ekolojik dengesini sağlayan önemli bir faktör olarak biliniyor.
+Eşkel Tepesi, Karadeniz Bölgesi'nin en güzel coğrafi noktalarından biri olarak biliniyor. Eşkel Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör olarak biliniyor. Tepe, deniz seviyesinden yüksek bir noktada yer alıyor ve burada formedeki değişimler, bölgenin coğrafi özelliklerini şekillendiren önemli faktörler olarak biliniyor. Eşkel Tepesi'nin etrafında, çeşitli akarsular ve göller bulunuyor ve burada su kaynakları, bölgenin ekolojik dengesini sağlayan önemli bir faktör olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Eşkel Tepesi'ni ziyaret etmek, doğa severler için mükemmel bir deneyim olabi
 
 ## İlginç Bilgiler
 
-- Eşkel Tepesi, 140 hektarlık bir alanı kapsıyor
 - Eşkel Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor
 - Eşkel Tepesi, çeşitli bitki türleri ve zengin fauna ile biliniyor
 - Eşkel Tepesi, bölgenin en önemli ekolojik noktalarından biri olarak kabul ediliyor

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Adana-Kadirli-Taskopru Kayin","caption":"Adana-Kadirli-Taskopru Kayin","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Taskopru%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227233","tip":"genel"}]
-description: "Adana'nın Kadirli ilçesinde yer alan Taskopru Kayin, doğal güzellikleri ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Adana'nın Kadirli ilçesinde yer alan Taskopru Kayin, doğal güzellikleri ile dikkat çekiyor.
 keywords: ["Adana","Kadirli","Taskopru Kayin","doğal güzellik","milli park","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227233"
@@ -30,7 +30,7 @@ Taskopru Kayin milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Taskopru Kayin milli parkı, Adana'nın Kadirli ilçesinde yer alır. Bu bölge, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Milli parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile zengindir. Burada, ziyaretçiler farklı ekosistemleri ve habitatları görebilir. Taskopru Kayin, aynı zamanda iklim açısından da önemlidir. Bu bölge, Akdeniz ikliminin özellikleri ile karakterizedir. Milli parkın coğrafyası, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Taskopru Kayin, yaklaşık 140 hektarlık alanıyla, ziyaretçilere geniş bir doğal alan sunar. Bu milli park, aynı zamanda çevre ve ekoloji açısından da önem taşır. Burada, ziyaretçiler doğanın güzelliğini ve zenginliğini korumak için neler yapabileceğini öğrenebilir.
+Taskopru Kayin milli parkı, Adana'nın Kadirli ilçesinde yer alır. Bu bölge, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Milli parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile zengindir. Burada, ziyaretçiler farklı ekosistemleri ve habitatları görebilir. Taskopru Kayin, aynı zamanda iklim açısından da önemlidir. Bu bölge, Akdeniz ikliminin özellikleri ile karakterizedir. Milli parkın coğrafyası, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Bu milli park, aynı zamanda çevre ve ekoloji açısından da önem taşır. Burada, ziyaretçiler doğanın güzelliğini ve zenginliğini korumak için neler yapabileceğini öğrenebilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Taskopru Kayin milli parkını ziyaret etmek, doğa severler için unutulmaz bir
 
 ## İlginç Bilgiler
 
-- Taskopru Kayin milli parkı, 140 hektarlık alanıyla, ziyaretçilere geniş bir doğal alan sunar
 - Milli park, çeşitli bitki türleri ile zengindir
 - Taskopru Kayin, aynı zamanda yaban hayatı açısından da önemlidir
 - Milli parkın coğrafyası, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir

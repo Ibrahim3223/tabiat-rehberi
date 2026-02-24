@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/94/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_Me%C5%9Fe.jpg","alt":"Piribaba Mesesi manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_me%C5%9Fe.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_me%C5%9Fe.jpg/1280px-Piribaba_Me%C5%9Fesi-Sapl%C4%B1_me%C5%9Fe.jpg","alt":"Piribaba Mesesi - Piribaba Meşesi-Saplı meşe","credit":"Kursat26","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piribaba%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228075","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Piribaba Mesesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Piribaba Mesesi","İç Anadolu Bölgesi","doğal alan","yeşil alan","mesa","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228075"
@@ -31,7 +31,7 @@ Piribaba Mesesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Piribaba Mesesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölge, dağlık ve engebeli arazilerle çevrilidir. 140 hektarlık yeşil alan, ziyaretçilere geniş bir görüş açısı sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Piribaba Mesesi, coğrafi konumu itibariyle, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunar. İlkbahar ve yaz aylarında, yeşilin farklı tonlarını görme mümkün olurken, sonbahar ve kış aylarında, doğanın farklı bir güzelliği ortaya çıkar. Bu bölgede, ziyaretçiler doğanın seslerini dinleyerek huzur bulabilirler. Piribaba Mesesi, coğrafi güzellikleri ve doğal zenginlikleriyle dikkat çeken bir yer olarak bilinir.
+Piribaba Mesesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölge, dağlık ve engebeli arazilerle çevrilidir. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Piribaba Mesesi, coğrafi konumu itibariyle, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunar. İlkbahar ve yaz aylarında, yeşilin farklı tonlarını görme mümkün olurken, sonbahar ve kış aylarında, doğanın farklı bir güzelliği ortaya çıkar. Bu bölgede, ziyaretçiler doğanın seslerini dinleyerek huzur bulabilirler. Piribaba Mesesi, coğrafi güzellikleri ve doğal zenginlikleriyle dikkat çeken bir yer olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Piribaba Mesesi'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal
 
 ## İlginç Bilgiler
 
-- Piribaba Mesesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Piribaba Mesesi, coğrafi konumu itibariyle, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunar.
 - Bu bölgede, ziyaretçiler doğanın seslerini dinleyerek huzur bulabilirler.

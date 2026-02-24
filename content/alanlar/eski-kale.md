@@ -50,7 +50,7 @@ Eski Kale, özellikle tarih ve doğa severler için önemli bir destinasyon olar
 ## İlginç Bilgiler
 
 - Eski Kale, İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi kalıntı alanıdır.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Eski Kale, özellikle Hitit ve Roma dönemlerinde önemli bir merkez olarak bilinirdi.
 - Bu tepe, tarih boyunca önemli olaylara sahne olmuş ve bölgenin gelişimine katkıda bulunmuştur.
 - Eski Kale, ziyaretçiler için önemli bir bilgi kaynağı olarak kabul ediliyor.

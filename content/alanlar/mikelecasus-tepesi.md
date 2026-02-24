@@ -40,15 +40,13 @@ Mikelecasus Tepesi, coğrafi konumu itibariyle oldukça önemli bir noktada yer 
 
 ## Flora ve Fauna
 
- Bu tepenin etrafında bulunan 140 hektarlık alan, çeşitli bitki türleri ile kaplı. İlkbaharın gelmesi ile birlikte, bu bölgede bulunan bitkiler yeşilleniyor ve renkli çiçekler açıyor. yazın sıcakklığı, bitki örtüsünün gelişmesine yardımcı oluyor. Sonbaharın renk cümbüşü, bu bölgenin güzelliğini artırıyor. Mikelecasus Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu bölgede, özellikle kuş türleri ve diğer küçük hayvanlar yaşamlarını sürdürüyor. Mikelecasus Tepesi, doğa severler için bir cennet olarak kabul ediliyor.
+ İlkbaharın gelmesi ile birlikte, bu bölgede bulunan bitkiler yeşilleniyor ve renkli çiçekler açıyor. yazın sıcakklığı, bitki örtüsünün gelişmesine yardımcı oluyor. Sonbaharın renk cümbüşü, bu bölgenin güzelliğini artırıyor. Mikelecasus Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu bölgede, özellikle kuş türleri ve diğer küçük hayvanlar yaşamlarını sürdürüyor. Mikelecasus Tepesi, doğa severler için bir cennet olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 
 Mikelecasus Tepesi, ziyaretçilerini bekliyor. Bu tepeye nasıl gidileceği konusunda, Van ilinin merkezinden itibaren uzun bir mesafelik bir yolculuk gerekiyor. Ziyaretçilerin, bu tepeye ulaşabilmek için kendi araçlarını kullanabilecekleri gibi, toplu taşıma araçlarını da tercih edebiliyorlar. Mikelecasus Tepesi, yıl boyunca ziyaret edilebilir. Ancak, ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlar. Bu aylarda, hava koşulları daha uygun ve doğal güzellikler daha belirgin. Ziyaretçilerin, bu tepeyi ziyaret ederken, doğayı koruma ve doğal güzellikleri bozmamak için necessary önlemleri almaları gerekiyor.
 
 ## İlginç Bilgiler
-
-- Mikelecasus Tepesi, 140 hektarlık bir alanı kaplıyor.
 
 - Mikelecasus Tepesi, doğa severler için bir cennet.
 - Bu tepe, yıl boyunca çeşitli mevsimlerle ziyaret edilebilir.

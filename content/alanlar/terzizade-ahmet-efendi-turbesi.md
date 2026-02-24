@@ -52,5 +52,5 @@ Terzizade Ahmet Efendi Türbesi'ni ziyaret etmek, hem tarihi bir yapıyı görme
 - Türbenin inşa edildiği tarih, 18. yüzyıla kadar uzanır.
 - Bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder.
 - Türbe ve plaj, Manisa'nın önemli turistik mekanlarından biridir.
-- Bölge, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır.
+
 - Türbe, Terzizade Ahmet Efendi'nin anısına inşa edilmiştir.

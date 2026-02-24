@@ -30,7 +30,7 @@ wikidata_id: "Q131391584"
 
 # Şeyh Mustafa Efendi Türbesi
 
-Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır. Türbenin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. 200 futbol sahası büyüklüğünde bir alan, ziyaretçilere geniş bir hareket alanı sağlar.
+Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır. Türbenin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ wikidata_id: "Q131391584"
 
 ## Coğrafya
 
-Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır. Bu alan, Karadeniz Bölgesi'nde yer almaktadır ve doğal güzelliklerle çevrilidir. Türbenin bulunduğu yer, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve çevresindeki yeşil alanlar, ziyaretçilere geniş bir hareket alanı sunar. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. Türbenin bulunduğu bölgenin iklimi, Karadeniz iklimi olarak bilinir ve genellikle serin ve yağışlıdır. Bu bölge, doğal güzellikleri ve tarihi yapıları ile ziyaretçileri çekmektedir. Şeyh Mustafa Efendi Türbesi, Turhal ve Tokat'ın önemli turistik noktalarından biridir.
+Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır. Bu alan, Karadeniz Bölgesi'nde yer almaktadır ve doğal güzelliklerle çevrilidir. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. Türbenin bulunduğu bölgenin iklimi, Karadeniz iklimi olarak bilinir ve genellikle serin ve yağışlıdır. Bu bölge, doğal güzellikleri ve tarihi yapıları ile ziyaretçileri çekmektedir. Şeyh Mustafa Efendi Türbesi, Turhal ve Tokat'ın önemli turistik noktalarından biridir.
 
 ## Flora ve Fauna
 
-Şeyh Mustafa Efendi Türbesi, doğal güzelliklerle çevrilidir. Bu bölgede, çeşitli bitki türleri velar bulunmaktadır. Türbenin bulunduğu yer, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve çevresindeki yeşil alanlar, ziyaretçilere geniş bir hareket alanı sunar. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. Bu bölgede, mevsimsel değişimler, canlıları etkileyen önemli bir faktördür. İlkbahar ve yaz aylarında, bölge daha çok ziyaretçi çekmektedir. Şeyh Mustafa Efendi Türbesi, Turhal ve Tokat'ın önemli turistik noktalarından biridir.
+Şeyh Mustafa Efendi Türbesi, doğal güzelliklerle çevrilidir. Bu bölgede, çeşitli bitki türleri velar bulunmaktadır. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. Bu bölgede, mevsimsel değişimler, canlıları etkileyen önemli bir faktördür. İlkbahar ve yaz aylarında, bölge daha çok ziyaretçi çekmektedir. Şeyh Mustafa Efendi Türbesi, Turhal ve Tokat'ın önemli turistik noktalarından biridir.
 
 ## Ziyaret Bilgileri
 
@@ -53,5 +53,5 @@ wikidata_id: "Q131391584"
 - Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır.
 - Türbenin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir.
 - Şeyh Mustafa Efendi Türbesi, aynı zamanda bir dini merkez olarak da hizmet vermektedir.
-- Türbenin bulunduğu yer, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Şeyh Mustafa Efendi Türbesi, Turhal ve Tokat'ın önemli turistik noktalarından biridir.

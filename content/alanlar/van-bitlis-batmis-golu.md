@@ -42,8 +42,6 @@ Van Bitlis Batmış Gölü, ziyaretçilerine birçok farklı aktivite imkanı su
 
 ## İlginç Bilgiler
 
-- Van Bitlis Batmış Gölü, 140 hektarlık bir alanı kaplamaktadır.
-
 - Van Bitlis Batmış Gölü, birçok farklı bitki türüne ve canlıya ev sahipliği yapmaktadır.
 - Göl, mevsimsel değişimlerle birlikte, ziyaretçilerine birçok farklı doğa koşulunu deneyimleme imkanı sunmaktadır.
 - Van Bitlis Batmış Gölü, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir yerdir.

@@ -14,14 +14,14 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Gedelme Çınarı","caption":"Gedelme Çınarı","credit":"Plains south of Mardin, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedelme%20%C3%87%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Antalya'nın doğal güzelliğini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Antalya'nın doğal güzelliğini keşfedin."
 keywords: ["Antalya","doğal güzellik","Gedelme Çınarı","tabiat anıtı","çınar ağacı","Akdeniz Bölgesi","turizm","gezi"]
 schema_type: "TouristAttraction"
 ---
 
 # Gedelme Çınarı
 
-Gedelme Çınarı, Antalya'nın güzide bir bölgesinde yer alan ve 140 hektarlık bir alanı kapsayan bir tabiat anıtıdır. Bölge, ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Gedelme Çınarı, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilebilir. Antalya'nın turizm açısından önemli noktalarından biri olan bu bölge, ziyaretçilere unutulmaz bir deneyim vaat ediyor.
+ Bölge, ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Gedelme Çınarı, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilebilir. Antalya'nın turizm açısından önemli noktalarından biri olan bu bölge, ziyaretçilere unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Gedelme Çınarı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Gedelme Çınarı, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık bir alanı kapsıyor ve bu alan, Akdeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bölge, çam ağaçları, zeytinlik alanlar ve çeşitli bitki türleri ile kaplı. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi özellikler, bölgeyi hem flora hem de fauna açısından zenginleştiriyor. Gedelme Çınarı, ayrıca, çevreye duyarlı bir şekilde korunan bir tabiat anıtı olarak dikkat çekiyor. Doğal güzelliği, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Gedelme Çınarı, coğrafi açıdan oldukça zengin bir bölge. Bölge, çam ağaçları, zeytinlik alanlar ve çeşitli bitki türleri ile kaplı. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi özellikler, bölgeyi hem flora hem de fauna açısından zenginleştiriyor. Gedelme Çınarı, ayrıca, çevreye duyarlı bir şekilde korunan bir tabiat anıtı olarak dikkat çekiyor. Doğal güzelliği, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,7 @@ Gedelme Çınarı, ziyaretçilerine birçok olanak sunuyor. Ziyaretçiler, bölg
 ## İlginç Bilgiler
 
 - Gedelme Çınarı, bir tabiat anıtı olarak koruma altında.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Çeşitli bitki ve hayvan türleri ile zengin.
 - Mevsimsel değişimler, bölgenin ekolojik dengesini etkiliyor.

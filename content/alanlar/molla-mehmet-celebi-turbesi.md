@@ -38,7 +38,7 @@ Molla Mehmet Çelebi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Molla Mehmet Çelebi Türbesi, Tire'nin merkezi bir bölgesinde yer alır. Bu mekan, Ege Bölgesi'nin coğrafi olarak önemli bir konumunda bulunur. Tire, İzmir iline bağlı bir ilçedir ve bu bölge, coğrafi açıdan çeşitlilik gösterir. Molla Mehmet Çelebi Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitkiler ve ağaçlarla dolu bir doğa harikasıdır. Bu bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösterir ve yazları sıcak, kışları ılıman geçer. Tire'nin coğrafi konumu, bu bölgede çeşitli tarım faaliyetlerinin yapılmasına olanak tanır. Molla Mehmet Çelebi Türbesi'nin bulunduğu alan, ziyaretçilerine hem tarihi hem de doğal güzelliği sunar.
+Molla Mehmet Çelebi Türbesi, Tire'nin merkezi bir bölgesinde yer alır. Bu mekan, Ege Bölgesi'nin coğrafi olarak önemli bir konumunda bulunur. Tire, İzmir iline bağlı bir ilçedir ve bu bölge, coğrafi açıdan çeşitlilik gösterir. Bu bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösterir ve yazları sıcak, kışları ılıman geçer. Tire'nin coğrafi konumu, bu bölgede çeşitli tarım faaliyetlerinin yapılmasına olanak tanır. Molla Mehmet Çelebi Türbesi'nin bulunduğu alan, ziyaretçilerine hem tarihi hem de doğal güzelliği sunar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Molla Mehmet Çelebi Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliğin bi
 
 - Tire'nin merkezi bir bölgesinde yer alır
 - Ege Bölgesi'nin coğrafi olarak önemli bir konumunda bulunur
-- Yaklaşık 140 hektarlık bir alanı kaplar
+
 - Çeşitli bitkiler ve ağaçlarla dolu bir doğa harikasıdır
 - Tarihi değeri yüksek bir mekan olarak dikkat çeker

@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Hatuncuk_Hatun_Mosque_%28Ortahisar%29.jpg","alt":"Hatun Hamamı manzarası","credit":"Ali Osman Dilekoğlu","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Bursa_Emir_Sultan_Camii_7069.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bursa_Emir_Sultan_Camii_7069.jpg/1280px-Bursa_Emir_Sultan_Camii_7069.jpg","alt":"Hatun Hamamı - Bursa Emir Sultan Camii 7069","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Bursa_Emir_Sultan_Camii_7068.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bursa_Emir_Sultan_Camii_7068.jpg/1280px-Bursa_Emir_Sultan_Camii_7068.jpg","alt":"Hatun Hamamı - Bursa Emir Sultan Camii 7068","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/64/Saadet_Hatun_Hamam%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Saadet_Hatun_Hamam%C4%B1.jpg/1280px-Saadet_Hatun_Hamam%C4%B1.jpg","alt":"Hatun Hamamı - Saadet Hatun Hamamı","credit":"Ozlmktv","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fd/EM%C4%B0RSULTAN_HAMAMI_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/EM%C4%B0RSULTAN_HAMAMI_-_panoramio.jpg/1280px-EM%C4%B0RSULTAN_HAMAMI_-_panoramio.jpg","alt":"Hatun Hamamı - EMİRSULTAN HAMAMI - panoramio","credit":"Mustafa DUMAN","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Tile_from_Hunat_Hatun_Baths_in_Kayseri._1237-38_Kayseri_Archaeological_Museum%2C_inv._75-665.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Tile_from_Hunat_Hatun_Baths_in_Kayseri._1237-38_Kayseri_Archaeological_Museum%2C_inv._75-665.jpg","alt":"Hatun Hamamı - Tile from Hunat Hatun Baths in Kayseri. 1237-38 Kayseri Archaeological Museum, inv. 75-665","credit":"13th century artist","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738701","tip":"genel"}]
-description: "Karaman'ın doğal güzelliklerinden biri olan Hatun Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Karaman","Hatun Hamamı","doğal güzellik","plaj","Karaman plajları","İç Anadolu Bölgesi","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738701"
@@ -51,7 +51,7 @@ Hatun Hamamı, Karaman'ı ziyaret edecekler için önemli bir destinasyon olarak
 ## İlginç Bilgiler
 
 - Hatun Hamamı, Karaman'ın en önemli turizm noktalarından biri
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Hatun Hamamı, Karaman'ın tarihini ve kültürünü yansıtan önemli bir nokta
 - Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel coğrafi yapısına benzemektedir
 - Hatun Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor

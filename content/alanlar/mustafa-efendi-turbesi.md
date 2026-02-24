@@ -52,6 +52,6 @@ Mustafa Efendi Türbesi ve plajını ziyaret etmek, ziyaretçilere güzel bir de
 
 - Mustafa Efendi Türbesi, bir zamanlar önemli bir dini merkez olarak bilinirdi
 - Turbe, deniz kıyısında yer alan bir tepe üzerinde bulunmaktadır
-- Mustafa Efendi Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Bu bölgede, çeşitli bitkiler ve ağaçlar bulunmaktadır
 - Mustafa Efendi Türbesi, tarihi önemi ve doğal güzelliği ile birlikte, ziyaretçilerini cezbeden bir destinasyon olarak bilinir

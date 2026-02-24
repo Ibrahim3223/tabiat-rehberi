@@ -30,7 +30,7 @@ Kastamonu-Karadere Karacam milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Kastamonu-Karadere Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık alan, çeşitli bitki türleri ve fauna ile dolu bir doğa harikasıdır. Milli park, yüksek bir konumda yer alıyor ve bu yükseklik, bölgenin iklimini doğrudan etkiliyor. Bölge, Karadeniz ikliminin característicasını taşıyor ve bu nedenle, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunuyor. Burada, çeşitli yürüyüş parkurları ve doğa güzergahları ziyaretçilere sunuluyor.
+Kastamonu-Karadere Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Milli park, yüksek bir konumda yer alıyor ve bu yükseklik, bölgenin iklimini doğrudan etkiliyor. Bölge, Karadeniz ikliminin característicasını taşıyor ve bu nedenle, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunuyor. Burada, çeşitli yürüyüş parkurları ve doğa güzergahları ziyaretçilere sunuluyor.
 
 ## Flora ve Fauna
 
@@ -46,4 +46,4 @@ Kastamonu-Karadere Karacam milli parkını ziyaret etmek, doğa severler için b
 - Bölge, çeşitli uygarlıklar tarafından yerleşim yeri olarak kullanılmıştır.
 - Milli parkın yönetimi, bölgenin doğal dengesini korumak için önemli çalışmalara imza atmıştır.
 - Bölge, Karadeniz ikliminin característicasını taşıyor.
-- Milli park, 140 hektarlık bir alana sahiptir.
+

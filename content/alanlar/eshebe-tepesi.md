@@ -49,7 +49,7 @@ Eshebe Tepesi'ni ziyaret etmek, Diyarbakır'ın coğrafi ve tarihi güzelliğini
 ## İlginç Bilgiler
 
 - Eshebe Tepesi, Diyarbakır'ın coğrafi güzelliğinin önemli bir parçası.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Eshebe Tepesi, ziyaretçilerine, şehrin doğal ve tarihi güzelliğini keşfetme fırsatı sunuyor.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 - Eshebe Tepesi, doğa severler için ideal bir nokta.

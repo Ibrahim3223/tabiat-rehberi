@@ -48,7 +48,6 @@ Aysekizi Tepesi'ni ziyaret etmek, doğa severler ve yürüyüş tutkunları içi
 
 ## İlginç Bilgiler
 
-- Aysekizi Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Bu bölge, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Aysekizi Tepesi, yaban hayatı ve flora açısından zengin bir çeşitliliğe sahip.
 - Bu tepe, Manisa ilinin sınırları içerisinde yer alıyor.

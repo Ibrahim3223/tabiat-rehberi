@@ -37,7 +37,7 @@ Soğuksu Hamam Kalıntısı'nın tarihi geçmişi, bölgenin eski uygarlıkları
 
 ## Coğrafya
 
-Soğuksu Hamam Kalıntısı, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Gönen ilçesi, Balıkesir'in önemli ilçelerinden biri olarak biliniyor ve Soğuksu Hamam Kalıntısı, bu ilçenin merkezinde bulunuyor. Soğuksu Hamam Kalıntısı, yaklaşık 140 hektarlık bir alan üzerinde kurulu ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Soğuksu Hamam Kalıntısı'nın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Soğuksu Hamam Kalıntısı, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını sunuyor. Soğuksu Hamam Kalıntısı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilere yıl boyunca çeşitli mevsimsel aktiviteler sunuyor.
+Soğuksu Hamam Kalıntısı, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Gönen ilçesi, Balıkesir'in önemli ilçelerinden biri olarak biliniyor ve Soğuksu Hamam Kalıntısı, bu ilçenin merkezinde bulunuyor. Soğuksu Hamam Kalıntısı'nın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Soğuksu Hamam Kalıntısı, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını sunuyor. Soğuksu Hamam Kalıntısı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilere yıl boyunca çeşitli mevsimsel aktiviteler sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Soğuksu Hamam Kalıntısı, yıl boyunca ziyaret edilebilen bir destinasyon ola
 ## İlginç Bilgiler
 
 - Soğuksu Hamam Kalıntısı, Marmara Bölgesi'nin en önemli tarihi yerlerinden biri
-- Soğuksu Hamam Kalıntısı, yaklaşık 140 hektarlık bir alan üzerinde kurulu
+
 - Soğuksu Hamam Kalıntısı, çeşitli bitki türleri ve hayvanlarla dolu
 - Soğuksu Hamam Kalıntısı, yüksek bir konumda yer alıyor
 - Soğuksu Hamam Kalıntısı, yıl boyunca ziyaret edilebilen bir destinasyon

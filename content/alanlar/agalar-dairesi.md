@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["deniz sporları","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fd/%C3%9Csk%C3%BCdar_-_%C4%B0stanbul_Sabanc%C4%B1_Olgunla%C5%9Fma_Enstit%C3%BCs%C3%BC_-_20250406130003.jpg","alt":"Ağalar Dairesi manzarası","credit":"Sadrettin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%C3%9Csk%C3%BCdar_-_%C4%B0stanbul_Sabanc%C4%B1_Olgunla%C5%9Fma_Enstit%C3%BCs%C3%BC_-_20250406130003.jpg/960px-%C3%9Csk%C3%BCdar_-_%C4%B0stanbul_Sabanc%C4%B1_Olgunla%C5%9Fma_Enstit%C3%BCs%C3%BC_-_20250406130003.jpg","alt":"Ağalar Dairesi","caption":"Ağalar Dairesi","credit":"Üsküdar - İstanbul Sabancı Olgunlaşma Enstitüsü - 20250406130003","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Okul_fotograf.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Okul_fotograf.jpg/1280px-Okul_fotograf.jpg","alt":"Ağalar Dairesi - Okul fotograf","credit":"Olgunlasmasabanci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Falar%20Dairesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738876","tip":"genel"}]
 description: "Sarıyer'in gizli cenneti, Ağalar Dairesi'ni keşfedin"

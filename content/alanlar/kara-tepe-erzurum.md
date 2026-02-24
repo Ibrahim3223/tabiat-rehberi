@@ -48,8 +48,6 @@ Kara Tepe, ziyaretçilere geniş bir manzara sunar ve bölgenin güzelliklerini 
 
 ## İlginç Bilgiler
 
-- Kara Tepe, 140 hektarlık bir alanı kaplar.
-
 - Kara Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyondur.
 - Bölgenin iklimi, karasal iklim olup, kışları soğuk ve yazları serin geçer.
 - Kara Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.

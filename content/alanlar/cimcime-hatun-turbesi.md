@@ -30,7 +30,7 @@ wikidata_id: "Q135582844"
 
 # Cimcime Hatun Türbesi
 
-Cimcime Hatun Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Yakutiye'nin kalbinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. Cimcime Hatun Türbesi, tarih ve doğa severler için önemli bir destinasyon olarak dikkat çekiyor. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Cimcime Hatun Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Cimcime Hatun Türbesi, tarih ve doğa severler için önemli bir destinasyon olarak dikkat çekiyor. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cimcime Hatun Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. B
 
 ## Coğrafya
 
-Cimcime Hatun Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Yakutiye'nin kalbinde bulunan türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, ziyaretçilere geniş bir gezi alanı sunuyor. Bölge, dağlık ve engebeli bir araziye sahip ve bu coğrafi özellikler, Cimcime Hatun Türbesi'nin doğal güzelliklerini ortaya çıkarıyor. Türbe, yüksek bir tepe üzerinde yer alıyor ve ziyaretçilere çevreyi panoramik olarak görmesine olanak tanıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı ayrı yaşanabiliyor. Cimcime Hatun Türbesi, coğrafi açıdan zengin ve ziyaretçilere çeşitli doğal güzellikler sunan bir destinasyon olarak dikkat çekiyor.
+Cimcime Hatun Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Bu geniş alan, ziyaretçilere geniş bir gezi alanı sunuyor. Bölge, dağlık ve engebeli bir araziye sahip ve bu coğrafi özellikler, Cimcime Hatun Türbesi'nin doğal güzelliklerini ortaya çıkarıyor. Türbe, yüksek bir tepe üzerinde yer alıyor ve ziyaretçilere çevreyi panoramik olarak görmesine olanak tanıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı ayrı yaşanabiliyor. Cimcime Hatun Türbesi, coğrafi açıdan zengin ve ziyaretçilere çeşitli doğal güzellikler sunan bir destinasyon olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

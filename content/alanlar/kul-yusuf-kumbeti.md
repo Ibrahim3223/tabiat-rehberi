@@ -29,7 +29,7 @@ wikidata_id: "Q135582819"
 
 # Kul Yusuf Kümbeti
 
-Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer alan tarihi bir kümbettir. Bu tarihi yapı, İğdır'ın zengin kültürel mirasının önemli bir parçasını oluşturur. Kümbet, yaklaşık 140 hektarlık bir alan üzerinde bulunmaktadır. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. Kul Yusuf Kümbeti, İğdır'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir destinasyondur.
+Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer alan tarihi bir kümbettir. Bu tarihi yapı, İğdır'ın zengin kültürel mirasının önemli bir parçasını oluşturur. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. Kul Yusuf Kümbeti, İğdır'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kul Yusuf Kümbeti'nin tarihi geçmişi, İğdır'ın tarihini anlamak için ön
 
 ## Coğrafya
 
-Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve ovalık alanların birleşimini oluşturmaktadır. Kümbet, yaklaşık 140 hektarlık bir yeşil alanda bulunmaktadır. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, karasal iklim özellikleri taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere yıl boyunca farklı deneyimler sunmaktadır. Bölge, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına katkıda bulunmaktadır. Kul Yusuf Kümbeti, İğdır'ın coğrafi güzelliğini ve zenginliğini deneyimlemek isteyenler için ideal bir destinasyondur.
+Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve ovalık alanların birleşimini oluşturmaktadır. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, karasal iklim özellikleri taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere yıl boyunca farklı deneyimler sunmaktadır. Bölge, aynı zamanda çeşitli su kaynaklarına sahiptir. Bu su kaynakları, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına katkıda bulunmaktadır. Kul Yusuf Kümbeti, İğdır'ın coğrafi güzelliğini ve zenginliğini deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kul Yusuf Kümbeti'ni ziyaret etmek, İğdır'ın tarihini ve kültürünü keş
 ## İlginç Bilgiler
 
 - Kul Yusuf Kümbeti, İğdır'ın en önemli tarihi eserlerinden biridir
-- Kümbet, yaklaşık 140 hektarlık bir yeşil alanda bulunmaktadır
+
 - Bölge, zengin bir flora ve faunaya sahiptir
 - Kul Yusuf Kümbeti, yıl boyunca ziyaret edilebilir
 - En uygun ziyaret zamanı, ilkbahar ve yaz aylarıdır

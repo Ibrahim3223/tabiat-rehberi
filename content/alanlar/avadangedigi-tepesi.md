@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","tarih keşfi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/First_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-9.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Avadangediği Tepesi","caption":"Avadangediği Tepesi","credit":"First floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-9","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avadangedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536187","tip":"genel"}]
-description: "Hatay'ın doğal güzellikleri arasında yer alan Avadangediği Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["Avadangediği Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31536187"
@@ -28,7 +28,7 @@ wikidata_id: "Q31536187"
 
 # Avadangediği Tepesi
 
-Avadangediği Tepesi, Hatay ilinin Akdeniz Bölgesi'nde bulunan ve 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Avadangediği Tepesi, ziyaretçilerini büyüleyen manzaralarıyla ve zengin flora ve faunasıyla dikkat çekmektedir. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
+ Avadangediği Tepesi, ziyaretçilerini büyüleyen manzaralarıyla ve zengin flora ve faunasıyla dikkat çekmektedir. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
 
 ## Tarihçe
 
@@ -47,8 +47,6 @@ Avadangediği Tepesi, zengin bir flora ve faunaya sahiptir. Bu tepe, Akdeniz Bö
 Avadangediği Tepesi, ziyaretçiler için bir doğa gezi alanı olarak hizmet vermektedir. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır. Ziyaretçiler, tepeye tırmanarak bölgenin manzaralarını izleyebilir ve tarihi kalıntıları keşfedebilir. Avadangediği Tepesi, ayrıca trekking ve doğa yürüyüşü için ideal bir bölgedir. Ziyaretçiler, bölgenin flora ve faunasını gözlemleyebilir ve çeşitli fotoğraflar çekebilir. Avadangediği Tepesi, yıl boyunca ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve yaz aylarıdır.
 
 ## İlginç Bilgiler
-
-- Avadangediği Tepesi, 140 hektarlık bir alanı kapsar.
 
 - Avadangediği Tepesi, Akdeniz Bölgesi'nde yer almaktadır.
 - Bu tepe, zengin bir flora ve faunaya sahiptir.

@@ -38,7 +38,7 @@ Haseki Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu döneminde başla
 
 ## Coğrafya
 
-Haseki Hamamı, İstanbul'un Fatih ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarına yakınlığı ile dikkat çekmektedir. Hamam ve plaj alanı, 140 hektarlık bir yeşil alan üzerinde yer almaktadır. Haseki Hamamı'nın bulunduğu bölge, yüksek bir konumda yer almaktadır. Bu yükseklik, hamam ve plaj alanının güzelliğini ve manzarasını artırmaktadır. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, İstanbul'un önemli ulaşım hatlarına yakınlığı ile de dikkat çekmektedir.
+Haseki Hamamı, İstanbul'un Fatih ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarına yakınlığı ile dikkat çekmektedir. Haseki Hamamı'nın bulunduğu bölge, yüksek bir konumda yer almaktadır. Bu yükseklik, hamam ve plaj alanının güzelliğini ve manzarasını artırmaktadır. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, İstanbul'un önemli ulaşım hatlarına yakınlığı ile de dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,4 @@ Haseki Hamamı ve plaj alanını ziyaret etmek, birçok ziyaretçiçin önemli b
 - Haseki Hamamı, Sultan Süleyman'ın eşi Hürrem Sultan tarafından yaptırılmıştır
 - Hamam, o günden bugüne birçok restorasyon ve bakım işlemine tabi tutulmuştur
 - Haseki Hamamı, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır
-- Hamam ve plaj alanı, 140 hektarlık bir yeşil alan üzerinde yer almaktadır
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok ağaç, bitki ve çiçek türünü barındırmaktadır
+

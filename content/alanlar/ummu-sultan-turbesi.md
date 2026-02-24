@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/%C3%9Cmm%C3%BC_Sultan_T%C3%BCrbesi.jpg","alt":"Ümmü Sultan Türbesi manzarası","credit":"BSRF","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cmm%C3%BC%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390833","tip":"genel"}]
-description: "Ege Bölgesi'nin en güzel plajlarından biri olan Ümmü Sultan Türbesi, İzmir'in Ödemiş ilçesinde yer alır. 140 hektarlık bir alan üzerinde kurulan plaj, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir."
+description: "Ege Bölgesi'nin en güzel plajlarından biri olan Ümmü Sultan Türbesi, İzmir'in Ödemiş ilçesinde yer alır."
 keywords: ["Ümmü Sultan Türbesi","Ödemiş","İzmir","Ege Bölgesi","plaj","tarihçe","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390833"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390833"
 
 # Ümmü Sultan Türbesi
 
-Ümmü Sultan Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. İzmir'in Ödemiş ilçesinde yer alan bu plaj, 140 hektarlık bir alan üzerinde kurulmuştur. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda tarihi bir geçmişe sahiptir ve bölgede yapılan kazılarda çeşitli tarihi eserler bulunmuştur.
+Ümmü Sultan Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda tarihi bir geçmişe sahiptir ve bölgede yapılan kazılarda çeşitli tarihi eserler bulunmuştur.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390833"
 ## İlginç Bilgiler
 
 - Ümmü Sultan Türbesi, Ege Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Ümmü Sultan Türbesi, zengin bir flora ve fauna sahiptir.
 - Plaj, özellikle yaz aylarında birçok ziyaretçiyi çekmektedir.
 - Ümmü Sultan Türbesi, aynı zamanda bölgede önemli bir dini merkez olarak kabul edilir.

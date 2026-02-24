@@ -38,7 +38,7 @@ Aşağı Hamam'ın tarihi geçmişi, yüzyıllar boyunca bölgenin kültürel ve
 
 ## Coğrafya
 
-Aşağı Hamam, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alan kaplamakta ve geniş bir kumsal ile çevrilidir. Aşağı Hamam'ın coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini sunarken, aynı zamanda temiz ve berrak suları ile birlikte harika bir doğa deneyimi sunmaktadır. Bu bölge, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava koşuluna sahiptir. Aşağı Hamam, bölgenin coğrafi yapısı ve iklim koşulları nedeniyle, ziyaretçilerine yıl boyunca farklı deneyimler sunmaktadır. Bu plaj, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarılması için önemli bir role sahiptir.
+Aşağı Hamam, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alan bir plajdır. Aşağı Hamam'ın coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini sunarken, aynı zamanda temiz ve berrak suları ile birlikte harika bir doğa deneyimi sunmaktadır. Bu bölge, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava koşuluna sahiptir. Aşağı Hamam, bölgenin coğrafi yapısı ve iklim koşulları nedeniyle, ziyaretçilerine yıl boyunca farklı deneyimler sunmaktadır. Bu plaj, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarılması için önemli bir role sahiptir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Aşağı Hamam'ı ziyaret etmek, yalnızca doğal güzellikleri görmek değil, 
 ## İlginç Bilgiler
 
 - Aşağı Hamam, Sivas'ın Divriği ilçesinde yer alan bir plajdır.
-- Bu plaj, yaklaşık 140 hektarlık bir alan kaplamaktadır.
+
 - Aşağı Hamam, ziyaretçilerine temiz ve berrak suları, geniş kumsalları ve güneşin tatlı ışıklarıyla birlikte harika bir doğa deneyimi sunmaktadır.
 - Bu plaj, bölgenin turizm potansiyelini arttıran önemli bir merkez olarak kabul edilmektedir.
 - Aşağı Hamam, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarılması için önemli bir role sahiptir.

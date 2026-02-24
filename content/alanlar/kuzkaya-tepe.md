@@ -36,7 +36,7 @@ Kuzkaya Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe, ta
 
 ## Coğrafya
 
-Kuzkaya Tepe, Kahramanmaraş ilinin merkezinde yer alıyor ve tepe, yaklaşık 140 hektarlık bir alan kaplıyor. Kuzkaya Tepe, doğal güzellikleri ve tarihi önemini bir araya getiren bir destinasyon. Tepe, surroundingsındaki doğal güzellikleri de keşfedebilirler. Kuzkaya Tepe, Kahramanmaraş'ın önemli turizm merkezlerinden biri olarak kabul ediliyor. Tepe, çeşitli coğrafi özelliklere sahip ve ziyaretçiler, tepeyi keşfetmelerinin yanı sıra, çevresindeki doğal güzellikleri de keşfedebilirler. Kuzkaya Tepe, Akdeniz Bölgesi'nin önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Tepe, iklimi ve coğrafi konumuyla dikkat çekiyor ve ziyaretçiler, tepeyi keşfetmek için çeşitli olanaklara sahip. Kuzkaya Tepe, doğal güzellikleri ve tarihi önemini bir araya getiren bir destinasyon olarak kabul ediliyor.
+ Kuzkaya Tepe, doğal güzellikleri ve tarihi önemini bir araya getiren bir destinasyon. Tepe, surroundingsındaki doğal güzellikleri de keşfedebilirler. Kuzkaya Tepe, Kahramanmaraş'ın önemli turizm merkezlerinden biri olarak kabul ediliyor. Tepe, çeşitli coğrafi özelliklere sahip ve ziyaretçiler, tepeyi keşfetmelerinin yanı sıra, çevresindeki doğal güzellikleri de keşfedebilirler. Kuzkaya Tepe, Akdeniz Bölgesi'nin önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Tepe, iklimi ve coğrafi konumuyla dikkat çekiyor ve ziyaretçiler, tepeyi keşfetmek için çeşitli olanaklara sahip. Kuzkaya Tepe, doğal güzellikleri ve tarihi önemini bir araya getiren bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kuzkaya Tepe, ziyaretçiler için çeşitli olanaklara sahip. Tepe, doğal güze
 
 ## İlginç Bilgiler
 
-- Kuzkaya Tepe, yaklaşık 140 hektarlık bir alan kaplıyor.
 - Tepe, doğal güzellikleri ve tarihi önemini bir araya getiren bir destinasyon.
 - Kuzkaya Tepe, Kahramanmaraş'ın önemli turizm merkezlerinden biri olarak kabul ediliyor.
 - Tepe, çeşitli coğrafi özelliklere sahip ve ziyaretçiler, tepeyi keşfetmek için çeşitli olanaklara sahip.

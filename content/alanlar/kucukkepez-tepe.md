@@ -49,7 +49,7 @@ Küçükkepez Tepe, Karaman'ı ziyaret edenler için önemli bir nokta. Tepe, b�
 ## İlginç Bilgiler
 
 - Küçükkepez Tepe, Karaman'ın merkezinde yer alan bir tepe
-- Tepe, 140 hektarlık bir alan kaplamakta
+
 - Tepe etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Tepe, bölgenin coğrafi yapısını da etkilemekte
 - Tepe, aynı zamanda bölgenin ekolojisini de etkilemekte

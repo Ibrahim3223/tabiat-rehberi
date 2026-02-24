@@ -29,7 +29,7 @@ wikidata_id: "Q131739003"
 
 # Asılhan Bey Hamamı
 
-Asılhan Bey Hamamı, Ezine'nin merkezinde yer alan ve tarihin sayfalarında gizli kalmış bir hazine olarak ziyaretçilerini bekliyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerine geniş bir tarihi ve kültürel miras sunuyor. Asılhan Bey Hamamı'nın tarihi geçmişi, ziyaretçilerini farklı bir dünyada hissettirecek şekilde tasarlanmış. Ziyaretçiler, bu mekanın her köşesinde tarihin ve kültürün izlerini bulabilecekler.
+Asılhan Bey Hamamı, Ezine'nin merkezinde yer alan ve tarihin sayfalarında gizli kalmış bir hazine olarak ziyaretçilerini bekliyor. Asılhan Bey Hamamı'nın tarihi geçmişi, ziyaretçilerini farklı bir dünyada hissettirecek şekilde tasarlanmış. Ziyaretçiler, bu mekanın her köşesinde tarihin ve kültürün izlerini bulabilecekler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Asılhan Bey Hamamı'nın tarihi geçmişi, Ezine'nin tarihine kadar uzanıyor. 
 
 ## Coğrafya
 
-Asılhan Bey Hamamı, Ezine'nin merkezinde yer alan bir tarihi mekan olarak coğrafi açıdan önemli bir konumda bulunuyor. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerine geniş bir yeşil alan sunuyor. Asılhan Bey Hamamı'nın coğrafi konumu, ziyaretçilerini Ezine'nin doğal güzelliklerine de yaklaştırıyor. Ziyaretçiler, bu mekanın çevresinde yer alan tarihi yapıları, yeşil alanları ve doğal güzellikleri keşfederken, aynı zamanda Ezine'nin coğrafi yapısını da öğrenme fırsatı bulacaklar. Asılhan Bey Hamamı, Ezine'nin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktası olarak ziyaretçilerini bekliyor.
+Asılhan Bey Hamamı, Ezine'nin merkezinde yer alan bir tarihi mekan olarak coğrafi açıdan önemli bir konumda bulunuyor. Asılhan Bey Hamamı'nın coğrafi konumu, ziyaretçilerini Ezine'nin doğal güzelliklerine de yaklaştırıyor. Ziyaretçiler, bu mekanın çevresinde yer alan tarihi yapıları, yeşil alanları ve doğal güzellikleri keşfederken, aynı zamanda Ezine'nin coğrafi yapısını da öğrenme fırsatı bulacaklar. Asılhan Bey Hamamı, Ezine'nin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktası olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Asılhan Bey Hamamı, ziyaretçilerini tarihin derinliklerine götürerek farkl�
 ## İlginç Bilgiler
 
 - Asılhan Bey Hamamı, Ezine'nin en önemli tarihi mekanlarından biri olarak kabul ediliyor.
-- Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Asılhan Bey Hamamı, Ezine'nin tarihine kadar uzanan bir kültürel miras sunuyor.
 - Ziyaretçiler, bu mekanın her köşesinde tarihin ve kültürün izlerini bulabilecekler.
 - Asılhan Bey Hamamı, Ezine'nin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktası olarak ziyaretçilerini bekliyor.

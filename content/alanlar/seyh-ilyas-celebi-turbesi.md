@@ -30,7 +30,7 @@ wikidata_id: "Q131390906"
 
 # Şeyh İlyas Çelebi Türbesi
 
-Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak Akhisar'da yer alıyor. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde bulunuyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Şeyh İlyas Çelebi Türbesi, Manisa ilinin Akhisar ilçesinde bulunuyor ve Ege Bölgesi'nin önemli kültür ve turizm merkezlerinden biri olarak kabul ediliyor.
+Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak Akhisar'da yer alıyor. Şeyh İlyas Çelebi Türbesi, Manisa ilinin Akhisar ilçesinde bulunuyor ve Ege Bölgesi'nin önemli kültür ve turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390906"
 ## İlginç Bilgiler
 
 - Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin önemli tarihi mekanlarından biri
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde bulunuyor
+
 - Şeyh İlyas Çelebi, döneminde önemli bir figür olarak kabul edilmiş
 - Türbe, yüzyıllar boyu birçok ziyaretçiyi ağırlamış
 - Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin flora ve faunasına ev sahipliği yapıyor

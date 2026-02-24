@@ -42,7 +42,6 @@ Mugla-Fethiye-Gocek Sigla 2 milli parkını ziyaret etmek, doğa severler için 
 
 ## İlginç Bilgiler
 
-- Mugla-Fethiye-Gocek Sigla 2 milli parkı, 140 hektarlık bir alana sahiptir.
 - Milli park, Ege Bölgesi'nde yer alır.
 - Milli parkın coğrafyası, ormanlar, çayırlar ve kayalık alanlardan oluşur.
 - Milli parkta, birçok farklı bitki ve hayvan türü bulunur.

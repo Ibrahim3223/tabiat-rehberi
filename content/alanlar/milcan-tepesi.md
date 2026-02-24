@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","manzara seyret
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Detail_of_west_elevation_bay_window%2C_interior._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-12.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Milcan Tepesi","caption":"Milcan Tepesi","credit":"Detail of west elevation bay window, interior. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-12","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Milcan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510354","tip":"genel"}]
-description: "Kahramanmaraş'ta bulunan Milcan Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Milcan Tepesi","Kahramanmaraş","Akdeniz Bölgesi","tepe","doğa","gezi","turizm","yerel","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31510354"
@@ -48,7 +48,6 @@ Milcan Tepesi'ni ziyaret etmek, doğa severler ve şehrin gürültüsünden uzak
 
 ## İlginç Bilgiler
 
-- Milcan Tepesi, 140 hektarlık yeşil alana sahip
 - Tepenin etrafındaki manzara, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor
 - Ziyaretçiler, buradan şehrin ve çevresinin panoramik manzarasını seyredebiliyorlar
 - Bölge, çeşitli bitki türlerine ve zengin fauna çeşitliliğine ev sahipliği yapıyor

@@ -52,6 +52,6 @@ Celsus Kütüphanesi, Ege Bölgesi'nin önemli tarihi mekânlarından biri olara
 
 - Celsus Kütüphanesi, Roma valisi Celsus'un anısına yaptırılmıştır.
 - Bu yapı, antik dönemde önemli bir bilgi merkezi olarak görev yapmış ve birçok önemli esere ev sahipliği yapmıştır.
-- Celsus Kütüphanesi, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bu yapı, Ege Bölgesi'nin önemli bir turizm merkezi olarak hizmet vermektedir.
 - Celsus Kütüphanesi, yıl boyunca ziyaretçilerini ağırlamaktadır.

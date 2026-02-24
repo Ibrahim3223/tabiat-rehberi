@@ -22,7 +22,7 @@ wikidata_id: "Q108228202"
 
 # Corum-İskilip-İskilip-Turkfindigi
 
-Corum-İskilip-İskilip-Turkfindigi Milli Parkı, Çorum'un İskilip ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu bölgede, çeşitli bitki türleri ve zengin fauna tìmektedir. Milli park, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, parkın içerisinde doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilirler.
+ Bu bölgede, çeşitli bitki türleri ve zengin fauna tìmektedir. Milli park, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, parkın içerisinde doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilirler.
 
 ## Tarihçe
 

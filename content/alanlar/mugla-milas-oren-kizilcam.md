@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Mugla-Milas-Oren Kızılçam","caption":"Mugla-Milas-Oren Kızılçam","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Oren%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227461","tip":"genel"}]
-description: "Muğla'nın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Muğla'nın doğal güzelliklerini keşfedin."
 keywords: ["Muğla","Milas","Oren","Kızılçam","milli park","doğa","gezi","turizm","Ege Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227461"
@@ -42,7 +42,6 @@ Mugla-Milas-Oren Kızılçam milli parkını ziyaret etmek, ziyaretçilere unutu
 
 ## İlginç Bilgiler
 
-- Bu milli park, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, Ege Bölgesi'nin en güzel doğal alanlarından biri.
 - Bu milli park, yüzyıllar boyunca insanların doğayla iç içe yaşadığı bir yer.
 - Bu bölge, manyetik alan, çeşitli hayvan türlerine ev sahipliği yapıyor.

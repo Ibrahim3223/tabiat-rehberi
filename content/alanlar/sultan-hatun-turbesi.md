@@ -30,7 +30,7 @@ wikidata_id: "Q135582369"
 
 # Sultan Hatun Türbesi
 
-Sultan Hatun Türbesi, Konya'nın Seydişehir ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Sultan Hatun Türbesi, tarihi ve kültürel zenginliklerin birleştiği önemli bir merkezdir. Türbenin etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler için doğal bir güzellik sunar. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
+Sultan Hatun Türbesi, Konya'nın Seydişehir ilçesinde yer alan tarihi bir yapıdır. Sultan Hatun Türbesi, tarihi ve kültürel zenginliklerin birleştiği önemli bir merkezdir. Türbenin etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler için doğal bir güzellik sunar. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

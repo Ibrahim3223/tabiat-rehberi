@@ -48,8 +48,6 @@ Tirşin Tepesi'ni ziyaret etmek isteyenler, Van kentinde yer alan bu tepeye ula�
 
 ## İlginç Bilgiler
 
-- Tirşin Tepesi, 140 hektarlık bir alanı kaplıyor.
-
 - Tirşin Tepesi, coğrafi güzelliği ile dikkat çeken bir nokta.
 - Bu tepe, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi.
 - Tirşin Tepesi'ni ziyaret edenler, burada yer alan çeşitli bitki türleri ve hayvanları gözlemleyebilirler.

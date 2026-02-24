@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Do%C4%9Fan%C3%A7ay_Cemetery.jpg","alt":"Doğançay manzarası","credit":"ToprakM","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8d/U%C4%9Furtan_Say%C4%B1ner_mezar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/U%C4%9Furtan_Say%C4%B1ner_mezar.jpg/1280px-U%C4%9Furtan_Say%C4%B1ner_mezar.jpg","alt":"Doğançay - Uğurtan Sayıner mezar","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Ali_Haydar_Yurtsever_mezar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ali_Haydar_Yurtsever_mezar.jpg/1280px-Ali_Haydar_Yurtsever_mezar.jpg","alt":"Doğançay - Ali Haydar Yurtsever mezar","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/Ali_%C3%96zdemir_mezar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ali_%C3%96zdemir_mezar.jpg/1280px-Ali_%C3%96zdemir_mezar.jpg","alt":"Doğançay - Ali Özdemir mezar","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Cemit%C3%A9rio_em_Izmir.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cemit%C3%A9rio_em_Izmir.jpg/1280px-Cemit%C3%A9rio_em_Izmir.jpg","alt":"Doğançay - Cemitério em Izmir","credit":"Vladimir Platonow/Agência Brasil","license":"cc-by-3.0-br"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/DogancayHES.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/DogancayHES.jpg/1280px-DogancayHES.jpg","alt":"Doğançay - DogancayHES","credit":"Enerjisa Uretim","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228413","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde bulunan, 140 hektarlık yeşil alanıyla dikkat çeken Doğançay Milli Parkı"
+
 keywords: ["Doğançay","Milli Park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228413"
@@ -43,7 +43,6 @@ Doğançay Milli Parkı, ziyaretçilere çeşitli aktivite olanakları sunar. Bu
 
 ## İlginç Bilgiler
 
-- Doğançay Milli Parkı, 140 hektarlık bir alanı kaplar
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunur
 - Doğançay, İç Anadolu Bölgesi'nin güzide noktalarından biridir
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer

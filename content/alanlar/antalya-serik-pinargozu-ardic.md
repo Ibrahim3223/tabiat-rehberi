@@ -30,7 +30,7 @@ Antalya-Serik-Pinargozu Ardic'in tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Antalya-Serik-Pinargozu Ardic, coğrafi olarak çok zengin bir yapıya sahiptir. Bu milli park, Akdeniz Bölgesi'nde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bölgenin coğrafi yapısı, ziyaretçilere eşsiz bir deneyim sunar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Coğrafi konumu itibariyle, bu milli park hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır ve ziyaretçilere yıl boyunca güzel bir doğa manzarası sunar. Ayrıca, bu milli parkın coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunar.
+Antalya-Serik-Pinargozu Ardic, coğrafi olarak çok zengin bir yapıya sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere eşsiz bir deneyim sunar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Coğrafi konumu itibariyle, bu milli park hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır ve ziyaretçilere yıl boyunca güzel bir doğa manzarası sunar. Ayrıca, bu milli parkın coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Antalya-Serik-Pinargozu Ardic'i ziyaret etmek, doğa severler ve tarih meraklıl
 ## İlginç Bilgiler
 
 - Antalya-Serik-Pinargozu Ardic, Akdeniz Bölgesi'nde yer alır.
-- Bu milli park, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna foundabilir.
 - Antalya-Serik-Pinargozu Ardic, doğa severler ve tarih meraklıları için ideal bir gezi noktasıdır.
 - Ziyaretçiler, bu milli parkı yıl boyunca ziyaret edebilirler.

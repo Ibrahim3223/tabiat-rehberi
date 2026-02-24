@@ -30,7 +30,7 @@ wikidata_id: "Q133245854"
 
 # Saray Hamamı, Edirne
 
-Edirne, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olarak bilinir. Saray Hamamı, bu bölgenin en dikkat çekici tarihi yapılarından biridir. Kentin merkezi bölgesinde yer alan Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Saray Hamamı, geçmişte önemli bir tarihi ve kültürel merkez olarak görev yapmıştır. Günümüzde ise, bu yapı, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası olarak dikkat çeker.
+Edirne, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olarak bilinir. Saray Hamamı, bu bölgenin en dikkat çekici tarihi yapılarından biridir. Saray Hamamı, geçmişte önemli bir tarihi ve kültürel merkez olarak görev yapmıştır. Günümüzde ise, bu yapı, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Saray Hamamı, Edirne'nin tarihi geçmişine ışık tutan önemli bir yapıdır
 
 ## Coğrafya
 
-Saray Hamamı, Edirne'nin merkezi bölgesinde yer alır ve kentteki önemli gezi noktalarından biridir. Bu yapı, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklimi sahiptir. Saray Hamamı'nın çevresinde, tarihi yapılar ve müzeler bulunmaktadır. Ayrıca, yakınlarında, doğal güzellikleri olan parklar ve bahçeler yer alır. Saray Hamamı, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile çevrilidir. Yapının mimarisi, bölgenin coğrafi özelliklerine uygun olarak tasarlanmıştır. Saray Hamamı, Edirne'nin coğrafi ve kültürel zenginliklerini bir arada sunan önemli bir noktadır. Ziyaretçiler, Saray Hamamı'nı gezdikten sonra, yakın çevresini keşfederek, bölgenin doğal güzelliklerini ve tarihi yapılarını keşfedebilirler.
+Saray Hamamı, Edirne'nin merkezi bölgesinde yer alır ve kentteki önemli gezi noktalarından biridir. Bu yapı, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklimi sahiptir. Saray Hamamı'nın çevresinde, tarihi yapılar ve müzeler bulunmaktadır. Ayrıca, yakınlarında, doğal güzellikleri olan parklar ve bahçeler yer alır. Yapının mimarisi, bölgenin coğrafi özelliklerine uygun olarak tasarlanmıştır. Saray Hamamı, Edirne'nin coğrafi ve kültürel zenginliklerini bir arada sunan önemli bir noktadır. Ziyaretçiler, Saray Hamamı'nı gezdikten sonra, yakın çevresini keşfederek, bölgenin doğal güzelliklerini ve tarihi yapılarını keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Saray Hamamı, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, i
 
 ## İlginç Bilgiler
 
-- Saray Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
 - Yapının mimarisi, bölgenin coğrafi özelliklerine uygun olarak tasarlanmıştır.
 - Saray Hamamı, Edirne'nin kültürel mirasının önemli bir parçasıdır.
 - Yapının çevresinde, çeşitli bitki türleri bulunmaktadır.

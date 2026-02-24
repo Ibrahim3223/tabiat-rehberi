@@ -30,7 +30,7 @@ wikidata_id: "Q131390992"
 
 # Seyyid Nizam Türbesi
 
-Seyyid Nizam Türbesi, İstanbul'un Zeytinburnu ilçesinde yer alan tarihi bir mekan olarak dikkat çeker. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde, Marmara Bölgesi'nin coğrafi güzelliklerine de ev sahipliği yapar. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir açık alan sunar. Tarihi figürlerin mezarlarının bulunduğu bu türbe, İstanbul'un tarihini ve kültürünü yansıtan önemli bir noktadır. Ziyaretçiler, bu tarihi mekanın atmosferini soluyarak, İstanbul'un zengin tarihini keşfetme fırsatı bulabilirler.
+Seyyid Nizam Türbesi, İstanbul'un Zeytinburnu ilçesinde yer alan tarihi bir mekan olarak dikkat çeker. Tarihi figürlerin mezarlarının bulunduğu bu türbe, İstanbul'un tarihini ve kültürünü yansıtan önemli bir noktadır. Ziyaretçiler, bu tarihi mekanın atmosferini soluyarak, İstanbul'un zengin tarihini keşfetme fırsatı bulabilirler.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Seyyid Nizam Türbesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sun
 ## İlginç Bilgiler
 
 - Seyyid Nizam Türbesi, İstanbul'un tarihi mekanlarından biridir.
-- Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır.
+
 - Seyyid Nizam Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapar.
 - Bu mekan, ziyaretçilere geniş bir açık alan sunar.
 - Seyyid Nizam Türbesi, İstanbul'un tarihini ve kültürünü yansıtan önemli bir noktadır.

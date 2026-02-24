@@ -36,7 +36,7 @@ Kayarkuzu Tepesi'nin tarihi geçmişi oldukça zengin. Bu bölge, yüzyıllar bo
 
 ## Coğrafya
 
-Kayarkuzu Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve dik yamaçlarıyla ziyaretçilerini büyülüyor. Kayarkuzu Tepesi, çamurlu zeminine rağmen, ziyaretçilerine büyüleyici bir deneyim sunuyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir ve ziyaretçilerini dört mevsim boyunca farklı güzelliği ile karşılıyor. Kış aylarında karla kaplı olan Kayarkuzu Tepesi, ilkbahar ve yaz aylarında yeşilin her tonuna bürünüyor. Bu tepe, ziyaretçilerine büyüleyici manzaralar sunuyor ve Karadeniz Bölgesi'nin en önemli doğa noktalarından biri olarak kabul ediliyor.
+Kayarkuzu Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor. Kayarkuzu Tepesi, çamurlu zeminine rağmen, ziyaretçilerine büyüleyici bir deneyim sunuyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir ve ziyaretçilerini dört mevsim boyunca farklı güzelliği ile karşılıyor. Kış aylarında karla kaplı olan Kayarkuzu Tepesi, ilkbahar ve yaz aylarında yeşilin her tonuna bürünüyor. Bu tepe, ziyaretçilerine büyüleyici manzaralar sunuyor ve Karadeniz Bölgesi'nin en önemli doğa noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kayarkuzu Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdı
 
 ## İlginç Bilgiler
 
-- Kayarkuzu Tepesi, 140 hektarlık bir alanı kaplıyor
 - Bu tepe, Karadeniz Bölgesi'nin en önemli doğa noktalarından biri olarak kabul ediliyor
 - Kayarkuzu Tepesi, çeşitli bitki türlerine ev sahipliği yapıyor
 - Bu tepe, zengin fauna çeşitliliğine sahip bir bölge olarak kabul ediliyor

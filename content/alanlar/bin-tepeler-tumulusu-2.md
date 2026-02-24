@@ -21,7 +21,7 @@ aktiviteler: ["plajda dinlenme","tarihî tümülüsleri keşfetme","doğa yürü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Bin Tepeler Tümülüsü 2","caption":"Bin Tepeler Tümülüsü 2","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728376","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli hazinesi, 140 hektarlık yeşil alan"
+
 keywords: ["Bin Tepeler Tümülüsü 2","Salihli","Manisa","Ege Bölgesi","doğa","tarih","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728376"
@@ -49,7 +49,6 @@ Bin Tepeler Tümülüsü 2'yi ziyaret etmek, hem doğa hem de tarih severler iç
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir yeşil alanı kapsar
 - Tarihi tümülüsler, antik dönemlerden kalmadır
 - Bölge, çeşitli bitki türleri ve fauna ile zengindir
 - Bin Tepeler Tümülüsü 2, Ege Bölgesi'nin gizli hazinelerinden biridir

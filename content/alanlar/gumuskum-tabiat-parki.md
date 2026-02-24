@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Deniz_kaplumba%C4%9Fas%C4%B1_yuvas%C4%B1.JPG","alt":"Gümüşkum Tabiat Parkı manzarası","credit":"Cobija","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%BCm%C3%BC%C5%9Fkum.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%BCm%C3%BC%C5%9Fkum.jpg/1220px-G%C3%BCm%C3%BC%C5%9Fkum.jpg","alt":"Gümüşkum Tabiat Parkı - Gümüşkum","credit":"Özdenozdemir","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fkum%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q107354811","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin eşsiz doğa harikası olan Gümüşkum Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Gümüşkum Tabiat Parkı","İç Anadolu Bölgesi","doğa harikası","tabiat parkı","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q107354811"
@@ -50,7 +50,7 @@ Gümüşkum Tabiat Parkı, ziyaretçilere yıl boyunca açık. Parka, özel ara�
 ## İlginç Bilgiler
 
 - Gümüşkum Tabiat Parkı, İç Anadolu Bölgesi'nin en önemli ekosistemlerinden biri
-- Park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Gümüşkum Tabiat Parkı, ziyaretçilerine zengin bir flora ve fauna sunuyor
 - Park, çevredeki dağlar ve vadilerle çevrilidir
 - Gümüşkum Tabiat Parkı, coğrafi güzelliği ve çeşitliliğiyle ziyaretçilerini etkiliyor

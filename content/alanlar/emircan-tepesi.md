@@ -36,7 +36,7 @@ Emircan Tepesi'nin tarihi geçmişi, Isparta'nın tarihi zenginliklerine ışık
 
 ## Coğrafya
 
-Emircan Tepesi, Isparta'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine geniş bir manzara sunuyor. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı ve ziyaretçilerine doğanın güzelliklerini sunuyor. Emircan Tepesi'nin coğrafi konumu, ziyaretçilerine Isparta'nın doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin etrafındaki dağlar, ormanlar ve nehirler, Emircan Tepesi'nin coğrafi zenginliğini artırıyor.
+Emircan Tepesi, Isparta'nın coğrafi yapısının önemli bir parçasını oluşturuyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine geniş bir manzara sunuyor. Emircan Tepesi'nin coğrafi konumu, ziyaretçilerine Isparta'nın doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin etrafındaki dağlar, ormanlar ve nehirler, Emircan Tepesi'nin coğrafi zenginliğini artırıyor.
 
 ## Flora ve Fauna
 

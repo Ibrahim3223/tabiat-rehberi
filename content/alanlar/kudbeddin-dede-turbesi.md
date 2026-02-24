@@ -37,7 +37,7 @@ Kudbeddin Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam ediyor. 
 
 ## Coğrafya
 
-Kudbeddin Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde yer alıyor. Bu türbe, 140 hektarlık bir alan üzerine kurulmuş. Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunuyor. Kudbeddin Dede Türbesi'nin coğrafi konumu, ziyaretçilerin doğal güzellikleri deneyimlemesine olanak tanıyor. Türbenin yakınında bir nehir veya göl bulunmuyor, ancak çevredeki dağlar ve tepeler, ziyaretçilere güzel bir manzara sunuyor. Kudbeddin Dede Türbesi, coğrafi konumu itibariyle ziyaretçilerini güzelliklerle karşılıyor.
+Kudbeddin Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde yer alıyor. Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunuyor. Kudbeddin Dede Türbesi'nin coğrafi konumu, ziyaretçilerin doğal güzellikleri deneyimlemesine olanak tanıyor. Türbenin yakınında bir nehir veya göl bulunmuyor, ancak çevredeki dağlar ve tepeler, ziyaretçilere güzel bir manzara sunuyor. Kudbeddin Dede Türbesi, coğrafi konumu itibariyle ziyaretçilerini güzelliklerle karşılıyor.
 
 ## Flora ve Fauna
 

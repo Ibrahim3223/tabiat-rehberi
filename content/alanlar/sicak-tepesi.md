@@ -28,7 +28,7 @@ wikidata_id: "Q31387492"
 
 # Sıcak Tepesi
 
-Sıcak Tepesi, Van ilinin doğal güzelliklerinden biri olarak ziyaretçilerini büyülüyor. Doğu Anadolu Bölgesi'nde bulunan bu tepe, khong 140 hektarlık bir alanı kaplıyor. Sıcak Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır.
+Sıcak Tepesi, Van ilinin doğal güzelliklerinden biri olarak ziyaretçilerini büyülüyor. Sıcak Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sıcak Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunc
 
 ## Coğrafya
 
-Sıcak Tepesi, Van ilinin merkezi yakınlarında bulunuyor. Doğu Anadolu Bölgesi'nde yer alan bu tepe, khong 140 hektarlık bir alanı kaplıyor. Sıcak Tepesi, çevresi ile birlikte yaklaşık 500 metre yüksekliğe sahip. Bu tepe, Van Gölü'nün güneyinde yer alıyor ve gölün güzel manzarasını seyretme fırsatı sunuyor. Sıcak Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin tipik iklimi ile benzerlik gösteriyor. Bu bölgede yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçiyor.
+Sıcak Tepesi, Van ilinin merkezi yakınlarında bulunuyor. Sıcak Tepesi, çevresi ile birlikte yaklaşık 500 metre yüksekliğe sahip. Bu tepe, Van Gölü'nün güneyinde yer alıyor ve gölün güzel manzarasını seyretme fırsatı sunuyor. Sıcak Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin tipik iklimi ile benzerlik gösteriyor. Bu bölgede yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçiyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Sıcak Tepesi, ziyaretçilerine birçok aktivite sunuyor. Bu tepe, doğal güzel
 ## İlginç Bilgiler
 
 - Sıcak Tepesi, Van ilinin doğal güzelliklerinden biri.
-- Bu tepe, khong 140 hektarlık bir alanı kaplıyor.
+
 - Sıcak Tepesi, tarihi geçmişi ile dikkat çekiyor.
 - Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır.
 - Sıcak Tepesi, ziyaretçilerine doğal güzelliğini ve canlılarını keşfetme fırsatı sunuyor.

@@ -37,7 +37,7 @@ Fethullah Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Fethullah Dede Türbesi, Bursa'nın Yıldırım ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir konumunda bulunuyor. Fethullah Dede Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alan, ziyaretçilere geniş bir gezi alanı sunuyor. Mekan, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilere, yeşilin ve mavinin çeşitli tonlarını sunuyor. Fethullah Dede Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Mekan, yıl boyunca ziyaret edilebilir ve her mevsim, farklı bir güzelliği sunuyor. Fethullah Dede Türbesi, Bursa'nın önemli turizm noktalarından biri olarak kabul ediliyor ve ziyaretçilere, unutulmaz bir gezi deneyimi sunuyor.
+Fethullah Dede Türbesi, Bursa'nın Yıldırım ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir konumunda bulunuyor. Mekan, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilere, yeşilin ve mavinin çeşitli tonlarını sunuyor. Fethullah Dede Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Mekan, yıl boyunca ziyaret edilebilir ve her mevsim, farklı bir güzelliği sunuyor. Fethullah Dede Türbesi, Bursa'nın önemli turizm noktalarından biri olarak kabul ediliyor ve ziyaretçilere, unutulmaz bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

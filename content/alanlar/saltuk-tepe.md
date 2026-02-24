@@ -28,7 +28,7 @@ wikidata_id: "Q31386970"
 
 # Saltuk Tepe
 
-Saltuk Tepe, Samsun'un merkezine yakın bir konumda yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Saltuk Tepe, hem tarihsel hem de doğal güzellikleri ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, Samsun'un panoramik manzarasını izleme fırsatı buluyorlar. Ayrıca, tepeye tırmanırken, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+ Saltuk Tepe, hem tarihsel hem de doğal güzellikleri ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, Samsun'un panoramik manzarasını izleme fırsatı buluyorlar. Ayrıca, tepeye tırmanırken, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Saltuk Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe,
 
 ## Coğrafya
 
-Saltuk Tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Samsun'un merkezine yakın bir konumda yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Tepe, çeşitli bitki türleri ve zengin fauna ile örtülü. Ayrıca, tepeye tırmanırken, Samsun'un panoramik manzarasını izleme fırsatı bulma mümkün. Saltuk Tepe, coğrafi açıdan zengin bir yapıya sahip ve ziyaretçilerini doğal güzellikleriyle büyülüyor. Tepe, farklı mevsimlerde farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, yeşilin tonları ile örtülü olan tepe, sonbahar ve kış aylarında, farklı bir güzelliğe bürünüyor. Saltuk Tepe, ziyaretçilerine, her mevsim, farklı bir deneyim sunuyor.
+Saltuk Tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, çeşitli bitki türleri ve zengin fauna ile örtülü. Ayrıca, tepeye tırmanırken, Samsun'un panoramik manzarasını izleme fırsatı bulma mümkün. Saltuk Tepe, coğrafi açıdan zengin bir yapıya sahip ve ziyaretçilerini doğal güzellikleriyle büyülüyor. Tepe, farklı mevsimlerde farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, yeşilin tonları ile örtülü olan tepe, sonbahar ve kış aylarında, farklı bir güzelliğe bürünüyor. Saltuk Tepe, ziyaretçilerine, her mevsim, farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Saltuk Tepe, ziyaretçilerine, tarihsel ve doğal güzelliklerini keşfetme fır
 ## İlginç Bilgiler
 
 - Saltuk Tepe, Samsun'un merkezine yakın bir konumda yer alıyor.
-- Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Saltuk Tepe, tarihsel ve doğal güzelliklerini keşfetme fırsatı sunuyor.
 - Ziyaretçiler, tepeye tırmanırken, Samsun'un panoramik manzarasını izleme fırsatı buluyorlar.
 - Saltuk Tepe, bir açıdan, Samsun'un tarihini ve kültürünü yansıtan bir yer olarak kabul edilebilir.

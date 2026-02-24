@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Canakkale-Yenice Kızılçam","caption":"Canakkale-Yenice Kızılçam","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227328","tip":"genel"}]
-description: "Çanakkale'de yer alan 140 hektarlık milli park, yeşil alanlarıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Çanakkale","Yenice","Kızılçam","milli park","Marmara Bölgesi","doğa","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227328"

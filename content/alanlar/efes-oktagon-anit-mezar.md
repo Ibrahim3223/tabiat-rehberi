@@ -29,7 +29,7 @@ wikidata_id: "Q134728104"
 
 # Efes Oktagon Anıt Mezar
 
-Efes Oktagon Anıt Mezar, Ege Bölgesi'nin önemli tarihi hazinelerinden biridir. Selçuk'ta bulunan bu anıt mezar, yaklaşık 140 hektarlık bir alanda yer alır ve tarihi geçmişi ile dikkat çeker. 200 futbol sahası büyüklüğünde bir alanı kaplayan Efes Oktagon Anıt Mezar, turistlerin ve tarih severlerin ilgisini çeken bir destinasyon olarak bilinir.
+Efes Oktagon Anıt Mezar, Ege Bölgesi'nin önemli tarihi hazinelerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Efes Oktagon Anıt Mezar'ın tarihi geçmişi, yüzyıllar öncesine dayanır. B
 
 ## Coğrafya
 
-Efes Oktagon Anıt Mezar, Selçuk'ta yer alan bir tarihi yapıdır. Bu anıt mezar, Ege Bölgesi'nin coğrafi yapısı içerisinde, 140 hektarlık bir alanda kurulmuştur. Anıt mezarın çevresi, tarihi yapılardan oluşan bir peyzaj tarafından çevrilidir. İklimi, Akdeniz ikliminin özellikleri taşır ve sıcak yazlar ile ılıman kışlar görülür. Anıt mezarın bulunduğu bölge, flora ve fauna açısından zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Efes Oktagon Anıt Mezar, coğrafi konumu itibariyle, ziyaretçilere tarihi ve doğal güzellikleri bir arada sunar.
+Efes Oktagon Anıt Mezar, Selçuk'ta yer alan bir tarihi yapıdır. Anıt mezarın çevresi, tarihi yapılardan oluşan bir peyzaj tarafından çevrilidir. İklimi, Akdeniz ikliminin özellikleri taşır ve sıcak yazlar ile ılıman kışlar görülür. Anıt mezarın bulunduğu bölge, flora ve fauna açısından zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Efes Oktagon Anıt Mezar, coğrafi konumu itibariyle, ziyaretçilere tarihi ve doğal güzellikleri bir arada sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Efes Oktagon Anıt Mezar, ziyaretçilere unutulmaz bir deneyim sunar. Anıt meza
 
 ## İlginç Bilgiler
 
-- Efes Oktagon Anıt Mezar, 140 hektarlık bir alanda yer alır.
 - Anıt mezarın tarihi geçmişi, yüzyıllar öncesine dayanır.
 - Anıt mezar, çeşitli uygarlıkların etkisi altında kalmıştır.
 - Anıt mezarın mimari yapısı, farklı kültürlerin izlerini taşır.

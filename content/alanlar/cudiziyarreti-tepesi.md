@@ -48,7 +48,6 @@ Cudiziyarreti Tepesi, ziyaretçiler için önemli bir destinasyon. Tepenin etekl
 
 ## İlginç Bilgiler
 
-- Cudiziyarreti Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve yaban hayatı bulunuyor.
 - Bu tepe, bölgenin coğrafi yapısını ve ekolojisini anlamak için önemli bir nokta.
 - Cudiziyarreti Tepesi, aynı zamanda bölgenin tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon.

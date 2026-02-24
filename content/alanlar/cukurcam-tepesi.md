@@ -48,7 +48,6 @@ wikidata_id: "Q34829602"
 
 ## İlginç Bilgiler
 
-- Çukurçam Tepesi, 140 hektarlık bir alanı kaplar
 - Bu tepe, deniz seviyesinden yaklaşık 1200 metre yukarıdadır
 - Çukurçam Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir
 - Bu tepe, yılın her döneminde ziyaret edilebilir

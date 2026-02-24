@@ -29,7 +29,7 @@ wikidata_id: "Q134735154"
 
 # İnadiye Baba Türbesi
 
-İnadiye Baba Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Bu tarihi plaj ve türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. İnadiye Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Plajın etrafı, çeşitli ağaçlarla çevrili ve bu ağaçlar, plaja doğal bir gölge sağlıyor.
+İnadiye Baba Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. İnadiye Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Plajın etrafı, çeşitli ağaçlarla çevrili ve bu ağaçlar, plaja doğal bir gölge sağlıyor.
 
 ## Tarihçe
 

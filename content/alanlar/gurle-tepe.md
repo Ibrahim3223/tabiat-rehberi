@@ -20,8 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Tarih kalıntıları gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Gürle Tepe","caption":"Gürle Tepe","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrle%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139599","tip":"genel"}]
-description: "Bursa'nın Marmara Bölgesi'nde yer alan Gürle Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Gürle Tepe","Bursa","Marmara Bölgesi","yeşil alan","futbol sahası","doğa","gezi","tarihçe"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139599"
 ---
@@ -48,7 +47,6 @@ Gürle Tepe, yıl boyunca ziyaret edilebiliyor. Ziyaretçiler, bu bölgeye, çe�
 
 ## İlginç Bilgiler
 
-- Gürle Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölge, doğa severler ve tarihe meraklı olanlar için bir hazine
 - Gürle Tepe'nin eteklerinde, tarih boyunca çeşitli uygarlıkların yaşamış olduğu görülüyor
 - Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası

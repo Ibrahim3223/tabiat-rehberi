@@ -51,7 +51,7 @@ Tokat'ın Niksar ilçesinde yer alan Çavuş Hamamı, Karadeniz Bölgesi'nin en 
 ## İlginç Bilgiler
 
 - Çavuş Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir.
-- Bu bölge, 140 hektarlık bir alanı kapsar.
+
 - Çavuş Hamamı, özellikle yaz aylarında ziyaretçilerini kendine çeker.
 - Bu bölge, çeşitli bitki türleri ile kaplıdır.
 - Çavuş Hamamı, doğa severler için bir cennet olarak kabul edilebilir.

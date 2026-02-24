@@ -29,7 +29,7 @@ wikidata_id: "Q134728095"
 
 # Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı
 
-Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un merkezinde yer alan ve tarihin izlerini taşıyan bir mekan. Bu anıt mezar, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve şehrin en önemli tarihi noktalarından biri olarak kabul ediliyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilerini hem tarihi hem de doğal güzelliği ile etkiliyor. Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon.
+Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un merkezinde yer alan ve tarihin izlerini taşıyan bir mekan. Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, tarihinin derinliklerinde yatan 
 
 ## Coğrafya
 
-Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un merkezinde yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliğini sunuyor. Bu anıt mezar, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Mekan, deniz seviyesinden yüksek bir konumda yer alıyor ve Karadeniz'in panoramik manzarasını sunuyor. Anıt mezarın çevresi, çeşitli ağaçlar ve bitkiler ile kaplı ve ziyaretçilere doğa ile iç içe bir ortam sunuyor. Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un coğrafi güzelliğini ve tarihsel önemini bir araya getiren bir mekan olarak ziyaretçilerini bekliyor.
+Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un merkezinde yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliğini sunuyor. Mekan, deniz seviyesinden yüksek bir konumda yer alıyor ve Karadeniz'in panoramik manzarasını sunuyor. Anıt mezarın çevresi, çeşitli ağaçlar ve bitkiler ile kaplı ve ziyaretçilere doğa ile iç içe bir ortam sunuyor. Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un coğrafi güzelliğini ve tarihsel önemini bir araya getiren bir mekan olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un merkezinde yer alıyo
 ## İlginç Bilgiler
 
 - Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un en önemli tarihi noktalarından biri
-- Anıt mezar, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Mekan, deniz seviyesinden yüksek bir konumda yer alıyor
 - Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı, Giresun'un kültürel mirasının önemli bir parçası
 - Anıt mezarın çevresi, çeşitli ağaçlar ve bitkiler ile kaplı

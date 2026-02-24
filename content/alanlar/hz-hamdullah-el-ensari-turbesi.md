@@ -30,7 +30,7 @@ wikidata_id: "Q131391648"
 
 # Hz. Hamdullah El-Ensari Türbesi
 
-Hz. Hamdullah El-Ensari Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi mekan. Bu mekan, yaklaşık 140 hektarlık bir alanda kurulmuş ve tarihi geçmişinin zenginliği ile dikkat çekiyor. Türbe, Hz. Hamdullah El-Ensari'nin hatırasını yaşatmak için yapılmış ve mimarisi ile göz kamaştırıyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, tarihi ve dini önemi ile ziyaretçilerini bekliyor. İstanbul'un kalbinde yer alan bu türbe, şehrin karmaşasından uzaklaşmak isteyenler için bir sığınak olarak hizmet ediyor.
+Hz. Hamdullah El-Ensari Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi mekan. Türbe, Hz. Hamdullah El-Ensari'nin hatırasını yaşatmak için yapılmış ve mimarisi ile göz kamaştırıyor. İstanbul'un kalbinde yer alan bu türbe, şehrin karmaşasından uzaklaşmak isteyenler için bir sığınak olarak hizmet ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hz. Hamdullah El-Ensari Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu'
 
 ## Coğrafya
 
-Hz. Hamdullah El-Ensari Türbesi, İstanbul'un Eyüpsultan ilçesinde, Haliç'in kıyısında yer alıyor. Türbenin konumu, şehrin merkezine yakın olmasına rağmen, doğal güzellikleri ile ziyaretçilerini cezbediyor. 140 hektarlık bir alanı kaplayan türbe, geniş bahçeleri ve tarihi yapıları ile dikkat çekiyor. İstanbul'un iklimi, türbenin konumu nedeniyle, ılıman ve yağışlı bir hava hüküm sürüyor. Bahçelerin yeşilliği ve çiçeklerinin rengarenk olması, ziyaretçilere hoş bir atmosfer sunuyor. Haliç'in suyu, türbenin önünde uzanarak, manzarayı güzelleştiriyor. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde, önemli bir ticaret ve kültür merkezi olarak kabul ediliyordu. Bu nedenle, Hz. Hamdullah El-Ensari Türbesi, şehrin kültürel ve dini hayatında önemli bir rol oynuyor.
+Hz. Hamdullah El-Ensari Türbesi, İstanbul'un Eyüpsultan ilçesinde, Haliç'in kıyısında yer alıyor. Türbenin konumu, şehrin merkezine yakın olmasına rağmen, doğal güzellikleri ile ziyaretçilerini cezbediyor. İstanbul'un iklimi, türbenin konumu nedeniyle, ılıman ve yağışlı bir hava hüküm sürüyor. Bahçelerin yeşilliği ve çiçeklerinin rengarenk olması, ziyaretçilere hoş bir atmosfer sunuyor. Haliç'in suyu, türbenin önünde uzanarak, manzarayı güzelleştiriyor. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde, önemli bir ticaret ve kültür merkezi olarak kabul ediliyordu. Bu nedenle, Hz. Hamdullah El-Ensari Türbesi, şehrin kültürel ve dini hayatında önemli bir rol oynuyor.
 
 ## Flora ve Fauna
 

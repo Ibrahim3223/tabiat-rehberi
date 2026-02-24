@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Ters Akan Gölü Sit Alanı","caption":"Ters Akan Gölü Sit Alanı","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ters%20Akan%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226394","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide yerlerinden biri olan Ters Akan Gölü Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ters Akan Gölü","Sit Alanı","İç Anadolu Bölgesi","doğa","göl","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226394"
@@ -42,7 +42,6 @@ Ters Akan Gölü Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş ba�
 
 ## İlginç Bilgiler
 
-- Ters Akan Gölü Sit Alanı, 140 hektarlık bir yeşil alandır.
 - Gölün etrafındaki arazinin yapısı, genellikle düz ve hafif eğimlidir.
 - Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Gölün suyu, çevredeki sulak alanlardan beslenmektedir.

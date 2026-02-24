@@ -37,7 +37,7 @@ Ahi Şorba Türbesi'nin tarihi geçmişi, Kastamonu'nun tarihine bağlıdır. Ka
 
 ## Coğrafya
 
-Ahi Şorba Türbesi, Kastamonu ilinin merkezinde yer almaktadır. Plaj, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Karadeniz Bölgesi, Türkiye'nin en yeşili olan bölgelerinden biri olarak bilinir ve Ahi Şorba Türbesi de bu yeşilliğin içinde yer almaktadır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ahi Şorba Türbesi, yaklaşık 140 hektarlık bir alana sahiptir ve bu büyüklüğü ile Karadeniz Bölgesi'nin en büyük plajlarından biri olarak dikkat çekmektedir. Plajın coğrafi konumu, ziyaretçilerine doğal güzelliklerin yanı sıra, tarihi ve kültürel zenginliği de sunmaktadır.
+Ahi Şorba Türbesi, Kastamonu ilinin merkezinde yer almaktadır. Plaj, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Karadeniz Bölgesi, Türkiye'nin en yeşili olan bölgelerinden biri olarak bilinir ve Ahi Şorba Türbesi de bu yeşilliğin içinde yer almaktadır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Plajın coğrafi konumu, ziyaretçilerine doğal güzelliklerin yanı sıra, tarihi ve kültürel zenginliği de sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388046"
 
 # Koyunboyak Tepesi
 
-Koyunboyak Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Koyunboyak Tepesi, bölgede yer alan diğer tepelerle birlikte bir bütünü oluşturuyor. Bu tepelerin arasında yer alan vadiler ve ovalar, bölgeyi daha da özel kılıyor. Koyunboyak Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Koyunboyak Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Koyunboyak Tepesi, bölgede yer alan diğer tepelerle birlikte bir bütünü oluşturuyor. Bu tepelerin arasında yer alan vadiler ve ovalar, bölgeyi daha da özel kılıyor. Koyunboyak Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Koyunboyak Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklılar�
 
 - Koyunboyak Tepesi, Doğu Anadolu Bölgesi'nin yüksek tepelerinden biri
 - Bingöl iline bağlı bir tepe
-- 140 hektarlık bir alanı kaplıyor
+
 - Bölgede çeşitli bitki ve hayvan türleri bulunüyor
 - Tarih meraklıları için önemli bir destinasyon

@@ -36,7 +36,7 @@ Arabın Tepesi'nin tarihi geçmişi, Gaziantep'in tarihini anlamak için önemli
 
 ## Coğrafya
 
-Arabın Tepesi, Gaziantep'in coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgeyi etmek için önemli bir noktadır. Arabın Tepesi'nin coğrafi konumu, ziyaretçilerini bölgenin doğal güzellikleri ile baş başa bırakır. Tepenin eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Arabın Tepesi'nin coğrafi yapısı, bölgenin iklimini ve doğal kaynaklarını anlamak için önemli bir noktadır. Tepenin yüksekliği, bölgenin coğrafi yapısını daha iyi anlamak için ziyaretçilere olanak sağlar.
+Arabın Tepesi, Gaziantep'in coğrafi yapısını temsil eden önemli bir noktadır. Arabın Tepesi'nin coğrafi konumu, ziyaretçilerini bölgenin doğal güzellikleri ile baş başa bırakır. Tepenin eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Arabın Tepesi'nin coğrafi yapısı, bölgenin iklimini ve doğal kaynaklarını anlamak için önemli bir noktadır. Tepenin yüksekliği, bölgenin coğrafi yapısını daha iyi anlamak için ziyaretçilere olanak sağlar.
 
 ## Flora ve Fauna
 

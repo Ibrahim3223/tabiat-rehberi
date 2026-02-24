@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Sazak Tepesi","caption":"Sazak Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sazak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387559","tip":"genel"}]
-description: "Çanakkale'nin doğal güzelliklerine ev sahipliği yapan Sazak Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Sazak Tepesi","Çanakkale","Marmara Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387559"
@@ -28,7 +28,7 @@ wikidata_id: "Q31387559"
 
 # Sazak Tepesi
 
- 140 hektarlık bu yeşil alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunarken, aynı zamanda bölgenin ekolojik dengesine de önemli katkılar sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sazak Tepesi, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor.
+ Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunarken, aynı zamanda bölgenin ekolojik dengesine de önemli katkılar sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sazak Tepesi, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -47,8 +47,6 @@ Sazak Tepesi, ziyaretçilerine zengin bir flora ve fauna sunuyor. Burada, çeşi
 Sazak Tepesi'ni ziyaret etmek, Çanakkale'ye gelenlerin yapması gereken bir faaliyet. Buraya, farklı ulaşım araçları ile gelme mümkün. Sazak Tepesi, ziyaretçilerine yıl boyunca açık ve her mevsim, buraya gelme mümkün. Sazak Tepesi'ni ziyaret ederken, bölgenin doğal güzelliğini korumak önemli. Ziyaretçilerin, Sazak Tepesi'ni ziyaret ederken, çevreye saygı göstermesi ve doğal güzelliği korumaya katkıda bulunması bekleniyor.
 
 ## İlginç Bilgiler
-
-- Sazak Tepesi, 140 hektarlık bir alana sahip.
 
 - Sazak Tepesi, Çanakkale'nin doğal güzelliğine ev sahipliği yapıyor.
 - Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor.

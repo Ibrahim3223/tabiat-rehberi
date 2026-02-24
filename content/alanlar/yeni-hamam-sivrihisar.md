@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Yeni Hamam, Sivrihisar","caption":"Yeni Hamam, Sivrihisar","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Sivrihisar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738991","tip":"genel"}]
-description: "Eskişehir'in Sivrihisar ilçesinde bulunan Yeni Hamam, natuur severlerin gözdesi. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
+description: "Eskişehir'in Sivrihisar ilçesinde bulunan Yeni Hamam, natuur severlerin gözdesi."
 keywords: ["Yeni Hamam","Sivrihisar","Eskişehir","doğa","yeşil alan","bitki türleri","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738991"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738991"
 
 # Yeni Hamam, Sivrihisar
 
-Yeni Hamam, Sivrihisar, Eskişehir'in Sivrihisar ilçesinde yer alan, 140 hektarlık geniş bir yeşil alana sahip doğa harikası bir yer. Yeni Hamam, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir atmosfere sahip. Burada, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. Yeni Hamam, aynı zamanda, tarihi geçmişi ile de dikkat çekiyor. Bu bölgenin tarihi hakkında detaylı bilgi bulunmasa da, yüzyıllar boyunca birçok medeniyete ev sahipliği yaptığı biliniyor.
+ Yeni Hamam, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir atmosfere sahip. Burada, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. Yeni Hamam, aynı zamanda, tarihi geçmişi ile de dikkat çekiyor. Bu bölgenin tarihi hakkında detaylı bilgi bulunmasa da, yüzyıllar boyunca birçok medeniyete ev sahipliği yaptığı biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeni Hamam, Sivrihisar'ın tarihi geçmişi, yüzyıllar boyunca birçok medeniy
 
 ## Coğrafya
 
-Yeni Hamam, Sivrihisar, Eskişehir'in coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak geniş bir alanı kapsıyor. Yeni Hamam, 140 hektarlık yeşil alan ile dikkat çekiyor. Yeni Hamam, aynı zamanda, iklimi ile de dikkat çekiyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı ayrı yaşanabiliyor. Yeni Hamam, ziyaretçilerine, coğrafi olarak zengin bir bölge sunuyor.
+Yeni Hamam, Sivrihisar, Eskişehir'in coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak geniş bir alanı kapsıyor. Yeni Hamam, aynı zamanda, iklimi ile de dikkat çekiyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı ayrı yaşanabiliyor. Yeni Hamam, ziyaretçilerine, coğrafi olarak zengin bir bölge sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Yeni Hamam, Sivrihisar, flora ve fauna açısından zengin bir bölge. Bu bölge
 Yeni Hamam, Sivrihisar, ziyaretçilerine, birçok imkan sunuyor. Bu bölge, doğa severlerin gözdesi ve birçok etkinlik imkanına sahip. Yeni Hamam, ziyaretçilerine, doğa yürüyüşü, pikni ve fotoğrafçılık gibi imkanlar sunuyor. Bu bölgede, ziyaretçiler, naturun güzelliğini yaşayabiliyor. Yeni Hamam, aynı zamanda, ulaşım açısından da kolay bir bölge. Bu bölgeye, Eskişehir merkezinden kolayca ulaşılabilir.
 
 ## İlginç Bilgiler
-
-- Yeni Hamam, Sivrihisar, 140 hektarlık yeşil alan ile dikkat çekiyor.
 
 - Yeni Hamam, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.

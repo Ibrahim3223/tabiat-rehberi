@@ -30,7 +30,7 @@ wikidata_id: "Q131391313"
 
 # Hacı Abdullah Türbesi
 
-Hacı Abdullah Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Giresun'un Yağlıdere ilçesinde bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Hacı Abdullah Türbesi, doğal güzelliği ve temizliği ile dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.
+Hacı Abdullah Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Hacı Abdullah Türbesi, doğal güzelliği ve temizliği ile dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Hacı Abdullah Türbesi'ni ziyaret etmek, doğa severler ve plaj tutkunları iç
 ## İlginç Bilgiler
 
 - Hacı Abdullah Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hacı Abdullah Türbesi, doğal güzelliği ve temizliği ile dikkat çeker.
 - Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Hacı Abdullah Türbesi, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.

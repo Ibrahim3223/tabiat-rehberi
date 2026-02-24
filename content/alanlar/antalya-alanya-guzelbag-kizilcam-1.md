@@ -14,7 +14,7 @@ aktiviteler: ["Doğal yürüyüş","Gözlem","Fotografcılık","Doğa yürüyü�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Antalya-Alanya-Guzelbag Kızılçam 1","caption":"Antalya-Alanya-Guzelbag Kızılçam 1","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Alanya-Guzelbag%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227298","tip":"genel"}]
-description: "Akdeniz Bölgesi'nde yer alan Antalya-Alanya-Guzelbag Kızılçam 1, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Antalya","Alanya","Guzelbag","Kızılçam","Milli Park","Akdeniz Bölgesi","Doğa","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227298"
@@ -42,7 +42,6 @@ Antalya-Alanya-Guzelbag Kızılçam 1'i ziyaret etmek, doğa severler ve macera 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kapsıyor
 - Kızılçam ağaçları ile birlikte çeşitli bitki türleri barındırıyor
 - Zengin fauna ile karakterize ediliyor
 - Akdeniz iklimi özellikleri gösteriyor

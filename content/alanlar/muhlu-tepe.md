@@ -49,7 +49,7 @@ Mühlü Tepe'yi ziyaret etmek, Konya'nın tarihi ve doğal güzelliklerini keşf
 ## İlginç Bilgiler
 
 - Mühlü Tepe, Konya'nın önemli tarihi noktalarından biri.
-- Tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Mühlü Tepe, doğa severler için ideal bir destinasyon.
 - Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Mühlü Tepe, yıl boyunca ziyaret edilebilir.

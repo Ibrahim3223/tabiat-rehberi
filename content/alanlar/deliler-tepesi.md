@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara seyri","fotografi","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Deliler Tepesi","caption":"Deliler Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deliler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388358","tip":"genel"}]
-description: "Erzurum'un görkemli doğal güzelliklerinden biri olan Deliler Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Deliler Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388358"
@@ -48,7 +48,6 @@ Deliler Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz anlar yaşatıyor. Ziy
 
 ## İlginç Bilgiler
 
-- Deliler Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin eteklerinde ve civarında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Deliler Tepesi, Erzurum'un coğrafi güzelliklerinin önemli bir parçası olarak biliniyor
 - Tepenin adı, bölgede yaşanan tarihi olaylardan esinlenilmiş olabilir

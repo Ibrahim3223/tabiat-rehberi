@@ -22,7 +22,7 @@ wikidata_id: "Q108228799"
 
 # ÇATAK KANYONU_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çatak Kanyonu, yaklaşık 140 hektarlık bir alanı kapsıyor. Kanyonun yüksekliği ve derinliği, ziyaretçilere büyüleyici bir manzara sunarken, aynı zamanda bölgenin zengin fauna ve florasına da ev sahipliği yapıyor. Çatak Kanyonu, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak biliniyor.
+ Kanyonun yüksekliği ve derinliği, ziyaretçilere büyüleyici bir manzara sunarken, aynı zamanda bölgenin zengin fauna ve florasına da ev sahipliği yapıyor. Çatak Kanyonu, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak biliniyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228799"
 
 ## Coğrafya
 
-Çatak Kanyonu, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Kanyon, yüksek dağlar ve derin vadilerle çevrili bir alanda yer alıyor. Bölgenin iklimi, karasal iklim özelliklerini taşırken, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Çatak Kanyonu'nun coğrafi konumu, birçok bitki ve hayvan türünün yaşamasına olanak sağlıyor. Kanyonun derinliği ve yüksekliği, bölgenin jeolojik yapısını göstermekte ve ziyaretçilere doğanın güzelliğini sunuyor. Çatak Kanyonu, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere birçok keşif fırsatı sunuyor.
+Çatak Kanyonu, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Kanyon, yüksek dağlar ve derin vadilerle çevrili bir alanda yer alıyor. Bölgenin iklimi, karasal iklim özelliklerini taşırken, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Çatak Kanyonu'nun coğrafi konumu, birçok bitki ve hayvan türünün yaşamasına olanak sağlıyor. Kanyonun derinliği ve yüksekliği, bölgenin jeolojik yapısını göstermekte ve ziyaretçilere doğanın güzelliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108228799"
 
 ## İlginç Bilgiler
 
-- Çatak Kanyonu, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Kanyon, birçok bitki ve hayvan türünün yaşamasına olanak sağlıyor
 - Çatak Kanyonu'nun coğrafi konumu, birçok keşif fırsatı sunuyor
 - Kanyon, doğa yürüyüşleri ve kaya tırmanışı gibi birçok macera sporlarına olanak sağlıyor

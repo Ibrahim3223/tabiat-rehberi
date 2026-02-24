@@ -38,7 +38,7 @@ Büyük Hamamı'nın tarihi geçmişi, İstanbul'un tarihinde önemli bir yer tu
 
 ## Coğrafya
 
-Büyük Hamamı, Marmara Bölgesi'nin güzide noktalarından biri olarak, coğrafi olarak özel bir konumda bulunur. Plaj, Beyoğlu ilçesi sınırları içerisinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Büyük Hamamı'nın coğrafyası, geniş ve temiz bir plaj alanı, denize girme imkanı ve çeşitli tesisleri ile dikkat çeker. Plajın yakınında bulunan restoran ve kafeler, misafirlerine lezzetli yeme ve içecek seçenekleri sunar. Ayrıca, plajın çevresi, yeşillik alanlar ve yürüyüş yolları ile çevrilidir ve ziyaretçilerine doğayla iç içe bir ortam sunar. Büyük Hamamı, İstanbul'un kalabalık ve gürültüsünden uzak, sakin ve huzurlu bir ortam arayanlar için ideal bir destinasyondur.
+Büyük Hamamı, Marmara Bölgesi'nin güzide noktalarından biri olarak, coğrafi olarak özel bir konumda bulunur. Büyük Hamamı'nın coğrafyası, geniş ve temiz bir plaj alanı, denize girme imkanı ve çeşitli tesisleri ile dikkat çeker. Plajın yakınında bulunan restoran ve kafeler, misafirlerine lezzetli yeme ve içecek seçenekleri sunar. Ayrıca, plajın çevresi, yeşillik alanlar ve yürüyüş yolları ile çevrilidir ve ziyaretçilerine doğayla iç içe bir ortam sunar. Büyük Hamamı, İstanbul'un kalabalık ve gürültüsünden uzak, sakin ve huzurlu bir ortam arayanlar için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,6 @@ Büyük Hamamı, yıl boyunca ziyaret edilebilir ve her mevsim, farklı bir güz
 ## İlginç Bilgiler
 
 - Büyük Hamamı, İstanbul'un en önemli turizm noktalarından biri olarak kabul edilir
-- Plaj, etwa 140 hektarlık bir alanı kaplar
-- Büyük Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir
+
 - Plajın yakınında bulunan restoran ve kafeler, misafirlerine lezzetli yeme ve içecek seçenekleri sunar
 - Büyük Hamamı, doğa severler ve fauna ile flora ile ilgilenenler için ideal bir destinasyondur

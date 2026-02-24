@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8c/U%C3%A7hisar_Kapadokya.jpg","alt":"Uçhisar Cevizlibağ Sit Alanı manzarası","credit":"Lubna saba kayra","license":"cc-by-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/U%C3%A7hisar%20Cevizliba%C4%9F%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226231","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Uçhisar Cevizlibağ Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Uçhisar","Cevizlibağ","Sit Alanı","İç Anadolu Bölgesi","Doğa","Turizm","Çevre","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226231"
@@ -43,8 +43,6 @@ Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim 
 
 ## İlginç Bilgiler
 
-- Uçhisar Cevizlibağ Sit Alanı, 140 hektarlık bir yeşil alan
-- Alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Uçhisar Cevizlibağ Sit Alanı, tarihi geçmişiyle de dikkat çekiyor
 - Alan, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış

@@ -36,7 +36,7 @@ Güçlü Tepe'nin tarihi geçmişi, Mardin'in tarihinde önemli bir yer tutuyor.
 
 ## Coğrafya
 
-Güçlü Tepe, Mardin'in coğrafi yapısına uygun olarak, şehrin yüksek noktalarından biri olarak dikkat çekiyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve şehrin panoramik manzarasını izlemek için ideal bir nokta. Güçlü Tepe'nin coğrafi konumu, Mardin'in tarihi ve kültürel dokusunu yansıtıyor. Tepe, Mardin'in merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Ziyaretçiler, tepeye çıktıklarında, Mardin'in eşsiz manzarasını izleme fırsatı buluyorlar. Güçlü Tepe'nin coğrafi yapısı, ziyaretçilere Mardin'in tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor. Tepe, Mardin'in en önemli coğrafi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi çekiyor. Güçlü Tepe'nin coğrafi konumu, Mardin'in turizm potansiyelini artırmaya yardımcı oluyor.
+Güçlü Tepe, Mardin'in coğrafi yapısına uygun olarak, şehrin yüksek noktalarından biri olarak dikkat çekiyor. Güçlü Tepe'nin coğrafi konumu, Mardin'in tarihi ve kültürel dokusunu yansıtıyor. Tepe, Mardin'in merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Ziyaretçiler, tepeye çıktıklarında, Mardin'in eşsiz manzarasını izleme fırsatı buluyorlar. Güçlü Tepe'nin coğrafi yapısı, ziyaretçilere Mardin'in tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor. Tepe, Mardin'in en önemli coğrafi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi çekiyor. Güçlü Tepe'nin coğrafi konumu, Mardin'in turizm potansiyelini artırmaya yardımcı oluyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Güçlü Tepe, Mardin'in en önemli turistik noktalarından biri olarak kabul ed
 ## İlginç Bilgiler
 
 - Güçlü Tepe, Mardin'in en önemli turistik noktalarından biri
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Güçlü Tepe, Mardin'in tarihi ve kültürel dokusunu yansıtıyor
 - Tepe, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahip
 - Güçlü Tepe, Mardin'in panoramik manzarasını izlemek için ideal bir nokta

@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","kültür turu","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg","alt":"Pertev Paşa Hamamı","caption":"Pertev Paşa Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pertev%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739121","tip":"genel"}]
-description: "İzmit'te tarihi bir hamam, 140 hektarlık yeşil alan, doğa ve kültür"
+
 keywords: ["Pertev Paşa Hamamı","İzmit","Aydın Vilayeti","İç Anadolu Bölgesi","tarihi hamam","doğa","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739121"

@@ -50,7 +50,7 @@ wikidata_id: "Q131390732"
 ## İlginç Bilgiler
 
 - Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alır.
-- 140 hektarlık bir alana yayılmıştır.
+
 - Tarihî bir türbe olarak kabul edilir.
 - Zengin flora ve faunaya ev sahipliği yapar.
 - İlkbahar ve yaz aylarında ziyaret edilebilir.

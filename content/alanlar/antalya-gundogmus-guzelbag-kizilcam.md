@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Antalya-Gundogmus-Guzelbag Kızılçam","caption":"Antalya-Gundogmus-Guzelbag Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Gundogmus-Guzelbag%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227302","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin güzide milli parklarından biri olan Antalya-Gundogmus-Guzelbag Kızılçam, 140 hektarlık geniş alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["milli park","Akdeniz Bölgesi","Antalya","Gundogmus","Guzelbag Kızılçam","doğa","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227302"

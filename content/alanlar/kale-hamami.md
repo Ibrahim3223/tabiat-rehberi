@@ -30,7 +30,7 @@ wikidata_id: "Q131555490"
 
 # Kale Hamamı
 
-Kırklareli'nin Vize ilçesinde yer alan Kale Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Kale Hamamı, tarihi kale kalıntıları ve doğal güzellikleri ile bir araya gelerek ziyaretçilerini cezbediyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada hissedebilirsiniz. Kale Hamamı, hem tarihi hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biri olarak dikkat çekiyor.
+ Kale Hamamı, tarihi kale kalıntıları ve doğal güzellikleri ile bir araya gelerek ziyaretçilerini cezbediyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada hissedebilirsiniz. Kale Hamamı, hem tarihi hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Kale Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en uygun ziyaret za
 
 ## İlginç Bilgiler
 
-- Kale Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş.
 - Kale Hamamı, tarih ve doğanın bir araya geldiği ender yerlerden biri.
 - Bölge, coğrafi konumu itibariyle Karadeniz ve Marmara Denizi arasında bir geçit görevi görüyor.

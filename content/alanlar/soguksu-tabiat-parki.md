@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img02.jpg","alt":"Soğuksu Tabiat Parkı manzarası","credit":"A.Savin","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img01.jpg/1280px-TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img01.jpg","alt":"Soğuksu Tabiat Parkı - TR Kızılcahamam asv2021-10 img01","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img04.jpg/1280px-TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img04.jpg","alt":"Soğuksu Tabiat Parkı - TR Kızılcahamam asv2021-10 img04","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a1/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img06.jpg/1280px-TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img06.jpg","alt":"Soğuksu Tabiat Parkı - TR Kızılcahamam asv2021-10 img06","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img08.jpg/1280px-TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img08.jpg","alt":"Soğuksu Tabiat Parkı - TR Kızılcahamam asv2021-10 img08","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img07.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img07.jpg/1280px-TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img07.jpg","alt":"Soğuksu Tabiat Parkı - TR Kızılcahamam asv2021-10 img07","credit":"A.Savin","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fuksu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915219","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olan Soğuksu Tabiat Parkı, 140 hektarlık bir alanı kapsıyor."
+"
 keywords: ["Soğuksu Tabiat Parkı","İç Anadolu Bölgesi","doğal alan","tabiat parkı","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q24915219"
@@ -29,7 +29,7 @@ wikidata_id: "Q24915219"
 
 # Soğuksu Tabiat Parkı
 
- Bu 140 hektarlık yeşil alan, ziyaretçilerine doğanın içinde bir kaçış fırsatı sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Soğuksu Tabiat Parkı, hem doğa severler hem de fotoğraf sanatçıları için bir cennet olarak kabul ediliyor. Parkın sakin ve huzurlu atmosferi, ziyaretçilerini_city hayatının stresinden uzaklaştırıyor.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Soğuksu Tabiat Parkı, hem doğa severler hem de fotoğraf sanatçıları için bir cennet olarak kabul ediliyor. Parkın sakin ve huzurlu atmosferi, ziyaretçilerini_city hayatının stresinden uzaklaştırıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Soğuksu Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli mede
 
 ## Coğrafya
 
-Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birini oluşturuyor. Park, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı bulunuyor. Parkın coğrafi yapısı, ziyaretçilerine farklı iklim ve çevre koşullarını deneyimleme fırsatı sunuyor. Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin karakteristik step ve orman ekosistemlerini bir araya getirerek, ziyaretçilerine benzersiz bir coğrafi deneyim sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu şartlar, parkın flora ve faunasının çeşitliliğine katkıda bulunuyor.
+Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birini oluşturuyor. Parkın coğrafi yapısı, ziyaretçilerine farklı iklim ve çevre koşullarını deneyimleme fırsatı sunuyor. Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin karakteristik step ve orman ekosistemlerini bir araya getirerek, ziyaretçilerine benzersiz bir coğrafi deneyim sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu şartlar, parkın flora ve faunasının çeşitliliğine katkıda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Soğuksu Tabiat Parkı, ziyaretçilerine yılın her dönemi gezi imkanı sunuyo
 ## İlginç Bilgiler
 
 - Soğuksu Tabiat Parkı, İç Anadolu Bölgesi'nin en önemli doğal miraslarından biri olarak kabul ediliyor.
-- Park, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Soğuksu Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile kaplı bulunuyor.
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip.
 - Soğuksu Tabiat Parkı, birçok kuş türüne de ev sahipliği yapıyor.

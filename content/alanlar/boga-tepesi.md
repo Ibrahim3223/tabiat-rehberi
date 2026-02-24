@@ -49,7 +49,7 @@ Boğa Tepesi'ni ziyaret etmek, Karadeniz Bölgesi'nin doğal güzelliklerini ke�
 ## İlginç Bilgiler
 
 - Boğa Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Bu tepe, 140 hektarlık bir alanı kaplıyor.
+
 - Boğa Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzarasını sunuyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Boğa Tepesi, tarih meraklıları için bir hazine olarak kabul ediliyor.

@@ -45,6 +45,6 @@ Yemişçi Çınarı Anıt Ağacı, ziyaretçilerine birçok farklı aktivite imk
 
 - Yemişçi Çınarı Anıt Ağacı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir
 - Ağacın yaşına ilişkin kesin bir bilgi bulunmamaktadır
-- Ağacın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alandır
+
 - Ağacın çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Yemişçi Çınarı Anıt Ağacı, aynı zamanda, birçok farklı türden kuşun yuvalanma alanıdır

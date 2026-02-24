@@ -29,7 +29,7 @@ wikidata_id: "Q135582382"
 
 # Bedreddin Gevhertaş Türbesi
 
-Bedreddin Gevhertaş Türbesi, Konya'nın Karatay ilçesinde bulunan ve tarihi öneme sahip bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor.
+Bedreddin Gevhertaş Türbesi, Konya'nın Karatay ilçesinde bulunan ve tarihi öneme sahip bir mekan. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

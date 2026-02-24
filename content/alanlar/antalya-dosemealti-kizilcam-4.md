@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Çevre gezisi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Antalya-Döşemealtı Kızılçam 4","caption":"Antalya-Döşemealtı Kızılçam 4","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227849","tip":"genel"}]
-description: "Akdeniz Bölgesi'nde yer alan Antalya-Döşemealtı Kızılçam 4, 140 hektarlık yeşil alanı ve zengin faunasıyla dikkat çekiyor."
+"
 keywords: ["Antalya","Döşemealtı","Kızılçam","milli park","Akdeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227849"
@@ -30,7 +30,7 @@ Antalya-Döşemealtı Kızılçam 4 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Antalya-Döşemealtı Kızılçam 4 milli parkı, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık geniş bir alana yayılan bu park, dağların eteklerinde ve ormanlık alanlarda yer alıyor. Coğrafi yapısı itibariyle, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapıyor. İklimi, Akdeniz ikliminin özellikleri olan sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi ve iklimsel özellikler, parkın zengin faunası için uygun bir ortam sağlıyor. Parkın etrafı, yüksek dağlar ve derin vadilerle çevrili olup, ziyaretçilere doğanın güzelliğini ve heybetini gösterirken, aynı zamanda çeşitli coğrafi oluşumları da gözler önüne seriyor.
+Antalya-Döşemealtı Kızılçam 4 milli parkı, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Coğrafi yapısı itibariyle, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapıyor. İklimi, Akdeniz ikliminin özellikleri olan sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu coğrafi ve iklimsel özellikler, parkın zengin faunası için uygun bir ortam sağlıyor. Parkın etrafı, yüksek dağlar ve derin vadilerle çevrili olup, ziyaretçilere doğanın güzelliğini ve heybetini gösterirken, aynı zamanda çeşitli coğrafi oluşumları da gözler önüne seriyor.
 
 ## Flora ve Fauna
 

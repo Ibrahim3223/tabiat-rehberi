@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"İzmir 28. Grup","caption":"İzmir 28. Grup","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir%2028.%20Grup","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226203","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde bulunan İzmir 28. Grup, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+description: "İç Anadolu Bölgesi'nde bulunan İzmir 28.
 keywords: ["İzmir 28. Grup","İç Anadolu Bölgesi","doğal alan","flora","fauna","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226203"
@@ -43,7 +43,7 @@ wikidata_id: "Q108226203"
 ## İlginç Bilgiler
 
 - İzmir 28. Grup, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri
-- Bu bölge, 140 hektarlık bir alanı kapsıyor
+
 - İzmir 28. Grup, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip
 - İzmir 28. Grup, doğa severler ve fotoğraf tutkunları için bir cennet olarak görünüyor

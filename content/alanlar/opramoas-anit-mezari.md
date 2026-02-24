@@ -37,7 +37,7 @@ Opramoas Anıt Mezarı, tarihi geçmişi ile dikkat çeker. Bu mezarın tarihi h
 
 ## Coğrafya
 
-Opramoas Anıt Mezarı, Kumluca ilçesinde yer alır ve Akdeniz Bölgesi'nin güzelliğini sunar. Bu bölgede, Akdeniz iklimi hüküm sürer ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sağlar. Kış aylarında ılıman bir hava, yaz aylarında ise sıcakk bir hava ziyaretçileri bekler. 140 hektarlık bir alanda yer alan bu mezar, doğal güzelliği ile dikkat çeker. Çevresinde, çeşitli bitki türleri ve fauna bulunur. Ziyaretçilerin, bu doğal güzelliği keşfetmeleri ve tarihi yapıları incelemeleri mümkündür. Opramoas Anıt Mezarı, coğrafi konumu ve doğal güzelliği ile önemli bir turistik noktadır.
+Opramoas Anıt Mezarı, Kumluca ilçesinde yer alır ve Akdeniz Bölgesi'nin güzelliğini sunar. Bu bölgede, Akdeniz iklimi hüküm sürer ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sağlar. Kış aylarında ılıman bir hava, yaz aylarında ise sıcakk bir hava ziyaretçileri bekler. Çevresinde, çeşitli bitki türleri ve fauna bulunur. Ziyaretçilerin, bu doğal güzelliği keşfetmeleri ve tarihi yapıları incelemeleri mümkündür. Opramoas Anıt Mezarı, coğrafi konumu ve doğal güzelliği ile önemli bir turistik noktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Opramoas Anıt Mezarı, ziyaretçilerine tarihi bir yolculuk sunar. Bu mezarı z
 ## İlginç Bilgiler
 
 - Opramoas Anıt Mezarı, tarihi geçmişi ile dikkat çeker
-- Bu mezar, 140 hektarlık bir alanda yer alır
+
 - Akdeniz Bölgesi'nin güzelliğini sunar
 - Çeşitli bitki türleri ve fauna bulunur
 - Mevsimsel değişimler, ziyaretçilere farklı deneyimler sağlar

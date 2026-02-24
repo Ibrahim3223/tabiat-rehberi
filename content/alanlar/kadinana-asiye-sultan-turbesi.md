@@ -29,7 +29,7 @@ wikidata_id: "Q131390618"
 
 # Kadınana Asiye Sultan Türbesi
 
-Kadınana Asiye Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alan önemli bir dini ve tarihi merkez. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve çevresi yeşilliklerle dolu. Asiye Sultan Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri olarak kabul ediliyor. Türbenin etrafında çeşitli dini yapılar ve tarihi eserler bulunuyor. Asiye Sultan Türbesi, hem dini hem de kültürel açıdan önemli bir merkez olarak ziyaretçilerini ağırlıyor.
+Kadınana Asiye Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alan önemli bir dini ve tarihi merkez. Asiye Sultan Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri olarak kabul ediliyor. Türbenin etrafında çeşitli dini yapılar ve tarihi eserler bulunuyor. Asiye Sultan Türbesi, hem dini hem de kültürel açıdan önemli bir merkez olarak ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Asiye Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu türbenin
 
 ## Coğrafya
 
-Kadınana Asiye Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor. Bu türbe, Ege Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunuyor. Asiye Sultan Türbesi, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve çevresi yeşilliklerle dolu. Türbenin etrafında çeşitli dini yapılar ve tarihi eserler bulunuyor. Asiye Sultan Türbesi, coğrafi açıdan önemli bir konumda yer alıyor. Türbenin konumu, ziyaretçilere önemli bir coğrafi experiencia sunuyor. Asiye Sultan Türbesi, Ege Bölgesi'nin önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Türbenin coğrafi konumu, ziyaretçilere önemli bir kültürel ve tarihi experiencia sunuyor.
+Kadınana Asiye Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor. Bu türbe, Ege Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunuyor. Türbenin etrafında çeşitli dini yapılar ve tarihi eserler bulunuyor. Asiye Sultan Türbesi, coğrafi açıdan önemli bir konumda yer alıyor. Türbenin konumu, ziyaretçilere önemli bir coğrafi experiencia sunuyor. Asiye Sultan Türbesi, Ege Bölgesi'nin önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Türbenin coğrafi konumu, ziyaretçilere önemli bir kültürel ve tarihi experiencia sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kadınana Asiye Sultan Türbesi, ziyaretçilerini ağırlamak için hazır. Tür
 ## İlginç Bilgiler
 
 - Asiye Sultan Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş.
+
 - Asiye Sultan Türbesi, flora ve fauna açısından zengin bir ortam sunuyor.
 - Türbenin etrafında, çeşitli dini yapılar ve tarihi eserler bulunuyor.
 - Asiye Sultan Türbesi, Afyonkarahisar'ın önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor.

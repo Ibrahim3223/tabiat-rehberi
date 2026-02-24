@@ -28,7 +28,7 @@ wikidata_id: "Q31390175"
 
 # Geren Tepesi
 
-Geren Tepesi, Antalya'nın doğal güzellikleri arasında yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkileyen bir doğal güzelliğe sahip. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş bir görüş açısı sunuyor. Geren Tepesi, ziyaretçilerini bekliyor ve doğa severler için ideal bir gezi noktası.
+Geren Tepesi, Antalya'nın doğal güzellikleri arasında yer alan bir tepe. Geren Tepesi, ziyaretçilerini bekliyor ve doğa severler için ideal bir gezi noktası.
 
 ## Tarihçe
 

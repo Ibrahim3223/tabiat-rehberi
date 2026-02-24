@@ -30,7 +30,7 @@ wikidata_id: "Q20473484"
 
 # Kula-Salihli Jeoparkı
 
-Kula-Salihli Jeoparkı, Ege Bölgesi'nin Manisa ilinin Kula ve Salihli ilçeleri arasında yer alan, yaklaşık 140 hektarlık bir alanı kaplayan, coğrafi açıdan zengin ve çeşitli bir doğal alandır. Jeoparkın eşsiz güzelliği, ziyaretçilerini büyüleyerek, doğa ile iç içe bir deneyim sunuyor.
+ Jeoparkın eşsiz güzelliği, ziyaretçilerini büyüleyerek, doğa ile iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389639"
 
 # Kayaklı Tepe
 
-Kastamonu'nun dağlık bölgesinde yer alan Kayaklı Tepe, yaklaşık 140 hektarlık alanı ile geniş bir yeşil alana sahiptir. Kayaklı Tepe, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir. Bölgenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. İlkbahar ve yaz aylarında yeşilin tonlarıyla bezeli olan Kayaklı Tepe, sonbahar ve kış aylarında ise karla kaplı bir kış masalı sunmaktadır.
+ Kayaklı Tepe, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir. Bölgenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. İlkbahar ve yaz aylarında yeşilin tonlarıyla bezeli olan Kayaklı Tepe, sonbahar ve kış aylarında ise karla kaplı bir kış masalı sunmaktadır.
 
 ## Tarihçe
 

@@ -51,7 +51,7 @@ wikidata_id: "Q131391287"
 ## İlginç Bilgiler
 
 - Şeyh Sücaeddin Türbesi, Selçuklu'nun en önemli dinî merkezlerinden biri
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılıyor
+
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunur
 - Türbe ve plaj, yılın her mevsiminde ziyaret edilebilir
 - Ziyaretçiler, türbenin tarihi ve dinî önemini öğrenirken, aynı zamanda plajın doğal güzelliğinden de yararlanabilirler

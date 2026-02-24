@@ -52,6 +52,5 @@ Kesikbaş Türbesi'ni ziyaret etmek, ziyaretçilere birçok farklı deneyim sunu
 
 - Kesikbaş Türbesi, Tire'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta
 - Bu bölge, Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor
-- Kesikbaş Türbesi, 140 hektarlık bir alanı kapsıyor
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kesikbaş Türbesi, yaban hayatı ile ilgili olarak da önemli bir nokta olarak kabul ediliyor

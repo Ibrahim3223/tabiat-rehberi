@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi.jpg","alt":"Mut-Yerkopru Selalesi manzarası","credit":"AHMET2528","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/1280px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Mut-Yerkopru Selalesi - 196-Yerköprü Şelalesi Tabiat Parkı Mersin","credit":"Drdilara98","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mut-Yerkopru%20Selalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227348","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Mut-Yerkopru Selalesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Mut-Yerkopru Selalesi","İç Anadolu Bölgesi","doğal güzellik","milli park","selale","yaban hayatı","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227348"
@@ -43,7 +43,6 @@ Mut-Yerkopru Selalesi'ni ziyaret etmek, doğa severlerin ve fotoğraf tutkunlar�
 
 ## İlginç Bilgiler
 
-- Mut-Yerkopru Selalesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Mut-Yerkopru Selalesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunuyor
 - Mut-Yerkopru Selalesi, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Mut-Yerkopru Selalesi, doğa severlerin ve fotoğraf tutkunlarının vazgeçilmez adreslerinden biri haline geliyor

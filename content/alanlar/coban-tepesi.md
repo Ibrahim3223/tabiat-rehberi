@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi konum ke
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Çoban Tepesi","caption":"Çoban Tepesi","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819474","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Çoban Tepesi, 140 hektarlık genişlikte bir doğal alan sunuyor."
+"
 keywords: ["Çoban Tepesi","Ankara","İç Anadolu Bölgesi","doğal alan","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34819474"
@@ -28,7 +28,7 @@ wikidata_id: "Q34819474"
 
 # Çoban Tepesi
 
- Bu 140 hektarlık genişlikte, ziyaretçilere geniş bir doğal alan sunuyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çoban Tepesi, Ankara'da bulunan önemli doğal alanlardan biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çoban Tepesi, hem a severler hem de gezi tutkunları için ideal bir destinasyon olarak görünüyor.
+ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çoban Tepesi, Ankara'da bulunan önemli doğal alanlardan biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çoban Tepesi, hem a severler hem de gezi tutkunları için ideal bir destinasyon olarak görünüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34819474"
 
 ## Coğrafya
 
-Çoban Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibariyle, geniş bir doğal alanı kapsıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir doğal alan sunuyor. Çoban Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, farklı mevsimlerde değişen doğa koşulları, ziyaretçilere benzersiz bir deneyim sunuyor. Çoban Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliğini yansıtan önemli bir alan olarak görünüyor. Burada, ziyaretçiler geniş bir doğal alanı keşfedebilir ve coğrafi konumun güzelliğini deneyimleyebilirler. Çoban Tepesi'nin coğrafi konumu, Ankara'da bulunan önemli doğal alanlardan biridir ve ziyaretçilere zengin bir deneyim sunuyor.
+Çoban Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibariyle, geniş bir doğal alanı kapsıyor. Çoban Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, farklı mevsimlerde değişen doğa koşulları, ziyaretçilere benzersiz bir deneyim sunuyor. Çoban Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliğini yansıtan önemli bir alan olarak görünüyor. Burada, ziyaretçiler geniş bir doğal alanı keşfedebilir ve coğrafi konumun güzelliğini deneyimleyebilirler. Çoban Tepesi'nin coğrafi konumu, Ankara'da bulunan önemli doğal alanlardan biridir ve ziyaretçilere zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34819474"
 ## İlginç Bilgiler
 
 - Çoban Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Çoban Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor.
 - Çoban Tepesi, Ankara'da bulunan önemli doğal alanlardan biridir.
 - Burada, ziyaretçiler geniş bir doğal alanı keşfedebilir ve coğrafi konumun güzelliğini deneyimleyebilirler.

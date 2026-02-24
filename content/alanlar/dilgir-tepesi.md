@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DSC_2971_-_panoramio.jpg/960px-DSC_2971_-_panoramio.jpg","alt":"Dılgır Tepesi","caption":"Dılgır Tepesi","credit":"DSC 2971 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C4%B1lg%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568838","tip":"genel"}]
-description: "Giresun'un Karadeniz manzaralı doğal güzelliklerinden biri olan Dılgır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor."
+ Bu tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor."
 keywords: ["Dılgır Tepesi","Giresun","Karadeniz","doğal güzellik","orman","vadi","tepe","manzara","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31568838"
@@ -28,7 +28,7 @@ wikidata_id: "Q31568838"
 
 # Dılgır Tepesi
 
-Giresun'un Karadeniz Bölgesi'nde yer alan Dılgır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Dılgır Tepesi, Karadeniz'in güzelliğini ve doğal zenginliğini görebileceğiniz bir nokta. Tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor. Bu tepe, hem doğa severler hem de manzara izlemek isteyenler için ideal bir yer.
+ Dılgır Tepesi, Karadeniz'in güzelliğini ve doğal zenginliğini görebileceğiniz bir nokta. Tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor. Bu tepe, hem doğa severler hem de manzara izlemek isteyenler için ideal bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dılgır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Dılgır Tepesi, Giresun'un Karadeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafında yer alan ormanlar ve vadiler, ziyaretçilere geniş bir yeşil alan sunuyor. Tepenin coğrafi konumu, Karadeniz'in güzelliğini ve doğal zenginliğini görebileceğiniz bir nokta oluşturuyor. Dılgır Tepesi'nin iklimi, Karadeniz iklimi özellikleri taşıyor ve ziyaretçilere serin ve ferah bir ortam sunuyor. Tepenin etrafında yer alan ormanlar, çeşitli ağaç türleri ve bitkileri barındırıyor. Bu tepe, hem doğa severler hem de manzara izlemek isteyenler için ideal bir yer.
+Dılgır Tepesi, Giresun'un Karadeniz Bölgesi'nde yer alıyor. Tepenin coğrafi konumu, Karadeniz'in güzelliğini ve doğal zenginliğini görebileceğiniz bir nokta oluşturuyor. Dılgır Tepesi'nin iklimi, Karadeniz iklimi özellikleri taşıyor ve ziyaretçilere serin ve ferah bir ortam sunuyor. Tepenin etrafında yer alan ormanlar, çeşitli ağaç türleri ve bitkileri barındırıyor. Bu tepe, hem doğa severler hem de manzara izlemek isteyenler için ideal bir yer.
 
 ## Flora ve Fauna
 

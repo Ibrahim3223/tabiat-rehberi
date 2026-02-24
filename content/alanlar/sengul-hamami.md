@@ -53,5 +53,5 @@ wikidata_id: "Q19613929"
 - Şengül Hamamı, Ankara'nın en eski hamamlarından biri.
 - Hamam, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 - Şengül Hamamı, Ankara'nın kültürel mirasının bir parçası.
-- Hamamın bulunduğu alan, 140 hektarlık bir araziye yayılmış.
+
 - Şengül Hamamı, yılın her dönemi ziyaret edilebilir.

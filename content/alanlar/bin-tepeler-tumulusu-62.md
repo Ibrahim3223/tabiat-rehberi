@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 62'nin tarihi geçmişi, Ege Bölgesi'nin antik döneml
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 62, Ahmetli, Manisa'da yer alır ve Ege Bölgesi'nin coğrafi özelliklerini taşır. Bu tümülüs, 140 hektarlık bir alanı kaplar ve Ege Bölgesi'nin doğal güzelliklerini sunar. Bölge, genellikle sıcak ve kurak bir iklime sahiptir, ancak tümülüsün bulunduğu alan, yeşilliği ve serinliğiyle dikkat çeker. Bin Tepeler Tümülüsü 62, ziyaretçilerine Ege Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı sunar. Tümülüsün çevresi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bin Tepeler Tümülüsü 62, Ege Bölgesi'nin önemli bir coğrafi noktası olarak kabul edilir.
+Bin Tepeler Tümülüsü 62, Ahmetli, Manisa'da yer alır ve Ege Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle sıcak ve kurak bir iklime sahiptir, ancak tümülüsün bulunduğu alan, yeşilliği ve serinliğiyle dikkat çeker. Bin Tepeler Tümülüsü 62, ziyaretçilerine Ege Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı sunar. Tümülüsün çevresi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bin Tepeler Tümülüsü 62, Ege Bölgesi'nin önemli bir coğrafi noktası olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 62, ziyaretçilerine Ege Bölgesi'nin tarihi ve doğal 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 62, Ege Bölgesi'nin önemli bir tarihi noktasıdır.
-- Tümülüs, 140 hektarlık bir alanı kaplar.
+
 - Bin Tepeler Tümülüsü 62, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
 - Tümülüs, rehberli turlar sunar.
 - Bin Tepeler Tümülüsü 62, Ege Bölgesi'nin coğrafi güzelliklerini sunar.

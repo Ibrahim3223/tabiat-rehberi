@@ -28,7 +28,7 @@ schema_type: "TouristAttraction"
 
 # Hattuşa Milli Parkı
 
-Boğazkale'de yer alan Hattuşa Milli Parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Park, Çorum'un Boğazkale ilçesinde yer alıyor ve Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul ediliyor. Hattuşa Milli Parkı, aynı zamanda Hitit İmparatorluğu'nun başkenti olarak bilinen Hattuşa'nın kalıntılarına ev sahipliği yapıyor.
+ Park, Çorum'un Boğazkale ilçesinde yer alıyor ve Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul ediliyor. Hattuşa Milli Parkı, aynı zamanda Hitit İmparatorluğu'nun başkenti olarak bilinen Hattuşa'nın kalıntılarına ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hattuşa Milli Parkı, tarihi geçmişi ile dikkat çekiyor. Hitit İmparatorlu�
 
 ## Coğrafya
 
-Hattuşa Milli Parkı, coğrafi olarak Karadeniz Bölgesi'nin iç kesimlerinde yer alıyor. Park, Boğazkale ilçesinin merkezinde yer alıyor ve etrafı dağlık bir arazi ile çevrili. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunuyor. Parkın içinde yer alan Hattuşa kalıntıları, ziyaretçilere tarihi bir atmosfer sunuyor. Parkın coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Hattuşa Milli Parkı, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Park, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapıyor ve ziyaretçilere doğal bir ortam sunuyor.
+Hattuşa Milli Parkı, coğrafi olarak Karadeniz Bölgesi'nin iç kesimlerinde yer alıyor. Park, Boğazkale ilçesinin merkezinde yer alıyor ve etrafı dağlık bir arazi ile çevrili. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunuyor. Parkın içinde yer alan Hattuşa kalıntıları, ziyaretçilere tarihi bir atmosfer sunuyor. Parkın coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Park, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapıyor ve ziyaretçilere doğal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Hattuşa Milli Parkı, ziyaretçilerini tarihi ve doğal güzellikleri ile bekli
 
 - Hattuşa Milli Parkı, UNESCO Dünya Mirası Listesi'nde yer alıyor.
 - Park, Hitit İmparatorluğu'nun başkenti olarak bilinen Hattuşa'nın kalıntılarına ev sahipliği yapıyor.
-- Hattuşa Milli Parkı, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Park, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Hattuşa Milli Parkı, mevsimsel değişimlere göre farklı bir güzellik sunuyor.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik","bitki gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"DENİZLİ HAYTABEY ŞELALESİ","caption":"DENİZLİ HAYTABEY ŞELALESİ","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20HAYTABEY%20%C5%9EELALES%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228922","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Denizli Haytabey Şelalesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Denizli","Haytabey Şelalesi","İç Anadolu","doğa","şelale","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228922"
@@ -41,8 +41,6 @@ Denizli Haytabey Şelalesi, zengin bir flora ve fauna ile çevrilidir. Alan, çe
 Denizli Haytabey Şelalesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyimi sunar. Şelaleye ulaşmak için, İç Anadolu Bölgesi'ndeki ana yollardan yararlanabilirsiniz. Ziyaretçilerin, şelaleye gitmeden önce, mevsimsel koşulları dikkate almaları önerilir. İlkbahar ve yaz ayları, şelaleyi ziyaret etmek için en uygun zamanlardır. Bu mevsimlerde, doğa daha da güzelleşir ve ziyaretçilere daha fazla aktivite imkanı sunar. Ziyaret süresince, doğa yürüyüşleri, fotoğraf çekimi ve piknik gibi aktiviteler yapılabilir.
 
 ## İlginç Bilgiler
-
-- Denizli Haytabey Şelalesi, 140 hektarlık bir yeşil alana sahiptir.
 
 - Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - İlkbahar ve yaz ayları, şelaleyi ziyaret etmek için en uygun zamanlardır.

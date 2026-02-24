@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Emino Tepesi","caption":"Emino Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emino%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545771","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Emino Tepesi, doğa severler için bir cennet. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Emino Tepesi, doğa severler için bir cennet."
 keywords: ["Emino Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","şehir","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31545771"
@@ -50,6 +50,5 @@ Emino Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak
 
 - Emino Tepesi, Batman şehrinin en yüksek noktalarından biri.
 - Tepenin etrafında, şehrin geniş panoraması encontrando.
-- Emino Tepesi, 140 hektarlık bir alanı kapsıyor.
 
 - Tepenin etrafında, yürüyüş parkurları ve piknik alanları bulunuyor.

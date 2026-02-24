@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/32/T%C3%BCrbe_Ziyareti_001_-_panoramio_%281%29.jpg","alt":"Türbe 1 manzarası","credit":"M. PINARCI","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/T%C3%BCrbe_Ziyareti_023_-_panoramio_%281%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/T%C3%BCrbe_Ziyareti_023_-_panoramio_%281%29.jpg/1280px-T%C3%BCrbe_Ziyareti_023_-_panoramio_%281%29.jpg","alt":"Türbe 1 - Türbe Ziyareti 023 - panoramio (1)","credit":"M. PINARCI","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/T%C3%BCrbe_Yarim_K%C3%BCmbet.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/T%C3%BCrbe_Yarim_K%C3%BCmbet.jpg/1280px-T%C3%BCrbe_Yarim_K%C3%BCmbet.jpg","alt":"Türbe 1 - Türbe Yarim Kümbet","credit":"Bernard Gagnon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/T%C3%BCrbe_Silahdar_Damat_Ali_pasha_Mora_Fatihi_%281%29.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/T%C3%BCrbe_Silahdar_Damat_Ali_pasha_Mora_Fatihi_%281%29.JPG/1280px-T%C3%BCrbe_Silahdar_Damat_Ali_pasha_Mora_Fatihi_%281%29.JPG","alt":"Türbe 1 - Türbe Silahdar Damat Ali pasha Mora Fatihi (1)","credit":"Derzsi Elekes Andor","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Kahramanmara%C5%9F_Ta%C5%9F_Medrese_ve_T%C3%BCrbe_090.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kahramanmara%C5%9F_Ta%C5%9F_Medrese_ve_T%C3%BCrbe_090.jpg/1280px-Kahramanmara%C5%9F_Ta%C5%9F_Medrese_ve_T%C3%BCrbe_090.jpg","alt":"Türbe 1 - Kahramanmaraş Taş Medrese ve Türbe 090","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/Kahramanmara%C5%9F_Ta%C5%9F_Medrese_ve_T%C3%BCrbe_092.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kahramanmara%C5%9F_Ta%C5%9F_Medrese_ve_T%C3%BCrbe_092.jpg/1280px-Kahramanmara%C5%9F_Ta%C5%9F_Medrese_ve_T%C3%BCrbe_092.jpg","alt":"Türbe 1 - Kahramanmaraş Taş Medrese ve Türbe 092","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrbe%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391590","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide mekanlarından biri olan Türbe 1, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Türbe 1","Germencik","Aydın","Ege Bölgesi","Plaj","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391590"
@@ -50,7 +50,6 @@ Türbe 1'i ziyaret etmek, yılın her döneminde mümkün. Bu plaj, her mevsim, 
 
 ## İlginç Bilgiler
 
-- Türbe 1, 140 hektarlık bir alana yayılmış
 - Türbe 1'in bulunduğu bölgede, tarihi kalıntılar ve eserler yer alıyor
 - Bu plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak bekannt
 - Türbe 1'in coğrafyası, çeşitli aktivitelere katılmasına olanak sağlıyor

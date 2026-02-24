@@ -49,7 +49,7 @@ Alışık Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerle
 ## İlginç Bilgiler
 
 - Alışık Tepe, Yozgat ilinin en önemli sembollerinden biri
-- Tepe, yaklaşık 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Alışık Tepe, flora ve fauna açısından zengin bir bölge
 - Tepe, aynı zamanda şehrin tarihi geçmişine de tanıklık ediyor
 - Alışık Tepe, Yozgat'ın önemli bir turizm merkezi olarak kabul ediliyor

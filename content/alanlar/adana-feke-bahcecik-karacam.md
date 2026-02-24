@@ -22,7 +22,7 @@ wikidata_id: "Q108227468"
 
 # Adana-Feke-Bahcecik Karacam
 
-Adana-Feke-Bahcecik Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kaplayan ve Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilen bir milli parktır. Bu milli park, Adana ilinin Feke ilçesine bağlı Bahcecik köyü yakınlarında yer almakta ve bölgenin zengin fauna ve florasını korumak amacıyla kurulmuştur. Milli parkın kuruluşu, bölgenin doğal kaynaklarını koruma ve gelecek nesiller için doğayı muhafaza etmek amacıyla gerçekleştirilmiştir. Bu nedenle, Adana-Feke-Bahcecik Karacam milli parkı, hem bölgenin doğal güzelliklerini korumak hem de turizmi desteklemek amacıyla önemli bir rol oynamaktadır.
+ Bu milli park, Adana ilinin Feke ilçesine bağlı Bahcecik köyü yakınlarında yer almakta ve bölgenin zengin fauna ve florasını korumak amacıyla kurulmuştur. Milli parkın kuruluşu, bölgenin doğal kaynaklarını koruma ve gelecek nesiller için doğayı muhafaza etmek amacıyla gerçekleştirilmiştir. Bu nedenle, Adana-Feke-Bahcecik Karacam milli parkı, hem bölgenin doğal güzelliklerini korumak hem de turizmi desteklemek amacıyla önemli bir rol oynamaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Feke-Bahcecik Karacam milli parkının tarihi geçmişi, bölgenin doğal 
 
 ## Coğrafya
 
-Adana-Feke-Bahcecik Karacam milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilen bir bölgede yer almaktadır. Milli park, yaklaşık 140 hektarlık bir alanı kaplamakta ve bölgenin zengin fauna ve florasını korumak amacıyla kurulmuştur. Bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahip olup, çeşitli bitki ve hayvan türleri barındırmaktadır. Milli parkın bulunduğu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer almakta ve bu nedenle, bölgenin flora ve faunası, Akdeniz bölgesine özgü türlerden oluşmaktadır. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise ılık ve yağışlı bir iklimdir. Bu iklim, bölgenin flora ve faunası için uygun bir ortam sunmakta ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlamaktadır. Milli parkın coğrafi yapısı ve iklimi, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için doğayı muhafaza etmek amacıyla önemli bir rol oynamaktadır.
+Adana-Feke-Bahcecik Karacam milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilen bir bölgede yer almaktadır. Bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahip olup, çeşitli bitki ve hayvan türleri barındırmaktadır. Milli parkın bulunduğu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer almakta ve bu nedenle, bölgenin flora ve faunası, Akdeniz bölgesine özgü türlerden oluşmaktadır. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise ılık ve yağışlı bir iklimdir. Bu iklim, bölgenin flora ve faunası için uygun bir ortam sunmakta ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlamaktadır. Milli parkın coğrafi yapısı ve iklimi, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için doğayı muhafaza etmek amacıyla önemli bir rol oynamaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Adana-Feke-Bahcecik Karacam milli parkı, yılın her mevsiminde ziyaret edilebi
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgenin doğal kaynaklarını korumak amacıyla gerçekleştirilmiştir.
-- Milli park, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Bölgenin flora ve faunası, Akdeniz bölgesine özgü türlerden oluşmaktadır.
 - Milli park, ilkbahar ve yaz aylarında ziyaret edilebilir.
 - Milli parkın ziyaret saatleri, sabah 08:00'dan akşam 18:00'ye kadardır.

@@ -28,7 +28,7 @@ wikidata_id: "Q34829377"
 
 # Çiçekli Tepesi
 
-Erzurum'un muhteşem manzaralarına ev sahipliği yapan Çiçekli Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severler hem de spor yapanlar için ideal bir destinasyon. Çiçekli Tepesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini güler yüzlü bir şekilde karşılar. Bu dönemde tepede çeşitli bitki türleri açar ve ziyaretçilere renkli bir manzara sunar.
+ Çiçekli Tepesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini güler yüzlü bir şekilde karşılar. Bu dönemde tepede çeşitli bitki türleri açar ve ziyaretçilere renkli bir manzara sunar.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Erzurum'un muhteşem manzaralarına ev sahipliği yapan Çiçekli Tepesi, yakla�
 
 ## İlginç Bilgiler
 
-- Çiçekli Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepede, çeşitli bitki türleri yetişir.
 - Çiçekli Tepesi, zengin fauna oluşumuna ev sahipliği yapar.
 - Tepede, ilkbahar ve yaz aylarında yürüyüş ve piknik yapma mümkündür.

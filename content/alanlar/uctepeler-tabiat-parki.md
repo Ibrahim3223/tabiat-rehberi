@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Flora ve Fauna Gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Üçtepeler Tabiat Parkı","caption":"Üçtepeler Tabiat Parkı","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7tepeler%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228269","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Üçtepeler Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Üçtepeler Tabiat Parkı","İç Anadolu Bölgesi","Tabiat Parkı","Doğa","Gezi","Türkiye","Park","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228269"
@@ -47,8 +47,6 @@ wikidata_id: "Q108228269"
 Üçtepeler Tabiat Parkı, ziyaretçilerine, doğayla iç içe bir deneyim sunar. Parka, özel araçla veya toplu taşıma araçlarıyla ulaşılabilir ve ziyaretçilerin, parkın doğal güzelliğini keşfetmesine olanak tanır. Ziyaretçiler, parkın flora ve faunasını gözlemleyebilir ve fotoğraflayabilirler. Ayrıca, parkın tarihi geçmişi hakkında bilgi edinebilir ve bölgenin kültürel zenginliğini keşfedebilirler. Üçtepeler Tabiat Parkı, özellikle bahar ve yaz aylarında ziyaret edilebilir ve ziyaretçilere, geniş bir coğrafi çeşitlilik sunar.
 
 ## İlginç Bilgiler
-
-- Üçtepeler Tabiat Parkı, 140 hektarlık bir alana sahiptir.
 
 - Üçtepeler Tabiat Parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir.
 - Park, zengin flora ve faunaya ev sahipliği yapar.

@@ -21,7 +21,7 @@ aktiviteler: ["yürüyüş","doğa izleme","su sporları"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg","alt":"Tirebolu Hamamı","caption":"Tirebolu Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 19","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tirebolu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130640532","tip":"genel"}]
-description: "Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plaj. 140 hektarlık yeşil alanıyla dikkat çekiyor."
+description: "Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plaj."
 keywords: ["Tirebolu","Giresun","Karadeniz","plaj","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q130640532"
@@ -29,7 +29,7 @@ wikidata_id: "Q130640532"
 
 # Tirebolu Hamamı
 
-Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plajdır. Bu plaj, 140 hektarlık yeşil alanıyla dikkat çekmektedir. Tirebolu Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu plaj, hem yerel halk hem de turistler tarafından sıkça ziyaret edilmektedir. Tirebolu Hamamı'nın güzelliği, sadece geniş yeşil alanıyla sınırlı değil, aynı zamanda çevresi ile de dikkat çekiyor.
+Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plajdır. Tirebolu Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu plaj, hem yerel halk hem de turistler tarafından sıkça ziyaret edilmektedir. Tirebolu Hamamı'nın güzelliği, sadece geniş yeşil alanıyla sınırlı değil, aynı zamanda çevresi ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Tirebolu Hamamı, ziyaretçilere benzersiz bir deneyim sunuyor. Bu plaj, Karaden
 
 ## İlginç Bilgiler
 
-- Tirebolu Hamamı, 140 hektarlık yeşil alanıyla dikkat çekiyor.
 - Bu plaj, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Tirebolu Hamamı, uzun yıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır.
 - Bu plaj, sadece bir doğa harikası olmakla kalmıyor, aynı zamanda bir kültür mirası olarak da kabul ediliyor.

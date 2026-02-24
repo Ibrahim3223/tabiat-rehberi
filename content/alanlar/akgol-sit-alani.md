@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Akgöl Sit Alanı","caption":"Akgöl Sit Alanı","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akg%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226222","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Akgöl Sit Alanı, 140 hektarlık geniş bir alana sahiptir. Bu bölge, doğal güzellikleri ve tarihi geçmişi ile dikkat çekmektedir."
+ Bu bölge, doğal güzellikleri ve tarihi geçmişi ile dikkat çekmektedir."
 keywords: ["Akgöl Sit Alanı","İç Anadolu Bölgesi","doğal alan","tarihi geçmişi","göl","sit alanı","korunan bölge","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226222"
@@ -30,7 +30,7 @@ Akgöl Sit Alanı, tarihi geçmişi ile dikkat çekmektedir. Bu bölge, yüzyıl
 
 ## Coğrafya
 
-Akgöl Sit Alanı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, 140 hektarlık bir alana sahiptir. Akgöl Sit Alanı, geniş yeşil alanları, gölleri ve tarihi yapıları ile dikkat çekmektedir. Bu bölge, ziyaretçilerine doğal güzellikleri sunmaktadır. Akgöl Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Bu bölge, geniş ova ve dağlık alanlara sahiptir. Akgöl Sit Alanı, ziyaretçilerine çeşitli coğrafi oluşumları sunmaktadır. Bu bölge, geniş yeşil alanları, gölleri ve dağları ile dikkat çekmektedir. Akgöl Sit Alanı, ziyaretçilerine doğal güzellikleri ve tarihi yapıları sunmaktadır.
+Akgöl Sit Alanı, İç Anadolu Bölgesi'nde yer alır. Akgöl Sit Alanı, geniş yeşil alanları, gölleri ve tarihi yapıları ile dikkat çekmektedir. Bu bölge, ziyaretçilerine doğal güzellikleri sunmaktadır. Akgöl Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahiptir. Bu bölge, geniş ova ve dağlık alanlara sahiptir. Akgöl Sit Alanı, ziyaretçilerine çeşitli coğrafi oluşumları sunmaktadır. Bu bölge, geniş yeşil alanları, gölleri ve dağları ile dikkat çekmektedir. Akgöl Sit Alanı, ziyaretçilerine doğal güzellikleri ve tarihi yapıları sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Akgöl Sit Alanı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu bölg
 
 ## İlginç Bilgiler
 
-- Akgöl Sit Alanı, 140 hektarlık bir alana sahiptir.
 - Bu bölge, İç Anadolu Bölgesi'nde yer alır.
 - Akgöl Sit Alanı, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 - Bu bölge, geniş yeşil alanları, gölleri ve tarihi yapıları ile dikkat çekmektedir.

@@ -37,7 +37,7 @@ Sakız Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Sakız Dede Türbesi, Kuşadası'nın merkezinde yer alıyor. Coğrafi konum itibariyle, ziyaretçilere kolay ulaşım imkanı sunuyor. Sakız Dede Türbesi, 140 hektarlık alan üzerinde yer alıyor ve ziyaretçilere geniş bir açık alan sunuyor. Sakız Dede Türbesi'nin çevresi, yeşil alanlar ve tarihi yapılarla çevrili. Coğrafi konumu itibariyle, Sakız Dede Türbesi, Kuşadası'nın en önemli turistik noktalarından biri olarak kabul ediliyor. İklimi, Akdeniz iklimi özellikleri taşıyor ve ziyaretçilere yıl boyunca ziyaret imkanı sunuyor.
+Sakız Dede Türbesi, Kuşadası'nın merkezinde yer alıyor. Coğrafi konum itibariyle, ziyaretçilere kolay ulaşım imkanı sunuyor. Sakız Dede Türbesi'nin çevresi, yeşil alanlar ve tarihi yapılarla çevrili. Coğrafi konumu itibariyle, Sakız Dede Türbesi, Kuşadası'nın en önemli turistik noktalarından biri olarak kabul ediliyor. İklimi, Akdeniz iklimi özellikleri taşıyor ve ziyaretçilere yıl boyunca ziyaret imkanı sunuyor.
 
 ## Flora ve Fauna
 

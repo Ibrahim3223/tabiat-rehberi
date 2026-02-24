@@ -48,7 +48,6 @@ Lindos Tepesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini görmek
 
 ## İlginç Bilgiler
 
-- Lindos Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunması, burayı doğa severler için bir cennet haline getiriyor.
 - Lindos Tepesi, tarihi geçmişiyle dikkat çekici bir nokta.
 - Burası, Muğla'nın önemli turizm merkezlerinden biri olarak biliniyor.

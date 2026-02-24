@@ -29,7 +29,7 @@ wikidata_id: "Q34823203"
 
 # Çakmak Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili Çakmak Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Çakmak Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden muhteşem manzaralar izlenebiliyor. Çakmak Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
+ Çakmak Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden muhteşem manzaralar izlenebiliyor. Çakmak Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ wikidata_id: "Q34823203"
 
 ## İlginç Bilgiler
 
-- Çakmak Tepesi, yaklaşık 140 hektarlık bir alana yayılır.
 - Tepenin eteklerinde, çeşitli bitki türleri bulunur.
 - Çakmak Tepesi, yılın her dönemi ziyaret edilebilir.
 - Tepenin zirvesinden, muhteşem manzaralar izlenebiliyor.

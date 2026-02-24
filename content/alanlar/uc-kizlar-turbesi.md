@@ -54,4 +54,4 @@ wikidata_id: "Q131391219"
 - Türbenin yakınında, çeşitli su kaynakları bulunmaktadır
 - Burada, çeşitli bitki türleri yetişir
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
-- Üç Kızlar Türbesi, 140 hektarlık bir alana sahiptir
+

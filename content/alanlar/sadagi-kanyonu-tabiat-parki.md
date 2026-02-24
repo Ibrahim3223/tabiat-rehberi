@@ -29,7 +29,7 @@ wikidata_id: "Q30623134"
 
 # Sadağı Kanyonu Tabiat Parkı
 
-İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren Sadağı Kanyonu Tabiat Parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. 200 futbol sahası büyüklüğünde olan bu yeşil alan, doğa severlerin gözdesi haline gelmiştir. Parkın içerisinde yer alan kanyon, kendine özgü jeolojik yapısı ile dikkat çekiyor. Burası, hem doğa tutkunları hem de macera arayanların buluşma noktası olarak görev yapıyor.
+ Parkın içerisinde yer alan kanyon, kendine özgü jeolojik yapısı ile dikkat çekiyor. Burası, hem doğa tutkunları hem de macera arayanların buluşma noktası olarak görev yapıyor.
 
 ## Tarihçe
 

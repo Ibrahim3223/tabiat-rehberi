@@ -43,7 +43,7 @@ Bolu-Mengen-Cosur Ebe Saricami milli parkını ziyaret etmek, doğa severler ve 
 ## İlginç Bilgiler
 
 - Bolu-Mengen-Cosur Ebe Saricami milli parkı, Karadeniz Bölgesi'nde yer alan bir doğal alandır.
-- Milli park, 140 hektarlık bir alanı kaplar.
+
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir.
 - Milli park, ziyaretçilere çeşitli yürüyüş parkurları ve gözlem noktaları sunar.
 - Bölgenin coğrafi konumu, Karadeniz Bölgesi'nin genel iklim koşullarına uygun olarak, ılıman ve nemli bir iklimi sahiptir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31551410"
 
 # Habesvenez Tepesi
 
-Habesvenez Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Habesvenez Tepesi, Mardin'in tarihi merkezi ile birlikte ziyaret edilebiliyor ve bu sayede hem tarihi hem de doğal güzellikleri aynı anda keşfetme mümkün oluyor.
+Habesvenez Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Habesvenez Tepesi, Mardin'in tarihi merkezi ile birlikte ziyaret edilebiliyor ve bu sayede hem tarihi hem de doğal güzellikleri aynı anda keşfetme mümkün oluyor.
 
 ## Tarihçe
 

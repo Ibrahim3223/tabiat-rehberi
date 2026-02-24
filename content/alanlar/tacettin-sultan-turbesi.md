@@ -29,7 +29,7 @@ wikidata_id: "Q131391694"
 
 # Tacettin Sultan Türbesi
 
-Tacettin Sultan Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi ve kültürel mekândır. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir yapıdır. Tarihi geçmişiyle dikkat çeken bu türbe, Ankara'nın önemli turistik noktalarından biridir. Tacettin Sultan Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. Burada, geçmişin izlerini taşıyan tarihi yapılar, geleneksel mimari örnekleri ve kültürel etkinlikler ziyaretçileri bekliyor.
+Tacettin Sultan Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi ve kültürel mekândır. Tarihi geçmişiyle dikkat çeken bu türbe, Ankara'nın önemli turistik noktalarından biridir. Tacettin Sultan Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. Burada, geçmişin izlerini taşıyan tarihi yapılar, geleneksel mimari örnekleri ve kültürel etkinlikler ziyaretçileri bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tacettin Sultan Türbesi'nin tarihi geçmişi, Ankara'nın zengin kültür miras
 
 ## Coğrafya
 
-Tacettin Sultan Türbesi, Ankara'nın coğrafi olarak merkezi bir konumda yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin çevresinde de görülür. Burada, Ankara'nın karakteristik coğrafi yapısı, typu bir bozkır iklimi hüküm sürer. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu alan, ziyaretçilere geniş bir açık alan sunar. Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır. Tarihi yapılar, geleneksel malzemelerle inşa edilmiştir. Ankara'nın coğrafi konumu, bu türbenin iklimini ve bitki örtüsünü etkiler. Ziyaretçiler, buradaki coğrafi güzellikleri keşfetme fırsatı bulacaktır.
+Tacettin Sultan Türbesi, Ankara'nın coğrafi olarak merkezi bir konumda yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin çevresinde de görülür. Burada, Ankara'nın karakteristik coğrafi yapısı, typu bir bozkır iklimi hüküm sürer. Bu alan, ziyaretçilere geniş bir açık alan sunar. Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır. Tarihi yapılar, geleneksel malzemelerle inşa edilmiştir. Ankara'nın coğrafi konumu, bu türbenin iklimini ve bitki örtüsünü etkiler. Ziyaretçiler, buradaki coğrafi güzellikleri keşfetme fırsatı bulacaktır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Tacettin Sultan Türbesi'ni ziyaret etmek, Ankara'nın tarihi ve kültürel kiml
 
 - Tacettin Sultan Türbesi, Ankara'nın önemli turistik noktalarından biridir.
 - Türbenin tarihi geçmişi, Ankara'nın kültür mirasını yansıtır.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır.
 - Ziyaretçiler, türbenin tarihi atmosferini ve Ankara'nın kültürel zenginliğini keşfetme fırsatı bulacaktır.

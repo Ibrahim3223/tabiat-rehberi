@@ -21,8 +21,8 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Hanım Hamamı","caption":"Hanım Hamamı","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Han%C4%B1m%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738684","tip":"genel"}]
-description: "Erzurum'un Yakutiye ilçesinde yer alan Hanım Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Hanım Hamamı","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738684"
 ---
@@ -49,8 +49,6 @@ Hanım Hamamı, ziyaretçilere doğayla iç içe vakit geçirmek için mükemmel
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Doğu Anadolu Bölgesi
 - yerel hal ve turistler için önemli bir çekim merkezi
 - tarihi geçmişi

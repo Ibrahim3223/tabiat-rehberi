@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","trekking","yaban hayatı gözlemi","manzara
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Kombuz Tepesi","caption":"Kombuz Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kombuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513425","tip":"genel"}]
-description: "Kahramanmaraş'ta bulunan Kombuz Tepesi, doğal güzelliği ile dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kahramanmaraş'ta bulunan Kombuz Tepesi, doğal güzelliği ile dikkat çeken bir destinasyon."
 keywords: ["Kombuz Tepesi","Kahramanmaraş","doğa","gezi","tepe","Akdeniz Bölgesi","turizm","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31513425"

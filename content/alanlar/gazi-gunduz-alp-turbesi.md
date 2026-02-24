@@ -51,6 +51,6 @@ Gazi Gündüz Alp Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikl
 
 - Gazi Gündüz Alp Türbesi, Beypazarı'nın tarihi ve kültürel öneme sahip bir mekanı.
 - Türbenin etrafındaki tarihi yapılar ve kalıntılar, bu bölgenin yüzyıllar boyunca önemli bir merkezi olduğunu gösteriyor.
-- Gazi Gündüz Alp Türbesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Türbenin mimarisi ve tarihi önemi, ziyaretçilere zengin bir kültür deneyimi sunuyor.
 - Gazi Gündüz Alp Türbesi, Beypazarı'nın tarihini ve kültürünü yansıtan önemli bir mekan.

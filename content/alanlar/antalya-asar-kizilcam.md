@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çiçek izleme","vahşi yaşamleme","fotogr
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Antalya-Asar Kızılçam","caption":"Antalya-Asar Kızılçam","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Asar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227838","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin yeşil cenneti, 140 hektarlık alanı ve zengin doğasıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Antalya","Asar Kızılçam","Milli Park","Akdeniz Bölgesi","doğa","yeşil alan","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227838"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227838"
 
 # Antalya-Asar Kızılçam
 
-Antalya-Asar Kızılçam Milli Parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın mucizelerini keşfetme fırsatı sunuyor. Antalya-Asar Kızılçam, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın mucizelerini keşfetme fırsatı sunuyor. Antalya-Asar Kızılçam, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Asar Kızılçam Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Antalya-Asar Kızılçam Milli Parkı, Akdeniz Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu. Coğrafi olarak, parkın etrafı dağlarla çevrilidir ve bu da burayı bir doğa harikasına çeviriyor. İklimi, Akdeniz ikliminin özellikleri taşır ve bu, bitki örtüsünün zenginleşmesine katkıda bulunmuştur. Çevre, parkın doğal güzelliğini korumak için özenle tasarlanmış ve ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parkın coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de yeşilin her tonunu keşfetme fırsatı sunuyor.
+Antalya-Asar Kızılçam Milli Parkı, Akdeniz Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Coğrafi olarak, parkın etrafı dağlarla çevrilidir ve bu da burayı bir doğa harikasına çeviriyor. İklimi, Akdeniz ikliminin özellikleri taşır ve bu, bitki örtüsünün zenginleşmesine katkıda bulunmuştur. Çevre, parkın doğal güzelliğini korumak için özenle tasarlanmış ve ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parkın coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de yeşilin her tonunu keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

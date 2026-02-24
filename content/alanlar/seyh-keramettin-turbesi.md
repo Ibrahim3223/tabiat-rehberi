@@ -30,7 +30,7 @@ wikidata_id: "Q131391323"
 
 # Şeyh Keramettin Türbesi
 
-Şeyh Keramettin Türbesi, Giresun ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin önemli tarihi ve kültürel noktalarından biri olarak kabul edilen bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresi yeşilliklerle kaplı bir ortamda ziyaretçilerini ağırlamaktadır. Giresun'un kent merkezine oldukça yakın olan bu türbe, hem yerel halk hem de şehri ziyaret edenler için önemli bir gezi noktasıdır. Şeyh Keramettin Türbesi, Giresun'un tarihi ve doğal güzelliklerini bir arada sunan özel bir yerdir.
+Şeyh Keramettin Türbesi, Giresun ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin önemli tarihi ve kültürel noktalarından biri olarak kabul edilen bir türbedir. Giresun'un kent merkezine oldukça yakın olan bu türbe, hem yerel halk hem de şehri ziyaret edenler için önemli bir gezi noktasıdır. Şeyh Keramettin Türbesi, Giresun'un tarihi ve doğal güzelliklerini bir arada sunan özel bir yerdir.
 
 ## Tarihçe
 

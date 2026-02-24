@@ -50,7 +50,7 @@ Mühürlü Sultan Türbesi'ne ziyaret etmek, birçok insan için keyifli bir den
 ## İlginç Bilgiler
 
 - Mühürlü Sultan Türbesi, İzmir'in Menemen ilçesinde bulunur.
-- Plaj, yaklaşık 140 hektarlık bir alan kaplar.
+
 - Mühürlü Sultan Türbesi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeker.
 - Plajın deniz suyu, temiz ve berraktır.
 - Mühürlü Sultan Türbesi, birçok insan tarafından ziyaret edilmektedir.

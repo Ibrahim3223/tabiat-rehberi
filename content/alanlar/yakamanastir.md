@@ -15,8 +15,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Sallangoz.jpg","alt":"Yakamanastır manzarası","credit":"Qunixz","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakamanast%C4%B1r","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228267","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Yakamanastır, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Yakamanastır","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","futbol sahası"]
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228267"
 ---
@@ -42,8 +42,6 @@ Yakamanastır, zengin bir flora ve fauna çeşitliliğine sahip. Burada, çeşit
 Yakamanastır'ı ziyaret etmek için, her mevsim uygun. Ancak, en iyi ziyaret mevsimi, ilkbahar ve yaz aylarıdır. Bu dönemde, doğa yürüyüşleri yapabilir, flora ve fauna çeşitliliği hakkında bilgi edinebilirsiniz. Milli parka nasıl gidileceği konusunda, özel araç veya toplu taşıma araçları kullanabilirsiniz. Yakamanastır'a ulaşmak için, en yakın şehirden veya kasabadan hareket eden otobüsleri kullanabilirsiniz. Milli parkın girişinde, ziyaretçilere rehberlik eden personeller ve bilgi panelleri mevcut. Ziyaret süresi, ziyaretçilerin ilgi alanlarına göre değişebiliyor. Ancak, en az bir gün sürecek bir ziyaret, Yakamanastır'ın güzelliğini keşfetmek için yeterli olabilir.
 
 ## İlginç Bilgiler
-
-- Yakamanastır, 140 hektarlık bir yeşil alanı kapsıyor.
 
 - Milli parkta, çeşitli flora ve fauna çeşitliliği mevcut.
 - Yakamanastır, dört mevsim ziyaret edilebilecek bir destinasyon.

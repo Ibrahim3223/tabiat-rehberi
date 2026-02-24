@@ -22,7 +22,7 @@ wikidata_id: "Q108226655"
 
 # Yamansaz Sit Alanı
 
- Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Yamansaz Sit Alanı, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini kendi dünyasına çekmeyi başarıyor. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet. 140 hektarlık bu yeşil cennet, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakıyor.
+ Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Yamansaz Sit Alanı, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini kendi dünyasına çekmeyi başarıyor. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Yamansaz Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu 
 
 ## İlginç Bilgiler
 
-- Yamansaz Sit Alanı, 140 hektarlık bir yeşil alan
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Yamansaz Sit Alanı, çeşitli bitki türleri ile ziyaretçilerini karşılar
 - Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı
 - Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet

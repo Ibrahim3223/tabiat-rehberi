@@ -42,7 +42,6 @@ Denizli-Cal-Civril-Fistikcami milli parkını ziyaret etmek, doğa severler içi
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkta, çeşitli bitkiler ve ağaçlar bulunur
 - Milli parkın faunası, birçok farklı hayvan türünü içerir
 - Milli park, Ege Bölgesi'nin en özel doğa alanlarından biridir

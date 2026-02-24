@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","bisiklet","piknik","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Şahinkale Tepesi","caption":"Şahinkale Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahinkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388151","tip":"genel"}]
-description: "Denizli'nin göbeğinde, Ege Bölgesi'nin kalbinde yer alan Şahinkale Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Şahinkale Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388151"

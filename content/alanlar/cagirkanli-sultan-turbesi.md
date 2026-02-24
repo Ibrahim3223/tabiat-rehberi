@@ -50,7 +50,7 @@ Bayburt'un merkezinde yer alan Çağırkanlı Sultan Türbesi, tarihi ve doğal 
 ## İlginç Bilgiler
 
 - Çağırkanlı Sultan Türbesi, Bayburt'un en önemli tarihi mekanlarından biri
-- Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan
+
 - Bölge, Karadeniz Bölgesi'nin karakteristik coğrafyası ve iklimine sahip
 - Çağırkanlı Sultan Türbesi, flora ve fauna açısından zengin bir bölgede yer alıyor
 - Türbe, Bayburt'un tarihi geçmişi ve kültürel mirasını yansıtması bakımından önemli

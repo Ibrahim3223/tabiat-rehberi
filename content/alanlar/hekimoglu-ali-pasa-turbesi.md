@@ -29,7 +29,7 @@ wikidata_id: "Q131391071"
 
 # Hekimoğlu Ali Paşa Türbesi
 
-Hekimoğlu Ali Paşa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Fatih ilçesinde bulunan bu tarihi yapı, yaklaşık 140 hektarlık bir alanı kaplayan bir kompleksin içinde yer alır. Hekimoğlu Ali Paşa Türbesi, 15. yüzyılda inşa edilmiş olup, Osmanlı mimarisinin önemli örneklerinden biridir. Türbenin mimari özellikleri, ziyaretçilere Osmanlı döneminin kültürel ve tarihi zenginliklerini keşfetme fırsatı sunar.
+Hekimoğlu Ali Paşa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Hekimoğlu Ali Paşa Türbesi, 15. yüzyılda inşa edilmiş olup, Osmanlı mimarisinin önemli örneklerinden biridir. Türbenin mimari özellikleri, ziyaretçilere Osmanlı döneminin kültürel ve tarihi zenginliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hekimoğlu Ali Paşa Türbesi, 15. yüzyılda inşa edilmiştir. Osmanlı dönem
 
 ## Coğrafya
 
-Hekimoğlu Ali Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunur. Türbe, yaklaşık 140 hektarlık bir kompleksin içinde yer alır. Bu kompleks, çeşitli tarihi yapılar ve yeşil alanlardan oluşur. Türbenin çevresi, tarihi ve kültürel zenginlikleriyle dolu olup, ziyaretçilere geniş bir açık alan sunar. Hekimoğlu Ali Paşa Türbesi, İstanbul'un merkezi bir konumunda yer aldığı için, ulaşımı kolaydır. Ziyaretçiler, toplu taşıma araçları veya özel araçlarıyla türbeye ulaşabilirler. Türbenin bulunduğu kompleks, aynı zamanda çeşitli restoran ve kafelerle dolu olup, ziyaretçilere yeme ve dinlenme fırsatı sunar. Hekimoğlu Ali Paşa Türbesi, yıl boyunca ziyaret edilebilir olup, her mevsim ziyaretçilere farklı bir deneyim sunar. İlkbahar ve yaz aylarında, türbenin bulunduğu kompleks, yeşillikleriyle dolu olup, ziyaretçilere doğanın güzelliklerini sunar. Sonbahar ve kış aylarında ise, türbe, tarihi ve kültürel zenginlikleriyle dolu olup, ziyaretçilere Osmanlı döneminin atmosferini yaşatır.
+Hekimoğlu Ali Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunur. Bu kompleks, çeşitli tarihi yapılar ve yeşil alanlardan oluşur. Türbenin çevresi, tarihi ve kültürel zenginlikleriyle dolu olup, ziyaretçilere geniş bir açık alan sunar. Hekimoğlu Ali Paşa Türbesi, İstanbul'un merkezi bir konumunda yer aldığı için, ulaşımı kolaydır. Ziyaretçiler, toplu taşıma araçları veya özel araçlarıyla türbeye ulaşabilirler. Türbenin bulunduğu kompleks, aynı zamanda çeşitli restoran ve kafelerle dolu olup, ziyaretçilere yeme ve dinlenme fırsatı sunar. Hekimoğlu Ali Paşa Türbesi, yıl boyunca ziyaret edilebilir olup, her mevsim ziyaretçilere farklı bir deneyim sunar. İlkbahar ve yaz aylarında, türbenin bulunduğu kompleks, yeşillikleriyle dolu olup, ziyaretçilere doğanın güzelliklerini sunar. Sonbahar ve kış aylarında ise, türbe, tarihi ve kültürel zenginlikleriyle dolu olup, ziyaretçilere Osmanlı döneminin atmosferini yaşatır.
 
 ## Flora ve Fauna
 

@@ -49,8 +49,6 @@ Samur Tümülüsü Kumru, yıl boyunca birçok ziyaretçiyi ağırlamaktadır. Z
 
 ## İlginç Bilgiler
 
-- Samur Tümülüsü Kumru, 140 hektarlık bir alana sahiptir
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğündedir
 - Samur Tümülüsü Kumru'nun iklimi, Karadeniz Bölgesi'nin iklimine benzemektedir
 - Bu plaj, zengin bir flora ve faunaya sahiptir
 - Ziyaretçiler, bu plajın doğal güzelliklerini keşfedebilecekleri gibi, aynı zamanda çevresindeki diğer turistik alanları da ziyaret edebilmektedir

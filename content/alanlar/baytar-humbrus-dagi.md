@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarihî kalıntıları keşfetme","manzara 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/First_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-9.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Baytar Humbruş Dağı","caption":"Baytar Humbruş Dağı","credit":"First floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-9","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baytar%20Humbru%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386535","tip":"genel"}]
-description: "Hatay'da yer alan Baytar Humbruş Dağı, 140 hektarlık alanıyla önemli bir doğa mirasıdır."
+"
 keywords: ["Baytar Humbruş Dağı","Hatay","doğa","dağ","turizm","gezi","Akdeniz Bölgesi","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386535"
@@ -48,8 +48,6 @@ Baytar Humbruş Dağı, ziyaretçilerine birçok olanak sunar. Ziyaretçiler, bu
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplar
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri
 - zengin bir flora ve fauna
 - tarihî kalıntıları barındırır

@@ -51,6 +51,6 @@ Karahayıt Roma Hamamı, yıl boyunca ziyaret edilebilir. Ziyaretçiler, hamamı
 
 - Roma Dönemi'nden kalma historical hamam
 - Pamukkale'nin merkezine uzun bir mesafe uzaklıkta
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - çeşitli bitki türleri ve hayvanlarla dolu
 - yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı

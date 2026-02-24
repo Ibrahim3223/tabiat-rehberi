@@ -50,7 +50,7 @@ Karadağ Tepesi'ni ziyaret etmek, ziyaretçilere bölge hakkında detaylı bilgi
 ## İlginç Bilgiler
 
 - Karadağ Tepesi, Şanlıurfa'nın önemli coğrafi noktalarından biridir
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, çeşitli bitki türlerine ev sahipliği yapar
 - Karadağ Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir destinasyondur
 - Bölgenin flora ve fauna açısından zengin olması, Karadağ Tepesi'ni önemli bir doğal alan haline getirir

@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Eski%20Yeni%20%28%C3%96rdekli%29%20Hamam%20%28Turkish%20Baths%29%20-%20panoramio.jpg","alt":"Eski Yeni Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/87/%D0%90%D0%BC%D0%B0%D0%BC%D0%BE%D1%82_%D0%B2%D0%BE_%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0%2C_%D1%81%D0%B5%D0%B3%D0%B0_%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%BD%D0%B0_%D0%BA%D1%83%D1%9C%D0%B0.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%D0%90%D0%BC%D0%B0%D0%BC%D0%BE%D1%82_%D0%B2%D0%BE_%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0%2C_%D1%81%D0%B5%D0%B3%D0%B0_%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%BD%D0%B0_%D0%BA%D1%83%D1%9C%D0%B0.jpg/1280px-%D0%90%D0%BC%D0%B0%D0%BC%D0%BE%D1%82_%D0%B2%D0%BE_%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0%2C_%D1%81%D0%B5%D0%B3%D0%B0_%D1%81%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%BD%D0%B0_%D0%BA%D1%83%D1%9C%D0%B0.jpg","alt":"Eski Yeni Hamamı - Амамот во Битола, сега стоковна куќа","credit":"Novica Nakov","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Eski_Yeni_%28%C3%96rdekli%29_Hamam_%28Turkish_Baths%29_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/81/Eski_Yeni_%28%C3%96rdekli%29_Hamam_%28Turkish_Baths%29_-_panoramio.jpg","alt":"Eski Yeni Hamamı - Eski Yeni (Ördekli) Hamam (Turkish Baths) - panoramio","credit":"Jarosław Baranowski","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Yeni%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738652","tip":"genel"}]
-description: "Bursa'nın Osmangazi ilçesinde yer alan Eski Yeni Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Eski Yeni Hamamı","Bursa","Osmangazi","Marmara Bölgesi","doğa","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738652"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738652"
 
 # Eski Yeni Hamamı
 
-Eski Yeni Hamamı, Bursa'nın Osmangazi ilçesinde yer alan 140 hektarlık bir yeşil alandır. Eski Yeni Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak düşünülebilir. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Eski Yeni Hamamı, özellikle hafta sonları ve tatil günlerinde ziyaret edilmesi önerilen bir yerdir.
+ Eski Yeni Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak düşünülebilir. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Eski Yeni Hamamı, özellikle hafta sonları ve tatil günlerinde ziyaret edilmesi önerilen bir yerdir.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Eski Yeni Hamamı, çeşitli bitki türleri ve zengin fauna ile kaplı bir doğa
 Eski Yeni Hamamı, hafta sonları ve tatil günleri için ideal bir gezi yeridir. Buraya, toplu taşıma veya özel araçlarla ulaşımümkündür. Eski Yeni Hamamı, ziyaretçilerine çeşitli aktivite olanakları sunar. Burada, doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi etkinlikler yapılabilir. Eski Yeni Hamamı, özellikle doğa severler için bir sığınak olarak düşünülebilir.
 
 ## İlginç Bilgiler
-
-- Eski Yeni Hamamı, 140 hektarlık bir yeşil alandır.
 
 - Eski Yeni Hamamı, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir.
 - Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır.

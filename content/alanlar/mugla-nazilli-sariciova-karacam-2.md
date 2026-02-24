@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Trekking","Bitki türleri incelemesi","Yaba
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Mugla-Nazilli-Sariciova Karacam 2","caption":"Mugla-Nazilli-Sariciova Karacam 2","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Nazilli-Sariciova%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227535","tip":"genel"}]
-description: "Muğla'nın doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna."
+description: "Muğla'nın doğal güzelliklerini keşfedin."
 keywords: ["Muğla","Milli Park","Doğa","Turizm","Ege Bölgesi","Gezi","Yaban Hayatı","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227535"

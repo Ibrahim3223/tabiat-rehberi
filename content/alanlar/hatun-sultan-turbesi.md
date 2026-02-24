@@ -30,7 +30,7 @@ wikidata_id: "Q131391360"
 
 # Hatun Sultan Türbesi
 
-Hatun Sultan Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi açıdan büyük önem taşıyan bir turbe. Bu türbe, şehrin en önemli tarihi ve kültürel yapılarından biri olarak kabul edilir. Hatun Sultan Türbesi, yaklaşık 140 hektarlık bir alan üzerinde inşa edilmiş ve şehrin en büyük turbe komplekslerinden biri. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir ortam sunar. Hatun Sultan Türbesi, Kastamonu'nun tarihi ve kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon.
+Hatun Sultan Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi açıdan büyük önem taşıyan bir turbe. Bu türbe, şehrin en önemli tarihi ve kültürel yapılarından biri olarak kabul edilir. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir ortam sunar. Hatun Sultan Türbesi, Kastamonu'nun tarihi ve kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hatun Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe
 
 ## Coğrafya
 
-Hatun Sultan Türbesi, Kastamonu'nun merkezinde yer alır ve şehrin coğrafi açıdan önemli bir noktasında bulunur. Türbe, yaklaşık 140 hektarlık bir alan üzerinde inşa edilmiş ve şehrin en büyük turbe komplekslerinden biri olarak kabul edilir. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir ortam sunar. Hatun Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiş ve çevresindeki dağlar, ormanlar ve nehirler ile birlikte bir bütün olarak değerlendirilebilir. Türbenin bulunduğu bölge, mevsimsel değişimlere göre farklı güzellikler sunar, ilkbahar ve yaz aylarında yeşilin her tonunu, sonbahar ve kış aylarında ise kar manzarasının güzelliğini gösterir.
+Hatun Sultan Türbesi, Kastamonu'nun merkezinde yer alır ve şehrin coğrafi açıdan önemli bir noktasında bulunur. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da ziyaretçilere doğayla iç içe bir ortam sunar. Hatun Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiş ve çevresindeki dağlar, ormanlar ve nehirler ile birlikte bir bütün olarak değerlendirilebilir. Türbenin bulunduğu bölge, mevsimsel değişimlere göre farklı güzellikler sunar, ilkbahar ve yaz aylarında yeşilin her tonunu, sonbahar ve kış aylarında ise kar manzarasının güzelliğini gösterir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hatun Sultan Türbesi, Kastamonu'nun merkezinde yer aldığı için ulaşımı o
 ## İlginç Bilgiler
 
 - Hatun Sultan Türbesi, Kastamonu'nun en önemli tarihi yapılarından biri.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde inşa edilmiştir.
+
 - Hatun Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir.
 - Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur.
 - Bölge, mevsimsel değişimlere göre farklı güzellikler sunar.

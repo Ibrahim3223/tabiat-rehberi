@@ -49,7 +49,7 @@ Derviş Tepesi, ziyaretçilerine muhteşem bir deneyim sunuyor. Bu tepe, kolay b
 ## İlginç Bilgiler
 
 - Derviş Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Derviş Tepesi, zengin florası ile dikkat çekiyor.
 - Bu tepe, fauna açısından da zengin bir çeşitlilik sunuyor.
 - Derviş Tepesi, ekolojik açıdan da importantes bir rol oynuyor.

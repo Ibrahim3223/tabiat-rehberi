@@ -30,7 +30,7 @@ Akdogan ve Ruzgarlar Ebe Çami milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Akdogan ve Ruzgarlar Ebe Çami milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüksek ova ve dağlık arazilerle çevrili. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli gezi seçenekleri sunuyor. 140 hektarlık alan, farklı coğrafi oluşumlar ile dolu. Ormanlık alanlar, çayır ve mera arazileri, ziyaretçilere geniş bir gezi alanı sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim, ziyaretçilere yılın her mevsiminde gezi imkanı sunuyor.
+Akdogan ve Ruzgarlar Ebe Çami milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüksek ova ve dağlık arazilerle çevrili. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli gezi seçenekleri sunuyor. Ormanlık alanlar, çayır ve mera arazileri, ziyaretçilere geniş bir gezi alanı sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim, ziyaretçilere yılın her mevsiminde gezi imkanı sunuyor.
 
 ## Flora ve Fauna
 

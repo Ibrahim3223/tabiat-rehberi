@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Amasya_Kumac%C4%B1k_Hamam%C4%B1_7582.jpg","alt":"Kumacık Hamamı manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumac%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738480","tip":"genel"}]
-description: "Amasya'nın gizli cenneti Kumacık Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kumacık Hamamı","Amasya","Karadeniz Bölgesi","plaj","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738480"

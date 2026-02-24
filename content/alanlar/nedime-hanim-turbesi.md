@@ -29,7 +29,7 @@ wikidata_id: "Q131391608"
 
 # Nedime Hanım Türbesi
 
-Nedime Hanım Türbesi, Çanakkale ilinin merkezinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir sahil şeridine sahiptir. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Nedime Hanım Türbesi, Çanakkale'nin önemli tarihi mekanlarından biri olarak bilinir. Bu mekan, aynı zamanda şehrin turizm açısından önemli noktalarından biridir. Çanakkale'nin merkezinde yer alması, ulaşım açısından kolaylık sağlar. Nedime Hanım Türbesi, yıl boyunca ziyaretçilerini ağırlar ve bölgenin önemli bir turistik çekim noktasıdır.
+Nedime Hanım Türbesi, Çanakkale ilinin merkezinde yer alan bir tarihi türbe ve plaj alanıdır. Nedime Hanım Türbesi, Çanakkale'nin önemli tarihi mekanlarından biri olarak bilinir. Bu mekan, aynı zamanda şehrin turizm açısından önemli noktalarından biridir. Çanakkale'nin merkezinde yer alması, ulaşım açısından kolaylık sağlar. Nedime Hanım Türbesi, yıl boyunca ziyaretçilerini ağırlar ve bölgenin önemli bir turistik çekim noktasıdır.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Nedime Hanım Türbesi ve çevresindeki plaj alanı, yıl boyunca ziyaretçileri
 ## İlginç Bilgiler
 
 - Nedime Hanım Türbesi, Çanakkale'nin en önemli tarihi mekanlarından biridir
-- Türbe ve plaj alanı, yaklaşık 140 hektarlık bir alanı kaplar
-- Bu bölge, 200 futbol sahası büyüklüğünde bir alana sahiptir
+
 - Nedime Hanım Türbesi, denize sıfır bir konumda yer alır
 - Türbe ve plaj alanı, yıl boyunca ziyaretçilerini ağırlar

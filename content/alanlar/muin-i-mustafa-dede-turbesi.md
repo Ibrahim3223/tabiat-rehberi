@@ -49,7 +49,6 @@ Muin-i Mustafa Dede Türbesi'ni ziyaret etmek, ziyaretçiler için birçok olana
 
 ## İlginç Bilgiler
 
-- Muin-i Mustafa Dede Türbesi, 140 hektarlık bir alana sahip
 - Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olmasından kaynaklanıyor
 - Muin-i Mustafa Dede Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor
 - Plajın coğrafi konumu, ziyaretçiler için birçok olanak sunuyor

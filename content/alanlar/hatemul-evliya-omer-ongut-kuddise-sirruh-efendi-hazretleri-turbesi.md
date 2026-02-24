@@ -37,7 +37,7 @@ Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi'nin 
 
 ## Coğrafya
 
-Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Sakarya'nın merkezinde bulunur. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulmuştur. Türbenin etrafında, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur. Bölgenin iklimi, genel olarak ılımandır. Kış ayları soğuktur, ancak yaz ayları sıcaktır. Bu iklim, ziyaretçilerin yıl boyunca türbeyi ziyaret etmelerine olanak tanır. Türbenin coğrafi konumu, ziyaretçilerin dàng ulaşabilmesine olanak tanır. Sakarya'nın merkezinde yer alan bu türbe, bölgenin önemli bir dini ve kültürel merkezi olarak görev yapar.
+Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Sakarya'nın merkezinde bulunur. Türbenin etrafında, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur. Bölgenin iklimi, genel olarak ılımandır. Kış ayları soğuktur, ancak yaz ayları sıcaktır. Bu iklim, ziyaretçilerin yıl boyunca türbeyi ziyaret etmelerine olanak tanır. Türbenin coğrafi konumu, ziyaretçilerin dàng ulaşabilmesine olanak tanır. Sakarya'nın merkezinde yer alan bu türbe, bölgenin önemli bir dini ve kültürel merkezi olarak görev yapar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi'ni z
 
 - Türbenin tarihi geçmişi, yüzyıllar öncesine dayanır
 - Türbe, numerous kez restore edilmiş ve genişletilmiştir
-- Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerindedir
+
 - Türbenin etrafında, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur
 - Bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Sakarya'nın merkezinde bulunur

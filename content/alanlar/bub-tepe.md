@@ -36,7 +36,7 @@ Bub Tepe'nin tarihi geçmişi, bölgenin yüzyıllar boyunca farklı medeniyetle
 
 ## Coğrafya
 
-Bub Tepe, coğrafi konumu itibariyle Batman'ın merkezine yakınlığıyla dikkat çekiyor. 140 hektarlık bu alan, bölgenin coğrafi yapısını yansıtan önemli bir nokta. Bub Tepe'nin coğrafi yapısı, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Batman'ın iklimi, Bub Tepe'nin coğrafi yapısını etkiliyor. Bölgenin flora ve faunası, Bub Tepe'nin coğrafi konumuna bağlı olarak şekilleniyor. Bub Tepe, bölgenin coğrafi zenginliklerini keşfetmek isteyenler için önemli bir ziyaret noktası.
+Bub Tepe, coğrafi konumu itibariyle Batman'ın merkezine yakınlığıyla dikkat çekiyor. Bub Tepe'nin coğrafi yapısı, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Batman'ın iklimi, Bub Tepe'nin coğrafi yapısını etkiliyor. Bölgenin flora ve faunası, Bub Tepe'nin coğrafi konumuna bağlı olarak şekilleniyor. Bub Tepe, bölgenin coğrafi zenginliklerini keşfetmek isteyenler için önemli bir ziyaret noktası.
 
 ## Flora ve Fauna
 

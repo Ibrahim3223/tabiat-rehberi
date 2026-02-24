@@ -37,11 +37,11 @@ Turasan Bey Türbesi, tarihi geçmişi ile dikkat çeker. Selçuklu döneminde i
 
 ## Coğrafya
 
-Turasan Bey Türbesi, Kahramankazan ilçesinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Türbenin çevresinde, Ankara'nın karakteristik coğrafi özellikleri görülür. İç Anadolu Bölgesi'nin iklimi, türbenin bulunduğu alanda da hissedilir. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçer. Türbenin mimarisi, bu coğrafi koşullara uygun olarak tasarlanmış ve inşa edilmiştir. Turasan Bey Türbesi, ziyaretçilerine Ankara'nın coğrafi güzelliklerini ve tarihi zenginliklerini sunar.
+Turasan Bey Türbesi, Kahramankazan ilçesinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Türbenin çevresinde, Ankara'nın karakteristik coğrafi özellikleri görülür. İç Anadolu Bölgesi'nin iklimi, türbenin bulunduğu alanda da hissedilir. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçer. Türbenin mimarisi, bu coğrafi koşullara uygun olarak tasarlanmış ve inşa edilmiştir. Turasan Bey Türbesi, ziyaretçilerine Ankara'nın coğrafi güzelliklerini ve tarihi zenginliklerini sunar.
 
 ## Flora ve Fauna
 
-Turasan Bey Türbesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır. Bu yeşil alan, mevsimsel değişimlere göre farklı bitki türleri ile renklenir. İlkbahar ve yaz aylarında, yeşil alanın rengi, çeşitli çiçek türleri ile zenginleşir. Sonbahar ve kış aylarında, yeşil alanın rengi, sarı ve kahverengi tonlara dönüşür. Türbenin çevresinde, çeşitli hayvan türleri de bulunur. Bu hayvanlar, türbenin bulunduğu yeşil alanın bir parçası olarak kabul edilir ve ziyaretçileri tarafından sevilir. Turasan Bey Türbesi, ziyaretçilerine doğanın güzelliklerini ve çeşitliliğini sunar.
+Turasan Bey Türbesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Bu yeşil alan, mevsimsel değişimlere göre farklı bitki türleri ile renklenir. İlkbahar ve yaz aylarında, yeşil alanın rengi, çeşitli çiçek türleri ile zenginleşir. Sonbahar ve kış aylarında, yeşil alanın rengi, sarı ve kahverengi tonlara dönüşür. Türbenin çevresinde, çeşitli hayvan türleri de bulunur. Bu hayvanlar, türbenin bulunduğu yeşil alanın bir parçası olarak kabul edilir ve ziyaretçileri tarafından sevilir. Turasan Bey Türbesi, ziyaretçilerine doğanın güzelliklerini ve çeşitliliğini sunar.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Turasan Bey Türbesi, ziyaretçilerini bekliyor. Türbeye gitmek için, Kahraman
 
 - Turasan Bey Türbesi, Selçuklu döneminde inşa edilmiştir.
 - Türbenin mimarisi, Selçuklu dönemi özellikleri taşır.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır.
+
 - Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Türbeye ulaşım, Kahramankazan ilçesi merkezinden sağlanabilir.

@@ -48,7 +48,6 @@ Avar Tepesi'ni ziyaret etmek, ziyaretçilere zengin bir deneyim sunar. Tepenin z
 
 ## İlginç Bilgiler
 
-- Avar Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde yer alan köyler, bölgenin tarihi ve kültürel zenginliğini yansıtır.
 - Avar Tepesi, trekking ve dağcılık gibi aktiviteleri gerçekleştirmek için uygun bir yerdir.
 - Bölgenin flora ve faunası, mevsimsel değişimlere uygun olarak uyum sağlar.

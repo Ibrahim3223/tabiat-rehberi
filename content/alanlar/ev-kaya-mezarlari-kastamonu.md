@@ -29,7 +29,7 @@ wikidata_id: "Q134728176"
 
 # Ev Kaya Mezarları, Kastamonu
 
-Kastamonu'nun merkezinde yer alan Ev Kaya Mezarları, yaklaşık 140 hektarlık bir alanı kaplayan ve tarihi geçmişi olan bir bölgedir. Bu bölge, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihi ve coğrafi açıdan önemli bir bölgeye davet ediyor. Ev Kaya Mezarları, Kastamonu'nun merkezi konumunda yer alır ve şehrin önemli turistik noktalarından biridir.
+ Bu bölge, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar. Ev Kaya Mezarları, Kastamonu'nun merkezi konumunda yer alır ve şehrin önemli turistik noktalarından biridir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Ev Kaya Mezarları, Kastamonu'nun merkezi konumunda yer alan bir bölgedir. Bu b
 ## İlginç Bilgiler
 
 - Ev Kaya Mezarları, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Ev Kaya Mezarları, Kastamonu'nun merkezi konumunda yer alır.
 - Bölge, tarihi ve coğrafi açıdan önemli bir yerdir.
 - Ziyaretçiler, bölgeye yılın her dönemi ziyaret edebilirler.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Yaban hayatı gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Adana-Pos-Sogukoluk Karacam","caption":"Adana-Pos-Sogukoluk Karacam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Sogukoluk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227471","tip":"genel"}]
-description: "Akdeniz Bölgesi'nde yer alan Adana-Pos-Sogukoluk Karacam, 140 hektarlık bir alanı kapsar. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker."
+ Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker."
 keywords: ["Adana-Pos-Sogukoluk Karacam","Akdeniz Bölgesi","doğal güzellikler","zengin fauna","140 hektar","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227471"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227471"
 
 # Adana-Pos-Sogukoluk Karacam
 
-Adana-Pos-Sogukoluk Karacam, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Milli park, ziyaretçilerine çeşitli bitki türleri ve yaban hayatı ile karşılaşma fırsatı sunar. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+ Milli park, ziyaretçilerine çeşitli bitki türleri ve yaban hayatı ile karşılaşma fırsatı sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Pos-Sogukoluk Karacam milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Adana-Pos-Sogukoluk Karacam milli parkı, Akdeniz Bölgesi'nde yer alır ve 140 hektarlık bir alanı kapsar. Bu bölgenin coğrafyası, çeşitli bitki türleri ve yaban hayatı ile karakterizedir. Milli parkın yapısı, doğal süreçlerin bir sonucu olarak şekillenmiştir. İklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilerine çeşitli mevsimsel değişimler sunar. Çevre, doğal güzellikleri ile dikkat çeker ve ziyaretçilerine huzurlu bir ortam sunar. Milli parkın coğrafyası, ziyaretçilerine doğanın güzelliği ile baş başa bırakır.
+ Bu bölgenin coğrafyası, çeşitli bitki türleri ve yaban hayatı ile karakterizedir. Milli parkın yapısı, doğal süreçlerin bir sonucu olarak şekillenmiştir. İklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilerine çeşitli mevsimsel değişimler sunar. Çevre, doğal güzellikleri ile dikkat çeker ve ziyaretçilerine huzurlu bir ortam sunar. Milli parkın coğrafyası, ziyaretçilerine doğanın güzelliği ile baş başa bırakır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Adana-Pos-Sogukoluk Karacam milli parkını ziyaret etmek, doğa severler için 
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 140 hektarlık bir alanı kapsar.
 - Milli park, Akdeniz Bölgesi'nde yer alır.
 - Milli parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile karakterizedir.
 - Milli parkın iklimi, Akdeniz iklimi özellikleri taşır.

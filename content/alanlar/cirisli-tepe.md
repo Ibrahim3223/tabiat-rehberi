@@ -48,7 +48,6 @@ wikidata_id: "Q34829304"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Yüzyılların izlerini taşıyan tarihi yapılar
 - Eşsiz manzaralar
 - Zengin flora ve fauna

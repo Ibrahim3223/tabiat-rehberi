@@ -36,7 +36,7 @@ Odun Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izl
 
 ## Coğrafya
 
-Odun Tepe, Hakkari ilinin coğrafi yapısını temsil eden bir tepe olarak, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genel olarak yüksek dağlar, vadiler ve ovalardan oluşur. Odun Tepe, bu coğrafi yapının bir parçası olarak, yüksek bir nokta üzerinde yer alır ve çevredeki diğer tepelerden farklı olarak daha belirgindir. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve fauna ile kaplıdır. Odun Tepe'nin coğrafi konumu, doğa severler için ideal bir noktası olarak hizmet eder.
+Odun Tepe, Hakkari ilinin coğrafi yapısını temsil eden bir tepe olarak, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genel olarak yüksek dağlar, vadiler ve ovalardan oluşur. Odun Tepe, bu coğrafi yapının bir parçası olarak, yüksek bir nokta üzerinde yer alır ve çevredeki diğer tepelerden farklı olarak daha belirgindir. Odun Tepe'nin coğrafi konumu, doğa severler için ideal bir noktası olarak hizmet eder.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Odun Tepe, doğa severler ve macera arayışında olanlar için ideal bir destin
 
 ## İlginç Bilgiler
 
-- Odun Tepe, yaklaşık 140 hektarlık bir alanı kaplar
 - Tepe, Hakkari ilinin coğrafi yapısını temsil eder
 - Odun Tepe, zengin bir flora ve fauna ile kaplıdır
 - Tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyon olarak göze çarpar

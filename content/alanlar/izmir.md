@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/TR_Izmir_asv2020-02_img57_Salep%C3%A7io%C4%9Flu_Mosque.jpg","alt":"İZMİR manzarası","credit":"A.Savin","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Street_art_in_Izmir%2C_T%C3%BCrkiye_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Street_art_in_Izmir%2C_T%C3%BCrkiye_%283%29.jpg/1280px-Street_art_in_Izmir%2C_T%C3%BCrkiye_%283%29.jpg","alt":"İZMİR - Street art in Izmir, Türkiye (3)","credit":"Melissa Guadalupe Huertas","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Izmir_%2815383066346%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Izmir_%2815383066346%29.jpg/1280px-Izmir_%2815383066346%29.jpg","alt":"İZMİR - Izmir (15383066346)","credit":"Rafaela Ely","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Street_of_Izmir%2C_T%C3%BCrkiye.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Street_of_Izmir%2C_T%C3%BCrkiye.jpg/1280px-Street_of_Izmir%2C_T%C3%BCrkiye.jpg","alt":"İZMİR - Street of Izmir, Türkiye","credit":"Melissa Guadalupe Huertas","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Skyscrapers_in_Izmir_Turkey.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Skyscrapers_in_Izmir_Turkey.jpg/1280px-Skyscrapers_in_Izmir_Turkey.jpg","alt":"İZMİR - Skyscrapers in Izmir Turkey","credit":"BerkeKayalarr","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Skyscrapers_in_Izmir_-_Turkey.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Skyscrapers_in_Izmir_-_Turkey.jpg/1280px-Skyscrapers_in_Izmir_-_Turkey.jpg","alt":"İZMİR - Skyscrapers in Izmir - Turkey","credit":"BerkeKayalarr","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ZM%C4%B0R","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228726","tip":"genel"}]
-description: "İzmir milli parkı, 140 hektarlık yeşil alanıyla doğa severleri bekliyor. Farklı flora ve fauna türleriyle dikkat çeken bu bölge, tarihi geçmişiyle de ziyaretçilerini sürükleyecek."
+ Farklı flora ve fauna türleriyle dikkat çeken bu bölge, tarihi geçmişiyle de ziyaretçilerini sürükleyecek."
 keywords: ["İzmir","milli park","doğa","flora","fauna","tarihçe","coğrafya","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228726"
@@ -31,7 +31,7 @@ wikidata_id: "Q108228726"
 
 ## Coğrafya
 
-İzmir milli parkı, coğrafi olarak Inner Anadolu Bölgesi'nde yer alıyor. İzmir milli parkının coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlarken, yaban hayatı da bu bölgede kendine yer buluyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. İzmir milli parkının coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler yaşama fırsatı tanıyor.
+İzmir milli parkı, coğrafi olarak Inner Anadolu Bölgesi'nde yer alıyor. İzmir milli parkının coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlarken, yaban hayatı da bu bölgede kendine yer buluyor. İzmir milli parkının coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler yaşama fırsatı tanıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ wikidata_id: "Q108228726"
 
 ## İlginç Bilgiler
 
-- İzmir milli parkı, 140 hektarlık bir yeşil alana sahiptir.
 - Bu bölge, çeşitli flora ve fauna türlerine ev sahipliği yapar.
 - İzmir milli parkı, tarihi geçmişiyle ziyaretçilerini etkiler.
 - Bu bölge, coğrafi olarak Inner Anadolu Bölgesi'nde yer alır.

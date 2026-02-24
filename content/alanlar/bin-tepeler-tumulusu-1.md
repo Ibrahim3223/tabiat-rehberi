@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 1'i ziyaret etmek, ziyaretçilere farklı bir deneyim s
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 1, Ege Bölgesi'nin önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alana sahiptir.
+
 - Bin Tepeler Tümülüsü 1, ziyaretçilerine tarihin gizemini keşfetme fırsatı sunuyor.
 - Bu mekan, doğal güzellikleri ile ziyaretçilerini çekiyor.
 - Bin Tepeler Tümülüsü 1, Salihli/Manisa'da yer alıyor.

@@ -37,7 +37,7 @@ Karabıyık Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor
 
 ## Coğrafya
 
-Karabıyık Dede Türbesi, Dörtyol/Hatay'da yer alıyor ve Akdeniz Bölgesi'nin güzelliklerini taşıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Karabıyık Dede Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve deniz kıyısında konumlanıyor. Bu coğrafi konum, ziyaretçilere hem denizi hem de tarihi bir dini mekânı aynı anda deneyimleme fırsatı sunuyor. Bölge, iklim olarak Akdeniz ikliminin özelliklerini taşıyor ve genellikle ılıman ve güneşli bir hava hüküm sürüyor. Çevre, doğal güzellikler ve tarihi mekânlar ile zenginleştirilmiş durumda.
+Karabıyık Dede Türbesi, Dörtyol/Hatay'da yer alıyor ve Akdeniz Bölgesi'nin güzelliklerini taşıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Bu coğrafi konum, ziyaretçilere hem denizi hem de tarihi bir dini mekânı aynı anda deneyimleme fırsatı sunuyor. Bölge, iklim olarak Akdeniz ikliminin özelliklerini taşıyor ve genellikle ılıman ve güneşli bir hava hüküm sürüyor. Çevre, doğal güzellikler ve tarihi mekânlar ile zenginleştirilmiş durumda.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Karabıyık Dede Türbesi'ni ziyaret etmek, hem dini hem de kültürel bir deney
 ## İlginç Bilgiler
 
 - Karabıyık Dede Türbesi, Dörtyol/Hatay'da önemli bir dini mekân olarak biliniyor.
-- Türbe, yaklaşık 140 hektarlık bir alana sahip.
+
 - Bölge, Akdeniz Bölgesi'nin güzelliklerini taşıyor.
 - Ziyaretçiler, buraya özel araçları ile veya toplu taşıma araçları kullanarak ulaşabiliyorlar.
 - Karabıyık Dede Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip.

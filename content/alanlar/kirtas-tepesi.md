@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","trekking","piknik","kuş gözlemciliği","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Kırtaş Tepesi","caption":"Kırtaş Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578470","tip":"genel"}]
-description: "Denizli'nin gizli cenneti, 140 hektarlık yeşil alan, Ege Bölgesi'nin önemli doğal güzelliklerinden biri."
+"
 keywords: ["Kırtaş Tepesi","Denizli","Ege Bölgesi","doğal güzellik","yeşil alan","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31578470"
@@ -48,8 +48,6 @@ Kırtaş Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyim. Bu bölge, birç
 
 ## İlginç Bilgiler
 
-- Kırtaş Tepesi, 140 hektarlık bir yeşil alan
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölge, birçok farklı türde bitki ve hayvan ile karşılaşma mümkün
 - Bu tepe, aynı zamanda, birçok farklı türde manzara sunuyor
 - Bu bölge, oldukça güvenli ve bu nedenle, ziyaretçiler için uygun bir yer

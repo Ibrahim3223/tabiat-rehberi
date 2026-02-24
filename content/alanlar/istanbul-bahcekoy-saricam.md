@@ -30,7 +30,7 @@ Istanbul-Bahcekoy Saricam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Istanbul-Bahcekoy Saricam, İstanbul'un Marmara Bölgesi'nde yer alan bir milli parktır. Bu bölge, şehrin güneydoğusunda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Milli park, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Burada, ormanlar, çayır ve meralar bulunur. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ılıman bir karakterdedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğa faaliyetleri yapma imkanı sağlar. Burada, doğa yürüyüşleri, piknik, kamp ve diğer doğa faaliyetleri yapılabilir. Milli parkın etrafı, çeşitli köyler ve kasabalarla çevrilidir ve bu bölge, yerel halk tarafından da ziyaret edilmektedir.
+Istanbul-Bahcekoy Saricam, İstanbul'un Marmara Bölgesi'nde yer alan bir milli parktır. Milli park, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Burada, ormanlar, çayır ve meralar bulunur. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ılıman bir karakterdedir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğa faaliyetleri yapma imkanı sağlar. Burada, doğa yürüyüşleri, piknik, kamp ve diğer doğa faaliyetleri yapılabilir. Milli parkın etrafı, çeşitli köyler ve kasabalarla çevrilidir ve bu bölge, yerel halk tarafından da ziyaret edilmektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Istanbul-Bahcekoy Saricam, hem doğa severler hem de şehir hayatından kaçmak 
 ## İlginç Bilgiler
 
 - Istanbul-Bahcekoy Saricam, İstanbul'un en büyük yeşil alanlarından biridir
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Istanbul-Bahcekoy Saricam, çeşitli bitki türleri ve zengin fauna ile karakterizedir
 - Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer
 - Istanbul-Bahcekoy Saricam, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur

@@ -37,7 +37,7 @@ Tütünsüz Baba Türbesi'nin tarihi geçmişi, Edirne'nin zengin kültürel mir
 
 ## Coğrafya
 
-Tütünsüz Baba Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerini yansıtan bir konumda yer alıyor. Edirne'nin merkezinde bulunan bu mekan, çevresindeki doğa güzellikleriyle ziyaretçilerini cezbediyor. Tütünsüz Baba Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor ve bu størreligiyle, ziyaretçilerine geniş bir alan sunuyor. Burada, hem tarihi yapıları hem de doğal güzellikleri aynı anda keşfedebilirsiniz. Tütünsüz Baba Türbesi, Edirne'nin iklimine uygun olarak, dört mevsim boyunca ziyaret edilebiliyor ve her mevsim, farklı bir güzelliği sunuyor.
+Tütünsüz Baba Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerini yansıtan bir konumda yer alıyor. Edirne'nin merkezinde bulunan bu mekan, çevresindeki doğa güzellikleriyle ziyaretçilerini cezbediyor. Burada, hem tarihi yapıları hem de doğal güzellikleri aynı anda keşfedebilirsiniz. Tütünsüz Baba Türbesi, Edirne'nin iklimine uygun olarak, dört mevsim boyunca ziyaret edilebiliyor ve her mevsim, farklı bir güzelliği sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Tütünsüz Baba Türbesi'ni ziyaret etmek, Edirne'nin tarihi ve doğal güzelli
 
 - Tütünsüz Baba Türbesi, Edirne'nin en önemli tarihi mekanlarından biri.
 - Bu mekan, yüzyıllar boyunca dini ve kültürel merkezi olarak hizmet vermiştir.
-- Tütünsüz Baba Türbesi, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor.
+
 - Burada, çeşitli bitki türleri ve hayvanlar bulunuyor.
 - Tütünsüz Baba Türbesi, yılın her dönemi ziyaret edilebiliyor.

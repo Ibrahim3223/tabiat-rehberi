@@ -29,7 +29,7 @@ wikidata_id: "Q31387091"
 
 # Kavaklık Tepe
 
-Kavaklık Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan bir tepe. Tepe, bulunduğu bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve çevresi çeşitli bitki türleriyle dolu. Kavaklık Tepe, doğa severler için bir cennet ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için de önemli bir nokta.
+ Tepe, bulunduğu bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve çevresi çeşitli bitki türleriyle dolu. Kavaklık Tepe, doğa severler için bir cennet ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için de önemli bir nokta.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kavaklık Tepe, ziyaretçilerini doğanın güzelliğine davet ediyor ve onlara,
 ## İlginç Bilgiler
 
 - Kavaklık Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip
-- Tepe, 140 hektarlık alanı kaplıyor
+
 - Kavaklık Tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Tepe, doğa severler için bir cennet
 - Kavaklık Tepe, bölgenin tarihi geçmişi hakkında bilgi vermektedir

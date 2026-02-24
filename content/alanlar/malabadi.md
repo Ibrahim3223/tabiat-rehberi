@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6a/A_view_to_Malabadi_Bridge.jpg","alt":"Malabadi manzarası","credit":"Hayırhah","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/89/Malabadi_Bridge_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Malabadi_Bridge_2.jpg/1280px-Malabadi_Bridge_2.jpg","alt":"Malabadi - Malabadi Bridge 2","credit":"Kaya Elifnur 72","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Malabadi_Bridge_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Malabadi_Bridge_3.jpg/1280px-Malabadi_Bridge_3.jpg","alt":"Malabadi - Malabadi Bridge 3","credit":"Kaya Elifnur 72","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/37/Malabadi_Bridge_4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Malabadi_Bridge_4.jpg/1280px-Malabadi_Bridge_4.jpg","alt":"Malabadi - Malabadi Bridge 4","credit":"Kaya Elifnur 72","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Malabadi_Bridge_5.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Malabadi_Bridge_5.jpg/1280px-Malabadi_Bridge_5.jpg","alt":"Malabadi - Malabadi Bridge 5","credit":"Kaya Elifnur 72","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Malabadi_Bridge_6.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Malabadi_Bridge_6.jpg/1280px-Malabadi_Bridge_6.jpg","alt":"Malabadi - Malabadi Bridge 6","credit":"Kaya Elifnur 72","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Malabadi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228305","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Malabadi, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini bekliyor. Doğal güzellikleri ve zengin faunaıyla dikkat çeken bu milli park, hem doğa severler hem de macera arayanlar için ideal bir destinasyon."
+ Doğal güzellikleri ve zengin faunaıyla dikkat çeken bu milli park, hem doğa severler hem de macera arayanlar için ideal bir destinasyon."
 keywords: ["Malabadi","milli park","İç Anadolu Bölgesi","doğa","fauna","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228305"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228305"
 
 # Malabadi
 
-Malabadi, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Ziyaretçiler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Malabadi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak dikkat çekmektedir. Burada, doğal güzellikleri keşfetmek, yürüyüş yapma ve vahşi yaşamı gözlemleme mümkündür.
+ Ziyaretçiler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Malabadi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak dikkat çekmektedir. Burada, doğal güzellikleri keşfetmek, yürüyüş yapma ve vahşi yaşamı gözlemleme mümkündür.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Malabadi'yi ziyaret etmek, doğa severler ve macera arayanlar için ideal bir de
 
 ## İlginç Bilgiler
 
-- Malabadi, 140 hektarlık bir milli parktır.
 - Bölge, çeşitli bitki türleri ve fauna ile dikkat çekmektedir.
 - Malabadi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Milli park, yılın her mevsiminde ziyaret edilebilir.

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Tav%C5%9Fan_Burnu_Tabiat_Park%C4%B1_1_Kas%C4%B1m_2020.jpg","alt":"Tavşanburnu Tabiat Parkı manzarası","credit":"Furkan2821144","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Tav%C5%9Fanburnu_Coast.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tav%C5%9Fanburnu_Coast.jpg/1280px-Tav%C5%9Fanburnu_Coast.jpg","alt":"Tavşanburnu Tabiat Parkı - Tavşanburnu Coast","credit":"Elifkarakoc","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/Tav%C5%9Fanburnu_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tav%C5%9Fanburnu_Nature_Park.jpg/1280px-Tav%C5%9Fanburnu_Nature_Park.jpg","alt":"Tavşanburnu Tabiat Parkı - Tavşanburnu Nature Park","credit":"Elifkarakoc","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Tav%C5%9Fanburnu_Didim.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tav%C5%9Fanburnu_Didim.jpg/1280px-Tav%C5%9Fanburnu_Didim.jpg","alt":"Tavşanburnu Tabiat Parkı - Tavşanburnu Didim","credit":"Elifkarakoc","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Tav%C5%9Fan_Burnu_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tav%C5%9Fan_Burnu_Tabiat_Park%C4%B1.jpg/1280px-Tav%C5%9Fan_Burnu_Tabiat_Park%C4%B1.jpg","alt":"Tavşanburnu Tabiat Parkı - Tavşan Burnu Tabiat Parkı","credit":"Guurkancelik","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Tav%C5%9Fanburnu_nature_park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Tav%C5%9Fanburnu_nature_park.jpg/1280px-Tav%C5%9Fanburnu_nature_park.jpg","alt":"Tavşanburnu Tabiat Parkı - Tavşanburnu nature park","credit":"Guurkancelik","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fanburnu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228354","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık Tavşanburnu Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Tavşanburnu Tabiat Parkı","İç Anadolu Bölgesi","doğa","tabiat parkı","çeşitli bitki türleri","zengin fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228354"
@@ -49,7 +49,6 @@ Tavşanburnu Tabiat Parkı, ziyaretçilere çeşitli deneyimler sunmaktadır. Pa
 
 ## İlginç Bilgiler
 
-- Tavşanburnu Tabiat Parkı, 140 hektarlık bir alana sahiptir.
 - Parkın flora ve fauna, ziyaretçileri büyüleyecek güzelliğe sahiptir.
 - Parkın etrafındaki sulak alanlar, çeşitli kuş türleri için önemli bir habitat görevi görmektedir.
 - Parkın trekking ve doğa yürüyüşü rotaları, ziyaretçilere farklı deneyimler sunmaktadır.

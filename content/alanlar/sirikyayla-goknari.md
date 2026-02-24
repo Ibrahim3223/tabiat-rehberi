@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Sırıkyayla Göknari","caption":"Sırıkyayla Göknari","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1r%C4%B1kyayla%20G%C3%B6knari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227357","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Sırıkyayla Göknari","İç Anadolu Bölgesi","milli park","doğa alanı","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227357"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227357"
 
 # Sırıkyayla Göknari
 
- Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. Göknari'nin eşsiz güzelliği, ziyaretçilerini doğanın depthsına çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Sırıkyayla Göknari, doğa severler için bir cennet olarak karşımıza çıkmaktadır.
+ Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. Göknari'nin eşsiz güzelliği, ziyaretçilerini doğanın depthsına çekmektedir. Sırıkyayla Göknari, doğa severler için bir cennet olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sırıkyayla Göknari, ziyaretçilerine doğayla iç içe bir deneyim sunmaktad�
 
 ## İlginç Bilgiler
 
-- Sırıkyayla Göknari, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir
 - Göknari, özellikle bahar ve yaz aylarında, yeşilin çeşitli tonlarını ziyaretçilerine sunmaktadır
 - Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır

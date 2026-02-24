@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kuş gözlemc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Bursa-Mustafakemalpaşa-Yenikoy Karacam","caption":"Bursa-Mustafakemalpaşa-Yenikoy Karacam","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Yenikoy%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227934","tip":"genel"}]
-description: "Marmara Bölgesi'nin gözde milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","yeşil alan","turizm","gezi","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227934"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227934"
 
 # Bursa-Mustafakemalpaşa-Yenikoy Karacam
 
-Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık geniş yeşil alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Parkın giriş kısmında, ziyaretçilerin bilgi alabileceği bir merkezde, milli parkın tarihçesi, coğrafyası ve ekosistemi hakkında detaylı bilgiler veriliyor. Ayrıca, rehberli turlar düzenlenerek ziyaretçilerin parkı daha iyi keşfedebilmesi sağlanıyor.
+Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Parkın giriş kısmında, ziyaretçilerin bilgi alabileceği bir merkezde, milli parkın tarihçesi, coğrafyası ve ekosistemi hakkında detaylı bilgiler veriliyor. Ayrıca, rehberli turlar düzenlenerek ziyaretçilerin parkı daha iyi keşfedebilmesi sağlanıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkının tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkı, Marmara Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biri olarak bilinir. Parkın coğrafyası, 140 hektarlık geniş bir alanı kapsar ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın iklimi, karasal iklim özellikleri gösterir ve mevsimsel olarak değişkenlik gösterir. Bahar aylarında, parkın flora ve fauna zenginliği ziyaretçileri cezbetmektedir. Kış aylarında ise, parkın karla kaplı manzarası, ziyaretçilere farklı bir güzellik sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir deneyim yaşamasına olanak tanır ve çeşitli yürüyüş yolları, ziyaretçilerin parkın güzelliklerini keşfetmelerine yardımcı olur.
+Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkı, Marmara Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biri olarak bilinir. Parkın iklimi, karasal iklim özellikleri gösterir ve mevsimsel olarak değişkenlik gösterir. Bahar aylarında, parkın flora ve fauna zenginliği ziyaretçileri cezbetmektedir. Kış aylarında ise, parkın karla kaplı manzarası, ziyaretçilere farklı bir güzellik sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir deneyim yaşamasına olanak tanır ve çeşitli yürüyüş yolları, ziyaretçilerin parkın güzelliklerini keşfetmelerine yardımcı olur.
 
 ## Flora ve Fauna
 

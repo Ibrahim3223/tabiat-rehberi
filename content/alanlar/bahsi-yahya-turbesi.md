@@ -50,7 +50,7 @@ Bahşi Yahya Türbesi, ziyaretçilerine tarihi ve doğal güzelliklerini keşfet
 ## İlginç Bilgiler
 
 - Bahşi Yahya Türbesi, Ezine'nin merkezinde yer alır.
-- Bu mekan, 140 hektarlık bir alana yayılmıştır.
+
 - Bahşi Yahya Türbesi, tarihi geçmişiyle dikkat çekmektedir.
 - Bu mekan, doğal güzellikleriyle dikkat çekmektedir.
 - Bahşi Yahya Türbesi, ziyaretçilerine tarihi ve doğal güzelliklerini keşfetme fırsatı verir.

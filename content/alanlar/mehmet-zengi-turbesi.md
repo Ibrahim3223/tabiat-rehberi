@@ -50,8 +50,6 @@ Mehmet Zengi Türbesi'ni ziyaret etmek, özellikle tarih ve doğa severler için
 
 ## İlginç Bilgiler
 
-- Mehmet Zengi Türbesi, 140 hektarlık bir alana yayılmış durumda
-- Mehmet Zengi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde
 - Mehmet Zengi Türbesi, yüzyıllar boyunca çeşitli dönemlerde restore edilmiş
 - Mehmet Zengi Türbesi, İslami sanatın ve mimarinin güzel örneklerinden biri olarak kabul ediliyor
 - Mehmet Zengi Türbesi, özellikle kuş türleri açısından zengin bir bölge olarak biliniyor

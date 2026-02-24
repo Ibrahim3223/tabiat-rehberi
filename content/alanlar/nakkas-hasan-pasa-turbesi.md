@@ -51,7 +51,7 @@ Nakkaş Hasan Paşa Türbesi'ni ziyaret etmek için, Eyüpsultan'a gelmeniz gere
 ## İlginç Bilgiler
 
 - Nakkaş Hasan Paşa Türbesi, Eyüpsultan'da bulunur
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Nakkaş Hasan Paşa Türbesi, Marmara Denizi'ne kıyısı bulunmaktadır
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir
+
 - Nakkaş Hasan Paşa Türbesi, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir

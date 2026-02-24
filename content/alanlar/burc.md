@@ -43,7 +43,6 @@ Burç'u ziyaret etmek, doğa ile iç içe olma ve bu bölgenin güzelliğini ke�
 
 ## İlginç Bilgiler
 
-- Burç, 140 hektarlık bir alanı kaplıyor
 - Burç, İç Anadolu Bölgesi'nin kalbinde yer alıyor
 - Burç'un tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor
 - Burç, ziyaretçilerine zengin bir flora ve fauna sunuyor

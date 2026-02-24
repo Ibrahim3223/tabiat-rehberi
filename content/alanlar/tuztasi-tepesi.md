@@ -28,7 +28,7 @@ wikidata_id: "Q31387656"
 
 # Tuztaşı Tepesi
 
-Van ilinin doğa güzelliği ile dikkat çeken Tuztaşı Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe. Tuztaşı Tepesi, hem doğa severler hem de historia meraklıları için önemli bir destinasyon. Bu tepe, Van ilinin tarihi ve coğrafi açıdan önemli bir noktası ve birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
+ Tuztaşı Tepesi, hem doğa severler hem de historia meraklıları için önemli bir destinasyon. Bu tepe, Van ilinin tarihi ve coğrafi açıdan önemli bir noktası ve birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
 
 ## Tarihçe
 

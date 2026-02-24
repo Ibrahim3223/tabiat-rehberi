@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"DENİZLİ KAMARA TRAVERTEN SIRTI","caption":"DENİZLİ KAMARA TRAVERTEN SIRTI","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20KAMARA%20TRAVERTEN%20SIRTI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228898","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Denizli Kamara Traverten Sirtı, 140 hektarlık alanı ile dikkat çekiyor."
+"
 keywords: ["Denizli","Kamara Traverten Sirtı","İç Anadolu Bölgesi","doğal güzellik","traverten","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228898"
@@ -42,7 +42,6 @@ Denizli Kamara Traverten Sirtı, ziyaretçilerine çeşitli etkinlikler sunuyor.
 
 ## İlginç Bilgiler
 
-- Denizli Kamara Traverten Sirtı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölge, zengin flora ve faunaya ev sahipliği yapıyor
 - Denizli Kamara Traverten Sirtı, çeşitli kültürel etkinliklere de ev sahipliği yapıyor
 - Bu bölge, ziyaretçilerine hem doğal güzellikleri hem de kültürel zenginliği ile birlikte bir bütün olarak sunuluyor

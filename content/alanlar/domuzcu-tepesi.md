@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Domuzcu Tepesi","caption":"Domuzcu Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domuzcu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535572","tip":"genel"}]
-description: "Hatay'da bulunan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan Domuzcu Tepesi"
+
 keywords: ["Domuzcu Tepesi","Hatay","Akdeniz Bölgesi","Doğa","Tarihçe","Coğrafya","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31535572"
@@ -48,7 +48,6 @@ Domuzcu Tepesi'ni ziyaret etmek, doğa severler için bir hayalini süsleyen bir
 
 ## İlginç Bilgiler
 
-- Domuzcu Tepesi, 140 hektarlık alanıyla etwa 200 futbol sahası büyüklüğünde
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur
 - Mevsimsel değişimlere bağlı olarak, farklı canlı türleri ve bitkiler yetişir
 - Domuzcu Tepesi, coğrafi açıdan bakıldığında, Hatay ilinin Akdeniz Bölgesi'nde yer alır

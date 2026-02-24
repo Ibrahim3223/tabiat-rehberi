@@ -28,7 +28,7 @@ wikidata_id: "Q32196091"
 
 # Yücedağ Tepesi
 
-Yücedağ Tepesi, İç Anadolu Bölgesi'nin merkezi bir noktası olan Kayseri'de yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve şehrin merkezine oldukça yakın bir konumda bulunuyor. Yücedağ Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Yücedağ Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Yücedağ Tepesi, İç Anadolu Bölgesi'nin merkezi bir noktası olan Kayseri'de yer alıyor. Yücedağ Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Yücedağ Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yücedağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Yücedağ Tepesi, Kayseri'nin coğrafi yapısını oluşturan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve şehrin merkezine oldukça yakın bir konumda bulunuyor. Yücedağ Tepesi'nin coğrafi konumu, ziyaretçilere şehrin panoramik manzarasını sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Yücedağ Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin yüksekliği, şehrin etrafını çepeçevre sarıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. Yücedağ Tepesi, coğrafi güzelliği ve doğal zenginliği ile ziyaretçilerini büyülüyor.
+Yücedağ Tepesi, Kayseri'nin coğrafi yapısını oluşturan bir tepe. Yücedağ Tepesi'nin coğrafi konumu, ziyaretçilere şehrin panoramik manzarasını sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Yücedağ Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin yüksekliği, şehrin etrafını çepeçevre sarıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. Yücedağ Tepesi, coğrafi güzelliği ve doğal zenginliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

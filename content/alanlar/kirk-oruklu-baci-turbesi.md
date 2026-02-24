@@ -37,7 +37,7 @@ Kırk Örüklü Bacı Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayan
 
 ## Coğrafya
 
-Kırk Örüklü Bacı Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, Erzincan ve Erzurum vilayetlerinin sınırında bulunuyor ve yaklaşık 140 hektarlık alanı kaplıyor. Coğrafi olarak, bu bölge, dağlık ve engebeli bir araziye sahip. İklim olarak, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir iklimi var. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Bu bölge, aynı zamanda birçok nehir ve akarsuya ev sahipliği yapıyor ve sulak alanlar bulunuyor. Doğal güzelliği ile birlikte, bu bölge, ziyaretçiler için bir doğa cenneti olarak kabul ediliyor. Kırk Örüklü Bacı Türbesi, aynı zamanda birçok flora ve fauna türüne ev sahipliği yapıyor ve bu nedenle, biyolojik çeşitlilik açısından önemli bir bölge olarak kabul ediliyor.
+Kırk Örüklü Bacı Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Coğrafi olarak, bu bölge, dağlık ve engebeli bir araziye sahip. İklim olarak, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir iklimi var. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Bu bölge, aynı zamanda birçok nehir ve akarsuya ev sahipliği yapıyor ve sulak alanlar bulunuyor. Doğal güzelliği ile birlikte, bu bölge, ziyaretçiler için bir doğa cenneti olarak kabul ediliyor. Kırk Örüklü Bacı Türbesi, aynı zamanda birçok flora ve fauna türüne ev sahipliği yapıyor ve bu nedenle, biyolojik çeşitlilik açısından önemli bir bölge olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Ardıçlı Tepesi'nin tarihi geçmişi, Konya'nın genel tarihini yansıtır. İ
 
 ## Coğrafya
 
-Ardıçlı Tepesi, Konya'nın coğrafi çeşitliliğiçerisinde yer alan bir tepe. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri taşıyor; geniş otlaklar, düşük dağlar ve geniş ovalar. Ardıçlı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ile fauna çeşitliliğini barındırıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir karakter taşıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Ardıçlı Tepesi, bu iklim koşullarına uygun olarak, mevsimsel değişimlere uğruyor. İlkbahar ve sonbahar ayları, ziyaretçiler için, tepeyi keşfetme ve bölgenin güzelliklerini gözlemlemek için en uygun zamanlar.
+Ardıçlı Tepesi, Konya'nın coğrafi çeşitliliğiçerisinde yer alan bir tepe. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri taşıyor; geniş otlaklar, düşük dağlar ve geniş ovalar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir karakter taşıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Ardıçlı Tepesi, bu iklim koşullarına uygun olarak, mevsimsel değişimlere uğruyor. İlkbahar ve sonbahar ayları, ziyaretçiler için, tepeyi keşfetme ve bölgenin güzelliklerini gözlemlemek için en uygun zamanlar.
 
 ## Flora ve Fauna
 

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/Steppe_Fritillary.jpg","alt":"Çınarsuyu manzarası","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Steppe_Fritillary_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Steppe_Fritillary_2.jpg/1280px-Steppe_Fritillary_2.jpg","alt":"Çınarsuyu - Steppe Fritillary 2","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/19/%C3%87iftle%C5%9Fen_U%C4%9Fur_b%C3%B6cekleri_ve_sar%C4%B1_%C3%A7i%C3%A7ek.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%C3%87iftle%C5%9Fen_U%C4%9Fur_b%C3%B6cekleri_ve_sar%C4%B1_%C3%A7i%C3%A7ek.jpg/1280px-%C3%87iftle%C5%9Fen_U%C4%9Fur_b%C3%B6cekleri_ve_sar%C4%B1_%C3%A7i%C3%A7ek.jpg","alt":"Çınarsuyu - Çiftleşen Uğur böcekleri ve sarı çiçek","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/%C3%96r%C3%BCmcek_makro.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%C3%96r%C3%BCmcek_makro.jpg/1280px-%C3%96r%C3%BCmcek_makro.jpg","alt":"Çınarsuyu - Örümcek makro","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Steppe_Fritillary_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Steppe_Fritillary_3.jpg/1280px-Steppe_Fritillary_3.jpg","alt":"Çınarsuyu - Steppe Fritillary 3","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/00/U%C4%9Fur_b%C3%B6ce%C4%9Fi_ve_sar%C4%B1_%C3%A7i%C3%A7ek.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/U%C4%9Fur_b%C3%B6ce%C4%9Fi_ve_sar%C4%B1_%C3%A7i%C3%A7ek.jpg/1280px-U%C4%9Fur_b%C3%B6ce%C4%9Fi_ve_sar%C4%B1_%C3%A7i%C3%A7ek.jpg","alt":"Çınarsuyu - Uğur böceği ve sarı çiçek","credit":"Ramazancirakoglu","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1narsuyu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228237","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Çınarsuyu, 140 hektarlık bir alana yayılmaktadır. Bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir."
+"
 keywords: ["Çınarsuyu","İç Anadolu Bölgesi","milli park","doğa","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228237"
@@ -42,8 +42,6 @@ wikidata_id: "Q108228237"
 Çınarsuyu, ziyaretçilerine hem doğa güzelliği hem de yaban hayatı açısından önemli bir deneyim sunar. Buraya ulaşım, bölgenin coğrafi konumuna göre değişebilir. Çınarsuyu, yılın her mevsiminde ziyaret edilebilir, ancak en iyi ziyaret dönemi, bölgenin iklimine göre belirlenmelidir. Çınarsuyu'nda, doğa yürüyüşleri, fotoğrafçılık ve yaban hayatı gözlemi gibi etkinlikler yapılabilir.
 
 ## İlginç Bilgiler
-
-- Çınarsuyu, 140 hektarlık bir alana yayılmaktadır.
 
 - Çınarsuyu, çeşitli bitki türleri ve yaban hayatı ile dikkat çekmektedir.
 - Bölge, doğa severlerin ve çam ormanlarını sevenlerin keyif alacağı bir destinasyon olarak bilinmektedir.

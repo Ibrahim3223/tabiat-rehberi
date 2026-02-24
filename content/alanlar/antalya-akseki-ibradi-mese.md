@@ -30,7 +30,7 @@ Antalya-Akseki-Ibradi Mese milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Antalya-Akseki-Ibradi Mese milli parkı, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Parkın konumu, ziyaretçilerine geniş bir görüş açısı sunan tepeler ve vadilerle miştir. 140 hektarlık alan, çeşitli bitki türleri ve yaban hayatının yaşam alanı olarak hizmet eder. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir zemin sunar. İlkbahar ve yaz aylarında yeşeren ormanlar, sonbahar ve kış aylarında ise renkli manzaralar sunar. Parkın iklimi, Akdeniz ikliminin özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Coğrafi konumu ve iklimi, milli parkın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyon haline getirir.
+Antalya-Akseki-Ibradi Mese milli parkı, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Parkın konumu, ziyaretçilerine geniş bir görüş açısı sunan tepeler ve vadilerle miştir. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir zemin sunar. İlkbahar ve yaz aylarında yeşeren ormanlar, sonbahar ve kış aylarında ise renkli manzaralar sunar. Parkın iklimi, Akdeniz ikliminin özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Coğrafi konumu ve iklimi, milli parkın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

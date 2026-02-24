@@ -46,6 +46,5 @@ Tomb of al-Ma'mun'u ziyaret etmek, Tarsus'un tarihi ve kültürel zenginliğini 
 
 - Tomb of al-Ma'mun, Tarsus'un tarihi plajı olarak bilinmektedir
 - Bu bölge, Kilikya'nın önemli dini merkezlerinden biridir
-- Tomb of al-Ma'mun, 140 hektarlık bir alana kurulmuştur
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Tomb of al-Ma'mun'un tarihi geçmişi, Kilikya'nın dini merkezi olarak kabul edildiği dönemlere kadar uzanmaktadır

@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Kula_Fairy_Chimneys_%28Kula_Peri_Bacalari%29.jpg","alt":"Kula Peribacaları manzarası","credit":"Ahmet Kagan Hancer","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Kula_Fairy_Chimneys_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kula_Fairy_Chimneys_01.jpg/1280px-Kula_Fairy_Chimneys_01.jpg","alt":"Kula Peribacaları - Kula Fairy Chimneys 01","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Kula_Fairy_Chimneys_11.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kula_Fairy_Chimneys_11.jpg/1280px-Kula_Fairy_Chimneys_11.jpg","alt":"Kula Peribacaları - Kula Fairy Chimneys 11","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Kula_Fairy_Chimneys_plaque.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kula_Fairy_Chimneys_plaque.jpg/1280px-Kula_Fairy_Chimneys_plaque.jpg","alt":"Kula Peribacaları - Kula Fairy Chimneys plaque","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Kuladocia.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kuladocia.jpg/1280px-Kuladocia.jpg","alt":"Kula Peribacaları - Kuladocia","credit":"Decowi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Kula_Geopark_Chimney_Rocks_%28Peribacalar%C4%B1%29_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kula_Geopark_Chimney_Rocks_%28Peribacalar%C4%B1%29_3.jpg/1280px-Kula_Geopark_Chimney_Rocks_%28Peribacalar%C4%B1%29_3.jpg","alt":"Kula Peribacaları - Kula Geopark Chimney Rocks (Peribacaları) 3","credit":"MetinAktan 03","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kula%20Peribacalar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228386","tip":"genel"}]
-description: "Manisa'nın Kula ilçesinde bulunan Kula Peribacaları, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kula Peribacaları","Manisa","Ege Bölgesi","doğal güzellik","peribacaları","milli park","turizm","gezi","yerel kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228386"
@@ -38,7 +38,7 @@ Kula Peribacaları'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Kula Peribacaları, Manisa'nın Kula ilçesinde yer alır ve Ege Bölgesi'nin önemli bir coğrafi özelliğini oluşturur. Bu bölge, peribacalarının yanı sıra çevre ile uyumlu bir yapıya sahiptir. 140 hektarlık alanı, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler. Kula Peribacaları, coğrafi olarak da önemli bir konuma sahiptir, çünkü Ege Bölgesi'nin doğal güzellikleri arasında yer alır. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine benzer ve genellikle ılımandır. Kula Peribacaları, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendirilir ve bu nedenle turizm açısından önemli bir destinasyon olarak görülür.
+Kula Peribacaları, Manisa'nın Kula ilçesinde yer alır ve Ege Bölgesi'nin önemli bir coğrafi özelliğini oluşturur. Bu bölge, peribacalarının yanı sıra çevre ile uyumlu bir yapıya sahiptir. Kula Peribacaları, coğrafi olarak da önemli bir konuma sahiptir, çünkü Ege Bölgesi'nin doğal güzellikleri arasında yer alır. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine benzer ve genellikle ılımandır. Kula Peribacaları, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendirilir ve bu nedenle turizm açısından önemli bir destinasyon olarak görülür.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Kula Peribacaları, yılın her döneminde ziyaret edilebilir. Ancak, en iyi ziy
 
 ## İlginç Bilgiler
 
-- Kula Peribacaları, 140 hektarlık bir alanı kapsar.
 - Bu bölge, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilir.
 - Kula Peribacaları, yerli ve yabancı turistler tarafından ziyaret edilen bir destinasyondur.
 - Bu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler.

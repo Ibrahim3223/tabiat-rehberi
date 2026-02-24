@@ -28,7 +28,7 @@ wikidata_id: "Q31390161"
 
 # Erkibel Tepe
 
-Erkibel Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini etkileyen bir destinasyon olarak bilinir. Erkibel Tepe, doğa severlerin ve yürüyüşçülerin favori mekanlarından biri olarak dikkat çeker. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerin doğayı keşfetmesine olanak tanır. Erkibel Tepe'nin yüksekliği, manzarasının güzelliğini tăngındırır ve ziyaretçilere geniş bir perspektif sunar.
+Erkibel Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. Erkibel Tepe, doğa severlerin ve yürüyüşçülerin favori mekanlarından biri olarak dikkat çeker. Erkibel Tepe'nin yüksekliği, manzarasının güzelliğini tăngındırır ve ziyaretçilere geniş bir perspektif sunar.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Erkibel Tepe'yi ziyaret etmek, doğa severlerin favori mekanlarından biridir. B
 
 ## İlginç Bilgiler
 
-- Erkibel Tepe, 140 hektarlık bir alanı kaplar
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Erkibel Tepe, doğa severlerin favori mekanlarından biri
 - Bu bölge, çeşitli bitki türleri ile zengin bir flora sunar
 - Erkibel Tepe, ziyaretçilere geniş bir manzara sunar

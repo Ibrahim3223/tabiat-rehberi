@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Bisiklet sürme","Doğa gözlemi","Fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"MERAM ŞEHİR ORMANI","caption":"MERAM ŞEHİR ORMANI","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MERAM%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228694","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşillikleri arasında yer alan MERAM ŞEHİR ORMANI, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde huzuru bulmak için ideal bir nokta."
+"
 keywords: ["MERAM ŞEHİR ORMANI","İç Anadolu Bölgesi","şehir ormanları","doğal alanlar","yeşillikler","huzurlu mekanlar","gezi noktaları","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228694"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228694"
 
 # MERAM ŞEHİR ORMANI
 
-MERAM ŞEHİR ORMANI, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık devasa bir yeşil alan olarak karşımıza çıkıyor. Şehrin gürültüsünden uzaklaşmak, doğayla baş başa kalma ve huzuru bulmak isteyenler için MERAM ŞEHİR ORMANI ideal bir kaçış noktası sunuyor. Orman, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, burada doğanın güzelliğini keşfetmenin yanı sıra, numerous aktivite seçeneklerine de sahip oluyor.
+ Şehrin gürültüsünden uzaklaşmak, doğayla baş başa kalma ve huzuru bulmak isteyenler için MERAM ŞEHİR ORMANI ideal bir kaçış noktası sunuyor. Orman, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, burada doğanın güzelliğini keşfetmenin yanı sıra, numerous aktivite seçeneklerine de sahip oluyor.
 
 ## Tarihçe
 

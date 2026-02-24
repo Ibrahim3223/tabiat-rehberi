@@ -42,8 +42,6 @@ Sivrihisar Kayalıkları, ziyaretçilerine benzersiz bir deneyim sunmak için id
 
 ## İlginç Bilgiler
 
-- Sivrihisar Kayalıkları, 140 hektarlık bir alanı kaplar
-- Bölge, yaklaşık 200 futbol sahası büyüklüğündedir
 - Sivrihisar Kayalıkları, yüksek kayalık oluşumları ile dikkat çeker
 - Bölge, çeşitli bitki türleri ile çevrilidir
 - Sivrihisar Kayalıkları, birçok farklı hayvan türüne ev sahipliği yapar

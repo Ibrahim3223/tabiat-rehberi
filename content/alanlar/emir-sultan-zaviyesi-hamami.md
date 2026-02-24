@@ -29,7 +29,7 @@ wikidata_id: "Q133245780"
 
 # Emir Sultan Zaviyesi Hamamı
 
-İzmir'in Konak ilçesinde bulunan Emir Sultan Zaviyesi Hamamı, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir hamamdır. Bu hamam, İzmir'in en önemli tarihi ve kültürel mekanlarından biridir. Emir Sultan Zaviyesi Hamamı, tarihi ve mimari özellikleri ile dikkat çekmektedir. Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli dönemlerde yaşandığından, ziyaretçiler için önemli bir kültürel deneyim sunmaktadır.
+ Bu hamam, İzmir'in en önemli tarihi ve kültürel mekanlarından biridir. Emir Sultan Zaviyesi Hamamı, tarihi ve mimari özellikleri ile dikkat çekmektedir. Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli dönemlerde yaşandığından, ziyaretçiler için önemli bir kültürel deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Emir Sultan Zaviyesi Hamamı, tarihi geçmişi ile dikkat çekmektedir. Hamamın
 
 ## Coğrafya
 
-Emir Sultan Zaviyesi Hamamı, İzmir'in Konak ilçesinde bulunan bir tarihi hamamdır. Hamam, Ege Bölgesi'nin en önemli kültürel mekanlarından biridir. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsar ve ziyaretçilerin gezebileceği geniş bir alanı sunar. Hamamın coğrafi konumu, İzmir'in merkezi bir bölgesinde bulunması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir mekan olarak dikkat çekmektedir. Hamamın çevresi, tarihi ve kültürel mekanlar ile dolu olup, ziyaretçilerin gezebileceği çeşitli alanlar sunmaktadır. Emir Sultan Zaviyesi Hamamı, İzmir'in kültürel ve tarihi zenginliklerini ziyaretçiler ile paylaşmaktadır.
+Emir Sultan Zaviyesi Hamamı, İzmir'in Konak ilçesinde bulunan bir tarihi hamamdır. Hamam, Ege Bölgesi'nin en önemli kültürel mekanlarından biridir. Hamamın coğrafi konumu, İzmir'in merkezi bir bölgesinde bulunması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir mekan olarak dikkat çekmektedir. Hamamın çevresi, tarihi ve kültürel mekanlar ile dolu olup, ziyaretçilerin gezebileceği çeşitli alanlar sunmaktadır. Emir Sultan Zaviyesi Hamamı, İzmir'in kültürel ve tarihi zenginliklerini ziyaretçiler ile paylaşmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Emir Sultan Zaviyesi Hamamı, ziyaretçiler için önemli bir kültürel ve tari
 ## İlginç Bilgiler
 
 - Emir Sultan Zaviyesi Hamamı, İzmir'in en önemli tarihi ve kültürel mekanlarından biridir.
-- Hamam, yaklaşık 140 hektarlık bir alanda yer almaktadır.
+
 - Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli dönemlerde yaşandığından, ziyaretçiler için önemli bir kültürel deneyim sunmaktadır.
 - Emir Sultan Zaviyesi Hamamı, Ege Bölgesi'nin karakteristik bitki türlerini barındırmaktadır.
 - Hamamın fauna açısından zengin olduğu da bilinmektedir.

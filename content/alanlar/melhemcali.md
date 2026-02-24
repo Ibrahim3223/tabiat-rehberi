@@ -48,8 +48,6 @@ Melhemçalı, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak zi
 
 ## İlginç Bilgiler
 
-- Melhemçalı, yaklaşık 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğüne eşittir
 - Melhemçalı, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır
 - Bu tepe, bölgenin flora ve faunası ile yakından ilgilidir
 - Melhemçalı, bölgenin coğrafi güzellikleri arasında yer alır

@@ -30,7 +30,7 @@ Artvin-Goktas-Baskoy Kizilagac milli parkı, yüzyıllar boyunca bölgenin en ö
 
 ## Coğrafya
 
-Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden birini teşkil etmektedir. 140 hektarlık alan, bölgenin en önemli ekosistemlerini barındıran bir doğal alan olarak dikkat çekmektedir. Milli parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin iklimi ve çevresi hakkında da bilgi vermektedir. Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Bu milli park, ziyaretçilere bölgenin coğrafi özelliklerini keşfetme fırsatı sunarken, aynı zamanda doğanın güzelliklerini de tanıtmaktadır. Milli parkın coğrafi konumu, bölgenin en önemli doğal güzelliklerini barındıran bir alan olarak dikkat çekmektedir.
+Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden birini teşkil etmektedir. Milli parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin iklimi ve çevresi hakkında da bilgi vermektedir. Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Bu milli park, ziyaretçilere bölgenin coğrafi özelliklerini keşfetme fırsatı sunarken, aynı zamanda doğanın güzelliklerini de tanıtmaktadır. Milli parkın coğrafi konumu, bölgenin en önemli doğal güzelliklerini barındıran bir alan olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Artvin-Goktas-Baskoy Kizilagac milli parkını ziyaret etmek, doğanın güzelli
 ## İlginç Bilgiler
 
 - Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Milli park, 140 hektarlık bir alanı kapsar.
+
 - Bölge, çeşitli flora ve faunaya ev sahipliği yapmaktadır.
 - Artvin-Goktas-Baskoy Kizilagac milli parkı, yüzyıllar boyunca bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilmiştir.
 - Milli park, ziyaretçilere bölgenin tarihi ve kültürel zenginliklerini de tanıtmaktadır.

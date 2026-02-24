@@ -14,8 +14,8 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Kahramanmaras-Kahramanmaras-Hartlap Toros Göknari","caption":"Kahramanmaras-Kahramanmaras-Hartlap Toros Göknari","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kahramanmaras-Hartlap%20Toros%20G%C3%B6knari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228493","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Hartlap Toros Göknarı milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Kahramanmaras","Hartlap Toros Göknarı","milli park","doğa","yeşil alan","futbol sahası"]
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228493"
 ---
@@ -42,8 +42,6 @@ Hartlap Toros Göknarı milli parkı, ziyaretçilerine geniş yeşil alanlarınd
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nde yer alıyor
 - karasal iklim özellikleri gösteriyor
 - çeşitli bitki türleri

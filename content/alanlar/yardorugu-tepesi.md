@@ -36,7 +36,7 @@ Yardoruğu Tepesi'nin tarihi geçmişi hakkında bilgi veren kaynaklar, bu bölg
 
 ## Coğrafya
 
-Yardoruğu Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve coğrafi olarak önemli bir konumda yer alır. Yardoruğu Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alır ve bölgenin iklimi hakkında bilgi verir. Yardoruğu Tepesi, Eskişehir'in coğrafi yapısını oluşturan önemli bir tepe olarak dikkat çeker ve bölgenin turizm potansiyelini artıran önemli bir doğal güzelliktir. Bu tepe, aynı zamanda bölgenin coğrafi yapısını oluşturan önemli bir oluşumdur ve Eskişehir'in turizm merkezi olarak dikkat çeker.
+Yardoruğu Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Yardoruğu Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alır ve bölgenin iklimi hakkında bilgi verir. Yardoruğu Tepesi, Eskişehir'in coğrafi yapısını oluşturan önemli bir tepe olarak dikkat çeker ve bölgenin turizm potansiyelini artıran önemli bir doğal güzelliktir. Bu tepe, aynı zamanda bölgenin coğrafi yapısını oluşturan önemli bir oluşumdur ve Eskişehir'in turizm merkezi olarak dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yardoruğu Tepesi'ni ziyaret etmek için, Eskişehir'e gelirseniz, bu tepeye ula
 ## İlginç Bilgiler
 
 - Yardoruğu Tepesi, Eskişehir'in en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Yardoruğu Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alır.
 - Yardoruğu Tepesi, Eskişehir'in turizm merkezi olarak dikkat çeker.

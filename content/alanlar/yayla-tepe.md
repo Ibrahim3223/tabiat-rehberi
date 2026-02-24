@@ -37,7 +37,7 @@ Yayla Tepe'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların etk
 
 ## Coğrafya
 
-Yayla Tepe, Muğla'nın Ege Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu genişlikte birçok farklı bitki türü ve hayvan yaşam alanı bulunmasıyla dikkat çekiyor. Yayla Tepe'nin eteklerinde, çeşitli ağaçlar ve çalılar bulunurken, tepeye çıktıkça manzara daha da genişleyerek Ege Denizi'ne kadar uzanıyor. Bu bölgede, hem doğa severler hem de tarih meraklıları için birçok seçenek sunuluyor. Yayla Tepe, aynı zamanda çevresindeki dağlar ve vadilerle birlikte bir bütün olarak düşünülürse, coğrafi açıdan oldukça önemli bir konumda yer alıyor.
+Yayla Tepe, Muğla'nın Ege Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Yayla Tepe'nin eteklerinde, çeşitli ağaçlar ve çalılar bulunurken, tepeye çıktıkça manzara daha da genişleyerek Ege Denizi'ne kadar uzanıyor. Bu bölgede, hem doğa severler hem de tarih meraklıları için birçok seçenek sunuluyor. Yayla Tepe, aynı zamanda çevresindeki dağlar ve vadilerle birlikte bir bütün olarak düşünülürse, coğrafi açıdan oldukça önemli bir konumda yer alıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Yayla Tepe'yi ziyaret etmek, hem doğa severler hem de tarih meraklıları için
 
 ## İlginç Bilgiler
 
-- Yayla Tepe, 140 hektarlık bir alanı kaplıyor.
 - Bu bölgede, birçok farklı bitki türü ve hayvan yaşam alanı bulunmasıyla dikkat çekiyor.
 - Yayla Tepe'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların etkisi altında kalmış.
 - Bu bölgede, birçok efsaneye ve rivayete de ev sahipliği yapıyor.

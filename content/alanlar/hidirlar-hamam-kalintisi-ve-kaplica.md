@@ -51,6 +51,6 @@ Hıdırlar Hamam Kalıntısı ve Kaplıca, ziyaret edilecek bir mekan olarak, bi
 
 - Hıdırlar Hamam Kalıntısı, Roma ve Bizans dönemlerinden kalan bir tarihi yapı.
 - Kaplıca, şifalı suları ile ünlü.
-- Bu mekan, 140 hektarlık bir alanı kaplıyor.
+
 - Hıdırlar Hamam Kalıntısı ve Kaplıca, Marmara Bölgesi'nde yer alıyor.
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşıyor.

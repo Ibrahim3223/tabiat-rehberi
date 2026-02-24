@@ -30,7 +30,7 @@ wikidata_id: "Q131390937"
 
 # Şeyh Osman Türbesi
 
-Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer alan bir türbedir. Şeyh Osman Türbesi, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsar. Doğa severler için önemli bir destinasyon olan bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şeyh Osman Türbesi, tarihin derinliklerinde gizli bir hazine gibi beklemektedir.
+Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer alan bir türbedir. Doğa severler için önemli bir destinasyon olan bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şeyh Osman Türbesi, tarihin derinliklerinde gizli bir hazine gibi beklemektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390937"
 
 ## Coğrafya
 
-Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Şeyh Osman Türbesi, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, genel olarak sıcak ve kurudur. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğuk ve yağışlıdır. Şeyh Osman Türbesi, çevresindeki dağlar ve vadiler ile birlikte önemli bir coğrafi oluşumu temsil etmektedir. Bu bölge, doğal güzelliği ve tarihi değerleri ile birlikte önemli bir turizm destinasyonudur.
+Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, genel olarak sıcak ve kurudur. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğuk ve yağışlıdır. Şeyh Osman Türbesi, çevresindeki dağlar ve vadiler ile birlikte önemli bir coğrafi oluşumu temsil etmektedir. Bu bölge, doğal güzelliği ve tarihi değerleri ile birlikte önemli bir turizm destinasyonudur.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390937"
 ## İlginç Bilgiler
 
 - Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli bir tarihi eseridir.
-- Bu bölge, yaklaşık 140 hektarlık bir yeşil alanı kapsar.
+
 - Şeyh Osman Türbesi, tarihin farklı dönemlerinde birçok medeniyete ev sahipliği yapmıştır.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Şeyh Osman Türbesi, yılın her dönemi ziyaret edilebilir.

@@ -51,6 +51,6 @@ Yeniköy Tümülüsü, ziyaretçilere tarihi ve kültürel zenginlik sunuyor. Zi
 
 - Yeniköy Tümülüsü, Sivas'ın kültür mirasının önemli bir parçası olarak kabul ediliyor.
 - Bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış.
-- Tümülüs, 140 hektarlık alan üzerine kurulu.
+
 - Bölgenin iklimi, karasal iklim özellikleri gösteriyor.
 - Bölge, doğa severler için önemli bir destinasyon olarak kabul ediliyor.

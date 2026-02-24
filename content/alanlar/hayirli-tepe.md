@@ -49,7 +49,7 @@ Hayırlı Tepe, ziyaretçilerini bekliyor. Bu tepe, özellikle ilkbahar ve sonba
 ## İlginç Bilgiler
 
 - Hayırlı Tepe, Şanlıurfa'nın merkezine yakın bir konumda bulunur.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hayırlı Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 - Bu tepe, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaret edilebilir.
 - Hayırlı Tepe, tarih ve doğa severler için ideal bir destinasyon olarak gösterilebilir.

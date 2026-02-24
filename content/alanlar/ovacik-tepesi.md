@@ -49,7 +49,7 @@ Ovacık Tepesi'ni ziyaret etmek oldukça kolay. Bu tepe, Erzincan'ın merkezine 
 ## İlginç Bilgiler
 
 - Ovacık Tepesi, Erzincan'ın doğal güzelliği
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Ovacık Tepesi, ziyaretçilerine doğal güzelliği sunuyor
 - Bu tepe, flora ve fauna açısından oldukça zengin
 - Ovacık Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon

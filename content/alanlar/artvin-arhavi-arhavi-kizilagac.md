@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","şelale ziyaretleri","orman gezileri","dağ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Artvin-Arhavi-Arhavi-Kızılagac","caption":"Artvin-Arhavi-Arhavi-Kızılagac","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Arhavi-K%C4%B1z%C4%B1lagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228288","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğaseverleri bekliyor"
+
 keywords: ["Artvin","Arhavi","Kızılagac","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228288"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228288"
 
 # Artvin-Arhavi-Arhavi-Kızılagac
 
- Bu área, ziyaretçilerini geniş ormanları, şelaleleri ve dağ manzaralarıyla büyülüyor. Doğa severler için bir cennet olan bu bölge, zengin florası ve faunasıyla dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+ Bu área, ziyaretçilerini geniş ormanları, şelaleleri ve dağ manzaralarıyla büyülüyor. Doğa severler için bir cennet olan bu bölge, zengin florası ve faunasıyla dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Artvin-Arhavi-Arhavi-Kızılagac'ın tarihi geçmişi, yüzyıllar boyunca çeş
 
 ## Coğrafya
 
-Artvin-Arhavi-Arhavi-Kızılagac, Karadeniz Bölgesi'nin kuzeydoğu kesiminde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip. 140 hektarlık alanı, geniş ormanlarla kaplı ve çeşitli bitki türlerine ev sahipliği yapıyor. Bölgenin iklimi, Karadeniz ikliminin karakteristik özellikleri taşıyor; yani soğuk kışlar ve serin yazlar. Bu coğrafi yapı, bölgenin florası ve faunası için ideal koşullar sağlıyor. Dağlar, ormanlar ve şelaleler, bu bölgenin doğal güzelliklerini oluşturuyor. Ayrıca, burada yer alan akarsular ve göller, bölgeye ayrı bir güzellik katıyor.
+Artvin-Arhavi-Arhavi-Kızılagac, Karadeniz Bölgesi'nin kuzeydoğu kesiminde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip. Bölgenin iklimi, Karadeniz ikliminin karakteristik özellikleri taşıyor; yani soğuk kışlar ve serin yazlar. Bu coğrafi yapı, bölgenin florası ve faunası için ideal koşullar sağlıyor. Dağlar, ormanlar ve şelaleler, bu bölgenin doğal güzelliklerini oluşturuyor. Ayrıca, burada yer alan akarsular ve göller, bölgeye ayrı bir güzellik katıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Artvin-Arhavi-Arhavi-Kızılagac'ı ziyaret etmek, doğa severler için bir rüy
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - yüzyıllar boyunca çeşitli medeniyetlerin izleri
 - zengin flora ve fauna
 - Karadeniz Bölgesi'nin en güzel köşelerinden biri

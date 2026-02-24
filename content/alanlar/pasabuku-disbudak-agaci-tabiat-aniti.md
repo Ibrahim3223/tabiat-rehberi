@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","caption":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fab%C3%BCk%C3%BC%20Di%C5%9Fbudak%20A%C4%9Fac%C4%B1%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6008904","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Paşabükü Dişbudak Ağacı Tabiat Anıtı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin.
 keywords: ["Paşabükü Dişbudak Ağacı","Tabiat Anıtı","İç Anadolu Bölgesi","doğal güzellikler","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6008904"
@@ -30,7 +30,7 @@ Paşabükü Dişbudak Ağacı Tabiat Anıtı'nın tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Paşabükü Dişbudak Ağacı Tabiat Anıtı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplı ve fauna çeşitliliğiyle dikkat çekiyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, ziyaretçilerine, zengin bir coğrafi çeşitlilik sunuyor. Burada, çeşitli bitki türleri ve fauna çeşitliliği, ziyaretçilerin ilgisini çekiyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İç Anadolu Bölgesi, coğrafi olarak, çeşitli dağlar, ovalar ve platolardan oluşuyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, bu coğrafi özelliklerin bir parçası olarak, ziyaretçilerine, zengin bir coğrafi çeşitlilik sunuyor. İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösteriyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, bu iklim özellikleri ile şekillenmiştir. Burada, ziyaretçiler, çeşitli mevsimlerde, farklı iklim özellikleri ile karşılaşabilirler.
+Paşabükü Dişbudak Ağacı Tabiat Anıtı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Paşabükü Dişbudak Ağacı Tabiat Anıtı, ziyaretçilerine, zengin bir coğrafi çeşitlilik sunuyor. Burada, çeşitli bitki türleri ve fauna çeşitliliği, ziyaretçilerin ilgisini çekiyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İç Anadolu Bölgesi, coğrafi olarak, çeşitli dağlar, ovalar ve platolardan oluşuyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, bu coğrafi özelliklerin bir parçası olarak, ziyaretçilerine, zengin bir coğrafi çeşitlilik sunuyor. İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösteriyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, bu iklim özellikleri ile şekillenmiştir. Burada, ziyaretçiler, çeşitli mevsimlerde, farklı iklim özellikleri ile karşılaşabilirler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Paşabükü Dişbudak Ağacı Tabiat Anıtı, ziyaretçilerine, çeşitli etkinl
 
 ## İlginç Bilgiler
 
-- Paşabükü Dişbudak Ağacı Tabiat Anıtı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Paşabükü Dişbudak Ağacı Tabiat Anıtı, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor
 - Paşabükü Dişbudak Ağacı Tabiat Anıtı, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor
 - Paşabükü Dişbudak Ağacı Tabiat Anıtı, ziyaretçilerine, zengin bir doğal ortam sunuyor

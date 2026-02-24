@@ -29,7 +29,7 @@ wikidata_id: "Q49741952"
 
 # Kükürt Kaplıcası
 
-İç Anadolu Bölgesi'nin kalbinde, Çankırı ilinde yer alan Kükürt Kaplıcası, yaklaşık 140 hektarlık bir alanı kapsıyor. Kükürt Kaplıcası, şifalı sularının yanı sıra, eşsiz doğası ve tarihi geçmişi ile dikkat çekiyor. Burası, doğa severlerin ve şifalı suların tadını çıkarmak isteyenlerin keyifli bir gün geçirebileceği ideal bir destinasyon.
+ Kükürt Kaplıcası, şifalı sularının yanı sıra, eşsiz doğası ve tarihi geçmişi ile dikkat çekiyor. Burası, doğa severlerin ve şifalı suların tadını çıkarmak isteyenlerin keyifli bir gün geçirebileceği ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Kükürt Kaplıcası, yılın her dönemi ziyaret edilebilir. Bahar ve yaz aylar
 
 ## İlginç Bilgiler
 
-- Kükürt Kaplıcası, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bölge, şifalı sularının yanı sıra, eşsiz doğası ile de dikkat çekiyor.
 - Kükürt Kaplıcası, İç Anadolu Bölgesi'nin en önemli turizm noktalarından biri.
 - Bölgede, çeşitli bitki ve hayvan türleri yaşıyor.

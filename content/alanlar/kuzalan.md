@@ -31,7 +31,7 @@ Kuzalan'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, t
 
 ## Coğrafya
 
-Kuzalan, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, dağlar, ovalar ve akarsularla çevrili ve birçok farklı coğrafi özelliğe sahip. Kuzalan, 140 hektarlık bir alanı kaplıyor ve bu alanda birçok farklı bitki ve hayvan türü yaşiyor. Burada, ziyaretçiler, çeşitli coğrafi oluşumları ve doğal güzellikleri keşfetme fırsatı buluyor. Kuzalan, coğrafi olarak zengin ve çeşitli bir bölge olarak dikkat çekiyor. İklimi, karasal ve step iklimi arasında değişen bir yapıya sahip ve bu, birçok farklı bitki ve hayvan türünün yaşamasına olanak sağlıyor.
+Kuzalan, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, dağlar, ovalar ve akarsularla çevrili ve birçok farklı coğrafi özelliğe sahip. Burada, ziyaretçiler, çeşitli coğrafi oluşumları ve doğal güzellikleri keşfetme fırsatı buluyor. Kuzalan, coğrafi olarak zengin ve çeşitli bir bölge olarak dikkat çekiyor. İklimi, karasal ve step iklimi arasında değişen bir yapıya sahip ve bu, birçok farklı bitki ve hayvan türünün yaşamasına olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Kuzalan, ziyaretçilerini doğanın güzellikleriyle bekliyor. Burada, birçok f
 
 ## İlginç Bilgiler
 
-- Kuzalan, 140 hektarlık bir alanı kaplıyor
 - Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor
 - Kuzalan, tarihi geçmişiyle dikkat çekiyor
 - Bu bölge, coğrafi olarak zengin ve çeşitli

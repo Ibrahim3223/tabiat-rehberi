@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Kazağa Tepesi","caption":"Kazağa Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaza%C4%9Fa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387510","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kazağa Tepesi, Ağrı'da yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kazağa Tepesi, Ağrı'da yer alıyor."
 keywords: ["Doğu Anadolu Bölgesi","Ağrı","Kazağa Tepesi","doğal güzellik","tepe","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387510"
@@ -36,7 +36,7 @@ Kazağa Tepesi'nin tarihi geçmişi, bölgenin genel tarihî sürecinden ayrılm
 
 ## Coğrafya
 
-Kazağa Tepesi, coğrafi olarak oldukça dikkat çekici bir yapıya sahip. Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, yüksekli ve eğim açısından önemli bir konumda yer alıyor. Kazağa Tepesi, 140 hektarlık alanı ile oldukça geniş bir bölgeyi kapsıyor. Tepenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Mevsimsel değişimlere bağlı olarak, bu bitkiler renk değiştirerek tepenin güzelliğini artırıyor. Kazağa Tepesi, doğu-batı yönünde uzanan bir tepe. Bu yön, güneş ışınlarının tepenin farklı yönlerine farklı şekilde düşmesine neden oluyor. Bu durum, tepenin iklimini ve bitki örtüsünü etkiliyor. Kazağa Tepesi, Ağrı'nın genel iklim özellikleri ile benzerlik gösteriyor. Bölgenin kışları soğuk, yazları ise serin geçiyor.
+Kazağa Tepesi, coğrafi olarak oldukça dikkat çekici bir yapıya sahip. Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, yüksekli ve eğim açısından önemli bir konumda yer alıyor. Tepenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Mevsimsel değişimlere bağlı olarak, bu bitkiler renk değiştirerek tepenin güzelliğini artırıyor. Kazağa Tepesi, doğu-batı yönünde uzanan bir tepe. Bu yön, güneş ışınlarının tepenin farklı yönlerine farklı şekilde düşmesine neden oluyor. Bu durum, tepenin iklimini ve bitki örtüsünü etkiliyor. Kazağa Tepesi, Ağrı'nın genel iklim özellikleri ile benzerlik gösteriyor. Bölgenin kışları soğuk, yazları ise serin geçiyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Kazağa Tepesi, doğa severler için ideal bir gezi alanı. Tepenin güzelliği,
 
 ## İlginç Bilgiler
 
-- Kazağa Tepesi, 140 hektarlık bir alana sahip
-- Tepenin yüksekliği, yaklaşık 200 futbol sahası büyüklüğünde
 - Kazağa Tepesi, Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri
 - Tepede, çeşitli bitki ve hayvan türleri yaşıyor
 - Kazağa Tepesi, Ağrı'nın merkezine yakın bir konumda yer alıyor

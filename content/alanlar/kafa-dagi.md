@@ -49,7 +49,7 @@ Kafa Dağı, Konya ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe
 ## İlginç Bilgiler
 
 - Kafa Dağı, Konya ilinin sınırları içerisinde yer alan bir tepedir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kafa Dağı, etrafındaki yerleşim yerleri için önemli bir referans noktasıdır.
 - Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur.
 - Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, önemli bir turizm merkezidir.

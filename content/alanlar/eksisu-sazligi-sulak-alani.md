@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık","B
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Ekşisu Sazlığı Sulak Alanı","caption":"Ekşisu Sazlığı Sulak Alanı","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ek%C5%9Fisu%20Sazl%C4%B1%C4%9F%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228865","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Ekşisu Sazlığı Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ekşisu Sazlığı","Sulak Alan","İç Anadolu Bölgesi","doğal güzellik","çevre","flora","fauna","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228865"
@@ -42,8 +42,6 @@ Ekşisu Sazlığı Sulak Alanı, ziyaretçilerini doğal güzelliği ve biyoloji
 
 ## İlginç Bilgiler
 
-- Ekşisu Sazlığı Sulak Alanı, 140 hektarlık bir alanı kaplar
-- Sazlık, yaklaşık 200 futbol sahası büyüklüğündedir
 - Bu sulak alan, bölgenin ekolojik dengesine önemli katkılar sağlar
 - Ekşisu Sazlığı Sulak Alanı, koruma altına alınmıştır
 - Sazlık, çeşitli bitki türleri ve zengin fauna ile dolu bir sulak alan olarak dikkat çeker

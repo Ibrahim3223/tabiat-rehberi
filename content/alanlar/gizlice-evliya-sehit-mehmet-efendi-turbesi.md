@@ -37,7 +37,7 @@ Gizlice Evliya Şehit Mehmet Efendi Türbesi, yüzyıllar boyunca tarihi olaylar
 
 ## Coğrafya
 
-Gizlice Evliya Şehit Mehmet Efendi Türbesi, Marmara Bölgesi'nin en güzel doğal güzelliklerine ev sahipliği yapan bir alandır. İstanbul'un kalabalığından uzak, şehrin merkezine yakın bir konumda yer alan bu alan, ziyaretçilerine yeşil alanların güzelliğini ve doğanın seslerini sunuyor. Türbe ve çevresindeki yeşil alanlar, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilere geniş bir açık alan sunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayan bir doğa harikası. İstanbul'un coğrafi yapısı, bu türbeyi ve çevresini, ziyaretçilerine benzersiz bir coğrafi deneyim sunuyor.
+Gizlice Evliya Şehit Mehmet Efendi Türbesi, Marmara Bölgesi'nin en güzel doğal güzelliklerine ev sahipliği yapan bir alandır. İstanbul'un kalabalığından uzak, şehrin merkezine yakın bir konumda yer alan bu alan, ziyaretçilerine yeşil alanların güzelliğini ve doğanın seslerini sunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayan bir doğa harikası. İstanbul'un coğrafi yapısı, bu türbeyi ve çevresini, ziyaretçilerine benzersiz bir coğrafi deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Gizlice Evliya Şehit Mehmet Efendi Türbesi'ni ziyaret etmek, ziyaretçilere, t
 - Gizlice Evliya Şehit Mehmet Efendi Türbesi, İstanbul'un en eski tarihi mekânlarından biridir.
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlara sahne olmuştur.
 - Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
-- Türbe ve çevresindeki yeşil alanlar, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Ziyaretçiler, bu tarihi ve doğal güzellik alanını, rahatça ziyaret edebilirler.

@@ -28,7 +28,7 @@ wikidata_id: "Q31390058"
 
 # Cerizdede Tepesi
 
-Cerizdede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal alandır. Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır ve şehrin gürültüsünden uzak, sakin bir atmosfere sahiptir. Bu tepe, doğa severler için ideal bir destinasyon olup, piknik, yürüyüş ve doğa gibi faaliyetler için elverişli bir ortamdır.
+Cerizdede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır ve şehrin gürültüsünden uzak, sakin bir atmosfere sahiptir. Bu tepe, doğa severler için ideal bir destinasyon olup, piknik, yürüyüş ve doğa gibi faaliyetler için elverişli bir ortamdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Cerizdede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Cerizdede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve İç Anadolu Bölgesi'nin önemli coğrafi özelliklerinden biridir. Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır ve şehrin gürültüsünden uzak, sakin bir atmosfere sahiptir. Bu tepe, doğu-batı yönünde uzanan bir sırt ile çevrilidir ve yüksekliği yaklaşık 1000 metre civarındadır. Cerizdede Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemi destekler. Bu tepe, Ankara'nın iklimini etkileyen önemli faktörlerden biridir ve bölgedeki su kaynaklarının oluşumunda önemli bir role sahiptir.
+Cerizdede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır ve şehrin gürültüsünden uzak, sakin bir atmosfere sahiptir. Bu tepe, doğu-batı yönünde uzanan bir sırt ile çevrilidir ve yüksekliği yaklaşık 1000 metre civarındadır. Cerizdede Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemi destekler. Bu tepe, Ankara'nın iklimini etkileyen önemli faktörlerden biridir ve bölgedeki su kaynaklarının oluşumunda önemli bir role sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Cerizdede Tepesi, Ankara'da yer alan bir doğa harikası olup, ziyaretçilerin g
 ## İlginç Bilgiler
 
 - Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Cerizdede Tepesi, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemdir.
 - Bu tepe, yıl boyunca çeşitli ren ve güzelliklere ev sahipliği yapar.
 - Cerizdede Tepesi, Ankara'nın tarihi ve kültürel mirasının önemli bir parçasıdır.

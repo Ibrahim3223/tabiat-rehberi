@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"VAN ŞEHİR ORMANI","caption":"VAN ŞEHİR ORMANI","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/VAN%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228754","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin kalbinde yer alan Van Şehir Ormanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
+"
 keywords: ["Van Şehir Ormanı","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","doğa","turizm","gezi","orman"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228754"
@@ -30,7 +30,7 @@ Van Şehir Ormanı'nın tarihi geçmişi, yüzyıllar boyunca doğa severlerin v
 
 ## Coğrafya
 
-Van Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir yeşil alan. Orman, 140 hektarlık bir alana yayılmış ve çeşitli bitki türleri ile zengin fauna barındırıyor. Ormanın coğrafi konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi ve kültürel zenginliklerini keşfetmesine olanak tanıyor. Orman, şehrin merkezine yakın bir konumda yer alıyor ve kolay ulaşılabilir. Van Şehir Ormanı, coğrafi olarak zengin bir bölgeye sahip ve ziyaretçilere geniş bir gezi alanı sunuyor.
+Van Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir yeşil alan. Ormanın coğrafi konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi ve kültürel zenginliklerini keşfetmesine olanak tanıyor. Orman, şehrin merkezine yakın bir konumda yer alıyor ve kolay ulaşılabilir. Van Şehir Ormanı, coğrafi olarak zengin bir bölgeye sahip ve ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Van Şehir Ormanı, ziyaretçilerine çeşitli gezi seçenekleri sunuyor. Orman,
 
 ## İlginç Bilgiler
 
-- Van Şehir Ormanı, 140 hektarlık bir alana yayılmış.
 - Orman, çeşitli bitki türleri ve zengin fauna barındırıyor.
 - Orman, şehrin merkezine yakın bir konumda yer alıyor.
 - Van Şehir Ormanı, ziyaretçilerine hem doğa hem de tarih hakkında bilgiler sunuyor.

@@ -36,7 +36,7 @@ Bincan Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Bincan Tepesi, Şırnak ilinin güneydoğu kesiminde yer alır ve bölgenin coğrafi özelliklerini taşır. Tepenin yüksekliği ve konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bincan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin etrafında, bölgenin coğrafi oluşumlarını şekillendiren dağlar, vadiler ve nehirler bulunur. Bincan Tepesi, bölgenin coğrafi özelliklerini gözlemleme ve doğa ile iç içe bir gezi deneyimi yaşamak için ideal bir destinasyon olarak kabul edilebilir. Tepenin coğrafi konumu, ziyaretçilerine bölge hakkında bilgi edinme ve çeşitli coğrafi oluşumları gözlemleme fırsatı sunar.
+Bincan Tepesi, Şırnak ilinin güneydoğu kesiminde yer alır ve bölgenin coğrafi özelliklerini taşır. Tepenin yüksekliği ve konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Tepenin etrafında, bölgenin coğrafi oluşumlarını şekillendiren dağlar, vadiler ve nehirler bulunur. Bincan Tepesi, bölgenin coğrafi özelliklerini gözlemleme ve doğa ile iç içe bir gezi deneyimi yaşamak için ideal bir destinasyon olarak kabul edilebilir. Tepenin coğrafi konumu, ziyaretçilerine bölge hakkında bilgi edinme ve çeşitli coğrafi oluşumları gözlemleme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Bincan Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve doğa ile iç i
 
 ## İlginç Bilgiler
 
-- Bincan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Bincan Tepesi, mevsimsel değişimlere göre farklı bitki ve hayvan türlerine ev sahipliği yapar.
 - Tepenin yüksekliği ve konumu, bölgenin iklimini ve bitki örtüsünü etkiler.

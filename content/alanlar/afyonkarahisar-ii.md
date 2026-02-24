@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora gözlemi","Fauna gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Afyonkarahisar_Mevlevihanesi_Exterior_020.jpg","alt":"AFYONKARAHİSAR II. manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%C4%B0sakl%C4%B1_Han_von_Westen_in_Sultanda%C4%9Fi%3B_Afyonkarahisar.jpg/960px-%C4%B0sakl%C4%B1_Han_von_Westen_in_Sultanda%C4%9Fi%3B_Afyonkarahisar.jpg","alt":"AFYONKARAHİSAR II.","caption":"AFYONKARAHİSAR II.","credit":"İsaklı Han von Westen in Sultandaği; Afyonkarahisar","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Afyonkarahisar_Mevlevihanesi_Ceiling_022.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Afyonkarahisar_Mevlevihanesi_Ceiling_022.jpg/1280px-Afyonkarahisar_Mevlevihanesi_Ceiling_022.jpg","alt":"AFYONKARAHİSAR II. - Afyonkarahisar Mevlevihanesi Ceiling 022","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Karahisar_Kalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Karahisar_Kalesi.jpg/1280px-Karahisar_Kalesi.jpg","alt":"AFYONKARAHİSAR II. - Karahisar Kalesi","credit":"OkanKeskin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Afyonkarahisar_Mevlevihanesi_Diorama_1807.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Afyonkarahisar_Mevlevihanesi_Diorama_1807.jpg/1280px-Afyonkarahisar_Mevlevihanesi_Diorama_1807.jpg","alt":"AFYONKARAHİSAR II. - Afyonkarahisar Mevlevihanesi Diorama 1807","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Afyonkarahisar_Mevlevihanesi_Diorama_1809.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Afyonkarahisar_Mevlevihanesi_Diorama_1809.jpg/1280px-Afyonkarahisar_Mevlevihanesi_Diorama_1809.jpg","alt":"AFYONKARAHİSAR II. - Afyonkarahisar Mevlevihanesi Diorama 1809","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Afyonkarahisar_Mevlevihanesi_Exterior_1810.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Afyonkarahisar_Mevlevihanesi_Exterior_1810.jpg/1280px-Afyonkarahisar_Mevlevihanesi_Exterior_1810.jpg","alt":"AFYONKARAHİSAR II. - Afyonkarahisar Mevlevihanesi Exterior 1810","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AFYONKARAH%C4%B0SAR%20II.","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228612","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan AFYONKARAHİSAR II. milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunuyor."
+description: "İç Anadolu Bölgesi'nde yer alan AFYONKARAHİSAR II."
 keywords: ["Doğa","Milli Park","İç Anadolu Bölgesi","Yeşil Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228612"
@@ -43,7 +43,6 @@ AFYONKARAHİSAR II. milli parkını ziyaret etmek, doğa severler için unutulma
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - İç Anadolu Bölgesi
 - Zengin flora ve fauna çeşitliliği
 - Tarihi geçmişi

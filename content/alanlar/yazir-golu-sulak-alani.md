@@ -30,7 +30,7 @@ Yazır Gölü Sulak Alanı, yüzyıllar boyunca bölgenin en önemli sulak alanl
 
 ## Coğrafya
 
-Yazır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin merkezi kısmında yer alır. Göl, yaklaşık 140 hektarlık bir alanı kaplar ve etrafını çevreleyen dağlar ve tepeler, bu alanı bir cennete çevirir. Gölün suyu, 주 olarak yağmur ve kar erimesi ile beslenir. Gölün etrafındaki dağlar ve tepeler, çeşitli bitki türlerine ev sahipliği yapar. Bu bitki türleri, gölün suyunun kalitesini etkiler ve gölün ekosistemini destekler. Gölün sulak alanı, çeşitli hayvan türlerine ev sahipliği yapar ve bu hayvanlar, gölün ekosistemini destekler.
+Yazır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin merkezi kısmında yer alır. Gölün suyu, 주 olarak yağmur ve kar erimesi ile beslenir. Gölün etrafındaki dağlar ve tepeler, çeşitli bitki türlerine ev sahipliği yapar. Bu bitki türleri, gölün suyunun kalitesini etkiler ve gölün ekosistemini destekler. Gölün sulak alanı, çeşitli hayvan türlerine ev sahipliği yapar ve bu hayvanlar, gölün ekosistemini destekler.
 
 ## Flora ve Fauna
 

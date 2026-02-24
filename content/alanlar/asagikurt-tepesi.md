@@ -48,7 +48,6 @@ Aşağıkurt Tepesi'ni ziyaret etmek, doğa güzelliği ve tarihi değerler aç�
 
 ## İlginç Bilgiler
 
-- Aşağıkurt Tepesi, 140 hektarlık bir alanı kaplar
 - tepenin etrafı, çeşitli bitki türleriyle dolu
 - tepe, fauna açısından oldukça zengin bir alana sahip
 - Aşağıkurt Tepesi, tarihi geçmişiyle dikkat çekiyor

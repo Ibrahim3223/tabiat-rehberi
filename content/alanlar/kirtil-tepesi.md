@@ -20,7 +20,7 @@ aktiviteler: ["Trekking","Yürüyüş","Manzara izleme","Doğa fotoğrafçılı�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_view_of_Fort_Hill_Farm%2C_view_looking_west_from_%28B%29_two-story_hall-and-parlor_house._Buildings_visible%2C_from_left_to_right%2C_are_%28B%29_parlor_house_porch%3B_%28E%29_one-room_cabin%3B_HABS_VA%2C42-CLOV.V%2C2-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kirtil Tepesi","caption":"Kirtil Tepesi","credit":"General view of Fort Hill Farm, view looking west from (B) two-story hall-and-parlor house. Buildings visible, from left to right, are (B) parlor house porch; (E) one-room cabin; HABS VA,42-CLOV.V,2-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirtil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388473","tip":"genel"}]
-description: "Rize'nin yüksek dağlık bölgesinde yer alan Kirtil Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Rize","Karadeniz Bölgesi","Dağcılık","Doğa","Trekking","Yürüyüş","Manzara","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388473"
@@ -36,7 +36,7 @@ Kirtil Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmı�
 
 ## Coğrafya
 
-Kirtil Tepesi, Rize'nin dağlık bölgesinde yer alan ve coğrafi olarak önemli bir konuma sahiptir. Bu bölge, Karadeniz Bölgesi'nin en yüksek dağlık bölgelerinden biri olup, 140 hektarlık yeşil alanıyla ziyaretçilerini doğal güzelliği ile etkiler. Kirtil Tepesi, trekking ve yürüyüş severlerin favori mekanlarından biri olup, ziyaretçilerini muhteşem manzaralarla karşılar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Kirtil Tepesi, aynı zamanda bir dizi önemli nehir ve akarsuya ev sahipliği yapmakta olup, bu su kaynakları, bölgenin ekolojik dengesini korumaktadır.
+Kirtil Tepesi, Rize'nin dağlık bölgesinde yer alan ve coğrafi olarak önemli bir konuma sahiptir. Kirtil Tepesi, trekking ve yürüyüş severlerin favori mekanlarından biri olup, ziyaretçilerini muhteşem manzaralarla karşılar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Kirtil Tepesi, aynı zamanda bir dizi önemli nehir ve akarsuya ev sahipliği yapmakta olup, bu su kaynakları, bölgenin ekolojik dengesini korumaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kirtil Tepesi, ziyaretçilerine doğal güzelliği ile etkileyici bir deneyim su
 ## İlginç Bilgiler
 
 - Kirtil Tepesi, Rize'nin yüksek dağlık bölgesinde yer alır
-- 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Tarihçesi yüzyıllar öncesine dayanır
 - Çeşitli bitki türleri ve fauna ile zenginleştirilmiştir
 - Trekking ve yürüyüş severlerin favori mekanlarından biri

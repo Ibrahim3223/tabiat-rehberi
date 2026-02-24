@@ -28,7 +28,7 @@ wikidata_id: "Q31390013"
 
 # Uzunyatak Tepesi
 
-Eskişehir'in doğal güzelliklerinden biri olan Uzunyatak Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. İnsanlar bu tepeyi ziyaret ederek, bölgenin güzelliklerini keşfedebilir ve doğayla iç içe zaman geçirebilir. Uzunyatak Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutar. Burada yapılan kazılarda, tarihi eserlere rastlanmıştır ve bu da tepe'nin önemini daha da artırır.
+ İnsanlar bu tepeyi ziyaret ederek, bölgenin güzelliklerini keşfedebilir ve doğayla iç içe zaman geçirebilir. Uzunyatak Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutar. Burada yapılan kazılarda, tarihi eserlere rastlanmıştır ve bu da tepe'nin önemini daha da artırır.
 
 ## Tarihçe
 

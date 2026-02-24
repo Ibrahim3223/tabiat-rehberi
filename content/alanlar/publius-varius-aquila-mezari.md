@@ -50,7 +50,7 @@ Publius Varius Aquila Mezarı, ziyaretçilerine zengin bir tarihi ve kültürel 
 ## İlginç Bilgiler
 
 - Publius Varius Aquila Mezarı, Marmara Bölgesi'nin en önemli tarihi noktalarından biri.
-- Mezar, 140 hektarlık bir alan üzerinde yer alıyor.
+
 - Mezarın etrafı, çeşitli bitki türleri ile kaplı bir doğal alan.
 - Mezarın bulunduğu alanda, zengin fauna ile karşılaşma mümkün.
 - Mezarın ekolojik dengesi, ziyaretçilere doğal bir atmosfer sunmak için önemli bir rol oynuyor.

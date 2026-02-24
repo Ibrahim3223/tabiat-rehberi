@@ -50,7 +50,7 @@ Halil İbrahim Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzel
 ## İlginç Bilgiler
 
 - Halil İbrahim Efendi Türbesi, Çanakkale'nin Ayvacık ilçesinde yer alan bir türbe.
-- Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulu.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Halil İbrahim Efendi Türbesi, günümüzde de önemli bir dini merkez olarak kabul ediliyor.

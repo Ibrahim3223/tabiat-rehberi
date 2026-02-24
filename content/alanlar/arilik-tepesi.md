@@ -48,7 +48,6 @@ Arılık Tepesi'ni ziyaret etmek, doğa severler için bir macera olarak kabul e
 
 ## İlginç Bilgiler
 
-- Arılık Tepesi, 140 hektarlık bir alana sahip.
 - Bu tepe, Burdur'un şehir merkezine yakın bir konumda yer alıyor.
 - Arılık Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi desteklemektedir.
 - Bu tepe, doğa severler için bir cennet olarak kabul ediliyor.

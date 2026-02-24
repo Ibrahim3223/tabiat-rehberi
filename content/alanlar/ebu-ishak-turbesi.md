@@ -51,7 +51,7 @@ Ebu İshak Türbesi, ziyaretçilere, tarihi ve kültürel zenginlikleri ile dikk
 ## İlginç Bilgiler
 
 - Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer alır.
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Ebu İshak Türbesi, tarihi ve kültürel önemi ile dikkat çeker.
 - Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
 - Türbe, yıl boyunca ziyaret edilebilir.

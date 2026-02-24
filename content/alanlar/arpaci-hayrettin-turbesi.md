@@ -51,6 +51,6 @@ Arpacı Hayrettin Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güze
 
 - Arpacı Hayrettin, İstanbul'un fethinde önemli bir rol oynamıştır.
 - Türbe, Eyüpsultan ilçesinde yer alır.
-- Bölge, 140 hektarlık bir yeşil alana sahiptir.
+
 - İstanbul Boğazı'na olan yakınlığı, ziyaretçilere benzersiz bir manzara sunar.
 - Türbenin tarihi geçmişi, Osmanlı tarihinde önemli bir yer tutar.

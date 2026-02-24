@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","balık avı","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Nazik_G%C3%B6l%C3%BC.jpg","alt":"BITLIS AHLAT NAZIK GÖLÜ manzarası","credit":"Iskan21","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nazik_G%C3%B6l%C3%BC.jpg/960px-Nazik_G%C3%B6l%C3%BC.jpg","alt":"BITLIS AHLAT NAZIK GÖLÜ","caption":"BITLIS AHLAT NAZIK GÖLÜ","credit":"Nazik Gölü","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BITLIS%20AHLAT%20NAZIK%20G%C3%96L%C3%9C","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228970","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişi ile dikkat çeken Bitlis Ahlat Nazik Gölü"

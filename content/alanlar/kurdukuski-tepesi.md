@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","kültür gezisi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Kurdukuşki Tepesi","caption":"Kurdukuşki Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurduku%C5%9Fki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539333","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık bir alana yayılmış"
+
 keywords: ["Siirt","Güneydoğu Anadolu Bölgesi","Kurdukuşki Tepesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31539333"

@@ -22,7 +22,7 @@ wikidata_id: "Q108228008"
 
 # Mugla-Ula-Kizilyaka Halep Cami
 
-Muğla'nın Ula ilçesinde yer alan Kizilyaka Halep Cami, yaklaşık 140 hektarlık bir alanda bulunuyor. Cami, tarihi ve kültürel değerleriyle dikkat çekiyor. Ziyaretçiler, caminin güzelliği ve tarihi önemini keşfedebilir. Caminin çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Kizilyaka Halep Cami, Muğla'nın önemli turizm noktalarından biri olarak kabul ediliyor.
+ Cami, tarihi ve kültürel değerleriyle dikkat çekiyor. Ziyaretçiler, caminin güzelliği ve tarihi önemini keşfedebilir. Caminin çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Kizilyaka Halep Cami, Muğla'nın önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kizilyaka Halep Cami, tarihi geçmişiyle dikkat çekiyor. Caminin tam tarihi bi
 
 ## Coğrafya
 
-Kizilyaka Halep Cami, Muğla'nın Ula ilçesinde yer alıyor. Cami, Ege Bölgesi'nin güzelliği ve tarihi değerleriyle çevrili. Caminin çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Cami, yaklaşık 140 hektarlık bir alanda bulunuyor. Caminin konumu, ziyaretçiler için önemli bir avantajdır. Ziyaretçiler, caminin güzelliği ve tarihi önemini keşfedebilir. Cami, Muğla'nın önemli turizm noktalarından biri olarak kabul ediliyor.
+Kizilyaka Halep Cami, Muğla'nın Ula ilçesinde yer alıyor. Cami, Ege Bölgesi'nin güzelliği ve tarihi değerleriyle çevrili. Caminin çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Caminin konumu, ziyaretçiler için önemli bir avantajdır. Ziyaretçiler, caminin güzelliği ve tarihi önemini keşfedebilir. Cami, Muğla'nın önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

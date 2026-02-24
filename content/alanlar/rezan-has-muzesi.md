@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/ESERLER.jpg","alt":"Rezan Has Müzesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/REZAN_HAS_M%C3%9CZES%C4%B0.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/REZAN_HAS_M%C3%9CZES%C4%B0.jpg/1280px-REZAN_HAS_M%C3%9CZES%C4%B0.jpg","alt":"Rezan Has Müzesi - REZAN HAS MÜZESİ","credit":"CanKhas0","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/47/Seferikos_Sarn%C4%B1c%C4%B1_Rezan_Has_M%C3%BCzesi_Giri%C5%9F_%28St%C3%BCn%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Seferikos_Sarn%C4%B1c%C4%B1_Rezan_Has_M%C3%BCzesi_Giri%C5%9F_%28St%C3%BCn%29.jpg/1280px-Seferikos_Sarn%C4%B1c%C4%B1_Rezan_Has_M%C3%BCzesi_Giri%C5%9F_%28St%C3%BCn%29.jpg","alt":"Rezan Has Müzesi - Seferikos Sarnıcı Rezan Has Müzesi Giriş (Stün)","credit":"BurakSerhan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Georgios_ve_Polykhronios%E2%80%99un_Ada%C4%9F%C4%B1n%C4%B1n_Uzaktan_Resmi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Georgios_ve_Polykhronios%E2%80%99un_Ada%C4%9F%C4%B1n%C4%B1n_Uzaktan_Resmi.jpg/1280px-Georgios_ve_Polykhronios%E2%80%99un_Ada%C4%9F%C4%B1n%C4%B1n_Uzaktan_Resmi.jpg","alt":"Rezan Has Müzesi - Georgios ve Polykhronios’un Adağının Uzaktan Resmi","credit":"Yelkenus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Rezan_Has_M%C3%BCzesi%27nde_Yer_Alan_%C3%87e%C5%9Fitli_Tarihi_E%C5%9Fyalar_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Rezan_Has_M%C3%BCzesi%27nde_Yer_Alan_%C3%87e%C5%9Fitli_Tarihi_E%C5%9Fyalar_1.jpg","alt":"Rezan Has Müzesi - Rezan Has Müzesi'nde Yer Alan Çeşitli Tarihi Eşyalar 1","credit":"Mertkazancii","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Rezan_Has_M%C3%BCzesi%27nde_Yer_Alan_%C3%87e%C5%9Fitli_Tarihi_E%C5%9Fyalar_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Rezan_Has_M%C3%BCzesi%27nde_Yer_Alan_%C3%87e%C5%9Fitli_Tarihi_E%C5%9Fyalar_2.jpg","alt":"Rezan Has Müzesi - Rezan Has Müzesi'nde Yer Alan Çeşitli Tarihi Eşyalar 2","credit":"Mertkazancii","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rezan%20Has%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q7319839","tip":"genel"}]
-description: "İstanbul'un kalbinde, Fatih ilçesinde yer alan Rezan Has Müzesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Doğa ve sanatın buluştuğu bu özel mekan, yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Rezan Has Müzesi","Fatih","İstanbul","müze","doğa","sanat","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q7319839"
@@ -30,7 +30,7 @@ wikidata_id: "Q7319839"
 
 # Rezan Has Müzesi
 
-Rezan Has Müzesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan bir kültür ve sanat merkezidir. 140 hektarlık yeşil alanıyla, ziyaretçilerini doğayla iç içe bir ortamda ağırlar. Müzenin içerisinde, çeşitli sanat eserleri ve Sergiler bulunur. Ziyaretçiler, hem doğanın güzelliğini hem de sanatın zenginliğini bir arada deneyimleyebilirler.
+Rezan Has Müzesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan bir kültür ve sanat merkezidir. Müzenin içerisinde, çeşitli sanat eserleri ve Sergiler bulunur. Ziyaretçiler, hem doğanın güzelliğini hem de sanatın zenginliğini bir arada deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Rezan Has Müzesi'ni ziyaret etmek, hem doğa severler hem de sanatseverler içi
 
 ## İlginç Bilgiler
 
-- Rezan Has Müzesi, 140 hektarlık yeşil alanıyla dikkat çeker.
 - Müze, çeşitli sanat eserleri ve sergiler sunar.
 
 - Müzenin tarihi geçmişi, yüzyıllar boyunca sanatın ve doğanın bir arada yaşandığı bir bölge olarak bilinir.

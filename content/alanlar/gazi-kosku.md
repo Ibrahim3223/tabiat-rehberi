@@ -38,7 +38,7 @@ Gazi Köşkü'nün tarihi geçmişi, Diyarbakır'ın zengin tarihine ışık tut
 
 ## Coğrafya
 
-Gazi Köşkü, Güneydoğu Anadolu Bölgesi'nin coğrafi koşullarına uygun olarak tasarlanmış ve güzellikleri ile ziyaretçilerini büyülüyor. 140 hektarlık geniş bir alana yayılan bu mekan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Gazi Köşkü'nün coğrafi konumu, ziyaretçilere şehrin merkezi ve doğal güzellikleri arasında bir geçiş noktası sunuyor. Bu özel mekan, Diyarbakır'ın Yenişehir ilçesinde yer alıyor ve şehrin önemli bir turizm merkezi olarak kabul ediliyor. Gazi Köşkü'nün etrafı, çeşitli ağaçlar ve bitkiler ile çevrilidir ve bu sayede ziyaretçilere doğal bir atmosfer sunuyor.
+Gazi Köşkü, Güneydoğu Anadolu Bölgesi'nin coğrafi koşullarına uygun olarak tasarlanmış ve güzellikleri ile ziyaretçilerini büyülüyor. Gazi Köşkü'nün coğrafi konumu, ziyaretçilere şehrin merkezi ve doğal güzellikleri arasında bir geçiş noktası sunuyor. Bu özel mekan, Diyarbakır'ın Yenişehir ilçesinde yer alıyor ve şehrin önemli bir turizm merkezi olarak kabul ediliyor. Gazi Köşkü'nün etrafı, çeşitli ağaçlar ve bitkiler ile çevrilidir ve bu sayede ziyaretçilere doğal bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Gazi Köşkü'ne ziyaretçiler, Diyarbakır'ın Yenişehir ilçesine gelerek ula
 
 ## İlginç Bilgiler
 
-- Gazi Köşkü, 140 hektarlık bir alana yayılmıştır.
 - Bu mekan, Diyarbakır'ın Yenişehir ilçesinde yer almaktadır.
 - Gazi Köşkü, doğal güzelliği ve tarihi önemi ile dikkat çekmektedir.
 - Bu özel mekan, ziyaretçilere geniş bir açık alan sunuyor.

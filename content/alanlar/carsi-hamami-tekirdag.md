@@ -28,7 +28,7 @@ wikidata_id: "Q133245779"
 
 # Çarşı Hamamı, Tekirdağ
 
-Tekirdağ'ın merkezinde yer alan Çarşı Hamamı, yaklaşık 140 hektarlık bir alana yayılmış ve Marmara Denizi'nin güzel kıyılarını sunar. Çarşı Hamamı, şehrin kalbinde yer aldığı için ulaşımı oldukça kolaydır. Ziyaretçiler, burada güneşin ve denizin keyfini çıkarabilir, aynı zamanda çevredeki tarihi ve kültürel zenginlikleri keşfedebilirler. Çarşı Hamamı, Tekirdağ'ın önemli turizm noktalarından biri olarak bilinir.
+ Çarşı Hamamı, şehrin kalbinde yer aldığı için ulaşımı oldukça kolaydır. Ziyaretçiler, burada güneşin ve denizin keyfini çıkarabilir, aynı zamanda çevredeki tarihi ve kültürel zenginlikleri keşfedebilirler. Çarşı Hamamı, Tekirdağ'ın önemli turizm noktalarından biri olarak bilinir.
 
 ## Tarihçe
 

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","kuş gözlemciliği","fotoğr
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Tahar Tepesi","caption":"Tahar Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556892","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Tahar Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Tahar Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31556892"
@@ -28,7 +28,7 @@ wikidata_id: "Q31556892"
 
 # Tahar Tepesi
 
-Tahar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Tahar Tepesi, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Tepenin eteklerinde ve çevresinde, zengin bir fauna çeşitliliği göze çarpmakta. Bu tepenin güzelliği, sadece doğal güzelliğinden değil, aynı zamanda tarihi ve kültürel öneminden de kaynaklanıyor.
+ Tahar Tepesi, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Tepenin eteklerinde ve çevresinde, zengin bir fauna çeşitliliği göze çarpmakta. Bu tepenin güzelliği, sadece doğal güzelliğinden değil, aynı zamanda tarihi ve kültürel öneminden de kaynaklanıyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Tahar Tepesi'ni ziyaret etmek, doğayla iç içe bir gezi deneyimi sunuyor. Tepe
 
 ## İlginç Bilgiler
 
-- Tahar Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin deniz seviyesinden yüksekliği değişkenlik gösteriyor.
 - Tahar Tepesi, tarihi ve kültürel önemiına sahip.
 - Tepede, çeşitli bitki türleri ve fauna çeşitliliği göze çarpmakta.

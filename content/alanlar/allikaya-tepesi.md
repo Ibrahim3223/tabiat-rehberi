@@ -49,7 +49,7 @@ Allıkaya Tepesi'ni ziyaret etmek, Bursa'nın doğal güzelliklerini keşfetmek 
 ## İlginç Bilgiler
 
 - Allıkaya Tepesi, Bursa'nın önemli noktalarından biri
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Allıkaya Tepesi'nin etrafı, çeşitli bitki türleriyle dolu
 - Bu bölge, Bursa'nın ekolojik dengesini korumak için önemli bir rol oynuyor
 - Allıkaya Tepesi, tarih meraklılarının ilgisini çekecek bir yer

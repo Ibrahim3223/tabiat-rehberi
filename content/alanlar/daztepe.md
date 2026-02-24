@@ -49,7 +49,7 @@ Daztepe'yi ziyaret etmek, bölgenin doğal güzelliği ve tarihi önemi hakkınd
 ## İlginç Bilgiler
 
 - Daztepe, Siirt ilinin önemli bir turizm merkezi
-- Daztepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Daztepe, bir tepe olarak, çevresindeki diğer coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliğini sergiler
 - Daztepe, çeşitli bitki ve hayvan türleri ile yaşamaktadır
 - Daztepe, bir gözlem noktası olarak, ziyaretçilere geniş bir manzara sunar

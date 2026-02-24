@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotografcılık","bitki gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","caption":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa%20M.K.%20pa%C5%9Fa%20pa%C5%9Falar-Cataldaggoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228095","tip":"genel"}]
-description: "Bursa'da yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["milli park","Bursa","yeşil alan","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228095"
@@ -30,7 +30,7 @@ Bursa M.K. Paşa Paşalar-Cataldaggoknari milli parkının tarihi geçmişi, yü
 
 ## Coğrafya
 
-Bursa M.K. Paşa Paşalar-Cataldaggoknari milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal iklim özellikleri taşıyor. Ziyaretçiler, bu milli parkta çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebilir. Milli parkın etrafındaki çevre, ziyaretçilere geniş bir yeşil alan sunuyor.
+Bursa M.K. Paşa Paşalar-Cataldaggoknari milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal iklim özellikleri taşıyor. Ziyaretçiler, bu milli parkta çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebilir. Milli parkın etrafındaki çevre, ziyaretçilere geniş bir yeşil alan sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bursa M.K. Paşa Paşalar-Cataldaggoknari milli parkına ziyaretçiler, çeşitl
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
 - zengin flora ve fauna
 - iç Anadolu Bölgesi'nde yer alıyor

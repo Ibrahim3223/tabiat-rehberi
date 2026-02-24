@@ -38,7 +38,7 @@ Hoca Hasan Hamamı'nın tarihi geçmişi, yüzyıllar boyunca Elazığ şehrinin
 
 ## Coğrafya
 
-Hoca Hasan Hamamı, Elazığ şehrinin coğrafi yapısına uygun olarak inşa edilmiş ve doğa ile iç içe bir konumda yer alıyor. Hamamın bulunduğu bölge, etrafındaki dağlar ve vadilerle birlikte, ziyaretçilerine geniş ve çeşitli bir coğrafi manzara sunuyor. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve continental özellikler gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Hoca Hasan Hamamı'nın doğal güzelliklerini daha da dikkat çekici kılıyor. Hamamın çevresindeki doğa, çeşitli bitki türleri ve fauna ile zenginleştirilmiş ve ziyaretçilerine doğa yürüyüşleri ve keşifler için ideal bir ortam sunuyor. 140 hektarlık alan, ziyaretçilere geniş bir hareket alanı sağlıyor ve onları doğayla baş başa bırakıyor.
+Hoca Hasan Hamamı, Elazığ şehrinin coğrafi yapısına uygun olarak inşa edilmiş ve doğa ile iç içe bir konumda yer alıyor. Hamamın bulunduğu bölge, etrafındaki dağlar ve vadilerle birlikte, ziyaretçilerine geniş ve çeşitli bir coğrafi manzara sunuyor. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve continental özellikler gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Hoca Hasan Hamamı'nın doğal güzelliklerini daha da dikkat çekici kılıyor. Hamamın çevresindeki doğa, çeşitli bitki türleri ve fauna ile zenginleştirilmiş ve ziyaretçilerine doğa yürüyüşleri ve keşifler için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

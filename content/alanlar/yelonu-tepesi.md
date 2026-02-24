@@ -48,7 +48,6 @@ Yelönü Tepesi'ni ziyaret etmek, doğa severler için ideal bir gezi seçeneği
 
 ## İlginç Bilgiler
 
-- Yelönü Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor.
 - Yelönü Tepesi, mevsimsel değişimlere göre, farklı bitki türlerine ev sahipliği yapıyor.
 - Tepenin fauna açısından da zengin olduğunu söyleme mümkün.

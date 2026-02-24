@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Hammam_in_Bansko%2C_Strumica_%281%29.jpg","alt":"Eski Hamam manzarası","credit":"Тиверополник","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/03/Van_Eski_Van_-_bathhouse_4092.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Van_Eski_Van_-_bathhouse_4092.jpg/1280px-Van_Eski_Van_-_bathhouse_4092.jpg","alt":"Eski Hamam - Van Eski Van - bathhouse 4092","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Tarsus_Yeni_Hamam_in_2014_4691.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tarsus_Yeni_Hamam_in_2014_4691.jpg/1280px-Tarsus_Yeni_Hamam_in_2014_4691.jpg","alt":"Eski Hamam - Tarsus Yeni Hamam in 2014 4691","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Tarsus_Yeni_Hamam_in_2014_4696.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tarsus_Yeni_Hamam_in_2014_4696.jpg/1280px-Tarsus_Yeni_Hamam_in_2014_4696.jpg","alt":"Eski Hamam - Tarsus Yeni Hamam in 2014 4696","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Eski_Hamam_Kal%C4%B1nt%C4%B1s%C4%B1%2C_%C5%9Eile%2C_%C4%B0stanbul.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eski_Hamam_Kal%C4%B1nt%C4%B1s%C4%B1%2C_%C5%9Eile%2C_%C4%B0stanbul.jpg/1280px-Eski_Hamam_Kal%C4%B1nt%C4%B1s%C4%B1%2C_%C5%9Eile%2C_%C4%B0stanbul.jpg","alt":"Eski Hamam - Eski Hamam Kalıntısı, Şile, İstanbul","credit":"Karakalem","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/%C3%9Cnye_Eski_Hamam_3019.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%C3%9Cnye_Eski_Hamam_3019.jpg/1280px-%C3%9Cnye_Eski_Hamam_3019.jpg","alt":"Eski Hamam - Ünye Eski Hamam 3019","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738448","tip":"genel"}]
-description: "Niksar'da bulunan Eski Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Niksar","Eski Hamam","Karadeniz Bölgesi","plaj","doğa","gezi","turizm","Tokat","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738448"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738448"
 
 # Eski Hamam
 
-Eski Hamam, Tokat'ın Niksar ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çekici bir doğal güzellik olarak karşımıza çıkıyor. Eski Hamam'ın bu geniş ve yeşillikle kaplı alanı, hem doğa severler hem de dinlenme arayanlar için ideal bir destinasyon. Ziyaretçiler, bu eşsiz ortamda hem doğanın güzelliğini keşfedebilir hem de stres ve yorgunluktan uzaklaşabilir.
+ Eski Hamam'ın bu geniş ve yeşillikle kaplı alanı, hem doğa severler hem de dinlenme arayanlar için ideal bir destinasyon. Ziyaretçiler, bu eşsiz ortamda hem doğanın güzelliğini keşfedebilir hem de stres ve yorgunluktan uzaklaşabilir.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Eski Hamam'ı ziyaret etmek, hem doğa severler hem de dinlenme arayanlar için 
 
 ## İlginç Bilgiler
 
-- Eski Hamam, yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor
 - Bölge, yüzyıllar öncesine dayanan bir tarihe sahip
 - Eski Hamam, Karadeniz Bölgesi'nin güzelliklerini taşıyor
 - Bölge, coğrafi olarak deniz ve dağların birleştiği bir noktada yer alıyor

@@ -52,6 +52,6 @@ Cambazlı Anıt Mezar, ziyaretçilerine tarihi ve kültürel bir deneyim sunuyor
 
 - Cambazlı Anıt Mezar, Silifke'nin en önemli tarihi noktalarından biri
 - Bu anıt mezar, yüzyıllar boyunca çeşitli uygarlıkların yaşam alanı olarak kullanılmıştır
-- Cambazlı Anıt Mezar, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor
 - Cambazlı Anıt Mezar, yılın her dönemi ziyaret edilebilir

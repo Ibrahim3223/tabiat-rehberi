@@ -36,7 +36,7 @@ Zozandağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Zozandağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, yerli ve yabancı ziyaretçiler için bir doğa cenneti olarak kabul ediliyor. Zozandağı Tepesi'nin coğrafi konumu, Erzurum'un merkezine yakın bir konumda bulunması ile kolayca ulaşılabilir. Bu tepenin coğrafi yapısı, ziyaretçilere doğayı keşfetme ve bölgenin güzelliğini deneyimleme imkanı sunuyor. Zozandağı Tepesi'nin etrafı, çeşitli dağlar ve vadiler ile çevrili ve bu coğrafi yapısı, bölgenin doğal güzelliklerini daha da tăngiliyor.
+Zozandağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, yerli ve yabancı ziyaretçiler için bir doğa cenneti olarak kabul ediliyor. Zozandağı Tepesi'nin coğrafi konumu, Erzurum'un merkezine yakın bir konumda bulunması ile kolayca ulaşılabilir. Bu tepenin coğrafi yapısı, ziyaretçilere doğayı keşfetme ve bölgenin güzelliğini deneyimleme imkanı sunuyor. Zozandağı Tepesi'nin etrafı, çeşitli dağlar ve vadiler ile çevrili ve bu coğrafi yapısı, bölgenin doğal güzelliklerini daha da tăngiliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Zozandağı Tepesi'ni ziyaret etmek, doğa severler için bir hayal gibi geliyor
 
 ## İlginç Bilgiler
 
-- Zozandağı Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, Erzurum'un en önemli turistik noktalarından biri olarak kabul ediliyor.
 - Zozandağı Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Bu bölge, doğa severler için bir cennet olarak kabul ediliyor.

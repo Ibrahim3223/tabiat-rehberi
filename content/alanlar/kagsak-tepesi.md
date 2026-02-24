@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","doğa yürüyü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Kağşak Tepesi","caption":"Kağşak Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C4%9F%C5%9Fak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390501","tip":"genel"}]
-description: "Konya'nın doğal güzellikleri arasında yer alan Kağşak Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Konya","İç Anadolu Bölgesi","Kağşak Tepesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390501"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390501"
 
 # Kağşak Tepesi
 
-Kağşak Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile ziyaretçilerini bekleyen bir doğal güzelliktir. Konya'nın coğrafi yapısı ve iklimi, Kağşak Tepesi'nin oluşumunu etkilemiştir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler.
+ Konya'nın coğrafi yapısı ve iklimi, Kağşak Tepesi'nin oluşumunu etkilemiştir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kağşak Tepesi'ni ziyaret etmek, Konya'nın doğal güzelliklerini keşfetmek i
 
 ## İlginç Bilgiler
 
-- Kağşak Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini bekliyor.
 - Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler.
 - Kağşak Tepesi, Konya'nın coğrafi yapısı ve iklimi ile bağlantılıdır.
 - Tepenin oluşumu, jeolojik süreçler ve coğrafi olaylar ile ilgilidir.

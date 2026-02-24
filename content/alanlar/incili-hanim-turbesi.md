@@ -29,7 +29,7 @@ wikidata_id: "Q131391305"
 
 # İncili Hanım Türbesi
 
-İncili Hanım Türbesi, Sivas ilinin merkezinde yer alan ve tarihsel açıdan büyük önem taşıyan bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu türbe, aynı zamanda şehrin önemli bir sembolü haline gelmiştir. İncili Hanım Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir mekândır.
+İncili Hanım Türbesi, Sivas ilinin merkezinde yer alan ve tarihsel açıdan büyük önem taşıyan bir yapıdır. İncili Hanım Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir mekândır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391305"
 
 ## Coğrafya
 
-İncili Hanım Türbesi, İç Anadolu Bölgesi'nde yer alan Sivas ilinin merkezinde bulunuyor. Bu türbe, şehrin önemli bir coğrafi noktasında kurulmuş ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini etkiliyor. İncili Hanım Türbesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, türbenin önemini vurguluyor. Türbenin etrafındaki coğrafi yapı, ziyaretçilerin ilgi çekici bir gezi deneyimi yaşamasını sağlıyor. İncili Hanım Türbesi, Sivas'ın coğrafi güzelliklerinin önemli bir parçasıdır ve şehrin ziyaret edilmesi gereken yerlerinden biridir.
+İncili Hanım Türbesi, İç Anadolu Bölgesi'nde yer alan Sivas ilinin merkezinde bulunuyor. Bu türbe, şehrin önemli bir coğrafi noktasında kurulmuş ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini etkiliyor. Türbenin etrafındaki coğrafi yapı, ziyaretçilerin ilgi çekici bir gezi deneyimi yaşamasını sağlıyor. İncili Hanım Türbesi, Sivas'ın coğrafi güzelliklerinin önemli bir parçasıdır ve şehrin ziyaret edilmesi gereken yerlerinden biridir.
 
 ## Flora ve Fauna
 

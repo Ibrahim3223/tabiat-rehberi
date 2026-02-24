@@ -49,7 +49,7 @@ KocaalanTepesi'ni ziyaret etmek, özellikle doğa severler ve tarih meraklılar�
 ## İlginç Bilgiler
 
 - KocaalanTepesi, Kütahya'nın en önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - KocaalanTepesi, özellikle doğa severler ve tarih meraklıları için bir cennet
 - Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sunuyor
 - KocaalanTepesi, ilkbahar ve sonbahar aylarında ziyaret ediliyor

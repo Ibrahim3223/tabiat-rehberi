@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","çevre gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Kars-Sarikamis-Boyali Saricam","caption":"Kars-Sarikamis-Boyali Saricam","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis-Boyali%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227693","tip":"genel"}]
-description: "Doğu Anadolu'nun güzelliklerini keşfedin. Kars-Sarikamis-Boyali Saricam milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Doğu Anadolu'nun güzelliklerini keşfedin."
 keywords: ["Kars-Sarikamis-Boyali Saricam","Doğu Anadolu","milli park","doğal alan","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227693"
@@ -42,7 +42,6 @@ Kars-Sarikamis-Boyali Saricam milli parkını ziyaret etmek, doğal güzellikler
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkın çevresi, çeşitli bitki türleriyle kaplıdır
 - Milli parkta, zengin fauna ile ziyaretçilerini eğlendirmektedir
 - Milli parkın iklimi, bölgenin coğrafi konumuna göre şekillenmektedir

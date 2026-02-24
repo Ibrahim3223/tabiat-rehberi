@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Doğma Tepesi","caption":"Doğma Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fma%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568790","tip":"genel"}]
-description: "Zonguldak'ta, Karadeniz Bölgesi'nin güzide noktalarından biri olan Doğma Tepesi, 140 hektarlık geniş bir alanı kaplayan doğal bir güzellik."
+"
 keywords: ["Doğma Tepesi","Zonguldak","Karadeniz Bölgesi","doğal güzellik","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31568790"
@@ -48,7 +48,6 @@ Doğma Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyimdir. Tepenin manzara
 
 ## İlginç Bilgiler
 
-- Doğma Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin yüksekliği, bölgenin diğer noktalarına göre oldukça yüksektir.
 
 - Tepenin eteklerinde, çeşitli akarsular ve dereler bulunur.

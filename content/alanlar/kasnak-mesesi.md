@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/71/DSCF9888ed_quercus_vulcanica.jpg","alt":"Kasnak Mesesi manzarası","credit":"Bournabat","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasnak%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227062","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Kasnak Mesesi milli parkında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kasnak Mesesi","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227062"
@@ -31,7 +31,7 @@ Kasnak Mesesi milli parkının tarihi geçmişi, yüzyıllar boyunca bölgeye h�
 
 ## Coğrafya
 
-Kasnak Mesesi milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Parkın 140 hektarlık alanı, çeşitli coğrafi oluşumları barındırmakta. Bölge, dağlar, ovalar ve ormanlık alanlardan oluşmakta. Parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına elverişli bir ortam sunuyor. Kasnak Mesesi milli parkı, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi yapısı, aynı zamanda ziyaretçilere bölge hakkında daha detaylı bilgi edinme fırsatı sunuyor. Parkın içerisinde bulunan çeşitli coğrafi oluşumlar, ziyaretçilere bölgeyi daha iyi anlama ve takdir etmek için önemli bir fırsat sunuyor.
+Kasnak Mesesi milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bölge, dağlar, ovalar ve ormanlık alanlardan oluşmakta. Parkın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına elverişli bir ortam sunuyor. Kasnak Mesesi milli parkı, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi yapısı, aynı zamanda ziyaretçilere bölge hakkında daha detaylı bilgi edinme fırsatı sunuyor. Parkın içerisinde bulunan çeşitli coğrafi oluşumlar, ziyaretçilere bölgeyi daha iyi anlama ve takdir etmek için önemli bir fırsat sunuyor.
 
 ## Flora ve Fauna
 

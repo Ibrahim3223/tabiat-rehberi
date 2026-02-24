@@ -36,7 +36,7 @@ Mancılık Kaya'nın tarihi geçmişi, binlerce yıllık bir geçmişe uzanıyor
 
 ## Coğrafya
 
-Mancılık Kaya, Hatay ilinin coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Mancılık Kaya, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, ziyaretçilere geniş bir manzara sunuyor. Coğrafi konumu itibariyle, Mancılık Kaya, doğa severlerin ve coğrafya meraklılarının ilgisini çekiyor. Bu bölgenin iklimi, Akdeniz ikliminin özellikleri taşıyor ve thus, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçiyor. Bu iklim, Mancılık Kaya'nın flora ve faunasını çeşitlendirmiş ve zenginleştirmiştir.
+Mancılık Kaya, Hatay ilinin coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Coğrafi konumu itibariyle, Mancılık Kaya, doğa severlerin ve coğrafya meraklılarının ilgisini çekiyor. Bu bölgenin iklimi, Akdeniz ikliminin özellikleri taşıyor ve thus, yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçiyor. Bu iklim, Mancılık Kaya'nın flora ve faunasını çeşitlendirmiş ve zenginleştirmiştir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Mancılık Kaya'yı ziyaret etmek, doğa severler ve tarihi eserlere ilgi duyanl
 
 ## İlginç Bilgiler
 
-- Mancılık Kaya, 140 hektarlık bir alanı kaplıyor
 - Bu bölge, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor
 - Mancılık Kaya, zengin bir flora ve fauna çeşitliliğine sahip
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır

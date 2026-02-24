@@ -48,7 +48,6 @@ Kızıltaş Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için i
 
 ## İlginç Bilgiler
 
-- Kızıltaş Tepe, 140 hektarlık bir alana sahiptir
 - Tepe, Antalya'nın turizm açısından önemli noktalarından biridir
 - Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Tepe, coğrafi açıdan önemli bir noktada yer alır

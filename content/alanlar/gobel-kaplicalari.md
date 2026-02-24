@@ -49,7 +49,7 @@ Göbel Kaplıcaları'nı ziyaret etmek, sağlık turizmi ve doğayla iç içe bi
 ## İlginç Bilgiler
 
 - Göbel Kaplıcaları, termal kaynak suyuyla ünlü bir destinasyondur.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Göbel Kaplıcaları, sağlık turizmi açısından önemli bir yere sahiptir.
 - Bölge, zengin tarihi ve kültürel mirasa sahiptir.
 - Göbel Kaplıcaları, Ege Bölgesi'nin coğrafi zenginliklerini taşır.

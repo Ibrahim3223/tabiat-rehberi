@@ -22,7 +22,7 @@ wikidata_id: "Q108226221"
 
 # Nevsehir-Hacibektas-ZirMahallesi Sit Alanı
 
-Nevşehir ilinin Hacibektas ilçesinde bulunan ZirMahallesi Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Doğal güzelliği ve tarihi değerleriyle ön plana çıkan bu sit alanı, hem doğa hem de tarih severlerin ilgisini çekiyor. ZirMahallesi Sit Alanı, Nevşehir'in coğrafi ve kültürel zenginliklerini bir araya getiren özel bir yer.
+ Doğal güzelliği ve tarihi değerleriyle ön plana çıkan bu sit alanı, hem doğa hem de tarih severlerin ilgisini çekiyor. ZirMahallesi Sit Alanı, Nevşehir'in coğrafi ve kültürel zenginliklerini bir araya getiren özel bir yer.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Nevsehir-Hacibektas-ZirMahallesi Sit Alanı, çeşitli bitki türleri ve zengin 
 Nevsehir-Hacibektas-ZirMahallesi Sit Alanı, ziyaretçilerini bekliyor. Bu alan, Nevşehir ilinin Hacibektas ilçesinde bulunuyor ve ulaşımı kolay. ZirMahallesi Sit Alanı, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir. Bu mevsimlerde, alanın doğal güzelliği daha da ön plana çıkıyor. Ziyaretçiler, bu alanı gezerken, tarihi yapıları, anıtları ve kalıntıları görebilirler. Ayrıca, alanın flora ve fauna açısından zengin olması, doğa severler için ideal bir destinasyon oluşturuyor.
 
 ## İlginç Bilgiler
-
-- Nevsehir-Hacibektas-ZirMahallesi Sit Alanı, 140 hektarlık bir alanı kapsıyor.
 
 - ZirMahallesi Sit Alanı, Nevşehir ilinin Hacibektas ilçesinde bulunuyor.
 - Alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.

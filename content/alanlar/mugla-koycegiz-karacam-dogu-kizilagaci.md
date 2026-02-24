@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa keşfi","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","caption":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Karacam-Dogu%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228541","tip":"genel"}]
-description: "Muğla'nın Koycegiz ilçesinde yer alan milli park, 140 hektarlık alanı ile ziyaretçilerini ağırlıyor."
+"
 keywords: ["Mugla-Koycegiz-Karacam-Dogu Kizilagaci","milli park","Muğla","Koycegiz","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228541"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228541"
 
 # Mugla-Koycegiz-Karacam-Dogu Kizilagaci
 
-Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkı, Muğla'nın Koycegiz ilçesinde yer alan 140 hektarlık bir área. Parkın konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Parkın konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

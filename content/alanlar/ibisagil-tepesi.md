@@ -49,7 +49,7 @@ wikidata_id: "Q31390513"
 ## İlginç Bilgiler
 
 - İbişağıl Tepesi, Konya'nın en önemli coğrafi oluşumlarından biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - İbişağıl Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Tepenin etrafında, tarihi yapılar ve kalıntılar mevcuttur.
 - İbişağıl Tepesi, Konya'nın zengin flora ve faunasını yansıtan önemli bir noktadır.

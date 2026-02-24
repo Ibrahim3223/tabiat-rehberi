@@ -28,7 +28,7 @@ wikidata_id: "Q31544306"
 
 # Biradider Tepesi
 
-Biradider Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan önemli bir coğrafi oluşum. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Biradider Tepesi, Batman'ın coğrafi yapısını etkileyen önemli faktörlerden biri. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu tepe, aynı zamanda bölgede yaşayan halk için önemli bir doğal kaynak.
+Biradider Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan önemli bir coğrafi oluşum. Biradider Tepesi, Batman'ın coğrafi yapısını etkileyen önemli faktörlerden biri. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu tepe, aynı zamanda bölgede yaşayan halk için önemli bir doğal kaynak.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Biradider Tepesi, doğa severler için önemli bir gezi noktası. Tepenin etraf�
 
 ## İlginç Bilgiler
 
-- Biradider Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafı, çeşitli bitki türleri ile kaplı.
 - Biradider Tepesi, zengin fauna ile dikkat çekiyor.
 - Tepenin coğrafi konumu, bölgede yaşayan halk için önemli bir faktör.

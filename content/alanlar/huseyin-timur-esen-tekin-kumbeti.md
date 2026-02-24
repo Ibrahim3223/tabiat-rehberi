@@ -29,7 +29,7 @@ wikidata_id: "Q135582808"
 
 # Hüseyin Timur-Esen Tekin Kümbeti
 
-Hüseyin Timur-Esen Tekin Kümbeti, Doğu Anadolu Bölgesi'nin Ahlat/Bitlis ilçesinde bulunan ve tarihi açıdan önemli bir yapıdır. Bu kümbet, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve çevresindeki doğal güzelliklerle birlikte bir bütün olarak düşünülmelidir. 200 futbol sahası büyüklüğündeki bu alan, tarihi ve coğrafi açıdan büyük bir değer taşımaktadır. Hüseyin Timur-Esen Tekin Kümbeti, ziyaretçilerini tarihin derinliklerine götürerek, Doğu Anadolu Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunmaktadır.
+Hüseyin Timur-Esen Tekin Kümbeti, Doğu Anadolu Bölgesi'nin Ahlat/Bitlis ilçesinde bulunan ve tarihi açıdan önemli bir yapıdır. Hüseyin Timur-Esen Tekin Kümbeti, ziyaretçilerini tarihin derinliklerine götürerek, Doğu Anadolu Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Hüseyin Timur-Esen Tekin Kümbeti'ni ziyaret etmek, tarihin derinliklerine göt
 
 - Hüseyin Timur-Esen Tekin Kümbeti, Doğu Anadolu Bölgesi'nin en önemli tarihi yapılarından biridir.
 - Bu kümbet, Ahlat/Bitlis'in tarihi ve kültürel mirasını yansıtmaktadır.
-- Hüseyin Timur-Esen Tekin Kümbeti, yaklaşık 140 hektarlık bir alan üzerinde yer almaktadır.
+
 - Bu bölge, flora ve fauna açısından zengin bir çeşitlilik taşımaktadır.
 - Hüseyin Timur-Esen Tekin Kümbeti, ziyaretçilerini tarihin derinliklerine götürerek, Doğu Anadolu Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunmaktadır.

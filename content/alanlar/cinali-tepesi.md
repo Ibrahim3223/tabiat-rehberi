@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Manzara İzleme","Fotoğrafçılık","Tarih
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Cinali Tepesi","caption":"Cinali Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cinali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390580","tip":"genel"}]
-description: "Nevşehir'in görkemli doğal güzelliği, Cinali Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Cinali Tepesi","Nevşehir","Doğa","Tepeler","Coğrafya","Flora","Fauna","Gezi","Tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390580"
@@ -48,7 +48,6 @@ Cinali Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için bir 
 
 ## İlginç Bilgiler
 
-- Cinali Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, bölgenin genel coğrafyasını etkileyen önemli bir faktör.
 - Cinali Tepesi, zengin bir flora ve faunaya sahip.
 - Tepenin etrafında, çeşitli su kaynakları ve nehirler bulunmakla birlikte, tepenin kendisi de su kaynakları için önemli bir rol oynuyor.

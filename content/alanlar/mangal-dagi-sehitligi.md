@@ -49,8 +49,6 @@ Mangal Dağı Şehitliği, ziyaretçilerine çeşitli gezme olanakları sunmakta
 
 ## İlginç Bilgiler
 
-- Mangal Dağı Şehitliği, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
-
 - Mangal Dağı Şehitliği, özellikle şehitlik olarak bilinen bölümü ile dikkat çekmektedir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Mangal Dağı Şehitliği, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile birlikte sunulmaktadır.

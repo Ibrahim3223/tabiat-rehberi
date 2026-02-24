@@ -50,7 +50,6 @@ Kaya Mezarı 1'i ziyaret etmek, Zafer Mahallesi ve Altınordu'nun güzelliğini 
 ## İlginç Bilgiler
 
 - Kaya Mezarı 1, Zafer Mahallesi'nin önemli bir tarihi ve doğal alanıdır.
-- Bölge, 140 hektarlık geniş bir yeşil alanı kaplar.
 
 - Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir.
 - Kaya Mezarı 1, ziyaretçilere doğanın güzelliğini ve bölgenin coğrafi çeşitliliğini keşfetme fırsatı sunar.

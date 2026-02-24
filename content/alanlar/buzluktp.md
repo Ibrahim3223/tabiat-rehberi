@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografcılık","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg/960px-De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg","alt":"BUZLUK_TP","caption":"BUZLUK_TP","credit":"Değirmenboğazı Tabiat Parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BUZLUK_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229004","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
+
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","gezi","yaban hayatı","flora","fauna","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229004"
@@ -22,7 +22,7 @@ wikidata_id: "Q108229004"
 
 # BUZLUK_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan BUZLUK_TP, 140 hektarlık geniş bir alanı kapsıyor. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir. BUZLUK_TP, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+ Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir. BUZLUK_TP, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ BUZLUK_TP'yi ziyaret etmek, doğa severler ve macera arayanlar için ideal bir a
 
 ## İlginç Bilgiler
 
-- BUZLUK_TP, 140 hektarlık bir alanı kapsıyor
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Ziyaretçiler, doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir
 - BUZLUK_TP, hem doğa severler hem de macera arayanlar için ideal bir destinasyon
 - Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor

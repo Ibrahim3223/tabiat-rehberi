@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 64'i ziyaret etmek, ziyaretçilere zengin bir tarihi ve
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 64, Ege Bölgesi'nin önemli tarihi ve kültürel alanlarından biridir.
-- Bölge, 140 hektarlık bir alanı kaplar.
+
 - Tümülüsler, antik dönemden kalan önemli yapılardır.
 - Bölge, yılın her dönemi ziyaret edilebilir.
 - Bin Tepeler Tümülüsü 64, ziyaretçilere zengin bir tarihi ve kültürel deneyim sunar.

@@ -23,7 +23,7 @@ wikidata_id: "Q55700301"
 
 # Ayas Paşa Türbesi
 
-Ayas Paşa Türbesi, İç Anadolu Bölgesi'nin merkezi bir konumda yer alır ve 140 hektarlık bir alanı kaplar. Ayas Paşa Türbesi, tarihi bir geçmişe sahiptir ve bölgenin önemli kültürel miraslarından biri olarak kabul edilir. Türbenin mimarisi, Osmanlı dönemine ait özellikleri taşır ve ziyaretçilere eşsiz bir görsel deneyim sunar. Ayas Paşa Türbesi, hem tarihi hem de doğa severler için bir çekim merkezi olarak karşımıza çıkar.
+ Ayas Paşa Türbesi, tarihi bir geçmişe sahiptir ve bölgenin önemli kültürel miraslarından biri olarak kabul edilir. Türbenin mimarisi, Osmanlı dönemine ait özellikleri taşır ve ziyaretçilere eşsiz bir görsel deneyim sunar. Ayas Paşa Türbesi, hem tarihi hem de doğa severler için bir çekim merkezi olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Ayas Paşa Türbesi, tarihi geçmişi ile dikkat çeker. Osmanlı döneminde in�
 
 ## Coğrafya
 
-Ayas Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bölge, geniş ovaları ve dağlık alanlarıyla karakterizedir. Ayas Paşa Türbesi, bu coğrafi yapı içinde, 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir açık alan sunar. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Mevsimsel değişimlerle birlikte, çevredeki doğa manzaraları da değişir ve ziyaretçilere farklı bir deneyim sunar. Ayas Paşa Türbesi, coğrafi konumu itibariyle, hem doğa hem de tarih severler için önemli bir destinasyon olarak ortaya çıkar. İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösterir ve bu, türbenin çevresindeki flora ve fauna üzerinde önemli bir etkiye sahiptir.
+Ayas Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bölge, geniş ovaları ve dağlık alanlarıyla karakterizedir. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Mevsimsel değişimlerle birlikte, çevredeki doğa manzaraları da değişir ve ziyaretçilere farklı bir deneyim sunar. Ayas Paşa Türbesi, coğrafi konumu itibariyle, hem doğa hem de tarih severler için önemli bir destinasyon olarak ortaya çıkar. İç Anadolu Bölgesi'nin iklimi, karasal iklim özellikleri gösterir ve bu, türbenin çevresindeki flora ve fauna üzerinde önemli bir etkiye sahiptir.
 
 ## Flora ve Fauna
 

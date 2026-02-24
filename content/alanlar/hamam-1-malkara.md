@@ -50,7 +50,7 @@ Hamam 1, Malkara, flora ve fauna açısından zengin bir yapıya sahip. Bu plaj,
 ## İlginç Bilgiler
 
 - Hamam 1, Malkara, İstanbul Vilayeti'nin sınırları içerisinde yer alıyor
-- Plaj, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş
+
 - Malkara'nın turizm potansiyelini gösteren önemli bir nokta
 - Zengin flora ve fauna yapısına sahip
 - İlkbahar ve yaz ayları en iyi ziyaret dönemi

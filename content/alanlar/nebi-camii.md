@@ -38,7 +38,7 @@ Nebi Camii'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu mekan,
 
 ## Coğrafya
 
-Nebi Camii, Sur/Diyarbakır'da yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafyasını yansıtıyor. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Nebi Camii'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu mekan, ziyaretçilerine doğal güzelliklerini keşfetme fırsatı sunuyor ve onları bu bölgeye özgü flora ve faunaya tanıtıyor. Nebi Camii'nin coğrafyası, aynı zamanda ziyaretçilerine bölgenin iklimini ve çevresel özelliklerini keşfetme fırsatı sunuyor.
+Nebi Camii, Sur/Diyarbakır'da yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafyasını yansıtıyor. Nebi Camii'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu mekan, ziyaretçilerine doğal güzelliklerini keşfetme fırsatı sunuyor ve onları bu bölgeye özgü flora ve faunaya tanıtıyor. Nebi Camii'nin coğrafyası, aynı zamanda ziyaretçilerine bölgenin iklimini ve çevresel özelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Nebi Camii, ziyaretçilerine çeşitli etkinlikler sunuyor. Bu mekan, ziyaretçi
 ## İlginç Bilgiler
 
 - Nebi Camii, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktada bulunuyor.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Nebi Camii, ziyaretçilerine tarihi atmosferini hissettirmeyi başarıyor.
 - Bu mekan, ziyaretçilerine doğal güzelliklerini keşfetme fırsatı sunuyor.
 - Nebi Camii, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor.

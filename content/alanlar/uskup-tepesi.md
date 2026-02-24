@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme","fotoğrafçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Üsküp Tepesi","caption":"Üsküp Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCp%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810080","tip":"genel"}]
-description: "Bursa'nın önemli natural güzelliklerinden biri olan Üsküp Tepesi, 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor."
+"
 keywords: ["Üsküp Tepesi","Bursa","Marmara Bölgesi","doğal alan","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34810080"
@@ -36,7 +36,7 @@ wikidata_id: "Q34810080"
 
 ## Coğrafya
 
-Üsküp Tepesi, coğrafi konumu itibariyle Bursa'nın merkezi bir noktasında yer alıyor. Tepenin etekleri, şehrin yerleşim alanlarına kadar uzanıyor ve bu sayede, ziyaretçiler kolayca ulaşım sağlayabiliyorlar. Üsküp Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin zirvesi, şehre ve çevresine hakim bir konumda bulunuyor ve ziyaretçilere geniş bir manzara sunuyor. Üsküp Tepesi, iklim olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, karasal ve denizel iklimlerin karışımı ile oluşan bir iklim özelliğine sahip ve bu, bölgenin flora ve faunasına da yansıyor. Tepenin iklimi, mevsimsel olarak değişkenlik gösteriyor ve bu değişkenlik, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Üsküp Tepesi, coğrafi konumu itibariyle Bursa'nın merkezi bir noktasında yer alıyor. Tepenin etekleri, şehrin yerleşim alanlarına kadar uzanıyor ve bu sayede, ziyaretçiler kolayca ulaşım sağlayabiliyorlar. Tepenin zirvesi, şehre ve çevresine hakim bir konumda bulunuyor ve ziyaretçilere geniş bir manzara sunuyor. Üsküp Tepesi, iklim olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, karasal ve denizel iklimlerin karışımı ile oluşan bir iklim özelliğine sahip ve bu, bölgenin flora ve faunasına da yansıyor. Tepenin iklimi, mevsimsel olarak değişkenlik gösteriyor ve bu değişkenlik, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ wikidata_id: "Q34810080"
 
 - Üsküp Tepesi, Bursa'nın en önemli doğal güzelliklerinden biri.
 - Tepenin adı, tarihin farklı dönemlerinden geliyor.
-- Üsküp Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Tepenin zirvesi, şehre ve çevresine hakim bir konumda bulunuyor.
 - Üsküp Tepesi, zengin bir flora ve fauna ile kaplı.

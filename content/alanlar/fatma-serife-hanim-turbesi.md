@@ -52,6 +52,6 @@ Fatma Şerife Hanım Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal g�
 
 - Fatma Şerife Hanım Türbesi, İstanbul'un önemli tarihi yapılarından biridir.
 - Bu türbe, Marmara Bölgesi'nin güzelliklerini sunar.
-- Fatma Şerife Hanım Türbesi, 140 hektarlık bir yeşil alana sahiptir.
+
 - Bu bölge, çeşitli bitki türlerine ev sahipliği yapar.
 - Fatma Şerife Hanım Türbesi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiştir.

@@ -50,7 +50,7 @@ Habib-i Acem Türbesi'ni ziyaret etmek, Çivril'in tarihi ve kültürel mirasın
 ## İlginç Bilgiler
 
 - Habib-i Acem Türbesi, Çivril'in en önemli tarihi yapılarından biridir
-- Türbe, 140 hektarlık bir alanda yer alır
+
 - Türbenin tarihi geçmişi, yüzyıllar öncesine dayanır
 - Çivril, Ege Bölgesi'nin önemli bir merkezidir
 - Habib-i Acem Türbesi, ziyaretçilerini geçmişe götürerek, tarihin izlerini sürme fırsatı sunar

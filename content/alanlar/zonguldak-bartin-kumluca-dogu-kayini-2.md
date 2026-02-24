@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Zonguldak-Bartin-Kumluca Dogu Kayini 2","caption":"Zonguldak-Bartin-Kumluca Dogu Kayini 2","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Bartin-Kumluca%20Dogu%20Kayini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227797","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta yer alan Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor."
+"
 keywords: ["Zonguldak","milli park","doğa","Karadeniz Bölgesi","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227797"
@@ -30,7 +30,7 @@ Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. parkın coğrafi konumu, ziyaretçilerine farklı iklim koşullarını ve doğal güzellikleri deneyimleme fırsatı sunuyor. Bölgenin yer şekilleri, flora ve fauna çeşitliliği, ziyaretçileri doğanın içinde bir maceraya davet ediyor. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Bölgenin coğrafi yapısı, yüzyıllar boyunca oluşmuş ve bu nedenle de çok zengin bir ekosisteme sahip.
+Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. parkın coğrafi konumu, ziyaretçilerine farklı iklim koşullarını ve doğal güzellikleri deneyimleme fırsatı sunuyor. Bölgenin yer şekilleri, flora ve fauna çeşitliliği, ziyaretçileri doğanın içinde bir maceraya davet ediyor. Bölgenin coğrafi yapısı, yüzyıllar boyunca oluşmuş ve bu nedenle de çok zengin bir ekosisteme sahip.
 
 ## Flora ve Fauna
 

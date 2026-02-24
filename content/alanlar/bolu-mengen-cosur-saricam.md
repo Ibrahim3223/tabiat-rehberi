@@ -30,7 +30,7 @@ Bolu-Mengen-Cosur Saricam milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Bolu-Mengen-Cosur Saricam milli parkı, Karadeniz Bölgesi'nde bulunuyor ve coğrafi olarak zengin bir yapıya sahiptir. Milli park, 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Ormanlık alanlar, göller, akarsular ve tepeler, milli parkın coğrafi yapısını oluşturan temel unsurlar. Bu coğrafi çeşitlilik, ziyaretçilere farklı deneyimler sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak yağışlı ve serin. Bu iklim, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına katkıda bulunmuş. Milli parkın çevresi, doğal güzelliklere sahip ve birçok turistik mekanla çevrili.
+Bolu-Mengen-Cosur Saricam milli parkı, Karadeniz Bölgesi'nde bulunuyor ve coğrafi olarak zengin bir yapıya sahiptir. Ormanlık alanlar, göller, akarsular ve tepeler, milli parkın coğrafi yapısını oluşturan temel unsurlar. Bu coğrafi çeşitlilik, ziyaretçilere farklı deneyimler sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak yağışlı ve serin. Bu iklim, bitki örtüsünün zenginleşmesine ve fauna çeşitliliğinin artmasına katkıda bulunmuş. Milli parkın çevresi, doğal güzelliklere sahip ve birçok turistik mekanla çevrili.
 
 ## Flora ve Fauna
 
@@ -43,6 +43,6 @@ Bolu-Mengen-Cosur Saricam milli parkını ziyaret etmek, doğa severler ve tarih
 ## İlginç Bilgiler
 
 - Bolu-Mengen-Cosur Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri
-- Milli park, 140 hektarlık bir alanı kapsıyor
+
 - Bolu-Mengen-Cosur Saricam, çeşitli bitki türleri ve hayvanlarla dolu
 - Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak yağışlı ve serin

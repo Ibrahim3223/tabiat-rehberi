@@ -29,7 +29,7 @@ wikidata_id: "Q131738507"
 
 # Yalı Hamamı
 
-Yalı Hamamı, Çanakkale'nin merkezinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. Yalı Hamamı, denize girilebilecek en güzel yerlerden biri olarak bilinir ve özellikle yaz aylarında turistlerin ve yerel halkın ziyaret ettiği bir noktadır. Plajın çevresinde çeşitli sosyal tesisler ve işletmeler bulunur, bu da ziyaretçilerin konaklama, yeme içme ve eğlence ihtiyaçlarını karşılamalarına olanak tanır.
+ Yalı Hamamı, denize girilebilecek en güzel yerlerden biri olarak bilinir ve özellikle yaz aylarında turistlerin ve yerel halkın ziyaret ettiği bir noktadır. Plajın çevresinde çeşitli sosyal tesisler ve işletmeler bulunur, bu da ziyaretçilerin konaklama, yeme içme ve eğlence ihtiyaçlarını karşılamalarına olanak tanır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yalı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yüzy�
 
 ## Coğrafya
 
-Yalı Hamamı, Çanakkale ilinin merkezinde, denize kıyısı olan bir bölgede bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar ve geniş, uzun kumsalıyla bilinir. Yalı Hamamı'nın coğrafi konumu, denizle iç içe olmasını sağlar ve bu da ziyaretçilere güzel bir manzara sunar. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da bölgenin doğal güzelliğini arttırmaktadır. Yalı Hamamı, Çanakkale'nin iklimine uygun olarak, yaz aylarında sıcak ve güneşli, kış aylarında ise ılıman bir hava durumuna sahiptir. Bu durum, plajı yıl boyunca ziyaret edilebilir kılar.
+Yalı Hamamı, Çanakkale ilinin merkezinde, denize kıyısı olan bir bölgede bulunmaktadır. Yalı Hamamı'nın coğrafi konumu, denizle iç içe olmasını sağlar ve bu da ziyaretçilere güzel bir manzara sunar. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur, bu da bölgenin doğal güzelliğini arttırmaktadır. Yalı Hamamı, Çanakkale'nin iklimine uygun olarak, yaz aylarında sıcak ve güneşli, kış aylarında ise ılıman bir hava durumuna sahiptir. Bu durum, plajı yıl boyunca ziyaret edilebilir kılar.
 
 ## Flora ve Fauna
 

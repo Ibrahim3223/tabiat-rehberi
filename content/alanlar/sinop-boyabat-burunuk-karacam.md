@@ -30,7 +30,7 @@ Sinop-Boyabat-Burunuk Karacam milli parkı, yüzyıllar boyunca insan yerleşimi
 
 ## Coğrafya
 
-Sinop-Boyabat-Burunuk Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtıyor. Parkın konumu, ziyaretçilere Karadeniz'in doğal güzelliklerini keşfetme fırsatı sunuyor. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, doğa yürüyüşleri ve gözlem noktaları için ideal. Karadeniz Bölgesi'nin iklimi, parkın bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Parkın coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Parkın etrafında, çeşitli köyler ve kasabalar bulunuyor ve bu yerleşim birimlerinden bazıları, tarihi geçmişi ile dikkat çekiyor.
+Sinop-Boyabat-Burunuk Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtıyor. Parkın konumu, ziyaretçilere Karadeniz'in doğal güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi yapısı, doğa yürüyüşleri ve gözlem noktaları için ideal. Karadeniz Bölgesi'nin iklimi, parkın bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Parkın coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Parkın etrafında, çeşitli köyler ve kasabalar bulunuyor ve bu yerleşim birimlerinden bazıları, tarihi geçmişi ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -37,7 +37,7 @@ Büyük Anafarta Şehitliği, Çanakkale Savaşı'nın yaşandığı dönemde, b
 
 ## Coğrafya
 
-Büyük Anafarta Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alıyor. Bu bölge, Çanakkale Boğazı'nın yakınında ve Ege Denizi'nin kıyısında bulunuyor. Şehitlik, 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilere geniş bir gezi alanı sunuyor. Bölgenin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Deniz seviyesinden yüksek bir konumda yer alan şehitlik, çevredeki tepe ve dağlarla birlikte güzel bir manzara sunuyor. İklim, Ege Bölgesi'ne özgü Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılık geçiyor. Büyük Anafarta Şehitliği, coğrafi konumu itibariyle önemli bir noktada yer alıyor ve ziyaretçiler, şehitliği gezerken, aynı zamanda güzel bir manzara da seyrediyorlar.
+Büyük Anafarta Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alıyor. Bu bölge, Çanakkale Boğazı'nın yakınında ve Ege Denizi'nin kıyısında bulunuyor. Bölgenin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Deniz seviyesinden yüksek bir konumda yer alan şehitlik, çevredeki tepe ve dağlarla birlikte güzel bir manzara sunuyor. İklim, Ege Bölgesi'ne özgü Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılık geçiyor. Büyük Anafarta Şehitliği, coğrafi konumu itibariyle önemli bir noktada yer alıyor ve ziyaretçiler, şehitliği gezerken, aynı zamanda güzel bir manzara da seyrediyorlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Büyük Anafarta Şehitliği'ni ziyaret etmek, tarihe ilgi duyanlar için öneml
 
 ## İlginç Bilgiler
 
-- Büyük Anafarta Şehitliği, 140 hektarlık bir alan üzerinde kurulmuştur.
 - Şehitlik, Çanakkale Savaşı'nda şehit olan askerlerin anısına yapılmıştır.
 - Büyük Anafarta Şehitliği, Türk milletinin bağımsızlık mücadelesinin sembollerinden biri olarak kabul edilir.
 - Şehitlik, her yıl çok sayıda ziyaretçi tarafından ziyaret edilmektedir.

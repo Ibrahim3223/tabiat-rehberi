@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","kuş gözlemleme","fotografçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Aktaş Gölü Sulak Alanı","caption":"Aktaş Gölü Sulak Alanı","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akta%C5%9F%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228875","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Aktaş Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["sulak alan","iç anadolu","doğa","göl","çevre","ekosistem","koruma","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228875"
@@ -30,7 +30,7 @@ Aktaş Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca insanları
 
 ## Coğrafya
 
-Aktaş Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş bir doğal alan. Göl, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafında bulunan tarım arazileri, bu bölgenin ekonomik önemini gösteriyor. Gölün su seviyesi, mevsimsel değişimlere göre farklılık gösteriyor ve bu durum, bölgenin ekosistemini etkiliyor. Aktaş Gölü Sulak Alanı, aynı zamanda birçok nehrin ve derenin birleştiği bir bölge ve bu durum, gölün su kalitesini etkiliyor. Gölün etrafında bulunan dağlar ve tepeler, bu bölgenin coğrafi yapısını şekillendiriyor ve aynı zamanda doğal bir koruma alanı olarak hizmet ediyor.
+Aktaş Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuş bir doğal alan. Gölün su seviyesi, mevsimsel değişimlere göre farklılık gösteriyor ve bu durum, bölgenin ekosistemini etkiliyor. Aktaş Gölü Sulak Alanı, aynı zamanda birçok nehrin ve derenin birleştiği bir bölge ve bu durum, gölün su kalitesini etkiliyor. Gölün etrafında bulunan dağlar ve tepeler, bu bölgenin coğrafi yapısını şekillendiriyor ve aynı zamanda doğal bir koruma alanı olarak hizmet ediyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Aktaş Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir
 
 ## İlginç Bilgiler
 
-- Aktaş Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölgede, birçok farklı kuş türü yaşadığı biliniyor
 - Gölün etrafında bulunan tarım arazileri, bu bölgenin ekonomik önemini gösteriyor
 - Aktaş Gölü Sulak Alanı, doğal koruma alanı olarak kabul ediliyor

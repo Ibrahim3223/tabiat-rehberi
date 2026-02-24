@@ -22,7 +22,7 @@ wikidata_id: "Q108227650"
 
 # Isparta-Egirdir-A.gokdere Kızılçam
 
-Isparta'nın yeşilin her tonunu bir araya getiren Egirdir-A. Bu bölge, İç Anadolu Bölgesi'nin kalbinde yer alıyor ve ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunuyor.
+Isparta'nın yeşilin her tonunu bir araya getiren Egirdir-A. Bu bölge, İç Anadolu Bölgesi'nin kalbinde yer alıyor ve ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Egirdir-A.gokdere Kızılçam milli parkını ziyaret etmek için, ziyaretçiler
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alanı kaplıyor
 - Park, çeşitli bitki türleri ve fauna ile ziyaretçilerini karşılıyor
 - Bölge, yüzyıllar boyunca tarihi geçmişiçinde önemli bir yer tutuyor
 - Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa aktiviteleri sunuyor

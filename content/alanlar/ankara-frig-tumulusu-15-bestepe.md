@@ -51,6 +51,6 @@ Ankara Frig Tümülüsü 15, Beştepe, ziyaretçilerini bekleyen bir tarihi ve d
 
 - Ankara Frig Tümülüsü 15, Beştepe, Ankara'nın en önemli tarihi ve doğal güzelliklerinden biridir.
 - Bu tümülüs, Frigler tarafından inşa edilmiştir.
-- Ankara Frig Tümülüsü 15, Beştepe, 140 hektarlık bir alanı kaplar.
+
 - Bu bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Ankara Frig Tümülüsü 15, Beştepe, ziyaretçilerine, doğa ve tarihle iç içe bir gezi deneyimi sunar.

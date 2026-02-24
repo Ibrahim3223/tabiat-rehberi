@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Tarihi kalın
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Kırklarçalı Tepesi","caption":"Kırklarçalı Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklar%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211229","tip":"genel"}]
-description: "Yozgat'ın gizli güzelliği, 140 hektarlık alanıyla doğa severlerin cenneti"
+
 keywords: ["Kırklarçalı Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211229"
@@ -28,7 +28,7 @@ wikidata_id: "Q32211229"
 
 # Kırklarçalı Tepesi
 
-Kırklarçalı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğa harikası. Tepenin eteklerinde yeşilin her tonunu görebileceğiniz bu bölge, aynı zamanda tarihin izlerini taşıyor. Kırklarçalı Tepesi, bir tarafında geniş otlaklar, diğer tarafında ise ormanlık alanlar bulunan bir bölge. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
+ Tepenin eteklerinde yeşilin her tonunu görebileceğiniz bu bölge, aynı zamanda tarihin izlerini taşıyor. Kırklarçalı Tepesi, bir tarafında geniş otlaklar, diğer tarafında ise ormanlık alanlar bulunan bir bölge. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
 
 ## Tarihçe
 

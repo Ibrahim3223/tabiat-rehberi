@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna","fotoğrafçılık","picnic
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kenya_%28Masai_Mara%29_He_watches_us_%28Explored%2C_20-08-2015%29_-_Flickr_-_ustung.jpg/960px-Kenya_%28Masai_Mara%29_He_watches_us_%28Explored%2C_20-08-2015%29_-_Flickr_-_ustung.jpg","alt":"Istanbul-Catalca-Binkilinc Karacam","caption":"Istanbul-Catalca-Binkilinc Karacam","credit":"Kenya (Masai Mara) He watches us (Explored, 20-08-2015) - Flickr - ustung.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Catalca-Binkilinc%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227509","tip":"genel"}]
-description: "İstanbul'un doğal güzelliklerini keşfedin, 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["İstanbul","Catalca","Binkilinc Karacam","milli park","doğa","gezi","turizm","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227509"
@@ -42,7 +42,6 @@ wikidata_id: "Q108227509"
 
 ## İlginç Bilgiler
 
-- Milli parkın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkın flora ve faunası, ziyaretçilere benzersiz bir deneyim sunuyor
 - Milli parkın coğrafi yapısı, ziyaretçilere geniş bir alan sunuyor
 - Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun

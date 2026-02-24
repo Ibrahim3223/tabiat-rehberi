@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Otlu Tepe","caption":"Otlu Tepe","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otlu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390902","tip":"genel"}]
-description: "Yozgat'ta bulunan Otlu Tepe, doğa severlerin keyif alacağı bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Yozgat'ta bulunan Otlu Tepe, doğa severlerin keyif alacağı bir destinasyon.
 keywords: ["Yozgat","Otlu Tepe","doğa","gezi","turizm","İç Anadolu Bölgesi","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390902"
@@ -36,7 +36,7 @@ Otlu Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin k
 
 ## Coğrafya
 
-Otlu Tepe, Yozgat ilinin coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step ve bozkır gibi açık arazilerle kaplı ve bu reason'dan dolayı iklimi genellikle karasal olarak tanımlanıyor. Otlu Tepe'nin coğrafi konumu, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor. Coğrafi yapısı itibariyle, Otlu Tepe, hem doğal güzellikleri hem de coğrafi çeşitliliği açısından önemli bir destinasyon olarak dikkat çekmekte.
+Otlu Tepe, Yozgat ilinin coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step ve bozkır gibi açık arazilerle kaplı ve bu reason'dan dolayı iklimi genellikle karasal olarak tanımlanıyor. Bu tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor. Coğrafi yapısı itibariyle, Otlu Tepe, hem doğal güzellikleri hem de coğrafi çeşitliliği açısından önemli bir destinasyon olarak dikkat çekmekte.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Otlu Tepe'yi ziyaret etmek, doğa severler için harika bir deneyim olacak. Bu t
 
 ## İlginç Bilgiler
 
-- Otlu Tepe, 140 hektarlık bir alanı kapsıyor
 - Bu tepe, çeşitli bitki türleri ile kaplı
 - Otlu Tepe, fauna açısından oldukça zengin
 - Bu tepe, birçok hayvan türüne ev sahipliği yapıyor

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihî eserleri ziyare
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Katin Tepesi","caption":"Katin Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551443","tip":"genel"}]
-description: "Mardin'in tarihi ve doğal güzelliklerinin bir araya geldiği Katin Tepesi, yaklaşık 140 hektarlık bir alanı kaplar."
+"
 keywords: ["Katin Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","yaban hayatı","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31551443"
@@ -36,7 +36,7 @@ Katin Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiştir. Bu
 
 ## Coğrafya
 
-Katin Tepesi, Mardin'in coğrafi olarak özel bir bölgesinde yer alır. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, bölgenin doğal güzelliklerini gözler önüne serer. Katin Tepesi'nin coğrafi konumu, ziyaretçilere Mardin'in eşsiz manzaralarını sunarken, aynı zamanda bölgenin iklimi ve çevresi hakkında da bilgi verir. Burada, çeşitli bitki türleri ve yaban hayatı bulunur. Katin Tepesi, Mardin'in coğrafi zenginliklerini keşfetmek için ideal bir noktadır. Bölgenin iklimi, ziyaretçilere dört mevsimin güzelliklerini deneyimleme fırsatı sunar.
+Katin Tepesi, Mardin'in coğrafi olarak özel bir bölgesinde yer alır. Katin Tepesi'nin coğrafi konumu, ziyaretçilere Mardin'in eşsiz manzaralarını sunarken, aynı zamanda bölgenin iklimi ve çevresi hakkında da bilgi verir. Burada, çeşitli bitki türleri ve yaban hayatı bulunur. Katin Tepesi, Mardin'in coğrafi zenginliklerini keşfetmek için ideal bir noktadır. Bölgenin iklimi, ziyaretçilere dört mevsimin güzelliklerini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Katin Tepesi'ni ziyaret etmek, Mardin'in tarihi ve doğal güzelliklerini keşfe
 ## İlginç Bilgiler
 
 - Katin Tepesi, Mardin'in en önemli tarihi ve doğal güzelliklerinden biridir.
-- Burada, yaklaşık 140 hektarlık bir alan bulunur.
+
 - Katin Tepesi, Mardin'in coğrafi olarak özel bir bölgesinde yer alır.
 - Burada, çeşitli bitki türleri ve yaban hayatı bulunur.
 - Katin Tepesi, Mardin'in iklimi ve çevresi hakkında bilgi verir.

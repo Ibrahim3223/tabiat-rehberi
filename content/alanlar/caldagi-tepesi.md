@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","tarihî kalınt�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beyaz_Ev_-_The_White_House_-_panoramio.jpg/960px-Beyaz_Ev_-_The_White_House_-_panoramio.jpg","alt":"Çaldağı Tepesi","caption":"Çaldağı Tepesi","credit":"Beyaz Ev - The White House - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828039","tip":"genel"}]
-description: "Kırşehir'in doğal güzelliklerinin başında gelen Çaldağı Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor"
+
 keywords: ["Çaldağı Tepesi","Kırşehir","İç Anadolu Bölgesi","doğa","yeşil alan","tepe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828039"
@@ -36,7 +36,7 @@ wikidata_id: "Q34828039"
 
 ## Coğrafya
 
-Çaldağı Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve bozkır alanlarıyla kaplıdır, ancak Çaldağı Tepesi, 140 hektarlık yeşil alanıyla, bu coğrafi yapının içinde bir istisna oluşturur. Tepenin yüksekliği ve genişliği, ziyaretçilere, geniş bir görüş açısı sunar ve buradan, etraftaki diğer coğrafi oluşumları izleme mümkündür. Çaldağı Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve burada, bu coğrafi koşullara uyum sağlamış çeşitli bitki ve hayvan türleri yaşamaktadır.
+Çaldağı Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin yüksekliği ve genişliği, ziyaretçilere, geniş bir görüş açısı sunar ve buradan, etraftaki diğer coğrafi oluşumları izleme mümkündür. Çaldağı Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve burada, bu coğrafi koşullara uyum sağlamış çeşitli bitki ve hayvan türleri yaşamaktadır.
 
 ## Flora ve Fauna
 

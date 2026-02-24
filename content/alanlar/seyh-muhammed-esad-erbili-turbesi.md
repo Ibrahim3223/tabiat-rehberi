@@ -37,7 +37,7 @@ wikidata_id: "Q131391570"
 
 ## Coğrafya
 
-Şeyh Muhammed Esad Erbili Türbesi, coğrafi konumu itibariyle de dikkat çekiyor. İç Anadolu Bölgesi'nde bulunan bu mekan, çevresindeki doğal güzelliklerle birlikte bir bütün olarak düşünülüyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, ziyaretçilerin yıl boyunca burayı ziyaret etmelerine olanak tanıyor. Çevre, tarihi ve doğal güzelliklerin bir arada bulunduğu bir bölge olarak ziyaretçilere geniş bir yelpaze sunuyor. 140 hektarlık alan, ziyaretçilere geniş bir mekan sunuyor ve burada, çeşitli etkinlikler ve aktiviteler yapma olanağı bulunmakta.
+Şeyh Muhammed Esad Erbili Türbesi, coğrafi konumu itibariyle de dikkat çekiyor. İç Anadolu Bölgesi'nde bulunan bu mekan, çevresindeki doğal güzelliklerle birlikte bir bütün olarak düşünülüyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, ziyaretçilerin yıl boyunca burayı ziyaret etmelerine olanak tanıyor. Çevre, tarihi ve doğal güzelliklerin bir arada bulunduğu bir bölge olarak ziyaretçilere geniş bir yelpaze sunuyor.
 
 ## Flora ve Fauna
 

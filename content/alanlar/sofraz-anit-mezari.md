@@ -50,7 +50,7 @@ Sofraz Anıt Mezarı, ziyaretçilerine tarihi ve doğal güzellikleri sunuyor. M
 ## İlginç Bilgiler
 
 - Sofraz Anıt Mezarı, tarihi geçmişi ile dikkat çekiyor.
-- Mezar, 140 hektarlık bir alana kurulmuş.
+
 - Bölge, zengin bir flora ve fauna ile kaplı.
 - İlkbahar ve sonbahar ayları, mezarın güzelliğini en iyi şekilde deneyimlemek için en uygun zamanlardır.
 - Sofraz Anıt Mezarı, Güneydoğu Anadolu Bölgesi'nin kültürel ve tarihi zenginliklerini yansıtan önemli bir nokta olarak kabul ediliyor.

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Bozbel Tepesi","caption":"Bozbel Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390832","tip":"genel"}]
-description: "Yozgat'ın doğal güzelliklerinin başlıcalarından biri olan Bozbel Tepesi, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Yozgat'ın doğal güzelliklerinin başlıcalarından biri olan Bozbel Tepesi, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alır."
 keywords: ["Bozbel Tepesi","Yozgat","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390832"

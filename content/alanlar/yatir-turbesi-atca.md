@@ -50,6 +50,6 @@ Yatır Türbesi, Atça, ziyaretçilere, tarihi ve doğal güzelliklerini keşfet
 ## İlginç Bilgiler
 
 - Yatır Türbesi, Atça, Sultanhisar'ın tarihi ve doğal güzelliklerinin buluştuğu bir mekan
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bu bölgenin iklimi, genellikle ılıman
 - Yatır Türbesi, Atça, doğa severler için, ideal bir destinasyon

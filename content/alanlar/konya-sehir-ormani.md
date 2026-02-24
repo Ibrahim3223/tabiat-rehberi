@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"KONYA ŞEHİR ORMANI","caption":"KONYA ŞEHİR ORMANI","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KONYA%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228693","tip":"genel"}]
-description: "Konya Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Konya Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","yeşil alan","doğa","orman","Konya","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228693"
@@ -41,8 +41,6 @@ Konya Şehir Ormanı, çeşitli bitki türleri ve zengin fauna ile dolu olan bir
 Konya Şehir Ormanı, Konya'nın önemli turistik destinasyonlarından biridir. Ziyaretçiler, ormanda doğa yürüyüşü yapabilir, piknik yapabilir veya sadece doğanın güzelliğini seyrederek dinlenebilirler. Orman, Konya şehrinin merkezine oldukça yakın bir konumda bulunmakta ve ulaşımı kolaydır. Burada, ziyaretçiler, Konya'nın doğal güzelliğini ve tarihi geçmişi hakkında bilgi sahibi olabilirler. Konya Şehir Ormanı, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en ideal zamanlardır.
 
 ## İlginç Bilgiler
-
-- Konya Şehir Ormanı, 140 hektarlık bir yeşil alandır.
 
 - Konya Şehir Ormanı, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Orman, Konya'nın önemli turistik destinasyonlarından biridir.

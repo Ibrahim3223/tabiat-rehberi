@@ -50,7 +50,7 @@ Fatih, İstanbul'da yer alan Çardaklı Hamam, tarihi ve doğal güzelliği ile 
 ## İlginç Bilgiler
 
 - Çardaklı Hamam, Osmanlı döneminden kalma bir tarihi hamam
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Çardaklı Hamam, Fatih, İstanbul'da yer alıyor
 - Mekan, yılın herhangi bir zamanında ziyaret edilebilir
 - İlkbahar ve sonbahar ayları, ziyaret için en uygun zaman

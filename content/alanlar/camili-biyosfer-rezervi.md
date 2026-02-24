@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/MOKM28.jpg","alt":"Camili Biyosfer Rezervi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d8/MOKM28.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/MOKM28.jpg/1280px-MOKM28.jpg","alt":"Camili Biyosfer Rezervi - MOKM28","credit":"Mustafa Orhon","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Macahel-_%C5%9Eahankaya-_Ma%C4%9Fara-_Camili-_D%C3%BCzenli.webm.1080p8.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Macahel-_%C5%9Eahankaya-_Ma%C4%9Fara-_Camili-_D%C3%BCzenli.webm.1080p8.jpg/1280px-Macahel-_%C5%9Eahankaya-_Ma%C4%9Fara-_Camili-_D%C3%BCzenli.webm.1080p8.jpg","alt":"Camili Biyosfer Rezervi - Macahel- Şahankaya- Mağara- Camili- Düzenli.webm.1080p8","credit":"Şenol Kös","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Camili%20Biyosfer%20Rezervi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q22680889","tip":"genel"}]
-description: "Karadeniz Bölgesi'nde yer alan Camili Biyosfer Rezervi, 140 hektarlık geniş bir alanı kapsar. Doğal güzelliği ve biyolojik çeşitliliğiyle dikkat çeker."
+ Doğal güzelliği ve biyolojik çeşitliliğiyle dikkat çeker."
 keywords: ["Camili Biyosfer Rezervi","Borçka","Artvin","Karadeniz Bölgesi","doğal güzellik","biyolojik çeşitlilik","milli park","rezerv"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q22680889"
@@ -51,7 +51,7 @@ Camili Biyosfer Rezervi'ni ziyaret etmek, doğanın güzelliği ile baş başa k
 ## İlginç Bilgiler
 
 - Camili Biyosfer Rezervi, Karadeniz Bölgesi'nin en önemli biyosfer rezervlerinden biridir.
-- Rezerv, 140 hektarlık geniş bir alanı kapsar.
+
 - Rezervin içinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Rezerv, birçok kuş türünün yuvalanma ve göç etmesi için önemli bir merkez oluşturur.
 - Rezervin flora ve faunası, ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunar.

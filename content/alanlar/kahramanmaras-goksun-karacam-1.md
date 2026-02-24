@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Kahramanmaras-Goksun Karacam 1","caption":"Kahramanmaras-Goksun Karacam 1","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227519","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kahramanmaras","Goksun","Karacam","milli park","doğa","gezi","iç anadolu","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227519"
@@ -30,7 +30,7 @@ Kahramanmaras-Goksun Karacam 1'in tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Kahramanmaras-Goksun Karacam 1, İç Anadolu Bölgesi'nin coğrafi güzelliklerini tüm ziyaretçilerine sunuyor. 140 hektarlık alan, ziyaretçilere geniş bir doğa deneyimi sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli bitki türleri ve zengin fauna ile karşılaşma fırsatı tanıyor. Bu doğal güzellik, ziyaretçilere huzurlu bir atmosfer sunuyor. Kahramanmaras-Goksun Karacam 1, coğrafi olarak çeşitli bitki türleri ve canlılarla dolu bir bölge olarak dikkat çekiyor. Ziyaretçiler, bu coğrafi güzelliğin sunduğu atmosferi soluyarak, günlük hayatın stresinden uzaklaşabilirler.
+Kahramanmaras-Goksun Karacam 1, İç Anadolu Bölgesi'nin coğrafi güzelliklerini tüm ziyaretçilerine sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli bitki türleri ve zengin fauna ile karşılaşma fırsatı tanıyor. Bu doğal güzellik, ziyaretçilere huzurlu bir atmosfer sunuyor. Kahramanmaras-Goksun Karacam 1, coğrafi olarak çeşitli bitki türleri ve canlılarla dolu bir bölge olarak dikkat çekiyor. Ziyaretçiler, bu coğrafi güzelliğin sunduğu atmosferi soluyarak, günlük hayatın stresinden uzaklaşabilirler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kahramanmaras-Goksun Karacam 1, ziyaretçilerine çeşitli etkinlikler sunuyor. 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - yüzyıllar boyu farklı kültürlerin bir araya geldiği bir bölge
 - çeşitli bitki türleri ve zengin fauna
 - huzurlu atmosfer

@@ -37,7 +37,7 @@ wikidata_id: "Q105474252"
 
 ## Coğrafya
 
-İsa Sofi türbesi, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekmektedir. Mekan, Söğüt ilçesinde yer alan 140 hektarlık bir arazide kurulmuştur. İsa Sofi türbesi, coğrafi olarak zengin bir bölgeye sahiptir. Mekan, ziyaretçilerine hem dini hem de kültürel açıdan önemli bir merkez olarak hizmet vermektedir. İklim, çevre ve yapı, İsa Sofi türbesinin coğrafi güzelliğini tamamlamaktadır.
+İsa Sofi türbesi, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekmektedir. İsa Sofi türbesi, coğrafi olarak zengin bir bölgeye sahiptir. Mekan, ziyaretçilerine hem dini hem de kültürel açıdan önemli bir merkez olarak hizmet vermektedir. İklim, çevre ve yapı, İsa Sofi türbesinin coğrafi güzelliğini tamamlamaktadır.
 
 ## Flora ve Fauna
 

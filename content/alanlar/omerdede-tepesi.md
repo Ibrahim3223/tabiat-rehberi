@@ -36,7 +36,7 @@ Omerdede Tepesi, tarihsel geçmişi ile dikkat çeker. Bu tepe, yüzyıllar boyu
 
 ## Coğrafya
 
-Omerdede Tepesi, coğrafi konumu itibariyle dikkat çekici bir noktada yer alır. Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde bulunan bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Omerdede Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve tepe üzerindeki çeşitli yollar ve patikalar, ziyaretçilere geniş bir alan sunar. Bu tepe, aynı zamanda bölgenin iklimini etkileyen önemli bir faktördür. Omerdede Tepesi, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunar. Tepe üzerindeki çeşitli bitki türleri ve hayvanlar, bölgenin ekolojik zenginliğini gözler önüne serer. Omerdede Tepesi, aynı zamanda bölgenin manzarasını izlemek için ideal bir noktadır.
+Omerdede Tepesi, coğrafi konumu itibariyle dikkat çekici bir noktada yer alır. Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde bulunan bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Bu tepe, aynı zamanda bölgenin iklimini etkileyen önemli bir faktördür. Omerdede Tepesi, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunar. Tepe üzerindeki çeşitli bitki türleri ve hayvanlar, bölgenin ekolojik zenginliğini gözler önüne serer. Omerdede Tepesi, aynı zamanda bölgenin manzarasını izlemek için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Omerdede Tepesi, ziyaretçilere çeşitli olanaklar sunar. Bu tepe, doğa severl
 
 ## İlginç Bilgiler
 
-- Omerdede Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bölgenin kültürel mirasını şekillendirmiştir.
 - Omerdede Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur.
 - Bu tepe, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapar.

@@ -36,7 +36,7 @@ Aliavdo Tepesi'nin tarihi geçmişi, bölgenin kadim kültürleriyle iç içe ge
 
 ## Coğrafya
 
-Aliavdo Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Batman'ın coğrafi oluşumlarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitkiler, bölgeye özgü floranın zenginliklerini gösteriyor. Aliavdo Tepesi, aynı zamanda fauna açısından da zengin bir bölge. Burada, çeşitli hayvan türlerine rastlama mümkün. Tepenin coğrafi konumu, bölgenin iklimini de etkiliyor. Genellikle ılıman bir iklimin hakim olduğu bu bölgede, mevsimsel değişimler belirgin. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını şekillendiriyor.
+Aliavdo Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitkiler, bölgeye özgü floranın zenginliklerini gösteriyor. Aliavdo Tepesi, aynı zamanda fauna açısından da zengin bir bölge. Burada, çeşitli hayvan türlerine rastlama mümkün. Tepenin coğrafi konumu, bölgenin iklimini de etkiliyor. Genellikle ılıman bir iklimin hakim olduğu bu bölgede, mevsimsel değişimler belirgin. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını şekillendiriyor.
 
 ## Flora ve Fauna
 

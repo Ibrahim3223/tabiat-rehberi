@@ -49,7 +49,7 @@ Yalçılı Tepesi'ni ziyaret etmek, Ankara'nın şehir merkezinden kolayca eriş
 ## İlginç Bilgiler
 
 - Yalçılı Tepesi, Ankara'nın merkezine yakın bir konumda yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Yalçılı Tepesi, çeşitli bitki türleri ile kaplıdır.
 - Bu tepe, çeşitli hayvan türlerine ev sahipliği yapar.
 - Yalçılı Tepesi, özellikle gün batımı saatlerinde ziyaret edildiğinde, muhteşem bir görüş sunar.

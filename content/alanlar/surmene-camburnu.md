@@ -31,7 +31,7 @@ Sürmene Çamburnu milli parkının tarihi geçmişi, yüzyıllar boyunca şekil
 
 ## Coğrafya
 
-Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bu park, 140 hektarlık bir alanı kapsamakta ve çeşitli coğrafi özellikler ile dikkat çekmektedir. Parkın coğrafi yapısı, ziyaretçilerine zengin flora ve fauna çeşitliliği ile birlikte, benzersiz bir doğa deneyimi sunar. Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin iklimi ve coğrafi koşullarına uygun olarak, çeşitli bitki ve hayvan türleri ile zenginleştirilmiştir. Bu park, ziyaretçilerine doğa ile iç içe bir deneyim sunar ve İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar.
+Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın coğrafi yapısı, ziyaretçilerine zengin flora ve fauna çeşitliliği ile birlikte, benzersiz bir doğa deneyimi sunar. Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin iklimi ve coğrafi koşullarına uygun olarak, çeşitli bitki ve hayvan türleri ile zenginleştirilmiştir. Bu park, ziyaretçilerine doğa ile iç içe bir deneyim sunar ve İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Sürmene Çamburnu milli parkını ziyaret etmek, doğa severler ve macera araya
 ## İlginç Bilgiler
 
 - Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biridir.
-- Bu park, 140 hektarlık bir alanı kapsar.
+
 - Sürmene Çamburnu milli parkı, çeşitli bitki ve hayvan türleri ile zenginleştirilmiştir.
 - Parkın coğrafi yapısı, ziyaretçilerine benzersiz bir doğa deneyimi sunar.
 - Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar.

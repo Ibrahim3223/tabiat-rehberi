@@ -36,7 +36,7 @@ Tepedağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeş
 
 ## Coğrafya
 
-Tepedağ Tepesi, Kastamonu'nun coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine muhteşem manzaralar sunuyor. Tepedağ Tepesi'nin coğrafi konumu, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepedağ Tepesi'nin iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve bu bölge, yıl boyunca ziyaretçilerini ağırlıyor. Tepedağ Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor.
+Tepedağ Tepesi, Kastamonu'nun coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine muhteşem manzaralar sunuyor. Tepedağ Tepesi'nin iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve bu bölge, yıl boyunca ziyaretçilerini ağırlıyor. Tepedağ Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tepedağ Tepesi'ni ziyaret etmek, Kastamonu'nun güzide mekanlarından biri olar
 ## İlginç Bilgiler
 
 - Tepedağ Tepesi, Kastamonu'nun önemli turizm noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Tepedağ Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe sahip oluyor
 - Tepedağ Tepesi, Kastamonu'nun tarihi ve kültürünü yansıtan önemli bir mekan

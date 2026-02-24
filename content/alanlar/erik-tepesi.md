@@ -29,7 +29,7 @@ wikidata_id: "Q31539458"
 
 # Erik Tepesi
 
-Erik Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Erik Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bu tepelerin birleşmesiyle oluşan manzara, gerçekten görülmeye değer. Doğal güzellikleri ve tarihi önemi ile Erik Tepesi, ziyaretçilerini bekliyor.
+Erik Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Erik Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bu tepelerin birleşmesiyle oluşan manzara, gerçekten görülmeye değer. Doğal güzellikleri ve tarihi önemi ile Erik Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Erik Tepesi'ni ziyaret etmek, oldukça kolay. Bu tepeye, Siirt il merkezinden ul
 
 ## İlginç Bilgiler
 
-- Erik Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Erik Tepesi'nin etrafında, tarihi kalıntılara rastlama mümkün.
 - Bu tepe, yıl boyunca çeşitli hava koşullarına sahip.

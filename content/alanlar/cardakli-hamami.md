@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi","tarih keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Çardaklı Hamamı","caption":"Çardaklı Hamamı","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardakl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q87817716","tip":"genel"}]
-description: "Diyarbakır'ın gizli cenneti, 140 hektarlık yeşil alan, tarihi geçmişi ve zengin fauna."
+"
 keywords: ["Diyarbakır","Güneydoğu Anadolu Bölgesi","çevre","iklim","doğa","flora","fauna","tarihçe","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q87817716"
@@ -29,7 +29,7 @@ wikidata_id: "Q87817716"
 
 # Çardaklı Hamamı
 
-Diyarbakır'ın merkezinde yer alan Çardaklı Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin gizli cennetlerinden biri olarak bilinir. Çardaklı Hamamı, şehrin tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Doğa severler ve tarih meraklıları için ideal bir destinasyon olan bu mekan, hem dinlenmek hem de keşfetmek için harika bir fırsat sunuyor.
+ Çardaklı Hamamı, şehrin tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Doğa severler ve tarih meraklıları için ideal bir destinasyon olan bu mekan, hem dinlenmek hem de keşfetmek için harika bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Diyarbakır'ın merkezinde yer alan Çardaklı Hamamı, yaklaşık 140 hektarlı
 ## İlginç Bilgiler
 
 - Çardaklı Hamamı, Diyarbakır'ın en eski ve önemli tarihi merkezlerinden biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çardaklı Hamamı, Diyarbakır'ın karakteristik coğrafi özelliklerini taşır.
 - Bölgede, çeşitli bitki türleri ve fauna bulunur.
 - Çardaklı Hamamı, ziyaretçilerine doğa ile iç içe bir deneyim sunar.

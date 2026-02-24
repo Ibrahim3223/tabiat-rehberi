@@ -50,7 +50,6 @@ Mirkeşoti Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklılar�
 ## İlginç Bilgiler
 
 - Mirkeşoti Tepesi, İç Anadolu Bölgesi'nin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktalarından biri olarak görev yaptı.
 - Mirkeşoti Tepesi, coğrafi konumu itibarıyla önemli bir su kaynaklarının bulunduğu bölge olarak da dikkat çekmektedir.

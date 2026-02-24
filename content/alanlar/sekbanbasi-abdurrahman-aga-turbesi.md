@@ -29,7 +29,7 @@ wikidata_id: "Q121438501"
 
 # Sekbanbaşı Abdurrahman Ağa Türbesi
 
-Sekbanbaşı Abdurrahman Ağa Türbesi, İstanbul'un tarihi ve doğal güzellikleri ile çevrili bir bölgede yer alıyor. Bu bölge, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşil bir ortamda ağırlıyor. Sekbanbaşı Abdurrahman Ağa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tarihi zenginlikleri ve doğal güzellikleri ile Sekbanbaşı Abdurrahman Ağa Türbesi, her yıl çok sayıda ziyaretçi tarafından tercih ediliyor.
+Sekbanbaşı Abdurrahman Ağa Türbesi, İstanbul'un tarihi ve doğal güzellikleri ile çevrili bir bölgede yer alıyor. Sekbanbaşı Abdurrahman Ağa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tarihi zenginlikleri ve doğal güzellikleri ile Sekbanbaşı Abdurrahman Ağa Türbesi, her yıl çok sayıda ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 

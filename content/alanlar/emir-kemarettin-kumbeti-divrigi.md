@@ -21,7 +21,7 @@ aktiviteler: ["tarihî yapıları gezmek","kültürel etkinlikler","doğa yürü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Emir Kemarettin Kümbeti, Divriği","caption":"Emir Kemarettin Kümbeti, Divriği","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Kemarettin%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582394","tip":"genel"}]
-description: "Divriği'nin tarihi mirası, Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Divriği'nin tarihi mirası, Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır.
 keywords: ["Divriği","Sivas","İç Anadolu Bölgesi","Emir Kemarettin Kümbeti","tarih","mimari","kültür","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582394"

@@ -48,7 +48,6 @@ Alistan Tepesi, ziyaretçilerini bekliyor. Tepenin etrafında bulunan tarihi ese
 
 ## İlginç Bilgiler
 
-- Alistan Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin etrafında bulunan tarihi eserler, bölgenin önemini gösterir.
 - Alistan Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 - Tepenin etrafında bulunan dağlar, vadiler ve nehirler, bölgenin coğrafi çeşitliliğini gösterir.

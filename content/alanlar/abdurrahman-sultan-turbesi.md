@@ -50,7 +50,7 @@ Abdurrahman Sultan Türbesi, ziyaretçilerini Ege Bölgesi'nin güzelliği ve k�
 ## İlginç Bilgiler
 
 - Abdurrahman Sultan Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri.
-- Bu mekan, 140 hektarlık bir alanı kapsıyor.
+
 - Abdurrahman Sultan Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş.
 - Bu mekanın tarihi geçmişi, ziyaretçilerini geçmişe götürüyor.
 - Abdurrahman Sultan Türbesi, Ege Bölgesi'nin doğal güzelliği ile ziyaretçilerini buluşturuyor.

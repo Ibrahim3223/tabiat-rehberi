@@ -21,7 +21,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Bitki ve hayvan gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bonebehive Tepesi","caption":"Bonebehive Tepesi","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bonebehive%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555697","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği Bonebehive Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Bonebehive Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31555697"
@@ -29,7 +29,7 @@ wikidata_id: "Q31555697"
 
 # Bonebehive Tepesi
 
-Bonebehive Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bonebehive Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+ Bonebehive Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bonebehive Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile bağlant�
 
 ## Coğrafya
 
-Bonebehive Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı ile çevredeki diğer tepe ve dağlarla birlikte muhteşem bir manzara sunuyor. Bonebehive Tepesi'nin coğrafi konumu, bölgenin iklimini de etkiliyor. İç Anadolu Bölgesi, karasal iklimin hüküm sürdüğü bir bölge ve Bonebehive Tepesi de bu iklimin etkilerini taşıyor. Yaz aylarında sıcaklık artarken, kış aylarında soğuklar hüküm sürüyor. Bonebehive Tepesi'nin coğrafi yapısı, flora ve fauna için de önemli bir ortam sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Bonebehive Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir tepe olarak dikkat çekiyor. Bonebehive Tepesi'nin coğrafi konumu, bölgenin iklimini de etkiliyor. İç Anadolu Bölgesi, karasal iklimin hüküm sürdüğü bir bölge ve Bonebehive Tepesi de bu iklimin etkilerini taşıyor. Yaz aylarında sıcaklık artarken, kış aylarında soğuklar hüküm sürüyor. Bonebehive Tepesi'nin coğrafi yapısı, flora ve fauna için de önemli bir ortam sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Flora ve Fauna
 

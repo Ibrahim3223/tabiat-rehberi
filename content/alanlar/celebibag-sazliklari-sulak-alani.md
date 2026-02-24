@@ -42,7 +42,6 @@ wikidata_id: "Q108228847"
 
 ## İlginç Bilgiler
 
-- Çelebibağ Sazlıkları Sulak Alanı, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, birçok farklı bitki ve hayvan türünü barındıran zengin bir ekosisteme sahip.
 - Çelebibağ Sazlıkları Sulak Alanı, birçok önemli göç yolu üzerinde yer alıyor.
 - Bu bölge, birçok farklı habitatı barındıran ve bu nedenle, birçok canlı türünün yaşam alanı olarak büyük önem taşıyor.

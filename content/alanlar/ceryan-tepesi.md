@@ -48,7 +48,6 @@ Ceryan Tepesi, ziyaretçilerin tercih edebileceği bir destinasyon olarak kabul 
 
 ## İlginç Bilgiler
 
-- Ceryan Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, bölgenin panoramik manzarasını izlemek için önemli bir konumda yer alıyor.
 - Ceryan Tepesi, özellikle sabah saatlerinde güneşin doğuşunu izlemek için tercih ediliyor.
 - Tepenin çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin ekolojik dengesine önemli katkılar sağlıyor.

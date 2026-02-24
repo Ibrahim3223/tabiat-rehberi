@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kampçılık","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Yürükyayla Tepesi","caption":"Yürükyayla Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCkyayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822628","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Yürükyayla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Yürükyayla Tepesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34822628"
@@ -28,7 +28,7 @@ wikidata_id: "Q34822628"
 
 # Yürükyayla Tepesi
 
- Bu tepe, Ankara'nın merkezi bir konumunda bulunması nedeniyle, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yürükyayla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, doğa severler ve macera arayanlar için bir cennet gibidir. 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin kalabalığından uzaklaştırarak, doğanın güzelliği ile baş başa bırakır.
+ Bu tepe, Ankara'nın merkezi bir konumunda bulunması nedeniyle, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yürükyayla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, doğa severler ve macera arayanlar için bir cennet gibidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yürükyayla Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Yürükyayla Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık bir alana sahiptir. Bu tepe, Ankara'nın merkezi bir konumunda bulunması nedeniyle, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yürükyayla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, doğa severler ve macera arayanlar için bir cennet gibidir. Yürükyayla Tepesi'nin coğrafi yapısı, ziyaretçilerini şehrin kalabalığından uzaklaştırarak, doğanın güzelliği ile baş başa bırakır. Yürükyayla Tepesi'nin coğrafyası, bölgenin iklimi ve yapısı hakkında da bilgi vermektedir. Bu tepe, Ankara'nın iklimine uygun olarak, sıca ve soğuk hava koşullarına sahiptir. Yürükyayla Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli etkinlikler sunar. Bu bölge, doğa yürüyüşleri, kampçılık ve diğer outdoor etkinlikler için ideal bir yerdir.
+ Bu tepe, Ankara'nın merkezi bir konumunda bulunması nedeniyle, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yürükyayla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, doğa severler ve macera arayanlar için bir cennet gibidir. Yürükyayla Tepesi'nin coğrafi yapısı, ziyaretçilerini şehrin kalabalığından uzaklaştırarak, doğanın güzelliği ile baş başa bırakır. Yürükyayla Tepesi'nin coğrafyası, bölgenin iklimi ve yapısı hakkında da bilgi vermektedir. Bu tepe, Ankara'nın iklimine uygun olarak, sıca ve soğuk hava koşullarına sahiptir. Yürükyayla Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli etkinlikler sunar. Bu bölge, doğa yürüyüşleri, kampçılık ve diğer outdoor etkinlikler için ideal bir yerdir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yürükyayla Tepesi'ni ziyaret etmek, doğa severler ve macera arayanlar için i
 
 ## İlginç Bilgiler
 
-- Yürükyayla Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık bir alana sahiptir.
 - Bu tepe, Ankara'nın merkezi bir konumunda bulunması nedeniyle, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 - Yürükyayla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Bu bölge, doğa severler ve macera arayanlar için bir cennet gibidir.

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/da/Karasakal_Da%C4%9F%C4%B1%2C_G%C3%BCzelim.jpg","alt":"Karasakal Tepesi manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/C84A2200.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/C84A2200.jpg/1280px-C84A2200.jpg","alt":"Karasakal Tepesi - C84A2200","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasakal%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390254","tip":"genel"}]
-description: "Adana'nın Akdeniz Bölgesi'nde yer alan Karasakal Tepesi, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
+"
 keywords: ["Karasakal Tepesi","Adana","Akdeniz Bölgesi","yeşil alan","bitki türleri","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390254"
@@ -29,7 +29,7 @@ wikidata_id: "Q31390254"
 
 # Karasakal Tepesi
 
-Karasakal Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Karasakal Tepesi, hem doğa severler hem de turistik gezi yapanlar için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari ve sıcak halkıyla ziyaretçilerini ağırlıyor. Karasakal Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir nokta.
+ Karasakal Tepesi, hem doğa severler hem de turistik gezi yapanlar için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari ve sıcak halkıyla ziyaretçilerini ağırlıyor. Karasakal Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir nokta.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Karasakal Tepesi'ni ziyaret etmek, doğa severler ve turistik gezi yapanlar içi
 
 ## İlginç Bilgiler
 
-- Karasakal Tepesi, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor.
 - Tepenin etrafı, çeşitli bitki türleriyle dolu.
 - Karasakal Tepesi, trekking ve doğa yürüyüşü için ideal bir nokta.
 - Tepenin zirvesine ulaşmak, yaklaşık 2-3 saatlik bir yürüyüş gerekiyor.

@@ -37,7 +37,7 @@ Kraliçe Aba Anıt Mezarı, tarihi geçmişi ile dikkat çeker. Bu mezar, yüzy�
 
 ## Coğrafya
 
-Kraliçe Aba Anıt Mezarı, Mersin'in Erdemli ilçesinde yer alır ve Akdeniz Bölgesi'nin coğrafi güzelliklerini gösterir. Bu mezar, 140 hektarlık bir alanda kurulmuştur ve etrafı doğal güzelliklerle çevrilidir. Mezarın bulunduğu bölge, Akdeniz ikliminin característicasını taşır ve ziyaretçilere güzel bir atmosfer sunar. Kraliçe Aba Anıt Mezarı, Erdemli'nin coğrafi yapısını yansıtan önemli bir noktadır. Mezarın coğrafi konumu, ziyaretçilerin rahatça ulaşabilmesini sağlar ve Erdemli'nin önemli bir turistik noktası olarak kabul edilir. Kraliçe Aba Anıt Mezarı, Mersin'in coğrafi zenginliklerini yansıtması bakımından büyük önem taşır.
+Kraliçe Aba Anıt Mezarı, Mersin'in Erdemli ilçesinde yer alır ve Akdeniz Bölgesi'nin coğrafi güzelliklerini gösterir. Mezarın bulunduğu bölge, Akdeniz ikliminin característicasını taşır ve ziyaretçilere güzel bir atmosfer sunar. Kraliçe Aba Anıt Mezarı, Erdemli'nin coğrafi yapısını yansıtan önemli bir noktadır. Mezarın coğrafi konumu, ziyaretçilerin rahatça ulaşabilmesini sağlar ve Erdemli'nin önemli bir turistik noktası olarak kabul edilir. Kraliçe Aba Anıt Mezarı, Mersin'in coğrafi zenginliklerini yansıtması bakımından büyük önem taşır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Kraliçe Aba Anıt Mezarı, ziyaretçilerin ilgisini çeken önemli bir turistik
 ## İlginç Bilgiler
 
 - Kraliçe Aba Anıt Mezarı, Erdemli'nin önemli turistik noktalarından biridir.
-- Mezar, 140 hektarlık bir alanda kurulmuştur.
 
 - Kraliçe Aba Anıt Mezarı, Erdemli'nin tarihi ve kültürel zenginliklerini yansıtması bakımından büyük önem taşır.
 - Mezarın bulunduğu bölge, Akdeniz ikliminin característicasını taşır.

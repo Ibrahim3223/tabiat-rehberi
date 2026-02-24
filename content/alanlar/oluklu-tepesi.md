@@ -36,7 +36,7 @@ Oluklu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Oluklu Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısında önemli bir yere sahiptir. Tepenin konumu, Erzurum ilinin merkezi ile çevredeki dağların birleşiminde bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki dağlar ile birlikte bir bütün olarak düşünülür. Oluklu Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sağlar. Tepenin eteklerinde, akarsular ve küçük göller bulunur. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunar. Oluklu Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösterir. Tepenin yüksekliği, mevsimsel değişimlere göre farklılık gösterir ve ziyaretçilere dört mevsim boyunca çeşitli manzaralar sunar. Oluklu Tepesi, coğrafi güzelliği ve doğal çeşitliliği ile dikkat çeker.
+Oluklu Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısında önemli bir yere sahiptir. Tepenin konumu, Erzurum ilinin merkezi ile çevredeki dağların birleşiminde bulunur. Oluklu Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sağlar. Tepenin eteklerinde, akarsular ve küçük göller bulunur. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunar. Oluklu Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösterir. Tepenin yüksekliği, mevsimsel değişimlere göre farklılık gösterir ve ziyaretçilere dört mevsim boyunca çeşitli manzaralar sunar. Oluklu Tepesi, coğrafi güzelliği ve doğal çeşitliliği ile dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Oluklu Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim olabili
 
 ## İlginç Bilgiler
 
-- Oluklu Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde, çeşitli bitki türleri bulunur.
 - Bu bölge, yaban hayatı için uygun bir habitat bulunur.
 - Oluklu Tepesi, mevsimsel değişimlere göre fauna çeşitliliği gösterir.

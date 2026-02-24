@@ -48,8 +48,6 @@ Havp Tepe'yi ziyaret etmek, bölgenin coğrafi yapısını ve tarihi geçmişi h
 
 ## İlginç Bilgiler
 
-- Havp Tepe, 140 hektarlık bir alana sahip
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Havp Tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta
 - Bu tepe, aynı zamanda bölgenin flora ve faunasını da etkileyen önemli bir faktör
 - Havp Tepe, bahar aylarında yeşeren bitkilerle birlikte, bölgenin en güzel manzaralarından birini sunuyor

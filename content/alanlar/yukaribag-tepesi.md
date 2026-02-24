@@ -29,7 +29,7 @@ wikidata_id: "Q31386415"
 
 # Yukarıbağ Tepesi
 
-Yukarıbağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yamacında çeşitli bitki türleri ve zengin fauna görülebiliyor. Doğal güzellikleri ile dikkat çeken bu tepe, ziyaretçilerini büyülüyor. İç Anadolu Bölgesi'nin coğrafi yapısına önemli katkıları bulunan bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi veriyor.
+Yukarıbağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe. Tepenin yamacında çeşitli bitki türleri ve zengin fauna görülebiliyor. Doğal güzellikleri ile dikkat çeken bu tepe, ziyaretçilerini büyülüyor. İç Anadolu Bölgesi'nin coğrafi yapısına önemli katkıları bulunan bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yukarıbağ Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile i�
 
 ## Coğrafya
 
-Yukarıbağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yamacında çeşitli bitki türleri ve zengin fauna görülebiliyor. Tepenin coğrafi konumu, ziyaretçilerin farklı mevsimlerde ziyaret etmelerine olanak sağlıyor. Kış mevsiminde karla kaplanan tepe, yaz mevsiminde yeşilin farklı tonlarını sunuyor. İç Anadolu Bölgesi'nin coğrafi yapısına önemli katkıları bulunan bu tepe, aynı zamanda bölgenin iklimi hakkında bilgi veriyor. Tepenin coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine yardımcı oluyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor.
+Yukarıbağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe. Tepenin yamacında çeşitli bitki türleri ve zengin fauna görülebiliyor. Tepenin coğrafi konumu, ziyaretçilerin farklı mevsimlerde ziyaret etmelerine olanak sağlıyor. Kış mevsiminde karla kaplanan tepe, yaz mevsiminde yeşilin farklı tonlarını sunuyor. İç Anadolu Bölgesi'nin coğrafi yapısına önemli katkıları bulunan bu tepe, aynı zamanda bölgenin iklimi hakkında bilgi veriyor. Tepenin coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine yardımcı oluyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor.
 
 ## Flora ve Fauna
 

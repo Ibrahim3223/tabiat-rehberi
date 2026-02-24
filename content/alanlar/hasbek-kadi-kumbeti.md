@@ -29,7 +29,7 @@ wikidata_id: "Q135582410"
 
 # Hasbek Kadı Kümbeti
 
-Hasbek Kadı Kümbeti, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin Kocasinan ilçesinde yer alan tarihi bir yapıdır. Bu kümbet, yaklaşık 140 hektarlık bir alanın içinde, şehrin kalabalığından uzakta, tarihi ve kültürel bir atmosferi yansıtan bir mekan olarak ziyaretçilerini ağırlamaktadır. 200 futbol sahası büyüklüğünde bir alanı kapsayan bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Hasbek Kadı Kümbeti, tarihi geçmişi ve mimari yapısı ile dikkat çekerek, ziyaretçilerine bir zaman yolculuğu fırsatı sunmaktadır.
+Hasbek Kadı Kümbeti, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin Kocasinan ilçesinde yer alan tarihi bir yapıdır. Hasbek Kadı Kümbeti, tarihi geçmişi ve mimari yapısı ile dikkat çekerek, ziyaretçilerine bir zaman yolculuğu fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hasbek Kadı Kümbeti, tarihsel açıdan önemli bir yapı olarak karşımıza �
 
 ## Coğrafya
 
-Hasbek Kadı Kümbeti, Kocasinan ilçesinin merkezi bir bölgesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu kümbetin etrafını çevreleyen doğal güzelliklere de yansımaktadır. Bölge, genellikle step ve bozkır ekosistemlerinin hakim olduğu bir coğrafi yapıya sahiptir. Hasbek Kadı Kümbeti, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer almaktadır. Bu alan, ziyaretçilere geniş bir açık alan sunmaktadır. Kümbet, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere hem tarihi hem de doğal bir atmosferi trimleri sunmaktadır. İç Anadolu Bölgesi'nin karakteristik iklimi, bu bölgede hüküm sürmekte ve ziyaretçilere dört mevsimi deneyimleme fırsatı vermektedir.
+Hasbek Kadı Kümbeti, Kocasinan ilçesinin merkezi bir bölgesinde yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu kümbetin etrafını çevreleyen doğal güzelliklere de yansımaktadır. Bölge, genellikle step ve bozkır ekosistemlerinin hakim olduğu bir coğrafi yapıya sahiptir. Bu alan, ziyaretçilere geniş bir açık alan sunmaktadır. Kümbet, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere hem tarihi hem de doğal bir atmosferi trimleri sunmaktadır. İç Anadolu Bölgesi'nin karakteristik iklimi, bu bölgede hüküm sürmekte ve ziyaretçilere dört mevsimi deneyimleme fırsatı vermektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hasbek Kadı Kümbeti'ni ziyaret etmek, İç Anadolu Bölgesi'nin tarihi ve kül
 ## İlginç Bilgiler
 
 - Hasbek Kadı Kümbeti, tarihi ve kültürel bir yapı olarak önemlidir.
-- Kümbet, 140 hektarlık bir yeşil alanın içinde yer almaktadır.
+
 - İç Anadolu Bölgesi'nin karakteristik flora ve faunası, bu bölgede hakimdir.
 - Ziyaretçiler, kümbetin tarihi ve mimari yapısını yakından inceleyebilirler.
 - Hasbek Kadı Kümbeti, bir zaman yolculuğu deneyimi sunmaktadır.

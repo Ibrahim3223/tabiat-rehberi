@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Adapazari-Izmit-Gebze Saricam 1","caption":"Adapazari-Izmit-Gebze Saricam 1","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Izmit-Gebze%20Saricam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227971","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Adapazari-Izmit-Gebze Saricam 1 milli parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Adapazari-Izmit-Gebze Saricam 1","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227971"
@@ -30,7 +30,7 @@ Adapazari-Izmit-Gebze Saricam 1 milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Adapazari-Izmit-Gebze Saricam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Milli parkın coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. Kış mevsiminde karla kaplanan alan, yaz mevsiminde ise yeşilin her tonunu ziyaretçilerine sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Bu coğrafi özellikler, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Adapazari-Izmit-Gebze Saricam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. Kış mevsiminde karla kaplanan alan, yaz mevsiminde ise yeşilin her tonunu ziyaretçilerine sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Bu coğrafi özellikler, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

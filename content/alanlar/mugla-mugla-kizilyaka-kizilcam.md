@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marmaris_Mili_Park%C4%B1.jpg/960px-Marmaris_Mili_Park%C4%B1.jpg","alt":"Mugla-Muğla-Kizilyaka Kızılçam","caption":"Mugla-Muğla-Kizilyaka Kızılçam","credit":"Marmaris Mili Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Mu%C4%9Fla-Kizilyaka%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228430","tip":"genel"}]
-description: "Muğla'nın doğal güzellikleri arasında yer alan Kizilyaka Kızılçam Milli Parkı, 140 hektarlık alanıyla ziyaretçilerini karşılar."
+"
 keywords: ["Muğla","Kizilyaka","Kızılçam","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228430"

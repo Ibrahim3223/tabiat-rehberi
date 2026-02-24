@@ -29,7 +29,7 @@ wikidata_id: "Q131739233"
 
 # Ahi Çelebi Hamamı
 
-Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Ahi Çelebi Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu hamam, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Ahi Çelebi Hamamı, aynı zamanda Edirne'nin önemli bir simgesidir.
+Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alan tarihi bir hamamdır. Ahi Çelebi Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu hamam, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Ahi Çelebi Hamamı, aynı zamanda Edirne'nin önemli bir simgesidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi Çelebi Hamamı'nın tarihi geçmişi, Edirne'nin tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alır. Bu hamam, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Ahi Çelebi Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu hamam, Edirne'nin önemli turizm merkezlerinden biridir. Ahi Çelebi Hamamı, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu alan, Edirne'nin tarihi dokusunu koruma altına almak için önemli bir role sahiptir. Ahi Çelebi Hamamı'nın iklimi, Marmara Bölgesi'nin iklimine benzer. Bu hamam, yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir iklimi sahiptir.
+Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alır. Bu hamam, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Ahi Çelebi Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu hamam, Edirne'nin önemli turizm merkezlerinden biridir. Bu alan, Edirne'nin tarihi dokusunu koruma altına almak için önemli bir role sahiptir. Ahi Çelebi Hamamı'nın iklimi, Marmara Bölgesi'nin iklimine benzer. Bu hamam, yaz aylarında sıcak ve kurak, kış aylarında ise serin ve yağışlı bir iklimi sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ahi Çelebi Hamamı, Edirne'nin önemli bir turizm merkezidir. Bu hamam, yılın
 ## İlginç Bilgiler
 
 - Ahi Çelebi Hamamı, Edirne'nin en önemli turizm merkezlerinden biridir.
-- Bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur.
+
 - Ahi Çelebi Hamamı, Edirne'nin tarihi dokusunu koruma altına almak için önemli bir role sahiptir.
 - Bu hamam, yılın her döneminde ziyaret edilebilir.
 - Ahi Çelebi Hamamı, Edirne'nin flora ve fauna açısından zengin bir bölgesinde yer alır.

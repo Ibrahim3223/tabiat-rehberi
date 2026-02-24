@@ -21,7 +21,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Saray Hamamı, Erzurum","caption":"Saray Hamamı, Erzurum","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saray%20Hamam%C4%B1%2C%20Erzurum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245849","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin. Erzurum'un merkezinde yer alan Saray Hamamı, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
+description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin."
 keywords: ["Saray Hamamı","Erzurum","Doğu Anadolu Bölgesi","tarihi hamam","yeşil alan","kültürel zenginlik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245849"
@@ -37,7 +37,7 @@ Saray Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu hamam, yüzyıllar boyun
 
 ## Coğrafya
 
-Saray Hamamı, Erzurum'un merkezinde yer alan ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Saray Hamamı, Erzurum'un kültürel ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, tarihi hamamın yanı sıra, çevredeki doğal güzellikleri ve tarihi yapıları keşfedebilirsiniz. Erzurum'un iklimi, karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Saray Hamamı, bu iklim koşullarına uygun olarak tasarlanmış ve inşa edilmiştir.
+ Saray Hamamı, Erzurum'un kültürel ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, tarihi hamamın yanı sıra, çevredeki doğal güzellikleri ve tarihi yapıları keşfedebilirsiniz. Erzurum'un iklimi, karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçer. Saray Hamamı, bu iklim koşullarına uygun olarak tasarlanmış ve inşa edilmiştir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Saray Hamamı, Erzurum'un merkezinde yer alıyor ve ziyaretçilerin kolayca ula�
 
 ## İlginç Bilgiler
 
-- Saray Hamamı, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Saray Hamamı, Erzurum'un tarihi merkezinde yer alıyor.
 - Saray Hamamı, yüzyıllar boyunca Erzurum'un önemli kültürel ve tarihi merkezlerinden biri olarak hizmet vermiştir.
 - Saray Hamamı, çeşitli bitki türleri ile zengin bir flora sunar.

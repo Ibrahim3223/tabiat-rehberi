@@ -38,7 +38,7 @@ wikidata_id: "Q127386167"
 
 ## Coğrafya
 
-Çanakkale Kent Müzesi, Çanakkale ilinin merkezinde yer alır. Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu geniş alan, çeşitli sergi alanları, tarihi eserler ve etkinlik mekânlarını içerir. Çanakkale ilinin coğrafyası, genel olarak İç Anadolu Bölgesi'nin özelliklerini taşır. İlin toprakları, genellikle düzlük ve hafif eğimli arazilerden oluşur. Çanakkale Kent Müzesi, bu coğrafi yapı içerisinde, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir merkez olarak hizmet vermektedir. Müzenin bulunduğu alan, aynı zamanda şehrin önemli ulaşım noktalarına yakınlığı ile de dikkat çeker. Bu sayede, ziyaretçiler kolayca ulaşım sağlayabilirler. Çanakkale'nin iklimi, İç Anadolu Bölgesi'nin iklim özelliklerini taşır. İlde, genellikle karasal iklim hakimdir ve yazlar sıcak, kışlar soğuk geçer. Çanakkale Kent Müzesi, bu iklim koşullarına uygun bir şekilde tasarlanmış ve ziyaretçilerin konforunu sağlamak için gerekli önlemler alınmıştır.
+Çanakkale Kent Müzesi, Çanakkale ilinin merkezinde yer alır. Çanakkale ilinin coğrafyası, genel olarak İç Anadolu Bölgesi'nin özelliklerini taşır. İlin toprakları, genellikle düzlük ve hafif eğimli arazilerden oluşur. Çanakkale Kent Müzesi, bu coğrafi yapı içerisinde, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir merkez olarak hizmet vermektedir. Müzenin bulunduğu alan, aynı zamanda şehrin önemli ulaşım noktalarına yakınlığı ile de dikkat çeker. Bu sayede, ziyaretçiler kolayca ulaşım sağlayabilirler. Çanakkale'nin iklimi, İç Anadolu Bölgesi'nin iklim özelliklerini taşır. İlde, genellikle karasal iklim hakimdir ve yazlar sıcak, kışlar soğuk geçer. Çanakkale Kent Müzesi, bu iklim koşullarına uygun bir şekilde tasarlanmış ve ziyaretçilerin konforunu sağlamak için gerekli önlemler alınmıştır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ wikidata_id: "Q127386167"
 
 ## İlginç Bilgiler
 
-- Çanakkale Kent Müzesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
 - Müze, Çanakkale ilinin merkezi bir bölgesinde yer alır.
 - Çanakkale Kent Müzesi, şehrin tarihini ve kültürünü yansıtan önemli bir merkez olarak hizmet vermektedir.
 - Müze, yılın her döneminde ziyaret edilebilir.

@@ -37,7 +37,7 @@ Esma Hanım Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Esma Hanım Türbesi, Kayseri'nin Talas ilçesinde yer alıyor ve coğrafi konumu itibariyle oldukça ilgi çekici. Bu alan, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Türbenin bulunduğu bölge, genellikle step iklimi özellikleri gösteriyor ve bölgenin flora ve faunası da buna göre şekilleniyor. Esma Hanım Türbesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir açık alan sunuyor. Bu açık alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilere doğayla iç içe bir deneyim sunuyor. Çevre, genellikle step bitkileri ve yerel ağaç türleri ile kaplı ve bu da bölgenin doğal güzelliğini arttırıyor.
+Esma Hanım Türbesi, Kayseri'nin Talas ilçesinde yer alıyor ve coğrafi konumu itibariyle oldukça ilgi çekici. Bu alan, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Türbenin bulunduğu bölge, genellikle step iklimi özellikleri gösteriyor ve bölgenin flora ve faunası da buna göre şekilleniyor. Esma Hanım Türbesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir açık alan sunuyor. Çevre, genellikle step bitkileri ve yerel ağaç türleri ile kaplı ve bu da bölgenin doğal güzelliğini arttırıyor.
 
 ## Flora ve Fauna
 

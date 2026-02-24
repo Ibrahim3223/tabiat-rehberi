@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Photografi","Çevre eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Old_Tree_in_Bay%C4%B1r_Village_in_Marmaris.jpg","alt":"Bayır Çınarı manzarası","credit":"Raicem","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg/960px-Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg","alt":"Bayır Çınarı","caption":"Bayır Çınarı","credit":"Bayır Köyü Çınarı 1800 Yaş - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg/1280px-Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg","alt":"Bayır Çınarı - Bayır Köyü Çınarı 1800 Yaş - panoramio","credit":"Necdet Tunçer","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bay%C4%B1r%20%C3%87%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227345","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Bayır Çınarı, 140 hektarlık geniş alanı ve zengin doğasıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Bayır Çınarı","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227345"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227345"
 
 # Bayır Çınarı
 
-Bayır Çınarı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli park alanıdır. Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini cezbeden Bayır Çınarı, aynı zamanda bölgenin önemli bir turizm merkezidir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir experiencia sunar. Bayır Çınarı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir natuur koruma çabasını yansıtır. Bu milli park, aynı zamanda yerel halk için önemli bir gelir kaynağıdır.
+ Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini cezbeden Bayır Çınarı, aynı zamanda bölgenin önemli bir turizm merkezidir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir experiencia sunar. Bayır Çınarı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir natuur koruma çabasını yansıtır. Bu milli park, aynı zamanda yerel halk için önemli bir gelir kaynağıdır.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Bayır Çınarı, ziyaretçilere doğayla iç içe bir deneyim sunar. Burada, zi
 
 ## İlginç Bilgiler
 
-- Bayır Çınarı, 140 hektarlık bir milli park alanıdır.
 - Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişlidir.
 - Milli parkın fauna açısından zengin olması, buranın önemli bir ekosistem olduğunu göstermektedir.
 - Bayır Çınarı, yılın her dönemi ziyaret edilebilir.

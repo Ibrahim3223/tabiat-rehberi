@@ -29,7 +29,7 @@ wikidata_id: "Q134728136"
 
 # Termessos Mamastis Mozolesi
 
-Termessos Mamastis Mozolesi, Antalya'nın Döşemealtı ilçesinde yer alan ve tarih boyunca önemli bir yerleşim merkezi olan Termessos antik kentinde bulunan bir tarihi mozole. Bu mozole, yaklaşık 140 hektarlık bir alan üzerinde kurulu Termessos antik kentinde yer alıyor. Mozolenin bulunduğu bu alan, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Termessos Mamastis Mozolesi, Antalya'nın Döşemealtı ilçesinde yer alan ve tarih boyunca önemli bir yerleşim merkezi olan Termessos antik kentinde bulunan bir tarihi mozole. Mozolenin bulunduğu bu alan, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor.
 
 ## Tarihçe
 

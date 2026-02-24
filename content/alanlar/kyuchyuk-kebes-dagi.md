@@ -36,7 +36,7 @@ Kyuchyuk-Kebes Dağı'nın tarihi geçmişi, yüzyıllar boyunca bölgeye etki e
 
 ## Coğrafya
 
-Kyuchyuk-Kebes Dağı, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir dağdır. Bu dağ, yaklaşık 140 hektarlık alanı kaplamakta ve bölgenin ekolojik dengesini sağlamaktadır. Dağın coğrafi yapısı, çeşitli bitki türleri ve fauna ile dolu olarak dikkat çekmektedir. Ayrıca, burada bulunan akarsular ve göller, bölgenin su kaynaklarını oluşturmaktadır. Kyuchyuk-Kebes Dağı, bölgenin iklimini şekillendirmekte ve çevredeki alanların coğrafi yapısını etkilemektedir. Bu dağ, aynı zamanda bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır. Dağın coğrafi konumu, ziyaretçilerin burayı keşfetmesini kolaylaştırmaktadır.
+Kyuchyuk-Kebes Dağı, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir dağdır. Dağın coğrafi yapısı, çeşitli bitki türleri ve fauna ile dolu olarak dikkat çekmektedir. Ayrıca, burada bulunan akarsular ve göller, bölgenin su kaynaklarını oluşturmaktadır. Kyuchyuk-Kebes Dağı, bölgenin iklimini şekillendirmekte ve çevredeki alanların coğrafi yapısını etkilemektedir. Bu dağ, aynı zamanda bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır. Dağın coğrafi konumu, ziyaretçilerin burayı keşfetmesini kolaylaştırmaktadır.
 
 ## Flora ve Fauna
 
@@ -44,11 +44,10 @@ Kyuchyuk-Kebes Dağı, çeşitli bitki türleri ve fauna ile dolu olarak dikkat 
 
 ## Ziyaret Bilgileri
 
-Kyuchyuk-Kebes Dağı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak bilinir. Bu dağ, yaklaşık 140 hektarlık alanı kaplamakta ve bölgenin ekolojik dengesini sağlamaktadır. Ziyaretçiler, burayı keşfetmek için çeşitli yollar kullanabilirler. Dağın eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu dağın ekolojik zenginliğini göstermektedir. Ayrıca, burada yaşayan canlılar, bu dağın önemini ve değerini daha da artırmaktadır. Kyuchyuk-Kebes Dağı, bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır.
+Kyuchyuk-Kebes Dağı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak bilinir. Ziyaretçiler, burayı keşfetmek için çeşitli yollar kullanabilirler. Dağın eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu dağın ekolojik zenginliğini göstermektedir. Ayrıca, burada yaşayan canlılar, bu dağın önemini ve değerini daha da artırmaktadır. Kyuchyuk-Kebes Dağı, bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır.
 
 ## İlginç Bilgiler
 
-- Kyuchyuk-Kebes Dağı, yaklaşık 140 hektarlık alanı kaplamaktadır.
 - Bu dağ, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir dağdır.
 - Dağın flora yapısı, bölgenin iklimi ve coğrafi yapısına göre şekillenmiştir.
 - Kyuchyuk-Kebes Dağı, bölgenin ekolojik dengesini sağlamaktadır.

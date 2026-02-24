@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşleri","","çevre gezileri","bitki ve hayvan göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Sakıldıyayla Tepesi","caption":"Sakıldıyayla Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1ld%C4%B1yayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391251","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin saklı cenneti Sakıldıyayla Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Sakıldıyayla Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391251"

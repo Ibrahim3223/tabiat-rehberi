@@ -51,6 +51,6 @@ Erikli Mevkıı Tümülüsü Kavak'ı ziyaret etmek, Karadeniz Bölgesi'nin tari
 
 - Erikli Mevkıı Tümülüsü Kavak, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri.
 - Bu bölge, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta.
-- Erikli Mevkıı Tümülüsü Kavak, 140 hektarlık bir alanı kapsar.
+
 - Bölge, çeşitli bitki türleri ve fauna ile dolu bir ekosisteme sahiptir.
 - Erikli Mevkıı Tümülüsü Kavak'ı ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi deneyimi sunar.

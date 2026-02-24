@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Mama Hatun Hamamı","caption":"Mama Hatun Hamamı","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mama%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738673","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Tercan'da bulunan Mama Hatun Hamamı, 140 hektarlık yeşil alanıyla doğa severlerin yeni adresi."
+"
 keywords: ["Mama Hatun Hamamı","Tercan","Erzincan","Doğu Anadolu Bölgesi","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738673"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738673"
 
 # Mama Hatun Hamamı
 
-Mama Hatun Hamamı, Tercan'ın merkezine uzun bir mesafe uzaklıkta, 140 hektarlık geniş bir yeşil alanda kurulmuş tarihi bir hamam. Hamam, tarihi geçmişi ve mimarisiyle dikkat çekiyor. Doğu Anadolu Bölgesi'nin gizli cennetlerinden biri olan Mama Hatun Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+ Hamam, tarihi geçmişi ve mimarisiyle dikkat çekiyor. Doğu Anadolu Bölgesi'nin gizli cennetlerinden biri olan Mama Hatun Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

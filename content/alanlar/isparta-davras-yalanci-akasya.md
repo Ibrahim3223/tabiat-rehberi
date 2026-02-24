@@ -30,7 +30,7 @@ Isparta-Davras Yalancı Akasya'nın tarihi geçmişi, yüzyıllar öncesine daya
 
 ## Coğrafya
 
-Isparta-Davras Yalancı Akasya, Akdeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. 140 hektarlık bu alan, dağların eteklerinde yer alır ve etrafı ormanlık arazilerle çevrilidir. Bölge, özellikle ilkbahar ve yaz aylarında yeşil örtüsü ile ziyaretçilerini karşılar. Yalancı Akasya ağaçları, bu bölgeye has bir türdür ve ilkbahar aylarında güzel çiçeklere sahip olur. Isparta-Davras Yalancı Akasya, coğrafi olarak çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu doğal güzelliği, ziyaretçilerin keyifle gezebileceği patikalar ve yürüyüş yolları ile desteklenir. Bölge, aynı zamanda zengin bir fauna ile ziyaretçilerini karşılar. Burada, çeşitli kuş türleri, memeliler ve sürüngenler gibi hayvanlar yaşamaktadır.
+Isparta-Davras Yalancı Akasya, Akdeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bölge, özellikle ilkbahar ve yaz aylarında yeşil örtüsü ile ziyaretçilerini karşılar. Yalancı Akasya ağaçları, bu bölgeye has bir türdür ve ilkbahar aylarında güzel çiçeklere sahip olur. Isparta-Davras Yalancı Akasya, coğrafi olarak çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu doğal güzelliği, ziyaretçilerin keyifle gezebileceği patikalar ve yürüyüş yolları ile desteklenir. Bölge, aynı zamanda zengin bir fauna ile ziyaretçilerini karşılar. Burada, çeşitli kuş türleri, memeliler ve sürüngenler gibi hayvanlar yaşamaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Isparta-Davras Yalancı Akasya'yı ziyaret etmek, doğa severler ve tarih merakl
 ## İlginç Bilgiler
 
 - Yalancı Akasya ağaçları, ilkbahar aylarında güzel çiçeklere sahiptir.
-- Isparta-Davras Yalancı Akasya, 140 hektarlık bir alana sahiptir.
+
 - Bölge, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Yalancı Akasya, bir milli park olarak korunmaktadır.
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.

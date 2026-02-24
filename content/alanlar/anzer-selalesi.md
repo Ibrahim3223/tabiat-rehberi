@@ -28,7 +28,7 @@ wikidata_id: "Q130366770"
 
 # Anzer Şelalesi
 
-Anzer Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak bulunur. Şelalenin suyu, çevredeki yüksek dağlardan gelen kaynak sularından oluşur ve yıl boyunca sürekli akışını sürdürür. Anzer Şelalesi, hem doğa severler hem de macera tutkunları için bir cennet olarak kabul edilir.
+Anzer Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Şelalenin suyu, çevredeki yüksek dağlardan gelen kaynak sularından oluşur ve yıl boyunca sürekli akışını sürdürür. Anzer Şelalesi, hem doğa severler hem de macera tutkunları için bir cennet olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Anzer Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Anzer Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Şelale, yaklaşık 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak bulunur. Bu bölgede, yüksek dağlar, derin vadiler ve geniş ovalar bulunur. Anzer Şelalesi, bu coğrafi yapıların arasında, bir doğa harikası olarak ortaya çıkar. Şelalenin suyu, çevredeki yüksek dağlardan gelen kaynak sularından oluşur ve yıl boyunca sürekli akışını sürdürür. Anzer Şelalesi'nin coğrafi konumu, turizm için ideal bir yer olmasını sağlar. Şelale, yıl boyunca, çeşitli mevsimlerde ziyaret edilebilir. İlkbahar ve yaz aylarında, şelale ve çevresi, yeşilin tüm tonlarıyla kaplanır. Sonbahar ve kış aylarında, şelale, buzullarla kaplanır ve bir kış cenneti haline gelir.
+Anzer Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Bu bölgede, yüksek dağlar, derin vadiler ve geniş ovalar bulunur. Anzer Şelalesi, bu coğrafi yapıların arasında, bir doğa harikası olarak ortaya çıkar. Şelalenin suyu, çevredeki yüksek dağlardan gelen kaynak sularından oluşur ve yıl boyunca sürekli akışını sürdürür. Anzer Şelalesi'nin coğrafi konumu, turizm için ideal bir yer olmasını sağlar. Şelale, yıl boyunca, çeşitli mevsimlerde ziyaret edilebilir. İlkbahar ve yaz aylarında, şelale ve çevresi, yeşilin tüm tonlarıyla kaplanır. Sonbahar ve kış aylarında, şelale, buzullarla kaplanır ve bir kış cenneti haline gelir.
 
 ## Flora ve Fauna
 

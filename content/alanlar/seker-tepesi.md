@@ -21,7 +21,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","gözlem","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Şeker Tepesi","caption":"Şeker Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeker%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385475","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin göbeğinde yer alan Şeker Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Şeker Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385475"
@@ -29,7 +29,7 @@ wikidata_id: "Q31385475"
 
 # Şeker Tepesi
 
-İç Anadolu Bölgesi'nin merkezi bir konumda yer alan Şeker Tepesi, 140 hektarlık bir alanı kapsıyor. Şeker Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir bileşen. Şeker Tepesi'nin yüksekliği ve genişliği, burayı bir gözlem noktası haline getiriyor ve ziyaretçilere geniş bir manzara sunuyor. Bu tepe, aynı zamanda bölgedeki çeşitli bitki türleri ve hayvanlar için de önemli bir yaşam alanı.
+ Şeker Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir bileşen. Şeker Tepesi'nin yüksekliği ve genişliği, burayı bir gözlem noktası haline getiriyor ve ziyaretçilere geniş bir manzara sunuyor. Bu tepe, aynı zamanda bölgedeki çeşitli bitki türleri ve hayvanlar için de önemli bir yaşam alanı.
 
 ## Tarihçe
 

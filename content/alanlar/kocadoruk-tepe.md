@@ -36,7 +36,7 @@ Kocadoruk Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Kocadoruk Tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir doğal alandır. Bu tepe, 140 hektarlık alanıyla, bölgeyi kaplayan ormanların bir parçasıdır. Kocadoruk Tepe, aynı zamanda, bölgenin iklimini de etkileyen önemli bir faktördür. Bu tepe, ziyaretçilerine, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı sunmaktadır. Kocadoruk Tepe, bölgenin coğrafi yapısını, iklimini ve doğal güzelliklerini gözler önüne sermektedir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Kocadoruk Tepe, Karadeniz Bölgesi'nin coğrafi zenginliklerini yansıtan önemli bir doğal alandır.
+Kocadoruk Tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir doğal alandır. Kocadoruk Tepe, aynı zamanda, bölgenin iklimini de etkileyen önemli bir faktördür. Bu tepe, ziyaretçilerine, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı sunmaktadır. Kocadoruk Tepe, bölgenin coğrafi yapısını, iklimini ve doğal güzelliklerini gözler önüne sermektedir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Kocadoruk Tepe, Karadeniz Bölgesi'nin coğrafi zenginliklerini yansıtan önemli bir doğal alandır.
 
 ## Flora ve Fauna
 

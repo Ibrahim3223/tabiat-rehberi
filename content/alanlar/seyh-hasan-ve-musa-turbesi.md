@@ -49,8 +49,6 @@ wikidata_id: "Q131391724"
 
 ## İlginç Bilgiler
 
-- Şeyh Hasan ve Musa Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan.
-
 - Şeyh Hasan ve Musa Türbesi, Akdeniz'in güzelliğini ve tarihinin zenginliğini bir araya getiren özel bir mekan.
 - Ziyaretçiler, buraya gelerek denize girme ve güneşlenme imkanı buluyor.
 - Şeyh Hasan ve Musa Türbesi, tarihinin her döneminde önemli bir merkez olarak kabul edilmiş ve ziyaret edilmiştir.

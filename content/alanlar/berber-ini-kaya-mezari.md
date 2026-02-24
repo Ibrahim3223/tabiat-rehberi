@@ -37,7 +37,7 @@ Berber İni Kaya Mezarı, yüzyıllar öncesine dayanan bir tarihi geçmişi bar
 
 ## Coğrafya
 
-Berber İni Kaya Mezarı, Muğla'nın Milas ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölge, dağlar ve ovaların birleştiği bir coğrafyada yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. İklim olarak, Ege Bölgesi'nin ılıman ikliminin etkisi altında olan Berber İni Kaya Mezarı, yazları sıcak ve kışları ılıman bir hava koşulu sunuyor. Çevre olarak, yeşilin verschillileri ile kaplı bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bir alanı kaplayan bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sunuyor ve ziyaretçilerini doğanın içinde bir yürüyüşe davet ediyor.
+Berber İni Kaya Mezarı, Muğla'nın Milas ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölge, dağlar ve ovaların birleştiği bir coğrafyada yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. İklim olarak, Ege Bölgesi'nin ılıman ikliminin etkisi altında olan Berber İni Kaya Mezarı, yazları sıcak ve kışları ılıman bir hava koşulu sunuyor. Çevre olarak, yeşilin verschillileri ile kaplı bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Berber İni Kaya Mezarı, ziyaretçilerine tarihi ve doğal güzelliklerinin bir
 
 - Berber İni Kaya Mezarı, yüzyıllar öncesine dayanan bir tarihi geçmişi barındırıyor.
 - Bu mezar, çeşitli uygarlıkların hakimiyeti altında kalmasıyla birlikte, her biri kendi kültürel ve mimari özelliklerini burada bırakmıştır.
-- Berber İni Kaya Mezarı, 140 hektarlık bir yeşil alanı kaplıyor.
+
 - Bu bölge, Ege Bölgesi'nin coğrafi güzelliklerini sunuyor.
 - Berber İni Kaya Mezarı, ziyaretçilerine tarihi ve doğal güzelliklerinin birleştiği bir destinasyon sunuyor.

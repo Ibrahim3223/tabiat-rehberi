@@ -37,7 +37,7 @@ Esirüddin Ebheri Kümbeti, tarihi geçmişiyle dikkat çeken bir yapıdır. Yü
 
 ## Coğrafya
 
-Esirüddin Ebheri Kümbeti, Afyonkarahisar'ın Çay ilçesinde yer alır. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Kümbet, etrafındaki doğal güzelliklerle birlikte, ziyaretçilerine bir doğa harikası sunar. Yaklaşık 140 hektarlık bir arazi üzerinde bulunan kümbet, geniş bir alanı kaplar. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunar. Coğrafi olarak önemli bir noktada yer alan Esirüddin Ebheri Kümbeti, ziyaretçilerini güzelliği ve tarihi ile etkiler.
+Esirüddin Ebheri Kümbeti, Afyonkarahisar'ın Çay ilçesinde yer alır. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Kümbet, etrafındaki doğal güzelliklerle birlikte, ziyaretçilerine bir doğa harikası sunar. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunar. Coğrafi olarak önemli bir noktada yer alan Esirüddin Ebheri Kümbeti, ziyaretçilerini güzelliği ve tarihi ile etkiler.
 
 ## Flora ve Fauna
 

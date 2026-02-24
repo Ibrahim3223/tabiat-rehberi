@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık","pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Yediler Tepesi","caption":"Yediler Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yediler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385363","tip":"genel"}]
-description: "Eskişehir'in doğal güzelliklerini keşfedin, 140 hektarlık Yediler Tepesi'ni ziyaret edin"
+
 keywords: ["Yediler Tepesi","Eskişehir","doğa","tepe","gezi","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385363"
@@ -28,7 +28,7 @@ wikidata_id: "Q31385363"
 
 # Yediler Tepesi
 
-Yediler Tepesi, Eskişehir'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliğimizdir. Yediler Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Eskişehir'in tarihi ve doğal güzelliklerini bir arada keşfetmek isteyenler, bu tepeyi mutlaka ziyaret etmelidir.
+ Yediler Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Eskişehir'in tarihi ve doğal güzelliklerini bir arada keşfetmek isteyenler, bu tepeyi mutlaka ziyaret etmelidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yediler Tepesi'nin tarihi geçmişi, Eskişehir'in tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Yediler Tepesi, Eskişehir'in coğrafi yapısını belirleyen önemli bir ögedir. Bu tepe, şehrin merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, tepe üzerinden şehrin panoramik manzarasını izleme mümkündür. Yediler Tepesi, çeşitli bitki türleri ve zengin faunası ile dikkat çeker. Bu bölge, özellikle ilkbahar ve yaz aylarında, yeşilin çeşitli tonlarını sunar. Tepenin eteklerinde, çeşitli su kaynakları ve derenin oluşması, bu bölgenin coğrafi zenginliğini daha da artırır. Yediler Tepesi, Eskişehir'in coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Yediler Tepesi, Eskişehir'in coğrafi yapısını belirleyen önemli bir ögedir. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, tepe üzerinden şehrin panoramik manzarasını izleme mümkündür. Yediler Tepesi, çeşitli bitki türleri ve zengin faunası ile dikkat çeker. Bu bölge, özellikle ilkbahar ve yaz aylarında, yeşilin çeşitli tonlarını sunar. Tepenin eteklerinde, çeşitli su kaynakları ve derenin oluşması, bu bölgenin coğrafi zenginliğini daha da artırır. Yediler Tepesi, Eskişehir'in coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

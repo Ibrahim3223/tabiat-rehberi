@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Dağ tırmanışı","Kampçılık","Fotog
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg","alt":"Erzurum-Ispir Vercenik Dagi","caption":"Erzurum-Ispir Vercenik Dagi","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546845911)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Ispir%20Vercenik%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227075","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin en önemli milli parklarından biri olan Erzurum-Ispir Vercenik Dagi, 140 hektarlık alanıyla doğa severleri bekliyor."
+"
 keywords: ["Erzurum","Ispir","Vercenik Dagi","Milli Park","Doğu Anadolu Bölgesi","Doğa","Turizm","Seyahat","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227075"
@@ -43,7 +43,7 @@ Erzurum-Ispir Vercenik Dagi, ziyaretçilere birçok aktivite sunuyor. Bu milli p
 ## İlginç Bilgiler
 
 - Vercenik Dagi, bölgenin en yüksek noktalarından biridir.
-- Milli park, 140 hektarlık bir alana sahiptir.
+
 - Vercenik Dagi, çeşitli bitki ve hayvan species'lerine ev sahipliği yapıyor.
 - Bu milli park, doğa severler ve macera tutkunları için bir cennet olarak kabul ediliyor.
 - Vercenik Dagi, aynı zamanda yerel halkın kültürünü ve geleneklerini tanıyarak, ziyaretçilere unutulmaz bir deneyim sunuyor.

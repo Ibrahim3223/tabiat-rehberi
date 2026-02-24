@@ -22,7 +22,7 @@ wikidata_id: "Q108227543"
 
 # Amasya-Kargi-Erenlerkos Saricam
 
-Amasya ilinin merkezine uzun bir mesafe uzaklıkta bulunan Amasya-Kargi-Erenlerkos Saricam milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Milli parka ulaşım oldukça kolaydır ve ziyaretçilerin keyifli bir gün geçirmesini sağlar.
+ Milli parka ulaşım oldukça kolaydır ve ziyaretçilerin keyifli bir gün geçirmesini sağlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Amasya-Kargi-Erenlerkos Saricam milli parkının tarihi geçmişi, yüzyıllar �
 
 ## Coğrafya
 
-Amasya-Kargi-Erenlerkos Saricam milli parkı, Karadeniz Bölgesi'nde yer alır. Bu bölgenin coğrafi yapısı, genellikle dağlık ve engebelidir. Milli park, 140 hektarlık geniş bir yeşil alana sahiptir. Bu alan, çeşitli bitki türleriyle kaplıdır. Ayrıca, milli parkta birçok ağaç türü de bulunmaktadır. Coğrafi konumu itibariyle, milli parkın iklimi ılımandır. Kış aylarında, milli parka ulaşım slightly zorlaşabilir. Ancak, ziyaretçilerin keyifli bir gün geçirmesini sağlamak için, milli parkta gerekli önlemler alınmıştır. Milli parkın coğrafi yapısı, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
+Amasya-Kargi-Erenlerkos Saricam milli parkı, Karadeniz Bölgesi'nde yer alır. Bu bölgenin coğrafi yapısı, genellikle dağlık ve engebelidir. Bu alan, çeşitli bitki türleriyle kaplıdır. Ayrıca, milli parkta birçok ağaç türü de bulunmaktadır. Coğrafi konumu itibariyle, milli parkın iklimi ılımandır. Kış aylarında, milli parka ulaşım slightly zorlaşabilir. Ancak, ziyaretçilerin keyifli bir gün geçirmesini sağlamak için, milli parkta gerekli önlemler alınmıştır. Milli parkın coğrafi yapısı, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekimi","Kuş gözlemciliği",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Karaburun Sit Alanı","caption":"Karaburun Sit Alanı","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaburun%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225988","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Karaburun Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Karaburun Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108225988"
@@ -42,7 +42,6 @@ Karaburun Sit Alanı, ziyaretçilere birçok aktivite sunuyor. Burada, doğa yü
 
 ## İlginç Bilgiler
 
-- Karaburun Sit Alanı, 140 hektarlık yeşil alanına sahiptir.
 - Bu bölgede, birçok endemik bitki türü bulunmakta.
 - Karaburun Sit Alanı, birçok kuş türünün yuvalandığı bir bölge.
 - Bu bölgede, birçok yaban hayvanı bulunmakta.

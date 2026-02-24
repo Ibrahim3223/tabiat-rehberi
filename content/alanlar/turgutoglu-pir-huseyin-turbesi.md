@@ -30,7 +30,7 @@ wikidata_id: "Q131391399"
 
 # Turgutoğlu Pir Hüseyin Türbesi
 
-Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, yaklaşık 140 hektarlık bir yeşil alan üzerinde yer alan tarihi bir türbe ve plajdır. Turgutoğlu Pir Hüseyin Türbesi, özellikle yaz aylarında ziyaretçilerin ilgisini çeken bir destinasyon olarak bilinir. Burada, hem tarihi açıdan önemli bir türbe hem de dinlenme ve doğayı seyretmek için güzel bir plaj bulunmaktadır.
+ Turgutoğlu Pir Hüseyin Türbesi, özellikle yaz aylarında ziyaretçilerin ilgisini çeken bir destinasyon olarak bilinir. Burada, hem tarihi açıdan önemli bir türbe hem de dinlenme ve doğayı seyretmek için güzel bir plaj bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Turgutoğlu Pir Hüseyin Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu 
 
 ## Coğrafya
 
-Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşmaktadır. Türbe ve plaj, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve etrafı çeşitli bitki türleri ile çevrilidir. Burada, mevsimsel değişimlere göre farklı hava koşulları gözlemlenir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu coğrafi özellikler, Turgutoğlu Pir Hüseyin Türbesi'nin benzersiz bir konumda olmasını sağlar.
+Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşmaktadır. Burada, mevsimsel değişimlere göre farklı hava koşulları gözlemlenir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu coğrafi özellikler, Turgutoğlu Pir Hüseyin Türbesi'nin benzersiz bir konumda olmasını sağlar.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Turgutoğlu Pir Hüseyin Türbesi'ni ziyaret etmek, hem tarihi hem de doğal gü
 - Türbe, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir.
 - Turgutoğlu Pir Hüseyin Türbesi, özellikle yaz aylarında ziyaretçilerin ilgisini çeken bir destinasyon olarak bilinir.
 - Bu bölgenin coğrafyası, genellikle step ve ova gibi geniş alanlardan oluşmaktadır.
-- Türbe ve plaj, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+

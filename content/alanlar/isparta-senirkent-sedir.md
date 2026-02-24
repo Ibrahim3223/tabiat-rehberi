@@ -30,7 +30,7 @@ Isparta-Senirkent Sedir'in tarihi geçmişi, yüzyıllar boyuncasedir ağaçlar�
 
 ## Coğrafya
 
-Isparta-Senirkent Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır. Bu doğal alan, Isparta'nın Senirkent ilçesinde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Sedir Ormanı'nın güzelliği ve tarihi ile ön plana çıkan bu milli park, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişi sunar. Isparta-Senirkent Sedir, sedir ağaçlarından oluşan bir orman olarak bilinir ve ziyaretçilerini doğanın içine çekmeyi başarır. Bu milli park, yaklaşık 70 hektarlık bir bölümü sedir ağaçlarından oluşur ve ziyaretçilerine doğanın güzelliğini sunar. Isparta-Senirkent Sedir, Akdeniz Bölgesi'nin güzelliği ve tarihi ile ön plana çıkan bir doğal alandır.
+Isparta-Senirkent Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır. Sedir Ormanı'nın güzelliği ve tarihi ile ön plana çıkan bu milli park, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişi sunar. Isparta-Senirkent Sedir, sedir ağaçlarından oluşan bir orman olarak bilinir ve ziyaretçilerini doğanın içine çekmeyi başarır. Bu milli park, yaklaşık 70 hektarlık bir bölümü sedir ağaçlarından oluşur ve ziyaretçilerine doğanın güzelliğini sunar. Isparta-Senirkent Sedir, Akdeniz Bölgesi'nin güzelliği ve tarihi ile ön plana çıkan bir doğal alandır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Isparta-Senirkent Sedir'i ziyaret etmek için, Isparta'nın Senirkent ilçesine 
 ## İlginç Bilgiler
 
 - Isparta-Senirkent Sedir, Sedir Ormanı'nın güzelliği ve tarihi ile ön plana çıkar.
-- Bu milli park, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Isparta-Senirkent Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır.
 - Bu doğal alan, sedir ağaçlarından oluşan bir orman olarak bilinir.
 - Isparta-Senirkent Sedir, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişi sunar.

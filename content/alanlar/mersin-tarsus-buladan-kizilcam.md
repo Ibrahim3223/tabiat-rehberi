@@ -43,7 +43,7 @@ Mersin-Tarsus-Buladan Kızılçam Milli Parkı, ziyaretçilere birçok aktivite 
 ## İlginç Bilgiler
 
 - Parkın kuruluşu, bölgenin doğal kaynaklarının korunması amacını taşıyor
-- Park, 140 hektarlık bir yeşil alan
+
 - Parkta, çeşitli bitki türleri ve zengin fauna mevcut
 - Parkın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor
 - Park, Mersin'in Tarsus ilçesinde yer alıyor

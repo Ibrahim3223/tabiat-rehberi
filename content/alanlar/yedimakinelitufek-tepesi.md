@@ -48,8 +48,6 @@ Yedimakinelitüfek Tepesi, ziyaretçilerine geniş bir manzara sunar ve bölgeni
 
 ## İlginç Bilgiler
 
-- Yedimakinelitüfek Tepesi, 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
 - Yedimakinelitüfek Tepesi, bölgenin coğrafi özelliklerini yansıtan bir bölgedir
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Yedimakinelitüfek Tepesi, ziyaretçilerine geniş bir manzara sunar ve bölgenin güzelliğini keşfetmek için bir fırsat sunar

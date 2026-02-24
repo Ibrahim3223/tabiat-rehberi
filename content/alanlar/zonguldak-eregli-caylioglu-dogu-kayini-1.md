@@ -42,7 +42,6 @@ Zonguldak-Eregli-Caylioglu Dogu Kayini 1 milli parkına ziyaretçiler, Eregli il
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkta, çeşitli bitki türleri ve zengin fauna found
 - Milli parkın coğrafi yapısı, ziyaretçilere, doğa yürüyüşleri, trekking ve diğer outdoor aktiviteler için ideal bir ortam sunuyor
 - Milli parkta, mevsimsel değişimler, bitki ve hayvan türlerinin yaşamını etkiliyor

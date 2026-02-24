@@ -49,7 +49,6 @@ Zindancıkült Alanı, her yıl binlerce turisti ağırlamaktadır. Bu alan, ula
 
 ## İlginç Bilgiler
 
-- Zindancıkült Alanı, yaklaşık 140 hektarlık bir yeşil alanı kaplar
 - Bu alan, Dikili'nin en önemli turizm noktalarından biridir
 - Zindancıkült Alanı, her yıl binlerce turisti ağırlamaktadır
 - Bu alan, ulaşım bakımından oldukça kolaydır

@@ -49,7 +49,7 @@ Berhagulik Tepe, ziyaretçilerini bekliyor. Bu tepe, Mardin'in merkezi ile aras�
 ## İlginç Bilgiler
 
 - Berhagulik Tepe, Mardin'in tarihî ve doğal güzelliklerinin birleştiği bir yer.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Berhagulik Tepe, Mardin'in merkezi ile arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunuyor.
 - Bu tepe, çeşitli bitki türlerini barındıran bir yer.
 - Berhagulik Tepe, mevsimsel değişimlere göre, farklı bitki türleri ile ziyaretçilerini karşılıyor.

@@ -48,7 +48,6 @@ Altın Tepesi'ni ziyaret etmek, birçok ziyaretçiçin önemli bir deneyimdir. B
 
 ## İlginç Bilgiler
 
-- Altın Tepesi, 140 hektarlık bir alanı kaplar.
 - Bu tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yüksektir.
 - Altın Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterize edilir.
 - Bu tepenin tarihi geçmişi, yüzyıllar öncesine dayanır.

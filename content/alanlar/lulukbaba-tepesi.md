@@ -49,7 +49,7 @@ Lülükbaba Tepesi, ziyaretçilerini bekliyor. Bu tepe, doğa severler ve tarih 
 ## İlginç Bilgiler
 
 - Lülükbaba Tepesi, Sivas'ın yüksek noktalarından biri olarak bilinir.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar.
+
 - Lülükbaba Tepesi, tarihi geçmişiyle de dikkat çeker.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim alanı olarak kullanılmıştır.
 - Lülükbaba Tepesi, önemli bir kültürel mirasa da sahiptir.

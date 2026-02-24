@@ -45,12 +45,10 @@ wikidata_id: "Q34828305"
 
 ## Ziyaret Bilgileri
 
-Çandili Tepesi, yıl boyunca ziyaretçilere açık ve çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliğiyle ziyaretçilerini bekliyor. Çandili Tepesi, özellikle doğa severlerin ilgisini çekiyor ve yıl boyunca çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor. Tepenin ziyaretçileri, yaklaşık 140 hektarlık alanın keyfini çıkarabilir ve doğal güzellikleri ile dikkat çekiyor.
+Çandili Tepesi, yıl boyunca ziyaretçilere açık ve çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliğiyle ziyaretçilerini bekliyor. Çandili Tepesi, özellikle doğa severlerin ilgisini çekiyor ve yıl boyunca çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor.
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi
 - tarihi geçmişi
 - kuş gözlemciliği

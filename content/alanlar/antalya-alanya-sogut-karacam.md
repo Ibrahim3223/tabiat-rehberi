@@ -42,7 +42,6 @@ Antalya-Alanya-Sogut Karacam milli parkına ziyaretçiler, yılın her dönemi g
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Park, çeşitli flora ve fauna türlerine ev sahipliği yapıyor
 - Parkın coğrafi konumu, ziyaretçiler için bir cennet olarak görülüyor
 - Parkın ekoloji sistemi, ziyaretçiler için bir öğrenme deneyimi sunuyor

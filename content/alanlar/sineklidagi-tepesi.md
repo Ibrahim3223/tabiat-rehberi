@@ -49,7 +49,7 @@ Sineklidağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bır
 ## İlginç Bilgiler
 
 - Sineklidağı Tepesi, Hatay ilinin önemli coğrafi noktalarından biridir
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Sineklidağı Tepesi, birçok bitki türüne ev sahipliği yapıyor
 - Bu tepe, fauna açısından zengin bir yer
 - Sineklidağı Tepesi, mevsimsel değişimlere göre farklı bir güzelliğe sahip

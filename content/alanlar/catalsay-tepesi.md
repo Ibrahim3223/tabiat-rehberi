@@ -49,7 +49,7 @@ wikidata_id: "Q34828605"
 ## İlginç Bilgiler
 
 - Çatalsay Tepesi, Yozgat ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çatalsay Tepesi, ziyaretçilerini doğal güzelliği ve manzarası ile etkileyen bir destinasyondur.
 - Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de gözler önüne serer.
 - Çatalsay Tepesi, Yozgat'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.

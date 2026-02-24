@@ -15,7 +15,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Kad%C4%B1n%20%C3%A7ay%C4%B1r%C4%B12.jpg","alt":"Kadınçayırı Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B13.jpg/1280px-Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B13.jpg","alt":"Kadınçayırı Tabiat Parkı - Kadın çayırı3","credit":"Canbax","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B1.jpg/1280px-Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B1.jpg","alt":"Kadınçayırı Tabiat Parkı - Kadın çayırı","credit":"Canbax","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B12.jpg/1280px-Kad%C4%B1n_%C3%A7ay%C4%B1r%C4%B12.jpg","alt":"Kadınçayırı Tabiat Parkı - Kadın çayırı2","credit":"Canbax","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1n%C3%A7ay%C4%B1r%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228382","tip":"genel"}]
-description: "Çankırı'da yer alan 140 hektarlık bu tabiat parkı, İç Anadolu Bölgesi'nin önemli doğa alanlarından biri"
+
 keywords: ["Kadınçayırı Tabiat Parkı","Çankırı","İç Anadolu Bölgesi","tabiat parkı","doğa","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228382"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228382"
 
 # Kadınçayırı Tabiat Parkı
 
-Kadınçayırı Tabiat Parkı, Çankırı ilinin güzide bir bölgesinde, 140 hektarlık geniş bir alan üzerine kurulu. Parkın içinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal cennet, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal cennet, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kadınçayırı Tabiat Parkı, ziyaretçilere çeşitli gezi ve discovery fırsa
 ## İlginç Bilgiler
 
 - Kadınçayırı Tabiat Parkı, İç Anadolu Bölgesi'nin önemli doğa alanlarından biridir
-- Park, 140 hektarlık bir alana kurulmuştur
+
 - Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmaktadır
 - Park, ziyaretçilere farklı gezi ve discovery fırsatları sunar
 - Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar

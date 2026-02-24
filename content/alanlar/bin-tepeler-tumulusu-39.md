@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 39'ın tarihi geçmişi oldukça eskiye dayanır. Bu b�
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 39, Ege Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Bu bölge, Salihli-Manisa arasında bulunuyor ve Ege Denizi'ne yakınlığıyla dikkat çekiyor. Bölgenin coğrafyası, genellikle tepeli ve dağlık arazilerden oluşuyor. İklim, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Doğal güzellikleri ile ön plana çıkan Bin Tepeler Tümülüsü 39, ziyaretçilere hem tarihi bir gezi hem de doğal bir ortam sunuyor. 140 hektarlık bu geniş alan, ziyaretçilere çeşitli faaliyetler için de uygun bir ortam sağlıyor.
+Bin Tepeler Tümülüsü 39, Ege Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Bu bölge, Salihli-Manisa arasında bulunuyor ve Ege Denizi'ne yakınlığıyla dikkat çekiyor. Bölgenin coğrafyası, genellikle tepeli ve dağlık arazilerden oluşuyor. İklim, tipik Akdeniz iklimi özellikleri gösteriyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Doğal güzellikleri ile ön plana çıkan Bin Tepeler Tümülüsü 39, ziyaretçilere hem tarihi bir gezi hem de doğal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 39'ı ziyaret etmek, hem tarihi hem de doğal güzellik
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 39, Ege Bölgesi'nin önemli kültür ve turizm merkezlerinden biri.
-- Bölge, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Tümülüslerin yapılış tarihi tam olarak bilinmese de, bölge tarihi ve kültürel zenginliğiyle dikkat çekiyor.
 - Bin Tepeler Tümülüsü 39, ziyaretçilere hem tarihi hem de kültürel bir deneyim sunuyor.
 - Bölge, Ege Denizi'ne yakınlığıyla dikkat çekiyor.

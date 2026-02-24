@@ -50,7 +50,7 @@ Patara Eksedralı Mezar, tarihi ve doğal güzellikleri bir arada sunan bir dest
 ## İlginç Bilgiler
 
 - Patara Eksedralı Mezar, antik Patara kentinde yer alır.
-- Bu mezar alanı, 140 hektarlık bir alana sahiptir.
+
 - Patara kenti, Likya bölgesinin önemli liman kentlerinden biridir.
 - Bu bölgenin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
 - Patara Eksedralı Mezar, tarihi meraklı olanlar için önemli bir destinasyon olarak kabul edilir.

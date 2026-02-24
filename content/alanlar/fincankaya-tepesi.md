@@ -28,7 +28,7 @@ wikidata_id: "Q31390079"
 
 # Fincankaya Tepesi
 
-Fincankaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kapsıyor ve ziyaretçilerini doğal güzellikleriyle bekliyor. Fincankaya Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Burada, ziyaretçiler doğanın güzelliklerini keşfedebilir ve streslerini atabilirler.
+Fincankaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe olarak dikkat çekiyor. Fincankaya Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Burada, ziyaretçiler doğanın güzelliklerini keşfedebilir ve streslerini atabilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Fincankaya Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Fincankaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak step ve ormanlık alanlardan oluşuyor. Fincankaya Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Burada, ziyaretçiler doğanın güzelliklerini keşfedebilir ve streslerini atabilirler. Fincankaya Tepesi, yaklaşık 140 hektarlık alanı kapsıyor ve ziyaretçilerini doğal güzellikleriyle bekliyor. Bu tepenin yüksekliği, Ankara'nın diğer bölgelerine göre daha yükse ve burada, ziyaretçiler şehrin panoramik manzarasını izleyebilirler.
+Fincankaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genel olarak step ve ormanlık alanlardan oluşuyor. Fincankaya Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Burada, ziyaretçiler doğanın güzelliklerini keşfedebilir ve streslerini atabilirler. Bu tepenin yüksekliği, Ankara'nın diğer bölgelerine göre daha yükse ve burada, ziyaretçiler şehrin panoramik manzarasını izleyebilirler.
 
 ## Flora ve Fauna
 

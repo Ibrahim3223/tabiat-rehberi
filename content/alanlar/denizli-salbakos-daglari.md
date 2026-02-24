@@ -31,7 +31,7 @@ Denizli Salbakos Dağları'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Denizli Salbakos Dağları, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu dağlar, yaklaşık 140 hektarlık bir alanı kapsıyor ve coğrafyası ile ziyaretçilerini kendine çekiyor. Denizli Salbakos Dağları, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dolu. Bu dağlar, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Ziyaretçiler, bu dağlarda trekking, kampçılık ve diğer doğa aktivitelerine katılabilirler. Denizli Salbakos Dağları, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapıyor ve ziyaretçiler, bu su kaynaklarında balık avı ve diğer su aktivitelerine katılabilirler.
+Denizli Salbakos Dağları, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Denizli Salbakos Dağları, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dolu. Bu dağlar, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Ziyaretçiler, bu dağlarda trekking, kampçılık ve diğer doğa aktivitelerine katılabilirler. Denizli Salbakos Dağları, aynı zamanda çeşitli su kaynaklarına ev sahipliği yapıyor ve ziyaretçiler, bu su kaynaklarında balık avı ve diğer su aktivitelerine katılabilirler.
 
 ## Flora ve Fauna
 

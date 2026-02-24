@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi eserleri gezme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Götaçan Tepesi","caption":"Götaçan Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ta%C3%A7an%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872612","tip":"genel"}]
-description: "Hatay'ın gizli cenneti Götaçan Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Götaçan Tepesi","Hatay","Akdeniz Bölgesi","doğal alan","yeşil alan","turizm","gezi","tepe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34872612"
@@ -48,7 +48,6 @@ Götaçan Tepesi'ni ziyaret etmek isteyenler, en iyi ziyaret zamanının ilkbaha
 
 ## İlginç Bilgiler
 
-- Götaçan Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Götaçan Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır
 - Götaçan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkilerini taşımaktadır
 - Götaçan Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginliği sunan özel bir mekân

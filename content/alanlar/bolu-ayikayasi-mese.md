@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","kamp","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg/960px-Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg","alt":"Bolu-Ayikayasi Mese","caption":"Bolu-Ayikayasi Mese","credit":"Bolu Abant Tabiat Parkı Havadan Görünüm Sonbahar - Türkiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Ayikayasi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227758","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin güzide mekanlarından biri olan Bolu-Ayikayasi Mese, 140 hektarlık alanıyla 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bolu","Ayikayasi Mese","Karadeniz Bölgesi","milli park","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227758"
@@ -43,7 +43,7 @@ Bolu-Ayikayasi Mese, ziyaretçilerini doğanın kucağına davet ediyor. Bu mill
 ## İlginç Bilgiler
 
 - Bolu-Ayikayasi Mese, Karadeniz Bölgesi'nin güzide mekanlarından biri
-- 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Zengin flora ve faunaya sahiptir
 - Yılın her döneminde ziyaret edilebilir
 - Bahar ve yaz ayları en iyi mevsim

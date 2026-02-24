@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","hayvan
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sunset_on_Old_Stone_Bridge.jpg/960px-Sunset_on_Old_Stone_Bridge.jpg","alt":"Balıkesir- Kalkim Eybekli-Kazdagigoknari","caption":"Balıkesir- Kalkim Eybekli-Kazdagigoknari","credit":"Sunset on Old Stone Bridge.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-%20Kalkim%20Eybekli-Kazdagigoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228097","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severleri bekliyor"
+
 keywords: ["Balıkesir","Kalkim Eybekli-Kazdagigoknari","Marmara Bölgesi","doğa","milli park","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228097"
@@ -42,7 +42,6 @@ Balıkesir- Kalkim Eybekli-Kazdagigoknari'yi ziyaret etmek, doğa severler için
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alana sahiptir
 - Milli park, Marmara Bölgesi'nin en önemli doğal alanlarından biridir
 - Bölge, zengin flora ve fauna ile dikkat çekiyor
 - Ziyaretçiler, yılın her döneminde milli parkı ziyaret edebilirler

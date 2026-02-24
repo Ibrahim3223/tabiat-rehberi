@@ -23,7 +23,7 @@ wikidata_id: "Q130367248"
 
 # Os Şelalesi
 
-Os Şelalesi, Trabzon'un güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Şelalenin yüksekliği ve suyu, ziyaretçilere unutulmaz bir deneyim sunar. Os Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
+ Şelalenin yüksekliği ve suyu, ziyaretçilere unutulmaz bir deneyim sunar. Os Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Os Şelalesi, yüzyıllar boyunca bölgenin en önemli doğal güzelliklerinden 
 
 ## Coğrafya
 
-Os Şelalesi, Trabzon'un doğusunda yer alan bir bölgede bulunmaktadır. Şelalenin etrafı, zengin bir flora ve faunaya ev sahipliği yapan ormanlar ve dağlar ile çevrilidir. Bölge, Karadeniz Bölgesi'nin karakteristik iklimini taşır ve ziyaretçilere yıl boyunca farklı mevsimsel deneyimler sunar. Şelalenin yüksekliği ve suyu, ziyaretçilere büyüleyici bir manzara sunar. Os Şelalesi, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir alan sunar. Şelalenin çevresi, çeşitli yürüyüş parkurları ve doğa güzelliği ile ziyaretçileri etkiler.
+Os Şelalesi, Trabzon'un doğusunda yer alan bir bölgede bulunmaktadır. Şelalenin etrafı, zengin bir flora ve faunaya ev sahipliği yapan ormanlar ve dağlar ile çevrilidir. Bölge, Karadeniz Bölgesi'nin karakteristik iklimini taşır ve ziyaretçilere yıl boyunca farklı mevsimsel deneyimler sunar. Şelalenin yüksekliği ve suyu, ziyaretçilere büyüleyici bir manzara sunar. Şelalenin çevresi, çeşitli yürüyüş parkurları ve doğa güzelliği ile ziyaretçileri etkiler.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Os Şelalesi, yıl boyunca ziyaret edilebilir. Şelaleye ulaşım, Trabzon merke
 ## İlginç Bilgiler
 
 - Os Şelalesi, Trabzon'un en önemli turizm noktalarından biridir
-- Şelale, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Os Şelalesi, zengin bir flora ve faunaya ev sahipliği yapar
 - Şelale, yıl boyunca farklı mevsimsel değişimler gösterir
 - Os Şelalesi, doğa severler için önemli bir noktadır

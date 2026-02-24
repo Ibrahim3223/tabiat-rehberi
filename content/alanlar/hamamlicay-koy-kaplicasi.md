@@ -20,7 +20,7 @@ aktiviteler: ["kaplıca suyuyla şifa bulmak","doğa yürüyüşleri","yakın ç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/It%27s_an_extensive_ruin%2C_nearly_1.7_km_long_%2816309025721%29.jpg/960px-It%27s_an_extensive_ruin%2C_nearly_1.7_km_long_%2816309025721%29.jpg","alt":"Hamamlıçay Köy Kaplıcası","caption":"Hamamlıçay Köy Kaplıcası","credit":"It's an extensive ruin, nearly 1.7 km long (16309025721)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamaml%C4%B1%C3%A7ay%20K%C3%B6y%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741919","tip":"genel"}]
-description: "Çorum'un doğal güzellikleri arasında yer alan Hamamlıçay Köy Kaplıcası, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Hamamlıçay Köy Kaplıcası","Çorum","Karadeniz Bölgesi","kaplıca","termal kaynak","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49741919"

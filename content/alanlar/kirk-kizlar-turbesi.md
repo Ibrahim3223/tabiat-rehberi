@@ -38,7 +38,7 @@ Kırk Kızlar Türbesi'nin tarihi geçmişi, Aksaray'ın tarihi ile iç içe ge�
 
 ## Coğrafya
 
-Kırk Kızlar Türbesi, Aksaray ilinin merkezine yakın bir konumda yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede de kendini göstermektedir. Türbe ve çevresindeki alan, 140 hektarlık bir büyüklüğe sahip olup, bu bölgede çeşitli bitki türleri ve hayvanlar yaşamaktadır. Aksaray'ın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Kültür ve turizm açısından önemli bir merkez olan Kırk Kızlar Türbesi, ziyaretçilerine bölge hakkında geniş bilgi sunmaktadır. Türbenin bulunduğu bölge, coğrafi olarak çeşitli doğal güzelliklere sahiptir. Bu doğal güzellikler, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Ayrıca, türbenin yakınlarında bulunan çeşitli mesire alanları, piknik yapmak isteyen ziyaretçilere uygun ortamlar sunar.
+Kırk Kızlar Türbesi, Aksaray ilinin merkezine yakın bir konumda yer almaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede de kendini göstermektedir. Aksaray'ın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Kültür ve turizm açısından önemli bir merkez olan Kırk Kızlar Türbesi, ziyaretçilerine bölge hakkında geniş bilgi sunmaktadır. Türbenin bulunduğu bölge, coğrafi olarak çeşitli doğal güzelliklere sahiptir. Bu doğal güzellikler, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Ayrıca, türbenin yakınlarında bulunan çeşitli mesire alanları, piknik yapmak isteyen ziyaretçilere uygun ortamlar sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kırk Kızlar Türbesi'ni ziyaret etmek, Aksaray'ın tarihi ve kültürel zengin
 ## İlginç Bilgiler
 
 - Kırk Kızlar Türbesi, Aksaray'ın en önemli tarihi ve kültürel merkezlerinden biridir.
-- Türbe, 140 hektarlık bir alanı kaplar.
+
 - Bu bölgede, çeşitli bitki ve hayvan türleri bulunur.
 - Kırk Kızlar Türbesi, Aksaray'ın merkezine yakındır.
 - Bölgede, çeşitli restoran ve kafeler bulunur.

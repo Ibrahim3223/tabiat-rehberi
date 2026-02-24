@@ -48,7 +48,6 @@ Aydoğdu Tepesi'ni ziyaret etmek, hem doğa severler hem de macera arayışında
 
 ## İlginç Bilgiler
 
-- Aydoğdu Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin etrafı, çeşitli bitki türleriyle kaplı.
 - Aydoğdu Tepesi, Ege Denizi'ni vein dağlarını görme mümkün.
 - Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor.

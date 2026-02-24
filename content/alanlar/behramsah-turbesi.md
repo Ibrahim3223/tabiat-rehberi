@@ -50,7 +50,7 @@ Behramşah Türbesi, ziyaretçilerine, tarihi ve doğal güzelliğin birleştiğ
 ## İlginç Bilgiler
 
 - Behramşah Türbesi, Kemah ilçesinin tarihi ve kültürel mirasının önemli bir parçasıdır
-- Behramşah Türbesi, 140 hektarlık bir alanı kaplar
+
 - Behramşah Türbesi, flora ve fauna açısından zengin bir bölgedir
 - Behramşah Türbesi, yıl boyunca ziyaret edilebilir
 - Behramşah Türbesi, doğa ile iç içe olma imkânı sunar

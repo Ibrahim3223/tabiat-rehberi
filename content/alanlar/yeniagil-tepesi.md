@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","panoramik izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yeniağıl Tepesi","caption":"Yeniağıl Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yenia%C4%9F%C4%B1l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556682","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinden biri olan Yeniağıl Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Yeniağıl Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31556682"
@@ -49,7 +49,7 @@ Yeniağıl Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetme
 ## İlginç Bilgiler
 
 - Yeniağıl Tepesi, Ankara'nın en yüksek noktalarından birisidir.
-- Bu tepe, 140 hektarlık bir alanı kaplar.
+
 - Yeniağıl Tepesi, çeşitli bitki türlerine ev sahipliği yapar.
 - Bu bölgede, kuşlar, memeliler ve sürüngenler gibi farklı hayvan türleri bulunur.
 - Yeniağıl Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.

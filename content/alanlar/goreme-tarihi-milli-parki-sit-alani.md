@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/G%C3%B6remePapazEvi.jpg","alt":"Göreme Tarihi Milli Parkı Sit Alanı manzarası","credit":"D-22zran","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6reme%20Tarihi%20Milli%20Park%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226237","tip":"genel"}]
-description: "Nevşehir'de yer alan Göreme Tarihi Milli Parkı Sit Alanı, 140 hektarlık yeşil alanı ve tarihi geçmişiyle ziyaretçilerini bekliyor."
+"
 keywords: ["Göreme","Nevşehir","Milli Park","Sit Alanı","Doğa","Tarih","Gezi","Turizm","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226237"

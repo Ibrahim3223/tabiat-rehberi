@@ -49,7 +49,6 @@ Bozdağ Hamamı, ziyaretçilere benzersiz bir deneyim sunuyor. Bu plaj, Ege Böl
 
 ## İlginç Bilgiler
 
-- Bozdağ Hamamı, 140 hektarlık bir alana sahip
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış
 - Bozdağ Hamamı, Ege Bölgesi'nin en güzel plajlarından biri
 - Bu bölge, doğayla iç içe olmayı sağlıyor

@@ -50,7 +50,7 @@ Ahi Sultan Kızı Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikl
 ## İlginç Bilgiler
 
 - Ahi Sultan Kızı Türbesi, önemli bir tarihi ve dini merkez
-- Türbe, 140 hektarlık bir yeşil alanda yer alıyor
+
 - Bölge, Akdeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapıyor
 - Ziyaretçilere, tarihi ve doğal güzellikleri bir arada sunuyor
 - Türbe ve çevresinde, çeşitli bitki ve hayvan türleri bulunabiliyor

@@ -36,7 +36,7 @@ Kurruk Tepesi'nin tarihi geçmişi, yüzyıllar öncesine uzanıyor. Bu tepe, ta
 
 ## Coğrafya
 
-Kurruk Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alıyor. Bu tepe, 140 hektarlık bir alana yayıldığı için oldukça geniş bir alanı kapsıyor. Kurruk Tepesi, bölgenin coğrafi açıdan önemli bir noktası olarak kabul ediliyor. Burada, ziyaretçiler eşsiz doğa manzaraları ile karşılaşabiliyorlar. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünülüyor. Kurruk Tepesi'nin coğrafi konumu, ziyaretçilere bölge hakkında geniş bir perspektif sunuyor. Bu tepe, bölgenin iklimi ve coğrafi yapısı hakkında da bilgi veriyor. Kurruk Tepesi, coğrafi açıdan zengin bir bölge olarak biliniyor ve ziyaretçilere çeşitli keşif fırsatları sunuyor.
+Kurruk Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alıyor. Kurruk Tepesi, bölgenin coğrafi açıdan önemli bir noktası olarak kabul ediliyor. Burada, ziyaretçiler eşsiz doğa manzaraları ile karşılaşabiliyorlar. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünülüyor. Kurruk Tepesi'nin coğrafi konumu, ziyaretçilere bölge hakkında geniş bir perspektif sunuyor. Bu tepe, bölgenin iklimi ve coğrafi yapısı hakkında da bilgi veriyor. Kurruk Tepesi, coğrafi açıdan zengin bir bölge olarak biliniyor ve ziyaretçilere çeşitli keşif fırsatları sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kurruk Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için büy
 
 ## İlginç Bilgiler
 
-- Kurruk Tepesi, 140 hektarlık bir alana yayıldığı için oldukça geniş bir alanı kapsıyor.
 - Bu tepe, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor.
 - Kurruk Tepesi, bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
 - Bu tepe, yüzyıllar boyunca çeşitli olaylara ve medeniyetlere tanıklık etmiş ve bu nedenle tarih meraklıları tarafından sıkça ziyaret ediliyor.

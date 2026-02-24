@@ -50,7 +50,7 @@ Topkapı Hamamı'na ziyaretçiler, çeşitli ulaşım seçenekleri ile ulaşabil
 ## İlginç Bilgiler
 
 - Topkapı Hamamı, Marmara Bölgesi'nin en önemli turistik noktalarından biridir
-- Bölge, yaklaşık 140 hektarlık bir yeşil alana sahiptir
+
 - Topkapı Hamamı, denize girme imkanı sunan plajı ile dikkat çekmektedir
 - Bölge, tarihi hamam yapıları ile dikkat çekmektedir
 - Topkapı Hamamı, doğa severler için ideal bir destinasyondur

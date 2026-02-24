@@ -42,7 +42,6 @@ Amasya-Bafra-Ondokuzmayis Karacam milli parkını ziyaret etmek, doğayı sevenl
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, bölgenin en büyük milli parklarından biri
 - Parkta, yaklaşık 50 farklı bitki türü bulunmakta
 - Parkın fauna çeşitliliği, Karadeniz Bölgesi'nin en zengin fauna çeşitliliğinden biri
 - Park, yerel halk için önemli bir ekoloji ve kültürel değer olarak görülüyor

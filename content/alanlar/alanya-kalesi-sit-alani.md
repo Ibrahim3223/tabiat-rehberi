@@ -22,7 +22,7 @@ wikidata_id: "Q108226656"
 
 # Alanya Kalesi Sit Alanı
 
-Alanya Kalesi Sit Alanı, yaklaşık 140 hektarlık alanı kaplayan bir doğal ve tarihi sit alanıdır. Bu alan, 200 futbol sahası büyüklüğünde bir arazide yer alır. Alanya Kalesi Sit Alanı, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile karşılar. Burada, tarihi kale kalıntıları ve doğal güzellikleri bir arada görme mümkündür. Alanya Kalesi Sit Alanı, turizm ve ekoloji açısından önemli bir bölgedir.
+ Alanya Kalesi Sit Alanı, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile karşılar. Burada, tarihi kale kalıntıları ve doğal güzellikleri bir arada görme mümkündür. Alanya Kalesi Sit Alanı, turizm ve ekoloji açısından önemli bir bölgedir.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Alanya Kalesi Sit Alanı, ziyaretçilerini bekliyor. Bu alan, tarihi geçmişi v
 
 ## İlginç Bilgiler
 
-- Alanya Kalesi Sit Alanı, 140 hektarlık bir alanı kaplar.
-- Bu alan, 200 futbol sahası büyüklüğünde bir arazide yer alır.
 - Alanya Kalesi Sit Alanı, tarihi geçmişi ve doğal güzelliği ile dikkat çeker.
 - Bu alan, turizm ve ekoloji açısından önemli bir bölgedir.
 - Alanya Kalesi Sit Alanı, ziyaretçilerine tarihi bir gezi imkânı sunuyor.

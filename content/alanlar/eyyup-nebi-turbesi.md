@@ -29,7 +29,7 @@ wikidata_id: "Q131390947"
 
 # Eyyup Nebi Türbesi
 
-Eyyup Nebi Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Eyyübiye ilçesinde yer alan tarihi ve dini bir mekan. Bu bölge, yaklaşık 140 hektarlık bir alana yayılmış ve tarihin derinliklerinde sayısız uygarlığa ev sahipliği yapmış. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihin gizemli kapılarına davet ediyor. Eyyup Nebi Türbesi, hem dini hem de kültürel açıdan önemli bir değer taşıyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Eyyup Nebi Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Eyyübiye ilçesinde yer alan tarihi ve dini bir mekan. Eyyup Nebi Türbesi, hem dini hem de kültürel açıdan önemli bir değer taşıyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

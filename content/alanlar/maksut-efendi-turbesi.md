@@ -51,6 +51,5 @@ Maksut Efendi Türbesi'ni ziyaret etmek, Erzurum'un tarihi ve doğal güzellikle
 
 - Maksut Efendi Türbesi, Erzurum'un tarihi ve kültürel zenginliklerini öğrenmek isteyenler için önemli bir kaynak niteliğindedir.
 - Türbe, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiştir.
-- Maksut Efendi Türbesi, 140 hektarlık bir alanda yer almaktadır.
 
 - Maksut Efendi Türbesi, doğa severler için ideal bir destinasyondur.

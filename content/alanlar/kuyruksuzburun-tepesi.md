@@ -48,7 +48,6 @@ Kuyruksuzburun Tepesi, özellikle doğa severler için keyifli bir gezi deneyimi
 
 ## İlginç Bilgiler
 
-- Kuyruksuzburun Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin eteklerinde, çeşitli bitki türleri found.
 - Kuyruksuzburun Tepesi, özellikle doğa severler için keyifli bir gezi deneyimi sunuyor.
 - Tepenin coğrafi konumu, ziyaretçilerin kolayca ulaşmasına olanak sağlıyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31387202"
 
 # Devret Tepesi
 
-Kastamonu'nun eşsiz doğal güzelliklerinden biri olan Devret Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Devret Tepesi, Kastamonu'nun merkezi konumunda yer alıyor ve şehrin dört bir yanından kolayca ulaşım sağlanabiliyor. Tepenin etrafı, çeşitli bitki türleriyle çevrili ve özellikle ilkbahar ve yaz aylarında ziyaret edilmesi öneriliyor. Bu mevsimlerde, tepenin surroundingsı renkli bir hal alıyor ve ziyaretçiler için güzel bir manzara sunuyor.
+ Devret Tepesi, Kastamonu'nun merkezi konumunda yer alıyor ve şehrin dört bir yanından kolayca ulaşım sağlanabiliyor. Tepenin etrafı, çeşitli bitki türleriyle çevrili ve özellikle ilkbahar ve yaz aylarında ziyaret edilmesi öneriliyor. Bu mevsimlerde, tepenin surroundingsı renkli bir hal alıyor ve ziyaretçiler için güzel bir manzara sunuyor.
 
 ## Tarihçe
 

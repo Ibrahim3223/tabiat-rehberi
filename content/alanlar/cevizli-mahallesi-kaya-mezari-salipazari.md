@@ -50,7 +50,7 @@ Cevizli Mahallesi Kaya Mezarı Salıpazarı, yılın her dönemi ziyaret edilebi
 ## İlginç Bilgiler
 
 - Cevizli Mahallesi Kaya Mezarı Salıpazarı, Karadeniz Bölgesi'nin önemli tarihi güzelliklerinden biridir.
-- Bölge, 140 hektarlık bir alanı kaplar.
+
 - Kaya mezarları, tarihi değerleri ve bölgenin kültürel mirasını yansıtan önemli eserlerdir.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Cevizli Mahallesi Kaya Mezarı Salıpazarı, yılın her dönemi ziyaret edilebilir.

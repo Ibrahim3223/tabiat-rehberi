@@ -48,8 +48,6 @@ Paşa Hamamı, ziyaretçiler için önemli bir çekim merkezi. Bu doğal alan, �
 
 ## İlginç Bilgiler
 
-- Paşa Hamamı, 140 hektarlık bir doğal alan.
-
 - Paşa Hamamı, Çorum'un merkezinde yer alıyor.
 - Bu doğal alan, Karadeniz Bölgesi'nin coğrafi özelliklerine sahip.
 - Paşa Hamamı, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistem oluşturuyor.

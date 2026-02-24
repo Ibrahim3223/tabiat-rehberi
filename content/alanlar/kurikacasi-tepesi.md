@@ -48,7 +48,6 @@ Kurikacasi Tepesi, doğa severlerin ve tarih meraklılarının ziyaret edebilece
 
 ## İlginç Bilgiler
 
-- Kurikacasi Tepesi, yaklaşık olarak 140 hektarlık bir alanı kapsıyor
 - Bu tepe, doğal güzelliği ve çevre ile uyumlu yapısı ile dikkat çekiyor
 - Kurikacasi Tepesi, ziyaretçilerine hem tarihi hem de jeolojik açıdan önemli bilgiler sunuyor
 - Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor

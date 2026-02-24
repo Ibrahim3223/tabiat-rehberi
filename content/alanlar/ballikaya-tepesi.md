@@ -49,7 +49,7 @@ Ballıkaya Tepesi'ni ziyaret etmek, Hatay'da yapılacak en güzel aktivitelerden
 ## İlginç Bilgiler
 
 - Ballıkaya Tepesi, Hatay ilinin en önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Ballıkaya Tepesi'nin flora ve fauna zenginliği dikkat çekici
 - Bu tepenin manzarası, özellikle gün batımı saatlerinde, oldukça etkileyici
 - Ballıkaya Tepesi, Hatay'ın tarihi ve kültürel mirasının da önemli bir parçası

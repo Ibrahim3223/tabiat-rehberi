@@ -28,7 +28,7 @@ wikidata_id: "Q97320235"
 
 # Rüzgarlı Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Rüzgarlı Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir vadi içinde gizli bir hazine gibi bekliyor. Rüzgarlı Şelalesi, ziyaretçilerini doğal güzelliği, serin havası ve sakin atmosferi ile büyülüyor. Şelalenin çevresindeki yüksek dağlar ve vadiler, trekking ve doğa yürüyüşü severler için ideal bir ortam sunuyor. Ziyaretçiler, şelaleye ulaşmak için uzun bir mesafelik bir patika yolunu takip ediyorlar ve bu yolculuk, doğanın içinden geçerek şelaleye varmak için harika bir fırsat sunuyor.
+ Rüzgarlı Şelalesi, ziyaretçilerini doğal güzelliği, serin havası ve sakin atmosferi ile büyülüyor. Şelalenin çevresindeki yüksek dağlar ve vadiler, trekking ve doğa yürüyüşü severler için ideal bir ortam sunuyor. Ziyaretçiler, şelaleye ulaşmak için uzun bir mesafelik bir patika yolunu takip ediyorlar ve bu yolculuk, doğanın içinden geçerek şelaleye varmak için harika bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Rüzgarlı Şelalesi'ni ziyaret etmek, doğa severler için harika bir deneyim. 
 
 ## İlginç Bilgiler
 
-- Rüzgarlı Şelalesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Şelale, yüksek dağlar ile çevrili
 - Şelalenin etrafındaki vadide, çeşitli bitki türleri yetişiyor
 - Rüzgarlı Şelalesi, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmeli

@@ -50,7 +50,6 @@ Fatih Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilini
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kapsıyor
 - Karadeniz'in en güzel plajlarından biri
 - Tarihsel öneme sahip bir yer
 - Doğal güzelliği ile dikkat çekiyor

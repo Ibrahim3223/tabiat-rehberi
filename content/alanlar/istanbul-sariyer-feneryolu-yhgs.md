@@ -22,7 +22,7 @@ wikidata_id: "Q108227073"
 
 # İstanbul Sarıyer Feneryolu YHGS
 
-İstanbul'un Sarıyer ilçesinde yer alan Feneryolu YHGS, yaklaşık 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir.
+ Doğal güzellikleri, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Feneryolu YHGS'nin tarihi geçmişi, yüzyıllar boyunca doğanın korunduğu ve
 
 ## Coğrafya
 
-Feneryolu YHGS, İstanbul'un Sarıyer ilçesinde, şehrin doğal güzelliklerinin sergilendiği bir bölgede yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. İklim olarak, bölgenin karakteristiği, İstanbul'un genel iklimine benzer ve dört mevsimi yaşayan bir bölgedir. Çevre, doğal güzelliklerle dolu ve ziyaretçilere doğayla iç içe olma imkanı tanıyor. 140 hektarlık bu alan, ziyaretçilere geniş bir doğa parçasını keşfetme fırsatı sunuyor.
+Feneryolu YHGS, İstanbul'un Sarıyer ilçesinde, şehrin doğal güzelliklerinin sergilendiği bir bölgede yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. İklim olarak, bölgenin karakteristiği, İstanbul'un genel iklimine benzer ve dört mevsimi yaşayan bir bölgedir. Çevre, doğal güzelliklerle dolu ve ziyaretçilere doğayla iç içe olma imkanı tanıyor.
 
 ## Flora ve Fauna
 

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Giresun-Alucra-2.JPG","alt":"Alucuri Vadisi manzarası","credit":"Dr. Zeynel Cebeci","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Giresun-Alucra-2.JPG/960px-Giresun-Alucra-2.JPG","alt":"Alucuri Vadisi","caption":"Alucuri Vadisi","credit":"Giresun-Alucra-2","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alucuri%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21209538","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, Alucuri Vadisi'ni ziyaret edin, kanyonun büyüleyici manzaralarına şahit olun."

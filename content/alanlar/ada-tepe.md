@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/73/Portret_van_mevrouw_Hondius-Crone_en_haar_kinderen%2C_Toni_Arens-Tepe%2C_1935_BK-D-1967-203-3.jpg","alt":"Ada Tepe manzarası","credit":"Toni Arens-Tepe (1883-1947)","license":"pd"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Portret_van_mevrouw_Hondius-Crone_en_haar_kinderen%2C_Toni_Arens-Tepe%2C_1935_BK-D-1967-203-3_%28cropped%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Portret_van_mevrouw_Hondius-Crone_en_haar_kinderen%2C_Toni_Arens-Tepe%2C_1935_BK-D-1967-203-3_%28cropped%29.jpg/1280px-Portret_van_mevrouw_Hondius-Crone_en_haar_kinderen%2C_Toni_Arens-Tepe%2C_1935_BK-D-1967-203-3_%28cropped%29.jpg","alt":"Ada Tepe - Portret van mevrouw Hondius-Crone en haar kinderen, Toni Arens-Tepe, 1935 BK-D-1967-203-3 (cropped)","credit":"Toni Arens-Tepe (1883-1947)","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Ada_Tepe.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/16/Ada_Tepe.jpg","alt":"Ada Tepe - Ada Tepe","credit":"Darkhorn","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ada_Hill_-_geograph.org.uk_-_7662289.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ada_Hill_-_geograph.org.uk_-_7662289.jpg/1280px-Ada_Hill_-_geograph.org.uk_-_7662289.jpg","alt":"Ada Tepe - Ada Hill - geograph.org.uk - 7662289","credit":"Richard Webb ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Image_by_Ada_Hill_Walker_N266_w1150.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Image_by_Ada_Hill_Walker_N266_w1150.jpg/1210px-Image_by_Ada_Hill_Walker_N266_w1150.jpg","alt":"Ada Tepe - Image by Ada Hill Walker N266 w1150","credit":"Biodiversity Heritage Library","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Sheep_pens%2C_Ada_Hill_-_geograph.org.uk_-_7938740.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sheep_pens%2C_Ada_Hill_-_geograph.org.uk_-_7938740.jpg/1280px-Sheep_pens%2C_Ada_Hill_-_geograph.org.uk_-_7938740.jpg","alt":"Ada Tepe - Sheep pens, Ada Hill - geograph.org.uk - 7938740","credit":"Jim Barton ","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ada%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386105","tip":"genel"}]
-description: "Osmaniye'de bulunan Ada Tepe, Akdeniz Bölgesi'nin önemli güzelliklerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Osmaniye'de bulunan Ada Tepe, Akdeniz Bölgesi'nin önemli güzelliklerinden biri."
 keywords: ["Ada Tepe","Osmaniye","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386105"
@@ -49,8 +49,6 @@ Ada Tepe, ziyaretçilerine hem huzur verici bir atmosfer sunuyor hem de tarihi g
 
 ## İlginç Bilgiler
 
-- Ada Tepe, 140 hektarlık bir alana sahip
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Ada Tepe, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
 - Ada Tepe, flora ve fauna açısından zengin bir bölge

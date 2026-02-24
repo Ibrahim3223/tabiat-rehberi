@@ -29,7 +29,7 @@ wikidata_id: "Q131391545"
 
 # Şeyh Nasurettin Türbesi
 
-Şeyh Nasurettin Türbesi, İzmir'in Tire ilçesinde yer alan bir turistik nokta olarak dikkat çekiyor. 140 hektarlık bir alanda bulunan bu tarihi ve doğal güzellikler bir arada sunan destinasyon, ziyaretçilerini bekliyor. Tire'nin merkezine yakın konumuyla kolay ulaşılabilirlik sunan Şeyh Nasurettin Türbesi, aynı zamanda çevresi ile de dikkat çekiyor.
+Şeyh Nasurettin Türbesi, İzmir'in Tire ilçesinde yer alan bir turistik nokta olarak dikkat çekiyor. Tire'nin merkezine yakın konumuyla kolay ulaşılabilirlik sunan Şeyh Nasurettin Türbesi, aynı zamanda çevresi ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391545"
 
 ## Coğrafya
 
-Şeyh Nasurettin Türbesi, İzmir'in Tire ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel noktalarından biri olarak biliniyor. Çevresi yeşilliklerle kaplı olan türbe, aynı zamanda denize yakın bir konumda bulunuyor. Coğrafi konumu itibariyle, ziyaretçiler hem deniz hem de dağ manzarasını aynı anda görebiliyor. Şeyh Nasurettin Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bu büyük alan, ziyaretçilere geniş bir gezi alanı sunuyor. Türbenin etrafı, çeşitli bitkiler ve ağaçlarla çevrilidir. Ayrıca, bu bölgede iklim genellikle ılımandır, bu da ziyaretçilerin yılın her döneminde burayı ziyaret etmesini mümkün kılıyor. Coğrafi konumu ve iklimi, Şeyh Nasurettin Türbesi'ni ziyaret etmek için ideal bir destinasyon haline getiriyor.
+Şeyh Nasurettin Türbesi, İzmir'in Tire ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel noktalarından biri olarak biliniyor. Çevresi yeşilliklerle kaplı olan türbe, aynı zamanda denize yakın bir konumda bulunuyor. Coğrafi konumu itibariyle, ziyaretçiler hem deniz hem de dağ manzarasını aynı anda görebiliyor. Bu büyük alan, ziyaretçilere geniş bir gezi alanı sunuyor. Türbenin etrafı, çeşitli bitkiler ve ağaçlarla çevrilidir. Ayrıca, bu bölgede iklim genellikle ılımandır, bu da ziyaretçilerin yılın her döneminde burayı ziyaret etmesini mümkün kılıyor. Coğrafi konumu ve iklimi, Şeyh Nasurettin Türbesi'ni ziyaret etmek için ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ wikidata_id: "Q131391545"
 - Şeyh Nasurettin Türbesi, tarihsel açıdan önemli bir geçmişe sahip
 - Türbenin inşa tarihi tam olarak bilinmese de, yüzyıllar boyunca önemli bir dini merkez olarak kabul edildiği biliniyor
 - Tire'nin merkezine yakın konumuyla kolay ulaşılabilirlik sunuyor
-- 140 hektarlık bir alanda bulunuyor
+
 - Çevresi yeşilliklerle kaplı

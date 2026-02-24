@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Amasya-Destek Kızılçam","caption":"Amasya-Destek Kızılçam","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Destek%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227411","tip":"genel"}]
-description: "Amasya'nın güzelliklerini keşfedin, 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Amasya","Kızılçam","milli park","Karadeniz Bölgesi","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227411"
@@ -43,7 +43,7 @@ Amasya-Destek Kızılçam milli parkını ziyaret etmek, oldukça keyifli bir de
 ## İlginç Bilgiler
 
 - Milli parkın içinde, bir müze bulunmakta
-- Milli park, 140 hektarlık bir yeşil alana sahip
+
 - Milli parkın coğrafyası, dağlık ve engebeli bir yapıya sahip
 - Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine benzer
 - Milli parkın içinde, yürüyüş parkurları ve göletler bulunmakta

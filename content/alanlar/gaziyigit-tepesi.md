@@ -48,7 +48,6 @@ Gaziyiğit Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile kar
 
 ## İlginç Bilgiler
 
-- Gaziyiğit Tepesi, 140 hektarlık bir alanı kaplar.
 - Bu tepe, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Gaziyiğit Tepesi, çeşitli bitki türleri ve fauna örnekleri ile zengindir.
 - Bu tepe, bölgenin ekolojik dengesini korumak için önemlidir.

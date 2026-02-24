@@ -38,7 +38,7 @@ Mahmut Paşa Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. B
 
 ## Coğrafya
 
-Mahmut Paşa Türbesi, Yakutiye/Erzurum'un coğrafi yapısı içinde yer alıyor. Bu bölge, 140 hektarlık bir yeşil alan içinde bulunuyor. Mahmut Paşa Türbesi, ziyaretçilerine coğrafi konumu ile birlikte tarihi ve kültürel zenginliklerini sunuyor. Doğu Anadolu Bölgesi'nin coğrafi yapısı, Mahmut Paşa Türbesi'nin bulunduğu bölgeyi de etkiliyor. Mahmut Paşa Türbesi, coğrafi konumu itibariyle önemli bir konumda bulunuyor. Bu coğrafi konum, tarihi ve kültürel zenginliklerin bir arada bulunmasını sağlıyor. Mahmut Paşa Türbesi, coğrafi yapısı ile birlikte ziyaretçilerine çeşitli olanaklar sunuyor.
+Mahmut Paşa Türbesi, Yakutiye/Erzurum'un coğrafi yapısı içinde yer alıyor. Mahmut Paşa Türbesi, ziyaretçilerine coğrafi konumu ile birlikte tarihi ve kültürel zenginliklerini sunuyor. Doğu Anadolu Bölgesi'nin coğrafi yapısı, Mahmut Paşa Türbesi'nin bulunduğu bölgeyi de etkiliyor. Mahmut Paşa Türbesi, coğrafi konumu itibariyle önemli bir konumda bulunuyor. Bu coğrafi konum, tarihi ve kültürel zenginliklerin bir arada bulunmasını sağlıyor. Mahmut Paşa Türbesi, coğrafi yapısı ile birlikte ziyaretçilerine çeşitli olanaklar sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Mahmut Paşa Türbesi, ziyaretçilerine çeşitli olanaklar sunuyor. Ziyaretçil
 ## İlginç Bilgiler
 
 - Mahmut Paşa Türbesi, Yakutiye/Erzurum'un tarihi ve kültürel yaşamında önemli bir yere sahip.
-- Mahmut Paşa Türbesi, 140 hektarlık bir yeşil alan içinde bulunuyor.
+
 - Mahmut Paşa Türbesi, yüzyıllar boyunca şekillenmiş bir tarihi geçmişe sahip.
 - Mahmut Paşa Türbesi, ziyaretçilerine flora ve fauna açısından zengin bir ortam sunuyor.
 - Mahmut Paşa Türbesi, coğrafi konumu itibariyle önemli bir konumda bulunuyor.

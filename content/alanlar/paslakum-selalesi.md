@@ -48,7 +48,6 @@ Paslakum Şelalesi'ni ziyaret etmek, doğa severler için bir dreamdır. Ziyaret
 
 ## İlginç Bilgiler
 
-- Paslakum Şelalesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Şelalenin yüksekliği, khong 10 metre civarındadır.
 - Paslakum Şelalesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Bu alan, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapar.

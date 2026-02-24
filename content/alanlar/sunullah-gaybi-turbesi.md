@@ -38,7 +38,7 @@ Sunullah Gaybi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Sunullah Gaybi Türbesi, Kütahya'nın coğrafi olarak merkezi bir konumda yer alıyor. Türbe, Ege Bölgesi'nin kuzeybatı kısmında, Kütahya ilinin merkezinde bulunuyor. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş yeşil alanlar sunuyor. Türbenin etrafında, çeşitli bitki türleri yer alıyor. Bu bitkiler, ziyaretçilere doğayı seyretme ve dinlenmek için ideal bir ortam sunuyor. Coğrafi olarak, türbe, Kütahya'nın önemli bir bölümünü kapsıyor ve ziyaretçilerine geniş bir görünüm sunuyor.
+Sunullah Gaybi Türbesi, Kütahya'nın coğrafi olarak merkezi bir konumda yer alıyor. Türbe, Ege Bölgesi'nin kuzeybatı kısmında, Kütahya ilinin merkezinde bulunuyor. Türbenin etrafında, çeşitli bitki türleri yer alıyor. Bu bitkiler, ziyaretçilere doğayı seyretme ve dinlenmek için ideal bir ortam sunuyor. Coğrafi olarak, türbe, Kütahya'nın önemli bir bölümünü kapsıyor ve ziyaretçilerine geniş bir görünüm sunuyor.
 
 ## Flora ve Fauna
 

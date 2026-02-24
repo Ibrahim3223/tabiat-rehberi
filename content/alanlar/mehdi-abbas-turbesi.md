@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotograf çekimi","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Mehdi Abbas Türbesi","caption":"Mehdi Abbas Türbesi","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehdi%20Abbas%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582831","tip":"genel"}]
-description: "Erzurum'un Yakutiye ilçesinde bulunan tarihi ve doğal güzellikleri bir arada sunan Mehdi Abbas Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Mehdi Abbas Türbesi","Erzurum","Yakutiye","tarih","doğa","yeşil alan","turizm","gezi","türbe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582831"
@@ -49,7 +49,6 @@ Mehdi Abbas Türbesi'ni ziyaret etmek, hem tarihe meraklı olanlar hem de doğa 
 
 ## İlginç Bilgiler
 
-- Mehdi Abbas Türbesi, 140 hektarlık yeşil alanı ile ziyaretçilerine geniş bir alan sunuyor.
 - Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Mehdi Abbas Türbesi, tarihin izlerini taşıyan bir yapı olarak, ziyaretçilere tarihin sayfalarını açma fırsatı sunuyor.
 - Bu türbe, Erzurum'un kültürel ve dini yaşantısının önemli bir parçasıdır.

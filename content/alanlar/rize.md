@@ -43,8 +43,6 @@ Rize milli parkını ziyaret etmek, ziyaretçiler için büyük bir deneyimdir. 
 
 ## İlginç Bilgiler
 
-- Rize milli parkı, 140 hektarlık bir alanı kapsıyor
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde
 - Rize'nin coğrafi konumu, milli parkın iklimini etkiliyor
 - Milli park, flora ve faunası ile dikkat çekiyor
 - Rize milli parkı, mevsimsel değişimlere göre, flora ve faunası da değişiyor

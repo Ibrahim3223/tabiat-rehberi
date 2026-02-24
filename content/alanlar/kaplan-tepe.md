@@ -28,7 +28,7 @@ wikidata_id: "Q31391058"
 
 # Kaplan Tepe
 
-Kaplan Tepe, Adıyaman'ın güneydoğusunda yer alan, hem tarih hem de doğaçısından önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzara ile karşılar. Kaplan Tepe, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
+Kaplan Tepe, Adıyaman'ın güneydoğusunda yer alan, hem tarih hem de doğaçısından önemli bir nokta. Kaplan Tepe, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kaplan Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Kaplan Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biridir. Bu tepe, Adıyaman ilinin güneydoğusunda yer alır ve çevresi, çeşitli bitki türleri ile kaplıdır. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları soğuk ve yağışlıdır. Kaplan Tepe'nin coğrafi yapısı, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, ziyaretçilere, çeşitli flora ve faunayı gözlemleme fırsatı verir. Çevre, zengin bir ekosisteme sahiptir ve bu, Kaplan Tepe'yi, doğa severler için önemli bir destinasyon haline getirir. Kaplan Tepe, ziyaretçilere, hem doğal güzellikleri hem de tarihi eserleri bir arada sunar ve bu nedenle, bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Kaplan Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biridir. Bu tepe, Adıyaman ilinin güneydoğusunda yer alır ve çevresi, çeşitli bitki türleri ile kaplıdır. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları soğuk ve yağışlıdır. Kaplan Tepe'nin coğrafi yapısı, ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunar. Çevre, zengin bir ekosisteme sahiptir ve bu, Kaplan Tepe'yi, doğa severler için önemli bir destinasyon haline getirir. Kaplan Tepe, ziyaretçilere, hem doğal güzellikleri hem de tarihi eserleri bir arada sunar ve bu nedenle, bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kaplan Tepe'yi ziyaret etmek, hem tarih hem de doğa severler için önemli bir 
 
 ## İlginç Bilgiler
 
-- Kaplan Tepe, 140 hektarlık bir alanı kaplar
 - Tarih boyunca birçok uygarlık, bu bölgede hüküm sürmüştür
 - Tepe, zengin bir flora ve faunaya sahiptir
 - İlkbahar ve yaz ayları, ziyaret için en uygun zamandır

@@ -36,7 +36,7 @@ Kömürlübaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Kömürlübaşı Tepesi, Muğla'nın Ege Bölgesi'nde bulunan bir tepe. Bu tepe, 140 hektarlık bir alanı kaplayan bir yeşil alan. Kömürlübaşı Tepesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Muğla'nın coğrafi yapısını oluşturan önemli bir parça. Kömürlübaşı Tepesi, Ege Bölgesi'nin iklimini yansıtan bir yapıya sahip. Bu tepe, bölgenin coğrafi özelliklerini taşıyan bir doğal güzellik. Kömürlübaşı Tepesi, ziyaretçilerini doğanın güzelliğine davet ediyor. Bu tepe, Muğla'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor.
+Kömürlübaşı Tepesi, Muğla'nın Ege Bölgesi'nde bulunan bir tepe. Kömürlübaşı Tepesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Muğla'nın coğrafi yapısını oluşturan önemli bir parça. Kömürlübaşı Tepesi, Ege Bölgesi'nin iklimini yansıtan bir yapıya sahip. Bu tepe, bölgenin coğrafi özelliklerini taşıyan bir doğal güzellik. Kömürlübaşı Tepesi, ziyaretçilerini doğanın güzelliğine davet ediyor. Bu tepe, Muğla'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kömürlübaşı Tepesi'ni ziyaret etmek, doğa severlerin ve macera arayışın
 
 ## İlginç Bilgiler
 
-- Kömürlübaşı Tepesi, 140 hektarlık bir alanı kaplayan bir yeşil alan
 - Bu tepe, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Kömürlübaşı Tepesi, Muğla'nın önemli turizm noktalarından biri
 - Bu tepe, tarihinin izlerini stiller

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Kastamonu-Kure Kayin","caption":"Kastamonu-Kure Kayin","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Kure%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227263","tip":"genel"}]
-description: "Kastamonu'nun güzide milli parkı, 140 hektarlık yeşil alanıyla doğa severleri bekliyor"
+
 keywords: ["Kastamonu","Kure Kayin","milli park","doğa","yeşil alan","Kastamonu milli parkı","Karadeniz Bölgesi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227263"
@@ -30,7 +30,7 @@ Kastamonu-Kure Kayin milli parkının tarihi geçmişi, yüzyıllar öncesine da
 
 ## Coğrafya
 
-Kastamonu-Kure Kayin milli parkı, Karadeniz Bölgesi'nde, Kastamonu ilinin sınırları içerisinde yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir açık alan sunuyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın güzelliğini sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, yağışlı ve nemli bir yapıya sahip. Bu iklim, bitki örtüsünün zengin ve çeşitli olmasını sağlıyor. Kastamonu-Kure Kayin milli parkı, ziyaretçilere geniş bir açık alan sunuyor ve doğanın güzelliği ile iç içe bir deneyim sunuyor. Milli parkın coğrafi konumu ve iklimi, ziyaretçilere doğa ile baş başa bir deneyim sunuyor.
+Kastamonu-Kure Kayin milli parkı, Karadeniz Bölgesi'nde, Kastamonu ilinin sınırları içerisinde yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir açık alan sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, yağışlı ve nemli bir yapıya sahip. Bu iklim, bitki örtüsünün zengin ve çeşitli olmasını sağlıyor. Kastamonu-Kure Kayin milli parkı, ziyaretçilere geniş bir açık alan sunuyor ve doğanın güzelliği ile iç içe bir deneyim sunuyor. Milli parkın coğrafi konumu ve iklimi, ziyaretçilere doğa ile baş başa bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kastamonu-Kure Kayin milli parkını ziyaret etmek, doğa severler için eşsiz 
 
 ## İlginç Bilgiler
 
-- Kastamonu-Kure Kayin milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Kastamonu-Kure Kayin milli parkı, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor
 - Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, yağışlı ve nemli bir yapıya sahip

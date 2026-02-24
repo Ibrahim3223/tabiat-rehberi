@@ -22,7 +22,7 @@ wikidata_id: "Q108227963"
 
 # Zonguldak-Bartin Karacam 3
 
-Karadeniz Bölgesi'nin zengin doğal güzelliklerini barındıran Zonguldak-Bartin Karacam 3 milli parkı, yaklaşık 140 hektarlık bir alanı kaplar. Doğa severler için bir cennet olan bu milli park, çeşitli bitki türleri ve fauna ile dolu. Burada, yaban hayatının çeşitliliği ve doğal güzellikler, ziyaretçileri büyüler. Zonguldak ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Karacam 3, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de sunar.
+ Doğa severler için bir cennet olan bu milli park, çeşitli bitki türleri ve fauna ile dolu. Burada, yaban hayatının çeşitliliği ve doğal güzellikler, ziyaretçileri büyüler. Zonguldak ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Karacam 3, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Bartin Karacam 3 milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Zonguldak-Bartin Karacam 3 milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bölge, dağlar, ormanlar ve nehirler ile çevrilidir ve ziyaretçilere geniş bir açık hava deneyimi sunar. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam oluşturur. Bölge, aynı zamanda zengin bir jeolojik yapıya sahiptir ve çeşitli mineraller ile dolu. Zonguldak ilinin coğrafi konumu, milli parkın güzelliğini ve önemini artırmaktadır. Milli park, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere, geniş bir açık hava deneyimi sunar. Bölge, aynı zamanda çeşitli yürüyüş parkurları ve doğal güzelliklere sahiptir. Ziyaretçiler, milli parkın güzelliğini keşfetmek için çeşitli etkinlikler yapabilirler.
+Zonguldak-Bartin Karacam 3 milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bölge, dağlar, ormanlar ve nehirler ile çevrilidir ve ziyaretçilere geniş bir açık hava deneyimi sunar. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam oluşturur. Bölge, aynı zamanda zengin bir jeolojik yapıya sahiptir ve çeşitli mineraller ile dolu. Zonguldak ilinin coğrafi konumu, milli parkın güzelliğini ve önemini artırmaktadır. Bölge, aynı zamanda çeşitli yürüyüş parkurları ve doğal güzelliklere sahiptir. Ziyaretçiler, milli parkın güzelliğini keşfetmek için çeşitli etkinlikler yapabilirler.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Zonguldak-Bartin Karacam 3 milli parkını ziyaret etmek, ziyaretçilere geniş 
 
 - Milli parkın kuruluşu, doğal kaynakların korunması amacıyla gerçekleştirilmiştir.
 - Bölge, çeşitli bitki türleri ve fauna ile dolu.
-- Milli park, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Zonguldak ilinin coğrafi konumu, milli parkın güzelliğini ve önemini artırmaktadır.
 - Milli parkta, çeşitli yürüyüş parkurları ve doğal güzellikler bulunur.

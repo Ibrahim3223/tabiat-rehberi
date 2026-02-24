@@ -48,7 +48,6 @@ Bozdağ Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Bu
 
 ## İlginç Bilgiler
 
-- Bozdağ Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bozdağ Tepesi, özellikle ormanlık bir alan olup, çam, köknar, kayın gibi ağaç türleri bulunmakta
 - Bozdağ Tepesi, fauna açısından da zengin olup, birçok hayvan türüne ev sahipliği yapıyor
 - Bozdağ Tepesi, mevsimsel değişimlere göre flora ve faunası da değişiyor

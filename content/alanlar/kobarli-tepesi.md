@@ -48,7 +48,6 @@ Kobarlı Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlikl
 
 ## İlginç Bilgiler
 
-- Kobarlı Tepesi, 140 hektarlık bir yeşil alana sahiptir.
 - Bu tepe, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir.
 - Kobarlı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.

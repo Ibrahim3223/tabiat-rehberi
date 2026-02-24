@@ -28,7 +28,7 @@ wikidata_id: "Q34872094"
 
 # Gökdağ Tepesi
 
-Gökdağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Gökdağ Tepesi, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin zirvesinden Ankara'nın panoramik manzarasını izleme mümkün. Gökdağ Tepesi, doğa yürüyüşleri, pikni ve fotoğrafçılık için elverişli bir ortam sunuyor.
+Gökdağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Gökdağ Tepesi, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin zirvesinden Ankara'nın panoramik manzarasını izleme mümkün. Gökdağ Tepesi, doğa yürüyüşleri, pikni ve fotoğrafçılık için elverişli bir ortam sunuyor.
 
 ## Tarihçe
 

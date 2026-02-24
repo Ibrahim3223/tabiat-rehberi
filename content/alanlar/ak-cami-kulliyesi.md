@@ -50,7 +50,7 @@ Ak Cami Külliyesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keş
 ## İlginç Bilgiler
 
 - Ak Cami Külliyesi, Mersin'in Bozyazı ilçesinde yer alır.
-- Bu külliye, 140 hektarlık bir alana sahiptir.
+
 - Çevresinde çeşitli bitki türleri bulunur.
 - Ak Cami Külliyesi, aynı zamanda bölgenin önemli fauna merkezlerinden biridir.
 - Ziyaretçiler, bu külliyeyi her mevsim ziyaret edebilir.

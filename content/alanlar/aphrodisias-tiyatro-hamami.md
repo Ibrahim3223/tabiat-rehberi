@@ -51,7 +51,7 @@ Aphrodisias Tiyatro Hamamı, ziyaretçilerine tarihin sayfalarını çevirme ve 
 ## İlginç Bilgiler
 
 - Aphrodisias Tiyatro Hamamı, Aphrodisias antik kentinin bir parçasıdır
-- Bu tarihi alan, 140 hektarlık bir alanı kaplamaktadır
+
 - Aphrodisias Tiyatro Hamamı, Antik Çağ'da önemli bir sanat ve kültür merkezi olarak bilinirdi
 - Bu alan, yıl boyunca ziyaret edilebilir
 - Aphrodisias Tiyatro Hamamı, ziyaretçilerine tarihin sayfalarını çevirme ve geçmişin derinliklerine dalmak için eşsiz bir fırsat sunmaktadır

@@ -37,7 +37,7 @@ Tepecik Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Tepecik Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliği sunuyor. Bu bölge, Bodrum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Tepecik Hamamı, 140 hektarlık bir yeşil alan olarak düşünülebilir ve bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin coğrafi konumu, ziyaretçilerine deniz, güneş ve doğanın güzelliğini birlikte sunuyor. Bu bölge, Ege Bölgesi'nin ikliminin karakteristik özelliklerini taşıyor ve ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
+Tepecik Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliği sunuyor. Bu bölge, Bodrum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bölgenin coğrafi konumu, ziyaretçilerine deniz, güneş ve doğanın güzelliğini birlikte sunuyor. Bu bölge, Ege Bölgesi'nin ikliminin karakteristik özelliklerini taşıyor ve ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Tepecik Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sun
 
 ## İlginç Bilgiler
 
-- Tepecik Hamamı, 140 hektarlık bir yeşil alan olarak düşünülebilir.
 - Bu bölge, Bodrum'un merkezine yakın bir konumda yer alıyor.
 
 - Bu bölge, Ege Bölgesi'nin ikliminin karakteristik özelliklerini taşıyor.

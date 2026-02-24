@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Karaman%204849.jpg","alt":"Alaeddin Bey Türbesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Karaman_Alaeddin_T%C3%BCrbesi_4850.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Karaman_Alaeddin_T%C3%BCrbesi_4850.jpg/1280px-Karaman_Alaeddin_T%C3%BCrbesi_4850.jpg","alt":"Alaeddin Bey Türbesi - Karaman Alaeddin Türbesi 4850","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Karaman_Alaeddin_T%C3%BCrbesi_2215.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Karaman_Alaeddin_T%C3%BCrbesi_2215.jpg/1280px-Karaman_Alaeddin_T%C3%BCrbesi_2215.jpg","alt":"Alaeddin Bey Türbesi - Karaman Alaeddin Türbesi 2215","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Karaman_Alaeddin_T%C3%BCrbesi_2216.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Karaman_Alaeddin_T%C3%BCrbesi_2216.jpg/1280px-Karaman_Alaeddin_T%C3%BCrbesi_2216.jpg","alt":"Alaeddin Bey Türbesi - Karaman Alaeddin Türbesi 2216","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Karaman_Alaeddin_T%C3%BCrbesi_2217.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Karaman_Alaeddin_T%C3%BCrbesi_2217.jpg/1280px-Karaman_Alaeddin_T%C3%BCrbesi_2217.jpg","alt":"Alaeddin Bey Türbesi - Karaman Alaeddin Türbesi 2217","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Karaman_Alaeddin_T%C3%BCrbesi_2218.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaman_Alaeddin_T%C3%BCrbesi_2218.jpg/1280px-Karaman_Alaeddin_T%C3%BCrbesi_2218.jpg","alt":"Alaeddin Bey Türbesi - Karaman Alaeddin Türbesi 2218","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alaeddin%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q121074395","tip":"genel"}]
-description: "Karaman'ın tarihi ve doğal güzelliklerinin birleştiği bir yer olan Alaeddin Bey Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Alaeddin Bey Türbesi","Karaman","tarihi mekanlar","doğa","yeşil alan","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q121074395"
@@ -30,7 +30,7 @@ wikidata_id: "Q121074395"
 
 # Alaeddin Bey Türbesi
 
-Alaeddin Bey Türbesi, Karaman'ın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir mekan. Türbenin etrafında yürüyüş yapmak, doğayı seyretme ve tarihle iç içe olma mümkün. 13. yüzyılda inşa edilen bu tarihi mekan, Karaman'ın geçmişini yansıtan önemli bir yapı.
+ Türbenin etrafında yürüyüş yapmak, doğayı seyretme ve tarihle iç içe olma mümkün. 13. yüzyılda inşa edilen bu tarihi mekan, Karaman'ın geçmişini yansıtan önemli bir yapı.
 
 ## Tarihçe
 

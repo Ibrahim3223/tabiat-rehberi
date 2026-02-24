@@ -28,7 +28,7 @@ wikidata_id: "Q34829565"
 
 # Çukurbaşı Tepesi
 
-Çukurbaşı Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Çukurbaşı Tepesi, doğa severlerin ve tarihi değerlere ilgi duyanların ziyaret etmekten keyif alacağı bir yer. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunur. Bu bölge, hem doğa yürüyüşleri hem de tarihi keşifler için ideal bir destinasyon.
+Çukurbaşı Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Çukurbaşı Tepesi, doğa severlerin ve tarihi değerlere ilgi duyanların ziyaret etmekten keyif alacağı bir yer. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunur. Bu bölge, hem doğa yürüyüşleri hem de tarihi keşifler için ideal bir destinasyon.
 
 ## Tarihçe
 

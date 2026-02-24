@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarih g
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Karayüce Tepesi","caption":"Karayüce Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karay%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878062","tip":"genel"}]
-description: "Hatay ilinin güzide tepelerinden biri olan Karayüce Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["Karayüce Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","turizm","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34878062"
@@ -47,8 +47,6 @@ Karayüce Tepesi, zengin bir flora ve fauna sunar ve ziyaretçilerine çeşitli 
 Karayüce Tepesi'ni ziyaret etmek, ziyaretçilere geniş bir manzara sunar ve Akdeniz Bölgesi'nin güzelliğini gözler önüne serer. Bu tepe, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi olup, ziyaretçilerini büyüleyici bir deneyime davet eder. Karayüce Tepesi'ne ulaşım, çeşitli ulaşım araçları ile sağlanabilir ve ziyaretçilere kolaylık sağlar. Bu tepe, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir deneyim sunar.
 
 ## İlginç Bilgiler
-
-- Karayüce Tepesi, 140 hektarlık bir alanı kapsar.
 
 - Karayüce Tepesi, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu tepe, verschiedenen bitki türleri ve hayvanlarla birlikte zengin bir ekosisteme sahiptir.

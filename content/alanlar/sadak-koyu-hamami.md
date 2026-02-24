@@ -50,7 +50,7 @@ Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden 
 ## İlginç Bilgiler
 
 - Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Sadak Köyü Hamamı, her yıl binlerce turisti ağırlıyor.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri.

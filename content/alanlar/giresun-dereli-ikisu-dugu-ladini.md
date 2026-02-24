@@ -43,7 +43,7 @@ Giresun-Dereli-Ikisu-Dugu Ladini milli parkını ziyaret etmek, doğa severler i
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerini korumak amacıyla gerçekleştirilmiştir
-- Milli park, 140 hektarlık bir alana sahip
+
 - Milli parkta, çeşitli bitki ve hayvan türleri bulunmakta
 - Milli parkın coğrafi özellikleri, ziyaretçilerine zengin bir doğa deneyimi sunuyor
 - Milli park, Giresun il merkezine yakındır

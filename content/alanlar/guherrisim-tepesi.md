@@ -28,7 +28,7 @@ wikidata_id: "Q34872867"
 
 # Güherrişim Tepesi
 
-Güherrişim Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğa harikası. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş ve yeşillik bir ortam sunuyor. Güherrişim Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini keşfetmek için ideal bir yer.
+Güherrişim Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Güherrişim Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini keşfetmek için ideal bir yer.
 
 ## Tarihçe
 

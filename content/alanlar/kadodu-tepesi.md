@@ -37,7 +37,7 @@ Kadodu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kadodu Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir tepe noktası olarak bilinir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve coğrafi yapısı ile dikkat çeker. Tepenin yüksekliği ve çevresi, ziyaretçiler için önemli bir doğal güzellik olarak kabul edilir. İklim koşulları, mevsimsel değişimler ve bitki örtüsü, bu bölgenin coğrafi yapısını şekillendiren önemli faktörlerdir. Kadodu Tepesi, aynı zamanda çevresi ile de dikkat çeker ve ziyaretçiler için önemli bir gezi noktası olarak kabul edilir. Bu bölge, coğrafi yapısı ve doğal güzellikleri ile dikkat çeker ve ziyaretçilerini etkiler.
+Kadodu Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir tepe noktası olarak bilinir. Tepenin yüksekliği ve çevresi, ziyaretçiler için önemli bir doğal güzellik olarak kabul edilir. İklim koşulları, mevsimsel değişimler ve bitki örtüsü, bu bölgenin coğrafi yapısını şekillendiren önemli faktörlerdir. Kadodu Tepesi, aynı zamanda çevresi ile de dikkat çeker ve ziyaretçiler için önemli bir gezi noktası olarak kabul edilir. Bu bölge, coğrafi yapısı ve doğal güzellikleri ile dikkat çeker ve ziyaretçilerini etkiler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kadodu Tepesi, ziyaretçiler için önemli bir gezi noktası olarak kabul edilir
 ## İlginç Bilgiler
 
 - Kadodu Tepesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kadodu Tepesi, tarihi geçmişi ile de dikkat çeker.
 - Bu bölge, çeşitli bitki türleri ve hayvanları barındıran bir ekosistem olarak bilinir.
 - Kadodu Tepesi, aynı zamanda doğal atmosferi ile de dikkat çeker.

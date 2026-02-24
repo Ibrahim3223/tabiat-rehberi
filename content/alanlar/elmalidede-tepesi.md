@@ -28,7 +28,7 @@ wikidata_id: "Q31574320"
 
 # Elmalıdede Tepesi
 
-Ankara'nın güzelliklerini keşfetmek isteyenler için Elmalıdede Tepesi önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkileyen bir doğal güzellik sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severler hem de manzarayı izlemekten hoşlananlar için ideal bir nokta. Elmalıdede Tepesi, hem yerlilerin hem de şehri keşfetmeye gelenlerin uğrak noktalarından biri haline gelmeyi başarmış.
+Ankara'nın güzelliklerini keşfetmek isteyenler için Elmalıdede Tepesi önemli bir destinasyon. Elmalıdede Tepesi, hem yerlilerin hem de şehri keşfetmeye gelenlerin uğrak noktalarından biri haline gelmeyi başarmış.
 
 ## Tarihçe
 

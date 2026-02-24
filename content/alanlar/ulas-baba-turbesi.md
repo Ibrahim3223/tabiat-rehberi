@@ -30,7 +30,7 @@ wikidata_id: "Q6002476"
 
 # Ulaş Baba Türbesi
 
-Ulaş Baba Türbesi, Konya'nın Selçuklu ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir alan. Bu bölge, yaklaşık 140 hektarlık geniş bir alanı kaplıyor. Tarihi ve kültürel öneme sahip olan Ulaş Baba Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrar.
+Ulaş Baba Türbesi, Konya'nın Selçuklu ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir alan. Tarihi ve kültürel öneme sahip olan Ulaş Baba Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrar.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Ulaş Baba Türbesi, yıl boyunca ziyaret edilebilir. Ancak, ilkbahar ve yaz ayl
 ## İlginç Bilgiler
 
 - Ulaş Baba Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir alandır.
-- Bu bölge, yaklaşık 140 hektarlık geniş bir alanı kaplıyor.
+
 - Ulaş Baba Türbesi, Selçuklu döneminde önemli bir dini merkez olarak kullanılmıştır.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrar.
 - Ulaş Baba Türbesi, aynı zamanda mevsimsel değişimlere de uyum gösteren bir alandır.

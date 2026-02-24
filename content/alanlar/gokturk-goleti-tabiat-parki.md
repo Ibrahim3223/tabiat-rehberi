@@ -42,8 +42,6 @@ Göktürk Göleti Tabiat Parkı, yılın her döneminde ziyaret edilebilir. Park
 
 ## İlginç Bilgiler
 
-- Göktürk Göleti Tabiat Parkı, 140 hektarlık bir alanı kapsar.
-
 - Göktürk Göleti Tabiat Parkı, İstanbul'un Marmara Bölgesi'nde yer alır.
 - Park, şehrin merkezine yaklaşık olarak 20-30 kilometre uzaklıktadır.
 - Göktürk Göleti Tabiat Parkı, yılın her döneminde ziyaret edilebilir.

@@ -36,7 +36,7 @@ wikidata_id: "Q34828870"
 
 ## Coğrafya
 
-Çelesor Tepesi, Van ilinin sınırları içerisinde yer alır ve Doğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir tepe olarak bilinir. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Çelesor Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile zengin fauna tarafından doldurulur. Tepenin iklimi, bölgenin genel iklimine benzer ve ziyaretçilerin yılın dört mevsiminde ziyaret etmelerine olanak tanır. Çelesor Tepesi, Van Gölü'nün manzarasını sunar ve ziyaretçilerine geniş bir panorama sunar.
+Çelesor Tepesi, Van ilinin sınırları içerisinde yer alır ve Doğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir tepe olarak bilinir. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Tepenin iklimi, bölgenin genel iklimine benzer ve ziyaretçilerin yılın dört mevsiminde ziyaret etmelerine olanak tanır. Çelesor Tepesi, Van Gölü'nün manzarasını sunar ve ziyaretçilerine geniş bir panorama sunar.
 
 ## Flora ve Fauna
 

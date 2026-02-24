@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarihî yapıları ziya
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"İnağzı Tepesi","caption":"İnağzı Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0na%C4%9Fz%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390805","tip":"genel"}]
-description: "İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe."
 keywords: ["İnağzı Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390805"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390805"
 
 # İnağzı Tepesi
 
-İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. İnağzı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmanın yanı sıra, tarihi ve kültürel açıdan da önemli bir mekan. Burada, yüzyıllar boyunca oluşmuş doğal güzellikler, ziyaretçilerin gözlerini büyülüyor. İnağzı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi sahibi olmak isteyenler için önemli bir destinasyon.
+İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. İnağzı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmanın yanı sıra, tarihi ve kültürel açıdan da önemli bir mekan. Burada, yüzyıllar boyunca oluşmuş doğal güzellikler, ziyaretçilerin gözlerini büyülüyor. İnağzı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi sahibi olmak isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31390805"
 
 ## Coğrafya
 
-İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin coğrafi konumu, ziyaretçilerine doğanın güzelliğini sunuyor. İnağzı Tepesi, bölgenin coğrafi özelliklerini yansıtan bir mekan. Burada, çeşitli bitki türleri, mevsimsel değişimler ve iklim özellikleri, ziyaretçilerin dikkatini çekiyor. Tepenin coğrafi konumu, aynı zamanda bölgenin fauna çeşitliliği hakkında bilgi sahibi olmak isteyenler için önemli bir destinasyon. İnağzı Tepesi, bölgenin coğrafi güzellikleri hakkında bilgi sahibi olmak isteyenler için ideal bir yer.
+İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi konumu, ziyaretçilerine doğanın güzelliğini sunuyor. İnağzı Tepesi, bölgenin coğrafi özelliklerini yansıtan bir mekan. Burada, çeşitli bitki türleri, mevsimsel değişimler ve iklim özellikleri, ziyaretçilerin dikkatini çekiyor. Tepenin coğrafi konumu, aynı zamanda bölgenin fauna çeşitliliği hakkında bilgi sahibi olmak isteyenler için önemli bir destinasyon. İnağzı Tepesi, bölgenin coğrafi güzellikleri hakkında bilgi sahibi olmak isteyenler için ideal bir yer.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q31390805"
 
 ## İlginç Bilgiler
 
-- İnağzı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin tarihi geçmişi, ziyaretçilerin bölge hakkında daha derin bir anlayışa sahip olmalarına yardımcı oluyor.
 - İnağzı Tepesi, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Tepenin flora ve fauna çeşitliliği, ziyaretçilerin doğanın güzelliği ile baş başa kalmasına olanak tanıyor.

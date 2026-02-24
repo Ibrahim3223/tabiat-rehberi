@@ -48,8 +48,6 @@ Topçam Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor. T
 
 ## İlginç Bilgiler
 
-- Topçam Tepesi, 140 hektarlık bir alanı kapsıyor.
-
 - Topçam Tepesi, güneşin batışının tadını çıkarmak için ideal bir nokta.
 - Topçam Tepesi, doğa severler için bir cennet.
 - Topçam Tepesi, tarihin izlerini taşıyan bir bölge.

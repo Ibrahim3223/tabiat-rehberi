@@ -36,7 +36,7 @@ Aliler Tepesi, tarihin derin sayfalarında gizli bir hazine. Bu tepe, yüzyılla
 
 ## Coğrafya
 
-Aliler Tepesi, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve bölgenin en önemli doğal güzelliklerinden biri. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla dolu. Aliler Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, etraftaki manzara gerçekten büyüleyici. Tepenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişken. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak geçiyor. Bu tepe, çevresindeki diğer doğal güzelliklerle birlikte, bir ekosistem oluşturuyor. Aliler Tepesi'nin coğrafyası, bölgenin jeolojik yapısını ve iklimini anlamak için önemli bir nokta.
+Aliler Tepesi, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla dolu. Aliler Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, etraftaki manzara gerçekten büyüleyici. Tepenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişken. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak geçiyor. Bu tepe, çevresindeki diğer doğal güzelliklerle birlikte, bir ekosistem oluşturuyor. Aliler Tepesi'nin coğrafyası, bölgenin jeolojik yapısını ve iklimini anlamak için önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Aliler Tepesi, ziyaretçilerine doğa ve tarihle iç içe bir deneyim sunuyor. B
 ## İlginç Bilgiler
 
 - Aliler Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Bu tepe, 140 hektarlık bir alanı kaplıyor.
+
 - Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla dolu.
 - Aliler Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor.
 - Tepenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişken.

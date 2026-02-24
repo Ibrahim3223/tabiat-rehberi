@@ -37,7 +37,7 @@ Oslu Hoca Türbesi, tarihi geçmişi ile önemli bir yer tutar. Bayburt'un tarih
 
 ## Coğrafya
 
-Oslu Hoca Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerinin ortasında yer alır. Bayburt'un merkezinde bulunan türbe, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar. Türbenin etrafı, zengin flora ve fauna ile çevrilidir ve ziyaretçilere doğanın güzelliğini sunar. Türbe, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir. Bölgenin iklimi, türbenin mimarisini ve kullanımını etkilemiştir. Türbenin etrafındaki doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar. Ayrıca, türbenin bulunduğu yer, Bayburt'un tarihi ve kültürel merkezine yakındır. Ziyaretçiler, türbe ziyaretinin yanı sıra, Bayburt'un diğer tarihi ve kültürel mekanlarını da gezebilirler.
+Oslu Hoca Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerinin ortasında yer alır. Türbenin etrafı, zengin flora ve fauna ile çevrilidir ve ziyaretçilere doğanın güzelliğini sunar. Türbe, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir. Bölgenin iklimi, türbenin mimarisini ve kullanımını etkilemiştir. Türbenin etrafındaki doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar. Ayrıca, türbenin bulunduğu yer, Bayburt'un tarihi ve kültürel merkezine yakındır. Ziyaretçiler, türbe ziyaretinin yanı sıra, Bayburt'un diğer tarihi ve kültürel mekanlarını da gezebilirler.
 
 ## Flora ve Fauna
 

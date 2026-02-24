@@ -42,7 +42,6 @@ Isparta-Sutculer-Karadag Kızılçam milli parkını ziyaret etmek, doğa severl
 
 ## İlginç Bilgiler
 
-- Isparta-Sutculer-Karadag Kızılçam milli parkı, 140 hektarlık bir alana sahip.
 - Milli parkın florası, kızılçam ağaçları ile dikkat çekiyor.
 - Isparta-Sutculer-Karadag Kızılçam milli parkı, fauna açısından da zengin bir bölge.
 - Milli parkın çevresinde, ormanlık alanlar ve dağlık araziler bulunuyor.

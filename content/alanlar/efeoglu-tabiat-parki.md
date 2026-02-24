@@ -21,7 +21,7 @@ aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Efeoğlu Tabiat Parkı","caption":"Efeoğlu Tabiat Parkı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Efeo%C4%9Flu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228159","tip":"genel"}]
-description: "Torbalı'da yer alan Efeoğlu Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Doğal güzellikleri ve zengin florasıyla dikkat çeker."
+ Doğal güzellikleri ve zengin florasıyla dikkat çeker."
 keywords: ["Efeoğlu Tabiat Parkı","Torbalı","İzmir","Ege Bölgesi","Doğal Alanlar","Tabiat Parkları","Yeşil Alanlar","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228159"
@@ -29,7 +29,7 @@ wikidata_id: "Q108228159"
 
 # Efeoğlu Tabiat Parkı
 
-Efeoğlu Tabiat Parkı, İzmir'in Torbalı ilçesinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Parkın içerisinde çeşitli bitki türleri ve ağaçlar bulunur. Ziyaretçiler, doğayla iç içe olmanın keyfini çıkarabilirler. Efeoğlu Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+ Parkın içerisinde çeşitli bitki türleri ve ağaçlar bulunur. Ziyaretçiler, doğayla iç içe olmanın keyfini çıkarabilirler. Efeoğlu Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Efeoğlu Tabiat Parkı, zengin bir flora ve fauna ile ziyaretçilerini karşıla
 Efeoğlu Tabiat Parkı, ziyaretçilerine keyifli bir deneyim sunar. Parka ulaşım, Torbalı ilçesinden kolayca sağlanabilir. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, doğayı keşfedebilir ve çeşitli aktivitelere katılabilirler. Parkın zengin flora ve faunası, ziyaretçilere unutulmaz bir deneyim sunar. Efeoğlu Tabiat Parkı, doğa severler ve yerel halk tarafından sıkça ziyaret edilen bir noktadır. Parkın ziyaret saatleri, mevsimsel olarak değişebilir. Ziyaretçiler, parkı ziyaret etmeden önce, güncel bilgileri öğrenmelidirler.
 
 ## İlginç Bilgiler
-
-- Efeoğlu Tabiat Parkı, 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar.
 
 - Parkta, çeşitli bitki türleri ve ağaçlar bulunur.
 - Efeoğlu Tabiat Parkı, biyolojik çeşitlilik açısından önemli bir alandır.

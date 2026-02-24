@@ -36,7 +36,7 @@ Aşıkdede Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yap
 
 ## Coğrafya
 
-Aşıkdede Tepesi, Kars ilinin coğrafi yapısını gösteren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi açıdan önemli bir yere sahip. Tepenin zirvesi, Kars'ın güzel manzarasını izlemek için ideal bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ayrıca, tepenin konumu, Kars'ın iklimini ve coğrafi yapısını anlamak için önemli bir bilgi sunuyor. Tepenin coğrafi yapısı, Kars'ın genel coğrafi yapısı ile paralel olarak gelişmiş ve çeşitli coğrafi olaylara tanıklık etmiş.
+Aşıkdede Tepesi, Kars ilinin coğrafi yapısını gösteren önemli bir nokta. Tepenin zirvesi, Kars'ın güzel manzarasını izlemek için ideal bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ayrıca, tepenin konumu, Kars'ın iklimini ve coğrafi yapısını anlamak için önemli bir bilgi sunuyor. Tepenin coğrafi yapısı, Kars'ın genel coğrafi yapısı ile paralel olarak gelişmiş ve çeşitli coğrafi olaylara tanıklık etmiş.
 
 ## Flora ve Fauna
 

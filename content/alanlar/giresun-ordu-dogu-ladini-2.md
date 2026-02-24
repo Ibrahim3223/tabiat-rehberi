@@ -30,7 +30,7 @@ Giresun-Ordu Dogu Ladini 2 milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Giresun-Ordu Dogu Ladini 2 milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak biliniyor. Milli park, Giresun ve Ordu illerinin sınırında bulunuyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bölge, dağlık ve engebeli bir arazi yapısına sahip ve çeşitli doğal güzellikleri barındırıyor. Milli parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve zengin bir flora ve fauna ile ziyaretçilerini cezbediyor. Bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve yağışların yoğun olduğu bir bölgede bulunuyor. Milli parkın çevresi, çeşitli tarım alanları ve ormanlık alanlar ile çevrili ve bu doğal güzellikler, milli parkın zengin ekosistemine katkıda bulunuyor.
+Giresun-Ordu Dogu Ladini 2 milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak biliniyor. Bölge, dağlık ve engebeli bir arazi yapısına sahip ve çeşitli doğal güzellikleri barındırıyor. Milli parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve zengin bir flora ve fauna ile ziyaretçilerini cezbediyor. Bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve yağışların yoğun olduğu bir bölgede bulunuyor. Milli parkın çevresi, çeşitli tarım alanları ve ormanlık alanlar ile çevrili ve bu doğal güzellikler, milli parkın zengin ekosistemine katkıda bulunuyor.
 
 ## Flora ve Fauna
 

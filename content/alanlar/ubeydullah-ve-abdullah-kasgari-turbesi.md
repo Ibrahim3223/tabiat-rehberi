@@ -38,7 +38,7 @@ Ubeydullah ve Abdullah Kaşgari Türbesi, yüzyıllar boyunca İstanbul'un önem
 
 ## Coğrafya
 
-Ubeydullah ve Abdullah Kaşgari Türbesi, Marmara Bölgesi'nin kalbinde yer alan Eyüpsultan ilçesinde, İstanbul'un merkezi alanında bulunmaktadır. Türbenin coğrafi konumu, ziyaretçiler için kolay ulaşılabilirlik sağlar. İstanbul'un kalabalık streetsinden uzak, sakin bir atmosferde yer alan Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçilere huzur ve tarihle iç içe bir deneyim sunar. Türbenin etrafında, çeşitli tarihi ve kültürel mekanlar yer almaktadır. Ayrıca, türbenin bulunduğu bölge, İstanbul'un önemli ulaşım arterlerine yakın bir konumda bulunmaktadır. Ubeydullah ve Abdullah Kaşgari Türbesi, İstanbul'un coğrafi ve kültürel çeşitliliğini yansıtan önemli bir tarihi ve kültürel merkezdir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve bu alan, ziyaretçiler için geniş bir açık alan sunar. Ayrıca, türbenin mimarisi, bölgenin coğrafi özelliklerini de yansıtmaktadır. İstanbul'un coğrafi konumu, Ubeydullah ve Abdullah Kaşgari Türbesi'nin önemini daha da artırmaktadır.
+Ubeydullah ve Abdullah Kaşgari Türbesi, Marmara Bölgesi'nin kalbinde yer alan Eyüpsultan ilçesinde, İstanbul'un merkezi alanında bulunmaktadır. Türbenin coğrafi konumu, ziyaretçiler için kolay ulaşılabilirlik sağlar. İstanbul'un kalabalık streetsinden uzak, sakin bir atmosferde yer alan Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçilere huzur ve tarihle iç içe bir deneyim sunar. Türbenin etrafında, çeşitli tarihi ve kültürel mekanlar yer almaktadır. Ayrıca, türbenin bulunduğu bölge, İstanbul'un önemli ulaşım arterlerine yakın bir konumda bulunmaktadır. Ubeydullah ve Abdullah Kaşgari Türbesi, İstanbul'un coğrafi ve kültürel çeşitliliğini yansıtan önemli bir tarihi ve kültürel merkezdir. Ayrıca, türbenin mimarisi, bölgenin coğrafi özelliklerini de yansıtmaktadır. İstanbul'un coğrafi konumu, Ubeydullah ve Abdullah Kaşgari Türbesi'nin önemini daha da artırmaktadır.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçiler için kolay ulaşılabil
 - Ubeydullah ve Abdullah Kaşgari Türbesi, İstanbul'un en önemli tarihi ve kültürel merkezlerinden biridir.
 - Türbenin mimarisi, o dönemin kültürel ve sanatsal düzeyini yansıtmaktadır.
 - Ubeydullah ve Abdullah Kaşgari Türbesi, yüzyıllar boyunca İstanbul'un önemli dini ve kültürel merkezlerinden biri olarak kabul edilmiştir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar.
+
 - Ubeydullah ve Abdullah Kaşgari Türbesi, flora ve fauna çeşitliliği açısından önemli bir alandır.

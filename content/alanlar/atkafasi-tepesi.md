@@ -20,7 +20,7 @@ aktiviteler: ["trekking","manzara izleme","flora ve fauna gözlemi","fotografcı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Atkafası Tepesi","caption":"Atkafası Tepesi","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atkafas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390643","tip":"genel"}]
-description: "Kırşehir'in tarihi ve doğal güzelliklerinin birleştiği nokta, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Kırşehir","Atkafası Tepesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390643"

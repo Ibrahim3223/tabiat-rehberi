@@ -20,7 +20,7 @@ aktiviteler: ["doğal yürüyüş","manzara izleme","fotografçılık","tarihî 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Kirazlıyayla Tepesi","caption":"Kirazlıyayla Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazl%C4%B1yayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388470","tip":"genel"}]
-description: "Erzurum'un doğal güzelliklerinden biri olan Kirazlıyayla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kirazlıyayla Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388470"
@@ -28,7 +28,7 @@ wikidata_id: "Q31388470"
 
 # Kirazlıyayla Tepesi
 
- Bu yeşil alan, yaklaşık olarak 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. Kirazlıyayla Tepesi, Erzurum'un merkezine yakın bir konumda yer alır ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin bulunduğu bölgede, tarihi geçmişi olan bazı yapılar ve anıtlar da bulunur.
+ Kirazlıyayla Tepesi, Erzurum'un merkezine yakın bir konumda yer alır ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin bulunduğu bölgede, tarihi geçmişi olan bazı yapılar ve anıtlar da bulunur.
 
 ## Tarihçe
 

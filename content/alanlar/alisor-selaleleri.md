@@ -49,7 +49,7 @@ Alişor Şelaleleri'ni ziyaret etmek, doğa severler için ideal bir gezi seçen
 ## İlginç Bilgiler
 
 - Alişor Şelaleleri, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri
-- Bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Alişor Şelaleleri, zengin flora ve fauna çeşitliliği sunuyor
 - Şelaleler, kayalık bir arazide yer alıyor
 - Bölge, iklim açısından ılıman bir yapıya sahip

@@ -30,7 +30,7 @@ wikidata_id: "Q131391027"
 
 # Şah Huban Hatun Türbesi
 
-Şah Huban Hatun Türbesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplayan büyük bir yeşil alanın içinde bulunmaktadır. Şah Huban Hatun Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin etrafındaki yeşil alan, ziyaretçilere dinlenme ve çevreyi keşfetmek için ideal bir ortam sunmaktadır.
+Şah Huban Hatun Türbesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan tarihi bir yapıdır. Şah Huban Hatun Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin etrafındaki yeşil alan, ziyaretçilere dinlenme ve çevreyi keşfetmek için ideal bir ortam sunmaktadır.
 
 ## Tarihçe
 

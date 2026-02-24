@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kad%C4%B1nc%C4%B1k_Valley_14.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_14.jpg","alt":"Mersin-Erdemli-Alata Karacam","caption":"Mersin-Erdemli-Alata Karacam","credit":"Kadıncık Valley 14.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Erdemli-Alata%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227533","tip":"genel"}]
-description: "Mersin-Erdemli-Alata Karacam milli parkı, 140 hektarlık bir alanı kapsar ve Akdeniz Bölgesi'nde yer alır."
+"
 keywords: ["Mersin","Erdemli","Alata Karacam","milli park","Akdeniz Bölgesi","doğa","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227533"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227533"
 
 # Mersin-Erdemli-Alata Karacam
 
- Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. 140 hektarlık bu yeşil alan, ziyaretçilerin doğa ile iç içe olmasını sağlar. Milli park, Mersin'in Erdemli ilçesinde bulunur ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak kabul edilir. Alata Karacam milli parkı, ziyaretçilerine zengin bir flora ve fauna sunar.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Milli park, Mersin'in Erdemli ilçesinde bulunur ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak kabul edilir. Alata Karacam milli parkı, ziyaretçilerine zengin bir flora ve fauna sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Erdemli-Alata Karacam milli parkının tarihi geçmişi, bölgenin doğal
 
 ## Coğrafya
 
-Mersin-Erdemli-Alata Karacam milli parkı, Akdeniz Bölgesi'nde yer alır ve 140 hektarlık bir alanı kapsar. Milli park, Erdemli ilçesinde bulunur ve bölgenin en önemli doğal alanlarından biri olarak kabul edilir. Alata Karacam, coğrafi olarak zengin bir yapıya sahiptir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir. Milli parkın coğrafi yapısı, ziyaretçilere doğanın tüm güzelliğini sunar. Alata Karacam milli parkı, ziyaretçilerine zengin bir flora ve fauna sunar.
+ Milli park, Erdemli ilçesinde bulunur ve bölgenin en önemli doğal alanlarından biri olarak kabul edilir. Alata Karacam, coğrafi olarak zengin bir yapıya sahiptir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir. Milli parkın coğrafi yapısı, ziyaretçilere doğanın tüm güzelliğini sunar. Alata Karacam milli parkı, ziyaretçilerine zengin bir flora ve fauna sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Erdemli-Alata Karacam milli parkını ziyaret etmek, doğa severler için
 
 ## İlginç Bilgiler
 
-- Mersin-Erdemli-Alata Karacam milli parkı, 140 hektarlık bir alanı kapsar.
 - Milli park, Akdeniz Bölgesi'nde yer alır.
 - Alata Karacam, coğrafi olarak zengin bir yapıya sahiptir.
 - Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir.

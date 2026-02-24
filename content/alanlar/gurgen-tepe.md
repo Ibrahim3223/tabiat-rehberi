@@ -28,7 +28,7 @@ wikidata_id: "Q32139581"
 
 # Gürgen Tepe
 
-Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde bulunan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Gürgen Tepe, doğa severlerin ve gezi tutkunlarının ziyaret ettiği bir yer olarak biliniyor. Burada, doğanın güzelliğini ve manzaralarını keşfetme mümkün.
+Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde bulunan bir doğa harikasıdır. Gürgen Tepe, doğa severlerin ve gezi tutkunlarının ziyaret ettiği bir yer olarak biliniyor. Burada, doğanın güzelliğini ve manzaralarını keşfetme mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gürgen Tepe'nin tarihi geçmişi hakkında detaylı bilgi bulunmuyor, ancak bu 
 
 ## Coğrafya
 
-Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde yer alıyor ve burada çeşitli coğrafi özellikler bulunuyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Gürgen Tepe'nin coğrafi yapısı, ziyaretçilerine geniş bir yeşil alan sunuyor ve burada doğanın güzelliğini keşfetme mümkün. Bu tepe, deniz seviyesinden yüksek bir noktada yer alıyor ve buradan çevreyi seyretme mümkün. Gürgen Tepe'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve burada mevsimsel değişimler yaşanmaktadır. Bu tepe, ziyaretçilerine hem doğanın güzelliğini hem de coğrafi özelliklerini sunuyor.
+Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde yer alıyor ve burada çeşitli coğrafi özellikler bulunuyor. Gürgen Tepe'nin coğrafi yapısı, ziyaretçilerine geniş bir yeşil alan sunuyor ve burada doğanın güzelliğini keşfetme mümkün. Bu tepe, deniz seviyesinden yüksek bir noktada yer alıyor ve buradan çevreyi seyretme mümkün. Gürgen Tepe'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve burada mevsimsel değişimler yaşanmaktadır. Bu tepe, ziyaretçilerine hem doğanın güzelliğini hem de coğrafi özelliklerini sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gürgen Tepe'yi ziyaret etmek, doğa severlerin ve gezi tutkunlarının yapabile
 
 ## İlginç Bilgiler
 
-- Gürgen Tepe, yaklaşık 140 hektarlık bir alan kaplıyor
 - Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Gürgen Tepe, deniz seviyesinden yüksek bir noktada yer alıyor
 - Buradan çevreyi seyretme mümkün

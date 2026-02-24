@@ -49,7 +49,7 @@ wikidata_id: "Q34829111"
 ## İlginç Bilgiler
 
 - Çiftlikdağı Tepe, Ege Bölgesi'nin önemli tepe noktalarından biri.
-- Tepe, 140 hektarlık bir alana sahip.
+
 - Çiftlikdağı Tepe, yüksek bir konumda bulunuyor.
 - Tepe, yılın her dönemi ziyaret edilebilir.
 - İlkbahar ve sonbahar ayları, tepeyi ziyaret etmek için en ideal zamanlar.

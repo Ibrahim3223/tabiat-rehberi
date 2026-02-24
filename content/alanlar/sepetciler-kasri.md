@@ -51,7 +51,7 @@ Sepetçiler Kasrı'na ziyaretçiler, kolayca ulaşabilir. İstanbul'un merkezine
 ## İlginç Bilgiler
 
 - Sepetçiler Kasrı, İstanbul'un en önemli tarihi plajlarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Sepetçiler Kasrı, Marmara Bölgesi'nin en güzel kıyı şeridinde yer alır.
 - Bu plaj, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile birlikte unutulmaz bir deneyim sunar.
 - Sepetçiler Kasrı, çeşitli bitki türleri ve zengin bir fauna ile çevrilidir.

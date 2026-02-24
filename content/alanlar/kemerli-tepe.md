@@ -50,7 +50,7 @@ Kemerli Tepe, ziyaretçilerini etkileyen bir doğal güzellik olarak karşımız
 ## İlginç Bilgiler
 
 - Kemerli Tepe, Karadeniz Bölgesi'nin önemli bir doğal güzelliğidir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Kemerli Tepe, yükseltisi ve konumu itibariyle bölgenin önemli bir noktası olarak kabul ediliyor.
 - Tepe çevresinde, çeşitli bitki türleri ve zengin fauna encontruluyor.
 - Kemerli Tepe, yılın her mevsiminde ziyaret edilebilir.

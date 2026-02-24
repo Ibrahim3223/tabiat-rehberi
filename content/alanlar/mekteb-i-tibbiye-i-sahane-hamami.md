@@ -50,7 +50,6 @@ Mekteb-i Tıbbiye-i Şahane Hamamı, ziyaretçilerine çeşitli olanaklar sunar.
 ## İlginç Bilgiler
 
 - Mekteb-i Tıbbiye-i Şahane Hamamı, Üsküdar'ın en önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alanda yer alır.
 
 - Bu mekan, Marmara Bölgesi'nin en önemli coğrafi noktalarından biridir.
 - Mekteb-i Tıbbiye-i Şahane Hamamı, ziyaretçilerine doğal güzelliğin tüm olanaklarını sunar.

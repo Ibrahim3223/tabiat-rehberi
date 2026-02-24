@@ -37,7 +37,7 @@ wikidata_id: "Q131391173"
 
 ## Coğrafya
 
-Şeyh Zengi Ali Baba Türbesi, Marmara Bölgesi'nde yer alan bir coğrafi bölgedir. Fatih ilçesinde bulunan bu türbe, deniz seviyesinden belirli bir yükseklikte yer alır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgenin coğrafi özellikleri, ziyaretçilere doğal güzellikler sunar. Burada, yeşilin ve mavinin birlikte bulunduğu manzaralar, ziyaretçilere huzur veren bir atmosfer sağlar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve ziyaretçilere geniş bir açık alan sunar.
+Şeyh Zengi Ali Baba Türbesi, Marmara Bölgesi'nde yer alan bir coğrafi bölgedir. Fatih ilçesinde bulunan bu türbe, deniz seviyesinden belirli bir yükseklikte yer alır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgenin coğrafi özellikleri, ziyaretçilere doğal güzellikler sunar. Burada, yeşilin ve mavinin birlikte bulunduğu manzaralar, ziyaretçilere huzur veren bir atmosfer sağlar.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Mezesori Tepesi, tarihin derinliklerinde gizli bir hazine olarak karşımıza ç
 
 ## Coğrafya
 
-Mezesori Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal güzellik olarak dikkat çekiyor. 140 hektarlık alanı ile oldukça geniş bir alanı kapsayan bu tepe, coğrafi açıdan önemli bir konumda bulunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin bir fauna bulunması, bu bölgenin ekolojik önemini vurguluyor. Mezesori Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve burada, Mardin'in eşsiz güzelliklerini keşfetme imkanı buluyorlar. Tepenin coğrafi konumu, ziyaretçilerin burada hem doğayı keşfetmesine hem de tarihi kalıntıları incelemesine olanak tanıyor.
+Mezesori Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal güzellik olarak dikkat çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin bir fauna bulunması, bu bölgenin ekolojik önemini vurguluyor. Mezesori Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve burada, Mardin'in eşsiz güzelliklerini keşfetme imkanı buluyorlar. Tepenin coğrafi konumu, ziyaretçilerin burada hem doğayı keşfetmesine hem de tarihi kalıntıları incelemesine olanak tanıyor.
 
 ## Flora ve Fauna
 

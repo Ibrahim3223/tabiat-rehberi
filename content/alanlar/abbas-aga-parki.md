@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Abbasa%C4%9Fa%20Park%C4%B1.jpg","alt":"Abbas Ağa Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Abbasa%C4%9Fa_Park%C4%B1_Heykelleri.jpg","alt":"Abbas Ağa Parkı","caption":"Abbas Ağa Parkı","credit":"Abbasağa Parkı Heykelleri","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/35/Abbasa%C4%9Fa_Park_in_spring.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abbasa%C4%9Fa_Park_in_spring.jpg/1280px-Abbasa%C4%9Fa_Park_in_spring.jpg","alt":"Abbas Ağa Parkı - Abbasağa Park in spring","credit":"Kurmanbek","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Abbasa%C4%9Fa_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Abbasa%C4%9Fa_Park%C4%B1.jpg/1280px-Abbasa%C4%9Fa_Park%C4%B1.jpg","alt":"Abbas Ağa Parkı - Abbasağa Parkı","credit":"Jwslubbock","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abbas%20A%C4%9Fa%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31190981","tip":"genel"}]
 description: "İstanbul'un kalbinde, Beşiktaş'ta yer alan 1200 hektarlık botanik bahçesi"

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki türleri keşfi","kuş gözlemciliği
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Sarıyer Sit Alanı","caption":"Sarıyer Sit Alanı","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1yer%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225594","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olan Sarıyer Sit Alanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Sarıyer Sit Alanı","İç Anadolu Bölgesi","doğal alan","yeşil alan","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108225594"
@@ -22,7 +22,7 @@ wikidata_id: "Q108225594"
 
 # Sarıyer Sit Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Sarıyer Sit Alanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Sarıyer Sit Alanı, ziyaretçilerine doğayı yakından tanımak, çeşitli bitki türlerini keşfetme ve zengin fauna ile karşılaşmak için eşsiz bir fırsat sunuyor. Doğal güzelliği, tarihi geçmişi ve coğrafi özellikleri ile Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olarak öne çıkıyor.
+ Sarıyer Sit Alanı, ziyaretçilerine doğayı yakından tanımak, çeşitli bitki türlerini keşfetme ve zengin fauna ile karşılaşmak için eşsiz bir fırsat sunuyor. Doğal güzelliği, tarihi geçmişi ve coğrafi özellikleri ile Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sarıyer Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş otlaklar, ormanlık alanlar ve dağlık bölgelerden oluşuyor. Sarıyer Sit Alanı, yaklaşık 140 hektarlık alanı ile bir doğa cenneti olarak kabul ediliyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. İklim olarak, Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu iklim koşulları, Sarıyer Sit Alanı'nın flora ve faunasını şekillendirmiş ve bu alanın doğal güzelliğini daha da artırmıştır. Ayrıca, Sarıyer Sit Alanı, çevresindeki dağlık bölgeler ve otlaklar ile birlikte bir bütün olarak ele alındığında, ziyaretçilerine geniş ve çeşitli bir coğrafi alan sunuyor.
+Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, geniş otlaklar, ormanlık alanlar ve dağlık bölgelerden oluşuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. İklim olarak, Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Bu iklim koşulları, Sarıyer Sit Alanı'nın flora ve faunasını şekillendirmiş ve bu alanın doğal güzelliğini daha da artırmıştır. Ayrıca, Sarıyer Sit Alanı, çevresindeki dağlık bölgeler ve otlaklar ile birlikte bir bütün olarak ele alındığında, ziyaretçilerine geniş ve çeşitli bir coğrafi alan sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Sarıyer Sit Alanı, ziyaretçilerine doğayı yakından tanımak, çeşitli bit
 
 ## İlginç Bilgiler
 
-- Sarıyer Sit Alanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor.
 - Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor.
 - Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olarak öne çıkıyor.
 - Bu alan, yaban domuzları, tilkiler ve diğer memeliler için bir sığınak olarak kabul ediliyor.

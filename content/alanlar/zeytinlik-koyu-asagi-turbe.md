@@ -37,7 +37,7 @@ Zeytinlik Köyü Aşağı Türbe'nin tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel bölgelerinden biri olan Artvin'in Kutaisi Guberniyası'nda, İç Anadolu Bölgesi'nde bulunur. Bu plaj, yaklaşık 140 hektarlık bir alanda, Karadeniz'in temiz ve berrak suları ile çevrilidir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in en güzel plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
+Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel bölgelerinden biri olan Artvin'in Kutaisi Guberniyası'nda, İç Anadolu Bölgesi'nde bulunur. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in en güzel plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
 
 ## Flora ve Fauna
 

@@ -51,6 +51,6 @@ wikidata_id: "Q131391497"
 
 - Şeyh Hadin Türbesi, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 - Bu mekan, Diyarbakır'ın Sur ilçesinde bulunuyor.
-- Şeyh Hadin Türbesi, 140 hektarlık bir alan üzerine kurulmuş.
+
 - Türbe ve plaj, ziyaretçilerine hem tarihi bir geçmiş hem de doğal güzellikler sunuyor.
 - Şeyh Hadin Türbesi, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor.

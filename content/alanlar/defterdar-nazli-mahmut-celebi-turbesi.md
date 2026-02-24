@@ -29,7 +29,7 @@ wikidata_id: "Q131391048"
 
 # Defterdar Nazlı Mahmut Çelebi Türbesi
 
-Defterdar Nazlı Mahmut Çelebi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir plaj ve türbe kompleksidir. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur. Defterdar Nazlı Mahmut Çelebi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Bu kompleks, hem plaj severlerin hem de tarih meraklılarının ilgisini çeker.
+Defterdar Nazlı Mahmut Çelebi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir plaj ve türbe kompleksidir. Defterdar Nazlı Mahmut Çelebi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Bu kompleks, hem plaj severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Defterdar Nazlı Mahmut Çelebi Türbesi, tarihi geçmişi ile dikkat çeker. Bu
 
 ## Coğrafya
 
-Defterdar Nazlı Mahmut Çelebi Türbesi, Eyüpsultan ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu kompleks, plaj, türbe ve çevre alanlardan oluşur. Plaj kısmı, Marmara Denizi'nin sakin ve temiz sularına sahiptir. Türbe kısmı, tarihi bir yapı olarak dikkat çeker. Çevre alanlar, yeşilli ve çiçeklerle dolu bir atmosfer sunar. Defterdar Nazlı Mahmut Çelebi Türbesi, coğrafi konumu ve tarihi geçmişi ile birlikte, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarından birini oluşturur.
+Defterdar Nazlı Mahmut Çelebi Türbesi, Eyüpsultan ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu kompleks, plaj, türbe ve çevre alanlardan oluşur. Plaj kısmı, Marmara Denizi'nin sakin ve temiz sularına sahiptir. Türbe kısmı, tarihi bir yapı olarak dikkat çeker. Çevre alanlar, yeşilli ve çiçeklerle dolu bir atmosfer sunar. Defterdar Nazlı Mahmut Çelebi Türbesi, coğrafi konumu ve tarihi geçmişi ile birlikte, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarından birini oluşturur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Defterdar Nazlı Mahmut Çelebi Türbesi'ni ziyaret etmek, hem plaj severlerin h
 ## İlginç Bilgiler
 
 - Defterdar Nazlı Mahmut Çelebi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir
-- Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur
+
 - Defterdar Nazlı Mahmut Çelebi Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kullanılmıştır
 - Bu kompleks, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Defterdar Nazlı Mahmut Çelebi Türbesi, Marmara Denizi'nin sakin ve temiz sularına sahiptir

@@ -50,7 +50,7 @@ Gökçedere Hamamı, ziyaretçilerin Karadeniz Bölgesi'nin doğal güzelliğini
 ## İlginç Bilgiler
 
 - Gökçedere Hamamı, Karadeniz Bölgesi'nin en güzel doğal güzelliklerinden biridir.
-- Gökçedere Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Gökçedere Hamamı, flora ve fauna açısından zengin bir bölgedir.
 - Gökçedere Hamamı, mevsimsel değişimlere göre flora ve faunası değişen bir bölgedir.
 - Gökçedere Hamamı, ilkbahar ve yaz aylarında ziyaret edilebilir.

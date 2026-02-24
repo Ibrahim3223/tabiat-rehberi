@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Kastamonu-Hanonu-Kuzalic-Saricam","caption":"Kastamonu-Hanonu-Kuzalic-Saricam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Hanonu-Kuzalic-Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228574","tip":"genel"}]
-description: "Kastamonu'nun yeşil cenneti, 140 hektarlık milli park"
+
 keywords: ["Kastamonu","milli park","doğa","yeşil","gezi","turizm","Karadeniz Bölgesi","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228574"

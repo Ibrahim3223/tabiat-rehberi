@@ -31,7 +31,7 @@ Sakarya Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Sakarya Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden birinde yer almaktadır. Park, 140 hektarlık bir alanı kaplar ve bölgenin en önemli ekolojik alanlarından birini oluşturur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Parkın coğrafi yapısı, dağlar, ormanlar ve ovalardan oluşmaktadır. İklim, karasal iklim özellikleri göstermektedir ve bölgenin flora ve faunası, bu iklim şartlarına uyum sağlamıştır. Sakarya Milli Parkı, aynı zamanda birçok nehrin ve derenin de buluşma noktasıdır. Parkın coğrafi konumu, ziyaretçilere birçok farklı faaliyet olanakları sunmaktadır.
+Sakarya Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden birinde yer almaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Parkın coğrafi yapısı, dağlar, ormanlar ve ovalardan oluşmaktadır. İklim, karasal iklim özellikleri göstermektedir ve bölgenin flora ve faunası, bu iklim şartlarına uyum sağlamıştır. Sakarya Milli Parkı, aynı zamanda birçok nehrin ve derenin de buluşma noktasıdır. Parkın coğrafi konumu, ziyaretçilere birçok farklı faaliyet olanakları sunmaktadır.
 
 ## Flora ve Fauna
 

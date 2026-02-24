@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Tekkedağı Tabiat Parkı","caption":"Tekkedağı Tabiat Parkı","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekkeda%C4%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228345","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Tekkedağı Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Tekkedağı","Tabiat Parkı","İç Anadolu Bölgesi","doğa","gezi","turizm","yeşil alan","ekosistem","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228345"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228345"
 
 # Tekkedağı Tabiat Parkı
 
-Tekkedağı Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Parkın geniş arazisi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tekkedağı Tabiat Parkı, doğa severlerin ve macera arayanların uğrak noktası olmayı başarmıştır.
+ Parkın geniş arazisi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tekkedağı Tabiat Parkı, doğa severlerin ve macera arayanların uğrak noktası olmayı başarmıştır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tekkedağı Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Tekkedağı Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, farklı iklim koşullarına adaptasyon gösteren bitki ve hayvan türlerine ev sahipliği yapmaktadır. Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Tekkedağı Tabiat Parkı, ziyaretçilerini geniş yeşil alanlarında dolaşmaya, doğanın seslerini dinlemeye ve güzelliğini keşfetmeye davet etmektedir. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak sağlamaktadır.
+Tekkedağı Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, farklı iklim koşullarına adaptasyon gösteren bitki ve hayvan türlerine ev sahipliği yapmaktadır. Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Tekkedağı Tabiat Parkı, ziyaretçilerini geniş yeşil alanlarında dolaşmaya, doğanın seslerini dinlemeye ve güzelliğini keşfetmeye davet etmektedir. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -41,8 +41,6 @@ Tekkedağı Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile çevrili
 Tekkedağı Tabiat Parkı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaya hazırdır. Parka ulaşım, toplu taşıma veya özel araçlarla sağlanabilmektedir. Ziyaretçiler, parkın geniş yeşil alanlarında dolaşabilir, doğanın seslerini dinleyebilir ve güzelliğini keşfedebilir. Tekkedağı Tabiat Parkı, doğa severlerin ve macera arayanların uğrak noktası olmayı başarmıştır. Ziyaretçiler, parkın zengin flora ve fauna çeşitliliğini keşfedebilir ve burada yaşayan canlıları gözlemleyebilir.
 
 ## İlginç Bilgiler
-
-- Tekkedağı Tabiat Parkı, 140 hektarlık bir yeşil alana sahiptir.
 
 - Tekkedağı Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır.

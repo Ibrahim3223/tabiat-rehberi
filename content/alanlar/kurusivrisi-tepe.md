@@ -20,7 +20,7 @@ aktiviteler: ["Gezinti","Fotoğraf çekimi","Tarihî yerleri ziyaret"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Kurusivrisi Tepe","caption":"Kurusivrisi Tepe","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurusivrisi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385564","tip":"genel"}]
-description: "Aydın'da bulunan Kurusivrisi Tepe, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerindendir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Aydın'da bulunan Kurusivrisi Tepe, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerindendir.
 keywords: ["Kurusivrisi Tepe","Aydın","Ege Bölgesi","tarih","doğa","gezi","turizm","Aydın'ın tarihi","Ege Bölgesi'nin güzellikleri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385564"
@@ -28,7 +28,7 @@ wikidata_id: "Q31385564"
 
 # Kurusivrisi Tepe
 
-Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla önemli bir doğal ve tarihi güzelliktir. Bu tepe, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Kurusivrisi Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülemeye devam etmektedir. Aydın'ın merkezinde yer almasıyla, ulaşım açısından kolaylık sağlamaktadır.
+ Bu tepe, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Kurusivrisi Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülemeye devam etmektedir. Aydın'ın merkezinde yer almasıyla, ulaşım açısından kolaylık sağlamaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kurusivrisi Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, Ege Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu tepe, yaklaşık 140 hektarlık alanıyla önemli bir doğal güzelliktir. Kurusivrisi Tepe'nin coğrafi yapısı, Ege Bölgesi'nin tipik coğrafi özelliklerini taşımaktadır. Bu tepe, Aydın'ın merkezinde yer almasıyla, ulaşım açısından kolaylık sağlamaktadır. Kurusivrisi Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir. Bu tepe, Ege Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini yansıtmaktadır. Aydın'ın merkezinde yer alan bu tepe, ziyaretçilerini doğal güzellikleriyle büyülemeye devam etmektedir. Kurusivrisi Tepe, Ege Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini görmek için önemli bir noktadır.
+Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, Ege Bölgesi'nin coğrafi yapısını yansıtmaktadır. Kurusivrisi Tepe'nin coğrafi yapısı, Ege Bölgesi'nin tipik coğrafi özelliklerini taşımaktadır. Bu tepe, Aydın'ın merkezinde yer almasıyla, ulaşım açısından kolaylık sağlamaktadır. Kurusivrisi Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir. Bu tepe, Ege Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini yansıtmaktadır. Aydın'ın merkezinde yer alan bu tepe, ziyaretçilerini doğal güzellikleriyle büyülemeye devam etmektedir. Kurusivrisi Tepe, Ege Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini görmek için önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, ziyaretçiler
 
 ## İlginç Bilgiler
 
-- Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla önemli bir doğal ve tarihi güzelliktir.
 - Bu tepe, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir.
 - Kurusivrisi Tepe, ulaşım açısından kolaylık sağlamaktadır.
 - Aydın'ın merkezinde yer almasıyla, ziyaretçileri kolayca ulaşabilirler.

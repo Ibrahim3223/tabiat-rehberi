@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Bitki ve hayvan türleri gözlemi","Foto�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Konya-Ermenek-Kazanci Sedir 2","caption":"Konya-Ermenek-Kazanci Sedir 2","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ermenek-Kazanci%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227612","tip":"genel"}]
-description: "Konya'nın Ermenek ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
+"
 keywords: ["Konya","Ermenek","Kazancı","Sedir","Milli Park","Doğa","Yeşil Alan","Bitki Türleri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227612"
@@ -30,11 +30,11 @@ Konya-Ermenek-Kazanci Sedir 2 milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Konya-Ermenek-Kazanci Sedir 2 milli parkı, coğrafi olarak Konya'nın Ermenek ilçesinde yer alıyor. Parkın konumu, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri ile şekillenmiş. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal ve kurak. Parkın coğrafi yapısı, ziyaretçiler için çeşitli aktiviteler sunuyor. Ziyaretçiler, parkın doğal güzelliklerini keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin florası ve faunası hakkında bilgi edinebilir. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+Konya-Ermenek-Kazanci Sedir 2 milli parkı, coğrafi olarak Konya'nın Ermenek ilçesinde yer alıyor. Parkın konumu, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri ile şekillenmiş. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal ve kurak. Parkın coğrafi yapısı, ziyaretçiler için çeşitli aktiviteler sunuyor. Ziyaretçiler, parkın doğal güzelliklerini keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin florası ve faunası hakkında bilgi edinebilir. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Flora ve Fauna
 
-Konya-Ermenek-Kazanci Sedir 2 milli parkı, zengin bir flora ve fauna ile dikkat çekiyor. Parkın 140 hektarlık alanı, çeşitli bitki türleri ile dolu ve ziyaretçilere geniş bir yeşillik sunuyor. Milli parkta, mevsimsel değişimlere göre farklı bitki türleri bulunabilir. Parkın faunası da zengin, çeşitli hayvan türleri ve kuşlar ziyaretçileri bekliyor. Ziyaretçiler, milli parkın doğal güzelliklerini keşfedebilir, bitki ve hayvan türleri hakkında bilgi edinebilir ve güzel anlar yaşayabilir. Milli parkın florası ve faunası, ziyaretçilere doğanın güzelliğini gösteriyor ve bölgenin ekolojik önemini vurguluyor.
+Konya-Ermenek-Kazanci Sedir 2 milli parkı, zengin bir flora ve fauna ile dikkat çekiyor. Milli parkta, mevsimsel değişimlere göre farklı bitki türleri bulunabilir. Parkın faunası da zengin, çeşitli hayvan türleri ve kuşlar ziyaretçileri bekliyor. Ziyaretçiler, milli parkın doğal güzelliklerini keşfedebilir, bitki ve hayvan türleri hakkında bilgi edinebilir ve güzel anlar yaşayabilir. Milli parkın florası ve faunası, ziyaretçilere doğanın güzelliğini gösteriyor ve bölgenin ekolojik önemini vurguluyor.
 
 ## Ziyaret Bilgileri
 

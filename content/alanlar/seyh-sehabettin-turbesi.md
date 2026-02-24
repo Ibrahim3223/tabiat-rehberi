@@ -37,7 +37,7 @@ wikidata_id: "Q12813068"
 
 ## Coğrafya
 
-Şeyh Şehabettin Türbesi, Eskişehir'in Odunpazarı ilçesinde, coğrafi olarak önemli bir konuma sahip. Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve çevresinde çeşitli bitki türleri ile zengin fauna bulunuyor. Bu mekan, coğrafi olarak, İç Anadolu Bölgesi'nin önemli bir parçasıdır. Şeyh Şehabettin Türbesi'nin xungularında, bahçeler ve ağaçlar ile birlikte, bir doğa cenneti yaratılmış. Türbenin mimarisi, geleneksel Türk mimarisinin özelliklerini taşıyor. Bu mekan, coğrafi konumu ile birlikte, ziyaretçilere eşsiz bir deneyim sunuyor.
+Şeyh Şehabettin Türbesi, Eskişehir'in Odunpazarı ilçesinde, coğrafi olarak önemli bir konuma sahip. Bu mekan, coğrafi olarak, İç Anadolu Bölgesi'nin önemli bir parçasıdır. Şeyh Şehabettin Türbesi'nin xungularında, bahçeler ve ağaçlar ile birlikte, bir doğa cenneti yaratılmış. Türbenin mimarisi, geleneksel Türk mimarisinin özelliklerini taşıyor. Bu mekan, coğrafi konumu ile birlikte, ziyaretçilere eşsiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

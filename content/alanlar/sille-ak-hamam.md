@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Sille%20Ak%20Hamam%202025-07-07%201761319524.jpg","alt":"Sille Ak Hamam manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Sille_Ak_Hamam_2025-07-07_1761319524.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sille_Ak_Hamam_2025-07-07_1761319524.jpg/1280px-Sille_Ak_Hamam_2025-07-07_1761319524.jpg","alt":"Sille Ak Hamam - Sille Ak Hamam 2025-07-07 1761319524","credit":"Mkurtel","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sille%20Ak%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738772","tip":"genel"}]
-description: "Konya'nın Selçuklu ilçesinde bulunan Sille Ak Hamam, doğal güzelliği ve tarihi değerleriyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Konya'nın Selçuklu ilçesinde bulunan Sille Ak Hamam, doğal güzelliği ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Sille Ak Hamam","Selçuklu","Konya","doğal güzellik","tarihi değer","İç Anadolu Bölgesi","plaj","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738772"
@@ -49,8 +49,6 @@ Sille Ak Hamam, ziyaretçilerine zengin bir flora ve fauna sunuyor. Burada, çe�
 Sille Ak Hamam'ı ziyaret etmek, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim olabilir. Buraya gitmek için, Konya'nın Selçuklu ilçesine ulaşmak gerekir. Ziyaretçiler, buranın doğal güzelliğini keşfedebilir, tarihi değerlerini öğrenebilirler. Sille Ak Hamam'a gitmek için en iyi mevsim, ilkbahar ve yaz ayları olabilir. Ziyaret süresi, ziyaretçilerin ilgi alanlarına göre değişebilir. Sille Ak Hamam, ziyaretçilere çeşitli aktiviteler sunuyor. Burada, doğa yürüyüşleri, tarihi eserleri gezme, flora ve faunayı keşfetme gibi aktiviteler yapılabilir.
 
 ## İlginç Bilgiler
-
-- Sille Ak Hamam, 140 hektarlık bir alan olarak dikkat çekiyor.
 
 - Sille Ak Hamam, Konya'nın Selçuklu ilçesinde yer alıyor.
 - Bu bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

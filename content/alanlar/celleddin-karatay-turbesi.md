@@ -37,7 +37,7 @@ Celâleddin Karatay Türbesi, Selçuklu döneminde inşa edilmiştir. Bu dönemd
 
 ## Coğrafya
 
-Celâleddin Karatay Türbesi, Konya'nın Selçuklu ilçesinde bulunmaktadır. Türbe, khong 140 hektarlık bir yeşil alanda yer almaktadır. Bu yeşil alan, ziyaretçilere geniş bir açık alan sunmaktadır ve doğa severler için ideal bir gezi noktasıdır. Türbenin etrafındaki çevre, tarihi yapılarla dolu bir bölgedir ve ziyaretçiler, bu tarihi yapıları görerek Konya'nın tarihi geçmişi hakkında bilgi edinebilmektedir. İklim olarak, Konya'nın genel iklimi gibi karasal iklim özellikleri göstermektedir. Konya, İç Anadolu Bölgesi'nde yer almaktadır ve bu bölgenin iklim özellikleri, kara ikliminin karakteristik özelliklerini taşımaktadır. Celâleddin Karatay Türbesi, Konya'nın merkezine yakın bir konumda yer almaktadır ve ulaşım açısından ziyaretçiler için kolaylık sağlamaktadır.
+Celâleddin Karatay Türbesi, Konya'nın Selçuklu ilçesinde bulunmaktadır. Bu yeşil alan, ziyaretçilere geniş bir açık alan sunmaktadır ve doğa severler için ideal bir gezi noktasıdır. Türbenin etrafındaki çevre, tarihi yapılarla dolu bir bölgedir ve ziyaretçiler, bu tarihi yapıları görerek Konya'nın tarihi geçmişi hakkında bilgi edinebilmektedir. İklim olarak, Konya'nın genel iklimi gibi karasal iklim özellikleri göstermektedir. Konya, İç Anadolu Bölgesi'nde yer almaktadır ve bu bölgenin iklim özellikleri, kara ikliminin karakteristik özelliklerini taşımaktadır. Celâleddin Karatay Türbesi, Konya'nın merkezine yakın bir konumda yer almaktadır ve ulaşım açısından ziyaretçiler için kolaylık sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Celâleddin Karatay Türbesi, ziyaretçiler için önemli bir gezi noktasıdır.
 
 - Celâleddin Karatay Türbesi, Selçuklu döneminde inşa edilmiştir
 - Türbe, Karatay ailesine aittir
-- Türbenin etrafındaki yeşil alan, 140 hektarlık bir alana sahiptir
+
 - Türbe, Konya'nın merkezine yakın bir konumda yer almaktadır
 - Türbeyi ziyaret etmek için, bahar ve yaz ayları en ideal zamanlardır

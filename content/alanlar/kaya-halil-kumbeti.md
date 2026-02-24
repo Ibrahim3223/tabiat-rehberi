@@ -50,7 +50,7 @@ Kaya Halil Kümbeti'ni ziyaret etmek, Karaman'ın tarihi ve doğal güzellikleri
 ## İlginç Bilgiler
 
 - Kaya Halil Kümbeti, Karaman'ın en önemli tarihi mekanlarından birisidir.
-- Mekan, 140 hektarlık bir alana yayılmıştır.
+
 - Kaya Halil Kümbeti, İç Anadolu Bölgesi'nin güneydoğusunda yer almaktadır.
 - Karaman il merkezine yakındır.
 - İlkbahar ve yaz aylarında ziyaret etmek daha idealdir.

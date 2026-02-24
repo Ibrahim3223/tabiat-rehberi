@@ -37,7 +37,7 @@ Keçiören Belediyesi Etnografya Müzesi'nin tarihi geçmişi, Ankara'nın kült
 
 ## Coğrafya
 
-Keçiören Belediyesi Etnografya Müzesi, Ankara'nın centralinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgede yer alıyor. Müzenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak dikkat çekiyor ve bu genişlik, ziyaretçilere geniş bir kültür ve tarih yelpazesi sunuyor. Müze, Ankara'nın şehir merkezine yakın bir konumda yer alıyor ve ulaşım açısından da oldukça kolay bir bölgede bulunuyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, müzenin çevresinde de görülüyor. Ziyaretçiler, müze gezileri sırasında, Ankara'nın coğrafi güzelliklerini de keşfedebiliyorlar. Müzenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor ve bu, ziyaretçilere doğal bir ortam sunuyor.
+Keçiören Belediyesi Etnografya Müzesi, Ankara'nın centralinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgede yer alıyor. Müze, Ankara'nın şehir merkezine yakın bir konumda yer alıyor ve ulaşım açısından da oldukça kolay bir bölgede bulunuyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, müzenin çevresinde de görülüyor. Ziyaretçiler, müze gezileri sırasında, Ankara'nın coğrafi güzelliklerini de keşfedebiliyorlar. Müzenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor ve bu, ziyaretçilere doğal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q131739114"
 
 # Eski Ali Paşa Hamamı
 
-Eski Ali Paşa Hamamı, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan özel bir noktada yer alır. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde bulunan bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Eski Ali Paşa Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder. Bu özel mekan, İstanbul'un zengin tarihini ve kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur.
+Eski Ali Paşa Hamamı, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan özel bir noktada yer alır. Eski Ali Paşa Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder. Bu özel mekan, İstanbul'un zengin tarihini ve kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Eski Ali Paşa Hamamı, ziyaretçilere yılın her dönemi açık bir destinasyo
 ## İlginç Bilgiler
 
 - Eski Ali Paşa Hamamı, Osmanlı İmparatorluğu döneminde inşa edilmiştir.
-- Hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bölge, çeşitli bitki ve hayvan türleri ile zengin bir flora ve fauna sunar.
 - Eski Ali Paşa Hamamı, İstanbul'un önemli tarihi yapılarından biridir.
 - Hamamın çevresi, tarihi yapılar ve yeşillik alanlar ile çevrilidir.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","bit
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Koca Katran","caption":"Koca Katran","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Katran","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227129","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Koca Katran, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["doğal alan","İç Anadolu Bölgesi","Koca Katran","milli park","flora","fauna","coğrafya","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227129"
@@ -42,8 +42,6 @@ Koca Katran, ziyaretçilerine doğanın içerisinde bir yolculuk sunar. Bölge, 
 
 ## İlginç Bilgiler
 
-- Koca Katran, 140 hektarlık geniş bir alanı kapsar
-- Bölge, yaklaşık 200 futbol sahası büyüklüğündedir
 - Koca Katran, zengin flora ve fauna çeşitliliği ile dikkat çeker
 - Bölge, coğrafi konumu itibariyle, çeşitli mevsimlerde farklı güzellikler sunar
 - Koca Katran, doğa severler ve bilim insanları için büyük bir ilgi odağıdır

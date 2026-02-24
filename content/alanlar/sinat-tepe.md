@@ -36,7 +36,7 @@ Sınat Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe,
 
 ## Coğrafya
 
-Sınat Tepe, coğrafi olarak Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu tepe, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar. Coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Tepe, yüksekliği ile çevreyi panoramik olarak izleme imkanı sağlar. Çevresinde bulunan diğer tepe ve dağlar, ziyaretçilere geniş bir coğrafi manzara sunar. Sınat Tepe, coğrafi açıdan önemli bir nokta olarak kabul edilir. Bu tepe, Konya'nın coğrafi yapısını şekillendiren önemli bir unsurdur.
+Sınat Tepe, coğrafi olarak Konya'nın İç Anadolu Bölgesi'nde yer alır. Coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Tepe, yüksekliği ile çevreyi panoramik olarak izleme imkanı sağlar. Çevresinde bulunan diğer tepe ve dağlar, ziyaretçilere geniş bir coğrafi manzara sunar. Sınat Tepe, coğrafi açıdan önemli bir nokta olarak kabul edilir. Bu tepe, Konya'nın coğrafi yapısını şekillendiren önemli bir unsurdur.
 
 ## Flora ve Fauna
 

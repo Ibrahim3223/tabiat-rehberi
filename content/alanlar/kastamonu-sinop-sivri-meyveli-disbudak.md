@@ -22,7 +22,7 @@ wikidata_id: "Q108228514"
 
 # Kastamonu-Sinop-Sivri Meyveli Dişbudak
 
-Kastamonu-Sinop-Sivri Meyveli Dişbudak milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan, yaklaşık 140 hektarlık bir alanı kapsar. Milli park, Sivri Meyveli Dişbudak ağaçları ile ünlü olup, bu ağaçların güzelliği ve önemi, burayı ziyaret edenler için büyük bir çekim noktasıdır. Kastamonu'nun tarihi geçmişi, kültürel zenginliği ve doğal güzellikleri, Sivri Meyveli Dişbudak milli parkının ziyaretçilere sunacağı deneyimlerin sadece bir bölümüdür.
+ Milli park, Sivri Meyveli Dişbudak ağaçları ile ünlü olup, bu ağaçların güzelliği ve önemi, burayı ziyaret edenler için büyük bir çekim noktasıdır. Kastamonu'nun tarihi geçmişi, kültürel zenginliği ve doğal güzellikleri, Sivri Meyveli Dişbudak milli parkının ziyaretçilere sunacağı deneyimlerin sadece bir bölümüdür.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Kastamonu-Sinop-Sivri Meyveli Dişbudak milli parkını ziyaret etmek, doğa sev
 ## İlginç Bilgiler
 
 - Milli park, Sivri Meyveli Dişbudak ağaçları ile ünlü
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kastamonu ilinin tarihi geçmişi, yüzyıllar öncesine dayanır
 - Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir
 - Milli park, ziyaretçilere, Kastamonu'nun doğal güzelliklerini keşfetme fırsatı sunar

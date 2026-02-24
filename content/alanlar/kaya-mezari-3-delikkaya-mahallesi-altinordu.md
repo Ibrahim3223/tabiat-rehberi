@@ -29,7 +29,7 @@ wikidata_id: "Q134728215"
 
 # Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu
 
-Kaya Mezarı 3, Delikkaya Mahallesi'nde bulunan ve Altınordu'nun önemli turizm noktalarından biri olan bu plaj, yaklaşık 140 hektarlık bir alanı kaplıyor. Kaya Mezarı 3, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak biliniyor ve her yıl binlerce ziyaretçi çekiyor. Bu bölge, aynı zamanda doğal güzellikleri ve tarihi açıdan da önemli bir noktada yer alıyor.
+ Kaya Mezarı 3, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak biliniyor ve her yıl binlerce ziyaretçi çekiyor. Bu bölge, aynı zamanda doğal güzellikleri ve tarihi açıdan da önemli bir noktada yer alıyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kaya Mezarı 3'ü ziyaret etmek, doğa severler için önemli bir tri nghim olab
 ## İlginç Bilgiler
 
 - Kaya Mezarı 3, Delikkaya Mahallesi'nde bulunuyor
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Kaya Mezarı 3, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak biliniyor
 - Bu bölge, tarihi açıdan önemli bir noktada yer alıyor
 - Kaya Mezarı 3, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor

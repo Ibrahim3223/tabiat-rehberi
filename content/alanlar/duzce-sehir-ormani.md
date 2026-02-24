@@ -14,15 +14,15 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"DÜZCE ŞEHİR ORMANI","caption":"DÜZCE ŞEHİR ORMANI","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%9CZCE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228671","tip":"genel"}]
-description: "Düzce Şehir Ormanı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
-keywords: ["Düzce Şehir Ormanı","doğa harikası","yeşil alan","futbol sahası","doğa severler","gezi alanı","orman","çevre"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228671"
 ---
 
 # DÜZCE ŞEHİR ORMANI
 
-Düzce Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan, 140 hektarlık devasa yeşil alanıyla doğa severlerin gözdesi haline gelmiştir. Doğal güzelliği, temiz havası ve çeşitli bitki türleriyle ziyaretçilerini etkileyen bu orman, aynı zamanda yürüyüş ve piknik için ideal bir mekândır. Şehir hayatının yoğunluğundan kaçmak isteyenler için sakin ve huzurlu bir ortam sunan Düzce Şehir Ormanı, doğa ile iç içe olmak isteyenlerin ilk tercihi olmaktadır.
+ Doğal güzelliği, temiz havası ve çeşitli bitki türleriyle ziyaretçilerini etkileyen bu orman, aynı zamanda yürüyüş ve piknik için ideal bir mekândır. Şehir hayatının yoğunluğundan kaçmak isteyenler için sakin ve huzurlu bir ortam sunan Düzce Şehir Ormanı, doğa ile iç içe olmak isteyenlerin ilk tercihi olmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Düzce Şehir Ormanı, yüzyıllar boyunca bölgenin en önemli doğal güzellik
 
 ## Coğrafya
 
-Düzce Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan ve coğrafi olarak önemli bir konuma sahip bir doğa harikasıdır. 140 hektarlık geniş yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkilemektedir. Orman, şehrin merkezine yakın bir konumda yer almakta ve ulaşımı kolaydır. Coğrafi olarak önemli birda yer alan bu orman, aynı zamanda şehrin hava kalitesini olumlu yönde etkileyen bir faktördür. Düzce Şehir Ormanı, coğrafi yapısı ve doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Ormanın coğrafi konumu, ziyaretçilerine şehrin kalabalığından kaçarak sakin bir ortam sunmaktadır. Coğrafi olarak önemli bir nokta olan bu orman, aynı zamanda bölgenin ekolojik dengesini korumakta önemli bir rol oynamaktadır.
+Düzce Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan ve coğrafi olarak önemli bir konuma sahip bir doğa harikasıdır. Orman, şehrin merkezine yakın bir konumda yer almakta ve ulaşımı kolaydır. Coğrafi olarak önemli birda yer alan bu orman, aynı zamanda şehrin hava kalitesini olumlu yönde etkileyen bir faktördür. Düzce Şehir Ormanı, coğrafi yapısı ve doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Ormanın coğrafi konumu, ziyaretçilerine şehrin kalabalığından kaçarak sakin bir ortam sunmaktadır. Coğrafi olarak önemli bir nokta olan bu orman, aynı zamanda bölgenin ekolojik dengesini korumakta önemli bir rol oynamaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Düzce Şehir Ormanı, ziyaretçilerine çeşitli olanaklar sunmaktadır. Ormana
 
 ## İlginç Bilgiler
 
-- Düzce Şehir Ormanı, 140 hektarlık bir alana sahiptir.
 - Orman, şehrin merkezine yakındır.
 - Ormanda çeşitli bitki türleri ve fauna bulunmaktadır.
 - Orman, doğa severlerin gözdesi haline gelmiştir.

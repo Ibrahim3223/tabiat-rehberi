@@ -52,5 +52,5 @@ Guç Tepe, ziyaretçilere birçok aktivite imkanı sunuyor. Bu tepe, doğa yür�
 - Guç Tepe, Diyarbakır'ın en yüksek noktalarından biri.
 - Bu tepe, şehrin tarihi ve doğal güzelliklerini bir araya getiriyor.
 - Guç Tepe, yılın her döneminde ziyaret edilebilir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Guç Tepe, doğa severler ve tarih meraklıları için bir hazine.

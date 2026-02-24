@@ -38,7 +38,7 @@ wikidata_id: "Q34828449"
 
 ## Coğrafya
 
-Çat Tepe, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak eşsiz bir konumda bulunuyor. Çat Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu tepe, aynı zamanda bölgenin coğrafi zenginliklerini de gözler önüne seriyor. Çat Tepe'nin coğrafi konumu, ziyaretçilere doğa ile baş başa kalma fırsatı sunuyor. Bu bölge, coğrafi olarak çok çeşitli ve ziyaretçilere farklı coğrafi oluşumları gözleme fırsatı sunuyor. Çat Tepe, aynı zamanda bölgenin iklimini de etkiliyor ve bölgenin coğrafi zenginliklerine katkıda bulunuyor.
+Çat Tepe, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. Çat Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu tepe, aynı zamanda bölgenin coğrafi zenginliklerini de gözler önüne seriyor. Çat Tepe'nin coğrafi konumu, ziyaretçilere doğa ile baş başa kalma fırsatı sunuyor. Bu bölge, coğrafi olarak çok çeşitli ve ziyaretçilere farklı coğrafi oluşumları gözleme fırsatı sunuyor. Çat Tepe, aynı zamanda bölgenin iklimini de etkiliyor ve bölgenin coğrafi zenginliklerine katkıda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ wikidata_id: "Q34828449"
 
 ## İlginç Bilgiler
 
-- Çat Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, coğrafi olarak eşsiz bir konumda bulunuyor.
 - Çat Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere önemli bir doğa deneyimi sunuyor.
 - Bu tepe, bölgenin coğrafi özelliklerini de gözler önüne seriyor.

@@ -37,7 +37,7 @@ Saracın Türbesi, tarihi geçmişi ile önemli bir yer tutuyor. Bu tarihsel mek
 
 ## Coğrafya
 
-Saracın Türbesi, Sivas'ın Divriği ilçesinde yer alıyor ve coğrafi konumu itibarıyla önemli bir nokta. Bu mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere geniş bir gezinti ve keşif alanı sunuyor. Saracın Türbesi'nin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunuyor. Burada, ziyaretçiler hem tarihi tüccar yollarını takip edebiliyor hem de bölgenin benzersiz coğrafi özelliklerini gözlemleyebiliyor. Saracın Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Bu coğrafi çeşitlilik, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor.
+Saracın Türbesi, Sivas'ın Divriği ilçesinde yer alıyor ve coğrafi konumu itibarıyla önemli bir nokta. Saracın Türbesi'nin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunuyor. Burada, ziyaretçiler hem tarihi tüccar yollarını takip edebiliyor hem de bölgenin benzersiz coğrafi özelliklerini gözlemleyebiliyor. Saracın Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Bu coğrafi çeşitlilik, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Saracın Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerin birleştiği
 ## İlginç Bilgiler
 
 - Saracın Türbesi, tarihi ve doğal güzelliklerin birleştiği bir destinasyon.
-- 140 hektarlık bir alana yayılmış.'
+'
 - Divriği'nin önemli tarihi mekanlarından biri.
 - Zengin flora ve fauna.'
 - Mevsimsel değişimlere göre farklı güzellikler sunuyor.

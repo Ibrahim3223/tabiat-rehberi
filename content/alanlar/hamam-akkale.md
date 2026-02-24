@@ -21,8 +21,7 @@ aktiviteler: ["güneşlenmek","denizde vakit geçirmek","yürüyüş yapmak","do
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Hamam, Akkale","caption":"Hamam, Akkale","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Akkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245801","tip":"genel"}]
-description: "Mersin'in Erdemli ilçesinde yer alan Hamam, Akkale plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Mersin","Erdemli","Hamam","Akkale","plaj","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245801"
 ---

@@ -49,8 +49,6 @@ Hafsa Sultan Hamamı, yılın her döneminde ziyaret edilebilir. Plaj, ziyaretç
 
 ## İlginç Bilgiler
 
-- Hafsa Sultan Hamamı, 140 hektarlık bir alanda yer alıyor.
-
 - Hafsa Sultan Hamamı, tarihi geçmişi ile dikkat çeken bir plajdır.
 - Plaj, yaban hayatı açısından önemli bir bölge.
 - Hafsa Sultan Hamamı, Ege Bölgesi'nin güzelliklerini ziyaretçileriyle buluşturan önemli bir mekan.

@@ -20,7 +20,7 @@ aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Gürcü Tepesi","caption":"Gürcü Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139565","tip":"genel"}]
-description: "Tokat'ın Karadeniz Bölgesi'nde yer alan Gürcü Tepesi, 140 hektarlık geniş bir alana sahiptir. Tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir."
+ Tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir."
 keywords: ["Gürcü Tepesi","Tokat","Karadeniz Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139565"
@@ -48,7 +48,6 @@ Gürcü Tepesi'ni ziyaret etmek, ziyaretçilere eşsiz bir deneyim sunmaktadır.
 
 ## İlginç Bilgiler
 
-- Gürcü Tepesi, 140 hektarlık bir alana sahiptir.
 - Tepenin etrafında yer alan ormanlar, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 - Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız.
 - Gürcü Tepesi, hem tarihi hem de doğal güzelliği ile dikkat çekmektedir.

@@ -48,7 +48,6 @@ Seyrantaş Tepesi'ni ziyaret etmek için, Erzurum'un doğusunda yer alan bu tepe
 
 ## İlginç Bilgiler
 
-- Seyrantaş Tepesi, yaklaşık 140 hektarlık bir araziyi kaplıyor.
 - Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor.
 - Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor.
 - Seyrantaş Tepesi, doğa severlerin ilgisini çekiyor.

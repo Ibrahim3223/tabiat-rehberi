@@ -48,7 +48,6 @@ Kır Tepesi, ziyaretçileri için çeşitli olanaklar sunuyor. Bu tepe, aynı za
 
 ## İlginç Bilgiler
 
-- Kır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna encontrándo.
 - Kır Tepesi, aynı zamanda önemli bir stratejik konumda bulunuyor.
 - Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar encontrándo.

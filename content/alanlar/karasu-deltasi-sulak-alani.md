@@ -43,7 +43,7 @@ Karasu Deltası Sulak Alanı, doğa severlerin ve bilim insanlarının ilgisini 
 ## İlginç Bilgiler
 
 - Karasu Deltası Sulak Alanı, birçok canlıya ev sahipliği yapıyor.
-- Sulak alan, 140 hektarlık bir alanı kaplıyor.
+
 - Karasu Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak görülüyor.
 - Sulak alan, yılın her döneminde ziyaret edilebilir.
 - Sulak alanın ekolojik dengesi, mevsimsel değişimlerden etkileniyor.

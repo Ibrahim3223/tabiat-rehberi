@@ -30,7 +30,7 @@ Kirinti Koyu Cinar Agaci'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Kirinti Koyu Cinar Agaci, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynakları ile zengin bir doğa harikasıdır. Bu milli park, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçilere, geniş bir flora ve fauna çeşitliliği sunmaktadır. Kirinti Koyu Cinar Agaci'nin coğrafi konumu, ziyaretçilerin bu doğal güzelliği keşfetmeleri için ideal bir zemin hazırlamaktadır. Bu bölge, yıl boyunca değişen mevsimlerle birlikte, farklı bir güzelliğe bürünmekte ve ziyaretçilerini büyülemektedir. Kirinti Koyu Cinar Agaci, doğa severlerin, bu doğal güzelliği keşfetmeleri için, ideal bir destinasyon olarak görünmektedir.
+Kirinti Koyu Cinar Agaci, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynakları ile zengin bir doğa harikasıdır. Kirinti Koyu Cinar Agaci'nin coğrafi konumu, ziyaretçilerin bu doğal güzelliği keşfetmeleri için ideal bir zemin hazırlamaktadır. Bu bölge, yıl boyunca değişen mevsimlerle birlikte, farklı bir güzelliğe bürünmekte ve ziyaretçilerini büyülemektedir. Kirinti Koyu Cinar Agaci, doğa severlerin, bu doğal güzelliği keşfetmeleri için, ideal bir destinasyon olarak görünmektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kirinti Koyu Cinar Agaci, ziyaretçilerin, bu doğal güzelliği keşfetmeleri i
 
 ## İlginç Bilgiler
 
-- Kirinti Koyu Cinar Agaci, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Bu milli park, flora ve fauna açısından zengin bir ekosisteme sahiptir.
 - Kirinti Koyu Cinar Agaci, yıl boyunca değişen mevsimlerle birlikte, farklı bir güzelliğe bürünmektedir.
 - Bu bölge, doğa severlerin ve macera arayışındaki kişilerin, bu doğal güzelliği keşfetmeleri için, ideal bir destinasyon olarak görünmektedir.

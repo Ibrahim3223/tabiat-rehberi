@@ -42,7 +42,6 @@ Antalya-Finike-Aykiricay Sedir 1 milli parkını ziyaret etmek, doğa severler i
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana yayılmıştır.
 - Aykiricay Nehri, parkın içinde bulunuyor.
 - Parkta, çeşitli bitki ve hayvan türleri yaşamaktadır.
 - Ziyaretçiler, doğa yürüyüşleri esnasında, birçok farklı türle karşılaşabilir.

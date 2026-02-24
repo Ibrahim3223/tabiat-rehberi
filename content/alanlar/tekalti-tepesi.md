@@ -49,7 +49,7 @@ Tekaltı Tepesi'ni ziyaret etmek isteyenler, Iğdır iline ulaşabilirler. Iğd�
 ## İlginç Bilgiler
 
 - Tekaltı Tepesi, Iğdır ilinin natural güzellikleriyle dikkat çeken bir bölgesidir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Tekaltı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır.
 - Tepenin etrafı, çeşitli bitki türleri ile kaplıdır.
 - Bu bölgenin fauna yapısı, çeşitli hayvan türlerine ev sahipliği yapar.

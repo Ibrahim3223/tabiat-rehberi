@@ -36,7 +36,7 @@ Afyonkarahisar ilinin önemli doğal güzelliklerinden biri olan Çatalağıl Te
 
 ## Coğrafya
 
-Çatalağıl Tepesi, Afyonkarahisar ilinin coğrafi yapısını oluşturan önemli bir tepe oluşumudur. Bu tepe, Ege Bölgesi'nin doğal güzelliklerini yansıtması bakımından önemlidir. Çatalağıl Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleriyle kaplıdır. Tepenin coğrafi konumu, çevredeki dağlarla çevrilidir ve bu dağlar, tepeye doğal bir koruma sağlar. İklim koşulları, tepeye özgü bitki türlerinin yetişmesi için elverişli bir ortam sağlar. Çatalağıl Tepesi, coğrafi yapısı ve doğal güzelliği ile, hem turizm hem de coğrafi araştırmalar için önemli bir alandır.
+Çatalağıl Tepesi, Afyonkarahisar ilinin coğrafi yapısını oluşturan önemli bir tepe oluşumudur. Bu tepe, Ege Bölgesi'nin doğal güzelliklerini yansıtması bakımından önemlidir. Tepenin coğrafi konumu, çevredeki dağlarla çevrilidir ve bu dağlar, tepeye doğal bir koruma sağlar. İklim koşulları, tepeye özgü bitki türlerinin yetişmesi için elverişli bir ortam sağlar. Çatalağıl Tepesi, coğrafi yapısı ve doğal güzelliği ile, hem turizm hem de coğrafi araştırmalar için önemli bir alandır.
 
 ## Flora ve Fauna
 

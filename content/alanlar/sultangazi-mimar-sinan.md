@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Tarih gezisi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"SULTANGAZİ MİMAR SİNAN","caption":"SULTANGAZİ MİMAR SİNAN","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/SULTANGAZ%C4%B0%20M%C4%B0MAR%20S%C4%B0NAN","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228602","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Sultangazi Mimar Sinan Milli Parkı, 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir destinasyon."
+ Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir destinasyon."
 keywords: ["Mimar Sinan","Sultangazi","Milli Park","İç Anadolu Bölgesi","Doğa","Tarih","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228602"
@@ -30,7 +30,7 @@ Sultangazi Mimar Sinan Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesine
 
 ## Coğrafya
 
-Sultangazi Mimar Sinan Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşen bir yapıya sahip. 140 hektarlık alanı, ziyaretçilere geniş bir açık alan sunuyor. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiş. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Çevre, doğal güzellikleri ve tarihi eserleri ile dikkat çekiyor. Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi deneyimi sunuyor. Burada, doğal güzelliklerin yanı sıra, tarihi eserleri de görme mümkün.
+Sultangazi Mimar Sinan Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşen bir yapıya sahip. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiş. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Çevre, doğal güzellikleri ve tarihi eserleri ile dikkat çekiyor. Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi deneyimi sunuyor. Burada, doğal güzelliklerin yanı sıra, tarihi eserleri de görme mümkün.
 
 ## Flora ve Fauna
 

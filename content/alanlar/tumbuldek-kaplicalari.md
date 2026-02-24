@@ -38,7 +38,7 @@ Tümbüldek Kaplıcaları, yüzyıllar boyunca insanların şifalı sularından 
 
 ## Coğrafya
 
-Tümbüldek Kaplıcaları, Marmara Bölgesi'nin Bursa ilinin Mustafakemalpaşa ilçesinde bulunuyor. Bu bölge, coğrafi olarak oldukça önemli bir konumda. Etrafı yeşilliklerle çevrili ve dağlarla çevrili bir vadi içinde yer alıyor. Kaplıca, 140 hektarlık bir alanda kurulmuş ve etrafı ormanlarla çevrili. Bu ormanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kaplıcanın coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de huzurlu bir atmosfer sunuyor. İklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir.
+Tümbüldek Kaplıcaları, Marmara Bölgesi'nin Bursa ilinin Mustafakemalpaşa ilçesinde bulunuyor. Bu bölge, coğrafi olarak oldukça önemli bir konumda. Etrafı yeşilliklerle çevrili ve dağlarla çevrili bir vadi içinde yer alıyor. Bu ormanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kaplıcanın coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de huzurlu bir atmosfer sunuyor. İklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Tümbüldek Kaplıcaları, her mevsim ziyaret edilebilir. İlkbahar ve yaz aylar
 
 - Tümbüldek Kaplıcaları, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri.
 - Bu kaplıca, yüzyıllar boyunca insanların şifalı sularından yararlanmak için geldiği bir bölge.
-- Kaplıca, 140 hektarlık bir alanda kurulmuş ve etrafı ormanlarla çevrili.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Tümbüldek Kaplıcaları, her mevsim ziyaret edilebilir.

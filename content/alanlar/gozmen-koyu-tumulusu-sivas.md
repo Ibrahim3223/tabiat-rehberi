@@ -50,7 +50,7 @@ Gözmen Köyü Tümülüsü'ne ziyaretçiler, Sivas'ın merkezinden kolayca ula�
 ## İlginç Bilgiler
 
 - Gözmen Köyü Tümülüsü, Sivas'ın en önemli arkeolojik sitelerinden biri
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Gözmen Köyü, Sivas'ın merkezine 20 kilometre uzaklıkta yer alıyor
 - Tümülüs, yılın her mevsiminde ziyaret edilebilir
 - Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor

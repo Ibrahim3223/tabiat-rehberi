@@ -51,7 +51,7 @@ Merzifon Mehmet Çelebi Medresesi ve plaj, ziyaretçiler için keyifli bir gezi 
 ## İlginç Bilgiler
 
 - Merzifon Mehmet Çelebi Medresesi, tarihi bir medrese ve plaj olarak bilinir.
-- Medrese, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölge, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapmaktadır.
 - Medrese ve plaj, doğa severler için önemli bir noktadır.
 - Bölgenin ekolojik önemi, Merzifon Mehmet Çelebi Medresesi'ni koruma ve değerlendirmek için önemli bir neden olarak kabul edilebilir.

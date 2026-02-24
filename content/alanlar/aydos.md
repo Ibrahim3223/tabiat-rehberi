@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","picnic","fotografcılık","bitki ve hayvan gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Aydos_Kalesi.jpg","alt":"AYDOS manzarası","credit":"BerkayRower","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aydos_Kalesi.jpg/960px-Aydos_Kalesi.jpg","alt":"AYDOS","caption":"AYDOS","credit":"Aydos Kalesi","license":"CC0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Aydos_Kalesi2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aydos_Kalesi2.jpg/1280px-Aydos_Kalesi2.jpg","alt":"AYDOS - Aydos Kalesi2","credit":"BerkayRower","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Aydos_Kalesi0.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aydos_Kalesi0.jpg/1280px-Aydos_Kalesi0.jpg","alt":"AYDOS - Aydos Kalesi0","credit":"BerkayRower","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Aydos_Kalesi4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aydos_Kalesi4.jpg/1280px-Aydos_Kalesi4.jpg","alt":"AYDOS - Aydos Kalesi4","credit":"BerkayRower","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Aydos_Kalesi04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Aydos_Kalesi04.jpg/1280px-Aydos_Kalesi04.jpg","alt":"AYDOS - Aydos Kalesi04","credit":"BerkayRower","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Aydos_Kalesi6.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aydos_Kalesi6.jpg/1280px-Aydos_Kalesi6.jpg","alt":"AYDOS - Aydos Kalesi6","credit":"BerkayRower","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AYDOS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228601","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan AYDOS, 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çeker."
+"
 keywords: ["AYDOS","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228601"
@@ -31,7 +31,7 @@ AYDOS'un tarihi geçmişi, yüzyıllar boyunca şekillenerek günümüze ulaşm�
 
 ## Coğrafya
 
-AYDOS, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu doğal alan, bölgenin iklimine uygun olarak şekillenmiştir. AYDOS'un coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunar ve bu manzaralar, özellikle gün doğumu ve gün batımı sırasında daha da büyüleyici hale gelir. AYDOS'un çevresi, çeşitli tepeler ve vadilerle çevrilidir ve bu coğrafi özellikler, burayı bir doğa harikası haline getirir. İklim koşulları, AYDOS'un flora ve faunasını doğrudan etkiler ve bu doğal alan, mevsimsel değişimlere göre farklı güzellikler sunar.
+AYDOS, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu doğal alan, bölgenin iklimine uygun olarak şekillenmiştir. AYDOS'un coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunar ve bu manzaralar, özellikle gün doğumu ve gün batımı sırasında daha da büyüleyici hale gelir. AYDOS'un çevresi, çeşitli tepeler ve vadilerle çevrilidir ve bu coğrafi özellikler, burayı bir doğa harikası haline getirir. İklim koşulları, AYDOS'un flora ve faunasını doğrudan etkiler ve bu doğal alan, mevsimsel değişimlere göre farklı güzellikler sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ AYDOS'u ziyaret etmek, doğa severler ve dinlenmek isteyenler için harika bir f
 
 ## İlginç Bilgiler
 
-- AYDOS, 140 hektarlık bir alanı kaplar.
 - Bölge, zengin bir flora ve fauna yapısına sahiptir.
 - AYDOS, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir.
 - Bölge, mevsimsel değişimlere göre farklı güzellikler sunar.

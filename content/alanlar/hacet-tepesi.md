@@ -36,7 +36,7 @@ Hacet Tepesi'nin tarihi geçmişi, Mersin'in tarihine paralel olarak gelişiyor.
 
 ## Coğrafya
 
-Hacet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan. Hacet Tepesi, aynı zamanda Akdeniz'in mavisi ile çevrilidir ve bu tepeden, Mersin'in yeşil alanlarını izleme mümkün. Bu tepenin coğrafi konumu, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Hacet Tepesi, aynı zamanda iklimi ile dikkat çekiyor. Bu bölge, Akdeniz ikliminin hakim olduğu bir bölgede yer alıyor ve bu nedenle, kışları ılıman ve yazları sıcak geçiyor. Hacet Tepesi, aynı zamanda flora ve fauna açısından zengin bir bölge. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşiyor ve bu nedenle, doğa severlerin ziyaret ettiği bir nokta.
+Hacet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Hacet Tepesi, aynı zamanda Akdeniz'in mavisi ile çevrilidir ve bu tepeden, Mersin'in yeşil alanlarını izleme mümkün. Bu tepenin coğrafi konumu, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Hacet Tepesi, aynı zamanda iklimi ile dikkat çekiyor. Bu bölge, Akdeniz ikliminin hakim olduğu bir bölgede yer alıyor ve bu nedenle, kışları ılıman ve yazları sıcak geçiyor. Hacet Tepesi, aynı zamanda flora ve fauna açısından zengin bir bölge. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşiyor ve bu nedenle, doğa severlerin ziyaret ettiği bir nokta.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Hacet Tepesi'ni ziyaret etmek, Mersin'in doğal güzelliklerini keşfetmek istey
 ## İlginç Bilgiler
 
 - Hacet Tepesi, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon
-- Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan
+
 - Hacet Tepesi, aynı zamanda Akdeniz'in mavisi ile çevrilidir
 - Bu tepe, flora ve fauna açısından zengin bir bölge
 - Hacet Tepesi, aynı zamanda ekoloji açısından önemli bir bölge

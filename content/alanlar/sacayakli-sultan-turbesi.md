@@ -50,7 +50,7 @@ Saçayaklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan bir plaj ve tarih
 ## İlginç Bilgiler
 
 - Saçayaklı Sultan Türbesi, Kastamonu'nun en önemli turizm merkezlerinden biridir
-- Bu alan, 140 hektarlık bir alanı kapsıyor
+
 - Saçayaklı Sultan Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biridir
 - Bu mekan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Saçayaklı Sultan Türbesi, Kastamonu'nun tarihini ve kültürünü yansıtan önemli bir mekan olarak kabul ediliyor

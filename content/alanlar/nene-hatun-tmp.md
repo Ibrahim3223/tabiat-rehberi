@@ -43,7 +43,7 @@ Nene Hatun TMP, ziyaretçilere çeşitli aktiviteler sunuyor. Doğa yürüyüşl
 ## İlginç Bilgiler
 
 - Nene Hatun TMP, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Milli park, 140 hektarlık bir alanı kaplıyor.
+
 - Nene Hatun TMP, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Park, ekolojik dengenin korunmasına önemli katkılar sağlıyor.
 - Nene Hatun TMP, her mevsim ziyaret edilebilir.

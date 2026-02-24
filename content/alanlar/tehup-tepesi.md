@@ -36,7 +36,7 @@ Tehup Tepesi, tarihin farklı dönemlerine tanıklık etmiş ve çeşitli uygarl
 
 ## Coğrafya
 
-Tehup Tepesi, Mardin'in güneydoğusunda yer alan ve etwa 140 hektarlık bir alanı kaplayan bir tepe olarak tanımlanabilir. Tehup Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihini anlatan önemli bir noktadır. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Tehup Tepesi'nin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıya sahiptir. Tehup Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin iklimini ve coğrafi yapısını etkileyen önemli faktörlerdir.
+ Tehup Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihini anlatan önemli bir noktadır. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Tehup Tepesi'nin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıya sahiptir. Tehup Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin iklimini ve coğrafi yapısını etkileyen önemli faktörlerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tehup Tepesi'ni ziyaret etmek, Mardin'in tarihi ve doğal güzelliklerini keşfe
 ## İlginç Bilgiler
 
 - Tehup Tepesi, Mardin'in güneydoğusunda yer alan bir tepe olarak tanımlanabilir.
-- Bu tepe, etwa 140 hektarlık bir alanı kaplamaktadır.
+
 - Tehup Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta bulunmaktadır.
 - Bu tepe, çeşitli bitki türleriyle kaplıdır.
 - Tehup Tepesi, yaban hayatının zengin olduğu bir bölge olup, çeşitli hayvan türleri bu bölgede yaşamlarını sürdürmektedir.

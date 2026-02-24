@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/Asmasu_%C5%9Felalesi.jpg","alt":"Asmasu Şelalesi manzarası","credit":"Erkut Meral","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Asmasu_%C5%9Felalesi.jpg/960px-Asmasu_%C5%9Felalesi.jpg","alt":"Asmasu Şelalesi","caption":"Asmasu Şelalesi","credit":"Asmasu şelalesi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asmasu%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207185","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinden biri olan Asmasu Şelalesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."

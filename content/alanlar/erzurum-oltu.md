@@ -44,7 +44,7 @@ Erzurum-Oltu, ziyaretçilerini büyüleyici bir doğa ile karşılıyor ve burad
 ## İlginç Bilgiler
 
 - Erzurum-Oltu, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Bölge, 140 hektarlık bir yeşil alana sahip.
+
 - Erzurum-Oltu, tarihi kalıntıları ve kültürel zenginlikleri ile ziyaretçileri çekiyor.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 - Erzurum-Oltu'ya gitmek için en iyi zaman, ilkbahar ve yaz ayları.

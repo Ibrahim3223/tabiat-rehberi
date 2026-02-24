@@ -36,7 +36,7 @@ wikidata_id: "Q49742035"
 
 ## Coğrafya
 
-İnsuyu Kaplıcası, Akdeniz Bölgesi'nin güzide illerinden biri olan Burdur'da yer alır. Bu kaplıca, şehrin merkezinden biraz uzakta, doğal bir ortamda bulunur. 140 hektarlık geniş alanı, ziyaretçilere geniş yeşil alanlar, yürüyüş parkurları ve huzurlu bir atmosfer sunar. İklim olarak, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır; yani yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu coğrafi konum, İnsuyu Kaplıcası'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getirir. Kaplıcanın çevresinde, çeşitli bitki türleri ve zengin bir fauna bulunur. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunar.
+İnsuyu Kaplıcası, Akdeniz Bölgesi'nin güzide illerinden biri olan Burdur'da yer alır. Bu kaplıca, şehrin merkezinden biraz uzakta, doğal bir ortamda bulunur. İklim olarak, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır; yani yazları sıcak ve kurak, kışları ise ılıman ve yağışlı geçer. Bu coğrafi konum, İnsuyu Kaplıcası'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getirir. Kaplıcanın çevresinde, çeşitli bitki türleri ve zengin bir fauna bulunur. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ wikidata_id: "Q49742035"
 
 - İnsuyu Kaplıcası, yüzyıllar boyunca çeşitli medeniyetlerin uğrak yeri olmuştur.
 - Bu kaplıcanın şifalı suları, çeşitli sağlık sorunlarına iyi geldiğine inanılır.
-- İnsuyu Kaplıcası, 140 hektarlık bir yeşil alana sahiptir.
+
 - Bu kaplıca, Akdeniz Bölgesi'nin güzide illerinden biri olan Burdur'da yer alır.
 - İnsuyu Kaplıcası, yıl boyunca ziyaret edilebilir bir destinasyondur.

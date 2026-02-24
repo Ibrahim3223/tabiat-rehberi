@@ -48,8 +48,6 @@ Gedik Tepe, ziyaretçilere Tunceli'nin doğal güzelliklerini keşfetme fırsat�
 
 ## İlginç Bilgiler
 
-- Gedik Tepe, 140 hektarlık bir alana sahip
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Gedik Tepe, Tunceli'nin coğrafi yapısını yansıtan bir oluşum
 - Bu tepe, çeşitli bitki türleri ve hayvanlarla dolu
 - Gedik Tepe, yılın her döneminde ziyaret edilebilir

@@ -49,7 +49,7 @@ wikidata_id: "Q104641913"
 ## İlginç Bilgiler
 
 - İonik Akrepolis, İonik uygarlığının önemli bir yerleşim yeri olarak bilinir.
-- İonik Akrepolis, 140 hektarlık bir tepe üzerine kurulu.
+
 - İonik Akrepolis'in tarihi yapıları, çeşitli medeniyetlerin katkıları ile şekillenmiştir.
 - İonik Akrepolis, doğa severler için mükemmel bir destinasyon.
 - İonik Akrepolis'i ziyaret etmek, tarih ve kültür severler için mükemmel bir deneyim.

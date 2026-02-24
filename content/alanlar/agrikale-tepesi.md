@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kültür turu","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Ağrıkale Tepesi","caption":"Ağrıkale Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1kale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390107","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ağrıkale Tepesi, 140 hektarlık geniş bir alana sahiptir."
+"
 keywords: ["Ağrıkale Tepesi","Ankara","İç Anadolu Bölgesi","tepe","coğrafya","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390107"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390107"
 
 # Ağrıkale Tepesi
 
-Ağrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık geniş bir alana sahiptir. Tepenin yüksekliği ve genişliği, ziyaretçilere güzel bir manzara sunar. Doğal güzelliği ve coğrafi konumuyla, Ağrıkale Tepesi ziyaretçiler için önemli bir destinasyondur. Tepenin çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir. Bu özellikleriyle, Ağrıkale Tepesi doğa severler için bir cennettir.
+ Tepenin yüksekliği ve genişliği, ziyaretçilere güzel bir manzara sunar. Doğal güzelliği ve coğrafi konumuyla, Ağrıkale Tepesi ziyaretçiler için önemli bir destinasyondur. Tepenin çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir. Bu özellikleriyle, Ağrıkale Tepesi doğa severler için bir cennettir.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Ağrıkale Tepesi, ziyaretçiler için önemli bir destinasyondur. Tepenin yüks
 
 ## İlginç Bilgiler
 
-- Ağrıkale Tepesi, 140 hektarlık geniş bir alana sahiptir.
 - Tepenin yüksekliği, ziyaretçilere güzel bir manzara sunar.
 - Tepenin çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir.
 - Tepenin eteklerinde yer alan köyler, ziyaretçiler için önemli bir kültürel deneyim sunar.

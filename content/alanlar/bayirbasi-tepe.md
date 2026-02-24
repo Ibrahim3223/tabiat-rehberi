@@ -36,7 +36,7 @@ Bayırbaşı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Bayırbaşı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi bölgedir. Bu bölge, coğrafi olarak yaklaşık 140 hektarlık bir alanı kaplar ve Konya'nın merkezine yakın bir konumda yer alır. Bayırbaşı Tepe, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, aynı zamanda bölgenin ekolojik yapısını şekillendiren önemli faktörlerden biridir. Bayırbaşı Tepe'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Bu nedenle, Bayırbaşı Tepe, Konya'nın coğrafi ve ekolojik yapısını anlamak için önemli bir destinasyondur. Bayırbaşı Tepe, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir.
+Bayırbaşı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi bölgedir. Bayırbaşı Tepe, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, aynı zamanda bölgenin ekolojik yapısını şekillendiren önemli faktörlerden biridir. Bayırbaşı Tepe'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Bu nedenle, Bayırbaşı Tepe, Konya'nın coğrafi ve ekolojik yapısını anlamak için önemli bir destinasyondur. Bayırbaşı Tepe, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bayırbaşı Tepe, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteye
 ## İlginç Bilgiler
 
 - Bayırbaşı Tepe, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bayırbaşı Tepe, Konya'nın merkezine yakın bir konumda yer alır.
 - Bu tepe, aynı zamanda bölgenin coğrafi ve ekolojik yapısını anlamak için önemli bir noktadır.
 - Bayırbaşı Tepe, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir.

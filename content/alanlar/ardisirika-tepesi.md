@@ -28,7 +28,7 @@ wikidata_id: "Q31543755"
 
 # Ardişırika Tepesi
 
-Ardişırika Tepesi, Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafik güzelliğini bir araya getiren bir destinasyon. Diyarbakır'ın merkezinde yer alan bu tepe, yaklaşık 140 hektarlık alanı ile şehrin önemli bir bölümünü kaplıyor. Bu tepe, şehrin tarihi ve kültürel mirasını korurken, aynı zamanda doğal güzelliği ile ziyaretçilerini cezbediyor. Şehir merkezinde yer alması, ulaşım açısından büyük kolaylık sağlıyor. Ardişırika Tepesi, ziyaretçilerini tarihi ve coğrafik güzelliği ile karşılayan özel bir destinasyon.
+Ardişırika Tepesi, Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafik güzelliğini bir araya getiren bir destinasyon. Bu tepe, şehrin tarihi ve kültürel mirasını korurken, aynı zamanda doğal güzelliği ile ziyaretçilerini cezbediyor. Şehir merkezinde yer alması, ulaşım açısından büyük kolaylık sağlıyor. Ardişırika Tepesi, ziyaretçilerini tarihi ve coğrafik güzelliği ile karşılayan özel bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ardişırika Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi geçmişine ı�
 
 ## Coğrafya
 
-Ardişırika Tepesi, coğrafik açıdan önemli bir konumda yer alıyor. Diyarbakır'ın merkezinde bulunması, bu tepenin coğrafyasını şekillendirmiş. Bu tepe, şehrin doğal güzelliğini korurken, aynı zamanda tarihi ve kültürel mirasını da koruyarak, ziyaretçilerine benzersiz bir deneyim sunuyor. Ardişırika Tepesi'nin coğrafyası, şehrin tarihi ve kültürel yapısını yansıtıyor. Bu tepe, şehir merkezinde yer alması nedeniyle, ulaşım açısından büyük kolaylık sağlıyor. Ardişırika Tepesi, coğrafik güzelliği ile ziyaretçilerini cezbediyor. Bu tepe, yaklaşık 140 hektarlık alanı ile şehrin önemli bir bölümünü kaplıyor. Coğrafik konumu, bu tepenin tarihi ve kültürel önemini artırıyor.
+Ardişırika Tepesi, coğrafik açıdan önemli bir konumda yer alıyor. Diyarbakır'ın merkezinde bulunması, bu tepenin coğrafyasını şekillendirmiş. Bu tepe, şehrin doğal güzelliğini korurken, aynı zamanda tarihi ve kültürel mirasını da koruyarak, ziyaretçilerine benzersiz bir deneyim sunuyor. Ardişırika Tepesi'nin coğrafyası, şehrin tarihi ve kültürel yapısını yansıtıyor. Bu tepe, şehir merkezinde yer alması nedeniyle, ulaşım açısından büyük kolaylık sağlıyor. Ardişırika Tepesi, coğrafik güzelliği ile ziyaretçilerini cezbediyor. Coğrafik konumu, bu tepenin tarihi ve kültürel önemini artırıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ardişırika Tepesi, ziyaretçilerini tarihi ve coğrafik güzelliği ile karş�
 ## İlginç Bilgiler
 
 - Ardişırika Tepesi, Diyarbakır'ın tarihi merkezinde yer alıyor.
-- Bu tepe, yaklaşık 140 hektarlık alanı ile şehrin önemli bir bölümünü kaplıyor.
+
 - Ardişırika Tepesi, coğrafik güzelliği ile ziyaretçilerini cezbediyor.
 - Bu tepe, tarihi ve kültürel mirasını korurken, aynı zamanda doğal güzelliği ile ziyaretçilerini cezbediyor.
 - Ardişırika Tepesi, ziyaretçilerine benzersiz bir deneyim sunuyor.

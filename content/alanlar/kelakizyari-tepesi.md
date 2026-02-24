@@ -28,7 +28,7 @@ wikidata_id: "Q31552087"
 
 # Kelakızyarı Tepesi
 
-Kelakızyarı Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olarak bilinir. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Kelakızyarı Tepesi, Mardin'in coğrafi ve tarihi zenginliklerini bir arada sunar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ziyaretçiler, bu tepeyi ziyaret ederek, hem Mardin'in tarihi geçmişi hakkında bilgi sahibi olabilir, hem de doğanın güzelliğini keşfedebilirler.
+Kelakızyarı Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olarak bilinir. Kelakızyarı Tepesi, Mardin'in coğrafi ve tarihi zenginliklerini bir arada sunar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ziyaretçiler, bu tepeyi ziyaret ederek, hem Mardin'in tarihi geçmişi hakkında bilgi sahibi olabilir, hem de doğanın güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kelakızyarı Tepesi, ziyaretçilere Mardin'in tarihi ve doğal güzelliklerini 
 ## İlginç Bilgiler
 
 - Kelakızyarı Tepesi, Mardin'in en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Kelakızyarı Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır.
 - Ziyaretçiler, bu tepeyi ziyaret ederek, Mardin'in tarihi geçmişi hakkında bilgi sahibi olabilir ve bu bölgenin kültürel zenginliklerini keşfedebilirler.

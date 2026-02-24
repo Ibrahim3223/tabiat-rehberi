@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","bitki gözlemi","hayvan
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Creek_-_panoramio.jpg/960px-The_Creek_-_panoramio.jpg","alt":"Bozada Tepesi","caption":"Bozada Tepesi","credit":"The Creek - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozada%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390641","tip":"genel"}]
-description: "Kırşehir'in doğal güzelliklerinin başında gelen Bozada Tepesi, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Kırşehir","Bozada Tepesi","doğal güzellik","tepe","gezi","İç Anadolu Bölgesi","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390641"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390641"
 
 # Bozada Tepesi
 
-Kırşehir'in doğal güzelliklerinin başında gelen Bozada Tepesi, 140 hektarlık alanıyla ziyaretçilerini bekliyor. Bozada Tepesi, bölgenin coğrafi yapısı ve iklimi nedeniyle benzersiz bir bitki örtüsüne sahip. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
+ Bozada Tepesi, bölgenin coğrafi yapısı ve iklimi nedeniyle benzersiz bir bitki örtüsüne sahip. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Bozada Tepesi'ni ziyaret etmek için, Kırşehir iline ulaşmak gerekiyor. Buray
 
 ## İlginç Bilgiler
 
-- Bozada Tepesi, 140 hektarlık bir alana sahip
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Bozada Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor
 - Bu tepe, bölgenin coğrafi yapısı ve iklimi nedeniyle benzersiz bir bitki örtüsüne sahip
 - Bozada Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor

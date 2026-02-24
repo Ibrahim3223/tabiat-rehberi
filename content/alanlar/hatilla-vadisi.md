@@ -14,8 +14,8 @@ aktiviteler: ["yürüyüş","fotografçılık","bitki ve hayvan gözlemi","kamp�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Hatilla Vadisi","caption":"Hatilla Vadisi","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatilla%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227097","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Hatilla Vadisi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","futbol sahası","milli park","turizm","gezi","doğa"]
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227097"
 ---
@@ -30,7 +30,7 @@ Hatilla Vadisi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Hatilla Vadisi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Vadide, yüksek dağlar, derin vadiler ve geniş otlaklar encontrando. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Vadide, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölgenin coğrafi yapısı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Hatilla Vadisi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
+Hatilla Vadisi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Vadide, yüksek dağlar, derin vadiler ve geniş otlaklar encontrando. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Vadide, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölgenin coğrafi yapısı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Hatilla Vadisi'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal 
 
 ## İlginç Bilgiler
 
-- Hatilla Vadisi, 140 hektarlık bir alanı kapsıyor.
 - Vadide, çeşitli bitki türleri ve zengin fauna encontrando.
 - Hatilla Vadisi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor.
 - Vadide, mevsimsel değişimler, canlıları ve ekosistemi etkiliyor.

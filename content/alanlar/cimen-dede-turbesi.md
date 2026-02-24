@@ -49,7 +49,6 @@ wikidata_id: "Q131391592"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Ege Bölgesi'nin önemli turizm merkezlerinden biri
 - Tarihi geçmişi
 - Doğal güzelliği

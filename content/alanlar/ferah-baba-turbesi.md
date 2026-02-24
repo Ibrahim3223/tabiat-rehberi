@@ -37,7 +37,7 @@ Ferah Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethi döneminde başlar.
 
 ## Coğrafya
 
-Ferah Baba Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Türbe, yaklaşık 140 hektarlık bir alanda yer alır ve ziyaretçilerini geniş ve yeşillik bir alana davet eder. Coğrafi konumu itibariyle, türbe İstanbul'un önemli ulaşım noktalarına yakın olup, ziyaretçilerin ulaşımı kolaydır. Ayrıca, türbenin etrafında çeşitli bitkiler ve ağaçlar bulunur, ziyaretçilere doğal bir ortam sunar. İstanbul'un coğrafi yapısı, türbenin bulunduğu bölgeyi de etkilemiştir ve bu bölgenin coğrafi özellikleri, türbenin güzelliğini tăngımlar.
+Ferah Baba Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Coğrafi konumu itibariyle, türbe İstanbul'un önemli ulaşım noktalarına yakın olup, ziyaretçilerin ulaşımı kolaydır. Ayrıca, türbenin etrafında çeşitli bitkiler ve ağaçlar bulunur, ziyaretçilere doğal bir ortam sunar. İstanbul'un coğrafi yapısı, türbenin bulunduğu bölgeyi de etkilemiştir ve bu bölgenin coğrafi özellikleri, türbenin güzelliğini tăngımlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ferah Baba Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginli
 ## İlginç Bilgiler
 
 - Ferah Baba Türbesi, İstanbul'un en eski türbelerinden biridir.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Türbenin etrafında çeşitli bitkiler ve ağaçlar bulunur.
 - Türbe, İstanbul'un önemli dini ve kültürel noktalarından biridir.
 - Türbeye giriş, ücretsiz olup, ziyaretçiler, diledikleri zaman türbeyi ziyaret edebilirler.

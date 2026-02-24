@@ -22,7 +22,7 @@ wikidata_id: "Q108228524"
 
 # Mugla-Karabortlen-Fistikcami2
 
-Muğla ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan milli park, 140 hektarlık bir alanı kaplıyor. Milli parkın konumu, Ege Bölgesi'nin muhteşem manzaralarına ev sahipliği yapıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Doğa severler, bu milli parkı ziyaret ederek Ege Bölgesi'nin doğal güzelliklerini keşfedebilir.
+ Milli parkın konumu, Ege Bölgesi'nin muhteşem manzaralarına ev sahipliği yapıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Doğa severler, bu milli parkı ziyaret ederek Ege Bölgesi'nin doğal güzelliklerini keşfedebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tarihi geçmişi olan milli park, yüzyıllar boyunca doğanın güzelliğini ko
 
 ## Coğrafya
 
-Milli park, Ege Bölgesi'nin coğrafi güzelliklerini sergiliyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir doğa deneyimi sunuyor. Milli parkın iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçilere uygun koşullar sunuyor. Milli parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli park, 140 hektarlık bir alanı kaplıyor ve bu geniş alan, ziyaretçilere geniş bir doğa deneyimi sunuyor.
+Milli park, Ege Bölgesi'nin coğrafi güzelliklerini sergiliyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir doğa deneyimi sunuyor. Milli parkın iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçilere uygun koşullar sunuyor. Milli parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Milli parkı ziyaret etmek isteyenler, Ege Bölgesi'ne gelirken bu doğal güzel
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kaplıyor
 - Ege Bölgesi'nin doğal güzelliklerine ev sahipliği yapıyor
 - Tarihi geçmişi olan milli park, yüzyıllar boyunca doğanın güzelliğini korumuştur
 - Çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor

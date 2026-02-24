@@ -21,15 +21,14 @@ aktiviteler: ["doğa yürüyüşü","trekking","çevreyi keşfetmek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg","alt":"Ilgaz Hamamı","caption":"Ilgaz Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ilgaz%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738631","tip":"genel"}]
-description: "Ilgaz Hamamı, Çankırı'nın Ilgaz ilçesinde yer alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik"
-keywords: ["Ilgaz Hamamı","Çankırı","Ilgaz","doğal güzellik","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738631"
 ---
 
 # Ilgaz Hamamı
 
- Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir. Ilgaz Hamamı, ziyaretçilerini doğayla baş başa bırakarak, stresten ve gürültüden uzaklaştırmaya olanak tanır. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve canlılarla doludur. Ziyaretçiler, Ilgaz Hamamı'nda doğanın güzelliğini keşfetmenin yanı sıra, dinlenme ve kendini yenilemek için de olanak bulabilirler.
+ Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir. Ilgaz Hamamı, ziyaretçilerini doğayla baş başa bırakarak, stresten ve gürültüden uzaklaştırmaya olanak tanır. Ziyaretçiler, Ilgaz Hamamı'nda doğanın güzelliğini keşfetmenin yanı sıra, dinlenme ve kendini yenilemek için de olanak bulabilirler.
 
 ## Tarihçe
 
@@ -49,7 +48,6 @@ Ilgaz Hamamı, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Ziy
 
 ## İlginç Bilgiler
 
-- Ilgaz Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliktir
 - Ilgaz Hamamı, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmektedir
 - Ilgaz Hamamı, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir
 - Ilgaz Hamamı'na ulaşım, özel araç veya toplu taşıma araçlarıyla mümkündür

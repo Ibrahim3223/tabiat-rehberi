@@ -38,7 +38,7 @@ Ermeni Hamamı, tarihsel geçmişi ile dikkat çekiyor. Bu mekan, yüzyıllar bo
 
 ## Coğrafya
 
-Ermeni Hamamı, Eskişehir'in Sivrihisar ilçesinde yer alıyor ve coğrafi konumu, İç Anadolu Bölgesi'nde bulunuyor. Bu bölge, genellikle karasal iklim özellikleri gösteriyor ve bu reason, ziyaretçilere çeşitli iklim koşulları sunuyor. Ermeni Hamamı, 140 hektarlık bir alana sahip ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Mekan, Sivrihisar'ın merkezine uzun bir mesafe uzaklıkta ve bu konum, ziyaretçilere hem doğal güzellikleri hem de tarihi yerleri keşfetme imkanı sağlıyor. Coğrafi konumu, ziyaretçilere çeşitli faaliyetler sunuyor ve bu reason, Ermeni Hamamı'nın cazibesini artırıyor.
+Ermeni Hamamı, Eskişehir'in Sivrihisar ilçesinde yer alıyor ve coğrafi konumu, İç Anadolu Bölgesi'nde bulunuyor. Bu bölge, genellikle karasal iklim özellikleri gösteriyor ve bu reason, ziyaretçilere çeşitli iklim koşulları sunuyor. Mekan, Sivrihisar'ın merkezine uzun bir mesafe uzaklıkta ve bu konum, ziyaretçilere hem doğal güzellikleri hem de tarihi yerleri keşfetme imkanı sağlıyor. Coğrafi konumu, ziyaretçilere çeşitli faaliyetler sunuyor ve bu reason, Ermeni Hamamı'nın cazibesini artırıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Ermeni Hamamı, ziyaretçilere çeşitli faaliyetler sunuyor. Bu mekan, tarihi v
 
 ## İlginç Bilgiler
 
-- Ermeni Hamamı, 140 hektarlık bir alana sahip
 - Sivrihisar'ın merkezine uzun bir mesafe uzaklıkta
 - İç Anadolu Bölgesi'nde yer alıyor
 - zengin bir flora ve fauna yapısına sahip

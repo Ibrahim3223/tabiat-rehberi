@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Gözlem","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Konya-Kadinhani-Karacam","caption":"Konya-Kadinhani-Karacam","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Kadinhani-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228106","tip":"genel"}]
-description: "Konya'da yer alan Konya-Kadinhani-Karacam Milli Parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
+"
 keywords: ["Konya","Kadinhani","Karacam","Milli Park","Doğa","Flora","Fauna","Tarihçe","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228106"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228106"
 
 # Konya-Kadinhani-Karacam
 
-Konya-Kadinhani-Karacam Milli Parkı, Konya ilinin merkezinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir milli parktır. Bu park, 200 futbol sahası büyüklüğünde bir alan olarak düşünülürse, ziyaretçilere geniş bir yeşilli ve doğal güzellik sunuyor. Parkın içinde yer alan yürüyüş yolları, ziyaretçilere doğayı yakından tanımaları için olanak sağlıyor. Ayrıca, bu milli park, Konya'nın tarihi ve kültürel zenginliklerini de yansıtıyor.
+ Parkın içinde yer alan yürüyüş yolları, ziyaretçilere doğayı yakından tanımaları için olanak sağlıyor. Ayrıca, bu milli park, Konya'nın tarihi ve kültürel zenginliklerini de yansıtıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Konya-Kadinhani-Karacam Milli Parkı, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Konya-Kadinhani-Karacam Milli Parkı, Konya ilinin coğrafi yapısına uygun olarak kurulmuş ve 140 hektarlık bir alanı kapsıyor. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere çeşitli manzaralar sunuyor. Ayrıca, parkın iklimi, Konya'nın genel iklimine uygun olarak kura ve step iklimi olarak tanımlanabilir. Parkın coğrafi yapısı, ziyaretçilere doğayı yakından tanımaları için olanak sağlıyor ve özellikle bahar aylarında, flora çeşitliliği oldukça zenginleşiyor. Parkın çevresinde, çeşitli tarım alanları ve yerleşim yerleri bulunsa da, parkın kendisi, doğal güzellikleri korumak amacıyla kurulmuş.
+ Parkın içinde yer alan tepe ve vadiler, ziyaretçilere çeşitli manzaralar sunuyor. Ayrıca, parkın iklimi, Konya'nın genel iklimine uygun olarak kura ve step iklimi olarak tanımlanabilir. Parkın coğrafi yapısı, ziyaretçilere doğayı yakından tanımaları için olanak sağlıyor ve özellikle bahar aylarında, flora çeşitliliği oldukça zenginleşiyor. Parkın çevresinde, çeşitli tarım alanları ve yerleşim yerleri bulunsa da, parkın kendisi, doğal güzellikleri korumak amacıyla kurulmuş.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Konya-Kadinhani-Karacam Milli Parkı, ziyaretçilere, doğal güzellikleri ve ta
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın flora ve fauna çeşitliliği oldukça zengin
 - Park, Konya'nın tarihi ve kültürel zenginliklerini yansıtıyor
 - Parkın kurulma amacı, doğal güzellikleri korumak

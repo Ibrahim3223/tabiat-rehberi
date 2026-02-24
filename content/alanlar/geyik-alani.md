@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık"," pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Geyik Alani","caption":"Geyik Alani","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyik%20Alani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28451110","tip":"genel"}]
-description: "Eskişehir'in doğa harikası, 140 hektarlık yeşil alan"
+
 keywords: ["Geyik Alani","Eskişehir","doğa","yeşil alan","milli park","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q28451110"
@@ -22,7 +22,7 @@ wikidata_id: "Q28451110"
 
 # Geyik Alani
 
-Geyik Alani, Eskişehir'in kalbinde yer alan 140 hektarlık bir yeşil alandır. Geyik Alani, aynı zamanda yaban hayatının zenginliğini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Geyik Alani, Eskişehir'in önemli turizm merkezlerinden biri olarak kabul ediliyor.
+ Geyik Alani, aynı zamanda yaban hayatının zenginliğini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Geyik Alani, Eskişehir'in önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Geyik Alani, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar ve yaz a
 ## İlginç Bilgiler
 
 - Geyik Alani, Eskişehir'in en büyük yeşil alanlarından biridir
-- Milli park, 140 hektarlık bir alana sahiptir
+
 - Geyik Alani, çeşitli bitki ve hayvan türleri için important bir yaşam alanıdır
 - Milli park, yılın her döneminde ziyaret edilebilir
 - Geyik Alani, Eskişehir'in turizm merkezlerinden biridir

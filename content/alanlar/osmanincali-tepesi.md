@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Osmanınçalı Tepesi","caption":"Osmanınçalı Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osman%C4%B1n%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34887951","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin güzide şehri Çorum'da yer alan Osışmançalı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Os맨çalı Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34887951"
@@ -28,7 +28,7 @@ wikidata_id: "Q34887951"
 
 # Osmanınçalı Tepesi
 
-Os맨çalı Tepesi, Çorum'un merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Os맨çalı Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğa yürüyüşleri, manzara seyri ve fotoğraf çekimi için ideal bir yer. Os맨çalı Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bu dönemlerde tepe, çeşitli bitki türleriyle kaplanıyor ve ziyaretçilere renkli bir manzara sunuyor.
+Os맨çalı Tepesi, Çorum'un merkezine yakın bir konumda yer alıyor. Os맨çalı Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğa yürüyüşleri, manzara seyri ve fotoğraf çekimi için ideal bir yer. Os맨çalı Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bu dönemlerde tepe, çeşitli bitki türleriyle kaplanıyor ve ziyaretçilere renkli bir manzara sunuyor.
 
 ## Tarihçe
 

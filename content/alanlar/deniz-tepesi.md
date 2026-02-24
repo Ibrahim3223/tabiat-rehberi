@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Deniz Tepesi","caption":"Deniz Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Sunset_view_of_Everest.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sunset_view_of_Everest.jpg/1280px-Sunset_view_of_Everest.jpg","alt":"Deniz Tepesi - Sunset view of Everest","credit":"Nir B. Gurung","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/K%C4%B1z_Tepesi_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/K%C4%B1z_Tepesi_3.jpg/1280px-K%C4%B1z_Tepesi_3.jpg","alt":"Deniz Tepesi - Kız Tepesi 3","credit":"Rgokayguven","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/K%C4%B1z_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/K%C4%B1z_Tepesi.jpg/1280px-K%C4%B1z_Tepesi.jpg","alt":"Deniz Tepesi - Kız Tepesi","credit":"Rgokayguven","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/K%C4%B1z_Tepesi_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/K%C4%B1z_Tepesi_2.jpg/1280px-K%C4%B1z_Tepesi_2.jpg","alt":"Deniz Tepesi - Kız Tepesi 2","credit":"Rgokayguven","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/Everest-3D-Map-Type-EN.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Everest-3D-Map-Type-EN.jpg/1280px-Everest-3D-Map-Type-EN.jpg","alt":"Deniz Tepesi - Everest-3D-Map-Type-EN","credit":"Tom Patterson","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deniz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389751","tip":"genel"}]
-description: "Kocaeli'nin doğal güzelliklerinden biri olan Deniz Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kocaeli","Marmara Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389751"
@@ -49,7 +49,6 @@ Deniz Tepesi'ni ziyaret etmek, doğa severlerin ve fotoğraf tutkunlarının gö
 
 ## İlginç Bilgiler
 
-- Deniz Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Deniz Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir
 - Deniz Tepesi, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere benzersiz bir deneyim sunar
 - Deniz Tepesi, coğrafi olarak önemli bir konumda bulunmasıyla birlikte, ziyaretçilere geniş bir alan sunar

@@ -36,7 +36,7 @@ Alibeydağı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı b
 
 ## Coğrafya
 
-Alibeydağı Tepesi, Kars'ın coğrafi yapısının önemli bir parçasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, bölgenin en yüksek noktalarından biridir. Tepenin etrafında, çeşitli bitki türleri bulunurken, fauna da zengin bir çeşitlilik gösterir. Alibeydağı Tepesi, Kars'ın iklimini etkileyen önemli bir faktördür. Tepenin yüksekliği ve coğrafi konumu, bölgenin hava koşullarını belirlemede önemli bir rol oynar. Kars'ın genel coğrafi yapısı, Alibeydağı Tepesi'ni de içine alarak, ziyaretçilere geniş bir manzara sunar. Tepenin eteklerinde yer alan köyler, geleneksel tarım faaliyetleriyle dikkat çekerken, tepe itself, doğa severler için bir cennet olarak karşımıza çıkar. Alibeydağı Tepesi'nin coğrafi konumu, Kars'ın turizm potansiyelini yüksek bir noktada tutan önemli bir etkendir.
+Alibeydağı Tepesi, Kars'ın coğrafi yapısının önemli bir parçasıdır. Tepenin etrafında, çeşitli bitki türleri bulunurken, fauna da zengin bir çeşitlilik gösterir. Alibeydağı Tepesi, Kars'ın iklimini etkileyen önemli bir faktördür. Tepenin yüksekliği ve coğrafi konumu, bölgenin hava koşullarını belirlemede önemli bir rol oynar. Kars'ın genel coğrafi yapısı, Alibeydağı Tepesi'ni de içine alarak, ziyaretçilere geniş bir manzara sunar. Tepenin eteklerinde yer alan köyler, geleneksel tarım faaliyetleriyle dikkat çekerken, tepe itself, doğa severler için bir cennet olarak karşımıza çıkar. Alibeydağı Tepesi'nin coğrafi konumu, Kars'ın turizm potansiyelini yüksek bir noktada tutan önemli bir etkendir.
 
 ## Flora ve Fauna
 

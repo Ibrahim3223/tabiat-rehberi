@@ -36,7 +36,7 @@ Kırkamber Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri o
 
 ## Coğrafya
 
-Kırkamber Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi konumu itibariyle çevresindeki diğer doğal güzelliklere de ev sahipliği yapıyor. Bölgenin coğrafi yapısı, tepe ve vadilerden oluşuyor ve bu nedenle doğa yürüyüşleri ve trekking gibi aktivitelere uygun bir ortam sunuyor. Kırkamber Tepesi, coğrafi güzelliği ve doğal zenginlikleriyle dikkat çekiyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Bu nedenle, Kırkamber Tepesi'nin coğrafi konumu ve iklimi, ziyaretçilerine yılın dört mevsiminde farklı deneyimler sunuyor.
+Kırkamber Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bölgenin coğrafi yapısı, tepe ve vadilerden oluşuyor ve bu nedenle doğa yürüyüşleri ve trekking gibi aktivitelere uygun bir ortam sunuyor. Kırkamber Tepesi, coğrafi güzelliği ve doğal zenginlikleriyle dikkat çekiyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Bu nedenle, Kırkamber Tepesi'nin coğrafi konumu ve iklimi, ziyaretçilerine yılın dört mevsiminde farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kırkamber Tepesi, ziyaretçilerine yılın dört mevsiminde farklı deneyimler 
 ## İlginç Bilgiler
 
 - Kırkamber Tepesi, İç Anadolu Bölgesi'nin en yüksek noktalarından biri olarak kabul ediliyor.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor.
+
 - Kırkamber Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış.
 - Bu tepe, doğa severler ve tarih meraklıları için önemli bir gezi noktası olarak kabul ediliyor.
 - Kırkamber Tepesi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.

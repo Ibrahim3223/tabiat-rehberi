@@ -28,7 +28,7 @@ wikidata_id: "Q118956045"
 
 # Ulukaya Şelalesi
 
-Ulukaya Şelalesi, Bartın ilinin doğal güzelliklerinden biridir. Bu şelale, yaklaşık 140 hektarlık bir alana yayılmış ve doğa severler için bir cennet gibidir. Şelalenin yüksekliği ve suyu, ziyaretçilere muhteşem bir manzara sunar. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu yeşil alan, Bartın'ın en önemli turizm noktalarından biridir. Ulukaya Şelalesi, Karadeniz Bölgesi'nin en güzel yerlerinden biridir ve doğa tutkunları için bir zorunludur.
+Ulukaya Şelalesi, Bartın ilinin doğal güzelliklerinden biridir. Şelalenin yüksekliği ve suyu, ziyaretçilere muhteşem bir manzara sunar. Ulukaya Şelalesi, Karadeniz Bölgesi'nin en güzel yerlerinden biridir ve doğa tutkunları için bir zorunludur.
 
 ## Tarihçe
 

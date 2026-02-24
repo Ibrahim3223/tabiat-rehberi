@@ -22,7 +22,7 @@ wikidata_id: "Q108228938"
 
 # ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ
 
-Erzurum'un Karaçoban ilçesinde bulunan Burnaz Bınpınar Köyü Göleti, yaklaşık 140 hektarlık bir alanı kaplayan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Göletin etrafındaki yeşil alanlar, piknik yapma ve doğayı seyretmek için ideal bir ortam sunar. Göletin su yüzeyinin büyüklüğü ve çevresi, ziyaretçilere geniş bir açısı sunar.
+ Göletin etrafındaki yeşil alanlar, piknik yapma ve doğayı seyretmek için ideal bir ortam sunar. Göletin su yüzeyinin büyüklüğü ve çevresi, ziyaretçilere geniş bir açısı sunar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Erzurum Karaçoban Burnaz Bınpınar Köyü Göleti'ni ziyaret etmek, doğa ile 
 ## İlginç Bilgiler
 
 - Göletin su yüzeyinin büyüklüğü, yaklaşık 140 hektar
-- Göletin etrafındaki yeşil alanlar, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Göletin suyu, bölgenin yağmur ve kar suları ile beslenir
 - Göletin etrafındaki köyler, ziyaretçilere geleneksel yemekler ve el sanatları ürünlerini sunar
 - Göleti ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır

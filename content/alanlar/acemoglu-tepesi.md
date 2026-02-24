@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/North_elevation._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Acemoğlu Tepesi","caption":"Acemoğlu Tepesi","credit":"North elevation. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Acemo%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387806","tip":"genel"}]
-description: "Erzurum'un doğa harikası Acemoğlu Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Acemoğlu Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa","gezi","tepe","yayla","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387806"

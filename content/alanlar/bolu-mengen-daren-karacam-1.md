@@ -30,7 +30,7 @@ Bolu-Mengen-Daren Karacam 1 milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Bolu-Mengen-Daren Karacam 1 milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genel olarak ormanlık ve dağlık bir yapıya sahiptir. Milli parkın içerisinde yer alan çeşitli bitki türleri, bu bölgenin coğrafi yapısına uyum sağlamışlardır. Ayrıca, milli parkın iklimi, Karadeniz Bölgesi'nin genel iklimine benzerlik gösterir. Ziyaretçiler, milli parkı gezerken, bu bölgenin coğrafi özelliklerini yakından tanıyabilirler. Milli parkın içerisinde yer alan çeşitli yürüyüş parkurları, ziyaretçilerin bu bölgenin güzelliklerini keşfetmesine olanak sağlar. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir gezi alanı sunar.
+Bolu-Mengen-Daren Karacam 1 milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genel olarak ormanlık ve dağlık bir yapıya sahiptir. Milli parkın içerisinde yer alan çeşitli bitki türleri, bu bölgenin coğrafi yapısına uyum sağlamışlardır. Ayrıca, milli parkın iklimi, Karadeniz Bölgesi'nin genel iklimine benzerlik gösterir. Ziyaretçiler, milli parkı gezerken, bu bölgenin coğrafi özelliklerini yakından tanıyabilirler. Milli parkın içerisinde yer alan çeşitli yürüyüş parkurları, ziyaretçilerin bu bölgenin güzelliklerini keşfetmesine olanak sağlar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Mengen-Daren Karacam 1 milli parkını ziyaret etmek, doğa severler için 
 
 ## İlginç Bilgiler
 
-- Bolu-Mengen-Daren Karacam 1 milli parkı, 140 hektarlık bir alana sahiptir
 - Milli park, çeşitli bitki türleri ve zengin faunaya sahiptir
 - Milli parkın içerisinde yer alan yürüyüş parkurları, ziyaretçilerin bu bölgenin güzelliklerini keşfetmesine olanak sağlar
 - Milli park, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir

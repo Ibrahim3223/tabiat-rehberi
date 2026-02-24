@@ -29,7 +29,7 @@ wikidata_id: "Q31386730"
 
 # Tojo Tepesi
 
-Tojo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli merkezlerinden biri olan Diyarbakır'da yer alır. Bu tepe, yaklaşık 140 hektarlık alanı ile şehir merkezine göre slightly yüksek bir konumda bulunur. Tojo Tepesi'nin etrafı, zengin fauna ve flora çeşitliliği ile dikkat çeker. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunur. Tojo Tepesi, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyici manzaralar ile karşılarken, aynı zamanda tarihi geçmişinin izlerini de taşıyan önemli bir noktadır.
+Tojo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli merkezlerinden biri olan Diyarbakır'da yer alır. Tojo Tepesi'nin etrafı, zengin fauna ve flora çeşitliliği ile dikkat çeker. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunur. Tojo Tepesi, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyici manzaralar ile karşılarken, aynı zamanda tarihi geçmişinin izlerini de taşıyan önemli bir noktadır.
 
 ## Tarihçe
 

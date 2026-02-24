@@ -48,7 +48,6 @@ Yumruçal Tepesi'ni ziyaret etmek için, ziyaretçiler, Kütahya iline giderek, 
 
 ## İlginç Bilgiler
 
-- Yumruçal Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, aynı zamanda trekking ve doğa yürüyüşü gibi aktiviteler için ideal bir nokta.
 - Yumruçal Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Bu tepe, ekolojik olarak önemli bir bölgedir.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Antalya-Finike-Aykiricay Sedir 2","caption":"Antalya-Finike-Aykiricay Sedir 2","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Finike-Aykiricay%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227597","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin doğal güzelliklerini barındıran 140 hektarlık milli park"
+
 keywords: ["milli park","Antalya","Finike","Aykiricay","Sedir","Akdeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227597"
@@ -43,7 +43,7 @@ Antalya-Finike-Aykiricay Sedir 2 milli parkını ziyaret etmek, doğa severler v
 ## İlginç Bilgiler
 
 - Milli parkın içinde yer alan Aykiricay Nehri, Sedir Ormanları ve Finike'nin tarihi geçmişi
-- 140 hektarlık milli park alanı
+
 - Yüzyıllar boyunca şekillenmiş tarihi geçmişi
 - Çeşitli flora ve fauna türleri
 - Akdeniz Bölgesi'nin coğrafi yapısını yansıtıyor

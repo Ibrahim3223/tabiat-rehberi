@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"YUKARI ÇAMAK","caption":"YUKARI ÇAMAK","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YUKARI%20%C3%87AMAK","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228676","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Yukarı Çamak","İç Anadolu Bölgesi","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228676"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228676"
 
 # YUKARI ÇAMAK
 
- Bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+ Bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yukarı Çamak'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölg
 
 ## Coğrafya
 
-Yukarı Çamak, İç Anadolu Bölgesi'nde yer alan bir milli park. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahip. 140 hektarlık alan, çeşitli bitki türleri, zengin fauna ve farklı coğrafi oluşumlarla kaplı. Bu milli park, ziyaretçilerine, geniş otlaklar, ormanlık alanlar ve su kaynakları sunuyor. Coğrafi olarak, bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor, ziyaretçilerine, geniş ve yeşil bir alan sunuyor. Ayrıca, bu bölgede, farklı iklim koşullarıyla karşılaşma mümkün, ziyaretçilerin, çeşitli mevsimsel değişimlere tanıklık etmesi mümkün.
+Yukarı Çamak, İç Anadolu Bölgesi'nde yer alan bir milli park. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahip. Bu milli park, ziyaretçilerine, geniş otlaklar, ormanlık alanlar ve su kaynakları sunuyor. Coğrafi olarak, bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor, ziyaretçilerine, geniş ve yeşil bir alan sunuyor. Ayrıca, bu bölgede, farklı iklim koşullarıyla karşılaşma mümkün, ziyaretçilerin, çeşitli mevsimsel değişimlere tanıklık etmesi mümkün.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Yukarı Çamak'a ziyaret, yılın her dönemi möglich. Ancak, ilkbahar ve yaz a
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Farklı bitki türleri
 - Zengin fauna
 - Tarihi geçmişi

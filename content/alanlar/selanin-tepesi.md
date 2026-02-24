@@ -50,6 +50,6 @@ Selanın Tepesi'ni ziyaret etmek için, Yozgat'a ulaşmak gerekli. Yozgat'a ula�
 
 - Selanın Tepesi, Yozgat'ın en önemli turizm noktalarından biri.
 - Bu tepe, tarihi ve doğal güzelliklerini bir araya getiren bir destinasyon.
-- Selanın Tepesi, 140 hektarlık bir alanı kapsıyor.
+
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Selanın Tepesi, ziyaretçilerine gezi olanakları sunar.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotografcılık","bitki gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Yaz Ihlamuru","caption":"Yaz Ihlamuru","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaz%20Ihlamuru","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227359","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227359"
@@ -41,8 +41,6 @@ Yaz Ihlamuru, çeşitli bitki türleri ve zengin fauna bulunabilecek bir doğa h
 Yaz Ihlamuru'nu ziyaret etmek, doğa severler ve fotoğraf meraklıları için bir çekim merkezi olarak görev yapmaktadır. Bu alanı ziyaret etmek, ziyaretçilerini doğanın güzelliğine davet etmektedir. İç Anadolu Bölgesi'nin coğrafi konumu, bu bölgenin ulaşımını kolaylaştırmaktadır. Bu alanı ziyaret etmek için, en iyi mevsim, ilkbahar ve sonbahar aylarıdır. Bu mevsimlerde, doğa güzelliği en yüksek seviyededir ve ziyaretçileri, doğanın güzelliğine davet etmektedir.
 
 ## İlginç Bilgiler
-
-- Yaz Ihlamuru, 140 hektarlık bir yeşil alanı kapsamaktadır.
 
 - İç Anadolu Bölgesi'nin coğrafi konumu, bu bölgenin oluşumunda önemli bir rol oynamıştır.
 - Yaz Ihlamuru, çeşitli bitki türleri ve zengin fauna bulunabilecek bir doğa harikasıdır.

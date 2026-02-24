@@ -49,7 +49,6 @@ Ankara Frig Tümülüsü 3, Yücetepe'yi ziyaret etmek, tarihin ve doğanın bir
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alanı kaplar
 - Frig Tümülüsü, tarihin önemli bir mirasıdır
 - Yücetepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir

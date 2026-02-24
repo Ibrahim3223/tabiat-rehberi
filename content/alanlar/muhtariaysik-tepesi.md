@@ -48,7 +48,6 @@ Muhtarıayşık Tepesi, flora ve fauna açısından zengin bir bölgedir. Bu tep
 
 ## İlginç Bilgiler
 
-- Muhtarıayşık Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır
 - Bu tepe, Diyarbakır'ın önemli coğrafi oluşumlarından biridir
 - Muhtarıayşık Tepesi, ziyaretçilerine bölgenin coğrafi yapısını keşfetme fırsatı sunmaktadır
 - Bu tepe, Diyarbakır'ın önemli tarihi oluşumlarından biridir

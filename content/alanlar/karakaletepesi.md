@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"KarakaleTepesi","caption":"KarakaleTepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KarakaleTepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388027","tip":"genel"}]
-description: "Kütahya'nın gizli cenneti KarakaleTepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
+
 keywords: ["KarakaleTepesi","Kütahya","Ege Bölgesi","tepe","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388027"
@@ -36,7 +36,7 @@ KarakaleTepesi'nin tarihi geçmişi, bölgeyi daha da özel kılıyor. Tarihi ka
 
 ## Coğrafya
 
-KarakaleTepesi, Kütahya'nın coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık yeşil alan, çeşitli bitki türleriyle dolu ve zengin fauna sahip bir doğa harikası. Bölge, Ege Bölgesi'nin karakteristik coğrafi özellikleri ile şekillenmiş. KarakaleTepesi, çevresindeki dağlar ve vadilerle birlikte bir bütün olarak düşünülüyor. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman ve yağışlı. Kış mevsiminde bölgenin güzelliği farklı bir boyut kazanıyor. Yeşilin her tonunu görebileceğiniz bu bölge, doğa severler için bir cennet. KarakaleTepesi'nin coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunuyor ve bölgenin güzelliğini keşfetmeleri için ideal bir ortam sağlıyor.
+KarakaleTepesi, Kütahya'nın coğrafi yapısını yansıtan bir bölgedir. Bölge, Ege Bölgesi'nin karakteristik coğrafi özellikleri ile şekillenmiş. KarakaleTepesi, çevresindeki dağlar ve vadilerle birlikte bir bütün olarak düşünülüyor. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman ve yağışlı. Kış mevsiminde bölgenin güzelliği farklı bir boyut kazanıyor. Yeşilin her tonunu görebileceğiniz bu bölge, doğa severler için bir cennet. KarakaleTepesi'nin coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunuyor ve bölgenin güzelliğini keşfetmeleri için ideal bir ortam sağlıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ KarakaleTepesi'ni ziyaret etmek, doğa ve tarih severler için unutulmaz bir den
 
 ## İlginç Bilgiler
 
-- KarakaleTepesi, 140 hektarlık bir yeşil alanı kapsıyor
 - Bölge, Ege Bölgesi'nin coğrafi yapısını yansıtıyor
 - KarakaleTepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış

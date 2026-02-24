@@ -21,7 +21,7 @@ aktiviteler: ["gezi","tarih öğrenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Eğil Kaya Mezarları","caption":"Eğil Kaya Mezarları","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Fil%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728222","tip":"genel"}]
-description: "Diyarbakır'ın Eğilçesinde bulunan tarihi kaya mezarları, ziyaretçilerini geçmişe götürüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Diyarbakır'ın Eğilçesinde bulunan tarihi kaya mezarları, ziyaretçilerini geçmişe götürüyor."
 keywords: ["Eğil Kaya Mezarları","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi kaya mezarları","gezi","tarih","coğrafya","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728222"
@@ -50,7 +50,7 @@ Eğil Kaya Mezarları, bölgenin flora ve fauna çeşitliliği hakkında önemli
 ## İlginç Bilgiler
 
 - Eğil Kaya Mezarları, Diyarbakır'ın Eğilçesinde bulunuyor.
-- Bu mezarlar, 140 hektarlık bir alana yayılmış durumda.
+
 - Eğil Kaya Mezarları, bölgenin coğrafi yapısı ve tarihi zenginliği hakkında önemli ipuçları içeriyor.
 - Bu mezarlar, ziyaretçilerine bölgenin doğal güzelliklerini sunuyor.
 - Eğil Kaya Mezarları, bölgenin kültürel mirasını koruma altına almak için önemli bir rol oynuyor.

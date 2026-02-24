@@ -28,7 +28,7 @@ wikidata_id: "Q31513455"
 
 # Kollar Tepesi
 
-Kollar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Burada, çeşitli bitki türleri ve zengin fauna mevcut. Tepenin eteklerinde, historical geçmişi olan yerleşim yerleri bulunuyor. Kollar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Kollar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Burada, çeşitli bitki türleri ve zengin fauna mevcut. Tepenin eteklerinde, historical geçmişi olan yerleşim yerleri bulunuyor. Kollar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kollar Tepesi'nin tarihi geçmişi, yüzyıllar önceye dayanıyor. Bu dönemde,
 
 ## Coğrafya
 
-Kollar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler gösteriyor. Tepenin yüksekliği ve çevresindeki coğrafi yapı, Ankara'nın iklimini etkiliyor. Kollar Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna mevcut. Tepenin eteklerinde, historical geçmişi olan yerleşim yerleri bulunuyor. Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Tepenin coğrafi yapısı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Kollar Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir oportunite sunuyor.
+Kollar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler gösteriyor. Tepenin yüksekliği ve çevresindeki coğrafi yapı, Ankara'nın iklimini etkiliyor. Kollar Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna mevcut. Tepenin eteklerinde, historical geçmişi olan yerleşim yerleri bulunuyor. Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Tepenin coğrafi yapısı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Bu alan, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir oportunite sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Kollar Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek is
 
 - Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta.
 - Tepenin etrafında, historical geçmişi olan yerleşim yerleri bulunuyor.
-- Kollar Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Tepenin flora ve fauna, mevsimsel değişimlere göre şekilleniyor.
 - Kollar Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz ayları.

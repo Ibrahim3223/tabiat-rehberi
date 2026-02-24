@@ -49,7 +49,7 @@ Kocagar Tepesi'ni ziyaret etmek, bölge hakkında bilgi edinmek isteyenler için
 ## İlginç Bilgiler
 
 - Kocagar Tepesi, bölgenin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kocagar Tepesi, bölgenin doğal güzelliğini temsil eder.
 - Bu tepe, çeşitli bitki türleri ve hayvanlar için önemli bir yaşam alanıdır.
 - Kocagar Tepesi, bölgenin coğrafi çeşitliliğini temsil eder.

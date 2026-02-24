@@ -49,7 +49,6 @@ Yanık Tepesi, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla kar
 
 ## İlginç Bilgiler
 
-- Yanık Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Bu tepe, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor
 - Yanık Tepesi, çeşitli bitki türleri ve yaban hayatı için önemli bir yaşam alanı

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Merdiven Tepesi","caption":"Merdiven Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merdiven%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510638","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nde yer alan Merdiven Tepesi, Bingöl'ün doğal güzelliklerinin öne çıktığı bir bölge. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Doğu Anadolu Bölgesi'nde yer alan Merdiven Tepesi, Bingöl'ün doğal güzelliklerinin öne çıktığı bir bölge."
 keywords: ["Merdiven Tepesi","Bingöl","Doğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31510638"
@@ -48,8 +48,6 @@ Merdiven Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunuyor ve bölgenin
 
 ## İlginç Bilgiler
 
-- Merdiven Tepesi, 140 hektarlık bir yeşil alan üzerine kurulu
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Merdiven Tepesi, çeşitli bitki türleri ve hayvanlarla dolu
 - Bu tepe, bölgenin doğal güzelliklerini sunuyor
 - Merdiven Tepesi, her mevsim ziyaret edilebilir

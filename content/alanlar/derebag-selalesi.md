@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Dereba%C4%9F_%C5%9Eelalesi_karl%C4%B1.jpg","alt":"Derebağ Şelalesi manzarası","credit":"Bircan3438","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/1280px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Derebağ Şelalesi - Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","credit":"NNeo11","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg/1280px-Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg","alt":"Derebağ Şelalesi - Derebağ Şelalesi,KAYSERİ - panoramio","credit":"cankurtaran","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dereba%C4%9F%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228226","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin başında gelen Derebağ Şelalesi, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Derebağ Şelalesi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","şelale","milli park","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228226"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228226"
 
 # Derebağ Şelalesi
 
-Derebağ Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir doğal güzelliktir. Derebağ Şelalesi, doğa severlerin ve macera arayışında olanların uğrak noktası haline gelmiştir. Şelalenin güzelliği ve çevresi, ziyaretçilere unutulmaz anlar yaşatmaktadır. Derebağ Şelalesi, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir milli parktır.
+ Derebağ Şelalesi, doğa severlerin ve macera arayışında olanların uğrak noktası haline gelmiştir. Şelalenin güzelliği ve çevresi, ziyaretçilere unutulmaz anlar yaşatmaktadır. Derebağ Şelalesi, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir milli parktır.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Derebağ Şelalesi'ni ziyaret etmek, doğa severler ve macera arayışında olan
 
 ## İlginç Bilgiler
 
-- Derebağ Şelalesi, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılamaktadır.
 - Şelale, bir nehrin üzerinde yer almakta ve nehirden akan su, şelaleyi oluşturmaktadır.
 - Derebağ Şelalesi, bir milli park olarak korunmaya alınmıştır.
 - Şelale çevresinde, çeşitli bitki türleri ile kaplıdır.

@@ -37,7 +37,7 @@ Türkistanlı Mencik Baba Türbesi'nin tarihi geçmişi, yüzyıllar önce bör�
 
 ## Coğrafya
 
-Türkistanlı Mencik Baba Türbesi, Tarsus'un Kilikya bölgesinde yer alır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Denize yakın olması, iklimini etkiler. Burada bulunan türbe, doğal bir alan içerisinde yer alır. Bölgenin coğrafyası, ziyaretçilere güzel manzaralar sunar. Türkistanlı Mencik Baba Türbesi'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir. Burada bulunan doğal güzellikler, ziyaretçilerin ilgisini çeker. Türkistanlı Mencik Baba Türbesi, coğrafi olarak güzel bir bölgede yer alır.
+Türkistanlı Mencik Baba Türbesi, Tarsus'un Kilikya bölgesinde yer alır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Denize yakın olması, iklimini etkiler. Burada bulunan türbe, doğal bir alan içerisinde yer alır. Bölgenin coğrafyası, ziyaretçilere güzel manzaralar sunar. Burada bulunan doğal güzellikler, ziyaretçilerin ilgisini çeker. Türkistanlı Mencik Baba Türbesi, coğrafi olarak güzel bir bölgede yer alır.
 
 ## Flora ve Fauna
 

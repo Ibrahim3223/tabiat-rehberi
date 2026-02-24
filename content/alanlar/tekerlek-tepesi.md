@@ -28,7 +28,7 @@ wikidata_id: "Q31390935"
 
 # Tekerlek Tepesi
 
-Tekerlek Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Tekerlek Tepesi, ziyaretçilerine geniş bir manzara sunar ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Burada, doğanın güzelliğini ve şehrin panoramik manzarasını izleyebilirsiniz.
+Tekerlek Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır. Tekerlek Tepesi, ziyaretçilerine geniş bir manzara sunar ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Burada, doğanın güzelliğini ve şehrin panoramik manzarasını izleyebilirsiniz.
 
 ## Tarihçe
 

@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Piknik","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"ESKİPAZAR KENT ORMAN","caption":"ESKİPAZAR KENT ORMAN","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ESK%C4%B0PAZAR%20KENT%20ORMAN","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228604","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Eskipazar Kent Ormanı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Eskipazar","Kent Ormanı","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228604"
@@ -41,8 +41,6 @@ Eskipazar Kent Ormanı, zengin bir flora ve fauna ile dikkat çekiyor. Orman, ç
 Eskipazar Kent Ormanı, ziyaretçilerine çeşitli olanaklar sunuyor. Ormana ulaşım, bölgenin ulaşım olanaklarına uygun olarak sağlanıyor. Ormanda, çeşitli yürüyüş parkurları ve dinlenme alanları bulunuyor. Ziyaretçiler, ormanın doğal güzelliğini ve flora ve faunasını keşfedebilir. Eskipazar Kent Ormanı, yılın her dönemi ziyaret edilebiliyor. Orman, bölge halkı için önemli bir sosyal ve kültürel merkez olarak görev görüyor.
 
 ## İlginç Bilgiler
-
-- Eskipazar Kent Ormanı, 140 hektarlık bir alanı kaplıyor.
 
 - Orman, çeşitli bitki türleri ile kaplı.
 - Orman, çeşitli hayvan türlerine ev sahipliği yapıyor.

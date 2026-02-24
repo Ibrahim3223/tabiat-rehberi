@@ -30,7 +30,7 @@ Antalya-Antalya-Antalya-Kızılçam 2 milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Antalya-Antalya-Antalya-Kızılçam 2 milli parkı, coğrafi olarak oldukça zengin bir yapıya sahiptir. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve yaban hayatının barındığı bir ekosistemi içerir. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri taşır; yaz mevsimi sıcak ve kuru, kış mevsimi ise ılıman ve yağışlıdır. Milli parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Bahar aylarında flora çeşitliliği en yüksek seviyededir, yaz aylarında ise sıcakklık artar ve doğa daha canlı hale gelir. Kış mevsiminde ise, yağışlar nedeniyle yeşillik daha da artar ve manzara daha da güzelleşir.
+Antalya-Antalya-Antalya-Kızılçam 2 milli parkı, coğrafi olarak oldukça zengin bir yapıya sahiptir. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri taşır; yaz mevsimi sıcak ve kuru, kış mevsimi ise ılıman ve yağışlıdır. Milli parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Bahar aylarında flora çeşitliliği en yüksek seviyededir, yaz aylarında ise sıcakklık artar ve doğa daha canlı hale gelir. Kış mevsiminde ise, yağışlar nedeniyle yeşillik daha da artar ve manzara daha da güzelleşir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Antalya-Antalya-Antalya-Kızılçam 2 milli parkını ziyaret etmek, doğa sever
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır
 - Çeşitli bitki türleri ve yaban hayatının barındığı bir ekosistemi içerir
 - Doğa yürüyüşleri sırasında birçok kuş türü ve memeli gözlemleme fırsatı bulabilirsiniz

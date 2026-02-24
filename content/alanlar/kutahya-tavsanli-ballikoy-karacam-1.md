@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Flora ve fauna keşfi","Fotoğrafçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"Kutahya-Tavsanli-Ballikoy Karacam 1","caption":"Kutahya-Tavsanli-Ballikoy Karacam 1","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli-Ballikoy%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227530","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Kutahya","Tavsanli","Ballikoy","Karacam","milli park","doğa","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227530"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227530"
 
 # Kutahya-Tavsanli-Ballikoy Karacam 1
 
-Kutahya-Tavsanli-Ballikoy Karacam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parka gelenler, hem doğayı keşfetmenin hem de dinlenmenin keyfini çıkarabiliyorlar. Özellikle bahar aylarında, flora çeşitliliği ile çevreyi renk bir hal alır.
+ Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parka gelenler, hem doğayı keşfetmenin hem de dinlenmenin keyfini çıkarabiliyorlar. Özellikle bahar aylarında, flora çeşitliliği ile çevreyi renk bir hal alır.
 
 ## Tarihçe
 

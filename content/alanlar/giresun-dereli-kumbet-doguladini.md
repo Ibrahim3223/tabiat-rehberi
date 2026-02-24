@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Çadır Kurma","Yaban H
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Giresun Dereli Kumbet-Doguladini","caption":"Giresun Dereli Kumbet-Doguladini","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun%20Dereli%20Kumbet-Doguladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228055","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan ve zengin fauna"
+
 keywords: ["Giresun Dereli Kumbet-Doguladini","İç Anadolu Bölgesi","Milli Park","Doğa","Flora","Fauna","Gezi","Tarihçe","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228055"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228055"
 
 # Giresun Dereli Kumbet-Doguladini
 
-Giresun Dereli Kumbet-Doguladini, İç Anadolu Bölgesi'nin gizli cennetlerinden biri olan bu milli park, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini doğanın güzelliğine davet ediyor. Milli parkın sunduğu zengin flora ve fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon olan Giresun Dereli Kumbet-Doguladini, ziyaretçilerini bekliyor.
+ Milli parkın sunduğu zengin flora ve fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon olan Giresun Dereli Kumbet-Doguladini, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -43,7 +43,7 @@ Nüzhetiye Şelalesi'ni ziyaret etmek, doğa ile iç içe olmak isteyenler için
 ## İlginç Bilgiler
 
 - Nüzhetiye Şelalesi, Kocaeli'nin en önemli doğal güzelliklerinden biri.
-- Şelale, 140 hektarlık bir yeşil alanda yer alıyor.
+
 - Bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
 - Nüzhetiye Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaret etmek için ideal.
 - Şelaleye ulaşmak için, Kocaeli'nin merkezinden hareket eden toplu taşıma araçlarını kullanabilirsiniz.

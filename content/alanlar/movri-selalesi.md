@@ -49,7 +49,7 @@ Movri Şelalesi'ni ziyaret etmek, özellikle yaz aylarında serinleme ve doğan�
 ## İlginç Bilgiler
 
 - Movri Şelalesi, Rize'nin en önemli doğal güzelliklerinden biridir.
-- Şelale, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Movri Şelalesi, Karadeniz Bölgesi'nin nemli ve ılıman ikliminin etkisi altındadır.
 - Şelale, zengin bir flora ve faunaya sahiptir.
 - Movri Şelalesi, özellikle yaz aylarında ziyaretçilerini ağırlar.

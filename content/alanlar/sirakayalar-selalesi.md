@@ -44,7 +44,7 @@ Sırakayalar Şelalesi'ni ziyaret etmek, hem yerel halk hem de ziyaretçiler iç
 ## İlginç Bilgiler
 
 - Sırakayalar Şelalesi, Karadeniz Bölgesi'nin en önemli doğa harikalarından biridir.
-- Bu şelale, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Sırakayalar Şelalesi, yüzyıllar boyunca bölgenin önemli bir su kaynağı olarak kabul edilmiştir.
 - Şelalenin etrafındaki köyler ve kasabalar, bu su kaynağından faydalanmış ve burada yaşamışlardır.
 - Sırakayalar Şelalesi, aynı zamanda, bölgenin kültürel ve tarihi mirasının da bir parçasıdır.

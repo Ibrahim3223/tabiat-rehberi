@@ -36,7 +36,7 @@ wikidata_id: "Q31387399"
 
 ## Coğrafya
 
-Şerefin Tepe, Van ilinin coğrafi yapısını yansıtan bir tepe olarak, doğu-batı yönünde uzanan bir dağ silsilesinin parçası olarak bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve doğu-batı yönünde uzun bir mesafe uzunluğundadır. Bölgenin coğrafi yapısı, dağlar, vadiler ve ovalardan oluşur ve bu tepe, bu coğrafi yapının bir parçası olarak dikkat çekiyor. Şerefin Tepe'nin coğrafi konumu, ziyaretçilerine doğu-batı yönünde uzanan dağ silsilesini ve vadileri izleme imkanı sunar.
+Şerefin Tepe, Van ilinin coğrafi yapısını yansıtan bir tepe olarak, doğu-batı yönünde uzanan bir dağ silsilesinin parçası olarak bulunur. Bölgenin coğrafi yapısı, dağlar, vadiler ve ovalardan oluşur ve bu tepe, bu coğrafi yapının bir parçası olarak dikkat çekiyor. Şerefin Tepe'nin coğrafi konumu, ziyaretçilerine doğu-batı yönünde uzanan dağ silsilesini ve vadileri izleme imkanı sunar.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ wikidata_id: "Q31387399"
 - Şerefin Tepe, Van ilinin en yüksek noktalarından birisidir
 - Bu tepe, tarihi geçmişi ile dikkat çekiyor
 - Şerefin Tepe, doğa severler için bir çekim merkezi olarak kabul ediliyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Şerefin Tepe, doğu-batı yönünde uzanan bir dağ silsilesinin parçası olarak bulunur

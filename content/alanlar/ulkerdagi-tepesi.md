@@ -28,7 +28,7 @@ wikidata_id: "Q34810057"
 
 # Ülkerdağı Tepesi
 
-Ülkerdağı Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve doğa severlerin keşfetmeyi bekleyen bir hazine. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. Bu bölgenin etrafı dağlar ve ormanlarla çevrili, ziyaretçiler için hem doğayı keşfetmek hem de huzurlu bir ortamda zaman geçirmek için ideal bir yer.
+Ülkerdağı Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve doğa severlerin keşfetmeyi bekleyen bir hazine. Bu bölgenin etrafı dağlar ve ormanlarla çevrili, ziyaretçiler için hem doğayı keşfetmek hem de huzurlu bir ortamda zaman geçirmek için ideal bir yer.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34810057"
 ## İlginç Bilgiler
 
 - Ülkerdağı Tepesi, Bingöl ilinin en yüksek noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bu bölgede, ziyaretçiler çeşitli bitki ve hayvan türleri görebiliyor.
 - Ülkerdağı Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon.
 - Bu tepe, yılın her mevsiminde ziyaret edilebilir.

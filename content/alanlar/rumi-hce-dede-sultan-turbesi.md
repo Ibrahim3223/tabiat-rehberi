@@ -37,7 +37,7 @@ Rumi Hâce Dede Sultan Türbesi'nin tarihi geçmişi, Merzifon'un tarihine bağl
 
 ## Coğrafya
 
-Rumi Hâce Dede Sultan Türbesi, Merzifon'un merkezi konumunda bulunur ve şehrin önemli coğrafi noktalarından biridir. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, Merzifon'un doğal güzelliklerini sergileyen önemli bir noktadır. Türbenin etrafı, Merzifon'un karakteristik coğrafi özellikleri olan tepeler ve düzlüklerle çevrilidir. Rumi Hâce Dede Sultan Türbesi, Merzifon'un coğrafi konumu nedeniyle, ziyaretçilerine şehrin doğal güzelliklerini keşfetme fırsatı sunar. Türbenin bulunduğu alan, Merzifon'un iklim özelliklerini de yansıtan bir bölgedir. Merzifon'un karasal iklimi, türbenin bulunduğu alanda da hakimdir ve bu nedenle, ziyaretçilerin türbeyi ziyaret ederken, Merzifon'un doğal güzelliklerini ve iklim özelliklerini deneyimlemeleri mümkündür.
+Rumi Hâce Dede Sultan Türbesi, Merzifon'un merkezi konumunda bulunur ve şehrin önemli coğrafi noktalarından biridir. Türbenin etrafı, Merzifon'un karakteristik coğrafi özellikleri olan tepeler ve düzlüklerle çevrilidir. Rumi Hâce Dede Sultan Türbesi, Merzifon'un coğrafi konumu nedeniyle, ziyaretçilerine şehrin doğal güzelliklerini keşfetme fırsatı sunar. Türbenin bulunduğu alan, Merzifon'un iklim özelliklerini de yansıtan bir bölgedir. Merzifon'un karasal iklimi, türbenin bulunduğu alanda da hakimdir ve bu nedenle, ziyaretçilerin türbeyi ziyaret ederken, Merzifon'un doğal güzelliklerini ve iklim özelliklerini deneyimlemeleri mümkündür.
 
 ## Flora ve Fauna
 

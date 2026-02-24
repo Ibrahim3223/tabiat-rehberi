@@ -38,7 +38,7 @@ Suya Kanmış Hatun Türbesi'nin tarihi geçmişi oldukça zengin. Bu mekan, yü
 
 ## Coğrafya
 
-Suya Kanmış Hatun Türbesi, Kayseri'nin Melikgazi ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunuyor. Türbe, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alıyor. Bu geniş alan, ziyaretçilere hem tarihi bir mekan hem de geniş bir doğa alanını keşfetme fırsatı sunuyor. Suya Kanmış Hatun Türbesi'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Ayrıca, türbenin yakınlarında, tarihi ve kültürel öneme sahip diğer mekanlar da bulunuyor. Bu reason, Suya Kanmış Hatun Türbesi'ni ziyaret edenlerin, aynı zamanda diğer tarihi ve kültürel mekanları da keşfetmesine olanak tanıyor.
+Suya Kanmış Hatun Türbesi, Kayseri'nin Melikgazi ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunuyor. Bu geniş alan, ziyaretçilere hem tarihi bir mekan hem de geniş bir doğa alanını keşfetme fırsatı sunuyor. Suya Kanmış Hatun Türbesi'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Ayrıca, türbenin yakınlarında, tarihi ve kültürel öneme sahip diğer mekanlar da bulunuyor. Bu reason, Suya Kanmış Hatun Türbesi'ni ziyaret edenlerin, aynı zamanda diğer tarihi ve kültürel mekanları da keşfetmesine olanak tanıyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Suya Kanmış Hatun Türbesi'ni ziyaret etmek, özellikle tarih ve doğa severle
 ## İlginç Bilgiler
 
 - Suya Kanmış Hatun Türbesi, tarihi ve kültürel öneme sahip bir mekan
-- Türbe, 140 hektarlık bir yeşil alanda yer alıyor
+
 - Bölgede çeşitli bitki türleri ve hayvanlar yaşiyor
 - Türbe, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor
 - Suya Kanmış Hatun, Türk tarihinde önemli bir kadın figür

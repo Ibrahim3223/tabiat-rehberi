@@ -28,7 +28,7 @@ wikidata_id: "Q34895583"
 
 # Pirinçağılı Tepesi
 
-Pirinçağılı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 200 futbol sahası büyüklüğünde olan bu alan, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renklerle güzelleşiyor. Tepenin üstünden, Ankara'nın panoramik manzarasını izleme mümkün. Bu manzara, özellikle gün batımında çok etkileyici oluyor.
+Pirinçağılı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin etrafı, çeşitli bitki türleriyle kaplı. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renklerle güzelleşiyor. Tepenin üstünden, Ankara'nın panoramik manzarasını izleme mümkün. Bu manzara, özellikle gün batımında çok etkileyici oluyor.
 
 ## Tarihçe
 

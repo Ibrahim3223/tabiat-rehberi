@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotoğraf ç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ahlatlıbayır Tepesi","caption":"Ahlatlıbayır Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahlatl%C4%B1bay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557759","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ahlatlıbayır Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Ahlatlıbayır Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557759"
@@ -36,7 +36,7 @@ Ahlatlıbayır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Ahlatlıbayır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak geniş çayırlar ve ormanlık alanlarla kaplı. Tepenin etrafındaki coğrafya, yürüyüş ve doğa yürüyüşü için ideal bir ortam sunuyor. Ahlatlıbayır Tepesi, yaklaşık 140 hektarlık bir alana yayılıyor ve bu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi barındırıyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve özellikle güneşin batış saatlerinde muhteşem bir görünüm ortaya çıkıyor. Ahlatlıbayır Tepesi, coğrafi açıdan önemli bir yer olarak kabul ediliyor ve ziyaretçilerine doğanın güzelliklerini sunuyor.
+Ahlatlıbayır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak geniş çayırlar ve ormanlık alanlarla kaplı. Tepenin etrafındaki coğrafya, yürüyüş ve doğa yürüyüşü için ideal bir ortam sunuyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve özellikle güneşin batış saatlerinde muhteşem bir görünüm ortaya çıkıyor. Ahlatlıbayır Tepesi, coğrafi açıdan önemli bir yer olarak kabul ediliyor ve ziyaretçilerine doğanın güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Ahlatlıbayır Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim
 
 ## İlginç Bilgiler
 
-- Ahlatlıbayır Tepesi, 140 hektarlık bir alana yayılıyor.
 - Tepenin etrafındaki flora, mevsimsel değişimlere göre farklılık gösteriyor.
 - Ahlatlıbayır Tepesi, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi barındırıyor.
 - Tepenin etrafındaki fauna, bölgenin ekolojik dengesini korumaya yardımcı oluyor.

@@ -36,7 +36,7 @@ Kulak Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, 
 
 ## Coğrafya
 
-Kulak Tepe, Hatay ilinin coğrafi olarak önemli bir bölgesinde yer alır. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. İklim, flora ve fauna çeşitliliği, bu tepeyi diğer doğal alanlardan ayıran özelliklerdir. Yaklaşık 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla doludur. Bu tepe, bölgenin coğrafi özellikleri itibariyle, ziyaretçilere benzersiz bir deneyim sunar. Ziyaretçiler, bu tepeyi ziyaret ederek, Akdeniz Bölgesi'nin güzelliklerini yakından keşfedebilirler.
+Kulak Tepe, Hatay ilinin coğrafi olarak önemli bir bölgesinde yer alır. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. İklim, flora ve fauna çeşitliliği, bu tepeyi diğer doğal alanlardan ayıran özelliklerdir. Bu tepe, bölgenin coğrafi özellikleri itibariyle, ziyaretçilere benzersiz bir deneyim sunar. Ziyaretçiler, bu tepeyi ziyaret ederek, Akdeniz Bölgesi'nin güzelliklerini yakından keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kulak Tepe, ziyaretçilere çeşitli imkanlar sunar. Ziyaretçiler, bu tepeyi zi
 ## İlginç Bilgiler
 
 - Kulak Tepe, Hatay ilinin önemli doğal alanlarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
 
 - Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Ziyaretçiler, bu tepeyi ziyaret ederek, flora ve fauna çeşitliliğini keşfedebilirler.

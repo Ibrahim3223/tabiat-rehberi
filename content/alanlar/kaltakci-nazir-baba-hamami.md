@@ -50,7 +50,7 @@ Kaltakçı Nazır Baba Hamamı, yılın her döneminde ziyaret edilebilir. Ancak
 ## İlginç Bilgiler
 
 - Kaltakçı Nazır Baba Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alana yayılmıştır.
+
 - Kaltakçı Nazır Baba Hamamı, bir doğa koruma alanı olarak kabul edilebilir.
 - Plajda, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Kaltakçı Nazır Baba Hamamı, yılın her döneminde ziyaret edilebilir.

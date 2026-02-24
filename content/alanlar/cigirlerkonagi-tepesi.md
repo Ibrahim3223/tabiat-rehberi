@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihî
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Çiğirlerkonağı Tepesi","caption":"Çiğirlerkonağı Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C4%9Firlerkona%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829423","tip":"genel"}]
-description: "Denizli'nin gizli cenneti, 140 hektarlık doğal alan"
+
 keywords: ["Çiğirlerkonağı Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829423"
@@ -28,7 +28,7 @@ wikidata_id: "Q34829423"
 
 # Çiğirlerkonağı Tepesi
 
-Çiğirlerkonağı Tepesi, Denizli ilinin sınırları içerisinde yer alan, 140 hektarlık büyük bir doğal alan olarak dikkat çekiyor. Çiğirlerkonağı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğayla iç içe bir ortam sunuyor. Bu tepe, aynı zamanda çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bölgenin coğrafi yapısı ve iklimi, burada çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Çiğirlerkonağı Tepesi, şehre gelenlerin ve yerlilerin keyifli anlar geçirebileceği bir mekan olarak biliniyor.
+ Çiğirlerkonağı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğayla iç içe bir ortam sunuyor. Bu tepe, aynı zamanda çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bölgenin coğrafi yapısı ve iklimi, burada çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Çiğirlerkonağı Tepesi, şehre gelenlerin ve yerlilerin keyifli anlar geçirebileceği bir mekan olarak biliniyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34829423"
 
 ## İlginç Bilgiler
 
-- Çiğirlerkonağı Tepesi, 140 hektarlık bir alana yayılıyor.
 - Tepenin zirvesi, deniz seviyesinden belirli bir yükseklikte bulunuyor.
 - Çiğirlerkonağı Tepesi, Ege Bölgesi'nin coğrafi yapısına uygun olarak, zengin bir flora ve fauna ile kaplı.
 - Tepenin eteklerinde, küçük akarsular ve kaynaklar mevcut.

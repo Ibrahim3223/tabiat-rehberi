@@ -29,7 +29,7 @@ wikidata_id: "Q34828234"
 
 # Çamlık Tepesi
 
-Erzurum'un güzide noktası olan Çamlık Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir tepe alanı olarak karşımıza çıkıyor. Çamlık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, Erzurum'un önemli bir turizm noktası olarak biliniyor ve her yıl birçok ziyaretçiyi ağırlıyor.
+ Çamlık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, Erzurum'un önemli bir turizm noktası olarak biliniyor ve her yıl birçok ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Erzurum'un güzide noktası olan Çamlık Tepesi, yaklaşık 140 hektarlık bir 
 
 ## Coğrafya
 
-Çamlık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Erzurum'un merkezine yakın bir konumda bulunan tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı ve farklı mevsimlerde ziyaretçilere farklı deneyimler sunuyor. Çamlık Tepesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem dein panoramik manzarasını sunuyor. Tepe, özellikle ilkbahar ve yaz aylarında yeşilin farklı tonlarını sunarken, kış aylarında karla kaplı birwinter manzarası sunuyor.
+Çamlık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı ve farklı mevsimlerde ziyaretçilere farklı deneyimler sunuyor. Çamlık Tepesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem dein panoramik manzarasını sunuyor. Tepe, özellikle ilkbahar ve yaz aylarında yeşilin farklı tonlarını sunarken, kış aylarında karla kaplı birwinter manzarası sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Erzurum'un güzide noktası olan Çamlık Tepesi, yaklaşık 140 hektarlık bir 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - zengin fauna
 - tarihi geçmişi

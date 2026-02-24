@@ -37,7 +37,7 @@ Dana Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izl
 
 ## Coğrafya
 
-Dana Tepe, Hakkari'nin doğusunda yer alıyor ve Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak biliniyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğa severlerin ilgisini çekiyor. Dana Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve ziyaretçilerine dört mevsim ayrı güzellikler sunuyor. Dana Tepe, aynı zamanda bölgenin en önemli su kaynaklarından biri olarak kabul ediliyor ve çevredeki tarım alanları için bir su kaynağıdır.
+Dana Tepe, Hakkari'nin doğusunda yer alıyor ve Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak biliniyor. Dana Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve ziyaretçilerine dört mevsim ayrı güzellikler sunuyor. Dana Tepe, aynı zamanda bölgenin en önemli su kaynaklarından biri olarak kabul ediliyor ve çevredeki tarım alanları için bir su kaynağıdır.
 
 ## Flora ve Fauna
 

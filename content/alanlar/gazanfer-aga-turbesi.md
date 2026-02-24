@@ -38,7 +38,7 @@ Gazanfer Ağa Türbesi'nin tarihi geçmişi, Osmanlı döneminde começar. Bu d�
 
 ## Coğrafya
 
-Gazanfer Ağa Türbesi, Fatih ilçesinde, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Türbe ve plaj alanı, 140 hektarlık bir arazide kurulmuş ve bu geniş alan, ziyaretçilere bol oksijen ve ferah bir ortam sunuyor. İstanbul'un city hayatından uzak, sakin ve doğal bir ortamda bulunmak isteyenler için ideal bir destinasyon. Gazanfer Ağa Türbesi'nin coğrafi konumu, Marmara Denizi'ne yakınlığı ile de dikkat çekiyor. Bu konum, ziyaretçilere deniz ve plaj keyfi sunuyor.
+Gazanfer Ağa Türbesi, Fatih ilçesinde, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. İstanbul'un city hayatından uzak, sakin ve doğal bir ortamda bulunmak isteyenler için ideal bir destinasyon. Gazanfer Ağa Türbesi'nin coğrafi konumu, Marmara Denizi'ne yakınlığı ile de dikkat çekiyor. Bu konum, ziyaretçilere deniz ve plaj keyfi sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Gazanfer Ağa Türbesi'ni ziyaret etmek için, Fatih ilçesine gelmek gerekiyor.
 ## İlginç Bilgiler
 
 - Gazanfer Ağa Türbesi, İstanbul'un tarihi ve kültürel değerlerinden biridir.
-- Türbe, 140 hektarlık bir arazide yer alıyor.
+
 - Gazanfer Ağa Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor.
 - Türbe ve plaj alanı, flora ve fauna açısından zengin bir çeşitliliğe sahip.
 - Ziyaretçiler, türbenin tarihi önemini ve kültürel değerini öğrenmek için, rehber eşliğinde turlara katılabilirler.

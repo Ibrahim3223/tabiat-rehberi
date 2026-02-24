@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yürüy�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Günbaşı Tepesi","caption":"Günbaşı Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCnba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139280","tip":"genel"}]
-description: "Erzurum'un büyüleyici doğası, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
+
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","yeşil alan","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139280"
@@ -48,8 +48,6 @@ Günbaşı Tepesi'ne ziyaretçiler, kolay bir şekilde ulaşabilir. Tepenin etra
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- 200 futbol sahası büyüklüğünde
 - zengin flora ve fauna
 - tarihi kalıntılar
 - doğal güzellikler

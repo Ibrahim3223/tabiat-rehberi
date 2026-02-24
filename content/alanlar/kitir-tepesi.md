@@ -28,7 +28,7 @@ wikidata_id: "Q31386611"
 
 # Kıtır Tepesi
 
-Kıtır Tepesi, Şırnak ilinin sınırları içerisinde yer alan bir coğrafi noktadır. Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar. Kıtır Tepesi, bölgeye gelen ziyaretçiler için önemli bir destinasyon olarak kabul edilir. Ziyaretçiler, bu tepeye çıkarak Güneydoğu Anadolu Bölgesi'nin geniş ve yeşil manzarasını izleme fırsatı bulurlar.
+Kıtır Tepesi, Şırnak ilinin sınırları içerisinde yer alan bir coğrafi noktadır. Kıtır Tepesi, bölgeye gelen ziyaretçiler için önemli bir destinasyon olarak kabul edilir. Ziyaretçiler, bu tepeye çıkarak Güneydoğu Anadolu Bölgesi'nin geniş ve yeşil manzarasını izleme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kıtır Tepesi, Şırnak iline gelen ziyaretçiler için önemli bir destinasyon
 ## İlginç Bilgiler
 
 - Kıtır Tepesi, Şırnak ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar.
+
 - Kıtır Tepesi, bölgenin tarihini ve kültürünü anlamak için önemli bir kaynak olarak kabul edilir.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile önemlidir.
 - Ziyaretçiler, bu tepeyi ziyaret ederek bölgenin coğrafi yapısını ve güzelliğini izleme fırsatı bulurlar.

@@ -48,7 +48,6 @@ Köyyeri Tepesi'ni ziyaret etmek, doğa severlerin ve tarih meraklılarının il
 
 ## İlginç Bilgiler
 
-- Köyyeri Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepe, Akdeniz ikliminin hakim olduğu bir bölgede yer alıyor
 - Köyyeri Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplı
 - Tepe, tarih meraklılarının ilgisini çekecek bir yer

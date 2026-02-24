@@ -29,7 +29,7 @@ wikidata_id: "Q132950085"
 
 # İş Sağlığı ve İş Güvenliği Müzesi
 
-Ankara'nın merkezinde yer alan İş Sağlığı ve İş Güvenliği Müzesi, yaklaşık 140 hektarlık bir alanda kurulmuş, ziyaretçilere iş sağlığı ve güvenliği konusunda geniş bir bilgi yelpazesi sunuyor. Bu müzenin kurulması, işçi sağlığı ve güvenliğinin önemini vurgulamak için yapılmış önemli bir adım. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu müze, ziyaretçilerin iş sağlığı ve güvenliği hakkında detaylı bilgi edinmesini sağlıyor.
+ Bu müzenin kurulması, işçi sağlığı ve güvenliğinin önemini vurgulamak için yapılmış önemli bir adım.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Müzenin çevresinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Ankara'
 ## İlginç Bilgiler
 
 - Müzenin kuruluşu, işçi sağlığı ve güvenliği konusunda önemli bir adım
-- Müze, 140 hektarlık bir alanı kaplıyor
+
 - Müzenin koleksiyonunda, iş sağlığı ve güvenliği ile ilgili çeşitli eserler yer alıyor
 - Müze, işçi sağlığı ve güvenliği alanında yapılan çalışmaları sergiliyor
 - Müzenin bahçesi, ziyaretçilere dinlenme imkanı sunuyor

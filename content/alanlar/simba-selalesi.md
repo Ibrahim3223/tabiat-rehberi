@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Simba_Waterfall_Through_the_Trees.jpg","alt":"Simba Şelalesi manzarası","credit":"Vanmulondo","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Simba%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q96788345","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık yeşil alan"
+
 keywords: ["Simba Şelalesi","İç Anadolu Bölgesi","Doğa","Şelale","Yeşil Alan","Gezi","Turizm","Doğa Harikaları"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q96788345"
@@ -43,7 +43,6 @@ Simba Şelalesi'ni ziyaret etmek, doğa severler ve fotoğrafçılar için benze
 
 ## İlginç Bilgiler
 
-- Simba Şelalesi, 140 hektarlık bir yeşil alan üzerine kurulu
 - Şelalenin suyu, yüksek bir kayadan dökülerek, çevresindeki bitki örtüsünü besler
 - Simba Şelalesi, doğa severlerin ve fotoğrafçıların uğrak noktalarından biri
 - Burada, çeşitli bitki türleri ve zengin fauna bulunur

@@ -29,7 +29,7 @@ wikidata_id: "Q31389089"
 
 # Akbaba Tepe
 
-Akbaba Tepe, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişini yansıtan bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğal güzellikleri hem de tarihi önemini korumayı başarmış bir nokta. Akbaba Tepe, ziyaretçilerine hem doğayı keşfetme hem de tarihsel bir yolculuğa çıkma fırsatı sunuyor.
+Akbaba Tepe, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Akbaba Tepe, ziyaretçilerine hem doğayı keşfetme hem de tarihsel bir yolculuğa çıkma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Akbaba Tepe'nin tarihi geçmişi, Doğu Anadolu Bölgesi'nin zengin kültürel m
 
 ## Coğrafya
 
-Akbaba Tepe, coğrafi konumu itibarıyla Doğu Anadolu Bölgesi'nin önemli noktalarından biri. Erzurum'un doğal güzelliklerini barındıran bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Bu alan, 200 futbol sahası büyüklüğünde olan bir bölgeye karşılık geliyor. Akbaba Tepe'nin coğrafi yapısı, ziyaretçilerine hem dağların hem de ovaların güzelliğini bir arada sunuyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliklerini korumayı başarmış bir nokta. Akbaba Tepe, ziyaretçilerine doğayı keşfetme ve coğrafi güzellikleri görme fırsatı sunuyor. Doğu Anadolu Bölgesi'nin iklimi, Akbaba Tepe'nin coğrafi yapısını da etkiliyor. Bu tepe, bölgenin iklim koşullarına uygun bir şekilde oluşmuş ve ziyaretçilerine dört mevsimi farklı güzelliği ile sunuyor.
+Akbaba Tepe, coğrafi konumu itibarıyla Doğu Anadolu Bölgesi'nin önemli noktalarından biri. Akbaba Tepe'nin coğrafi yapısı, ziyaretçilerine hem dağların hem de ovaların güzelliğini bir arada sunuyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliklerini korumayı başarmış bir nokta. Akbaba Tepe, ziyaretçilerine doğayı keşfetme ve coğrafi güzellikleri görme fırsatı sunuyor. Doğu Anadolu Bölgesi'nin iklimi, Akbaba Tepe'nin coğrafi yapısını da etkiliyor. Bu tepe, bölgenin iklim koşullarına uygun bir şekilde oluşmuş ve ziyaretçilerine dört mevsimi farklı güzelliği ile sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Akbaba Tepe, ziyaretçilerini bekliyor. Bu tepeye nasıl gidileceği ve ne yapı
 ## İlginç Bilgiler
 
 - Akbaba Tepe, Erzurum'un önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor.
+
 - Akbaba Tepe, tarihî Importanceini korumuş bir nokta.
 - Bu tepe, flora ve fauna açısından zengin bir bölge.
 - Akbaba Tepe, ziyaretçilerine doğayı keşfetme ve tarihsel bir yolculuğa çıkma fırsatı sunuyor.

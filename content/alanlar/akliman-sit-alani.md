@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic","Yaban Hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Aklıman Sit Alanı","caption":"Aklıman Sit Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akl%C4%B1man%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226184","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin buluştuğu Aklıman Sit Alanı, 140 hektarlık bir alan üzerinde kurulu."
+"
 keywords: ["Aklıman Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Sit Alanı","Çevre","Doğa","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226184"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226184"
 
 # Aklıman Sit Alanı
 
-Aklıman Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğal alan olarak ön plana çıkıyor. Aklıman Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin ilk durağı oluyor. Burada, doğal güzellikler içinde kaybolma ve şehrin gürültüsünden uzaklaşma mümkün. Aklıman Sit Alanı, aynı zamanda bölgenin tarihi ve kültürel mirasını da koruma altına alıyor.
+ Aklıman Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin ilk durağı oluyor. Burada, doğal güzellikler içinde kaybolma ve şehrin gürültüsünden uzaklaşma mümkün. Aklıman Sit Alanı, aynı zamanda bölgenin tarihi ve kültürel mirasını da koruma altına alıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Aklıman Sit Alanı, yüzyıllar boyunca bölgenin doğal güzelliklerini koruma
 
 ## Coğrafya
 
-Aklıman Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biri. 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleriyle kaplı. Sit alanı, bölgenin iklimine uygun olarak kura ve nemli mevsimlere sahip. Aklıman Sit Alanı, aynı zamanda bölgenin su kaynaklarını da koruma altına alıyor. Burada, çeşitli su kaynakları bulunmakla birlikte, bu kaynaklar sit alanı içinde korunuyor. Aklıman Sit Alanı, bölgenin coğrafi olarak en önemli özelliği, çeşitli jeolojik oluşumların bulunması. Burada, farklı jeolojik dönemlere ait çeşitli kayaçlar ve topraklar bulunmakla birlikte, bu oluşumlar sit alanı içinde korunuyor. Aklıman Sit Alanı, bölgenin coğrafi güzelliklerini ve doğal kaynaklarını korumak amacıyla oluşturulmuş bir alan.
+Aklıman Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biri. Sit alanı, bölgenin iklimine uygun olarak kura ve nemli mevsimlere sahip. Aklıman Sit Alanı, aynı zamanda bölgenin su kaynaklarını da koruma altına alıyor. Burada, çeşitli su kaynakları bulunmakla birlikte, bu kaynaklar sit alanı içinde korunuyor. Aklıman Sit Alanı, bölgenin coğrafi olarak en önemli özelliği, çeşitli jeolojik oluşumların bulunması. Burada, farklı jeolojik dönemlere ait çeşitli kayaçlar ve topraklar bulunmakla birlikte, bu oluşumlar sit alanı içinde korunuyor. Aklıman Sit Alanı, bölgenin coğrafi güzelliklerini ve doğal kaynaklarını korumak amacıyla oluşturulmuş bir alan.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Aklıman Sit Alanı, ziyaretçilerine doğal güzelliklerin yanı sıra, tarihi 
 
 ## İlginç Bilgiler
 
-- Aklıman Sit Alanı, 140 hektarlık bir alanı kapsıyor.
 - Sit alanı, bölgenin ekolojik dengesini korumak amacıyla oluşturulmuş.
 - Aklıman Sit Alanı, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Sit alanı, aynı zamanda bölgenin yaban hayatı için de önemli bir alan.

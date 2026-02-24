@@ -13,10 +13,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yürüyüş","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Old_Tree_in_Bay%C4%B1r_Village_in_Marmaris.jpg","alt":"Bayır Servi Ağacı manzarası","credit":"Raicem","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Old_Tree_in_Bay%C4%B1r_Village_in_Marmaris.jpg/960px-Old_Tree_in_Bay%C4%B1r_Village_in_Marmaris.jpg","alt":"Bayır Servi Ağacı","caption":"Bayır Servi Ağacı","credit":"Old Tree in Bayır Village in Marmaris","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bay%C4%B1r%20Servi%20A%C4%9Fac%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227166","tip":"genel"}]
-description: "Marmaris'te bulunan Bayır Servi Ağacı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Marmaris","Bayır Servi Ağacı","Marmaris Millî Parkı","doğa","yeşil alan","servi ağacı","millî park","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227166"
@@ -32,7 +32,7 @@ Bayır Servi Ağacı ve çevresi, yüzyıllar boyunca doğa severler ve ziyaret�
 
 ## Coğrafya
 
-Bayır Servi Ağacı, Marmaris Millî Parkı içinde yer alıyor ve 140 hektarlık bir alanı kapsıyor. Bu bölge, çeşitli bitki türleri ile zengin fauna ile dolu ve ziyaretçileri doğanın içlerine çekerek, şehrin gürültüsünden uzaklaşmaları için mükemmel bir fırsat sunuyor. Bayır Servi Ağacı'nın çevresi, dağlar ve ormanlarla çevrili ve bu coğrafi yapı, bölgenin iklimini ve ekolojisini şekillendiriyor. İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor ve yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Bayır Servi Ağacı'nın quanhayatının çeşitliliğini ve güzelliğini ortaya koyuyor. Bölge, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yer ve ziyaretçiler, bu doğal güzellikleri keşfetmek için birçok farklı parkur ve rota bulabiliyorlar.
+ Bu bölge, çeşitli bitki türleri ile zengin fauna ile dolu ve ziyaretçileri doğanın içlerine çekerek, şehrin gürültüsünden uzaklaşmaları için mükemmel bir fırsat sunuyor. Bayır Servi Ağacı'nın çevresi, dağlar ve ormanlarla çevrili ve bu coğrafi yapı, bölgenin iklimini ve ekolojisini şekillendiriyor. İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor ve yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Bayır Servi Ağacı'nın quanhayatının çeşitliliğini ve güzelliğini ortaya koyuyor. Bölge, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yer ve ziyaretçiler, bu doğal güzellikleri keşfetmek için birçok farklı parkur ve rota bulabiliyorlar.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Bayır Servi Ağacı, ziyaretçiler için mükemmel bir gezi destinasyonu. Buray
 ## İlginç Bilgiler
 
 - Bayır Servi Ağacı, Marmaris Millî Parkı'nın önemli bir parçası
-- 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
+
 - çeşitli bitki türleri ile zengin fauna ile dolu
 - yaban hayatının güzelliğini keşfetmek için ideal bir yer
 - Marmaris'in önemli turizm noktalarından biri

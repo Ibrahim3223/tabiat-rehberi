@@ -37,7 +37,7 @@ Saya Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenerek gün�
 
 ## Coğrafya
 
-Saya Baba Türbesi, İhsaniye ilçesi sınırları içerisinde, Ege Bölgesi'nin coğrafi güzelliklerini sunan bir konumda yer alıyor. Türbe ve çevresi, yaklaşık 140 hektarlık bir yeşil alan tarafından çevrilidir, bu da ziyaretçiler için geniş bir doğal alan sunuyor. Coğrafi olarak, bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, tipik Akdeniz iklimi özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da ziyaretçiler için unutulmaz bir doğa deneyimi sunuyor. Saya Baba Türbesi, bu doğal güzellikler içinde, tarihi ve manevi değerini koruyarak ziyaretçilerini ağırlıyor. Coğrafi konumu itibariyle, türbe, bölgenin önemli turistik noktalarından biri olarak kabul ediliyor.
+Saya Baba Türbesi, İhsaniye ilçesi sınırları içerisinde, Ege Bölgesi'nin coğrafi güzelliklerini sunan bir konumda yer alıyor. Coğrafi olarak, bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, tipik Akdeniz iklimi özellikleri gösteriyor; yazlar sıcak ve kurak, kışlar ılıman ve yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da ziyaretçiler için unutulmaz bir doğa deneyimi sunuyor. Saya Baba Türbesi, bu doğal güzellikler içinde, tarihi ve manevi değerini koruyarak ziyaretçilerini ağırlıyor. Coğrafi konumu itibariyle, türbe, bölgenin önemli turistik noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Saya Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri dene
 ## İlginç Bilgiler
 
 - Saya Baba Türbesi, bölgede önemli bir tarihi ve kültürel figür olarak kabul ediliyor.
-- Türbe, yaklaşık 140 hektarlık bir yeşil alan tarafından çevrilidir.
+
 - Bölge, zengin flora ve fauna ile kaplıdır.
 - İlkbahar ve yaz ayları, ziyaret için en uygun dönem.
 - Saya Baba Türbesi, doğa severler ve tarih meraklıları için önemli bir destinasyon.

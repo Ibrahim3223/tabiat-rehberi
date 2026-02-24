@@ -36,7 +36,7 @@ Eşme Tepe'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahip
 
 ## Coğrafya
 
-Eşme Tepe, Erzurum'un coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, şehrin merkezine çok yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Eşme Tepe'nin coğrafi yapısı, genel olarak yemyeşil çayırlar ve çeşitli ağaç türleriyle kaplı. Bu bölge, aynı zamanda birçok farklı bitki türüne de ev sahipliği yapıyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklüğü ile Erzurum'un en önemli doğal alanlarından biri olarak kabul ediliyor. Eşme Tepe'nin iklimi, genel olarak Doğu Anadolu Bölgesi'nin iklimine benzer. Burada, kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu iklim, tepeye ve çevresine özgü birçok bitki ve hayvan türünün yaşamına uygun koşullar sağlıyor. Eşme Tepe, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Eşme Tepe, Erzurum'un coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, şehrin merkezine çok yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Eşme Tepe'nin coğrafi yapısı, genel olarak yemyeşil çayırlar ve çeşitli ağaç türleriyle kaplı. Bu bölge, aynı zamanda birçok farklı bitki türüne de ev sahipliği yapıyor. Eşme Tepe'nin iklimi, genel olarak Doğu Anadolu Bölgesi'nin iklimine benzer. Burada, kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçiyor. Bu iklim, tepeye ve çevresine özgü birçok bitki ve hayvan türünün yaşamına uygun koşullar sağlıyor. Eşme Tepe, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Eşme Tepe'yi ziyaret etmek, Erzurum'un doğal güzelliklerini keşfetmek isteye
 ## İlginç Bilgiler
 
 - Eşme Tepe, Erzurum'un en önemli doğal güzelliklerinden biri
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Eşme Tepe, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor
 - Tepe ve çevresinde birçok farklı tarihi eser ve kalıntı bulunmakta
 - Eşme Tepe, doğa severlerin ve hayvanseverlerin ziyaret edebileceği önemli bir doğal güzellik

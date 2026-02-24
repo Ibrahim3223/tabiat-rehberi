@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Karabelen Tepe","caption":"Karabelen Tepe","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389399","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Karabelen Tepe, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu doğa harikası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
+"
 keywords: ["Karabelen Tepe","Mersin","Akdeniz Bölgesi","doğa harikası","yeşil alan","bitki türleri","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389399"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389399"
 
 # Karabelen Tepe
 
-Karabelen Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini bekliyor. Bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Karabelen Tepe'nin hikayesi, yüzyıllar boyunca süre gelen bir geçmişe sahip. Bu tepe, Mersin'in önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Karabelen Tepe'nin hikayesi, yüzyıllar boyunca süre gelen bir geçmişe sahip. Bu tepe, Mersin'in önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Karabelen Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir doğa harikası. Ziy
 ## İlginç Bilgiler
 
 - Karabelen Tepe, Mersin'in önemli bir noktası olarak kabul ediliyor.
-- Tepe, 140 hektarlık bir yeşil alan olarak ziyaretçilerini bekliyor.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Tepe, deniz seviyesinden yüksek bir noktada yer alıyor.
 - Karabelen Tepe, doğa severlerin ve tarih meraklılarının ilgisini çekmeyi başaran bir nokta olarak biliniyor.

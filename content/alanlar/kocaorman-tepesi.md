@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Kocaorman Tepesi","caption":"Kocaorman Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocaorman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31563644","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kocaorman Tepesi, Bolu ilinin sınırları içerisinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin flora ile fauna çeşitliliği sunuyor."
+description: "Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kocaorman Tepesi, Bolu ilinin sınırları içerisinde yer alıyor."
 keywords: ["Kocaorman Tepesi","Bolu","Karadeniz Bölgesi","doğal güzellik","flora","fauna","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31563644"
@@ -28,7 +28,7 @@ wikidata_id: "Q31563644"
 
 # Kocaorman Tepesi
 
-Kocaorman Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bolu ilinin sınırları içerisinde yer alan bu tepe, 140 hektarlık bir alanı kapsıyor. Kocaorman Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor. Kocaorman Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+Kocaorman Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Kocaorman Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor. Kocaorman Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kocaorman Tepesi, ziyaretçilerine zengin bir doğa deneyimi sunuyor. Tepenin et
 
 ## İlginç Bilgiler
 
-- Kocaorman Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin eteklerinde çeşitli bitki türleri bulunur.
 - Kocaorman Tepesi, birçok hayvan türünün yaşadığı bir bölge olarak kabul ediliyor.
 - Tepenin zirvesinden Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor.

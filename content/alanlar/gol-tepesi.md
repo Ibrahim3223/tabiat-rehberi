@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Göl Tepesi","caption":"Göl Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138395","tip":"genel"}]
-description: "Kırklareli'nin doğal güzellikleri arasında yer alan Göl Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer."
+"
 keywords: ["Kırklareli","Marmara Bölgesi","doğal alan","göl","tepe","turizm","gezi","yaban hayatı","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32138395"
@@ -29,7 +29,7 @@ wikidata_id: "Q32138395"
 
 # Göl Tepesi
 
-Göl Tepesi, Kırklareli'nin doğal güzellikleri arasında yer alan bir tepe. Yaklaşık 140 hektarlık bir alanı kapsıyor. Bu tepe, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu çeşitlilik, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Göl Tepesi, Kırklareli'nin doğal güzellikleri arasında yer alan bir tepe. Bu tepe, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu çeşitlilik, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Göl Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Göl Tepesi, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu çeşitlilik, ziyaretçilere doğayla iç içe bir deneyim sunar. Göl Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Ziyaretçiler, bu tepeden Marmara Bölgesi'nin güzelliklerini izleyebilirler. Göl Tepesi'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Bu bölge, genellikle ılıman bir iklimi sahiptir. Göl Tepesi'nin çevresi, doğal güzelliklerle dolu. Bu bölge, yaban hayatı için de önemli bir habitat sunuyor.
+Göl Tepesi, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu çeşitlilik, ziyaretçilere doğayla iç içe bir deneyim sunar. Göl Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Ziyaretçiler, bu tepeden Marmara Bölgesi'nin güzelliklerini izleyebilirler. Göl Tepesi'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Bu bölge, genellikle ılıman bir iklimi sahiptir. Göl Tepesi'nin çevresi, doğal güzelliklerle dolu. Bu bölge, yaban hayatı için de önemli bir habitat sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Göl Tepesi'ni ziyaret etmek, doğayla iç içe bir deneyim sunuyor. Ziyaretçil
 
 ## İlginç Bilgiler
 
-- Göl Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 - Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur.
 - Göl Tepesi, yaban hayatı için de önemli bir habitat sunuyor.

@@ -31,7 +31,7 @@ Hopur Topaşır Yaban Hayatı Geliştirme Sahası'nın tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Hopur Topaşır Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde kurulmuştur. Bu saha, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak amacıyla, 140 hektarlık bir alanı kapsar. Coğrafi olarak, bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. İklimi, karasal iklimin özellikleri gösterir ve mevsimsel değişimler, bu bölgenin flora ve faunasını etkiler. Çevre, doğal güzelliği ile dikkat çeker ve yaban hayatı koruma alanı, bölgenin ekolojik dengesini korumak amacıyla oluşturulmuştur. Bu saha, çeşitli bitki türleri ve zengin fauna yapısı ile dikkat çekmektedir.
+Hopur Topaşır Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde kurulmuştur. Coğrafi olarak, bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. İklimi, karasal iklimin özellikleri gösterir ve mevsimsel değişimler, bu bölgenin flora ve faunasını etkiler. Çevre, doğal güzelliği ile dikkat çeker ve yaban hayatı koruma alanı, bölgenin ekolojik dengesini korumak amacıyla oluşturulmuştur. Bu saha, çeşitli bitki türleri ve zengin fauna yapısı ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

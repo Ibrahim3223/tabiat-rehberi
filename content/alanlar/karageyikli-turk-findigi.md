@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_2.jpg","alt":"Karageyikli Turk Findigi manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_1.jpg/1280px-Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_1.jpg","alt":"Karageyikli Turk Findigi - Karageyikli Türk Fındığı 1","credit":"Kursat26","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karageyikli%20Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228076","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Karageyikli Turk Findigi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Karageyikli Turk Findigi","İç Anadolu Bölgesi","doğal güzellikler","milli park","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228076"
@@ -43,7 +43,6 @@ Karageyikli Turk Findigi'ni ziyaret etmek, doğaseverler için gerçek bir deney
 
 ## İlginç Bilgiler
 
-- Karageyikli Turk Findigi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türleri ve hayvanlarla dolu
 - İç Anadolu Bölgesi'nin coğrafi özellikleri doğrultusunda şekillenmiş
 - Karageyikli Turk Findigi, doğaseverler için gerçek bir cennet olarak görünüyor

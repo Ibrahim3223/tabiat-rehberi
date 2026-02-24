@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kad%C4%B1nc%C4%B1k_Valley_27.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_27.jpg","alt":"Mersin-Mut-Dagpazarı Sedir","caption":"Mersin-Mut-Dagpazarı Sedir","credit":"Kadıncık Valley 27.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Dagpazar%C4%B1%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227218","tip":"genel"}]
-description: "Mersin-Mut-Dagpazarı Sedir, Akdeniz Bölgesi'nin güzide milli parklarından biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Mersin-Mut-Dagpazarı Sedir, Akdeniz Bölgesi'nin güzide milli parklarından biri."
 keywords: ["Mersin","Mut","Dagpazarı Sedir","Milli Park","Akdeniz Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227218"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227218"
 
 # Mersin-Mut-Dagpazarı Sedir
 
-Mersin-Mut-Dagpazarı Sedir milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu geniş alan, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Burada, doğanın seslerini dinlerken, güneşin mışını hissetme mümkün. Bu milli park, ziyaretçilerine hem doğa ile iç içe olmanın keyfini hem de tarihi ve kültürel zenginlikleri keşfetmenin heyecanını sunuyor.
+Mersin-Mut-Dagpazarı Sedir milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri. Burada, doğanın seslerini dinlerken, güneşin mışını hissetme mümkün. Bu milli park, ziyaretçilerine hem doğa ile iç içe olmanın keyfini hem de tarihi ve kültürel zenginlikleri keşfetmenin heyecanını sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Mut-Dagpazarı Sedir milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Mersin-Mut-Dagpazarı Sedir milli parkı, Akdeniz Bölgesi'nin coğrafi güzelliklerini tüm yönleriyle sergiliyor. 140 hektarlık bu geniş alan, dağlar, ormanlar ve vadilerden oluşuyor. Parkın coğrafyası, ziyaretçilere çeşitli bitki türleri ve zengin fauna ile dolu bir ortam sunuyor. İklim, Akdeniz ikliminin karakteristik özellikleri ile şekilleniyor; böylece ziyaretçiler, mevsimsel değişimlerin etkilerini gözlemleyebilirler. Çevre, doğanın tüm güzelliği ile dolu; ziyaretçiler, burada doğa ile iç içe olmanın keyfini çıkarabilirler. Mersin-Mut-Dagpazarı Sedir, coğrafi çeşitliliği ve güzelliği ile ziyaretçilerini büyülüyor.
+Mersin-Mut-Dagpazarı Sedir milli parkı, Akdeniz Bölgesi'nin coğrafi güzelliklerini tüm yönleriyle sergiliyor. Parkın coğrafyası, ziyaretçilere çeşitli bitki türleri ve zengin fauna ile dolu bir ortam sunuyor. İklim, Akdeniz ikliminin karakteristik özellikleri ile şekilleniyor; böylece ziyaretçiler, mevsimsel değişimlerin etkilerini gözlemleyebilirler. Çevre, doğanın tüm güzelliği ile dolu; ziyaretçiler, burada doğa ile iç içe olmanın keyfini çıkarabilirler. Mersin-Mut-Dagpazarı Sedir, coğrafi çeşitliliği ve güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Mut-Dagpazarı Sedir milli parkını ziyaret etmek, doğa ile iç içe ol
 
 ## İlginç Bilgiler
 
-- Mersin-Mut-Dagpazarı Sedir milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Bu milli park, Akdeniz Bölgesi'nin en önemli doğa alanlarından biri.
 - Ziyaretçiler, burada çeşitli bitki türleri ve zengin fauna ile dolu bir ortamı keşfedebilirler.
 - Mersin-Mut-Dagpazarı Sedir, tarihin izlerini taşıyan bir milli park.

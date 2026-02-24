@@ -29,7 +29,7 @@ wikidata_id: "Q134728203"
 
 # Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe
 
-Gürgentepe, Ordu'nun en güzel ilçelerinden biridir. Kaya Mezarı 2, Tikenlice Mahallesi'nde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanda yer alır. Kaya Mezarı 2, Tikenlice Mahallesi'nin en çok ziyaret edilen yerlerinden biridir. Bu plaj, temiz suyu ve güzel kumsalı ile ünlüdür. Kaya Mezarı 2, Tikenlice Mahallesi'ne gelen ziyaretçiler, bu plajı mutlaka ziyaret etmelidir.
+Gürgentepe, Ordu'nun en güzel ilçelerinden biridir. Kaya Mezarı 2, Tikenlice Mahallesi'nde yer alan bir plajdır. Kaya Mezarı 2, Tikenlice Mahallesi'nin en çok ziyaret edilen yerlerinden biridir. Bu plaj, temiz suyu ve güzel kumsalı ile ünlüdür. Kaya Mezarı 2, Tikenlice Mahallesi'ne gelen ziyaretçiler, bu plajı mutlaka ziyaret etmelidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 2, Tikenlice Mahallesi'nin tarihi geçmişi çok eskidir. Bu bölge
 
 ## Coğrafya
 
-Kaya Mezarı 2, Tikenlice Mahallesi'nde yer alan bir plajdır. Bu plaj, Karadeniz Bölgesi'nde yer alır. Karadeniz Bölgesi, Türkiye'nin en güzel bölgelerinden biridir. Bu bölge, doğal güzellikleri ile ünlüdür. Kaya Mezarı 2, Tikenlice Mahallesi'nin en güzel yerlerinden biridir. Bu plaj, yaklaşık 140 hektarlık bir alanda yer alır. Kaya Mezarı 2, Tikenlice Mahallesi'nin iklimi ılımandır. Bu plaj, yıl boyunca ziyaret edilebilir. Kaya Mezarı 2, Tikenlice Mahallesi'nin en önemli turizm merkezlerinden biridir.
+Kaya Mezarı 2, Tikenlice Mahallesi'nde yer alan bir plajdır. Bu plaj, Karadeniz Bölgesi'nde yer alır. Karadeniz Bölgesi, Türkiye'nin en güzel bölgelerinden biridir. Bu bölge, doğal güzellikleri ile ünlüdür. Kaya Mezarı 2, Tikenlice Mahallesi'nin en güzel yerlerinden biridir. Kaya Mezarı 2, Tikenlice Mahallesi'nin iklimi ılımandır. Bu plaj, yıl boyunca ziyaret edilebilir. Kaya Mezarı 2, Tikenlice Mahallesi'nin en önemli turizm merkezlerinden biridir.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Kaya Mezarı 2, Tikenlice Mahallesi'nde yer alan bir plajdır. Bu plaj, çeşitl
 
 ## Ziyaret Bilgileri
 
-Kaya Mezarı 2, Tikenlice Mahallesi'ne gelen ziyaretçiler, bu plajı mutlaka ziyaret etmelidir. Bu plaj, temiz suyu ve güzel kumsalı ile ünlüdür. Kaya Mezarı 2, Tikenlice Mahallesi'nin en güzel yerlerinden biridir. Bu plaj, yaklaşık 140 hektarlık bir alanda yer alır. Kaya Mezarı 2, Tikenlice Mahallesi'nin en önemli turizm merkezlerinden biridir. Bu plaj, her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Kaya Mezarı 2, Tikenlice Mahallesi'ne gelen ziyaretçiler, bu plajı mutlaka ziyaret etmelidir. Bu plaj, temiz suyu ve güzel kumsalı ile ünlüdür. Kaya Mezarı 2, Tikenlice Mahallesi'nin en güzel yerlerinden biridir. Kaya Mezarı 2, Tikenlice Mahallesi'nin en önemli turizm merkezlerinden biridir. Bu plaj, her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## İlginç Bilgiler
 

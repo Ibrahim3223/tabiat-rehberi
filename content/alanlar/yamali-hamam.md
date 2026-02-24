@@ -50,7 +50,7 @@ Yamalı Hamam'ı ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetme
 ## İlginç Bilgiler
 
 - Yamalı Hamam, İstanbul'un en eski plajlarından biridir.
-- Plaj, 140 hektarlık bir alana sahiptir.
+
 - Marmara Denizi'ne kıyısı bulunur.
 - Zengin bir flora ve fauna ile çevrilidir.
 - Tarihi geçmişi, yüzyıllar öncesine dayanır.

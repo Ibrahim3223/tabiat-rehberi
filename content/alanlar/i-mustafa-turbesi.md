@@ -30,7 +30,7 @@ wikidata_id: "Q135430371"
 
 # I. Mustafa Türbesi
 
-I. Mustafa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Fatih ilçesinde yer alan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar. I. Mustafa Türbesi, Türk tarihinin önemli figürlerinden biri olan I. Mustafa'nın anılarını yaşatmak içinşa edilmiştir. Bu mekan, Türk tarihini ve kültürünü öğrenmek isteyenler için önemli bir gezi noktasıdır.
+I. Mustafa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. I. Mustafa Türbesi, Türk tarihinin önemli figürlerinden biri olan I. Mustafa'nın anılarını yaşatmak içinşa edilmiştir. Bu mekan, Türk tarihini ve kültürünü öğrenmek isteyenler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ I. Mustafa Türbesi, Türk tarihinin önemli bir bölümünü oluşturan Osmanl�
 
 ## Coğrafya
 
-I. Mustafa Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplar ve geniş bir gezi alanı sunar. Türbenin bulunduğu bölge, İstanbul'un tarihi ve kültürel merkezi olarak kabul edilir. Bu bölge, Türk tarihinde önemli bir rol oynamış birçok tarihi mekan ve kültürel merkez barındırır. I. Mustafa Türbesi, bu tarihi ve kültürel merkezlerin bir parçası olarak kabul edilir ve Türk tarihinin önemli bir bölümünü oluşturur. Mekan, İstanbul'un iklimine uygun olarak tasarlanmış ve inşa edilmiştir. Bu nedenle, ziyaretçiler her mevsim bu tarihi mekanları gezebilirler. I. Mustafa Türbesi, Türk tarihinin önemli bir parçasıdır ve ziyaretçilere zengin bir kültürel deneyim sunar.
+I. Mustafa Türbesi, İstanbul'un Fatih ilçesinde yer alır. Türbenin bulunduğu bölge, İstanbul'un tarihi ve kültürel merkezi olarak kabul edilir. Bu bölge, Türk tarihinde önemli bir rol oynamış birçok tarihi mekan ve kültürel merkez barındırır. I. Mustafa Türbesi, bu tarihi ve kültürel merkezlerin bir parçası olarak kabul edilir ve Türk tarihinin önemli bir bölümünü oluşturur. Mekan, İstanbul'un iklimine uygun olarak tasarlanmış ve inşa edilmiştir. Bu nedenle, ziyaretçiler her mevsim bu tarihi mekanları gezebilirler. I. Mustafa Türbesi, Türk tarihinin önemli bir parçasıdır ve ziyaretçilere zengin bir kültürel deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ I. Mustafa Türbesi, ziyaretçilere zengin bir kültürel deneyim sunar. Mekana 
 ## İlginç Bilgiler
 
 - I. Mustafa Türbesi, Türk tarihinin önemli bir bölümünü oluşturan bir mekan olarak kabul edilir.
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - I. Mustafa Türbesi, yüzyıllar boyunca Türk kültürü ve tarihine hizmet etmiştir.
 - Mekan, çeşitli bitki türleri ve hayvanları barındırır.
 - I. Mustafa Türbesi, her mevsim ziyaret edilebilir.

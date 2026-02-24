@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Küçükkargı","caption":"Küçükkargı","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkarg%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228301","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Küçükkargı Milli Parkı, 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Küçükkargı","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","bitki türleri","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228301"
@@ -30,7 +30,7 @@ Küçükkargı Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Küçükkargı Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alan olarak dikkat çekiyor. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Bölgenin iklimi, parkın flora ve faunasını etkileyen önemli bir faktör olarak görülüyor. Parkın coğrafi yapısı, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor. Küçükkargı Milli Parkı, hem doğa severlerin hem de tatil arayanların ilgi odağı oluyor. Parkın çevresi, çeşitli bitki türleri ve fauna ile ziyaretçileri cezbediyor.
+Küçükkargı Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alan olarak dikkat çekiyor. Bölgenin iklimi, parkın flora ve faunasını etkileyen önemli bir faktör olarak görülüyor. Parkın coğrafi yapısı, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor. Küçükkargı Milli Parkı, hem doğa severlerin hem de tatil arayanların ilgi odağı oluyor. Parkın çevresi, çeşitli bitki türleri ve fauna ile ziyaretçileri cezbediyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Küçükkargı Milli Parkı, ziyaretçilere birçok olanak sunuyor. Parka ulaş�
 
 ## İlginç Bilgiler
 
-- Küçükkargı Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunur.
 - Parkın coğrafi yapısı, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor.
 - Küçükkargı Milli Parkı, hem doğa severlerin hem de tatil arayanların ilgi odağı oluyor.

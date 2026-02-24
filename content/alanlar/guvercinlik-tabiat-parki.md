@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/G%C3%BCvercinlik_Sahili_02.jpg","alt":"Güvercinlik Tabiat Parkı manzarası","credit":"Gargarapalvin","license":"cc-by-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/G%C3%BCvercinlik_Sahili_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/G%C3%BCvercinlik_Sahili_04.jpg/1280px-G%C3%BCvercinlik_Sahili_04.jpg","alt":"Güvercinlik Tabiat Parkı - Güvercinlik Sahili 04","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/G%C3%BCvercinlik_Sahili_07.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/G%C3%BCvercinlik_Sahili_07.jpg/1280px-G%C3%BCvercinlik_Sahili_07.jpg","alt":"Güvercinlik Tabiat Parkı - Güvercinlik Sahili 07","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/G%C3%BCvercinlik_Sahili_41.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/G%C3%BCvercinlik_Sahili_41.jpg/1280px-G%C3%BCvercinlik_Sahili_41.jpg","alt":"Güvercinlik Tabiat Parkı - Güvercinlik Sahili 41","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/G%C3%BCvercinlik_Sahili_46.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/G%C3%BCvercinlik_Sahili_46.jpg/1280px-G%C3%BCvercinlik_Sahili_46.jpg","alt":"Güvercinlik Tabiat Parkı - Güvercinlik Sahili 46","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/G%C3%BCvercinlik_Sahili_50.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/G%C3%BCvercinlik_Sahili_50.jpg/1280px-G%C3%BCvercinlik_Sahili_50.jpg","alt":"Güvercinlik Tabiat Parkı - Güvercinlik Sahili 50","credit":"Gargarapalvin","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercinlik%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Muğla'da doğal güzelliklerin buluşma noktası, 140 hektarlık yeşil alan"
+
 keywords: ["Güvercinlik Tabiat Parkı","Muğla","Ege Bölgesi","doğal güzellik","yeşil alan","tabiat parkı","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 ---
@@ -42,8 +42,6 @@ Güvercinlik Tabiat Parkı, ziyaretçilere birçok aktivite sunuyor. Parkın iç
 
 ## İlginç Bilgiler
 
-- Güvercinlik Tabiat Parkı, 140 hektarlık bir yeşil alan
-- Park, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna var
 - Park, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon
 - Parkın tarihi geçmişi, yüzyıllar boyunca süregelmiştir

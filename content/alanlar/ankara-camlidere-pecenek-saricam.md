@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Ankara Camlidere Pecenek-Saricam","caption":"Ankara Camlidere Pecenek-Saricam","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Camlidere%20Pecenek-Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228088","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Ankara Camlidere Pecenek-Saricam, 140 hektarlık yeşil alanı ile doğa severlerin ziyaret noktalarından biri."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","Ankara","Camlidere","Pecenek-Saricam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228088"

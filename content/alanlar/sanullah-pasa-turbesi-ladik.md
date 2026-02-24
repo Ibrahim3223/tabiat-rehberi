@@ -50,7 +50,7 @@ Sanullah Paşa Türbesi, ziyaretçiler tarafından kolayca ulaşılabilecek bir 
 ## İlginç Bilgiler
 
 - Sanullah Paşa Türbesi, Karadeniz Bölgesi'nin önemli tarihi yapılarından biridir.
-- Türbe, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunmaktadır.
 - Sanullah Paşa Türbesi, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 - Türbe, Ladik ilçesinin merkezine yakın bir konumda yer almaktadır.

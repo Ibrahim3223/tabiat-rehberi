@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","kuş gözlemi","fotoğrafçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"TÜRK DÜNYASI SEYİR ORMANI","caption":"TÜRK DÜNYASI SEYİR ORMANI","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%9CRK%20D%C3%9CNYASI%20SEY%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228697","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin göbeğinde yer alan Türk Dünyası Seyir Ormanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Türk Dünyası Seyir Ormanı","İç Anadolu Bölgesi","orman","doğa","gezi","seyir","yaban hayatı","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228697"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228697"
 
 # TÜRK DÜNYASI SEYİR ORMANI
 
- Bu orman, ziyaretçilerini hem doğanın güzelliği hem de zengin yaban hayatı ile büyülemeye geliyor. 140 hektarlık bu yeşil alan, sadece bir gezi alanı değil, aynı zamanda doğa severler ve yaban hayatı meraklıları için bir cennet. Orman, çevresindeki doğal güzelliklerle birlikte ziyaretçilerine benzersiz bir deneyim sunuyor.
+ Bu orman, ziyaretçilerini hem doğanın güzelliği hem de zengin yaban hayatı ile büyülemeye geliyor. Orman, çevresindeki doğal güzelliklerle birlikte ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Türk Dünyası Seyir Ormanı'nın tarihi geçmişi, yüzyıllar boyunca bölgey
 
 ## Coğrafya
 
-Türk Dünyası Seyir Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, yüksek bir plato üzerinde yer alıyor. Orman, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve yaban hayvanlarıyla dolu. Ormanın coğrafi yapısı, ziyaretçilere hem yürüyüş hem de doğa gözlemi için uygun bir ortam sunuyor. Ormanın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu nedenle, orman, dört mevsim boyunca ziyaretçilere farklı güzellikler sunuyor. Ormanın coğrafi konumu, aynı zamanda ziyaretçilere, çevredeki doğa güzelliklerini keşfetme fırsatı da veriyor.
+Türk Dünyası Seyir Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, yüksek bir plato üzerinde yer alıyor. Ormanın coğrafi yapısı, ziyaretçilere hem yürüyüş hem de doğa gözlemi için uygun bir ortam sunuyor. Ormanın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu nedenle, orman, dört mevsim boyunca ziyaretçilere farklı güzellikler sunuyor. Ormanın coğrafi konumu, aynı zamanda ziyaretçilere, çevredeki doğa güzelliklerini keşfetme fırsatı da veriyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Türk Dünyası Seyir Ormanı, ziyaretçilerine hem gezi hem de doğa gözlemi i
 
 ## İlginç Bilgiler
 
-- Orman, 140 hektarlık bir alanı kaplıyor
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde
 - Orman, çeşitli bitki türleri ve yaban hayvanları ile dolu
 - Orman, dört mevsim boyunca ziyaretçilere farklı güzellikler sunuyor
 - Orman, çevredeki doğa güzelliklerini keşfetme fırsatı da veriyor

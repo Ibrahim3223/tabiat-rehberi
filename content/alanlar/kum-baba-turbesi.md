@@ -50,7 +50,7 @@ Kum Baba Türbesi'ni ziyaret etmek, bir doğa ve tarih sever için unutulmaz bir
 ## İlginç Bilgiler
 
 - Kum Baba Türbesi, Karadeniz Bölgesi'nin en önemli tarihi mekanlarından biri
-- Bu bölge, 140 hektarlık bir alanı kaplıyor
+
 - Kum Baba Türbesi, yılın her dönemi ziyaret edilebilir
 - Bu bölgede, doğa yürüyüşü ve deniz aktiviteleri yapılabilir
 - Kum Baba Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor

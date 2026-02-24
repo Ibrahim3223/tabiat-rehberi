@@ -28,7 +28,7 @@ wikidata_id: "Q34878361"
 
 # Kavlitütüni Tepesi
 
-Kavlitütüni Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kavlitütüni Tepesi'nin eteklerinde yer alan köylerin tarihi geçmişi, bu bölgeyi sadece doğal güzelliği ile değil, aynı zamanda kültürel zenginliğiyle de önemli kılıyor. Tepenin zirvesine çıktığınızda, sizi bekleyen manzara, tüm yorgunluğunuzu unutturacak cinsten. Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Kavlitütüni Tepesi, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir destinasyon.
+Kavlitütüni Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Kavlitütüni Tepesi'nin eteklerinde yer alan köylerin tarihi geçmişi, bu bölgeyi sadece doğal güzelliği ile değil, aynı zamanda kültürel zenginliğiyle de önemli kılıyor. Tepenin zirvesine çıktığınızda, sizi bekleyen manzara, tüm yorgunluğunuzu unutturacak cinsten. Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Kavlitütüni Tepesi, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kavlitütüni Tepesi'nin tarihi geçmişi, bölgede yaşayan ilk medeniyetlere k
 
 ## Coğrafya
 
-Kavlitütüni Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri olarak karşımıza çıkıyor. Batman ilinin sınırları içerisinde yer alan bu tepe, aproximadamente 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda yer alıyor. Kavlitütüni Tepesi'nin eteklerinde yer alan köyler, tarihi evleri ve geleneksel mimarisiyle dikkat çekiyor. Tepenin zirvesine çıktığınızda, sizi bekleyen manzara, tüm yorgunluğunuzu unutturacak cinsten. Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Kavlitütüni Tepesi, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir destinasyon. Tepenin coğrafi konumu, bölgenin iklimini de etkiliyor. Kavlitütüni Tepesi'nin iklimi, genel olarak ılımandır ve bn mevsim ziyaret edilebilir. Tepenin surroundingsı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kavlitütüni Tepesi, coğrafi olarak önemli bir nokta olmasının yanı sıra, aynı zamanda bölgenin ekolojik dengesini de sağlayan önemli bir destinasyon.
+Kavlitütüni Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri olarak karşımıza çıkıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda yer alıyor. Kavlitütüni Tepesi'nin eteklerinde yer alan köyler, tarihi evleri ve geleneksel mimarisiyle dikkat çekiyor. Tepenin zirvesine çıktığınızda, sizi bekleyen manzara, tüm yorgunluğunuzu unutturacak cinsten. Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Kavlitütüni Tepesi, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir destinasyon. Tepenin coğrafi konumu, bölgenin iklimini de etkiliyor. Kavlitütüni Tepesi'nin iklimi, genel olarak ılımandır ve bn mevsim ziyaret edilebilir. Tepenin surroundingsı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kavlitütüni Tepesi, coğrafi olarak önemli bir nokta olmasının yanı sıra, aynı zamanda bölgenin ekolojik dengesini de sağlayan önemli bir destinasyon.
 
 ## Flora ve Fauna
 

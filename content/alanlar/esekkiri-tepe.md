@@ -28,7 +28,7 @@ wikidata_id: "Q31390131"
 
 # Eşekkırı Tepe
 
-Eşekkırı Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Eşekkırı Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor. Burada, yüzyıllar boyunca oluşan doğal güzellikleri ve tarihi kalıntıları görebilirsiniz. Eşekkırı Tepe, hem doğa severler hem de tarih meraklıları için ideal bir ziyaret noktası.
+Eşekkırı Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe. Eşekkırı Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor. Burada, yüzyıllar boyunca oluşan doğal güzellikleri ve tarihi kalıntıları görebilirsiniz. Eşekkırı Tepe, hem doğa severler hem de tarih meraklıları için ideal bir ziyaret noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Eşekkırı Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe
 
 ## Coğrafya
 
-Eşekkırı Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Eşekkırı Tepe, coğrafi konumuyla dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip. Eşekkırı Tepe'nin çevresi, çeşitli bitki türleriyle kaplı. Burada, mevsimsel değişimlere göre farklı bitki türleri görülüyor. Eşekkırı Tepe, coğrafi konumuyla dikkat çektiği gibi, iklimi ile de dikkat çekiyor. Bu tepe, Akdeniz ikliminin karakteristik özelliklerine sahip. Eşekkırı Tepe, ziyaretçilerini coğrafi ve iklimsel zenginlikleriyle bekliyor.
+Eşekkırı Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Eşekkırı Tepe, coğrafi konumuyla dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip. Eşekkırı Tepe'nin çevresi, çeşitli bitki türleriyle kaplı. Burada, mevsimsel değişimlere göre farklı bitki türleri görülüyor. Eşekkırı Tepe, coğrafi konumuyla dikkat çektiği gibi, iklimi ile de dikkat çekiyor. Bu tepe, Akdeniz ikliminin karakteristik özelliklerine sahip. Eşekkırı Tepe, ziyaretçilerini coğrafi ve iklimsel zenginlikleriyle bekliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Eşekkırı Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor.
 
 ## İlginç Bilgiler
 
-- Eşekkırı Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Eşekkırı Tepe, coğrafi konumuyla dikkat çekiyor.
 - Eşekkırı Tepe, flora ve fauna açısından zengin bir bölge.
 - Eşekkırı Tepe, ekolojik dengesi ile dikkat çekiyor.

@@ -36,7 +36,7 @@ Kevrebreze Tepesi, Diyarbakır'ın tarihsel geçmişinin önemli bir parçasın�
 
 ## Coğrafya
 
-Kevrebreze Tepesi, Güneydoğu Anadolu Bölgesi'nde bulunan Diyarbakır ilinin sınırları içerisinde yer alıyor. Tepenin coğrafi konumu, ziyaretçilere şehrin panoramik manzarasını sunuyor. Kevrebreze Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor, bu alanın büyük bölümü yeşilliklerle kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta, bu da bölgenin ekolojik dengesini koruyor. İklim olarak, Kevrebreze Tepesi ve çevresinde, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik iklim koşulları hakim. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu çeşitlilik, bölgenin flora ve faunasını zenginleştiriyor. Kevrebreze Tepesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Kevrebreze Tepesi, Güneydoğu Anadolu Bölgesi'nde bulunan Diyarbakır ilinin sınırları içerisinde yer alıyor. Tepenin coğrafi konumu, ziyaretçilere şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta, bu da bölgenin ekolojik dengesini koruyor. İklim olarak, Kevrebreze Tepesi ve çevresinde, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik iklim koşulları hakim. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu çeşitlilik, bölgenin flora ve faunasını zenginleştiriyor. Kevrebreze Tepesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Kand%C4%B1ra_Seyrek_%281%29.jpg","alt":"Kocaeli-Kandira Seyrek manzarası","credit":"Şadi Akdoğan","license":"cc-by-2.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Kand%C4%B1ra_Seyrek_%285%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kand%C4%B1ra_Seyrek_%285%29.jpg/1280px-Kand%C4%B1ra_Seyrek_%285%29.jpg","alt":"Kocaeli-Kandira Seyrek - Kandıra Seyrek (5)","credit":"Şadi Akdoğan","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Kand%C4%B1ra_Seyrek_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kand%C4%B1ra_Seyrek_%282%29.jpg/1280px-Kand%C4%B1ra_Seyrek_%282%29.jpg","alt":"Kocaeli-Kandira Seyrek - Kandıra Seyrek (2)","credit":"Şadi Akdoğan","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Kand%C4%B1ra_Seyrek_%288%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kand%C4%B1ra_Seyrek_%288%29.jpg/1280px-Kand%C4%B1ra_Seyrek_%288%29.jpg","alt":"Kocaeli-Kandira Seyrek - Kandıra Seyrek (8)","credit":"Şadi Akdoğan","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Kand%C4%B1ra_Seyrek_%289%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kand%C4%B1ra_Seyrek_%289%29.jpg/1280px-Kand%C4%B1ra_Seyrek_%289%29.jpg","alt":"Kocaeli-Kandira Seyrek - Kandıra Seyrek (9)","credit":"Şadi Akdoğan","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/44/Kand%C4%B1ra_Seyrek_%286%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kand%C4%B1ra_Seyrek_%286%29.jpg/1280px-Kand%C4%B1ra_Seyrek_%286%29.jpg","alt":"Kocaeli-Kandira Seyrek - Kandıra Seyrek (6)","credit":"Şadi Akdoğan","license":"cc-by-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocaeli-Kandira%20Seyrek","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227401","tip":"genel"}]
-description: "Kocaeli'nin doğal güzellikleri arasında yer alan Kandira Seyrek, 140 hektarlık bir alanı kapsıyor. Marmara Bölgesi'nde bulunan bu milli park, ziyaretçilerine doğa yürüyüşleri ve piknik alanları sunuyor."
+ Marmara Bölgesi'nde bulunan bu milli park, ziyaretçilerine doğa yürüyüşleri ve piknik alanları sunuyor."
 keywords: ["Kocaeli","Kandira Seyrek","Marmara Bölgesi","milli park","doğa yürüyüşü","piknik alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227401"
@@ -44,7 +44,6 @@ Kocaeli-Kandira Seyrek, ziyaretçilere doğa yürüyüşleri, piknik alanları v
 ## İlginç Bilgiler
 
 - Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin en büyük milli parklarından biri.
-- Kandira Seyrek, 140 hektarlık bir alanı kapsar.
 
 - Kocaeli-Kandira Seyrek, zengin fauna ve florasına sahiptir.
 - Kandira Seyrek, Marmara Denizi'ne doğru uzanan tepeler ve vadilerle çevrilidir.

@@ -28,7 +28,7 @@ wikidata_id: "Q34828425"
 
 # Çarşela Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yer alan Çarşela Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Çarşela Tepesi, ziyaretçilerini doğanın içesinde bir macera sunmak için hazır bekler. Tepenin eteklerinde ve zirvesinde, farklı mevsimlerde farklı renkler ve manzaralar sunan bitki örtüsü, ziyaretçilere doğanın güzelliğini gösterir.
+ Çarşela Tepesi, ziyaretçilerini doğanın içesinde bir macera sunmak için hazır bekler. Tepenin eteklerinde ve zirvesinde, farklı mevsimlerde farklı renkler ve manzaralar sunan bitki örtüsü, ziyaretçilere doğanın güzelliğini gösterir.
 
 ## Tarihçe
 

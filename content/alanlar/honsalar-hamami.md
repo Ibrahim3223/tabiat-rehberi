@@ -21,7 +21,7 @@ aktiviteler: ["Yürüyüş","Doğa gezisi","Fotografcılık","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg","alt":"Honsalar Hamamı","caption":"Honsalar Hamamı","credit":"Sunset at Aegean Sea, İzmir 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Honsalar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738818","tip":"genel"}]
-description: "Kastamonu'nun gizli cenneti, Karadeniz Bölgesi'nde yer alan Honsalar Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Kastamonu","Karadeniz Bölgesi","Honsalar Hamamı","plaj","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738818"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738818"
 
 # Honsalar Hamamı
 
-Honsalar Hamamı, Kastamonu'nun merkezinde yer alan 140 hektarlık geniş bir yeşil alana sahip. Honsalar Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, şehrin gürültüsünden uzaklaşmanın keyfini çıkarmalarına olanak tanır. Bu güzel mekan, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra, şehrin doğal güzelliklerini keşfetmek isteyenler için de önemli bir destinasyondur.
+ Honsalar Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, şehrin gürültüsünden uzaklaşmanın keyfini çıkarmalarına olanak tanır. Bu güzel mekan, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra, şehrin doğal güzelliklerini keşfetmek isteyenler için de önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Honsalar Hamamı, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sa
 Honsalar Hamamı, Kastamonu'nun merkezinde yer alan bir destinasyon olup, ziyaretçilerine kolay ulaşım olanakları sunar. Bu alan, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir noktadır. Honsalar Hamamı, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda şehrin gürültüsünden uzaklaşmalarına olanak tanır. Bu bölge, Kastamonu'nun turizm potansiyelini artırmaya yardımcı olan önemli bir noktadır. Honsalar Hamamı, ziyaretçilerine konforlu bir deneyim sunar ve Kastamonu'nun en önemli doğal güzelliklerinden biri olup, ziyaretçilerini doğayla baş başa bırakarak, şehrin gürültüsünden uzaklaşmalarına olanak tanır.
 
 ## İlginç Bilgiler
-
-- Honsalar Hamamı, 140 hektarlık bir yeşil alana sahiptir.
 
 - Honsalar Hamamı, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Bu bölge, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.

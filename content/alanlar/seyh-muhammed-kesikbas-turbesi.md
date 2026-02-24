@@ -37,7 +37,7 @@ wikidata_id: "Q131391835"
 
 ## Coğrafya
 
-Şeyh Muhammed Kesikbaş Türbesi, Cizre/Şırnak'ta yer alan bir dini merkezdir. Coğrafi konumu itibariyle, Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapmaktadır. Türbe, yaklaşık 140 hektarlık bir alanda yer almaktadır ve bu alan, çeşitli bitki türleri ve fauna ile örtülmüştür. Bölgenin iklimi, türbenin güzelliklerini daha da vurgulamaktadır. Çevre, zengin bir ekosistem sunmaktadır ve ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Şeyh Muhammed Kesikbaş Türbesi, coğrafi konumu itibariyle hem dini hem de doğal güzelliklerin bir arada olduğu özel bir destinasyondur.
+Şeyh Muhammed Kesikbaş Türbesi, Cizre/Şırnak'ta yer alan bir dini merkezdir. Coğrafi konumu itibariyle, Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapmaktadır. Bölgenin iklimi, türbenin güzelliklerini daha da vurgulamaktadır. Çevre, zengin bir ekosistem sunmaktadır ve ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Şeyh Muhammed Kesikbaş Türbesi, coğrafi konumu itibariyle hem dini hem de doğal güzelliklerin bir arada olduğu özel bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ wikidata_id: "Q131391835"
 - Şeyh Muhammed Kesikbaş Türbesi, önemli dini merkezlerden biridir.
 - Türbenin etrafı, çeşitli bitki türleri ve fauna ile örtülmüştür.
 - Bölgenin iklimi, doğal güzelliklerin oluşmasına katkıda bulunmuştur.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer almaktadır.
+
 - Şeyh Muhammed Kesikbaş'ın yaşamı ve öğretileri, türbenin etrafında oluşan dini ve kültürel faaliyetlerin temelini oluşturmuştur.

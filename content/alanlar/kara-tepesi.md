@@ -28,7 +28,7 @@ wikidata_id: "Q31558189"
 
 # Kara Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Kara Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Kara Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir. Ziyaretçiler, bu tepeye çıktıklarında Ankara'nın panoramik manzarasını izleme fırsatı bulurlar. Ayrıca, tepe etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlar.
+ Kara Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir. Ziyaretçiler, bu tepeye çıktıklarında Ankara'nın panoramik manzarasını izleme fırsatı bulurlar. Ayrıca, tepe etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlar.
 
 ## Tarihçe
 

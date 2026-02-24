@@ -21,7 +21,7 @@ aktiviteler: ["gezi","yürüyüş","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Sarıveliler Kızılçukur Örenyeri","caption":"Sarıveliler Kızılçukur Örenyeri","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1veliler%20K%C4%B1z%C4%B1l%C3%A7ukur%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728147","tip":"genel"}]
-description: "Karaman'ın Sarıveliler ilçesinde bulunan Sarıveliler Kızılçukur Örenyeri, 140 hektarlık bir alanı kaplayan doğal bir güzelliktir."
+"
 keywords: ["Sarıveliler","Kızılçukur Örenyeri","Karaman","doğal güzellik","iç Anadolu Bölgesi","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728147"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728147"
 
 # Sarıveliler Kızılçukur Örenyeri
 
-Sarıveliler Kızılçukur Örenyeri, Karaman'ın Sarıveliler ilçesinde yer alan ve 140 hektarlık bir alanı kaplayan doğal bir güzelliktir. Sarıveliler Kızılçukur Örenyeri, doğa severler ve gezi severler için bir cennettir. Burada, çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir ören yeri olarak da bilinmektedir. Burada, tarihi geçmişi olan yapılar ve kalıntılar bulunmaktadır.
+ Sarıveliler Kızılçukur Örenyeri, doğa severler ve gezi severler için bir cennettir. Burada, çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir ören yeri olarak da bilinmektedir. Burada, tarihi geçmişi olan yapılar ve kalıntılar bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sarıveliler Kızılçukur Örenyeri, tarihi geçmişi olan bir bölgedir. Bu b�
 
 ## Coğrafya
 
-Sarıveliler Kızılçukur Örenyeri, Karaman'ın Sarıveliler ilçesinde yer almaktadır. Bu bölge, iç Anadolu Bölgesi'nin güneydoğusunda yer almaktadır. Sarıveliler Kızılçukur Örenyeri, 140 hektarlık bir alanı kaplamaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir doğal güzellik olarak da bilinmektedir. Burada, çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir ören yeri olarak da bilinmektedir. Burada, tarihi geçmişi olan yapılar ve kalıntılar bulunmaktadır. Bu bölgede, birçok tarihi eser ve buluntu bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, tarihçiler ve arkeologlar için bir araştırma cennetidir. Burada, birçok tarihi bilgi ve buluntu bulunmaktadır.
+Sarıveliler Kızılçukur Örenyeri, Karaman'ın Sarıveliler ilçesinde yer almaktadır. Bu bölge, iç Anadolu Bölgesi'nin güneydoğusunda yer almaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir doğal güzellik olarak da bilinmektedir. Burada, çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir ören yeri olarak da bilinmektedir. Burada, tarihi geçmişi olan yapılar ve kalıntılar bulunmaktadır. Bu bölgede, birçok tarihi eser ve buluntu bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, tarihçiler ve arkeologlar için bir araştırma cennetidir. Burada, birçok tarihi bilgi ve buluntu bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Sarıveliler Kızılçukur Örenyeri, çeşitli bitki türleri ve yaban hayatı 
 Sarıveliler Kızılçukur Örenyeri, doğa severler ve gezi severler için bir cennettir. Burada, birçok farklı turistik tesis ve hizmet bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir ören yeri olarak da bilinmektedir. Burada, tarihi geçmişi olan yapılar ve kalıntılar bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, tarihçiler ve arkeologlar için bir araştırma cennetidir. Burada, birçok tarihi bilgi ve buluntu bulunmaktadır. Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir doğal güzellik olarak da bilinmektedir. Burada, çeşitli bitki türleri ve yaban hayatı bulunmaktadır.
 
 ## İlginç Bilgiler
-
-- Sarıveliler Kızılçukur Örenyeri, 140 hektarlık bir alanı kaplamaktadır.
 
 - Sarıveliler Kızılçukur Örenyeri, aynı zamanda bir ören yeri olarak da bilinmektedir.
 - Burada, tarihi geçmişi olan yapılar ve kalıntılar bulunmaktadır.

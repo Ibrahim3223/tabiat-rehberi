@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Kahramanmaras-Sucati Kızılçam2","caption":"Kahramanmaras-Sucati Kızılçam2","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Sucati%20K%C4%B1z%C4%B1l%C3%A7am2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227431","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Kahramanmaras-Sucati Kızılçam2, 140 hektarlık geniş bir alana sahiptir."
+"
 keywords: ["Kahramanmaras","Sucati Kızılçam2","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227431"
@@ -42,7 +42,6 @@ Kahramanmaras-Sucati Kızılçam2 milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Kahramanmaras-Sucati Kızılçam2 milli parkı, 140 hektarlık geniş bir alana sahiptir.
 - Bu milli park, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir.
 - Kahramanmaras-Sucati Kızılçam2 milli parkı, tarihi geçmişi ve kültürel önemi ile dikkat çeker.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.

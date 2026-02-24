@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık","Kampçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/MOKFC12.jpg/960px-MOKFC12.jpg","alt":"İzmir-Kemalpaşa-Kemalpaşa Kızılçam","caption":"İzmir-Kemalpaşa-Kemalpaşa Kızılçam","credit":"MOKFC12.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir-Kemalpa%C5%9Fa-Kemalpa%C5%9Fa%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228484","tip":"genel"}]
-description: "İzmir'in Kemalpaşa ilçesinde yer alan Kemalpaşa Kızılçam Milli Parkı, 140 hektarlık geniş bir alana sahiptir."
+"
 keywords: ["Kemalpaşa Kızılçam Milli Parkı","İzmir","Kemalpaşa","Milli Park","Doğa","Turizm","Çevre","Kızılçam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228484"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228484"
 
 # İzmir-Kemalpaşa-Kemalpaşa Kızılçam
 
-İzmir'in Kemalpaşa ilçesinde yer alan Kemalpaşa Kızılçam Milli Parkı, 140 hektarlık geniş bir alana sahiptir. Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. 140 hektarlık bu yeşil alan, aynı zamanda bölgenin ekolojik dengesini korumada önemli bir rol oynamaktadır.
+ Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kemalpaşa Kızılçam Milli Parkı, tarihi geçmişi ile dikkat çekmektedir. B
 
 ## Coğrafya
 
-Kemalpaşa Kızılçam Milli Parkı, Ege Bölgesi'nin İzmirlidir. Park, Kemalpaşa ilçesinde yer alıyor ve 140 hektarlık bir alana yayılmış durumda. Bu bölgenin coğrafi yapısı, dağlık ve ormanlık alanların birleşiminden oluşuyor. Parkın iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Burada, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Parkın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunuyor. Dağ yürüyüşleri, doğa gezileri ve piknik alanları, parkın sunduğu imkanlardan bazıları. Ayrıca, parkın çevresinde, çeşitli köyler ve yerleşim yerleri bulunduğundan, yerel kültürü tanımak da mümkün. Parkın coğrafyası, ziyaretçilere hem doğal güzellikleri hem de kültürel zenginlikleri deneyimleme fırsatı sunuyor.
+Kemalpaşa Kızılçam Milli Parkı, Ege Bölgesi'nin İzmirlidir. Bu bölgenin coğrafi yapısı, dağlık ve ormanlık alanların birleşiminden oluşuyor. Parkın iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Burada, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Parkın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunuyor. Dağ yürüyüşleri, doğa gezileri ve piknik alanları, parkın sunduğu imkanlardan bazıları. Ayrıca, parkın çevresinde, çeşitli köyler ve yerleşim yerleri bulunduğundan, yerel kültürü tanımak da mümkün. Parkın coğrafyası, ziyaretçilere hem doğal güzellikleri hem de kültürel zenginlikleri deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kemalpaşa Kızılçam Milli Parkı, ziyaretçilere çeşitli aktivite olanaklar
 
 ## İlginç Bilgiler
 
-- Kemalpaşa Kızılçam Milli Parkı, 140 hektarlık bir alana sahiptir.
 - Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Parkın iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösteriyor.

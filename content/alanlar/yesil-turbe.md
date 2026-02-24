@@ -51,7 +51,7 @@ Yeşil Türbe'yi ziyaret etmek için, yılın her mevsimi uygundur. Ancak, en uy
 ## İlginç Bilgiler
 
 - Yeşil Türbe, Bursa'nın en çok ziyaret edilen plajlarından biridir.
-- Plaj, 140 hektarlık bir alanı kaplar.
+
 - Yeşil Türbe, Marmara Denizi'nin kıyısında yer alır.
 - Plajın etrafı, çeşitli ağaçlar ve bitki türleriyle süslüdür.
 - Yeşil Türbe, flora ve fauna açısından zengin bir alandır.

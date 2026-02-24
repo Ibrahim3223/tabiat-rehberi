@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Fotoğrafçılık","Doğa Gözlemleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6f/A%C5%9F%C4%B1kpa%C5%9Fa_Tabiat_Park%C4%B1.jpg","alt":"Aşıkpaşa Tabiat Parkı manzarası","credit":"Asya Toprak Baldassare","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/A%C5%9F%C4%B1kpa%C5%9Fa_Tabiat_Park%C4%B1.jpg/960px-A%C5%9F%C4%B1kpa%C5%9Fa_Tabiat_Park%C4%B1.jpg","alt":"Aşıkpaşa Tabiat Parkı","caption":"Aşıkpaşa Tabiat Parkı","credit":"Aşıkpaşa Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1kpa%C5%9Fa%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228132","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerini keşfedin, Aşıkpaşa Tabiat Parkı'nı ziyaret edin."

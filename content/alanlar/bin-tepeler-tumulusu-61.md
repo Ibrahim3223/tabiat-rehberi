@@ -49,8 +49,6 @@ Bin Tepeler Tümülüsü 61, ziyaretçilerine birçok imkan sunuyor. Bu bölge, 
 
 ## İlginç Bilgiler
 
-- Bin Tepeler Tümülüsü 61, 140 hektarlık bir yeşil alana kurulmuş.
-
 - Bin Tepeler Tümülüsü 61, tarihi yapıları ve kalıntıları ile ziyaretçilerini çekiyor.
 - Bu bölge, coğrafi olarak zengin bir fauna ve flora ile karşılaşıyoruz.
 - Bin Tepeler Tümülüsü 61, gezi severlerin ve tarih aşığılarının ilgi odağı olmakla birlikte, herkesin keyifle gezebileceği bir yer.

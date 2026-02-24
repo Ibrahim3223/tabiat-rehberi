@@ -50,7 +50,7 @@ wikidata_id: "Q131391754"
 ## İlginç Bilgiler
 
 - Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer alan bir tarihi yapıdır.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir.
+
 - Bu bölge, birçok bitki ve hayvan türüne ev sahipliği yapar.
 - Şehit Hacı Yakup Efendi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir.
 - Türbe, birçok kişinin ziyaret ettiği ve saygı gösterdiği bir yerdir.

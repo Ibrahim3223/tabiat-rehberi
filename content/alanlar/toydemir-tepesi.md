@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Toydemir Tepesi","caption":"Toydemir Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toydemir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558290","tip":"genel"}]
-description: "Ankara'nın görkemli doğasında yer alan Toydemir Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Toydemir Tepesi","doğa","tepe","gezi","yaban hayatı","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558290"

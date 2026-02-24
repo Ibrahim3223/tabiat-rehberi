@@ -14,15 +14,15 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Kahramanmaras-Goksun-B.Camurlu Karacam","caption":"Kahramanmaras-Goksun-B.Camurlu Karacam","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun-B.Camurlu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227518","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Kahramanmaras","Goksun","B.Camurlu Karacam","milli park","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","ekosistem"]
+"
+keywords: ["Kahramanmaras","Goksun","B.
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227518"
 ---
 
 # Kahramanmaras-Goksun-B.Camurlu Karacam
 
-Kahramanmaras-Goksun-B.Camurlu Karacam milli parkı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Milli park, ziyaretçilerini doğanın içinde bir macera yaşamaya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. 140 hektarlık bu yeşil alan, aynı zamanda birçok farklı habitatı bir arada barındıran önemli bir ekosistemdir.
+Kahramanmaras-Goksun-B. Milli park, ziyaretçilerini doğanın içinde bir macera yaşamaya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Kahramanmaras-Goksun-B.Camurlu Karacam milli parkı, çeşitli bitki türleri ve
 Kahramanmaras-Goksun-B.Camurlu Karacam milli parkını ziyaret etmek, doğa severler için önemli bir deneyim olabilir. Milli park, ziyaretçilerine birçok farklı aktivite sunuyor. Burada, doğa yürüyüşleri, kuş gözlemciliği ve fotoğrafçılık gibi aktiviteler yapılabilir. Milli park, aynı zamanda birçok farklı mevsimi yaşayan bir bölge olup, ziyaretçilere dört mevsimi yaşayan bir deneyim sunuyor. Milli parka ulaşım, İç Anadolu Bölgesi'nden dácil olabilir. Milli parkın girişi, ücretli olup, ziyaretçilere belirli bir ücret karşılığında girilebilir.
 
 ## İlginç Bilgiler
-
-- Milli park, 140 hektarlık bir yeşil alana sahiptir.
 
 - Milli park, birçok farklı habitatı bir arada barındıran önemli bir ekosistemdir.
 - Milli park, ziyaretçilerine birçok farklı bitki türü ve hayvan gösterir.

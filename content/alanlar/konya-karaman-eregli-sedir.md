@@ -22,7 +22,7 @@ wikidata_id: "Q108228572"
 
 # Konya-Karaman-Eregli-Sedir
 
-Konya-Karaman-Eregli-Sedir milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Bu alan, Konya ilinin Karaman ilçesi ve Eregli ilçesi sınırları içerisinde yer alır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+ Bu alan, Konya ilinin Karaman ilçesi ve Eregli ilçesi sınırları içerisinde yer alır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Konya-Karaman-Eregli-Sedir milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Konya-Karaman-Eregli-Sedir milli parkı, coğrafi olarak İç Anadolu Bölgesi'nde yer alan bir bölgedir. Bu bölge, Konya ilinin Karaman ilçesi ve Eregli ilçesi sınırları içerisinde yer alır. Bölge, 140 hektarlık bir alanı kapsar ve birçok farklı türde bitki ve hayvanın yaşadığı bir ekosistemdir. Bu bölgede, çeşitli bitki türleri, zengin fauna ve farklı ekosistemler bulunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer ve yazları sıcak, kışları soğuk geçer. Bölgenin coğrafi yapısı, birçok farklı doğa oluşumunu barındırır ve bu nedenle, bu bölge birçok insanın ilgisini çekmektedir.
+Konya-Karaman-Eregli-Sedir milli parkı, coğrafi olarak İç Anadolu Bölgesi'nde yer alan bir bölgedir. Bu bölge, Konya ilinin Karaman ilçesi ve Eregli ilçesi sınırları içerisinde yer alır. Bu bölgede, çeşitli bitki türleri, zengin fauna ve farklı ekosistemler bulunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer ve yazları sıcak, kışları soğuk geçer. Bölgenin coğrafi yapısı, birçok farklı doğa oluşumunu barındırır ve bu nedenle, bu bölge birçok insanın ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Konya-Karaman-Eregli-Sedir milli parkını ziyaret etmek, birçok insanın ilgis
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alanı kapsar
 - Bölgede, birçok farklı türde bitki ve hayvan yaşar
 - Bölge, İç Anadolu Bölgesi'nde yer alır
 - Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","tırmanma"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Kocakoru Ormani","caption":"Kocakoru Ormani","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakoru%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227341","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Kocakoru Ormani, 140 hektarlık geniş bir alanı kapsıyor."
+"
 keywords: ["Kocakoru Ormani","İç Anadolu Bölgesi","doğal güzellik","orman","milli park","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227341"
@@ -41,8 +41,6 @@ Kocakoru Ormani, zengin bir flora ve fauna ile kaplı. Ormanda, çeşitli ağaç
 Kocakoru Ormani, ziyaretçilere birçok faaliyet imkanı sunuyor. Ormanda, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi faaliyetler yapma mümkün. Ziyaretçiler, ormanın doğal güzelliğini keşfedebilir ve farklı deneyimler yaşayabilir. Kocakoru Ormani, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, ormanın güzelliğini en iyi şekilde görmek için en uygun zamanlar. Ormana ulaşım, özel araçlar veya toplu taşıma araçları ile mümkün. Orman, ziyaretçilere birçok imkan sunuyor.
 
 ## İlginç Bilgiler
-
-- Kocakoru Ormani, 140 hektarlık bir alanı kapsıyor.
 
 - Kocakoru Ormani, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alıyor.
 - Orman, çeşitli ağaç türleri ile kaplı ve zengin bir ekosisteme sahip.

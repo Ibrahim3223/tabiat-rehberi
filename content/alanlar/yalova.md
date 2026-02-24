@@ -43,7 +43,6 @@ Yalova milli parkını ziyaret etmek, doğa severlerin ve tarih meraklılarını
 
 ## İlginç Bilgiler
 
-- Yalova milli parkı, yaklaşık 140 hektarlık bir alana sahiptir
 - Parkta, çeşitli bitki türleri ve hayvanlar yaşıyor
 - Yalova milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor
 - Parkın coğrafi konumu, farklı iklimler ve toprak yapılarından dolayı, burada zengin bir flora ve fauna oluşmuştur

@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Bitki ve hayvan türle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Isparta-Egirdir-Y.gokdere Mese","caption":"Isparta-Egirdir-Y.gokdere Mese","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egirdir-Y.gokdere%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227706","tip":"genel"}]
-description: "Isparta'nın doğal güzelliklerini keşfedin. 140 hektarlık milli park, zengin flora ve fauna ile dikkat çekiyor."
+description: "Isparta'nın doğal güzelliklerini keşfedin."
 keywords: ["Isparta","Egirdir","Y.gokdere Mese","Milli Park","Doğa","Flora","Fauna","Isparta Turizm","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227706"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227706"
 
 # Isparta-Egirdir-Y.gokdere Mese
 
-Isparta-Egirdir-Y.gokdere Mese, Isparta'nın Egirdir ilçesinde bulunan 140 hektarlık bir milli parktır. Mese, Isparta'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirsiniz. Milli parkın büyüklüğü ve çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Isparta-Egirdir-Y. Mese, Isparta'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirsiniz. Milli parkın büyüklüğü ve çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Egirdir-Y.gokdere Mese'nin tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Isparta-Egirdir-Y.gokdere Mese, Isparta'nın Egirdir ilçesinde yer almaktadır. Bu milli park, 140 hektarlık bir alana yayılmış olup, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Mese'nin coğrafyası, dağlar, vadiler ve ovalardan oluşur. İklim, Akdeniz iklimi özellikleri taşır ve genellikle ılımandır. Milli parkın coğrafi konumu ve özellikleri, ziyaretçilere doğayı keşfetme imkanı sunar. Burada, yürüyüş yapabilir, doğa fotoğrafçılığı yapabilir veya sadece doğanın güzelliklerini izleyebilirsiniz.
+Isparta-Egirdir-Y.gokdere Mese, Isparta'nın Egirdir ilçesinde yer almaktadır. Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Mese'nin coğrafyası, dağlar, vadiler ve ovalardan oluşur. İklim, Akdeniz iklimi özellikleri taşır ve genellikle ılımandır. Milli parkın coğrafi konumu ve özellikleri, ziyaretçilere doğayı keşfetme imkanı sunar. Burada, yürüyüş yapabilir, doğa fotoğrafçılığı yapabilir veya sadece doğanın güzelliklerini izleyebilirsiniz.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,7 @@ Isparta-Egirdir-Y.gokdere Mese'yi ziyaret etmek, doğa severler için ideal bir 
 
 ## İlginç Bilgiler
 
-- Isparta-Egirdir-Y.gokdere Mese, 140 hektarlık bir milli parktır.
+- Isparta-Egirdir-Y.
 - Milli park, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar.
 - Mese'nin coğrafyası, dağlar, vadiler ve ovalardan oluşur.
 - İklim, Akdeniz iklimi özellikleri taşır ve genellikle ılımandır.

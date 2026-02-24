@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Trekking","Manzara izleme","Fotoğrafçıl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Gökbel Tepesi","caption":"Gökbel Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872027","tip":"genel"}]
-description: "Antalya'nın gözde destinasyonlarından biri olan Gökbel Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
+"
 keywords: ["Gökbel Tepesi","Antalya","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","yürüyüş","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34872027"
@@ -36,7 +36,7 @@ Gökbel Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Gökbel Tepesi, coğrafi olarak Antalya'nın kuzeyinde, Akdeniz Bölgesi'nin dağlık alanlarına yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve zirvesi, yüksek bir konumda bulunuyor. Gökbel Tepesi surroundingsında, çeşitli bitki türleri ve zengin fauna found. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde, doğa yürüyüşleri ve trekking etkinlikleri popüler. Tepenin manzarası, Akdeniz'in geniş sularını ve Antalya'nın yeşil vadilerini kapsıyor. İklim, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yani, yazlar sıcak ve kurak, kışlar ılıman ve yağışlı. Bu coğrafi özellikler, Gökbel Tepesi'ni hem doğa severler hem de macera arayışındaki ziyaretçiler için çekici bir destinasyon haline getiriyor.
+Gökbel Tepesi, coğrafi olarak Antalya'nın kuzeyinde, Akdeniz Bölgesi'nin dağlık alanlarına yakın bir konumda yer alıyor. Gökbel Tepesi surroundingsında, çeşitli bitki türleri ve zengin fauna found. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde, doğa yürüyüşleri ve trekking etkinlikleri popüler. Tepenin manzarası, Akdeniz'in geniş sularını ve Antalya'nın yeşil vadilerini kapsıyor. İklim, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yani, yazlar sıcak ve kurak, kışlar ılıman ve yağışlı. Bu coğrafi özellikler, Gökbel Tepesi'ni hem doğa severler hem de macera arayışındaki ziyaretçiler için çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

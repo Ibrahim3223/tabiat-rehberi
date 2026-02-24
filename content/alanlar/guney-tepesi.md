@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Amisos_Tepesi_g%C3%BCney_t%C3%BCm%C3%BCl%C3%BCs%C3%BC_bilgilendirme_tabelas%C4%B1.JPG","alt":"Güney Tepesi manzarası","credit":"Cobija","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Amisos_Tepesi_g%C3%BCney_t%C3%BCm%C3%BCl%C3%BCs%C3%BC_giri%C5%9Fi.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amisos_Tepesi_g%C3%BCney_t%C3%BCm%C3%BCl%C3%BCs%C3%BC_giri%C5%9Fi.JPG/1280px-Amisos_Tepesi_g%C3%BCney_t%C3%BCm%C3%BCl%C3%BCs%C3%BC_giri%C5%9Fi.JPG","alt":"Güney Tepesi - Amisos Tepesi güney tümülüsü girişi","credit":"Cobija","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCney%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139355","tip":"genel"}]
-description: "Erzurum'un doğal güzelliklerini keşfedin. Güney Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor."
+description: "Erzurum'un doğal güzelliklerini keşfedin."
 keywords: ["Güney Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139355"

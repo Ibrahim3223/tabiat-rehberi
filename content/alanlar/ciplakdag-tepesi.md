@@ -49,7 +49,7 @@ wikidata_id: "Q34829264"
 ## İlginç Bilgiler
 
 - Çıplakdağ Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Çıplakdağ Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra, bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar
 - Bu tepe, özellikle yaz aylarında, serin ve yağışlı bir iklim sunar
 - Çıplakdağ Tepesi, Kars ilinin önemli turizm merkezlerinden biri olarak kabul edilir

@@ -31,7 +31,7 @@ Kavaklımeşe Korusu'nun tarihi geçmişi, bölgenin yerleşim ve doğa kullanı
 
 ## Coğrafya
 
-Kavaklımeşe Korusu, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alan bir doğa alanıdır. Koru, 140 hektarlık bir alanı kapsıyor ve bölgenin karakteristik bitki türleri ile kaplıdır. Bu bölgede, genellikle step ve orman ekosistemleri bir arada bulunmakta ve çeşitli ağaç türleri ile birlikte, bölgeye özgü bitki türleri de yer alıyor. Kavaklımeşe Korusu'nun coğrafi konumu, bölgenin iklim koşullarına uygun bir şekilde şekillenmiştir. Koru, genellikle karasal iklimin hüküm sürdüğü bir bölgede yer alıyor ve mevsimsel değişimlere bağlı olarak, bölgenin flora ve fauna çeşitliliği değişkenlik gösteriyor. Kavaklımeşe Korusu'nun coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikleri ve bölgeye özgü ekosistemleri keşfetme fırsatı sunuyor.
+Kavaklımeşe Korusu, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alan bir doğa alanıdır. Bu bölgede, genellikle step ve orman ekosistemleri bir arada bulunmakta ve çeşitli ağaç türleri ile birlikte, bölgeye özgü bitki türleri de yer alıyor. Kavaklımeşe Korusu'nun coğrafi konumu, bölgenin iklim koşullarına uygun bir şekilde şekillenmiştir. Koru, genellikle karasal iklimin hüküm sürdüğü bir bölgede yer alıyor ve mevsimsel değişimlere bağlı olarak, bölgenin flora ve fauna çeşitliliği değişkenlik gösteriyor. Kavaklımeşe Korusu'nun coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikleri ve bölgeye özgü ekosistemleri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Kavaklımeşe Korusu, ziyaretçilerine yılın dört mevsimi boyunca açık bir 
 ## İlginç Bilgiler
 
 - Kavaklımeşe Korusu, bölgenin en eski koru alanlarından biri.
-- Koru, 140 hektarlık bir alanı kapsıyor.
+
 - Kavaklımeşe Korusu, bölgenin karakteristik flora ve fauna türlerine ev sahipliği yapıyor.
 - Koru, yılın dört mevsimi boyunca ziyaretçilere açık.
 - Kavaklımeşe Korusu, bölgenin ekolojik dengesini korumak amacıyla, çeşitli koruma faaliyetleri ile destekleniyor.

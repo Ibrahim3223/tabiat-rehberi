@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Yünlü Tepesi","caption":"Yünlü Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCnl%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822585","tip":"genel"}]
-description: "Hatay'ın güzide noktalarından biri olan Yünlü Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Yünlü Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34822585"
@@ -48,7 +48,6 @@ Yünlü Tepesi'ni ziyaret etmek, doğa severler için ideal bir aktivitedir. Tep
 
 ## İlginç Bilgiler
 
-- Yünlü Tepesi, 140 hektarlık bir alana sahiptir.
 - Tepenin yüksekliği, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Yünlü Tepesi, birçok canlıya ev sahipliği yapar.
 - Tepenin flora çeşitliliği, ziyaretçileri etkiler.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227645"
 
 # Denizli-Acipayam-Alci Kızılçam
 
- Bu bölge, doğal güzellikleri ve zengin flora ile dikkat çekiyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+ Bu bölge, doğal güzellikleri ve zengin flora ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Alci Kızılçam milli parkının tarihi geçmişi, yüzyıllar boyunca süregel
 
 ## Coğrafya
 
-Alci Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, genellikle karasal iklim özellikleri gösteriyor. Parkın coğrafi yapısı, genellikle engebeli arazilerden oluşuyor. Bu engebeli araziler, ziyaretçilere çeşitli yürüyüş parkurları sunuyor. Ayrıca, parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilere geniş bir yeşil alan sunuyor.
+Alci Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, genellikle karasal iklim özellikleri gösteriyor. Parkın coğrafi yapısı, genellikle engebeli arazilerden oluşuyor. Bu engebeli araziler, ziyaretçilere çeşitli yürüyüş parkurları sunuyor. Ayrıca, parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Alci Kızılçam milli parkını ziyaret etmek, doğa severler için harika bir 
 
 ## İlginç Bilgiler
 
-- Alci Kızılçam milli parkı, 140 hektarlık bir alanı kaplıyor
-- Bu bölge, 200 futbol sahası büyüklüğünde
 - Alci Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahip
 - Alci Kızılçam milli parkı, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor

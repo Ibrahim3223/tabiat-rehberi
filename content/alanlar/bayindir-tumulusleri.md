@@ -50,7 +50,7 @@ Bayındır Tümülüsleri'ni ziyaret etmek, ziyaretçilere benzersiz bir deneyim
 ## İlginç Bilgiler
 
 - Bayındır Tümülüsleri, Antalya'nın Elmalı ilçesinde yer alıyor.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Bayındır Tümülüsleri, tarihi ve doğal güzellikleri ile dikkat çekiyor.
 - Bu bölge, Akdeniz Bölgesi'nin önemli kültür varlıklarından biri olarak kabul ediliyor.
 - Bayındır Tümülüsleri, her yıl birçok ziyaretçi tarafından keşfediliyor.

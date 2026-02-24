@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihî yerleri gezme",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Evliya Tepe","caption":"Evliya Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evliya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387169","tip":"genel"}]
-description: "Tokat'ta bulunan Evliya Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Tokat'ta bulunan Evliya Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Evliya Tepe","Tokat","Karadeniz Bölgesi","doğal güzellik","tarihi yer","yeşil alan","fiziksel veriler","hikaye","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387169"

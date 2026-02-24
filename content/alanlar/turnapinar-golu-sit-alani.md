@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","balık tutma","su sporları"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Turnapınar Gölü Sit Alanı","caption":"Turnapınar Gölü Sit Alanı","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turnap%C4%B1nar%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226224","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Turnapınar Gölü Sit Alanı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["Turnapınar Gölü","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Göl","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226224"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226224"
 
 # Turnapınar Gölü Sit Alanı
 
-Turnapınar Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kapsayan bir doğal alandır. Gölün çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin florasını zenginleştirmektedir. Ayrıca, gölde ve çevresinde yaşayan hayvanlar, fauna çeşitliliğini artırmaktadır. Turnapınar Gölü Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir turizm merkezidir.
+ Gölün çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin florasını zenginleştirmektedir. Ayrıca, gölde ve çevresinde yaşayan hayvanlar, fauna çeşitliliğini artırmaktadır. Turnapınar Gölü Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir turizm merkezidir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Turnapınar Gölü Sit Alanı, ziyaretçiler için önemli bir turizm merkezidir
 
 ## İlginç Bilgiler
 
-- Turnapınar Gölü Sit Alanı, 140 hektarlık bir alanı kapsar.
 - Gölün çevresi, çeşitli bitki türleriyle kaplıdır.
 - Bölge, fauna çeşitliliğini artıran hayvanlar barındırır.
 - Turnapınar Gölü Sit Alanı, yılın her dönemi ziyaret edilebilir.

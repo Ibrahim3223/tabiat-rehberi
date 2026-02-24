@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Sinop Erfelek Sit Alanı","caption":"Sinop Erfelek Sit Alanı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop%20Erfelek%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226185","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Sinop Erfelek Sit Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["Sinop","Erfelek","Sit Alanı","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226185"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226185"
 
 # Sinop Erfelek Sit Alanı
 
-Sinop Erfelek Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alanı kapsar. Alanın fiziksel verileri, coğrafi konumu ve tarihçesi, Sinop Erfelek Sit Alanı'nı özel bir destinasyon haline getirir. İnsanlar bu alanı ziyaret ederek, doğanın güzelliğini yakından keşfedebilir ve zengin bir flora ile fauna çeşitliliğini gözlemleyebilirler.
+ Alanın fiziksel verileri, coğrafi konumu ve tarihçesi, Sinop Erfelek Sit Alanı'nı özel bir destinasyon haline getirir. İnsanlar bu alanı ziyaret ederek, doğanın güzelliğini yakından keşfedebilir ve zengin bir flora ile fauna çeşitliliğini gözlemleyebilirler.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Sinop Erfelek Sit Alanı, çeşitli bitki türleri ve hayvanlarla zengin bir fau
 Sinop Erfelek Sit Alanı, ziyaretçilere çeşitli etkinlikler sunar. Bu alan, doğa yürüyüşleri, pikni ve fotoğrafçılık için ideal bir destinasyondur. Ziyaretçiler, alanın doğal güzelliğini ve flora ile fauna çeşitliliğini gözlemleyebilirler. Sinop Erfelek Sit Alanı'na ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabilir. Alanın giriş ücreti, ziyaretçilerin bütçesine uygun olarak belirlenmiştir.
 
 ## İlginç Bilgiler
-
-- Sinop Erfelek Sit Alanı, 140 hektarlık bir yeşil alanı kapsar.
 
 - Sinop Erfelek Sit Alanı, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı bir bölge olarak bilinir.
 - Alanın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir.

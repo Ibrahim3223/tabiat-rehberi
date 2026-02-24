@@ -28,7 +28,7 @@ wikidata_id: "Q31388972"
 
 # Kayışkıran Tepe
 
-Erzurum'un doğal güzellikleri arasında yer alan Kayışkıran Tepe, doğa severlerin ziyaret ettiği bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğa ile iç içe bir gezi deneyimi sunuyor. Kayışkıran Tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğa yürüyüşü, manzara izleme ve fotoğraf çekme gibi faaliyetler için uygun bir ortam sunuyor. Bu tepe, hem doğa severlerin hem de macera arayanların ilgisini çekiyor.
+Erzurum'un doğal güzellikleri arasında yer alan Kayışkıran Tepe, doğa severlerin ziyaret ettiği bir nokta. Kayışkıran Tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğa yürüyüşü, manzara izleme ve fotoğraf çekme gibi faaliyetler için uygun bir ortam sunuyor. Bu tepe, hem doğa severlerin hem de macera arayanların ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kayışkıran Tepe'nin tarihi geçmişi, Erzurum'un genel tarihi ile paralellik 
 
 ## Coğrafya
 
-Kayışkıran Tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini yansıtıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğa ile iç içe bir gezi deneyimi sunuyor. Tepe, Erzurum'un dağlık bölgelerinden biri ve etrafı ormanlık alanlarla çevrili. Bu tepe, doğa yürüyüşü, manzara izleme ve fotoğraf çekme gibi faaliyetler için uygun bir ortam sunuyor. Kayışkıran Tepe'nin iklimi, Erzurum'un genel iklimine benzer. Bu tepe, kış aylarında karla kaplı ve yaz aylarında yeşillikler içinde. Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşiyor. Bu tepe, doğa severlerin ve macera arayanların ilgisini çekiyor. Erzurum'un coğrafi konumu ve iklimi, Kayışkıran Tepe'nin oluşumunda etkili olmuş. Bu tepe, bölgenin jeolojik yapısını ve coğrafi özelliklerini yansıtıyor.
+Kayışkıran Tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini yansıtıyor. Tepe, Erzurum'un dağlık bölgelerinden biri ve etrafı ormanlık alanlarla çevrili. Bu tepe, doğa yürüyüşü, manzara izleme ve fotoğraf çekme gibi faaliyetler için uygun bir ortam sunuyor. Kayışkıran Tepe'nin iklimi, Erzurum'un genel iklimine benzer. Bu tepe, kış aylarında karla kaplı ve yaz aylarında yeşillikler içinde. Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşiyor. Bu tepe, doğa severlerin ve macera arayanların ilgisini çekiyor. Erzurum'un coğrafi konumu ve iklimi, Kayışkıran Tepe'nin oluşumunda etkili olmuş. Bu tepe, bölgenin jeolojik yapısını ve coğrafi özelliklerini yansıtıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kayışkıran Tepe, doğa severlerin ve macera arayanların ilgisini çekiyor. B
 ## İlginç Bilgiler
 
 - Kayışkıran Tepe, Erzurum'un doğal güzellikleri arasında yer alıyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşiyor
 - Kayışkıran Tepe, doğa severlerin ve macera arayanların ilgisini çekiyor
 - Bu tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon

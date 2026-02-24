@@ -30,7 +30,7 @@ Kastamonu-Tosya-Yesilgol-Ahlat milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir doğa harikasıdır. Bu bölge, Yeşilgöl'ün güzelliği ve Ahlat'ın tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosistem sunar. Bu bölge, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişiyle birlikte, unutulmaz bir deneyim sunar. Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, yaklaşık 140 hektarlık bir alanı kapsar ve bu, ziyaretçilerin keşfetmek için geniş bir alan sunar. Milli parkın coğrafyası, ziyaretçilerine çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir doğa deneyimi sunar.
+Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir doğa harikasıdır. Bu bölge, Yeşilgöl'ün güzelliği ve Ahlat'ın tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosistem sunar. Bu bölge, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişiyle birlikte, unutulmaz bir deneyim sunar. Milli parkın coğrafyası, ziyaretçilerine çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, ziyaretçilerine çeşitli bitki t�
 
 ## İlginç Bilgiler
 
-- Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, 140 hektarlık bir alanı kapsar
 - Milli park, Yeşilgöl'ün güzelliği ve Ahlat'ın tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etki alanında kalmıştır
 - Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, ziyaretçilerine çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir doğa deneyimi sunar

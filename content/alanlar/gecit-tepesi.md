@@ -28,7 +28,7 @@ wikidata_id: "Q32210407"
 
 # Geçit Tepesi
 
-Geçit Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Geçit Tepesi, bölgenin önemli coğrafi oluşumlarından biri olarak biliniyor. Tepenin eteklerinde çeşitli bitki türleri yetişiyor. Bu bitkiler, bölgeye özgü türlerden oluşuyor. Geçit Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi veren bir yer olarak kabul ediliyor.
+Geçit Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe. Geçit Tepesi, bölgenin önemli coğrafi oluşumlarından biri olarak biliniyor. Tepenin eteklerinde çeşitli bitki türleri yetişiyor. Bu bitkiler, bölgeye özgü türlerden oluşuyor. Geçit Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi veren bir yer olarak kabul ediliyor.
 
 ## Tarihçe
 

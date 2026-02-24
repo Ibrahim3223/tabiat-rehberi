@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Fotografcılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Kutahya-Merkez Altıntas","caption":"Kutahya-Merkez Altıntas","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Merkez%20Alt%C4%B1ntas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227087","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Kutahya-Merkez Altıntas, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kutahya","Altıntas","milli park","doğal alan","yeşil alan","fiziksel veriler","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227087"
@@ -30,7 +30,7 @@ Kutahya-Merkez Altıntas milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Kutahya-Merkez Altıntas milli parkı, coğrafi açıdan oldukça zengin bir yapıya sahiptir. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplıdır ve bu bölgede fauna da oldukça çeşitlidir. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunar. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim yapısı, flora ve fauna üzerinde önemli bir etkiye sahiptir. Milli parkın çevresi, doğa ile iç içe olup, ziyaretçilere çeşitli manzaralar sunar. Bu coğrafi özellikler, Kutahya-Merkez Altıntas milli parkını ziyaretçiler için çekici bir destinasyon haline getirir.
+Kutahya-Merkez Altıntas milli parkı, coğrafi açıdan oldukça zengin bir yapıya sahiptir. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunar. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim yapısı, flora ve fauna üzerinde önemli bir etkiye sahiptir. Milli parkın çevresi, doğa ile iç içe olup, ziyaretçilere çeşitli manzaralar sunar. Bu coğrafi özellikler, Kutahya-Merkez Altıntas milli parkını ziyaretçiler için çekici bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kutahya-Merkez Altıntas milli parkını ziyaret etmek, doğa ile baş başa kal
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - İç Anadolu Bölgesi
 - Çeşitli bitki türleri
 - Zengin fauna yapısı

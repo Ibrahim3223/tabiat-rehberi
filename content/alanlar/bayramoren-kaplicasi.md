@@ -21,7 +21,7 @@ aktiviteler: ["Termal su tedavisi","Doğa yürüyüşü","Yaban hayatı gözleml
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pamukkale%2C_Turkey_%28ASTER%29.jpg/960px-Pamukkale%2C_Turkey_%28ASTER%29.jpg","alt":"Bayramören Kaplıcası","caption":"Bayramören Kaplıcası","credit":"Pamukkale, Turkey (ASTER)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayram%C3%B6ren%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741892","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Bayramören Kaplıcası, 140 hektarlık geniş bir alana kurulmuştur. Doğal güzellikleri ve sağlık açısından önemi nedeniyle ziyaretçilerini bekliyor."
+ Doğal güzellikleri ve sağlık açısından önemi nedeniyle ziyaretçilerini bekliyor."
 keywords: ["Bayramören Kaplıcası","İç Anadolu Bölgesi","Termal Kaynak","Sağlık Turizmi","Doğa","Kaplıca","Çankırı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49741892"
@@ -37,7 +37,7 @@ Bayramören Kaplıcasının tarihi geçmişi, yüzyıllar boyunca çeşitli mede
 
 ## Coğrafya
 
-Bayramören Kaplıcası, Çankırı ilinin Bayramören ilçesinde yer alır. Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve geniş otlakları, ormanları ve dağlarla çevrilidir. Kaplıcanın bulunduğu alan, 140 hektarlık bir araziyi kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Kaplıcanın termal suları, yeraltından gelen sıcak suların zengin mineraller içerdiği bilinir. Bu sular, çeşitli sağlık sorunlarına iyi geldiği bilinen bir özellik taşır. Bölge, flora ve fauna açısından da zengin bir çeşitliliğe sahiptir. Ziyaretçiler, kaplıcanın sunduğu imkanlarla birlikte, bölgenin doğal güzelliklerini keşfetme fırsatını bulur.
+Bayramören Kaplıcası, Çankırı ilinin Bayramören ilçesinde yer alır. Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve geniş otlakları, ormanları ve dağlarla çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Kaplıcanın termal suları, yeraltından gelen sıcak suların zengin mineraller içerdiği bilinir. Bu sular, çeşitli sağlık sorunlarına iyi geldiği bilinen bir özellik taşır. Bölge, flora ve fauna açısından da zengin bir çeşitliliğe sahiptir. Ziyaretçiler, kaplıcanın sunduğu imkanlarla birlikte, bölgenin doğal güzelliklerini keşfetme fırsatını bulur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bayramören Kaplıcasına ziyaretçiler, yılın her dönemi gelebilir. Kaplıca
 ## İlginç Bilgiler
 
 - Kaplıcanın termal suları, 40 derece sıcaklığa sahiptir.
-- Bölge, 140 hektarlık bir araziyi kaplar.
+
 - Kaplıcanın sunduğu imkanlar, ziyaretçilere yılın her mevsiminde konforlu bir deneyim sunar.
 - Bölge, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Kaplıcanın termal suları, çeşitli sağlık sorunlarına iyi geldiği bilinen bir özellik taşır.

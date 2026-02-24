@@ -28,7 +28,7 @@ wikidata_id: "Q31547301"
 
 # Sonk Tepesi
 
-Sonk Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar. Siirt'in yükseklikteki önemli noktası olarak bilinen Sonk Tepesi, bölgenin doğal güzelliklerini keşfetmek için ideal bir konum sunar. Tepenin etrafında yer alan yeşil alanlar ve doğal güzellikler, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanır. Sonk Tepesi, aynı zamanda bölgenin tarihi ve kültürel açıdan da önemli bir noktadır.
+Sonk Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak bilinir. Siirt'in yükseklikteki önemli noktası olarak bilinen Sonk Tepesi, bölgenin doğal güzelliklerini keşfetmek için ideal bir konum sunar. Tepenin etrafında yer alan yeşil alanlar ve doğal güzellikler, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanır. Sonk Tepesi, aynı zamanda bölgenin tarihi ve kültürel açıdan da önemli bir noktadır.
 
 ## Tarihçe
 

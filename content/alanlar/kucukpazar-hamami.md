@@ -29,7 +29,7 @@ wikidata_id: "Q131738597"
 
 # Küçükpazar Hamamı
 
-Küçükpazar Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir kültürel miras olarak karşımıza çıkar. Fatih ilçesinde bulunan bu hamam, yaklaşık 140 hektarlık bir alanda yer alır. İstanbul'un tarihi hamamlarından biri olan Küçükpazar Hamamı, Marmara Bölgesi'nde yer alan önemli bir turistik cazibe merkezi olarak ziyaretçilerini ağırlar. Hamamın tarihi geçmişi, zengin kültürel birikimi ve mimari yapısı, ziyaretçilerini bu özel mekanda zaman yolculuğuna çıkarır.
+Küçükpazar Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir kültürel miras olarak karşımıza çıkar. İstanbul'un tarihi hamamlarından biri olan Küçükpazar Hamamı, Marmara Bölgesi'nde yer alan önemli bir turistik cazibe merkezi olarak ziyaretçilerini ağırlar. Hamamın tarihi geçmişi, zengin kültürel birikimi ve mimari yapısı, ziyaretçilerini bu özel mekanda zaman yolculuğuna çıkarır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Küçükpazar Hamamı, ziyaretçilere yıl boyunca açık bir destinasyon olarak
 ## İlginç Bilgiler
 
 - Küçükpazar Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir kültürel miras olarak karşımıza çıkar.
-- Hamam, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Hamamın tarihi geçmişi, yüzyıllar boyunca İstanbul'un kültürel ve sosyal yaşamının bir parçası olarak varlığını sürdürmüştür.
 - Hamamın aroundunda, çeşitli flora ve fauna türleri bulunur.
 - Hamam, ziyaretçilere yıl boyunca açık bir destinasyon olarak görünür.

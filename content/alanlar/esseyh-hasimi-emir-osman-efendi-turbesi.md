@@ -29,7 +29,7 @@ wikidata_id: "Q131391643"
 
 # Eşşeyh Haşimi Emir Osman Efendi Türbesi
 
-Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un kalbi olan Beyoğlu'nda bulunan ve tarihi geçmişiyle önemli bir dini merkez olan bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Marmara Bölgesi'nin önemli kültürel değerlerini barındırmaktadır. Eşşeyh Haşimi Emir Osman Efendi Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkararak, İstanbul'un zengin geçmişini keşfetme fırsatı sunmaktadır. Türbenin mimarisi, Osmanlı dönemine ait tarihi eserlerin özelliklerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek, tarihi ve kültürel değerlerini öğrenme fırsatı bulabilirler. Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasını koruma altına almak amacıyla restore edilmiştir. Restorasyon çalışmaları, türbenin orijinal mimarisine uygun olarak yürütülmüştür.
+Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un kalbi olan Beyoğlu'nda bulunan ve tarihi geçmişiyle önemli bir dini merkez olan bir türbedir. Eşşeyh Haşimi Emir Osman Efendi Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkararak, İstanbul'un zengin geçmişini keşfetme fırsatı sunmaktadır. Türbenin mimarisi, Osmanlı dönemine ait tarihi eserlerin özelliklerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek, tarihi ve kültürel değerlerini öğrenme fırsatı bulabilirler. Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasını koruma altına almak amacıyla restore edilmiştir. Restorasyon çalışmaları, türbenin orijinal mimarisine uygun olarak yürütülmüştür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Eşşeyh Haşimi Emir Osman Efendi Türbesi, tarihi geçmişiyle önemli bir din
 
 ## Coğrafya
 
-Eşşeyh Haşimi Emir Osman Efendi Türbesi, Marmara Bölgesi'nin önemli bir dini merkezi olarak Beyoğlu'nda yer almaktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve İstanbul'un tarihi ve kültürel değerlerini barındırmaktadır. Eşşeyh Haşimi Emir Osman Efendi Türbesi, Boğaziçi Köprüsü'ne yakın bir konumda bulunmakta ve ulaşım açısından kolaylık sağlamaktadır. Türbe, İstanbul'un kalbi olan Beyoğlu'nda yer almakta ve ziyaretçilere tarihi ve kültürel bir yolculuk sunmaktadır. Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasını koruma altına almak amacıyla restore edilmiştir. Restorasyon çalışmaları, türbenin orijinal mimarisine uygun olarak yürütülmüştür. Türbenin çevresi, tarihi ve kültürel değerleri barındıran önemli bir bölgedir. Ziyaretçiler, türbenin çevresini gezerek, İstanbul'un tarihi ve kültürel mirasını keşfetme fırsatı bulabilirler. Eşşeyh Haşimi Emir Osman Efendi Türbesi, Marmara Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilmektedir. Türbenin tarihi ve kültürel değerleri, ziyaretçileri tarafından büyük ilgi görmektedir.
+Eşşeyh Haşimi Emir Osman Efendi Türbesi, Marmara Bölgesi'nin önemli bir dini merkezi olarak Beyoğlu'nda yer almaktadır. Eşşeyh Haşimi Emir Osman Efendi Türbesi, Boğaziçi Köprüsü'ne yakın bir konumda bulunmakta ve ulaşım açısından kolaylık sağlamaktadır. Türbe, İstanbul'un kalbi olan Beyoğlu'nda yer almakta ve ziyaretçilere tarihi ve kültürel bir yolculuk sunmaktadır. Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasını koruma altına almak amacıyla restore edilmiştir. Restorasyon çalışmaları, türbenin orijinal mimarisine uygun olarak yürütülmüştür. Türbenin çevresi, tarihi ve kültürel değerleri barındıran önemli bir bölgedir. Ziyaretçiler, türbenin çevresini gezerek, İstanbul'un tarihi ve kültürel mirasını keşfetme fırsatı bulabilirler. Eşşeyh Haşimi Emir Osman Efendi Türbesi, Marmara Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilmektedir. Türbenin tarihi ve kültürel değerleri, ziyaretçileri tarafından büyük ilgi görmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Eşşeyh Haşimi Emir Osman Efendi Türbesi, ziyaretçilere tarihi ve kültürel
 ## İlginç Bilgiler
 
 - Eşşeyh Haşimi Emir Osman Efendi Türbesi, Marmara Bölgesi'nin önemli dini merkezlerinden biridir
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur
+
 - Eşşeyh Haşimi Emir Osman Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasını koruma altına almak amacıyla restore edilmiştir
 - Türbenin çevresi, tarihi ve kültürel değerleri barındıran önemli bir bölgedir
 - Eşşeyh Haşimi Emir Osman Efendi Türbesi, ziyaretçilere tarihi ve kültürel bir yolculuk sunmaktadır

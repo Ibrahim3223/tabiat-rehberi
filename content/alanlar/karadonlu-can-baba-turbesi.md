@@ -50,7 +50,7 @@ Karadonlu Can Baba Türbesi'ni ziyaret etmek, yılın her dönemi mümkün. Ziya
 ## İlginç Bilgiler
 
 - Karadonlu Can Baba Türbesi, Kütahya'nın önemli tarihi mekanlarından biri.
-- Mekan, 140 hektarlık bir alana yayılmış.
+
 - Çeşitli bitki türleri ve zengin fauna, bu mekanın doğal güzelliklerini artırıyor.
 - Ziyaretçiler, yılın her dönemi burayı tercih ediyor.
 - Mekan, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak değerlendiriliyor.

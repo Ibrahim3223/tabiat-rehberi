@@ -51,7 +51,7 @@ Hızır İlyas Türbesi'ni ziyaret etmek, özellikle tarih ve kültür meraklıl
 ## İlginç Bilgiler
 
 - Hızır İlyas Türbesi, Türk kültürü ve tarihinde önemli bir yere sahiptir.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kuruludur.
+
 - Bölge, flora ve fauna açısından zengindir.
 - Ziyaretçiler, buraya gelerek hem tarihi yapıları hem de doğal güzellikleri keşfedebilir.
 - Hızır İlyas Türbesi, particularly bahar ve yaz aylarında ziyaret edilebilir.

@@ -28,7 +28,7 @@ wikidata_id: "Q32210372"
 
 # Köseosman Tepesi
 
-Köseosman Tepesi, İç Anadolu Bölgesi'nin görkemli doğal alanlarından biridir. Bu muhteşem tepe, Kayseri'nin merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kapsar. Köseosman Tepesi, ziyaretçilerini şehrin panoramik manzarasıyla karşılar ve doğa severler için bir cennet olarak kabul edilir.
+Köseosman Tepesi, İç Anadolu Bölgesi'nin görkemli doğal alanlarından biridir. Köseosman Tepesi, ziyaretçilerini şehrin panoramik manzarasıyla karşılar ve doğa severler için bir cennet olarak kabul edilir.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Köseosman Tepesi'ni ziyaret etmek, doğa severler için bir zorunluluktur. Bu m
 
 ## İlginç Bilgiler
 
-- Köseosman Tepesi, yaklaşık 140 hektarlık bir alanı kapsar
 - Tepenin panorama manzarası, şehrin merkezinden izlenebilir
 - Köseosman Tepesi, çeşitli bitki türleri ve fauna ile karakterizedir
 - Tepenin eteklerinde, çeşitli tarım ürünleri yetiştirilir

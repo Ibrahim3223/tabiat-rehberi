@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Trekking","Kuş gözlemciliği","Fotoğraf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Zonguldak-Yenice-Kavakli-Kayacik","caption":"Zonguldak-Yenice-Kavakli-Kayacik","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Yenice-Kavakli-Kayacik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228543","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. Zonguldak-Yenice-Kavakli-Kayacik milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
+description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Zonguldak","Yenice","Kavakli","Kayacik","Milli Park","Karadeniz Bölgesi","doğal güzellik","zengin fauna","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228543"

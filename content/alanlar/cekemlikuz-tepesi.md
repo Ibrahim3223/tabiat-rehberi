@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","photografi","bitki ve hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Çekemlikuz Tepesi","caption":"Çekemlikuz Tepesi","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ekemlikuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818745","tip":"genel"}]
-description: "Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan Çekemlikuz Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kahramanmaraş","Akdeniz Bölgesi","Çekemlikuz Tepesi","doğa","gezi","tepe","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34818745"
@@ -48,8 +48,6 @@ wikidata_id: "Q34818745"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - zengin fauna ve flora çeşitliliği
 - ekolojik denge
 - tarihi değerler

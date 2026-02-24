@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","yaban hayatı gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Giresun-Mesudiye-Arpaalan (ha) Saricam","caption":"Giresun-Mesudiye-Arpaalan (ha) Saricam","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Mesudiye-Arpaalan%20(ha)%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227576","tip":"genel"}]
-description: "Giresun'da yer alan milli park, yaklaşık 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor"
+
 keywords: ["Giresun","milli park","Arpaalan","Saricam","Karadeniz Bölgesi","doğa","flora","fauna","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227576"
@@ -30,7 +30,7 @@ Giresun-Mesudiye-Arpaalan (ha) Saricam milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Giresun-Mesudiye-Arpaalan (ha) Saricam milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Milli parkın 140 hektarlık alanı, yeşil ormanlar, dağlık araziler ve nehirler ile çevrili. Bu bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli. İklim olarak, Karadeniz Bölgesi'nin nemli ve ılıman iklimi, milli parkın flora ve fauna çeşitliliğini destekler. Milli parkın yakınında, Giresun şehir merkezi ve diğer turistik noktalar da yer alıyor. Bu coğrafi konum, ziyaretçilere hem doğa hem de kültür turizmi açısından zengin bir deneyim sunuyor. Milli parkın çevresi, yaban hayatı koruma alanları ve diğer doğal güzelliklerle çevrili, bu da ziyaretçilere geniş bir gezi ve keşif imkanı sunuyor.
+Giresun-Mesudiye-Arpaalan (ha) Saricam milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine elverişli. İklim olarak, Karadeniz Bölgesi'nin nemli ve ılıman iklimi, milli parkın flora ve fauna çeşitliliğini destekler. Milli parkın yakınında, Giresun şehir merkezi ve diğer turistik noktalar da yer alıyor. Bu coğrafi konum, ziyaretçilere hem doğa hem de kültür turizmi açısından zengin bir deneyim sunuyor. Milli parkın çevresi, yaban hayatı koruma alanları ve diğer doğal güzelliklerle çevrili, bu da ziyaretçilere geniş bir gezi ve keşif imkanı sunuyor.
 
 ## Flora ve Fauna
 

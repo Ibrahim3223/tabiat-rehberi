@@ -52,6 +52,6 @@ Malabadi Köprüsü, Güneydoğu Anadolu Bölgesi'nde yer alan Silvan, Diyarbak�
 
 - Malabadi Köprüsü, Artuklu Devleti döneminde inşa edilmiştir.
 - Köprü, Dicle Nehri üzerine inşa edilmiştir.
-- Köprü, yaklaşık 140 hektarlık bir alanın üzerinde yer alır.
+
 - Köprü, Diyarbakır ilinin Silvan ilçesinde yer alır.
 - Köprü, yüzyıllar boyunca çeşitli onarımlar görmüştür.

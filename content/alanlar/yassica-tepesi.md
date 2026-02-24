@@ -48,7 +48,6 @@ Yassıca Tepesi'ni ziyaret etmek, gezi tutkunları için ideal bir aktivite. Bu 
 
 ## İlginç Bilgiler
 
-- Yassıca Tepesi, 140 hektarlık bir alana sahip.
 - Bu tepe, Ege Bölgesi'nin en güzel noktalarından biri.
 - Yassıca Tepesi, tarihsel açıdan zengin bir geçmişe sahip.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.

@@ -50,7 +50,7 @@ Salihler Ilıcası, Dikili'nin en güzel plajlarından biri olarak bilinir ve zi
 ## İlginç Bilgiler
 
 - Salihler Ilıcası, Dikili'nin en güzel plajlarından biri olarak bilinir
-- Bu plaj, 140 hektarlık bir alana yayılır
+
 - Salihler Ilıcası, Ege Bölgesi'nin doğal güzelliklerini sunar
 - Bu plaj, deniz ve güneş ile tanınır
 - Salihler Ilıcası, aynı zamanda önemli bir kültürel miras olarak da kabul edilir

@@ -38,7 +38,7 @@ Tomb of Ajax the Great'in tarihi geçmişi, efsaneler ve mitolojik öykülerle d
 
 ## Coğrafya
 
-Tomb of Ajax the Great, coğrafi olarak Biga Yarımadası'nda yer alır ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunar. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve geniş bir yeşil alan olarak ziyaretçilere huzurlu bir atmosfer sağlar. Plajın etrafındaki coğrafya, ziyaretçilere çeşitli doğal güzellikler sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Tomb of Ajax the Great'in coğrafi konumu, ziyaretçilere doğal güzellikler ve tarihi bir plajın birleştiği bir nokta olarak dikkat çeker.
+Tomb of Ajax the Great, coğrafi olarak Biga Yarımadası'nda yer alır ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunar. Plajın etrafındaki coğrafya, ziyaretçilere çeşitli doğal güzellikler sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Tomb of Ajax the Great'in coğrafi konumu, ziyaretçilere doğal güzellikler ve tarihi bir plajın birleştiği bir nokta olarak dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Tomb of Ajax the Great'i ziyaret etmek, ziyaretçiler için önemli bir deneyim 
 ## İlginç Bilgiler
 
 - Tomb of Ajax the Great, tarihsel önemi nedeniyle önemli bir ziyaret noktasıdır.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğal bir ortam sunar.
 - Tomb of Ajax the Great, İç Anadolu Bölgesi'nin doğal güzelliklerini sunar.
 - Plajın etrafındaki coğrafya, ziyaretçilere çeşitli doğal güzellikler sunar.

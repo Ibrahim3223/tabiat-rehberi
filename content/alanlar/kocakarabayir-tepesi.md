@@ -28,7 +28,7 @@ wikidata_id: "Q31390002"
 
 # Kocakarabayır Tepesi
 
-Kocakarabayır Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir doğal alandır. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kocakarabayır Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
+ Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kocakarabayır Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
 
 ## Tarihçe
 

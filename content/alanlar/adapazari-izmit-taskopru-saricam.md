@@ -30,7 +30,7 @@ Adapazari-Izmit-Taskopru Saricam Milli Parkı'nın tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Adapazari-Izmit-Taskopru Saricam Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın toplam alanı 140 hektarlık bir büyüklüğü kapsar ve bu alan, çeşitli bitki türleri ve zengin fauna ile örtülüdür. Bölgenin iklimi, İç Anadolu'nun karasal ikliminin etkilerini taşır ve mevsimsel değişimler, parkın doğasını şekillendiren önemli faktörlerdir. Saricam, doğal güzellikleri ve coğrafi konumu ile dikkat çekerek, ziyaretçilerine benzersiz bir deneyim sunar. Parkın coğrafi yapısı, aynı zamanda çeşitli canlı türlerinin yaşamasına elverişli bir ortam sağlar ve bu nedenle, Saricam Milli Parkı, bölgenin ekolojik dengesini koruma altına alan önemli bir alan olarak kabul edilir.
+Adapazari-Izmit-Taskopru Saricam Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, İç Anadolu'nun karasal ikliminin etkilerini taşır ve mevsimsel değişimler, parkın doğasını şekillendiren önemli faktörlerdir. Saricam, doğal güzellikleri ve coğrafi konumu ile dikkat çekerek, ziyaretçilerine benzersiz bir deneyim sunar. Parkın coğrafi yapısı, aynı zamanda çeşitli canlı türlerinin yaşamasına elverişli bir ortam sağlar ve bu nedenle, Saricam Milli Parkı, bölgenin ekolojik dengesini koruma altına alan önemli bir alan olarak kabul edilir.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q34828473"
 
 # Çatal Hüyük
 
-Çatal Hüyük, Hatay ilinin sınırları içerisinde yer alan ve tarihi geçmişi ile dikkat çeken bir antik yerleşim yeridir. Yaklaşık 140 hektarlık bir alanı kapsayan bu site, Akdeniz Bölgesi'nin önemli kültür miraslarından biridir. Çatal Hüyük'ün tarihi geçmişi, Neolitik Dönem'e kadar uzanır ve bu dönemde insanların yerleşik hayata geçişini gösteren önemli bir arkeolojik kazı alanı olarak bilinir. Bu dönemden kalma çeşitli eserler ve kalıntılar, Çatal Hüyük'ün önemini daha da arttırmaktadır.
+Çatal Hüyük, Hatay ilinin sınırları içerisinde yer alan ve tarihi geçmişi ile dikkat çeken bir antik yerleşim yeridir. Çatal Hüyük'ün tarihi geçmişi, Neolitik Dönem'e kadar uzanır ve bu dönemde insanların yerleşik hayata geçişini gösteren önemli bir arkeolojik kazı alanı olarak bilinir. Bu dönemden kalma çeşitli eserler ve kalıntılar, Çatal Hüyük'ün önemini daha da arttırmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q34828473"
 
 ## Coğrafya
 
-Çatal Hüyük, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli coğrafi özelliklerine sahip bir antik yerleşim yeridir. Yaklaşık 140 hektarlık bir alanı kapsayan bu site, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak değerlendirilir. Çatal Hüyük'ün coğrafi konumu, tarihi geçmişi boyunca önemli bir rol oynamıştır. Bu antik yerleşim yeri, çevresindeki coğrafi özelliklere bağlı olarak tarımın gelişmesine ve insanların yerleşik hayata geçişine tanıklık etmiştir. Çatal Hüyük'ün iklimi, Akdeniz iklimi özellikleri taşır ve bu da tarımın gelişmesine uygun koşullar sağlar. Çatal Hüyük'ün coğrafi konumu ve iklimi, bu antik yerleşim yerinin önemini daha da arttırmaktadır.
+Çatal Hüyük, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli coğrafi özelliklerine sahip bir antik yerleşim yeridir. Çatal Hüyük'ün coğrafi konumu, tarihi geçmişi boyunca önemli bir rol oynamıştır. Bu antik yerleşim yeri, çevresindeki coğrafi özelliklere bağlı olarak tarımın gelişmesine ve insanların yerleşik hayata geçişine tanıklık etmiştir. Çatal Hüyük'ün iklimi, Akdeniz iklimi özellikleri taşır ve bu da tarımın gelişmesine uygun koşullar sağlar. Çatal Hüyük'ün coğrafi konumu ve iklimi, bu antik yerleşim yerinin önemini daha da arttırmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ wikidata_id: "Q34828473"
 
 - Çatal Hüyük, Neolitik Dönem'e kadar uzanan tarihi geçmişi ile önemlidir.
 - Bu antik yerleşim yeri, Akdeniz Bölgesi'nin önemli kültür miraslarından biridir.
-- Çatal Hüyük, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Bu antik yerleşim yeri, tarihi geçmişi boyunca önemli bir kültür merkezi olarak bilinir.
 - Çatal Hüyük'ün coğrafi konumu, tarihi geçmişi boyunca önemli bir rol oynamıştır.

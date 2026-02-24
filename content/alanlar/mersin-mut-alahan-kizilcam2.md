@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kad%C4%B1nc%C4%B1k_Valley_14.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_14.jpg","alt":"Mersin-Mut-Alahan Kizilcam2","caption":"Mersin-Mut-Alahan Kizilcam2","credit":"Kadıncık Valley 14.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Alahan%20Kizilcam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228535","tip":"genel"}]
-description: "Mersin'de yer alan milli park, 140 hektarlık yeşil alanıyla dikkat çekiyor."
+"
 keywords: ["Mersin","milli park","yeşil alan","doğa","gezi","turizm","Mersin-Mut-Alahan Kizilcam2","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228535"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228535"
 
 # Mersin-Mut-Alahan Kizilcam2
 
-Mersin-Mut-Alahan Kizilcam2 milli parkı, Mersin ilinde yer alan ve 140 hektarlık geniş bir yeşil alana sahip olan bir doğa harikasıdır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve môi parkın sunduğu olanaklardan yararlanabilir.
+ Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve môi parkın sunduğu olanaklardan yararlanabilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mersin-Mut-Alahan Kizilcam2 milli parkını ziyaret etmek, oldukça keyifli ve �
 
 ## İlginç Bilgiler
 
-- Mersin-Mut-Alahan Kizilcam2 milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir.
 - Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Milli park, Mersin ilinin Mut ilçesinde yer almaktadır.
 - Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine sahiptir.

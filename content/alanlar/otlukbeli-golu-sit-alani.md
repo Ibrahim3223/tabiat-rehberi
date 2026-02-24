@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","pic
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Otlukbeli Gölü Sit Alanı","caption":"Otlukbeli Gölü Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otlukbeli%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226269","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Otlukbeli Gölü Sit Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Otlukbeli Gölü","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","göl","sit alanı","korunan alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226269"
@@ -42,7 +42,6 @@ Otlukbeli Gölü Sit Alanı, ziyaretçilerin doğa ile iç içe olmasını sağl
 
 ## İlginç Bilgiler
 
-- Otlukbeli Gölü Sit Alanı, 140 hektarlık bir alanı kapsıyor
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dolu
 - Bu sit alanı, bölgenin ekolojik dengesini korumak amacıyla önemli bir doğal koruma alanı
 - Otlukbeli Gölü Sit Alanı, aynı zamanda bölgede yaşayan kuş türleri için önemli bir yaşam alanı

@@ -22,8 +22,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/21/Karacaahmet_Sultan_T%C3%BCrbesi.jpg","alt":"Karaca Ahmet Türbesi manzarası","credit":"Sureta","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Karaca_Ahmet_T%C3%BCrbesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Karaca_Ahmet_T%C3%BCrbesi.jpg/1280px-Karaca_Ahmet_T%C3%BCrbesi.jpg","alt":"Karaca Ahmet Türbesi - Karaca Ahmet Türbesi","credit":"Ahmet Yurtbakan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Karacaahmet_T%C3%BCrbesi_%C4%B0stanbul_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Karacaahmet_T%C3%BCrbesi_%C4%B0stanbul_-_panoramio.jpg","alt":"Karaca Ahmet Türbesi - Karacaahmet Türbesi İstanbul - panoramio","credit":"M. PINARCI","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaca%20Ahmet%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391611","tip":"genel"}]
-description: "Ankara'nın Beypazarı ilçesinde bulunan tarihi Karaca Ahmet Türbesi, 140 hektarlık bir alan üzerinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir."
-keywords: ["Karaca Ahmet Türbesi","Beypazarı","Ankara","tarihi mekan","yeşil alan","futbol sahası","gezi","turizm","iç Anadolu Bölgesi"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391611"
 ---
@@ -49,8 +49,6 @@ Karaca Ahmet Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin 
 Karaca Ahmet Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için ideal bir gezi seçeneğidir. Bu tarihi mekan, Beypazarı ilçesinde yer almakta olup, ulaşımı nispeten kolaydır. Ziyaretçiler, Karaca Ahmet Türbesi'ne, toplu taşıma araçları veya özel araçları ile ulaşabilirler. Bu bölgede yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar. Karaca Ahmet Türbesi'ni ziyaret etmek için en iyi mevsim, ilkbahar ve yaz aylarıdır. Bu aylarda, ziyaretçiler, bölgenin doğal güzelliklerini daha iyi keşfedebilirler.
 
 ## İlginç Bilgiler
-
-- Karaca Ahmet Türbesi, 140 hektarlık bir alan üzerinde yer alır.
 
 - Karaca Ahmet Türbesi, Beypazarı ilçesinde yer alır.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.

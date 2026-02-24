@@ -29,7 +29,7 @@ wikidata_id: "Q131390728"
 
 # Davud-i Kayseri Türbesi
 
-Davud-i Kayseri Türbesi, İznik'te bulunan bir tarihi ve dini mekân olarak bilinir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alır ve İznik Gölü'nün manzarasına sahiptir. 200 futbol sahası büyüklüğünde olan bu alan, hem doğal güzellikleri hem de tarihi önemini korur. İznik, Marmara Bölgesi'nde Bursa iline bağlı bir ilçe olarak, tarihi ve kültürel zenginlikleriyle ön plana çıkar. Davud-i Kayseri Türbesi de bu zenginliklerin bir parçası olarak, ziyaretçilerini bekler.
+Davud-i Kayseri Türbesi, İznik'te bulunan bir tarihi ve dini mekân olarak bilinir. İznik, Marmara Bölgesi'nde Bursa iline bağlı bir ilçe olarak, tarihi ve kültürel zenginlikleriyle ön plana çıkar. Davud-i Kayseri Türbesi de bu zenginliklerin bir parçası olarak, ziyaretçilerini bekler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Davud-i Kayseri Türbesi'nin tarihi geçmişi, İznik'in tarihi ile iç içe ge�
 
 ## Coğrafya
 
-Davud-i Kayseri Türbesi, İznik'in merkezinde, İznik Gölü'nün kıyısında yer alır. Bu bölge, Marmara Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, genellikle ılıman bir iklime sahiptir. İznik Gölü, Türkiye'nin en büyük göllerinden biri olarak bilinir ve çevresi, zengin bir flora ve faunaya ev sahipliği yapar. Davud-i Kayseri Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve bu alan, çeşitli bitki türleri ile kaplıdır. Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunur ve bu bölge, ziyaretçilere hem tarihi hem de doğayı keşfetme imkanı sunar. İznik'in coğrafi konumu, Bursa iline yakınlığı ve ulaşım kolaylığı, bu bölgeyi turisti ve kültürel bir merkez haline getirir.
+Davud-i Kayseri Türbesi, İznik'in merkezinde, İznik Gölü'nün kıyısında yer alır. Bu bölge, Marmara Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, genellikle ılıman bir iklime sahiptir. İznik Gölü, Türkiye'nin en büyük göllerinden biri olarak bilinir ve çevresi, zengin bir flora ve faunaya ev sahipliği yapar. Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunur ve bu bölge, ziyaretçilere hem tarihi hem de doğayı keşfetme imkanı sunar. İznik'in coğrafi konumu, Bursa iline yakınlığı ve ulaşım kolaylığı, bu bölgeyi turisti ve kültürel bir merkez haline getirir.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Davud-i Kayseri Türbesi'ni ziyaret etmek, İznik'in tarihi ve doğal güzellikl
 - İznik Gölü, Türkiye'nin en büyük göllerinden biridir
 - Davud-i Kayseri Türbesi, İznik'in tarihi ve dini önemini vurgular
 - İznik, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir ilçe olarak bilinir
-- Davud-i Kayseri Türbesi, yaklaşık 140 hektarlık bir yeşil alana sahiptir
+
 - İznik, Marmara Bölgesi'nin önemli turistik merkezlerinden biridir

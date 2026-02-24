@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotografçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Celigölü Tepesi","caption":"Celigölü Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Celig%C3%B6l%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34837577","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nde bulunan Celigölü Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Celigölü Tepesi","Doğu Anadolu Bölgesi","Bingöl","tepe","doğa","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34837577"
@@ -48,8 +48,6 @@ Celigölü Tepesi'ni ziyaret etmek, doğa severler ve turistler için bir çekim
 
 ## İlginç Bilgiler
 
-- Celigölü Tepesi, 140 hektarlık bir alana sahiptir
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir
 - Celigölü Tepesi, doğa severler ve turistler için bir çekim merkezi olarak hizmet eder
 - Bu tepe, ziyaretçilerine geniş ve yeşil alanlarıyla birlikte, çevredeki diğer doğal güzellikleri keşfetme fırsatı sunar
 - Celigölü Tepesi, tarihin farklı dönemlerinde önemli bir role sahip olmuştur

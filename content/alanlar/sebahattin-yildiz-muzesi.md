@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","müze gezisi","bitki ve hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Sebahattin Yıldız Müzesi","caption":"Sebahattin Yıldız Müzesi","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebahattin%20Y%C4%B1ld%C4%B1z%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85974608","tip":"genel"}]
-description: "Ankara'nın merkezinde, Çankaya ilçesinde bulunan Sebahattin Yıldız Müzesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur."
+"
 keywords: ["Sebahattin Yıldız Müzesi","Ankara","Çankaya","müze","yayla","doğa","tarih","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q85974608"
@@ -29,7 +29,7 @@ wikidata_id: "Q85974608"
 
 # Sebahattin Yıldız Müzesi
 
-Sebahattin Yıldız Müzesi, Ankara'nın kalbinde, Çankaya ilçesinde yer alan bir kültür ve doğa harikasıdır. Yaklaşık 140 hektarlık bir alan üzerinde kurulan müze, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak görevi görmektedir. Müzenin içinde, tarihi eserlerin sergilendiği alanlar, doğa yürüyüşleri için uygun parkurlar ve çeşitli bitki türlerinin bulunduğu bahçeler bulunmaktadır. Sebahattin Yıldız Müzesi, hem Ankara'nın hem de Türkiye'nin önemli kültürel ve tarihi değerlerini barındıran bir mekândır.
+Sebahattin Yıldız Müzesi, Ankara'nın kalbinde, Çankaya ilçesinde yer alan bir kültür ve doğa harikasıdır. Müzenin içinde, tarihi eserlerin sergilendiği alanlar, doğa yürüyüşleri için uygun parkurlar ve çeşitli bitki türlerinin bulunduğu bahçeler bulunmaktadır. Sebahattin Yıldız Müzesi, hem Ankara'nın hem de Türkiye'nin önemli kültürel ve tarihi değerlerini barındıran bir mekândır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sebahattin Yıldız Müzesi'nin tarihi geçmişi, Ankara'nın tarihsel sürecine
 
 ## Coğrafya
 
-Sebahattin Yıldız Müzesi, Ankara'nın merkezinde, Çankaya ilçesinde yer almaktadır. Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, çeşitli coğrafi özellikler barındırmaktadır. Müzenin bulunduğu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bölge, genellikle step ve orman ekosistemlerinin bir karışımı olan karışık bir coğrafi yapıya sahiptir. Sebahattin Yıldız Müzesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu bitkiler, müzenin doğal güzelliğini arttırmaktadır. Müze, Ankara'nın şehir merkezine yakın olması nedeniyle, ulaşım açısından kolaylık sağlamaktadır.
+Sebahattin Yıldız Müzesi, Ankara'nın merkezinde, Çankaya ilçesinde yer almaktadır. Müzenin bulunduğu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bölge, genellikle step ve orman ekosistemlerinin bir karışımı olan karışık bir coğrafi yapıya sahiptir. Sebahattin Yıldız Müzesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu bitkiler, müzenin doğal güzelliğini arttırmaktadır. Müze, Ankara'nın şehir merkezine yakın olması nedeniyle, ulaşım açısından kolaylık sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sebahattin Yıldız Müzesi'ni ziyaret etmek, Ankara'nın kültür ve doğa güz
 ## İlginç Bilgiler
 
 - Sebahattin Yıldız Müzesi, Ankara'nın en büyükültür merkezlerinden biridir.
-- Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Müzenin içinde, tarihi eserlerin sergilendiği alanlar bulunmaktadır.
 - Müze, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Sebahattin Yıldız Müzesi, Ankara'nın önemli ekolojik alanlarından biridir.

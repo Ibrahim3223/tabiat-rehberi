@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Çaybaşı Hamamı","caption":"Çaybaşı Hamamı","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ayba%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739037","tip":"genel"}]
-description: "Antalya'nın Korkuteli ilçesinde bulunan Çaybaşı Hamamı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
+"
 keywords: ["Çaybaşı Hamamı","Korkuteli","Antalya","Akdeniz Bölgesi","doğa","flora","fauna","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739037"
@@ -41,7 +41,7 @@ wikidata_id: "Q131739037"
 
 ## Flora ve Fauna
 
-Çaybaşı Hamamı, flora ve fauna açısından çok zengin bir bölgedir. Burada, birçok farklı bitki türü ve hayvan yaşamaktadır. Çaybaşı Hamamı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekmektedir. Bu bölgede, ziyaretçiler birçok farklı türde bitki ve hayvan görebilirler. Çaybaşı Hamamı, aynı zamanda mevsimsel değişimlere göre farklı bir güzelliğe sahip olmaktadır. Bahar aylarında, bu bölgede birçok farklı çiçek türü açarken, yaz aylarında yeşilin her tonunu görebilirsiniz. Kış aylarında ise, Çaybaşı Hamamı'nın güzelliği başka bir boyuta ulaşmaktadır. Çaybaşı Hamamı, flora ve fauna açısından zengin bir bölgedir ve ziyaretçilerine doğanın güzelliğini sunmaktadır.
+Çaybaşı Hamamı, flora ve fauna açısından çok zengin bir bölgedir. Burada, birçok farklı bitki türü ve hayvan yaşamaktadır. Bu bölgede, ziyaretçiler birçok farklı türde bitki ve hayvan görebilirler. Çaybaşı Hamamı, aynı zamanda mevsimsel değişimlere göre farklı bir güzelliğe sahip olmaktadır. Bahar aylarında, bu bölgede birçok farklı çiçek türü açarken, yaz aylarında yeşilin her tonunu görebilirsiniz. Kış aylarında ise, Çaybaşı Hamamı'nın güzelliği başka bir boyuta ulaşmaktadır. Çaybaşı Hamamı, flora ve fauna açısından zengin bir bölgedir ve ziyaretçilerine doğanın güzelliğini sunmaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131739037"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - zengin fauna çeşitliliği
 - tarihi geçmişi
 - çoğrafi çeşitlilik

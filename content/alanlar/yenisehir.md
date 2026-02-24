@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/47/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_013.jpg","alt":"YENİŞEHİR manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8220.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8220.jpg/1280px-Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8220.jpg","alt":"YENİŞEHİR - Iznik Wall at Yenişehir Kapısı 8220","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8224.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8224.jpg/1280px-Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8224.jpg","alt":"YENİŞEHİR - Iznik Wall at Yenişehir Kapısı 8224","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8225.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8225.jpg/1280px-Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_8225.jpg","alt":"YENİŞEHİR - Iznik Wall at Yenişehir Kapısı 8225","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_1663.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_1663.jpg/1280px-Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_1663.jpg","alt":"YENİŞEHİR - Iznik Wall at Yenişehir Kapısı 1663","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_1661.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_1661.jpg/1280px-Iznik_Wall_at_Yeni%C5%9Fehir_Kap%C4%B1s%C4%B1_1661.jpg","alt":"YENİŞEHİR - Iznik Wall at Yenişehir Kapısı 1661","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YEN%C4%B0%C5%9EEH%C4%B0R","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228756","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık Yenişehir Milli Parkı"
+
 keywords: ["Yenişehir","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228756"
@@ -31,7 +31,7 @@ Yenişehir'in tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların iz
 
 ## Coğrafya
 
-Yenişehir Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. 140 hektarlık alan, çeşitli coğrafi oluşumları barındırıyor. Burada, tepe ve vadilerin birleştiği noktada, ziyaretçiler, muhteşem manzaralarla karşılaşıyor. Parkın coğrafi yapısı, çeşitli iklim koşullarına uygun. Kışın karla kaplı dağlar, yazın ise yeşil örtü, ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu. Burada, yaban hayatı, ziyaretçilere doğanın güzelliğini gösteriyor.
+Yenişehir Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Burada, tepe ve vadilerin birleştiği noktada, ziyaretçiler, muhteşem manzaralarla karşılaşıyor. Parkın coğrafi yapısı, çeşitli iklim koşullarına uygun. Kışın karla kaplı dağlar, yazın ise yeşil örtü, ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu. Burada, yaban hayatı, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Yenişehir Milli Parkı, ziyaretçilere, çeşitli aktiviteler sunuyor. Burada, 
 
 ## İlginç Bilgiler
 
-- Yenişehir Milli Parkı, 140 hektarlık bir yeşil alan
 - Park, çeşitli bitki türleri ve fauna ile zengin
 - Yaban hayatı, ziyaretçilere, doğal yaşamın içinde bir deneyim sunuyor
 - Parkın coğrafi yapısı, çeşitli iklim koşullarına uygun

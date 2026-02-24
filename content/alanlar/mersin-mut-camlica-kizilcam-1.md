@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","orman gezisi","bitki gözlemi","hayvan göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kad%C4%B1nc%C4%B1k_Valley_17.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_17.jpg","alt":"Mersin-Mut-Çamlıca-Kızılçam 1","caption":"Mersin-Mut-Çamlıca-Kızılçam 1","credit":"Kadıncık Valley 17.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-%C3%87aml%C4%B1ca-K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228441","tip":"genel"}]
-description: "Mersin'de bulunan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Mersin","milli park","yeşil alan","doğa","çevre","gezi","turizm","Mediterranean","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228441"
@@ -42,7 +42,6 @@ Mersin-Mut-Çamlıca-Kızılçam 1 milli parkını ziyaret etmek, doğayla iç i
 
 ## İlginç Bilgiler
 
-- Mersin-Mut-Çamlıca-Kızılçam 1 milli parkı, 140 hektarlık yeşil alanıyla dikkat çekiyor.
 - Milli parkın coğrafi konumu, Akdeniz Bölgesi'nde yer alıyor.
 - Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor.
 - Milli parkın ekolojik dengesi, ziyaretçilerine doğanın güzelliğini anlamak için önemli bir fırsat sunuyor.

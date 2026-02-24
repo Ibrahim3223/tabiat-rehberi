@@ -28,7 +28,7 @@ wikidata_id: "Q34829042"
 
 # Çevrik Tepe
 
-Mersin'in Akdeniz Bölgesi'nde bulunan Çevrik Tepe, yaklaşık 140 hektarlık bir alanı kaplayan, aynı zamanda Mersin ilinin önemli doğal güzelliklerinden birisidir. Çevrik Tepe, Mersin'in merkezine uzun bir mesafe uzaklıkta yer almakta ve bu bölgeye ulaşım oldukça kolaydır. Bu tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır ve aynı zamanda Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır.
+ Çevrik Tepe, Mersin'in merkezine uzun bir mesafe uzaklıkta yer almakta ve bu bölgeye ulaşım oldukça kolaydır. Bu tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır ve aynı zamanda Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Mersin'in Akdeniz Bölgesi'nde bulunan Çevrik Tepe, yaklaşık 140 hektarlık b
 
 ## Coğrafya
 
-Çevrik Tepe, coğrafi olarak Mersin'in Akdeniz Bölgesi'nde yer almakta ve bu bölgenin önemli bir doğal güzelliği olarak kabul edilmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve bu alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile kaplı durumdadır. Çevrik Tepe'nin coğrafi yapısı, ziyaretçilerine doğal güzelliği ve çeşitli bitki türleri ile önemli bir gezi deneyimi sunmaktadır. Bu tepe, Mersin'in merkezine uzun bir mesafe uzaklıkta yer almakta ve bu bölgeye ulaşım oldukça kolaydır. Çevrik Tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır ve aynı zamanda Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır. Bu tepe, ziyaretçilerine Mersin'in doğal güzelliği ve tarihi geçmişi hakkında önemli bilgiler sunmaktadır.
+Çevrik Tepe, coğrafi olarak Mersin'in Akdeniz Bölgesi'nde yer almakta ve bu bölgenin önemli bir doğal güzelliği olarak kabul edilmektedir. Çevrik Tepe'nin coğrafi yapısı, ziyaretçilerine doğal güzelliği ve çeşitli bitki türleri ile önemli bir gezi deneyimi sunmaktadır. Bu tepe, Mersin'in merkezine uzun bir mesafe uzaklıkta yer almakta ve bu bölgeye ulaşım oldukça kolaydır. Çevrik Tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır ve aynı zamanda Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır. Bu tepe, ziyaretçilerine Mersin'in doğal güzelliği ve tarihi geçmişi hakkında önemli bilgiler sunmaktadır.
 
 ## Flora ve Fauna
 
- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve bu alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile kaplı durumdadır. Çevrik Tepe'nin flora ve faunası, ziyaretçilerine doğal güzelliği ve çeşitli bitki türleri ile önemli bir gezi deneyimi sunmaktadır. Bu tepe, Mersin'in merkezine uzun bir mesafe uzaklıkta yer almakta ve bu bölgeye ulaşım oldukça kolaydır. Çevrik Tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır ve aynı zamanda Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır. Bu tepe, ziyaretçilerine Mersin'in doğal güzelliği ve tarihi geçmişi hakkında önemli bilgiler sunmaktadır.
+ Çevrik Tepe'nin flora ve faunası, ziyaretçilerine doğal güzelliği ve çeşitli bitki türleri ile önemli bir gezi deneyimi sunmaktadır. Bu tepe, Mersin'in merkezine uzun bir mesafe uzaklıkta yer almakta ve bu bölgeye ulaşım oldukça kolaydır. Çevrik Tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır ve aynı zamanda Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır. Bu tepe, ziyaretçilerine Mersin'in doğal güzelliği ve tarihi geçmişi hakkında önemli bilgiler sunmaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Mersin'in Akdeniz Bölgesi'nde bulunan Çevrik Tepe, yaklaşık 140 hektarlık b
 ## İlginç Bilgiler
 
 - Mersin'in önemli doğal güzelliklerinden birisidir
-- 140 hektarlık bir alanı kaplamaktadır
+
 - Bölgenin coğrafi yapısını oluşturan önemli bir noktadır
 - Mersin'in tarihi geçmişi hakkında önemli ipuçları sunmaktadır
 - Ziyaretçilerine doğal güzelliği ve tarihi geçmişi ile önemli bir gezi deneyimi sunmaktadır

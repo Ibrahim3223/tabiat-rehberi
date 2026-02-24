@@ -49,7 +49,7 @@ Kartalyuvası Tepe, yıl boyunca ziyaret edilebilen bir nokta. Ziyaretçiler, bu
 ## İlginç Bilgiler
 
 - Kartalyuvası Tepe, Konya'nın en önemli turizm noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Tarihi ve doğal güzellikleri ile dikkat çekiyor.
 - Yıl boyunca ziyaret edilebilen bir nokta.
 - Ziyaretçiler, bu tepeyi keşfederek hem tarihi hem de doğal güzellikleri deneyimleyebilirler.

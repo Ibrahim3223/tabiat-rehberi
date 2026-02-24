@@ -43,7 +43,7 @@ Kastamonu-Ayancik-Cangal Duglas milli parkını ziyaret etmek için, Kastamonu i
 ## İlginç Bilgiler
 
 - Milli parkın sınırları içerisinde, çeşitli bitki türleri ve hayvanlar found.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterize ediliyor.
 - Milli parkın iklimi, Karadeniz Bölgesi'nin genel iklimi ile benzerlik gösteriyor.
 - Milli parkta, mevsimsel değişimler ile birlikte, farklı flora ve fauna türleri görülüyor.

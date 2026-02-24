@@ -22,7 +22,7 @@ wikidata_id: "Q108227904"
 
 # Izmir-Akhisar-Kirkagac Kızılçam 2
 
- Bu bölge, kızılçam ormanları ile tanınır ve ziyaretçilere doğayla iç içe bir deneyim sunar. İzmir'in Akhisar ve Kirkagac yöresinde bulunan bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine gibidir. 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+ Bu bölge, kızılçam ormanları ile tanınır ve ziyaretçilere doğayla iç içe bir deneyim sunar. İzmir'in Akhisar ve Kirkagac yöresinde bulunan bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine gibidir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227904"
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Kızılçam ormanları, milli parkın en önemli özelliklerinden biri
 - Milli parkta, çeşitli bitki türleri ve hayvanlar bulunur
 - Ziyaretçilerin, milli parkın coğrafyasını ve flora/faunasını keşfetmeleri önerilir

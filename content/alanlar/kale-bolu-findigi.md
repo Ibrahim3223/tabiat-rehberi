@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Kale Bolu Fındığı","caption":"Kale Bolu Fındığı","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kale%20Bolu%20F%C4%B1nd%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227058","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kale Bolu Fındığı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Kale Bolu Fındığı","İç Anadolu Bölgesi","doğa harikası","yeşil alan","milli park","flora","fauna","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227058"
@@ -42,7 +42,6 @@ Kale Bolu Fındığı'na ziyaret için en iyi mevsim, ilkbahar ve yaz aylarıdı
 
 ## İlginç Bilgiler
 
-- Kale Bolu Fındığı, 140 hektarlık bir yeşil alana sahiptir.
 - Milli parkta, çeşitli bitkiler ve ağaçlar bulunur.
 - Kale Bolu Fındığı, birçok hayvan türünün yaşam alanıdır.
 - İlkbahar ve yaz ayları, ziyaret için en uygun mevsimlerdir.

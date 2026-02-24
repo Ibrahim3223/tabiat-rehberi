@@ -29,7 +29,7 @@ wikidata_id: "Q131391211"
 
 # Pir Sücaaddin İlyas Türbesi
 
-Pir Sücaaddin İlyas Türbesi, Amasya'nın tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Amasya'nın en önemli kültürel merkezlerinden biri olarak kabul ediliyor. Bu alan, hem yerli hem de yabancı turistler için bir çekim merkezi olarak hizmet veriyor. Pir Sücaaddin İlyas Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkisi altına alıyor.
+Pir Sücaaddin İlyas Türbesi, Amasya'nın tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon. Bu alan, hem yerli hem de yabancı turistler için bir çekim merkezi olarak hizmet veriyor. Pir Sücaaddin İlyas Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkisi altına alıyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Pir Sücaaddin İlyas Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzel
 ## İlginç Bilgiler
 
 - Pir Sücaaddin İlyas Türbesi, Amasya'nın en önemli kültürel merkezlerinden biri
-- Türbenin çevresinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor
 - Pir Sücaaddin İlyas Türbesi, yüzyıllar boyunca Amasya'nın önemli dini ve kültürel merkezlerinden biri olarak hizmet vermiştir
 - Türbenin tarihi geçmişi, Amasya'nın zengin kültürel yapısını yansıtıyor

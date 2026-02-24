@@ -50,8 +50,6 @@ Merehi Lahdi, ziyaretçilere unutulmaz bir deneyim sunar. Bu bölge, ulaşımı 
 
 ## İlginç Bilgiler
 
-- Merehi Lahdi, 140 hektarlık bir alana sahiptir
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir
 - Merehi Lahdi, Akdeniz Bölgesi'nin en güzel noktalarından biridir
 - Bu bölge, turizm açısından önemli bir yerdir
 - Merehi Lahdi, doğal güzelliği ile dikkat çekmektedir

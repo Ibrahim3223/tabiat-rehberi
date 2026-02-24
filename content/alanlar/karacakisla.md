@@ -30,7 +30,7 @@ Karacakisla milli parkının tarihi geçmişi, İç Anadolu Bölgesi'nin genel t
 
 ## Coğrafya
 
-Karacakisla milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir doğal alandır. Park, 140 hektarlık bir alanı kaplar ve bölgenin ekolojik dengesini korumada önemli bir role sahiptir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın coğrafi yapısı, ziyaretçilere doğayla iç içe bir deneyim sunar ve bölgenin flora ve faunasını keşfetme fırsatı verir. Karacakisla milli parkı, hem doğa severler hem de bilim insanları için bir hazine niteliğindedir. Parkın coğrafi konumu, ziyaretçilere bölgenin diğer doğal güzelliklerine ulaşma fırsatı da sunar.
+Karacakisla milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir doğal alandır. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın coğrafi yapısı, ziyaretçilere doğayla iç içe bir deneyim sunar ve bölgenin flora ve faunasını keşfetme fırsatı verir. Karacakisla milli parkı, hem doğa severler hem de bilim insanları için bir hazine niteliğindedir. Parkın coğrafi konumu, ziyaretçilere bölgenin diğer doğal güzelliklerine ulaşma fırsatı da sunar.
 
 ## Flora ve Fauna
 

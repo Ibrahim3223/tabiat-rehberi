@@ -51,7 +51,7 @@ Muallimzade Hamamı'nı ziyaret etmek, hem dinlenmek hem de tarihle iç içe olm
 ## İlginç Bilgiler
 
 - Muallimzade Hamamı, Bursa'nın en önemli turizm noktalarından biri.
-- Bölge, 140 hektarlık bir yeşil alan sunuyor.
+
 - Muallimzade Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerinin birleştiği bir noktada bulunuyor.
 - Bölge, tarihi ve kültürel bir deneyim sunuyor.
 - Muallimzade Hamamı, ilkbahar ve yaz aylarında en çok ziyaret ediliyor.

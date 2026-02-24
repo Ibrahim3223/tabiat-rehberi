@@ -28,7 +28,7 @@ wikidata_id: "Q31386602"
 
 # Girireşti Tepesi
 
-Girireşti Tepesi, Şırnak ilinin güzergahında yer alan ve doğa severlerin ilgisini çeken bir nokta. Bu tepenin etrafında geniş bir yeşil alan bulunmakta ve burası yaklaşık 140 hektarlık bir büyüklüğe sahip. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna found. Girireşti Tepesi, hem doğa tutkunları hem de tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
+Girireşti Tepesi, Şırnak ilinin güzergahında yer alan ve doğa severlerin ilgisini çeken bir nokta. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna found. Girireşti Tepesi, hem doğa tutkunları hem de tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Girireşti Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için 
 
 ## İlginç Bilgiler
 
-- Girireşti Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Girireşti Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Buraya ulaşım, Şırnak ilinin merkezi üzerinden sağlanabiliyor.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227473"
 
 # Amasya-Kargi Karacam
 
-Amasya-Kargi Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir milli parktır. Milli park, Amasya'nın Kargi ilçesinde yer almakta ve Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinmektedir. Milli parkın etrafı, yüksek dağlar ve ormanlarla çevrili olup, ziyaretçilere doğayla iç içe bir ortam sunar.
+ Milli park, Amasya'nın Kargi ilçesinde yer almakta ve Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinmektedir. Milli parkın etrafı, yüksek dağlar ve ormanlarla çevrili olup, ziyaretçilere doğayla iç içe bir ortam sunar.
 
 ## Tarihçe
 

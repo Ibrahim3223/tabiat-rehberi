@@ -22,15 +22,15 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/Isparta_Bey_Hamam%C4%B1_5006.jpg","alt":"Bey Hamamı manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/63/%C4%B0znik_%C4%B0smail_Bey_Hammam_%2814042680920%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%C4%B0znik_%C4%B0smail_Bey_Hammam_%2814042680920%29.jpg/1280px-%C4%B0znik_%C4%B0smail_Bey_Hammam_%2814042680920%29.jpg","alt":"Bey Hamamı - İznik İsmail Bey Hammam (14042680920)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/26/%C4%B0smail_bey_hamam%C4%B1_1357.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%C4%B0smail_bey_hamam%C4%B1_1357.jpg/1280px-%C4%B0smail_bey_hamam%C4%B1_1357.jpg","alt":"Bey Hamamı - İsmail bey hamamı 1357","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/42/0991%C4%B0smail_bey_hamam%C4%B1_5150_-1357.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/0991%C4%B0smail_bey_hamam%C4%B1_5150_-1357.jpg/1280px-0991%C4%B0smail_bey_hamam%C4%B1_5150_-1357.jpg","alt":"Bey Hamamı - 0991İsmail bey hamamı 5150 -1357","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/%C4%B0smail_bey_hamam%C4%B1_1358.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%C4%B0smail_bey_hamam%C4%B1_1358.jpg/1280px-%C4%B0smail_bey_hamam%C4%B1_1358.jpg","alt":"Bey Hamamı - İsmail bey hamamı 1358","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/%C4%B0smail_bey_hamam%C4%B1_1400.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%C4%B0smail_bey_hamam%C4%B1_1400.jpg/1280px-%C4%B0smail_bey_hamam%C4%B1_1400.jpg","alt":"Bey Hamamı - İsmail bey hamamı 1400","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738486","tip":"genel"}]
-description: "Isparta'nın doğal güzelliklerinden biri olan Bey Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Isparta","Bey Hamamı","doğal güzellik","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738486"
 ---
 
 # Bey Hamamı
 
- Bu alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bey Hamamı, Isparta'nın tarihi ve doğal güzelliklerini bir arada sunan özel bir yerdir. Şehir merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir noktadır. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar.
+ Bu alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bey Hamamı, Isparta'nın tarihi ve doğal güzelliklerini bir arada sunan özel bir yerdir. Şehir merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir noktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Bey Hamamı, Isparta'nın merkezinde yer alan bir doğal güzelliktir. Bu alan, 
 
 ## Flora ve Fauna
 
-Bey Hamamı, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar. Bu alan, Isparta'nın doğal güzelliklerini bir arada sunan özel bir yerdir. Şehir merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir noktadır. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle birlikte, yaban hayatının da yaşam alanıdır. Bu doğal güzellik, mevsimsel değişimlere göre farklı bir görünüm sunar. İlkbahar ve yaz aylarında, yeşilin çeşitli tonlarıyla bezenen bu alan, sonbahar ve kış aylarında ise, farklı bir güzelliğe bürünür. Isparta'nın flora ve fauna zenginliği, Bey Hamamı'nın doğal güzelliklerini daha da vurgular. Bu doğal güzellik, çeşitli canlıların yaşam alanı olarak, şehrin ekolojik dengesine de katkıda bulunur.
+Bey Hamamı, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar. Bu alan, Isparta'nın doğal güzelliklerini bir arada sunan özel bir yerdir. Şehir merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir noktadır. Bu doğal güzellik, mevsimsel değişimlere göre farklı bir görünüm sunar. İlkbahar ve yaz aylarında, yeşilin çeşitli tonlarıyla bezenen bu alan, sonbahar ve kış aylarında ise, farklı bir güzelliğe bürünür. Isparta'nın flora ve fauna zenginliği, Bey Hamamı'nın doğal güzelliklerini daha da vurgular. Bu doğal güzellik, çeşitli canlıların yaşam alanı olarak, şehrin ekolojik dengesine de katkıda bulunur.
 
 ## Ziyaret Bilgileri
 
@@ -54,4 +54,4 @@ Bey Hamamı, Isparta'nın merkezinde yer alan bir doğal güzelliktir. Bu alanı
 - Bey Hamamı'nın doğal güzellikleri
 - Isparta'nın coğrafi konumu
 - şehir merkezine yakın konumu
-- 140 hektarlık yeşil alan
+

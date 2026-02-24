@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Bartin-inkum-sahil.jpg","alt":"Inkum manzarası","credit":"Wixama","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Inkum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227883","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Inkum, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor"
+
 keywords: ["İç Anadolu Bölgesi","Inkum","doğa","yeşil alan","fauna","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227883"
@@ -35,7 +35,7 @@ Inkum'un tarihi geçmişi, yüzyılların izlerini taşıyor. Bu bölge, tarihin
 
 ## Flora ve Fauna
 
-Inkum'un flora ve fauna çeşitliliği, ziyaretçilere zengin bir doğal güzellik sunuyor. Inkum'un 140 hektarlık yeşil alanı, çeşitli bitki türleri ile kaplı ve bu bitki türleri, Inkum'un doğal güzelliğini şekillendiren önemli faktörlerden biri. Inkum'un fauna çeşitliliği de zengin ve çeşitli hayvan türleri ile ziyaretçilere doğal bir görsellik sunuyor. Inkum'un mevsimsel değişimleri, flora ve fauna çeşitliliğini etkileyen önemli bir faktör ve bu değişimler, Inkum'un doğal güzelliğini şekillendiren önemli bir unsur.
+Inkum'un flora ve fauna çeşitliliği, ziyaretçilere zengin bir doğal güzellik sunuyor. Inkum'un fauna çeşitliliği de zengin ve çeşitli hayvan türleri ile ziyaretçilere doğal bir görsellik sunuyor. Inkum'un mevsimsel değişimleri, flora ve fauna çeşitliliğini etkileyen önemli bir faktör ve bu değişimler, Inkum'un doğal güzelliğini şekillendiren önemli bir unsur.
 
 ## Ziyaret Bilgileri
 
@@ -44,7 +44,7 @@ Inkum'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olabilir. Inku
 ## İlginç Bilgiler
 
 - Inkum, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri
-- Inkum'un 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Inkum'un flora ve fauna çeşitliliği, ziyaretçilere zengin bir doğal güzellik sunuyor
 - Inkum'un tarihi geçmişi, yüzyılların izlerini taşıyor
 - Inkum, Türkiye'nin önemli kültürel miras noktalarından biri

@@ -37,7 +37,7 @@ Karadeniz Türbesi'nin tarihi geçmişi, bölgeye ait önemli bir kültürel mir
 
 ## Coğrafya
 
-Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunmaktadır. Sur ilçesinde yer alan bu mekan, Diyarbakır'ın merkezine yakın bir konumdadır. 140 hektarlık alan, bölgenin doğal güzelliğini temsil eden geniş bir yeşil alanı kapsamaktadır. Ayrıca, bu mekanın bulunduğu bölge, zengin flora ve faunaya ev sahipliği yapmaktadır. Bölgenin iklimi, ziyaretçilere yılın dört mevsiminde farklı deneyimler sunmaktadır. Karadeniz Türbesi'nin coğrafi konumu ve doğal güzelliği, ziyaretçilerin ilgisini çekmektedir.
+Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunmaktadır. Sur ilçesinde yer alan bu mekan, Diyarbakır'ın merkezine yakın bir konumdadır. Ayrıca, bu mekanın bulunduğu bölge, zengin flora ve faunaya ev sahipliği yapmaktadır. Bölgenin iklimi, ziyaretçilere yılın dört mevsiminde farklı deneyimler sunmaktadır. Karadeniz Türbesi'nin coğrafi konumu ve doğal güzelliği, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Karadeniz Türbesi'ni ziyaret etmek, bölge hakkında derinlemesine bilgi edinme
 ## İlginç Bilgiler
 
 - Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alanı kapsamaktadır.
+
 - Karadeniz Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 - Bölge, zengin flora ve faunaya ev sahipliği yapmaktadır.
 - Karadeniz Türbesi, yılın dört mevsiminde ziyaret edilebilir.

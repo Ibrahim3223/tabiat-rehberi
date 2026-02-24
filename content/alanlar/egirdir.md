@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Yedi_Renkli_G%C3%B6l_%E2%80%93_E%C4%9Firdir.jpg","alt":"EĞİRDİR manzarası","credit":"Murad Ahmadzada","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Panoramic_view_of_E%C4%9Firdir_and_Lake_E%C4%9Firdir_from_Akp%C4%B1nar%2C_March_2024_09.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Panoramic_view_of_E%C4%9Firdir_and_Lake_E%C4%9Firdir_from_Akp%C4%B1nar%2C_March_2024_09.jpg/1280px-Panoramic_view_of_E%C4%9Firdir_and_Lake_E%C4%9Firdir_from_Akp%C4%B1nar%2C_March_2024_09.jpg","alt":"EĞİRDİR - Panoramic view of Eğirdir and Lake Eğirdir from Akpınar, March 2024 09","credit":"Calistemon","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_01.jpg/1280px-Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_01.jpg","alt":"EĞİRDİR - Lake Eğirdir waterfront in Eğirdir, March 2024 01","credit":"Calistemon","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_02.jpg/1280px-Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_02.jpg","alt":"EĞİRDİR - Lake Eğirdir waterfront in Eğirdir, March 2024 02","credit":"Calistemon","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_03.jpg/1280px-Lake_E%C4%9Firdir_waterfront_in_E%C4%9Firdir%2C_March_2024_03.jpg","alt":"EĞİRDİR - Lake Eğirdir waterfront in Eğirdir, March 2024 03","credit":"Calistemon","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Statue_of_Mustafa_Kemal_Atat%C3%BCrk_in_E%C4%9Firdir%2C_March_2024_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Statue_of_Mustafa_Kemal_Atat%C3%BCrk_in_E%C4%9Firdir%2C_March_2024_02.jpg/1280px-Statue_of_Mustafa_Kemal_Atat%C3%BCrk_in_E%C4%9Firdir%2C_March_2024_02.jpg","alt":"EĞİRDİR - Statue of Mustafa Kemal Atatürk in Eğirdir, March 2024 02","credit":"Calistemon","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9E%C4%B0RD%C4%B0R","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228731","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Eğirdir, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Eğirdir","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziki veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228731"
@@ -44,7 +44,7 @@ Eğirdir, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor
 ## İlginç Bilgiler
 
 - Eğirdir Gölü'nün kıyısında yer alıyor
-- 140 hektarlık yeşil alan
+
 - uzun bir mesafelik yürüyüş parkuru
 - İç Anadolu Bölgesi'nin doğal güzelliklerinden biri
 - Çeşitli bitki türleri ve zengin fauna

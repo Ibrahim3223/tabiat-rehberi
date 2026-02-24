@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Serban_hills.jpeg","alt":"Serban Tepesi manzarası","credit":"Ashfaqkhan78","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serban%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387793","tip":"genel"}]
-description: "Erzurum'da bulunan Serban Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Erzurum'da bulunan Serban Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Serban Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387793"

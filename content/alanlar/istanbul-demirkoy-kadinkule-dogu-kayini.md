@@ -30,7 +30,7 @@ Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkının tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkı, Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi konumu, ziyaretçilerin hem İstanbul'un merkezine hem de diğer turistik noktalara kolayca ulaşmasına olanak tanır. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın tüm güzelliğini sunar. Parkın iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine ve çeşitli aktivitelere katılmasına olanak tanır. Ayrıca, parkın yakın çevresinde bulunan diğer turistik noktalar, ziyaretçilerin bölgenin güzelliğini ve çeşitliliğini daha iyi keşfetmesine olanak tanır.
+Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkı, Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi konumu, ziyaretçilerin hem İstanbul'un merkezine hem de diğer turistik noktalara kolayca ulaşmasına olanak tanır. Parkın iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine ve çeşitli aktivitelere katılmasına olanak tanır. Ayrıca, parkın yakın çevresinde bulunan diğer turistik noktalar, ziyaretçilerin bölgenin güzelliğini ve çeşitliliğini daha iyi keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 

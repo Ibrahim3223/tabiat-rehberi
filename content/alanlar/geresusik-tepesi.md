@@ -48,7 +48,6 @@ Geresusik Tepesi'ni ziyaret etmek, doğa ve tarih meraklıları için önemli bi
 
 ## İlginç Bilgiler
 
-- Geresusik Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafındaki arkeolojik sit alanları, bölgenin zengin tarihini gözler önüne seriyor.
 - Geresusik Tepesi, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor.
 - Tepenin yüksekliği ve konumu, bölgenin iklimini etkileyen önemli faktörler arasında.

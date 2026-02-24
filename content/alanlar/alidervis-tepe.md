@@ -49,7 +49,7 @@ Aliderviş Tepe, ziyaretçilerine coğrafi ve tarihi güzellikleri sunar. Burada
 ## İlginç Bilgiler
 
 - Aliderviş Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Aliderviş Tepe, flora ve fauna açısından zengin bir bölgedir.
 - Bu tepe, ziyaretçilerine coğrafi ve tarihi güzellikleri sunar.
 - Aliderviş Tepe, İç Anadolu Bölgesi'nin önemli gezi noktalarından biridir.

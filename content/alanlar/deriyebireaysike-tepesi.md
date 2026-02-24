@@ -36,7 +36,7 @@ Deriyebıreaysike Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Deriyebıreaysike Tepesi, Şırnak ilinin coğrafi yapısını oluşturan önemli bir oluşumdur. Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu tepenin oluşumunda önemli bir rol oynamıştır. Bu tepe, bölgenin iklimi, flora ve fauna çeşitliliği hakkında önemli bilgiler sunar. Deriyebıreaysike Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapar. Tepenin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, aynı zamanda bölgenin su kaynakları hakkında da önemli bilgiler sunar. Deriyebıreaysike Tepesi'nin coğrafi yapısı, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve bölgenin zengin doğal güzelliklerini keşfetme fırsatı sunar.
+Deriyebıreaysike Tepesi, Şırnak ilinin coğrafi yapısını oluşturan önemli bir oluşumdur. Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu tepenin oluşumunda önemli bir rol oynamıştır. Bu tepe, bölgenin iklimi, flora ve fauna çeşitliliği hakkında önemli bilgiler sunar. Tepenin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, aynı zamanda bölgenin su kaynakları hakkında da önemli bilgiler sunar. Deriyebıreaysike Tepesi'nin coğrafi yapısı, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve bölgenin zengin doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Deriyebıreaysike Tepesi'ni ziyaret etmek, bölgenin zengin doğal güzellikleri
 ## İlginç Bilgiler
 
 - Deriyebıreaysike Tepesi, Şırnak ilinin önemli coğrafi oluşumlarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Deriyebıreaysike Tepesi, çeşitli bitki türlerine ev sahipliği yapar.
 - Bu tepe, zengin fauna çeşitliliğine sahiptir.
 - Deriyebıreaysike Tepesi, mevsimsel değişimler hakkında da önemli bilgiler sunar.

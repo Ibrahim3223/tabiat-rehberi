@@ -51,6 +51,6 @@ Kaya Mezarı 4'ü ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyiml
 
 - Kaya Mezarı 4, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri.
 - Bu bölge, tarihi ve doğal güzelliklerini bir arada sunuyor.
-- Kaya Mezarı 4, 140 hektarlık bir yeşil alan.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna yaşamaktadır.
 - Kaya Mezarı 4, ilkbahar ve yaz aylarında ziyaret edilebilir.

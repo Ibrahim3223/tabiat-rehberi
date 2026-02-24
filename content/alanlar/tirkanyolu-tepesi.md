@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","manzara seyretme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Tirkanyolu Tepesi","caption":"Tirkanyolu Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tirkanyolu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559231","tip":"genel"}]
-description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Tirkanyolu Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Tirkanyolu Tepesi","doğa","tarih","gezi","turizm","tepe","manzara","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31559231"

@@ -36,7 +36,7 @@ Derigelir Tepesi, tarihi geçmişi ile de dikkat çekiyor. Bu tepenin tarihi hak
 
 ## Coğrafya
 
-Derigelir Tepesi, Van ilinin coğrafi yapısını yansıtan bir bölge olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Van'ın doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi olarak görülüyor. Derigelir Tepesi, Van'ın iklimini yansıtan bir bölge olarak, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin farklı tonlarını, sonbahar ve kış aylarında ise karın beyazlığını gözler önüne seren Derigelir Tepesi, Van'ın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor. Bu tepe, ziyaretçilerine Van'ın eşsiz manzarasını sunuyor ve bölgenin florası ve faunası hakkında bilgi edinme fırsatı sunuyor.
+Derigelir Tepesi, Van ilinin coğrafi yapısını yansıtan bir bölge olarak dikkat çekiyor. Derigelir Tepesi, Van'ın iklimini yansıtan bir bölge olarak, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin farklı tonlarını, sonbahar ve kış aylarında ise karın beyazlığını gözler önüne seren Derigelir Tepesi, Van'ın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor. Bu tepe, ziyaretçilerine Van'ın eşsiz manzarasını sunuyor ve bölgenin florası ve faunası hakkında bilgi edinme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Derigelir Tepesi, Van ilinin doğal güzelliklerini keşfetmek isteyenler için 
 ## İlginç Bilgiler
 
 - Derigelir Tepesi, Van ilinin doğal güzelliklerine ev sahipliği yapan bir tepe olarak dikkat çekiyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Derigelir Tepesi, Van'ın eşsiz manzarasını sunuyor
 - Bu tepe, bölgenin florası ve faunası hakkında bilgi edinme fırsatı sunuyor
 - Derigelir Tepesi, Van ilinin coğrafi yapısını yansıtan bir bölge olarak görülüyor

@@ -30,7 +30,7 @@ Bitlis Ahlat Ziyaret Dağı, yüzyıllar boyunca çeşitli medeniyetlere ev sahi
 
 ## Coğrafya
 
-Bitlis Ahlat Ziyaret Dağı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir alanı kapsar. Ziyaret Dağı, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, doğal güzellikleri ile dikkat çeker. Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Ayrıca, Ziyaret Dağı'nın coğrafi yapısı, burada bulunan tarihi kalıntıları da etkilemiştir. Ziyaretçiler, bu coğrafi çeşitlili ve tarihi zenginliklerin bir arada olduğu bir bölgeyi keşfeder.
+Bitlis Ahlat Ziyaret Dağı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir alanı kapsar. Bu alan, doğal güzellikleri ile dikkat çeker. Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Ayrıca, Ziyaret Dağı'nın coğrafi yapısı, burada bulunan tarihi kalıntıları da etkilemiştir. Ziyaretçiler, bu coğrafi çeşitlili ve tarihi zenginliklerin bir arada olduğu bir bölgeyi keşfeder.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bitlis Ahlat Ziyaret Dağı, ziyaretçiler için çeşitli olanaklar sunar. Ziya
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alanı kapsar.
 - Ziyaret Dağı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir alandır.
 - Ziyaret Dağı, coğrafi olarak çeşitlilik gösteren bir alanı kapsar.

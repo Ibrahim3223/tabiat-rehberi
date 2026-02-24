@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e9/%C3%87aml%C4%B1dere-Ankara_-_panoramio.jpg","alt":"Alucdagi manzarası","credit":"Halit Edip Özcan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/So%C4%9Fuksu-%C3%87aml%C4%B1dere_Orman_Yolu_-_panoramio.jpg/960px-So%C4%9Fuksu-%C3%87aml%C4%B1dere_Orman_Yolu_-_panoramio.jpg","alt":"Alucdagi","caption":"Alucdagi","credit":"Soğuksu-Çamlıdere Orman Yolu - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/66/%C3%87aml%C4%B1dere_Yaylas%C4%B1_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%C3%87aml%C4%B1dere_Yaylas%C4%B1_-_panoramio.jpg/1280px-%C3%87aml%C4%B1dere_Yaylas%C4%B1_-_panoramio.jpg","alt":"Alucdagi - Çamlıdere Yaylası - panoramio","credit":"Emin Başar ÖZDEMİR","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e6/%C3%87aml%C4%B1dere_Yaylas%C4%B1_-_panoramio_-_Emin_Ba%C5%9Far_%C3%96ZDEM%C4%B0R.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%C3%87aml%C4%B1dere_Yaylas%C4%B1_-_panoramio_-_Emin_Ba%C5%9Far_%C3%96ZDEM%C4%B0R.jpg/1280px-%C3%87aml%C4%B1dere_Yaylas%C4%B1_-_panoramio_-_Emin_Ba%C5%9Far_%C3%96ZDEM%C4%B0R.jpg","alt":"Alucdagi - Çamlıdere Yaylası - panoramio - Emin Başar ÖZDEMİR","credit":"Emin Başar ÖZDEMİR","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c1/So%C4%9Fuksu-%C3%87aml%C4%B1dere_Orman_Yolu_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/c1/So%C4%9Fuksu-%C3%87aml%C4%B1dere_Orman_Yolu_-_panoramio.jpg","alt":"Alucdagi - Soğuksu-Çamlıdere Orman Yolu - panoramio","credit":"Halit Edip Özcan","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alucdagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228206","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Alucdagi, doğa severler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nde yer alan Alucdagi, doğa severler için bir cennet."
 keywords: ["Alucdagi","İç Anadolu Bölgesi","doğa","milli park","turizm","gezi","yaban hayatı","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228206"
@@ -43,7 +43,6 @@ Alucdagi milli parkını ziyaret etmek, doğa severler için bir zorunluluk olar
 
 ## İlginç Bilgiler
 
-- Alucdagi milli parkı, 140 hektarlık bir alana sahip.
 - Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün.
 - Milli parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor.
 - Alucdagi milli parkı, özellikle kuş türleri için önemli bir yaşam alanı oluşturuyor.

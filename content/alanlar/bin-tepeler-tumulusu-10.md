@@ -21,7 +21,7 @@ aktiviteler: ["Tarihçi rehberli turlar","Doğa yürüyüşleri","Fotografçıl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Bin Tepeler Tümülüsü 10","caption":"Bin Tepeler Tümülüsü 10","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2010","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728367","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli k incisi, Salihli/Manisa'da yer alan Bin Tepeler Tümülüsü 10, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","yeşil alan","fiziksel veriler","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728367"
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 10'un tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 10, coğrafi konumu itibariyle Ege Bölgesi'nin önemli merkezlerinden biridir. Salihli/Manisa'da yer alan bu özel alan, 140 hektarlık yeşil alanı ile dikkat çekiyor. Coğrafi konumu, ziyaretçilere bu özel yerin güzelliğini göstermeye devam ediyor. Bin Tepeler Tümülüsü 10, Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Burada yer alan tepe ve vadiler, ziyaretçilere bu özel yerin güzelliğini göstermeye devam ediyor. Coğrafi konumu, ziyaretçilere bu özel yerin değerini göstermeye yardımcı oluyor.
+Bin Tepeler Tümülüsü 10, coğrafi konumu itibariyle Ege Bölgesi'nin önemli merkezlerinden biridir. Coğrafi konumu, ziyaretçilere bu özel yerin güzelliğini göstermeye devam ediyor. Bin Tepeler Tümülüsü 10, Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Burada yer alan tepe ve vadiler, ziyaretçilere bu özel yerin güzelliğini göstermeye devam ediyor. Coğrafi konumu, ziyaretçilere bu özel yerin değerini göstermeye yardımcı oluyor.
 
 ## Flora ve Fauna
 

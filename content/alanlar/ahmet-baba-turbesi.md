@@ -38,7 +38,7 @@ Ahmet Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu b
 
 ## Coğrafya
 
-Ahmet Baba Türbesi, Maltepe'nin gözde noktalarından biri olarak karşımıza çıkıyor. Bu bölge, Marmara Denizi'ne yakın bir konumda yer alıyor ve deniz manzarası sunuyor. Çevresinde yeşilin farklı tonlarını görebileceğiniz bu bölge, aynı zamanda İstanbul'un şehir hayatından uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Bölge, coğrafi olarak 140 hektarlık bir alanı kaplıyor ve bu geniş alan içinde çeşitli bitki türleri ve zengin fauna bulunuyor. Ahmet Baba Türbesi'nin coğrafi konumu, ziyaretçilere hem doğayı keşfetme hem de tarihsel yapıları görme fırsatı sunuyor.
+Ahmet Baba Türbesi, Maltepe'nin gözde noktalarından biri olarak karşımıza çıkıyor. Bu bölge, Marmara Denizi'ne yakın bir konumda yer alıyor ve deniz manzarası sunuyor. Çevresinde yeşilin farklı tonlarını görebileceğiniz bu bölge, aynı zamanda İstanbul'un şehir hayatından uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Ahmet Baba Türbesi'nin coğrafi konumu, ziyaretçilere hem doğayı keşfetme hem de tarihsel yapıları görme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

@@ -48,7 +48,6 @@ Kocaçöğür Tepe, ziyaretçiler için önemli bir destinasyon. Tepe, Ege Bölg
 
 ## İlginç Bilgiler
 
-- Kocaçöğür Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepe, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor.
 - Kocaçöğür Tepe, flora ve fauna açısından önemli bir doğal alan.
 - Tepe, farklı mevsimlerde çeşitli bitki ve hayvan türleri ile karşılaşma mümkün.

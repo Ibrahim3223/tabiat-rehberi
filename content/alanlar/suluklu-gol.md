@@ -16,7 +16,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l-201908.jpg","alt":"Sülüklü Göl manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/S%C3%BCl%C3%BCkl%C3%BC_g%C3%B6l_panoramik_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCl%C3%BCkl%C3%BC_g%C3%B6l_panoramik_-_panoramio.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BC_g%C3%B6l_panoramik_-_panoramio.jpg","alt":"Sülüklü Göl - Sülüklü göl panoramik - panoramio","credit":"müşfik öztürk","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b9/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Mudurnu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Mudurnu.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_Mudurnu.jpg","alt":"Sülüklü Göl - Sülüklü Göl Mudurnu","credit":"Kesim Kesgin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Suluklu_gol_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Suluklu_gol_2.jpg/1280px-Suluklu_gol_2.jpg","alt":"Sülüklü Göl - Suluklu gol 2","credit":"Aykun Oymakas","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8b/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_-_panoramio.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_-_panoramio.jpg","alt":"Sülüklü Göl - Sülüklü Göl - panoramio","credit":"Ahmet KAYNARPUNAR","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_-_panoramio_%281%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_-_panoramio_%281%29.jpg/1280px-S%C3%BCl%C3%BCkl%C3%BC_G%C3%B6l_-_panoramio_%281%29.jpg","alt":"Sülüklü Göl - Sülüklü Göl - panoramio (1)","credit":"Ahmet KAYNARPUNAR","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228359","tip":"genel"}]
-description: "Bolu ilinin doğal güzelliklerinden biri olan Sülüklü Göl, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Sülüklü Göl","Bolu","Tabiat Parkı","Doğa","Yeşil Alan","Göl","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228359"
@@ -44,7 +44,6 @@ Sülüklü Göl'ü ziyaret etmek, doğa severler ve şehrin gürültüsünden ka
 
 ## İlginç Bilgiler
 
-- Sülüklü Göl, 140 hektarlık yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde
 - Gölün etrafı, farklı türden ağaçlarla çevrili
 - Sülüklü Göl, Bolu ilinin turizm potansiyelini artırmak için önemli bir yerdir
 - Göl, yılın her döneminde ziyaret edilebilir

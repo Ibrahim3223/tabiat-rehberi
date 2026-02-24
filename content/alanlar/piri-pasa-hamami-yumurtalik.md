@@ -37,7 +37,7 @@ Piri Paşa Hamamı'nın tarihi geçmişi, Yumurtalık'ın tarihi ile iç içe ge
 
 ## Coğrafya
 
-Piri Paşa Hamamı, Yumurtalık'ta yer alan ve Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan bir yapıdır. Bu yapı, 140 hektarlık bir alan üzerinde kurulmuştur. Piri Paşa Hamamı, Yumurtalık'ın coğrafi konumu itibariyle, Akdeniz Bölgesi'nin önemli bir turizm merkezi olarak dikkat çekmektedir. Yumurtalık, Piri Paşa Hamamı ile birlikte, tarihi ve kültürel öneme sahip bir bölgedir. Bu bölge, zengin bir flora ve fauna ile çevrilidir. Piri Paşa Hamamı, Yumurtalık'ın coğrafi yapısını ve kültürel mirasını yansıtan önemli bir yapıttır. Bu hamam, Yumurtalık'ın iklimi ve coğrafi konumu nedeniyle, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
+Piri Paşa Hamamı, Yumurtalık'ta yer alan ve Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan bir yapıdır. Piri Paşa Hamamı, Yumurtalık'ın coğrafi konumu itibariyle, Akdeniz Bölgesi'nin önemli bir turizm merkezi olarak dikkat çekmektedir. Yumurtalık, Piri Paşa Hamamı ile birlikte, tarihi ve kültürel öneme sahip bir bölgedir. Bu bölge, zengin bir flora ve fauna ile çevrilidir. Piri Paşa Hamamı, Yumurtalık'ın coğrafi yapısını ve kültürel mirasını yansıtan önemli bir yapıttır. Bu hamam, Yumurtalık'ın iklimi ve coğrafi konumu nedeniyle, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Piri Paşa Hamamı, Yumurtalık'ta yer alan ve Akdeniz Bölgesi'nin önemli turi
 
 - Piri Paşa Hamamı, Yumurtalık'ta yer alan tarihi bir yapıdır.
 - Bu yapı, Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan Yumurtalık'ta bulunmaktadır.
-- Piri Paşa Hamamı, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bu hamam, Yumurtalık'ın tarihindeki önemli olaylara tanıklık etmiştir.
 - Piri Paşa Hamamı, Yumurtalık'ın kültürel mirasını yansıtan önemli bir yapıttır.

@@ -30,7 +30,7 @@ wikidata_id: "Q131390660"
 
 # Hızır Baba Türbesi
 
-Amasya ilinin merkezinde yer alan Hızır Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekân. Yaklaşık 140 hektarlık bir alan üzerinde kurulmuş olan bu bölgede, tarihi yapılar, yeşillikler ve plaj birlikte bulunmakta. Hızır Baba Türbesi, hem dini açıdan hem de doğal güzelliği ile ziyaretçilerini etkileyen bir destinasyon. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu bölge, geniş ve ferah bir ortam sunuyor.
+Amasya ilinin merkezinde yer alan Hızır Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekân. Hızır Baba Türbesi, hem dini açıdan hem de doğal güzelliği ile ziyaretçilerini etkileyen bir destinasyon.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Hızır Baba Türbesi'ni ziyaret etmek için, Amasya il merkezine ulaşarak bura
 ## İlginç Bilgiler
 
 - Hızır Baba Türbesi, Amasya'nın en önemli tarihi ve dini merkezlerinden biri
-- Bölge, 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Hızır Baba Türbesi, yıl boyunca ziyaretçilere açık
 - Bölgede, çeşitli bitki türleri ve canlılar bulunmakta
 - Ziyaretçilere, geniş ve ferah bir ortam sunuluyor

@@ -37,7 +37,7 @@ Mardin'in Artuklu ilçesinde bulunan Şeyh Muhammed Nur Türbesi, tarihi ve kül
 
 ## Coğrafya
 
-Şeyh Muhammed Nur Türbesi, Mardin'in Artuklu ilçesinde yer alır. Türbe, 140 hektarlık bir alan üzerinde inşa edilmiştir. Türbenin etrafında yer alan tarihi evler, camiler ve diğer dini yapılar, Mardin'in kültürel mirasını yansıtan önemli eserlerdir. Şeyh Muhammed Nur Türbesi, Mardin'in coğrafi konumu itibariyle önemli bir konuma sahiptir. Türbe, Mardin'in merkezine yakın bir konumda yer alır ve şehrin diğer tarihi ve kültürel noktalarına kolayca ulaşılabilir. Mardin'in iklimi, genel olarak sıcak ve kurudur. Ancak, Şeyh Muhammed Nur Türbesi, şehir merkezine yakın bir konumda yer aldığı için, ziyaretçiler için ulaşımı kolaydır.
+Şeyh Muhammed Nur Türbesi, Mardin'in Artuklu ilçesinde yer alır. Türbenin etrafında yer alan tarihi evler, camiler ve diğer dini yapılar, Mardin'in kültürel mirasını yansıtan önemli eserlerdir. Şeyh Muhammed Nur Türbesi, Mardin'in coğrafi konumu itibariyle önemli bir konuma sahiptir. Türbe, Mardin'in merkezine yakın bir konumda yer alır ve şehrin diğer tarihi ve kültürel noktalarına kolayca ulaşılabilir. Mardin'in iklimi, genel olarak sıcak ve kurudur. Ancak, Şeyh Muhammed Nur Türbesi, şehir merkezine yakın bir konumda yer aldığı için, ziyaretçiler için ulaşımı kolaydır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Mardin'in Artuklu ilçesinde bulunan Şeyh Muhammed Nur Türbesi, tarihi ve kül
 
 - Mardin'in tarihi geçmişi yüzyıllar öncesine uzanır
 - Şeyh Muhammed Nur, Mardin'in dini ve kültürel hayatında önemli bir figür olarak kabul edilir
-- Türbe, 140 hektarlık bir alan üzerinde inşa edilmiştir
+
 - Türbenin etrafında yer alan tarihi evler ve camiler, Mardin'in kültürel mirasını yansıtan önemli eserlerdir
 - Şeyh Muhammed Nur Türbesi, Mardin'in dini ve kültürel kimliğinin önemli bir sembolüdür

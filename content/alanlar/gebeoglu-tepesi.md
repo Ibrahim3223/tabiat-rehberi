@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Gebeoğlu Tepesi","caption":"Gebeoğlu Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gebeo%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567963","tip":"genel"}]
-description: "Kastamonu'nun doğal güzellikleri arasında yer alan Gebeoğlu Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor."
+"
 keywords: ["Kastamonu","Gebeoğlu Tepesi","doğa","tepe","Karadeniz Bölgesi","turizm","gezi","yürüyüş"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31567963"
@@ -28,7 +28,7 @@ wikidata_id: "Q31567963"
 
 # Gebeoğlu Tepesi
 
-Gebeoğlu Tepesi, Kastamonu'nun zengin doğal güzelliklerinden birini oluşturan 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde ve zirvesinde, ziyaretçiler için keyifli yürüyüş rotaları ve manzaralar sunuyor. Gebeoğlu Tepesi, Kastamonu'nun turizm potansiyelini gösteren önemli bir nokta olarak dikkat çekiyor.
+ Tepenin eteklerinde ve zirvesinde, ziyaretçiler için keyifli yürüyüş rotaları ve manzaralar sunuyor. Gebeoğlu Tepesi, Kastamonu'nun turizm potansiyelini gösteren önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 

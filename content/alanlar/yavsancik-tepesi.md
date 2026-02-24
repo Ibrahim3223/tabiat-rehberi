@@ -48,7 +48,6 @@ Yavşancık Tepesi, ziyaretçilerine farklı deneyimler sunar. Tepenin etrafınd
 
 ## İlginç Bilgiler
 
-- Yavşancık Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin etrafında, çeşitli bitkiler ve ağaçlar bulunur.
 - Yavşancık Tepesi, yaban hayvanlarının yaşam alanı olarak bilinir.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bekanntır.

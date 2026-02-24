@@ -30,7 +30,7 @@ Yavşan Yaylası'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete e
 
 ## Coğrafya
 
-Yavşan Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Yayla, dağların eteklerinde yer alıyor ve etrafı ormanlarla çevrili. Bu coğrafi konum, yaylaya eşsiz bir görünüm kazandırıyor ve ziyaretçilerini büyüleyici bir manzara ile karşılıyor. Yavşan Yaylası, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Yayla, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlar ve onlara doğanın güzelliğini gösterir. İklim, genellikle serin ve nemli olarak tanımlanabilir, bu da ziyaretçilerin yaylayı keşfetmeleri için ideal koşullar sağlar.
+Yavşan Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Yayla, dağların eteklerinde yer alıyor ve etrafı ormanlarla çevrili. Bu coğrafi konum, yaylaya eşsiz bir görünüm kazandırıyor ve ziyaretçilerini büyüleyici bir manzara ile karşılıyor. Yayla, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlar ve onlara doğanın güzelliğini gösterir. İklim, genellikle serin ve nemli olarak tanımlanabilir, bu da ziyaretçilerin yaylayı keşfetmeleri için ideal koşullar sağlar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Yavşan Yaylası, ziyaretçilerine birçok aktivite sunuyor. Ziyaretçiler, yayl
 ## İlginç Bilgiler
 
 - Yavşan Yaylası, İç Anadolu Bölgesi'nin en önemli doğa alanlarından biridir.
-- Yayla, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Yavşan Yaylası, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Yayla, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlar.
 - Yavşan Yaylası, doğa severler için bir cennet olarak tanımlanabilir.

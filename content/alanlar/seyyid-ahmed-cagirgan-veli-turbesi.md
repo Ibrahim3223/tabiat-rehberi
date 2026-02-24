@@ -29,7 +29,7 @@ wikidata_id: "Q135582715"
 
 # Seyyid Ahmed Cağırgan Veli Türbesi
 
-Seyyid Ahmed Cağırgan Veli Türbesi, Giresun'un Alucra ilçesinde bulunan bir türbe ve plaj olarak dikkat çekmektedir. 200 futbol sahası büyüklüğünde bir alan kaplayan bu yeşil cennet, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini beklemektedir. Seyyid Ahmed Cağırgan Veli Türbesi, Karadeniz Bölgesi'nin önemli dini ve kültürel merkezlerinden biri olarak görülmektedir.
+Seyyid Ahmed Cağırgan Veli Türbesi, Giresun'un Alucra ilçesinde bulunan bir türbe ve plaj olarak dikkat çekmektedir. Seyyid Ahmed Cağırgan Veli Türbesi, Karadeniz Bölgesi'nin önemli dini ve kültürel merkezlerinden biri olarak görülmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seyyid Ahmed Cağıgran Veli Türbesi, yüzyıllar boyunca önemli bir dini ve k
 
 ## Coğrafya
 
-Seyyid Ahmed Cağıgran Veli Türbesi, Giresun'un Alucra ilçesinde, Karadeniz Bölgesi'nin eşsiz doğal güzellikleri arasında yer almaktadır. Türbe ve plaj, 140 hektarlık bir yeşil alanın içinde bulunmaktadır. Bölgenin iklimi, Karadeniz'in ılıman ve nemli ikliminin etkisinde oluşmaktadır. Çevre, zengin flora ve fauna ile dolu olup, çeşitli bitki türleri ve hayvanlar burada yaşamaktadır. Seyyid Ahmed Cağıgran Veli Türbesi ve plajı, Karadeniz Bölgesi'nin önemli doğal ve kültürel merkezlerinden biri olarak dikkat çekmektedir.
+Seyyid Ahmed Cağıgran Veli Türbesi, Giresun'un Alucra ilçesinde, Karadeniz Bölgesi'nin eşsiz doğal güzellikleri arasında yer almaktadır. Bölgenin iklimi, Karadeniz'in ılıman ve nemli ikliminin etkisinde oluşmaktadır. Çevre, zengin flora ve fauna ile dolu olup, çeşitli bitki türleri ve hayvanlar burada yaşamaktadır. Seyyid Ahmed Cağıgran Veli Türbesi ve plajı, Karadeniz Bölgesi'nin önemli doğal ve kültürel merkezlerinden biri olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Seyyid Ahmed Cağıgran Veli Türbesi ve plajını ziyaret etmek, Karadeniz Böl
 ## İlginç Bilgiler
 
 - Seyyid Ahmed Cağıgran Veli Türbesi, Karadeniz Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilmektedir.
-- Türbe, yaklaşık 140 hektarlık bir yeşil alanın içinde yer almaktadır.
+
 - Bölge, zengin flora ve fauna ile dolu olup, çeşitli bitki türleri ve hayvanlar burada yaşamaktadır.
 - Seyyid Ahmed Cağıgran Veli Türbesi ve plajı, Karadeniz Bölgesi'nin önemli ekolojik merkezlerinden biri olarak dikkat çekmektedir.
 - Türbe ve plaj, ziyaretçilere dinlenme, eğlenme ve doğayı keşfetme imkanı sunmaktadır.

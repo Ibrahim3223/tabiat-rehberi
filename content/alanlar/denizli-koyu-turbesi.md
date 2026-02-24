@@ -51,7 +51,7 @@ Denizli Köyü Türbesi'ni ziyaret etmek, birçok kişiçin ideal bir tatil seç
 ## İlginç Bilgiler
 
 - Denizli Köyü Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor
-- Plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor
+
 - Denizli Köyü Türbesi, Urla'nın en çok ziyaret edilen yerlerinden biri olarak biliniyor
 - Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta
 - Denizli Köyü Türbesi, birçok mevsimsel değişime sahip bir bölge olarak, her mevsim ziyaretçilere farklı bir güzellik sunuyor

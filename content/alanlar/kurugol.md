@@ -14,7 +14,7 @@ aktiviteler: ["yaban hayatı gözlemlemek","doğa yürüyüşleri yapmak","foto�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Kurugöl","caption":"Kurugöl","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurug%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228170","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık Kurugöl"
+
 keywords: ["Kurugöl","İç Anadolu Bölgesi","milli park","doğa","gezi","tatil","yaban hayatı","orman","göl"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228170"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228170"
 
 # Kurugöl
 
-Kurugöl, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış bir milli parktır. Kurugöl'ün etrafı, çeşitli ağaç türleriyle kaplı ormanlarla çevrilidir ve bu ormanlar, birçok farklı türde bitki ve hayvana ev sahipliği yapar. Gölün sakin suları, doğa severlerin ve fotoğrafçıların gözdesidir. Kurugöl'ü ziyaret ettiğinizde, yaban hayatı gözlemleyebilir, doğa yürüyüşleri yapabilir ve bu güzel ortamda dinlenebilirsiniz.
+ Kurugöl'ün etrafı, çeşitli ağaç türleriyle kaplı ormanlarla çevrilidir ve bu ormanlar, birçok farklı türde bitki ve hayvana ev sahipliği yapar. Gölün sakin suları, doğa severlerin ve fotoğrafçıların gözdesidir. Kurugöl'ü ziyaret ettiğinizde, yaban hayatı gözlemleyebilir, doğa yürüyüşleri yapabilir ve bu güzel ortamda dinlenebilirsiniz.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kurugöl'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, 
 
 ## Coğrafya
 
-Kurugöl, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu milli park, 140 hektarlık bir alanı kaplar ve etrafı ormanlarla çevrilidir. Kurugöl'ün coğrafi yapısı, ziyaretçilerine çeşitli aktivite olanakları sunar. Gölün sakin suları, doğa severlerin ve fotoğrafçıların gözdesidir. Kurugöl'ün etrafındaki ormanlar, birçok farklı türde bitki ve hayvana ev sahipliği yapar ve bu ormanlar, yaban hayatı için önemli bir yaşam alanıdır. Kurugöl'ün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim, bu bölgede farklı şekillerde kendini gösterir. İlkbahar ve yaz ayları, Kurugöl'ü ziyaret etmek için en uygun zamanlardır, çünkü bu mevsimlerde doğa en güzel haliyle ziyaretçilerini karşılar.
+Kurugöl, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Kurugöl'ün coğrafi yapısı, ziyaretçilerine çeşitli aktivite olanakları sunar. Gölün sakin suları, doğa severlerin ve fotoğrafçıların gözdesidir. Kurugöl'ün etrafındaki ormanlar, birçok farklı türde bitki ve hayvana ev sahipliği yapar ve bu ormanlar, yaban hayatı için önemli bir yaşam alanıdır. Kurugöl'ün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim, bu bölgede farklı şekillerde kendini gösterir. İlkbahar ve yaz ayları, Kurugöl'ü ziyaret etmek için en uygun zamanlardır, çünkü bu mevsimlerde doğa en güzel haliyle ziyaretçilerini karşılar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kurugöl'ü ziyaret etmek, doğa severler ve fotoğrafçılar için bir rüya gi
 
 ## İlginç Bilgiler
 
-- Kurugöl, 140 hektarlık bir alanı kaplar
 - Kurugöl'ün etrafı ormanlarla çevrilidir
 - Kurugöl, birçok farklı türde bitki ve hayvana ev sahipliği yapar
 - Kurugöl'ü ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır

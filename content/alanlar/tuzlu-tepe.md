@@ -49,7 +49,6 @@ Tuzlu Tepe, doğa severlerin ziyaret ettiği bir bölgedir. Bu bölge, doğa yü
 
 ## İlginç Bilgiler
 
-- Tuzlu Tepe, 140 hektarlık bir alanı kaplar
 - Tuzlu Tepe'nin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Tuzlu Tepe, doğa severlerin ziyaret ettiği bir bölgedir
 - Tuzlu Tepe'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler

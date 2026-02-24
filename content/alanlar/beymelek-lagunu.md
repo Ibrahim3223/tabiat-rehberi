@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Beymelek_lake%2C_Demre%2C_Antalya_%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Beymelek Lagünü manzarası","credit":"Abdullah kıyga","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Beymelek_lake%2C_Demre%2C_Antalya_%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Beymelek_lake%2C_Demre%2C_Antalya_%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Beymelek Lagünü","caption":"Beymelek Lagünü","credit":"Beymelek lake, Demre, Antalya ©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/2013_satellite_picture_of_Demre%2C_Turkey.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2013_satellite_picture_of_Demre%2C_Turkey.jpg/1280px-2013_satellite_picture_of_Demre%2C_Turkey.jpg","alt":"Beymelek Lagünü - 2013 satellite picture of Demre, Turkey","credit":"NASA","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beymelek%20Lag%C3%BCn%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30634494","tip":"genel"}]
 description: "Antalya'da bulunan Beymelek Lagünü, 1200 hektarlık bir alanı kaplayan önemli bir sulak alan ve doğa rezervidir."

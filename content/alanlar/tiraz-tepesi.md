@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Tiraz Tepesi","caption":"Tiraz Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tiraz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390732","tip":"genel"}]
-description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan Tiraz Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Tiraz Tepesi","Yozgat","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390732"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390732"
 
 # Tiraz Tepesi
 
-Tiraz Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan yaklaşık 140 hektarlık bir yeşil alandır. Tiraz Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için gerçek bir cennet olarak kabul edilebilir. Tiraz Tepesi, Yozgat'ın önemli turizm merkezlerinden biri olarak görülmektedir.
+ Tiraz Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için gerçek bir cennet olarak kabul edilebilir. Tiraz Tepesi, Yozgat'ın önemli turizm merkezlerinden biri olarak görülmektedir.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Tiraz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Tiraz Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepenin yüksekliği, bölgenin coğrafi yapısını büyük ölçüde etkilemekte olup, ziyaretçilerine geniş bir manzara sunmaktadır. Tiraz Tepesi, yaklaşık 140 hektarlık yeşil alanıyla birlikte, çeşitli bitki türleri ve zengin fauna barındırmaktadır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor olup, ziyaretçilerine gerçek bir doğa deneyimi sunuyor. Tiraz Tepesi'nin coğrafi konumu, ziyaretçilerine farklı bir dünya sunmakta olup, burayı ziyaret etmek için birçok neden sunuyor.
+Tiraz Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepenin yüksekliği, bölgenin coğrafi yapısını büyük ölçüde etkilemekte olup, ziyaretçilerine geniş bir manzara sunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor olup, ziyaretçilerine gerçek bir doğa deneyimi sunuyor. Tiraz Tepesi'nin coğrafi konumu, ziyaretçilerine farklı bir dünya sunmakta olup, burayı ziyaret etmek için birçok neden sunuyor.
 
 ## Flora ve Fauna
 
-Tiraz Tepesi, yaklaşık 140 hektarlık yeşil alanıyla birlikte, çeşitli bitki türleri ve zengin fauna barındırmaktadır. Bu bölge, mevsimsel değişimlere göre farklı bir güzelliğe sahip olup, ziyaretçilerine gerçek bir doğa deneyimi sunuyor. Tiraz Tepesi, doğa severler için gerçek bir cennet olarak kabul edilebilir. Burada, çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler tarafından büyük ilgi görmektedir. Tiraz Tepesi'nin flora ve fauna zenginliği, ziyaretçilerine farklı bir dünya sunmakta olup, burayı ziyaret etmek için birçok neden sunuyor.
+ Bu bölge, mevsimsel değişimlere göre farklı bir güzelliğe sahip olup, ziyaretçilerine gerçek bir doğa deneyimi sunuyor. Tiraz Tepesi, doğa severler için gerçek bir cennet olarak kabul edilebilir. Burada, çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler tarafından büyük ilgi görmektedir. Tiraz Tepesi'nin flora ve fauna zenginliği, ziyaretçilerine farklı bir dünya sunmakta olup, burayı ziyaret etmek için birçok neden sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Tiraz Tepesi'ni ziyaret etmek için, Yozgat'ın İç Anadolu Bölgesi'ne gelmeni
 
 ## İlginç Bilgiler
 
-- Tiraz Tepesi, yaklaşık 140 hektarlık yeşil alanına sahiptir.
 - Bu tepenin yüksekliği, bölgenin coğrafi yapısını büyük ölçüde etkilemektedir.
 - Tiraz Tepesi, çeşitli bitki türleri ve zengin fauna barındırmaktadır.
 - Buraya gelmek için, çeşitli ulaşım araçlarını kullanabilirsiniz.

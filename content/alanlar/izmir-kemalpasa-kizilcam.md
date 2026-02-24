@@ -22,7 +22,7 @@ wikidata_id: "Q108227905"
 
 # Izmir-Kemalpaşa Kızılçam
 
-İzmir'in Kemalpaşa ilçesinde bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan İzmir-Kemalpaşa Kızılçam Millî Parkı, 140 hektarlık geniş bir alanı kapsıyor. Park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkânı sunuyor. İzmir'in merkezine yakınlığı ve ulaşımın kolay olması, bu alanı daha da çekici kılıyor. İzmir-Kemalpaşa Kızılçam, hem yerel halk hem de ziyaretçiler için önemli bir doğal ve kültürel miras olarak kabul ediliyor.
+ Park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkânı sunuyor. İzmir'in merkezine yakınlığı ve ulaşımın kolay olması, bu alanı daha da çekici kılıyor. İzmir-Kemalpaşa Kızılçam, hem yerel halk hem de ziyaretçiler için önemli bir doğal ve kültürel miras olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227905"
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - İzmir merkezine 30 kilometre uzaklıkta
 - Ege Bölgesi'nin önemli doğal güzelliklerinden biri
 - Zengin flora ve fauna çeşitliliği

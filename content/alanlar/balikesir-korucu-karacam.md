@@ -30,7 +30,7 @@ Korucu Karacam Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Korucu Karacam Milli Parkı, İç Anadolu Bölgesi'nde yer alan ve coğrafi olarak çeşitli özellikler gösteren bir milli parktır. Park, 140 hektarlık bir alanı kapsamakta ve buradaVarious coğrafi oluşumlar bulunmakta. Parkın coğrafi yapısı, dağlık ve ovalık alanları içermekte ve burada yer alan bitki türleri, bu coğrafi çeşitlili ile şekillenmiş. Korucu Karacam Milli Parkı, aynı zamanda iklim açısından da çeşitli özellikler gösteren bir bölge olarak dikkat çekmekte. Parkın iklimi, karasal iklim özellikleri göstermekte ve burada yer alan bitki ve hayvan türleri, bu iklim koşullarına adapte olmuşlardır. Ayrıca, parkın coğrafi konumu, turizm açısından da önemli bir faktör olarak görülmekte.
+Korucu Karacam Milli Parkı, İç Anadolu Bölgesi'nde yer alan ve coğrafi olarak çeşitli özellikler gösteren bir milli parktır. Parkın coğrafi yapısı, dağlık ve ovalık alanları içermekte ve burada yer alan bitki türleri, bu coğrafi çeşitlili ile şekillenmiş. Korucu Karacam Milli Parkı, aynı zamanda iklim açısından da çeşitli özellikler gösteren bir bölge olarak dikkat çekmekte. Parkın iklimi, karasal iklim özellikleri göstermekte ve burada yer alan bitki ve hayvan türleri, bu iklim koşullarına adapte olmuşlardır. Ayrıca, parkın coğrafi konumu, turizm açısından da önemli bir faktör olarak görülmekte.
 
 ## Flora ve Fauna
 

@@ -15,15 +15,15 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/06/Nall%C4%B1han_Emremsultan_01.jpg","alt":"Ankara-Nallihan Emremsultan manzarası","credit":"Murat Dağaslan","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Nall%C4%B1han_Emremsultan_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nall%C4%B1han_Emremsultan_02.jpg/1280px-Nall%C4%B1han_Emremsultan_02.jpg","alt":"Ankara-Nallihan Emremsultan - Nallıhan Emremsultan 02","credit":"Murat Dağaslan","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Nallihan%20Emremsultan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227379","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerini keşfedin. Nallihan Emremsultan Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Ankara","Nallihan","Emremsultan","Milli Park","Doğa","Yeşil Alan","Futbol Sahası"]
+description: "Ankara'nın doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227379"
 ---
 
 # Ankara-Nallihan Emremsultan
 
-Ankara-Nallihan Emremsultan, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Burada, çeşitli bitki türleri ve zengin fauna sizi karşılar. Nallihan Emremsultan Milli Parkı, hem doğa severler hem de şehirden kaçmak isteyenler için ideal bir destinasyondur. Parkın büyüklüğü ve çeşitliliği, ziyaretçilerine geniş bir faaliyet yelpazesi sunar.
+ Burada, çeşitli bitki türleri ve zengin fauna sizi karşılar. Nallihan Emremsultan Milli Parkı, hem doğa severler hem de şehirden kaçmak isteyenler için ideal bir destinasyondur. Parkın büyüklüğü ve çeşitliliği, ziyaretçilerine geniş bir faaliyet yelpazesi sunar.
 
 ## Tarihçe
 

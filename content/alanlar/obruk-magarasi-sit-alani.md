@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","kuş gözlemciliği"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Obruk Mağarası Sit Alanı","caption":"Obruk Mağarası Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Obruk%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226383","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Obruk Mağarası, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu a harikası, zengin flora ve faunasıyla ziyaretçilerini bekliyor."
+ Bu a harikası, zengin flora ve faunasıyla ziyaretçilerini bekliyor."
 keywords: ["Obruk Mağarası","İç Anadolu Bölgesi","doğa","flora","fauna","gezi","turizm","sit alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226383"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226383"
 
 # Obruk Mağarası Sit Alanı
 
-Obruk Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş bir alanı kapsayan doğal bir harikadır. Obruk Mağarası, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak için bekliyor. Bu mağara, tarihi geçmişi ve coğrafi yapısıyla da önemli bir yer teşkil etmektedir. İç Anadolu Bölgesi'nin coğrafi yapısına bakıldığında, Obruk Mağarası'nın nasıl bu bölgeye ait olduğunu görme mümkündür.
+ Obruk Mağarası, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak için bekliyor. Bu mağara, tarihi geçmişi ve coğrafi yapısıyla da önemli bir yer teşkil etmektedir. İç Anadolu Bölgesi'nin coğrafi yapısına bakıldığında, Obruk Mağarası'nın nasıl bu bölgeye ait olduğunu görme mümkündür.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Obruk Mağarası Sit Alanı, zengin flora ve faunasıyla dikkat çekmektedir. Bu
 Obruk Mağarası Sit Alanı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak için bekliyor. Bu mağara, özellikle doğa severler ve macera tutkunları için uygun bir gezi destinasyonudur. Ziyaretçiler, Obruk Mağarası'nın coğrafi yapısını ve flora/faunasını görme fırsatı bulabilirler. Bu mağara, aynı zamanda fotoğraf çekmek için de ideal bir yerdir. Ziyaretçiler, Obruk Mağarası'nı ziyaret etmek için en uygun zamanı seçmelidir. Bu mağara, genellikle bahar ve yaz aylarında ziyaret edilmektedir.
 
 ## İlginç Bilgiler
-
-- Obruk Mağarası, 140 hektarlık geniş bir alanı kapsar.
 
 - Obruk Mağarası, İç Anadolu Bölgesi'nde yer alır.
 - Bu mağara, zengin flora ve faunasıyla dikkat çekmektedir.

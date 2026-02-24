@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/G%C3%BCver_Kanyonu%2C_D%C3%BCzler%C3%A7am%C4%B1-ANTALYA.jpg","alt":"Antalya Duzlercami manzarası","credit":"Furkan Çintosun","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Duzlercami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227045","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Antalya Duzlercami milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: [" milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227045"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227045"
 
 # Antalya Duzlercami
 
- Ziyaretçiler, doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çeker.
+ Ziyaretçiler, doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Antalya Duzlercami milli parkını ziyaret etmek, doğa severler ve fotoğraf tu
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - yüzyıllar boyunca oluşan kültürel miras
 - çeşitli bitki türleri
 - zengin fauna

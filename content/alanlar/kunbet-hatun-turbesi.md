@@ -21,7 +21,7 @@ aktiviteler: ["tarih gezisi","kültürel gezi","flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg","alt":"Künbet Hatun Türbesi","caption":"Künbet Hatun Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCnbet%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391337","tip":"genel"}]
-description: "Merzifon'da tarihi bir figura ev sahipliği yapan Künbet Hatun Türbesi, 140 hektarlık bir alan üzerinde konuşlandırılmış bir tarihi mekân"
+
 keywords: ["Künbet Hatun Türbesi","Merzifon","tarihi figura","İç Anadolu Bölgesi","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391337"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391337"
 
 # Künbet Hatun Türbesi
 
-Künbet Hatun Türbesi, Merzifon'un merkezinde, 140 hektarlık bir alan üzerinde yer alan tarihi bir yapıdır. İç Anadolu Bölgesi'nin önemli tarihi figürlerinden biri olan Künbet Hatun Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Künbet Hatun Türbesi, Merzifon'un simgelerinden biri olarak kabul ediliyor ve ziyaretçilerine tarihi bir atmosfer sunuyor.
+ İç Anadolu Bölgesi'nin önemli tarihi figürlerinden biri olan Künbet Hatun Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Künbet Hatun Türbesi, Merzifon'un simgelerinden biri olarak kabul ediliyor ve ziyaretçilerine tarihi bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Künbet Hatun Türbesi'nin tarihi geçmişi oldukça zengin ve ilginç. Merzifon
 
 ## Coğrafya
 
-Künbet Hatun Türbesi, Merzifon'un merkezinde, 140 hektarlık bir alan üzerinde yer alıyor. İç Anadolu Bölgesi'nin coğrafileri, Künbet Hatun Türbesi'nin bulunduğu alanın coğrafi yapısını etkiliyor. Bölge, genellikle step iklimi ile karakterize ediliyor ve yazları sıcak, kışları soğuk geçiyor. Künbet Hatun Türbesi'nin bulunduğu alan, Merzifon'un merkezine yakınlığıyla birlikte, ziyaretçilerine kolay ulaşım imkanı sunuyor. Künbet Hatun Türbesi'nin coğrafi konumu, Merzifon'un tarihi ve kültürel zenginliklerini ziyaretçilerine sunuyor. 140 hektarlık bu alan, Merzifon'un tarihi figürlerini ve kültürel yaşamını barındırıyor.
+ İç Anadolu Bölgesi'nin coğrafileri, Künbet Hatun Türbesi'nin bulunduğu alanın coğrafi yapısını etkiliyor. Bölge, genellikle step iklimi ile karakterize ediliyor ve yazları sıcak, kışları soğuk geçiyor. Künbet Hatun Türbesi'nin bulunduğu alan, Merzifon'un merkezine yakınlığıyla birlikte, ziyaretçilerine kolay ulaşım imkanı sunuyor. Künbet Hatun Türbesi'nin coğrafi konumu, Merzifon'un tarihi ve kültürel zenginliklerini ziyaretçilerine sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Künbet Hatun Türbesi'nin bulunduğu alan, çeşitli flora ve fauna türlerine 
 
 ## Ziyaret Bilgileri
 
-Künbet Hatun Türbesi, ziyaretçilerine tarihi bir atmosfer sunuyor. Merzifon'un merkezinde yer alan Künbet Hatun Türbesi, ziyaretçilerine kolay ulaşım imkanı sunuyor. Künbet Hatun Türbesi'nin bulunduğu alan, 140 hektarlık bir alan üzerinde konuşlandırılmış ve Merzifon'un tarihi figürlerini ve kültürel yaşamını barındırıyor. Ziyaretçiler, Künbet Hatun Türbesi'nin tarihi geçmişi hakkında bilgi edinebilir ve Merzifon'un kültürel zenginliklerini keşfedebilirler.
+Künbet Hatun Türbesi, ziyaretçilerine tarihi bir atmosfer sunuyor. Merzifon'un merkezinde yer alan Künbet Hatun Türbesi, ziyaretçilerine kolay ulaşım imkanı sunuyor. Ziyaretçiler, Künbet Hatun Türbesi'nin tarihi geçmişi hakkında bilgi edinebilir ve Merzifon'un kültürel zenginliklerini keşfedebilirler.
 
 ## İlginç Bilgiler
 
 - Künbet Hatun Türbesi, Merzifon'un simgelerinden biri olarak kabul ediliyor
-- Künbet Hatun Türbesi, 140 hektarlık bir alan üzerinde yer alıyor
+
 - Künbet Hatun Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor
 - Künbet Hatun Türbesi, Merzifon'un tarihi ve kültürel zenginliklerini barındırıyor
 - Künbet Hatun Türbesi, ziyaretçilerine tarihi bir atmosfer sunuyor

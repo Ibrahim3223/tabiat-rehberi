@@ -28,7 +28,7 @@ wikidata_id: "Q31386302"
 
 # Maymungeri Tepesi
 
-Gaziantep'in güzide noktalarından biri olan Maymungeri Tepesi, şehrin doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehrin panoramik manzarasına hakim bir konumda bulunmaktadır. Maymungeri Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon olarak görülmektedir. Tepenin eteklerine kurulmuş olan yerleşim yerleri ve etrafındaki yeşillikler, bu bölgenin güzelliğini daha da artırarak ziyaretçilere huzurlu bir ortam sunmaktadır.
+Gaziantep'in güzide noktalarından biri olan Maymungeri Tepesi, şehrin doğal güzellikleri arasında önemli bir yere sahiptir. Maymungeri Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon olarak görülmektedir. Tepenin eteklerine kurulmuş olan yerleşim yerleri ve etrafındaki yeşillikler, bu bölgenin güzelliğini daha da artırarak ziyaretçilere huzurlu bir ortam sunmaktadır.
 
 ## Tarihçe
 

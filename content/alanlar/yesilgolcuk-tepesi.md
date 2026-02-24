@@ -48,8 +48,6 @@ Yeşilgölcük Tepesi, ziyaretçiler için önemli bir gezi noktasıdır. Bu tep
 
 ## İlginç Bilgiler
 
-- Yeşilgölcük Tepesi, 140 hektarlık alanı kapsar
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı temsil eder
 - Yeşilgölcük Tepesi, Marmara Bölgesi'nin önemli bir parçasıdır
 - Bu tepe, şehrin doğal güzelliğini temsil eder
 - Yeşilgölcük Tepesi, doğa severler için önemli bir ziyaret noktasıdır

@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814243293054%29.jpg","alt":"Uzun Hamam manzarası","credit":"SALTOnline","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814243599935%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814243599935%29.jpg/1280px-Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814243599935%29.jpg","alt":"Uzun Hamam - Haseki Hürrem Sultan Hammam, Sultanahmet, İstanbul (14243599935)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056988630%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056988630%29.jpg/1280px-Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056988630%29.jpg","alt":"Uzun Hamam - Haseki Hürrem Sultan Hammam, Sultanahmet, İstanbul (14056988630)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056990830%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056990830%29.jpg/1280px-Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056990830%29.jpg","alt":"Uzun Hamam - Haseki Hürrem Sultan Hammam, Sultanahmet, İstanbul (14056990830)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814240294121%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814240294121%29.jpg/1280px-Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814240294121%29.jpg","alt":"Uzun Hamam - Haseki Hürrem Sultan Hammam, Sultanahmet, İstanbul (14240294121)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056945568%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056945568%29.jpg/1280px-Haseki_H%C3%BCrrem_Sultan_Hammam%2C_Sultanahmet%2C_%C4%B0stanbul_%2814056945568%29.jpg","alt":"Uzun Hamam - Haseki Hürrem Sultan Hammam, Sultanahmet, İstanbul (14056945568)","credit":"SALTOnline","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzun%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739070","tip":"genel"}]
-description: "Trabzon'un Bafra ilçesinde yer alan Uzun Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Uzun Hamam","Bafra","Trabzon","Yeşil Alan","Deniz","Plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739070"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739070"
 
 # Uzun Hamam
 
-Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan ve yaklaşık 140 hektarlık bir yeşil alana sahip olan bir plajdır. Uzun Hamam, özellikle yaz aylarında deniz ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu bölge, aynı zamanda doğa yürüyüşleri ve piknik için de elverişli bir ortam sunar.
+ Uzun Hamam, özellikle yaz aylarında deniz ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu bölge, aynı zamanda doğa yürüyüşleri ve piknik için de elverişli bir ortam sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Uzun Hamam'ın tarihi geçmişi, bölgenin coğrafi ve kültürel özellikleriyl
 
 ## Coğrafya
 
-Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan bir plajdır ve yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu bölge, Karadeniz kıyısında yer alır ve deniz kenarında uzun bir sahil şeridine sahiptir. Uzun Hamam'ın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilin keyfini çıkarma imkanı sunar. Uzun Hamam'ın iklimi, Karadeniz ikliminin özellikleri taşır ve bu nedenle yaz ayları serin ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgeyi doğa severler ve turistler için ideal bir destinasyon haline getirir.
+ Bu bölge, Karadeniz kıyısında yer alır ve deniz kenarında uzun bir sahil şeridine sahiptir. Uzun Hamam'ın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilin keyfini çıkarma imkanı sunar. Uzun Hamam'ın iklimi, Karadeniz ikliminin özellikleri taşır ve bu nedenle yaz ayları serin ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgeyi doğa severler ve turistler için ideal bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Uzun Hamam, özellikle yaz aylarında deniz ve güneşin keyfini çıkarmak iste
 
 ## İlginç Bilgiler
 
-- Uzun Hamam, yaklaşık 140 hektarlık bir yeşil alana sahiptir
 - Bölge, Karadeniz kıyısında yer alır
 - Uzun Hamam, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Bölge, aynı zamanda tarihi değerleri ile dikkat çeker

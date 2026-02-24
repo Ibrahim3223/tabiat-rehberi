@@ -29,7 +29,7 @@ wikidata_id: "Q131391089"
 
 # Mahmut Bedrettin Türbesi
 
-Mahmut Bedrettin Türbesi, İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alan ve şehrin zengin tarihsel mirasını yansıtan önemli bir eserdir. Bu tarihi türbe, yaklaşık 140 hektarlık bir alanda yer alan Fatih semtinin kalbinde bulunmaktadır. Mahmut Bedrettin Türbesi, İstanbul'un tarihsel dokusuna önemli bir katkı sağlayan yapılardan biridir ve ziyaretçilerini şehrin geçmişine götürmektedir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek Osmanlı dönemi sanatının güzelliğini keşfedebilirler.
+Mahmut Bedrettin Türbesi, İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alan ve şehrin zengin tarihsel mirasını yansıtan önemli bir eserdir. Mahmut Bedrettin Türbesi, İstanbul'un tarihsel dokusuna önemli bir katkı sağlayan yapılardan biridir ve ziyaretçilerini şehrin geçmişine götürmektedir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek Osmanlı dönemi sanatının güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mahmut Bedrettin Türbesi, İstanbul'un tarihi geçmişine ışık tutan önemli
 
 ## Coğrafya
 
-Mahmut Bedrettin Türbesi, İstanbul'un Fatih semtinde yer alan bir tarihi yapıdır. Türbe, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve çevresinde çeşitli tarihi yapılar bulunmaktadır. Mahmut Bedrettin Türbesi, İstanbul'un coğrafi yapısını şekillendiren önemli bir eserdir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve şehrin tarihsel dokusuna önemli bir katkı sağlar. Ziyaretçiler, türbenin bulunduğu alanın güzelliğini keşfedebilir ve İstanbul'un coğrafi çeşitliliğini deneyimleyebilirler. Türbenin etrafındaki bölge, tarihi yapılar ve yeşil alanlarla çevrilidir ve ziyaretçilere geniş bir tarihi ve kültürel miras sunar.
+Mahmut Bedrettin Türbesi, İstanbul'un Fatih semtinde yer alan bir tarihi yapıdır. Türbe, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Mahmut Bedrettin Türbesi, İstanbul'un coğrafi yapısını şekillendiren önemli bir eserdir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve şehrin tarihsel dokusuna önemli bir katkı sağlar. Ziyaretçiler, türbenin bulunduğu alanın güzelliğini keşfedebilir ve İstanbul'un coğrafi çeşitliliğini deneyimleyebilirler. Türbenin etrafındaki bölge, tarihi yapılar ve yeşil alanlarla çevrilidir ve ziyaretçilere geniş bir tarihi ve kültürel miras sunar.
 
 ## Flora ve Fauna
 

@@ -48,7 +48,6 @@ Dumanlıdağ Tepesi, ziyaretçiler için önemli bir çekim merkezi oluyor. Bu t
 
 ## İlginç Bilgiler
 
-- Dumanlıdağ Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin coğrafi yapısı, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir.
 - Dumanlıdağ Tepesi, bölgenin en önemli doğal ve tarihi değerlerinden biri olarak kabul ediliyor.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

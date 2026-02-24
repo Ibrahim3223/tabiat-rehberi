@@ -50,7 +50,7 @@ Geniz Tepesi'ni ziyaret etmek, büyük bir keyif olacaktır. Burada, manzaranın
 ## İlginç Bilgiler
 
 - Geniz Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar
+
 - Geniz Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülemektedir
 - Bu tepe, aynı zamanda bir koruma alanı olarak da kullanılmaktadır
 - Geniz Tepesi'ni ziyaret etmek, büyük bir keyif olacaktır

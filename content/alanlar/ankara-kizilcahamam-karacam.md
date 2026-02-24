@@ -44,6 +44,6 @@ Ankara-Kizilcahamam Karacam Milli Parkı'nı ziyaret etmek, doğa severler için
 
 - Parkta, çeşitli bitki türleri ve hayvanlar yaşiyor
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer
-- Park, 140 hektarlık bir alan kaplıyor
+
 - Parkta, ormanlar, çayır ve meralar gibi farklı ekosistemler bulunmakta
 - Parkın tarihi geçmişi, yüzyıllar öncesine dayanıyor

@@ -14,14 +14,14 @@ aktiviteler: ["doğa yürüyüşü","şelale ziyaret","photography","kamp"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Murgul_Deliklikaya_%C5%9Eelalesi.jpg/960px-Murgul_Deliklikaya_%C5%9Eelalesi.jpg","alt":"Balıklı-Güneşli Şelaleleri Tabiat Parkı","caption":"Balıklı-Güneşli Şelaleleri Tabiat Parkı","credit":"Murgul Deliklikaya Şelalesi.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1-G%C3%BCne%C5%9Fli%20%C5%9Eelaleleri%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Artvin'in doğal güzellikleri arasında yer alan Balıklı-Güneşli Şelaleleri Tabiat Parkı, 140 hektarlık alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Balıklı-Güneşli Şelaleleri Tabiat Parkı","Artvin","Karadeniz Bölgesi","doğal güzellik","tabiat parkı","şelale","turizm","gezi","kamp"]
 schema_type: "TouristAttraction"
 ---
 
 # Balıklı-Güneşli Şelaleleri Tabiat Parkı
 
- Bu park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın içinde yer alan şelaleler, ziyaretçilere doğanın güzelliğini gösteriyor. 140 hektarlık bu büyük alan, birçok farklı bitki türüne ve yaban hayvanına ev sahipliği yapıyor.
+ Bu park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın içinde yer alan şelaleler, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Tarihçe
 

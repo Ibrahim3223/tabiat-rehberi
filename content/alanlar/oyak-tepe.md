@@ -36,7 +36,7 @@ Oyak Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, çe�
 
 ## Coğrafya
 
-Oyak Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, çevreyi keşfetmek için ideal bir mekan. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplı. Tepe, ziyaretçilerine eşsiz manzaralar sunuyor. Oyak Tepe, deniz seviyesinden yüksek bir noktada yer alıyor. Bu nedenle, tepeye tırmanan ziyaretçiler, çevreyi panoramik olarak görebiliyor. Tepe, doğal güzellikleriyle ön plana çıkıyor. Ziyaretçiler, tepeyi keşfederek çevrenin güzelliğini keşfedebilir.
+Oyak Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, çevreyi keşfetmek için ideal bir mekan. Tepe, ziyaretçilerine eşsiz manzaralar sunuyor. Oyak Tepe, deniz seviyesinden yüksek bir noktada yer alıyor. Bu nedenle, tepeye tırmanan ziyaretçiler, çevreyi panoramik olarak görebiliyor. Tepe, doğal güzellikleriyle ön plana çıkıyor. Ziyaretçiler, tepeyi keşfederek çevrenin güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Oyak Tepe, ziyaretçilerini bekliyor. Ziyaretçiler, tepeye yürüyere veya ara�
 
 ## İlginç Bilgiler
 
-- Oyak Tepe, 140 hektarlık bir yeşil alan.
 - Tepe, deniz seviyesinden yüksek bir noktada yer alıyor.
 - Oyak Tepe, çeşitli bitki türleriyle kaplı.
 - Tepe, flora ve fauna açısından zengin bir mekan.

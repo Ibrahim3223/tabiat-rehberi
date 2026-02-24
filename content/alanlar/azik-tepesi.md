@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fauna gözlemi","çiçek toplama","kış sp
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Azik Tepesi","caption":"Azik Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540111","tip":"genel"}]
-description: "Şırnak'ın gözde doğal alanı, 140 hektarlık yeşil cennet Azik Tepesi"
+
 keywords: ["Şırnak","Azik Tepesi","doğal alan","yeşil cennet","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31540111"
@@ -28,7 +28,7 @@ wikidata_id: "Q31540111"
 
 # Azik Tepesi
 
-Azik Tepesi, Şırnak'ın merkezinde yer alan ve yaklaşık 140 hektarlık alanı ile şehrin önemli bir doğal güzelliği olarak dikkat çeker. Bu yeşil cennet, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunar. Azik Tepesi, hem yerel halk hem de ziyaretçiler tarafından sevilen bir destinasyon olarak, Şırnak'ın turizm potansiyelini artırır. Şırnak'ın coğrafi yapısı ve iklimi, Azik Tepesi'nin doğal güzelliğini daha da artırır.
+ Bu yeşil cennet, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunar. Azik Tepesi, hem yerel halk hem de ziyaretçiler tarafından sevilen bir destinasyon olarak, Şırnak'ın turizm potansiyelini artırır. Şırnak'ın coğrafi yapısı ve iklimi, Azik Tepesi'nin doğal güzelliğini daha da artırır.
 
 ## Tarihçe
 

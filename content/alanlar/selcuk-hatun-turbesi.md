@@ -29,7 +29,7 @@ wikidata_id: "Q131391692"
 
 # Selçuk Hatun Türbesi
 
-Selçuk Hatun Türbesi, Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Aydın'ın Nazilli ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu türbe, Selçuk Hatun'a adanmıştır ve Türk kültürünün önemli bir parçasını oluşturur. Tarihi geçmişiyle dikkat çeken Selçuk Hatun Türbesi, ziyaretçilerini yüzyıllar öncesine götürmeye hazırdır. Türbenin bulunduğu alan, çevre ile uyumlu bir şekilde tasarlanmıştır ve ziyaretçilere huzurlu bir ortam sunar.
+Selçuk Hatun Türbesi, Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Bu türbe, Selçuk Hatun'a adanmıştır ve Türk kültürünün önemli bir parçasını oluşturur. Tarihi geçmişiyle dikkat çeken Selçuk Hatun Türbesi, ziyaretçilerini yüzyıllar öncesine götürmeye hazırdır. Türbenin bulunduğu alan, çevre ile uyumlu bir şekilde tasarlanmıştır ve ziyaretçilere huzurlu bir ortam sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Selçuk Hatun Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu 
 
 ## Coğrafya
 
-Selçuk Hatun Türbesi, Ege Bölgesi'ninNazilli ilçesinde bulunmaktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve çevresi ile uyumlu bir şekilde tasarlanmıştır. Türbenin bulunduğu alan, 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir ortam sunar. Selçuk Hatun Türbesi'nin coğrafi konumu, Ege Bölgesi'nin önemli bir kısmını kapsar ve ziyaretçilere bölgenin güzelliklerini keşfetme fırsatı sunar. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile dolu bir doğaya sahiptir. Bu da, ziyaretçilere doğa ile iç içe bir ortam sunar.
+Selçuk Hatun Türbesi, Ege Bölgesi'ninNazilli ilçesinde bulunmaktadır. Selçuk Hatun Türbesi'nin coğrafi konumu, Ege Bölgesi'nin önemli bir kısmını kapsar ve ziyaretçilere bölgenin güzelliklerini keşfetme fırsatı sunar. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile dolu bir doğaya sahiptir. Bu da, ziyaretçilere doğa ile iç içe bir ortam sunar.
 
 ## Flora ve Fauna
 

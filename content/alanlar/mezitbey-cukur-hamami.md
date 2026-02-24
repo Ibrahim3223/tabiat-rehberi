@@ -49,7 +49,6 @@ Mezitbey Çukur Hamamı, Edirne'nin merkezine yakın bir konumda yer almakta ve 
 
 ## İlginç Bilgiler
 
-- Mezitbey Çukur Hamamı, 140 hektarlık bir alanı kapsamaktadır.
 - Mezitbey Çukur Hamamı, Edirne'nin merkezine yakın bir konumda yer almaktadır.
 - Mezitbey Çukur Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Mezitbey Çukur Hamamı, ekolojik olarak önemli bir alandır.

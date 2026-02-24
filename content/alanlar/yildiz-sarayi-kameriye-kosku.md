@@ -37,7 +37,7 @@ Yıldız Sarayı Kameriye Köşkü, Osmanlı İmparatorluğu'nun son döneminde 
 
 ## Coğrafya
 
-Yıldız Sarayı Kameriye Köşkü, Beşiktaş ilçesinde, Boğaziçi'nin güzergahında yer almaktadır. Saray, 140 hektarlık bir yeşil alanın içerisinde, Boğaziçi Köprüsü'nün karşı tarafında, şehrin kalabalığından uzak, sakin bir ortamda bulunmaktadır. Çevresindeki doğal güzellikler, ziyaretçilere doğa yürüyüşleri ve piknik gibi aktiviteler için uygun bir ortam sunmaktadır. Saray kompleksi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Kameriye Köşkü, saray kompleksinin bir parçası olarak, Boğaziçi'nin eşsiz manzarasına sahiptir.
+Yıldız Sarayı Kameriye Köşkü, Beşiktaş ilçesinde, Boğaziçi'nin güzergahında yer almaktadır. Çevresindeki doğal güzellikler, ziyaretçilere doğa yürüyüşleri ve piknik gibi aktiviteler için uygun bir ortam sunmaktadır. Saray kompleksi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Kameriye Köşkü, saray kompleksinin bir parçası olarak, Boğaziçi'nin eşsiz manzarasına sahiptir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Yıldız Sarayı Kameriye Köşkü'ne, Beşiktaş'tan dàng ulaşabilirsiniz. Sa
 
 - Yıldız Sarayı, Osmanlı İmparatorluğu'nun son döneminde inşa edilmiştir.
 - Kameriye Köşkü, saray kompleksinin bir parçasıdır.
-- Saray kompleksi, 140 hektarlık bir yeşil alana sahiptir.
+
 - Yıldız Sarayı, İstanbul'un önemli tarihi eserlerindendir.
 - Saray, çeşitli bitki türleri ve zengin fauna ile çevrilidir.

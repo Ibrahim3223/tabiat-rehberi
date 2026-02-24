@@ -37,7 +37,7 @@ Bahçeli Hamam'ın tarihi geçmişi, İstanbul'un tarihi boyunca önemli bir rol
 
 ## Coğrafya
 
-Bahçeli Hamam, Beyoğlu ilçesinde, Marmara Bölgesi'nin kıyı şeridinde yer alır. Plaj, 140 hektarlık bir alan kaplar ve denize doğru geniş bir kumsal sunar. Bahçeli Hamam, coğrafi olarak İstanbul'un diğer plajlarından farklıdır, çünkü tarihi hamamları ve doğal güzelliği ile ziyaretçilerini çekmeyi başarır. Plajın etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, plajın doğal güzelliğini artırır. Bahçeli Hamam, Marmara Denizi'nin sularına açılır ve bu sayede, ziyaretçilere temiz ve serin bir deniz deneyimi sunar. Plajın coğrafi konumu, aynı zamanda ulaşım açısından kolaylıklar sağlar, zira Beyoğlu ilçesi, İstanbul'un merkezi bir bölgesidir. Bahçeli Hamam, coğrafi konumu ve doğal güzelliği ile birlikte, ziyaretçilerine keyifli bir deneyim sunar.
+Bahçeli Hamam, Beyoğlu ilçesinde, Marmara Bölgesi'nin kıyı şeridinde yer alır. Bahçeli Hamam, coğrafi olarak İstanbul'un diğer plajlarından farklıdır, çünkü tarihi hamamları ve doğal güzelliği ile ziyaretçilerini çekmeyi başarır. Plajın etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, plajın doğal güzelliğini artırır. Bahçeli Hamam, Marmara Denizi'nin sularına açılır ve bu sayede, ziyaretçilere temiz ve serin bir deniz deneyimi sunar. Plajın coğrafi konumu, aynı zamanda ulaşım açısından kolaylıklar sağlar, zira Beyoğlu ilçesi, İstanbul'un merkezi bir bölgesidir. Bahçeli Hamam, coğrafi konumu ve doğal güzelliği ile birlikte, ziyaretçilerine keyifli bir deneyim sunar.
 
 ## Flora ve Fauna
 

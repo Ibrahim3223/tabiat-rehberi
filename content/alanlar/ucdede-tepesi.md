@@ -49,8 +49,6 @@ wikidata_id: "Q34820487"
 
 ## İlginç Bilgiler
 
-- Üçdede Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
-
 - Tepenin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin bir araya geldiği bir bölge olarak dikkat çekiyor.
 - Üçdede Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu tepe, ziyaretçilerine hem doğanın güzelliğini hem de tarihi hakkında bilgi sahibi olma fırsatı sunuyor.

@@ -49,7 +49,7 @@ Havlanlı Hill'i ziyaret etmek, doğa severler için önemli bir deneyimdir. Bu 
 ## İlginç Bilgiler
 
 - Havlanlı Hill, Adana'nın en önemli coğrafi oluşumlarından biridir.
-- Bu tepe, 140 hektarlık bir yeşil alanı kapsar.
+
 - Havlanlı Hill'in etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Tepenin yüksekliği ve eğimleri, farklı coğrafi şekillerin oluşmasına neden olmuştur.
 - Havlanlı Hill, doğa severler için önemli bir destinasyondur.

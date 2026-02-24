@@ -30,7 +30,7 @@ wikidata_id: "Q17155131"
 
 # Gergis (Troya)
 
-Gergis, Biga Yarımadası'nın en önemli tarihi ve doğal güzelliklerinden biri olarak dikkat çeker. Bu bölge, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşil bir ortamda ağırlar. Gergis, Troya'nın tarihi zenginliklerine de ev sahipliği yapar, bu nedenle ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilirler. 200 futbol sahası büyüklüğünde olan bu alan, geniş ve ferah bir ortam sunar.
+Gergis, Biga Yarımadası'nın en önemli tarihi ve doğal güzelliklerinden biri olarak dikkat çeker. Gergis, Troya'nın tarihi zenginliklerine de ev sahipliği yapar, bu nedenle ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gergis'in tarihi geçmişi, Troya'nın efsanevi savaşlarına kadar uzanır. Bu 
 
 ## Coğrafya
 
-Gergis, Biga Yarımadası'nın kuzeyinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, yeşilin ve mavinin bir araya geldiği bir güzelliğe sahiptir. Gergis Plajı, geniş kumsalları ve temiz deniz suyu ile ziyaretçilerini cezbeder. Bölge, aynı zamanda zengin bir flora ve fauna çeşitliliğine sahiptir. İklimi, ılıman ve yağışlıdır, bu nedenle ziyaretçiler yıl boyunca bölgeyi ziyaret edebilirler. Gergis'in coğrafi konumu, ziyaretçilerin hem deniz hem de doğa güzelliklerini aynı anda deneyimlemesine olanak tanır. Bölgenin coğrafi yapısı, ziyaretçilerin farklı actividadlere katılmasına da olanak sağlar.
+ Bu bölge, yeşilin ve mavinin bir araya geldiği bir güzelliğe sahiptir. Gergis Plajı, geniş kumsalları ve temiz deniz suyu ile ziyaretçilerini cezbeder. Bölge, aynı zamanda zengin bir flora ve fauna çeşitliliğine sahiptir. İklimi, ılıman ve yağışlıdır, bu nedenle ziyaretçiler yıl boyunca bölgeyi ziyaret edebilirler. Gergis'in coğrafi konumu, ziyaretçilerin hem deniz hem de doğa güzelliklerini aynı anda deneyimlemesine olanak tanır. Bölgenin coğrafi yapısı, ziyaretçilerin farklı actividadlere katılmasına da olanak sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Gergis'i ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek iste
 ## İlginç Bilgiler
 
 - Gergis, Troya'nın tarihi zenginliklerine ev sahipliği yapar
-- Bölge, 140 hektarlık bir alanı kaplar
+
 - Gergis Plajı, geniş kumsalları ve temiz deniz suyu ile ziyaretçilerini cezbeder
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir
 - Gergis, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel mirasını bırakmıştır

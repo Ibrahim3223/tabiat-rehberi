@@ -48,8 +48,6 @@ Sırakaya Tepesi'ne gitmek, doğa ile iç içe olmak isteyenler için bir fırsa
 
 ## İlginç Bilgiler
 
-- Sırakaya Tepesi, 140 hektarlık bir yeşil alan
-- Sırakaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde
 - Sırakaya Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplı
 - Sırakaya Tepesi, mevsimsel değişimlerle birlikte, farklı bitki türleri ve hayvanlar ile karşılaşabilirsiniz
 - Sırakaya Tepesi, Hakkari'nin coğrafi yapısını ve kültürel mirasını yansıtan bir yer

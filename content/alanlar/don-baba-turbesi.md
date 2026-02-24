@@ -37,7 +37,7 @@ Don Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Don Baba Türbesi, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlarla dolu. Bu bölgenin coğrafyası, Ege Bölgesi'nin genel coğrafyasını yansıtıyor. Burada, dağlar, ovalar ve akarsular bir arada bulunuyor. Don Baba Türbesi, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik iklimini taşıyor. Kışlar ılıman, yazlar ise sıcak ve kurak geçiyor. Bu bölgenin coğrafyası, ziyaretçilerini doğayla baş başa bırakıyor.
+Don Baba Türbesi, coğrafi açıdan oldukça zengin bir bölge. Bu bölgenin coğrafyası, Ege Bölgesi'nin genel coğrafyasını yansıtıyor. Burada, dağlar, ovalar ve akarsular bir arada bulunuyor. Don Baba Türbesi, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik iklimini taşıyor. Kışlar ılıman, yazlar ise sıcak ve kurak geçiyor. Bu bölgenin coğrafyası, ziyaretçilerini doğayla baş başa bırakıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Don Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deney
 ## İlginç Bilgiler
 
 - Don Baba Türbesi, Ege Bölgesi'nin önemli turizm noktalarından biri.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Don Baba Türbesi, tarihi ve doğal güzellikleri ile dikkat çekiyor.
 - Bölge, çeşitli bitki türleri ve hayvanlarla dolu.
 - Don Baba Türbesi, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor.

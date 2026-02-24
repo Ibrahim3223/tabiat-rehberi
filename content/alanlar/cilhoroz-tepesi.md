@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Çilhoroz Tepesi","caption":"Çilhoroz Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ilhoroz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819037","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin güzide şehirlerinden Erzincan'da yer alan Çilhoroz Tepesi, 140 hektarlık genişliğinde ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor."
+"
 keywords: ["Çilhoroz Tepesi","Erzincan","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34819037"
@@ -36,7 +36,7 @@ Erzincan'ın gözde mekanlarından biri olan Çilhoroz Tepesi, doğa severlerin 
 
 ## Coğrafya
 
-Çilhoroz Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini gözler önüne seren bir mekan. Bu tepe, Erzincan'ın coğrafi yapısını oluşturan dağlar, ovalar ve nehirler ile çevrilidir. Çilhoroz Tepesi'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir alanda gezip dolaşma fırsatı sunuyor. Çilhoroz Tepesi, Erzincan'ın coğrafi güzelliklerini bir arada sunan önemli bir mekan olarak kabul edilebilir. Bu tepe, ziyaretçilerine bölgenin coğrafi yapısını keşfetme fırsatı sunar ve Erzincan'ın doğal güzelliklerini gözler önüne serer.
+Çilhoroz Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini gözler önüne seren bir mekan. Bu tepe, Erzincan'ın coğrafi yapısını oluşturan dağlar, ovalar ve nehirler ile çevrilidir. Çilhoroz Tepesi'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Çilhoroz Tepesi, Erzincan'ın coğrafi güzelliklerini bir arada sunan önemli bir mekan olarak kabul edilebilir. Bu tepe, ziyaretçilerine bölgenin coğrafi yapısını keşfetme fırsatı sunar ve Erzincan'ın doğal güzelliklerini gözler önüne serer.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Erzincan'ın gözde mekanlarından biri olan Çilhoroz Tepesi, doğa severlerin 
 ## İlginç Bilgiler
 
 - Çilhoroz Tepesi, Erzincan'ın en yüksek tepelerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Çilhoroz Tepesi, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.
 - Bu tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini bir arada sunan önemli bir mekan.
 - Çilhoroz Tepesi, Erzincan'ın tarihine tanıklık eden önemli bir merkez.

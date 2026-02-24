@@ -51,6 +51,6 @@ Ahi Muhyiddin Zaviyesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri 
 
 - Ahi Muhyiddin Zaviyesi, Tokat ilinin en önemli tarihi mekanlarından biridir.
 - Bu zaviye, Ahi Muhyiddin tarafından kurulmuştur.
-- Zaviye, yaklaşık 140 hektarlık bir alan kaplar.
+
 - Ahi Muhyiddin Zaviyesi, çeşitli restore işlemlerine tabi tutulmuştur.
 - Bu zaviye, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.

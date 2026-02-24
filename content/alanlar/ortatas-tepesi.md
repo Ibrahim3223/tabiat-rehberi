@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","fotograf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Ortataş Tepesi","caption":"Ortataş Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortata%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388797","tip":"genel"}]
-description: "Marmara Bölgesi'nin en dikkat çekici noktalarından biri olan Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Marmara Bölgesi'nin en dikkat çekici noktalarından biri olan Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır."
 keywords: ["Ortataş Tepesi","Edirne","Marmara Bölgesi","tepe","doğa","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388797"
@@ -36,7 +36,7 @@ Ortataş Tepesi'nin tarihi geçmişi, bölgenin genel tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır ve Marmara Bölgesi'nin coğrafi yapısına uygun olarak, tepe ve vadilerle çevrili bir alanda bulunmaktadır. Bu bölgenin coğrafi özellikleri, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Ortataş Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, karasal ve ılıman bir yapıya sahiptir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğine uygun bir ortam sunmaktadır.
+Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır ve Marmara Bölgesi'nin coğrafi yapısına uygun olarak, tepe ve vadilerle çevrili bir alanda bulunmaktadır. Bu bölgenin coğrafi özellikleri, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, karasal ve ılıman bir yapıya sahiptir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğine uygun bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

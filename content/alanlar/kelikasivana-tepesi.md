@@ -28,7 +28,7 @@ wikidata_id: "Q31544948"
 
 # Kelikaşivana Tepesi
 
-Kelikaşivana Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Batman ilinin güzide noktalarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Kelikaşivana Tepesi, hem doğa severler hem de bölge tarihini merak edenler için bir çekim merkezi olarak ön plana çıkar.
+Kelikaşivana Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Kelikaşivana Tepesi, hem doğa severler hem de bölge tarihini merak edenler için bir çekim merkezi olarak ön plana çıkar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kelikaşivana Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Kelikaşivana Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çeker. Batman ilinin coğrafi konumunda önemli bir yer tutan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin coğrafi konumu, bölgenin iklimini ve doğal yaşamını etkileyen önemli faktörlerden biridir. Kelikaşivana Tepesi, bölgenin coğrafi yapısını şekillendiren nehirler, dağlar ve vadiler ile çevrilidir. Bu coğrafi yapı, tepenin doğal güzelliğini ve biyolojik çeşitliliğini destekler. Kelikaşivana Tepesi, bölgenin coğrafi mirasını koruma ve gelecek nesillere aktarmak açısından önemli bir role sahiptir.
+Kelikaşivana Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çeker. Tepenin coğrafi konumu, bölgenin iklimini ve doğal yaşamını etkileyen önemli faktörlerden biridir. Kelikaşivana Tepesi, bölgenin coğrafi yapısını şekillendiren nehirler, dağlar ve vadiler ile çevrilidir. Bu coğrafi yapı, tepenin doğal güzelliğini ve biyolojik çeşitliliğini destekler. Kelikaşivana Tepesi, bölgenin coğrafi mirasını koruma ve gelecek nesillere aktarmak açısından önemli bir role sahiptir.
 
 ## Flora ve Fauna
 

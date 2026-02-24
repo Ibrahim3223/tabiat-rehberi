@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Çobandede Tepesi","caption":"Çobandede Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87obandede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819509","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Çobandede Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Çobandede Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","doğal alan","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34819509"
@@ -28,7 +28,7 @@ wikidata_id: "Q34819509"
 
 # Çobandede Tepesi
 
- Bu bölge, doğal güzelliği ve zengin flora/fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Çobandede Tepesi, Erzurum'un önemli doğal alanlarından biri olarak biliniyor ve ziyaretçilerini etkileyici manzaraları ile karşılıyor.
+ Bu bölge, doğal güzelliği ve zengin flora/fauna çeşitliliği ile dikkat çekiyor. Çobandede Tepesi, Erzurum'un önemli doğal alanlarından biri olarak biliniyor ve ziyaretçilerini etkileyici manzaraları ile karşılıyor.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ wikidata_id: "Q34819509"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - zengin fauna
 - tarihsel geçmiş

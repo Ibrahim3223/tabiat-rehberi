@@ -29,7 +29,7 @@ wikidata_id: "Q131738472"
 
 # Cindi Hamamı
 
-Cindi Hamamı, Antakya'nın merkezine oldukça yakın bir mesafede bulunan ve yaklaşık 140 hektarlık bir alana yayılan, etkileyici bir doğal güzelliktir. Cindi Hamamı, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar. Bu bölge, özellikle yaz aylarında, denize girme ve güneşlenme olanakları ile dikkat çeker.
+ Cindi Hamamı, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar. Bu bölge, özellikle yaz aylarında, denize girme ve güneşlenme olanakları ile dikkat çeker.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Cindi Hamamı'na ziyaretçiler, Antakya merkezinden kolayca ulaşabilirler. Bu b
 
 - Cindi Hamamı, Antakya'nın en önemli plajlarından biridir
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların etkisi altında kalmıştır
-- Cindi Hamamı, yaklaşık 140 hektarlık bir alana yayılmıştır
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur
 - Cindi Hamamı, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur

@@ -28,7 +28,7 @@ wikidata_id: "Q31390698"
 
 # Kavalkaya Tepesi
 
-Kavalkaya Tepesi, Tokat'ın güzel manzarasını keşfetmek isteyenlerin ziyaret ettiği bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehir merkezine yakınlığıyla dikkat çekmekte. Kavalkaya Tepesi, Tokat'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Burada, şehrin panoramik manzarasını izlerken, aynı zamanda bölgenin florası ve faunasıyla da karşılaşabilirsiniz. Geleneksel Tokat evleri ve tarihi yapıları da burada görebileceğiniz diğer önemli noktalar.
+Kavalkaya Tepesi, Tokat'ın güzel manzarasını keşfetmek isteyenlerin ziyaret ettiği bir destinasyon. Kavalkaya Tepesi, Tokat'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Burada, şehrin panoramik manzarasını izlerken, aynı zamanda bölgenin florası ve faunasıyla da karşılaşabilirsiniz. Geleneksel Tokat evleri ve tarihi yapıları da burada görebileceğiniz diğer önemli noktalar.
 
 ## Tarihçe
 

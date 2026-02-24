@@ -37,7 +37,7 @@ Kissebükü Hamamı Plajı, tarihi geçmişi ile de önemlidir. Bu bölge, yüzy
 
 ## Coğrafya
 
-Kissebükü Hamamı Plajı, Bodrum'un güneyinde, Ege Denizi'nin kıyısında yer almaktadır. Plaj, 140 hektarlık bir alana yayılmış ve Ege Denizi'nin masmavi suları ile çevrilidir. Plajın golden kumlu sahili, berrak suları ve güneşli iklimi, ziyaretçilerin güneşlenmek, yüzme ve deniz faaliyetleri yapmak için ideal bir ortam sunar. Plajın yakınlarında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kissebükü Hamamı Plajı, doğa severler ve deniz aşığı olanlar için bir cennet olarak düşünülebilir. Plajın coğrafi konumu, ziyaretçilerin Bodrum'un diğer turistik yerlerine kolayca ulaşmasını sağlar.
+Kissebükü Hamamı Plajı, Bodrum'un güneyinde, Ege Denizi'nin kıyısında yer almaktadır. Plajın golden kumlu sahili, berrak suları ve güneşli iklimi, ziyaretçilerin güneşlenmek, yüzme ve deniz faaliyetleri yapmak için ideal bir ortam sunar. Plajın yakınlarında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kissebükü Hamamı Plajı, doğa severler ve deniz aşığı olanlar için bir cennet olarak düşünülebilir. Plajın coğrafi konumu, ziyaretçilerin Bodrum'un diğer turistik yerlerine kolayca ulaşmasını sağlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kissebükü Hamamı Plajı, ziyaretçileri için çeşitli olanaklar sunmaktadı
 ## İlginç Bilgiler
 
 - Kissebükü Hamamı Plajı, Bodrum'un en güzel ve sakin plajlarından biri olarak bilinir.
-- Plaj, 140 hektarlık bir alana yayılmış ve Ege Denizi'nin masmavi suları ile çevrilidir.
+
 - Plajın golden kumlu sahili, berrak suları ve güneşli iklimi, ziyaretçilerin güneşlenmek, yüzme ve deniz faaliyetleri yapmak için ideal bir ortam sunar.
 - Kissebükü Hamamı Plajı, doğa severler ve deniz aşığı olanlar için bir cennet olarak düşünülebilir.
 - Plajın yakınlarında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.

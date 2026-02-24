@@ -41,7 +41,7 @@ Talat Paşa Anıt Mezarı, Şişli'nin merkezi bir alanında yer alıyor. Mezarl
 
 ## Flora ve Fauna
 
-Talat Paşa Anıt Mezarı, çeşitli bitki türlerine ev sahipliği yapıyor. Mezarlık, yaklaşık 140 hektarlık bir alanı kaplıyor ve çeşitli ağaçlar ve çiçekler bulunuyor. Mezarlık, ayrıca çeşitli hayvan türlerine de ev sahipliği yapıyor. Mezarlık, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Mezarlık, ayrıca Talat Paşa'nın hayatını ve başarılarını anlatan çeşitli sergiler sunuyor.
+Talat Paşa Anıt Mezarı, çeşitli bitki türlerine ev sahipliği yapıyor. Mezarlık, ayrıca çeşitli hayvan türlerine de ev sahipliği yapıyor. Mezarlık, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Mezarlık, ayrıca Talat Paşa'nın hayatını ve başarılarını anlatan çeşitli sergiler sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Talat Paşa Anıt Mezarı, ziyaretçilere Talat Paşa'nın hayatını ve başar�
 ## İlginç Bilgiler
 
 - Talat Paşa Anıt Mezarı, Talat Paşa'nın anısını yaşatmak için yapılmıştır
-- Mezarlık, khong 140 hektarlık bir alanı kaplıyor
+
 - Mezarlık, Talat Paşa'nın hayatını ve başarılarını anlatan çeşitli sergiler sunuyor
 - Mezarlık, çeşitli bitki türlerine ev sahipliği yapıyor
 - Mezarlık, ziyaretçilere doğayı keşfetme fırsatı sunuyor

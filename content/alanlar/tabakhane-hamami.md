@@ -50,7 +50,7 @@ Tabakhane Hamamı, ziyaretçilere çeşitli deneyimler sunuyor. Bu mekan, tarih 
 ## İlginç Bilgiler
 
 - Tabakhane Hamamı, Ege Bölgesi'nin önemli tarihi mekanlarından biri.
-- Bu mekan, 140 hektarlık bir alanı kapsıyor.
+
 - Tabakhane Hamamı, doğal güzellikleri ile dikkat çekiyor.
 - Bu mekan, yılın her dönemi ziyaret edilebilir.
 - Tabakhane Hamamı, tarih meraklıları ve doğa severler için ideal bir gezi noktası.

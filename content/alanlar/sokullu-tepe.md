@@ -28,7 +28,7 @@ wikidata_id: "Q31390376"
 
 # Sokullu Tepe
 
-Sokullu Tepe, Ege Bölgesi'nin kalbinde yer alan Afyonkarahisar'da, tarihin sayfalarına gizlenen bir tepe olarak karşımıza çıkar. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal ve tarihi alan olarak bilinir. Sokullu Tepe'nin gizemli atmosferi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat eder. Bu tepe, aynı zamanda doğal güzelliği ile de dikkat çeker ve ziyaretçilerine doğayla iç içe bir deneyim sunar.
+Sokullu Tepe, Ege Bölgesi'nin kalbinde yer alan Afyonkarahisar'da, tarihin sayfalarına gizlenen bir tepe olarak karşımıza çıkar. Sokullu Tepe'nin gizemli atmosferi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat eder. Bu tepe, aynı zamanda doğal güzelliği ile de dikkat çeker ve ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Sokullu Tepe, ziyaretçilerine yılın her döneminde farklı bir deneyim sunar.
 ## İlginç Bilgiler
 
 - Sokullu Tepe, tarihin derinliklerinden gelen bir gizemi barındırır.
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal ve tarihi alandır.
+
 - Sokullu Tepe, Ege Bölgesi'nin önemli noktalarından biridir.
 - Bu tepe, ziyaretçilerine çeşitli doğal güzellikler sunar.
 - Sokullu Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir.

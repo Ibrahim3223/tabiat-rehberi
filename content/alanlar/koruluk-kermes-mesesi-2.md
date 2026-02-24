@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Koruluk Kermes Mesesi 2","caption":"Koruluk Kermes Mesesi 2","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koruluk%20Kermes%20Mesesi%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227366","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin hayalini süsleyen bir yer"
+
 keywords: ["İç Anadolu Bölgesi","doğa","milli park","orman","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227366"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227366"
 
 # Koruluk Kermes Mesesi 2
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Koruluk Kermes Mesesi 2, 140 hektarlık geniş bir yeşil alana sahiptir. Koruluk Kermes Mesesi 2, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Doğa severler için ideal bir destinasyon olan bu yer, yürüyüş parkurları, piknik alanları ve çeşitli bitki türleriyle ziyaretçilerini bekliyor.
+ Koruluk Kermes Mesesi 2, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Doğa severler için ideal bir destinasyon olan bu yer, yürüyüş parkurları, piknik alanları ve çeşitli bitki türleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Koruluk Kermes Mesesi 2'yi ziyaret etmek, doğa severler için unutulmaz bir den
 ## İlginç Bilgiler
 
 - Koruluk Kermes Mesesi 2, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir
-- Bu bölge, 140 hektarlık geniş bir yeşil alana sahiptir
+
 - Koruluk Kermes Mesesi 2, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor
 - Bu bölgede, mevsimsel değişimlere bağlı olarak, farklı türlerde bitkiler ve canlılar bulunur
 - Koruluk Kermes Mesesi 2, ekolojik dengenin korunmasına katkıda bulunan bir doğal güzelliktir

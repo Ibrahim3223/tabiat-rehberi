@@ -50,7 +50,7 @@ Firdevs Hatun Türbesi, ziyaretçilerini büyülemek için hazır. Bu tarihi ve 
 ## İlginç Bilgiler
 
 - Firdevs Hatun Türbesi, Karadeniz Bölgesi'nin önemli tarihi noktalarından biri olarak kabul ediliyor.
-- Türbe, 140 hektarlık bir alanı kaplıyor.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 - Firdevs Hatun Türbesi, aynı zamanda bölgenin kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 - Türbeyi ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak kabul ediliyor.

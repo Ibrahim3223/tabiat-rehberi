@@ -51,7 +51,7 @@ Anonim Türbe, doğa severlerin ziyaret ettiği bir plajdır. Burada, denizin se
 ## İlginç Bilgiler
 
 - Anonim Türbe, Ege Bölgesi'nin en güzel plajlarından biridir
-- Anonim Türbe, 140 hektarlık bir yeşil alan üzerinde kurulmuştur
+
 - Anonim Türbe, Efeler ilçesinde yer alır
 - Anonim Türbe, tarihi bir yer olarak bilinir
 - Anonim Türbe, doğa severlerin ziyaret ettiği bir yerdir

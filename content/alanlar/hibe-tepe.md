@@ -49,7 +49,7 @@ Hibe Tepe'yi ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliklerini ke�
 ## İlginç Bilgiler
 
 - Hibe Tepe, Diyarbakır'ın en önemli tarihi noktalarından biri.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Hibe Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu tepe, bölge halkının kültürel ve tarihi mirasının bir parçası.
 - Hibe Tepe, Diyarbakır'ın coğrafi yapısı içinde önemli bir yer tutuyor.

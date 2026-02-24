@@ -49,7 +49,7 @@ Kulye Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim sunar.
 ## İlginç Bilgiler
 
 - Kulye Tepesi, Güneydoğu Anadolu Bölgesi'nin en yüksek tepelerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kulye Tepesi, flora ve fauna açısından zengin bir bölgedir.
 - Bu tepe, aynı zamanda tarihin izlerini taşıyan bir bölgedir.
 - Kulye Tepesi, ziyaretçilere, doğanın güzelliklerini sunar.

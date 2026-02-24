@@ -49,7 +49,7 @@ Abdulvahabi Gazi Türbesi ve plajını ziyaret etmek, Sivas'ın tarihi ve doğal
 ## İlginç Bilgiler
 
 - Abdulvahabi Gazi Türbesi, Sivas'ın en önemli tarihi noktalarından biri olarak biliniyor.
-- Türbe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Abdulvahabi Gazi Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor.
 - Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Türbe ve plaj, Sivas şehrinin merkezine yakın bir konumda bulunuyor.

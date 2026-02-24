@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Piknik","Manzara seyretme","Doğa keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Çirişlik Tepesi","caption":"Çirişlik Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iri%C5%9Flik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829315","tip":"genel"}]
-description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Çirişlik Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Sivas","İç Anadolu Bölgesi","Çirişlik Tepesi","doğa","gezi","turizm","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829315"
@@ -36,7 +36,7 @@ wikidata_id: "Q34829315"
 
 ## Coğrafya
 
-Çirişlik Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alır ve 140 hektarlık bir yeşil alana sahiptir. Bu bölge, şehrin merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Tepenin yüksekliği, şehre hakim olan manzarayı sunar ve ziyaretçilere geniş bir görüş alanı sağlar. Çirişlik Tepesi, Sivas'ın coğrafi yapısını oluşturan önemli bir parçadır ve şehrin doğal güzelliklerini sergiler. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Çirişlik Tepesi, Sivas'ın doğasını keşfetmek isteyenler için ideal bir noktadır.
+ Bu bölge, şehrin merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Tepenin yüksekliği, şehre hakim olan manzarayı sunar ve ziyaretçilere geniş bir görüş alanı sağlar. Çirişlik Tepesi, Sivas'ın coğrafi yapısını oluşturan önemli bir parçadır ve şehrin doğal güzelliklerini sergiler. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Çirişlik Tepesi, Sivas'ın doğasını keşfetmek isteyenler için ideal bir noktadır.
 
 ## Flora ve Fauna
 

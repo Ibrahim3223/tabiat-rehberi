@@ -53,4 +53,4 @@ Kadırga Hamamı'na ziyaret için, Fatih, İstanbul'a ulaşmak gerekiyor. Bu bö
 - Bölge, tarihi ve doğal güzelliği ile dikkat çekiyor
 - Hamamın mimarisi, klasik Osmanlı hamam tarzını yansıtıyor
 - Bölge, denize girme imkanı sunuyor
-- Yeşil alanlar, yaklaşık 300 futbol sahası büyüklüğünde
+

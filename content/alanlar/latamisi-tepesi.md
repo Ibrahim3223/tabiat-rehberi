@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Manzara izleme","Fotoğraf ç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Latamisi Tepesi","caption":"Latamisi Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latamisi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554866","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Latamisi Tepesi, Batman şehrinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Latamisi Tepesi, Batman şehrinde yer alıyor."
 keywords: ["Latamisi Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31554866"
@@ -48,7 +48,6 @@ Latamisi Tepesi, özellikle bahar aylarında ziyaretçilerini güzellerine davet
 
 ## İlginç Bilgiler
 
-- Latamisi Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin yüksekliği, bölgenin diğer noktalarına göre oldukça önemli bir nokta.
 - Tepede, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin iklimine uygun olarak gelişmiş.
 - Tepede yaşayan fauna da, bölgenin iklimine uygun olarak gelişmiş.

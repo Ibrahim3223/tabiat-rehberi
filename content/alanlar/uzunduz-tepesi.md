@@ -48,7 +48,6 @@ Uzundüz Tepesi'ni ziyaret etmek, doğa severler için bir macera olabilir. Ziya
 
 ## İlginç Bilgiler
 
-- Uzundüz Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin etrafında çeşitli bitki türleri bulunur.
 - Uzundüz Tepesi, zengin bir fauna'ya sahiptir.
 - Tepenin yüksekliği, panoramik manzaralar sunar.

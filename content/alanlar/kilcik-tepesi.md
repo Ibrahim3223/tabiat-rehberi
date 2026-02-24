@@ -28,7 +28,7 @@ wikidata_id: "Q32211119"
 
 # Kılçık Tepesi
 
-Kırşehir'in merkezine uzun bir mesafe uzaklıkta bulunan Kılçık Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Kılçık Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır ve aynı zamanda birçok farklı bitki türüne ev sahipliği yapmaktadır. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunur ve bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sağlar.
+ Kılçık Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır ve aynı zamanda birçok farklı bitki türüne ev sahipliği yapmaktadır. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunur ve bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sağlar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kılçık Tepesi'ni ziyaret etmek, birçok farklı yolla mümkündür. Ziyaretç
 ## İlginç Bilgiler
 
 - Kırşehir'in en yüksek tepelerinden biri
-- 140 hektarlık bir alanı kaplar
+
 - yüzyıllar boyunca birçok farklı medeniyete ev sahipliği yapmıştır
 - çeşitli bitki türlerine ev sahipliği yapar
 - geniş bir manzara sunar

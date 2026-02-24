@@ -21,7 +21,7 @@ aktiviteler: ["Türbe ve çevresini gezmek","Plajda denize girmek","Doğada yür
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Hanefi Sultan Türbesi","caption":"Hanefi Sultan Türbesi","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hanefi%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390909","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide yerlerinden biri olan Hanefi Sultan Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor. 140 hektarlık bir alanı kapsayan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ege Bölgesi'nin güzide yerlerinden biri olan Hanefi Sultan Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Hanefi Sultan Türbesi","Gölmarmara","Manisa","Ege Bölgesi","tarih","doğa","gezi","türbe","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390909"
@@ -50,7 +50,7 @@ Hanefi Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri 
 ## İlginç Bilgiler
 
 - Hanefi Sultan Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri.
-- Türbe, 140 hektarlık bir alanı kapsıyor.
+
 - Çevresi, yaklaşık 1400 metre uzunluğundaki sahil şeridini kapsıyor.
 - Türbe, Osmanlı İmparatorluğu döneminde inşa edilmiştir.
 - Hanefi Sultan Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor.

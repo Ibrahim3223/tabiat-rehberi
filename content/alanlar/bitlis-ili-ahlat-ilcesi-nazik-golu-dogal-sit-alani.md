@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Balık avı","Doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","caption":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BITLIS%20ILI%20AHLAT%20IL%C3%87ESI%20NAZIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228967","tip":"genel"}]
-description: "Bitlis ili Ahlat ilçesinde yer alan Nazik Gölü Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, aynı zamanda yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Nazik Gölü","Doğal Sit Alanı","Bitlis","Ahlat","Doğa","Turizm","Göl","Doğal Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228967"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228967"
 
 # BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI
 
-Bitlis ili Ahlat ilçesinde yer alan Nazik Gölü Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kaplar. Nazik Gölü, çevresindeki dağlarla birlikte bir doğa harikası olarak kabul edilir. Bu göl, bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Nazik Gölü'nün suyu, çevredeki tarım alanları için de önemli bir kaynak teşkil eder. Gölün etrafında yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe bir deneyim sunar.
+ Nazik Gölü, çevresindeki dağlarla birlikte bir doğa harikası olarak kabul edilir. Bu göl, bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Nazik Gölü'nün suyu, çevredeki tarım alanları için de önemli bir kaynak teşkil eder. Gölün etrafında yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Nazik Gölü'ne ziyaretçiler, yürüyüş yolları ve piknik alanlarından yara
 
 ## İlginç Bilgiler
 
-- Nazik Gölü, yaklaşık 140 hektarlık bir alanı kaplar.
 - Gölün suyu, çevredeki tarım alanları için de önemli bir kaynak teşkil eder.
 - Nazik Gölü'nün etrafında yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe bir deneyim sunar.
 - Gölün suyu, çeşitli balık türleriyle dolu.

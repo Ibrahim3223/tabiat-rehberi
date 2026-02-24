@@ -37,7 +37,7 @@ Seferşah Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Seferşah Hamamı, Ezine'nin coğrafi yapısı içinde önemli bir yere sahip. Bu bölge, deniz kıyısında yer alıyor ve geniş kumsalları ile ünlü. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere geniş bir hareket alanı sunuyor. Coğrafi olarak, Seferşah Hamamı, Ezine'nin merkezine oldukça yakın bir konumda bulunuyor ve ulaşım açısından kolaylık sağlıyor. Bölgenin iklimi, genel olarak ılıman ve bu, ziyaretçilerin yılın meisten zamanlarında rahat bir şekilde ziyaret etmelerine olanak tanıyor. Çevre, yeşilin ve mavinin uyum içinde bir araya geldiği bir manzara sunuyor ve bu doğal güzellik, ziyaretçileri etkisi altına alıyor.
+Seferşah Hamamı, Ezine'nin coğrafi yapısı içinde önemli bir yere sahip. Bu bölge, deniz kıyısında yer alıyor ve geniş kumsalları ile ünlü. Coğrafi olarak, Seferşah Hamamı, Ezine'nin merkezine oldukça yakın bir konumda bulunuyor ve ulaşım açısından kolaylık sağlıyor. Bölgenin iklimi, genel olarak ılıman ve bu, ziyaretçilerin yılın meisten zamanlarında rahat bir şekilde ziyaret etmelerine olanak tanıyor. Çevre, yeşilin ve mavinin uyum içinde bir araya geldiği bir manzara sunuyor ve bu doğal güzellik, ziyaretçileri etkisi altına alıyor.
 
 ## Flora ve Fauna
 

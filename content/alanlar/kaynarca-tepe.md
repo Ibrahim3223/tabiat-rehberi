@@ -50,6 +50,6 @@ Kaynarca Tepe'yi ziyaret etmek, hem doğa severler hem de tarih meraklıları i�
 
 - Kaynarca Tepe, bölgenin en önemli doğal güzelliklerinden biri.
 - Bu tepe, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış.
-- Kaynarca Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta.
+
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Kaynarca Tepe, aynı zamanda önemli bir su kaynağı olarak da kabul edilmekte.

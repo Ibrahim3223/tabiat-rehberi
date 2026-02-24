@@ -49,7 +49,7 @@ Uykukaya Tepesi'ni ziyaret etmek, doğa severler için keyifli bir deneyim olabi
 ## İlginç Bilgiler
 
 - Uykukaya Tepesi, Hatay ilinin önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Uykukaya Tepesi, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip
 - Tepenin etrafı, çeşitli bitki türleri ile kaplı
 - Uykukaya Tepesi, ziyaretçilere, Hatay'ın güzel manzarasını izleme fırsatı tanıyor

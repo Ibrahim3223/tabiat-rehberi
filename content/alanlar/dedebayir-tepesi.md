@@ -28,7 +28,7 @@ wikidata_id: "Q31389575"
 
 # Dedebayır Tepesi
 
-Dedebayır Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Balıkesir ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, bölgeye gelen ziyaretçiler için önemli bir gezi noktası olarak kabul edilir. Ziyaretçilerin tepeye tırmanarak çevreyi izlemesi ve doğayı yakından keşfetmesi mümkündür. Dedebayır Tepesi, doğa severler ve coğrafya meraklıları için önemli bir destinasyondur.
+Dedebayır Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Bu tepe, bölgeye gelen ziyaretçiler için önemli bir gezi noktası olarak kabul edilir. Ziyaretçilerin tepeye tırmanarak çevreyi izlemesi ve doğayı yakından keşfetmesi mümkündür. Dedebayır Tepesi, doğa severler ve coğrafya meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 

@@ -48,7 +48,6 @@ Kayalı Tepesi'ni ziyaret etmek için, yılın her mevsiminde buraya gelme mümk
 
 ## İlginç Bilgiler
 
-- Kayalı Tepesi, 140 hektarlık bir alana sahiptir.
 - Bu bölge, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır.
 - Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çeker.
 

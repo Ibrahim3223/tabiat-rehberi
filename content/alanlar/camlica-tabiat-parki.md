@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/K%C3%BCtahya_%C3%87aml%C4%B1ca_Tabiat_Park%C4%B1.jpg","alt":"Çamlıca Tabiat Parkı manzarası","credit":"Tugrul499","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1ca%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228240","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Çamlıca Tabiat Parkı","İç Anadolu Bölgesi","doğa","yeşil alan","tabiat parkı","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228240"
@@ -29,7 +29,7 @@ wikidata_id: "Q108228240"
 
 # Çamlıca Tabiat Parkı
 
-Çamlıca Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir yeşil alan olarak karşımıza çıkıyor. Parkın girişinden itibaren, ziyaretçiler kendilerini bir doğa cennetinde hissederler. Çam ağaçlarının arasında yürüyüş yapmak, temiz hava ve doğanın seslerini dinlemek, burada geçirilecek zamanın keyfini çıkarmanızı sağlayacaktır. Çamlıca Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
+ Parkın girişinden itibaren, ziyaretçiler kendilerini bir doğa cennetinde hissederler. Çam ağaçlarının arasında yürüyüş yapmak, temiz hava ve doğanın seslerini dinlemek, burada geçirilecek zamanın keyfini çıkarmanızı sağlayacaktır. Çamlıca Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ wikidata_id: "Q108228240"
 
 ## İlginç Bilgiler
 
-- Parkta, 140 hektarlık yeşil alan bulunur
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir
 - Çam ağaçları, parkın en önemli özelliğidir
 - Parkta, birçok hayvan türü yaşar
 - Parkın ekosistemi, ziyaretçilerin doğayı anlamalarına yardımcı olur

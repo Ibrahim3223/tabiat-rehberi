@@ -18,10 +18,10 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Güneşlenmek","Denize girmek","Yürüyüş yapmak","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Bocas_Bambu_Beach_-_panoramio.jpg","alt":"Bambus Plajı manzarası","credit":"hh oldman","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bocas_Bambu_Beach_-_panoramio.jpg/960px-Bocas_Bambu_Beach_-_panoramio.jpg","alt":"Bambus Plajı","caption":"Bambus Plajı","credit":"Bocas Bambu Beach - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bambus%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49320110","tip":"genel"}]
-description: "Antalya'nın güzel plajlarından biri olan Bambus Plajı, 140 hektarlık yeşil alanı ve uzun kumsallarıyla ziyaretçilerini cezbediyor."
+"
 keywords: ["Bambus Plajı","Antalya","plaj","kumsal","yeşil alan","deniz","turizm","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49320110"

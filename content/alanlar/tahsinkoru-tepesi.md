@@ -20,7 +20,7 @@ aktiviteler: ["tepeye tırmanmak","manzara izlemek","köyleri ve kasabaları gez
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Tahsinkoru Tepesi","caption":"Tahsinkoru Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahsinkoru%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390476","tip":"genel"}]
-description: "Konya'da bulunan Tahsinkoru Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Konya'da bulunan Tahsinkoru Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Tahsinkoru Tepesi","Konya","doğal güzellik","tarihi geçmişi","coğrafya","flora","fauna","ziyaret","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390476"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390476"
 
 # Tahsinkoru Tepesi
 
-Tahsinkoru Tepesi, Konya ilinin merkezinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Tepenin eteklerinde yer alan köyler ve kasabalar, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Tahsinkoru Tepesi, aynı zamanda bir doğa harikası olarak da biliniyor. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin zirvesinden, Konya ovasının muhteşem manzarasını izleme mümkün.
+ Tepenin eteklerinde yer alan köyler ve kasabalar, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Tahsinkoru Tepesi, aynı zamanda bir doğa harikası olarak da biliniyor. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin zirvesinden, Konya ovasının muhteşem manzarasını izleme mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahsinkoru Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepenin tarihi, yüz
 
 ## Coğrafya
 
-Tahsinkoru Tepesi, Konya ilinin merkezinde yer alan bir tepe. Bu tepenin coğrafi konumu, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde yer alan köyler ve kasabalar, aynı zamanda bir doğa harikası olarak da biliniyor. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin zirvesinden, Konya ovasının muhteşem manzarasını izleme mümkün. Tepenin coğrafi konumu, aynı zamanda bir stratejik önem taşıyor. Bu tepeden, çevre bölgelerin kontrolü ve gözetimi sağlanabilir.
+Tahsinkoru Tepesi, Konya ilinin merkezinde yer alan bir tepe. Tepenin eteklerinde yer alan köyler ve kasabalar, aynı zamanda bir doğa harikası olarak da biliniyor. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin zirvesinden, Konya ovasının muhteşem manzarasını izleme mümkün. Tepenin coğrafi konumu, aynı zamanda bir stratejik önem taşıyor. Bu tepeden, çevre bölgelerin kontrolü ve gözetimi sağlanabilir.
 
 ## Flora ve Fauna
 
@@ -47,8 +47,6 @@ Tahsinkoru Tepesi, bir doğa harikası olarak da biliniyor. Burada çeşitli bit
 Tahsinkoru Tepesi, ziyaretçileri tarafından büyük bir ilgi görüyor. Tepenin tarihi geçmişi, kültürel zenginliği ve doğal güzelliği, ziyaretçileri tarafından büyük bir çekim merkezi olarak biliniyor. Tepenin zirvesine çıkarak, Konya ovasının muhteşem manzarasını izleme mümkün. Tepenin eteklerinde yer alan köyler ve kasabalar, aynı zamanda bir kültürel merkez olarak da biliniyor. Burada, geleneksel festivaller ve etkinlikler düzenlenmektedir. Tepenin ziyaretçileri, aynı zamanda bir doğa harikası olarak da biliniyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## İlginç Bilgiler
-
-- Tahsinkoru Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 
 - Tepenin eteklerinde yer alan köyler ve kasabalar, tarihi yapılar ve kalıntılar ile dolu.
 - Tepenin flora ve faunası, mevsimsel değişimlere göre değişiyor.

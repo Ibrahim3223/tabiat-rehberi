@@ -30,7 +30,7 @@ wikidata_id: "Q131391651"
 
 # Zeynel Abidin Türbesi
 
-Zeynel Abidin Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi ve doğal güzelliklerin bir araya geldiği bir mekan. Zeynel Abidin Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. 200 futbol sahası büyüklüğünde olan bu yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir seçenektir.
+Zeynel Abidin Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi ve doğal güzelliklerin bir araya geldiği bir mekan. Zeynel Abidin Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

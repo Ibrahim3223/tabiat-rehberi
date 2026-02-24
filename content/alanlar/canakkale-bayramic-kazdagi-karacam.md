@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Canakkale-Bayramic-Kazdagi-Karacam","caption":"Canakkale-Bayramic-Kazdagi-Karacam","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Kazdagi-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228251","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severleri bekliyor."
+"
 keywords: ["Çanakkale","Marmara Bölgesi","milli park","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228251"

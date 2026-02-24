@@ -21,7 +21,7 @@ aktiviteler: ["Sinema ve tiyatro etkinlikleri","Sergiler","Atölye ve workshop'l
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi","caption":"Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrker%20%C4%B0nano%C4%9Flu%20Vakf%C4%B1%20Sinema%20Tiyatro%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949478","tip":"genel"}]
-description: "İstanbul'un merkezinde, sinema ve tiyatro sanatını keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İstanbul'un merkezinde, sinema ve tiyatro sanatını keşfedin."
 keywords: ["sinema","tiyatro","müze","İstanbul","Marmara Bölgesi","kültür","sanat","tarih","eğlence"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132949478"
@@ -48,8 +48,6 @@ Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi, İstanbul'un merkezinde yer al
 Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi, İstanbul'un merkezinde yer alan bir kültür ve sanat merkezidir. Bu büyük alan, çeşitli sanat etkinliklerine ev sahipliği yapar ve ziyaretçilere zengin bir kültür deneyimi sunar. Ziyaretçiler, müzenin içerisinde birçok farklı etkinli ve sergiye katılabilirler. Ayrıca, ziyaretçiler müzenin bahçesinde birçok farklı bitki türünü görebilir ve příroda ile iç içe olabilirler. Müze, yılın her dönemi açık olup, ziyaretçiler her zaman müze ziyaretinde bulunabilirler.
 
 ## İlginç Bilgiler
-
-- Müze, 140 hektarlık bir araziye sahiptir.
 
 - Müze, birçok farklı sanat etkinliğine ev sahipliği yapar.
 - Müze, sinema ve tiyatro sanatının önemli figürlerine ev sahipliği yapar.

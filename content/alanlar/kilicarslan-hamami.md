@@ -29,7 +29,7 @@ wikidata_id: "Q131739238"
 
 # Kılıçarslan Hamamı
 
-Kılıçarslan Hamamı, Ege Bölgesi'nin gizli cennetlerinden biri olarak karşımıza çıkıyor. Sinanpaşa ilçesinde, Afyonkarahisar'ın huzurlu atmosferinde yer alan bu doğal alan, 140 hektarlık geniş bir alanı kapsıyor. Kılıçarslan Hamamı, ziyaretçilerini doğanın iç içe geçtiği bir dünya sunuyor. Bu alan, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Kılıçarslan Hamamı, Ege Bölgesi'nin gizli cennetlerinden biri olarak karşımıza çıkıyor. Kılıçarslan Hamamı, ziyaretçilerini doğanın iç içe geçtiği bir dünya sunuyor. Bu alan, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

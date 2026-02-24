@@ -42,7 +42,6 @@ Mugla-Milas-Karacahisar Kızılçam 2 milli parkını ziyaret etmek, doğanın g
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta, çeşitli bitki türleri ve ağaçlar bulunur
 - Parkın fauna çeşitliliği, ekolojik dengesini sağlar
 - Park, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar

@@ -29,7 +29,7 @@ wikidata_id: "Q31386609"
 
 # Mısır Tepesi
 
-Mısır Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepe, ziyaretçilerini doğal güzellikleri ile büyülüyor. Mısır Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Ziyaretçiler, bu tepeyi ziyaret ederek bölgenin doğal güzelliklerini ve tarihi değerlerini keşfedebilirler. Mısır Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri.
+Mısır Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe. Bu tepe, ziyaretçilerini doğal güzellikleri ile büyülüyor. Mısır Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Ziyaretçiler, bu tepeyi ziyaret ederek bölgenin doğal güzelliklerini ve tarihi değerlerini keşfedebilirler. Mısır Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mısır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli olaylara sahn
 
 ## Coğrafya
 
-Mısır Tepesi, Şırnak ilinin coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Mısır Tepesi, bölgenin coğrafi yapısını ve iklimini yansıtan önemli bir nokta. Bu tepe, ziyaretçilerini doğal güzellikleri ile büyülüyor. Mısır Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Mısır Tepesi, yüzyıllar boyu birçok medeniyete ev sahipliği yapmış. Bu tepe, Şırnak ilinin önemli coğrafi noktalarından biri. Mısır Tepesi, coğrafi özellikleri ve doğal güzellikleri ile ziyaretçilerini büyülüyor.
+Mısır Tepesi, Şırnak ilinin coğrafi yapısını yansıtan önemli bir nokta. Mısır Tepesi, bölgenin coğrafi yapısını ve iklimini yansıtan önemli bir nokta. Bu tepe, ziyaretçilerini doğal güzellikleri ile büyülüyor. Mısır Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Mısır Tepesi, yüzyıllar boyu birçok medeniyete ev sahipliği yapmış. Bu tepe, Şırnak ilinin önemli coğrafi noktalarından biri. Mısır Tepesi, coğrafi özellikleri ve doğal güzellikleri ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

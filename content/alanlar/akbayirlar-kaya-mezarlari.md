@@ -51,6 +51,6 @@ Akbayırlar Kaya Mezarları, ziyaretçiler için ulaşımı kolay bir destinasyo
 
 - Akbayırlar Kaya Mezarları, Marmara Bölgesi'nin önemli tarihi mekanlarından biridir.
 - Bu bölgede, çeşitli uygarlıkların izlerine rastlama mümkündür.
-- Akbayırlar Kaya Mezarları, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bu bölgede, doğal güzellikler ve tarihi önemi bir arada bulunur.
 - Ziyaretçiler, bu bölgede, rehber eşliğinde gezi düzenlenebilir.

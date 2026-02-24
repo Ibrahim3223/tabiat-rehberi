@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 25'i ziyaret etmek, bir tarih ve doğa deneyimi sunmakt
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 25, bir arkeolojik alandır
-- 140 hektarlık bir alanı kapsar
+
 - Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin
 - ilkbahar ve sonbahar ayları en iyi ziyaret zamanıdır
 - rahatsız edici bir atmosferi deneyimleyebilirsiniz

@@ -49,7 +49,7 @@ Kemikli Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek i
 ## İlginç Bilgiler
 
 - Kemikli Tepesi, Ankara'nın doğal güzelliklerinden biridir
-- Bu tepe, 140 hektarlık bir alana sahiptir
+
 - Kemikli Tepesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapar
 - Bu bölge, Ankara'nın ekolojik dengesini korumak için önemlidir
 - Kemikli Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar

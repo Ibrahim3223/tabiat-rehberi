@@ -28,7 +28,7 @@ wikidata_id: "Q31388794"
 
 # Kocayarma Tepesi
 
-Kocayarma Tepesi, Edirne'nin Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini etkileyici manzaralarıyla karşılar. Kocayarma Tepesi, Edirne'nin merkezine oldukça yakındır ve ulaşımı kolaydır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Bu alan, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyondur. Kocayarma Tepesi'ne yapılan ziyaretler, genellikle günün her saatinde gerçekleştirilebilir, ancak en güzel manzaralar sabah ve akşam saatlerinde ortaya çıkar.
+Kocayarma Tepesi, Edirne'nin Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Kocayarma Tepesi, Edirne'nin merkezine oldukça yakındır ve ulaşımı kolaydır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Bu alan, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyondur. Kocayarma Tepesi'ne yapılan ziyaretler, genellikle günün her saatinde gerçekleştirilebilir, ancak en güzel manzaralar sabah ve akşam saatlerinde ortaya çıkar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocayarma Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Kocayarma Tepesi, Edirne'nin coğrafi yapısında önemli bir yer tutar. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar. Bu bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Kocayarma Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir. Kocayarma Tepesi, Edirne'nin doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini bekliyor. Tepenin coğrafi yapısı, ziyaretçilerin ilgisini çekmektedir. Kocayarma Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
+Kocayarma Tepesi, Edirne'nin coğrafi yapısında önemli bir yer tutar. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar. Bu bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Kocayarma Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir. Kocayarma Tepesi, Edirne'nin doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini bekliyor. Tepenin coğrafi yapısı, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Kocayarma Tepesi'ne ziyaret, genellikle günün her saatinde gerçekleştirilebi
 
 - Kocayarma Tepesi, Edirne'nin doğal güzellikleri arasında önemli bir yer tutar.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found.
-- Kocayarma Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar.
 - Kocayarma Tepesi, doğa severler ve fotoğraf tutkunları için ideal bir destinasyondur.

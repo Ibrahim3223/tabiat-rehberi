@@ -43,7 +43,7 @@ Trabzon-Pazar-Senyuva Kizilagac 1 milli parkını ziyaret etmek, doğa severler 
 ## İlginç Bilgiler
 
 - Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir.
-- Milli park, 140 hektarlık bir alanı kapsar.
+
 - Milli parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Milli parkın kuruluş amacı, bölgenin doğal kaynaklarını koruma ve gelecek nesiller için bu güzellikleri korumaktır.
 - Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, aynı zamanda ekolojik bir önem taşır.

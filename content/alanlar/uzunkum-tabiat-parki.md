@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Dikili%20Tuza%C4%9Fz%C4%B12.jpg","alt":"Uzunkum Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/Uzunkum%2C_Kocaeli.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Uzunkum%2C_Kocaeli.jpg/1280px-Uzunkum%2C_Kocaeli.jpg","alt":"Uzunkum Tabiat Parkı - Uzunkum, Kocaeli","credit":"Şadi Akdoğan","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Dikili_Tuza%C4%9Fz%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dikili_Tuza%C4%9Fz%C4%B1.jpg/1280px-Dikili_Tuza%C4%9Fz%C4%B1.jpg","alt":"Uzunkum Tabiat Parkı - Dikili Tuzağzı","credit":"Gturegun","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Dikili_Tuza%C4%9Fz%C4%B12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dikili_Tuza%C4%9Fz%C4%B12.jpg/1280px-Dikili_Tuza%C4%9Fz%C4%B12.jpg","alt":"Uzunkum Tabiat Parkı - Dikili Tuzağzı2","credit":"Gturegun","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Kand%C4%B1ra_deniz_%C3%A7arpan_kaya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kand%C4%B1ra_deniz_%C3%A7arpan_kaya.jpg/1280px-Kand%C4%B1ra_deniz_%C3%A7arpan_kaya.jpg","alt":"Uzunkum Tabiat Parkı - Kandıra deniz çarpan kaya","credit":"Glcnmrv","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Kand%C4%B1ra_Kayal%C4%B1klar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kand%C4%B1ra_Kayal%C4%B1klar%C4%B1.jpg/1280px-Kand%C4%B1ra_Kayal%C4%B1klar%C4%B1.jpg","alt":"Uzunkum Tabiat Parkı - Kandıra Kayalıkları","credit":"Glcnmrv","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzunkum%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623231","tip":"genel"}]
-description: "Kocaeli'nin Kandıra ilçesinde yer alan Uzunkum Tabiat Parkı, 140 hektarlık bir yeşil alanıyla ziyaretçilerini ağırlıyor."
+"
 keywords: ["Uzunkum Tabiat Parkı","Kocaeli","Kandıra","Marmara Bölgesi","Doğa","Tabiat Parkı","Yeşil Alan","Gezi","Türkiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30623231"
@@ -52,6 +52,6 @@ Uzunkum Tabiat Parkı'na gitmek için, Kocaeli'nin Kandıra ilçesine ulaşmak g
 
 - Parkta, çeşitli bitki türleri ve ağaçlar bulunmakta
 - Mevsimsel değişimler, parkın flora ve faunasını etkiliyor
-- Park, 140 hektarlık bir yeşil alanı kaplıyor
+
 - Ziyaretçiler, doğayla iç içe bir gün geçirmek için parkı ziyaret edebilirler
 - Parkta, dinlenme noktaları ve piknik alanları bulunmakta

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Adana-Pozanti-Karanfildagi","caption":"Adana-Pozanti-Karanfildagi","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pozanti-Karanfildagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227378","tip":"genel"}]
-description: "Adana-Pozanti-Karanfildagi milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Akdeniz Bölgesi'nde yer alan bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar."
+ Akdeniz Bölgesi'nde yer alan bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar."
 keywords: ["Adana-Pozanti-Karanfildagi","milli park","Akdeniz Bölgesi","doğa harikası","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227378"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227378"
 
 # Adana-Pozanti-Karanfildagi
 
- Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemdir. Milli parkın konumu, Akdeniz Bölgesi'nde yer almasıyla birlikte, ziyaretçilerine eşsiz bir doğa deneyimi sunar. Burada, doğanın güzelliğini keşfetme ve doğayla iç içe olma mümkündür.
+ Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Milli parkın konumu, Akdeniz Bölgesi'nde yer almasıyla birlikte, ziyaretçilerine eşsiz bir doğa deneyimi sunar. Burada, doğanın güzelliğini keşfetme ve doğayla iç içe olma mümkündür.
 
 ## Tarihçe
 

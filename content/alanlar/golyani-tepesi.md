@@ -29,7 +29,7 @@ wikidata_id: "Q32138511"
 
 # Gölyanı Tepesi
 
-İç Anadolu Bölgesi'nin coğrafi yapısı, çeşitli tepe ve dağların bir araya gelmesiyle oluşmuştur. Bu bölgede yer alan Gölyanı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Gölyanı Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir bileşendir. Bu tepe, aynı zamanda flora ve fauna açısından da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, Gölyanı Tepesi'nde yaşamaktadır.
+İç Anadolu Bölgesi'nin coğrafi yapısı, çeşitli tepe ve dağların bir araya gelmesiyle oluşmuştur. Gölyanı Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir bileşendir. Bu tepe, aynı zamanda flora ve fauna açısından da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, Gölyanı Tepesi'nde yaşamaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gölyanı Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihine parale
 
 ## Coğrafya
 
-Gölyanı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir bileşendir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını etkileyen faktörlerden biri olarak kabul edilebilir. Gölyanı Tepesi'nin yüksekliği, çevresindeki diğer tepe ve dağlara göre daha düşük olsa da, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, aynı zamanda flora ve fauna açısından da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, Gölyanı Tepesi'nde yaşamaktadır. Gölyanı Tepesi, İç Anadolu Bölgesi'nin iklimine uygun olarak, yazları sıcak ve kuru, kışları soğuk ve karlı bir iklime sahiptir. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkileyen bir faktördür. Gölyanı Tepesi'nin etrafında, çeşitli nehir ve akarsular bulunmakta ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini desteklemektedir.
+Gölyanı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir bileşendir. Gölyanı Tepesi'nin yüksekliği, çevresindeki diğer tepe ve dağlara göre daha düşük olsa da, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, aynı zamanda flora ve fauna açısından da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, Gölyanı Tepesi'nde yaşamaktadır. Gölyanı Tepesi, İç Anadolu Bölgesi'nin iklimine uygun olarak, yazları sıcak ve kuru, kışları soğuk ve karlı bir iklime sahiptir. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkileyen bir faktördür. Gölyanı Tepesi'nin etrafında, çeşitli nehir ve akarsular bulunmakta ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetlerini desteklemektedir.
 
 ## Flora ve Fauna
 

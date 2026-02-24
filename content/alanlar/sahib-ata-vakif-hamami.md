@@ -37,7 +37,7 @@ Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alan bir tarihi yapı
 
 ## Coğrafya
 
-Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterizedir ve yazları sıcak, kışları soğuk geçer. Ilgın'ın coğrafi konumu, ülkenin orta kesiminde yer alması nedeniyle, karasal iklimin tipik özelliklerini gösterir. Sahib Ata Vakıf Hamamı, 140 hektarlık bir alanı kaplar ve çevresinde tarihi yapılar, arkeolojik alanlar ve doğal güzellikler bulunur. Bu hamam, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır. Çevresinde yer alan tarihi yapılar, arkeolojik sit alanları ve doğal güzellikler, ziyaretçilere zengin bir deneyim sunar. Ilgın'ın coğrafi konumu ve Sahib Ata Vakıf Hamamı'nın yer aldığı alan, bölgenin tarihi ve kültürel mirasını yansıtan önemli bir bölgedir.
+Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterizedir ve yazları sıcak, kışları soğuk geçer. Ilgın'ın coğrafi konumu, ülkenin orta kesiminde yer alması nedeniyle, karasal iklimin tipik özelliklerini gösterir. Bu hamam, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır. Çevresinde yer alan tarihi yapılar, arkeolojik sit alanları ve doğal güzellikler, ziyaretçilere zengin bir deneyim sunar. Ilgın'ın coğrafi konumu ve Sahib Ata Vakıf Hamamı'nın yer aldığı alan, bölgenin tarihi ve kültürel mirasını yansıtan önemli bir bölgedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alan bir tarihi yapı
 ## İlginç Bilgiler
 
 - Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alan bir tarihi yapıdır.
-- Hamam, 140 hektarlık bir alanı kaplar.
+
 - Ilgın'ın tarihi geçmişi, Selçuklu ve Osmanlı dönemlerine kadar uzanır.
 - Bölge, step iklimi ile karakterizedir.
 - Sahib Ata Vakıf Hamamı, Ilgın'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıttır.

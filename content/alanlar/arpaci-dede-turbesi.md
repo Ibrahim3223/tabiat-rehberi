@@ -38,7 +38,7 @@ Arpacı Dede Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu bölge, yüzyıl
 
 ## Coğrafya
 
-Arpacı Dede Türbesi, Adana'nın Seyhan ilçesinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin güneyinde yer alan bir alanda bulunuyor. Arpacı Dede Türbesi, doğal güzellikleri ile dikkat çekiyor. Burada, yeşillikler, ağaçlar ve doğal su kaynakları gibi güzellikler ziyaretçileri bekliyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi barındırıyor. Arpacı Dede Türbesi, ziyaretçilerine doğayı yakından tanıma fırsatı sunuyor.
+Arpacı Dede Türbesi, Adana'nın Seyhan ilçesinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin güneyinde yer alan bir alanda bulunuyor. Arpacı Dede Türbesi, doğal güzellikleri ile dikkat çekiyor. Burada, yeşillikler, ağaçlar ve doğal su kaynakları gibi güzellikler ziyaretçileri bekliyor. Arpacı Dede Türbesi, ziyaretçilerine doğayı yakından tanıma fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Arpacı Dede Türbesi, ziyaretçilerine yıl boyunca açık bir gezi alanı sunu
 ## İlginç Bilgiler
 
 - Arpacı Dede Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Arpacı Dede Türbesi, ziyaretçilerine yıl boyunca açık bir gezi alanı sunuyor.
 - Burada, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi barındırıyor.
 - Arpacı Dede Türbesi, doğa severler için bir cennet olarak kabul ediliyor.

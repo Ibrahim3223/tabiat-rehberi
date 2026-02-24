@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/de/Yukar%C4%B1dan_Kirazl%C4%B1dere..._-_panoramio.jpg","alt":"Kirazlidere manzarası","credit":"Sinan Şahin","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/89/Kirazl%C4%B1dere_Cekmekoy_location_map.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirazl%C4%B1dere_Cekmekoy_location_map.png/1280px-Kirazl%C4%B1dere_Cekmekoy_location_map.png","alt":"Kirazlidere - Kirazlıdere Cekmekoy location map","credit":"Afakii","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazlidere","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228084","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kirazlidere, doğa severlerin keşfetmeyi bekleyen bir hazine. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nde yer alan Kirazlidere, doğa severlerin keşfetmeyi bekleyen bir hazine."
 keywords: ["Kirazlidere","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228084"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228084"
 
 # Kirazlidere
 
-Kirazlidere, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu 140 hektarlık yeşil alan, doğa severlerin keşfetmeyi bekleyen bir hazine. Kirazlidere'nin fiziksel verileri, onu diğer doğa alanlarından ayıran özel bir konumda yer almasını sağlıyor. Burada, doğanın tüm güzelliğini ve çeşitliliğini gözlemleme mümkün.
+Kirazlidere, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Kirazlidere'nin fiziksel verileri, onu diğer doğa alanlarından ayıran özel bir konumda yer almasını sağlıyor. Burada, doğanın tüm güzelliğini ve çeşitliliğini gözlemleme mümkün.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kirazlidere'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak.
 ## İlginç Bilgiler
 
 - Kirazlidere, İç Anadolu Bölgesi'nin önemli doğa alanlarından biri.
-- 140 hektarlık bir alana sahip.
+
 - İlkbahar ve yaz aylarında yeşilin tüm tonlarını sergiliyor.
 - Kış mevsiminde karla kaplanan bir bölge.
 - Zengin flora ve faunaya sahip.

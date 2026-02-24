@@ -21,7 +21,7 @@ aktiviteler: ["Türbe gezi","Yeşil alan gezintisi","Doğa yürüyüşü","Foto�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pirlanta_beach_%40_october_2009_03_-_panoramio.jpg/960px-Pirlanta_beach_%40_october_2009_03_-_panoramio.jpg","alt":"Turabi Hazretleri Türbesi","caption":"Turabi Hazretleri Türbesi","credit":"Pirlanta beach @ october 2009 03 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turabi%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391617","tip":"genel"}]
-description: "Düzce'de bulunan Turabi Hazretleri Türbesi, 140 hektarlık yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Turabi Hazretleri","Türbe","Düzce","Karadeniz Bölgesi","Yeşil Alan","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391617"
@@ -51,6 +51,6 @@ Turabi Hazretleri Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikl
 
 - Turabi Hazretleri Türbesi, Düzce ilinin önemli bir kültürel mirasıdır
 - Türbenin tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiştir
-- Bölge, 140 hektarlık geniş yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Turabi Hazretleri, bölgede önemli bir tarihi figür olarak kabul edilmektedir
 - Türbe, yıl boyunca ziyaret edilebilir ve özellikle ilkbahar ve yaz aylarında, bölgenin güzelliği ziyaretçilerini beklemektedir

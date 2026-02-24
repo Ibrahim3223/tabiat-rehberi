@@ -14,8 +14,8 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Picnic","Doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Afyon Sandıklı Akdağ YHGS","caption":"Afyon Sandıklı Akdağ YHGS","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyon%20Sand%C4%B1kl%C4%B1%20Akda%C4%9F%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227048","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Afyon Sandıklı Akdağ YHGS, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Afyon","Sandıklı","Akdağ","YHGS","İç Anadolu Bölgesi","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227048"
 ---
@@ -42,8 +42,6 @@ Afyon Sandıklı Akdağ YHGS'yi ziyaret etmek, doğaseverler için gerçek bir d
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Zengin flora ve fauna çeşitliliği
 - Tarihi geçmişi
 - Bölgenin coğrafi özellikleri

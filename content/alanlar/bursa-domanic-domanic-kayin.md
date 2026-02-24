@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Bursa-Domanic -Domanic Kayin","caption":"Bursa-Domanic -Domanic Kayin","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Domanic%20-Domanic%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227265","tip":"genel"}]
-description: "Marmara Bölgesi'nin en büyük milli parklarından biri olan Bursa-Domanic -Domanic Kayin, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bursa","Marmara Bölgesi","Domanic","Kayin","milli park","doğal alan","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227265"
@@ -30,7 +30,7 @@ Domanic -Domanic Kayin milli parkının tarihi geçmişi, yüzyıllar boyunca in
 
 ## Coğrafya
 
-Domanic -Domanic Kayin milli parkı, Marmara Bölgesi'nin coğrafi yapısı içerisinde yer alan bir doğal alandır. Bölge, 140 hektarlık alanıyla geniş bir yeşil alanı kapsamaktadır. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin ve zengin faunanın yaşamına elverişli ortamlar sunmaktadır. İklimi, ılıman ve nemlidir, bu da bölgeyi farklı türlerin yaşamına uygun hale getirmektedir. Milli parkın çevresi, ormanlarla kaplıdır ve bu ormanlar, bölgeye özgü bitki türlerini barındırmaktadır. Domanic -Domanic Kayin milli parkı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini çekmektedir.
+Domanic -Domanic Kayin milli parkı, Marmara Bölgesi'nin coğrafi yapısı içerisinde yer alan bir doğal alandır. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin ve zengin faunanın yaşamına elverişli ortamlar sunmaktadır. İklimi, ılıman ve nemlidir, bu da bölgeyi farklı türlerin yaşamına uygun hale getirmektedir. Milli parkın çevresi, ormanlarla kaplıdır ve bu ormanlar, bölgeye özgü bitki türlerini barındırmaktadır. Domanic -Domanic Kayin milli parkı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

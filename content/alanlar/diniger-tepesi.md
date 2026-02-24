@@ -29,7 +29,7 @@ wikidata_id: "Q31525608"
 
 # Diniger Tepesi
 
-Diniger Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Diniger Tepesi, doğa severlerin ve macera arayışında olanların ziyaret edebileceği bir yer.
+ Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Diniger Tepesi, doğa severlerin ve macera arayışında olanların ziyaret edebileceği bir yer.
 
 ## Tarihçe
 

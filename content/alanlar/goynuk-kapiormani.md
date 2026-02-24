@@ -44,7 +44,7 @@ Göynük Kapıormanı, ziyaretçilerine birçok aktivite sunar. Burada, doğa y�
 ## İlginç Bilgiler
 
 - Göynük Kapıormanı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir
-- 140 hektarlık bir alana sahiptir
+
 - zengin bir flora ve faunaya sahiptir
 - ekolojik dengenin korunmasında önemli bir role sahiptir
 - yılın her mevsimi ziyaret edilebilir

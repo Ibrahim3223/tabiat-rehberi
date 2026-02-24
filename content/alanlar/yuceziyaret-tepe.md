@@ -49,7 +49,7 @@ Yüceziyaret Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşıl
 ## İlginç Bilgiler
 
 - Yüceziyaret Tepe, Kahramanmaraş'ın önemli turizm noktalarından biri olarak görülür.
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplar.
+
 - Yüceziyaret Tepe, zengin flora ve fauna çeşitliliğine sahiptir.
 - Ziyaretçiler, bu tepeye çıkarak, panoramik manzaraları izleme fırsatı bulur.
 - Yüceziyaret Tepe, tarihi ve coğrafi değerleriyle dikkat çeker.

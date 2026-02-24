@@ -30,7 +30,7 @@ wikidata_id: "Q131739207"
 
 # Mahmut Paşa Hamamı
 
-Mahmut Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Şanlıurfa'nın Birecik ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Mahmut Paşa Hamamı, tarihi geçmişi ve eşsiz doğasıyla turistlerin ilgisini çekmektedir. Bu alan, hem tarihi hem de doğal güzelliklerinin bir arada bulunmasıyla ziyaretçilerine benzersiz bir  sunar.
+Mahmut Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Şanlıurfa'nın Birecik ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Mahmut Paşa Hamamı, tarihi geçmişi ve eşsiz doğasıyla turistlerin ilgisini çekmektedir. Bu alan, hem tarihi hem de doğal güzelliklerinin bir arada bulunmasıyla ziyaretçilerine benzersiz bir  sunar.
 
 ## Tarihçe
 

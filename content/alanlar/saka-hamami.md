@@ -51,6 +51,6 @@ Saka Hamamı, ziyaretçilerini ağırlamak için hazır bir mekan. Ziyaretçiler
 
 - Saka Hamamı, Antakya'nın en önemli turizm noktalarından biri.
 - Saka Hamamı, yüzyıllar öncesine dayanan bir tarihi geçmişi sahiptir.
-- Saka Hamamı, 140 hektarlık bir alana yayılmış.
+
 - Saka Hamamı, çeşitli bitki türleri ve fauna bulunur.
 - Saka Hamamı, ziyaretçilerine, doğa ile iç içe olma imkanı sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31386397"
 
 # Akbeyit Tepesi
 
-Akbeyit Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilir. Gaziantep'in sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve genişliği, çevreyi panoramik bir şekilde izlemek için ideal bir noktayı oluşturur. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunur. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösterir.
+Akbeyit Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilir. Tepenin yüksekliği ve genişliği, çevreyi panoramik bir şekilde izlemek için ideal bir noktayı oluşturur. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunur. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösterir.
 
 ## Tarihçe
 

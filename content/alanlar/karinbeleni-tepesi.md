@@ -49,7 +49,7 @@ Karınbeleni Tepesi, Mersin'in önemli bir turizm noktası olarak biliniyor. Bu 
 ## İlginç Bilgiler
 
 - Karınbeleni Tepesi, Mersin'in en yüksek noktalarından biri olarak kabul ediliyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Karınbeleni Tepesi, Mersin'in önemli bir turizm noktası olarak biliniyor
 - Bu tepe, doğa güzelliği ile dikkat çekiyor
 - Karınbeleni Tepesi, Mersin'in iklimi ile uyumlu olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava şartlarına sahip

@@ -37,7 +37,7 @@ Nazif Paşa Köşkü Hamamı Kalıntısı'nın tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Nazif Paşa Köşkü Hamamı Kalıntısı, Üsküdar'da denize açılan bir konumda bulunuyor. Bu alan, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Denize yakınlığı nedeniyle, bu bölge iklimi ılıman ve nemli olarak dikkat çekiyor. Çevre, tarihi ve doğal güzelliklerin bir arada bulunduğu bir bölge olarak tanımlanabilir. Nazif Paşa Köşkü Hamamı Kalıntısı'nın bulunduğu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip ve bu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme ev sahipliği yapıyor. Bu bölgenin coğrafi özellikleri, ziyaretçileri için bir çok olanak sunuyor.
+Nazif Paşa Köşkü Hamamı Kalıntısı, Üsküdar'da denize açılan bir konumda bulunuyor. Bu alan, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Denize yakınlığı nedeniyle, bu bölge iklimi ılıman ve nemli olarak dikkat çekiyor. Çevre, tarihi ve doğal güzelliklerin bir arada bulunduğu bir bölge olarak tanımlanabilir. Bu bölgenin coğrafi özellikleri, ziyaretçileri için bir çok olanak sunuyor.
 
 ## Flora ve Fauna
 

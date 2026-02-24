@@ -29,7 +29,7 @@ wikidata_id: "Q34875149"
 
 # Hüseyin Tepesi
 
-Hüseyin Tepesi, Sivas'ın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu 200 futbol sahası büyüklüğündeki alan, şehrin önemli tarihi ve kültürel değerlerini barındırıyor. Hüseyin Tepesi, şehre gelen ziyaretçilerin mutlaka görmesi gereken bir yer olarak kabul ediliyor. Tepenin etrafında bulunan çeşitli ağaçlar ve bitki türleri, ziyaretçilere doğal bir ortam sunuyor. Hüseyin Tepesi, Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Hüseyin Tepesi, Sivas'ın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Hüseyin Tepesi, şehre gelen ziyaretçilerin mutlaka görmesi gereken bir yer olarak kabul ediliyor. Tepenin etrafında bulunan çeşitli ağaçlar ve bitki türleri, ziyaretçilere doğal bir ortam sunuyor. Hüseyin Tepesi, Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

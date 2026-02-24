@@ -37,7 +37,7 @@ Muhittin Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş v
 
 ## Coğrafya
 
-Muhittin Baba Türbesi, Çorlu'nun merkezinde yer alıyor ve çevresindeki coğrafi yapı, ziyaretçilere geniş ve yeşil bir alan sunuyor. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve bu geniş alan, ziyaretçilere hem dinlenmek hem de doğayı keşfetmek için uygun bir ortam sağlıyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Çevre, tarihi yapılarla dolu ve ziyaretçilere, geçmişle günümüz arasında bir köprü kurma fırsatı veriyor. Muhittin Baba Türbesi, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi değerleri ile ön plana çıkıyor.
+Muhittin Baba Türbesi, Çorlu'nun merkezinde yer alıyor ve çevresindeki coğrafi yapı, ziyaretçilere geniş ve yeşil bir alan sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Çevre, tarihi yapılarla dolu ve ziyaretçilere, geçmişle günümüz arasında bir köprü kurma fırsatı veriyor. Muhittin Baba Türbesi, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi değerleri ile ön plana çıkıyor.
 
 ## Flora ve Fauna
 

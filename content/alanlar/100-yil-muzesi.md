@@ -38,11 +38,11 @@ wikidata_id: "Q125554036"
 
 ## Coğrafya
 
-100. Yıl Müzesi, İç Anadolu Bölgesi'nin merkezi olan Ankara'da yer alıyor. Müzenin konumu, Ankara'nın tarihi ve kültürel merkezi olarak kabul edilen bölgede bulunuyor. 100. Yıl Müzesi'nin 140 hektarlık alanı, çeşitli bitkiler ve ağaçlarla çevrili ve bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Müzenin coğrafi konumu, Ankara'nın iklimini ve çevresini keşfetmek isteyenler için ideal. Müzenin etrafında, tarihi binalar ve önemli kültürel mekanlar yer alıyor.
+100. Yıl Müzesi, İç Anadolu Bölgesi'nin merkezi olan Ankara'da yer alıyor. Müzenin konumu, Ankara'nın tarihi ve kültürel merkezi olarak kabul edilen bölgede bulunuyor. 100. Müzenin coğrafi konumu, Ankara'nın iklimini ve çevresini keşfetmek isteyenler için ideal. Müzenin etrafında, tarihi binalar ve önemli kültürel mekanlar yer alıyor.
 
 ## Flora ve Fauna
 
-100. Yıl Müzesi'nin çevresinde, çeşitli bitkiler ve ağaçlar yer alıyor. Müzenin 140 hektarlık alanı, mevsimsel değişimlere göre farklı bir görünüm sunuyor. Bahar aylarında, müzenin etrafındaki çiçekler ve yeşillikler, ziyaretçilere renkli bir manzara sunuyor. Kış aylarında, müzenin etrafındaki ağaçlar, ziyaretçilere huzurlu bir atmosfer sunuyor. 100. Yıl Müzesi, doğa severler için ideal bir destinasyon.
+100. Yıl Müzesi'nin çevresinde, çeşitli bitkiler ve ağaçlar yer alıyor. Bahar aylarında, müzenin etrafındaki çiçekler ve yeşillikler, ziyaretçilere renkli bir manzara sunuyor. Kış aylarında, müzenin etrafındaki ağaçlar, ziyaretçilere huzurlu bir atmosfer sunuyor. 100. Yıl Müzesi, doğa severler için ideal bir destinasyon.
 
 ## Ziyaret Bilgileri
 

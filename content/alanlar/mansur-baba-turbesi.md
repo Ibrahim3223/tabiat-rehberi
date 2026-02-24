@@ -51,7 +51,7 @@ Mansur Baba Türbesi, Elazığ'ı ziyaret edenler için önemli bir destinasyon 
 ## İlginç Bilgiler
 
 - Mansur Baba Türbesi, Elazığ'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan olarak biliniyor.
-- Bu türbe, 140 hektarlık bir alanı kaplıyor.
+
 - Mansur Baba Türbesi, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Bu mekan, Elazığ'ın ekolojik zenginliklerini yansıtan önemli bir nokta olarak görülüyor.
 - Mansur Baba Türbesi, yılın her döneminde ziyaret edilebilir.

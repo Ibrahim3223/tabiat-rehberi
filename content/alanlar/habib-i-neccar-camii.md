@@ -50,7 +50,6 @@ Habib-i Neccar Camii'ni ziyaret etmek, birçok ziyaretçiçin önemli bir deneyi
 ## İlginç Bilgiler
 
 - Habib-i Neccar Camii, Hatay ilinin merkezinde yer alır.
-- Cami, 140 hektarlık bir alan üzerinde kurulmuştur.
 
 - Cami, dini ve kültürel açıdan önemli bir merkez olarak kabul edilir.
 - Cami, birçok ziyaretçi tarafından yıl boyunca ziyaret edilir.

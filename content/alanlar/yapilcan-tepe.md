@@ -49,7 +49,7 @@ Yapılcan Tepe, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve sonba
 ## İlginç Bilgiler
 
 - Yapılcan Tepe, Konya ilinin en önemli tarihi ve doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Yapılcan Tepe'nin etrafı, çeşitli bitki türleriyle kaplı.
 - Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 - Yapılcan Tepe, yılın her dönemi ziyaret edilebilir.

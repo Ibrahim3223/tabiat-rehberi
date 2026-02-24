@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","çevre eğitimi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Kastamonu-Duragan-Adadagi-Kızılcam 2","caption":"Kastamonu-Duragan-Adadagi-Kızılcam 2","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Duragan-Adadagi-K%C4%B1z%C4%B1lcam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228275","tip":"genel"}]
-description: "Kastamonu ilinin doğal güzellikleri arasında yer alan milli park, 140 hektarlık bir alanı kapsar. Bu bölge, Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini sunar."
+ Bu bölge, Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini sunar."
 keywords: ["milli park","Kastamonu","Karadeniz Bölgesi","doğa","flora","fauna","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228275"
@@ -42,7 +42,6 @@ Kastamonu-Duragan-Adadagi-Kızılcam 2 milli parkını ziyaret etmek, doğa seve
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, çeşitli bitki türleri ve hayvan çeşitliliğine ev sahipliği yapar
 - Milli parkın coğrafyası, ziyaretçilere çeşitli manzaralar sunar
 - Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","trekking","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Elibağlı Tepesi","caption":"Elibağlı Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eliba%C4%9Fl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568317","tip":"genel"}]
-description: "Samsun'un doğal güzellikleri arasında yer alan Elibağlı Tepesi, 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Samsun","Elibağlı Tepesi","doğal güzellik","tepe","Karadeniz Bölgesi","gezi","turizm","doğa","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31568317"
@@ -28,7 +28,7 @@ wikidata_id: "Q31568317"
 
 # Elibağlı Tepesi
 
-Elibağlı Tepesi, Samsun'un doğal güzellikleri arasında yer alan bir tepe. Bu tepe, 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, ziyaretçilere Samsun'un şehir manzarasını izleme fırsatı sunuyor. Elibağlı Tepesi, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepede, mevsimsel değişimlere göre farklı bitki türleri yetişiyor. İlkbahar ve yaz aylarında, tepenin çevresi yeşilleniyor ve çiçek açıyor. Kış aylarında ise, tepenin üst kısmı karla kaplanıyor.
+Elibağlı Tepesi, Samsun'un doğal güzellikleri arasında yer alan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, ziyaretçilere Samsun'un şehir manzarasını izleme fırsatı sunuyor. Elibağlı Tepesi, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepede, mevsimsel değişimlere göre farklı bitki türleri yetişiyor. İlkbahar ve yaz aylarında, tepenin çevresi yeşilleniyor ve çiçek açıyor. Kış aylarında ise, tepenin üst kısmı karla kaplanıyor.
 
 ## Tarihçe
 

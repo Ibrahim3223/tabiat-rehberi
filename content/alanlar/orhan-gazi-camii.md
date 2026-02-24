@@ -38,7 +38,7 @@ Orhan Gazi Camii, Osmanlı İmparatorluğu'nun kuruluş döneminde, 14. yüzyıl
 
 ## Coğrafya
 
-Orhan Gazi Camii, Bursa'nın merkezi bir bölgesinde, şehrin önemli ulaşım noktalarına yakın bir konumda yer alır. Cami, yaklaşık 140 hektarlık bir alanı kaplar ve surroundingsında çeşitli tarihi ve kültürel yapılar bulunur. Caminin mimarisi, Selçuklu ve Osmanlı tarzı unsurları birleştirir ve şehrin tarihi dokusuna uygun bir şekilde tasarlanmıştır. Cami çevresinde, çeşitli tarihi yapılar, müzeler ve parklar bulunmaktadır. Bursa'nın iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Cami, şehrin coğrafi konumu nedeniyle, yıl boyunca ziyaret edilmeye uygun bir destinasyondur. Caminin bulunduğu bölge, tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliklerle de çevrilidir. Bursa'nın Uludağ gibi önemli doğal güzellikleri, camiye yakın bir mesafede yer alır.
+Orhan Gazi Camii, Bursa'nın merkezi bir bölgesinde, şehrin önemli ulaşım noktalarına yakın bir konumda yer alır. Caminin mimarisi, Selçuklu ve Osmanlı tarzı unsurları birleştirir ve şehrin tarihi dokusuna uygun bir şekilde tasarlanmıştır. Cami çevresinde, çeşitli tarihi yapılar, müzeler ve parklar bulunmaktadır. Bursa'nın iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Cami, şehrin coğrafi konumu nedeniyle, yıl boyunca ziyaret edilmeye uygun bir destinasyondur. Caminin bulunduğu bölge, tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliklerle de çevrilidir. Bursa'nın Uludağ gibi önemli doğal güzellikleri, camiye yakın bir mesafede yer alır.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Orhan Gazi Camii, yıl boyunca ziyaret edilebilir. Camiye ulaşım, şehir merke
 - Orhan Gazi Camii, Bursa'nın en eski camilerinden biridir.
 - Cami, 14. yüzyılda inşa edilmiştir.
 - Caminin mimarisi, Selçuklu ve Osmanlı dönemi özellikleri taşır.
-- Cami, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Cami çevresinde, çeşitli tarihi ve kültürel yapılar bulunur.

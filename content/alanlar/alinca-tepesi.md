@@ -28,7 +28,7 @@ wikidata_id: "Q31389666"
 
 # Alınca Tepesi
 
-Kastamonu'nun eşsiz manzaralarına ev sahipliği yapan Alınca Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Bu geniş alan, 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Alınca Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari ve sıcakkanlı halkıyla misafirlerini ağırlıyor.
+ Alınca Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari ve sıcakkanlı halkıyla misafirlerini ağırlıyor.
 
 ## Tarihçe
 

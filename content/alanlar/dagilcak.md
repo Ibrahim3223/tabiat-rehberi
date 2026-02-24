@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Agac101.jpg","alt":"Dagilcak manzarası","credit":"Meryem İnce","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Agac100.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Agac100.jpg/1280px-Agac100.jpg","alt":"Dagilcak - Agac100","credit":"Meryem İnce","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Manzara400.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Manzara400.jpg/1280px-Manzara400.jpg","alt":"Dagilcak - Manzara400","credit":"Meryem İnce","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Da%C4%9F%C4%B1lcak_Natural_Park_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Da%C4%9F%C4%B1lcak_Natural_Park_02.jpg/1280px-Da%C4%9F%C4%B1lcak_Natural_Park_02.jpg","alt":"Dagilcak - Dağılcak Natural Park 02","credit":"Ömer Emre GEÇME","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Da%C4%9F%C4%B1lcak_Natural_Park_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Da%C4%9F%C4%B1lcak_Natural_Park_03.jpg/1280px-Da%C4%9F%C4%B1lcak_Natural_Park_03.jpg","alt":"Dagilcak - Dağılcak Natural Park 03","credit":"Ömer Emre GEÇME","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/52/Da%C4%9F%C4%B1lcak_Natural_Park_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Da%C4%9F%C4%B1lcak_Natural_Park_01.jpg/1280px-Da%C4%9F%C4%B1lcak_Natural_Park_01.jpg","alt":"Dagilcak - Dağılcak Natural Park 01","credit":"Ömer Emre GEÇME","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dagilcak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228232","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Dagilcak, 140 hektarlık geniş bir alana sahiptir."
+"
 keywords: ["Dagilcak","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228232"
@@ -42,8 +42,6 @@ Dagilcak, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer 
 Dagilcak'ı ziyaret etmek, doğa severler için bir rüya gibi olabilir. Bu milli parka, özel araçlar veya toplu taşıma araçları ile ulaşımümkündür. Ziyaretçilerin, bu bölgede doğa yürüyüşleri, fotoğraf çekimi ve doğa gözlemi gibi aktiviteler yapabileceği alanlar bulunmaktadır. Dagilcak, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir. Bu dönemlerde, flora çeşitliliği en yüksek seviyededir ve hava koşulları ziyaret için uygundur.
 
 ## İlginç Bilgiler
-
-- Dagilcak, 140 hektarlık bir alana sahiptir.
 
 - Bu bölge, doğa severler için bir cennet niteliğinde.
 - Dagilcak, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir.

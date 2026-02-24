@@ -44,7 +44,7 @@ Ankara-Nallihan Sacak milli parkı, ziyaretçilere doğanın güzelliğini ve ta
 ## İlginç Bilgiler
 
 - Ankara-Nallihan Sacak milli parkı, İç Anadolu Bölgesi'nin en büyük milli parklarından biri
-- Milli park, 140 hektarlık bir alanı kapsıyor
+
 - Ankara-Nallihan Sacak, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Milli park, göçmen kuşların önemli uğrak noktalarından biri
 - Ankara-Nallihan Sacak, ziyaretçilere doğanın güzelliğini ve tarihin zenginliğini sunuyor

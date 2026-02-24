@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/North_elevation._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Tüllüce Tepesi","caption":"Tüllüce Tepesi","credit":"North elevation. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCll%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34816146","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'ndeki Tüllüce Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası"
+
 keywords: ["Tüllüce Tepesi","Ankara","İç Anadolu Bölgesi","doğa harikası","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34816146"
@@ -28,7 +28,7 @@ wikidata_id: "Q34816146"
 
 # Tüllüce Tepesi
 
- 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğayla baş başa kalmaya davet ediyor. Tüllüce Tepesi, Ankara'nın önemli doğal alanlarından biri olarak, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Tüllüce Tepesi, Ankara'nın önemli doğal alanlarından biri olarak, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tüllüce Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Tüllüce Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, 140 hektarlık bir yeşil alan. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere unutulmaz bir deneyim sunuyor. Tüllüce Tepesi, Ankara'nın coğrafi yapısını şekillendiren önemli bir alandır. Bu tepenin etrafında, çeşitli coğrafi oluşumlar bulunması, ziyaretçilere bu bölgenin coğrafi zenginliğini gösteriyor. Tüllüce Tepesi, Ankara'nın iklimini de etkileyen bir alandır. Bu tepenin etrafında, çeşitli iklim tipleri bulunması, ziyaretçilere bu bölgenin iklim çeşitliliğini anlatıyor. Tüllüce Tepesi, Ankara'nın önemli doğal alanlarından biri olarak, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor.
+ Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere unutulmaz bir deneyim sunuyor. Tüllüce Tepesi, Ankara'nın coğrafi yapısını şekillendiren önemli bir alandır. Bu tepenin etrafında, çeşitli coğrafi oluşumlar bulunması, ziyaretçilere bu bölgenin coğrafi zenginliğini gösteriyor. Tüllüce Tepesi, Ankara'nın iklimini de etkileyen bir alandır. Bu tepenin etrafında, çeşitli iklim tipleri bulunması, ziyaretçilere bu bölgenin iklim çeşitliliğini anlatıyor. Tüllüce Tepesi, Ankara'nın önemli doğal alanlarından biri olarak, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tüllüce Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek
 ## İlginç Bilgiler
 
 - Tüllüce Tepesi, Ankara'nın en önemli doğal alanlarından biri
-- Tüllüce Tepesi, 140 hektarlık bir yeşil alan
+
 - Tüllüce Tepesi, çeşitli bitki türleri ve zengin fauna found
 - Tüllüce Tepesi, Ankara'nın iklimini etkileyen bir alan
 - Tüllüce Tepesi, mevsimsel değişimlere göre, farklı bitki türleri ve hayvanları barındırıyor

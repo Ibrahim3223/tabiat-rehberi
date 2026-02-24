@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Amik%20Ovas%C4%B1%27n%C4%B1n%20Amanoslar%27dan%20g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Amik Ovası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amik_Ovas%C4%B1%27n%C4%B1n_Amanoslar%27dan_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Amik_Ovas%C4%B1%27n%C4%B1n_Amanoslar%27dan_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Amik Ovası","caption":"Amik Ovası","credit":"Amik Ovası'nın Amanoslar'dan görünümü","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Amik_Ovas%C4%B1%27n%C4%B1n_Amanoslar%27dan_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amik_Ovas%C4%B1%27n%C4%B1n_Amanoslar%27dan_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/1280px-Amik_Ovas%C4%B1%27n%C4%B1n_Amanoslar%27dan_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Amik Ovası - Amik Ovası'nın Amanoslar'dan görünümü","credit":"Radyokid at Turkish Wikipedia","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amik%20Ovas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q481670","tip":"genel"}]
 description: "Hatay'da bulunan Amik Ovası, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."

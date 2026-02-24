@@ -49,7 +49,7 @@ Daryol Tepesi'ni ziyaret etmek, doğa severler için bir fırsat. Bu bölge, ziy
 ## İlginç Bilgiler
 
 - Daryol Tepesi, Kars ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, 140 hektarlık bir alana sahip.
+
 - Daryol Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, doğa severlerin ilgisini çeken bir yer.
 - Daryol Tepesi, tarihi geçmişi ile de önemli.

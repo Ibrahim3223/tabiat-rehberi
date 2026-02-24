@@ -43,7 +43,7 @@ Giresun-Akkus-Golluce Dogu Kayini milli parkını ziyaret etmek, doğa severler 
 ## İlginç Bilgiler
 
 - Giresun-Akkus-Golluce Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir
-- Milli park, 140 hektarlık bir alana sahiptir
+
 - Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunur
 - Giresun-Akkus-Golluce Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir
 - Milli parkın ziyaret saatleri, mevsimsel olarak değişir

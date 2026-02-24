@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kuş gözlemc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Sucullu","caption":"Sucullu","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sucullu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227819","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Sucullu, 140 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor."
+ Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor."
 keywords: ["Sucullu","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm"," milli park","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227819"

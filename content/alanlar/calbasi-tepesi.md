@@ -48,7 +48,6 @@ wikidata_id: "Q34823555"
 
 ## İlginç Bilgiler
 
-- Çalbaşı Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor.
 - Çalbaşı Tepesi, tarihi geçmişiyle dikkat çekiyor.
 - Tepenin coğrafi konumu, ulaşım açısından kolaylık sağlıyor.

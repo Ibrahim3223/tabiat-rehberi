@@ -30,7 +30,7 @@ wikidata_id: "Q134615436"
 
 # Gümüşeşik Tekkesi, Kütahya
 
-Kütahya'nın merkezinde yer alan Gümüşeşik Tekkesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Tarihi ve doğal güzellikleri bir araya getiren bu mekan, Kütahya'nın önemli gezilecek yerlerinden biri olarak dikkat çekiyor. Gümüşeşik Tekkesi, hem doğa severlerin hem de tarihe merak duyanların ilgisini çekmeyi başarıyor.
+ Tarihi ve doğal güzellikleri bir araya getiren bu mekan, Kütahya'nın önemli gezilecek yerlerinden biri olarak dikkat çekiyor. Gümüşeşik Tekkesi, hem doğa severlerin hem de tarihe merak duyanların ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

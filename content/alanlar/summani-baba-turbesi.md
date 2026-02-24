@@ -37,7 +37,7 @@ Sümmani Baba Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin tam k
 
 ## Coğrafya
 
-Sümmani Baba Türbesi, Narman ilçesi sınırları içerisinde, Doğu Anadolu Bölgesi'nin coğrafi güzellikleri ile çevrili bir bölgede yer alıyor. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulmuş ve bu genişlikte, ziyaretçilerine geniş bir görüş açısı sunuyor. Bölge, coğrafi açıdan zengin bir yapıya sahip ve çeşitli bitki türleri ile hayvanlar, bu bölgenin ekolojik dengesini oluşturuyor. Sümmani Baba Türbesi, Erzurum'un coğrafi güzellikleri ile çevrili bir noktada yer alıyor ve ziyaretçilerine, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sunuyor. Kış aylarında karla kaplı dağlar, ilkbahar ve yaz aylarında yeşeren çayırlar, bu bölgenin güzelliğini ortaya koyuyor.
+Sümmani Baba Türbesi, Narman ilçesi sınırları içerisinde, Doğu Anadolu Bölgesi'nin coğrafi güzellikleri ile çevrili bir bölgede yer alıyor. Bölge, coğrafi açıdan zengin bir yapıya sahip ve çeşitli bitki türleri ile hayvanlar, bu bölgenin ekolojik dengesini oluşturuyor. Sümmani Baba Türbesi, Erzurum'un coğrafi güzellikleri ile çevrili bir noktada yer alıyor ve ziyaretçilerine, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sunuyor. Kış aylarında karla kaplı dağlar, ilkbahar ve yaz aylarında yeşeren çayırlar, bu bölgenin güzelliğini ortaya koyuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sümmani Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri 
 ## İlginç Bilgiler
 
 - Sümmani Baba Türbesi, Narman ilçesi sınırları içerisinde yer alıyor.
-- Türbe, 140 hektarlık bir arazi üzerine kurulmuş.
+
 - Bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahip.
 - Sümmani Baba'nın teachingsi, türbenin duvarlarında ve çevresinde bulunan çeşitli eserlerde görülebiliyor.
 - Türbe, yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak görevini sürdürüyor.

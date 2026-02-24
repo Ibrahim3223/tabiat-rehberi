@@ -51,7 +51,7 @@ Hamam, Kozluk'a nasıl gidilir? Kozluk'un merkezine uzun bir mesafe uzaklıkta b
 ## İlginç Bilgiler
 
 - Hamam, Kozluk, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bölge, 140 hektarlık bir alanı kapsar.
+
 - Hamam, Kozluk'un tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların etkisi altında kalmıştır.
 - Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekmektedir.
 - Hamam, Kozluk, turizm potansiyeli yüksek bir bölgedir.

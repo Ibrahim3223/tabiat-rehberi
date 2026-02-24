@@ -37,7 +37,7 @@ Köroğlu Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Köroğlu Tepesi, Erzurum'un coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve coğrafi olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengindir. Köroğlu Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Bu bölgenin coğrafi yapısı, ziyaretçilere doğa ile iç içe olabilme fırsatı sunar. Köroğlu Tepesi, coğrafi olarak önemli bir konuma sahiptir ve Doğu Anadolu Bölgesi'nin coğrafi özelliklerini anlamak için ziyaret edilmesi gereken bir yerdir. Bu tepe, bölgenin coğrafi zenginliğini gözler önüne serer ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
+Köroğlu Tepesi, Erzurum'un coğrafi yapısını anlamak için önemli bir noktadır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengindir. Köroğlu Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Bu bölgenin coğrafi yapısı, ziyaretçilere doğa ile iç içe olabilme fırsatı sunar. Köroğlu Tepesi, coğrafi olarak önemli bir konuma sahiptir ve Doğu Anadolu Bölgesi'nin coğrafi özelliklerini anlamak için ziyaret edilmesi gereken bir yerdir. Bu tepe, bölgenin coğrafi zenginliğini gözler önüne serer ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Köroğlu Tepesi'ni ziyaret etmek, doğa severler ve coğrafya meraklıları iç
 
 ## İlginç Bilgiler
 
-- Köroğlu Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir noktadır.
 - Köroğlu Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölgedir.
 - Bu tepe, tarihin farklı dönemlerinde önemli bir gözlem noktası olarak kullanılmıştır.

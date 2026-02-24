@@ -28,7 +28,7 @@ wikidata_id: "Q32210783"
 
 # Kümeli Tepe
 
-Kümeli Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alan kaplamakta ve ziyaretçilerini etkileyen bir manzaraya sahiptir. 200 futbol sahası büyüklüğünde olan bu alan, Mardin'in coğrafi yapısını ve tarihi değerlerini gözler önüne sermektedir. Kümeli Tepe, Mardin'in merkezine yakınlığıyla da dikkat çekmekte ve ziyaretçilerin kolayca ulaşabileceği bir konumda bulunmaktadır. Bu tepe, Mardin'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon olarak karşımıza çıkmaktadır.
+Kümeli Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Kümeli Tepe, Mardin'in merkezine yakınlığıyla da dikkat çekmekte ve ziyaretçilerin kolayca ulaşabileceği bir konumda bulunmaktadır. Bu tepe, Mardin'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kümeli Tepe'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş durumd
 
 ## Coğrafya
 
-Kümeli Tepe, Mardin'in coğrafi yapısını gözler önüne seren bir tepe olarak karşımıza çıkmaktadır. Bu tepe, yaklaşık 140 hektarlık bir alan kaplamakta ve Mardin'in merkezine yakınlığıyla dikkat çekmektedir. Kümeli Tepe, Mardin'in çevresindeki dağların ve ovaların manzarasını gözler önüne sermektedir. Bu tepe, Mardin'in iklimini ve coğrafi yapısını öğrenmek isteyenler için önemli bir destinasyon olarak karşımıza çıkmaktadır. Kümeli Tepe, Mardin'in coğrafi yapısını ve tarihi değerlerini gözler önüne seren bir tepe olarak ziyaretçilerini bekliyor. Bu tepe, Mardin'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir kaynak olarak görülmektedir. Kümeli Tepe, Mardin'in coğrafi yapısını ve tarihi değerlerini gözler önüne seren bir tepe olarak dikkat çekmektedir.
+Kümeli Tepe, Mardin'in coğrafi yapısını gözler önüne seren bir tepe olarak karşımıza çıkmaktadır. Kümeli Tepe, Mardin'in çevresindeki dağların ve ovaların manzarasını gözler önüne sermektedir. Bu tepe, Mardin'in iklimini ve coğrafi yapısını öğrenmek isteyenler için önemli bir destinasyon olarak karşımıza çıkmaktadır. Kümeli Tepe, Mardin'in coğrafi yapısını ve tarihi değerlerini gözler önüne seren bir tepe olarak ziyaretçilerini bekliyor. Bu tepe, Mardin'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir kaynak olarak görülmektedir. Kümeli Tepe, Mardin'in coğrafi yapısını ve tarihi değerlerini gözler önüne seren bir tepe olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kümeli Tepe, Mardin'in tarihini ve kültürünü öğrenmek isteyenler için ö
 ## İlginç Bilgiler
 
 - Kümeli Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir.
-- Bu tepe, yaklaşık 140 hektarlık bir alan kaplamaktadır.
+
 - Kümeli Tepe, Mardin'in merkezine yakınlığıyla dikkat çekmektedir.
 - Bu tepe, Mardin'in coğrafi yapısını ve tarihi değerlerini gözler önüne seren bir tepe olarak ziyaretçilerini bekliyor.
 - Kümeli Tepe, Mardin'in flora ve faunasını gözler önüne seren bir tepe olarak dikkat çekmektedir.

@@ -30,7 +30,7 @@ wikidata_id: "Q134728269"
 
 # Patara Tapınak Mezar
 
-Patara Tapınak Mezar, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nin güneşli sahillerine yakın bir konumda bulunmaktadır. Bu tarihi ve doğal güzelliğin birleştiği nokta, yaklaşık 140 hektarlık bir alan kaplamaktadır. Patara Tapınak Mezar, ziyaretçilerini hem tarihi yapısıyla hem de eşsiz doğal güzellikleriyle karşılar. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
+Patara Tapınak Mezar, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nin güneşli sahillerine yakın bir konumda bulunmaktadır. Patara Tapınak Mezar, ziyaretçilerini hem tarihi yapısıyla hem de eşsiz doğal güzellikleriyle karşılar. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Patara Tapınak Mezarının tarihi geçmişi, Likya Uygarlığına kadar uzanmak
 
 ## Coğrafya
 
-Patara Tapınak Mezarı, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nin güneşli sahillerine yakın bir konumda bulunmaktadır. Bu bölge, yaklaşık 140 hektarlık bir alana yayılmıştır. Patara Tapınak Mezarı, denize yakın bir konumda yer alır ve bu nedenle, ziyaretçilerine eşsiz bir manzara sunar. Bu bölgenin coğrafyası, tarihi yapıların ve kalıntıların yanı sıra, doğal güzellikleriyle de dikkat çekmektedir. Patara Tapınak Mezarının coğrafyası, ziyaretçilerine hem tarihi hem de doğal güzelliklerin bir arada sunulduğu bir deneyim sunar. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Ayrıca, Patara Tapınak Mezarı, Akdeniz ikliminin hakim olduğu bir bölgede yer alır ve bu nedenle, ziyaretçilerine sıcak ve güneşli bir ortam sunar.
+Patara Tapınak Mezarı, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nin güneşli sahillerine yakın bir konumda bulunmaktadır. Patara Tapınak Mezarı, denize yakın bir konumda yer alır ve bu nedenle, ziyaretçilerine eşsiz bir manzara sunar. Bu bölgenin coğrafyası, tarihi yapıların ve kalıntıların yanı sıra, doğal güzellikleriyle de dikkat çekmektedir. Patara Tapınak Mezarının coğrafyası, ziyaretçilerine hem tarihi hem de doğal güzelliklerin bir arada sunulduğu bir deneyim sunar. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Ayrıca, Patara Tapınak Mezarı, Akdeniz ikliminin hakim olduğu bir bölgede yer alır ve bu nedenle, ziyaretçilerine sıcak ve güneşli bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Patara Tapınak Mezarına ziyaretçiler, Antalya'nın Kaş ilçesinden kolayca u
 
 - Patara Tapınak Mezarı, Likya Uygarlığına kadar uzanmaktadır.
 - Bu bölge, Roma ve Bizans dönemlerinde de önemli bir merkez olarak kullanılmıştır.
-- Patara Tapınak Mezarı, yaklaşık 140 hektarlık bir alana yayılmıştır.
+
 - Bu bölge, denize yakın bir konumda yer alır ve bu nedenle, ziyaretçilerine eşsiz bir manzara sunar.
 - Patara Tapınak Mezarı, zengin bir flora ve fauna çeşitliliğine sahiptir.

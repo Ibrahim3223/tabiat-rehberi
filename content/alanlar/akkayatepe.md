@@ -49,8 +49,6 @@ Akkayatepe'yi ziyaret etmek, özellikle doğa severler ve coğrafya meraklılar�
 
 ## İlginç Bilgiler
 
-- Akkayatepe, 140 hektarlık bir alanı kapsar.
-
 - Akkayatepe, İç Anadolu Bölgesi'nde yer alır.
 - Bu tepe, özellikle doğa severler ve coğrafya meraklıları için önemli bir destinasyon olarak karşımıza çıkar.
 - Akkayatepe'nin flora ve fauna açısından zengin bir yapıya sahip olduğu söylenebilir.

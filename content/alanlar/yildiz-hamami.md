@@ -30,7 +30,7 @@ wikidata_id: "Q131738482"
 
 # Yıldız Hamamı
 
-Yıldız Hamamı, Amasya'nın güzide mekanlarından biri olarak Karadeniz Bölgesi'nin kalbinde yer alıyor. Bu doğal güzellik, çevresindeki yeşilliklerle birlikte 140 hektarlık bir alanı kapsıyor. Yıldız Hamamı, özellikle plaj severlerin ve doğa tutkunlarının ilgisini çekiyor. Bu bölge, hem deniz hem de yeşil alanlarıyla ziyaretçilerini büyülüyor.
+Yıldız Hamamı, Amasya'nın güzide mekanlarından biri olarak Karadeniz Bölgesi'nin kalbinde yer alıyor. Yıldız Hamamı, özellikle plaj severlerin ve doğa tutkunlarının ilgisini çekiyor. Bu bölge, hem deniz hem de yeşil alanlarıyla ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

@@ -49,7 +49,7 @@ Sivi Tepesi, ziyaretçilerin bölgeyi keşfetmeleri için önemli bir destinasyo
 ## İlginç Bilgiler
 
 - Sivi Tepesi, Şırnak ilinin önemli coğrafi oluşumlarından biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Sivi Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak görülür.
 - Bu tepe, çeşitli bitki türleri ve hayvan türleri için bir yaşam alanı olarak hizmet eder.
 - Sivi Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.

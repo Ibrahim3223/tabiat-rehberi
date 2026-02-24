@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Ogle_Hill_Head_-_geograph.org.uk_-_8136660.jpg","alt":"Öğle Tepesi manzarası","credit":"Richard Webb ","license":"cc-by-sa-2.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Ogle_Hill_Head_-_geograph.org.uk_-_4504638.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ogle_Hill_Head_-_geograph.org.uk_-_4504638.jpg/1280px-Ogle_Hill_Head_-_geograph.org.uk_-_4504638.jpg","alt":"Öğle Tepesi - Ogle Hill Head - geograph.org.uk - 4504638","credit":"Russel Wills ","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96%C4%9Fle%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829874","tip":"genel"}]
-description: "Gümüşhane'nin güzide yerlerinden biri olan Öğle Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Gümüşhane'nin güzide yerlerinden biri olan Öğle Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor."
 keywords: ["Gümüşhane","Öğle Tepesi","Karadeniz Bölgesi","doğal güzellikler","turizm","gezi","yaban hayatı","coğrafya","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829874"

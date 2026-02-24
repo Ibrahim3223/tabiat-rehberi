@@ -50,7 +50,7 @@ Sığacık Hamamı'na ziyaretçiler, özellikle yaz aylarında gelmektedir. Bu p
 ## İlginç Bilgiler
 
 - Sığacık Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir
-- Bu plaj, 140 hektarlık bir yeşil alana sahiptir
+
 - Sığacık Hamamı, özellikle yaz aylarında tatilciler için popüler bir destinasyon olarak bilinir
 - Bu plajda, çeşitli mevsimlerde farklı doğa güzelliği deneyimlenebilir
 - Sığacık Hamamı, Seferihisar ilçesine yakın bir konumda yer alır

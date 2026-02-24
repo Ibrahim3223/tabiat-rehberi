@@ -30,7 +30,7 @@ Aksaray Güzelyurt Sit Alanı, tarihi geçmişi ile dikkat çekmektedir. Bu alan
 
 ## Coğrafya
 
-Aksaray Güzelyurt Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu alan, doğal güzelliği ile dikkat çekmektedir. 140 hektarlık genişlikteki bu yeşil alan, ziyaretçilerini doğanın içinde bir macera dolu yolculuğa davet ediyor. Aksaray Güzelyurt Sit Alanı, coğrafi olarak çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu sit alanı, çeşitli mevsimlerde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Aksaray Güzelyurt Sit Alanı'nın coğrafi konumu, onu bölgenin en önemli doğal güzelliklerinden biri haline getirmiştir. Bu alan, ziyaretçilerini doğanın güzelliği ve zenginliği ile etkilemektedir.
+Aksaray Güzelyurt Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu alan, doğal güzelliği ile dikkat çekmektedir. Aksaray Güzelyurt Sit Alanı, coğrafi olarak çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu sit alanı, çeşitli mevsimlerde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Aksaray Güzelyurt Sit Alanı'nın coğrafi konumu, onu bölgenin en önemli doğal güzelliklerinden biri haline getirmiştir. Bu alan, ziyaretçilerini doğanın güzelliği ve zenginliği ile etkilemektedir.
 
 ## Flora ve Fauna
 

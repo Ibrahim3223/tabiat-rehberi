@@ -53,4 +53,4 @@ Fındıklı Hamamı ve plajına ziyaretçiler, toplu taşıma araçları veya ö
 - Bu hamam, Osmanlı İmparatorluğu döneminde inşa edilmiştir.
 - Fındıklı Hamamı, İstanbul'un en çok ziyaret edilen turizm noktalarından biridir.
 - Bu bölge, denizin ve şehrin eşsiz manzarasını sunar.
-- Fındıklı Hamamı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+

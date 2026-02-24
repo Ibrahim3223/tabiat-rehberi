@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Yaban Hayatı İzleme","Çevre Gezisi","Fot
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AgaricusMushroom.jpg/960px-AgaricusMushroom.jpg","alt":"Balıkesir-Ilıca-Fıstıkcamı","caption":"Balıkesir-Ilıca-Fıstıkcamı","credit":"AgaricusMushroom.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Il%C4%B1ca-F%C4%B1st%C4%B1kcam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228285","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide ilçesi Balıkesir'de yer alan Ilıca-Fıstıkcamı Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Balıkesir","Ilıca-Fıstıkcamı","Marmara Bölgesi","Milli Park","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228285"
@@ -41,8 +41,6 @@ Ilıca-Fıstıkcamı Milli Parkı, zengin bir flora ve fauna çeşitliliğine sa
 Ilıca-Fıstıkcamı Milli Parkı, yıl boyunca ziyaret edilebilir. Bu milli park, sunduğu eşsiz olanaklar ve güzelliklerle ziyaretçilerini bekliyor. Ilıca-Fıstıkcamı Milli Parkı'na ulaşım, çeşitli araçlarla sağlanabilir. Bu bölgede, ziyaretçilere çeşitli etkinlikler sunulmaktadır. Ilıca-Fıstıkcamı Milli Parkı, doğa severler ve gezi tutkunları için bir cennet olarak düşünülebilir.
 
 ## İlginç Bilgiler
-
-- Ilıca-Fıstıkcamı Milli Parkı, 140 hektarlık bir alanı kaplamaktadır.
 
 - Ilıca-Fıstıkcamı Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Bu bölgede, çeşitli ağaç türleri, bitkiler ve yaban hayvanları bulunmaktadır.

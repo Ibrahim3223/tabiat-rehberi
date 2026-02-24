@@ -49,7 +49,6 @@ Gümüşsuyu Hastanesi Hamamı, yılın her dönemi ziyaret edilebilir. Bu plaj,
 
 ## İlginç Bilgiler
 
-- Gümüşsuyu Hastanesi Hamamı, 140 hektarlık bir alana sahiptir.
 - Bu plaj, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Gümüşsuyu Hastanesi Hamamı, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır.
 - Bu plaj, ziyaretçilerine İstanbul'un tarihi dokusunu deneyimleme fırsatı sunar.

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Yedideğirmenler","caption":"Yedideğirmenler","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_02-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_02-2.jpg/1280px-Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_02-2.jpg","alt":"Yedideğirmenler - Waterfall at Yedideğirmenler NP, Espiye 02-2","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_01-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_01-1.jpg/1280px-Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_01-1.jpg","alt":"Yedideğirmenler - Waterfall at Yedideğirmenler NP, Espiye 01-1","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Yedide%C4%9Firmenler%2C_Espiye_01-3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Yedide%C4%9Firmenler%2C_Espiye_01-3.jpg/1280px-Yedide%C4%9Firmenler%2C_Espiye_01-3.jpg","alt":"Yedideğirmenler - Yedideğirmenler, Espiye 01-3","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/87/Yedide%C4%9Firmenler%2C_Espiye_01-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Yedide%C4%9Firmenler%2C_Espiye_01-2.jpg/1280px-Yedide%C4%9Firmenler%2C_Espiye_01-2.jpg","alt":"Yedideğirmenler - Yedideğirmenler, Espiye 01-2","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_03-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_03-1.jpg/1280px-Waterfall_at_Yedide%C4%9Firmenler_NP%2C_Espiye_03-1.jpg","alt":"Yedideğirmenler - Waterfall at Yedideğirmenler NP, Espiye 03-1","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yedide%C4%9Firmenler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228410","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
+"
 keywords: ["Yedideğirmenler","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228410"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228410"
 
 # Yedideğirmenler
 
- Bu bölge, doğaseverlerin ve macera tutkunlarının ziyaret etmesi gereken bir cennet. Yedideğirmenler, zengin flora ve faunasıyla birlikte, ziyaretçilerini bir doğa belgeseli içinde hissetmelerini sağlıyor. 140 hektarlık bu alan, çeşitli bitki türleriyle kaplı ve yaban hayatının zenginliğini sunuyor.
+ Bu bölge, doğaseverlerin ve macera tutkunlarının ziyaret etmesi gereken bir cennet. Yedideğirmenler, zengin flora ve faunasıyla birlikte, ziyaretçilerini bir doğa belgeseli içinde hissetmelerini sağlıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Yedideğirmenler'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölg
 
 ## Coğrafya
 
-Yedideğirmenler, İç Anadolu Bölgesi'nde, 140 hektarlık bir alanı kapsıyor. Bu bölge, coğrafi olarak, çeşitli bitki türleri ve yaban hayatı ile zengin. Yedideğirmenler'in coğrafyası, ziyaretçilerini bir doğa harikası ile karşılaştırıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, Yedideğirmenler'in flora ve faunasını şekillendirmiş. Bölgenin yapısı, çeşitli araziler ve su kaynaklarından oluşuyor. Yedideğirmenler, ziyaretçilerine, coğrafi güzellikleri ve doğal zenginliği sunuyor.
+ Bu bölge, coğrafi olarak, çeşitli bitki türleri ve yaban hayatı ile zengin. Yedideğirmenler'in coğrafyası, ziyaretçilerini bir doğa harikası ile karşılaştırıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, Yedideğirmenler'in flora ve faunasını şekillendirmiş. Bölgenin yapısı, çeşitli araziler ve su kaynaklarından oluşuyor. Yedideğirmenler, ziyaretçilerine, coğrafi güzellikleri ve doğal zenginliği sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Yedideğirmenler'i ziyaret etmek, doğaseverler ve macera tutkunları için bir 
 
 ## İlginç Bilgiler
 
-- Yedideğirmenler, 140 hektarlık bir alanı kapsıyor.
 - Bölge, çeşitli bitki türleriyle kaplı.
 - Yedideğirmenler, yaban hayatının zenginliğini sunuyor.
 - Milli park, ziyaretçilerine gezi rehberliği sunuyor.

@@ -22,8 +22,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/13/L-alanine-from-xtal-Mercury-3D-sf.png","alt":"A manzarası","credit":"Ben Mills","license":"pd"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/L-alanine-from-xtal-Mercury-3D-balls.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/L-alanine-from-xtal-Mercury-3D-balls.png/1280px-L-alanine-from-xtal-Mercury-3D-balls.png","alt":"A - L-alanine-from-xtal-Mercury-3D-balls","credit":"Ben Mills","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/39/Alanine-from-xtal-3D-bs-17.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Alanine-from-xtal-3D-bs-17.png/1280px-Alanine-from-xtal-3D-bs-17.png","alt":"A - Alanine-from-xtal-3D-bs-17","credit":"Ben Mills","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/28/L-alanine.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/L-alanine.png/1267px-L-alanine.png","alt":"A - L-alanine","credit":"No machine-readable author provided. Benjah-bmm27 assumed (based on copyright claims).","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/L-alanine-3D-balls.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/5/5c/L-alanine-3D-balls.png","alt":"A - L-alanine-3D-balls","credit":"Benjah-bmm27","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e3/L-alanine-zwitterion-3D-balls.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/e3/L-alanine-zwitterion-3D-balls.png","alt":"A - L-alanine-zwitterion-3D-balls","credit":"user:Benjah-bmm27","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228805","tip":"genel"}]
-description: "İbradı, Antalya'da yer alan milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["İbradı","Antalya","Akdeniz Bölgesi","milli park","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228805"
 ---

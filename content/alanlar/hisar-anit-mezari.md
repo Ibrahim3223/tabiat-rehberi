@@ -49,8 +49,6 @@ Hisar Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan bir alandır. Bu me
 
 ## İlginç Bilgiler
 
-- Hisar Anıt Mezarı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
-- Bu mezarlık, yaklaşık 200 futbol sahası büyüklüğünde bir alana eşittir
 - Hisar Anıt Mezarı, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir kültür varlığı olarak kabul edilir
 - Bu mezarlık, bölgenin coğrafi özelliklerini de yansıtan bir alandır
 - Hisar Anıt Mezarı, yüzyıllar boyunca bölgede yaşamış insanların izlerini taşıyan bir kültür varlığı olarak kabul edilir

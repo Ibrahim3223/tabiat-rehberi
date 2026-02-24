@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Demirci Tepesi","caption":"Demirci Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirci%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390945","tip":"genel"}]
-description: "Kayseri'nin güzel tepelerinden biri olan Demirci Tepesi, yaklaşık 140 hektarlık bir alan kaplar."
+"
 keywords: ["Demirci Tepesi","Kayseri","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390945"
@@ -47,8 +47,6 @@ Demirci Tepesi, zengin bir flora ve fauna ile dikkat çeker. Bu bölge, farklı 
 Demirci Tepesi, ziyaretçilere geniş bir alan sunar. Bu bölge, doğal güzellikleri ve coğrafi özellikleri ile dikkat çeker. Tepenin etrafındaki doğal güzellikler, ziyaretçilere geniş bir alan sunar. Demirci Tepesi, coğrafi konumu itibariyle de önemli bir noktadır. Bu tepe, farklı mevsimlerde farklı bir güzellik sunar. Ziyaretçiler, Demirci Tepesi'ni ziyaret ederek doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken bir bölgeyi keşfedebilirler.
 
 ## İlginç Bilgiler
-
-- Demirci Tepesi, 140 hektarlık bir alan kaplar.
 
 - Demirci Tepesi, coğrafi konumu itibariyle de önemli bir noktadır.
 - Bu bölge, farklı bitki türleri ve hayvanlar ile zengin bir fauna ve floraya sahiptir.

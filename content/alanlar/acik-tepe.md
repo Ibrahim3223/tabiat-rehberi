@@ -29,7 +29,7 @@ wikidata_id: "Q32131408"
 
 # Açık Tepe
 
-Açık Tepe, Erzurum'un muhteşem doğal güzelliklerinin arasında yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Açık Tepe, ziyaretçilerini etkileyen bir manzaraya sahip olup, özellikle gün batımı saatlerinde ziyaretçilerini büyüler. Bu tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir yer.
+ Açık Tepe, ziyaretçilerini etkileyen bir manzaraya sahip olup, özellikle gün batımı saatlerinde ziyaretçilerini büyüler. Bu tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Açık Tepe'nin tarihi geçmişi, Erzurum'un tarihi ile iç içe geçmiş durumd
 
 ## Coğrafya
 
-Açık Tepe, Erzurum'un coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta olup, geniş bir görüş açısı sunar. Açık Tepe'nin coğrafi konumu, ziyaretçilerine Erzurum'un doğal güzelliklerini keşfetme imkanı sunar. Özellikle gün batımı saatlerinde, bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahip olur. Bu tepe, Erzurum'un iklimini yansıtan bir yapıya sahip olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklim karakteristiğine sahiptir. Ayrıca, bu tepe, yöre halkının tarım ve hayvancılık faaliyetlerine de ev sahipliği yapar.
+Açık Tepe, Erzurum'un coğrafi yapısı içerisinde önemli bir yere sahiptir. Açık Tepe'nin coğrafi konumu, ziyaretçilerine Erzurum'un doğal güzelliklerini keşfetme imkanı sunar. Özellikle gün batımı saatlerinde, bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahip olur. Bu tepe, Erzurum'un iklimini yansıtan bir yapıya sahip olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklim karakteristiğine sahiptir. Ayrıca, bu tepe, yöre halkının tarım ve hayvancılık faaliyetlerine de ev sahipliği yapar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Açık Tepe, ziyaretçilerine geniş bir görüş açısı sunan ve doğal güze
 ## İlginç Bilgiler
 
 - Açık Tepe, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Açık Tepe, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyen bir manzaraya sahip olur
 - Bu tepe, bölgede yaşayan hayvan türleri için de önemli bir yaşam alanıdır
 - Açık Tepe, yöre halkının sosyal ve kültürel etkinliklerine ev sahipliği yapar

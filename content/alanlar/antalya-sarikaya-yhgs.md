@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","flora ve fauna gözlemi","fot
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Antalya Sarıkaya YHGS","caption":"Antalya Sarıkaya YHGS","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Sar%C4%B1kaya%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228039","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Antalya Sarıkaya YHGS, 140 hektarlık yeşil alanıyla dikkat çekiyor. Doğal güzellikleri ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
+ Doğal güzellikleri ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
 keywords: ["Antalya Sarıkaya YHGS","İç Anadolu Bölgesi","doğal güzellikler","zengin fauna","yeşil alan","yaban hayatı","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228039"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228039"
 
 # Antalya Sarıkaya YHGS
 
-Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Zengin fauna çeşitliliği ve yaban hayatı ile dikkat çekmektedir. Doğal güzellikleri ve yürüyüş parkurlarıyla ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır.
+ Zengin fauna çeşitliliği ve yaban hayatı ile dikkat çekmektedir. Doğal güzellikleri ve yürüyüş parkurlarıyla ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Antalya Sarıkaya YHGS, ziyaretçilerini bekliyor. Bu bölgeye, özel araçlarla
 
 ## İlginç Bilgiler
 
-- Antalya Sarıkaya YHGS, 140 hektarlık bir yeşil alandır.
 - Bu bölge, İç Anadolu Bölgesi'nde yer almaktadır.
 - Zengin flora ve fauna çeşitliliğine sahiptir.
 - İlkbahar ve yaz ayları, bu bölgenin en çok ziyaret edilen dönemleridir.

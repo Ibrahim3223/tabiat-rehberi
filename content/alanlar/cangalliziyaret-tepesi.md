@@ -49,7 +49,7 @@ wikidata_id: "Q34828341"
 ## İlginç Bilgiler
 
 - Çangallıziyaret Tepesi, Kilis'in merkezi bir konumunda yer alıyor.
-- Tepenin etrafında yaklaşık 140 hektarlık bir yeşil alan bulunmakta.
+
 - Tepenin yüksekliği ve etrafındaki manzara, ziyaretçilere bölgenin coğrafyasını keşfetme fırsatı sağlıyor.
 - Çangallıziyaret Tepesi, yalnızca doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel değerleriyle de dikkat çekiyor.
 - Tepenin etrafındaki fauna, çeşitli hayvan türleri ile zengin bir ekosistemi barındırıyor.

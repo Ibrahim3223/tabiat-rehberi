@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/Sinop_Ye%C5%9Fil_T%C3%BCrbe_and_Alaaddin_Camii_on_Sakarya_Cd._in_2005_9438.jpg","alt":"Yeşil Türbe, Sinop manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%20T%C3%BCrbe%2C%20Sinop","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582725","tip":"genel"}]
-description: "Sinop'un güzel plajlarından biri olan Yeşil Türbe, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Sinop","Yeşil Türbe","plaj","Karadeniz Bölgesi","turizm","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582725"

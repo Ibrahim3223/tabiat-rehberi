@@ -30,7 +30,7 @@ wikidata_id: "Q131391290"
 
 # Karacaahmet Sultan Türbesi
 
-Karacaahmet Sultan Türbesi, Sakarya'nın Pamukova ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan olarak dikkat çekiyor. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve etrafı zengin bir flora ile çevrili. Türbenin mimarisi, Osmanlı dönemi özellikleri taşıyor ve ziyaretçilerini tarihin depthsine götürmeyi başarıyor. 200 futbol sahası büyüklüğünde bir alan kaplayan bu türbe, aynı zamanda bölgenin önemli dinamiklerini bir araya getiren bir merkez olarak görev görüyor.
+Karacaahmet Sultan Türbesi, Sakarya'nın Pamukova ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan olarak dikkat çekiyor. Türbenin mimarisi, Osmanlı dönemi özellikleri taşıyor ve ziyaretçilerini tarihin depthsine götürmeyi başarıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Karacaahmet Sultan Türbesi, tarihinin derinliklerine uzanan bir geçmişe sahip
 
 ## Coğrafya
 
-Karacaahmet Sultan Türbesi, Sakarya'nın Pamukova ilçesinde yer alıyor ve coğrafi konumu itibariyle bölgenin önemli merkezlerinden biri. Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafı zengin bir flora ile çevrili. Bu alan, aynı zamanda çeşitli fauna türlerine de ev sahipliği yapıyor. Coğrafi olarak, Karacaahmet Sultan Türbesi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve bölgenin iklimi, bitki örtüsü ve topografyası, bu türbenin güzelliğini daha da artırıyor. Türbenin bulunduğu bölgede, yer ormanlık alanlar, çayır ve otlaklar yer alıyor ve bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Ayrıca, türbenin mimarisi, çevreye uygun bir şekilde tasarlanmış ve bu sayede, doğal güzellikler ile tarihi yapı arasında uyumlu birWhole oluşmuş.
+Karacaahmet Sultan Türbesi, Sakarya'nın Pamukova ilçesinde yer alıyor ve coğrafi konumu itibariyle bölgenin önemli merkezlerinden biri. Bu alan, aynı zamanda çeşitli fauna türlerine de ev sahipliği yapıyor. Coğrafi olarak, Karacaahmet Sultan Türbesi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve bölgenin iklimi, bitki örtüsü ve topografyası, bu türbenin güzelliğini daha da artırıyor. Türbenin bulunduğu bölgede, yer ormanlık alanlar, çayır ve otlaklar yer alıyor ve bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Ayrıca, türbenin mimarisi, çevreye uygun bir şekilde tasarlanmış ve bu sayede, doğal güzellikler ile tarihi yapı arasında uyumlu birWhole oluşmuş.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Karacaahmet Sultan Türbesi'ni ziyaret etmek, bölgeyi keşfetme ve tarihi ile d
 ## İlginç Bilgiler
 
 - Osmanlı döneminde inşa edilmiştir
-- 140 hektarlık bir alanı kaplıyor
+
 - zengin bir flora ve fauna çeşitliliğine sahip
 - her mevsim ziyaret edilebilir
 - tarihi ve kültürel öneme sahip

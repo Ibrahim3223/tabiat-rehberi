@@ -42,7 +42,6 @@ Tepeköy Sazlığı Sit Alanı, ziyaretçilerine, doğal güzelliği ve biyoloji
 
 ## İlginç Bilgiler
 
-- Tepeköy Sazlığı Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Bu sazlık alanı, çeşitli kuş türlerine ev sahipliği yapıyor
 - Tepeköy Sazlığı, especialmente ilkbahar ve yaz aylarında, daha da renkli ve canlı bir görünüm kazanıyor
 - Bu sazlık alanı, ziyaretçilerine, doğal güzelliği ve biyolojik çeşitliliği ile birlikte, çeşitli etkinlik fırsatları da sunuyor

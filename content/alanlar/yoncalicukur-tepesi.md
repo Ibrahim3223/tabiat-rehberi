@@ -48,8 +48,6 @@ Yoncalıçukur Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim
 
 ## İlginç Bilgiler
 
-- Yoncalıçukur Tepesi, 140 hektarlık bir yeşil alan
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Yoncalıçukur Tepesi, doğal güzellikleri ile dikkat çekiyor
 - Bu tepe, tarihi geçmişi ile de önemli
 - Yoncalıçukur Tepesi, flora ve fauna açısından zengin

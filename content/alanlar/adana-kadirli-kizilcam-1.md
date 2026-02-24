@@ -46,4 +46,4 @@ Adana-Kadirli Kızılçam 1 milli parkını ziyaret etmek, doğa severler için 
 - Milli park, zengin fauna çeşitliliğiyle dikkat çeker.
 - Milli park, yılın her mevsiminde ziyaret edilebilir.
 - Milli parkta, ziyaretçilerin, doğal güzellikleri keşfetmeleri için birçok imkan vardır.
-- Milli park, 140 hektarlık bir alanı kaplar.
+

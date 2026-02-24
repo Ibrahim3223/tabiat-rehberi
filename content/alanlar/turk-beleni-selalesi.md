@@ -28,7 +28,7 @@ wikidata_id: "Q34681772"
 
 # Türk Beleni Şelalesi
 
-Antalya'nın muhteşem doğası içerisinde yer alan Türk Beleni Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Şelalenin etrafındaki yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Ayrıca, şelalenin sesi ve çevredeki kuş sesleri, ziyaretçilere huzurlu bir atmosfer sunar.
+ Şelalenin etrafındaki yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Ayrıca, şelalenin sesi ve çevredeki kuş sesleri, ziyaretçilere huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Türk Beleni Şelalesi, yüzyıllar boyunca var olan bir doğa harikasıdır. Ta
 
 ## Coğrafya
 
-Türk Beleni Şelalesi, Antalya'nın Akdeniz Bölgesi'nde yer almaktadır. Bu bölge, Türkiye'nin en önemli turizm merkezlerinden biridir. Şelale, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan içerisinde yer alır. Çevredeki dağlar ve tepeler, şelaleyi bir vadi içerisinde yer almasını sağlamıştır. Türk Beleni Şelalesi, Akdeniz ikliminin etkisi altında olup, yazları sıcak ve kurak, kışları ılık ve yağışlı bir iklime sahiptir. Şelalenin etrafındaki yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Ayrıca, şelalenin sesi ve çevredeki kuş sesleri, ziyaretçilere huzurlu bir atmosfer sunar. Şelalenin çevresi, yüzyıllar boyunca insanların yerleşim yeri olarak kullanılmıştır. Türk Beleni Şelalesi, ziyaretçilerine hem doğal güzellikleri hem de tarihsel önemini sunmaktadır.
+Türk Beleni Şelalesi, Antalya'nın Akdeniz Bölgesi'nde yer almaktadır. Bu bölge, Türkiye'nin en önemli turizm merkezlerinden biridir. Çevredeki dağlar ve tepeler, şelaleyi bir vadi içerisinde yer almasını sağlamıştır. Türk Beleni Şelalesi, Akdeniz ikliminin etkisi altında olup, yazları sıcak ve kurak, kışları ılık ve yağışlı bir iklime sahiptir. Şelalenin etrafındaki yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Ayrıca, şelalenin sesi ve çevredeki kuş sesleri, ziyaretçilere huzurlu bir atmosfer sunar. Şelalenin çevresi, yüzyıllar boyunca insanların yerleşim yeri olarak kullanılmıştır. Türk Beleni Şelalesi, ziyaretçilerine hem doğal güzellikleri hem de tarihsel önemini sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Türk Beleni Şelalesi'ne ziyaretçiler, kolayca ulaşabilirler. Şelaleye giden
 
 ## İlginç Bilgiler
 
-- Türk Beleni Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir.
 - Şelale, yüzyıllar boyunca var olan bir doğa harikasıdır.
 - Türk Beleni Şelalesi, ziyaretçilerine hem doğal güzellikleri hem de tarihsel önemini sunmaktadır.
 - Şelalenin çevresi, yüzyıllar boyunca insanların yerleşim yeri olarak kullanılmıştır.

@@ -38,7 +38,7 @@ Fuad Paşa Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu mekan, İst
 
 ## Coğrafya
 
-Fuad Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli noktalarından biri. Fuad Paşa Türbesi, 140 hektarlık bir alana yayılmış. İstanbul'un kalbinde yer alan bu mekan, ziyaretçilerini bekliyor. Fuad Paşa Türbesi, İstanbul'un coğrafi olarak önemli bir bölgesinde yer alıyor. Bu türbe, İstanbul'un kültür ve tarihini yansıtan önemli bir mekan. Fatih ilçesi, İstanbul'un tarihi ve kültürel açıdan önemli bir bölgesi. Fuad Paşa Türbesi, bu bölgenin önemli bir parçası.
+Fuad Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli noktalarından biri. İstanbul'un kalbinde yer alan bu mekan, ziyaretçilerini bekliyor. Fuad Paşa Türbesi, İstanbul'un coğrafi olarak önemli bir bölgesinde yer alıyor. Bu türbe, İstanbul'un kültür ve tarihini yansıtan önemli bir mekan. Fatih ilçesi, İstanbul'un tarihi ve kültürel açıdan önemli bir bölgesi. Fuad Paşa Türbesi, bu bölgenin önemli bir parçası.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Fuad Paşa Türbesi'ni ziyaret etmek, İstanbul'un kültür ve tarihini öğrenm
 ## İlginç Bilgiler
 
 - Fuad Paşa Türbesi, İstanbul'un en önemli tarihi noktalarından biri
-- Bu mekan, 140 hektarlık bir alana yayılmış
+
 - Fuad Paşa Türbesi, Marmara Bölgesi'nin önemli bir kültürel değeridir
 - Bu bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Fuad Paşa Türbesi, yıl boyunca ziyaret edilebilir

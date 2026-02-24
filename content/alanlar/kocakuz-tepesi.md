@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","doğa keşfi","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Kocakuz Tepesi","caption":"Kocakuz Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390223","tip":"genel"}]
-description: "Burdur'un güzide noktalarından biri olan Kocakuz Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kocakuz Tepesi","Burdur","Akdeniz Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390223"
@@ -36,7 +36,7 @@ Kocakuz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Kocakuz Tepesi, Burdur'un coğrafi yapısını oluşturan önemli bir parça. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve çevresindeki doğa ile uyum içinde. Kocakuz Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleriyle dolu. Tepenin etrafında, zengin fauna çeşitliliği de dikkat çekiyor. Kocakuz Tepesi, ziyaretçilere hem coğrafi hem de ekolojik açıdan zengin bir deneyim sunuyor. Bu bölge, doğa severlerin ve coğrafya meraklılarının ilgisini çekecek bir yer.
+Kocakuz Tepesi, Burdur'un coğrafi yapısını oluşturan önemli bir parça. Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve çevresindeki doğa ile uyum içinde. Tepenin etrafında, zengin fauna çeşitliliği de dikkat çekiyor. Kocakuz Tepesi, ziyaretçilere hem coğrafi hem de ekolojik açıdan zengin bir deneyim sunuyor. Bu bölge, doğa severlerin ve coğrafya meraklılarının ilgisini çekecek bir yer.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kocakuz Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıları i
 
 ## İlginç Bilgiler
 
-- Kocakuz Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, Burdur'un önemli doğal ve tarihi noktalarından biri.
 - Kocakuz Tepesi, flora ve fauna açısından zengin bir bölge.
 - Tepenin etrafında, yürüyüş yolları ve piknik alanları bulunmakta.

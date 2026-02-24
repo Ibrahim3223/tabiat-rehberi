@@ -28,7 +28,7 @@ wikidata_id: "Q31390759"
 
 # Ağcakaya Tepesi
 
-Ağcakaya Tepesi, Yozgat'ın merkezinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal alan olarak dikkat çekiyor. Doğal güzelliği ve coğrafi konumuyla, ziyaretçilerini etkileyen bu tepe, aynı zamanda bölgenin ekolojik dengesini koruyan önemli bir yaşam alanı olarak görülüyor. Ağcakaya Tepesi, özellikle doğa severlerin ve trekking yapanların ilgisini çekmekte.
+ Doğal güzelliği ve coğrafi konumuyla, ziyaretçilerini etkileyen bu tepe, aynı zamanda bölgenin ekolojik dengesini koruyan önemli bir yaşam alanı olarak görülüyor. Ağcakaya Tepesi, özellikle doğa severlerin ve trekking yapanların ilgisini çekmekte.
 
 ## Tarihçe
 

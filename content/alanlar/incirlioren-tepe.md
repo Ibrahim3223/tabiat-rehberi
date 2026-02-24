@@ -36,7 +36,7 @@ wikidata_id: "Q34810513"
 
 ## Coğrafya
 
-İncirliören Tepe, coğrafi olarak, Akdeniz Bölgesi'nin önemli noktalarından biridir. Bu tepe, 140 hektarlık bir alanı kaplar ve Akdeniz Bölgesi'nin karakteristik coğrafi özellikleri sergiler. İncirliören Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bölgede yaban hayatı oldukça zengin bir yapıya sahiptir. Tepe, deniz seviyesinden yüksek bir konumda yer alır ve bu nedenle, Akdeniz Bölgesi'nin güzel manzaralarını görme mümkündür. İncirliören Tepe'nin iklimi, Akdeniz ikliminin karakteristik özellikleri sergiler ve bu nedenle, tepeye ziyarette bulunmak için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, tepeyi ziyaret etmek, daha rahat ve keyifli bir deneyim sunar.
+İncirliören Tepe, coğrafi olarak, Akdeniz Bölgesi'nin önemli noktalarından biridir. İncirliören Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bölgede yaban hayatı oldukça zengin bir yapıya sahiptir. Tepe, deniz seviyesinden yüksek bir konumda yer alır ve bu nedenle, Akdeniz Bölgesi'nin güzel manzaralarını görme mümkündür. İncirliören Tepe'nin iklimi, Akdeniz ikliminin karakteristik özellikleri sergiler ve bu nedenle, tepeye ziyarette bulunmak için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, tepeyi ziyaret etmek, daha rahat ve keyifli bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34810513"
 
 ## İlginç Bilgiler
 
-- İncirliören Tepe, 140 hektarlık bir alanı kaplar
 - Tepe, deniz seviyesinden yüksek bir konumda yer alır
 - İncirliören Tepe, flora ve fauna açısından oldukça zengin bir yapıya sahiptir
 - Tepe, birçok kuş türünün yaşam alanı olarak da bilinir

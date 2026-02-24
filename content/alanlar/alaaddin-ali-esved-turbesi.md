@@ -51,6 +51,6 @@ Alaaddin Ali Esved Türbesi'ni ziyaret etmek, İznik'in tarihi ve doğal güzell
 
 - Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor
 - İznik, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan
+
 - İznik Gölü'nün yakınlarında yer alan türbe, gölün güzelliğini de ziyaretçilere sunuyor
 - Bölgenin fauna zenginliği, ziyaretçilere İznik'in doğal güzelliğini deneyimleme fırsatı sunuyor

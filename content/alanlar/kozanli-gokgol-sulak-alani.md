@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Kozanlı-Gökgöl Sulak Alanı","caption":"Kozanlı-Gökgöl Sulak Alanı","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozanl%C4%B1-G%C3%B6kg%C3%B6l%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229016","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kozanlı-Gökgöl Sulak Alanı, 140 hektarlık alanı ile önemli bir sulak alan"
+
 keywords: ["Kozanlı-Gökgöl Sulak Alanı","İç Anadolu Bölgesi","sulak alan","doğal güzellik","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229016"
@@ -30,7 +30,7 @@ Kozanlı-Gökgöl Sulak Alanı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin 
 
 ## Coğrafya
 
-Kozanlı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine bağlı olarak şekillenmiştir. Bu sulak alan, 140 hektarlık alanı ile önemli bir sulak alan olarak dikkat çekmektedir. Sulak alanın coğrafi konumu, İç Anadolu Bölgesi'nin orta kesiminde yer almaktadır. Bölgenin iklimi, sulak alanın oluşumuna uygun şartları sağlamaktadır. İç Anadolu Bölgesi'nin toprak yapısı, sulak alanın oluşumuna önemli bir rol oynamaktadır. Kozanlı-Gökgöl Sulak Alanı, aynı zamanda önemli bir hidrolojik bölgedir. Bu bölge, çeşitli su kaynaklarına ev sahipliği yapmakta ve sulak alanın güzelliğini gözler önüne sermektedir. Sulak alanın coğrafi özellikleri, bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır. Kozanlı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine bağlı olarak şekillenmiştir ve önemli bir sulak alan olarak dikkat çekmektedir.
+Kozanlı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine bağlı olarak şekillenmiştir. Sulak alanın coğrafi konumu, İç Anadolu Bölgesi'nin orta kesiminde yer almaktadır. Bölgenin iklimi, sulak alanın oluşumuna uygun şartları sağlamaktadır. İç Anadolu Bölgesi'nin toprak yapısı, sulak alanın oluşumuna önemli bir rol oynamaktadır. Kozanlı-Gökgöl Sulak Alanı, aynı zamanda önemli bir hidrolojik bölgedir. Bu bölge, çeşitli su kaynaklarına ev sahipliği yapmakta ve sulak alanın güzelliğini gözler önüne sermektedir. Sulak alanın coğrafi özellikleri, bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır. Kozanlı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine bağlı olarak şekillenmiştir ve önemli bir sulak alan olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Kozanlı-Gökgöl Sulak Alanı, ziyaretçilere önemli bir doğal güzellik sunm
 
 ## İlginç Bilgiler
 
-- Kozanlı-Gökgöl Sulak Alanı, 140 hektarlık alanı ile önemli bir sulak alan
-- Sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır
 - Kozanlı-Gökgöl Sulak Alanı, çeşitli bitki türleri ve zengin fauna ile birlikte, doğal yaşamın güzelliğini gözler önüne sermektedir
 - Sulak alan, önemli bir ekolojik bölgedir ve çeşitli canlı türlerinin yaşam alanı olarak hizmet etmektedir
 - Kozanlı-Gökgöl Sulak Alanı, aynı zamanda önemli bir biyolojik çeşitlilik bölgesidir

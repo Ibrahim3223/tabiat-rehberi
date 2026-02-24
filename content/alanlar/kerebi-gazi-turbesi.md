@@ -49,7 +49,7 @@ Kerebi Gazi Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve doğal g
 ## İlginç Bilgiler
 
 - Kerebi Gazi Türbesi, Karadeniz Bölgesi'nin en önemli tarihi mekanlarından biridir.
-- Bu mekan, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Kerebi Gazi Türbesi, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Bu mekan, ziyaretçilere Karadeniz Bölgesi'nin kültürel mirasını deneyimleme olanağı sunar.
 - Kerebi Gazi Türbesi, yılın her dönemi ziyaret edilebilir.

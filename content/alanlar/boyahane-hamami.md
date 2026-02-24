@@ -29,7 +29,7 @@ wikidata_id: "Q131738423"
 
 # Boyahane Hamamı
 
-Boyahane Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. Yakutiye/Erzurum'da bulunan bu plaj, yaklaşık 140 hektarlık bir alana yayılmaktadır. Boyahane Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinmektedir. Plajın çevresinde, çeşitli restoranlar ve kafeler bulunmaktadır. Bu restoranlarda, yerel lezzetler ve deniz ürünleri tadabilirsiniz.
+Boyahane Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. Boyahane Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinmektedir. Plajın çevresinde, çeşitli restoranlar ve kafeler bulunmaktadır. Bu restoranlarda, yerel lezzetler ve deniz ürünleri tadabilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Boyahane Hamamı'nın tarihi geçmişi, yüzyıllar boyunca uzanmaktadır. Bu pl
 
 ## Coğrafya
 
-Boyahane Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunmaktadır. Yakutiye/Erzurum'da yer alan bu plaj, yaklaşık 140 hektarlık bir alana yayılmaktadır. Plajın çevresi, yüksek dağlar ve ormanlarla çevrili olup, doğal bir güzelliğe sahiptir. Boyahane Hamamı, yüksek bir konumda bulunmaktadır. Bu yükseklik, plaja özel bir iklim kazandırmaktadır. Plajın iklimi, genellikle serin ve ferah olup, ziyaretçilere rahat bir ortam sunmaktadır. Boyahane Hamamı'nın coğrafi konumu, birçok doğal güzelliğe de ev sahipliği yapmaktadır. Plajın çevresinde, çeşitli nehirler ve göller bulunmaktadır. Bu nehirler ve göller, plaja ayrı bir güzellik katmaktadır. Boyahane Hamamı, coğrafi güzelliği ve doğal zenginliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinmektedir.
+Boyahane Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunmaktadır. Plajın çevresi, yüksek dağlar ve ormanlarla çevrili olup, doğal bir güzelliğe sahiptir. Boyahane Hamamı, yüksek bir konumda bulunmaktadır. Bu yükseklik, plaja özel bir iklim kazandırmaktadır. Plajın iklimi, genellikle serin ve ferah olup, ziyaretçilere rahat bir ortam sunmaktadır. Boyahane Hamamı'nın coğrafi konumu, birçok doğal güzelliğe de ev sahipliği yapmaktadır. Plajın çevresinde, çeşitli nehirler ve göller bulunmaktadır. Bu nehirler ve göller, plaja ayrı bir güzellik katmaktadır. Boyahane Hamamı, coğrafi güzelliği ve doğal zenginliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Boyahane Hamamı, ziyaretçilerine birçok aktivite sunmaktadır. Plajda, çeşi
 
 ## İlginç Bilgiler
 
-- Boyahane Hamamı, yaklaşık 140 hektarlık bir alana yayılmaktadır.
 - Plaj, yüksek bir konumda bulunmaktadır.
 - Boyahane Hamamı, zengin bir flora ve faunaya sahiptir.
 - Plaj, özellikle yaz aylarında ziyaret edilmektedir.

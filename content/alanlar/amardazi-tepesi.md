@@ -49,7 +49,7 @@ Amardazı Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim. Tep
 ## İlginç Bilgiler
 
 - Amardazı Tepesi, Hatay ilinin en önemli gezi noktalarından biri
-- Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Amardazı Tepesi, tarihi geçmişi ile önemli bir kültürel merkez
 - Tepe ve çevresinde, çeşitli bitki türleri yetişiyor
 - Amardazı Tepesi, birçok hayvan türüne ev sahipliği yapıyor

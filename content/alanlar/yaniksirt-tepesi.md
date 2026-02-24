@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotografçılık","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Yanıksırt Tepesi","caption":"Yanıksırt Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yan%C4%B1ks%C4%B1rt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556941","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Yanıksırt Tepesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
+"
 keywords: ["Yanıksırt Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31556941"
@@ -36,7 +36,7 @@ Yanıksırt Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmı�
 
 ## Coğrafya
 
-Yanıksırt Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak dikkat çekici bir konuma sahiptir. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna çeşitliliği ile tepe, ziyaretçilerini karşılayan bir doğa harikasıdır. Tepenin coğrafi yapısı, Ankara'nın genel coğrafyasını yansıtıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini sunuyor. Yanıksırt Tepesi, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon olarak ortaya çıkıyor.
+Yanıksırt Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak dikkat çekici bir konuma sahiptir. Tepenin coğrafi yapısı, Ankara'nın genel coğrafyasını yansıtıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini sunuyor. Yanıksırt Tepesi, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon olarak ortaya çıkıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yanıksırt Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları iç
 
 ## İlginç Bilgiler
 
-- Yanıksırt Tepesi, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Tepenin flora ve fauna çeşitliliği, ziyaretçilerine bölgenin doğa güzelliklerini sunuyor.
 - Yanıksırt Tepesi, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon olarak ortaya çıkıyor.
 - Tepenin coğrafi yapısı, Ankara'nın genel coğrafyasını yansıtıyor.

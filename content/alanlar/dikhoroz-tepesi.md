@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi gezi","Bitki gö
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Dikhoroz Tepesi","caption":"Dikhoroz Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikhoroz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390477","tip":"genel"}]
-description: "Konya'da bulunan Dikhoroz Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde."
+description: "Konya'da bulunan Dikhoroz Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Konya","Dikhoroz Tepesi","Doğal güzellik","Tarihi geçmişi","Turizm","Gezi","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390477"

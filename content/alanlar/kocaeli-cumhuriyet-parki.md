@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"KOCAELİ CUMHURİYET PARKI","caption":"KOCAELİ CUMHURİYET PARKI","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KOCAEL%C4%B0%20CUMHUR%C4%B0YET%20PARKI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228911","tip":"genel"}]
-description: "Kocaeli'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker."
+description: "Kocaeli'nin doğal güzelliklerini keşfedin."
 keywords: ["Kocaeli","Cumhuriyet Parkı","doğal alan","bitki türleri","fauna","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228911"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228911"
 
 # KOCAELİ CUMHURİYET PARKI
 
-Kocaeli Cumhuriyet Parkı, yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Park, ziyaretçilerine doğayı yakından tanıma ve doğal güzellikleri keşfetmek için ideal bir ortam sunar. Kocaeli'nin merkezinde yer alan bu park, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve eğlenme alanıdır.
+ Park, ziyaretçilerine doğayı yakından tanıma ve doğal güzellikleri keşfetmek için ideal bir ortam sunar. Kocaeli'nin merkezinde yer alan bu park, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve eğlenme alanıdır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kocaeli Cumhuriyet Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanır.
 
 ## Coğrafya
 
-Kocaeli Cumhuriyet Parkı, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Park, 140 hektarlık bir alanı kaplar ve çeşitli bitki türleri ile zengin fauna ile dikkat çeker. Parkın coğrafi yapısı, çeşitli tepe ve vadileri içerir ve bu nedenle, ziyaretçilere farklı manzaralar sunar. İklim, karasal iklim özellikleri taşır ve bu nedenle, parkın flora ve faunası mevsimsel değişimlere göre uyum gösterir.
+Kocaeli Cumhuriyet Parkı, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Parkın coğrafi yapısı, çeşitli tepe ve vadileri içerir ve bu nedenle, ziyaretçilere farklı manzaralar sunar. İklim, karasal iklim özellikleri taşır ve bu nedenle, parkın flora ve faunası mevsimsel değişimlere göre uyum gösterir.
 
 ## Flora ve Fauna
 

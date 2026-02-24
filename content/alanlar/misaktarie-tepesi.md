@@ -48,7 +48,6 @@ Mışaktarıe Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini ve kült
 
 ## İlginç Bilgiler
 
-- Mışaktarıe Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde ve çevresinde, çeşitli bitkiler ve ağaçlar bulunur.
 - Bölge, zengin bir fauna çeşitliliğine sahiptir.
 - Mışaktarıe Tepesi, tarihsel olarak önemli bir geçmişe sahiptir.

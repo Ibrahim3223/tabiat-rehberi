@@ -20,7 +20,7 @@ aktiviteler: ["tarihi yapıları gezmek","tepenin zirvesine tırmanmak","ormanla
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Kehiller Tepesi","caption":"Kehiller Tepesi","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kehiller%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515964","tip":"genel"}]
-description: "Ege Bölgesi'nin gözde mekanlarından Kütahya'da yer alan Kehiller Tepesi, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor"
+
 keywords: ["Kehiller Tepesi","Kütahya","Ege Bölgesi","yeşil alan","tarihi geçmişi","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31515964"

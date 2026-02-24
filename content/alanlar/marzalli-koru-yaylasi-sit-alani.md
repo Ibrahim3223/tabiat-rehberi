@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Marzalli Koru Yaylasi Sit Alanı","caption":"Marzalli Koru Yaylasi Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marzalli%20Koru%20Yaylasi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226493","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Marzalli Koru Yaylasi","İç Anadolu Bölgesi","Sit Alanı","Doğa","Yeşil Alan","Koru","Yayla"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226493"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226493"
 
 # Marzalli Koru Yaylasi Sit Alanı
 
-Marzalli Koru Yaylasi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini büyüleyen Marzalli Koru Yaylasi, aynı zamanda birkoru ve yayla olarak da tanımlanıyor. Koru ve yayla arasındaki geçişin güzel bir örneğini sunan bu alan, doğa severler için bir cennet niteliğinde. Marzalli Koru Yaylasi Sit Alanı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor ve bölgenin tarihini, kültürünü ve doğal zenginliklerini deneyimleme olanağı sağlıyor.
+ Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini büyüleyen Marzalli Koru Yaylasi, aynı zamanda birkoru ve yayla olarak da tanımlanıyor. Koru ve yayla arasındaki geçişin güzel bir örneğini sunan bu alan, doğa severler için bir cennet niteliğinde. Marzalli Koru Yaylasi Sit Alanı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor ve bölgenin tarihini, kültürünü ve doğal zenginliklerini deneyimleme olanağı sağlıyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Marzalli Koru Yaylasi Sit Alanı, ziyaretçilere doğanın güzelliklerini keşf
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nde yer alıyor
 - doğa severler için bir cennet
 - zengin flora ve fauna

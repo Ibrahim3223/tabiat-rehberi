@@ -42,7 +42,6 @@ Elmalı Bendi'ni ziyaret etmek, doğa severler ve bilim insanları için bir hey
 
 ## İlginç Bilgiler
 
-- Elmalı Bendi, 140 hektarlık bir alana sahiptir
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar
 - Elmalı Bendi, ekolojik dengenin korunmasına katkıda bulunur
 - Bu doğal alan, ilkbahar ve sonbahar aylarında ziyaret edilmeye uygun bir yerdir

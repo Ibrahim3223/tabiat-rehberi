@@ -38,7 +38,7 @@ Gazi Süleyman Paşa Camii, Osmanlı Devleti'nin önemli komutanlarından Gazi S
 
 ## Coğrafya
 
-Gazi Süleyman Paşa Camii, Çanakkale'nin Gelibolu ilçesinde yer alır. Cami, Gelibolu'nun merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Caminin etrafında yer alan tarihi yapılar ve yeşillikler, ziyaretçilere huzurlu bir ortam sunar. Cami, yaklaşık 140 hektarlık bir alanı kaplar ve etrafındaki yapılarla birlikte bir bütün olarak düşünülür. Caminin coğrafi konumu, Marmara Bölgesi'nin kuzeybatı köşesinde yer alır. Bu bölge, tarihi ve kültürel açıdan önemli bir bölgedir. Cami, Gelibolu'nun tarihini ve kültürünü yansıtan önemli bir yapıdır. Ziyaretçiler, caminin coğrafi konumunu ve etrafındaki tarihi yapıları gezerken, bölgenin tarihi ve kültürel zenginliğini yakından inceleyebilirler. Cami, Marmara Denizi'ne yakın bir konumda yer alır ve deniz manzarası sunar. Bu, ziyaretçiler için önemli bir çekim merkezi oluşturur.
+Gazi Süleyman Paşa Camii, Çanakkale'nin Gelibolu ilçesinde yer alır. Cami, Gelibolu'nun merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Caminin etrafında yer alan tarihi yapılar ve yeşillikler, ziyaretçilere huzurlu bir ortam sunar. Caminin coğrafi konumu, Marmara Bölgesi'nin kuzeybatı köşesinde yer alır. Bu bölge, tarihi ve kültürel açıdan önemli bir bölgedir. Cami, Gelibolu'nun tarihini ve kültürünü yansıtan önemli bir yapıdır. Ziyaretçiler, caminin coğrafi konumunu ve etrafındaki tarihi yapıları gezerken, bölgenin tarihi ve kültürel zenginliğini yakından inceleyebilirler. Cami, Marmara Denizi'ne yakın bir konumda yer alır ve deniz manzarası sunar. Bu, ziyaretçiler için önemli bir çekim merkezi oluşturur.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Gazi Süleyman Paşa Camii, ziyaretçilere önemli bir tarihi ve kültürel dene
 - Cami, Gazi Süleyman Paşa'nın vefatından sonra inşa edilmiş ve onun anısına adanmıştır.
 - Cami, yüzyıllar boyunca ibadete açık olmuştur ve hala önemli bir dini merkez olarak hizmet vermektedir.
 - Cami, Marmara Bölgesi'nin kuzeybatı köşesinde yer alır ve bu bölge, tarihi ve kültürel açıdan önemli bir bölgedir.
-- Cami, yaklaşık 140 hektarlık bir alanı kaplar ve etrafındaki yapılarla birlikte bir bütün olarak düşünülür.
+

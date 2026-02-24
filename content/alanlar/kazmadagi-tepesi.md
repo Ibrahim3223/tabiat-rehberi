@@ -48,7 +48,6 @@ Kazdmağı Tepesi'ni ziyaret etmek, tarih ve doğa severler için özel bir dene
 
 ## İlginç Bilgiler
 
-- Kazdmağı Tepesi, yaklaşık 140 hektarlık alanı kaplıyor.
 - Bu tepe, yüzyılların izlerini taşıyan tarihi kalıntılara ev sahipliği yapıyor.
 - Kazdmağı Tepesi, flora ve fauna açısından zengin bir bölge.
 - Bu bölge, ekolojik açıdan önemli bir yer olarak biliniyor.

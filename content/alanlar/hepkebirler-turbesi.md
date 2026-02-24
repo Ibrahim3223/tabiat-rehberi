@@ -53,4 +53,4 @@ Hepkebirler Türbesi'ni ziyaret etmek, Kastamonu ilinin tarihi ve doğal güzell
 - Karadeniz Bölgesi'nin güzel sahilleri
 - Hepkebirler Türbesi'nin kültürel önemi
 - Türbenin inşa tarihi bilinmemektedir
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+

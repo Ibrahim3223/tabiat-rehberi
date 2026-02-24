@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2d/%C3%96l%C3%BCdeniz_Tabiat_Park%C4%B1_ve_Plaj%C4%B1.jpg","alt":"Ölüdeniz-Kıdrak Tabiat Parkı manzarası","credit":"Krystsina Kashtanava","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Cennet_plaj%C4%B1na_giden_da%C4%9F_yolu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cennet_plaj%C4%B1na_giden_da%C4%9F_yolu.jpg/1280px-Cennet_plaj%C4%B1na_giden_da%C4%9F_yolu.jpg","alt":"Ölüdeniz-Kıdrak Tabiat Parkı - Cennet plajına giden dağ yolu","credit":"Krystsina Kashtanava","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/33/Kumsal.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kumsal.jpg/1280px-Kumsal.jpg","alt":"Ölüdeniz-Kıdrak Tabiat Parkı - Kumsal","credit":"Sıla N. H.","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2e/%C3%96l%C3%BCdeniz%27in_g%C3%BCzel_manzaras%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%C3%96l%C3%BCdeniz%27in_g%C3%BCzel_manzaras%C4%B1.jpg/1280px-%C3%96l%C3%BCdeniz%27in_g%C3%BCzel_manzaras%C4%B1.jpg","alt":"Ölüdeniz-Kıdrak Tabiat Parkı - Ölüdeniz'in güzel manzarası","credit":"Krystsina Kashtanava","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/26/%C3%96l%C3%BC_deniz_tabiat_park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%C3%96l%C3%BC_deniz_tabiat_park%C4%B1.jpg/1280px-%C3%96l%C3%BC_deniz_tabiat_park%C4%B1.jpg","alt":"Ölüdeniz-Kıdrak Tabiat Parkı - Ölü deniz tabiat parkı","credit":"Canilhan38","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/%C3%96l%C3%BCdeniz_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%C3%96l%C3%BCdeniz_Tabiat_Park%C4%B1.jpg/1280px-%C3%96l%C3%BCdeniz_Tabiat_Park%C4%B1.jpg","alt":"Ölüdeniz-Kıdrak Tabiat Parkı - Ölüdeniz Tabiat Parkı","credit":"Krystsina Kashtanava","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96l%C3%BCdeniz-K%C4%B1drak%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61075941","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
+
 keywords: ["Ölüdeniz-Kıdrak Tabiat Parkı","İç Anadolu Bölgesi","doğa harikası","tabiat parkı","gezi","yaban hayatı","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q61075941"
@@ -29,7 +29,7 @@ wikidata_id: "Q61075941"
 
 # Ölüdeniz-Kıdrak Tabiat Parkı
 
-Ölüdeniz-Kıdrak Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir doğa harikasıdır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini göstermektedir. Bu bölge, yaban hayatı koruma altına almak amacıyla kurulmuş ve günümüzde önemli bir turizm merkezi haline gelmiştir. Parkın güzelliği ve önemi, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+ Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini göstermektedir. Bu bölge, yaban hayatı koruma altına almak amacıyla kurulmuş ve günümüzde önemli bir turizm merkezi haline gelmiştir. Parkın güzelliği ve önemi, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

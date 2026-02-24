@@ -30,7 +30,7 @@ wikidata_id: "Q131836087"
 
 # Hamidiye Çeşmesi, Yıldız
 
-Hamidiye Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir çeşme. Bu güzel çeşme, yaklaşık 140 hektarlık Yıldız Parkı içerisinde yer alıyor. Yıldız Parkı, tarihi yapıları, yürüyüş yolları ve güzel manzaraları ile birlikte Hamidiye Çeşmesi, ziyaretçilerine keyifli bir gezi sunuyor. Çeşme, Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor.
+Hamidiye Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir çeşme. Yıldız Parkı, tarihi yapıları, yürüyüş yolları ve güzel manzaraları ile birlikte Hamidiye Çeşmesi, ziyaretçilerine keyifli bir gezi sunuyor. Çeşme, Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hamidiye Çeşmesi, Yıldız, tarihi geçmişi ile dikkat çekiyor. Çeşme, yü
 
 ## Coğrafya
 
-Hamidiye Çeşmesi, Yıldız, coğrafi konumu itibariyle Marmara Bölgesi'nin en güzel mekanlarından biri. Çeşme, yaklaşık 140 hektarlık Yıldız Parkı içerisinde yer alıyor. Yıldız Parkı, yürüyüş yolları, tarihi yapıları, güzel manzaraları ile birlikte ziyaretçilerine keyifli bir gezi sunuyor. Parkın etrafında yer alan ağaçlar, çiçekler ve diğer bitki türleri, ziyaretçilere doğanın güzelliğini sunuyor. Hamidiye Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alıyor ve Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor. Çeşme, ziyaretçilerine İstanbul'un tarihi, kültürel ve doğal güzelliklerini sunuyor. Yıldız Parkı, verschilli bitki türleri, zengin fauna ve güzel manzaraları ile birlikte Hamidiye Çeşmesi, ziyaretçilerine keyifli bir gezi sunuyor.
+Hamidiye Çeşmesi, Yıldız, coğrafi konumu itibariyle Marmara Bölgesi'nin en güzel mekanlarından biri. Yıldız Parkı, yürüyüş yolları, tarihi yapıları, güzel manzaraları ile birlikte ziyaretçilerine keyifli bir gezi sunuyor. Parkın etrafında yer alan ağaçlar, çiçekler ve diğer bitki türleri, ziyaretçilere doğanın güzelliğini sunuyor. Hamidiye Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alıyor ve Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor. Çeşme, ziyaretçilerine İstanbul'un tarihi, kültürel ve doğal güzelliklerini sunuyor. Yıldız Parkı, verschilli bitki türleri, zengin fauna ve güzel manzaraları ile birlikte Hamidiye Çeşmesi, ziyaretçilerine keyifli bir gezi sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Hamidiye Çeşmesi, Yıldız, ziyaretçilerine keyifli bir gezi sunuyor. Çeşme
 
 - Hamidiye Çeşmesi, Yıldız, İstanbul'un tarihi mekanlarından biri.
 - Çeşme, Yıldız Parkı içerisinde yer alıyor.
-- Yıldız Parkı, yaklaşık 140 hektarlık bir alana sahip.
+
 - Park, çeşitli bitki türleri ve fauna ile birlikte ziyaretçilerine doğanın güzelliğini sunuyor.
 - Hamidiye Çeşmesi, Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor.

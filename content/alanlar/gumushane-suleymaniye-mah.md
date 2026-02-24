@@ -22,7 +22,7 @@ wikidata_id: "Q108228909"
 
 # GÜMÜŞHANE SÜLEYMANİYE MAH
 
-Gümüşhane'nin Süleymaniye Mahallesi, yaklaşık 140 hektarlık bir alanı kaplayan ve İç Anadolu Bölgesi'nin önemli doğal ve tarihi güzelliklerinden biri olarak kabul ediliyor. Mahallenin çevresi, çeşitli bitki türleriyle kaplı ve yaban hayatı oldukça zengin. Gümüşhane'nin coğrafi konumu ve iklimi, bu bölgenin oluşumunda büyük rol oynamış. Süleymaniye Mahallesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+ Mahallenin çevresi, çeşitli bitki türleriyle kaplı ve yaban hayatı oldukça zengin. Gümüşhane'nin coğrafi konumu ve iklimi, bu bölgenin oluşumunda büyük rol oynamış. Süleymaniye Mahallesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -44,6 +44,6 @@ Süleymaniye Mahallesi'ni ziyaret etmek, doğa severler ve tarih meraklıları i
 
 - Süleymaniye Mahallesi, Gümüşhane'nin önemli bir parçası olarak kabul ediliyor.
 - Bu bölgenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmelerini kolaylaştırıyor.
-- Süleymaniye Mahallesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Mahallenin çevresi, çeşitli bitki türleriyle kaplı ve yaban hayatı oldukça zengin.
 - Süleymaniye Mahallesi, doğa severler ve tarih meraklıları için ideal bir destinasyon olarak kabul ediliyor.

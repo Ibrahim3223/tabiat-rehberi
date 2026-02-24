@@ -49,7 +49,6 @@ Gelincikana Tepe, ziyaretçilere, benzersiz bir keşif deneyimi sunuyor. Bu tepe
 
 ## İlginç Bilgiler
 
-- Gelincikana Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, coğrafi olarak önemli bir konumda bulunmakta.
 - Gelincikana Tepe, çeşitli bitki türleri ve hayvan türleri ile bir doğa cenneti olarak kabul ediliyor.
 - Bölge, önemli bir ekosistem olarak görev yapıyor.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotoğrafçılık","Doğa Ar
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Gölhisar Gölü Sulak Alanı","caption":"Gölhisar Gölü Sulak Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lhisar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228843","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Gölhisar Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar ve önemli bir doğa rezervidir."
+"
 keywords: ["Gölhisar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa Rezervi","Korunan Alan","Sulak Alan Ekosistemi","Doğal Hayatı","Çevre Koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228843"
@@ -30,7 +30,7 @@ Gölhisar Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Gölhisar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesindedir. 140 hektarlık bir alanı kapsayan bu sulak alan, göl ve çevresindeki ekosistemi içerir. Gölhisar Gölü, bir iç delta sistemi oluşturur ve sulak alan ekosistemine ev sahipliği yapar. Alanın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve birçok hayvan türünün yaşamasına olanak tanır. Gölhisar Gölü Sulak Alanı, bölgenin iklim koşullarına göre şekillenmiştir ve mevsimsel değişimler, bu ekosistemin dinamiklerini belirler. Sulak alanın coğrafi konumu, onu önemli bir göç yolu üzerinde yer alan bir bölge haline getirir ve burada birçok kuş türü göç sırasında konaklar.
+Gölhisar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesindedir. Gölhisar Gölü, bir iç delta sistemi oluşturur ve sulak alan ekosistemine ev sahipliği yapar. Alanın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve birçok hayvan türünün yaşamasına olanak tanır. Gölhisar Gölü Sulak Alanı, bölgenin iklim koşullarına göre şekillenmiştir ve mevsimsel değişimler, bu ekosistemin dinamiklerini belirler. Sulak alanın coğrafi konumu, onu önemli bir göç yolu üzerinde yer alan bir bölge haline getirir ve burada birçok kuş türü göç sırasında konaklar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Gölhisar Gölü Sulak Alanı, ziyaretçilerini doğal güzellikleri ile büyül
 
 ## İlginç Bilgiler
 
-- Gölhisar Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar.
 - Bu bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Gölhisar Gölü, sulak alan ekosistemine ev sahipliği yapar.
 - Bölge, önemli bir göç yolu üzerinde yer alır.

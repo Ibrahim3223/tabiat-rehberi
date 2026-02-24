@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Tarih Gezisi","Flora ve Fauna Gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","caption":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Karatepe%20Aslantas%20Milli%20Parki%20Okaliptus","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227754","tip":"genel"}]
-description: "Adana'da yer alan Karatepe Aslantas Milli Parkı, 140 hektarlık yeşil alanı ve tarihi değerleriyle ziyaretçilerini bekliyor."
+"
 keywords: ["Adana","Kadirli","Karatepe Aslantas Milli Parkı","Okaliptus","Milli Park","Doğa","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227754"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227754"
 
 # Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus
 
-Adana-Kadirli-Karatepe Aslantas Milli Parkı, 140 hektarlık geniş yeşil alanı ve tarihi değerleriyle dikkat çekiyor. Parkın içinde yer alan okaliptus ağaçları, ziyaretçilerin ilgisini çekiyor. Ayrıca, parkın tarihi geçmişi de ziyaretçilerin ilgisini çekmeyi başarıyor.
+ Parkın içinde yer alan okaliptus ağaçları, ziyaretçilerin ilgisini çekiyor. Ayrıca, parkın tarihi geçmişi de ziyaretçilerin ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Karatepe Aslantas Milli Parkı, tarihi geçmişiyle dikkat çekiyor. Bu park, y�
 
 ## Coğrafya
 
-Karatepe Aslantas Milli Parkı, Adana ilinin Kadirli ilçesinde yer alıyor. Parkın coğrafi yapısı, ziyaretçilerin interestini çekmeyi başarıyor. 140 hektarlık geniş yeşil alanı, ziyaretçilere geniş bir doğa deneyimi sunuyor. Parkın içinde yer alan okaliptus ağaçları, ziyaretçilerin ilgisini çekiyor. Ayrıca, parkın iklimi de ziyaretçilerin interestini çekmeyi başarıyor. Parkın coğrafi konumu, ziyaretçilerin interestini çekmeyi başarıyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu olarak biliniyor.
+Karatepe Aslantas Milli Parkı, Adana ilinin Kadirli ilçesinde yer alıyor. Parkın coğrafi yapısı, ziyaretçilerin interestini çekmeyi başarıyor. Parkın içinde yer alan okaliptus ağaçları, ziyaretçilerin ilgisini çekiyor. Ayrıca, parkın iklimi de ziyaretçilerin interestini çekmeyi başarıyor. Parkın coğrafi konumu, ziyaretçilerin interestini çekmeyi başarıyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu olarak biliniyor.
 
 ## Flora ve Fauna
 

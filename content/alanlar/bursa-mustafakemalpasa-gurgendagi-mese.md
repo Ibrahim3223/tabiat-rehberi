@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","bisiklet sürme","doğa gözlemi","fotografcılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Bursa-Mustafakemalpaşa-Gurgendagi Mese","caption":"Bursa-Mustafakemalpaşa-Gurgendagi Mese","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Gurgendagi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227702","tip":"genel"}]
-description: "Marmara Bölgesi'nde yer alan Bursa-Mustafakemalpaşa-Gurgendagi Mese, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Marmara Bölgesi","Bursa","Milli Park","Gurgendagi Mese","yeşil alan","doğa","gezi","turizm","Marmara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227702"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227702"
 
 # Bursa-Mustafakemalpaşa-Gurgendagi Mese
 
-Bursa-Mustafakemalpaşa-Gurgendagi Mese, Marmara Bölgesi'nin güzide illerinden Bursa'da yer alan 140 hektarlık bir milli parktır. Marmara Bölgesi'nin coğrafi özellikleri ve iklimi, bu milli parkın oluşumunda büyük rol oynamıştır. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile süslüdür. Ziyaretçiler, bu güzel milli parkı gezerken hem doğanın güzelliğini keşfedebilir hem de tarihini öğrenebilir.
+ Marmara Bölgesi'nin coğrafi özellikleri ve iklimi, bu milli parkın oluşumunda büyük rol oynamıştır. Ziyaretçiler, bu güzel milli parkı gezerken hem doğanın güzelliğini keşfedebilir hem de tarihini öğrenebilir.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Bursa-Mustafakemalpaşa-Gurgendagi Mese, ziyaretçilere çeşitli olanaklar suna
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Marmara Bölgesi'nde yer alan
 - çeşitli bitki türleri
 - zengin fauna

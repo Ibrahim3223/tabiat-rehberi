@@ -31,7 +31,7 @@ Zonguldak-Yesiloz milli parkının tarihi geçmişi, yüzyıllar boyunca devam e
 
 ## Coğrafya
 
-Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin coğrafi yapısı hakkında önemli bilgiler sunan bir alan olarak dikkat çekiyor. Bu milli park, bölgenin dağlık ve ormanlık alanlarını barındıran bir coğrafi yapıya sahip. Zonguldak-Yesiloz milli parkı, aynı zamanda bölgenin iklimi hakkında da önemli bilgiler sunuyor. Bu milli park, Karadeniz Bölgesi'nin ılıman ikliminin özellikleri hakkında bilgi veren bir destinasyon olarak biliniyor. Zonguldak-Yesiloz milli parkının coğrafi konumu, bölgenin doğal güzelliklerini ve tarihi geçmişi hakkında önemli bilgiler sunan bir konuma sahip. Bu milli park, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini doğanın kucağına davet ediyor. Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini ve tarihi geçmişi hakkında önemli bilgiler sunan bir destinasyon olarak ziyaretçilerini bekliyor.
+Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin coğrafi yapısı hakkında önemli bilgiler sunan bir alan olarak dikkat çekiyor. Bu milli park, bölgenin dağlık ve ormanlık alanlarını barındıran bir coğrafi yapıya sahip. Zonguldak-Yesiloz milli parkı, aynı zamanda bölgenin iklimi hakkında da önemli bilgiler sunuyor. Bu milli park, Karadeniz Bölgesi'nin ılıman ikliminin özellikleri hakkında bilgi veren bir destinasyon olarak biliniyor. Zonguldak-Yesiloz milli parkının coğrafi konumu, bölgenin doğal güzelliklerini ve tarihi geçmişi hakkında önemli bilgiler sunan bir konuma sahip. Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini ve tarihi geçmişi hakkında önemli bilgiler sunan bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Zonguldak-Yesiloz milli parkını ziyaret etmek, Karadeniz Bölgesi'nin doğal g
 ## İlginç Bilgiler
 
 - Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini barındıran bir alan olarak dikkat çekiyor
-- Bu milli park, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Zonguldak-Yesiloz milli parkı, bölgenin flora ve fauna hakkında önemli bilgiler sunan bir kaynak olarak kabul ediliyor
 - Bu milli park, Karadeniz Bölgesi'nin ılıman ikliminin özellikleri hakkında bilgi veren bir destinasyon olarak biliniyor
 - Zonguldak-Yesiloz milli parkı, ziyaretçilerini doğanın kucağına davet ediyor

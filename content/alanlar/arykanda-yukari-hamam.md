@@ -50,7 +50,7 @@ Arykanda Yukarı Hamam, yılın her dönemi ziyaret edilebilir. Ancak en iyi ziy
 ## İlginç Bilgiler
 
 - Arykanda, Likya Birliği'nin altı büyük kentinden biridir
-- Arykanda Yukarı Hamam, 140 hektarlık bir alana yayılmıştır
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur
 - Arykanda, tarihi geçmişi ve doğal güzelliği ile dikkat çeker
 - Arykanda Yukarı Hamam, yılın her dönemi ziyaret edilebilir

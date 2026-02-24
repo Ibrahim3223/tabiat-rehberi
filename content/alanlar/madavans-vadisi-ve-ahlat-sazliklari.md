@@ -42,7 +42,6 @@ Madavans Vadisi ve Ahlat sazlıkları, doğa severlerin ve kuş gözlemcilerinin
 
 ## İlginç Bilgiler
 
-- Madavans Vadisi, 140 hektarlık bir alanı kaplar.
 - Ahlat sazlıkları, su kuşlarının göç yolu üzerinde yer alır.
 - Bölge, milli park olarak koruma altına alınmıştır.
 - Vadide, çeşitli bitki türleri ve zengin fauna bulunur.

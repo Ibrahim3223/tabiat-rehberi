@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","manzara izleme","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Yağmur Tepesi","caption":"Yağmur Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Fmur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390627","tip":"genel"}]
-description: "Kırşehir'in doğal güzelliği, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kırşehir","Yağmur Tepesi","doğal güzellik","tepe","gezi","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390627"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390627"
 
 # Yağmur Tepesi
 
-Kırşehir'in göbeğinde yer alan Yağmur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Yağmur Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekici bir yer. Yağmur Tepesi'ne çıktığınızda, şehrin panoramik manzarasını izleyebilirsiniz. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta.
+ Yağmur Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekici bir yer. Yağmur Tepesi'ne çıktığınızda, şehrin panoramik manzarasını izleyebilirsiniz. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yağmur Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmakta. Bu tepe, 
 
 ## Coğrafya
 
-Yağmur Tepesi, Kırşehir'in merkezinde yer alıyor. Tepenin etrafında, şehrin önemli noktaları bulunmakta. Yağmur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, khong 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, yaklaşık 1000 metre. Yağmur Tepesi, şehrin en yüksek noktalarından biri. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta. Bu ağaçlar ve bitkiler, tepeyi ziyaret edenlerin dikkatini çekmekte. Yağmur Tepesi, aynı zamanda bir ekolojik bölge. Tepenin etrafında, çeşitli hayvanlar ve bitkiler bulunmakta. Bu hayvanlar ve bitkiler, tepeyi ziyaret edenlerin ilgisini çekmekte.
+Yağmur Tepesi, Kırşehir'in merkezinde yer alıyor. Tepenin etrafında, şehrin önemli noktaları bulunmakta. Tepenin yüksekliği, yaklaşık 1000 metre. Yağmur Tepesi, şehrin en yüksek noktalarından biri. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta. Bu ağaçlar ve bitkiler, tepeyi ziyaret edenlerin dikkatini çekmekte. Yağmur Tepesi, aynı zamanda bir ekolojik bölge. Tepenin etrafında, çeşitli hayvanlar ve bitkiler bulunmakta. Bu hayvanlar ve bitkiler, tepeyi ziyaret edenlerin ilgisini çekmekte.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yağmur Tepesi'ne, Kırşehir merkezinden kolayca ulaşabilirsiniz. Tepenin etra
 
 ## İlginç Bilgiler
 
-- Yağmur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta
 - Yağmur Tepesi, aynı zamanda bir ekolojik bölge
 - Tepenin yüksekliği, yaklaşık 1000 metre

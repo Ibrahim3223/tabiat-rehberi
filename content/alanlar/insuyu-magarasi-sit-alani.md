@@ -30,7 +30,7 @@ wikidata_id: "Q108226664"
 
 ## Coğrafya
 
-İnsuyu Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alır. Bu alan, coğrafi olarak oldukça zengin bir yapıya sahiptir. Mağaranın girişinde, ziyaretçilerini karşılayan bir şelale bulunur. Mağara içinde, yeraltı nehri ve numerous şelaleler ziyaretçileri büyüler. İnsuyu Mağarası, coğrafi olarak 140 hektarlık bir alana yayılır. Mağaranın coğrafi yapısı, yeraltı worldünün güzelliğini gözler önüne serer. İnsuyu Mağarası Sit Alanı, coğrafi açıdan ziyaretçilerine eşsiz bir deneyim sunar.
+İnsuyu Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alır. Bu alan, coğrafi olarak oldukça zengin bir yapıya sahiptir. Mağaranın girişinde, ziyaretçilerini karşılayan bir şelale bulunur. Mağara içinde, yeraltı nehri ve numerous şelaleler ziyaretçileri büyüler. Mağaranın coğrafi yapısı, yeraltı worldünün güzelliğini gözler önüne serer. İnsuyu Mağarası Sit Alanı, coğrafi açıdan ziyaretçilerine eşsiz bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108226664"
 
 ## İlginç Bilgiler
 
-- İnsuyu Mağarası, 140 hektarlık bir alana yayılır.
 - Mağara, yüzyıllar boyunca oluşan bir doğa harikasıdır.
 
 - Mağaranın içinde, birçok farklı canlı yaşar.

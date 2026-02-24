@@ -50,7 +50,7 @@ Antik Hamam, Hacı Bayram'ı ziyaret etmek, tarihi ve doğal güzellikleri keşf
 ## İlginç Bilgiler
 
 - Antik Hamam, Hacı Bayram, Ankara'nın en önemli tarihi mekanlarından biridir
-- Bu alan, 140 hektarlık bir yeşil alanı kapsar
+
 - Mekan, tarihin farklı dönemlerinde önemli bir merkez olarak görev almıştır
 - Antik Hamam, Hacı Bayram, ziyaretçilerine geniş bir manzara sunar
 - Bu mekan, Ankara'nın tarihi kimliğiçinde önemli bir yere sahiptir

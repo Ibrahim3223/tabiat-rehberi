@@ -49,7 +49,7 @@ Nalbant Tepesi, özellikle doğa severlerin ziyaret ettiği bir bölgedir. Bu te
 ## İlginç Bilgiler
 
 - Nalbant Tepesi, Kars ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çeker.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Nalbant Tepesi, özellikle doğa severlerin ziyaret ettiği bir bölgedir.
 - Bu tepe, Kars şehrinin panoramik manzarasını sunar.
 - Nalbant Tepesi'ne ulaşım, Kars şehir merkezinden kolaydır.

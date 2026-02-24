@@ -36,7 +36,7 @@ Kartaltaşı Tepesi'nin tarihi geçmişi, Mardin'in zengin kültürel mirasıyla
 
 ## Coğrafya
 
-Kartaltaşı Tepesi, Mardin'in coğrafi olarak önemli bir konumunda yer alıyor. Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini temsil eden bu tepe, around yüksek bir konumdate bulunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu bölgenin ekolojik önemini vurguluyor. İklim koşulları, mevsimsel değişimler ve coğrafi yapı, Kartaltaşı Tepesi'nin eşsiz bir çevre ile çevrili olmasını sağlıyor. Mardin'in coğrafi yapısını temsil eden Kartaltaşı Tepesi, ziyaretçilere şehrin doğal güzelliklerini sunuyor. Around 140 hektarlık bu alan, Mardin'in turizm potansiyelini gösteren önemli bir nokta olarak kabul ediliyor.
+Kartaltaşı Tepesi, Mardin'in coğrafi olarak önemli bir konumunda yer alıyor. Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini temsil eden bu tepe, around yüksek bir konumdate bulunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu bölgenin ekolojik önemini vurguluyor. İklim koşulları, mevsimsel değişimler ve coğrafi yapı, Kartaltaşı Tepesi'nin eşsiz bir çevre ile çevrili olmasını sağlıyor. Mardin'in coğrafi yapısını temsil eden Kartaltaşı Tepesi, ziyaretçilere şehrin doğal güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 

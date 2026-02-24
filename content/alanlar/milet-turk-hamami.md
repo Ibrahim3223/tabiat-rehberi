@@ -50,7 +50,7 @@ Milet Türk Hamamı'na ziyaretçiler, özellikle yaz aylarında kolayca ulaşabi
 ## İlginç Bilgiler
 
 - Milet Türk Hamamı, Ege Bölgesi'nin önemli turistik noktalarından biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Didim'in sahil şeridinde yer alıyor
 - Berrak deniz suyu ve geniş kumsalları ile dikkat çekiyor
 - Çeşitli bitki türleri ve zengin fauna ile kaplı

@@ -42,7 +42,7 @@ Mersin-F.Pinari Kızılçam 2 milli parkını ziyaret etmek, doğanın güzelli�
 
 ## İlginç Bilgiler
 
-- Mersin-F.Pinari Kızılçam 2 milli parkı, 140 hektarlık bir alana yayılmıştır.
+- Mersin-F.
 - Milli park, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir.
 - Milli parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişkenlik gösterir.
 - Milli park, önemli bir ekosistem olarak koruma altına alınmıştır.

@@ -50,7 +50,7 @@ Liman Hamamı (Kıyıköy)'e ziyaretçiler, çeşitli ulaşım seçenekleri ile 
 ## İlginç Bilgiler
 
 - Liman Hamamı (Kıyıköy), Marmara Bölgesi'nin en güzel plajlarından birisidir.
-- Plaj, 140 hektarlık bir alana sahiptir.
+
 - Liman Hamamı (Kıyıköy)'ün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 - Plaj, çeşitli flora ve fauna türlerine ev sahipliği yapar.
 - Liman Hamamı (Kıyıköy), ziyaretçilerine doğal bir ortam sunar.

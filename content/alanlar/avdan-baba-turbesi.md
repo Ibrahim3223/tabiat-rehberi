@@ -37,7 +37,7 @@ Avdan Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca oluşmuş ve bölg
 
 ## Coğrafya
 
-Avdan Baba Türbesi, Denizli'nin Tavas ilçesinde, Ege Bölgesi'nin güzergahında yer almaktadır. Bu bölge, doğal güzellikleri ile dikkat çekmektedir. 140 hektarlık alan, geniş bir yeşil alanı kapsar ve ziyaretçilerine doğanın güzelliğini sunmaktadır. Türbe ve plaj alanı, birbirine yakın konumdadır ve ziyaretçilere hem tarihi bir deneyim hem de doğal güzelliği sunmaktadır. Ege Bölgesi'nin iklimi, bu bölgede de hakimdir ve ziyaretçilere uygun bir gezi ortamı sunar. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri sunmakta ve gezi için ideal bir ortam sağlamaktadır. Avdan Baba Türbesi ve çevresindeki bölge, Tavas'ın önemli doğal ve tarihi güzelliklerinden biridir.
+Avdan Baba Türbesi, Denizli'nin Tavas ilçesinde, Ege Bölgesi'nin güzergahında yer almaktadır. Bu bölge, doğal güzellikleri ile dikkat çekmektedir. Türbe ve plaj alanı, birbirine yakın konumdadır ve ziyaretçilere hem tarihi bir deneyim hem de doğal güzelliği sunmaktadır. Ege Bölgesi'nin iklimi, bu bölgede de hakimdir ve ziyaretçilere uygun bir gezi ortamı sunar. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri sunmakta ve gezi için ideal bir ortam sağlamaktadır. Avdan Baba Türbesi ve çevresindeki bölge, Tavas'ın önemli doğal ve tarihi güzelliklerinden biridir.
 
 ## Flora ve Fauna
 

@@ -49,7 +49,6 @@ Deh Kubbe Türbesi'ni ziyaret etmek, geçmişe bir yolculuk yapmak harika bir de
 
 ## İlginç Bilgiler
 
-- Deh Kubbe Türbesi, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor.
 - Türbenin mimarisi, bölgenin kültürel zenginliğini yansıtan önemli bir unsurdur.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Deh Kubbe Türbesi, yılın her dönemi ziyaret edilebilir.

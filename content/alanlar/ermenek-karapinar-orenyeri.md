@@ -50,7 +50,7 @@ Ermenek Karapınar Örenyeri'ni ziyaret etmek, hem doğa severler hem de tarih m
 ## İlginç Bilgiler
 
 - Ermenek Karapınar Örenyeri, Karaman'ın tarihi ve kültürel mirasının önemli bir parçasıdır
-- Bu ören yeri, 140 hektarlık bir alana yayılmıştır
+
 - İlkbahar ve sonbahar, ziyaret için en uygun mevsimlerdir
 - Ziyaretçiler, çeşitli doğa yürüyüşü parkurlarından yararlanabilirler
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır

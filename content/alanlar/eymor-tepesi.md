@@ -36,7 +36,7 @@ Eymor Tepesi'nin tarihi geçmişi, Sivas'ın zengin kültürel mirasını yansı
 
 ## Coğrafya
 
-Eymor Tepesi, Sivas'ın coğrafi yapısını ve doğal güzelliklerini bir araya getiren bir bölgedir. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Eymor Tepesi'nin yüksekliği, Sivas'ın ovasından výraz bir şekilde çıkar ve çevredeki diğer tepelerden daha yüksek görünür. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Sivas'ın geniş ovasına hakim bir konumdadır. Eymor Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçilerini doğal güzellikleriyle etkiler. Eymor Tepesi, Sivas'ın coğrafi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Eymor Tepesi, Sivas'ın coğrafi yapısını ve doğal güzelliklerini bir araya getiren bir bölgedir. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Eymor Tepesi'nin yüksekliği, Sivas'ın ovasından výraz bir şekilde çıkar ve çevredeki diğer tepelerden daha yüksek görünür. Eymor Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçilerini doğal güzellikleriyle etkiler. Eymor Tepesi, Sivas'ın coğrafi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

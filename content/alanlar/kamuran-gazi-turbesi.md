@@ -50,7 +50,7 @@ Kamuran Gazi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri d
 ## İlginç Bilgiler
 
 - Kamuran Gazi Türbesi, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta.
-- Türbe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, çeşitli coğrafi oluşumlarla karakterize ediliyor.
 - Ziyaretçiler, burada hem tarihi eserleri hem de doğal güzellikleri deneyimleyebilir.
 - Kamuran Gazi Türbesi, Marmara Bölgesi'nin gizli kuytularından biri.

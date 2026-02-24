@@ -29,7 +29,7 @@ wikidata_id: "Q134728397"
 
 # Kılavuzlu Mahallesi Tümülüsü, Asarcık
 
-Kılavuzlu Mahallesi Tümülüsü, Asarcık'a bağlı bir bölgede yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Karadeniz Bölgesi'nin en önemli kültürel varlıklarından biri olarak biliniyor. Asarcık'ın merkezine yakın bir konumda bulunan Kılavuzlu Mahallesi Tümülüsü, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Bu mekan, Karadeniz Bölgesi'nin zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir nokta.
+Kılavuzlu Mahallesi Tümülüsü, Asarcık'a bağlı bir bölgede yer alıyor. Asarcık'ın merkezine yakın bir konumda bulunan Kılavuzlu Mahallesi Tümülüsü, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Bu mekan, Karadeniz Bölgesi'nin zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir nokta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kılavuzlu Mahallesi Tümülüsü'nün tarihi geçmişi, Karadeniz Bölgesi'nin 
 
 ## Coğrafya
 
-Kılavuzlu Mahallesi Tümülüsü, Asarcık'ın merkezine yakın bir konumda yer alıyor. Bu tümülüs, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve bölgenin iklimine uygun olarak tasarlanmış. Yaklaşık 140 hektarlık bir alanı kaplayan bu tümülüs,Karadeniz Bölgesi'nin coğrafi zenginliğini yansıtan önemli bir nokta. Kılavuzlu Mahallesi Tümülüsü, Asarcık'ın ve Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir mekan. Bu tümülüs, ziyaretçilerine Karadeniz Bölgesi'nin coğrafi güzelliğini ve zenginliğini sunuyor. Kılavuzlu Mahallesi Tümülüsü'nün coğrafi konumu, Karadeniz Bölgesi'nin coğrafi çeşitliliğini ve güzelliğini gösteriyor. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve bölgenin kültür varlıklarını yansıtan önemli bir nokta.
+Kılavuzlu Mahallesi Tümülüsü, Asarcık'ın merkezine yakın bir konumda yer alıyor. Bu tümülüs, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve bölgenin iklimine uygun olarak tasarlanmış. Kılavuzlu Mahallesi Tümülüsü, Asarcık'ın ve Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir mekan. Bu tümülüs, ziyaretçilerine Karadeniz Bölgesi'nin coğrafi güzelliğini ve zenginliğini sunuyor. Kılavuzlu Mahallesi Tümülüsü'nün coğrafi konumu, Karadeniz Bölgesi'nin coğrafi çeşitliliğini ve güzelliğini gösteriyor. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve bölgenin kültür varlıklarını yansıtan önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kılavuzlu Mahallesi Tümülüsü, Karadeniz Bölgesi'nin tarihi ve kültürel z
 ## İlginç Bilgiler
 
 - Kılavuzlu Mahallesi Tümülüsü, Karadeniz Bölgesi'nin en önemli kültürel varlıklarından biri
-- Bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Kılavuzlu Mahallesi Tümülüsü, Asarcık'ın merkezine yakın bir konumda yer alıyor
 - Bu mekan, Karadeniz Bölgesi'nin flora ve faunasını yansıtan önemli bir nokta
 - Kılavuzlu Mahallesi Tümülüsü, ziyaretçilerine Karadeniz Bölgesi'nin tarihi ve kültürel zenginliğini sunuyor

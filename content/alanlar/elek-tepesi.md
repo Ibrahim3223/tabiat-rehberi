@@ -28,7 +28,7 @@ wikidata_id: "Q31390195"
 
 # Elek Tepesi
 
-Elek Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Doğal güzellikleri ve tarihi zenginlikleriyle ön plana çıkan Elek Tepesi, ziyaretçilerini bekliyor. Burdur'un merkezine yakın konumuyla da ulaşım açısından oldukça elverişli. Elek Tepesi, doğa severler ve tarih meraklıları için keyifli bir geziexperience sunuyor.
+Elek Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi zenginlikleriyle ön plana çıkan Elek Tepesi, ziyaretçilerini bekliyor. Burdur'un merkezine yakın konumuyla da ulaşım açısından oldukça elverişli. Elek Tepesi, doğa severler ve tarih meraklıları için keyifli bir geziexperience sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Elek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, 
 
 ## Coğrafya
 
-Elek Tepesi, coğrafi olarak Burdur'un merkezine yakın bir konumda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor. Coğrafi olarak çevresinde yer alan diğer tepe ve dağlarla birlikte bir bütün teşkil ediyor. İklimi, Akdeniz Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak geçiyor. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakim oluyor. Bu durum, Elek Tepesi'nin flora ve faunasını da etkiliyor. Çeşitli bitki türleri ve hayvanlar, bu coğrafi koşullarda yaşamlarını sürdürüyorlar.
+Elek Tepesi, coğrafi olarak Burdur'un merkezine yakın bir konumda yer alıyor. Coğrafi olarak çevresinde yer alan diğer tepe ve dağlarla birlikte bir bütün teşkil ediyor. İklimi, Akdeniz Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak geçiyor. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakim oluyor. Bu durum, Elek Tepesi'nin flora ve faunasını da etkiliyor. Çeşitli bitki türleri ve hayvanlar, bu coğrafi koşullarda yaşamlarını sürdürüyorlar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Elek Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için keyifl
 
 ## İlginç Bilgiler
 
-- Elek Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Burdur'un merkezine yakın bir konumda yer alıyor.
 - İklimi, Akdeniz Bölgesi'nin genel iklimine uygun.
 - Zengin bir flora ve fauna çeşitliliğine sahip.

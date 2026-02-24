@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihi geçmiş k
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Kırıkçal Tepesi","caption":"Kırıkçal Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1k%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211250","tip":"genel"}]
-description: "Amasya'nın doğal güzelliklerini keşfedin, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Amasya","Kırıkçal Tepesi","doğal güzellik","tepe","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211250"
@@ -36,7 +36,7 @@ Kırıkçal Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Kırıkçal Tepesi, Amasya'nın coğrafi yapısını yansıtan bir örnektir. Bu tepe, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Yaklaşık 140 hektarlık alan, çeşitli bitki türleriyle kaplıdır ve çevresi zengin fauna çeşitliliğine ev sahipliği yapar. Kırıkçal Tepesi, deniz seviyesinden belirli bir yükseklikte yer alır ve bu konumu, ziyaretçilere geniş bir manzara sunar. Bu tepenin coğrafi konumu, Karadeniz Bölgesi'nin iklim özelliklerini yansıtır. Ziyaretçiler, buranın coğrafi özelliklerini keşfedebilir ve çeşitli bitki türleriyle fauna çeşitliliğini görebilir.
+Kırıkçal Tepesi, Amasya'nın coğrafi yapısını yansıtan bir örnektir. Bu tepe, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Kırıkçal Tepesi, deniz seviyesinden belirli bir yükseklikte yer alır ve bu konumu, ziyaretçilere geniş bir manzara sunar. Bu tepenin coğrafi konumu, Karadeniz Bölgesi'nin iklim özelliklerini yansıtır. Ziyaretçiler, buranın coğrafi özelliklerini keşfedebilir ve çeşitli bitki türleriyle fauna çeşitliliğini görebilir.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Kaynar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kaynar Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu tepe, Kastamonu ilinin sınırları içerisinde yer almakta ve çevresinde yeşil ormanlar, nehirler ve diğer doğal güzellikler bulunmaktadır. Coğrafi olarak, 140 hektarlık bu alan, ziyaretçilerine geniş bir görüş açısı sunmaktadır. İklim olarak, Karadeniz Bölgesi'nin karakteristik özellikleri taşınmaktadır. Mevsimsel değişimler, bu tepenin güzelliğini daha da artırmaktadır. Çevre, doğa ve yaban hayatı açısından zengin bir ekosistem sunan Kaynar Tepesi, ziyaretçilerini büyülemektedir.
+Kaynar Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu tepe, Kastamonu ilinin sınırları içerisinde yer almakta ve çevresinde yeşil ormanlar, nehirler ve diğer doğal güzellikler bulunmaktadır. İklim olarak, Karadeniz Bölgesi'nin karakteristik özellikleri taşınmaktadır. Mevsimsel değişimler, bu tepenin güzelliğini daha da artırmaktadır. Çevre, doğa ve yaban hayatı açısından zengin bir ekosistem sunan Kaynar Tepesi, ziyaretçilerini büyülemektedir.
 
 ## Flora ve Fauna
 

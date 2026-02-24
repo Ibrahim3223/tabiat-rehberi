@@ -29,7 +29,7 @@ wikidata_id: "Q31386053"
 
 # Ankar Dağı
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Ankar Dağı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir. Ankar Dağı, Adıyaman ilinin önemli tepe noktalarından biri olarak bilinmektedir. Dağın yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunmaktadır.
+ Ankar Dağı, Adıyaman ilinin önemli tepe noktalarından biri olarak bilinmektedir. Dağın yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankar Dağı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkları
 
 ## Coğrafya
 
-Ankar Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli tepe noktalarından biridir. Dağın yüksekliği ve konumu, bölgenin iklimini etkilemektedir. Ankar Dağı, yaklaşık 140 hektarlık alanı ile önemli bir coğrafi oluşumdur. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ankar Dağı, Adıyaman ilinin önemli doğal güzelliklerinden biri olarak bilinmektedir. Dağın coğrafi konumu, ziyaretçilere geniş bir manzara sunmaktadır. Ankar Dağı, bölgenin coğrafi yapısını oluşturan önemli bir tepe noktası olarak dikkat çekmektedir.
+Ankar Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli tepe noktalarından biridir. Dağın yüksekliği ve konumu, bölgenin iklimini etkilemektedir. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ankar Dağı, Adıyaman ilinin önemli doğal güzelliklerinden biri olarak bilinmektedir. Dağın coğrafi konumu, ziyaretçilere geniş bir manzara sunmaktadır. Ankar Dağı, bölgenin coğrafi yapısını oluşturan önemli bir tepe noktası olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Ankar Dağı, ziyaretçilerini doğal güzelliği ve coğrafi özellikleri ile b
 
 ## İlginç Bilgiler
 
-- Ankar Dağı, yaklaşık 140 hektarlık alanı ile önemli bir coğrafi oluşumdur.
 - Ankar Dağı, Adıyaman ilinin önemli doğal güzelliklerinden biridir.
 - Ankar Dağı, yılın her mevsiminde ziyaret edilebilir.
 - Ankar Dağı, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahiptir.

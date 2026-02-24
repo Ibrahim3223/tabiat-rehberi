@@ -28,7 +28,7 @@ wikidata_id: "Q31556217"
 
 # Killika Tepesi
 
-Killika Tepesi, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir manzara sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, Mardin'in coğrafi yapısını anlamak için ideal bir gözlem noktası. Killika Tepesi, Mardin'in merkezi ile birlikte, tarihi ve kültürel değerlerini korumak için önemli bir role sahip.
+Killika Tepesi, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir nokta. Killika Tepesi, Mardin'in merkezi ile birlikte, tarihi ve kültürel değerlerini korumak için önemli bir role sahip.
 
 ## Tarihçe
 

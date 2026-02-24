@@ -21,7 +21,7 @@ aktiviteler: ["tarihçi olmak","doğa yürüyüşü","fotografçılık","ekoloji
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Eren Babalar Türbesi","caption":"Eren Babalar Türbesi","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eren%20Babalar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391620","tip":"genel"}]
-description: "Sakarya'nın Adapazarı ilçesinde bulunan Eren Babalar Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Sakarya'nın Adapazarı ilçesinde bulunan Eren Babalar Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Eren Babalar Türbesi","Adapazarı","Sakarya","Marmara Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391620"

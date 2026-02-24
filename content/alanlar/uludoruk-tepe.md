@@ -36,7 +36,7 @@ Uludoruk Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgen
 
 ## Coğrafya
 
-Uludoruk Tepe, Hakkari ilinin coğrafi yapısına uygun olarak, dağlık bir bölgede yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve çevresindeki doğal güzelliklerle dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunuyor. Uludoruk Tepe'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta. Bu tepe, doğal güzellikleri ile dikkat çeken bir bölge ve ziyaretçilerine doğayı keşfetme fırsatı sunuyor. Coğrafi konumu itibariyle, Uludoruk Tepe, ziyaretçilerine büyüleyici bir manzara sunuyor.
+Uludoruk Tepe, Hakkari ilinin coğrafi yapısına uygun olarak, dağlık bir bölgede yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunuyor. Uludoruk Tepe'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta. Bu tepe, doğal güzellikleri ile dikkat çeken bir bölge ve ziyaretçilerine doğayı keşfetme fırsatı sunuyor. Coğrafi konumu itibariyle, Uludoruk Tepe, ziyaretçilerine büyüleyici bir manzara sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Uludoruk Tepe'yi ziyaret etmek, ziyaretçilere doğanın güzelliğini ve bölge
 ## İlginç Bilgiler
 
 - Uludoruk Tepe, Hakkari ilinin en yüksek noktalarından biri
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor
+
 - Uludoruk Tepe, çeşitli bitki türleri ve fauna ile dikkat çekiyor
 - Bu tepe, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunuyor
 - Uludoruk Tepe, Hakkari ilinin merkezine yaklaşık olarak 30 kilometre uzaklıkta yer alıyor

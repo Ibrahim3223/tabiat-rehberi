@@ -21,7 +21,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Yaban Hayatı İzleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DSC_0763-01.jpg/960px-DSC_0763-01.jpg","alt":"Canköy Tabiat Parkı","caption":"Canköy Tabiat Parkı","credit":"DSC 0763-01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cank%C3%B6y%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228347","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Canköy Tabiat Parkı, çam ormanlarıyla süslü 140 hektarlık bir alan"
+
 keywords: ["Canköy Tabiat Parkı","İç Anadolu Bölgesi","Çeşme/Sivas","Doğa","Tabiat Parkı","Çam Ormanları","Yaban Hayatı","Ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228347"
@@ -37,7 +37,7 @@ Canköy Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir 
 
 ## Coğrafya
 
-Canköy Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan Çeşme/Sivas yolu üzerinde bulunan 140 hektarlık bir alan. Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın içinde, çam ormanları ve çeşitli bitki türleri encontrabilir. Canköy Tabiat Parkı, yaban hayatı açısından zengin bir alana sahip. Parkın içinde, çeşitli hayvanlar encontrabilir. Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Canköy Tabiat Parkı, doğa ile iç içe olmak isteyenler için ideal bir destinasyon. Parkın coğrafi yapısı, çam ormanları ve çeşitli bitki türlerinden oluşur. Parkın içinde, çeşitli hayvanlar encontrabilir. Canköy Tabiat Parkı, yaban hayatı açısından zengin bir alana sahip. Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
+ Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın içinde, çam ormanları ve çeşitli bitki türleri encontrabilir. Canköy Tabiat Parkı, yaban hayatı açısından zengin bir alana sahip. Parkın içinde, çeşitli hayvanlar encontrabilir. Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Canköy Tabiat Parkı, doğa ile iç içe olmak isteyenler için ideal bir destinasyon. Parkın coğrafi yapısı, çam ormanları ve çeşitli bitki türlerinden oluşur. Parkın içinde, çeşitli hayvanlar encontrabilir. Canköy Tabiat Parkı, yaban hayatı açısından zengin bir alana sahip. Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Canköy Tabiat Parkı, doğa severlerin ve fotoğraf tutkunlarının gözdesi. P
 
 ## İlginç Bilgiler
 
-- Canköy Tabiat Parkı, 140 hektarlık bir alana sahip
 - Parkın içinde, çeşitli bitki türleri ve hayvanlar encontrabilir
 - Canköy Tabiat Parkı, doğa ile iç içe olmak isteyenler için ideal bir destinasyon
 - Parkın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır

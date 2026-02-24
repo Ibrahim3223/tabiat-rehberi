@@ -22,7 +22,7 @@ wikidata_id: "Q108228997"
 
 # İtecik Lalesi Tabiat Koruma Alanı
 
-İç Anadolu Bölgesi'nin eşsiz güzelliklerinden biri olan İtecik Lalesi Tabiat Koruma Alanı, 140 hektarlık bir alanı kapsar. İtecik Lalesi, adını bölgede yetişen endemik lale türlerinden alır ve bu türlerin korunması için önemli bir çalışmanın yürütüldüğü bir alandır. Doğal güzellikleri, florası ve faunasıyla ziyaretçilerini bekleyen İtecik Lalesi Tabiat Koruma Alanı, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynar.
+ İtecik Lalesi, adını bölgede yetişen endemik lale türlerinden alır ve bu türlerin korunması için önemli bir çalışmanın yürütüldüğü bir alandır. Doğal güzellikleri, florası ve faunasıyla ziyaretçilerini bekleyen İtecik Lalesi Tabiat Koruma Alanı, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108228997"
 ## İlginç Bilgiler
 
 - İtecik Lalesi, endemik bir lale türüdür ve sadece bu bölgede yetişir.
-- Bölge, 140 hektarlık bir alanı kapsar.
+
 - İtecik Lalesi Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin biyolojik çeşitliliğinin korunmasına katkıda bulunur.
 - Bölge, step ve çayır ekosistemlerine özgü flora ve faunaya sahiptir.
 - İlkbahar ve yaz aylarında, bölgeye özgü bitkilerin çiçek açması, bölgenin doğal güzelliklerini artırır.

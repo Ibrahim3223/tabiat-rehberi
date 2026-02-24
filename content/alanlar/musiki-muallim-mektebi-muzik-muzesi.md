@@ -49,7 +49,6 @@ Musiki Muallim Mektebi Müzik Müzesi, müzikseverler için önemli bir merkez o
 
 ## İlginç Bilgiler
 
-- Müze, 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır
 - Müzenin koleksiyonunda, çeşitli müzik aletleri, müzik notaları, müzik tarihi ile ilgili belgeler ve eşyalar bulunmaktadır
 - Müze, müzik eğitimi ve müzik tarihi hakkında bilgi edinmek isteyenler için bir kaynak merkezi olarak hizmet vermektedir
 - Müzenin bulunduğu bölgede, çeşitli mevsimsel değişimler yaşanmaktadır

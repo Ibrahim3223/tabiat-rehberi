@@ -36,7 +36,7 @@ wikidata_id: "Q31389885"
 
 ## Coğrafya
 
-İpek Tepesi, Sinop'un eşsiz coğrafyası içinde yer alıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik yapısını taşıyor ve etrafındaki yeşil alanlar ile birlikte, yaklaşık 140 hektarlık bir alanı kapsıyor. İpek Tepesi'nin coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Bu bölge, genellikle Karadeniz ikliminin etkilerini taşıyor ve bu, bölgenin florası ve faunası üzerinde önemli bir etkiye sahip. İpek Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin en güzel noktalarından birine davet ediyor ve buradaki coğrafi özellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
+İpek Tepesi, Sinop'un eşsiz coğrafyası içinde yer alıyor. İpek Tepesi'nin coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Bu bölge, genellikle Karadeniz ikliminin etkilerini taşıyor ve bu, bölgenin florası ve faunası üzerinde önemli bir etkiye sahip. İpek Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin en güzel noktalarından birine davet ediyor ve buradaki coğrafi özellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31389885"
 ## İlginç Bilgiler
 
 - İpek Tepesi, Sinop'un en yüksek noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - İpek Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri
 - Bu tepe, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor
 - İpek Tepesi, genellikle Nisan ve Ekim ayları arasında ziyaret ediliyor

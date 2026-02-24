@@ -37,7 +37,7 @@ wikidata_id: "Q131391156"
 
 ## Coğrafya
 
-Şeyh Razi Türbesi, İstanbul'un Fatih ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Türbe, yaklaşık 140 hektarlık bir alanda yer alır ve bu alan, İstanbul'un tarihi ve kültürel dokusunu yansıtan önemli bir bölgedir. Şeyh Razi Türbesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi mekanlarını keşfetme fırsatı sunar. Türbenin yakınında, çeşitli tarihi yapılar ve kültürel merkezler bulunur. İstanbul'un coğrafyası, Şeyh Razi Türbesi gibi tarihi mekanların varlığı ile zenginleştirilmiştir. Türbenin bulunduğu bölge, İstanbul'un kentsel ve tarihi dokusunu bir araya getiren önemli bir alandır. Şeyh Razi Türbesi, İstanbul'un coğrafi ve kültürel haritasında önemli bir yer tutmaktadır.
+Şeyh Razi Türbesi, İstanbul'un Fatih ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Şeyh Razi Türbesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi mekanlarını keşfetme fırsatı sunar. Türbenin yakınında, çeşitli tarihi yapılar ve kültürel merkezler bulunur. İstanbul'un coğrafyası, Şeyh Razi Türbesi gibi tarihi mekanların varlığı ile zenginleştirilmiştir. Türbenin bulunduğu bölge, İstanbul'un kentsel ve tarihi dokusunu bir araya getiren önemli bir alandır. Şeyh Razi Türbesi, İstanbul'un coğrafi ve kültürel haritasında önemli bir yer tutmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391156"
 ## İlginç Bilgiler
 
 - Şeyh Razi, önemli bir İslam alimi ve mutasavvıf olarak bilinir.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Şeyh Razi Türbesi, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır.
 - Türbe, restore edilmiş ve günümüzde de önemli bir ziyaret noktası olarak hizmet vermektedir.
 - Şeyh Razi Türbesi, İstanbul'un fethi ile yakından bağlantılıdır.

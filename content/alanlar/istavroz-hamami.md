@@ -50,7 +50,7 @@ Istavroz Hamamı, Üsküdar'ın merkezine yakın bir konumda yer alır ve bu say
 ## İlginç Bilgiler
 
 - Istavroz Hamamı, Üsküdar'ın tarihi plajlarından biridir.
-- Plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Istavroz Hamamı, Marmara Bölgesi'nin güzide noktalarından birini oluşturur.
 - Plajın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir.
 - Istavroz Hamamı, her mevsim ziyaret edilebilir bir yerdir.

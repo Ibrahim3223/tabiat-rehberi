@@ -48,8 +48,6 @@ Cici Dağ, ziyaretçilere doğa yürüyüşleri, manzara seyri ve fotoğrafçıl
 
 ## İlginç Bilgiler
 
-- Cici Dağ, 140 hektarlık bir alanı kaplıyor
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı temsil ediyor
 - Cici Dağ, çeşitli bitki türleri ile zengin fauna bulunmakta
 - Bu tepe, bölgenin önemli bir su kaynağı olarak kabul ediliyor
 - Cici Dağ, aynı zamanda bölgenin önemli bir tarım merkezi olarak kabul ediliyor

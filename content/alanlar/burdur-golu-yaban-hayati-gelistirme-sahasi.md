@@ -42,8 +42,6 @@ Burdur Gölü Yaban Hayatı Geliştirme Sahası, doğa severler için keyifli bi
 
 ## İlginç Bilgiler
 
-- Burdur Gölü Yaban Hayatı Geliştirme Sahası, 140 hektarlık bir alana sahip
-- Saha, yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşıyor
 - Sulak alanlar, su kuşları ve diğer yaban hayvanları için önemli bir yaşam alanı oluşturuyor
 - Saha, yaban hayatı koruma ve geliştirme çalışmaları açısından önemli bir merkez olarak görev yapıyor

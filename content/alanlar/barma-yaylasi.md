@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","bisiklet","kuş gözlemciliği","bitki gözlemcili�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"BARMA YAYLASI","caption":"BARMA YAYLASI","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BARMA%20YAYLASI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228940","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Barma Yaylası, 140 hektarlık geniş alanda ziyaretçilerini ağırlıyor."
+"
 keywords: ["Barma Yaylası","İç Anadolu Bölgesi","doğal güzellikler","yayla","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228940"
@@ -30,7 +30,7 @@ Barma Yaylası'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Barma Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Yayla, yaklaşık 140 hektarlık geniş bir alana yayılmış ve yeşil doğası, serin havası ve doğal güzellikleriyle ziyaretçilerini büyülüyor. Bu bölge, dağların eteklerinde yer alıyor ve etrafı ormanlarla çevrili. Yayla, coğrafi olarak zengin bir çeşitlilik sunuyor ve ziyaretçilerine birçok farklı peyzajı bir arada sunuyor. Barma Yaylası, yılın her dönemi farklı bir güzelliğe sahip ve her mevsim ziyaret edilebilir. Yayla, özellikle ilkbahar ve yaz aylarında yeşilin tüm tonlarını gösteren bir cennet olarak kabul ediliyor.
+Barma Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Bu bölge, dağların eteklerinde yer alıyor ve etrafı ormanlarla çevrili. Yayla, coğrafi olarak zengin bir çeşitlilik sunuyor ve ziyaretçilerine birçok farklı peyzajı bir arada sunuyor. Barma Yaylası, yılın her dönemi farklı bir güzelliğe sahip ve her mevsim ziyaret edilebilir. Yayla, özellikle ilkbahar ve yaz aylarında yeşilin tüm tonlarını gösteren bir cennet olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Barma Yaylası, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir
 
 ## İlginç Bilgiler
 
-- Barma Yaylası, 140 hektarlık geniş bir alana yayılmış bir doğa harikasıdır.
 - Yayla, özellikle doğa severler ve macera arayanlar için bir cennet olarak kabul ediliyor.
 - Barma Yaylası, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahip.
 - Yayla, coğrafi olarak zengin bir çeşitlilik sunuyor ve ziyaretçilerine birçok farklı peyzajı bir arada sunuyor.

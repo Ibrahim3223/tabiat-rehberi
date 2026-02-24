@@ -21,8 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Sarigerme%20Beach.jpg","alt":"Sarıgerme manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Panoramic_view_of_Sarigerme%2C_Turkey_%2849070993572%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Panoramic_view_of_Sarigerme%2C_Turkey_%2849070993572%29.jpg/1280px-Panoramic_view_of_Sarigerme%2C_Turkey_%2849070993572%29.jpg","alt":"Sarıgerme - Panoramic view of Sarigerme, Turkey (49070993572)","credit":"dronepicr","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/11/Aerial_view_of_Robinson_Club_Sarigerme_Park%2C_Turkey_%2849070709646%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aerial_view_of_Robinson_Club_Sarigerme_Park%2C_Turkey_%2849070709646%29.jpg/1280px-Aerial_view_of_Robinson_Club_Sarigerme_Park%2C_Turkey_%2849070709646%29.jpg","alt":"Sarıgerme - Aerial view of Robinson Club Sarigerme Park, Turkey (49070709646)","credit":"dronepicr","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/Aerial_view_of_Robinson_Club_Sarigerme_Park_and_its_private_beach%2C_Turkey_%2849070970127%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_view_of_Robinson_Club_Sarigerme_Park_and_its_private_beach%2C_Turkey_%2849070970127%29.jpg/1280px-Aerial_view_of_Robinson_Club_Sarigerme_Park_and_its_private_beach%2C_Turkey_%2849070970127%29.jpg","alt":"Sarıgerme - Aerial view of Robinson Club Sarigerme Park and its private beach, Turkey (49070970127)","credit":"dronepicr","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Aegean_Coast_of_Sarigerme%2C_Turkey_%2849070791641%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aegean_Coast_of_Sarigerme%2C_Turkey_%2849070791641%29.jpg/1280px-Aegean_Coast_of_Sarigerme%2C_Turkey_%2849070791641%29.jpg","alt":"Sarıgerme - Aegean Coast of Sarigerme, Turkey (49070791641)","credit":"dronepicr","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Club_holiday_in_Sarigerme%2C_Turkey_%2849071002792%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Club_holiday_in_Sarigerme%2C_Turkey_%2849071002792%29.jpg/1280px-Club_holiday_in_Sarigerme%2C_Turkey_%2849071002792%29.jpg","alt":"Sarıgerme - Club holiday in Sarigerme, Turkey (49071002792)","credit":"dronepicr","license":"cc-by-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1germe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q7424070","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Sarıgerme, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Sarıgerme","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi","turizm"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q7424070"
 ---
@@ -49,7 +48,6 @@ Sarıgerme'yi ziyaret etmek, doğa severler için unutulmaz bir deneyimdir. Ziya
 
 ## İlginç Bilgiler
 
-- Sarıgerme, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir
 - Bölge, yüksek bir tepe üzerine kurulmuştur
 - Sarıgerme'nin iklimi, İç Anadolu Bölgesi'nin karakteristik kara iklimine sahiptir
 - Bölgede, çeşitli bitki türleri yetişir

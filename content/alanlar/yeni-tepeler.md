@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","flora/fauna gözlemi","fotografcılık","pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Yeni Tepeler","caption":"Yeni Tepeler","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385361","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Yeni Tepeler, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["İç Anadolu Bölgesi","doğal alan","yeşil alan","fiziksel veriler","coğrafya","flora","fauna","ziyaret","gezgin"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385361"
@@ -49,8 +49,6 @@ Yeni Tepeler'i ziyaret etmek, doğayı keşfetme ve tarihin sayfalarını karı�
 
 ## İlginç Bilgiler
 
-- Yeni Tepeler, 140 hektarlık bir alana sahip
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Variası bitki türleri ve zengin fauna sunuyor
 - Coğrafi olarak çevredeki dağlar ve ovalarla çevrili
 - İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal

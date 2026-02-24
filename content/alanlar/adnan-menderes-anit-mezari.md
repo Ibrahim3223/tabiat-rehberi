@@ -30,7 +30,7 @@ wikidata_id: "Q6022064"
 
 # Adnan Menderes Anıt Mezarı
 
-Adnan Menderes Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde yer alan ve Türkiye'nin önemli siyasi liderlerinden biri olan Adnan Menderes'in anısına inşa edilen bir anıt mezarıdır. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini tarihin sâuuna davet eder. Anıt mezarın bulunduğu alan, aynı zamanda Marmara Bölgesi'nin önemli bir kültürel ve tarihi merkezi olarak kabul edilir. Ziyaretçiler, bu mekanın zengin tarihi geçmişini keşfetme fırsatı bulurlar. Anıt mezarın mimarisi ve çevre düzenlemesi, ziyaretçilere huzurlu ve saygı dolu bir atmosfer sunar.
+Adnan Menderes Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde yer alan ve Türkiye'nin önemli siyasi liderlerinden biri olan Adnan Menderes'in anısına inşa edilen bir anıt mezarıdır. Anıt mezarın bulunduğu alan, aynı zamanda Marmara Bölgesi'nin önemli bir kültürel ve tarihi merkezi olarak kabul edilir. Ziyaretçiler, bu mekanın zengin tarihi geçmişini keşfetme fırsatı bulurlar. Anıt mezarın mimarisi ve çevre düzenlemesi, ziyaretçilere huzurlu ve saygı dolu bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Adnan Menderes Anıt Mezarı, Türkiye'nin önemli bir döneminde başbakanlık 
 
 ## Coğrafya
 
-Adnan Menderes Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak önemli bir konumda bulunur ve tarihi, kültürel ve doğal güzellikleri ile ziyaretçileri cezbeder. Anıt mezarın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Mekan, yüksek bir konumda bulunur ve ziyaretçilere İstanbul'un panoramik manzarasını sunar. Anıt mezarın çevresinde, çeşitli ağaçlar ve bitkiler bulunur ve ziyaretçilere doğal bir ortam sunar. İstanbul'un iklimi, genel olarak ılıman ve yağışlıdır, ancak anıt mezarın bulunduğu bölgede, ziyaretçilere genellikle güneşli bir hava sunulur.
+Adnan Menderes Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak önemli bir konumda bulunur ve tarihi, kültürel ve doğal güzellikleri ile ziyaretçileri cezbeder. Mekan, yüksek bir konumda bulunur ve ziyaretçilere İstanbul'un panoramik manzarasını sunar. Anıt mezarın çevresinde, çeşitli ağaçlar ve bitkiler bulunur ve ziyaretçilere doğal bir ortam sunar. İstanbul'un iklimi, genel olarak ılıman ve yağışlıdır, ancak anıt mezarın bulunduğu bölgede, ziyaretçilere genellikle güneşli bir hava sunulur.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Adnan Menderes Anıt Mezarı, ziyaretçilerine zengin bir tarihi ve kültürel d
 ## İlginç Bilgiler
 
 - Adnan Menderes Anıt Mezarı, Türkiye'nin önemli bir liderinin anısına inşa edilmiştir
-- Anıt mezarın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Anıt mezar, Marmara Bölgesi'nin önemli bir kültürel ve tarihi merkezi olarak kabul edilir
 - Ziyaretçiler, anıt mezarın bulunduğu bölgede, çeşitli restoran ve kafeler bulabilirler
 - Anıt mezarın çevresinde, çeşitli ağaçlar ve bitkiler bulunur

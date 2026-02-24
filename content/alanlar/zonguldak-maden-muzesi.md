@@ -37,7 +37,7 @@ Zonguldak Maden Müzesi'nin tarihi, bölgenin madencilik faaliyetleriyle başlar
 
 ## Coğrafya
 
-Zonguldak Maden Müzesi, Zonguldak ilinin merkezinde, Karadeniz Bölgesi'nin kıyı şeridinde yer alır. Müze, 140 hektarlık bir alana kurulmuş ve ziyaretçilere geniş bir açık alan sunar. Bölge, Karadeniz ikliminin özellikleri göstermektedir; yani yağışlı ve nemlidir. Müzenin etrafı, çeşitli bitki türleriyle kaplıdır ve zengin bir fauna sahiptir. Zonguldak Maden Müzesi, doğal güzellikleri ve tarihi önemiyle dikkat çekmektedir. Müze, Karadeniz Bölgesi'nin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Zonguldak Maden Müzesi, Zonguldak ilinin merkezinde, Karadeniz Bölgesi'nin kıyı şeridinde yer alır. Bölge, Karadeniz ikliminin özellikleri göstermektedir; yani yağışlı ve nemlidir. Müzenin etrafı, çeşitli bitki türleriyle kaplıdır ve zengin bir fauna sahiptir. Zonguldak Maden Müzesi, doğal güzellikleri ve tarihi önemiyle dikkat çekmektedir. Müze, Karadeniz Bölgesi'nin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Zonguldak Maden Müzesi'nin etrafı, çeşitli bitki türleriyle kaplıdır. Bö
 Zonguldak Maden Müzesi'ni ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir fırsat. Müze, Zonguldak ilinin merkezinde yer alır ve ulaşımı kolaydır. Ziyaretçiler, müzenin giriş bölümünden başlayarak, madencilik tarihini ve bölgenin doğal zenginliklerini keşfedebilirler. Müze, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, müzenin etrafında yürüyüş yapabilir, çeşitli bitki ve hayvan türlerini görebilirler. Ayrıca, müzenin yakınında, çeşitli restoran ve kafeler bulunmaktadır.
 
 ## İlginç Bilgiler
-
-- Zonguldak Maden Müzesi, 140 hektarlık bir alana kurulmuştur.
 
 - Müzenin koleksiyonunda, bölgenin madencilik tarihini yansıtan çeşitli araçlar, belgeler ve eserler yer almaktadır.
 - Zonguldak, yüzyıllar boyunca önemli bir madencilik merkezi olarak tanınmıştır.

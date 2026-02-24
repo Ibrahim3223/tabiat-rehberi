@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Gökçe Tepesi","caption":"Gökçe Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7e%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138365","tip":"genel"}]
-description: "Kayseri'nin doğal güzelliklerinden biri olan Gökçe Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Gökçe Tepesi","Kayseri","doğal güzellik","tepe","İç Anadolu Bölgesi","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32138365"

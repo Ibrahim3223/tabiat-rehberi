@@ -30,7 +30,7 @@ wikidata_id: "Q116678078"
 
 # Mıhlı şelalesi
 
-Mıhlı Şelalesi, İç Anadolu Bölgesi'nin gözdeleri arasında yer alan bir doğa harikasıdır. Küçükkuyu'da bulunan bu şelale, çevresindeki yeşil alanlarla birlikte yaklaşık 140 hektarlık bir alanı kaplar. Şelale, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir noktadır. Mıhlı Şelalesi, özellikle sıcak yaz günlerinde serinleme ve doğanın tadını çıkarmak isteyenler için bir cennet gibidir. Şelalenin etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli anlar yaşatmak için tasarlanmıştır.
+Mıhlı Şelalesi, İç Anadolu Bölgesi'nin gözdeleri arasında yer alan bir doğa harikasıdır. Şelale, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir noktadır. Mıhlı Şelalesi, özellikle sıcak yaz günlerinde serinleme ve doğanın tadını çıkarmak isteyenler için bir cennet gibidir. Şelalenin etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli anlar yaşatmak için tasarlanmıştır.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Mıhlı Şelalesi'ni ziyaret etmek, doğa severler için ideal bir gezi seçene�
 
 ## İlginç Bilgiler
 
-- Mıhlı Şelalesi, yaklaşık 140 hektarlık bir alanı kapsar
 - Şelale, özellikle ilkbahar ve yaz aylarında ziyaret edildiğinde, çevrenin yeşillendiği ve çiçeklerin açtığı bir manzara sunar
 - Mıhlı Şelalesi, İç Anadolu Bölgesi'nin gözdeleri arasında yer alan bir doğa harikasıdır
 - Şelale, özellikle kuş türleri için önemli bir yaşam alanıdır

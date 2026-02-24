@@ -37,7 +37,7 @@ Milet Capito Hamamı, İyonya'nın tarihi geçmişiçerisinde önemli bir yere s
 
 ## Coğrafya
 
-Milet Capito Hamamı, Didim'in İyonya bölgesinde yer alıyor. Bu alan, geniş bir yeşil alanın içerisinde yer alıyor ve ziyaretçilerine doğal güzellikleri sunuyor. İyonya'nın coğrafi yapısı, Milet Capito Hamamı'nın ziyaretçilerine sunduğu benzersiz bir deneyim. İklim-wise, bu bölge Akdeniz ikliminin etkisinde ve ziyaretçilere sıcak ve güneşli bir ortam sunuyor. Çevre-wise, Milet Capito Hamamı'nın bulunduğu bölge, İyonya'nın doğal güzellikleri ile çevrili ve ziyaretçilere geniş bir faaliyet alanı sunuyor. 140 hektarlık bu alan, ziyaretçilere geniş bir yeşil alan sunuyor ve İyonya'nın coğrafi güzellikleri hakkında önemli bilgiler sunuyor.
+Milet Capito Hamamı, Didim'in İyonya bölgesinde yer alıyor. Bu alan, geniş bir yeşil alanın içerisinde yer alıyor ve ziyaretçilerine doğal güzellikleri sunuyor. İyonya'nın coğrafi yapısı, Milet Capito Hamamı'nın ziyaretçilerine sunduğu benzersiz bir deneyim. İklim-wise, bu bölge Akdeniz ikliminin etkisinde ve ziyaretçilere sıcak ve güneşli bir ortam sunuyor. Çevre-wise, Milet Capito Hamamı'nın bulunduğu bölge, İyonya'nın doğal güzellikleri ile çevrili ve ziyaretçilere geniş bir faaliyet alanı sunuyor.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Peynirkaya Tepe'nin tarihi geçmişi, Ege Bölgesi'nin tarihini anlamak için ö
 
 ## Coğrafya
 
-Peynirkaya Tepe, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Bu tepe, 140 hektarlık bir alanı kaplamakta ve Ege Bölgesi'nin önemli coğrafi özelliklerini taşımaktadır. Çevresinde bitki türleri ve zengin fauna bulunan bu tepe, aynı zamanda önemli bir ekolojik alan olarak görülmektedir. Peynirkaya Tepe, ziyaretçilerine Ege Bölgesi'nin coğrafi güzelliklerini sunarken, aynı zamanda bu bölgenin ekolojik önemini de vurgulamaktadır. Bu tepe, Ege Bölgesi'nin iklimi ve coğrafi yapısını anlamak için önemli bir gözlem noktasıdır.
+Peynirkaya Tepe, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Çevresinde bitki türleri ve zengin fauna bulunan bu tepe, aynı zamanda önemli bir ekolojik alan olarak görülmektedir. Peynirkaya Tepe, ziyaretçilerine Ege Bölgesi'nin coğrafi güzelliklerini sunarken, aynı zamanda bu bölgenin ekolojik önemini de vurgulamaktadır. Bu tepe, Ege Bölgesi'nin iklimi ve coğrafi yapısını anlamak için önemli bir gözlem noktasıdır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Peynirkaya Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini b
 ## İlginç Bilgiler
 
 - Peynirkaya Tepe, Ege Bölgesi'nin önemli coğrafi noktalarından biri
-- Bu tepe, 140 hektarlık bir alanı kaplamakta
+
 - Peynirkaya Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor
 - Bu tepe, aynı zamanda önemli bir ekolojik alan olarak görülmektedir
 - Peynirkaya Tepe, ziyaretçilerine Ege Bölgesi'nin coğrafi güzelliklerini sunarken, aynı zamanda bu bölgenin ekolojik önemini de vurgulamaktadır

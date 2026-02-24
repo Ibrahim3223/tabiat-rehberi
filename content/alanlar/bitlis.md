@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşleri","bitki ve hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Bitlis_%C5%9Eerefiye_Mosque_3746.jpg","alt":"BİTLİS manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/36/Bitlis_city_center.jpg","alt":"BİTLİS","caption":"BİTLİS","credit":"Bitlis city center","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Bitlis_%C5%9Eerefiye_Medresesi_3750.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bitlis_%C5%9Eerefiye_Medresesi_3750.jpg/1280px-Bitlis_%C5%9Eerefiye_Medresesi_3750.jpg","alt":"BİTLİS - Bitlis Şerefiye Medresesi 3750","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Bitlis_%C5%9Eerefiye_Medresesi_3751.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bitlis_%C5%9Eerefiye_Medresesi_3751.jpg/1280px-Bitlis_%C5%9Eerefiye_Medresesi_3751.jpg","alt":"BİTLİS - Bitlis Şerefiye Medresesi 3751","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Bitlis_tatvan.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bitlis_tatvan.jpg/1280px-Bitlis_tatvan.jpg","alt":"BİTLİS - Bitlis tatvan","credit":"Dilan yavuz ank","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/B%C3%AAdlis.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/B%C3%AAdlis.jpg/1280px-B%C3%AAdlis.jpg","alt":"BİTLİS - Bêdlis","credit":"Dûrzan","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Bitlis_1417.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bitlis_1417.jpg/1280px-Bitlis_1417.jpg","alt":"BİTLİS - Bitlis 1417","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B0TL%C4%B0S","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228673","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan BİTLİS, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet"
+
 keywords: ["BİTLİS","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","doğa","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228673"
@@ -31,7 +31,7 @@ BİTLİS'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izler
 
 ## Coğrafya
 
-BİTLİS, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir köşesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli yüksekliklere ve düzlüklere sahip. İklimi, mevsimlere göre değişkenlik gösteriyor. Bahar aylarında yeşilin tüm tonlarını görebileceğiniz BİTLİS, yazın sıcakk, kışın ise soğuk bir iklime sahip. Bu bölge, coğrafi çeşitliliği ile ziyaretçilerini büyülüyor. 140 hektarlık alan, farklı coğrafi oluşumların bir araya geldiği bir bölge.
+BİTLİS, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir köşesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli yüksekliklere ve düzlüklere sahip. İklimi, mevsimlere göre değişkenlik gösteriyor. Bahar aylarında yeşilin tüm tonlarını görebileceğiniz BİTLİS, yazın sıcakk, kışın ise soğuk bir iklime sahip. Bu bölge, coğrafi çeşitliliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -43,8 +43,6 @@ BİTLİS'i ziyaret etmek, doğa tutkunları için bir hayal harika bir deneyim. 
 
 ## İlginç Bilgiler
 
-- BİTLİS, 140 hektarlık bir yeşil alana sahip
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - BİTLİS, İç Anadolu Bölgesi'nin güzide bir noktasında yer alıyor
 - Bu bölge, doğa severler için bir cennet
 - BİTLİS'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor

@@ -51,6 +51,6 @@ Kapı İçi Hamamı'na ziyaretçiler, kolayca ulaşabilir. Bu bölge, İstanbul'
 
 - Kapı İçi Hamamı, İstanbul'un tarihi plajlarından biridir
 - Bu bölge, Marmara Denizi'nin kıyısında yer alır
-- Kapı İçi Hamamı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Bu bölge, yılın her döneminde ziyaret edilebilir
 - Kapı İçi Hamamı'nın etrafı, çeşitli bitki türleri ile çevrilidir

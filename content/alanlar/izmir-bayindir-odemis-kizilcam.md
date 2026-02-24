@@ -30,7 +30,7 @@ wikidata_id: "Q108228442"
 
 ## Coğrafya
 
-İzmir-Bayındır-Ödemiş-Kızılçam milli parkı, Ege Bölgesi'nin coğrafi olarak en önemli yerlerinden biri. Park, Bayındır, Ödemiş ve Kızılçam ilçeleri arasında yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, ziyaretçiler farklı mevsimlerde farklı doğa güzelliklerine tanık olabiliyor. Parkın iklimi, Ege Bölgesi'nin genel iklimine benzeyen Akdeniz iklimi. Bu iklim, parkın flora ve faunasının çeşitlendirilmesine katkıda bulunuyor. Parkın çevre düzenlemesi, doğal güzelliklerin korunmasına önem veriyor ve ziyaretçilere temiz bir ortam sunuyor.
+İzmir-Bayındır-Ödemiş-Kızılçam milli parkı, Ege Bölgesi'nin coğrafi olarak en önemli yerlerinden biri. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Burada, ziyaretçiler farklı mevsimlerde farklı doğa güzelliklerine tanık olabiliyor. Parkın iklimi, Ege Bölgesi'nin genel iklimine benzeyen Akdeniz iklimi. Bu iklim, parkın flora ve faunasının çeşitlendirilmesine katkıda bulunuyor. Parkın çevre düzenlemesi, doğal güzelliklerin korunmasına önem veriyor ve ziyaretçilere temiz bir ortam sunuyor.
 
 ## Flora ve Fauna
 

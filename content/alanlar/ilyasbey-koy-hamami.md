@@ -37,7 +37,7 @@ wikidata_id: "Q131738789"
 
 ## Coğrafya
 
-İlyasbey Köy Hamamı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Köy, Bilecik ilinin merkezinde yer alıyor ve etrafı, çeşitli coğrafi oluşumlarla çevrili. Köyün coğrafi konumu, ziyaretçilere, Marmara Bölgesi'nin güzelliğini keşfetme fırsatı sunuyor. İlyasbey Köy Hamamı, 140 hektarlık bir alan üzerinde kurulu ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Köyün iklimi, Marmara Bölgesi'nin karakteristik iklimini yansıtıyor ve ziyaretçilere, dört mevsimi farklı güzelliği ile deneyimleme fırsatı sunuyor. İlyasbey Köy Hamamı, coğrafi güzelliği ve zengin fauna ile, doğa severlerin yeni adresi olarak kabul ediliyor.
+İlyasbey Köy Hamamı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Köy, Bilecik ilinin merkezinde yer alıyor ve etrafı, çeşitli coğrafi oluşumlarla çevrili. Köyün coğrafi konumu, ziyaretçilere, Marmara Bölgesi'nin güzelliğini keşfetme fırsatı sunuyor. Köyün iklimi, Marmara Bölgesi'nin karakteristik iklimini yansıtıyor ve ziyaretçilere, dört mevsimi farklı güzelliği ile deneyimleme fırsatı sunuyor. İlyasbey Köy Hamamı, coğrafi güzelliği ve zengin fauna ile, doğa severlerin yeni adresi olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131738789"
 ## İlginç Bilgiler
 
 - İlyasbey Köy Hamamı, Marmara Bölgesi'nin en önemli doğa harikalarından biri
-- Köy, 140 hektarlık bir alan üzerinde kurulu
+
 - İlyasbey Köy Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Köy, tarihsel geçmişi ile önemli bir kültürel miras olarak kabul ediliyor
 - İlyasbey Köy Hamamı, doğa severlerin yeni adresi olarak kabul ediliyor

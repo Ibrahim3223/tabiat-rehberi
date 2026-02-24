@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","tarihi yerleri
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Himmetin Tepesi","caption":"Himmetin Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Himmetin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390682","tip":"genel"}]
-description: "Amasya'nın doğal güzelliklerinden biri olan Himmetin Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Himmetin Tepesi","Amasya","Karadeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390682"
@@ -48,7 +48,6 @@ Himmetin Tepesi, ziyaretçilerine doğal güzellikleri ve zengin fauna ile birli
 
 ## İlginç Bilgiler
 
-- Himmetin Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, Karadeniz Bölgesi'nin önemli coğrafi özelliklerinden biridir
 - Himmetin Tepesi, çeşitli bitki türleri ve hayvan türlerini barındırır
 - Bu tepe, bölgenin ekolojik dengesini koruyan önemli bir alandır

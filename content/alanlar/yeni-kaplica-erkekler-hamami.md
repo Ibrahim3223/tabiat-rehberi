@@ -38,7 +38,7 @@ Yeni Kaplıca Erkekler Hamamı'nın tarihi geçmişi, yüzyıllar öncesine daya
 
 ## Coğrafya
 
-Yeni Kaplıca Erkekler Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide kurulmuş durumda. Bu bölgenin coğrafi özellikleri, kaplıca ve hamamın doğal güzelliklerine katkıda bulunarak, ziyaretçilere benzersiz bir deneyim sunuyor. Bölge, zengin flora ve fauna çeşitliliği ile birlikte, yaban hayatının da önemli bir parçası. Yeni Kaplıca Erkekler Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, karasal ve ılıman özellikleri gösteriyor.
+Yeni Kaplıca Erkekler Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide kurulmuş durumda. Bu bölgenin coğrafi özellikleri, kaplıca ve hamamın doğal güzelliklerine katkıda bulunarak, ziyaretçilere benzersiz bir deneyim sunuyor. Bölge, zengin flora ve fauna çeşitliliği ile birlikte, yaban hayatının da önemli bir parçası. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, karasal ve ılıman özellikleri gösteriyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Yeni Kaplıca Erkekler Hamamı, yılın her dönemi ziyaret edilebilecek bir des
 
 ## İlginç Bilgiler
 
-- Yeni Kaplıca Erkekler Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu kompleks, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip.
 - Bölge, zengin flora ve fauna çeşitliliğine sahip.
 - Yeni Kaplıca Erkekler Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biri.

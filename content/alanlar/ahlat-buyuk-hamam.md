@@ -29,7 +29,7 @@ wikidata_id: "Q131738753"
 
 # Ahlat Büyük Hamam
 
-Ahlat Büyük Hamam, Doğu Anadolu Bölgesi'nde, Bitlis ilinin Ahlat ilçesinde yer alan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alanda, çeşitli arkeolojik kalıntılarla birlikte bulunur. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu tarihi mekan, zengin bir kültürel mirasa sahiptir. Ahlat Büyük Hamam, ziyaretçilerini tarihin derinliklerine götürerek, bölgenin tarihi ve kültürel zenginliğini keşfetme fırsatı sunar. Tarihi ve doğal güzelliği bir araya getiren bu önemli mekan, turizm açısından da büyük bir potansiyele sahiptir.
+Ahlat Büyük Hamam, Doğu Anadolu Bölgesi'nde, Bitlis ilinin Ahlat ilçesinde yer alan tarihi bir hamamdır. Ahlat Büyük Hamam, ziyaretçilerini tarihin derinliklerine götürerek, bölgenin tarihi ve kültürel zenginliğini keşfetme fırsatı sunar. Tarihi ve doğal güzelliği bir araya getiren bu önemli mekan, turizm açısından da büyük bir potansiyele sahiptir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Ahlat Büyük Hamam'ı ziyaret etmek, bir gezi ve kültür deneyimi sunar. Ziyar
 ## İlginç Bilgiler
 
 - Ahlat Büyük Hamam, Selçuklu veya Osmanlı dönemlerinde inşa edilmiş olabilir.
-- Hamam, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunar.
 - Ahlat ilçesi, Van Gölü'nün batısında, dağların eteklerinde kurulmuştur.
 - Bölgenin iklimi, karasal iklim özellikleri gösterir.

@@ -49,7 +49,7 @@ Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta yer alan Şimşir Tepesi,
 ## İlginç Bilgiler
 
 - Şimşir Tepesi, Zonguldak'ın önemli turizm noktalarından biri
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Şimşir Tepesi'nin eteklerinde, şimşir ağaçları, meşe ağaçları, çam ağaçları ve çeşitli çalı türleri bulunuyor
 - Tepenin zirvesinde, Karadeniz Bölgesi'nin karakteristik bitki türleri yer alıyor
 - Şimşir Tepesi, çeşitli kuş türleri, memeliler ve sürüngenlerin yaşam alanı olarak kabul ediliyor

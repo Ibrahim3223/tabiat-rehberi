@@ -50,7 +50,7 @@ Hekim Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret dö
 ## İlginç Bilgiler
 
 - Hekim Hamamı, Ege Bölgesi'nin en güzel plajlarından biri
-- 140 hektarlık alan
+
 - Ege Denizi'nin masmavi suları
 - Tire'nin merkezine uzun bir mesafe uzaklıkta
 - Zengin flora ve fauna çeşitliliği

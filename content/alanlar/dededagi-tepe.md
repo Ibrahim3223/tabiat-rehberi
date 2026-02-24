@@ -49,7 +49,7 @@ Dededağı Tepe, ziyaretçilerine çeşitli faaliyetler ve güzellikler sunuyor.
 ## İlginç Bilgiler
 
 - Dededağı Tepe, Çorum'un önemli turizm noktalarından biri olarak biliniyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Dededağı Tepe, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunuyor.
 - Bu tepe, tarihsel ve kültürel zenginlikler de sunuyor.
 - Dededağı Tepe, ziyaretçilerine doğal güzellikleri ve çeşitli faaliyetleri sunuyor.

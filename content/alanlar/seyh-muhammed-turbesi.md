@@ -51,7 +51,6 @@ wikidata_id: "Q135582869"
 ## İlginç Bilgiler
 
 - Şeyh Muhammed Türbesi, Mardin'in önemli dini merkezlerinden biridir.
-- Bu türkben, 140 hektarlık bir alanda kurulmuştur.
 
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Şeyh Muhammed Türbesi, her yıl binlerce ziyaretçi tarafından ziyaret edilir.

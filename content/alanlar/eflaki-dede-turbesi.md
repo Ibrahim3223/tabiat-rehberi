@@ -51,7 +51,7 @@ Eflaki Dede Türbesi'ni ziyaret etmek, ziyaretçilerine rich bir deneyim sunuyor
 ## İlginç Bilgiler
 
 - Eflaki Dede Türbesi, Karatay, Konya'da yer alan bir tarihi mekan olarak biliniyor.
-- Mekan, 140 hektarlık bir alana sahip.
+
 - Eflaki Dede Türbesi, ziyaretçilerine zengin bir deneyim sunuyor.
 - Mekan, flora ve fauna türleri açısından zengin.
 - Eflaki Dede Türbesi, Karatay, Konya'nın en önemli turistik mekanlarından biri.

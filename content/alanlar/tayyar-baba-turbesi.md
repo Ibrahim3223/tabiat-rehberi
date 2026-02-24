@@ -30,7 +30,7 @@ wikidata_id: "Q131391833"
 
 # Tayyar Baba Türbesi
 
-Elazığ'ın merkezinde yer alan Tayyar Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplayan tarihi ve doğal bir güzelliktir. 200 futbol sahası büyüklüğünde olan bu alan, şehrin kalbinde yer alır ve ziyaretçilerini tarihin derinliklerine götürür. Tayyar Baba Türbesi, Elazığ'ın en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Türbenin etrafında yer alan tarihi yapılar ve doğa güzellikleri, ziyaretçilere unutulmaz bir deneyim sunar.
+ Tayyar Baba Türbesi, Elazığ'ın en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Türbenin etrafında yer alan tarihi yapılar ve doğa güzellikleri, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tayyar Baba Türbesi, Elazığ'ın tarih boyunca önemli bir merkez olmasından 
 
 ## Coğrafya
 
-Tayyar Baba Türbesi, Elazığ'ın merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, doğa güzellikleri ve tarihi yapılar ile dolu olup, ziyaretçilere geniş bir gezi imkanı sunar. Türbenin etrafında yer alan tepe ve vadiler, Elazığ'ın coğrafyasının güzelliklerini gösterir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu olup, ziyaretçilere doğanın zenginliğini sunar. Tayyar Baba Türbesi, Elazığ'ın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Türbenin konumu, Elazığ'ın şehir merkezine yakınlığı ile dikkat çeker ve ziyaretçilere kolay ulaşım imkanı sunar.
+ Bu alan, doğa güzellikleri ve tarihi yapılar ile dolu olup, ziyaretçilere geniş bir gezi imkanı sunar. Türbenin etrafında yer alan tepe ve vadiler, Elazığ'ın coğrafyasının güzelliklerini gösterir. Bölge, çeşitli bitki türleri ve hayvanlarla dolu olup, ziyaretçilere doğanın zenginliğini sunar. Tayyar Baba Türbesi, Elazığ'ın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Türbenin konumu, Elazığ'ın şehir merkezine yakınlığı ile dikkat çeker ve ziyaretçilere kolay ulaşım imkanı sunar.
 
 ## Flora ve Fauna
 

@@ -31,7 +31,7 @@ Suadiye milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Suadiye milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi desteklemektedir. 140 hektarlık bu alan, ziyaretçilere geniş bir doğa deneyimi sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtmaktadır. Parkın çevresi, doğal güzelliklerle dolu olup, ziyaretçilerin doğayı keşfetmesine olanak tanır. Suadiye milli parkı, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri sunan bir alandır.
+Suadiye milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi desteklemektedir. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtmaktadır. Parkın çevresi, doğal güzelliklerle dolu olup, ziyaretçilerin doğayı keşfetmesine olanak tanır. Suadiye milli parkı, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri sunan bir alandır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q64699411"
 
 # Old Turkish Bath of Hüdavendigar Complex
 
-İç Anadolu Bölgesi, tarihi ve kültürel zenginlikleriyle dikkat çeken bir bölgedir. Bu bölgede bulunan Old Turkish Bath of Hüdavendigar Complex, 140 hektarlık bir alan üzerinde kurulmuştur. Eski Türk hamamının mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker. Ziyaretçiler, bu tarihi eseri gezerek, Türk kültürü ve tarihi hakkında derinlemesine bilgi edinebilirler.
+İç Anadolu Bölgesi, tarihi ve kültürel zenginlikleriyle dikkat çeken bir bölgedir. Eski Türk hamamının mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker. Ziyaretçiler, bu tarihi eseri gezerek, Türk kültürü ve tarihi hakkında derinlemesine bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Old Turkish Bath of Hüdavendigar Complex, tarihi geçmişiyle dikkat çeken bir
 
 ## Coğrafya
 
-Old Turkish Bath of Hüdavendigar Complex, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölge, çeşitli bitki türleri ve fauna ile karakterizedir. Kompleksin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğüyle, ziyaretçilerine geniş bir açık alan sunar. Bu açık alanda, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, kompleksin yakınında, çeşitli su kaynakları mevcuttur. Bu su kaynakları, bölgenin ekolojisine önemli katkılar sağlar. Ziyaretçiler, bu coğrafi zenginliği keşfederek, doğal güzelliğin keyfini çıkarabilirler. Ayrıca, kompleksin mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker. Bu mimari, ziyaretçilere, Türk kültürü ve tarihi hakkında derinlemesine bilgi verir.
+Old Turkish Bath of Hüdavendigar Complex, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölge, çeşitli bitki türleri ve fauna ile karakterizedir. Bu açık alanda, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, kompleksin yakınında, çeşitli su kaynakları mevcuttur. Bu su kaynakları, bölgenin ekolojisine önemli katkılar sağlar. Ziyaretçiler, bu coğrafi zenginliği keşfederek, doğal güzelliğin keyfini çıkarabilirler. Ayrıca, kompleksin mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker. Bu mimari, ziyaretçilere, Türk kültürü ve tarihi hakkında derinlemesine bilgi verir.
 
 ## Flora ve Fauna
 
-Old Turkish Bath of Hüdavendigar Complex, flora ve fauna açısından zengin bir bölgede yer almaktadır. Bu bölgede, çeşitli bitki türleri ve fauna bulunur. Kompleksin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğüyle, ziyaretçilerine geniş bir açık alan sunar. Bu açık alanda, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, kompleksin yakınında, çeşitli su kaynakları mevcuttur. Bu su kaynakları, bölgenin ekolojisine önemli katkılar sağlar. Ziyaretçiler, bu coğrafi zenginliği keşfederek, doğal güzelliğin keyfini çıkarabilirler. Mevsimsel değişimler, kompleksin flora ve faunasını etkiler. İlkbahar ve yaz aylarında, bitkiler ve ağaçlar yeşillenir ve kompleks, doğal güzelliğinin zirvesine ulaşır. Sonbahar ve kış aylarında, kompleks, farklı bir güzelliğe bürünür ve ziyaretçilere, kış mevsiminin huzurunu sunar.
+Old Turkish Bath of Hüdavendigar Complex, flora ve fauna açısından zengin bir bölgede yer almaktadır. Bu bölgede, çeşitli bitki türleri ve fauna bulunur. Bu açık alanda, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, kompleksin yakınında, çeşitli su kaynakları mevcuttur. Bu su kaynakları, bölgenin ekolojisine önemli katkılar sağlar. Ziyaretçiler, bu coğrafi zenginliği keşfederek, doğal güzelliğin keyfini çıkarabilirler. Mevsimsel değişimler, kompleksin flora ve faunasını etkiler. İlkbahar ve yaz aylarında, bitkiler ve ağaçlar yeşillenir ve kompleks, doğal güzelliğinin zirvesine ulaşır. Sonbahar ve kış aylarında, kompleks, farklı bir güzelliğe bürünür ve ziyaretçilere, kış mevsiminin huzurunu sunar.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Old Turkish Bath of Hüdavendigar Complex, ziyaretçilerine zengin bir kültüre
 
 ## İlginç Bilgiler
 
-- Kompleks, 140 hektarlık bir alan üzerinde kurulmuştur.
 - Eski Türk hamamının mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker.
 - Kompleks, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her biri, bu topraklara kendi kültürel ve mimari izlerini bırakmıştır.
 - Ziyaretçiler, kompleksi gezerek, Türk tarihinin önemli dönemeçlerini keşfedebilirler.

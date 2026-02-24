@@ -28,7 +28,7 @@ wikidata_id: "Q31389660"
 
 # Aykız Tepesi
 
-Aykız Tepesi, Kastamonu'nun güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Aykız Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Tepenin etrafında yer alan köyler ve kasabalar, yöresel lezzetler ve el sanatları ile ziyaretçilerini ağırlıyor. Aykız Tepesi, doğa severler ve tarih meraklıları için bir hazine.
+ Aykız Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Tepenin etrafında yer alan köyler ve kasabalar, yöresel lezzetler ve el sanatları ile ziyaretçilerini ağırlıyor. Aykız Tepesi, doğa severler ve tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

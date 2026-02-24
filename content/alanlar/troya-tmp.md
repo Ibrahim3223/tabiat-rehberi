@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","pik
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Troya TMP","caption":"Troya TMP","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Troya%20TMP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227194","tip":"genel"}]
-description: "Troya TMP, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna"
+
 keywords: ["Troya TMP","İç Anadolu Bölgesi","doğal alan","yeşil alan","çeşitli bitki türleri","zengin fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227194"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227194"
 
 # Troya TMP
 
- Bu muazzam doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Troya TMP, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon. 140 hektarlık bu yeşil cennet, ziyaretçilerine huzur ve heyecan dolu anlar vaat ediyor.
+ Bu muazzam doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Troya TMP, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Troya TMP'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tar
 
 ## Coğrafya
 
-Troya TMP, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Troya TMP, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve ziyaretçilere benzersiz bir doğal ortam sunuyor.
+Troya TMP, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Troya TMP, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiş ve ziyaretçilere benzersiz bir doğal ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -38,11 +38,10 @@ Troya TMP, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbedi
 
 ## Ziyaret Bilgileri
 
-Troya TMP'yi ziyaret etmek, doğa severler ve macera arayışındaki kişiler için ideal bir seçenek. Ziyaretçiler, bölgenin doğa güzelliğini ve tarihi zenginliğini keşfedebiliyorlar. Troya TMP'ye ulaşım, çeşitli ulaşım araçları ile sağlanabiliyor. Ziyaretçiler, bölgenin giriş noktalarından herhangi birini kullanarak, 140 hektarlık yeşil alanın keyfini çıkarabilirler. Troya TMP, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları, bölgenin güzelliğini en çok gösteren dönemler.
+Troya TMP'yi ziyaret etmek, doğa severler ve macera arayışındaki kişiler için ideal bir seçenek. Ziyaretçiler, bölgenin doğa güzelliğini ve tarihi zenginliğini keşfedebiliyorlar. Troya TMP'ye ulaşım, çeşitli ulaşım araçları ile sağlanabiliyor. Troya TMP, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları, bölgenin güzelliğini en çok gösteren dönemler.
 
 ## İlginç Bilgiler
 
-- Troya TMP, 140 hektarlık bir yeşil alana sahip
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor
 - Troya TMP, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri
 - Bölge, yılın her dönemi ziyaret edilebilir

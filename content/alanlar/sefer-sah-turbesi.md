@@ -21,7 +21,7 @@ aktiviteler: ["tarihi yapıları incelemek","yeşil alanlarda dolaşmak","çevre
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg/960px-Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg","alt":"Sefer Şah Türbesi","caption":"Sefer Şah Türbesi","credit":"Karadouran village, Syria-Turkey boarderline, Kessab","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sefer%20%C5%9Eah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391500","tip":"genel"}]
-description: "Edirne ilinin merkezinde yer alan tarihi Sefer Şah Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlıyor."
+"
 keywords: ["Sefer Şah Türbesi","Edirne","tarihi mekan","yeşil alan","türk tarihi","tarihi yapı","mimarlık","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391500"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391500"
 
 # Sefer Şah Türbesi
 
-Sefer Şah Türbesi, Edirne ilinin merkezinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir tarihi mekân. Sefer Şah Türbesi, tarihi ve doğası ile ziyaretçilerini cezbeden bir destinasyon.
+ Sefer Şah Türbesi, tarihi ve doğası ile ziyaretçilerini cezbeden bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sefer Şah Türbesi, tarihsel geçmişe sahip bir yapı. Tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Sefer Şah Türbesi, Edirne ilinin merkezinde yer alıyor. Bu bölgenin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, çeşitli bitki türleri ile zengin bir flora sunuyor ve ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Sefer Şah Türbesi'nin bulunduğu bölge, iklim olarak ılıman bir yapıya sahip ve ziyaretçilere dört mevsim boyunca güzel bir atmosfer sunuyor. Çevre, tarihi yapılar ve yeşil alanlar ile süslü ve ziyaretçilere zengin bir coğrafi deneyim sunuyor.
+Sefer Şah Türbesi, Edirne ilinin merkezinde yer alıyor. Bu bölgenin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Bu alan, çeşitli bitki türleri ile zengin bir flora sunuyor ve ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Sefer Şah Türbesi'nin bulunduğu bölge, iklim olarak ılıman bir yapıya sahip ve ziyaretçilere dört mevsim boyunca güzel bir atmosfer sunuyor. Çevre, tarihi yapılar ve yeşil alanlar ile süslü ve ziyaretçilere zengin bir coğrafi deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sefer Şah Türbesi'ni ziyaret etmek, ziyaretçilere zengin bir deneyim sunuyor.
 ## İlginç Bilgiler
 
 - Sefer Şah Türbesi, Edirne ilinin merkezinde yer alıyor
-- 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor
+
 - tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
 - çevresindeki diğer tarihi yapılar ile birlikte bir bütün olarak düşünülüyor
 - zengin bir flora ve fauna sunuyor

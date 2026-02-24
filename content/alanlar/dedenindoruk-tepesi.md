@@ -36,20 +36,20 @@ Dedenindoruk Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlı
 
 ## Coğrafya
 
-Dedenindoruk Tepesi, Ankara'nın coğrafi yapısını karakterize eden bir tepe olup, şehrin merkezine yakın bir konumda yer alır. Tepenin yüksekliği, şehrin panoramik manzarasını izlemek için ideal bir nokta oluşturur. Tepenin etrafındaki 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, Ankara'nın doğal güzelliklerini korumak için önemli bir alandır. Dedenindoruk Tepesi, şehrin coğrafi yapısını ve doğal güzelliklerini keşfetmek için ideal bir noktadır. Tepenin konumu, ziyaretçilere şehri ve çevresini keşfetme fırsatı sunar.
+Dedenindoruk Tepesi, Ankara'nın coğrafi yapısını karakterize eden bir tepe olup, şehrin merkezine yakın bir konumda yer alır. Tepenin yüksekliği, şehrin panoramik manzarasını izlemek için ideal bir nokta oluşturur. Bu bölge, Ankara'nın doğal güzelliklerini korumak için önemli bir alandır. Dedenindoruk Tepesi, şehrin coğrafi yapısını ve doğal güzelliklerini keşfetmek için ideal bir noktadır. Tepenin konumu, ziyaretçilere şehri ve çevresini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
-Dedenindoruk Tepesi'nin etrafındaki 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgede, mevsimsel değişimler, canlıları ve ekolojiyi etkiler. Tepenin etrafındaki flora, Ankara'nın doğal güzelliklerini korumak için önemli bir alandır. Dedenindoruk Tepesi, Ankara'nın fauna ve florasını keşfetmek için ideal bir noktadır. Tepenin konumu, ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı sunar.
+ Bu bölgede, mevsimsel değişimler, canlıları ve ekolojiyi etkiler. Tepenin etrafındaki flora, Ankara'nın doğal güzelliklerini korumak için önemli bir alandır. Dedenindoruk Tepesi, Ankara'nın fauna ve florasını keşfetmek için ideal bir noktadır. Tepenin konumu, ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 
-Dedenindoruk Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek için ideal bir fırsattır. Tepenin yüksekliği ve konumu, şehrin panoramik manzarasını izlemek için ideal bir noktadır. Ziyaretçiler, tepenin etrafındaki 140 hektarlık alanı keşfedebilir ve çeşitli bitki türleri ve zengin fauna ile karşılaşabilir. Dedenindoruk Tepesi'ne, şehrin merkezinden kolayca ulaşılabilir. Ziyaretçiler, şehrin tarihi geçmişi ve doğal güzelliklerini keşfetmek için Dedenindoruk Tepesi'ni ziyaret edebilir.
+Dedenindoruk Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek için ideal bir fırsattır. Tepenin yüksekliği ve konumu, şehrin panoramik manzarasını izlemek için ideal bir noktadır. Dedenindoruk Tepesi'ne, şehrin merkezinden kolayca ulaşılabilir. Ziyaretçiler, şehrin tarihi geçmişi ve doğal güzelliklerini keşfetmek için Dedenindoruk Tepesi'ni ziyaret edebilir.
 
 ## İlginç Bilgiler
 
 - Dedenindoruk Tepesi, Ankara'nın panoramik manzarasını izlemek için ideal bir noktadır.
-- Tepenin etrafındaki 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+
 - Dedenindoruk Tepesi, Ankara'nın tarihi geçmişi hakkında önemli bilgiler içerir.
 - Tepenin konumu, ziyaretçilere şehri ve çevresini keşfetme fırsatı sunar.
 - Dedenindoruk Tepesi, Ankara'nın doğal güzelliklerini korumak için önemli bir alandır.

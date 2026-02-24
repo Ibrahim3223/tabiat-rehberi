@@ -22,8 +22,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Istanbul%2C_%C4%B0stanbul%2C_Turkey_-_panoramio_%28214%29.jpg","alt":"Karababa Türbesi manzarası","credit":"Maksym Kozlenko","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karababa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391816","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide illerinden Edirne'nin Meriç ilçesinde bulunan Karababa Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Karababa Türbesi","Edirne","Meriç","Marmara Bölgesi","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391816"
 ---
@@ -38,7 +38,7 @@ Karababa Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Karababa Türbesi, Marmara Bölgesi'nin Edirne ilinin Meriç ilçesinde bulunuyor. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alanla çevrili. Karababa Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu bölge, coğrafi olarak zengin bir flora ve faunaya sahip. Karababa Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve hayvan çeşitleriyle ziyaretçilerini cezbediyor.
+Karababa Türbesi, Marmara Bölgesi'nin Edirne ilinin Meriç ilçesinde bulunuyor. Karababa Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu bölge, coğrafi olarak zengin bir flora ve faunaya sahip. Karababa Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve hayvan çeşitleriyle ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Karababa Türbesi'ni ziyaret etmek, Marmara Bölgesi'nin güzide illerinden Edir
 
 - Karababa Türbesi, Marmara Bölgesi'nin en önemli dini merkezlerinden biri olarak biliniyor.
 - Bu türbe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
-- Karababa Türbesi, 140 hektarlık bir yeşil alanla çevrili.
+
 - Bu bölge, coğrafi olarak zengin bir flora ve faunaya sahip.
 - Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor.

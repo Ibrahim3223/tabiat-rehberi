@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Üçler Tepesi","caption":"Üçler Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7ler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810138","tip":"genel"}]
-description: "Kars'ın doğal güzelliklerini keşfedin, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Üçler Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34810138"
@@ -49,7 +49,7 @@ wikidata_id: "Q34810138"
 ## İlginç Bilgiler
 
 - Üçler Tepesi, Kars ilinin en yüksek noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Üçler Tepesi, yaban hayatının korunmasına yardımcı olmak adına önemli bir rol oynuyor
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Üçler Tepesi, özellikle doğa severlerin ve fotoğrafçıların ilgisini çekiyor

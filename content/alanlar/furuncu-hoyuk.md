@@ -20,7 +20,7 @@ aktiviteler: ["höyüğü gezmek","tarihi geçmişi hakkında bilgi edinmek","do
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Furuncu Höyük","caption":"Furuncu Höyük","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Furuncu%20H%C3%B6y%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206042","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin tarihi hazinesi, Malatya'da yer alan Furuncu Höyük, yaklaşık 140 hektarlık bir alana yayılmış antik bir yerleşim yeri."
+"
 keywords: ["Furuncu Höyük","Malatya","Doğu Anadolu Bölgesi","tarih","arkeoloji","kültür","coğrafya","Doğu Anadolu","Malatya gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32206042"
@@ -28,7 +28,7 @@ wikidata_id: "Q32206042"
 
 # Furuncu Höyük
 
-Furuncu Höyük, Malatya ilinin zengin tarihi mirasının önemli bir parçası olarak kabul edilir. Bu antik höyük, yaklaşık 140 hektarlık bir alana yayılmış ve tarihi geçmişi ile dikkat çekmektedir. Furuncu Höyük'ün etrafı, yeşilin çeşitli tonlarını sunan geniş bir doğal alanla çevrilidir ve bu da höyüğü ziyaret edenlerin hem tarihi hem de doğal güzelliği deneyimlemelerine olanak tanır.
+Furuncu Höyük, Malatya ilinin zengin tarihi mirasının önemli bir parçası olarak kabul edilir. Furuncu Höyük'ün etrafı, yeşilin çeşitli tonlarını sunan geniş bir doğal alanla çevrilidir ve bu da höyüğü ziyaret edenlerin hem tarihi hem de doğal güzelliği deneyimlemelerine olanak tanır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Furuncu Höyük'ü ziyaret etmek, ziyaretçilere tarihin derinliklerine yolculuk
 
 ## İlginç Bilgiler
 
-- Furuncu Höyük, yaklaşık 140 hektarlık bir alana yayılmış antik bir yerleşim yeridir.
 - Höyüğün tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan zengin bir kültürel mirası içerir.
 - Höyüğün bulunduğu Malatya ilinin iklimi, karasal iklim özellikleri taşır ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar.
 - Höyüğün etrafı, geniş ve verimli ovalarla çevrilidir ve bu da höyüğü ziyaret edenlerin doğal güzelliği ve tarihi mirası aynı anda deneyimlemelerine olanak tanır.

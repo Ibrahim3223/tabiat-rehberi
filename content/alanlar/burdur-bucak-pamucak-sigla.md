@@ -42,7 +42,6 @@ Burdur-Bucak-Pamucak Sigla milli parkını ziyaret etmek, doğa severler ve mace
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana yayılıyor.
 - Burdur iline bağlı Bucak ilçesinde yer alıyor.
 - Akdeniz Bölgesi'nin güzelliklerini barındırıyor.
 

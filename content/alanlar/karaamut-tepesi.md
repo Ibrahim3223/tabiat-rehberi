@@ -50,6 +50,6 @@ Karaamut Tepesi'ni ziyaret etmek, Şanlıurfa'nın doğal güzelliklerini keşfe
 
 - Karaamut Tepesi, Şanlıurfa'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor
 - Tepenin yüksekliği, şehrin merkezi bölgesine göre daha yüksek
-- Karaamut Tepesi, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alana sahip
+
 - Tepenin flora ve faunası, şehrin genel flora ve faunasına benzerlik gösteriyor ancak bu bölgenin flora ve faunası daha zengin ve çeşitli
 - Ziyaretçiler, bu bölgede, farklı türde ağaçlar, çalılar ve diğer bitki türleri keşfedebilirler

@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekimi","Picnic","Yaban hayvan
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sığıryatağı Tepesi","caption":"Sığıryatağı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1ryata%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390034","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Sığıryatağı Tepesi, 140 hektarlık geniş bir alanı kaplar. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur."
+ Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur."
 keywords: ["Sığıryatağı Tepesi","Ankara","İç Anadolu Bölgesi","Doğa","Tepeler","Flora","Fauna","Gezilecek Yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390034"
@@ -36,7 +36,7 @@ Sığıryatağı Tepesi'nin tarihsel geçmişi hakkında belirli bir bilgi bulun
 
 ## Coğrafya
 
-Sığıryatağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır. Bu tepe, 140 hektarlık geniş bir alanı kaplar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Sığıryatağı Tepesi, Ankara şehir merkezine uzun bir mesafe uzaklıktadır. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak görülür. Sığıryatağı Tepesi'nin coğrafi konumu, çeşitli mevsimsel değişimlere neden olur. İlkbahar ve sonbahar aylarında sıcaklık ve nem oranları ideal seviyededir. Kış aylarında kar yağışları görülürken, yaz aylarında sıcaklık artar. Sığıryatağı Tepesi'nin etrafındaki yerleşim yerleri, tepeye ulaşım için önemli bir role sahiptir. Tepenin yakınında bulunan köyler, Sığıryatağı Tepesi'ne ulaşmak için kullanılan ana yol güzergahlarıdır.
+Sığıryatağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Sığıryatağı Tepesi, Ankara şehir merkezine uzun bir mesafe uzaklıktadır. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak görülür. Sığıryatağı Tepesi'nin coğrafi konumu, çeşitli mevsimsel değişimlere neden olur. İlkbahar ve sonbahar aylarında sıcaklık ve nem oranları ideal seviyededir. Kış aylarında kar yağışları görülürken, yaz aylarında sıcaklık artar. Sığıryatağı Tepesi'nin etrafındaki yerleşim yerleri, tepeye ulaşım için önemli bir role sahiptir. Tepenin yakınında bulunan köyler, Sığıryatağı Tepesi'ne ulaşmak için kullanılan ana yol güzergahlarıdır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Sığıryatağı Tepesi, Ankara şehir merkezine uzun bir mesafe uzaklıktadır.
 
 ## İlginç Bilgiler
 
-- Sığıryatağı Tepesi, 140 hektarlık geniş bir alanı kaplar.
 - Bu tepe, Ankara şehir merkezine uzun bir mesafe uzaklıktadır.
 
 - Tepenin etrafındaki yerleşim yerleri, tepeye ulaşım için önemli bir role sahiptir.

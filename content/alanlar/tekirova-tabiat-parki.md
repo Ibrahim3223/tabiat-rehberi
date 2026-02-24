@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/B%C3%BCy%C3%BCkada_Nature_Park.jpg/960px-B%C3%BCy%C3%BCkada_Nature_Park.jpg","alt":"Tekirova Tabiat Parkı","caption":"Tekirova Tabiat Parkı","credit":"Büyükada Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekirova%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin önemli güzelliklerinden biri olan Tekirova Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tekirova","Tabiat Parkı","Antalya","Akdeniz Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 ---
@@ -41,7 +41,6 @@ Tekirova Tabiat Parkı'na ziyaret etmek, doğa severler ve tatil amaçlı gelenl
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Park, yemyeşil ormanlarla kaplı
 - Zengin fauna ve flora çeşitliliği
 - Varyasyon gösteren mevsimsel güzellikler

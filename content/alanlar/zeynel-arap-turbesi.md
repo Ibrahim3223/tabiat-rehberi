@@ -29,7 +29,7 @@ wikidata_id: "Q131390757"
 
 # Zeynel Arap Türbesi
 
-Zeynel Arap Türbesi, Çanakkale'nin Gelibolu ilçesinde yer alan ve tarihsel açıdan büyük önem taşıyan bir destinasyon. Bu türbe, yaklaşık 140 hektarlık bir alanda, Gelibolu'nun tarihi dokusuna uygun bir şekilde konumlandırılmış. Türbenin bulunduğu bölge, Gelibolu'nun tarihi ve kültürel mirasının önemli bir parçasını oluşturuyor. Zeynel Arap Türbesi, hem tarihi hem de coğrafi açıdan ziyaretçilerini bekleyen bir yer. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu türbe, ziyaretçilerine hem tarihi bir deneyim hem de güzel bir manzara sunuyor.
+Zeynel Arap Türbesi, Çanakkale'nin Gelibolu ilçesinde yer alan ve tarihsel açıdan büyük önem taşıyan bir destinasyon. Türbenin bulunduğu bölge, Gelibolu'nun tarihi ve kültürel mirasının önemli bir parçasını oluşturuyor. Zeynel Arap Türbesi, hem tarihi hem de coğrafi açıdan ziyaretçilerini bekleyen bir yer.
 
 ## Tarihçe
 

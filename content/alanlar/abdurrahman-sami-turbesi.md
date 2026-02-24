@@ -29,7 +29,7 @@ wikidata_id: "Q131390973"
 
 # Abdurrahman Şami Türbesi
 
-Abdurrahman Şami Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir mekan olarak dikkat çekiyor. Fatih ilçesinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanda konumlanıyor. Bu mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Abdurrahman Şami Türbesi, İstanbul'un önemli turistik mekanlarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi alıyor.
+Abdurrahman Şami Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir mekan olarak dikkat çekiyor. Bu mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Abdurrahman Şami Türbesi, İstanbul'un önemli turistik mekanlarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdurrahman Şami Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbe, Abd
 
 ## Coğrafya
 
-Abdurrahman Şami Türbesi, Marmara Bölgesi'nin merkezi olan İstanbul'da yer alıyor. Fatih ilçesinde bulunan bu mekan, şehrin tarihi ve turistik bölgesi olarak biliniyor. Türbe, yaklaşık 140 hektarlık bir alanda konumlanıyor ve geniş bir yeşil alan sunuyor. Çevresinde, çeşitli tarihi yapılar ve turistik mekanlar bulunuyor. İstanbul'un coğrafi konumu, bu türbeyi ziyaret etmek için ideal bir konum sunuyor. Şehrin merkezinde yer alan bu mekan, ulaşım açısından da oldukça rahat bir konumda bulunuyor. Abdurrahman Şami Türbesi, İstanbul'un coğrafi güzelliği ile tarihi önemini bir araya getiren bir mekan olarak dikkat çekiyor.
+Abdurrahman Şami Türbesi, Marmara Bölgesi'nin merkezi olan İstanbul'da yer alıyor. Fatih ilçesinde bulunan bu mekan, şehrin tarihi ve turistik bölgesi olarak biliniyor. Çevresinde, çeşitli tarihi yapılar ve turistik mekanlar bulunuyor. İstanbul'un coğrafi konumu, bu türbeyi ziyaret etmek için ideal bir konum sunuyor. Şehrin merkezinde yer alan bu mekan, ulaşım açısından da oldukça rahat bir konumda bulunuyor. Abdurrahman Şami Türbesi, İstanbul'un coğrafi güzelliği ile tarihi önemini bir araya getiren bir mekan olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

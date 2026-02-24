@@ -21,7 +21,7 @@ aktiviteler: ["tarihçe experiencia","coğrafi güzelliklerin keşfi","flora ve 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Istanbul_beaches-_Sea_of_Marmara_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_14.jpg","alt":"Erzen Hatun Kümbeti","caption":"Erzen Hatun Kümbeti","credit":"Istanbul beaches- Sea of Marmara 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzen%20Hatun%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582838","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin tarihi zenginliklerini keşfedin. Ahlat/Bitlis'te bulunan Erzen Hatun Kümbeti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Doğu Anadolu Bölgesi'nin tarihi zenginliklerini keşfedin."
 keywords: ["Erzen Hatun Kümbeti","Ahlat","Bitlis","Doğu Anadolu Bölgesi","tarihi mekanlar","kültürel miras","gezi rehberi","turistik yerler","coğrafi özellikleri","flora ve fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582838"
@@ -49,7 +49,6 @@ Erzen Hatun Kümbeti'ni ziyaret etmek, tarihi ve coğrafi güzelliklerini experi
 
 ## İlginç Bilgiler
 
-- Erzen Hatun Kümbeti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Doğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri
 - Bölgenin coğrafi özellikleri, flora ve fauna çeşitliliği
 - Tarihi belgelerin ve arkeolojik kazıların ışığında, Erzen Hatun Kümbeti'nin yüzyıllar boyunca önemli bir dini ve kültürel merkez olarak kabul edildiği anlaşılıyor

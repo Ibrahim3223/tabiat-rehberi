@@ -36,7 +36,7 @@ Esirgölü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Esirgölü Tepesi, Erzurum'un şehir merkezine yakın bir konumda yer alıyor ve şehrin manzarasını izlemek için ideal bir nokta. Bu tepe, 140 hektarlık bir alana sahip ve ziyaretçiler için geniş bir açık alan sunuyor. Tepenin coğrafi konumu, ziyaretçiler için önemli bir avantaj sağlıyor, çünkü şehrin merkezi ve çevresini kolayca keşfetme mümkün. Esirgölü Tepesi, özellikle gün batımı saatlerinde ziyaret ediliyor ve şehrin ışıklarının eşliğinde manzarayı izleme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfedebilir. Esirgölü Tepesi, Erzurum'un coğrafi açıdan önemli bir noktası olarak dikkat çekiyor ve ziyaretçiler, bu tepeyi ziyaret ederek şehrin doğal güzelliklerini keşfedebilir.
+Esirgölü Tepesi, Erzurum'un şehir merkezine yakın bir konumda yer alıyor ve şehrin manzarasını izlemek için ideal bir nokta. Tepenin coğrafi konumu, ziyaretçiler için önemli bir avantaj sağlıyor, çünkü şehrin merkezi ve çevresini kolayca keşfetme mümkün. Esirgölü Tepesi, özellikle gün batımı saatlerinde ziyaret ediliyor ve şehrin ışıklarının eşliğinde manzarayı izleme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfedebilir. Esirgölü Tepesi, Erzurum'un coğrafi açıdan önemli bir noktası olarak dikkat çekiyor ve ziyaretçiler, bu tepeyi ziyaret ederek şehrin doğal güzelliklerini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Esirgölü Tepesi'ni ziyaret etmek, Erzurum'un doğal güzelliklerini keşfetmek
 ## İlginç Bilgiler
 
 - Esirgölü Tepesi, Erzurum'un şehir merkezine yakın bir konumda yer alıyor
-- Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Esirgölü Tepesi, özellikle gün batımı saatlerinde ziyaret ediliyor
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Esirgölü Tepesi, Erzurum'un coğrafi açıdan önemli bir noktası olarak dikkat çekiyor

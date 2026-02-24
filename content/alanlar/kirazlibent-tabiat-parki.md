@@ -38,7 +38,7 @@ Kirazlıbent Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Kirazlıbent Tabiat Parkı, Marmara Bölgesi'nde, İstanbul ilinin sınırları içerisinde yer alıyor. Park, 140 hektarlık bir alana yayılıyor ve çeşitli coğrafi özellikler sunuyor. parkın topoğrafyası, genellikle engebeli arazilerden oluşuyor ve bu da ziyaretçilere farklı yürüyüş rotaları sunuyor. Kirazlıbent Tabiat Parkı, aynı zamanda zengin bir flora ve fauna ile dikkat çekiyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve ılıman özellikler gösteriyor. Bu, parkın doğal güzelliğini ve biyolojik çeşitliliğini destekleyen önemli bir faktör.
+Kirazlıbent Tabiat Parkı, Marmara Bölgesi'nde, İstanbul ilinin sınırları içerisinde yer alıyor. parkın topoğrafyası, genellikle engebeli arazilerden oluşuyor ve bu da ziyaretçilere farklı yürüyüş rotaları sunuyor. Kirazlıbent Tabiat Parkı, aynı zamanda zengin bir flora ve fauna ile dikkat çekiyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve ılıman özellikler gösteriyor. Bu, parkın doğal güzelliğini ve biyolojik çeşitliliğini destekleyen önemli bir faktör.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kirazlıbent Tabiat Parkı, ziyaretçilerine keyifli bir gün geçirmeleri için
 ## İlginç Bilgiler
 
 - Kirazlıbent Tabiat Parkı, İstanbul'un en büyük doğal alanlarından biri.
-- Park, 140 hektarlık bir alana yayılıyor.
+
 - Kirazlıbent Tabiat Parkı, çeşitli bitki ve hayvan türleri barındırıyor.
 - Parkın içinde, doğal yürüyüş yolları ve piknik alanları yer alıyor.
 - Kirazlıbent Tabiat Parkı, her mevsim ziyaret edilebilir.

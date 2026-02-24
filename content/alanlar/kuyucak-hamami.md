@@ -50,7 +50,7 @@ Kuyucak Hamamı, ziyaretçilerine çeşitli olanaklar sunar. Bu doğal alan, gen
 ## İlginç Bilgiler
 
 - Kuyucak Hamamı, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir.
-- Bu doğal alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Kuyucak Hamamı, ziyaretçilerine geniş ve yeşil bir alan sunar.
 - Bu doğal alan, mevsimsel değişimlere göre, farklı canlı türlerini barındırır.
 - Kuyucak Hamamı, ekolojik açıdan da önemlidir.

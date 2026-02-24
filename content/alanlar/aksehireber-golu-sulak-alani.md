@@ -30,7 +30,7 @@ Aksehir,Eber Golu Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekil
 
 ## Coğrafya
 
-Aksehir,Eber Golu Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Bu sulak alan, bölgenin jeolojik oluşumlarından biri olarak ortaya çıkmıştır. 140 hektarlık bir alana yayılmış olan sulak alan, bölgenin su dengesini koruma altına alıyor. İklim koşulları, sulak alanın fauna ve flora çeşitliliğini doğrudan etkiliyor. Bu bölge, özellikle kuş türleri için önemli bir yaşam alanı olarak hizmet veriyor. Coğrafi yapısı ve iklim koşulları, bu sulak alanın doğal güzelliğini ve biyolojik çeşitliliğini desteklemektedir.
+Aksehir,Eber Golu Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Bu sulak alan, bölgenin jeolojik oluşumlarından biri olarak ortaya çıkmıştır. İklim koşulları, sulak alanın fauna ve flora çeşitliliğini doğrudan etkiliyor. Bu bölge, özellikle kuş türleri için önemli bir yaşam alanı olarak hizmet veriyor. Coğrafi yapısı ve iklim koşulları, bu sulak alanın doğal güzelliğini ve biyolojik çeşitliliğini desteklemektedir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390894"
 
 # Aktoprak Tepesi
 
-Aktoprak Tepesi, Yozgat ilinin merkezine yakındır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve çevresindeki diğer tepelerle birlikte bir bütün oluşturur. Tepenin yüksekliği, civarındaki diğer tepelere göre dikkat çekici bir şekilde farklılık gösterir. Aktoprak Tepesi, özellikle yerel halk tarafından bilinen bir noktadır ve ziyaretçilere hem tarihi hem de doğal güzellikleri sunar.
+Aktoprak Tepesi, Yozgat ilinin merkezine yakındır. Tepenin yüksekliği, civarındaki diğer tepelere göre dikkat çekici bir şekilde farklılık gösterir. Aktoprak Tepesi, özellikle yerel halk tarafından bilinen bir noktadır ve ziyaretçilere hem tarihi hem de doğal güzellikleri sunar.
 
 ## Tarihçe
 

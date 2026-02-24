@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Aydin-Aydın Sigla","caption":"Aydin-Aydın Sigla","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydin-Ayd%C4%B1n%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228102","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Aydın-Aydın Sigla, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir milli parktır."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Aydın-Aydın Sigla","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228102"
@@ -43,7 +43,7 @@ Aydın-Aydın Sigla, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve
 ## İlginç Bilgiler
 
 - Milli parkın içinde, çeşitli bitki türleri bulunur.
-- Aydın-Aydın Sigla, 140 hektarlık bir alana sahiptir.
+
 - Milli park, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Ziyaretçiler, milli parkın içinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi tesislerden yararlanabilir.
 - Aydın-Aydın Sigla, hem doğa tutkunları hem de çevre bilincine sahip herkes için bir cennettir.

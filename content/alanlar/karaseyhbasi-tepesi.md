@@ -28,7 +28,7 @@ wikidata_id: "Q31388940"
 
 # Karaşeyhbaşı Tepesi
 
-Erzurum'un dağlık bölgesinde yer alan Karaşeyhbaşı Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülemektedir. Karaşeyhbaşı Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve ziyaretçilere eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel hayatın nasıl olduğunu gösteriyor.
+ Karaşeyhbaşı Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve ziyaretçilere eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel hayatın nasıl olduğunu gösteriyor.
 
 ## Tarihçe
 

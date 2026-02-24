@@ -43,7 +43,7 @@ Adapazari-Hendek-Karadere Karacam milli parkını ziyaret etmek, doğa severler 
 ## İlginç Bilgiler
 
 - Bölgenin flora ve faunası çok zengin
-- Milli park, 140 hektarlık bir alanı kaplar
+
 - Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer
 - Bahar ve sonbahar mevsimleri, bölgenin güzelliğini keşfetmek için en uygun zamanlardır
 - Bölgenin doğal güzelliği, uzun zaman önce insanların dikkatini çekmiştir

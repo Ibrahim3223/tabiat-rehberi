@@ -51,6 +51,5 @@ Himmet Dede Kümbeti'ni ziyaret etmek, hem tarihe ilgi duyanlar hem de doğayı 
 
 - Himmet Dede Kümbeti, tarihi bir kümbettir.
 - Bu yapı, yüzyıllar boyunca önemli bir kültürel merkez olarak hizmet vermiştir.
-- Himmet Dede Kümbeti, 140 hektarlık bir alana sahiptir.
 
 - Himmet Dede Kümbeti, ziyaretçilerine geniş bir yeşil alan sunar.

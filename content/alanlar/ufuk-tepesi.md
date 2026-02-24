@@ -51,5 +51,5 @@ Ufuk Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken,
 - Ufuk Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça olarak, bölgenin doğal güzelliklerini gözler önüne serer
 - Bu tepe, flora ve fauna açısından zengin bir mekan olarak, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar
 - Ufuk Tepesi, tarihin gizemli sayfalarında yer alan bir mekan olarak, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
-- Bu tepe, 140 hektarlık geniş bir alana sahip olup, yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Ufuk Tepesi, yılın her mevsiminde ziyaret edilebilir

@@ -36,7 +36,7 @@ Büyükbel Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Büyükbel Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yemyeşil ormanlar ve tepelerle çevrili. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak oldukça zengin. Tepenin zirvesinden, Karadeniz Bölgesi'nin panoramik manzarasını izleyebilirsiniz. Büyükbel Tepesi, yıl boyunca farklı mevsimlerde ziyaret edilebilir. İlkbahar ve yaz aylarında, ormanlar yeşillenir ve çiçekler açar, sonbahar ve kış aylarında ise, manzara farklı bir güzelliğe bürünür. Büyükbel Tepesi, coğrafi olarak oldukça çeşitli bir bölge ve her mevsim farklı bir deneyim sunuyor.
+Büyükbel Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yemyeşil ormanlar ve tepelerle çevrili. Tepenin zirvesinden, Karadeniz Bölgesi'nin panoramik manzarasını izleyebilirsiniz. Büyükbel Tepesi, yıl boyunca farklı mevsimlerde ziyaret edilebilir. İlkbahar ve yaz aylarında, ormanlar yeşillenir ve çiçekler açar, sonbahar ve kış aylarında ise, manzara farklı bir güzelliğe bürünür. Büyükbel Tepesi, coğrafi olarak oldukça çeşitli bir bölge ve her mevsim farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Büyükbel Tepesi'ni ziyaret etmek, oldukça kolay. Çorum'un merkezinden ulaş�
 
 ## İlginç Bilgiler
 
-- Büyükbel Tepesi, 140 hektarlık bir alanı kaplıyor
 - Büyükbel Tepesi, yüzyıllar öncesine dayanan bir tarihi geçmişi var
 - Büyükbel Tepesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Büyükbel Tepesi, yıl boyunca ziyaret edilebilir

@@ -42,7 +42,6 @@ Mersin-Mut-Alahan Ardic, ziyaretçilerine keyifli bir gezi deneyimi sunmak için
 
 ## İlginç Bilgiler
 
-- Mersin-Mut-Alahan Ardic, 140 hektarlık bir alanı kapsıyor.
 - Bu milli park, Mersin ilinin Mut ilçesinde yer alıyor.
 - Mersin-Mut-Alahan Ardic, ziyaretçilerine keyifli bir gezi deneyimi sunmak için çevresel koşulları ile birlikte özel bir destinasyon olarak dikkat çekiyor.
 - Bu milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor.

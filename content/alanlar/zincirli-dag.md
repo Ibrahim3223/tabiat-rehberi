@@ -50,7 +50,7 @@ Zincirli Dağ, ziyaretçilerine bölgenin doğal güzelliğini keşfetme fırsat
 ## İlginç Bilgiler
 
 - Zincirli Dağ, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir parça
-- Bu tepe, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Zincirli Dağ, bölgenin flora ve faunasını oluşturan önemli bir parça
 - Bu tepe, ziyaretçilerine bölgenin doğal güzelliğini keşfetme fırsatı sunuyor
 - Zincirli Dağ, İç Anadolu Bölgesi'nin önemli bir turizm merkezi

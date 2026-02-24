@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/FalihR%C4%B1fk%C4%B1AtayNaturePark.jpg","alt":"Falih Rıfkı Atay Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d4/BelgradForest_%2825%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BelgradForest_%2825%29.jpg/1280px-BelgradForest_%2825%29.jpg","alt":"Falih Rıfkı Atay Tabiat Parkı - BelgradForest (25)","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/FalihR%C4%B1fk%C4%B1AtayNaturePark.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FalihR%C4%B1fk%C4%B1AtayNaturePark.jpg/1280px-FalihR%C4%B1fk%C4%B1AtayNaturePark.jpg","alt":"Falih Rıfkı Atay Tabiat Parkı - FalihRıfkıAtayNaturePark","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b5/BelgradForest_%2811%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BelgradForest_%2811%29.jpg/1280px-BelgradForest_%2811%29.jpg","alt":"Falih Rıfkı Atay Tabiat Parkı - BelgradForest (11)","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/BelgradForest_%2822%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BelgradForest_%2822%29.jpg/1280px-BelgradForest_%2822%29.jpg","alt":"Falih Rıfkı Atay Tabiat Parkı - BelgradForest (22)","credit":"CeeGee","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Falih%20R%C4%B1fk%C4%B1%20Atay%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915734","tip":"genel"}]
-description: "İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık tabiat parkı"
+
 keywords: ["tabiat parkı","Sarıyer","İstanbul","Marmara Bölgesi","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q24915734"
@@ -50,8 +50,6 @@ Falih Rıfkı Atay Tabiat Parkı, ziyaretçilere birçok aktivite sunuyor. Ziyar
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık bir alanı kapsıyor
-- Park, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın adının, ünlü Türk yazar ve siyasetçi Falih Rıfkı Atay'dan esinlenere verildiği biliniyor
 - Park, Marmara Bölgesi'nin kuzeydoğusunda yer alıyor
 - Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli

@@ -36,7 +36,7 @@ Gedikler Tepe'nin tarihi geçmişi, oldukça zengin. Bu bölge, yüzyıllar boyu
 
 ## Coğrafya
 
-Gedikler Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, oldukça geniş bir bölge. Gedikler Tepe'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, yaban hayatının zenginliği de dikkat çekiyor. Gedikler Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişiyle ilgi çekiyor. Bu tepe, Konya'nın coğrafi yapısını da yansıtıyor. Gedikler Tepe'nin bulunduğu bölge, genellikle step iklimi görülüyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Gedikler Tepe, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Bu tepe, Konya'nın önemli coğrafi mekanlarından biri olarak kabul ediliyor.
+Gedikler Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor. Gedikler Tepe'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, yaban hayatının zenginliği de dikkat çekiyor. Gedikler Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişiyle ilgi çekiyor. Bu tepe, Konya'nın coğrafi yapısını da yansıtıyor. Gedikler Tepe'nin bulunduğu bölge, genellikle step iklimi görülüyor. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Gedikler Tepe, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Bu tepe, Konya'nın önemli coğrafi mekanlarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gedikler Tepe, ziyaretçilerine birçok farklı deneyim sunuyor. Bu tepe, Konya'
 ## İlginç Bilgiler
 
 - Gedikler Tepe, Konya'nın en önemli doğa mekanlarından biri.
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, oldukça geniş bir bölge.
+
 - Gedikler Tepe'nin etrafı, çeşitli bitki türleriyle dolu.
 - Bu bölgede, yaban hayatının zenginliği de dikkat çekiyor.
 - Gedikler Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişiyle ilgi çekiyor.

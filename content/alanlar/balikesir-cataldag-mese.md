@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kampçılık","doğa fotoğrafçılığı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Balikesir-Cataldag Mese","caption":"Balikesir-Cataldag Mese","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Cataldag%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227701","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["milli park","doğa","yeşil alan","İç Anadolu Bölgesi","Balikesir","Cataldag Mese"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227701"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227701"
 
 # Balikesir-Cataldag Mese
 
-Balikesir-Cataldag Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Mese'nin etrafındaki dağlar ve ormanlar, bu bölgeyi bir doğa harikası haline getirmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Mese, aynı zamanda bir milli par olup, Türkiye'nin doğal güzelliklerini korumak amacıyla kurulmuştur.
+ Mese'nin etrafındaki dağlar ve ormanlar, bu bölgeyi bir doğa harikası haline getirmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Mese, aynı zamanda bir milli par olup, Türkiye'nin doğal güzelliklerini korumak amacıyla kurulmuştur.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Balikesir-Cataldag Mese, doğa severler ve bilim insanları tarafından ziyaret 
 
 ## İlginç Bilgiler
 
-- Mese, 140 hektarlık bir yeşil alandır
-- Mese, yaklaşık 200 futbol sahası büyüklüğündedir
 - Mese, İç Anadolu Bölgesi'nin en güzel yerlerinden birisidir
 - Mese, bir milli parktır
 - Mese, doğa severler ve bilim insanları tarafından ziyaret edilir

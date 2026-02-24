@@ -48,7 +48,6 @@ Koca Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor. Tepe
 
 ## İlginç Bilgiler
 
-- Koca Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin yüksekliği, çevredeki diğer tepelerle karşılaştırıldığında, oldukça dikkat çekici.
 - Koca Tepesi, çeşitli bitki türleri ve hayvanlar barındıran zengin bir ekosisteme sahip.
 - Tepenin manzarası, özellikle güneşin batış saatlerinde, büyüleyici bir görünüm sunuyor.

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Dilek_Yar%C4%B1madas%C4%B1nda_Da%C4%9Flar_ve_Deniz.jpg","alt":"Dilek Yarımadası Sit Alanı manzarası","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Dilek_Yar%C4%B1madas%C4%B1nda_Ye%C5%9Fil_ve_Mavinin_Bul%C4%B1u%C5%9Fmas%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dilek_Yar%C4%B1madas%C4%B1nda_Ye%C5%9Fil_ve_Mavinin_Bul%C4%B1u%C5%9Fmas%C4%B1.jpg/1280px-Dilek_Yar%C4%B1madas%C4%B1nda_Ye%C5%9Fil_ve_Mavinin_Bul%C4%B1u%C5%9Fmas%C4%B1.jpg","alt":"Dilek Yarımadası Sit Alanı - Dilek Yarımadasında Yeşil ve Mavinin Bulıuşması","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Dilek_Yar%C4%B1madas%C4%B1nda_Dinlenme_Manzaras%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dilek_Yar%C4%B1madas%C4%B1nda_Dinlenme_Manzaras%C4%B1.jpg/1280px-Dilek_Yar%C4%B1madas%C4%B1nda_Dinlenme_Manzaras%C4%B1.jpg","alt":"Dilek Yarımadası Sit Alanı - Dilek Yarımadasında Dinlenme Manzarası","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Dilek_Yar%C4%B1madas%C4%B1nda_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Yolu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dilek_Yar%C4%B1madas%C4%B1nda_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Yolu.jpg/1280px-Dilek_Yar%C4%B1madas%C4%B1nda_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Yolu.jpg","alt":"Dilek Yarımadası Sit Alanı - Dilek Yarımadasında Yürüyüş Yolu","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Dilek_Yar%C4%B1madas%C4%B1nda_Tilki.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dilek_Yar%C4%B1madas%C4%B1nda_Tilki.jpg/1280px-Dilek_Yar%C4%B1madas%C4%B1nda_Tilki.jpg","alt":"Dilek Yarımadası Sit Alanı - Dilek Yarımadasında Tilki","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4f/No_end_in_sight.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/No_end_in_sight.jpg/1280px-No_end_in_sight.jpg","alt":"Dilek Yarımadası Sit Alanı - No end in sight","credit":"Cercik","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dilek%20Yar%C4%B1madas%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226817","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Dilek Yarımadası Sit Alanı, 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor."
+"
 keywords: ["Dilek Yarımadası","Sit Alanı","İç Anadolu Bölgesi","yeşil alan","zengin fauna","doğa","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226817"
@@ -23,7 +23,7 @@ wikidata_id: "Q108226817"
 
 # Dilek Yarımadası Sit Alanı
 
-Dilek Yarımadası Sit Alanı, İç Anadolu Bölgesi'nin gözde mekanlarından biri olarak 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor. Tarihi geçmişi ile de dikkat çeken Dilek Yarımadası, ziyaretçilerine hem doğa hem de tarih hakkında bilgi veriyor.
+ Tarihi geçmişi ile de dikkat çeken Dilek Yarımadası, ziyaretçilerine hem doğa hem de tarih hakkında bilgi veriyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Dilek Yarımadası Sit Alanı, yüzyıllar boyunca çeşitli uygarlıklara ev sa
 
 ## Coğrafya
 
-Dilek Yarımadası Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan. Coğrafi olarak dikkat çekici bir konumda bulunan Dilek Yarımadası, zengin fauna ve flora ile dikkat çekiyor. Bu bölgede çeşitli bitki türleri ve hayvanlar yaşıyor. Dilek Yarımadası, ziyaretçilerine hem güzelliği hem de coğrafi konumu ile unutulmaz bir deneyim sunuyor.
+ Coğrafi olarak dikkat çekici bir konumda bulunan Dilek Yarımadası, zengin fauna ve flora ile dikkat çekiyor. Bu bölgede çeşitli bitki türleri ve hayvanlar yaşıyor. Dilek Yarımadası, ziyaretçilerine hem güzelliği hem de coğrafi konumu ile unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Dilek Yarımadası Sit Alanı, ziyaretçilerine hem doğa hem de tarih hakkında
 
 ## İlginç Bilgiler
 
-- Dilek Yarımadası Sit Alanı, 140 hektarlık bir yeşil alanı kapsıyor.
 - Bu bölgede çeşitli bitki türleri ve hayvanlar yaşıyor.
 - Dilek Yarımadası, ziyaretçilerine hem doğa hem de tarih hakkında bilgi veriyor.
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış tarihi bir mekan.

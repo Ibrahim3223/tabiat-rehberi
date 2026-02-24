@@ -51,7 +51,7 @@ Geyikli Baba Türbesi'ni ziyaret etmek, bölge hakkında bilgi edinme ve tarihi 
 ## İlginç Bilgiler
 
 - Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer alır.
-- Bölge, 140 hektarlık bir yeşil alana sahiptir.
+
 - Geyikli Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Geyikli Baba Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biridir.

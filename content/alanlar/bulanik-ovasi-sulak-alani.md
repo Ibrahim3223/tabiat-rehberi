@@ -42,7 +42,6 @@ Bulanık Ovası Sulak Alanı, doğa severler için bir çekim merkezi. Bu bölge
 
 ## İlginç Bilgiler
 
-- Bulanık Ovası Sulak Alanı, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, sulak alanların çeşitliliğini gösteren bir bölgedir.
 - Bulanık Ovası Sulak Alanı, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Bu bölge, doğa severler için bir çekim merkezi olarak ön plana çıkıyor.

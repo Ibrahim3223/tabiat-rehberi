@@ -37,7 +37,7 @@ Beşikli Baba Türbesi, tarihi geçmişiyle dikkat çeker. Bu türbenin tam tari
 
 ## Coğrafya
 
-Beşikli Baba Türbesi, Elazığ'ın merkezinde yer alır ve şehrin coğrafi yapısını yansıtır. Türbe, yaklaşık 140 hektarlık bir alanın ortasında yer alır ve bu geniş alan, yeşilliklerle kaplıdır. Bu alan, ziyaretçilere huzurlu bir ortam sunar ve Elazığ'ın doğal güzelliklerini keşfetme fırsatı sağlar. Türbenin etrafındaki coğrafya, şehrin iklimini ve çevresini yansıtır. Elazığ, Doğu Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri, Beşikli Baba Türbesi'nin konumunu etkiler. Türbe, şehrin merkezi konumunda yer alır ve ulaşımı kolaydır. Beşikli Baba Türbesi, Elazığ'ın coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Beşikli Baba Türbesi, Elazığ'ın merkezinde yer alır ve şehrin coğrafi yapısını yansıtır. Bu alan, ziyaretçilere huzurlu bir ortam sunar ve Elazığ'ın doğal güzelliklerini keşfetme fırsatı sağlar. Türbenin etrafındaki coğrafya, şehrin iklimini ve çevresini yansıtır. Elazığ, Doğu Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri, Beşikli Baba Türbesi'nin konumunu etkiler. Türbe, şehrin merkezi konumunda yer alır ve ulaşımı kolaydır. Beşikli Baba Türbesi, Elazığ'ın coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Beşikli Baba Türbesi'ni ziyaret etmek, Elazığ'ın tarihi ve kültürel zengi
 ## İlginç Bilgiler
 
 - Beşikli Baba Türbesi, Elazığ'ın en çok ziyaret edilen yerlerinden biri
-- Türbenin etrafındaki alan, yaklaşık 140 hektarlık bir alana sahiptir
+
 - Beşikli Baba Türbesi, şehrin tarihi ve kültürel mirasının önemli bir parçasıdır
 - Türbe, çeşitli dönemlerde restore edilmiştir
 - Beşikli Baba Türbesi, Elazığ'ın coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur

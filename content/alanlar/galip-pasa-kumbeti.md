@@ -50,7 +50,7 @@ Galip Paşa Kümbeti'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri ke
 ## İlginç Bilgiler
 
 - Galip Paşa Kümbeti, Van ilinin önemli tarihi mekanlarından biri.
-- Kümbet, 140 hektarlık bir alanı kapsıyor.
+
 - Bölgede, çeşitli bitki türleri ve zengin fauna encontrado.
 - Galip Paşa Kümbeti, hem dini hem de turistik bir destinasyon olarak hizmet veriyor.
 - Bölge, trekking ve doğa yürüyüşü gibi faaliyetler için ideal bir ortam sunuyor.

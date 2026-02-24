@@ -44,7 +44,7 @@ Sultan Sazlığı Sulak Alanı, ziyaretçilerine çeşitli aktivite olanakları 
 ## İlginç Bilgiler
 
 - Sultan Sazlığı Sulak Alanı, İç Anadolu Bölgesi'nin en önemli sulak alanlarından biri.
-- Sulak alan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Sultan Sazlığı Sulak Alanı, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 - Sulak alan, aynı zamanda çeşitli kuş türleri için önemli bir yaşam alanı sunuyor.
 - Sultan Sazlığı Sulak Alanı, doğal güzelliği ve fauna çeşitliliği ile dikkat çekici bir destinasyon.

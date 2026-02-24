@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Köpeklikarşı Tepesi","caption":"Köpeklikarşı Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6peklikar%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210248","tip":"genel"}]
-description: "Diyarbakır'ın tarihi ve doğal güzellikleri ile dikkat çeken Köpeklikarşı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Köpeklikarşı Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32210248"

@@ -21,8 +21,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/Dve_mogili_Townhall.JPG","alt":"İkitepe manzarası","credit":"Anton Lefterov","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Chitalishte_in_Dve_Mogili.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Chitalishte_in_Dve_Mogili.JPG/1280px-Chitalishte_in_Dve_Mogili.JPG","alt":"İkitepe - Chitalishte in Dve Mogili","credit":"Anton Lefterov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Monumento_a_Filip_Totiu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Monumento_a_Filip_Totiu.jpg/1280px-Monumento_a_Filip_Totiu.jpg","alt":"İkitepe - Monumento a Filip Totiu","credit":"Imonclus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Chitaliste_en_Dve_Mogili.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Chitaliste_en_Dve_Mogili.jpg/1280px-Chitaliste_en_Dve_Mogili.jpg","alt":"İkitepe - Chitaliste en Dve Mogili","credit":"Imonclus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3c/DveMogili_Municipality_Within_Bulgaria.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/3c/DveMogili_Municipality_Within_Bulgaria.png","alt":"İkitepe - DveMogili Municipality Within Bulgaria","credit":"Bulgaria_location_map.svg: NordNordWest\nderivative work: MrPanyGoff","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kitepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385752","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan İkitepe, Kayseri ilinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["İkitepe","Kayseri","İç Anadolu Bölgesi","coğrafi oluşum","yeşil alan","futbol sahası"]
+description: "İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan İkitepe, Kayseri ilinde yer alır."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385752"
 ---
@@ -49,7 +49,6 @@ wikidata_id: "Q31385752"
 
 ## İlginç Bilgiler
 
-- İkitepe, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde
 - İkitepe, Kayseri ilinin önemli bir coğrafi oluşumu olarak kabul edilir
 - İkitepe, çeşitli flora ve fauna örnekleri ile zengin bir ekosisteme sahiptir
 - İkitepe, bölgenin doğal güzelliklerini sunar ve ziyaretçilerine geniş bir manzara sunar

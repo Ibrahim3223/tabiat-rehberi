@@ -22,7 +22,7 @@ wikidata_id: "Q108227908"
 
 # Kahramanmaras-Kilis-Islahiye Kızılçam
 
-Kahramanmaras-Kilis-Islahiye Kızılçam Milli Parkı, yaklaşık 140 hektarlık bir alan kaplıyor. Parkın konumu, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin yeşillendirilmiş bir köşesi olarak dikkat çekiyor. Ziyaretçiler, bu milli parkta kendilerini doğanın içinde bulacaklar ve yeşilin her tonunu görebilecekler. Parkın hikayesi, bölgenin coğrafi yapısıyla yakından ilgili ve bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
+ Parkın konumu, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin yeşillendirilmiş bir köşesi olarak dikkat çekiyor. Ziyaretçiler, bu milli parkta kendilerini doğanın içinde bulacaklar ve yeşilin her tonunu görebilecekler. Parkın hikayesi, bölgenin coğrafi yapısıyla yakından ilgili ve bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 
 ## Tarihçe
 

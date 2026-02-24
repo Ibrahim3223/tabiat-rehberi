@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Bugor Mata-Tepe","caption":"Bugor Mata-Tepe","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bugor%20Mata-Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386480","tip":"genel"}]
-description: "Hatay'ın doğal güzelliklerinden biri olan Bugor Mata-Tepe, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
+"
 keywords: ["Bugor Mata-Tepe","Hatay","Akdeniz Bölgesi","tepe","doğa","flora","fauna","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386480"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386480"
 
 # Bugor Mata-Tepe
 
- Bu alan, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. İnsanlar bu tepeyi ziyaret ettiğinde, hem doğanın güzelliğini görebiliyor hem de yaban hayatının çeşitliliğini gözlemleyebiliyor.
+ Bu alan, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini cezbediyor. İnsanlar bu tepeyi ziyaret ettiğinde, hem doğanın güzelliğini görebiliyor hem de yaban hayatının çeşitliliğini gözlemleyebiliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Bugor Mata-Tepe'yi ziyaret etmek, doğayla iç içe bir deneyim sunuyor. Ziyaret
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - zengin fauna çeşitliliği
 - tarihi geçmişi
 - coğrafi çeşitlilik

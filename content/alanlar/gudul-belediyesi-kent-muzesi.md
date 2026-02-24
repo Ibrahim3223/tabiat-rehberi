@@ -21,7 +21,7 @@ aktiviteler: ["müze gezisi","yeşil alan gezisi","coğrafi konum hakkında bilg
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Güdül Belediyesi Kent Müzesi","caption":"Güdül Belediyesi Kent Müzesi","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl%20Belediyesi%20Kent%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950299","tip":"genel"}]
-description: "Ankara'nın Güdül ilçesinde bulunan Kent Müzesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Güdül Belediyesi","Kent Müzesi","Ankara","İç Anadolu Bölgesi","yeşil alan","müze","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132950299"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950299"
 
 # Güdül Belediyesi Kent Müzesi
 
-Güdül Belediyesi Kent Müzesi, Ankara'nın Güdül ilçesinde yer alan ve 140 hektarlık yeşil alanıyla dikkat çeken bir müzedir. Müzenin içerisinde, Güdül'ün tarihçesi, coğrafyası ve kültürel özellikleri hakkında detaylı bilgiler bulunur. Ziyaretçiler, bu bilgiler ışığında Güdül'ün geçmişini ve günümüzdeki durumunu daha iyi anlayabilirler.
+ Müzenin içerisinde, Güdül'ün tarihçesi, coğrafyası ve kültürel özellikleri hakkında detaylı bilgiler bulunur. Ziyaretçiler, bu bilgiler ışığında Güdül'ün geçmişini ve günümüzdeki durumunu daha iyi anlayabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güdül Belediyesi Kent Müzesi'nin tarihi geçmişi, Güdül'ün tarihçesi ile
 
 ## Coğrafya
 
-Güdül Belediyesi Kent Müzesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde tasarlanmıştır. Müzenin bulunduğu 140 hektarlık yeşil alan, bölgenin doğal güzelliğini yansıtan bir özelliktedir. Bu alan, ziyaretçilerine geniş bir açık alan sunar ve Güdül'ün coğrafi konumu hakkında bilgi verir. Müzenin yakınında bulunan dağlar, ormanlar ve nehirler, ziyaretçilere bölgenin coğrafi çeşitliliğini göstermektedir. Bu coğrafi özellikler, Güdül'ün iklimini ve doğal kaynaklarını etkileyen önemli faktörlerdir.
+Güdül Belediyesi Kent Müzesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde tasarlanmıştır. Bu alan, ziyaretçilerine geniş bir açık alan sunar ve Güdül'ün coğrafi konumu hakkında bilgi verir. Müzenin yakınında bulunan dağlar, ormanlar ve nehirler, ziyaretçilere bölgenin coğrafi çeşitliliğini göstermektedir. Bu coğrafi özellikler, Güdül'ün iklimini ve doğal kaynaklarını etkileyen önemli faktörlerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Güdül Belediyesi Kent Müzesi'ni ziyaret etmek isteyenler, Ankara'nın Güdül
 
 ## İlginç Bilgiler
 
-- Güdül Belediyesi Kent Müzesi, 140 hektarlık yeşil alanıyla dikkat çeker.
 - Müze, Güdül'ün tarihçesi, coğrafyası ve kültürel özellikleri hakkında detaylı bilgiler sunar.
 - Bölge, İç Anadolu Bölgesi'nin flora ve faunasını yansıtan bir özelliktedir.
 - Mevsimsel değişimler, bölgenin flora ve faunasını etkileyen önemli bir faktördür.

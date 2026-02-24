@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Flora ve fauna izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Beşardıç Tepesi","caption":"Beşardıç Tepesi","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fard%C4%B1%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34835334","tip":"genel"}]
-description: "Karaman'da yer alan Beşardıç Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Karaman'da yer alan Beşardıç Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir."
 keywords: ["Beşardıç Tepesi","Karaman","İç Anadolu Bölgesi","coğrafi nokta","yeşil alan","fiziksel veriler","hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34835334"
@@ -48,8 +48,6 @@ Beşardıç Tepesi'ni ziyaret etmek, oldukça kolaydır. Ziyaretçiler, bu tepen
 
 ## İlginç Bilgiler
 
-- Beşardıç Tepesi, 140 hektarlık bir yeşil alana sahiptir.
-- Bu tepe, aproximadamente 200 futbol sahası büyüklüğünde.
 - Beşardıç Tepesi, Karaman'ın önemli bir parçası olarak bilinir.
 - Bu tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir.
 - Beşardıç Tepesi'nin flora ve fauna oldukça zengindir.

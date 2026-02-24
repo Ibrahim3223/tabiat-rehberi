@@ -36,7 +36,7 @@ Kürttacın Ilıcası'nın tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Kürttacın Ilıcası, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi dağlar ve ovalarla çevrili. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor ve ziyaretçileri, mevsimsel olarak değişen bir doğa manzarasıyla karşılıyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren çayırlar ve yazın sıcakk günleri, bu bölgenin coğrafi güzelliğini farklı mevsimlerde farklı şekillerde deneyimlemeyi mümkün kılıyor. Ayrıca, bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet veriyor ve bu nedenle ekolojik açıdan önemli bir bölge olarak kabul ediliyor.
+Kürttacın Ilıcası, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor ve ziyaretçileri, mevsimsel olarak değişen bir doğa manzarasıyla karşılıyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren çayırlar ve yazın sıcakk günleri, bu bölgenin coğrafi güzelliğini farklı mevsimlerde farklı şekillerde deneyimlemeyi mümkün kılıyor. Ayrıca, bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet veriyor ve bu nedenle ekolojik açıdan önemli bir bölge olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

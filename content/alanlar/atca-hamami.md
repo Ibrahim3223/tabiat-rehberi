@@ -49,8 +49,6 @@ Atça Hamamı, ziyaretçilerine geniş bir alanda güneşlenmek, denize girme ve
 
 ## İlginç Bilgiler
 
-- Atça Hamamı, 140 hektarlık bir alana yayılmıştır.
-
 - Atça Hamamı, Aydın'ın Sultanhisar ilçesinde bulunmaktadır.
 - Bu plaj, Ege Denizi'ne kıyısı vardır.
 - Atça Hamamı, zengin bir flora ve fauna ile dikkat çekmektedir.

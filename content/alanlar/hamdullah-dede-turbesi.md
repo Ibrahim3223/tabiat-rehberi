@@ -29,7 +29,7 @@ wikidata_id: "Q131391799"
 
 # Hamdullah Dede Türbesi
 
-Amasya'nın merkezinde yer alan Hamdullah Dede Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur. Hamdullah Dede Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak, ziyaretçilerini bekliyor. Bu mekan, hem Amasya'nın tarihi geçmişini hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkıyor.
+ Hamdullah Dede Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak, ziyaretçilerini bekliyor. Bu mekan, hem Amasya'nın tarihi geçmişini hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamdullah Dede Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu tarihsel mekan
 
 ## Coğrafya
 
-Hamdullah Dede Türbesi, Amasya'nın merkezinde yer alan bir noktada bulunmaktadır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özelliklerini taşımaktadır. Hamdullah Dede Türbesi'nin bulunduğu alan, 140 hektarlık bir açık alan olup, ziyaretçiler için geniş bir mekan sunmaktadır. Bu mekanın etrafı, çeşitli ağaç türleri ile çevrili olup, doğal güzellikler sunmaktadır. Hamdullah Dede Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkıyor.
+Hamdullah Dede Türbesi, Amasya'nın merkezinde yer alan bir noktada bulunmaktadır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bu mekanın etrafı, çeşitli ağaç türleri ile çevrili olup, doğal güzellikler sunmaktadır. Hamdullah Dede Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hamdullah Dede Türbesi'ni ziyaret etmek için, Amasya merkezine gelmekdır. Bu 
 ## İlginç Bilgiler
 
 - Hamdullah Dede Türbesi, Amasya'nın en önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Hamdullah Dede Türbesi, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 - Bu mekan, mevsimsel değişimlere göre farklı türlerde bitkiler ve hayvanlar barındırmaktadır.
 - Hamdullah Dede Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır.

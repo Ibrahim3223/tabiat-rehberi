@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Er%20Meydan%C4%B1%20-%20panoramio.jpg","alt":"Kafkasör Ormaniçi Dinlenme Yeri manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Kafkas%C3%B6r_yaylas%C4%B1%2C_Artvin_Turkey_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kafkas%C3%B6r_yaylas%C4%B1%2C_Artvin_Turkey_-_panoramio.jpg/1280px-Kafkas%C3%B6r_yaylas%C4%B1%2C_Artvin_Turkey_-_panoramio.jpg","alt":"Kafkasör Ormaniçi Dinlenme Yeri - Kafkasör yaylası, Artvin Turkey - panoramio","credit":"bynyalcin","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Carabus_septemcarinatus_Motschulsky%2C_1840_%282917404837%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Carabus_septemcarinatus_Motschulsky%2C_1840_%282917404837%29.jpg/1280px-Carabus_septemcarinatus_Motschulsky%2C_1840_%282917404837%29.jpg","alt":"Kafkasör Ormaniçi Dinlenme Yeri - Carabus septemcarinatus Motschulsky, 1840 (2917404837)","credit":"Udo Schmidt from Deutschland","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/Rhamnus-imeretima-habitat.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/2/23/Rhamnus-imeretima-habitat.jpg","alt":"Kafkasör Ormaniçi Dinlenme Yeri - Rhamnus-imeretima-habitat","credit":"Sten","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Er_Meydan%C4%B1_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Er_Meydan%C4%B1_-_panoramio.jpg/1280px-Er_Meydan%C4%B1_-_panoramio.jpg","alt":"Kafkasör Ormaniçi Dinlenme Yeri - Er Meydanı - panoramio","credit":"hursitakinci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kafkas%C3%B6r%20Ormani%C3%A7i%20Dinlenme%20Yeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49509110","tip":"genel"}]
-description: "Artvin'de doğanın güzelliğini keşfedin, 140 hektarlık yeşil alanın keyfini çıkarın."
+"
 keywords: ["Kafkasör Ormaniçi Dinlenme Yeri","Artvin","Karadeniz Bölgesi","doğa","yeşil alan","dinlenme yeri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49509110"
@@ -29,7 +29,7 @@ wikidata_id: "Q49509110"
 
 # Kafkasör Ormaniçi Dinlenme Yeri
 
-Kafkasör Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin güzide illerinden Artvin'de yer alan, 140 hektarlık geniş bir yeşil alana sahip olan bir dinlenme yeri. Ormaniçi Dinlenme Yeri, şehir hayatının yoğunluğundan uzaklaşmak isteyenler için bir sığınak niteliğinde. Burada, doğanın seslerini dinleyerek, stres ve yorgunluğunuzu atabilirsiniz. Yeşilin her tonunu görebileceğiniz bu môiçde, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilirsiniz.
+ Ormaniçi Dinlenme Yeri, şehir hayatının yoğunluğundan uzaklaşmak isteyenler için bir sığınak niteliğinde. Burada, doğanın seslerini dinleyerek, stres ve yorgunluğunuzu atabilirsiniz. Yeşilin her tonunu görebileceğiniz bu môiçde, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kafkasör Ormaniçi Dinlenme Yeri'nin tarihi geçmişi, yüzyıllar boyunca doğ
 
 ## Coğrafya
 
-Kafkasör Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazi üzerine kurulmuştur. 140 hektarlık geniş alanı, ziyaretçilere geniş bir faaliyet alanı sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir; yaz ayları serin ve yağışlı, kış ayları soğuk ve karlı geçer. Bu coğrafi özellikler, bölgeyi doğa severler için bir cennet haline getirir. Ziyaretçiler, bu eşsiz coğrafyada doğa yürüyüşleri, pikni ve diğer açık hava etkinlikleri yapabilirler. Kafkasör Ormaniçi Dinlenme Yeri, aynı zamanda çevresindeki diğer doğal güzelliklere de yakın mesafede bulunuyor, bu da ziyaretçilere bölgede daha fazla keşif imkanı sunuyor.
+Kafkasör Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazi üzerine kurulmuştur. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir; yaz ayları serin ve yağışlı, kış ayları soğuk ve karlı geçer. Bu coğrafi özellikler, bölgeyi doğa severler için bir cennet haline getirir. Ziyaretçiler, bu eşsiz coğrafyada doğa yürüyüşleri, pikni ve diğer açık hava etkinlikleri yapabilirler. Kafkasör Ormaniçi Dinlenme Yeri, aynı zamanda çevresindeki diğer doğal güzelliklere de yakın mesafede bulunuyor, bu da ziyaretçilere bölgede daha fazla keşif imkanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kafkasör Ormaniçi Dinlenme Yeri'ni ziyaret etmek, doğa severler için bir rü
 
 ## İlginç Bilgiler
 
-- Kafkasör Ormaniçi Dinlenme Yeri, 140 hektarlık geniş bir alanı kapsar.
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Ziyaretçiler, doğa yürüyüşleri ve piknik gibi etkinlikler yapabilir.
 - Kafkasör Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin önemli koruma alanlarından biridir.

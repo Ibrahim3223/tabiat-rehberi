@@ -28,7 +28,7 @@ wikidata_id: "Q31385568"
 
 # Kurukandil Tepesi
 
-Kurukandil Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafında, çeşitli bitkiler ve ağaçlar bulunmakta, bu da bölgenin zengin florasına işaret ediyor. Kurukandil Tepesi, aynı zamanda bölgedeki fauna için de önemli bir yaşam alanı olarak dikkat çekiyor.
+ Tepenin etrafında, çeşitli bitkiler ve ağaçlar bulunmakta, bu da bölgenin zengin florasına işaret ediyor. Kurukandil Tepesi, aynı zamanda bölgedeki fauna için de önemli bir yaşam alanı olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kurukandil Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini ve tarihi �
 
 ## İlginç Bilgiler
 
-- Kurukandil Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta.
 - Kurukandil Tepesi, aynı zamanda bölgedeki fauna için de önemli bir yaşam alanı olarak dikkat çekiyor.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel mirasına önemli katkılar sağlamış.

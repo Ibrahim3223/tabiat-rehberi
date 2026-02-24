@@ -51,6 +51,6 @@ Ebu Said El-Hudri Türbesi'ni ziyaret etmek, hem dini hem de kültürel açıdan
 
 - Ebu Said El-Hudri, Peygamber Efendimiz'in sahabesi olarak biliniyor
 - Türbe, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiştir
-- Bölge, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Türbenin bulunduğu yer, yüksek bir konumda
 - Bölgede, çeşitli bitki türleri ve fauna bulunmakta

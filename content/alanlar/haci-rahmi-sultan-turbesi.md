@@ -29,7 +29,7 @@ wikidata_id: "Q131390721"
 
 # Hacı Rahmi Sultan Türbesi
 
-Burdur'un merkezinde bulunan Hacı Rahmi Sultan Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde yer alıyor. Hacı Rahmi Sultan Türbesi, tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de ziyaretçilerini cezbediyor. Türbenin etrafındaki geniş yeşil alan, yürüyüş yapma, piknik etme ve doğayı seyretme imkanı sunuyor.
+ Hacı Rahmi Sultan Türbesi, tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de ziyaretçilerini cezbediyor. Türbenin etrafındaki geniş yeşil alan, yürüyüş yapma, piknik etme ve doğayı seyretme imkanı sunuyor.
 
 ## Tarihçe
 

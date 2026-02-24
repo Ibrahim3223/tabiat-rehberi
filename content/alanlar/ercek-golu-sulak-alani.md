@@ -42,8 +42,6 @@ Erçek Gölü Sulak Alanı, ziyaretçilere doğa güzellikleri ve tarihi önemi 
 
 ## İlginç Bilgiler
 
-- Erçek Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde geniş bir sulak alanıdır
 - Gölün etrafındaki yeşil alanlar, yürüyüş ve piknik için uygun ortamlar sunar
 - Sulak alan, birçok su kuşunun yaşam alanı olarak hizmet vermektedir
 - Erçek Gölü Sulak Alanı, doğa severler ve araştırma yapanlar için önemli bir destinasyon olarak kabul edilmektedir

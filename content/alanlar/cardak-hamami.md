@@ -21,7 +21,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarih Gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Çardak Hamamı","caption":"Çardak Hamamı","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardak%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738664","tip":"genel"}]
-description: "Sivrihisar'ın gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Sivrihisar","Eskişehir","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Gezi","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738664"
@@ -37,7 +37,7 @@ wikidata_id: "Q131738664"
 
 ## Coğrafya
 
-Çardak Hamamı, Sivrihisar'ın merkezinde yer alır ve 140 hektarlık bir yeşil alanı kaplar. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri arasında önemli bir yer tutar. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Çardak Hamamı, Sivrihisar'ın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Bu bölge, Sivrihisar'ın doğal güzelliklerini ortaya koyar. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri ile ilgili bilgi edinmek isteyen ziyaretçiler için önemli bir gezi noktasıdır.
+ Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri arasında önemli bir yer tutar. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Çardak Hamamı, Sivrihisar'ın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Bu bölge, Sivrihisar'ın doğal güzelliklerini ortaya koyar. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri ile ilgili bilgi edinmek isteyen ziyaretçiler için önemli bir gezi noktasıdır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131738664"
 ## İlginç Bilgiler
 
 - Sivrihisar'ın en büyük yeşil alanı
-- 140 hektarlık bir alana sahiptir
+
 - Sivrihisar'ın tarihini ve kültürünü yansıtan önemli bir noktadır
 - İç Anadolu Bölgesi'nin genel özelliklerini taşır
 - Zengin fauna ve çeşitli bitki türleri bulunur

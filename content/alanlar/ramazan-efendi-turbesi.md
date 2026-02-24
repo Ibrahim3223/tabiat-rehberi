@@ -30,7 +30,7 @@ wikidata_id: "Q131390987"
 
 # Ramazan Efendi Türbesi
 
-Ramazan Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Fatih ilçesinde yer alan bu türbe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Ramazan Efendi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve kültürel noktalarından biri olarak kabul ediliyor. Bu bölge, ziyaretçilerine tarihin izlerini keşfetme fırsatı sunuyor.
+Ramazan Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Ramazan Efendi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve kültürel noktalarından biri olarak kabul ediliyor. Bu bölge, ziyaretçilerine tarihin izlerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ramazan Efendi Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu 
 
 ## Coğrafya
 
-Ramazan Efendi Türbesi, Marmara Bölgesi'nin kalbinde yer alan İstanbul'un Fatih ilçesinde bulunuyor. Bu türbe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Ramazan Efendi Türbesi, İstanbul'un coğrafi olarak önemli bir noktasında yer alıyor. Türbenin bulunduğu bölge, şehir merkezine yakın ve ulaşımı kolay. Ramazan Efendi Türbesi, ziyaretçilerine İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.
+Ramazan Efendi Türbesi, Marmara Bölgesi'nin kalbinde yer alan İstanbul'un Fatih ilçesinde bulunuyor. Ramazan Efendi Türbesi, İstanbul'un coğrafi olarak önemli bir noktasında yer alıyor. Türbenin bulunduğu bölge, şehir merkezine yakın ve ulaşımı kolay. Ramazan Efendi Türbesi, ziyaretçilerine İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ramazan Efendi Türbesi, ziyaretçilerini bekliyor. Türbeye ulaşım, İstanbul
 ## İlginç Bilgiler
 
 - Ramazan Efendi Türbesi, İstanbul'un en önemli tarihi ve kültürel noktalarından biri.
-- Türbe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Ramazan Efendi Türbesi, Marmara Bölgesi'nin kalbinde yer alıyor.
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 - Ramazan Efendi Türbesi, ziyaretçilerine tarihin ve kültürün izlerini keşfetme fırsatı sunuyor.

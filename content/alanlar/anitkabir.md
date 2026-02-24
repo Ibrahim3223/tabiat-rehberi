@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Anıtkabir'i gezmek","Atatürk'ün yaşamını ve eserlerini öğrenmek","Türk mimarisi ve tarihini yakından tanımak"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20asv2021-10%20img04%20An%C4%B1tkabir.jpg","alt":"Anıtkabir manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg/960px-Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg","alt":"Anıtkabir","caption":"Anıtkabir","credit":"Ankara asv2021-10 img04 Anıtkabir","license":"FAL"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg/1280px-Ankara_asv2021-10_img04_An%C4%B1tkabir.jpg","alt":"Anıtkabir - Ankara asv2021-10 img04 Anıtkabir","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/1280px-Ataturk%27s_Mausoleum_%286225341313%29.jpg","alt":"Anıtkabir - Ataturk's Mausoleum (6225341313)","credit":"William Neuheisel from DC, US","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/An%C4%B1tkabir_g%C3%BCn_bat%C4%B1m%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/An%C4%B1tkabir_g%C3%BCn_bat%C4%B1m%C4%B1.jpg/1280px-An%C4%B1tkabir_g%C3%BCn_bat%C4%B1m%C4%B1.jpg","alt":"Anıtkabir - Anıtkabir gün batımı","credit":"LordReco","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/An%C4%B1tkabir_g%C3%BCn_bat%C4%B1m%C4%B1_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/An%C4%B1tkabir_g%C3%BCn_bat%C4%B1m%C4%B1_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg/1280px-An%C4%B1tkabir_g%C3%BCn_bat%C4%B1m%C4%B1_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg","alt":"Anıtkabir - Anıtkabir gün batımı görüntüsü","credit":"LordReco","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/An%C4%B1tkabir%2C_Ankara%2C_T%C3%BArkiya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/An%C4%B1tkabir%2C_Ankara%2C_T%C3%BArkiya.jpg/1280px-An%C4%B1tkabir%2C_Ankara%2C_T%C3%BArkiya.jpg","alt":"Anıtkabir - Anıtkabir, Ankara, Túrkiya","credit":"Janabaevazizbek","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/An%C4%B1tkabir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q615404","tip":"genel"}]
-description: "Ankara'nın kalbinde yer alan Anıtkabir, Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ankara'nın kalbinde yer alan Anıtkabir, Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarıdır."
 keywords: ["Anıtkabir","Ankara","Mustafa Kemal Atatürk","anıt mezar","tarih","mimari","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q615404"
@@ -38,7 +38,7 @@ Anıtkabir'in tarihi, Mustafa Kemal Atatürk'ün vefat ettiği 1938 yılına kad
 
 ## Coğrafya
 
-Anıtkabir, Ankara'nın merkezinde, Rasattepe üzerinde yer alır. 140 hektarlık bu yeşil alan, Ankara'nın en büyük parklarından biridir. Anıtkabir'in coğrafi konumu, Ankara'nın tarihi ve kültürel merkezine yakınlığıyla önemlidir. Anıtkabir'in etrafında, çeşitli ağaç türleri ve çiçekler bulunur. Bahçelerin tasarımı, Tür ve İslam sanatının etkilerini taşır. Anıtkabir, Ankara'nın iklimine uygun olarak tasarlanmış ve inşa edilmiştir. Ankara'nın karasal iklimine rağmen, Anıtkabir'in bahçeleri ve yeşil alanları, ziyaretçilere serin ve huzurlu bir ortam sunar. Anıtkabir, Ankara'nın en önemli turistik merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Anıtkabir, Ankara'nın merkezinde, Rasattepe üzerinde yer alır. Anıtkabir'in coğrafi konumu, Ankara'nın tarihi ve kültürel merkezine yakınlığıyla önemlidir. Anıtkabir'in etrafında, çeşitli ağaç türleri ve çiçekler bulunur. Bahçelerin tasarımı, Tür ve İslam sanatının etkilerini taşır. Anıtkabir, Ankara'nın iklimine uygun olarak tasarlanmış ve inşa edilmiştir. Ankara'nın karasal iklimine rağmen, Anıtkabir'in bahçeleri ve yeşil alanları, ziyaretçilere serin ve huzurlu bir ortam sunar. Anıtkabir, Ankara'nın en önemli turistik merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Anıtkabir, yıl boyunca ziyaretçilere açık bir mekândır. Ziyaretçiler, An
 
 ## İlginç Bilgiler
 
-- Anıtkabir, 140 hektarlık bir alana kurulmuştur.
 - Anıtkabir'inşası, 1944 yılında başlamıştır.
 - Anıtkabir, 10 Kasım 1953 tarihinde törenle açılmıştır.
 - Anıtkabir, Ankara'nın en büyük parklarından biridir.

@@ -51,7 +51,6 @@ Afyonkarahisar ilinin merkezinde bulunan Şehreküstü Türbesi, şehrin tarihi 
 ## İlginç Bilgiler
 
 - Şehreküstü Türbesi, Afyonkarahisar'ın önemli tarihi mekanlarından biri.
-- Türbe, 140 hektarlık bir alanda yer alıyor.
 
 - Şehreküstü Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri.
 - Türbenin etrafı, tarihi binalar ve çeşitli kültürel mekanlarla çevrili.

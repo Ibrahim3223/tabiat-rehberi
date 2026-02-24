@@ -30,7 +30,7 @@ wikidata_id: "Q135430362"
 
 # Mihrimah Sultan Camii Türbesi
 
-Mihrimah Sultan Camii Türbesi, Üsküdar'da bulunan ve Kanuni Sultan Süleyman'ın kızı Mihrimah Sultan içinşa edilen bir cami ve türbe kompleksidir. 140 hektarlık bir alanı kaplayan bu tarihi kompleks, İstanbul'un en önemli kültür ve turizm merkezlerinden biridir. Mihrimah Sultan Camii, 16. yüzyılda inşa edilmiş ve o günden beri birçok restore çalışması görmüştür. Cami ve türbenin mimarisi, klasik Osmanlı mimari özelliklerini taşır ve zarif bir görünümü vardır. Ayrıca, kompleksin içinde bulunan ağaçlar ve çiçekler, ziyaretçilere huzurlu bir ortam sağlar.
+Mihrimah Sultan Camii Türbesi, Üsküdar'da bulunan ve Kanuni Sultan Süleyman'ın kızı Mihrimah Sultan içinşa edilen bir cami ve türbe kompleksidir. Mihrimah Sultan Camii, 16. yüzyılda inşa edilmiş ve o günden beri birçok restore çalışması görmüştür. Cami ve türbenin mimarisi, klasik Osmanlı mimari özelliklerini taşır ve zarif bir görünümü vardır. Ayrıca, kompleksin içinde bulunan ağaçlar ve çiçekler, ziyaretçilere huzurlu bir ortam sağlar.
 
 ## Tarihçe
 

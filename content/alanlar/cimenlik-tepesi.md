@@ -48,8 +48,6 @@ wikidata_id: "Q34819122"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - zengin flora ve fauna
 - tarihi geçmişi
 - coğrafi olarak zengin bölge

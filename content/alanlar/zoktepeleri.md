@@ -28,7 +28,7 @@ wikidata_id: "Q31385331"
 
 # Zoktepeleri
 
-Şanlıurfa'nın güneydoğusunda yer alan Zoktepeleri, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Zoktepeleri, ziyaretçilerini doğanın kucağına davet ediyor. Ziyaretçiler, bu eşsiz coğrafyada doğa yürüyüşü yapabilir, çevre güzelliğini keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilir. Zoktepeleri, Şanlıurfa'nın önemli turizm noktalarından biri olarak ön plana çıkıyor.
+ Zoktepeleri, ziyaretçilerini doğanın kucağına davet ediyor. Ziyaretçiler, bu eşsiz coğrafyada doğa yürüyüşü yapabilir, çevre güzelliğini keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilir. Zoktepeleri, Şanlıurfa'nın önemli turizm noktalarından biri olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zoktepeleri'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin i
 
 ## Coğrafya
 
-Zoktepeleri, Şanlıurfa'nın güneydoğusunda yer alan bir tepe olarak, coğrafi açıdan önemli bir konumda bulunuyor. Bu bölge, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Zoktepeleri'nin coğrafi yapısı, flora ve faunayı etkileyen önemli faktörlerden biri olarak görülüyor. Bölge, çeşitli bitki türleri ve hayvanlarla dolu. Zoktepeleri, ziyaretçilerine doğa yürüyüşü imkanı sunuyor ve bölgenin güzelliğini keşfetmelerine olanak tanıyor. Zoktepeleri'nin coğrafi özellikleri, ziyaretçilerin ilgisini çekiyor ve bölgeyi önemli bir turizm noktası haline getiriyor.
+Zoktepeleri, Şanlıurfa'nın güneydoğusunda yer alan bir tepe olarak, coğrafi açıdan önemli bir konumda bulunuyor. Zoktepeleri'nin coğrafi yapısı, flora ve faunayı etkileyen önemli faktörlerden biri olarak görülüyor. Bölge, çeşitli bitki türleri ve hayvanlarla dolu. Zoktepeleri, ziyaretçilerine doğa yürüyüşü imkanı sunuyor ve bölgenin güzelliğini keşfetmelerine olanak tanıyor. Zoktepeleri'nin coğrafi özellikleri, ziyaretçilerin ilgisini çekiyor ve bölgeyi önemli bir turizm noktası haline getiriyor.
 
 ## Flora ve Fauna
 

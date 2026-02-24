@@ -28,7 +28,7 @@ wikidata_id: "Q31543801"
 
 # Bestanre Tepesi
 
-Bestanre Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerini bir araya getiren bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini doğal güzelliği ile büyülüyor. Diyarbakır'ın merkezine yakın konumu ile kolayca erişilebiliyor. Bestanre Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası olarak hizmet ediyor.
+Bestanre Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerini bir araya getiren bir destinasyon. Diyarbakır'ın merkezine yakın konumu ile kolayca erişilebiliyor. Bestanre Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası olarak hizmet ediyor.
 
 ## Tarihçe
 

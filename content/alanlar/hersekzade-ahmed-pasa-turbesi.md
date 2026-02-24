@@ -52,5 +52,5 @@ Hersekzade Ahmed Paşa Türbesi'ni ziyaret etmek, tarihe ve doğaya meraklı ola
 - Hersekzade Ahmed Paşa Türbesi, Türkiye'nin en önemli tarihi mekanlarından biri.
 - Türbenin mimarisi, Osmanlı dönemine ait ince işçiliği ve sanatsal değerleri yansıtıyor.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile kaplı.
-- Türbenin bulunduğu arazi, 140 hektarlık bir alanı kaplıyor.
+
 - Hersekzade Ahmed Paşa, 15. yüzyılda yaşamış ve devlet hizmetinde önemli görevlerde bulunmuş bir historical figürdür.

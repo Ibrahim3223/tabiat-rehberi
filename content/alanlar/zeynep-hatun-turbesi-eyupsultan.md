@@ -29,7 +29,7 @@ wikidata_id: "Q135430358"
 
 # Zeynep Hatun Türbesi, Eyüpsultan
 
-Eyüpsultan'da yer alan Zeynep Hatun Türbesi, tarihi ve kültürel öneme sahip bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alanda, Eyüpsultan'ın kalbinde yer almaktadır. 200 futbol sahası büyüklüğünde olan bu alan, tarihi yapılar ve doğal güzelliklerle çevrilidir. Zeynep Hatun Türbesi, Eyüpsultan'ın önemli ziyaret noktalarından biridir ve her yıl çok sayıda ziyaretçi çekmektedir. Türbenin bulunduğu bölge, tarihi ve kültürel zenginlikleriyle dikkat çekmektedir.
+Eyüpsultan'da yer alan Zeynep Hatun Türbesi, tarihi ve kültürel öneme sahip bir yapıdır. Zeynep Hatun Türbesi, Eyüpsultan'ın önemli ziyaret noktalarından biridir ve her yıl çok sayıda ziyaretçi çekmektedir. Türbenin bulunduğu bölge, tarihi ve kültürel zenginlikleriyle dikkat çekmektedir.
 
 ## Tarihçe
 

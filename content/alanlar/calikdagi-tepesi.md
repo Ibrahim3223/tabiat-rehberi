@@ -36,7 +36,7 @@ wikidata_id: "Q34823661"
 
 ## Coğrafya
 
-Çalıkdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Coğrafi olarak, Çalıkdağı Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, Ankara'nın önemli bir coğrafi noktası olarak dikkat çekiyor. Çalıkdağı Tepesi'nin coğrafi yapısı, bölgenin iklimini ve çevresini etkileyen önemli bir faktör. Tepenin yüksekliği, bölgenin hava koşullarını etkiliyor ve çevresindeki bitki örtüsünü şekillendiriyor.
+Çalıkdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Coğrafi olarak, Çalıkdağı Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, Ankara'nın önemli bir coğrafi noktası olarak dikkat çekiyor. Çalıkdağı Tepesi'nin coğrafi yapısı, bölgenin iklimini ve çevresini etkileyen önemli bir faktör. Tepenin yüksekliği, bölgenin hava koşullarını etkiliyor ve çevresindeki bitki örtüsünü şekillendiriyor.
 
 ## Flora ve Fauna
 

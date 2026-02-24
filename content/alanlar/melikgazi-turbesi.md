@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/T%C3%BCrbenin_bah%C3%A7esi.jpg","alt":"Melikgazi Türbesi manzarası","credit":"Demir dude","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melikgazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6085378","tip":"genel"}]
-description: "Tokat'ın Niksar ilçesinde bulunan tarihi Melikgazi Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Melikgazi Türbesi","Niksar","Tokat","Karadeniz Bölgesi","tarihi mekan","yeşil alan","turistik yer","gezi","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6085378"
@@ -30,7 +30,7 @@ wikidata_id: "Q6085378"
 
 # Melikgazi Türbesi
 
-Melikgazi Türbesi, Tokat'ın Niksar ilçesinde bulunan ve 140 hektarlık geniş bir yeşil alana kurulu olan tarihi bir yapıdır. Türbe, tarihi önemini korurken, aynı zamanda çevredeki flora ve faunayla da dikkat çekmektedir. Ziyaretçiler, bu tarihi mekanın güzelliğini ve tarihi geçmişi hakkında bilgi edinebilirler.
+ Türbe, tarihi önemini korurken, aynı zamanda çevredeki flora ve faunayla da dikkat çekmektedir. Ziyaretçiler, bu tarihi mekanın güzelliğini ve tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Melikgazi Türbesi'nin tarihi geçmişi, Danişmend Beyliği dönemine kadar uza
 
 ## Coğrafya
 
-Melikgazi Türbesi, Tokat'ın Niksar ilçesinde, Karadeniz Bölgesi'nin iç kesimlerinde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Türbe, 140 hektarlık bir yeşil alanda kuruludur ve çevresi ormanlarla kaplıdır. Bölgenin iklimi, Karadeniz ikliminin característicasını taşır ve yağışlı bir yapıya sahiptir. Ziyaretçiler, türbenin etrafındaki yeşil alanları gezebilir ve doğanın güzelliğini deneyimleyebilirler. Ayrıca, çevredeki flora ve fauna da dikkat çekmektedir. Bölgede, çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler bu zengin doğayı keşfedebilirler.
+Melikgazi Türbesi, Tokat'ın Niksar ilçesinde, Karadeniz Bölgesi'nin iç kesimlerinde yer almaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Bölgenin iklimi, Karadeniz ikliminin característicasını taşır ve yağışlı bir yapıya sahiptir. Ziyaretçiler, türbenin etrafındaki yeşil alanları gezebilir ve doğanın güzelliğini deneyimleyebilirler. Ayrıca, çevredeki flora ve fauna da dikkat çekmektedir. Bölgede, çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler bu zengin doğayı keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Melikgazi Türbesi'ni ziyaret etmek, tarihi bir mekanın güzelliğini ve tarihi
 ## İlginç Bilgiler
 
 - Melikgazi Türbesi, Tokat'in Niksar ilçesinde bulunmaktadır.
-- Türbe, 140 hektarlık bir yeşil alanda kuruludur.
+
 - Bölge, Karadeniz Bölgesi'nin iç kesimlerinde yer almaktadır.
 - Türbenin tarihi geçmişi, Danişmend Beyliği dönemine kadar uzanmaktadır.
 - Ziyaretçiler, türbenin etrafındaki yeşil alanları gezebilir ve doğanın güzelliğini deneyimleyebilirler.

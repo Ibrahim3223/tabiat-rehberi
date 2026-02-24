@@ -22,7 +22,7 @@ wikidata_id: "Q108228581"
 
 # Sanliurfa-Sirnak-Lubnan Mesesi
 
-Şanlıurfa'nın güneydoğusunda yer alan Sanliurfa-Sirnak-Lubnan Mesesi, 140 hektarlık bir alanı kaplar. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanlarılemek için eşsiz bir fırsat bulur. Sanliurfa-Sirnak-Lubnan Mesesi, aynı zamanda bölgenin tarihi ve kültürel önemi ile de dikkat çeker.
+ Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanlarılemek için eşsiz bir fırsat bulur. Sanliurfa-Sirnak-Lubnan Mesesi, aynı zamanda bölgenin tarihi ve kültürel önemi ile de dikkat çeker.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sanliurfa-Sirnak-Lubnan Mesesi, ziyaretçiler için çeşitli olanaklar sunar. Z
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alanı kaplar.
 - Sanliurfa-Sirnak-Lubnan Mesesi, bölgenin flora ve fauna çeşitliliği ile dikkat çeker.
 - Bölge, aynı zamanda bölgenin önemli bir su kaynağı olarak dikkat çeker.
 - Sanliurfa-Sirnak-Lubnan Mesesi, bölgenin tarihi ve kültürel önemi ile dikkat çeker.

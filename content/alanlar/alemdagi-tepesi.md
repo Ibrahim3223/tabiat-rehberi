@@ -48,7 +48,6 @@ Alemdağı Tepesi, ziyaretçilere unutulmaz bir deneyim sunuyor. Bölge, trekkin
 
 ## İlginç Bilgiler
 
-- Alemdağı Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor
 - Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor
 - Alemdağı Tepesi, Erzurum'un tarihi ve kültürel zenginliklerini içerisinde barındırıyor
 - Tepenin eteklerinde yer alan köyler, bölgeye özgü geleneksel mimari örneklerini sergiliyor

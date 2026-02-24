@@ -20,7 +20,7 @@ aktiviteler: ["Manzara seyretmek","Coğrafi yapıyı gözlemlemek","Flora ve fau
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Büvelek Tepesi","caption":"Büvelek Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCvelek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731209","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Büvelek Tepesi, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["Büvelek Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q35731209"

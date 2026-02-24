@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihî alan gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Beysehir-lake-bridge%401.5x.jpg","alt":"Beyşehir Sit Alanı manzarası","credit":"Mehmet Akif KABAKÇI","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Beysehir-lake-bridge%401.5x.jpg/960px-Beysehir-lake-bridge%401.5x.jpg","alt":"Beyşehir Sit Alanı","caption":"Beyşehir Sit Alanı","credit":"Beysehir-lake-bridge@1.5x","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bey%C5%9Fehir%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226365","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biri olan Beyşehir Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Beyşehir","Sit Alanı","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226365"
@@ -43,8 +43,6 @@ Beyşehir Sit Alanı, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - bölgeye özgü fauna
 - tarihi geçmişi

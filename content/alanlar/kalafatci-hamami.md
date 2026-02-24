@@ -21,7 +21,7 @@ aktiviteler: ["gezi","tarihçe","doğa","sosyal etkinlikler"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Kalafatçı Hamamı","caption":"Kalafatçı Hamamı","credit":"Podima1","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalafat%C3%A7%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739146","tip":"genel"}]
-description: "Beyoğlu'nda tarihi bir hamam, 140 hektarlık yeşil alan ve zengin fauna"
+
 keywords: ["Kalafatçı Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","tarihi hamam","yeşil alan","fauna","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739146"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739146"
 
 # Kalafatçı Hamamı
 
-Kalafatçı Hamamı, Beyoğlu'nun kalbinde yer alan tarihi bir hamam ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu yeşil alan, hem yerel halk hem de ziyaretçiler için keyifli bir gezi alanı sunuyor. Kalafatçı Hamamı, aynı zamanda zengin fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitkiler ve hayvanlar encontrar mogelijk.
+ Bu yeşil alan, hem yerel halk hem de ziyaretçiler için keyifli bir gezi alanı sunuyor. Kalafatçı Hamamı, aynı zamanda zengin fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitkiler ve hayvanlar encontrar mogelijk.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kalafatçı Hamamı'nı ziyaret etmek, keyifli bir gezi deneyimi sunuyor. Bu ham
 ## İlginç Bilgiler
 
 - Kalafatçı Hamamı, tarihi bir hamam
-- 140 hektarlık yeşil alan
+
 - zengin fauna çeşitliliği
 - Marmara Bölgesi'nin önemli bir parçasıdır
 - tarihi geçmişi ile dikkat çekiyor

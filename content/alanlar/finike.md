@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/73/Finike%2C_Antalya.jpg","alt":"FİNİKE manzarası","credit":"Kadı","license":"cc-by-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Finike_Atat%C3%BCrk_Caddesi_in_2012_4833.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Finike_Atat%C3%BCrk_Caddesi_in_2012_4833.jpg/1280px-Finike_Atat%C3%BCrk_Caddesi_in_2012_4833.jpg","alt":"FİNİKE - Finike Atatürk Caddesi in 2012 4833","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Finike_K%C3%BCnefe_baker_in_2012_5597.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Finike_K%C3%BCnefe_baker_in_2012_5597.jpg/1280px-Finike_K%C3%BCnefe_baker_in_2012_5597.jpg","alt":"FİNİKE - Finike Künefe baker in 2012 5597","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7e/Finike_K%C3%BCnefe_baker_in_2012_5596.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Finike_K%C3%BCnefe_baker_in_2012_5596.jpg/1280px-Finike_K%C3%BCnefe_baker_in_2012_5596.jpg","alt":"FİNİKE - Finike Künefe baker in 2012 5596","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Finike_Market_in_2012_4852.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Finike_Market_in_2012_4852.jpg/1280px-Finike_Market_in_2012_4852.jpg","alt":"FİNİKE - Finike Market in 2012 4852","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/11/Finike_Market_in_2012_4859.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Finike_Market_in_2012_4859.jpg/1280px-Finike_Market_in_2012_4859.jpg","alt":"FİNİKE - Finike Market in 2012 4859","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/F%C4%B0N%C4%B0KE","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228716","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, FİNİKE milli parkı, 140 hektarlık alanıyla doğa severlerin buluşma noktası."
+"
 keywords: ["FİNİKE","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228716"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228716"
 
 # FİNİKE
 
-FİNİKE milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alanıyla doğa severlerin buluşma noktasıdır. FİNİKE, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+ FİNİKE, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ FİNİKE milli parkı, İç Anadolu Bölgesi'nin tarihi geçmişiçerisinde öne
 
 ## Coğrafya
 
-FİNİKE milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri içerisinde yer alıyor. Bu bölgenin coğrafyası, genellikle step ve ova bölgelerinden oluşuyor. FİNİKE, 140 hektarlık bir alanı kaplayan bir milli park olarak, ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Bu milli park, ziyaretçilerini çeşitli coğrafi oluşumlar ve farklı iklim koşullarıyla baş başa bırakıyor. FİNİKE'nin coğrafyası, ziyaretçilerine bu bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Bu milli park, coğrafi çeşitliliği ve doğal güzellikleriyle dikkat çekiyor.
+FİNİKE milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri içerisinde yer alıyor. Bu bölgenin coğrafyası, genellikle step ve ova bölgelerinden oluşuyor. Bu milli park, ziyaretçilerini çeşitli coğrafi oluşumlar ve farklı iklim koşullarıyla baş başa bırakıyor. FİNİKE'nin coğrafyası, ziyaretçilerine bu bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Bu milli park, coğrafi çeşitliliği ve doğal güzellikleriyle dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ FİNİKE milli parkını ziyaret etmek, doğa severler için bir zorunluluktur. 
 
 ## İlginç Bilgiler
 
-- FİNİKE milli parkı, 140 hektarlık bir alanı kaplıyor.
 - Bu milli park, İç Anadolu Bölgesi'nde yer alıyor.
 - FİNİKE, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 - Bu milli park, çeşitli coğrafi oluşumlar ve farklı iklim koşullarıyla dikkat çekiyor.

@@ -37,7 +37,7 @@ Gölcük Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Gölcük Tepe, Antalya'nın Akdeniz Bölgesi'nde, şehrin merkezine uzun bir mesafe uzaklıkta yer alır. Bu tepe, 140 hektarlık bir alanı kaplar ve şehrin gürültüsünden uzak, sakin bir ortam sunar. İklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere, her mevsim farklı bir güzellik sunar. Çevresindeki doğal güzellikler, Gölcük Tepe'yi bir doğa cenneti haline getirir. Gölcük Tepe, ziyaretçilerine, şehrin gürültüsünden uzak, doğayla iç içe bir deneyim sunar.
+Gölcük Tepe, Antalya'nın Akdeniz Bölgesi'nde, şehrin merkezine uzun bir mesafe uzaklıkta yer alır. İklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere, her mevsim farklı bir güzellik sunar. Çevresindeki doğal güzellikler, Gölcük Tepe'yi bir doğa cenneti haline getirir. Gölcük Tepe, ziyaretçilerine, şehrin gürültüsünden uzak, doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Gölcük Tepe, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve sonbah
 
 ## İlginç Bilgiler
 
-- Gölcük Tepe, 140 hektarlık bir alanı kaplar.
 - Gölcük Tepe, Antalya'nın en popüler gezi noktalarından biridir.
 - Gölcük Tepe, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul edilir.
 - Gölcük Tepe, yılın her dönemi ziyaret edilebilir.

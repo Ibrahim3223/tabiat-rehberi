@@ -30,7 +30,7 @@ Bolu-Cakmaklar Ebe Saricami'nin tarihi geçmişi, yüzyıllar boyunca bölgenin 
 
 ## Coğrafya
 
-Bolu-Cakmaklar Ebe Saricami, Karadeniz Bölgesi'nin coğrafi olarak en çeşitli bölgelerinden birinde yer alır. Bu milli park, dağlar, ormanlar ve akarsular ile dolu bir coğrafi yapıya sahiptir. Bolu-Cakmaklar Ebe Saricami'nin coğrafi konumu, bölgenin iklimini ve ekolojisini etkileyen önemli faktörlerden biridir. Bu milli park, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir ve bölgenin flora ve fauna türleri için ideal bir ortam sunar. Bolu-Cakmaklar Ebe Saricami, 140 hektarlık bir alanı kaplar ve bu alan, çeşitli coğrafi oluşumlar ile dolu bir yapıya sahiptir. Bu milli park, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleri ile dolu bir ortam sunar.
+Bolu-Cakmaklar Ebe Saricami, Karadeniz Bölgesi'nin coğrafi olarak en çeşitli bölgelerinden birinde yer alır. Bu milli park, dağlar, ormanlar ve akarsular ile dolu bir coğrafi yapıya sahiptir. Bolu-Cakmaklar Ebe Saricami'nin coğrafi konumu, bölgenin iklimini ve ekolojisini etkileyen önemli faktörlerden biridir. Bu milli park, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir ve bölgenin flora ve fauna türleri için ideal bir ortam sunar. Bu milli park, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleri ile dolu bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Cakmaklar Ebe Saricami, özellikle doğa severler ve turistik gezi sevenler
 
 ## İlginç Bilgiler
 
-- Bolu-Cakmaklar Ebe Saricami, 140 hektarlık bir alanı kaplar.
 - Bu milli park, Karadeniz Bölgesi'nin karakteristik flora ve fauna türleri için ideal bir ortam sunar.
 - Bolu-Cakmaklar Ebe Saricami, özellikle mevsimsel değişimlere bağlı olarak farklı flora ve fauna türleri ile dolu bir yapıya sahiptir.
 - Bu milli park, bölgenin ekolojik dengesini koruma ve doğal kaynaklarını sürdürülebilir bir şekilde kullanmak için önemli bir rol oynamaktadır.

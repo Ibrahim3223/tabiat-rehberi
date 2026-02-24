@@ -37,7 +37,7 @@ Ahmed Şefik Midhat Paşa Anıt Mezarı'nın tarihi geçmişi, Osmanlı İmparat
 
 ## Coğrafya
 
-Ahmed Şefik Midhat Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde, Marmara Bölgesi'nde yer almaktadır. Anıt mezar, yaklaşık 140 hektarlık bir alanda konumlanmaktadır ve etrafı, çeşitli ağaçlar ve çiçeklerle süslüdür. Anıt mezarın bulunduğu alan, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir. Anıt mezarın yakınında, birçok tarihi ve kültürel mekan bulunmaktadır ve ziyaretçiler, bu mekanları gezerek bölgenin zengin tarihini ve kültürünü keşfedebilirler. Anıt mezarın coğrafi konumu, aynı zamanda ziyaretçilerin İstanbul'un diğer önemli mekanlarına ulaşmasını da kolaylaştırmaktadır.
+Ahmed Şefik Midhat Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde, Marmara Bölgesi'nde yer almaktadır. Anıt mezarın bulunduğu alan, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir. Anıt mezarın yakınında, birçok tarihi ve kültürel mekan bulunmaktadır ve ziyaretçiler, bu mekanları gezerek bölgenin zengin tarihini ve kültürünü keşfedebilirler. Anıt mezarın coğrafi konumu, aynı zamanda ziyaretçilerin İstanbul'un diğer önemli mekanlarına ulaşmasını da kolaylaştırmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Ahmed Şefik Midhat Paşa Anıt Mezarı, ziyaretçilere birçok deneyim sunmakta
 
 - Ahmed Şefik Midhat Paşa Anıt Mezarı, Osmanlı İmparatorluğu'nun son döneminde inşa edilmiştir.
 - Anıt mezar, Paşa'nın hayatını ve çalışmalarını anmak amacıyla yapılmıştır.
-- Anıt mezarın bulunduğu alan, yaklaşık 140 hektarlık bir alana sahiptir.
+
 - Anıt mezarın etrafında, birçok tarihi ve kültürel mekan bulunmaktadır.
 - Anıt mezar, yılın her döneminde ziyaret edilebilir, ancak en iyi deneyimi için ilkbahar ve sonbahar ayları önerilmektedir.

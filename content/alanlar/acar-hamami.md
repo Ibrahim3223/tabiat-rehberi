@@ -51,7 +51,7 @@ Acar Hamamı'na ziyaretçiler, genellikle yaz aylarında gelir ve plajın keyfin
 ## İlginç Bilgiler
 
 - Acar Hamamı, Onikişubat/Kahramanmaraş'ta yer alır
-- 140 hektarlık bir plaj alanı sunar
+
 - Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir
 - zengin fauna ve flora çeşitliliği bulunur
 - tarihçesi yüzyıllar öncesine dayanır

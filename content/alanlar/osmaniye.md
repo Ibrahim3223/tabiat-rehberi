@@ -23,7 +23,7 @@ wikidata_id: "Q108228743"
 
 # OSMANİYE
 
-İç Anadolu Bölgesi'nde yer alan Osmaniye, yaklaşık 140 hektarlık bir alanı kapsıyor. Osmaniye'nin doğal güzellikleri, özellikle de ormanları ve su kaynakları, bölgeyi önemli bir turizm merkezi haline getiriyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Osmaniye, hem doğa severler hem de tarihe ilgi duyanlar için ideal bir gezi noktası.
+ Osmaniye'nin doğal güzellikleri, özellikle de ormanları ve su kaynakları, bölgeyi önemli bir turizm merkezi haline getiriyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Osmaniye, hem doğa severler hem de tarihe ilgi duyanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Osmaniye, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgede
 Osmaniye, ziyaretçilere doğa yürüyüşleri, doğa fotoğrafçılığı ve diğer doğa aktivitelerine olanak sağlıyor. Bölgeye, özellikle ilkbahar ve sonbahar aylarında ziyaret etmek, daha rahat ve keyifli bir gezi deneyimi sunuyor. Osmaniye'de, ziyaretçiler, bölgenin doğal güzelliklerini keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilir. Ayrıca, bölgenin su kaynakları, balıkçılık ve su sporları için ideal.
 
 ## İlginç Bilgiler
-
-- Osmaniye, yaklaşık 140 hektarlık bir alanı kapsıyor.
 
 - Osmaniye, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bölge, özellikle ormanları ve su kaynakları ile doğal güzellikleri sunuyor.

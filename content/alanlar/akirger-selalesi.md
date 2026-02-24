@@ -49,7 +49,7 @@ Akırger Şelalesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim 
 ## İlginç Bilgiler
 
 - Akırger Şelalesi, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri.
-- Bu şelale, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - Şelalenin çevresi, çeşitli bitki türleriyle kaplı ve yaban hayvanlarının yaşam alanı.
 - Akırger Şelalesi, yüzyıllar boyunca bölgede yaşayan insanların yaşam kaynaklarından biri olarak kabul edilmiştir.
 - Bu şelale, doğa severlerin ziyaret etmesi gereken bir destinasyon.

@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/95/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_Wax_Museum%2C_Eski%C5%9Fehir%2C_Turkey_17.jpg","alt":"Turhan Müzesi manzarası","credit":"Murat Özsoy 1958","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_Wax_Museum%2C_Eski%C5%9Fehir%2C_Turkey_19.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_Wax_Museum%2C_Eski%C5%9Fehir%2C_Turkey_19.jpg/1280px-Y%C4%B1lmaz_B%C3%BCy%C3%BCker%C5%9Fen_Wax_Museum%2C_Eski%C5%9Fehir%2C_Turkey_19.jpg","alt":"Turhan Müzesi - Yılmaz Büyükerşen Wax Museum, Eskişehir, Turkey 19","credit":"Murat Özsoy 1958","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turhan%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949178","tip":"genel"}]
-description: "İstanbul'da yer alan Turhan Müzesi, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir kültür merkezi"
+
 keywords: ["Turhan Müzesi","İstanbul","Marmara Bölgesi","Müze","Kültür Merkezi","Yeşil Alan","Tarih","Sanat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132949178"
@@ -30,7 +30,7 @@ wikidata_id: "Q132949178"
 
 # Turhan Müzesi
 
-Turhan Müzesi, İstanbul'un kalbinde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir kültür merkezi. Turhan Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor. Müzenin koleksiyonunda çeşitli eserler ve sergiler bulunuyor. Turhan Müzesi, aynı zamanda konserler, tiyatro performansları ve diğer kültürel etkinliklere de ev sahipliği yapıyor.
+ Turhan Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor. Müzenin koleksiyonunda çeşitli eserler ve sergiler bulunuyor. Turhan Müzesi, aynı zamanda konserler, tiyatro performansları ve diğer kültürel etkinliklere de ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Turhan Müzesi'nin tarihi geçmişi, İstanbul'un kültür ve sanat yaşamının
 
 ## Coğrafya
 
-Turhan Müzesi, İstanbul'un merkezinde yer alıyor ve şehrin önemli turistik noktalarına yakın bir konumda bulunuyor. Müze, 140 hektarlık geniş yeşil alanı ile ziyaretçilere şehrin gürültüsünden uzaklaşmak için bir fırsat sunuyor. Turhan Müzesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme imkanı sağlıyor. Müze, şehirdeki diğer önemli kültür merkezlerine ve tarihi yapılara yakınlığı ile dikkat çekiyor. Turhan Müzesi'nin çevresinde, çeşitli restoranlar, kafeler ve dükkanlar yer alıyor. Müzenin yeşil alanı, ziyaretçilere piknik yapmak, doğada yürüyüş yapma veya sadece şehrin gürültüsünden uzaklaşmak için ideal bir ortam sunuyor.
+Turhan Müzesi, İstanbul'un merkezinde yer alıyor ve şehrin önemli turistik noktalarına yakın bir konumda bulunuyor. Turhan Müzesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme imkanı sağlıyor. Müze, şehirdeki diğer önemli kültür merkezlerine ve tarihi yapılara yakınlığı ile dikkat çekiyor. Turhan Müzesi'nin çevresinde, çeşitli restoranlar, kafeler ve dükkanlar yer alıyor. Müzenin yeşil alanı, ziyaretçilere piknik yapmak, doğada yürüyüş yapma veya sadece şehrin gürültüsünden uzaklaşmak için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
-Turhan Müzesi'nin 140 hektarlık yeşil alanı, çeşitli bitki türleri ile ziyaretçilere doğayı keşfetme fırsatı sunuyor. Müzenin bahçesinde, mevsimsel olarak değişen çiçekler ve ağaçlar bulunuyor. Turhan Müzesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Müzenin yeşil alanı, kuşların ve diğer küçük hayvanların yaşam alanı olarak hizmet veriyor. Turhan Müzesi'nin ekosistemi, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak sunuyor. Müzenin flora ve faunası, ziyaretçilere doğanın güzelliğini keşfetme imkanı sağlıyor.
+ Müzenin bahçesinde, mevsimsel olarak değişen çiçekler ve ağaçlar bulunuyor. Turhan Müzesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Müzenin yeşil alanı, kuşların ve diğer küçük hayvanların yaşam alanı olarak hizmet veriyor. Turhan Müzesi'nin ekosistemi, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak sunuyor. Müzenin flora ve faunası, ziyaretçilere doğanın güzelliğini keşfetme imkanı sağlıyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,6 @@ Turhan Müzesi'ni ziyaret etmek, İstanbul'un kültür ve sanat yaşamını keş
 
 ## İlginç Bilgiler
 
-- Turhan Müzesi, 140 hektarlık yeşil alanı ile İstanbul'un en büyükültür merkezlerinden biri
 - Müzenin koleksiyonunda binlerce eser bulunuyor
 - Turhan Müzesi, yıl boyunca çeşitli konserler ve tiyatro performanslarına ev sahipliği yapıyor
 - Müzenin bahçesinde, mevsimsel olarak değişen çiçekler ve ağaçlar bulunuyor

@@ -51,7 +51,7 @@ Pers Mezar Anıtı, yıl boyunca ziyaret edilebilir ve her mevsim farklı bir g�
 ## İlginç Bilgiler
 
 - Pers Mezar Anıtı, Foça'nın en önemli tarihi noktalarından biri
-- Anıtın bulunduğu bölge, 140 hektarlık bir yeşil alan
+
 - Bu bölge, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahip
 - Ziyaretçiler, anıtın tarihi ve kültürel önemini rehber eşliğinde geziyle öğrenebiliyor
 - Pers Mezar Anıtı, yıl boyunca ziyaret edilebilir ve her mevsim farklı bir güzellik sunuyor

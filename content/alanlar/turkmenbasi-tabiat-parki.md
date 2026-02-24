@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Atat%C3%BCrkArboretum%20%2817%29.jpg","alt":"Türkmenbaşı Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Atat%C3%BCrkArboretum_%2817%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Atat%C3%BCrkArboretum_%2817%29.jpg/1280px-Atat%C3%BCrkArboretum_%2817%29.jpg","alt":"Türkmenbaşı Tabiat Parkı - AtatürkArboretum (17)","credit":"CeeGee","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915681","tip":"genel"}]
-description: "İstanbul'un Sarıyer ilçesinde bulunan Türkmenbaşı Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Türkmenbaşı Tabiat Parkı","Sarıyer","İstanbul","Marmara Bölgesi","tabiat parkı","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q24915681"
@@ -30,7 +30,7 @@ wikidata_id: "Q24915681"
 
 # Türkmenbaşı Tabiat Parkı
 
-Türkmenbaşı Tabiat Parkı, İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık bir yeşil alandır. Park, ziyaretçilerine doğayla iç içe olmayı ve şehrin gürültüsünden uzaklaşmayı vaat ediyor. Burada, doğanın güzelliğini keşfetme ve şehrin stresinden kurtulma mümkün.
+ Park, ziyaretçilerine doğayla iç içe olmayı ve şehrin gürültüsünden uzaklaşmayı vaat ediyor. Burada, doğanın güzelliğini keşfetme ve şehrin stresinden kurtulma mümkün.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Türkmenbaşı Tabiat Parkı, İstanbul'un tarihî ve kültürel zenginliklerine
 
 ## Coğrafya
 
-Türkmenbaşı Tabiat Parkı, Marmara Bölgesi'nin kuzeyinde, İstanbul'un Sarıyer ilçesinde yer alıyor. Parkın coğrafi konumu, ziyaretçilere şehrin merkezinden uzaklaşmadan doğayla iç içe olmayı olanak sağlıyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak mevsimsel değişimler gösteriyor. Kış aylarında yağmur ve soğuk hava, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel değişimler, parkın doğal güzelliklerini her mevsim farklı bir şekilde sunuyor. Parkın çevresi, İstanbul'un yerleşim alanlarına yakın olmakla birlikte, doğayla iç içe bir ortam sunuyor.
+Türkmenbaşı Tabiat Parkı, Marmara Bölgesi'nin kuzeyinde, İstanbul'un Sarıyer ilçesinde yer alıyor. Parkın coğrafi konumu, ziyaretçilere şehrin merkezinden uzaklaşmadan doğayla iç içe olmayı olanak sağlıyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak mevsimsel değişimler gösteriyor. Kış aylarında yağmur ve soğuk hava, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu mevsimsel değişimler, parkın doğal güzelliklerini her mevsim farklı bir şekilde sunuyor. Parkın çevresi, İstanbul'un yerleşim alanlarına yakın olmakla birlikte, doğayla iç içe bir ortam sunuyor.
 
 ## Flora ve Fauna
 

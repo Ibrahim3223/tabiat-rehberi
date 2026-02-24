@@ -28,7 +28,7 @@ wikidata_id: "Q31387043"
 
 # Koruklu Tepe
 
-Koruklu Tepe, Bursa'nın merkezine yakın bir konumda yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Koruklu Tepe, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle büyülemektedir. Koruklu Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölgede zengin bir fauna bulunur. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
+ Koruklu Tepe, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle büyülemektedir. Koruklu Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölgede zengin bir fauna bulunur. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Koruklu Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Koruklu Tepe, Bursa'nın coğrafi yapısı içinde önemli bir yer tutmaktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsamakta ve Marmara Bölgesi'nin eşsiz doğasını temsil etmektedir. Koruklu Tepe'nin coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi sunmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Koruklu Tepe, coğrafi konumu itibariyle hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Koruklu Tepe'nin iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişkenlik gösterir. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaretçilerin sayısı artmaktadır.
+Koruklu Tepe, Bursa'nın coğrafi yapısı içinde önemli bir yer tutmaktadır. Koruklu Tepe'nin coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi sunmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Koruklu Tepe, coğrafi konumu itibariyle hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Koruklu Tepe'nin iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişkenlik gösterir. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaretçilerin sayısı artmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Koruklu Tepe, ziyaretçilerine çeşitli gezi olanakları sunmaktadır. Bu bölg
 ## İlginç Bilgiler
 
 - Koruklu Tepe, Bursa'nın merkezine yakın bir konumda yer almaktadır
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kapsamaktadır
+
 - Koruklu Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir
 - Bu bölgede, tarihi kalıntılar ve arkeolojik buluntular bulunur
 - Koruklu Tepe, yüzyıllar boyunca önemli bir merkezi olarak bilinmektedir

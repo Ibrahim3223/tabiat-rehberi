@@ -49,7 +49,7 @@ Sivridağ Tepesi'ne gitmek için en uygun zaman, ilkbahar ve sonbahar aylarıdı
 ## İlginç Bilgiler
 
 - Sivridağ Tepesi, İzmir'in önemli güzelliklerinden biridir
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Sivridağ Tepesi, tarihinin yanı sıra doğal güzellikleri ile de dikkat çeker
 - Ziyaretçiler, bu tepeye tırmanırken hem tarihi hem de doğal güzellikleri keşfetme fırsatı bulurlar
 - Sivridağ Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir

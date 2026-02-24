@@ -30,7 +30,7 @@ wikidata_id: "Q131390742"
 
 # Pir Emir Türbesi
 
-Pir Emir Türbesi, Marmara Bölgesi'nin kalbinde, Yıldırım/Bursa'da yer alıyor. Bu tarihi ve doğal güzellik, yaklaşık 140 hektarlık bir alanda ziyaretçilerini ağırlıyor. Pir Emir Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini bir zaman yolculuğuna çıkarıyor. Bu özel mekan, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak biliniyor.
+Pir Emir Türbesi, Marmara Bölgesi'nin kalbinde, Yıldırım/Bursa'da yer alıyor. Pir Emir Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini bir zaman yolculuğuna çıkarıyor. Bu özel mekan, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Pir Emir Türbesi, zengin bir flora ve fauna ile çevrilidir. Bu mekan, ziyaret�
 ## İlginç Bilgiler
 
 - Pir Emir Türbesi, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu mekan, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - Pir Emir Türbesi, zengin bir flora ve fauna ile çevrilidir.
 - Bu mekan, ziyaretçilerine çeşitli aktiviteler sunuyor.
 - Pir Emir Türbesi, Marmara Bölgesi'nin kültürel ve tarihi mirasının önemli bir parçasıdır.

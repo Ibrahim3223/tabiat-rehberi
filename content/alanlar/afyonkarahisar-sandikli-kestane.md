@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğrafçılık","Doğa izl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Afyonkarahisar-Sandikli Kestane","caption":"Afyonkarahisar-Sandikli Kestane","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyonkarahisar-Sandikli%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227731","tip":"genel"}]
-description: "Afyonkarahisar'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["Afyonkarahisar","milli park","kestane","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227731"
@@ -30,7 +30,7 @@ Afyonkarahisar-Sandikli Kestane milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Afyonkarahisar-Sandikli Kestane milli parkı, Ege Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Milli parkın etrafında, çeşitli bitki türleri ve hayvanlar yer alıyor ve bu doğal güzelliği keşfetmek için gelen ziyaretçiler, doğanın gerçek güzelliğini deneyimleyebiliyor. Milli parkın iklimi, karasal iklim özellikleri göstermektedir ve yaz aylarında sıcak, kış aylarında ise soğuk olmaktadır. Bu bölgenin coğrafi konumu, birçok doğal güzelliğin bir araya gelmesi ile oluşmuştur. Afyonkarahisar-Sandikli Kestane milli parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikası olarak bilinmektedir.
+Afyonkarahisar-Sandikli Kestane milli parkı, Ege Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Milli parkın etrafında, çeşitli bitki türleri ve hayvanlar yer alıyor ve bu doğal güzelliği keşfetmek için gelen ziyaretçiler, doğanın gerçek güzelliğini deneyimleyebiliyor. Milli parkın iklimi, karasal iklim özellikleri göstermektedir ve yaz aylarında sıcak, kış aylarında ise soğuk olmaktadır. Bu bölgenin coğrafi konumu, birçok doğal güzelliğin bir araya gelmesi ile oluşmuştur.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Afyonkarahisar-Sandikli Kestane milli parkını ziyaret etmek, doğa severler i�
 
 ## İlginç Bilgiler
 
-- Milli parkın, 140 hektarlık yeşil alanı vardır.
 - Milli park, Afyonkarahisar'ın Sandikli ilçesinde yer almaktadır.
 - Milli parkın, zengin flora ve fauna çeşitliliği vardır.
 - Milli park, yılın her günü açık olmakta ve ziyaretçilerini ağırlamaktadır.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekimi",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Tuzla Palas Gölü Sulak Alanı","caption":"Tuzla Palas Gölü Sulak Alanı","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuzla%20Palas%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229011","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cevheri, Tuzla Palas Gölü Sulak Alanı, 140 hektarlık alana kurulu, doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
+"
 keywords: ["Tuzla Palas Gölü Sulak Alanı","İç Anadolu Bölgesi","doğal güzellik","sulak alan","fauna","flora","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229011"
@@ -41,8 +41,6 @@ Tuzla Palas Gölü Sulak Alanı, zengin fauna ve flora çeşitliliği ile dikkat
 Tuzla Palas Gölü Sulak Alanı, doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor. Bu bölgede, birçok faaliyet yapılabilir. Doğa yürüyüşleri, kuş gözlemciliği, fotoğraf çekimi gibi faaliyetler, bölgenin güzelliklerini keşfetmek için idealdir. Ziyaretçiler, bölgenin doğal güzelliklerini ve fauna çeşitliliğinilemek için, rehberli turlara katılabilirler. Ayrıca, bölgede, birçok trekking rotası da bulunuyor. Bu rotalar, ziyaretçilerin bölgenin güzelliklerini keşfetmesine yardımcı oluyor.
 
 ## İlginç Bilgiler
-
-- Tuzla Palas Gölü Sulak Alanı, 140 hektarlık bir alanı kaplıyor.
 
 - Tuzla Palas Gölü Sulak Alanı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor.
 - Bölge, önemli bir kuş göç yolu üzerinde yer alıyor.

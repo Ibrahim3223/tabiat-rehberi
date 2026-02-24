@@ -51,7 +51,7 @@ Seyyid Mehmed Haydar Dede Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kül
 ## İlginç Bilgiler
 
 - Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un en önemli tarihi yapılardan biri
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Türbenin inşası, Seyyid Mehmed Haydar Dede'nin anısına yapıldı
 - İstanbul'un fethi ve Osmanlı'nın büyüme süreci, türbenin tarihi öneminin temelini oluşturuyor
 - Türbe ve çevresindeki yeşil alanlar, ziyaretçilere dinlenmek için bir mekan sunuyor

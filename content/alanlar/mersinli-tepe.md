@@ -49,7 +49,6 @@ Mersinli Tepe, yıl boyunca ziyaret edilebilir ve ziyaretçilere farklı mevsiml
 ## İlginç Bilgiler
 
 - Mersinli Tepe, Muğla'nın turizm potansiyelini gösteren önemli bir noktadır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 
 - Tepe, yıl boyunca ziyaret edilebilir ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunar.
 - Mersinli Tepe, Muğla'nın doğal güzellikleri arasında önemli bir yer tutar.

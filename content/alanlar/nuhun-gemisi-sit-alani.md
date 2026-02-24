@@ -30,7 +30,7 @@ Nuhun Gemisi Sit Alanı, yüzyıllar boyunca çeşitli medeniyetlere ev sahipli�
 
 ## Coğrafya
 
-Nuhun Gemisi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. 140 hektarlık alan, farklı coğrafi oluşumları ve iklimleri bir araya getirir. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir ve coğrafi konumu nedeniyle önemli bir ekosisteme ev sahipliği yapar. Nuhun Gemisi Sit Alanı, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerine benzersiz bir deneyim sunar. Alanın coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve burada, doğanın güzelliği ile tarihi bir arada bulunur. Nuhun Gemisi Sit Alanı, coğrafi olarak zengin bir bölge olarak bilinir ve ziyaretçilerini büyüler.
+Nuhun Gemisi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir ve coğrafi konumu nedeniyle önemli bir ekosisteme ev sahipliği yapar. Nuhun Gemisi Sit Alanı, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerine benzersiz bir deneyim sunar. Alanın coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve burada, doğanın güzelliği ile tarihi bir arada bulunur. Nuhun Gemisi Sit Alanı, coğrafi olarak zengin bir bölge olarak bilinir ve ziyaretçilerini büyüler.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Nuhun Gemisi Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunar. Bu alan, 
 ## İlginç Bilgiler
 
 - Nuhun Gemisi Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından biridir.
-- Alan, 140 hektarlık bir bölgeyi kapsar.
+
 - Bu bölge, yaban hayatı ve flora açısından çok zengindir.
 - Nuhun Gemisi Sit Alanı, tarihin derinliklerinde gizli bir hazine olarak bilinir.
 - Alan, yılın her döneminde ziyaret edilebilir.

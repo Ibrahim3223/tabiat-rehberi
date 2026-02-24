@@ -18,10 +18,10 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","kuş gözlemciliği","bitki gözlemciliği"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0%20-%20%D0%B7%D0%B8%D0%BC%D0%B0.jpg","alt":"Balabana manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Balabana_Street%2C_Lviv_%281%29.JPG/960px-Balabana_Street%2C_Lviv_%281%29.JPG","alt":"Balabana","caption":"Balabana","credit":"Balabana Street, Lviv (1)","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_-_%D0%B7%D0%B8%D0%BC%D0%B0.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_-_%D0%B7%D0%B8%D0%BC%D0%B0.jpg/1280px-%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_-_%D0%B7%D0%B8%D0%BC%D0%B0.jpg","alt":"Balabana - Балабана - зима","credit":"Димитър Найденов / Dimìtar Nàydenov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_%E2%80%93_%D0%B7%D0%B8%D0%BC%D0%B0_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_%E2%80%93_%D0%B7%D0%B8%D0%BC%D0%B0_3.jpg/1280px-%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_%E2%80%93_%D0%B7%D0%B8%D0%BC%D0%B0_3.jpg","alt":"Balabana - Балабана – зима 3","credit":"Димитър Найденов / Dimìtar Nàydenov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_12.jpg/1280px-%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_12.jpg","alt":"Balabana - Балабана 12","credit":"Димитър Найденов / Dimìtar Nàydenov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_13.jpg/1280px-%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_13.jpg","alt":"Balabana - Балабана 13","credit":"Димитър Найденов / Dimìtar Nàydenov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_15.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_15.jpg/1280px-%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0_15.jpg","alt":"Balabana - Балабана 15","credit":"Димитър Найденов / Dimìtar Nàydenov","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balabana","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20013402","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla doğa severleri bekliyor."
+"
 keywords: ["Balabana","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","milli park","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q20013402"
@@ -29,7 +29,7 @@ wikidata_id: "Q20013402"
 
 # Balabana
 
-Balabana, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar. 140 hektarlık bu geniş alan, aynı zamanda birçok hayvanın yuvasıdır. Balabana, doğanın güzelliğini koruma ve geleceğe taşımak için önemli bir görev üstlenmektedir.
+ Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar. Balabana, doğanın güzelliğini koruma ve geleceğe taşımak için önemli bir görev üstlenmektedir.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Balabana milli parkını ziyaret etmek, doğa severler için unutulmaz bir deney
 
 ## İlginç Bilgiler
 
-- Balabana milli parkı, 140 hektarlık bir alana sahiptir.
 - Parkta, birçok farklı bitki ve hayvan türü bulunur.
 - Parkın coğrafi yapısı, ziyaretçilere birçok farklı peyzaj sunar.
 - Balabana, aynı zamanda birçok tarihi esere de ev sahipliği yapar.

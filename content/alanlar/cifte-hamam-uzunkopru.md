@@ -49,7 +49,6 @@ Marmara Bölgesi'nin güzide noktalarından biri olan Çifte Hamam, coğrafi ola
 
 ## İlginç Bilgiler
 
-- Çifte Hamam, 140 hektarlık bir yeşil alan sunar.
 - Bu plaj, Edirne'nin Uzunköprü ilçesinde yer alır.
 - Çifte Hamam, Marmara Denizi'ne yakındır.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini beklemektedir.

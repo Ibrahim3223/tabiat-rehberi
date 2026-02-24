@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Bitki türleri keşfi","Hayvan izleme","F
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Izmir-Urla Kızılçam","caption":"Izmir-Urla Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Urla%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227426","tip":"genel"}]
-description: "İzmir'in güzelliklerini keşfedin, 140 hektarlık yeşil alanın keyfini çıkarın"
+
 keywords: ["İzmir","Urla","Kızılçam","Milli Park","Doğa","Yeşil Alan","Ege Bölgesi","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227426"
@@ -30,7 +30,7 @@ wikidata_id: "Q108227426"
 
 ## Coğrafya
 
-İzmir-Urla Kızılçam milli parkı, Ege Bölgesi'nin en güzel coğrafyasına sahiptir. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin faunayı barındırır. Milli parkın coğrafyası, ziyaretçilerine doğayla iç içe bir deneyim sunar. Bölgenin iklimi, ılıman ve yağışlıdır. Kış aylarında yağışların artması, milli parkın doğal güzelliklerini daha da artırır. Milli parkın çevresi, diğer doğal alanlarla çevrilidir ve bu bölgede yapılan doğa yürüyüşleri, ziyaretçilere eşsiz bir deneyim sunar. Milli parkın yapısı, ziyaretçilerin kolayca gezebileceği şekilde düzenlenmiştir. Ziyaretçiler, milli parkın doğal güzelliklerini keşfetmek için çeşitli yürüyüş parkurlarını kullanabilirler.
+İzmir-Urla Kızılçam milli parkı, Ege Bölgesi'nin en güzel coğrafyasına sahiptir. Milli parkın coğrafyası, ziyaretçilerine doğayla iç içe bir deneyim sunar. Bölgenin iklimi, ılıman ve yağışlıdır. Kış aylarında yağışların artması, milli parkın doğal güzelliklerini daha da artırır. Milli parkın çevresi, diğer doğal alanlarla çevrilidir ve bu bölgede yapılan doğa yürüyüşleri, ziyaretçilere eşsiz bir deneyim sunar. Milli parkın yapısı, ziyaretçilerin kolayca gezebileceği şekilde düzenlenmiştir. Ziyaretçiler, milli parkın doğal güzelliklerini keşfetmek için çeşitli yürüyüş parkurlarını kullanabilirler.
 
 ## Flora ve Fauna
 

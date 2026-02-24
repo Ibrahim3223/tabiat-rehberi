@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Çınarlık Sit Alanı","caption":"Çınarlık Sit Alanı","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1narl%C4%B1k%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226107","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin gözdesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["doğa","çınar","sit alanı","iç anadolu","gezi","turizm","çevre","korunma alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226107"
@@ -30,7 +30,7 @@ wikidata_id: "Q108226107"
 
 ## Coğrafya
 
-Çınarlık Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu bölge, geniş otlakları, ormanları ve su kaynaklarıyla birlikte ziyaretçilere doğal bir güzellik sunuyor. 140 hektarlık alan, ziyaretçilere geniş bir açıklık sunuyor ve bölgenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler için uygun bir ortam sağlıyor. Çınarlık Sit Alanı, coğrafi olarak zengin bir bölge ve bu zenginlik, ziyaretçilere benzersiz deneyimler sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri taşıyor ve bu, ziyaretçilere dört mevsim farklı deneyimler sunuyor.
+Çınarlık Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu bölge, geniş otlakları, ormanları ve su kaynaklarıyla birlikte ziyaretçilere doğal bir güzellik sunuyor. Çınarlık Sit Alanı, coğrafi olarak zengin bir bölge ve bu zenginlik, ziyaretçilere benzersiz deneyimler sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri taşıyor ve bu, ziyaretçilere dört mevsim farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108226107"
 
 ## İlginç Bilgiler
 
-- Çınarlık Sit Alanı, 140 hektarlık bir alana sahip
 - Bölge, çeşitli bitki türleri ve hayvanlarla birlikte ziyaretçilere doğal bir güzellik sunuyor
 - Çınarlık Sit Alanı, tarih öncesi dönemlerden beri yerleşim yeri olarak kullanılıyor
 - Bölge, coğrafi olarak zengin bir bölge ve bu zenginlik, ziyaretçilere benzersiz deneyimler sunuyor

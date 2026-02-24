@@ -21,7 +21,7 @@ aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna gözlemleme","foto�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Kuşkaya Tepesi","caption":"Kuşkaya Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511540","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kuşkaya Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kuşkaya Tepesi","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31511540"
@@ -29,7 +29,7 @@ wikidata_id: "Q31511540"
 
 # Kuşkaya Tepesi
 
-Kuşkaya Tepesi, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Kuşkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. Burada, bölgenin jeolojik geçmişini ve oluşumunu anlama mümkün. Kuşkaya Tepesi, doğa severler ve coğrafya meraklıları için bir çekim merkezi olarak kabul edilebilir.
+ Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Kuşkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. Burada, bölgenin jeolojik geçmişini ve oluşumunu anlama mümkün. Kuşkaya Tepesi, doğa severler ve coğrafya meraklıları için bir çekim merkezi olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kuşkaya Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihine p
 
 ## Coğrafya
 
-Kuşkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını anlamak için kritik bir nokta. Bu bölge, genel olarak yüksek düzlükler ve ovalarla kaplı. Kuşkaya Tepesi, bu coğrafi yapı içinde, yaklaşık 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu flora ve fauna, bölgenin iklimine ve coğrafi yapısına bağlı olarak şekillenmiş. Kuşkaya Tepesi, aynı zamanda bölgenin hidrolojik yapısını etkileyen önemli bir faktör. Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin tarımsal faaliyetlerini desteklemektedir. Kuşkaya Tepesi'nin coğrafi konumu, bölgeyi koruma altına alan doğal bir set olarak görev yapmakta. Tepenin yüksekliği, bölgenin genel yüksekliğine göre biraz daha fazla ve bu nedenle, bölgenin panoramik manzarasını izlemek için ideal bir nokta.
+Kuşkaya Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını anlamak için kritik bir nokta. Bu bölge, genel olarak yüksek düzlükler ve ovalarla kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu flora ve fauna, bölgenin iklimine ve coğrafi yapısına bağlı olarak şekillenmiş. Kuşkaya Tepesi, aynı zamanda bölgenin hidrolojik yapısını etkileyen önemli bir faktör. Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin tarımsal faaliyetlerini desteklemektedir. Kuşkaya Tepesi'nin coğrafi konumu, bölgeyi koruma altına alan doğal bir set olarak görev yapmakta. Tepenin yüksekliği, bölgenin genel yüksekliğine göre biraz daha fazla ve bu nedenle, bölgenin panoramik manzarasını izlemek için ideal bir nokta.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kuşkaya Tepesi'ni ziyaret etmek, doğa severler ve coğrafya meraklıları içi
 
 ## İlginç Bilgiler
 
-- Kuşkaya Tepesi, 140 hektarlık bir yeşil alan olarak dikkat çekiyor.
 - Tepenin eteklerinde, çeşitli bitki türleri ve fauna bulunmakta.
 - Kuşkaya Tepesi, bölgenin coğrafi yapısını anlamak için kritik bir nokta.
 - Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunmakta.

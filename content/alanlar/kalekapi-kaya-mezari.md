@@ -29,7 +29,7 @@ wikidata_id: "Q134728192"
 
 # Kalekapı Kaya Mezarı
 
-Kalekapı Kaya Mezarı, Kastamonu'nun Taşköprü ilçesinde, Karadeniz Bölgesi'nin yeşil örtüsünün arasında gizlenen bir tarihi hazine. Bu mezar, yaklaşık 140 hektarlık bir alanda, doğanın içinde yer alan bir kaya oluşumunda bulunuyor. Kalekapı Kaya Mezarı, ziyaretçilerini hem tarihi geçmiş hem de doğal güzelliği ile cezbediyor.
+Kalekapı Kaya Mezarı, Kastamonu'nun Taşköprü ilçesinde, Karadeniz Bölgesi'nin yeşil örtüsünün arasında gizlenen bir tarihi hazine. Kalekapı Kaya Mezarı, ziyaretçilerini hem tarihi geçmiş hem de doğal güzelliği ile cezbediyor.
 
 ## Tarihçe
 

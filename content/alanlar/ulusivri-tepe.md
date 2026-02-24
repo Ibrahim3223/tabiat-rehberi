@@ -28,7 +28,7 @@ wikidata_id: "Q31385386"
 
 # Ulusivri Tepe
 
-Ulusivri Tepe, Konya'nın merkezi bir noktasında yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir tepe. Konya'nın coğrafi yapısı düşünüldüğünde, Ulusivri Tepe'nin bu konumu oldukça önemli. Ziyaretçiler, tepeye çıktıklarında Konya'nın geniş ve verimli ovalarını gözler önüne seren bir manzara ile karşılaşacaklar. Bu tepe, aynı zamanda Konya'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez.
+ Konya'nın coğrafi yapısı düşünüldüğünde, Ulusivri Tepe'nin bu konumu oldukça önemli. Ziyaretçiler, tepeye çıktıklarında Konya'nın geniş ve verimli ovalarını gözler önüne seren bir manzara ile karşılaşacaklar. Bu tepe, aynı zamanda Konya'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ulusivri Tepe'nin tarihi geçmişi, Konya'nın tarihiyle paralel bir şekilde il
 
 ## Coğrafya
 
-Ulusivri Tepe, Konya'nın coğrafi yapısı içerisinde önemli bir yere sahiptir. Konya, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alır ve coğrafi olarak çeşitli özellikler gösterir. Bu bölge, genel olarak bozkırlar ve ovalarla kaplıdır, ancak Ulusivri Tepe gibi tepeler ve dağlar da bu coğrafi çeşitliliği zenginleştiren önemli unsurlardır. Tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, Konya'nın coğrafi yapısına uygun olarak step ve otlaklarla kaplıdır. Konya'nın iklimi, karasal iklim özellikleri gösterir ve bu nedenle kışlar soğuk, yazlar sıcak geçer. Bu iklim koşulları, Ulusivri Tepe'nin florası ve faunası üzerinde önemli bir etkiye sahiptir. Tepe ve civarı, Konya'nın su kaynaklarına yakınlığı nedeniyle, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu coğrafi konum, aynı zamanda Konya'nın tarım ve hayvancılık faaliyetleri için de önemli bir alandır.
+Ulusivri Tepe, Konya'nın coğrafi yapısı içerisinde önemli bir yere sahiptir. Konya, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alır ve coğrafi olarak çeşitli özellikler gösterir. Bu bölge, genel olarak bozkırlar ve ovalarla kaplıdır, ancak Ulusivri Tepe gibi tepeler ve dağlar da bu coğrafi çeşitliliği zenginleştiren önemli unsurlardır. Konya'nın iklimi, karasal iklim özellikleri gösterir ve bu nedenle kışlar soğuk, yazlar sıcak geçer. Bu iklim koşulları, Ulusivri Tepe'nin florası ve faunası üzerinde önemli bir etkiye sahiptir. Tepe ve civarı, Konya'nın su kaynaklarına yakınlığı nedeniyle, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu coğrafi konum, aynı zamanda Konya'nın tarım ve hayvancılık faaliyetleri için de önemli bir alandır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ulusivri Tepe'yi ziyaret etmek, Konya'nın tarihi ve doğal güzelliklerini keş
 ## İlginç Bilgiler
 
 - Ulusivri Tepe, Konya'nın tarihi ve doğal güzelliklerini bir arada sunar.
-- Tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Konya'nın coğrafi yapısı, step ve otlaklarla kaplıdır.
 - Ulusivri Tepe, ekolojik çeşitlilik bakımından zengindir.
 - Tepe, Konya'nın su kaynaklarına yakınlığı nedeniyle, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar.

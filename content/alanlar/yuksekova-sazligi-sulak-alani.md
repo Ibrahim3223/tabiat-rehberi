@@ -43,7 +43,7 @@ Yüksekova Sazlığı Sulak Alanı, ziyaretçiler için doğal güzellikleri ile
 ## İlginç Bilgiler
 
 - Yüksekova Sazlığı Sulak Alanı, İç Anadolu Bölgesi'nin en önemli sulak alanlarından biridir.
-- Alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Sulak alan, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
 - Alanın coğrafi konumu, bölgenin iklim koşullarını etkilemekte ve bitki örtüsünün şekillenmesine katkıda bulunmaktadır.
 - Sulak alan, bölgenin su kaynaklarının korunmasına da önemli katkılar sağlamaktadır.

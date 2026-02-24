@@ -29,7 +29,7 @@ wikidata_id: "Q131391697"
 
 # Ahu Mahmud Dede Türbesi
 
-Ahu Mahmud Dede Türbesi, Eskişehir'in Odunpazarı ilçesinde yer alan önemli bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan içerisine kurulmuştur. Ahu Mahmud Dede Türbesi, hem tarihi önemi hem de mimari güzelliği ile dikkat çeker. Türbenin etrafı, yeşilliklerle dolu ve ziyaretçilere huzurlu bir ortam sunar. Bu yer, hem yerel halk hem de yabancı turistler için önemli bir gezi noktasıdır.
+Ahu Mahmud Dede Türbesi, Eskişehir'in Odunpazarı ilçesinde yer alan önemli bir tarihi yapıdır. Ahu Mahmud Dede Türbesi, hem tarihi önemi hem de mimari güzelliği ile dikkat çeker. Türbenin etrafı, yeşilliklerle dolu ve ziyaretçilere huzurlu bir ortam sunar. Bu yer, hem yerel halk hem de yabancı turistler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Ahu Mahmud Dede Türbesi, ziyaretçilere farklı deneyimler sunar. Bu türbe, he
 ## İlginç Bilgiler
 
 - Ahu Mahmud Dede Türbesi, Eskişehir'in en önemli tarihi yapılarından biridir.
-- Bu türbe, yaklaşık 140 hektarlık bir alan içerisine kurulmuştur.
+
 - Ahu Mahmud Dede Türbesi etrafında, çeşitli bitki türleri bulunmaktadır.
 - Bu türbe, hem tarihi önemi hem de mimari güzelliği ile dikkat çeker.
 - Ahu Mahmud Dede Türbesi, hem yerel halk hem de yabancı turistler için önemli bir gezi noktasıdır.

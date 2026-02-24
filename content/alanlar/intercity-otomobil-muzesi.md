@@ -37,7 +37,7 @@ Intercity Otomobil Müzesi'nin tarihi geçmişi, Türkiye'nin otomobil kültür�
 
 ## Coğrafya
 
-Intercity Otomobil Müzesi, İstanbul'un merkezinde yer alıyor ve ulaşımı oldukça kolaydır. Müzenin bulunduğu bölge, şehir hayatının kalbinde yer alıyor ve etrafında birçok önemli nokta encontrulmaktadır. Müze, 140 hektarlık geniş bir alana kurulmuş ve bu alan, ziyaretçilere geniş bir sergi deneyimi sunuyor. Sergi alanı, modern ve çağdaş bir tasarıma sahip ve ziyaretçilerin otomobil koleksiyonunu rahatça gezebilmeleri için tasarlanmıştır. İklim ve çevre koşulları da müzenin konumu nedeniyle avantajlıdır, ziyaretçiler yılın her dönemi müze ziyaretlerini gerçekleştirebilirler.
+Intercity Otomobil Müzesi, İstanbul'un merkezinde yer alıyor ve ulaşımı oldukça kolaydır. Müzenin bulunduğu bölge, şehir hayatının kalbinde yer alıyor ve etrafında birçok önemli nokta encontrulmaktadır. Sergi alanı, modern ve çağdaş bir tasarıma sahip ve ziyaretçilerin otomobil koleksiyonunu rahatça gezebilmeleri için tasarlanmıştır. İklim ve çevre koşulları da müzenin konumu nedeniyle avantajlıdır, ziyaretçiler yılın her dönemi müze ziyaretlerini gerçekleştirebilirler.
 
 ## Flora ve Fauna
 

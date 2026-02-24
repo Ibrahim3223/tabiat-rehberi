@@ -51,6 +51,6 @@ Sebilürreşad Dergisi Müzesi'ni ziyaret etmek, Ankara'nın merkezinde yer alan
 
 - Sebilürreşad dergisinin tarihi geçmişini anlatan bir müze
 - Ankara'nın merkezinde yer alan bir turistik nokta
-- 140 hektarlık alan
+
 - Dergi tarihini ve kültürel önemini keşfetme imkanı
 - Müzenin bahçesinde birçok önemli bitki türünün bulunması

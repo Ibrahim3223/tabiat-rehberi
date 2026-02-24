@@ -48,8 +48,6 @@ Tabya Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini keşfetmek için
 
 ## İlginç Bilgiler
 
-- Tabya Tepesi, 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir
 - Tabya Tepesi, stratejik konumu nedeniyle, farklı uygarlıkların ilgi odağı olmuştur
 - Bu bölge, geniş ovalar ve dağlarla çevrilidir
 - Tabya Tepesi, ziyaretçilere, geçmişin izlerini keşfetme fırsatı sunar

@@ -36,7 +36,7 @@ Uluziyaret Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıklar
 
 ## Coğrafya
 
-Uluziyaret Tepe, Akdeniz Bölgesi'nde bulunan bir tepe olarak bilinir. Bu tepe, bölgenin coğrafi yapısını gözler önüne serer ve ziyaretçilerine muhteşem manzaralar sunar. 140 hektarlık bu alan, bölgenin en önemli doğal merkezlerinden biri olarak kabul edilir ve ziyaretçilerin doğayı keşfetmesine olanak sağlar. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak dikkat çeker ve bölgenin coğrafi güzelliklerini gözler önüne serer. Uluziyaret Tepe, özellikle bölgenin iklimi ve coğrafi yapısıyla dikkat çeker ve ziyaretçilerini büyüler. Burada, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılar.
+Uluziyaret Tepe, Akdeniz Bölgesi'nde bulunan bir tepe olarak bilinir. Bu tepe, bölgenin coğrafi yapısını gözler önüne serer ve ziyaretçilerine muhteşem manzaralar sunar. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak dikkat çeker ve bölgenin coğrafi güzelliklerini gözler önüne serer. Uluziyaret Tepe, özellikle bölgenin iklimi ve coğrafi yapısıyla dikkat çeker ve ziyaretçilerini büyüler. Burada, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Uluziyaret Tepe'yi ziyaret etmek, bölgenin güzelliklerini keşfetmek isteyenle
 ## İlginç Bilgiler
 
 - Uluziyaret Tepe, bölgenin en önemli turizm merkezlerinden biri olarak bilinir
-- 140 hektarlık bir alana sahiptir
+
 - Bölgenin en önemli doğal merkezlerinden biri olarak kabul edilir
 - Tarihi açıdan önemli bir merkez olarak bilinir
 - Bölgenin coğrafi yapısını gözler önüne serer

@@ -49,7 +49,7 @@ Gümele Tepe, ziyaretçiler için önemli bir noktadır. Buraya ulaşmak için, 
 ## İlginç Bilgiler
 
 - Gümele Tepe, tarihin derinliklerinden gelen izler taşır
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
+
 - Gümele Tepe, bölgenin doğal güzelliklerini bir araya getiren önemli bir noktadır
 - Bu bölge, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır
 - Gümele Tepe, ziyaretçiler için önemli bir çekim merkezi oluşturur

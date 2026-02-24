@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","flora çeşitlili�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Kastamonu-Samatlar-Kartalsuyu Saricam","caption":"Kastamonu-Samatlar-Kartalsuyu Saricam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Samatlar-Kartalsuyu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227700","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin, 140 hektarlık Kartalsuyu Saricam milli parkında yaban hayatı ve flora çeşitliliği"
+
 keywords: ["Kastamonu","milli park","Kartalsuyu Saricam","yaban hayatı","flora","doğa","gezi","karadeniz bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227700"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227700"
 
 # Kastamonu-Samatlar-Kartalsuyu Saricam
 
- Bu doğal güzellik, ziyaretçilerini yaban hayatı ve flora çeşitliliği ile büyüler. 140 hektarlık bu yeşil cennet, hem doğa severlerin hem de macera arayanların buluşma noktası. Kastamonu'nun Samatlar köyü yakınlarında bulunan Kartalsuyu Saricam, doğal güzellikleri ve zengin fauna ile dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere eşsiz bir doğa deneyimi sunar.
+ Bu doğal güzellik, ziyaretçilerini yaban hayatı ve flora çeşitliliği ile büyüler. Kastamonu'nun Samatlar köyü yakınlarında bulunan Kartalsuyu Saricam, doğal güzellikleri ve zengin fauna ile dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere eşsiz bir doğa deneyimi sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kartalsuyu Saricam milli parkına, Kastamonu il merkezinden uzun bir mesafe uzak
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir yeşil alan
 - yaban hayatı ve flora çeşitliliği
 - Karadeniz Bölgesi'nin doğal güzellikleri
 - tarihi geçmişi

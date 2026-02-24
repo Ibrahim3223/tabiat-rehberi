@@ -20,7 +20,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Masat Hüyüğü","caption":"Masat Hüyüğü","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Masat%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32125065","tip":"genel"}]
-description: "Akdeniz Bölgesi'ndeki Hatay'da bulunan tarihi Masat Hüyüğü, 140 hektarlık geniş bir alanı kaplıyor."
+"
 keywords: ["Masat Hüyüğü","Hatay","Akdeniz Bölgesi","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32125065"
@@ -36,7 +36,7 @@ Masat Hüyüğü'nün tarihi geçmişi, yüzyıllar boyunca farklı uygarlıklar
 
 ## Coğrafya
 
-Masat Hüyüğü, Hatay'ın coğrafi yapısı ve iklimi bakımından özel bir konuma sahip. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere güzel manzaralar sunuyor. Masat Hüyüğü'nün coğrafi yapısı, tarih boyunca farklı medeniyetlerin bu bölgede yerleşmesine ve burada yaşamını sürdürmesine olanak sağlamış. Bu bölgenin coğrafi konumu, hem doğal güzellikleri hem de tarihi zenginlikleriyle ziyaretçileri çekiyor. Masat Hüyüğü, coğrafi olarak yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri sunuyor.
+Masat Hüyüğü, Hatay'ın coğrafi yapısı ve iklimi bakımından özel bir konuma sahip. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere güzel manzaralar sunuyor. Masat Hüyüğü'nün coğrafi yapısı, tarih boyunca farklı medeniyetlerin bu bölgede yerleşmesine ve burada yaşamını sürdürmesine olanak sağlamış. Bu bölgenin coğrafi konumu, hem doğal güzellikleri hem de tarihi zenginlikleriyle ziyaretçileri çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Masat Hüyüğü'ne ziyaretçiler, yılın her dönemi gelebilir. Ancak, ilkbaha
 
 ## İlginç Bilgiler
 
-- Masat Hüyüğü, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, yüzyıllar boyunca farklı uygarlıkların izlerini taşıyor.
 - Masat Hüyüğü, flora ve fauna bakımından zengin.
 - Masat Hüyüğü, ziyaretçilere, hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor.

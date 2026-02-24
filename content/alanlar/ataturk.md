@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğal yürüyüş","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Mustafa_Kemal_Atat%C3%BCrk_Memorial%2C_Kyrenia%2C_Northern_Cyprus.jpg","alt":"ATATÜRK manzarası","credit":"Michal Klajban","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Atat%C3%BCrk_Tokat%27ta_bir_vatanda%C5%9F%C4%B1_dinliyor_%281930%29.jpg/960px-Atat%C3%BCrk_Tokat%27ta_bir_vatanda%C5%9F%C4%B1_dinliyor_%281930%29.jpg","alt":"ATATÜRK","caption":"ATATÜRK","credit":"Atatürk Tokat'ta bir vatandaşı dinliyor (1930)","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/20180108_Atat%C3%BCrk_2769_%2838931765345%29-cropped_REST.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20180108_Atat%C3%BCrk_2769_%2838931765345%29-cropped_REST.jpg/1280px-20180108_Atat%C3%BCrk_2769_%2838931765345%29-cropped_REST.jpg","alt":"ATATÜRK - 20180108 Atatürk 2769 (38931765345)-cropped REST","credit":"Ray Swi-hymn","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Atat%C3%BCrk_TBMM%27den_%C3%A7%C4%B1karken.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Atat%C3%BCrk_TBMM%27den_%C3%A7%C4%B1karken.jpg/1280px-Atat%C3%BCrk_TBMM%27den_%C3%A7%C4%B1karken.jpg","alt":"ATATÜRK - Atatürk TBMM'den çıkarken","credit":"Unknown / Bilinmiyor","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Atat%C3%BCrk_Tokat%27ta_bir_vatanda%C5%9F%C4%B1_dinliyor_%281930%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Atat%C3%BCrk_Tokat%27ta_bir_vatanda%C5%9F%C4%B1_dinliyor_%281930%29.jpg/1280px-Atat%C3%BCrk_Tokat%27ta_bir_vatanda%C5%9F%C4%B1_dinliyor_%281930%29.jpg","alt":"ATATÜRK - Atatürk Tokat'ta bir vatandaşı dinliyor (1930)","credit":"Original photographer unknown.","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Kemal_Atat%C3%BCrk_portrait.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Kemal_Atat%C3%BCrk_portrait.jpg","alt":"ATATÜRK - Kemal Atatürk portrait","credit":"Unknown authorUnknown author","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/Atat%C3%BCrk_Kemal.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/5/53/Atat%C3%BCrk_Kemal.jpg","alt":"ATATÜRK - Atatürk Kemal","credit":"Unknown authorUnknown author","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ATAT%C3%9CRK","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228707","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Atatürk, 140 hektarlık geniş bir alanı kaplar."
+"
 keywords: ["ATATÜRK","İç Anadolu Bölgesi","doğal alan","milli park","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228707"
@@ -43,7 +43,6 @@ ATATÜRK'ü ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme fır
 
 ## İlginç Bilgiler
 
-- ATATÜRK, 140 hektarlık bir alanı kaplar.
 - Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtır.
 - Burada, çeşitli bitki türleri ve zengin fauna bulunur.
 - ATATÜRK'ü ziyaret etmek için en iyi mevsim, ilkbahar ve yaz aylarıdır.

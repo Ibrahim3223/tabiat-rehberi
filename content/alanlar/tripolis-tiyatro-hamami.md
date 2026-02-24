@@ -29,7 +29,7 @@ wikidata_id: "Q131739011"
 
 # Tripolis Tiyatro Hamamı
 
-Tripolis Tiyatro Hamamı, Denizli'nin Buldan ilçesinde yer alan bir tarihi mekan. Tripolis Tiyatro Hamamı, antik dönemden kalan önemli yapıtlardan biri olarak kabul ediliyor. Burada, tarihi yapıların yanı sıra, doğanın güzelliğini de görebilirsiniz. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilere geniş bir alanda gezebilmeleri için uygun bir ortam sunuyor.
+Tripolis Tiyatro Hamamı, Denizli'nin Buldan ilçesinde yer alan bir tarihi mekan. Tripolis Tiyatro Hamamı, antik dönemden kalan önemli yapıtlardan biri olarak kabul ediliyor. Burada, tarihi yapıların yanı sıra, doğanın güzelliğini de görebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tripolis Tiyatro Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu mekan, yüzy�
 
 ## Coğrafya
 
-Tripolis Tiyatro Hamamı, Denizli'nin Buldan ilçesinde yer alıyor. Bu mekan, Ege Bölgesi'nde bulunuyor ve coğrafi konumu itibariyle, ziyaretçilere güzel bir manzara sunuyor. Tiyatro hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor ve geniş bir alanı kaplayan bu mekan, ziyaretçilere geniş bir alanda gezebilmeleri için uygun bir ortam sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tripolis Tiyatro Hamamı, coğrafi konumu itibariyle, ziyaretçilere güzel bir doğa manzarası sunuyor.
+Tripolis Tiyatro Hamamı, Denizli'nin Buldan ilçesinde yer alıyor. Bu mekan, Ege Bölgesi'nde bulunuyor ve coğrafi konumu itibariyle, ziyaretçilere güzel bir manzara sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tripolis Tiyatro Hamamı, coğrafi konumu itibariyle, ziyaretçilere güzel bir doğa manzarası sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Tripolis Tiyatro Hamamı, ziyaretçilere güzel bir doğa manzarası sunuyor. Bu
 ## İlginç Bilgiler
 
 - Tripolis Tiyatro Hamamı, antik dönemden kalan önemli yapıtlardan biri.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Tripolis Tiyatro Hamamı, Ege Bölgesi'nde yer alıyor.
 - Bu mekan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Tripolis Tiyatro Hamamı, ilkbahar ve yaz aylarında ziyaret edilebilir.

@@ -37,7 +37,7 @@ Alaca Hamamı'nın tarihi geçmişi, yüzyıllar boyunca insanların bu alanı z
 
 ## Coğrafya
 
-Alaca Hamamı, Afyonkarahisar ilinin merkezinde yer alan bir plajdır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerine sahiptir ve genellikle sıcak ve kuru bir iklime sahiptir. Alaca Hamamı'nın coğrafi konumu, turizm faaliyetleri için idealdir. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve birçok doğal güzelliğe sahiptir. Alaca Hamamı'nın çevresi, genellikle tarım arazileri ve ormanlık alanlarla çevrilidir. Bu bölge, birçok farklı türde bitki ve hayvanın yaşadığı zengin bir ekosisteme sahiptir.
+Alaca Hamamı, Afyonkarahisar ilinin merkezinde yer alan bir plajdır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerine sahiptir ve genellikle sıcak ve kuru bir iklime sahiptir. Alaca Hamamı'nın coğrafi konumu, turizm faaliyetleri için idealdir. Alaca Hamamı'nın çevresi, genellikle tarım arazileri ve ormanlık alanlarla çevrilidir. Bu bölge, birçok farklı türde bitki ve hayvanın yaşadığı zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Alaca Hamamı, ziyaretçilere birçok olanak sunmaktadır. Bu plaj, özellikle d
 ## İlginç Bilgiler
 
 - Alaca Hamamı, Afyonkarahisar ilinin en önemli turizm merkezlerinden biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Alaca Hamamı, birçok farklı türde bitki ve hayvanın yaşadığı zengin bir ekosisteme sahiptir.
 - Bu bölgenin coğrafi konumu, turizm faaliyetleri için idealdir.
 - Alaca Hamamı, özellikle de yaz aylarında çok sayıda turisti çekmektedir.

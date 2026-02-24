@@ -30,7 +30,7 @@ wikidata_id: "Q131391812"
 
 # Şerbetçi Baba Türbesi
 
-Gelibolu'nun tarihi ve doğal güzellikleri arasında yer alan Şerbetçi Baba Türbesi, Çanakkale'nin önemli dini ve turistik mekanlarından biri. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Çanakkale'nin önemli bir kültürel mirası olarak kabul ediliyor. Burada yer alan türbe, tarihi ve dini önemi ile birlikte ziyaretçilerini cezbediyor.
+Gelibolu'nun tarihi ve doğal güzellikleri arasında yer alan Şerbetçi Baba Türbesi, Çanakkale'nin önemli dini ve turistik mekanlarından biri. Burada yer alan türbe, tarihi ve dini önemi ile birlikte ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Gelibolu'nun tarihi ve doğal güzellikleri arasında yer alan Şerbetçi Baba T
 ## İlginç Bilgiler
 
 - Şerbetçi Baba Türbesi, Gelibolu'nun tarihi ve turistik mekanları arasında önemli bir yer tutuyor.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Şerbetçi Baba Türbesi, Çanakkale'nin önemli bir kültürel mirası olarak kabul ediliyor.
 - Bu mekanın tarihi hakkında detaylı bilgi bulunmasa da, buranın yüzyıllar boyunca önemli bir dini merkez olarak kullanıldığı biliniyor.
 - Şerbetçi Baba Türbesi, Gelibolu'nun doğal güzellikleri arasında önemli bir yer tutuyor.

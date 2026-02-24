@@ -38,7 +38,7 @@ Sinan Paşa Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 
 ## Coğrafya
 
-Sinan Paşa Türbesi, Karatay, Konya'da bulunmaktadır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu bölge, genel olarak step ve bozkır gibi doğal ortamlara sahiptir. Türbe ve plaj, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Coğrafi olarak, Sinan Paşa Türbesi, Konya Ovası'nın kuzeyinde yer almakta ve bölgenin doğal güzelliklerini yansıtmaktadır. Türbenin bulunduğu bölgenin iklimi, karasal iklim özellikleri göstermekte ve yaz aylarında sıcak, kış aylarında soğuk passingmaktadır. Bu coğrafi ve iklimsel özellikleri, Sinan Paşa Türbesi ve plajını ziyaret Edenler için önemli bir çekim merkezi haline getirmektedir.
+Sinan Paşa Türbesi, Karatay, Konya'da bulunmaktadır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu bölge, genel olarak step ve bozkır gibi doğal ortamlara sahiptir. Coğrafi olarak, Sinan Paşa Türbesi, Konya Ovası'nın kuzeyinde yer almakta ve bölgenin doğal güzelliklerini yansıtmaktadır. Türbenin bulunduğu bölgenin iklimi, karasal iklim özellikleri göstermekte ve yaz aylarında sıcak, kış aylarında soğuk passingmaktadır. Bu coğrafi ve iklimsel özellikleri, Sinan Paşa Türbesi ve plajını ziyaret Edenler için önemli bir çekim merkezi haline getirmektedir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Sinan Paşa Türbesi ve plajını ziyaret etmek, Karatay ve Konya'nın tarihi ve
 ## İlginç Bilgiler
 
 - Sinan Paşa Türbesi, Karatay ve Konya'nın tarihi ve kültürel zenginliklerini yansıtan önemli bir eserdir.
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Sinan Paşa Türbesi, bir plaj olarak da hizmet vermektedir.
 - Bu bölge, step ve bozkır gibi doğal ortamlara sahiptir.
 - Türbe ve plaj, mevsimsel değişimlere göre farklı bir güzellik sunmaktadır.

@@ -29,7 +29,7 @@ wikidata_id: "Q131391496"
 
 # Dabanoğlu Türbesi
 
-Dabanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin kalbi sayılan Diyarbakır'ın Sur ilçesinde yer alan tarihi ve kültürel bir miras. Bu önemli yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Dabanoğlu Türbesi, Diyarbakır'ın zengin tarihini ve kültürel çeşitliliğini yansıtan bir abide olarak kabul edilir. Türbenin mimarisi, bölgenin İslami ve Türk kültürel etkilere açık olduğunun bir kanıtı olarak görülür. Ziyaretçiler, bu tarihi yapıyı gezerken, aynı zamanda Diyarbakır'ın tarihi geçmişine de tanıklık eder.
+Dabanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin kalbi sayılan Diyarbakır'ın Sur ilçesinde yer alan tarihi ve kültürel bir miras. Dabanoğlu Türbesi, Diyarbakır'ın zengin tarihini ve kültürel çeşitliliğini yansıtan bir abide olarak kabul edilir. Türbenin mimarisi, bölgenin İslami ve Türk kültürel etkilere açık olduğunun bir kanıtı olarak görülür. Ziyaretçiler, bu tarihi yapıyı gezerken, aynı zamanda Diyarbakır'ın tarihi geçmişine de tanıklık eder.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dabanoğlu Türbesi'nin tarihi geçmişi, Diyarbakır'ın tarihsel süreçteki k
 
 ## Coğrafya
 
-Dabanoğlu Türbesi, Sur ilçesinde yer alır ve Diyarbakır'ın coğrafi yapısına uygun bir şekilde tasarlanmıştır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresi tarihi yapılarla dolu bir bölgede yer alır. Diyarbakır, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunur ve bölge, tarihi açıdan zengin bir geçmişe sahiptir. Dabanoğlu Türbesi de bu coğrafi konumun bir parçası olarak, ziyaretçilerine bölge hakkında geniş bir perspektif sunar. Türbenin etrafı, tarihi yapılar ve yeşil alanlarla çevrilidir, bu da ziyaretçilerin tarihi bir atmosferde dinlenmelerine olanak sağlar. Diyarbakır'ın iklimi, genel olarak kura ve sıcak bir karaktere sahiptir, ancak Dabanoğlu Türbesi gibi tarihi yapılar, ziyaretçilere serin ve huzurlu bir ortam sunar.
+Dabanoğlu Türbesi, Sur ilçesinde yer alır ve Diyarbakır'ın coğrafi yapısına uygun bir şekilde tasarlanmıştır. Diyarbakır, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunur ve bölge, tarihi açıdan zengin bir geçmişe sahiptir. Dabanoğlu Türbesi de bu coğrafi konumun bir parçası olarak, ziyaretçilerine bölge hakkında geniş bir perspektif sunar. Türbenin etrafı, tarihi yapılar ve yeşil alanlarla çevrilidir, bu da ziyaretçilerin tarihi bir atmosferde dinlenmelerine olanak sağlar. Diyarbakır'ın iklimi, genel olarak kura ve sıcak bir karaktere sahiptir, ancak Dabanoğlu Türbesi gibi tarihi yapılar, ziyaretçilere serin ve huzurlu bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Dabanoğlu Türbesi, ziyaretçilere zengin bir tarihi ve kültürel deneyim suna
 ## İlginç Bilgiler
 
 - Dabanoğlu Türbesi, Diyarbakır'ın en önemli tarihi yapılarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Dabanoğlu Türbesi, bölgenin İslami ve Türk kültürel etkilere açık olduğunun bir kanıtı olarak görülür.
 - Ziyaretçiler, Dabanoğlu Türbesi'ni gezerken, Diyarbakır'ın tarihi geçmişine de tanıklık eder.
 - Dabanoğlu Türbesi, yılın her döneminde ziyaretçilere açık bir destinasyon olarak hizmet verir.

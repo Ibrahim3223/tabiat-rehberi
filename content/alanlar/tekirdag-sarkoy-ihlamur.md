@@ -22,7 +22,7 @@ wikidata_id: "Q108227720"
 
 # Tekirdag-Sarkoy Ihlamur
 
-Tekirdag-Sarkoy Ihlamur, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir milli parktır. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
+ İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Tekirdag-Sarkoy Ihlamur'u ziyaret etmek, insanlar için, doğa ile iç içe olab
 ## İlginç Bilgiler
 
 - Tekirdag-Sarkoy Ihlamur, İç Anadolu Bölgesi'nde yer alan bir milli parktır.
-- Bu milli park, yaklaşık 140 hektarlık alanı kapsar.
+
 - İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir.
 - Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
 - İnsanlar, bu doğal güzelliği ziyaret ederek, çevreye duyarlılık ve doğal güzelliklerin korunmasına katkıda bulunabilirler.

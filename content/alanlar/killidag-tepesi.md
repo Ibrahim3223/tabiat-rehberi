@@ -49,7 +49,7 @@ Kıllıdağ Tepesi, ziyaretçileri için birçok imkân sunuyor. Bu tepenin etra
 ## İlginç Bilgiler
 
 - Kıllıdağ Tepesi, Erzurum'un en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Kıllıdağ Tepesi, tarihsel olarak önemli bir geçmişe sahiptir.
 - Bu tepe, flora ve fauna açısından zengin bir bölgedir.
 - Kıllıdağ Tepesi, trekking ve doğa yürüyüşü için ideal bir yer.

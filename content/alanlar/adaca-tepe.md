@@ -36,7 +36,7 @@ Adaca Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin ya
 
 ## Coğrafya
 
-Adaca Tepe, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor ve bu nedenle iklimi, bu bölgenin karakteristik özelliklerini taşıyor. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor. Adaca Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, coğrafi olarak zengin bir çeşitlilik sunuyor. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunmakta ve bu nedenle coğrafi açıdan önemli bir nokta olarak kabul ediliyor. Adaca Tepe'nin coğrafi yapısı, ziyaretçilerin bölge hakkında daha derin bir anlayış kazanmasına yardımcı oluyor. Bu bölge, coğrafi açıdan önemli bir merkez olarak kabul ediliyor ve ziyaretçilere geniş bir perspektif sunuyor. Adaca Tepe, ziyaretçilerini coğrafi güzellikleri ve tarihi değerleriyle çekiyor.
+Adaca Tepe, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor ve bu nedenle iklimi, bu bölgenin karakteristik özelliklerini taşıyor. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor. Bölgenin coğrafi konumu, ziyaretçilere geniş bir manzara sunmakta ve bu nedenle coğrafi açıdan önemli bir nokta olarak kabul ediliyor. Adaca Tepe'nin coğrafi yapısı, ziyaretçilerin bölge hakkında daha derin bir anlayış kazanmasına yardımcı oluyor. Bu bölge, coğrafi açıdan önemli bir merkez olarak kabul ediliyor ve ziyaretçilere geniş bir perspektif sunuyor. Adaca Tepe, ziyaretçilerini coğrafi güzellikleri ve tarihi değerleriyle çekiyor.
 
 ## Flora ve Fauna
 

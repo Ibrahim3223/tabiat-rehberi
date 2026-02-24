@@ -31,7 +31,7 @@ Peri Bacaları Sit Alanı, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzy
 
 ## Coğrafya
 
-Peri Bacaları Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve coğrafi yapısı itibariyle çeşitli doğal güzelliklere ev sahipliği yapıyor. Peri Bacaları Sit Alanı, coğrafi yapısı itibariyle ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak karşımıza çıkıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Peri Bacaları Sit Alanı, coğrafi yapısı itibariyle çeşitli doğal güzellikleri barındıran bir bölge olarak karşımıza çıkıyor. Ancak bu bölge, coğrafi yapısı itibariyle ziyaretçilerine çeşitli zorluklar da sunabilir. Bu nedenle, Peri Bacaları Sit Alanı'na ziyarette bulunacaklar, bu bölge hakkında detaylı bilgi sahibi olmak için araştırmaları yapmalıdırlar.
+Peri Bacaları Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak karşımıza çıkıyor. Peri Bacaları Sit Alanı, coğrafi yapısı itibariyle ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak karşımıza çıkıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Peri Bacaları Sit Alanı, coğrafi yapısı itibariyle çeşitli doğal güzellikleri barındıran bir bölge olarak karşımıza çıkıyor. Ancak bu bölge, coğrafi yapısı itibariyle ziyaretçilerine çeşitli zorluklar da sunabilir. Bu nedenle, Peri Bacaları Sit Alanı'na ziyarette bulunacaklar, bu bölge hakkında detaylı bilgi sahibi olmak için araştırmaları yapmalıdırlar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Peri Bacaları Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu b�
 
 ## İlginç Bilgiler
 
-- Peri Bacaları Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Bu bölge, coğrafi yapısı itibariyle çeşitli doğal güzelliklere ev sahipliği yapıyor
 - Peri Bacaları Sit Alanı, flora ve fauna türleri hakkında bilgi edinmek isteyenler için önemli bir destinasyon olarak karşımıza çıkıyor
 - Bu bölge, ziyaretçilerine benzersiz bir deneyim sunmak için çeşitli aktiviteler sunuyor

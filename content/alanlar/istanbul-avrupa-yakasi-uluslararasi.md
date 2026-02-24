@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotoğrafçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"İSTANBUL AVRUPA YAKASI ULUSLARARASI","caption":"İSTANBUL AVRUPA YAKASI ULUSLARARASI","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0STANBUL%20AVRUPA%20YAKASI%20ULUSLARARASI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228656","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan bu milli park, 140 hektarlık yeşil alanı ve zengin faunasıyla dikkat çekiyor."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","fauna","ekosistem","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228656"
@@ -30,7 +30,7 @@ wikidata_id: "Q108228656"
 
 ## Coğrafya
 
-İç Anadolu Bölgesi'nde yer alan İstanbul Avrupa Yakası Uluslarararası milli parkı, coğrafi olarak oldukça çeşitli bir yapıya sahiptir. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunuyor. İklim koşulları, mevsimsel değişimlere göre farklılık gösteriyor ve bu da bölgenin biyolojik çeşitliliğini zenginleştiriyor. Çevre ve doğa dengesi, milli parkın önemli özelliklerinden biri ve bu denge, ziyaretçiler için eşsiz bir deneyim sunuyor. Milli parkın coğrafi konumu, İç Anadolu Bölgesi'nin genel coğrafi yapısına uygun olarak, yüksekli ve eğim farklılıkları gösteriyor. Bu farklılıklar, çeşitli bitki ve hayvan türlerinin yaşam alanı olarak hizmet veriyor.
+İç Anadolu Bölgesi'nde yer alan İstanbul Avrupa Yakası Uluslarararası milli parkı, coğrafi olarak oldukça çeşitli bir yapıya sahiptir. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunuyor. İklim koşulları, mevsimsel değişimlere göre farklılık gösteriyor ve bu da bölgenin biyolojik çeşitliliğini zenginleştiriyor. Çevre ve doğa dengesi, milli parkın önemli özelliklerinden biri ve bu denge, ziyaretçiler için eşsiz bir deneyim sunuyor. Milli parkın coğrafi konumu, İç Anadolu Bölgesi'nin genel coğrafi yapısına uygun olarak, yüksekli ve eğim farklılıkları gösteriyor. Bu farklılıklar, çeşitli bitki ve hayvan türlerinin yaşam alanı olarak hizmet veriyor.
 
 ## Flora ve Fauna
 

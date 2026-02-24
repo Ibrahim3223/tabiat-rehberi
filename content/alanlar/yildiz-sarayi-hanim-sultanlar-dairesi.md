@@ -29,7 +29,7 @@ wikidata_id: "Q133684794"
 
 # Yıldız Sarayı Hanım Sultanlar Dairesi
 
-Yıldız Sarayı Hanım Sultanlar Dairesi, İstanbul'un kalbinde, Beşiktaş'ta yer alan bir tarihi mekan. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplayan Yıldız Sarayı'nın bir parçası. Yıldız Sarayı, 19. yüzyılda Sultan Abdülmecid tarafından yaptırılmış ve Osmanlı İmparatorluğu'nun son döneminde önemli bir merkez olarak kullanılmıştır. Hanım Sultanlar Dairesi, sarayın kadın üyelerine ayrılmış bir bölüm olarak hizmet vermiştir. Bu mekan, Osmanlı İmparatorluğu'nun ihtişamını ve kültürel zenginliğini yansıtan önemli bir tarihi eser olarak kabul edilir.
+Yıldız Sarayı Hanım Sultanlar Dairesi, İstanbul'un kalbinde, Beşiktaş'ta yer alan bir tarihi mekan. Yıldız Sarayı, 19. yüzyılda Sultan Abdülmecid tarafından yaptırılmış ve Osmanlı İmparatorluğu'nun son döneminde önemli bir merkez olarak kullanılmıştır. Hanım Sultanlar Dairesi, sarayın kadın üyelerine ayrılmış bir bölüm olarak hizmet vermiştir. Bu mekan, Osmanlı İmparatorluğu'nun ihtişamını ve kültürel zenginliğini yansıtan önemli bir tarihi eser olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Sarayı Hanım Sultanlar Dairesi'nin tarihi, 19. yüzyıla kadar uzanı
 
 ## Coğrafya
 
-Yıldız Sarayı Hanım Sultanlar Dairesi, İstanbul'un kalbinde, Beşiktaş'ta yer alır. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplayan Yıldız Sarayı'nın bir parçası. Yıldız Sarayı, Boğaziçi'nin kıyısında yer alan bir tepenin üzerine kurulmuştur ve çevresi ormanlarla kaplıdır. Sarayın bahçesi, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alandır. Hanım Sultanlar Dairesi, sarayın kadın üyelerine ayrılmış bir bölüm olarak hizmet vermiştir ve sarayın genel mimari yapısına uygun olarak tasarlanmıştır. Yıldız Sarayı'nın coğrafi konumu, ziyaretçilere İstanbul'un doğal güzelliğini keşfetme fırsatı sunar. Sarayın çevresinde yer alan ormanlar ve Boğaziçi, ziyaretçilere doğayı keşfetme fırsatı sunar.
+Yıldız Sarayı Hanım Sultanlar Dairesi, İstanbul'un kalbinde, Beşiktaş'ta yer alır. Yıldız Sarayı, Boğaziçi'nin kıyısında yer alan bir tepenin üzerine kurulmuştur ve çevresi ormanlarla kaplıdır. Sarayın bahçesi, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alandır. Hanım Sultanlar Dairesi, sarayın kadın üyelerine ayrılmış bir bölüm olarak hizmet vermiştir ve sarayın genel mimari yapısına uygun olarak tasarlanmıştır. Yıldız Sarayı'nın coğrafi konumu, ziyaretçilere İstanbul'un doğal güzelliğini keşfetme fırsatı sunar. Sarayın çevresinde yer alan ormanlar ve Boğaziçi, ziyaretçilere doğayı keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Yıldız Sarayı Hanım Sultanlar Dairesi'ni ziyaret etmek, ziyaretçilere Osman
 
 - Yıldız Sarayı, 19. yüzyılda Sultan Abdülmecid tarafından yaptırılmış
 - Hanım Sultanlar Dairesi, sarayın kadın üyelerine ayrılmış bir bölüm
-- Yıldız Sarayı, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Sarayın bahçesi, çeşitli bitki türleri ve ağaçlarla dolu bir yeşil alan
 - Yıldız Sarayı, yıl boyunca ziyaretçilere açık bir mekan

@@ -28,7 +28,7 @@ wikidata_id: "Q34828554"
 
 # Çatalca Tepesi
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Çatalca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çatalca Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari özellikleriyle dikkat çekiyor ve ziyaretçilere bölgenin kültürel zenginliğini tanıma fırsatı veriyor.
+ Çatalca Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari özellikleriyle dikkat çekiyor ve ziyaretçilere bölgenin kültürel zenginliğini tanıma fırsatı veriyor.
 
 ## Tarihçe
 

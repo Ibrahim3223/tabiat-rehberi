@@ -38,7 +38,7 @@ Akdede Sultan Türbesi'nin tarihi geçmişi, Ankara'nın tarihi ve kültürel ze
 
 ## Coğrafya
 
-Akdede Sultan Türbesi, Ankara'nın Çankaya ilçesinde yer alır ve şehrin merkezi bir bölgesinde bulunmaktadır. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresinde çeşitli doğal güzellikler bulunur. Akdede Sultan Türbesi'nin coğrafi konumu, ziyaretçilerine Ankara'nın merkezi bölgelerine kolayca ulaşma imkanı sunar. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur ve bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sağlar. Akdede Sultan Türbesi, Ankara'nın coğrafi özelliklerini yansıtan önemli bir nokta olarak kabul edilir. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede kendini gösterir. Türbenin bulunduğu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir.
+Akdede Sultan Türbesi, Ankara'nın Çankaya ilçesinde yer alır ve şehrin merkezi bir bölgesinde bulunmaktadır. Akdede Sultan Türbesi'nin coğrafi konumu, ziyaretçilerine Ankara'nın merkezi bölgelerine kolayca ulaşma imkanı sunar. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur ve bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sağlar. Akdede Sultan Türbesi, Ankara'nın coğrafi özelliklerini yansıtan önemli bir nokta olarak kabul edilir. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede kendini gösterir. Türbenin bulunduğu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir.
 
 ## Flora ve Fauna
 

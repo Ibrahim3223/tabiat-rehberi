@@ -29,7 +29,7 @@ wikidata_id: "Q131738491"
 
 # Çapanoğlu Hamamı
 
-Çapanoğlu Hamamı, Yozgat ilinin Ankara Vilayeti sınırları içerisinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çapanoğlu Hamamı, hem tatil hem de doğa severler için önemli bir çekim merkezi olarak bilinir. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.
+ Çapanoğlu Hamamı, hem tatil hem de doğa severler için önemli bir çekim merkezi olarak bilinir. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738491"
 
 ## Coğrafya
 
-Çapanoğlu Hamamı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, geniş otlaklarla çevrili ve yer ağaçlarla süslü bir manzaraya sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir; soğuk kışlar ve sıcak yazlar görülür. Çevre, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosistemi barındırır. Çapanoğlu Hamamı, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, ziyaretçilere geniş bir doğa alanını keşfetme fırsatı sunar. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetmek için ideal bir ortam sunar.
+Çapanoğlu Hamamı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, geniş otlaklarla çevrili ve yer ağaçlarla süslü bir manzaraya sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir; soğuk kışlar ve sıcak yazlar görülür. Çevre, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosistemi barındırır. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetmek için ideal bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131738491"
 
 ## İlginç Bilgiler
 
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon
 - Bölgenin tarihi geçmişi, yüzyıllar boyunca önemli bir merkezi olarak hizmet vermiş olması
 - Zengin flora ve fauna ile ziyaretçilerini karşılar

@@ -30,7 +30,7 @@ Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu bölge, yaban kiraz ağaçları ile dolu ve 140 hektarlık bir alana yayılmış durumda. Milli parkın coğrafi yapısı, ziyaretçilerini etkileyen bir güzellikte. Yaban kiraz ağaçları, bölgenin iklimini ve toprak yapısını etkiliyor. Milli parkın çevresi, çeşitli bitki türleri ile dolu ve zengin bir fauna sahip. Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri. Bu bölge, yaban kirazının yetiştirilmesi ve korunması için ideal bir ortam sunuyor.
+Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Milli parkın coğrafi yapısı, ziyaretçilerini etkileyen bir güzellikte. Yaban kiraz ağaçları, bölgenin iklimini ve toprak yapısını etkiliyor. Milli parkın çevresi, çeşitli bitki türleri ile dolu ve zengin bir fauna sahip. Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri. Bu bölge, yaban kirazının yetiştirilmesi ve korunması için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkını ziyaret etmek, Kastamon
 ## İlginç Bilgiler
 
 - Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, yaban kirazının anavatanı olarak biliniyor
-- Milli park, 140 hektarlık bir alana yayılmış durumda
+
 - Yaban kiraz ağaçları, bölgenin iklimini ve toprak yapısını etkiliyor
 - Milli parkın çevresi, çeşitli bitki türleri ile dolu ve zengin bir fauna sahip
 - Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri

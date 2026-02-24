@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","botanik araştırma","fotografcılık","din
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"ESKİPAZAR (BOTANİK BAHÇESİ)","caption":"ESKİPAZAR (BOTANİK BAHÇESİ)","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ESK%C4%B0PAZAR%20(BOTAN%C4%B0K%20BAH%C3%87ES%C4%B0)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228619","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Eskipazar Botanik Bahçesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Eskipazar","Botanik Bahçesi","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228619"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228619"
 
 # ESKİPAZAR (BOTANİK BAHÇESİ)
 
- Bu alanda çeşitli bitki türleri ve zengin fauna encontrabilir. Bahçe, hem doğa severler hem de botanikle ilgilenenler için bir cennet. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. 140 hektarlık bu yeşil alan, ziyaretçilere huzur ve sakinli verir.
+ Bu alanda çeşitli bitki türleri ve zengin fauna encontrabilir. Bahçe, hem doğa severler hem de botanikle ilgilenenler için bir cennet. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Eskipazar Botanik Bahçesi'ne ziyaret için en uygun zaman, bahar ve yaz ayları
 
 ## İlginç Bilgiler
 
-- Eskipazar Botanik Bahçesi, 140 hektarlık bir yeşil alan
-- Bahçe, yaklaşık 200 futbol sahası büyüklüğünde
 - Eskipazar Botanik Bahçesi, çeşitli bitki türlerine ev sahipliği yapar
 - Bahçe, zengin fauna ve flora ile dikkat çeker
 - Eskipazar Botanik Bahçesi, ekolojik olarak önemli bir alandır

@@ -28,7 +28,7 @@ wikidata_id: "Q31390932"
 
 # Adaca Tepesi
 
-Adaca Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşil bir mekanda ağırlıyor. Adaca Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Ziyaretçileri, bu tepeye çıktıklarında, geniş ve yeşillik bir görüş alanına sahip oluyorlar. Bu tepe, özellikle güneşin batış saatlerinde, ziyaretçilerine eşsiz bir manzara sunuyor.
+Adaca Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe. Adaca Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Ziyaretçileri, bu tepeye çıktıklarında, geniş ve yeşillik bir görüş alanına sahip oluyorlar. Bu tepe, özellikle güneşin batış saatlerinde, ziyaretçilerine eşsiz bir manzara sunuyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Adaca Tepesi'ni ziyaret etmek, ziyaretçilere, birçok farklı deneyimi aynı an
 
 ## İlginç Bilgiler
 
-- Adaca Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşil bir mekanda ağırlıyor.
 - Bu tepe, özellikle güneşin batış saatlerinde, ziyaretçilerine eşsiz bir manzara sunuyor.
 - Adaca Tepesi, ziyaretçilerine, tarihin izlerini görebilmek için bir fırsat sunuyor.
 - Bu tepe, ziyaretçilerine, birçok farklı deneyimi aynı anda yaşama fırsatı sunuyor.

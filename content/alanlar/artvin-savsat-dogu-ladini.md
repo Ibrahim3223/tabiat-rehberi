@@ -22,7 +22,7 @@ wikidata_id: "Q108228053"
 
 # Artvin Savsat-Dogu Ladini
 
-Artvin Savsat-Dogu Ladini, yaklaşık 140 hektarlık bir alanı kaplayan ve İç Anadolu Bölgesi'nde yer alan bir milli parktır. Doğal güzelliği ve tarihi geçmişi ile dikkat çeken bu bölge, ziyaretçilerini bekliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Ayrıca, tarihi geçmişi ile önemli bir kültürel miras sunar.
+ Doğal güzelliği ve tarihi geçmişi ile dikkat çeken bu bölge, ziyaretçilerini bekliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Ayrıca, tarihi geçmişi ile önemli bir kültürel miras sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Artvin Savsat-Dogu Ladini'ni ziyaret etmek için, İç Anadolu Bölgesi'ne gelme
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplar
 - İç Anadolu Bölgesi'nde yer alır
 - Tarihi geçmişi yüzyıllar boyunca şekillenmiştir
 - Çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz

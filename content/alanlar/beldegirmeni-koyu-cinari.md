@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Beldegirmeni Koyu Cinari","caption":"Beldegirmeni Koyu Cinari","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beldegirmeni%20Koyu%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227164","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Beldegirmeni Koyu Cinari, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Beldegirmeni Koyu Cinari","İç Anadolu Bölgesi","doğal güzellikler","milli park","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227164"

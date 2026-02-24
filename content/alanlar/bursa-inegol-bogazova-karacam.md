@@ -43,7 +43,7 @@ Bursa-Inegol-Bogazova Karacam milli parkını ziyaret etmek, doğa severler içi
 ## İlginç Bilgiler
 
 - Bursa-Inegol-Bogazova Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip.
 - Milli parkın iklimi, ılıman ve nemli.
 - Ziyaretçiler, burada birçok farklı canlı türünü görebilir.

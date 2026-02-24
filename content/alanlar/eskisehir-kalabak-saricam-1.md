@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Bitki ve hayvan gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Eskişehir-Kalabak Saricam 1","caption":"Eskişehir-Kalabak Saricam 1","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Kalabak%20Saricam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227981","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en büyük milli parklarından biri olan Eskişehir-Kalabak Saricam 1, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["Eskişehir","Kalabak Saricam 1","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227981"
@@ -34,7 +34,7 @@ Eskişehir-Kalabak Saricam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi ö
 
 ## Flora ve Fauna
 
-Eskişehir-Kalabak Saricam 1 milli parkı, zengin bir flora ve faunaya sahiptir. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ile kaplı olup, mevsimsel değişimler ile birlikte bu bitkilerin renkleri ve çeşitliliği değişmektedir. Parkın fauna açısından da zengin olması, ziyaretçilere farklı hayvan türleri ile karşılaşma fırsatı sunmaktadır. Kalabak Saricam 1, doğa severlerin ve biyologların ilgi alanlarına giren bir bölgedir. Parkın ekosistemi, doğal dengenin korunması açısından önemli olup, ziyaretçiler bu özel bölgenin güzelliklerini keşfetme fırsatı bulmaktadır.
+Eskişehir-Kalabak Saricam 1 milli parkı, zengin bir flora ve faunaya sahiptir. Parkın fauna açısından da zengin olması, ziyaretçilere farklı hayvan türleri ile karşılaşma fırsatı sunmaktadır. Kalabak Saricam 1, doğa severlerin ve biyologların ilgi alanlarına giren bir bölgedir. Parkın ekosistemi, doğal dengenin korunması açısından önemli olup, ziyaretçiler bu özel bölgenin güzelliklerini keşfetme fırsatı bulmaktadır.
 
 ## Ziyaret Bilgileri
 

@@ -52,6 +52,6 @@ Hasan Paşa Türbesi, Konya'nın Karatay ilçesinde yer alıyor. Türbeyi ziyare
 
 - Hasan Paşa Türbesi, Konya'nın önemli tarihi yapılarından biri olarak biliniyor.
 - Türbenin mimari yapısı, tarihi özellikleri ile dikkat çekiyor.
-- Hasan Paşa Türbesi, 140 hektarlık bir alanda yer alıyor.
+
 - Türbenin etrafında, çeşitli bitkiler ve ağaçlar yer alıyor.
 - Konya'nın iklimi, karasal iklim özellikleri gösteriyor.

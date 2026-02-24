@@ -50,6 +50,6 @@ Kumlu Tepesi, ziyaretçilerini büyüleyen bir destinasyon olarak biliniyor. Bu 
 
 - Kumlu Tepesi, Nevşehir'in doğal güzelliklerinden biri olarak biliniyor
 - Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak dikkat çekiyor
-- Kumlu Tepesi, 140 hektarlık bir alanı kaplıyor
+
 - Bu tepe, bölgenin ekolojik yapısını ve doğal güzelliklerini korumak için önemli bir nokta olarak görülüyor
 - Kumlu Tepesi, ziyaretçilerine bölge hakkında değerli bilgiler sunuyor

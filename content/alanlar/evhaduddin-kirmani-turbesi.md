@@ -29,7 +29,7 @@ wikidata_id: "Q131391286"
 
 # Evhaduddin Kirmani Türbesi
 
-Evhaduddin Kirmani Türbesi, Konya'nın Selçuklu ilçesinde bulunan tarihi ve dini bir merkez olarak dikkat çekmektedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli tarihi yapılar bulunmaktadır. Evhaduddin Kirmani, 12. yüzyılda yaşamış bir mutasavvıf ve düşünür olarak bilinmektedir. Türbesi, Konya'nın önemli kültürel ve dini değerlerinden biri olarak kabul edilmektedir. 200 futbol sahası büyüklüğünde bir alana yayılan bu tarihi mekan, ziyaretçilerini tarihin derinliklerine götürmektedir.
+Evhaduddin Kirmani Türbesi, Konya'nın Selçuklu ilçesinde bulunan tarihi ve dini bir merkez olarak dikkat çekmektedir. Evhaduddin Kirmani, 12. yüzyılda yaşamış bir mutasavvıf ve düşünür olarak bilinmektedir. Türbesi, Konya'nın önemli kültürel ve dini değerlerinden biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Evhaduddin Kirmani Türbesi, tarihi geçmişi ile dikkat çekmektedir. 12. yüzy
 
 ## Coğrafya
 
-Evhaduddin Kirmani Türbesi, Konya'nın Selçuklu ilçesinde yer alan bir tarihi ve dini merkezdir. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli tarihi yapılar bulunmaktadır. Konya'nın coğrafi konumu, türbenin iklimini ve çevresini etkilemektedir. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına sahip olan Konya, kışın soğuk ve kar yağışlı, yazın ise sıcak ve kurak bir iklimi sahiptir. Türbenin bulunduğu alan, Konya'nın tarihi ve kültürel zenginliklerini yansıtan bir bölge olarak dikkat çekmektedir. Türbe, ziyaretçilere tarihin derinliklerine inme ve Konya'nın zengin kültürel mirasını keşfetme fırsatı sunmaktadır. Çevresinde bulunan çeşitli tarihi yapılar, türbenin coğrafi ve kültürel önemini artırmaktadır. 200 futbol sahası büyüklüğünde bir alana yayılan bu tarihi mekan, ziyaretçilerini tarihin sayfalarına götürmektedir.
+Evhaduddin Kirmani Türbesi, Konya'nın Selçuklu ilçesinde yer alan bir tarihi ve dini merkezdir. Konya'nın coğrafi konumu, türbenin iklimini ve çevresini etkilemektedir. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına sahip olan Konya, kışın soğuk ve kar yağışlı, yazın ise sıcak ve kurak bir iklimi sahiptir. Türbenin bulunduğu alan, Konya'nın tarihi ve kültürel zenginliklerini yansıtan bir bölge olarak dikkat çekmektedir. Türbe, ziyaretçilere tarihin derinliklerine inme ve Konya'nın zengin kültürel mirasını keşfetme fırsatı sunmaktadır. Çevresinde bulunan çeşitli tarihi yapılar, türbenin coğrafi ve kültürel önemini artırmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Evhaduddin Kirmani Türbesi, Konya'nın tarihi ve kültürel değerlerini keşfe
 ## İlginç Bilgiler
 
 - Evhaduddin Kirmani, 12. yüzyılda yaşamış bir mutasavvıf ve düşünürdür.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Konya'nın coğrafi konumu, türbenin iklimini ve çevresini etkilemektedir.
 - Türbenin tarihi geçmişi, ziyaretçilere bir zaman yolculuğu fırsatı sunmaktadır.
 - Türbe, Konya'nın önemli dini ve kültürel merkezlerinden biridir.

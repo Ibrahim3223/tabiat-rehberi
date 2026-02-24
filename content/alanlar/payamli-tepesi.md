@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarihi yerleri gezmek","bitki ve hayvan tü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Payamlı Tepesi","caption":"Payamlı Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Payaml%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508842","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Payamlı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir."
+"
 keywords: ["Mersin","Akdeniz Bölgesi","Payamlı Tepesi","tepe","doğa","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31508842"
@@ -28,7 +28,7 @@ wikidata_id: "Q31508842"
 
 # Payamlı Tepesi
 
-Payamlı Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe alanıdır. Payamlı Tepesi, ziyaretçilerini doğanın güzelliği ve serinliğiyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Payamlı Tepesi, aynı zamanda tarihsel ve kültürel açıdan da önemli bir bölgedir. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihsel geçmişi vardır. Payamlı Tepesi'ni ziyaret etmek, hem doğayı hem de tarihin richesini keşfetmek isteyenler için ideal bir destinasyondur.
+ Payamlı Tepesi, ziyaretçilerini doğanın güzelliği ve serinliğiyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Payamlı Tepesi, aynı zamanda tarihsel ve kültürel açıdan da önemli bir bölgedir. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihsel geçmişi vardır. Payamlı Tepesi'ni ziyaret etmek, hem doğayı hem de tarihin richesini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Payamlı Tepesi, tarihsel geçmişiyle dikkat çeker. Bu bölge, yüzyıllar boy
 
 ## Coğrafya
 
-Payamlı Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan dikkat çeker. Payamlı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Payamlı Tepesi, doğu-batı yönünde uzanan bir tepe alanıdır. Bu tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda yer alır. Payamlı Tepesi, iklim açısından da önemlidir. Bu bölge, Akdeniz ikliminin hakim olduğu bir bölgedir. Payamlı Tepesi, aynı zamanda çevresindeki diğer coğrafi oluşumlarla da ilgilidir. Burada, çeşitli akarsular ve göller bulunur. Payamlı Tepesi, coğrafi açıdan zengin bir bölgedir ve bu nedenle ziyaretçilerini bekler.
+Payamlı Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan dikkat çeker. Payamlı Tepesi, doğu-batı yönünde uzanan bir tepe alanıdır. Bu tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda yer alır. Payamlı Tepesi, iklim açısından da önemlidir. Bu bölge, Akdeniz ikliminin hakim olduğu bir bölgedir. Payamlı Tepesi, aynı zamanda çevresindeki diğer coğrafi oluşumlarla da ilgilidir. Burada, çeşitli akarsular ve göller bulunur. Payamlı Tepesi, coğrafi açıdan zengin bir bölgedir ve bu nedenle ziyaretçilerini bekler.
 
 ## Flora ve Fauna
 

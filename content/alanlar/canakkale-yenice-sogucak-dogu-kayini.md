@@ -22,7 +22,7 @@ wikidata_id: "Q108227789"
 
 # Canakkale-Yenice-Sogucak Dogu Kayini
 
-Canakkale-Yenice-Sogucak Dogu Kayini milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak, 140 hektarlık bir alanı kaplıyor. Park, zengin bitki türleri ve çeşitli hayvanlarla dolu bir ekosisteme ev sahipliği yapıyor. Doğa severlerin keyif alacağı bu milli park, aynı zamanda bölgenin tarihi ve kültürel değerlerini de koruyor.
+ Park, zengin bitki türleri ve çeşitli hayvanlarla dolu bir ekosisteme ev sahipliği yapıyor. Doğa severlerin keyif alacağı bu milli park, aynı zamanda bölgenin tarihi ve kültürel değerlerini de koruyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Canakkale-Yenice-Sogucak Dogu Kayini milli parkını ziyaret etmek, doğa severl
 ## İlginç Bilgiler
 
 - Parkın kuruluşu, bölgenin doğal güzelliklerini korumak amacıyla gerçekleştirilmiştir.
-- Park, 140 hektarlık bir alanı kaplıyor.
+
 - Parkta, çeşitli bitki ve hayvan türleri yaşanıyor.
 - Parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sağlıyor.
 - Parkın ziyaret saatleri, mevsime göre değişebiliyor.

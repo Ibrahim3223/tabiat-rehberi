@@ -49,7 +49,7 @@ Ambardere Tepesi, ziyaretçilere doğa ile baş başa kalma fırsatı sunuyor. B
 ## İlginç Bilgiler
 
 - Ambardere Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Ambardere Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor.
 - Bu tepe, aynı zamanda flora ve fauna açısından çok zengin.
 - Ambardere Tepesi, trekking ve doğa yürüyüşü için ideal bir yer.

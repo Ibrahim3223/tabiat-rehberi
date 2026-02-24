@@ -22,7 +22,7 @@ wikidata_id: "Q108228753"
 
 # BEŞİKKAYA
 
-BEŞİKKAYA milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliktir. BEŞİKKAYA, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmeyi çok sevdiği bir yerdir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. BEŞİKKAYA milli parkı, doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
+ BEŞİKKAYA, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmeyi çok sevdiği bir yerdir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. BEŞİKKAYA milli parkı, doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ BEŞİKKAYA milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-BEŞİKKAYA milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli park, 140 hektarlık bir alanı kaplayarak geniş bir yeşil alan sunar. Bu milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanıyan bir yapıya sahiptir. BEŞİKKAYA'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın etmesine olanak tanır. BEŞİKKAYA milli parkı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkileyen bir yerdir.
+BEŞİKKAYA milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanıyan bir yapıya sahiptir. BEŞİKKAYA'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın etmesine olanak tanır. BEŞİKKAYA milli parkı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkileyen bir yerdir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ BEŞİKKAYA milli parkına ziyaretçiler, çeşitli ulaşım seçenekleri ile ge
 
 ## İlginç Bilgiler
 
-- BEŞİKKAYA milli parkı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
 - Milli parkta çeşitli bitki türleri bulunur
 - BEŞİKKAYA, ziyaretçilerine doğayı keşfetme fırsatı sunar
 - Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanır

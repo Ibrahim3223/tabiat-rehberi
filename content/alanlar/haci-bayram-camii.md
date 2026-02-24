@@ -38,7 +38,7 @@ Hacı Bayram Camii'nin tarihi, 15. yüzyıla dayanır. Cami, Hacı Bayram-ı Vel
 
 ## Coğrafya
 
-Hacı Bayram Camii, Ankara'nın merkezinde yer alır. Cami, Ankara Kalesi'nin eteklerinde, bir tepe üzerine kurulmuştur. Caminin etrafı, tarihi ve kültürel yapılarla çevrilidir. Cami, yaklaşık 140 hektarlık bir alanı kaplar. Caminin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Cami, kubbe ve minarelerden oluşur. Kubbe, caminin merkezi bölümünü örter. Minareler, caminin dört bir yanına yerleştirilmiştir. Hacı Bayram Camii, Ankara'nın en önemli turizm merkezlerinden biridir. Cami, her yıl binlerce turist tarafından ziyaret edilir.
+Hacı Bayram Camii, Ankara'nın merkezinde yer alır. Cami, Ankara Kalesi'nin eteklerinde, bir tepe üzerine kurulmuştur. Caminin etrafı, tarihi ve kültürel yapılarla çevrilidir. Caminin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Cami, kubbe ve minarelerden oluşur. Kubbe, caminin merkezi bölümünü örter. Minareler, caminin dört bir yanına yerleştirilmiştir. Hacı Bayram Camii, Ankara'nın en önemli turizm merkezlerinden biridir. Cami, her yıl binlerce turist tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Hacı Bayram Camii, Ankara'nın merkezinde yer aldığı için, ulaşımı kolay
 
 - Hacı Bayram Camii, Türkiye'nin en önemli kültürel ve tarihi yapılarından biridir.
 - Cami, yaklaşık 600 yıllık bir geçmişe sahiptir.
-- Cami, 140 hektarlık bir alanı kaplar.
+
 - Cami, Ankara'nın en önemli turizm merkezlerinden biridir.
 - Cami, her yıl binlerce turist tarafından ziyaret edilir.

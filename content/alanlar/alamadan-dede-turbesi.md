@@ -51,7 +51,7 @@ Alamadan Dede Türbesi, ziyaretçilere huzurlu bir atmosfer sunan ve Ege Bölges
 ## İlginç Bilgiler
 
 - Alamadan Dede Türbesi, İzmir'in Tire ilçesinde yer alır
-- Türbe, 140 hektarlık bir yeşil alan sunar
+
 - Alamadan Dede Türbesi, Ege Bölgesi'nin önemli bir turizm merkezidir
 - Türbenin tarihi geçmişi, ziyaretçilere önemli bir kültürel ve tarihi deneyim sunar
 - Alamadan Dede Türbesi, her yıl birçok ziyaretçiyi ağırlamaktadır

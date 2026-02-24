@@ -21,7 +21,7 @@ aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotoğraf �
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Fertek Hamamı","caption":"Fertek Hamamı","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fertek%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739197","tip":"genel"}]
-description: "Niğde'nin doğal güzelliklerinden biri olan Fertek Hamamı, ziyaretçilerini bekliyor. Doğal bir plaj olarak bilinen bu alan, 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Niğde'nin doğal güzelliklerinden biri olan Fertek Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Fertek Hamamı","Niğde","doğal plaj","yeşil alan","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739197"
@@ -49,7 +49,6 @@ Fertek Hamamı, yıl boyunca ziyaret edilebilecek bir bölgedir. Bu bölge, gün
 
 ## İlginç Bilgiler
 
-- Fertek Hamamı, 140 hektarlık bir yeşil alanı barındırmaktadır.
 - Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik göstermektedir.
 - Fertek Hamamı, yıl boyunca ziyaret edilebilecek bir bölgedir.
 - Bu bölgenin flora ve fauna zenginliği, ziyaretçilerin ilgisini çekmektedir.

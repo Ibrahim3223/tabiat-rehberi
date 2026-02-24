@@ -29,7 +29,7 @@ wikidata_id: "Q134728084"
 
 # Antik Nekropol Alanı, Dağbeli
 
-Antalya'nın Döşemealtı ilçesinde yer alan Dağbeli Antik Nekropol Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Antalya'nın tarihi güzellikleri arasında önemli bir yer tutan bu nekropol, ziyaretçilerini geçmişin derinliklerine götürüyor. yüksek bir konumdate yer alan bu alan, aynı zamanda manzarasıyla da ziyaretçilerini etkiliyor.
+ Antalya'nın tarihi güzellikleri arasında önemli bir yer tutan bu nekropol, ziyaretçilerini geçmişin derinliklerine götürüyor. yüksek bir konumdate yer alan bu alan, aynı zamanda manzarasıyla da ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dağbeli Antik Nekropol Alanı, tarihin derinliklerinde kaybolmuş bir geçmişe
 
 ## Coğrafya
 
-Dağbeli Antik Nekropol Alanı, Döşemealtı ilçesinde yer alıyor ve 140 hektarlık bir alanı kapsıyor. Bu alan, Akdeniz Bölgesi'nde ve Antalya'nın merkezine uzun bir mesafe uzaklıkta bulunuyor. Nekropol, yüksek bir konumdate ve deniz seviyesinden yaklaşık 100 metre yukarıda yer alıyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor ve Antalya'nın doğal güzelliklerini gözler önüne seriyor. Dağbeli Antik Nekropol Alanı, coğrafi olarak önemli bir konumda yer alıyor ve Antalya'nın turizm merkezlerine yakınlığıyla dikkat çekiyor. Bu alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+ Bu alan, Akdeniz Bölgesi'nde ve Antalya'nın merkezine uzun bir mesafe uzaklıkta bulunuyor. Nekropol, yüksek bir konumdate ve deniz seviyesinden yaklaşık 100 metre yukarıda yer alıyor. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor ve Antalya'nın doğal güzelliklerini gözler önüne seriyor. Dağbeli Antik Nekropol Alanı, coğrafi olarak önemli bir konumda yer alıyor ve Antalya'nın turizm merkezlerine yakınlığıyla dikkat çekiyor. Bu alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Dağbeli Antik Nekropol Alanı, çeşitli bitki türleri ve zengin fauna ile dik
 Dağbeli Antik Nekropol Alanı, ziyaretçilere zengin bir kültür mirası sunuyor. Bu alan, Antalya'nın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı kolay. Ziyaretçiler, bu nekropole, toplu taşıma veya özel araçlarla ulaşabiliyor. Nekropol, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, en uygun zamanlar olarak görülüyor. Ziyaretçiler, bu alanın tarihi geçmişi, kültürel mirası ve doğal güzellikleri hakkında bilgi edinebiliyor ve aynı zamanda, Antalya'nın turizm merkezlerini de keşfedebiliyor.
 
 ## İlginç Bilgiler
-
-- Dağbeli Antik Nekropol Alanı, 140 hektarlık bir alanı kapsıyor.
 
 - Nekropol, yüksek bir konumdate yer alıyor.
 - Antalya'nın tarihi geçmişi, Lidya, Pers, Roma ve Bizans dönemlerini kapsıyor.

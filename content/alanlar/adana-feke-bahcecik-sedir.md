@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Adana-Feke-Bahcecik Sedir","caption":"Adana-Feke-Bahcecik Sedir","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Bahcecik%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227199","tip":"genel"}]
-description: "Adana'nın Feke ilçesindeki Bahcecik Sedir ormanları, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Adana","Feke","Bahcecik Sedir","orman","yeşil alan","doğa","gezi","turizm","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227199"
@@ -30,7 +30,7 @@ Adana-Feke-Bahcecik Sedir'in tarihi geçmişi, yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Adana-Feke-Bahcecik Sedir, Akdeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, dağlık ve ormanlık bir yapıya sahiptir. Bahcecik Sedir ormanları, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Bölgenin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçmektedir. Bahcecik Sedir, coğrafi konumu itibariyle ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. Bu bölge, doğa yürüyüşleri, pikni ve doğa fotoğrafçılığı için ideal bir destinasyon olarak kabul edilebilir.
+Adana-Feke-Bahcecik Sedir, Akdeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, dağlık ve ormanlık bir yapıya sahiptir. Bölgenin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçmektedir. Bahcecik Sedir, coğrafi konumu itibariyle ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. Bu bölge, doğa yürüyüşleri, pikni ve doğa fotoğrafçılığı için ideal bir destinasyon olarak kabul edilebilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Adana-Feke-Bahcecik Sedir'i ziyaret etmek, doğa tutkunları ve şehrin gürült
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Sedir ormanları
 - Akdeniz Bölgesi
 - Feke ilçesi

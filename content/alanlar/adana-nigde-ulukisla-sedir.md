@@ -22,7 +22,7 @@ wikidata_id: "Q108227204"
 
 # Adana-Nigde-Ulukisla Sedir
 
-Adana-Nigde-Ulukisla Sedir, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Sedir ağacı ile ünlü olan bu bölge, ziyaretçilerine doğanın güzelliğini ve huzurunu sunar. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, Sedir ağacı ile çevrili patikaları keşfedebilir ve bölgenin eşsiz florası ve faunası hakkında bilgi edinebilirler.
+ Sedir ağacı ile ünlü olan bu bölge, ziyaretçilerine doğanın güzelliğini ve huzurunu sunar. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, Sedir ağacı ile çevrili patikaları keşfedebilir ve bölgenin eşsiz florası ve faunası hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Nigde-Ulukisla Sedir milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Adana-Nigde-Ulukisla Sedir milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, 140 hektarlık bir alanı kapsar ve Sedir ağacı ile ünlü olan bir yeşil alana sahiptir. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli gezinti olanakları sunar. Ziyaretçiler, Sedir ağacı ile çevrili patikaları keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin eşsiz florası ve faunası hakkında bilgi edinebilirler. Milli parkın iklimi, Akdeniz iklimi özellikleri gösterir ve ziyaretçilere, yıl boyunca çeşitliaktiviteler sunar. Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir ve ziyaretçilerin doğa ile iç içe olması için ideal bir yerdir.
+Adana-Nigde-Ulukisla Sedir milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli gezinti olanakları sunar. Ziyaretçiler, Sedir ağacı ile çevrili patikaları keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin eşsiz florası ve faunası hakkında bilgi edinebilirler. Milli parkın iklimi, Akdeniz iklimi özellikleri gösterir ve ziyaretçilere, yıl boyunca çeşitliaktiviteler sunar. Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir ve ziyaretçilerin doğa ile iç içe olması için ideal bir yerdir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Adana-Nigde-Ulukisla Sedir milli parkını ziyaret etmek, doğa severler için i
 ## İlginç Bilgiler
 
 - Sedir ağacı, milli parkın simgesidir.
-- Milli park, 140 hektarlık bir alanı kapsar.
+
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Ziyaretçiler, milli parkta doğa yürüyüşleri yapabilirler.
 - Milli park, Sedir ağacı ile ünlü olan bir yeşil alana sahiptir.

@@ -42,7 +42,6 @@ Balikesir-Bigadic Kızılçam2 milli parkını ziyaret etmek, doğa severler ve 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir
 - Park, çeşitli ağaç türleri ve çalılarla kaplıdır
 - Parkta, birçok hayvan türüne rastlama mümkündür
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir

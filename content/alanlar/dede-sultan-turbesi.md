@@ -38,7 +38,7 @@ Dede Sultan Türbesi'nin tarihi geçmişi, Kastamonu'nun zengin tarihî mirasın
 
 ## Coğrafya
 
-Dede Sultan Türbesi, Kastamonu şehir merkezinde yer alan ve Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir noktadır. Bu bölge, Karadeniz'in karakteristik coğrafi özelliklerini taşıyan bir alanda bulunur ve ziyaretçilere bölgeyi keşfetme fırsatı sunar. Türbe, 140 hektarlık bir yeşil alan içinde yer alır ve çevresinde çeşitli bitki türleri ile zengin bir flora sunar. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. Dede Sultan Türbesi'nin coğrafi konumu, Kastamonu'nun tarihî ve kültürel varlıklarının bir araya geldiği özel bir noktadır.
+Dede Sultan Türbesi, Kastamonu şehir merkezinde yer alan ve Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir noktadır. Bu bölge, Karadeniz'in karakteristik coğrafi özelliklerini taşıyan bir alanda bulunur ve ziyaretçilere bölgeyi keşfetme fırsatı sunar. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. Dede Sultan Türbesi'nin coğrafi konumu, Kastamonu'nun tarihî ve kültürel varlıklarının bir araya geldiği özel bir noktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Dede Sultan Türbesi'ni ziyaret etmek, Kastamonu'nun tarihî ve kültürel varl�
 ## İlginç Bilgiler
 
 - Dede Sultan Türbesi, Kastamonu'nun en önemli tarihî mekanlarından biridir
-- Türbe, 140 hektarlık bir yeşil alan içinde yer alır
+
 - Bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır
 - Dede Sultan Türbesi, Kastamonu'nun kültürel ve turistik hayatında önemli bir rol oynar
 - Türbe ve çevresinin tarihî geçmişi, ziyaretçilere bu önemli kültürel mirası keşfetme fırsatı sunar

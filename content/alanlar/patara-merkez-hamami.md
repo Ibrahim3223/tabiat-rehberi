@@ -29,7 +29,7 @@ wikidata_id: "Q131738914"
 
 # Patara Merkez Hamamı
 
-Patara Merkez Hamamı, Kaş ilçesinde yer alan ve tarihi bir plaj ile hamam kompleksinin birleştiği benzersiz bir yerdir. Yaklaşık 140 hektarlık bir alana yayılan bu kompleks, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir. Patara Merkez Hamamı, Akdeniz Bölgesi'nin eşsiz güzelliklerini sunan bir destinasyon olarak ziyaretçilerini bekliyor.
+Patara Merkez Hamamı, Kaş ilçesinde yer alan ve tarihi bir plaj ile hamam kompleksinin birleştiği benzersiz bir yerdir. Patara Merkez Hamamı, Akdeniz Bölgesi'nin eşsiz güzelliklerini sunan bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

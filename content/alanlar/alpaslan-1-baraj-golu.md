@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/%C3%96merli_Baraj_G%C3%B6l%C3%BC-%C4%B0stanbul_-_panoramio.jpg","alt":"Alpaslan-1 Baraj Gölü manzarası","credit":"hüsamettin_alpaslan","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%C3%96merli_Baraj_G%C3%B6l%C3%BC-%C4%B0stanbul_-_panoramio.jpg/960px-%C3%96merli_Baraj_G%C3%B6l%C3%BC-%C4%B0stanbul_-_panoramio.jpg","alt":"Alpaslan-1 Baraj Gölü","caption":"Alpaslan-1 Baraj Gölü","credit":"Ömerli Baraj Gölü-İstanbul - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alpaslan-1%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q101552536","tip":"genel"}]
 description: "Muş'ta bulunan Alpaslan-1 Baraj Gölü, doğa severler için bir cennet. 1200 hektarlık yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

@@ -49,7 +49,6 @@ Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi'ni ziyaret etmek, A
 
 ## İlginç Bilgiler
 
-- Müze, 140 hektarlık bir alana kurulmuştur
 - Müzenin koleksiyonunda, tarihi eserler ve belgeler yer alır
 - Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır
 - Müze, hafta içi ve hafta sonu açık olup, belirli saatlerde ziyaret edilebilir

@@ -38,7 +38,7 @@ wikidata_id: "Q131390736"
 
 ## Coğrafya
 
-Üftade Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Bursa'nın kalbinde yer alıyor. Mekan, yeşil alanlar ve tarihi yapılarla çevrilidir. Üftade Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi yapıları hem de doğanın güzelliğini aynı anda deneyimlemelerine olanak tanır. Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Üftade Türbesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor, çünkü bu mevsimlerde hava koşulları oldukça uygun oluyor. Mekan, doğa yürüyüşleri ve tarihi yapıları keşfetmek için ideal bir destinasyon. Üftade Türbesi, Bursa'nın önemli bir kültür ve turizm merkezi olarak kabul ediliyor ve ziyaretçilere birçok olanak sunuyor.
+Üftade Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Bursa'nın kalbinde yer alıyor. Mekan, yeşil alanlar ve tarihi yapılarla çevrilidir. Üftade Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi yapıları hem de doğanın güzelliğini aynı anda deneyimlemelerine olanak tanır. Üftade Türbesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor, çünkü bu mevsimlerde hava koşulları oldukça uygun oluyor. Mekan, doğa yürüyüşleri ve tarihi yapıları keşfetmek için ideal bir destinasyon. Üftade Türbesi, Bursa'nın önemli bir kültür ve turizm merkezi olarak kabul ediliyor ve ziyaretçilere birçok olanak sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390736"
 ## İlginç Bilgiler
 
 - Üftade Türbesi, Bursa'nın en önemli dini ve kültürel merkezlerinden biri.
-- Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Üftade Türbesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor.
 - Mekan, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Üftade Türbesi, Bursa'nın turizm noktalarından biri olarak kabul ediliyor.

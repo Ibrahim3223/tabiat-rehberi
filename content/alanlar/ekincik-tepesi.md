@@ -48,7 +48,6 @@ Ekincik Tepesi'ni ziyaret etmek, ziyaretçilerine birçok olanak sunuyor. Bu tep
 
 ## İlginç Bilgiler
 
-- Ekincik Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, Ege Bölgesi'nin iklimini yansıtan bir yapıya sahip.
 - Ekincik Tepesi, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Bu tepe, ziyaretçilerine doğal güzellikleri ile birlikte birçok olanak sunuyor.

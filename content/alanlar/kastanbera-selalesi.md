@@ -22,7 +22,7 @@ wikidata_id: "Q130367214"
 
 # Kastanbera Şelalesi
 
-Kastanbera Şelalesi, Trabzon'un merkezine yakınlığıyla dikkat çeken bir destinasyon. Bu şelale, yaklaşık 140 hektarlık bir alan içinde yer alıyor. Doğal güzellikleri sevenler için ideal bir gezi noktası. Şelalenin güzelliği, özellikle ilkbahar ve yaz aylarında daha da belirginleşiyor. Bu mevsimlerde, çevredeki bitkilerin ve ağaçların yeşillenmesiyle birlikte, şelale daha da güzel bir manzara sunuyor.
+Kastanbera Şelalesi, Trabzon'un merkezine yakınlığıyla dikkat çeken bir destinasyon. Doğal güzellikleri sevenler için ideal bir gezi noktası. Şelalenin güzelliği, özellikle ilkbahar ve yaz aylarında daha da belirginleşiyor. Bu mevsimlerde, çevredeki bitkilerin ve ağaçların yeşillenmesiyle birlikte, şelale daha da güzel bir manzara sunuyor.
 
 ## Tarihçe
 

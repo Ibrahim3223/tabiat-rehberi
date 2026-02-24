@@ -22,7 +22,7 @@ wikidata_id: "Q108228545"
 
 # Antalya-Akseki-Ibradi-Fransiz Akcaagac
 
-Antalya'nın Akseki ilçesinde yer alan Fransız Akçağaç Milli Parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın kucağına davet ediyor. Parka girer girmez, ziyaretçiler themselves bir doğa harikasının içinde buluyorlar. Yeşilin her tonunu görebileceğiniz bu milli park, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Buradaki tarihi kalıntılar, yüzyıllar boyunca bu bölgede yaşamış olan farklı kültürlerin izlerini taşıyor.
+ Parka girer girmez, ziyaretçiler themselves bir doğa harikasının içinde buluyorlar. Yeşilin her tonunu görebileceğiniz bu milli park, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Buradaki tarihi kalıntılar, yüzyıllar boyunca bu bölgede yaşamış olan farklı kültürlerin izlerini taşıyor.
 
 ## Tarihçe
 

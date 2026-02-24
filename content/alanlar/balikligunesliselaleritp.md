@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","caption":"BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BALIKLI_G%C3%9CNE%C5%9EL%C4%B0_%C5%9EELALER%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228783","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin birleştiği nokta, 140 hektarlık yeşil alan"
+
 keywords: ["BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","İç Anadolu Bölgesi","doğal güzellikler","yeşil alan","şelaleler","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228783"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228783"
 
 # BALIKLI_GÜNEŞLİ_ŞELALERİ_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan BALIKLI_GÜNEŞLİ_ŞELALERİ_TP, yaklaşık 140 hektarlık bir alanı kapsayan geniş ve yeşil bir milli parktır. Şelalelerin sesi, ziyaretçilere doğanın güzelliğini hissettirirken, geniş yürüyüş yolları da ziyaretçilerin doğayla iç içe olmasını sağlar. İç Anadolu Bölgesi'nin coğrafi ve iklimsel özellikleri, bu milli parkın benzersiz bir ekosistem oluşturmasına katkıda bulunmuştur. BALIKLI_GÜNEŞLİ_ŞELALERİ_TP, doğa severler için gerçek bir cennet olarak kabul edilebilir.
+ Şelalelerin sesi, ziyaretçilere doğanın güzelliğini hissettirirken, geniş yürüyüş yolları da ziyaretçilerin doğayla iç içe olmasını sağlar. İç Anadolu Bölgesi'nin coğrafi ve iklimsel özellikleri, bu milli parkın benzersiz bir ekosistem oluşturmasına katkıda bulunmuştur. BALIKLI_GÜNEŞLİ_ŞELALERİ_TP, doğa severler için gerçek bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ BALIKLI_GÜNEŞLİ_ŞELALERİ_TP, ziyaretçilere doğayla iç içe olabilme fır
 
 ## İlginç Bilgiler
 
-- BALIKLI_GÜNEŞLİ_ŞELALERİ_TP, yaklaşık 140 hektarlık bir alanı kapsar.
 - Milli park, İç Anadolu Bölgesi'nin coğrafi yapısı içindeki özel bir konumda yer almaktadır.
 - BALIKLI_GÜNEŞLİ_ŞELALERİ_TP, çeşitli bitki ve hayvan türleri için bir yaşam alanı olarak görev yapmaktadır.
 - Milli parkın flora ve faunası, bölgenin coğrafi yapısı ve iklimsel koşullarıyla yakından ilgilidir.

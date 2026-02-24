@@ -50,7 +50,7 @@ Küçük Mustafa Paşa Hamamı'na ziyaret için en uygun zaman, ilkbahar ve sonb
 ## İlginç Bilgiler
 
 - Hamamın tarihi kaynaklara göre Osmanlı döneminde inşa edildiği biliniyor.
-- 140 hektarlık alanı, ziyaretçilere geniş bir açık alan sunuyor.
+
 - Marmara Bölgesi'nde yer alan hamam, İstanbul'un kültürel mirasının önemli bir parçasını oluşturuyor.
 - Çevresinde çeşitli bitkiler ve ağaçlar bulunuyor.
 - İlkbahar ve sonbahar ayları ziyaret için en uygun zamanlar.

@@ -28,7 +28,7 @@ wikidata_id: "Q32210728"
 
 # Küküttoyu Tepe
 
-Konya'nın merkezinde yer alan Küküttoyu Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Küküttoyu Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Tepe, aynı zamanda önemli bir kültürel mirasın da evidir.
+ Küküttoyu Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Tepe, aynı zamanda önemli bir kültürel mirasın da evidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küküttoyu Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Küküttoyu Tepe, Konya'nın merkezinde yer alıyor ve şehrin önemli bir parçası. Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve çeşitli bitki türleri ile zengin fauna encontrabilirsiniz. Burada, farklı mevsimlerde farklı güzellikler sunuluyor. İlkbahar ve sonbahar aylarında, tepe yeşilleniyor ve çiçekler açıyor. Kış aylarında, tepe karla kaplanıyor ve bir kış masalı gibi görünüyor. Küküttoyu Tepe, aynı zamanda önemli bir kültürel mirasın da evidir. Tepe, şehrin önemli bir parçası ve Konya'nın güzelliklerini keşfetmek isteyenler için mükemmel bir destinasyon.
+Küküttoyu Tepe, Konya'nın merkezinde yer alıyor ve şehrin önemli bir parçası. Burada, farklı mevsimlerde farklı güzellikler sunuluyor. İlkbahar ve sonbahar aylarında, tepe yeşilleniyor ve çiçekler açıyor. Kış aylarında, tepe karla kaplanıyor ve bir kış masalı gibi görünüyor. Küküttoyu Tepe, aynı zamanda önemli bir kültürel mirasın da evidir. Tepe, şehrin önemli bir parçası ve Konya'nın güzelliklerini keşfetmek isteyenler için mükemmel bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Küküttoyu Tepe, Konya'nın önemli bir parçası ve şehrin tarihini öğrenme
 
 ## İlginç Bilgiler
 
-- Küküttoyu Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepe, çeşitli bitki türleri ile zengin fauna encontrabilirsiniz.
 - Küküttoyu Tepe, önemli bir kültürel mirasın da evidir.
 - Tepe, yılın her döneminde ziyaret edilebilir.

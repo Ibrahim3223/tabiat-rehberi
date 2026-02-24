@@ -37,7 +37,7 @@ Kızılcahamam Kırmızı Ebe Türbesi'nin tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Kızılcahamam Kırmızı Ebe Türbesi, coğrafi olarak oldukça ilgi çekici bir bölgede yer almaktadır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, geniş ova ve dağlık alanlardan oluşmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir araziye yayılmış ve ziyaretçilere geniş bir açık alan sunuyor. Bu bölgenin coğrafi yapısı, aynı zamanda zengin bir flora ve faunaya da ev sahipliği yapıyor. Mevsimsel değişimlere bağlı olarak, bu bölgede çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyorlar. Ayrıca, bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip. Bu nedenle, ziyaretçilerin, mevsimine göre uygun giysi tercihinde bulunmaları öneriliyor.
+Kızılcahamam Kırmızı Ebe Türbesi, coğrafi olarak oldukça ilgi çekici bir bölgede yer almaktadır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, geniş ova ve dağlık alanlardan oluşmaktadır. Bu bölgenin coğrafi yapısı, aynı zamanda zengin bir flora ve faunaya da ev sahipliği yapıyor. Mevsimsel değişimlere bağlı olarak, bu bölgede çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyorlar. Ayrıca, bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal bir karaktere sahip. Bu nedenle, ziyaretçilerin, mevsimine göre uygun giysi tercihinde bulunmaları öneriliyor.
 
 ## Flora ve Fauna
 

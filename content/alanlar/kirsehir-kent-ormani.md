@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa keşfi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"KIRŞEHİR KENT ORMANI","caption":"KIRŞEHİR KENT ORMANI","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KIR%C5%9EEH%C4%B0R%20KENT%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228610","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşil cenneti, 140 hektarlık alanıyla doğa severlerin gözdesi"
+
 keywords: ["Kırşehir Kent Ormanı","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","yeşil alan","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228610"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228610"
 
 # KIRŞEHİR KENT ORMANI
 
-Kırşehir Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Orman, şehir merkezine yakın konumda bulunduğundan ulaşımı oldukça kolay. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu orman, aynı zamanda bölgenin ekolojik dengesine de büyük katkı sağlıyor.
+ Orman, şehir merkezine yakın konumda bulunduğundan ulaşımı oldukça kolay. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu orman, aynı zamanda bölgenin ekolojik dengesine de büyük katkı sağlıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kırşehir Kent Ormanı, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar
 
 ## İlginç Bilgiler
 
-- Kırşehir Kent Ormanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Orman, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor
 - Orman, yılın her dönemi ziyaret edilebilir
 - Ormanda, çeşitli ağaç türleri ve bitki örtüsü bulunmakta

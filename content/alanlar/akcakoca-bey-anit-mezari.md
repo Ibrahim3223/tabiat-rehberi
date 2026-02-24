@@ -30,7 +30,7 @@ wikidata_id: "Q134728087"
 
 # Akçakoca Bey Anıt Mezarı
 
-Akçakoca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi mezar, Akçakoca Bey'in anısına inşa edilmiş ve yaklaşık 140 hektarlık bir alanı kaplıyor. Akçakoca Bey Anıt Mezarı, not only tarihi bir değer olmakla kalmayıp, aynı zamanda doğal güzellikleri de içerisinde barındırıyor. Mezarın etrafında çeşitli bitki türleri ve hayvanlar yer alıyor, ancak bu doğal güzellikler, mezarın tarihi değerini gölgelemiyor. Akçakoca Bey Anıt Mezarı, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
+Akçakoca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Akçakoca Bey Anıt Mezarı, not only tarihi bir değer olmakla kalmayıp, aynı zamanda doğal güzellikleri de içerisinde barındırıyor. Mezarın etrafında çeşitli bitki türleri ve hayvanlar yer alıyor, ancak bu doğal güzellikler, mezarın tarihi değerini gölgelemiyor. Akçakoca Bey Anıt Mezarı, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Akçakoca Bey Anıt Mezarı, tarihin sayfalarında önemli bir yer tutuyor. Akç
 
 ## Coğrafya
 
-Akçakoca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin coğrafi güzellikleri içerisinde yer alıyor. Mezar, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, doğal güzellikleri de içerisinde barındırıyor. Mezarın etrafında, çeşitli bitki türleri ve hayvanlar yer alıyor. Coğrafi konum olarak, Marmara Denizi'ne yakın bir konumda yer alıyor. Bu coğrafi konum, mezarın güzelliğini ve ziyaretçilerin ilgisini artırıyor. Mezarın coğrafi yapısı, ziyaretçileri tarihin ve doğanın güzelliklerine götürmeye hazırlar. Akçakoca Bey Anıt Mezarı, coğrafi güzellikleri ve tarihi değeri ile ziyaretçilerini bekliyor.
+Akçakoca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin coğrafi güzellikleri içerisinde yer alıyor. Mezarın etrafında, çeşitli bitki türleri ve hayvanlar yer alıyor. Coğrafi konum olarak, Marmara Denizi'ne yakın bir konumda yer alıyor. Bu coğrafi konum, mezarın güzelliğini ve ziyaretçilerin ilgisini artırıyor. Mezarın coğrafi yapısı, ziyaretçileri tarihin ve doğanın güzelliklerine götürmeye hazırlar. Akçakoca Bey Anıt Mezarı, coğrafi güzellikleri ve tarihi değeri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -46,12 +46,12 @@ Akçakoca Bey Anıt Mezarı, doğal güzellikleri de içerisinde barındırıyor
 
 ## Ziyaret Bilgileri
 
-Akçakoca Bey Anıt Mezarı, ziyaretçilerini tarihin ve doğanın güzelliklerine götürmeye hazırlar. Mezar, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, doğal güzellikleri de içerisinde barındırıyor. Ziyaretçiler, mezarın tarihi değerini ve coğrafi güzelliklerini keşfedebilirler. Mezarın coğrafi konumu, Marmara Denizi'ne yakınlığı, ziyaretçilerin ilgisini artırıyor. Ziyaretçiler, mezarın etrafında yer alan çeşitli bitki türleri ve hayvanları da keşfedebilirler.
+Akçakoca Bey Anıt Mezarı, ziyaretçilerini tarihin ve doğanın güzelliklerine götürmeye hazırlar. Ziyaretçiler, mezarın tarihi değerini ve coğrafi güzelliklerini keşfedebilirler. Mezarın coğrafi konumu, Marmara Denizi'ne yakınlığı, ziyaretçilerin ilgisini artırıyor. Ziyaretçiler, mezarın etrafında yer alan çeşitli bitki türleri ve hayvanları da keşfedebilirler.
 
 ## İlginç Bilgiler
 
 - Akçakoca Bey Anıt Mezarı, 14. yüzyılda yaşamış bir Türk beyi olan Akçakoca Bey'in anısına inşa edilmiştir.
-- Mezar, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Mezarın etrafında çeşitli bitki türleri ve hayvanlar yer alıyor.
 - Mezar, Marmara Denizi'ne yakın bir konumda yer alıyor.
 - Mezarın coğrafi konumu, doğal güzelliklerin oluşmasına katkıda bulunmuş.

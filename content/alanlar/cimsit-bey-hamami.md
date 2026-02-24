@@ -51,7 +51,7 @@ Cimşit Bey Hamamı, Elazığ'ın en önemli turizm noktalarından biri ve birç
 ## İlginç Bilgiler
 
 - Cimşit Bey Hamamı, Elazığ'ın en önemli tarihi mekanlarından biri.
-- Cimşit Bey Hamamı, 140 hektarlık bir alanı kaplamakta.
+
 - Cimşit Bey Hamamı, Elazığ'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 - Cimşit Bey Hamamı, her yıl birçok ziyaretçi tarafından tercih edilmektedir.
 - Cimşit Bey Hamamı, Elazığ'ın kültürel zenginliğini ve tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyondur.

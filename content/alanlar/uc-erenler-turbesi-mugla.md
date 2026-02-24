@@ -29,7 +29,7 @@ wikidata_id: "Q135582182"
 
 # Üç Erenler Türbesi, Muğla
 
-Üç Erenler Türbesi, Muğla'nın Menteşe ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak dikkat çekiyor. Üç Erenler Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Burada, tarihi yapılar ve doğal güzelliklerin bir arada bulunduğu özel bir atmosfer deneyimlenebiliyor.
+Üç Erenler Türbesi, Muğla'nın Menteşe ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Üç Erenler Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Burada, tarihi yapılar ve doğal güzelliklerin bir arada bulunduğu özel bir atmosfer deneyimlenebiliyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q135582182"
 ## İlginç Bilgiler
 
 - Üç Erenler Türbesi, Muğla'nın Menteşe ilçesinde yer alıyor
-- Burası, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Üç Erenler Türbesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor
 - Buraya, özel araçlarla veya toplu taşıma araçlarıyla ulaşımöglich
 - Ziyaretçiler, burada doğayla baş başa kalma fırsatı buluyor

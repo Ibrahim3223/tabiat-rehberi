@@ -38,7 +38,7 @@ Kara Ahmet Bey Türbesi, tarihsel geçmişi ile dikkat çeken bir mekan. Türk k
 
 ## Coğrafya
 
-Kara Ahmet Bey Türbesi, Kütahya'nın coğrafi yapısını yansıtan bir mekan. 140 hektarlık bir alanda kurulu olan bu türkü, şehrin en büyük yeşil alanlarından biri ve Kütahya'nın doğal güzelliklerini sunuyor. Kütahya'nın iklimi, karasal iklim özellikleri gösteriyor ve Kara Ahmet Bey Türbesi, bu iklimin etkisi altında. Çevre düzenlemesi ile dikkat çeken bu mekan, Kütahya'nın coğrafi yapısını ve doğal güzelliklerini yansıtıyor. Kütahya'nın merkezine yakın konumu ve ulaşımın kolay olması, Kara Ahmet Bey Türbesi'ni ziyaretçilerin tercih ettiği bir yer haline getiriyor.
+Kara Ahmet Bey Türbesi, Kütahya'nın coğrafi yapısını yansıtan bir mekan. Kütahya'nın iklimi, karasal iklim özellikleri gösteriyor ve Kara Ahmet Bey Türbesi, bu iklimin etkisi altında. Çevre düzenlemesi ile dikkat çeken bu mekan, Kütahya'nın coğrafi yapısını ve doğal güzelliklerini yansıtıyor. Kütahya'nın merkezine yakın konumu ve ulaşımın kolay olması, Kara Ahmet Bey Türbesi'ni ziyaretçilerin tercih ettiği bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

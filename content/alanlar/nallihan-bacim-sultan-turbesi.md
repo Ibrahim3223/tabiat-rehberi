@@ -29,7 +29,7 @@ wikidata_id: "Q131391214"
 
 # Nallıhan Bacım Sultan Türbesi
 
-Nallıhan Bacım Sultan Türbesi, Ankara'nın Nallıhan ilçesinde yer alan bir tarihi türbedir. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içerisinde bulunmaktadır. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölgede, yaban hayatının zenginliği ve doğal güzellikler, ziyaretçileri kendine çekmektedir. Nallıhan Bacım Sultan Türbesi, hem tarihi açıdan hem de doğal güzellikleri açısından önemli bir turizm merkezidir.
+Nallıhan Bacım Sultan Türbesi, Ankara'nın Nallıhan ilçesinde yer alan bir tarihi türbedir. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölgede, yaban hayatının zenginliği ve doğal güzellikler, ziyaretçileri kendine çekmektedir. Nallıhan Bacım Sultan Türbesi, hem tarihi açıdan hem de doğal güzellikleri açısından önemli bir turizm merkezidir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Nallıhan Bacım Sultan Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu t
 
 ## Coğrafya
 
-Nallıhan Bacım Sultan Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bu bölge, yüksek bir plato üzerine kurulmuş ve etrafı dağlarla çevrilmiştir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanın içerisinde yer almaktadır. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, karasal iklim özellikleri taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Nallıhan Bacım Sultan Türbesi, Ankara'nın Nallıhan ilçesinde yer almaktadır. İlçe merkezi, türbeden uzun bir mesafe uzaklıktadır. Bölge, doğal güzellikleri ve tarihi yapılarıyla birlikte, önemli bir turizm merkezidir. Türbenin bulunduğu alan, çeşitli yürüyüş parkurları ve piknik alanları ile ziyaretçilere hizmet vermektedir.
+Nallıhan Bacım Sultan Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşımaktadır. Bu bölge, yüksek bir plato üzerine kurulmuş ve etrafı dağlarla çevrilmiştir. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, karasal iklim özellikleri taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Nallıhan Bacım Sultan Türbesi, Ankara'nın Nallıhan ilçesinde yer almaktadır. İlçe merkezi, türbeden uzun bir mesafe uzaklıktadır. Bölge, doğal güzellikleri ve tarihi yapılarıyla birlikte, önemli bir turizm merkezidir. Türbenin bulunduğu alan, çeşitli yürüyüş parkurları ve piknik alanları ile ziyaretçilere hizmet vermektedir.
 
 ## Flora ve Fauna
 
-Nallıhan Bacım Sultan Türbesi, çevresindeki doğal güzellikleri ile dikkat çekmektedir. Türbenin bulunduğu 140 hektarlık yeşil alan, çeşitli bitki türleri ile kaplıdır. Bu bölgede, zengin fauna da bulunmaktadır. Yaban hayatının çeşitliliği, bu bölgenin önemli bir doğal güzelliği olarak kabul edilmektedir. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini farklılık göstermesine neden olmaktadır. İlkbahar ve yaz aylarında, bitki örtüsü yeşil ve canlıdır. Sonbahar ve kış aylarında ise, bitki örtüsü sarı ve kahverengi tonlara bürünmektedir. Bu bölgede, çeşitli kuş türleri ve diğer yaban hayvanları da bulunmaktadır. Nallıhan Bacım Sultan Türbesi, doğal güzellikleri ve yaban hayatının zenginliği ile birlikte, önemli bir ekolojik merkez olarak kabul edilmektedir.
+Nallıhan Bacım Sultan Türbesi, çevresindeki doğal güzellikleri ile dikkat çekmektedir. Bu bölgede, zengin fauna da bulunmaktadır. Yaban hayatının çeşitliliği, bu bölgenin önemli bir doğal güzelliği olarak kabul edilmektedir. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini farklılık göstermesine neden olmaktadır. İlkbahar ve yaz aylarında, bitki örtüsü yeşil ve canlıdır. Sonbahar ve kış aylarında ise, bitki örtüsü sarı ve kahverengi tonlara bürünmektedir. Bu bölgede, çeşitli kuş türleri ve diğer yaban hayvanları da bulunmaktadır. Nallıhan Bacım Sultan Türbesi, doğal güzellikleri ve yaban hayatının zenginliği ile birlikte, önemli bir ekolojik merkez olarak kabul edilmektedir.
 
 ## Ziyaret Bilgileri
 

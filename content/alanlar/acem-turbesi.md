@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/31/Neyshabour_-_The_tomb_of_Kamalolmolk_-_panoramio.jpg","alt":"Acem Türbesi manzarası","credit":"Alireza Javaheri","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Persian_Tomb_Reliefs_%2810466251896%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Persian_Tomb_Reliefs_%2810466251896%29.jpg/1280px-Persian_Tomb_Reliefs_%2810466251896%29.jpg","alt":"Acem Türbesi - Persian Tomb Reliefs (10466251896)","credit":"Gary Todd from Xinzheng, China","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Pers_Mezar_an%C4%B1t%C4%B1_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Pers_Mezar_an%C4%B1t%C4%B1_02.jpg/1280px-Pers_Mezar_an%C4%B1t%C4%B1_02.jpg","alt":"Acem Türbesi - Pers Mezar anıtı 02","credit":"Satirdan kahraman","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Pers_Mezar_an%C4%B1t%C4%B1_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pers_Mezar_an%C4%B1t%C4%B1_03.jpg/1280px-Pers_Mezar_an%C4%B1t%C4%B1_03.jpg","alt":"Acem Türbesi - Pers Mezar anıtı 03","credit":"Satirdan kahraman","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Pers_Mezar_an%C4%B1t%C4%B1_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pers_Mezar_an%C4%B1t%C4%B1_01.jpg/1280px-Pers_Mezar_an%C4%B1t%C4%B1_01.jpg","alt":"Acem Türbesi - Pers Mezar anıtı 01","credit":"Satirdan kahraman","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Pers_Mezar_an%C4%B1t%C4%B1_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pers_Mezar_an%C4%B1t%C4%B1_04.jpg/1280px-Pers_Mezar_an%C4%B1t%C4%B1_04.jpg","alt":"Acem Türbesi - Pers Mezar anıtı 04","credit":"Satirdan kahraman","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Acem%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391689","tip":"genel"}]
-description: "Köyceğiz'in gözde plajlarından biri olan Acem Türbesi, Muğla'nın Ege Bölgesi'nde yer alır ve 140 hektarlık bir alanı kaplar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir."
+"
 keywords: ["Köyceğiz","Muğla","Ege Bölgesi","plaj","Acem Türbesi","doğal güzellik","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391689"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391689"
 
 # Acem Türbesi
 
-Köyceğiz'in doğal güzelliklerinin başında gelen Acem Türbesi, ziyaretçilerini 140 hektarlık geniş bir alanda karşılar. Acem Türbesi, Muğla'nın Ege Bölgesi'nde yer alır ve bölgenin önemli turizm noktalarından biridir. Bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çeker. Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve tarihi yerleri gezmek isteyenlerin de tercih ettiği bir noktadır.
+ Acem Türbesi, Muğla'nın Ege Bölgesi'nde yer alır ve bölgenin önemli turizm noktalarından biridir. Bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çeker. Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve tarihi yerleri gezmek isteyenlerin de tercih ettiği bir noktadır.
 
 ## Tarihçe
 
@@ -50,8 +50,6 @@ Acem Türbesi'ni ziyaret etmek için en iyi mevsim, yaz aylarıdır. Bu dönemde
 
 ## İlginç Bilgiler
 
-- Acem Türbesi, 140 hektarlık bir alanı kaplar
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar
 - Acem Türbesi, Muğla'nın Ege Bölgesi'nde yer alır
 - Bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çeker
 - Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve tarihi yerleri gezmek isteyenlerin de tercih ettiği bir noktadır

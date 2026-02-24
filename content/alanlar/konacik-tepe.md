@@ -36,7 +36,7 @@ Konacık Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tep
 
 ## Coğrafya
 
-Konacık Tepe, Marmara Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Burada, deniz seviyesinden yüksek bir noktada yer alan tepe, çevreyi panoramik olarak görmeye olanak tanıyor. Konacık Tepe'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Burada, ziyaretçiler bn mevsimi deneyimleyebilirler. Tepenin flora ve faunası da zengin. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Konacık Tepe, doğa severler için önemli bir destinasyon olarak kabul ediliyor.
+Konacık Tepe, Marmara Bölgesi'nde yer alıyor. Tepenin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Burada, deniz seviyesinden yüksek bir noktada yer alan tepe, çevreyi panoramik olarak görmeye olanak tanıyor. Konacık Tepe'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Burada, ziyaretçiler bn mevsimi deneyimleyebilirler. Tepenin flora ve faunası da zengin. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Konacık Tepe, doğa severler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

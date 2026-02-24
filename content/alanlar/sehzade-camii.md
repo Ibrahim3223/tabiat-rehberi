@@ -51,7 +51,7 @@ wikidata_id: "Q644677"
 ## İlginç Bilgiler
 
 - Şehzade Camii, İstanbul'un en eski camilerinden biridir
-- Camii, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Şehzade Camii, Marmara Bölgesi'nin en önemli dini merkezlerinden biridir
 - Camii, tarihi geçmişi ve mimari güzelliği ile dikkat çekmektedir
 - Şehzade Camii, İstanbul'un kalbinde yer alan bir önemli noktadır

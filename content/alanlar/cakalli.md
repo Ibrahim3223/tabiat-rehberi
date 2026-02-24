@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg","alt":"Çakalli manzarası","credit":"Giles Laurent","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg/1280px-001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg","alt":"Çakalli - 001 Golden jackal and azureum flowers in Jim Corbett National Park Photo by Giles Laurent","credit":"Giles Laurent","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Golden_jackal_%28Canis_aureus_indicus%29_male_head.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Golden_jackal_%28Canis_aureus_indicus%29_male_head.jpg/1280px-Golden_jackal_%28Canis_aureus_indicus%29_male_head.jpg","alt":"Çakalli - Golden jackal (Canis aureus indicus) male head","credit":"Charles J. Sharp","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/95/%C3%87akall%C4%B1_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%C3%87akall%C4%B1_-_panoramio.jpg/1280px-%C3%87akall%C4%B1_-_panoramio.jpg","alt":"Çakalli - Çakallı - panoramio","credit":"sami yılmaz","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/67/%C3%87akall%C4%B11.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%C3%87akall%C4%B11.jpg/1280px-%C3%87akall%C4%B11.jpg","alt":"Çakalli - Çakallı1","credit":"Sadiks01","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/57/%C3%87akall%C4%B12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%C3%87akall%C4%B12.jpg/1280px-%C3%87akall%C4%B12.jpg","alt":"Çakalli - Çakallı2","credit":"Sadiks01","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akalli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227806","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm","çevre","ekosistem","flora","fauna","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227806"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227806"
 
 # Çakalli
 
-İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alana yayılmış olan Çakalli, bir doğa harikasıdır. Çakalli, bölgenin coğrafi özelliklerini yansıtan bir milli park olarak, ziyaretçilerine eşsiz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor.
+ Çakalli, bölgenin coğrafi özelliklerini yansıtan bir milli park olarak, ziyaretçilerine eşsiz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ wikidata_id: "Q108227806"
 
 ## İlginç Bilgiler
 
-- Çakalli, 140 hektarlık bir alana yayılmış bir milli parktır
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Çakalli, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli parktır
 - Bölge, tarihi ve kültürel önemiyle de dikkat çekiyor

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Gevrelik Tepesi","caption":"Gevrelik Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevrelik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389690","tip":"genel"}]
-description: "Kastamonu'nun doğa harikalarından Gevrelik Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kastamonu","Gevrelik Tepesi","Karadeniz Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389690"
@@ -36,7 +36,7 @@ Gevrelik Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihiyle iç içe geçmiş 
 
 ## Coğrafya
 
-Gevrelik Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlıyor. Tepenin etrafındaki yerleşim yerleri, Kastamonu'nun tarihini ve kültürel değerlerini yansıtıyor. Bu bölgenin coğrafi özellikleri, Karadeniz Bölgesi'nin genel coğrafyasına uygun. Burada, dağlar, ormanlar ve nehirler bir araya geliyor. Gevrelik Tepesi, bu coğrafi özelliklerin bir bileşimi olarak ortaya çıkıyor. Kastamonu'nun iklimi, bu bölgenin coğrafi özelliklerini de şekillendirdi. Burada, Karadeniz iklimi hakim ve bu, bitki örtüsünü ve fauna çeşitliliğini etkiliyor.
+Gevrelik Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Tepenin etrafındaki yerleşim yerleri, Kastamonu'nun tarihini ve kültürel değerlerini yansıtıyor. Bu bölgenin coğrafi özellikleri, Karadeniz Bölgesi'nin genel coğrafyasına uygun. Burada, dağlar, ormanlar ve nehirler bir araya geliyor. Gevrelik Tepesi, bu coğrafi özelliklerin bir bileşimi olarak ortaya çıkıyor. Kastamonu'nun iklimi, bu bölgenin coğrafi özelliklerini de şekillendirdi. Burada, Karadeniz iklimi hakim ve bu, bitki örtüsünü ve fauna çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q131391716"
 
 # Hacı İbrahim Baba Türbesi
 
-Hacı İbrahim Baba Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren bir destinasyondur. Yakutiye ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir açıklık sunar. Hacı İbrahim Baba Türbesi, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çekmektedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile örtülüdür. Ziyaretçiler, burada doğanın güzelliğini ve tarihi yapıları discovery etmek için gelirler.
+Hacı İbrahim Baba Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren bir destinasyondur. Hacı İbrahim Baba Türbesi, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çekmektedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile örtülüdür. Ziyaretçiler, burada doğanın güzelliğini ve tarihi yapıları discovery etmek için gelirler.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Hacı İbrahim Baba Türbesi'ni ziyaret etmek, bir doğa ve tarihsever için mü
 ## İlginç Bilgiler
 
 - Hacı İbrahim Baba Türbesi, bir doğa ve tarih harikasıdır.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile örtülüdür.
 - İklim, karasal iklim özellikleri göstermektedir.
 - Hacı İbrahim Baba Türbesi, ziyaretçilere bir doğa ve tarih deneyimi sunmaktadır.

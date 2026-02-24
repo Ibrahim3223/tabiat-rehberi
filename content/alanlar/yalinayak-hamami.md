@@ -51,7 +51,7 @@ Yalınayak Hamamı'na ziyaretçiler, genellikle yaz aylarında gelmektedir, anca
 ## İlginç Bilgiler
 
 - Yalınayak Hamamı, İzmir'in Tire ilçesinde bulunmaktadır
-- Bu plaj, 140 hektarlık bir yeşil alana sahiptir
+
 - Yalınayak Hamamı'nın çevresinde çeşitli ağaçlar ve bitkiler bulunmakta
 - Bu plaj, ziyaretçilerine hem dinlenme hem de kültürel bir deneyim sunmaktadır
 - Yalınayak Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir

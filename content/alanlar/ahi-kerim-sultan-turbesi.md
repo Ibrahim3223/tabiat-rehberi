@@ -29,7 +29,7 @@ wikidata_id: "Q131391338"
 
 # Ahi Kerim Sultan Türbesi
 
-Ahi Kerim Sultan Türbesi, Merzifon'un merkezinde bulunan ve tarihi geçmişi ile dikkat çeken bir turbe. Bu önemli kültür mirası, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini tarihin derin sayfalarına götürmeye hazır. Türbenin çevresinde, Merzifon'unhistorik yapıları ve doğal güzellikleri de bulunmakta. Tarihi ve kültürel zenginliği ile Ahi Kerim Sultan Türbesi, Merzifon'un önemli turistik noktalarından biri olarak karşımıza çıkıyor.
+Ahi Kerim Sultan Türbesi, Merzifon'un merkezinde bulunan ve tarihi geçmişi ile dikkat çeken bir turbe. Türbenin çevresinde, Merzifon'unhistorik yapıları ve doğal güzellikleri de bulunmakta. Tarihi ve kültürel zenginliği ile Ahi Kerim Sultan Türbesi, Merzifon'un önemli turistik noktalarından biri olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi Kerim Sultan Türbesi, Merzifon'un tarihsel geçmişinde önemli bir yer tut
 
 ## Coğrafya
 
-Ahi Kerim Sultan Türbesi, Merzifon'un merkezinde yer alıyor ve surroundingsında tarihi yapılar ve doğal güzellikler bulunmakta. Türbenin konumu, ziyaretçilerin Merzifon'un diğer turistik noktalarına kolayca ulaşabilmesini sağlıyor. Merzifon, İç Anadolu Bölgesi'nde yer alan bir ilçe ve coğrafi olarak önemli bir konuma sahip. Ahi Kerim Sultan Türbesi, Merzifon'un coğrafi özelliklerini yansıtan bir yapı ve çevresindeki doğal güzelliklerle birlikte ziyaretçilere güzel bir manzara sunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor ve bu alan, Merzifon'un şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet ediyor.
+Ahi Kerim Sultan Türbesi, Merzifon'un merkezinde yer alıyor ve surroundingsında tarihi yapılar ve doğal güzellikler bulunmakta. Türbenin konumu, ziyaretçilerin Merzifon'un diğer turistik noktalarına kolayca ulaşabilmesini sağlıyor. Merzifon, İç Anadolu Bölgesi'nde yer alan bir ilçe ve coğrafi olarak önemli bir konuma sahip. Ahi Kerim Sultan Türbesi, Merzifon'un coğrafi özelliklerini yansıtan bir yapı ve çevresindeki doğal güzelliklerle birlikte ziyaretçilere güzel bir manzara sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Ahi Kerim Sultan Türbesi'ni ziyaret etmek, Merzifon'un tarihi ve kültürel zen
 - Ahi Kerim Sultan Türbesi, Merzifon'un en önemli turistik noktalarından biri
 - Türbenin tarihi, Merzifon'un genel tarihsel geçmişi ile bağlantılı
 - Ahi Kerim Sultan Türbesi, Merzifon'un kültürel mirasının önemli bir parçası
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor
+
 - Ahi Kerim Sultan Türbesi, yılın her döneminde ziyaret edilebilir

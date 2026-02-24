@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_02.jpg","alt":"Tek Tek Daglari manzarası","credit":"Mostafameraji","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ea/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_03.jpg/1280px-%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_03.jpg","alt":"Tek Tek Daglari - تلسکوپ رصدی کاروانسرای دیر گچین 03","credit":"Mostafameraji","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_05.jpg/1280px-%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_05.jpg","alt":"Tek Tek Daglari - تلسکوپ رصدی کاروانسرای دیر گچین 05","credit":"Mostafameraji","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_06.jpg/1280px-%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_06.jpg","alt":"Tek Tek Daglari - تلسکوپ رصدی کاروانسرای دیر گچین 06","credit":"Mostafameraji","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_04.jpg/1280px-%D8%AA%D9%84%D8%B3%DA%A9%D9%88%D9%BE_%D8%B1%D8%B5%D8%AF%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_04.jpg","alt":"Tek Tek Daglari - تلسکوپ رصدی کاروانسرای دیر گچین 04","credit":"Mostafameraji","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/%D8%A8%D8%AE%D8%B4_%D8%AD%D8%B1%D9%85%D8%B3%D8%B1%D8%A7_%D8%AF%D8%B1_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_-_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB_%D9%85%D9%84%DB%8C_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%D8%A8%D8%AE%D8%B4_%D8%AD%D8%B1%D9%85%D8%B3%D8%B1%D8%A7_%D8%AF%D8%B1_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_-_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB_%D9%85%D9%84%DB%8C_02.jpg/1280px-%D8%A8%D8%AE%D8%B4_%D8%AD%D8%B1%D9%85%D8%B3%D8%B1%D8%A7_%D8%AF%D8%B1_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D8%AF%DB%8C%D8%B1_%DA%AF%DA%86%DB%8C%D9%86_-_%D9%85%DB%8C%D8%B1%D8%A7%D8%AB_%D9%85%D9%84%DB%8C_02.jpg","alt":"Tek Tek Daglari - بخش حرمسرا در کاروانسرای دیر گچین - میراث ملی 02","credit":"Mostafameraji","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tek%20Tek%20Daglari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228112","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık genişlikte"
+
 keywords: ["Tek Daglari","İç Anadolu Bölgesi","milli park","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228112"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228112"
 
 # Tek Tek Daglari
 
-Tek Daglari, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Parkın kurulması, bölgenin tarihi ve kültürel zenginliklerini koruma altına almak amacıyla gerçekleştirilmiştir. Doğal güzellikleri, tarihi geçmişi ve coğrafi özellikleri ile Tek Daglari, ziyaretçilerini bekleyen bir hazine gibidir.
+ Parkın kurulması, bölgenin tarihi ve kültürel zenginliklerini koruma altına almak amacıyla gerçekleştirilmiştir. Doğal güzellikleri, tarihi geçmişi ve coğrafi özellikleri ile Tek Daglari, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Tek Daglari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Tek Daglari, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu'nun genel iklim özellikleri ile benzerlik göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasının şekillenmesinde önemli bir rol oynamıştır. Milli parkın coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de açık hava etkinliklerine katılma fırsatı sunmaktadır. Tek Daglari, ziyaretçilerini bekleyen bir doğa harikasıdır.
+Tek Daglari, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bölgenin iklimi, İç Anadolu'nun genel iklim özellikleri ile benzerlik göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasının şekillenmesinde önemli bir rol oynamıştır. Milli parkın coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de açık hava etkinliklerine katılma fırsatı sunmaktadır. Tek Daglari, ziyaretçilerini bekleyen bir doğa harikasıdır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Tek Daglari'ni ziyaret etmek, doğa severler ve tarih meraklıları için bir r�
 
 ## İlginç Bilgiler
 
-- 140 hektarlık milli park
 - İç Anadolu Bölgesi'nin önemli turizm merkezi
 - zengin flora ve fauna
 - tarihi kalıntılar

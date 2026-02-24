@@ -49,7 +49,6 @@ Dua Tepesi'ne ziyaretçiler, rahat bir şekilde ulaşabilir. Antalya'ya geldikte
 
 ## İlginç Bilgiler
 
-- Dua Tepesi, 140 hektarlık bir alanı kaplar.
 - Dua Tepesi, Antalya'nın önemli turizm noktalarından biridir.
 - Dua Tepesi, zengin bir flora ve fauna'ya sahiptir.
 - Dua Tepesi, farklı iklim koşullarına sahiptir.

@@ -48,8 +48,6 @@ Esek Tepesi'ni ziyaret etmek, hem doğa severlerin hem de tarih meraklılarını
 
 ## İlginç Bilgiler
 
-- Esek Tepesi, 140 hektarlık bir alan üzerinde yer alıyor.
-
 - Esek Tepesi, Hatay ilinin önemli doğal alanlarından biri.
 - Burada, çeşitli bitki türleri ve birçok farklı canlıya rastlama mümkün.
 - Esek Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir yer olarak dikkat çekiyor.

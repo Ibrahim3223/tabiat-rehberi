@@ -36,7 +36,7 @@ Karabacak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetleri
 
 ## Coğrafya
 
-Karabacak Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak coğrafi olarak önemli bir konuma sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve coğrafi yapısı ile dikkat çekiyor. Tepenin coğrafi yapısı, ziyaretçilerin doğanın güzelliğini deneyimlemesine olanak sağlıyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir iklim olarak dikkat çekiyor. Bu bölge, zengin flora ve fauna ile ziyaretçilerini sürükleyen bir doğa harikası olarak ön plana çıkıyor. Karabacak Tepesi'nin coğrafi konumu, ziyaretçilerin farklı mevsimlerde ziyaret etmelerine olanak sağlıyor.
+Karabacak Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak coğrafi olarak önemli bir konuma sahip. Tepenin coğrafi yapısı, ziyaretçilerin doğanın güzelliğini deneyimlemesine olanak sağlıyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir iklim olarak dikkat çekiyor. Bu bölge, zengin flora ve fauna ile ziyaretçilerini sürükleyen bir doğa harikası olarak ön plana çıkıyor. Karabacak Tepesi'nin coğrafi konumu, ziyaretçilerin farklı mevsimlerde ziyaret etmelerine olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Karabacak Tepesi'ni ziyaret etmek, doğa severler ve tarihi alanlarla ilgilenenl
 ## İlginç Bilgiler
 
 - Karabacak Tepesi, Sivas'ın önemli doğal ve tarihi alanlarından biri olarak biliniyor.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin yaşadığı bir bölge olarak dikkat çekiyor.
 - Zengin flora ve fauna ile ziyaretçilerini sürükleyen bir doğa harikası olarak ön plana çıkıyor.
 - Farklı mevsimlerde ziyaret edilmeye olanak sağlıyor.

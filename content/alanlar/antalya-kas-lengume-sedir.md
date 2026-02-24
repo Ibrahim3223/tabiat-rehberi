@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","deniz aktiviteleri
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Antalya-Kas-Lengume Sedir","caption":"Antalya-Kas-Lengume Sedir","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kas-Lengume%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227599","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin en güzel milli parklarından biri olan Antalya-Kas-Lengume Sedir, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Antalya","Kas","Lengume Sedir","milli park","Akdeniz Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227599"
@@ -30,7 +30,7 @@ Antalya-Kas-Lengume Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Antalya-Kas-Lengume Sedir milli parkı, Akdeniz Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturuyor. Bu bölge, 140 hektarlık yeşil alanı ile birlikte, ziyaretçilerine geniş bir doğa alanı sunuyor. Parkın coğrafi yapısı, dağlar, ormanlar ve kıyı şeridi ile birlikte, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Ayrıca, bu bölgede, çeşitli bitki türleri ve yaban hayatı da bulunmakta olup, ziyaretçilerin doğayı keşfetmesine olanak sağlıyor. Lengume Sedir, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor.
+Antalya-Kas-Lengume Sedir milli parkı, Akdeniz Bölgesi'nin en güzel coğrafi bölgelerinden birini oluşturuyor. Parkın coğrafi yapısı, dağlar, ormanlar ve kıyı şeridi ile birlikte, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Ayrıca, bu bölgede, çeşitli bitki türleri ve yaban hayatı da bulunmakta olup, ziyaretçilerin doğayı keşfetmesine olanak sağlıyor. Lengume Sedir, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Flora ve Fauna
 

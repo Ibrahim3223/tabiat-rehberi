@@ -43,7 +43,6 @@ Yalvaç milli parkı, ziyaretçilere, çeşitli olanaklar sunmakta. Buraya, öze
 
 ## İlginç Bilgiler
 
-- Yalvaç milli parkı, 140 hektarlık bir alana sahip
 - Burada, çeşitli bitki türleri ve fauna bulunmakta
 - Park, bir doğa koruma alanı olarak hizmet vermekte
 - Yalvaç milli parkı, aynı zamanda, bir ekosistem olarak da hizmet vermekte

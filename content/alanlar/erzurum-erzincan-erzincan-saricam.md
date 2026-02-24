@@ -43,7 +43,7 @@ Erzurum-Erzincan-Erzincan-Sarıçam milli parkını ziyaret etmek, ziyaretçiler
 ## İlginç Bilgiler
 
 - Milli parkın yüksekliği, deniz seviyesinden yaklaşık 2000 metre
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Milli parkta, çeşitli bitki türleri ve fauna çeşitliliği bulunur
 - Milli parkın coğrafi konumu, ziyaretçilerin, mevsimsel değişimlere göre, farklı deneyimler yaşayabilecekleri bir ortam sağlar
 - Milli parkta, rehberlik hizmeti sunulur

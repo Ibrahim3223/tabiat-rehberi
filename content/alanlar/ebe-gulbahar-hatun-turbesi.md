@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ebe%20G%C3%BClbahar%20Hatun%20T%C3%BCrbesi%207968.jpg","alt":"Ebe Gülbahar Hatun Türbesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_7968.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_7968.jpg/1280px-Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_7968.jpg","alt":"Ebe Gülbahar Hatun Türbesi - Ebe Gülbahar Hatun Türbesi 7968","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_9725.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_9725.jpg/1280px-Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_9725.jpg","alt":"Ebe Gülbahar Hatun Türbesi - Ebe Gülbahar Hatun Türbesi 9725","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_-_panoramio_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_-_panoramio_%283%29.jpg/1280px-Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_-_panoramio_%283%29.jpg","alt":"Ebe Gülbahar Hatun Türbesi - Ebe Gülbahar Hatun Türbesi - panoramio (3)","credit":"Mustafa DUMAN","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_7969.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_7969.jpg/1280px-Ebe_G%C3%BClbahar_Hatun_T%C3%BCrbesi_7969.jpg","alt":"Ebe Gülbahar Hatun Türbesi - Ebe Gülbahar Hatun Türbesi 7969","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebe%20G%C3%BClbahar%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391236","tip":"genel"}]
-description: "Marmara Bölgesi'nin önemli tarihi mekanlarından biri olan Ebe Gülbahar Hatun Türbesi, Osmangazi/Bursa'da bulunur. 140 hektarlık bir alan üzerine kurulan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Marmara Bölgesi'nin önemli tarihi mekanlarından biri olan Ebe Gülbahar Hatun Türbesi, Osmangazi/Bursa'da bulunur."
 keywords: ["Ebe Gülbahar Hatun Türbesi","Osmangazi","Bursa","Marmara Bölgesi","tarihi mekan","türbe","gezi","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391236"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391236"
 
 # Ebe Gülbahar Hatun Türbesi
 
-Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak dikkat çeker. Osmangazi/Bursa'da bulunan bu mekan, 140 hektarlık bir alan üzerine kurulmuştur. Ebe Gülbahar Hatun Türbesi'nin tarihi geçmişi, ziyaretçilerini etkileyen önemli bir özelliktir. Bu mekan, Marmara Bölgesi'nin tarihi zenginliğini yansıtması bakımından önemlidir.
+Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak dikkat çeker. Ebe Gülbahar Hatun Türbesi'nin tarihi geçmişi, ziyaretçilerini etkileyen önemli bir özelliktir. Bu mekan, Marmara Bölgesi'nin tarihi zenginliğini yansıtması bakımından önemlidir.
 
 ## Tarihçe
 
@@ -51,7 +51,6 @@ Ebe Gülbahar Hatun Türbesi'ni ziyaret etmek, tarihi ve doğal bir deneyim suna
 ## İlginç Bilgiler
 
 - Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alan üzerine kurulmuştur.
 
 - Bu mekan, Marmara Bölgesi'nin flora ve faunasını yansıtması bakımından önemlidir.
 - Ebe Gülbahar Hatun Türbesi, ziyaretçilerine tarihi ve doğal bir ortam sunar.

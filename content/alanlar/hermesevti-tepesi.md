@@ -28,7 +28,7 @@ wikidata_id: "Q31550036"
 
 # Hermeşevti Tepesi
 
-Hermeşevti Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş bir yeşil alan ile karşılıyor. Hermeşevti Tepesi, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+Hermeşevti Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Hermeşevti Tepesi, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hermeşevti Tepesi, Diyarbakır'ın tarihi geçmişi ile derin bir bağa sahip. 
 
 ## Coğrafya
 
-Hermeşevti Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özellikleri ile örtüşüyor. Bu tepe, Diyarbakır şehrinin merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasını sunuyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu sayede zengin bir flora sunuyor. İklim olarak, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri sergiliyor ve yazları sıcak, kışları ılıman bir hava hüküm sürüyor. Tepenin coğrafi konumu, ziyaretçilere hem şehri hem de doğayı keşfetme imkanı tanıyor. 140 hektarlık bu alan, ziyaretçilere geniş bir hareket alanı sunuyor ve doğa yürüyüşleri, manzara izleme gibi faaliyetler için ideal bir ortam sağlıyor.
+Hermeşevti Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özellikleri ile örtüşüyor. Bu tepe, Diyarbakır şehrinin merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasını sunuyor. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu sayede zengin bir flora sunuyor. İklim olarak, Güneydoğu Anadolu Bölgesi'nin genel iklim özellikleri sergiliyor ve yazları sıcak, kışları ılıman bir hava hüküm sürüyor. Tepenin coğrafi konumu, ziyaretçilere hem şehri hem de doğayı keşfetme imkanı tanıyor.
 
 ## Flora ve Fauna
 

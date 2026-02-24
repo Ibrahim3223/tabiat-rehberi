@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Nifkarlığı Tepesi","caption":"Nifkarlığı Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nifkarl%C4%B1%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509841","tip":"genel"}]
-description: "İzmir'in doğal güzelliklerinden biri olan Nifkarlığı Tepesi, Ege Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İzmir'in doğal güzelliklerinden biri olan Nifkarlığı Tepesi, Ege Bölgesi'nde yer alır."
 keywords: ["Nifkarlığı Tepesi","İzmir","Ege Bölgesi","doğa","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31509841"
@@ -48,7 +48,6 @@ Nifkarlığı Tepesi, ziyaretçilerine doğanın güzelliği ve tarihin depthsin
 
 ## İlginç Bilgiler
 
-- Nifkarlığı Tepesi, 140 hektarlık bir alanı kaplar
 - Tepenin eteklerinde çeşitli bitki türleri bulunur
 - Nifkarlığı Tepesi, İzmir'in önemli doğal alanlarından biri olarak kabul edilir
 - Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümü görülebilir

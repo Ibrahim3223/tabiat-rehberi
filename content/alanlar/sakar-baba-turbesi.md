@@ -50,7 +50,7 @@ Sakar Baba Türbesi'ni ziyaret etmek, birçok açıdan keyifli bir deneyim olabi
 ## İlginç Bilgiler
 
 - Sakar Baba Türbesi, Sakarya Nehri'nin kenarında yer alıyor
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Çevresindeki yeşillikler, çeşitli bitki türleri ve ağaçlar
 - İlkbahar ve yaz aylarında yeşillikler ve çiçekler
 - Sonbahar ve kış aylarında farklı bir güzelliği ziyaretçilere sunuyor

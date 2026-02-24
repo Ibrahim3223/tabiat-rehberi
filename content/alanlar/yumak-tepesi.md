@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık","Doğa g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Yumak Tepesi","caption":"Yumak Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389632","tip":"genel"}]
-description: "Kastamonu'nun güzide bir bölgesinde yer alan Yumak Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu'nun güzide bir bölgesinde yer alan Yumak Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kastamonu","Yumak Tepesi","doğal güzellik","tarih","gezi","turizm","Karadeniz Bölgesi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389632"

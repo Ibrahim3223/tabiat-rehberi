@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/G%C3%B6lde_Yans%C4%B1ma.jpg","alt":"Kargi Koyu Sigla Ormani manzarası","credit":"Arif miletli","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Karaca%C3%B6ren_baraj%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Karaca%C3%B6ren_baraj%C4%B1.jpg/1280px-Karaca%C3%B6ren_baraj%C4%B1.jpg","alt":"Kargi Koyu Sigla Ormani - Karacaören barajı","credit":"Arif miletli","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/Karaca%C3%B6ren_Baraj%C4%B1_S%C4%B1%C4%9Fla_Orman%C4%B1_Karg%C4%B1_K%C3%B6y%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Karaca%C3%B6ren_Baraj%C4%B1_S%C4%B1%C4%9Fla_Orman%C4%B1_Karg%C4%B1_K%C3%B6y%C3%BC.jpg/1280px-Karaca%C3%B6ren_Baraj%C4%B1_S%C4%B1%C4%9Fla_Orman%C4%B1_Karg%C4%B1_K%C3%B6y%C3%BC.jpg","alt":"Kargi Koyu Sigla Ormani - Karacaören Barajı Sığla Ormanı Kargı Köyü","credit":"Abaliomer","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kargi%20Koyu%20Sigla%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228037","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık ormanlık alan"
+
 keywords: ["Kargi Koyu","Sigla Ormani","İç Anadolu Bölgesi","orman","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228037"
@@ -43,8 +43,6 @@ Kargi Koyu Sigla Ormani'na ziyaretçiler, çeşitli ulaşım seçenekleriyle gel
 
 ## İlginç Bilgiler
 
-- Kargi Koyu Sigla Ormani, 140 hektarlık bir alana yayılmış bir ormanlık alandır
-- Ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Kargi Koyu Sigla Ormani, çeşitli bitki türleri ve zengin fauna ile doludur
 - Ormanlık alan, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır
 - Kargi Koyu Sigla Ormani, doğa severlerin ve gezi tutkunlarının kaçırılmaması gereken bir destinasyondur

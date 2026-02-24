@@ -28,7 +28,7 @@ wikidata_id: "Q97320220"
 
 # Hacızeni Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Hacızeni Şelalesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor. Şelalenin sesi, kuşların şarkıları ve rüzgarın hışırtısı, bu doğa harikasını ziyaret edenleri huzur içinde bırakıyor. Hacızeni Şelalesi, hem yerel hem de yabancı turistler için bir çekim merkezi haline gelerek, doğa severlerin ilgisini çekiyor.
+ Şelalenin sesi, kuşların şarkıları ve rüzgarın hışırtısı, bu doğa harikasını ziyaret edenleri huzur içinde bırakıyor. Hacızeni Şelalesi, hem yerel hem de yabancı turistler için bir çekim merkezi haline gelerek, doğa severlerin ilgisini çekiyor.
 
 ## Tarihçe
 

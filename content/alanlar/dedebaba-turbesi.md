@@ -50,7 +50,7 @@ Dedebaba Türbesi'ni ziyaret etmek, ziyaretçiler için bir gezi deneyimi sunuyo
 ## İlginç Bilgiler
 
 - Dedebaba Türbesi, Kahramanmaraş'ın en önemli tarihi mekanlarından biridir.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Dedebaba Türbesi, ziyaretçiler için bir doğa belgeseli gibi görünüyor.
 - Bu mekan, çeşitli bitki türleri ve zengin fauna sunuyor.
 - Dedebaba Türbesi, Kahramanmaraş'ın coğrafi konumunun güzelliğini vurguluyor.

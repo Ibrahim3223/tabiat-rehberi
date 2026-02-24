@@ -36,7 +36,7 @@ Latadika Tepesi'nin tarihi geçmişi, bölgenin oluşumuna kadar uzanıyor. Gün
 
 ## Coğrafya
 
-Latadika Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir oluşum. Batman şehrinin yakınlarında yer alan tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bölgenin iklimi, tepeyi şekillendiren önemli faktörlerden biri. Latadika Tepesi'nin çevresi, çeşitli bitki türleri ve fauna ile zengin. Tepe, ziyaretçilerine, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetme fırsatı sunuyor. Ayrıca, tepe etrafındaki manzara, ziyaretçilerin keyif alacağı bir ortam sunuyor. Batman'ın coğrafi yapısı, Latadika Tepesi'nin güzelliğini daha da artırıyor. Tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Latadika Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir oluşum. Bölgenin iklimi, tepeyi şekillendiren önemli faktörlerden biri. Latadika Tepesi'nin çevresi, çeşitli bitki türleri ve fauna ile zengin. Tepe, ziyaretçilerine, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetme fırsatı sunuyor. Ayrıca, tepe etrafındaki manzara, ziyaretçilerin keyif alacağı bir ortam sunuyor. Batman'ın coğrafi yapısı, Latadika Tepesi'nin güzelliğini daha da artırıyor. Tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Latadika Tepesi'ni ziyaret etmek, doğa severler için keyifli bir deneyim. Tepe
 ## İlginç Bilgiler
 
 - Latadika Tepesi, Batman'ın en yüksek noktalarından biri.
-- Tepe, yaklaşık 140 hektarlık alanı kapsıyor.
+
 - Bölge, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Latadika Tepesi, ziyaretçilerine, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetme fırsatı sunuyor.
 - Tepe etrafında, birçok restoran ve kafe bulunuyor.

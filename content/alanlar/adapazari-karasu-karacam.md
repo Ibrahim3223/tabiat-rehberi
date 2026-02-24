@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Adapazari-Karasu Karacam","caption":"Adapazari-Karasu Karacam","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Karasu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227920","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Adapazari-Karasu Karacam","İç Anadolu Bölgesi","milli park","doğa","gezi","türkiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227920"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227920"
 
 # Adapazari-Karasu Karacam
 
-Adapazari-Karasu Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alanı kapsıyor. Burada, çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa tutkunları için bir çekim merkezi haline getiriyor. 140 hektarlık bu yeşil alan, hem bölgenin doğal güzelliklerini koruyor hem de ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+ Burada, çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa tutkunları için bir çekim merkezi haline getiriyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adapazari-Karasu Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Adapazari-Karasu Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık alan, çeşitli coğrafi özellikler sunuyor; vadiler, tepe ve ovalar, bu bölgenin coğrafi çeşitliliğini oluşturuyor. İklim, bölgenin coğrafi yapısını şekillendiren önemli bir faktördür ve mevsimsel değişimler, bu bölgenin doğasını etkiliyor. Kışın karla kaplı tepeler, ilkbaharda yeşeren çayırlar ve yazın sıcakk günler, bu bölgenin coğrafi güzelliğini vurguluyor. Ayrıca, bu milli park, çeşitli su kaynaklarına da ev sahipliği yapıyor ve bu su kaynakları, bölgenin ekolojisini zenginleştiriyor.
+Adapazari-Karasu Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. İklim, bölgenin coğrafi yapısını şekillendiren önemli bir faktördür ve mevsimsel değişimler, bu bölgenin doğasını etkiliyor. Kışın karla kaplı tepeler, ilkbaharda yeşeren çayırlar ve yazın sıcakk günler, bu bölgenin coğrafi güzelliğini vurguluyor. Ayrıca, bu milli park, çeşitli su kaynaklarına da ev sahipliği yapıyor ve bu su kaynakları, bölgenin ekolojisini zenginleştiriyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Adapazari-Karasu Karacam milli parkını ziyaret etmek, doğa severler için bir
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - yüzyıllar boyunca şekillenmiş tarihi geçmişi
 - zengin flora ve fauna
 - çeşitli coğrafi özellikler

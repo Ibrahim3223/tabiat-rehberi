@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/94/Kuyuluk.jpg","alt":"Kuyuluk Tabiat Parkı manzarası","credit":"Özdenozdemir","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyuluk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48740720","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide alanlarından biri olan Kuyuluk Tabiat Parkı, 140 hektarlık geniş bir alanı kapsıyor"
+
 keywords: ["Kuyuluk Tabiat Parkı","İç Anadolu Bölgesi","tabiat parkı","doğa","çevre","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q48740720"
@@ -37,7 +37,7 @@ Kuyuluk Tabiat Parkı, yüzyıllar boyunca doğal güzelliğini korumuş bir bö
 
 ## Coğrafya
 
-Kuyuluk Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birinde bulunuyor. Park, bölgenin karakteristik coğrafi özelliklerini taşıyor. 140 hektarlık geniş bir alanda, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Parkın coğrafi yapısı, ziyaretçilere, farklı doğa manzaraları sunuyor. Kuyuluk Tabiat Parkı, bölgenin iklimi ve coğrafi koşullarına uyum sağlamış bir doğal alan. Parkın coğrafi konumu, ziyaretçilere, bölgenin diğer doğal güzelliklerine ulaşma imkanı da sunuyor. Kuyuluk Tabiat Parkı, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Parkın coğrafi özellikleri, ziyaretçilere, doğa ile iç içe bir deneyim sunuyor.
+Kuyuluk Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birinde bulunuyor. Park, bölgenin karakteristik coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, ziyaretçilere, farklı doğa manzaraları sunuyor. Kuyuluk Tabiat Parkı, bölgenin iklimi ve coğrafi koşullarına uyum sağlamış bir doğal alan. Parkın coğrafi konumu, ziyaretçilere, bölgenin diğer doğal güzelliklerine ulaşma imkanı da sunuyor. Kuyuluk Tabiat Parkı, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Parkın coğrafi özellikleri, ziyaretçilere, doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Kuyuluk Tabiat Parkı, ziyaretçilerine, doğa ile iç içe bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 
-- Kuyuluk Tabiat Parkı, 140 hektarlık bir alanı kapsıyor
-- Park, yaklaşık 200 futbol sahası büyüklüğünde
 - Kuyuluk Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Park, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor
 - Kuyuluk Tabiat Parkı, yılın her mevsiminde ziyaret edilebilir

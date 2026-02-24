@@ -44,7 +44,6 @@ wikidata_id: "Q108228235"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplıyor
 - Osmaniye ilinin merkezinde yer alıyor
 - Akdeniz Bölgesi'nin önemli doğal alanlarından biri
 - Tarihi kalıntılar ve yapılar içeriyor

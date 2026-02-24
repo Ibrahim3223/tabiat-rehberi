@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Fotoğrafçılık","Doğa gözlemi","Kampçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Eskişehir-Afyon-Sandıklı-Karaçam","caption":"Eskişehir-Afyon-Sandıklı-Karaçam","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Afyon-Sand%C4%B1kl%C4%B1-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228436","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Eskişehir-Afyon-Sandıklı-Karaçam, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Eskişehir","Afyon","Sandıklı","Karaçam","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228436"
@@ -42,7 +42,6 @@ Eskişehir-Afyon-Sandıklı-Karaçam, ziyaretçilerine doğayla baş başa kalma
 
 ## İlginç Bilgiler
 
-- Bölge, 140 hektarlık bir alana sahiptir.
 - Eskişehir-Afyon-Sandıklı-Karaçam, İç Anadolu Bölgesi'nde yer almaktadır.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Eskişehir-Afyon-Sandıklı-Karaçam, yıl boyunca ziyaret edilebilir.

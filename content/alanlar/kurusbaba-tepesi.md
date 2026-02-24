@@ -49,7 +49,7 @@ Kurusbaba Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim olab
 ## İlginç Bilgiler
 
 - Kurusbaba Tepesi, Erzurum ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsar.
+
 - Kurusbaba Tepesi, birçok doğal güzelliğe ev sahipliği yapar.
 - Bu tepe, doğa severlerin ilgisini çeken önemli bir destinasyon olarak bilinir.
 - Kurusbaba Tepesi'ne gitmek için, Erzurum iline ulaşmak gerekir.

@@ -42,7 +42,6 @@ Kırk Merdiven Kayalığı, ziyaretçiler için hem doğayı keşfetme hem de ta
 
 ## İlginç Bilgiler
 
-- Kırk Merdiven Kayalığı, 140 hektarlık bir alanı kapsar.
 - Bu bölge, çeşitli bitki türlerini barındıran bir doğa harikasıdır.
 - Kırk Merdiven Kayalığı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çeker.
 - Bu milli park, koruma altına alınmış ve ziyaretçiler için güvenli bir şekilde düzenlenmiştir.

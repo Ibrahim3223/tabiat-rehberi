@@ -45,5 +45,5 @@ Ankara-Camlidere-Benliyayla Saricam'ı ziyaret etmek, doğa severler için unutu
 - Saricam, Ankara'nın en büyük milli parklarından biridir.
 - Milli parkta, çeşitli bitki türü yetişiyor.
 - Saricam, özellikle kuş gözlemcileri için önemli bir destinasyon.
-- Milli park, 140 hektarlık bir alana yayılıyor.
+
 - Saricam'da, yürüyüş parkurları ve piknik alanları mevcut.

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","köy gezi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Şabalı Tepesi","caption":"Şabalı Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eabal%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390334","tip":"genel"}]
-description: "Afyonkarahisar'da yer alan Şabalı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Şabalı Tepesi","Afyonkarahisar","Ege Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390334"
@@ -48,7 +48,6 @@ wikidata_id: "Q31390334"
 
 ## İlginç Bilgiler
 
-- Şabalı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin yüksekliği 1000 metreyi aşiyor
 - Bölgede, çeşitli kuş türleri yaşamlarını sürdürüyor
 - Tepenin eteklerinde yer alan köyler, geleneksel Türk köy yaşamını yansıtıyor

@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 17, yüzyıllar boyunca çeşitli medeniyetlerin yaşad
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 17, Manisa'nın Salihli ilçesinde yer alır ve Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunur. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve coğrafi olarak zengin bir yapıya sahiptir. Bin Tepeler Tümülüsü 17, çevresi ile birlikte düşünüldüğünde, ziyaretçilere geniş bir coğrafi alan sunar. Bu tümülüs, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde yer alır ve bölgenin doğal güzelliklerini ziyaretçilere sunar. Bin Tepeler Tümülüsü 17, coğrafi olarak önemli bir noktada yer alır ve ziyaretçilere bölgenin coğrafi zenginliklerini keşfetme fırsatı sunar. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir merkezidir ve ziyaretçilere geniş bir coğrafi alan sunar.
+Bin Tepeler Tümülüsü 17, Manisa'nın Salihli ilçesinde yer alır ve Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunur. Bin Tepeler Tümülüsü 17, çevresi ile birlikte düşünüldüğünde, ziyaretçilere geniş bir coğrafi alan sunar. Bu tümülüs, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde yer alır ve bölgenin doğal güzelliklerini ziyaretçilere sunar. Bin Tepeler Tümülüsü 17, coğrafi olarak önemli bir noktada yer alır ve ziyaretçilere bölgenin coğrafi zenginliklerini keşfetme fırsatı sunar. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir merkezidir ve ziyaretçilere geniş bir coğrafi alan sunar.
 
 ## Flora ve Fauna
 

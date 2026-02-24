@@ -14,14 +14,14 @@ aktiviteler: ["Piknik yapmak","Doğayı seyretmek","Yürüyüş yapmak","Fotoğr
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/State_road_D865_%28Turkey%29_10.jpg/960px-State_road_D865_%28Turkey%29_10.jpg","alt":"Çağlayandibi Şelalesi Tabiat Parkı","caption":"Çağlayandibi Şelalesi Tabiat Parkı","credit":"State road D865 (Turkey) 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Gümüşhane'nin doğal güzelliklerinden biri olan Çağlayandibi Şelalesi Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Gümüşhane","Karadeniz Bölgesi","Tabiat Parkı","Şelale","Doğal Alan","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 ---
 
 # Çağlayandibi Şelalesi Tabiat Parkı
 
- Bu tabiat parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Şelalenin sesi, kuşların cıvıltısı ve ağaçların hışırtısı, ziyaretçilere doğanın güzelliğini sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplıdır ve zengin faunaıyla dikkat çeker. Çağlayandibi Şelalesi, Gümüşhane'nin turizm açısından önemli noktalarından biridir ve doğaseverleri cezbeder.
+ Bu tabiat parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Şelalenin sesi, kuşların cıvıltısı ve ağaçların hışırtısı, ziyaretçilere doğanın güzelliğini sunar. Çağlayandibi Şelalesi, Gümüşhane'nin turizm açısından önemli noktalarından biridir ve doğaseverleri cezbeder.
 
 ## Tarihçe
 
@@ -41,7 +41,6 @@ schema_type: "TouristAttraction"
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı vardır
 - Parkta çeşitli bitki türleri bulunur
 - Parkın fauna ve florası zengin ve çeşitli
 - Park, Gümüşhane'nin turizm açısından önemli noktalarından biridir

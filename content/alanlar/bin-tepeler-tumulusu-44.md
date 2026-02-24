@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 44'ün tarihi geçmişi, binlerce yıl öncesine dayan�
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 44, Salihli, Manisa'da yer alıyor ve Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, 140 hektarlık geniş bir alana yayılmış ve coğrafi olarak çeşitli özellikler gösteriyor. Tümülüs, yüksekliği ve genişliği ile dikkat çekiyor ve ziyaretçilere geniş bir manzara sunuyor. Bin Tepeler Tümülüsü 44'ün coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu bölge, çevresi ile birlikte, ziyaretçilere tarihi ve kültürel zenginliklerin yanı sıra, doğal güzellikleri de sunuyor. Ege Bölgesi'nin karakteristik iklimi, bu bölgede de hissediliyor ve ziyaretçilere dört mevsim ayrı bir güzellik sunuyor.
+Bin Tepeler Tümülüsü 44, Salihli, Manisa'da yer alıyor ve Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Tümülüs, yüksekliği ve genişliği ile dikkat çekiyor ve ziyaretçilere geniş bir manzara sunuyor. Bin Tepeler Tümülüsü 44'ün coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu bölge, çevresi ile birlikte, ziyaretçilere tarihi ve kültürel zenginliklerin yanı sıra, doğal güzellikleri de sunuyor. Ege Bölgesi'nin karakteristik iklimi, bu bölgede de hissediliyor ve ziyaretçilere dört mevsim ayrı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

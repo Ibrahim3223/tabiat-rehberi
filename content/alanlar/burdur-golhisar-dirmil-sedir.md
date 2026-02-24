@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Sedir ağaçları altında dinlenmek","Flor
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Burdur-Golhisar-Dirmil Sedir","caption":"Burdur-Golhisar-Dirmil Sedir","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Dirmil%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227212","tip":"genel"}]
-description: "Akdeniz Bölgesi'nde yer alan Burdur-Golhisar-Dirmil Sedir milli parkı, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor."
+"
 keywords: ["Burdur","Golhisar","Dirmil","Sedir","Milli Park","Akdeniz Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227212"
@@ -30,7 +30,7 @@ Burdur-Golhisar-Dirmil Sedir milli parkı, tarihi geçmişi ile de dikkat çekiy
 
 ## Coğrafya
 
-Burdur-Golhisar-Dirmil Sedir milli parkı, coğrafi konumu itibariyle de dikkat çekiyor. Akdeniz Bölgesi'nde yer alan bu milli park, sedir ağaçları ile çevrili ve 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin faunası ile dikkat çekiyor. Bu doğal güzelliği ziyaret edenler, Sedir ağaçlarının gölgesinde dinlenebilir, doğayı yakından tanıyabilir ve bu milli parkın güzelliğini keşfedebilirler. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini ve zenginliğini sunuyor.
+Burdur-Golhisar-Dirmil Sedir milli parkı, coğrafi konumu itibariyle de dikkat çekiyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin faunası ile dikkat çekiyor. Bu doğal güzelliği ziyaret edenler, Sedir ağaçlarının gölgesinde dinlenebilir, doğayı yakından tanıyabilir ve bu milli parkın güzelliğini keşfedebilirler. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini ve zenginliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Burdur-Golhisar-Dirmil Sedir milli parkını ziyaret etmek, bu doğal güzelliğ
 
 ## İlginç Bilgiler
 
-- Burdur-Golhisar-Dirmil Sedir milli parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor.
 - Sedir ağaçları, bu milli parkın en önemli özelliklerinden biri.
 - Milli park, flora ve fauna açısından zengin bir yapıya sahip.
 - Mevsimsel değişimler, bu milli parkın güzelliğini daha da artırıyor.

@@ -37,7 +37,7 @@ wikidata_id: "Q49091545"
 
 ## Coğrafya
 
-Çamurlu Höyük, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir höyüktür. Höyük, Kilis'in Elbeyli ilçesinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Höyüğün yüksekliği ve genişliği, bölgenin coğrafi özelliklerini yansıtır. Höyüğün etrafı, tarihi ve coğrafi olarak önemli birçok bölgeye yakın olmasıyla dikkat çeker. Höyük, bölgenin iklimini ve coğrafi yapısını yansıtan bir höyüktür. Höyüğün coğrafi konumu, höyüğün önemiını vurgular. Höyük, coğrafi olarak önemli bir bölgede yer alır ve höyüğün coğrafi özellikleri, höyüğün tarihini ve önemiını etkiler.
+Çamurlu Höyük, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir höyüktür. Höyüğün yüksekliği ve genişliği, bölgenin coğrafi özelliklerini yansıtır. Höyüğün etrafı, tarihi ve coğrafi olarak önemli birçok bölgeye yakın olmasıyla dikkat çeker. Höyük, bölgenin iklimini ve coğrafi yapısını yansıtan bir höyüktür. Höyüğün coğrafi konumu, höyüğün önemiını vurgular. Höyük, coğrafi olarak önemli bir bölgede yer alır ve höyüğün coğrafi özellikleri, höyüğün tarihini ve önemiını etkiler.
 
 ## Flora ve Fauna
 

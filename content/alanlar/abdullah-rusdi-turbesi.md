@@ -50,7 +50,7 @@ Abdullah Rüşdi Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin doğal güzel
 ## İlginç Bilgiler
 
 - Abdullah Rüşdi Türbesi, Bolu'nun Mudurnu ilçesinde yer alıyor.
-- Türbe, 140 hektarlık bir alan üzerinde bulunuyor.
+
 - Bölge, Karadeniz Bölgesi'nin doğal güzelliklerini sergiliyor.
 - Türbenin etrafı, yeşilliklerle çevrili ve ziyaretçilere geniş bir yeşil alan sunuyor.
 - Bölge, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.

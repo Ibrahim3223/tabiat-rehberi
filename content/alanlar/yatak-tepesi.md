@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlem","kuş gözlem","fotoğrafçılık","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Yatak Tepesi","caption":"Yatak Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yatak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386906","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide şehirlerinden biri olan Balıkesir'de yer alan Yatak Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Yatak Tepesi","Balıkesir","Marmara Bölgesi","yeşil alan","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386906"
@@ -36,11 +36,11 @@ Yatak Tepesi'nin tarihsel geçmişi, bölgenin genel tarihsel süreci ile parale
 
 ## Coğrafya
 
-Yatak Tepesi, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, bölgenin genel özelliklerini taşıyor. Tepenin coğrafi konumu, Marmara Denizi'ne yakınlığı ile birlikte, bölgenin iklimini şekillendiren önemli faktörlerden biri. Yatak Tepesi, 140 hektarlık bir alanı kapsıyor ve bu alanda çeşitli bitki türleri ve zengin bir fauna bulunmakta. Tepenin zirvesi, çevreyi panoramik olarak görmeye olanak tanıyor ve özellikle gün batımı saatlerinde ziyaretçiler için büyüleyici bir manzara sunuyor. Yatak Tepesi'nin eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile birlikte, bölgenin coğrafi çeşitliliğine katkıda bulunuyor. Tepenin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri hem de bölgenin kültürel zenginliğini keşfetme fırsatı sunuyor.
+Yatak Tepesi, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, bölgenin genel özelliklerini taşıyor. Tepenin coğrafi konumu, Marmara Denizi'ne yakınlığı ile birlikte, bölgenin iklimini şekillendiren önemli faktörlerden biri. Tepenin zirvesi, çevreyi panoramik olarak görmeye olanak tanıyor ve özellikle gün batımı saatlerinde ziyaretçiler için büyüleyici bir manzara sunuyor. Yatak Tepesi'nin eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile birlikte, bölgenin coğrafi çeşitliliğine katkıda bulunuyor. Tepenin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri hem de bölgenin kültürel zenginliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
-Yatak Tepesi, zengin bir flora ve fauna ile ziyaretçilerini ağırlıyor. Tepenin 140 hektarlık alanı, çeşitli bitki türleri ile dolu ve bahar aylarında bu çiçekler renkli bir manzara sunuyor. Yatak Tepesi, aynı zamanda zengin bir fauna ile birlikte, ziyaretçilere doğanın güzelliğini gözlemleme fırsatı sunuyor. Tepede bulunan çeşitli hayvan türleri, bölgenin ekolojik dengesini korumada önemli rol oynuyor. Yatak Tepesi, özellikle kuş gözlemcileri için bir cennet olarak görülüyor ve çeşitli kuş türleri, tepeyi ziyaret edenlerin ilgisini çekiyor. Tepenin flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor ve bu değişimler, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Yatak Tepesi, zengin bir flora ve fauna ile ziyaretçilerini ağırlıyor. Yatak Tepesi, aynı zamanda zengin bir fauna ile birlikte, ziyaretçilere doğanın güzelliğini gözlemleme fırsatı sunuyor. Tepede bulunan çeşitli hayvan türleri, bölgenin ekolojik dengesini korumada önemli rol oynuyor. Yatak Tepesi, özellikle kuş gözlemcileri için bir cennet olarak görülüyor ve çeşitli kuş türleri, tepeyi ziyaret edenlerin ilgisini çekiyor. Tepenin flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor ve bu değişimler, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Yatak Tepesi'ni ziyaret etmek, doğa severler ve tarihe ilgi duyanlar için bir 
 
 ## İlginç Bilgiler
 
-- Yatak Tepesi, 140 hektarlık bir alanı kapsıyor
 - Tepenin zirvesi, çevreyi panoramik olarak görmeye olanak tanıyor
 - Yatak Tepesi, özellikle bahar aylarında doğanın uyanışı ile birlikte renkli bir manzara sunuyor
 - Tepenin eteklerinde yer alan köyler, geleneksel köy yaşamının tadını çıkarma fırsatı sunuyor

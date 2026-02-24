@@ -50,7 +50,7 @@ Alangüllü Kaplıcası, yıl boyunca birçok ziyaretçi tarafından tercih edil
 ## İlginç Bilgiler
 
 - Alangüllü Kaplıcası, Ege Bölgesi'nin önemli turizm noktalarından biridir.
-- Kaplıca, 140 hektarlık yeşil bir alan üzerine kurulmuştur.
+
 - Alangüllü Kaplıcası, şifalı suları ve doğal güzelliği ile dikkat çekmektedir.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Kaplıcaya, Aydın şehir merkezinden uzun bir mesafelik bir yolculukla ulaşılabilir.

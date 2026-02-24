@@ -37,7 +37,7 @@ Cinli Mescit Türbesi'nin tam tarihi bilinmemekle birlikte, tarihi geçmişi var
 
 ## Coğrafya
 
-Cinli Mescit Türbesi, İzmir'in Bayındır ilçesinde yer alır. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Cinli Mescit Türbesi, yaklaşık 140 hektarlık bir alanı kaplar ve geniş bir plaja sahiptir. Bu plaj, denizin güzelliği ve temizliği ile dikkat çekmektedir. Cinli Mescit Türbesi, çevresindeki doğal güzelliklerle birlikte ziyaretçilerine bir doğa harikası sunar. Bu bölge, yemyeşil ormanları, temiz denizi ve tarihi türbesi ile ziyaretçilerini çekmektedir. Cinli Mescit Türbesi, İzmir'in coğrafi güzelliklerini temsil eden önemli bir noktadır.
+Cinli Mescit Türbesi, İzmir'in Bayındır ilçesinde yer alır. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Bu plaj, denizin güzelliği ve temizliği ile dikkat çekmektedir. Cinli Mescit Türbesi, çevresindeki doğal güzelliklerle birlikte ziyaretçilerine bir doğa harikası sunar. Bu bölge, yemyeşil ormanları, temiz denizi ve tarihi türbesi ile ziyaretçilerini çekmektedir. Cinli Mescit Türbesi, İzmir'in coğrafi güzelliklerini temsil eden önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Cinli Mescit Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylar
 ## İlginç Bilgiler
 
 - Cinli Mescit Türbesi, İzmir'in önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Cinli Mescit Türbesi, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Cinli Mescit Türbesi, ziyaretçilerine plaj, tarih ve doğa ile ilgili çeşitli etkinlikler sunar.

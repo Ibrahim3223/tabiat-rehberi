@@ -51,7 +51,7 @@ Meydan Hamamı, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziyaret zamanı, 
 ## İlginç Bilgiler
 
 - Meydan Hamamı, Antakya'nın en önemli plajlarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Meydan Hamamı, Akdeniz Bölgesi'nin en önemli turizm merkezlerinden biri olan Hatay ilinin Antakya ilçesinde bulunur.
 - Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker.
 - Meydan Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak görülür.

@@ -53,5 +53,5 @@ Okçular Tekkesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güzelliklerini
 - Okçular Tekkesi, İstanbul'un en eski yapılarından biri.
 - Burada, çeşitli dini törenlerin yanı sıra, okçuluk yarışmaları da düzenlenirdi.
 - Tarihin her döneminde önemli bir role sahip olan Okçular Tekkesi, bugün de ziyaretçilerini tarihin derin atmosferine çekmeyi başarıyor.
-- Okçular Tekkesi, 140 hektarlık bir yeşil alan.
+
 - Buradaki flora, İstanbul'un diğer bölgelerine göre daha zengin.

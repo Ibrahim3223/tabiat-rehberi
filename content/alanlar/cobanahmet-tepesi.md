@@ -28,7 +28,7 @@ wikidata_id: "Q34829469"
 
 # Çobanahmet Tepesi
 
-Çobanahmet Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve coğrafi güzellikleri ile dikkat çeken bir tepe. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bölgenin önemli doğal noktalarından biri olarak kabul ediliyor. Çobanahmet Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bölgede yaşayan birçok hayvan türü için de önemli bir yaşam alanı sunuyor. Tepenin yüksekliği ve konumu, ziyaretçilere bölgenin panoramik manzarasını izleme fırsatı tanıyor. Bu nedenle, Çobanahmet Tepesi hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon.
+Çobanahmet Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve coğrafi güzellikleri ile dikkat çeken bir tepe. Çobanahmet Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bölgede yaşayan birçok hayvan türü için de önemli bir yaşam alanı sunuyor. Tepenin yüksekliği ve konumu, ziyaretçilere bölgenin panoramik manzarasını izleme fırsatı tanıyor. Bu nedenle, Çobanahmet Tepesi hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

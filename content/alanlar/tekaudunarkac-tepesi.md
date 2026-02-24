@@ -28,7 +28,7 @@ wikidata_id: "Q34811884"
 
 # Tekaüdünarkac Tepesi
 
-Tekaüdünarkac Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir görüş açısı sunuyor. Tekaüdünarkac Tepesi, özellikle bahar ve yaz aylarında çeşitli bitki türleriyle kaplanıyor ve çevredeki köylerin manzarasına hakim bir konumda bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor ve çevresindeki doğal güzellikleri keşfetmek için ideal bir nokta olarak görev yapıyor.
+Tekaüdünarkac Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tekaüdünarkac Tepesi, özellikle bahar ve yaz aylarında çeşitli bitki türleriyle kaplanıyor ve çevredeki köylerin manzarasına hakim bir konumda bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor ve çevresindeki doğal güzellikleri keşfetmek için ideal bir nokta olarak görev yapıyor.
 
 ## Tarihçe
 

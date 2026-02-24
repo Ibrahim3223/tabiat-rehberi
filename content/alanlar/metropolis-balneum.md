@@ -49,7 +49,6 @@ Metropolis Balneum'u ziyaret etmek, yılın her dönemi möglich. Plajın güzel
 
 ## İlginç Bilgiler
 
-- Metropolis Balneum, 140 hektarlık bir alana sahip.
 - Plaj, Ege Denizi'nin güzel kıyılarını sunuyor.
 - Metropolis Balneum'un bulunduğu bölgede, çeşitli bitkiler ve ağaçlar yetişiyor.
 - Plajın deniz suyu, Ege Denizi'nin karakteristik temizliği ve berraklığı ile tanımlanabilir.

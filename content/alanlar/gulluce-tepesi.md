@@ -20,7 +20,7 @@ aktiviteler: ["Tırmanma","Doğa Yürüyüşü","Fotoğrafçılık"," Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Güllüce Tepesi","caption":"Güllüce Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873049","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin Van şehrinde yer alan Güllüce Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
+ Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
 keywords: ["Güllüce Tepesi","Van","Doğu Anadolu Bölgesi","Doğa","Tepeler","Fauna","Flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34873049"
@@ -28,7 +28,7 @@ wikidata_id: "Q34873049"
 
 # Güllüce Tepesi
 
-Güllüce Tepesi, Doğu Anadolu Bölgesi'nin Van şehrinde yer alan ve yaklaşık 140 hektarlık bir alan kaplayan bir tepe. Bu bölge, 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Güllüce Tepesi, doğa severler için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, Van Gölü'nün panoramik manzarasını izleme mümkün.
+ Güllüce Tepesi, doğa severler için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, Van Gölü'nün panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

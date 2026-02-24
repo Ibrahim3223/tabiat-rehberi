@@ -41,7 +41,6 @@ Bığbığ Orman Sarmaşığı Tabiat Anıtı, ziyaretçilerini doğanın güzel
 
 ## İlginç Bilgiler
 
-- Bığbığ Orman Sarmaşığı Tabiat Anıtı, 140 hektarlık bir alanı kapsar.
 - Bu bölgede, çeşitli bitki türleri yetişir.
 - Bığbığ Orman Sarmaşığı Tabiat Anıtı, birçok hayvan türünün yaşam alanı olarak önemlidir.
 - Bu bölge, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.

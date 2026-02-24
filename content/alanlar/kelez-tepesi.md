@@ -28,7 +28,7 @@ wikidata_id: "Q31387903"
 
 # Kelez Tepesi
 
-Kars ilinin doğusunda yer alan Kelez Tepesi, 2800 metre yüksekliğiyle bölgenin önemli tepe noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir doğa parçasıdır. Kelez Tepesi, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekici bir noktadır. Bu tepe, Kars'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olabilir.
+Kars ilinin doğusunda yer alan Kelez Tepesi, 2800 metre yüksekliğiyle bölgenin önemli tepe noktalarından biridir. Kelez Tepesi, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekici bir noktadır. Bu tepe, Kars'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olabilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kelez Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için önem
 ## İlginç Bilgiler
 
 - Kelez Tepesi, 2800 metre yüksekliğiyle bölgenin önemli tepe noktalarından biridir
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir doğa parçasıdır
+
 - Kelez Tepesi, Kars ilinin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak olabilir
 - Bu tepe, doğa severler ve tarih meraklıları için bir araya gelerek keşfedilebilecek önemli bir noktadır
 - Kelez Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur

@@ -51,7 +51,7 @@ Paşa Hamamı, ziyaretçilerine hem deniz hem de kara faaliyetleri sunar. Bu gü
 ## İlginç Bilgiler
 
 - Paşa Hamamı, Diyarbakır'ın merkez ilçelerinden biri olan Sur'da yer alır.
-- Paşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Paşa Hamamı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Paşa Hamamı, özellikle yaz aylarında tatilciler ve yerli halk tarafından tercih edilen bir destinasyondur.
 - Paşa Hamamı, ziyaretçilerine hem deniz hem de kara faaliyetleri sunar.

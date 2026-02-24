@@ -29,7 +29,7 @@ wikidata_id: "Q131390919"
 
 # Ayn-i Ali Türbesi
 
-Ayn-i Ali Türbesi, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Manisa'nın Yunusemre ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur. Türbenin tarihi geçmişi, yüzyıllar boyunca oluşan kültürel mirası ile ziyaretçilerini etkilemektedir. Ayn-i Ali Türbesi, tarih ve doğa severlerin mutlaka ziyaret etmesi gereken bir mekan olarak dikkat çekmektedir.
+Ayn-i Ali Türbesi, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Türbenin tarihi geçmişi, yüzyıllar boyunca oluşan kültürel mirası ile ziyaretçilerini etkilemektedir. Ayn-i Ali Türbesi, tarih ve doğa severlerin mutlaka ziyaret etmesi gereken bir mekan olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ayn-i Ali Türbesi'nin tarihi geçmişi, yüzyıllar boyunca oluşan kültürel 
 
 ## Coğrafya
 
-Ayn-i Ali Türbesi, Manisa'nın Yunusemre ilçesinde bulunmaktadır. Türbe, Ege Bölgesi'nin merkezi bir konumunda yer almakta olup, çevresinde çeşitli yerleşim yerleri, tarihi yapılar ve doğa güzellikleri bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir açık alanda kurulmuştur. Bu alan, ziyaretçilere geniş bir açık mekan sunmaktadır. Türbe ve çevresindeki settlementler, Ege Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Ege Bölgesi'nin iklimi, türbenin bulunduğu alanda da kendini göstermektedir. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri göstermekte olup, yazları sıcak ve kurak, kışları ılık ve yağışlı geçmektedir. Ayn-i Ali Türbesi, Ege Bölgesi'nin coğrafi güzellikleri ve tarihi yapıları ile ziyaretçilerini beklemektedir.
+Ayn-i Ali Türbesi, Manisa'nın Yunusemre ilçesinde bulunmaktadır. Türbe, Ege Bölgesi'nin merkezi bir konumunda yer almakta olup, çevresinde çeşitli yerleşim yerleri, tarihi yapılar ve doğa güzellikleri bulunmaktadır. Bu alan, ziyaretçilere geniş bir açık mekan sunmaktadır. Türbe ve çevresindeki settlementler, Ege Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Ege Bölgesi'nin iklimi, türbenin bulunduğu alanda da kendini göstermektedir. Bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri göstermekte olup, yazları sıcak ve kurak, kışları ılık ve yağışlı geçmektedir. Ayn-i Ali Türbesi, Ege Bölgesi'nin coğrafi güzellikleri ve tarihi yapıları ile ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ayn-i Ali Türbesi, Manisa'nın Yunusemre ilçesinde bulunmaktadır. Türbeye ul
 ## İlginç Bilgiler
 
 - Ayn-i Ali Türbesi, Manisa'nın tarihi ve kültürel mirasının önemli bir parçasıdır.
-- Türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur.
+
 - Türbenin etrafındaki alan, zengin bir flora ve fauna ile ziyaretçilerini karşılamaktadır.
 - Ayn-i Ali Türbesi, Ege Bölgesi'nin coğrafi güzellikleri ile ziyaretçilerini etkilemektedir.
 - Türbeye ulaşım, Manisa şehir merkezinden yaklaşık 20-30 dakika sürmektedir.

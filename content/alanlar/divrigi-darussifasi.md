@@ -53,5 +53,5 @@ Divriği Darüşşifası, Sivas'a gelen ziyaretçilerin mutlaka görmesi gereken
 - Darüşşifanın inşası 1228 yılında tamamlanmıştır
 - Mengücekli Beyi Ahmet Şah tarafından inşa ettirilmiştir
 - İç Anadolu Bölgesi'nin önemli bir kültürel mirasıdır
-- 140 hektarlık bir yeşil alan üzerine kurulmuştur
+
 - Tarihi ve mimari yapısı ile dikkat çekicidir

@@ -36,7 +36,7 @@ Dikmendede Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıklar
 
 ## Coğrafya
 
-Dikmendede Tepe, Konya'nın coğrafi yapısına uygun olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve fauna ile örtülüdür. Bölgenin iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Dikmendede Tepe'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini gözlemleme fırsatı sunar. Tepe, bölgenin su kaynaklarına yakın bir konumda yer alır ve bu nedenle, flora ve fauna açısından zengin bir alandır. Dikmendede Tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi özellikleri ile zengin bir deneyim sunar.
+Dikmendede Tepe, Konya'nın coğrafi yapısına uygun olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Dikmendede Tepe'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini gözlemleme fırsatı sunar. Tepe, bölgenin su kaynaklarına yakın bir konumda yer alır ve bu nedenle, flora ve fauna açısından zengin bir alandır. Dikmendede Tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi özellikleri ile zengin bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Karyağan Tepesi, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor. 
 
 ## Ziyaret Bilgileri
 
-Karyağan Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir deneyim. Karyağan Tepesi'ne, Erzurum'un merkezinden fácilca ulaşılabilir ve bu tepe, ziyaretçilerine, çeşitli aktiviteler sunuyor. Bu tepe, özellikle, doğa yürüyüşü, kaya ve fotoğrafçılık gibi aktiviteler için ideal bir nokta.
+Karyağan Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir deneyim. Karyağan Tepesi'ne, Erzurum'un merkezinden kolayca ulaşılabilir ve bu tepe, ziyaretçilerine, çeşitli aktiviteler sunuyor. Bu tepe, özellikle, doğa yürüyüşü, kaya ve fotoğrafçılık gibi aktiviteler için ideal bir nokta.
 
 ## İlginç Bilgiler
 
@@ -52,4 +52,4 @@ Karyağan Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir den
 - Bu tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Karyağan Tepesi, tarihsel önemi ile dikkat çekiyor.
 - Bu tepe, doğa severler için, flora ve fauna çeşitliliği ile bir cennet olarak kabul ediliyor.
-- Karyağan Tepesi'ne, Erzurum'un merkezinden fácilca ulaşılabilir.
+- Karyağan Tepesi'ne, Erzurum'un merkezinden kolayca ulaşılabilir.

@@ -38,7 +38,7 @@ Köprülü Mehmet Paşa Türbesi, 17. yüzyılda inşa edildi. Osmanlı dönemin
 
 ## Coğrafya
 
-Köprülü Mehmet Paşa Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alıyor. Türbe, yaklaşık 140 hektarlık bir alanda inşa edilmiş ve çevresi tarihi binalar ile çevrili. İstanbul'un en önemli caddelerinden biri olan Fevzi Paşa Caddesi'ne yakın olan türbe, ulaşım açısından kolaylık sağlıyor. Köprülü Mehmet Paşa Türbesi, İstanbul'un coğrafi olarak en güzel bölgelerinden biri olan Haliç'e de yakın olup, ziyaretçilerine güzel manzaralar sunuyor. Türbenin xungusunda çeşitli tarihi mekanlar, camiler ve müzeler yer alıyor. İstanbul'un coğrafi yapısı, türbenin güzelliğini daha da artırıyor. Köprülü Mehmet Paşa Türbesi, ziyaretçilerine İstanbul'un tarihi ve kültürel zenginliğini keşfetme fırsatı sunuyor.
+Köprülü Mehmet Paşa Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alıyor. İstanbul'un en önemli caddelerinden biri olan Fevzi Paşa Caddesi'ne yakın olan türbe, ulaşım açısından kolaylık sağlıyor. Köprülü Mehmet Paşa Türbesi, İstanbul'un coğrafi olarak en güzel bölgelerinden biri olan Haliç'e de yakın olup, ziyaretçilerine güzel manzaralar sunuyor. Türbenin xungusunda çeşitli tarihi mekanlar, camiler ve müzeler yer alıyor. İstanbul'un coğrafi yapısı, türbenin güzelliğini daha da artırıyor. Köprülü Mehmet Paşa Türbesi, ziyaretçilerine İstanbul'un tarihi ve kültürel zenginliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Köprülü Mehmet Paşa Türbesi, ziyaretçilerine çeşitli olanaklar sunuyor. 
 ## İlginç Bilgiler
 
 - Köprülü Mehmet Paşa Türbesi, 17. yüzyılda inşa edildi.
-- Türbe, yaklaşık 140 hektarlık bir alanda inşa edildi.
+
 - Köprülü Mehmet Paşa Türbesi, Türk mimarlık sanatının en güzel örneklerinden biri olarak kabul ediliyor.
 - Türbenin xungusunda, çeşitli tarihi mekanlar ve müzeler yer alıyor.
 - Köprülü Mehmet Paşa Türbesi, ziyaretçilerine tarihin izlerini keşfetme fırsatı sunuyor.

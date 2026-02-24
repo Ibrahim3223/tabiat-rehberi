@@ -28,7 +28,7 @@ wikidata_id: "Q31385831"
 
 # Fodulca Tepesi
 
-Fodulca Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak karşımıza çıkıyor. Fodulca Tepesi, hem doğa severlerin hem de tarihi eserlerle ilgilenenlerin ilgisini çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Fodulca Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Fodulca Tepesi, hem doğa severlerin hem de tarihi eserlerle ilgilenenlerin ilgisini çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 

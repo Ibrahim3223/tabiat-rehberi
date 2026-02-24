@@ -48,7 +48,6 @@ Karameşe Tepesi, ziyaretçilerini, doğal güzellikleri ve tarihi geçmişi ile
 
 ## İlginç Bilgiler
 
-- Karameşe Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Karameşe Tepesi, tarihi geçmişi ile birlikte, doğal güzellikleri ile de ziyaretçilerini çekmeyi başarıyor.
 - Tepenin etrafında, çeşitli akarsular ve göller bulunuyor.

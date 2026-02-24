@@ -28,7 +28,7 @@ wikidata_id: "Q34823971"
 
 # Çaraçeto Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için Çaraçeto Tepesi, gerçek bir hazine olarak karşımıza çıkıyor. Batman'ın merkezine yakın bir konumda yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Çaraçeto Tepesi, özellikle manzarası ile dikkat çekiyor ve bölgenin en önemli turistik noktalarından biri olarak kabul ediliyor. Tepenin zirvesine çıktığınızda, Batman şehrinin panoramik manzarasını izleme fırsatı bulacaksınız.
+Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için Çaraçeto Tepesi, gerçek bir hazine olarak karşımıza çıkıyor. Çaraçeto Tepesi, özellikle manzarası ile dikkat çekiyor ve bölgenin en önemli turistik noktalarından biri olarak kabul ediliyor. Tepenin zirvesine çıktığınızda, Batman şehrinin panoramik manzarasını izleme fırsatı bulacaksınız.
 
 ## Tarihçe
 

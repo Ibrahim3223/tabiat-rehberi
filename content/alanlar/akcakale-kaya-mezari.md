@@ -29,7 +29,7 @@ wikidata_id: "Q134728187"
 
 # Akçakale Kaya Mezarı
 
-Akçakale Kaya Mezarı, Sivas'ın Kangal ilçesinde yer alan ve tarihi öneme sahip bir kaya mezarıdır. Bu mezar, yaklaşık 140 hektarlık bir alan içerisinde yer almakta ve ziyaretçilerini tarihin depthsine götürmektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kaya mezarı, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunmaktadır. Tarihi geçmişi ve coğrafi konumu ile dikkat çeken Akçakale Kaya Mezarı, hem yerli hem de yabancı ziyaretçiler tarafından ilgi görmektedir.
+Akçakale Kaya Mezarı, Sivas'ın Kangal ilçesinde yer alan ve tarihi öneme sahip bir kaya mezarıdır. Tarihi geçmişi ve coğrafi konumu ile dikkat çeken Akçakale Kaya Mezarı, hem yerli hem de yabancı ziyaretçiler tarafından ilgi görmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Akçakale Kaya Mezarı, tarihi geçmişi ile dikkat çeken bir yer olup, yüzyı
 
 ## Coğrafya
 
-Akçakale Kaya Mezarı, Sivas'ın Kangal ilçesinde yer almakta ve coğrafi açıdan zengin bir konuma sahiptir. Bu mezar, yaklaşık 140 hektarlık bir alan içerisinde yer almakta ve coğrafi açıdan önemli bir yere sahip olmakta. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kaya mezarı, coğrafi açıdan zengin bir deneyim sunmaktadır. İç Anadolu Bölgesi'nde yer alan bu mezar, coğrafi açıdan önemli bir yere sahip olmakta ve ziyaretçilerine coğrafi açıdan zengin bir deneyim sunmaktadır. Akçakale Kaya Mezarı, coğrafi konumu ile dikkat çeken bir yer olup, ziyaretçilerine coğrafi açıdan zengin bir deneyim sunmaktadır. Bu mezar, coğrafi açıdan önemli bir yere sahip olmakta ve ziyaretçilerini coğrafi açıdan zengin bir deneyim sunmaktadır.
+Akçakale Kaya Mezarı, Sivas'ın Kangal ilçesinde yer almakta ve coğrafi açıdan zengin bir konuma sahiptir. İç Anadolu Bölgesi'nde yer alan bu mezar, coğrafi açıdan önemli bir yere sahip olmakta ve ziyaretçilerine coğrafi açıdan zengin bir deneyim sunmaktadır. Akçakale Kaya Mezarı, coğrafi konumu ile dikkat çeken bir yer olup, ziyaretçilerine coğrafi açıdan zengin bir deneyim sunmaktadır. Bu mezar, coğrafi açıdan önemli bir yere sahip olmakta ve ziyaretçilerini coğrafi açıdan zengin bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Akçakale Kaya Mezarı, ziyaretçilerine bir dizi deneyim sunmakta ve onları ta
 ## İlginç Bilgiler
 
 - Akçakale Kaya Mezarı, Sivas'ın Kangal ilçesinde yer almaktadır
-- Bu mezar, yaklaşık 140 hektarlık bir alan içerisinde yer almaktadır
+
 - Akçakale Kaya Mezarı, tarihi geçmişi ile dikkat çeken bir yerdir
 - Bu mezar, coğrafi açıdan zengin bir konuma sahiptir
 - Akçakale Kaya Mezarı, flora ve fauna açısından zengin bir yere sahip olmakta

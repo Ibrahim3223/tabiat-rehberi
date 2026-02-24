@@ -36,7 +36,7 @@ wikidata_id: "Q34824252"
 
 ## Coğrafya
 
-Çatalkak Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin yüksekliği, bölgenin coğrafi özelliklerini ve iklimini etkiliyor. Çatalkak Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ile kaplı. Tepenin etrafında, regionün karakteristik coğrafi özellikleri görülüyor. Bölge, genellikle kura ve sıcak bir iklime sahip. Ancak, Çatalkak Tepesi ve etrafındaki alanlar, bu iklime rağmen giàu bir flora ve fauna çeşitliliğine sahip. Tepenin coğrafi yapısı, bölgenin jeolojik geçmişini de yansıtıyor. Tepenin etrafında, çeşitli jeolojik oluşumlar ve kayalar görülüyor.
+Çatalkak Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin yüksekliği, bölgenin coğrafi özelliklerini ve iklimini etkiliyor. Tepenin etrafında, regionün karakteristik coğrafi özellikleri görülüyor. Bölge, genellikle kura ve sıcak bir iklime sahip. Ancak, Çatalkak Tepesi ve etrafındaki alanlar, bu iklime rağmen giàu bir flora ve fauna çeşitliliğine sahip. Tepenin coğrafi yapısı, bölgenin jeolojik geçmişini de yansıtıyor. Tepenin etrafında, çeşitli jeolojik oluşumlar ve kayalar görülüyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34824252"
 
 ## İlginç Bilgiler
 
-- Çatalkak Tepesi, 140 hektarlık bir alanı kapsıyor
 - Tepenin yüksekliği, bölgenin coğrafi özelliklerini ve iklimini etkiliyor
 - Tepenin etrafında, çeşitli bitki türleri ve yaban hayatı görülüyor
 - Bölge, mevsimsel değişimlere göre farklı bir görünüm sunuyor

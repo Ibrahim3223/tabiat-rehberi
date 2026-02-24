@@ -49,7 +49,7 @@ Velibey Tepesi'ne gitmek için, İç Anadolu Bölgesi'ne ulaşmak gerekiyor. Bu 
 ## İlginç Bilgiler
 
 - Velibey Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir tepe.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Velibey Tepesi, doğa severler ve gezi tutkunları için önemli bir destinasyon olarak kabul ediliyor.
 - Bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe sahip.
 - Velibey Tepesi, İç Anadolu Bölgesi'nin tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon olarak kabul ediliyor.

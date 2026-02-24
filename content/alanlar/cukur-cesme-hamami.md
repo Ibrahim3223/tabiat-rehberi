@@ -29,7 +29,7 @@ wikidata_id: "Q131738814"
 
 # Çukur Çeşme Hamamı
 
-Fatih/İstanbul'da bulunan Çukur Çeşme Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu tarihi hamam ve plaj, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Çukur Çeşme Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeder. Bu özel lugar, İstanbul'un kalbinde, tarihi ve doğal güzelliklerin bir arada olduğu ender yerlerden biridir. Ziyaretçiler, hem tarihi hamamın zengin geçmişi ile hem de plajın sunduğu doğa güzellikleri ile karşılaşır.
+Fatih/İstanbul'da bulunan Çukur Çeşme Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Çukur Çeşme Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeder. Bu özel lugar, İstanbul'un kalbinde, tarihi ve doğal güzelliklerin bir arada olduğu ender yerlerden biridir. Ziyaretçiler, hem tarihi hamamın zengin geçmişi ile hem de plajın sunduğu doğa güzellikleri ile karşılaşır.
 
 ## Tarihçe
 

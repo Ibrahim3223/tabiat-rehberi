@@ -28,7 +28,7 @@ wikidata_id: "Q31386542"
 
 # Uzunok Tepesi
 
-Hatay ilinin güzide bir bölgesinde yer alan Uzunok Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Uzunok Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor.
+ Uzunok Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Uzunok Tepesi, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış bi
 
 ## Coğrafya
 
-Uzunok Tepesi, Hatay ilinin coğrafi yapısına uygun olarak, dağlık bir bölgede yer alıyor. Bu bölgenin coğrafi özellikleri, ziyaretçilere hem dağların güzelliği hem de vadilerin serinliği sunuyor. Uzunok Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, doğa severler için bir cennet. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Uzunok Tepesi, ziyaretçilere, Akdeniz Bölgesi'nin güzelliğini sunuyor. Bu bölgenin iklimi, genellikle ılıman ve yağışlı, ancak ziyaretçilerin, mevsimsel değişimlere göre, gezi planlarını yapmaları gerekiyor.
+Uzunok Tepesi, Hatay ilinin coğrafi yapısına uygun olarak, dağlık bir bölgede yer alıyor. Bu bölgenin coğrafi özellikleri, ziyaretçilere hem dağların güzelliği hem de vadilerin serinliği sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Uzunok Tepesi, ziyaretçilere, Akdeniz Bölgesi'nin güzelliğini sunuyor. Bu bölgenin iklimi, genellikle ılıman ve yağışlı, ancak ziyaretçilerin, mevsimsel değişimlere göre, gezi planlarını yapmaları gerekiyor.
 
 ## Flora ve Fauna
 

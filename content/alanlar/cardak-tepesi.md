@@ -50,7 +50,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya geti
 ## İlginç Bilgiler
 
 - Çardak Tepesi, Eyyübiye ilçesinin merkezi bir noktasında yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çardak Tepesi, bölgeye özgü bitki türleriyle kaplıdır ve zengin fauna çeşitliliğine sahiptir.
 - Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 - Çardak Tepesi'ne gitmek için, en iyi zaman, ilkbahar ve sonbahar aylarıdır.

@@ -36,7 +36,7 @@ Teresidelik Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bö
 
 ## Coğrafya
 
-Teresidelik Tepe, Yozgat ilinin coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin ve çeşitli. Teresidelik Tepe, 140 hektarlık bir alanı kapsıyor. Teresidelik Tepe'nin coğrafi yapısı, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Bu tepe, Yozgat'ın önemli coğrafi özelliklerini taşıyor. Teresidelik Tepe'nin coğrafi konumu, ziyaretçilerine bu bölgenin neden önemli olduğunu gösteriyor. İç Anadolu Bölgesi'nin coğrafi yapısı, Teresidelik Tepe'nin güzelliğini artırıyor.
+Teresidelik Tepe, Yozgat ilinin coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin ve çeşitli. Teresidelik Tepe'nin coğrafi yapısı, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Bu tepe, Yozgat'ın önemli coğrafi özelliklerini taşıyor. Teresidelik Tepe'nin coğrafi konumu, ziyaretçilerine bu bölgenin neden önemli olduğunu gösteriyor. İç Anadolu Bölgesi'nin coğrafi yapısı, Teresidelik Tepe'nin güzelliğini artırıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Teresidelik Tepe'yi ziyaret etmek isteyenler, Yozgat iline gelerek, bu tepeye ul
 
 ## İlginç Bilgiler
 
-- Teresidelik Tepe, 140 hektarlık bir alanı kapsıyor
 - Teresidelik Tepe, Yozgat'ın önemli doğal alanlarından biri
 - Teresidelik Tepe, flora ve fauna açısından zengin bir bölge
 - Teresidelik Tepe, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor

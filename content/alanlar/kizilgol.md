@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","orman gezi","fotoğrafçılık","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Kızılgöl","caption":"Kızılgöl","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lg%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211272","tip":"genel"}]
-description: "Samsun'un doğa harikası Kızılgöl, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan Kızılgöl, yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kızılgöl","Samsun","Karadeniz Bölgesi","doğa harikası","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211272"
@@ -28,7 +28,7 @@ wikidata_id: "Q32211272"
 
 # Kızılgöl
 
-Samsun'un doğa harikası Kızılgöl, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Bu bölge, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer. Kızılgöl'ün etrafında bulunan ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor. Kızılgöl'ü ziyaret etmek, doğayla iç içe olma ve stresten uzaklaşmak isteyenler için ideal bir seçenek.
+ Bu bölge, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer. Kızılgöl'ün etrafında bulunan ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor. Kızılgöl'ü ziyaret etmek, doğayla iç içe olma ve stresten uzaklaşmak isteyenler için ideal bir seçenek.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kızılgöl'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Kızılgöl, Samsun'un Karadeniz Bölgesi'nde bulunan bir doğa harikasıdır. Bu bölge, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Kızılgöl'ün etrafında bulunan ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor. Kızılgöl'ün coğrafi konumu, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olmasını sağlıyor. Bu bölge, yüksek bir konumda bulunuyor. Kızılgöl'ün iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Bu bölge, yıl boyunca ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlardır. Kızılgöl'ün etrafındaki ormanlar, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bölge, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
+Kızılgöl, Samsun'un Karadeniz Bölgesi'nde bulunan bir doğa harikasıdır. Kızılgöl'ün etrafında bulunan ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor. Kızılgöl'ün coğrafi konumu, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olmasını sağlıyor. Bu bölge, yüksek bir konumda bulunuyor. Kızılgöl'ün iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Bu bölge, yıl boyunca ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlardır. Kızılgöl'ün etrafındaki ormanlar, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bölge, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kızılgöl'ü ziyaret etmek, doğayla iç içe olma ve stresten uzaklaşmak ist
 
 ## İlginç Bilgiler
 
-- Kızılgöl, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor.
 - Kızılgöl'ün etrafındaki ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor.
 - Kızılgöl, Samsun'un Karadeniz Bölgesi'nde bulunan bir doğa harikasıdır.
 - Kızılgöl'ün coğrafi konumu, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olmasını sağlıyor.

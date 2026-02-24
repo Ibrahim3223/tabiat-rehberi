@@ -48,7 +48,6 @@ Guharadirej Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyim oluşturuyor. 
 
 ## İlginç Bilgiler
 
-- Guharadirej Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici.
 
 - Tepenin etrafı, çeşitli bitki türleriyle kaplı.

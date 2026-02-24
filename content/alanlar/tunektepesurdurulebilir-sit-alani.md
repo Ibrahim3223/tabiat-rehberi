@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemci
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Tünektepe Sürdürülebilir Sit Alanı","caption":"Tünektepe Sürdürülebilir Sit Alanı","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCnektepe_s%C3%BCrd%C3%BCr%C3%BClebilir%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226940","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde 140 hektarlık yeşil alan, yaban hayatının gözde mekanlarından biri"
+
 keywords: ["doğa","yeşil alan","yaban hayatı","İç Anadolu Bölgesi","sürdürülebilirlik","sit alanı"," milli park","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226940"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226940"
 
 # Tünektepe_sürdürülebilir Sit Alanı
 
-Tünektepe Sürdürülebilir Sit Alanı, İç Anadolu Bölgesi'nin göbeğinde, yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Tünektepe, doğa severlerin ve yaban hayatını korumak isteyenlerin gözde mekanlarından biri olma özelliğini taşır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar.
+ Tünektepe, doğa severlerin ve yaban hayatını korumak isteyenlerin gözde mekanlarından biri olma özelliğini taşır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

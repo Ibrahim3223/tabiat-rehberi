@@ -43,7 +43,7 @@ Sinop-Ayancik-Yenice Cinar milli parkını ziyaret etmek, ziyaretçilere çeşit
 ## İlginç Bilgiler
 
 - Sinop-Ayancik-Yenice Cinar milli parkı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.
-- Park, 140 hektarlık bir alana sahiptir.
+
 - Parkta, çeşitli bitki ve hayvan türleri bulunur.
 - Park, tarihî eserlere ev sahipliği yapar.
 - Parka gitmek için en uygun zaman, bahar ve yaz aylarıdır.

@@ -30,7 +30,7 @@ wikidata_id: "Q121509205"
 
 # Beykoz Hamamı
 
-Beykoz Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. İstanbul'un Beykoz ilçesinde yer alan bu plaj, yaklaşık 140 hektarlık bir alana yayılır. Beykoz Hamamı, Marmara Denizi'nin güzel kıyılarını sunar ve ziyaretçilerine güzel bir deniz manzarası sunar. Plajın kumsalı, ince kumlarla kaplıdır ve ziyaretçiler burada güneşin tadını çıkarabilirler.
+Beykoz Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Beykoz Hamamı, Marmara Denizi'nin güzel kıyılarını sunar ve ziyaretçilerine güzel bir deniz manzarası sunar. Plajın kumsalı, ince kumlarla kaplıdır ve ziyaretçiler burada güneşin tadını çıkarabilirler.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Beykoz Hamamı, ziyaretçilere birçok aktivite sunar. Ziyaretçiler, burada gü
 ## İlginç Bilgiler
 
 - Beykoz Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alana yayılır.
+
 - Plajın kumsalı, ince kumlarla kaplıdır.
 - Bu bölge, tarihi geçmişi ile dikkat çeker.
 - Beykoz Hamamı, çevresindeki yeşil alanlar ile dikkat çeker.

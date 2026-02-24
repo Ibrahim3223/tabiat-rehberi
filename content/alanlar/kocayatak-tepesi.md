@@ -48,7 +48,6 @@ Kocayatak Tepesi'ni ziyaret etmek, zengin doğası ve tarihi geçmişiyle birlik
 
 ## İlginç Bilgiler
 
-- Kocayatak Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, İç Anadolu Bölgesi'nin coğrafyası içinde yer alıyor.
 - Kocayatak Tepesi, zengin bir flora ve fauna sunuyor.
 - Bu tepe, tarihin izlerini taşıyan bir mekan olarak biliniyor.

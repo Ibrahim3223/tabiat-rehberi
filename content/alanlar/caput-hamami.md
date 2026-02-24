@@ -29,7 +29,7 @@ wikidata_id: "Q131738712"
 
 # Çaput Hamamı
 
-Gümüşhane'nin Trabzon Vilayeti sınırında bulunan Çaput Hamamı, 140 hektarlık geniş bir alanı kaplayan bir doğa harikası. Çaput Hamamı, ziyaretçilerine hem dinlenme hem de macera dolu bir deneyim sunuyor. Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor.
+ Çaput Hamamı, ziyaretçilerine hem dinlenme hem de macera dolu bir deneyim sunuyor. Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Gümüşhane'nin Trabzon Vilayeti sınırında bulunan Çaput Hamamı, 140 hekta
 
 ## İlginç Bilgiler
 
-- Çaput Hamamı, 140 hektarlık bir alanı kaplıyor.
 - Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor.
 - Çaput Hamamı, ziyaretçilerine doğanın mucizeleri ile baş başa bırakıyor.
 - Bu bölge, aynı zamanda önemli bir yaban hayatı koruma alanı olarak da biliniyor.

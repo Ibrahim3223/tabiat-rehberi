@@ -36,7 +36,7 @@ Hanoşki Tepesi, tarihi geçmişi ile dikkat çeken bir bölgedir. Bu tepe, yüz
 
 ## Coğrafya
 
-Hanoşki Tepesi, Mardin'in coğrafi yapısı ile dikkat çeken bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve Mardin'in merkezine yakın bir konumda bulunmaktadır. Hanoşki Tepesi, Mardin'in coğrafi yapısını ve iklimini etkileyen faktörlerin başında gelmektedir. Buranın coğrafi yapısı, Mardin'in tarihi ve kültürel geçmişi hakkında bilgi edinmek isteyenler için önemli bir kaynak teşkil etmektedir. Hanoşki Tepesi, Mardin'in coğrafi yapısı ve iklimi hakkında detaylı bilgi edinmek isteyenler için ideal bir destinasyondur. Burada, Mardin'in coğrafi yapısı ve iklimi hakkında bilgi edinebilir ve bu bölgeye ait doğal güzellikleri görebilirsiniz.
+Hanoşki Tepesi, Mardin'in coğrafi yapısı ile dikkat çeken bir bölgedir. Hanoşki Tepesi, Mardin'in coğrafi yapısını ve iklimini etkileyen faktörlerin başında gelmektedir. Buranın coğrafi yapısı, Mardin'in tarihi ve kültürel geçmişi hakkında bilgi edinmek isteyenler için önemli bir kaynak teşkil etmektedir. Hanoşki Tepesi, Mardin'in coğrafi yapısı ve iklimi hakkında detaylı bilgi edinmek isteyenler için ideal bir destinasyondur. Burada, Mardin'in coğrafi yapısı ve iklimi hakkında bilgi edinebilir ve bu bölgeye ait doğal güzellikleri görebilirsiniz.
 
 ## Flora ve Fauna
 

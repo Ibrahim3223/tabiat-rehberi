@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Haciosman_Korusu_Foto_5.jpg","alt":"Haciosman Ormani manzarası","credit":"MURAT NİYAZOĞLU","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Haciosman_Korusu_Foto_9.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Haciosman_Korusu_Foto_9.jpg/1280px-Haciosman_Korusu_Foto_9.jpg","alt":"Haciosman Ormani - Haciosman Korusu Foto 9","credit":"MURAT NİYAZOĞLU","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Haciosman_Korusu_Foto_8.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haciosman_Korusu_Foto_8.jpg/1280px-Haciosman_Korusu_Foto_8.jpg","alt":"Haciosman Ormani - Haciosman Korusu Foto 8","credit":"MURAT NİYAZOĞLU","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Haciosman_Korusu_Foto_7.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haciosman_Korusu_Foto_7.jpg/1280px-Haciosman_Korusu_Foto_7.jpg","alt":"Haciosman Ormani - Haciosman Korusu Foto 7","credit":"MURAT NİYAZOĞLU","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/Haciosman_Korusu_Foto_12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Haciosman_Korusu_Foto_12.jpg/1280px-Haciosman_Korusu_Foto_12.jpg","alt":"Haciosman Ormani - Haciosman Korusu Foto 12","credit":"MURAT NİYAZOĞLU","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Haciosman_Korusu_Foto_10.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haciosman_Korusu_Foto_10.jpg/1280px-Haciosman_Korusu_Foto_10.jpg","alt":"Haciosman Ormani - Haciosman Korusu Foto 10","credit":"MURAT NİYAZOĞLU","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haciosman%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227047","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin eşsiz milli parklarından biri olan Haciosman Ormanı, 140 hektarlık alanı yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Haciosman Ormani","milli park","İç Anadolu Bölgesi","doğa","yaban hayatı","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227047"
@@ -42,8 +42,6 @@ Haciosman Ormanı, zengin bir flora ve faunaya sahiptir. Ormanda, çeşitli bitk
 Haciosman Ormanı, ziyaretçilere birçok fırsat sunmaktadır. Ziyaretçiler, ormanın güzelliğini keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin kültürel mirasını keşfedebilirler. Ormana nasıl gidileceği konusunda, ziyaretçiler çeşitli ulaşım seçeneklerine sahip olabilirler. Ziyaretçiler, en iyi mevsimi seçerek ormanın güzelliğini en iyi şekilde keşfedebilirler. Haciosman Ormanı, ziyaretçilere birçok aktivite sunmaktadır ve doğa severler, buradaki güzelliği keşfetmek için birçok fırsat bulabilirler.
 
 ## İlginç Bilgiler
-
-- Haciosman Ormanı, 140 hektarlık bir alanı kaplamaktadır.
 
 - Haciosman Ormanı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Orman, zengin bir flora ve faunaya sahiptir.

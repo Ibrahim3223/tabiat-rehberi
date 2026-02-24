@@ -29,7 +29,7 @@ wikidata_id: "Q131738729"
 
 # Yörükler Hamamı
 
-Yörükler Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. 19 Mayıs/Samsun'da bulunan bu plaj, khong 140 hektarlık bir alanda yer almaktadır. Yörükler Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini çekmektedir. Plajın kumsalı, ince kumdan oluşmaktadır ve deniz suyu, berra ve serin bir yapıya sahiptir. Bu özellikler, Yörükler Hamamı'nı hem yerli hem de yabancı turistler için आकरıcı bir destinasyon haline getirmektedir.
+Yörükler Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. Yörükler Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini çekmektedir. Plajın kumsalı, ince kumdan oluşmaktadır ve deniz suyu, berra ve serin bir yapıya sahiptir. Bu özellikler, Yörükler Hamamı'nı hem yerli hem de yabancı turistler için आकरıcı bir destinasyon haline getirmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Yörükler Hamamı, ziyaretçilerine çeşitli faaliyetler ve etkinlikler sunmak
 ## İlginç Bilgiler
 
 - Yörükler Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, yaklaşık 140 hektarlık bir alanda yer almaktadır.
+
 - Yörükler Hamamı, tarihi geçmişi yüzyıllar boyunca devam etmektedir.
 - Plajın kumsalı, ince kumdan oluşmaktadır.
 - Deniz suyu, berra ve serin bir yapıya sahiptir.

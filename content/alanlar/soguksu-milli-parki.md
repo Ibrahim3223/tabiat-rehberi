@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img04.jpg","alt":"Soğuksu Milli Parkı manzarası","credit":"A.Savin","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a1/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img06.jpg/1280px-TR_K%C4%B1z%C4%B1lcahamam_asv2021-10_img06.jpg","alt":"Soğuksu Milli Parkı - TR Kızılcahamam asv2021-10 img06","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Mountains_of_So%C4%9Fuksu_Milli_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mountains_of_So%C4%9Fuksu_Milli_Park%C4%B1.jpg/1280px-Mountains_of_So%C4%9Fuksu_Milli_Park%C4%B1.jpg","alt":"Soğuksu Milli Parkı - Mountains of Soğuksu Milli Parkı","credit":"Ahmet Yozgatlı ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/So%C4%9Fuksu_milli_park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/So%C4%9Fuksu_milli_park%C4%B1.jpg/1280px-So%C4%9Fuksu_milli_park%C4%B1.jpg","alt":"Soğuksu Milli Parkı - Soğuksu milli parkı","credit":"Mustaq120","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/So%C4%9Fuksu_Milli_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/So%C4%9Fuksu_Milli_Park%C4%B1.jpg/1280px-So%C4%9Fuksu_Milli_Park%C4%B1.jpg","alt":"Soğuksu Milli Parkı - Soğuksu Milli Parkı","credit":"YasinYasa2003","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/63/So%C4%9Fuksu_Milli_Park%C4%B1_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/So%C4%9Fuksu_Milli_Park%C4%B1_-_panoramio.jpg/1280px-So%C4%9Fuksu_Milli_Park%C4%B1_-_panoramio.jpg","alt":"Soğuksu Milli Parkı - Soğuksu Milli Parkı - panoramio","credit":"Emin Başar ÖZDEMİR","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fuksu%20Milli%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinden biri olan Soğuksu Milli Parkı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Soğuksu Milli Parkı","Ankara","Kızılcahamam","İç Anadolu Bölgesi","milli park","doğa","gezi"]
 schema_type: "TouristAttraction"
 ---
@@ -37,7 +37,7 @@ Soğuksu Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca bu bölgede ya�
 
 ## Coğrafya
 
-Soğuksu Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri dikkate alınarak planlanmış bir alandır. Parkın 140 hektarlık alanı, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar. Soğuksu Milli Parkı, Ankara'nın kuzeyindeki dağlık bölgede yer alır ve bu konumuyla ziyaretçilere geniş bir görüş açısı sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyan yürüyüş yolları ve piknik alanlarıyla donatılmıştır. Soğuksu Milli Parkı, Ankara'nın doğal güzelliklerini korumak için önemli bir role sahiptir ve ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe olmak için bir fırsat sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak soğuk kışlar ve sıcak yazlarla karakterizedir.
+Soğuksu Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri dikkate alınarak planlanmış bir alandır. Soğuksu Milli Parkı, Ankara'nın kuzeyindeki dağlık bölgede yer alır ve bu konumuyla ziyaretçilere geniş bir görüş açısı sunar. Parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyan yürüyüş yolları ve piknik alanlarıyla donatılmıştır. Soğuksu Milli Parkı, Ankara'nın doğal güzelliklerini korumak için önemli bir role sahiptir ve ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe olmak için bir fırsat sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak soğuk kışlar ve sıcak yazlarla karakterizedir.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Soğuksu Milli Parkı, çeşitli bitki türleriyle kaplıdır ve zengin fauna ç
 Soğuksu Milli Parkı, ziyaretçilerine yılın her döneminde gezi imkanı sunar. Parka ulaşım, Ankara'nın merkezi bölgelerinden kolayca sağlanabilir. Ziyaretçiler, parkın içerisinde bulunan yürüyüş yolları ve piknik alanlarını kullanarak doğayı keşfedebilirler. Soğuksu Milli Parkı, özellikle hafta sonları ve tatil günlerinde ziyaretçileri ağırlar. Parkın ziyaret saatleri, mevsimsel değişimlere göre düzenlenir. Ziyaretçilerin, parkı ziyaret etmeden önce güncel ziyaret saatlerini kontrol etmeleri önerilir.
 
 ## İlginç Bilgiler
-
-- Soğuksu Milli Parkı, 140 hektarlık bir alanı kapsar.
 
 - Soğuksu Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır.
 - Park, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar.

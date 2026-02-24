@@ -49,7 +49,7 @@ Köşeli Tepe, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenl
 ## İlginç Bilgiler
 
 - Köşeli Tepe, Rize ilinin Karadeniz Bölgesi'nde yer alıyor.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Köşeli Tepe, ziyaretçilerine etkileyici manzaralar sunuyor.
 - Bu tepe, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
 - Köşeli Tepe, ziyaretçilerine çeşitli aktiviteleri sunuyor.

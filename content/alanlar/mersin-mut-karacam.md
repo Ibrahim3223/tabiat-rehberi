@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Çiçek izleme","Hayvan izleme","Fotoğraf 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Mersin-Mut Karacam","caption":"Mersin-Mut Karacam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227952","tip":"genel"}]
-description: "Mersin'in doğal güzelliklerini keşfedin, 140 hektarlık alanın zengin fauna ve florasını keşfedin."
+"
 keywords: ["Mersin","Mut Karacam","Doğa","Flora","Fauna","Milli Park","Akdeniz Bölgesi","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227952"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227952"
 
 # Mersin-Mut Karacam
 
-Mersin-Mut Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Mersin-Mut Karacam milli parkı, ziyaretçiler için zengin bir flora ve fauna sunmaktadır. Burada, çeşitli bitki türleri ve hayvanlar bulunmakta ve doğa severler için bir cennet niteliğinde olmasıyla dikkat çekmektedir. Mersin-Mut Karacam milli parkı, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülemektedir.
+ Mersin-Mut Karacam milli parkı, ziyaretçiler için zengin bir flora ve fauna sunmaktadır. Burada, çeşitli bitki türleri ve hayvanlar bulunmakta ve doğa severler için bir cennet niteliğinde olmasıyla dikkat çekmektedir. Mersin-Mut Karacam milli parkı, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Mut Karacam milli parkının tarihi geçmişi, yüzyıllar öncesine daya
 
 ## Coğrafya
 
-Mersin-Mut Karacam milli parkı, Akdeniz Bölgesi'nde yer alan ve Mersin iline bağlı bir bölgedir. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Mersin-Mut Karacam milli parkı, deniz seviyesinden yüksek bir bölgede yer almakta ve bu nedenle iklimi değişkenlik göstermektedir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçmektedir. Mersin-Mut Karacam milli parkı, coğrafi olarak çeşitlilik gösteren bir yapıya sahip olmasıyla dikkat çekmektedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamakta ve doğa severler için bir cennet niteliğinde olmasıyla dikkat çekmektedir. Mersin-Mut Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsamakta ve bu alan, çeşitli coğrafi özellikler sunmaktadır. Bu bölgede, dağlar, ormanlar, nehirler ve göller bulunmakta ve her biri ziyaretçiler için birer güzellik sunmaktadır.
+Mersin-Mut Karacam milli parkı, Akdeniz Bölgesi'nde yer alan ve Mersin iline bağlı bir bölgedir. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Mersin-Mut Karacam milli parkı, deniz seviyesinden yüksek bir bölgede yer almakta ve bu nedenle iklimi değişkenlik göstermektedir. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçmektedir. Mersin-Mut Karacam milli parkı, coğrafi olarak çeşitlilik gösteren bir yapıya sahip olmasıyla dikkat çekmektedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamakta ve doğa severler için bir cennet niteliğinde olmasıyla dikkat çekmektedir. Bu bölgede, dağlar, ormanlar, nehirler ve göller bulunmakta ve her biri ziyaretçiler için birer güzellik sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Mut Karacam milli parkına ziyaret için en iyi zaman, ilkbahar ve sonbah
 
 ## İlginç Bilgiler
 
-- Mersin-Mut Karacam milli parkı, 140 hektarlık bir alanı kapsamaktadır.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Mersin-Mut Karacam milli parkı, yüzyıllar öncesine dayanmaktadır.
 - Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir.

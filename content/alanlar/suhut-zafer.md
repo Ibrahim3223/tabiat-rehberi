@@ -31,7 +31,7 @@ wikidata_id: "Q108228618"
 
 ## Coğrafya
 
-Şuhut Zafer Milli Parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çekiyor. Milli park, 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini, farklı coğrafi oluşumlar ile karşılaştırma fırsatı sunuyor. Burada, ziyaretçiler, dağlar, ormanlar, çayır ve otlaklar gibi çeşitli coğrafi oluşumları keşfedebilir. Milli parkın coğrafi yapısı, aynı zamanda bölgede bulunan flora ve faunanın çeşitliliğine de katkı sağlıyor. Şuhut Zafer Milli Parkı, İklim açısından, İç Anadolu Bölgesi'nin karasal iklimine sahiptir. Bu iklim, ziyaretçilere, dört mevsimi deneyimleme fırsatı sunuyor. Milli parkın coğrafi konumu, aynı zamanda bölgede bulunan doğal kaynakların korunmasına da katkı sağlıyor. Bu nedenle, Şuhut Zafer Milli Parkı, hem coğrafi çeşitliliği hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
+Şuhut Zafer Milli Parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çekiyor. Burada, ziyaretçiler, dağlar, ormanlar, çayır ve otlaklar gibi çeşitli coğrafi oluşumları keşfedebilir. Milli parkın coğrafi yapısı, aynı zamanda bölgede bulunan flora ve faunanın çeşitliliğine de katkı sağlıyor. Şuhut Zafer Milli Parkı, İklim açısından, İç Anadolu Bölgesi'nin karasal iklimine sahiptir. Bu iklim, ziyaretçilere, dört mevsimi deneyimleme fırsatı sunuyor. Milli parkın coğrafi konumu, aynı zamanda bölgede bulunan doğal kaynakların korunmasına da katkı sağlıyor. Bu nedenle, Şuhut Zafer Milli Parkı, hem coğrafi çeşitliliği hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ wikidata_id: "Q108228618"
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgede bulunan tarihi eserlerin ve doğal güzelliklerin korunmasına yönelik çalışmaların bir sonucu olarak gerçekleşti.
-- Şuhut Zafer Milli Parkı, 140 hektarlık bir alanı kapsıyor.
+
 - Milli parkın coğrafi yapısı, flora ve faunanın çeşitliliğine de katkı sağlıyor.
 - Şuhut Zafer Milli Parkı, İklim açısından, İç Anadolu Bölgesi'nin karasal iklimine sahiptir.
 - Milli parkın flora çeşitliliği, aynı zamanda bölgede bulunan ekosistemin korunmasına da katkı sağlıyor.

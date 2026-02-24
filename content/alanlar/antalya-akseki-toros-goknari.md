@@ -14,7 +14,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","kampçılık","yaban hayatı gö
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Antalya-Akseki Toros Goknari","caption":"Antalya-Akseki Toros Goknari","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki%20Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227284","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin doğal güzellikleri arasında yer alan Antalya-Akseki Toros Goknari, 140 hektarlık alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Antalya","Akseki","Toros Goknari","milli park","doğa","gezi","Akdeniz Bölgesi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227284"
@@ -30,7 +30,7 @@ Antalya-Akseki Toros Goknari'nin tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Antalya-Akseki Toros Goknari, coğrafi açıdan oldukça zengin bir bölgedir. Toros Dağları'nın eteklerinde yer alan bu milli park, 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir alanda yer alıyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşuyor. Ziyaretçiler, bu alanda trekking, doğa yürüyüşü ve diğer outdoor etkinlikler yapabilir. Ayrıca, bölgenin panoramik manzaraları, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Antalya-Akseki Toros Goknari, coğrafi açıdan oldukça zengin bir bölgedir. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir alanda yer alıyor. Kış aylarında ılıman, yaz aylarında ise sıcak ve kuru bir iklim hüküm sürüyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşuyor. Ziyaretçiler, bu alanda trekking, doğa yürüyüşü ve diğer outdoor etkinlikler yapabilir. Ayrıca, bölgenin panoramik manzaraları, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

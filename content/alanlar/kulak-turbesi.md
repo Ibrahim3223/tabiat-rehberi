@@ -38,7 +38,7 @@ Kulak Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Kulak Türbesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin ve mavinin bir arada olduğu bir bölgedir. 140 hektarlık alan, geniş bir doğal güzelliği sunar. Bu bölge, deniz ve dağların bir araya geldiği bir noktada yer alır. İklim, Karadeniz Bölgesi'nin genel iklimine uygun olarak, yağışlı ve nemlidir. Çevre, çeşitli bitki türleri ve zengin fauna ile şekillenmiştir. Bu coğrafi yapı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
+Kulak Türbesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin ve mavinin bir arada olduğu bir bölgedir. Bu bölge, deniz ve dağların bir araya geldiği bir noktada yer alır. İklim, Karadeniz Bölgesi'nin genel iklimine uygun olarak, yağışlı ve nemlidir. Çevre, çeşitli bitki türleri ve zengin fauna ile şekillenmiştir. Bu coğrafi yapı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kulak Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği yaşamak i
 ## İlginç Bilgiler
 
 - Kulak Türbesi, Niksar'ın önemli tarihi mekanlarından biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Karadeniz Bölgesi'nin coğrafi yapısına uygun
 - Çeşitli bitki türleri ve zengin fauna
 - Mevsimsel değişimler, canlıların yaşamını etkiler

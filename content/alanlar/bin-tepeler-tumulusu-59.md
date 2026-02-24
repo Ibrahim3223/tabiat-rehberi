@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 59'ın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 59, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu alan, denize yakınlığı ve doğal güzellikleriyle dikkat çeker. Yaklaşık 140 hektarlık bir alanı kaplayan Bin Tepeler Tümülüsü 59, ziyaretçilerine geniş bir yeşil alan sunar. Bu yeşil alan, çeşitli bitki türleriyle kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Bin Tepeler Tümülüsü 59'ın coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini keşfetme fırsatı tanır. Bu özel mekan, ziyaretçilerini hem doğanın güzelliği hem de tarihin zenginliğiyle karşılar.
+Bin Tepeler Tümülüsü 59, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu alan, denize yakınlığı ve doğal güzellikleriyle dikkat çeker. Bu yeşil alan, çeşitli bitki türleriyle kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Bin Tepeler Tümülüsü 59'ın coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini keşfetme fırsatı tanır. Bu özel mekan, ziyaretçilerini hem doğanın güzelliği hem de tarihin zenginliğiyle karşılar.
 
 ## Flora ve Fauna
 

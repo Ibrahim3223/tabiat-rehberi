@@ -29,7 +29,7 @@ wikidata_id: "Q131391672"
 
 # Kızıldeli Sultan Türbesi
 
-Kızıldeli Sultan Türbesi, Doğu Anadolu Bölgesi'nin Yazıhan/Malatya ilçesinde yer alan bir tarihi ve kültürel mekândır. Bu özel destinasyon, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içerisinde yer alır. Tarihi ve doğal güzellikleri bir araya getiren Kızıldeli Sultan Türbesi, hem türk kültürünü tanımak hem de doğayı keşfetmek isteyenler için ideal bir gezi noktasıdır.
+Kızıldeli Sultan Türbesi, Doğu Anadolu Bölgesi'nin Yazıhan/Malatya ilçesinde yer alan bir tarihi ve kültürel mekândır. Tarihi ve doğal güzellikleri bir araya getiren Kızıldeli Sultan Türbesi, hem türk kültürünü tanımak hem de doğayı keşfetmek isteyenler için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 

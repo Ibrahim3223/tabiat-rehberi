@@ -51,7 +51,7 @@ Eski Yeni Hamam, yılın dört mevsimi ziyaret edilebilir, ancak en çok tercih 
 ## İlginç Bilgiler
 
 - Eski Yeni Hamam, Marmara Bölgesi'nin en güzel plajlarından biridir
-- Eski Yeni Hamam, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Eski Yeni Hamam, tarihi geçmişiyle dikkat çeker
 - Eski Yeni Hamam, yılın dört mevsimi ziyaret edilebilir
 - Eski Yeni Hamam, özellikle deniz severlerin ve doğaşığılarının buluşma noktasıdır

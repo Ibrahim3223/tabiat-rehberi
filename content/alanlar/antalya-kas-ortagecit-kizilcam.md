@@ -43,7 +43,7 @@ Antalya-Kas-Ortagecit Kızılçam milli parkını ziyaret etmek, doğa severler 
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, çevreyi koruma altına almak amacıyla gerçekleşmiştir.
-- Milli park, 140 hektarlık bir alana yayılmıştır.
+
 - Ziyaretçiler, milli parkı gezerken, rehberlik hizmeti alabilirler.
 - Milli parkın flora ve faunası, ziyaretçilere doğanın güzelliğini gösteriyor.
 - Milli park, yılın her dönemi gezilebilecek bir ortamdır.

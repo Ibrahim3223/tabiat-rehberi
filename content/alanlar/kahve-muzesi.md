@@ -23,7 +23,7 @@ wikidata_id: "Q118947971"
 
 # Kahve Müzesi
 
-Kahve Müzesi, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanda ziyaretçilerini bekliyor. Müzenin konumu, ziyaretçilerin doğayı ve kültürel mirası aynı anda keşfetmesine olanak tanır. Müze, ziyaretçilerine bir yolculuk vaat ediyor; bir yolculuk ki, burada kahvenin tarihini, kültürel önemini ve üretim sürecini keşfetme mümkün.
+ Müzenin konumu, ziyaretçilerin doğayı ve kültürel mirası aynı anda keşfetmesine olanak tanır. Müze, ziyaretçilerine bir yolculuk vaat ediyor; bir yolculuk ki, burada kahvenin tarihini, kültürel önemini ve üretim sürecini keşfetme mümkün.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kahve Müzesi'ni ziyaret etmek, bir gezi sever için unutulmaz bir deneyim olabi
 ## İlginç Bilgiler
 
 - Kahve Müzesi, Türkiye'nin en büyük kahve müzesidir.
-- Müze, 140 hektarlık bir alanda yer alıyor.
+
 - Müzenin koleksiyonu, çeşitli dönemlere ait kahve malzemeleri ve belgeleri içeriyor.
 - Bölge, çeşitli flora ve fauna türleri ile zengin bir doğaya sahiptir.
 - Kahve Müzesi, yıl boyunca açık olmakla birlikte, en iyi ziyaret dönemi ilkbahar ve yaz aylarıdır.

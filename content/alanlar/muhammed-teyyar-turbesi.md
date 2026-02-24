@@ -50,7 +50,6 @@ Muhammed Teyyar Türbesi'ni ziyaret etmek, tarihin derinliklerinde gizli bir haz
 
 ## İlginç Bilgiler
 
-- Muhammed Teyyar Türbesi, 140 hektarlık bir alan üzerine kurulu.
 - Türbenin tarihi geçmişi, yüzyıllar öncesine dayanıyor.
 - Bölge, birçok farklı türün yaşam alanı olarak kabul ediliyor.
 - Muhammed Teyyar Türbesi, doğanın güzelliği ile tarihi değerlerini bir araya getiren özel bir mekan.

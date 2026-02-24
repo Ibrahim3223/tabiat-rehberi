@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografi","yerel kültürü tanı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Muğlakatlığı Tepesi","caption":"Muğlakatlığı Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mu%C4%9Flakatl%C4%B1%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388784","tip":"genel"}]
-description: "Muğla'nın Ege Bölgesi'nde yer alan Muğlakatlığı Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Muğla","Ege Bölgesi","tepe","doğa","gezi","turizm","yerel","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388784"
@@ -49,7 +49,7 @@ Muğlakatlığı Tepesi'ni ziyaret etmek, bölgenin doğal güzelliğini ve tari
 ## İlginç Bilgiler
 
 - Muğlakatlığı Tepesi, Muğla'nın en yüksek noktalarından biridir
-- Bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
+
 - Tepenin etrafında, çeşitli bitki türleri bulunur
 - Bölge, birçok hayvan türüne ev sahipliği yapmaktadır
 - Muğlakatlığı Tepesi, aynı zamanda bölgenin tarihi geçmişini yansıtan önemli bir noktadır

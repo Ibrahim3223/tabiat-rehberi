@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","bitki gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Örenönü","caption":"Örenönü","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96ren%C3%B6n%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228334","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Örenönü, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Örenönü","milli park","İç Anadolu Bölgesi","doğa","gezinti","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228334"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228334"
 
 # Örenönü
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Örenönü milli parkı, doğa severlerin ve macera arayanların gözdesi haline gelmiştir. Yaklaşık 140 hektarlık alanıyla, bu milli park, ziyaretçilerini geniş yeşil alanlarıyla, çeşitli bitki türleriyle ve zengin faunaıyla büyülüyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir doğa deneyimi sunuyor. Tarihi geçmişi ve coğrafi konumuyla Örenönü, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Örenönü milli parkı, doğa severlerin ve macera arayanların gözdesi haline gelmiştir. Tarihi geçmişi ve coğrafi konumuyla Örenönü, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
 
 ## Tarihçe
 

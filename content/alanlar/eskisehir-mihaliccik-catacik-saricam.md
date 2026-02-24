@@ -30,7 +30,7 @@ Eskisehir-Mihaliccik-Catacik-Saricam milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Eskisehir-Mihaliccik-Catacik-Saricam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutar. Bu milli park, 140 hektarlık alanıyla, geniş ormanlık arazilere ve çeşitli su kaynaklarına sahiptir. Milli parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunarken, aynı zamanda bölgenin iklim özellikleri de ziyaretçilerin deneyimini zenginleştirir. Milli parkın etrafı, çeşitli bitki türleri ile dolu olan ormanlarla çevrilidir ve bu ormanlar, zengin fauna çeşitliliği ile doludur. Bu milli park, coğrafi olarak ziyaretçilerine çeşitli aktiviteler sunar; doğa yürüyüşleri, kuş gözlemciliği ve fotoğrafçılık gibi faaliyetler, ziyaretçilerin milli parkı keşfetmelerine olanak tanır. Coğrafi konumu ile ön plana çıkan bu milli park, ziyaretçilerini bir doğa cenneti ile buluşturur.
+Eskisehir-Mihaliccik-Catacik-Saricam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutar. Milli parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunarken, aynı zamanda bölgenin iklim özellikleri de ziyaretçilerin deneyimini zenginleştirir. Milli parkın etrafı, çeşitli bitki türleri ile dolu olan ormanlarla çevrilidir ve bu ormanlar, zengin fauna çeşitliliği ile doludur. Bu milli park, coğrafi olarak ziyaretçilerine çeşitli aktiviteler sunar; doğa yürüyüşleri, kuş gözlemciliği ve fotoğrafçılık gibi faaliyetler, ziyaretçilerin milli parkı keşfetmelerine olanak tanır. Coğrafi konumu ile ön plana çıkan bu milli park, ziyaretçilerini bir doğa cenneti ile buluşturur.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Eskisehir-Mihaliccik-Catacik-Saricam milli parkını ziyaret etmek, ziyaretçile
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkta, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunur
 - Milli park, coğrafi konumu ile ön plana çıkar
 - Milli parkın resmi internet sitesinden bilgi edinilebilir

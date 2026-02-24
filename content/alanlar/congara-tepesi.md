@@ -28,7 +28,7 @@ wikidata_id: "Q34829528"
 
 # Çongara Tepesi
 
-Çongara Tepesi, Muğla'nın güzide bir bölgesinde yer alan ve Ege Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çeker. Bu tepe, çevresindeki yeşil alanlar ve doğal güzelliklerle birlikte yaklaşık 140 hektarlık bir alanı kaplar. Doğa severlerin ve gezi tutkunlarının ziyaret ettiği bu bölge, aynı zamanda bölgenin tarihi geçmişi ile de ilgi çekmektedir. Çongara Tepesi, ziyaretçilerine eşsiz bir manzara sunar ve bölgenin coğrafi yapısını keşfetmek için ideal bir noktadır.
+Çongara Tepesi, Muğla'nın güzide bir bölgesinde yer alan ve Ege Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çeker. Doğa severlerin ve gezi tutkunlarının ziyaret ettiği bu bölge, aynı zamanda bölgenin tarihi geçmişi ile de ilgi çekmektedir. Çongara Tepesi, ziyaretçilerine eşsiz bir manzara sunar ve bölgenin coğrafi yapısını keşfetmek için ideal bir noktadır.
 
 ## Tarihçe
 

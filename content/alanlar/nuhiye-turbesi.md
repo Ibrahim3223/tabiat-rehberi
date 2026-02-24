@@ -37,7 +37,7 @@ Nuhiye Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tari
 
 ## Coğrafya
 
-Nuhiye Türbesi, Bitlis şehrinin merkezinde, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir şekilde inşa edilmiştir. Türbenin çevresinde, şehrin tarihi yapıları ve doğal güzellikleri yer almaktadır. Bitlis Vilayeti'nin coğrafi konumu, türbenin inşa edildiği bölgeyi de etkilemiştir. İç Anadolu Bölgesi'nin karakteristik iklimi, türbenin mimari yapısını ve çevresindeki bitki örtüsünü şekillendirmiştir. Türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve bu alan, şehrin yeşil alanlarının önemli bir bölümünü oluşturmaktadır. Nuhiye Türbesi, Bitlis'in coğrafi ve kültürel özelliklerinin birleştiği önemli bir noktadır.
+Nuhiye Türbesi, Bitlis şehrinin merkezinde, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir şekilde inşa edilmiştir. Türbenin çevresinde, şehrin tarihi yapıları ve doğal güzellikleri yer almaktadır. Bitlis Vilayeti'nin coğrafi konumu, türbenin inşa edildiği bölgeyi de etkilemiştir. İç Anadolu Bölgesi'nin karakteristik iklimi, türbenin mimari yapısını ve çevresindeki bitki örtüsünü şekillendirmiştir. Nuhiye Türbesi, Bitlis'in coğrafi ve kültürel özelliklerinin birleştiği önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Nuhiye Türbesi'ni ziyaret etmek, Bitlis'in tarihi ve kültürel zenginliklerini
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Bitlis Vilayeti, İç Anadolu Bölgesi'nin önemli bir parçasıdır.
 - Nuhiye Türbesi, şehrin kültür ve tarihini öğrenmek isteyenler için önemli bir merkezdir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alandır.
+

@@ -38,7 +38,7 @@ wikidata_id: "Q131391704"
 
 ## Coğrafya
 
-Şeker Hoca Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak çeşitli dağlar ve ovalarla çevrilidir. Şeker Hoca Türbesi, 140 hektarlık bir alanda kurulmuştur ve çevresinde çeşitli bitki türleri bulunur. Bu türbe, Marmara Denizi'ne yakın bir konumda yer alır ve ziyaretçilere deniz manzarası sunar. Şeker Hoca Türbesi'nin coğrafi konumu, ziyaretçilere hem doğanın güzelliğini hem de dini bir deneyimi sunar. Bu türbe, Marmara Bölgesi'nin coğrafi zenginliklerini temsil eder ve ziyaretçilere geniş bir manzara sunar.
+Şeker Hoca Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak çeşitli dağlar ve ovalarla çevrilidir. Bu türbe, Marmara Denizi'ne yakın bir konumda yer alır ve ziyaretçilere deniz manzarası sunar. Şeker Hoca Türbesi'nin coğrafi konumu, ziyaretçilere hem doğanın güzelliğini hem de dini bir deneyimi sunar. Bu türbe, Marmara Bölgesi'nin coğrafi zenginliklerini temsil eder ve ziyaretçilere geniş bir manzara sunar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ wikidata_id: "Q131391704"
 
 - Şeker Hoca Türbesi, Marmara Bölgesi'nin önemli dini mekanlarından biridir.
 - Bu türbe, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiştir.
-- Şeker Hoca Türbesi, 140 hektarlık bir alanda kurulmuştur.
+
 - Bu türbe, Marmara Denizi'ne yakın bir konumda yer alır.
 - Şeker Hoca Türbesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.

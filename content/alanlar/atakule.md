@@ -18,11 +18,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","spor"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20asv2021-10%20img10%20Atakule.jpg","alt":"Atakule manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Atakule_-_%C3%87ankaya.jpg/960px-Atakule_-_%C3%87ankaya.jpg","alt":"Atakule","caption":"Atakule","credit":"Atakule - Çankaya","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7e/Ankara_asv2021-10_img17_Atakule.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ankara_asv2021-10_img17_Atakule.jpg/1280px-Ankara_asv2021-10_img17_Atakule.jpg","alt":"Atakule - Ankara asv2021-10 img17 Atakule","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Ankara_asv2021-10_img10_Atakule.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ankara_asv2021-10_img10_Atakule.jpg/1280px-Ankara_asv2021-10_img10_Atakule.jpg","alt":"Atakule - Ankara asv2021-10 img10 Atakule","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/67/Atakule_Tower_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Atakule_Tower_Park.jpg/1280px-Atakule_Tower_Park.jpg","alt":"Atakule - Atakule Tower Park","credit":"Suluad","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Atakule_Tower.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Atakule_Tower.jpg/1280px-Atakule_Tower.jpg","alt":"Atakule - Atakule Tower","credit":"Suluad","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Atakule%2C_2019.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Atakule%2C_2019.jpg/1280px-Atakule%2C_2019.jpg","alt":"Atakule - Atakule, 2019","credit":"Gargarapalvin","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atakule","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q753230","tip":"genel"}]
-description: "Ankara'nın göbeğinde yer alan Atakule, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Atakule","Ankara","İç Anadolu Bölgesi","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q753230"
 ---
@@ -41,7 +40,7 @@ Atakule, Ankara'nın merkezinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi 
 
 ## Flora ve Fauna
 
-Atakule, zengin flora ve fauna çeşitliliğine sahip. Atakule'nin 140 hektarlık alanı, çeşitli bitki türleriyle kaplı ve bu bitkiler, ziyaretçilerine güzel bir manzara sunuyor. Atakule'de, özellikle çam, meşe ve söğüt gibi ağaç türleri bulunmakta. Atakule'nin fauna çeşitliliği de oldukça zengin. Atakule'de, çeşitli kuş türleri, sürüngenler ve memeliler bulunmakta. Atakule, aynı zamanda mevsimsel değişimlere de uyum sağlıyor. İlkbahar ve yaz aylarında, Atakule'nin yeşil alanları, ziyaretçilerine güzel bir manzara sunuyor. Sonbahar ve kış aylarında ise, Atakule'nin manzarası, farklı bir güzelliğe bürünüyor.
+Atakule, zengin flora ve fauna çeşitliliğine sahip. Atakule'de, özellikle çam, meşe ve söğüt gibi ağaç türleri bulunmakta. Atakule'nin fauna çeşitliliği de oldukça zengin. Atakule'de, çeşitli kuş türleri, sürüngenler ve memeliler bulunmakta. Atakule, aynı zamanda mevsimsel değişimlere de uyum sağlıyor. İlkbahar ve yaz aylarında, Atakule'nin yeşil alanları, ziyaretçilerine güzel bir manzara sunuyor. Sonbahar ve kış aylarında ise, Atakule'nin manzarası, farklı bir güzelliğe bürünüyor.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +48,6 @@ Atakule'yi ziyaret etmek, oldukça kolay. Atakule, Ankara'nın merkezinde yer al
 
 ## İlginç Bilgiler
 
-- Atakule, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Atakule, 1989 yılında açıldı
 - Atakule, Ankara'nın en önemli yeşil alanlarından biri
 - Atakule, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor

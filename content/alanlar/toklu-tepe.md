@@ -48,8 +48,6 @@ Toklu Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için unutulm
 
 ## İlginç Bilgiler
 
-- Toklu Tepe, 140 hektarlık bir alana sahip.
-
 - Toklu Tepe, 70 metre yüksekliğiyle çevreyi panoramik olarak izleme imkanı sunuyor.
 - Toklu Tepe, çeşitli bitki türleriyle zengin bir ekosisteme sahip.
 - Toklu Tepe, fauna açısından da zengin bir bölge.

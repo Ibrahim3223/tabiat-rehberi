@@ -51,6 +51,6 @@ Yeniçeri Hamamı'na ziyaretçiler, Edirne'nin merkezi bölgesinden kolayca ula�
 
 - Yeniçeri Hamamı, Edirne'nin tarihi plajlarından biridir.
 - Bu plaj, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biridir.
-- Yeniçeri Hamamı, 140 hektarlık bir alana sahiptir.
+
 - Bu plaj, ekolojik bir denge içerisindeki bir bölge olarak bilinir.
 - Yeniçeri Hamamı, her yıl binlerce ziyaretçiyi ağırlar.

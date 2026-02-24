@@ -29,7 +29,7 @@ wikidata_id: "Q134728317"
 
 # Büyük Tümülüs, Beştepe
 
-Ankara'nın Yenimahalle ilçesinde bulunan Büyük Tümülüs, Beştepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Büyük Tümülüs, Beştepe, hem tarih meraklıları hem de doğa severler için bir çekim merkezi olarak dikkat çekiyor. Bu özel mekân, ziyaretçilerine hem geçmişin izlerini keşfetme fırsatı sunuyor hem de doğanın güzelliğini gözler önüne seriyor.
+ Büyük Tümülüs, Beştepe, hem tarih meraklıları hem de doğa severler için bir çekim merkezi olarak dikkat çekiyor. Bu özel mekân, ziyaretçilerine hem geçmişin izlerini keşfetme fırsatı sunuyor hem de doğanın güzelliğini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Büyük Tümülüs, Beştepe, yıl boyunca ziyaret edilebiliyor. Ancak, ilkbahar
 
 ## İlginç Bilgiler
 
-- Büyük Tümülüs, Beştepe, 140 hektarlık bir alanı kapsıyor.
 - Büyük Tümülüs, Beştepe, Ankara'nın en önemli tarihi ve doğal güzelliklerinden biri.
 - Büyük Tümülüs, Beştepe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
 - Büyük Tümülüs, Beştepe, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunuyor.

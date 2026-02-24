@@ -36,7 +36,7 @@ wikidata_id: "Q34829146"
 
 ## Coğrafya
 
-Çimlidağ Tepesi, Gümüşhane'nin coğrafi yapısını karakterize eden bir özelliktir. Bu tepe, Karadeniz Bölgesi'nin dağlık alanlarının bir parçasıdır ve çevresindeki diğer tepe ve dağlarla birlikte bir bütünü oluşturur. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin ve yaban hayatının gelişmesine olanak tanıyan zengin bir ekosistemi destekler. Çimlidağ Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiler. Bu tepe, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimine sahiptir. Ziyaretçiler, bu tepeyi keşfederek, bölgenin coğrafi çeşitliliğini ve doğal güzelliğini deneyimleyebilirler. Çimlidağ Tepesi, yaklaşık 140 hektarlık alanı kaplıyor ve bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Çimlidağ Tepesi, Gümüşhane'nin coğrafi yapısını karakterize eden bir özelliktir. Bu tepe, Karadeniz Bölgesi'nin dağlık alanlarının bir parçasıdır ve çevresindeki diğer tepe ve dağlarla birlikte bir bütünü oluşturur. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin ve yaban hayatının gelişmesine olanak tanıyan zengin bir ekosistemi destekler. Çimlidağ Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiler. Bu tepe, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimine sahiptir. Ziyaretçiler, bu tepeyi keşfederek, bölgenin coğrafi çeşitliliğini ve doğal güzelliğini deneyimleyebilirler.
 
 ## Flora ve Fauna
 

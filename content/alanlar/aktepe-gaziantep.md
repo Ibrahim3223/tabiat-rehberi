@@ -29,7 +29,7 @@ wikidata_id: "Q31386194"
 
 # Aktepe (Gaziantep)
 
-Aktepe, Gaziantep'in önemli doğal güzelliklerinden biridir. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Aktepe, yaklaşık 140 hektarlık bir alanı kaplar. Aktepe, çevresindeki diğer tepe ve dağlarla birlikte bölgeyi zengin bir coğrafi çeşitlilik sunar.
+Aktepe, Gaziantep'in önemli doğal güzelliklerinden biridir. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Aktepe, çevresindeki diğer tepe ve dağlarla birlikte bölgeyi zengin bir coğrafi çeşitlilik sunar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Aktepe, Gaziantep'in önemli doğal güzelliklerinden biridir. Bölge, ziyaretç
 ## İlginç Bilgiler
 
 - Aktepe, Gaziantep'in önemli doğal güzelliklerinden biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Aktepe, çeşitli bitki türlerine ev sahipliği yapar.
 - Bölge, aynı zamanda çeşitli yaban hayvanlarına ev sahipliği yapar.
 - Aktepe, ziyaretçilere çeşitli aktiviteler sunar.

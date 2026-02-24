@@ -37,7 +37,7 @@ Lukuyanus Anıtı'nın tarihi geçmişi, bölgenin zengin kültürel mirasını 
 
 ## Coğrafya
 
-Lukuyanus Anıtı, Konya'nın Beyşehir ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekilleniyor. Anıtın bulunduğu bölge, genel olarak geniş ovalar ve dağlarla çevrilidir. İklim, karasal özellikleri taşıyor ve bölge, yazın sıcak ve kurak, kışın soğuk ve kar yağışlı geçiyor. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve bu, ziyaretçilere geniş bir gezi alanı sunuyor. Lukuyanus Anıtı'nın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Anıtın yakınında yer alan göller, ormanlar ve dağlar, ziyaretçilere çeşitli doğa etkinlikleri yapma olanağı sağlıyor.
+Lukuyanus Anıtı, Konya'nın Beyşehir ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekilleniyor. Anıtın bulunduğu bölge, genel olarak geniş ovalar ve dağlarla çevrilidir. İklim, karasal özellikleri taşıyor ve bölge, yazın sıcak ve kurak, kışın soğuk ve kar yağışlı geçiyor. Lukuyanus Anıtı'nın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Anıtın yakınında yer alan göller, ormanlar ve dağlar, ziyaretçilere çeşitli doğa etkinlikleri yapma olanağı sağlıyor.
 
 ## Flora ve Fauna
 

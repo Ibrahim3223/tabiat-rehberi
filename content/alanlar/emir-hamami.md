@@ -46,12 +46,12 @@ Emir Hamamı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunar.
 
 ## Ziyaret Bilgileri
 
-Emir Hamamı, ziyaretçilerine, çeşitli doğal güzellikleri keşfetme fırsatı sunar. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere, farklı coğrafi oluşumları keşfetme fırsatı sunar. Emir Hamamı'na, Mardin'in Artuklu ilçesinden kolayca ulaşılabilir. Bu bölgede, çeşitli yürüyüş parkurları ve doğa güzellikleri bulunur. Ziyaretçiler, Emir Hamamı'nda, farklı mevsimlerde, çeşitli faaliyetler gerçekleştirebilir. Bahar aylarında, bu bölgede, çeşitli çiçekler açar ve ilkbaharın güzelliğini ziyaretçilere sunar. Kış aylarında ise, karla kaplı dağlar ve vadiler, ziyaretçilere, farklı bir güzellik sunar. Emir Hamamı, ziyaretçilerine, çeşitli doğa güzellikleri ve faaliyetler sunar.
+Emir Hamamı, ziyaretçilerine, çeşitli doğal güzellikleri keşfetme fırsatı sunar. Emir Hamamı'na, Mardin'in Artuklu ilçesinden kolayca ulaşılabilir. Bu bölgede, çeşitli yürüyüş parkurları ve doğa güzellikleri bulunur. Ziyaretçiler, Emir Hamamı'nda, farklı mevsimlerde, çeşitli faaliyetler gerçekleştirebilir. Bahar aylarında, bu bölgede, çeşitli çiçekler açar ve ilkbaharın güzelliğini ziyaretçilere sunar. Kış aylarında ise, karla kaplı dağlar ve vadiler, ziyaretçilere, farklı bir güzellik sunar. Emir Hamamı, ziyaretçilerine, çeşitli doğa güzellikleri ve faaliyetler sunar.
 
 ## İlginç Bilgiler
 
 - Emir Hamamı, Mardin'in Artuklu ilçesinde yer alır.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Emir Hamamı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunar.
 - Bu bölgede, farklı ekosistemler bulunur.
 - Emir Hamamı, tarihi ve kültürel değerleriyle de önemlidir.

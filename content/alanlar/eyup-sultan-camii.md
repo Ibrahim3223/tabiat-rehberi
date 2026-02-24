@@ -30,7 +30,7 @@ wikidata_id: "Q956677"
 
 # Eyüp Sultan Camii
 
-Eyüp Sultan Camii, İstanbul'un en önemli dini ve tarihi mekanlarından biridir. İstanbul'un fethinden sonra, Fatih Sultan Mehmet tarafından yaptırılmıştır. Caminin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Eyüp Sultan Camii, İstanbul'un kültür ve tarihini yansıtan önemli bir noktadır. Caminin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, caminin tarihi ve mimari özelliklerini öğrenerek, İstanbul'un zengin kültürel mirasını keşfedebilirler.
+Eyüp Sultan Camii, İstanbul'un en önemli dini ve tarihi mekanlarından biridir. İstanbul'un fethinden sonra, Fatih Sultan Mehmet tarafından yaptırılmıştır. Eyüp Sultan Camii, İstanbul'un kültür ve tarihini yansıtan önemli bir noktadır. Caminin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, caminin tarihi ve mimari özelliklerini öğrenerek, İstanbul'un zengin kültürel mirasını keşfedebilirler.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Eyüp Sultan Camii, İstanbul'un fethinden sonra, Fatih Sultan Mehmet tarafında
 
 ## Coğrafya
 
-Eyüp Sultan Camii, İstanbul'un Avrupa yakasında, Eyüp ilçesinde bulunmaktadır. Cami, Haliç'in kıyısında, yeşil bir alanda yer almaktadır. Caminin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Cami, Haliç'in kıyısında yer aldığı için, ziyaretçiler, Haliç'in güzel manzarasını da izleyebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un tarihi bölgesine de yakındır. Cami, tarihi bölgesinin kuzeyinde yer almaktadır. Bu nedenle, ziyaretçiler, İstanbul'un tarihi bölgesini de gezebilirler. Eyüp Sultan Camii, İstanbul'un coğrafi konumu itibariyle, ziyaretçilerin ilgisini çekmektedir. Cami, İstanbul'un kültür ve tarihini yansıtan önemli bir noktadır. Ziyaretçiler, caminin tarihi ve mimari özelliklerini öğrenerek, İstanbul'un zengin kültürel mirasını keşfedebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un sosyal ve kültürel yaşamında da önemli bir rol oynamaktadır. Cami, çeşitli dini ve kültürel etkinliklere ev sahipliği yapmaktadır. Cami, Haliç'in kıyısında yer aldığı için, ziyaretçiler, Haliç'in güzel manzarasını da izleyebilirler.
+Eyüp Sultan Camii, İstanbul'un Avrupa yakasında, Eyüp ilçesinde bulunmaktadır. Cami, Haliç'in kıyısında, yeşil bir alanda yer almaktadır. Cami, Haliç'in kıyısında yer aldığı için, ziyaretçiler, Haliç'in güzel manzarasını da izleyebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un tarihi bölgesine de yakındır. Cami, tarihi bölgesinin kuzeyinde yer almaktadır. Bu nedenle, ziyaretçiler, İstanbul'un tarihi bölgesini de gezebilirler. Eyüp Sultan Camii, İstanbul'un coğrafi konumu itibariyle, ziyaretçilerin ilgisini çekmektedir. Cami, İstanbul'un kültür ve tarihini yansıtan önemli bir noktadır. Ziyaretçiler, caminin tarihi ve mimari özelliklerini öğrenerek, İstanbul'un zengin kültürel mirasını keşfedebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un sosyal ve kültürel yaşamında da önemli bir rol oynamaktadır. Cami, çeşitli dini ve kültürel etkinliklere ev sahipliği yapmaktadır. Cami, Haliç'in kıyısında yer aldığı için, ziyaretçiler, Haliç'in güzel manzarasını da izleyebilirler.
 
 ## Flora ve Fauna
 
-Eyüp Sultan Camii, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu yeşil alan, çeşitli bitki türleri ile kaplıdır. Ziyaretçiler, cami çevresinde çeşitli ağaçlar ve çiçekler görebilirler. Cami, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Ziyaretçiler, cami çevresinde çeşitli kuş türleri ve diğer hayvanları görebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un ekolojik dengesini korumak için de önemlidir. Cami, yeşil alanı ile birlikte, İstanbul'un hava kalitesini iyileştirmektedir. Ziyaretçiler, cami çevresinde temiz ve yeşil bir ortamda gezebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un sosyal ve kültürel yaşamında da önemli bir rol oynamaktadır. Cami, çeşitli dini ve kültürel etkinliklere ev sahipliği yapmaktadır. Cami, Haliç'in kıyısında yer aldığı için, ziyaretçiler, Haliç'in güzel manzarasını da izleyebilirler.
+ Bu yeşil alan, çeşitli bitki türleri ile kaplıdır. Ziyaretçiler, cami çevresinde çeşitli ağaçlar ve çiçekler görebilirler. Cami, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Ziyaretçiler, cami çevresinde çeşitli kuş türleri ve diğer hayvanları görebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un ekolojik dengesini korumak için de önemlidir. Cami, yeşil alanı ile birlikte, İstanbul'un hava kalitesini iyileştirmektedir. Ziyaretçiler, cami çevresinde temiz ve yeşil bir ortamda gezebilirler. Eyüp Sultan Camii, aynı zamanda İstanbul'un sosyal ve kültürel yaşamında da önemli bir rol oynamaktadır. Cami, çeşitli dini ve kültürel etkinliklere ev sahipliği yapmaktadır. Cami, Haliç'in kıyısında yer aldığı için, ziyaretçiler, Haliç'in güzel manzarasını da izleyebilirler.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Eyüp Sultan Camii, ziyaretçilere açık bir mekândır. Ziyaretçiler, camiyi 
 ## İlginç Bilgiler
 
 - Eyüp Sultan Camii, İstanbul'un en önemli dini ve tarihi mekanlarından biridir.
-- Cami, yaklaşık 140 hektarlık bir yeşil alanı kapsar.
+
 - Cami, Haliç'in kıyısında yer almaktadır.
 - Cami, çeşitli dini ve kültürel etkinliklere ev sahipliği yapmaktadır.
 - Cami, İstanbul'un sosyal ve kültürel yaşamında da önemli bir rol oynamaktadır.

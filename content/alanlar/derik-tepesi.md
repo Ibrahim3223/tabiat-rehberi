@@ -48,8 +48,6 @@ Derik Tepesi, Mardin'in Derik ilçesinde yer alıyor. Bu tepe, coğrafi güzelli
 
 ## İlginç Bilgiler
 
-- Derik Tepesi, 140 hektarlık bir alana sahip.
-
 - Derik Tepesi, Mardin'in Derik ilçesinde yer alıyor.
 - Bu tepe, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor.
 - Derik Tepesi, doğa severler ve tarihe merakı olanlar için önemli bir gezi noktası.

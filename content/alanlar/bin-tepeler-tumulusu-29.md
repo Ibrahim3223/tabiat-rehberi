@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 29'un tarihi geçmişi, yüzyıllar boyunca çeşitli u
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 29, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Salihli ilçesinde bulunan bu tümülüs, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Burası, genellikle sıcak ve kurak bir iklime sahip. Tümülüsün etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu coğrafi konum, Bin Tepeler Tümülüsü 29'u ziyaretçileri için bir doğa harikası haline getiriyor. Tümülüs, Ege Bölgesi'nin doğal güzelliği ve tarihi değeri ile dikkat çekiyor. Burada, coğrafyanın şekillendirdiği doğal güzellikleri ve tarihi yapıları keşfetme mümkün.
+Bin Tepeler Tümülüsü 29, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Burası, genellikle sıcak ve kurak bir iklime sahip. Tümülüsün etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu coğrafi konum, Bin Tepeler Tümülüsü 29'u ziyaretçileri için bir doğa harikası haline getiriyor. Tümülüs, Ege Bölgesi'nin doğal güzelliği ve tarihi değeri ile dikkat çekiyor. Burada, coğrafyanın şekillendirdiği doğal güzellikleri ve tarihi yapıları keşfetme mümkün.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 29'u ziyaret etmek, bir tarihi ve kültürel yolculuğa
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 29, Ege Bölgesi'nin en önemli tarihi merkezlerinden biri.
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Burada, çeşitli bitki türleri ve zengin fauna görülebilir.
 - Bin Tepeler Tümülüsü 29, geçmişin izlerini taşıyan bir mekan olarak kabul ediliyor.
 - Tümülüs, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor.

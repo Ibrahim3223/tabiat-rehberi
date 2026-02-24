@@ -29,7 +29,7 @@ wikidata_id: "Q131738536"
 
 # Hierapolis Büyük Hamam
 
- Bu eşsiz yapı, Hierapolis antik kentinde bulunur ve bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunar. 140 hektarlık bu yeşil alan, ziyaretçilerini antik dünyaya bir yolculuğa çıkarır. Hierapolis Büyük Hamam, aynı zamanda Pamukkale'nin simgesi haline gelmiş ve dünya çapında tanınan bir destinasyondur.
+ Bu eşsiz yapı, Hierapolis antik kentinde bulunur ve bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunar. Hierapolis Büyük Hamam, aynı zamanda Pamukkale'nin simgesi haline gelmiş ve dünya çapında tanınan bir destinasyondur.
 
 ## Tarihçe
 

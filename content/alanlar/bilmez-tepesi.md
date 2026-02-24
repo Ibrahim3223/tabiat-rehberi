@@ -36,7 +36,7 @@ Bilmez Tepesi'nin tarihi geçmişi hakkında c th bir bilgi bulunmuyor. Ancak bu
 
 ## Coğrafya
 
-Bilmez Tepesi, Hakkari ilinin coğrafi yapısını oluşturan dağlık bir bölgede yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bilmez Tepesi'nin coğrafi konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamasını sağlıyor. Bu tepe, çevresindeki dağlar ve vadiler ile birlikte bir bütün olarak düşünülüyor. Bilmez Tepesi'nin coğrafi yapısı, doğa severlerin ilgisini çekiyor. Bu tepe, Hakkari'nin en önemli coğrafi güzelliklerinden biri olarak kabul ediliyor. Bilmez Tepesi, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nin wichtığı bu tepe, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor. Bilmez Tepesi, Hakkari'nin doğal güzellikleri arasında yer alıyor.
+Bilmez Tepesi, Hakkari ilinin coğrafi yapısını oluşturan dağlık bir bölgede yer alıyor. Bilmez Tepesi'nin coğrafi konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamasını sağlıyor. Bu tepe, çevresindeki dağlar ve vadiler ile birlikte bir bütün olarak düşünülüyor. Bilmez Tepesi'nin coğrafi yapısı, doğa severlerin ilgisini çekiyor. Bu tepe, Hakkari'nin en önemli coğrafi güzelliklerinden biri olarak kabul ediliyor. Bilmez Tepesi, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nin wichtığı bu tepe, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor. Bilmez Tepesi, Hakkari'nin doğal güzellikleri arasında yer alıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bilmez Tepesi'ni ziyaret etmek için, ziyaretçiler Hakkari iline gelmelidir. Bu
 ## İlginç Bilgiler
 
 - Bilmez Tepesi, Hakkari ilinin doğal güzellikleri arasında yer alıyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bilmez Tepesi, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor.
 - Bu tepe, Hakkari'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Bilmez Tepesi, ziyaretçilerini bekliyor.

@@ -49,7 +49,7 @@ Bayburt ilinin güzellikleri arasında yer alan Çavdarlı Tepe, Karadeniz Bölg
 ## İlginç Bilgiler
 
 - Çavdarlı Tepe, Bayburt ilinin önemli bir coğrafi noktasıdır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çavdarlı Tepe, Karadeniz Bölgesi'nin karakteristik flora ve faunasına sahiptir.
 - Bu tepe, doğa severler için ideal bir gezi noktasıdır.
 - Çavdarlı Tepe, Bayburt'un kültürel ve tarihi mirasının önemli bir bileşenidir.

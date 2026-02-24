@@ -30,7 +30,7 @@ wikidata_id: "Q131391181"
 
 # Sultan Ahmet Türbesi
 
-Sultan Ahmet Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi mekan. Sultan Ahmet Türbesi, İstanbul'un kalbinde yer alan bir nokta ve tarihi açıdan büyük bir önem taşıyor. Bu mekan, çeşitli tarihi olaylara sahne olmuş ve İstanbul'un zengin kültürel mirasına katkıda bulunmuştur. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor.
+Sultan Ahmet Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi mekan. Sultan Ahmet Türbesi, İstanbul'un kalbinde yer alan bir nokta ve tarihi açıdan büyük bir önem taşıyor. Bu mekan, çeşitli tarihi olaylara sahne olmuş ve İstanbul'un zengin kültürel mirasına katkıda bulunmuştur.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ Sultan Ahmet Türbesi'ni ziyaret etmek, tarihin derinliklerine yolculuk yapmak d
 - Sultan Ahmet Türbesi, 17. yüzyılda inşa edilmiştir
 - Sultan Ahmet, Osmanlı padişahı olarak hüküm sürmüştür
 - Sultan Ahmet Türbesi, İstanbul'un kalbinde yer alıyor
-- Sultan Ahmet Türbesi, yaklaşık 140 hektarlık bir büyüklüğe sahip
+
 - Sultan Ahmet Türbesi, Marmara Bölgesi'nin önemli kültürel merkezlerinden biri

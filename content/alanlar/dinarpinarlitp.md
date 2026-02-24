@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"DİNAR_PINARLI_TP","caption":"DİNAR_PINARLI_TP","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C4%B0NAR_PINARLI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228999","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan DİNAR_PINARLI_TP, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Doğal güzelliği, tarihi geçmişi ve zengin ekosistemi ile dikkat çekiyor."
+ Doğal güzelliği, tarihi geçmişi ve zengin ekosistemi ile dikkat çekiyor."
 keywords: ["DİNAR_PINARLI_TP","İç Anadolu Bölgesi","doğa","tarih","ekosistem","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228999"
@@ -30,7 +30,7 @@ DİNAR_PINARLI_TP'nin tarihi geçmişi, bölgenin zengin kültürel mirasını y
 
 ## Coğrafya
 
-DİNAR_PINARLI_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynakları ile dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. 140 hektarlık yeşil alanı, ziyaretçilere yürüyüş, pikni ve doğa gibi aktiviteler için ideal bir ortam sunuyor. DİNAR_PINARLI_TP, coğrafi açıdan zengin bir bölgedir ve ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. DİNAR_PINARLI_TP, coğrafi güzelliği ve zengin ekosistemi ile ziyaretçilerini bekliyor.
+DİNAR_PINARLI_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynakları ile dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. DİNAR_PINARLI_TP, coğrafi açıdan zengin bir bölgedir ve ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. DİNAR_PINARLI_TP, coğrafi güzelliği ve zengin ekosistemi ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ DİNAR_PINARLI_TP'yi ziyaret etmek, doğa severler ve tarih meraklıları için 
 
 ## İlginç Bilgiler
 
-- DİNAR_PINARLI_TP, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor.
 - DİNAR_PINARLI_TP, coğrafi açıdan zengin bir bölgedir ve ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunuyor.
 - Bölge, ekolojik açıdan önemli bir bölge olarak kabul ediliyor ve ziyaretçilere, doğanın güzelliğini keşfetme fırsatı sunuyor.

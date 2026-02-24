@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","gezi","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Mahya Tepesi","caption":"Mahya Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562664","tip":"genel"}]
-description: "Bursa'nın doğal güzelliklerinden biri olan Mahya Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bursa","Mahya Tepesi","Marmara Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31562664"
@@ -48,7 +48,6 @@ Mahya Tepesi, ziyaretçilere gezi ve keşif fırsatı sunmaktadır. Tepenin etra
 
 ## İlginç Bilgiler
 
-- Mahya Tepesi, 140 hektarlık bir alana sahiptir
 - Tepenin etrafındaki bölge, çeşitli bitki türleri ile kaplıdır
 - Mahya Tepesi, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır
 - Tepenin yüksekliği, bölgenin iklimini ve hava koşullarını etkilemektedir

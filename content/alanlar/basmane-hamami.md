@@ -50,7 +50,7 @@ Basmane Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en iyi ziyare
 ## İlginç Bilgiler
 
 - Basmane Hamamı, İzmir'in en önemli tarihi mekanlarından biri
-- Bu mekan, 140 hektarlık bir yeşil alan
+
 - Basmane Hamamı, çeşitli bitki türleri ile dolu
 - Bu bölgede, birçok ağaç türüne rastlama mümkün
 - Basmane Hamamı, mevsimsel değişimlere göre değişen bir ekosisteme sahip

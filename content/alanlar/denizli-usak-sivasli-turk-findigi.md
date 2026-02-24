@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","bitki ve hay
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Denizli-Usak-Sivasli-Turk Findigi","caption":"Denizli-Usak-Sivasli-Turk Findigi","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Sivasli-Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228577","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Denizli","Usak","Sivasli","Turk Findigi","milli park","Ege Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228577"
@@ -42,8 +42,6 @@ Denizli-Usak-Sivasli-Turk Findigi milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kapsıyor
-- Bölgede, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor
 - Milli park, bölgede yaşayan çeşitli bitki ve hayvan türleri için önemli bir habitat oluşturuyor
 - Denizli-Usak-Sivasli-Turk Findigi milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir
 - Milli park, yılın her dönemi ziyaret edilebilir

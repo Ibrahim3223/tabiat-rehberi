@@ -30,7 +30,7 @@ wikidata_id: "Q131390699"
 
 # Dursun Fakih Türbesi
 
-Sakarya'nın Söğütlü ilçesinde yer alan Dursun Fakih Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir saha sunuyor. Tarihi türbe ve plajın birleştiği bu nokta, hem dinî ziyaretler hem de doğa yürüyüşleri için ideal bir destinasyon olarak karşımıza çıkıyor. Dursun Fakih Türbesi, Sakarya'nın turizm değerleri arasında önemli bir yer tutuyor.
+Sakarya'nın Söğütlü ilçesinde yer alan Dursun Fakih Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çekiyor. Tarihi türbe ve plajın birleştiği bu nokta, hem dinî ziyaretler hem de doğa yürüyüşleri için ideal bir destinasyon olarak karşımıza çıkıyor. Dursun Fakih Türbesi, Sakarya'nın turizm değerleri arasında önemli bir yer tutuyor.
 
 ## Tarihçe
 

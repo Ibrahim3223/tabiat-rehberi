@@ -28,7 +28,7 @@ wikidata_id: "Q31559040"
 
 # Eşekkıran Tepesi
 
-Eşekkıran Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve ziyaretçilerini eşsiz bir manzara sunar. Eşekkıran Tepesi, Ankara'nın merkezine yakın konumuyla da dikkat çekmektedir. Ziyaretçiler, buraya kolayca ulaşarak doğanın güzelliğini keşfedebilirler. Tepenin yüksekliği, Ankara'nın diğer noktalarından farklı bir bakış açısı sunar. Eşekkıran Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyondur.
+Eşekkıran Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Eşekkıran Tepesi, Ankara'nın merkezine yakın konumuyla da dikkat çekmektedir. Ziyaretçiler, buraya kolayca ulaşarak doğanın güzelliğini keşfedebilirler. Tepenin yüksekliği, Ankara'nın diğer noktalarından farklı bir bakış açısı sunar. Eşekkıran Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Eşekkıran Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Eşekkıran Tepesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu bölge, Türkiye'nin orta kesiminde bulunmaktadır. Eşekkıran Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Tepenin coğrafi yapısı, genellikle kırsal alanlardan oluşur ve yeşilin farklı tonlarını barındırır. Eşekkıran Tepesi, Ankara'nın diğer noktalarından farklı olarak, daha çok ormanlık ve dağlık bir yapıya sahiptir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve ziyaretçilerini geniş bir alan sunar. Eşekkıran Tepesi, Ankara'nın coğrafi çeşitliliğini gösteren önemli bir noktadır. Ziyaretçiler, buraya gelerek farklı coğrafi oluşumları görebilir ve doğanın güzelliğini keşfedebilirler. Eşekkıran Tepesi, Ankara'nın önemli bir coğrafi noktası olarak kabul edilir ve her yıl birçok ziyaretçi buraya gelir.
+Eşekkıran Tepesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu bölge, Türkiye'nin orta kesiminde bulunmaktadır. Eşekkıran Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Tepenin coğrafi yapısı, genellikle kırsal alanlardan oluşur ve yeşilin farklı tonlarını barındırır. Eşekkıran Tepesi, Ankara'nın diğer noktalarından farklı olarak, daha çok ormanlık ve dağlık bir yapıya sahiptir. Eşekkıran Tepesi, Ankara'nın coğrafi çeşitliliğini gösteren önemli bir noktadır. Ziyaretçiler, buraya gelerek farklı coğrafi oluşumları görebilir ve doğanın güzelliğini keşfedebilirler. Eşekkıran Tepesi, Ankara'nın önemli bir coğrafi noktası olarak kabul edilir ve her yıl birçok ziyaretçi buraya gelir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Eşekkıran Tepesi'ni ziyaret etmek, Ankara'nın güzide noktalarından birini k
 ## İlginç Bilgiler
 
 - Eşekkıran Tepesi, Ankara'nın önemli bir coğrafi noktası olarak kabul edilir.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar.
+
 - Eşekkıran Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Bu tepe, özellikle bahar aylarında, renkli bir manzara sunar.
 - Eşekkıran Tepesi, Ankara'nın önemli bir turizm noktası olarak kabul edilir.

@@ -37,7 +37,7 @@ Karınca Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Karınca Dede Türbesi, Sakarya'nın Arifiye ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu bölge, doğal güzellikleri ile dikkat çeker. Karınca Dede Türbesi'nin bulunduğu alan, 140 hektarlık bir araziye yayılır ve bu geniş alan, ziyaretçilere geniş bir sunar. Türbe ve çevresindeki doğal güzellikler, ziyaretçilere Marmara Bölgesi'nin coğrafi çeşitliliğini göstermektedir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Karınca Dede Türbesi, Arifiye ilçesinin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Türbenin etrafındaki doğal güzellikler, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar.
+Karınca Dede Türbesi, Sakarya'nın Arifiye ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu bölge, doğal güzellikleri ile dikkat çeker. Türbe ve çevresindeki doğal güzellikler, ziyaretçilere Marmara Bölgesi'nin coğrafi çeşitliliğini göstermektedir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Karınca Dede Türbesi, Arifiye ilçesinin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Türbenin etrafındaki doğal güzellikler, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar.
 
 ## Flora ve Fauna
 

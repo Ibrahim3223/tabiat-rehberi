@@ -21,7 +21,7 @@ aktiviteler: ["Doğa Yürüyüşü","Flora Gözlemi","Fauna İzleme","Fotoğraf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Ahatlar Tabiat Parkı","caption":"Ahatlar Tabiat Parkı","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahatlar%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228211","tip":"genel"}]
-description: "Amasra'da yer alan 140 hektarlık Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ahatlar Tabiat Parkı","Amasra","Tabiat Parkı","Doğa","Yeşil Alan","Flora","Fauna","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228211"
@@ -48,8 +48,6 @@ Ahatlar Tabiat Parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Park
 Ahatlar Tabiat Parkı, ziyaretçilerine çeşitli etkinlikler sunar. Parkı gezmek, doğayı keşfetme ve fauna çeşitliliğini gözlemlemek için ideal bir yerdir. Parka ulaşım, Amasra ilçesinden kolayca sağlanabilir. Parkın ziyaret saatleri, mevsimsel olarak değişebilir. parkı ziyaret etmek için en iyi mevsim, ilkbahar ve yaz aylarıdır.
 
 ## İlginç Bilgiler
-
-- Ahatlar Tabiat Parkı, 140 hektarlık bir alana yayılır.
 
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişir.
 - Park, doğa severler ve bilim insanları için önemli bir araştırma alanıdır.

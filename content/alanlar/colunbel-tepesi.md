@@ -48,8 +48,6 @@ wikidata_id: "Q34829629"
 
 ## İlginç Bilgiler
 
-- Çölünbel Tepesi, 140 hektarlık bir alanı kaplamaktadır.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Çölünbel Tepesi, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır.
 - Bu tepe, yıl boyunca farklı mevsimlerde ziyaret edilebilir.
 - Çölünbel Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi hakkında bilgi vererek, bir gezi ve öğrenme deneyimi sunmaktadır.

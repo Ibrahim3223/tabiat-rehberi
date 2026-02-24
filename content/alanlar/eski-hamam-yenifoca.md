@@ -50,7 +50,7 @@ Eski Hamam'ı ziyaret etmek için, Foça'nın Yenifoça mahallesine gitmek gerek
 ## İlginç Bilgiler
 
 - Eski Hamam, Foça'nın Yenifoça mahallesinde yer alır.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir.
 
 - Eski Hamam, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır.

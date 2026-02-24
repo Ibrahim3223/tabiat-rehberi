@@ -21,8 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Vases_-_-4000_%C3%A0_-3500_%28haut%29_-_.-4000_%C3%A0_-3800_%28bas%29_-_Tepe_Sialk_%28Iran%29_%29_-_Louvre_-_AO_17799_%28haut%29_-_AO_17858_%28bas%29.jpg","alt":"Baş Tepe manzarası","credit":"Darafsh","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dd/%22BAS%2C_Hill_10%22%2C_April_1969_-_50065988151.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%22BAS%2C_Hill_10%22%2C_April_1969_-_50065988151.jpg/1280px-%22BAS%2C_Hill_10%22%2C_April_1969_-_50065988151.jpg","alt":"Baş Tepe - \"BAS, Hill 10\", April 1969 - 50065988151","credit":"Archives Branch, USMC History Division","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/%22BAS%2C_Hill_10%22%2C_April_1969_-_50065916052.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%22BAS%2C_Hill_10%22%2C_April_1969_-_50065916052.jpg/1280px-%22BAS%2C_Hill_10%22%2C_April_1969_-_50065916052.jpg","alt":"Baş Tepe - \"BAS, Hill 10\", April 1969 - 50065916052","credit":"Archives Branch, USMC History Division","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/%22BAS%2C_Hill_10%22%2C_April_1969.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%22BAS%2C_Hill_10%22%2C_April_1969.jpg/1280px-%22BAS%2C_Hill_10%22%2C_April_1969.jpg","alt":"Baş Tepe - \"BAS, Hill 10\", April 1969","credit":"Archives Branch, USMC History Division","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/%22BAS%2C_Hill_10%22%2C_June_1969.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%22BAS%2C_Hill_10%22%2C_June_1969.jpg/1280px-%22BAS%2C_Hill_10%22%2C_June_1969.jpg","alt":"Baş Tepe - \"BAS, Hill 10\", June 1969","credit":"Archives Branch, USMC History Division","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/%22BAS%2C_Hill_37%22%2C_August_1969_-_50149346567.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%22BAS%2C_Hill_37%22%2C_August_1969_-_50149346567.jpg/1280px-%22BAS%2C_Hill_37%22%2C_August_1969_-_50149346567.jpg","alt":"Baş Tepe - \"BAS, Hill 37\", August 1969 - 50149346567","credit":"Archives Branch, USMC History Division","license":"cc-by-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390406","tip":"genel"}]
-description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Baş Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Konya","İç Anadolu Bölgesi","Baş Tepe","yeşil alan","futbol sahası","doğa","gezi","turizm"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390406"
 ---
@@ -49,8 +48,6 @@ Baş Tepe, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Bölge,
 
 ## İlginç Bilgiler
 
-- Baş Tepe, 140 hektarlık yeşil alanına sahip
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Baş Tepe, Konya'nın merkezine yakın bir konumda yer alıyor
 - Bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahip
 - Baş Tepe, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor

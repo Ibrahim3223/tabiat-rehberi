@@ -29,7 +29,7 @@ wikidata_id: "Q134728160"
 
 # Avram Kamondo Anıt Mezarı
 
-Avram Kamondo Anıt Mezarı, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir mezarlık alanıdır. Bu mezarlık, yaklaşık 140 hektarlık bir alan kaplıyor ve ziyaretçilerini İstanbul'un geçmişine doğru bir yolculuğa çıkarıyor. 200 futbol sahası büyüklüğünde olan bu alan, şehrin merkezinde yeşilin ve tarihin bir arada bulunduğu ender mekanlardan biri. Avram Kamondo Anıt Mezarı, sadece bir mezarlık değil, aynı zamanda İstanbul'un kültürel ve tarihi mirasının önemli bir parçasıdır.
+Avram Kamondo Anıt Mezarı, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir mezarlık alanıdır. Avram Kamondo Anıt Mezarı, sadece bir mezarlık değil, aynı zamanda İstanbul'un kültürel ve tarihi mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Avram Kamondo Anıt Mezarı, yüzyıllar boyunca İstanbul'un önemli ailelerind
 
 ## Coğrafya
 
-Avram Kamondo Anıt Mezarı, İstanbul'un Beyoğlu ilçesinde, Boğaziçi'nin muhteşem manzarasına karşı yer alıyor. Bu mezarlık, Boğaziçi'nin kıyı şeridinin hemen yakınında, şehrin kalabalık ve hareketli yaşamından uzakta, sakin bir atmosfere sahip. Mezarlık alanı, yaklaşık 140 hektarlık bir yeşil alanla kaplı ve ziyaretçilere geniş yürüyüş yolları ve dinlenme alanları sunuyor. İstanbul'un iklimine uygun olarak, mezarlıkta çeşitli ağaç ve bitki türleri bulunmakta ve bu, mezarlığın doğal güzelliğini daha da artırıyor. Avram Kamondo Anıt Mezarı, aynı zamanda, İstanbul'un tarihi ve kültürel merkezlerine de yakın bir konumda yer alıyor, bu da ziyaretçilerin şehirdeki diğer önemli yerleri de kolayca keşfetmelerine olanak tanıyor.
+Avram Kamondo Anıt Mezarı, İstanbul'un Beyoğlu ilçesinde, Boğaziçi'nin muhteşem manzarasına karşı yer alıyor. Bu mezarlık, Boğaziçi'nin kıyı şeridinin hemen yakınında, şehrin kalabalık ve hareketli yaşamından uzakta, sakin bir atmosfere sahip. İstanbul'un iklimine uygun olarak, mezarlıkta çeşitli ağaç ve bitki türleri bulunmakta ve bu, mezarlığın doğal güzelliğini daha da artırıyor. Avram Kamondo Anıt Mezarı, aynı zamanda, İstanbul'un tarihi ve kültürel merkezlerine de yakın bir konumda yer alıyor, bu da ziyaretçilerin şehirdeki diğer önemli yerleri de kolayca keşfetmelerine olanak tanıyor.
 
 ## Flora ve Fauna
 

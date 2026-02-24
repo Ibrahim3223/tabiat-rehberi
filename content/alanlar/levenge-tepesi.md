@@ -36,7 +36,7 @@ Levenge Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu te
 
 ## Coğrafya
 
-Levenge Tepesi, Güneydoğu Anadolu Bölgesi'nde, Batman ilinin sınırları içerisinde yer alır. Bu tepe, coğrafi olarak, bölgenin en önemli doğal güzelliklerinden biridir. Levenge Tepesi, yaklaşık 140 hektarlık alanıyla, etkileyici bir manzara sunar. Bu tepe, çevresindeki dağlarla birlikte, bölgenin coğrafi yapısını oluşturur. Levenge Tepesi, iklim olarak, bölgenin karakteristik özelliklerini taşır. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Levenge Tepesi, coğrafi konumu itibarıyla, bölgenin doğal ve ekolojik zenginliklerini gözler önüne serer. Bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere benzersiz bir deneyim sunar. Levenge Tepesi, coğrafi olarak, bölgenin en önemli doğal güzelliklerinden biri olarak ortaya çıkar.
+Levenge Tepesi, Güneydoğu Anadolu Bölgesi'nde, Batman ilinin sınırları içerisinde yer alır. Bu tepe, coğrafi olarak, bölgenin en önemli doğal güzelliklerinden biridir. Bu tepe, çevresindeki dağlarla birlikte, bölgenin coğrafi yapısını oluşturur. Levenge Tepesi, iklim olarak, bölgenin karakteristik özelliklerini taşır. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Levenge Tepesi, coğrafi konumu itibarıyla, bölgenin doğal ve ekolojik zenginliklerini gözler önüne serer. Bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere benzersiz bir deneyim sunar. Levenge Tepesi, coğrafi olarak, bölgenin en önemli doğal güzelliklerinden biri olarak ortaya çıkar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Levenge Tepesi, ziyaretçiler için, benzersiz bir deneyim sunar. Bu tepe, doğa
 ## İlginç Bilgiler
 
 - Levenge Tepesi, Batman ilinin en önemli doğal güzelliklerinden biridir
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, etkileyici bir manzara sunar
+
 - Levenge Tepesi, flora ve fauna açısından, çok zengindir
 - Bu tepe, coğrafi olarak, bölgenin doğal ve ekolojik zenginliklerini gözler önüne serer
 - Levenge Tepesi, ziyaretçileri tarafından keşfedilmeyi bekliyor

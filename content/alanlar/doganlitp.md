@@ -14,15 +14,15 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"DOĞANLI_TP","caption":"DOĞANLI_TP","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DO%C4%9EANLI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228801","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran DOĞANLI_TP, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["İç Anadolu Bölgesi","DOĞANLI_TP","doğa","yeşil alan","futbol sahası","gezi","turizm","çevre","ekoloji"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228801"
 ---
 
 # DOĞANLI_TP
 
-İç Anadolu Bölgesi'nde yer alan DOĞANLI_TP, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini büyülüyor. DOĞANLI_TP, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor.
+ DOĞANLI_TP, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

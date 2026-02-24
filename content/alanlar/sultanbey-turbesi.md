@@ -50,7 +50,7 @@ Sultanbey Türbesi'ni ziyaret etmek, hem tarihi hem de doğa güzelliklerini ke�
 ## İlginç Bilgiler
 
 - Sultanbey Türbesi, Karadeniz Bölgesi'nin en önemli tarihi mekanlarından biri
-- Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Sultanbey Türbesi, ziyaretçilerine çeşitli bitki türleri ve hayvanlar sunuyor
 - Mekan, her mevsim farklı güzelliklerle ziyaretçilerini karşılıyor
 - Sultanbey Türbesi, tarihi ve doğal güzelliği bir arada sunuyor

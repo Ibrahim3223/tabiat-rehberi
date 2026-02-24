@@ -30,7 +30,7 @@ wikidata_id: "Q133245853"
 
 # Sokullu Mehmet Paşa Hamamı, Edirne
 
-Edirne'nin tarihi dokusunu yansıtan Sokullu Mehmet Paşa Hamamı, Mimar Sinan'ın eserlerinden biri olarak bilinir. Bu tarihi hamam, yaklaşık 16. yüzyılda inşa edilmiştir. 140 hektarlık bir alan üzerinde kurulmayan bu hamam, Edirne'nin merkezinde yer alır. Sokullu Mehmet Paşa Hamamı, tarihi ve mimari açıdan önemli bir yapı olarak görülmektedir. Hamamın içi, tarihi dönemde kullanılan malzemelerle inşa edilmiştir. Sokullu Mehmet Paşa Hamamı, Edirne'nin önemli tarihi yapılarından biri olarak ziyaretçilerini ağırlamaktadır.
+Edirne'nin tarihi dokusunu yansıtan Sokullu Mehmet Paşa Hamamı, Mimar Sinan'ın eserlerinden biri olarak bilinir. Bu tarihi hamam, yaklaşık 16. yüzyılda inşa edilmiştir. Sokullu Mehmet Paşa Hamamı, tarihi ve mimari açıdan önemli bir yapı olarak görülmektedir. Hamamın içi, tarihi dönemde kullanılan malzemelerle inşa edilmiştir. Sokullu Mehmet Paşa Hamamı, Edirne'nin önemli tarihi yapılarından biri olarak ziyaretçilerini ağırlamaktadır.
 
 ## Tarihçe
 

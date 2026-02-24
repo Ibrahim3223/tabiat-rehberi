@@ -43,7 +43,7 @@ Bolu-Mudurnu-Yurse Mese milli parkını ziyaret etmek, birçok farklı aktivite 
 ## İlginç Bilgiler
 
 - Bolu-Mudurnu-Yurse Mese milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biri.
-- Milli park, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, zengin flora ve faunası ile dikkat çekiyor.
 - Milli park, mevsimsel değişimlere göre, farklı flora ve fauna türlerine ev sahipliği yapıyor.
 - Ziyaretçiler, yılın farklı zamanlarında, farklı türleri görebiliyor.

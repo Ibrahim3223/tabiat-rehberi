@@ -48,7 +48,6 @@ Ciro Şelalesi'ni ziyaret etmek, doğa severler ve macera tutkunları için mük
 
 ## İlginç Bilgiler
 
-- Ciro Şelalesi, 140 hektarlık bir alanı kaplar
 - şelalenin etrafındaki ormanlık alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar
 - Ciro Şelalesi, Karadeniz Bölgesi'nin güzide illerinden Artvin'de bulunur
 - şelale, yüksekli ve derinlik açısından da dikkat çekici bir yapıya sahiptir

@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Kampçılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Trabzon-Macka-Catak Dogu Kayini","caption":"Trabzon-Macka-Catak Dogu Kayini","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Macka-Catak%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227796","tip":"genel"}]
-description: "Trabzon'un doğal güzelliklerini keşfedin. 140 hektarlık milli park, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Trabzon'un doğal güzelliklerini keşfedin."
 keywords: ["Trabzon","Macka","Catak","Dogu Kayini","milli park","doğa","gezi","turizm","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227796"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227796"
 
 # Trabzon-Macka-Catak Dogu Kayini
 
-Trabzon'un Macka ilçesinde bulunan Catak Dogu Kayini milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Milli park, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne ve zengin faunasına ev sahipliği yapıyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilecekleri gibi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinebiliyorlar. Milli parkın coğrafi konumu, ziyaretçilere hem doğal güzellikleri keşfetme hem de tarihi ve kültürel zenginlikleri deneyimleme fırsatı sunuyor.
+ Milli park, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne ve zengin faunasına ev sahipliği yapıyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilecekleri gibi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinebiliyorlar. Milli parkın coğrafi konumu, ziyaretçilere hem doğal güzellikleri keşfetme hem de tarihi ve kültürel zenginlikleri deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Catak Dogu Kayini milli parkının tarihi geçmişi, bölgenin jeolojik oluşumu
 
 ## Coğrafya
 
-Catak Dogu Kayini milli parkı, Trabzon'un Macka ilçesinde, Karadeniz Bölgesi'nin karakteristik coğrafi yapısına sahip bir bölgede bulunuyor. Milli parkın coğrafi konumu, ziyaretçilere hem dağların hem de denizlerin güzelliğini deneyimleme fırsatı sunuyor. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin iklimi, Karadeniz ikliminin tipik özelliklerini taşıyor; yani, yağışlı ve nemli bir iklim hüküm sürüyor. Bu iklim, bölgenin florasına uygun koşulları sağlıyor ve çeşitli bitki türlerinin gelişmesine olanak tanıyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Catak Deresi gibi önemli su kaynakları, milli parkın içinden geçiyor ve bölgenin ekolojik dengesine katkıda bulunuyor. Milli parkın coğrafi konumu ve yapısı, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihi ve kültürel zenginliklerini deneyimleme fırsatı sunuyor.
+Catak Dogu Kayini milli parkı, Trabzon'un Macka ilçesinde, Karadeniz Bölgesi'nin karakteristik coğrafi yapısına sahip bir bölgede bulunuyor. Milli parkın coğrafi konumu, ziyaretçilere hem dağların hem de denizlerin güzelliğini deneyimleme fırsatı sunuyor. Bölgenin iklimi, Karadeniz ikliminin tipik özelliklerini taşıyor; yani, yağışlı ve nemli bir iklim hüküm sürüyor. Bu iklim, bölgenin florasına uygun koşulları sağlıyor ve çeşitli bitki türlerinin gelişmesine olanak tanıyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Catak Deresi gibi önemli su kaynakları, milli parkın içinden geçiyor ve bölgenin ekolojik dengesine katkıda bulunuyor. Milli parkın coğrafi konumu ve yapısı, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihi ve kültürel zenginliklerini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

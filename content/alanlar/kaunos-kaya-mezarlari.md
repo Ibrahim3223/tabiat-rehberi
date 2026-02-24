@@ -51,7 +51,6 @@ Kaunos Kaya Mezarları, ziyaretçilere yıl boyunca açık bir gezi noktası sun
 ## İlginç Bilgiler
 
 - Kaunos Kaya Mezarları, tarihi geçmişiyle dikkat çekiyor
-- Bu bölge, 140 hektarlık bir alanı kapsıyor
-- Kaunos Kaya Mezarları, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bu bölge, çeşitli bitki türlerine ev sahipliği yapıyor
 - Kaunos Kaya Mezarları, zengin bir fauna sahip

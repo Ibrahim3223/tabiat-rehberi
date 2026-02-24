@@ -38,7 +38,7 @@ Gazi Süleyman Paşa Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu dö
 
 ## Coğrafya
 
-Gazi Süleyman Paşa Hamamı, Göynük'ün merkezinde yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliklerini ziyaretçilerine sunuyor. Bu bölgenin coğrafi yapısı, ormanlar, dağlar ve nehirler ile çevrilidir. Hamamın bulunduğu alan, 140 hektarlık bir yeşil alanın içinde yer alıyor ve ziyaretçilere geniş bir açık alan sunuyor. İklim, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimi ile şekilleniyor. Bölge, yıl boyunca ziyaretçilere farklı mevsimsel güzellikler sunuyor. Kış aylarında karla kaplı dağlar, ilkbaharda yeşeren ormanlar, yaz aylarında sıcacık plajlar ve sonbaharda renkli yapraklar, bu bölgenin güzelliğini ziyaretçilere sunuyor.
+Gazi Süleyman Paşa Hamamı, Göynük'ün merkezinde yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliklerini ziyaretçilerine sunuyor. Bu bölgenin coğrafi yapısı, ormanlar, dağlar ve nehirler ile çevrilidir. İklim, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimi ile şekilleniyor. Bölge, yıl boyunca ziyaretçilere farklı mevsimsel güzellikler sunuyor. Kış aylarında karla kaplı dağlar, ilkbaharda yeşeren ormanlar, yaz aylarında sıcacık plajlar ve sonbaharda renkli yapraklar, bu bölgenin güzelliğini ziyaretçilere sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Gazi Süleyman Paşa Hamamı'na ziyaretçiler, yıl boyunca gelerek bu güzel b�
 ## İlginç Bilgiler
 
 - Gazi Süleyman Paşa Hamamı, tarihi bir hamam ve plaj alanı olarak hizmet veriyor.
-- Bu bölge, 140 hektarlık bir yeşil alan içeriyor.
+
 - Hamam, Karadeniz Bölgesi'nin önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, bu bölgede farklı mevsimlerde farklı güzellikler deneyimleyebilir.

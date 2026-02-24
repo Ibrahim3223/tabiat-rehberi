@@ -29,7 +29,7 @@ wikidata_id: "Q31391224"
 
 # Morgan Tepesi
 
-Morgan Tepesi, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden birini sunuyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak düşünülebilir. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severler hem de macera arayışındaki kişiler için mükemmel bir destinasyon. Morgan Tepesi, ziyaretçilerine hem güzel manzaralar hem de çeşitli aktivite olanakları sunuyor. Bu tepe, aynı zamanda bölgenin coğrafi ve ekolojik özelliklerini keşfetmek isteyenler için önemli bir nokta.
+Morgan Tepesi, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden birini sunuyor. Morgan Tepesi, ziyaretçilerine hem güzel manzaralar hem de çeşitli aktivite olanakları sunuyor. Bu tepe, aynı zamanda bölgenin coğrafi ve ekolojik özelliklerini keşfetmek isteyenler için önemli bir nokta.
 
 ## Tarihçe
 

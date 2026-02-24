@@ -28,7 +28,7 @@ wikidata_id: "Q32196300"
 
 # Zeytinli Hüyük
 
-Zeytinli Hüyük, yaklaşık 140 hektarlık bir alanı kaplayan ve Gaziantep'in tarihi ve doğal güzellikleri arasında önemli bir yer tutan bir höyüktür. Zeytinli Hüyük, Gaziantep'in merkezine yakındır ve ulaşım açısından oldukça kolaydır. Höyük, bölgenin coğrafi yapısını da yansıtan bir şekilde, etrafındaki diğer höyükler ve doğal oluşumlarla birlikte bir bütün olarak karşımıza çıkar.
+ Zeytinli Hüyük, Gaziantep'in merkezine yakındır ve ulaşım açısından oldukça kolaydır. Höyük, bölgenin coğrafi yapısını da yansıtan bir şekilde, etrafındaki diğer höyükler ve doğal oluşumlarla birlikte bir bütün olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zeytinli Hüyük'ün tarihi geçmişi, Gaziantep'in tarihine paralel olara ilerl
 
 ## Coğrafya
 
-Zeytinli Hüyük, Gaziantep'in coğrafi yapısını yansıtan bir höyüktür. Höyük, yaklaşık 140 hektarlık bir alanı kaplar ve etrafındaki diğer höyükler ve doğal oluşumlarla birlikte bir bütün olarak karşımıza çıkar. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Zeytinli Hüyük'ün coğrafi konumu, höyüğün etrafındaki diğer höyükler ve doğal oluşumlarla birlikte değerlendirildiğinde, ziyaretçilere zengin bir coğrafi deneyim sunar. Höyük, bölgenin iklimi ve coğrafi yapısından etkilenir ve bu etkileşim, höyüğün oluşumunda önemli bir rol oynar. Zeytinli Hüyük, Gaziantep'in coğrafi güzelliklerini yansıtan önemli bir noktadır.
+Zeytinli Hüyük, Gaziantep'in coğrafi yapısını yansıtan bir höyüktür. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Zeytinli Hüyük'ün coğrafi konumu, höyüğün etrafındaki diğer höyükler ve doğal oluşumlarla birlikte değerlendirildiğinde, ziyaretçilere zengin bir coğrafi deneyim sunar. Höyük, bölgenin iklimi ve coğrafi yapısından etkilenir ve bu etkileşim, höyüğün oluşumunda önemli bir rol oynar. Zeytinli Hüyük, Gaziantep'in coğrafi güzelliklerini yansıtan önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Zeytinli Hüyük'ü ziyaret etmek, Gaziantep'in tarihi ve doğal güzelliklerini
 
 - Zeytinli Hüyük, Gaziantep'in tarihi ve doğal güzellikleri arasında önemli bir yer tutar.
 - Höyüğün tarihi geçmişi, Gaziantep'in tarihine paralel olara ilerler.
-- Zeytinli Hüyük, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Höyüğün etrafındaki diğer höyükler ve doğal oluşumlar, höyüğün güzelliklerini zenginleştiren önemli faktörlerdir.
 - Zeytinli Hüyük, Gaziantep'in flora ve fauna güzelliklerini yansıtan önemli bir höyüktür.

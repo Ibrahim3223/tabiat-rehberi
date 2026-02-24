@@ -29,7 +29,7 @@ wikidata_id: "Q131391735"
 
 # Selahaddin Buhari Türbesi
 
-Selahaddin Buhari Türbesi, Marmara Bölgesi'nin güzide illerinden biri olan Bursa'nın Keles ilçesinde yer alır. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. 200 futbol sahası büyüklüğündeki bu alan, hem tarihi hem de doğa severler için gerçek bir keşif alanıdır. Selahaddin Buhari Türbesi, ziyaretçilerine hem dinlenme hem de bilgi edinme fırsatı sunar.
+Selahaddin Buhari Türbesi, Marmara Bölgesi'nin güzide illerinden biri olan Bursa'nın Keles ilçesinde yer alır. Selahaddin Buhari Türbesi, ziyaretçilerine hem dinlenme hem de bilgi edinme fırsatı sunar.
 
 ## Tarihçe
 

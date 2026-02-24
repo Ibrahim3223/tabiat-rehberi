@@ -29,7 +29,7 @@ wikidata_id: "Q31386810"
 
 # Astepe
 
-Astepe, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Siirt ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Astepe, eşsiz manzarası ve zengin flora ve faunasıyla ziyaretçilerini beklemektedir. Bu tepe, aynı zamanda tarihi geçmişiyle de dikkat çekmektedir. Astepe, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin zenginliğini sunmaktadır.
+Astepe, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Astepe, eşsiz manzarası ve zengin flora ve faunasıyla ziyaretçilerini beklemektedir. Bu tepe, aynı zamanda tarihi geçmişiyle de dikkat çekmektedir. Astepe, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin zenginliğini sunmaktadır.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Astepe, zengin bir flora ve faunaya sahiptir. Bu tepe, çeşitli bitki türleri 
 Astepe, ziyaretçilerine birçok olanak sunmaktadır. Bu tepe, ziyaretçilerine doğal güzelliklerini, tarihi geçmişi ve coğrafi çeşitliliğini sunmaktadır. Astepe, aynı zamanda birçok etkinliğe de ev sahipliği yapmaktadır. Bu tepe, ziyaretçilerine çeşitli aktiviteleri ve gezileriyle dikkat çekmektedir. Astepe, ziyaretçilerine keyifli ve unutulmaz bir deneyim sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Astepe, 140 hektarlık bir alanı kaplamaktadır.
 
 - Astepe, zengin bir flora ve faunaya sahiptir.
 - Astepe, birçok endemik türe ev sahipliği yapmaktadır.

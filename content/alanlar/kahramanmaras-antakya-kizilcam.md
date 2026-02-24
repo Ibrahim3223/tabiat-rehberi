@@ -42,7 +42,6 @@ Kahramanmaras-Antakya Kızılçam milli parkı, çeşitli bitki türleri ve zeng
 
 ## İlginç Bilgiler
 
-- Kahramanmaras-Antakya Kızılçam milli parkı, 140 hektarlık bir alanı kaplamaktadır.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Kahramanmaras-Antakya Kızılçam milli parkı, yaban hayatı koruma ve doğayı korumak amacıyla kurulmuştur.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal iklimdir.

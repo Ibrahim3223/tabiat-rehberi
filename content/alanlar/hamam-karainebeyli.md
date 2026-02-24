@@ -49,7 +49,6 @@ Hamam, Karainebeyli, ziyaretçilerine çeşitli olanaklar sunar. Plajda denize g
 
 ## İlginç Bilgiler
 
-- Hamam, Karainebeyli, 140 hektarlık bir alanı kaplar
 - Plajın etrafı, yeşilliklerle çevrilidir
 - Hamam, Karainebeyli, tarihi ve kültürel zenginliklere sahiptir
 - Plajda, çeşitli su sporları yapılabilir

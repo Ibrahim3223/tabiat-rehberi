@@ -50,7 +50,7 @@ Aigai Diaphenes Mezar Anıtı, ziyaretçilerini tarihin ve doğanın birleştiğ
 ## İlginç Bilgiler
 
 - Aigai Diaphenes Mezar Anıtı, Ege Bölgesi'nin en önemli tarihi hazinelerinden biri
-- Mezar anıtı, 140 hektarlık bir alanı kaplıyor
+
 - Burada, birçok hayvan türüne rastlama mümkün
 - Aigai Diaphenes Mezar Anıtı, tarihin derinliklerine inmek için ideal bir yer
 - Mezar anıtı, Ege Bölgesi'nin coğrafi güzelliğinin ortasında yer alıyor

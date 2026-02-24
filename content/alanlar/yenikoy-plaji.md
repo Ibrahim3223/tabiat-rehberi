@@ -49,7 +49,7 @@ Yeniköy Plajı, ziyaretçilere birçok aktivite ve hizmet sunmaktadır. Plaja u
 ## İlginç Bilgiler
 
 - Yeniköy Plajı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alana sahiptir.
+
 - Bölge, tarihi geçmişi ile dikkat çekmektedir.
 - Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Yeniköy Plajı, su sporları ve diğer su aktiviteleri için idealdir.

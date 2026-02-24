@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"Kastamonu-Samatlar-Dorukyayla Saricam","caption":"Kastamonu-Samatlar-Dorukyayla Saricam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Samatlar-Dorukyayla%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227699","tip":"genel"}]
-description: "Kastamonu ili sınırları içerisinde yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor"
+
 keywords: ["Kastamonu","milli park","doğa","yeşil alan","turizm","gezi","Kastamonu-Samatlar-Dorukyayla Saricam","Karadeniz Bölgesi","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227699"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227699"
 
 # Kastamonu-Samatlar-Dorukyayla Saricam
 
-Kastamonu ili sınırları içerisinde yer alan Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikasıdır. Milli park, Kastamonu city merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından oldukça kolaydır. Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda çeşitli aktivitelerin yapılmasına da olanak tanır.
+ Milli park, Kastamonu city merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından oldukça kolaydır. Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda çeşitli aktivitelerin yapılmasına da olanak tanır.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Kastamonu-Samatlar-Dorukyayla Saricam milli parkını ziyaret etmek isteyenler, 
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı bulunmaktadır
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
 - Milli park, Karadeniz Bölgesi'nin Kastamonu ilinde yer almaktadır
 - Milli park, çeşitli bitki türleri ile fauna çeşitliliği bakımından zengindir
 - Milli park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunar

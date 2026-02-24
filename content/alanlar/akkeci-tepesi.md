@@ -48,7 +48,6 @@ Akkeçi Tepesi'ni ziyaret etmek, yılın her mevsiminde mümkündür. Ancak, en 
 
 ## İlginç Bilgiler
 
-- Akkeçi Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin yüksekliği, geniş bir manzara sunuyor.
 - Bu bölgede, mevsimsel değişimlere uygun olarak, farklı bitki türleri görülebiliyor.
 - Akkeçi Tepesi, yaban hayatı açısından önemli bir nokta.

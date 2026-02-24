@@ -37,7 +37,7 @@ Taşköprüzade Hayrettin Halil Bin Kasım Türbesi, yüzyıllar boyunca önemli
 
 ## Coğrafya
 
-Taşköprüzade Hayrettin Halil Bin Kasım Türbesi, Karadeniz Bölgesi'nin Kastamonu ilinin Küre ilçesinde yer alıyor. Bu bölge, zengin flora ve fauna çeşitliliğine sahip bir coğrafyada bulunuyor. Türbenin etrafı, çeşitli ağaç türleri ve bitki örtüsünün oluşturduğu yeşil bir alan ile çevrili. Coğrafi konumu itibarıyla, Karadeniz'in nemli ikliminin etkisi altında kalan bu bölge, yıl boyunca ılıman bir hava koşuluna sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana yayılmış durumda ve bu alan, ziyaretçilere geniş bir yürüyüş ve gezi imkanı sunuyor. Çevre, tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleri ile de dikkat çekiyor.
+Taşköprüzade Hayrettin Halil Bin Kasım Türbesi, Karadeniz Bölgesi'nin Kastamonu ilinin Küre ilçesinde yer alıyor. Bu bölge, zengin flora ve fauna çeşitliliğine sahip bir coğrafyada bulunuyor. Türbenin etrafı, çeşitli ağaç türleri ve bitki örtüsünün oluşturduğu yeşil bir alan ile çevrili. Coğrafi konumu itibarıyla, Karadeniz'in nemli ikliminin etkisi altında kalan bu bölge, yıl boyunca ılıman bir hava koşuluna sahip. Çevre, tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleri ile de dikkat çekiyor.
 
 ## Flora ve Fauna
 

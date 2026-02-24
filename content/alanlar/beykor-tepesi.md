@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Fotoğraf çekme","Tarih gezisi","Doğa yürüyüş
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/South_room%2C_second_floor._View_looking_west._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-18.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Beykor Tepesi","caption":"Beykor Tepesi","credit":"South room, second floor. View looking west. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-18","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beykor%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387418","tip":"genel"}]
-description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği nokta, 140 hektarlık yeşil alan"
+
 keywords: ["Beykor Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","Doğa","Tarih","Gezi","Turizm","Kültür","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387418"
@@ -28,7 +28,7 @@ wikidata_id: "Q31387418"
 
 # Beykor Tepesi
 
-Beykor Tepesi, Diyarbakır'ın kalbinde yer alan, yaklaşık 140 hektarlık yeşil alan, şehrin kalabalığından kaçış noktası. 200 futbol sahası büyüklüğünde olan bu tepe, şehre hakim bir konumda bulunuyor. Burada, şehrin tarihi ve doğal güzellikleri bir arada bulunuyor. Bu tepe, Diyarbakır'ın önemli bir turizm merkezi olarak kabul ediliyor. Şehrin merkezinde yer alması ve ulaşımının kolay olması, burayı ziyaretçilerin tercih ettiği bir nokta haline getiriyor.
+ Burada, şehrin tarihi ve doğal güzellikleri bir arada bulunuyor. Bu tepe, Diyarbakır'ın önemli bir turizm merkezi olarak kabul ediliyor. Şehrin merkezinde yer alması ve ulaşımının kolay olması, burayı ziyaretçilerin tercih ettiği bir nokta haline getiriyor.
 
 ## Tarihçe
 

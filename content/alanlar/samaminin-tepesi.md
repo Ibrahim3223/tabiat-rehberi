@@ -28,7 +28,7 @@ wikidata_id: "Q31386676"
 
 # Samaminin Tepesi
 
-Samaminin Tepesi, Diyarbakır'ın merkezi bir noktasında yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Samaminin Tepesi, aynı zamanda şehrin panoramik manzarasını sunan bir gözlem noktası olarak da bilinir. Burada, şehrin tarihi yapılarını ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, özellikle gün batımında ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
+Samaminin Tepesi, Diyarbakır'ın merkezi bir noktasında yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir tepe. Samaminin Tepesi, aynı zamanda şehrin panoramik manzarasını sunan bir gözlem noktası olarak da bilinir. Burada, şehrin tarihi yapılarını ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, özellikle gün batımında ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
 
 ## Tarihçe
 

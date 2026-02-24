@@ -37,7 +37,7 @@ wikidata_id: "Q131738612"
 
 ## Coğrafya
 
-Çorlulu Ali Paşa Hamamı, İstanbul'un Beyoğlu ilçesinde yer alıyor. Bu hamam, şehir merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Hamamın çevresi, tarihi binalar ve önemli turistik noktalarla çevrili. İstanbul'un Marmara Denizi'ne bakan bu bölgesi, coğrafi olarak önemli bir konumda. Bu bölgede, çeşitli iklim özellikleri görülüyor ve hamamın bulunduğu alan, şehrin diğer bölgelerine göre daha serin ve nemli. Çorlulu Ali Paşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, şehrin diğer hamamlarına göre oldukça geniş. Bu hamam, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapı olarak kabul ediliyor.
+Çorlulu Ali Paşa Hamamı, İstanbul'un Beyoğlu ilçesinde yer alıyor. Bu hamam, şehir merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Hamamın çevresi, tarihi binalar ve önemli turistik noktalarla çevrili. İstanbul'un Marmara Denizi'ne bakan bu bölgesi, coğrafi olarak önemli bir konumda. Bu bölgede, çeşitli iklim özellikleri görülüyor ve hamamın bulunduğu alan, şehrin diğer bölgelerine göre daha serin ve nemli. Bu hamam, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapı olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131738612"
 ## İlginç Bilgiler
 
 - Çorlulu Ali Paşa Hamamı, İstanbul'un en önemli tarihi hamamlarından biri.
-- Bu hamam, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Hamamın çevresi, tarihi binalar ve önemli turistik noktalarla çevrili.
 - Bu hamam, flora ve fauna açısından zengin bir bölge.
 - Ziyaretçiler, hamamın tarihi ve kültürel öneminin yanı sıra, doğal güzelliklerini de keşfedebilir.

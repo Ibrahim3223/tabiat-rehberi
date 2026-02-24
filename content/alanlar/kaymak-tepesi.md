@@ -48,8 +48,6 @@ Kaymak Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyim olabilir. Tepeye ul
 
 ## İlginç Bilgiler
 
-- Kaymak Tepesi, 140 hektarlık bir alana sahiptir
-- Tepe, yaklaşık 200 futbol sahası büyüklüğündedir
 - Kaymak Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biridir
 - Tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmıştır
 - Kaymak Tepesi, ziyaretçilerini zengin bir doğa ve canlı çeşitliliği ile baş başa bırakmaktadır

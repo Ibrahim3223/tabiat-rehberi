@@ -50,7 +50,7 @@ Bursa'nın Osmangazi ilçesinde yer alan Çekirge Sultan Adak Hamamı, Marmara B
 ## İlginç Bilgiler
 
 - Çekirge Sultan Adak Hamamı, Marmara Bölgesi'nin önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alana sahip.
+
 - Çekirge Sultan Adak Hamamı, Osmanlı döneminde önemli bir merkez olarak kullanılmıştır.
 - Bu mekan, yüzyıllar boyunca çeşitli dönemlerde önemli bir role sahip olmuştur.
 - Çekirge Sultan Adak Hamamı, günümüze kadar ulaşan tarihi yapısı ile ziyaretçilerini geçmişe götürmeyi başarmaktadır.

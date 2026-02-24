@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Sille_Ak_Hamam_2025-07-07_1761319524.jpg","alt":"Ali Ağa Hamamı manzarası","credit":"Mkurtel","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739228","tip":"genel"}]
-description: "Karadeniz Ereğli'nin doğal güzellikleri arasında yer alan Ali Ağa Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Ali Ağa Hamamı","Karadeniz Ereğli","Zonguldak","Karadeniz Bölgesi","doğa harikası","yeşil alan","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739228"

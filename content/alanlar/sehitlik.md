@@ -23,7 +23,7 @@ wikidata_id: "Q108228351"
 
 # Şehitlik
 
-Şehitlik, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Şehitlik, ziyaretçilerine zengin bir flora ve fauna sunmaktadır. Burada, çeşitli bitki türleri ve yaban hayvanları ile karşılaşma mümkün. Milli park, aynı zamanda birçok doğa severin gezi noktalarından biri olarak dikkat çekmekte.
+ Şehitlik, ziyaretçilerine zengin bir flora ve fauna sunmaktadır. Burada, çeşitli bitki türleri ve yaban hayvanları ile karşılaşma mümkün. Milli park, aynı zamanda birçok doğa severin gezi noktalarından biri olarak dikkat çekmekte.
 
 ## Tarihçe
 
@@ -43,8 +43,6 @@ wikidata_id: "Q108228351"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kapsar
-- yaklaşık 200 futbol sahası büyüklüğünde
 - zengin bir flora ve fauna sunar
 - çoğu otsu bitkiler ve ağaçlar bulunur
 - birçok farklı coğrafi oluşum sunar

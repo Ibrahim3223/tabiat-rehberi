@@ -51,7 +51,7 @@ Daday Hamamı, yıl boyunca ziyaret edilebilecek bir plajdır. Ancak, en iyi ziy
 ## İlginç Bilgiler
 
 - Daday Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir
-- Bu plaj, 140 hektarlık bir alana yayılmaktadır
+
 - Daday Hamamı, Kastamonu'nun Daday ilçesinde yer almaktadır
 - Bu plaj, yıl boyunca ziyaret edilebilecek bir alandır
 - Daday Hamamı, doğa severler ve tatil yapmak isteyenler için ideal bir yerdir

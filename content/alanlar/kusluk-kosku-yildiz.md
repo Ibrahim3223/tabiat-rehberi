@@ -37,7 +37,7 @@ Kuşluk Köşkü, Yıldız, tarihsel olarak önemli bir geçmişe sahiptir. Osma
 
 ## Coğrafya
 
-Kuşluk Köşkü, Yıldız, coğrafi açıdan da önemli bir konumda yer alır. Marmara Bölgesi'nin kalbinde bulunan bu köşkün, etrafındaki yeşil alanlar ve deniz manzarası, ziyaretçilere doğanın güzelliğini sunar. Köşkün bulunduğu arazi, 140 hektarlık bir alana yayılır ve ziyaretçilere geniş bir açık alan sağlar. Bu alan, çeşitli bitkiler ve ağaçlarla kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Köşkün bulunduğu yer, İstanbul'un merkezine yakınlığıyla da dikkat çeker ve ziyaretçilere şehrin kalbine ulaşma imkanı sağlar. Köşkün coğrafi konumu, aynı zamanda ziyaretçilere İstanbul'un tarihi ve kültürel zenginliğini keşfetme fırsatı sunar.
+Kuşluk Köşkü, Yıldız, coğrafi açıdan da önemli bir konumda yer alır. Marmara Bölgesi'nin kalbinde bulunan bu köşkün, etrafındaki yeşil alanlar ve deniz manzarası, ziyaretçilere doğanın güzelliğini sunar. Bu alan, çeşitli bitkiler ve ağaçlarla kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Köşkün bulunduğu yer, İstanbul'un merkezine yakınlığıyla da dikkat çeker ve ziyaretçilere şehrin kalbine ulaşma imkanı sağlar. Köşkün coğrafi konumu, aynı zamanda ziyaretçilere İstanbul'un tarihi ve kültürel zenginliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Kuşluk Köşkü, Yıldız, ziyaretçilere çeşitli gezi seçenekleri sunar. K�
 - Kuşluk Köşkü, Yıldız, tarihsel olarak önemli bir geçmişe sahiptir
 - Köşkün mimarisi, Osmanlı döneminden kalma tarihi yapıların özelliklerini taşır
 - Köşkün etrafındaki yeşil alanlar, ziyaretçilere doğayla iç içe bir deneyim sunar
-- Köşkün bulunduğu arazi, 140 hektarlık bir alana yayılır
+
 - Köşkün coğrafi konumu, İstanbul'un merkezine yakınlığıyla da dikkat çeker

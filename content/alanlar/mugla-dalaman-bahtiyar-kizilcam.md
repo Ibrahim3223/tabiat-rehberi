@@ -42,7 +42,6 @@ Mugla-Dalaman-Bahtiyar Kızılçam milli parkını ziyaret etmek, doğal güzell
 
 ## İlginç Bilgiler
 
-- Mugla-Dalaman-Bahtiyar Kızılçam milli parkı, 140 hektarlık bir alana yayılmış.
 - Milli parkın fauna ve florası, mevsimsel değişimlere göre değişiyor.
 - Ziyaretçiler, bu bölgede, yürüyüş yapabilir, doğa fotoğrafçılığı yapabilir ve aynı zamanda, bu bölgenin ekolojik yapısını da öğrenebilecekler.
 - Milli parkın tarihi geçmişi, yüzyıllar öncesine dayanıyor.

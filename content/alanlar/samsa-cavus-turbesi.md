@@ -37,7 +37,7 @@ Samsa Çavuş Türbesi'nin tarihi geçmişi, bölgeye yapılan yerleşimlerle ba
 
 ## Coğrafya
 
-Samsa Çavuş Türbesi, İnegöl'de bulunan ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bir mekan. Bu bölge, genellikle karasal iklimin hakim olduğu bir yer. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Coğrafi olarak, Samsa Çavuş Türbesi'nin çevresi ormanlık alanlar ve tarlalarla kaplı. Bu doğal güzellikler, ziyaretçilere geniş ve yeşil bir alan sunuyor. Ayrıca, mekanın yakınında çeşitli su kaynakları ve akarsular bulunmakta. Samsa Çavuş Türbesi, 140 hektarlık bir alanda yer alıyor ve bu genişlik, ziyaretçilere geniş bir açıklık sunuyor.
+Samsa Çavuş Türbesi, İnegöl'de bulunan ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bir mekan. Bu bölge, genellikle karasal iklimin hakim olduğu bir yer. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurak geçiyor. Coğrafi olarak, Samsa Çavuş Türbesi'nin çevresi ormanlık alanlar ve tarlalarla kaplı. Bu doğal güzellikler, ziyaretçilere geniş ve yeşil bir alan sunuyor. Ayrıca, mekanın yakınında çeşitli su kaynakları ve akarsular bulunmakta.
 
 ## Flora ve Fauna
 

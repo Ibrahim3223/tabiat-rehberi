@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Piknik","Doğa gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Bahal Vadisi Sit Alanı","caption":"Bahal Vadisi Sit Alanı","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahal%20Vadisi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226506","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, Bahal Vadisi Sit Alanı, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Bahal Vadisi","Sit Alanı","İç Anadolu Bölgesi","Doğa","Gezi","Türkiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226506"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226506"
 
 # Bahal Vadisi Sit Alanı
 
-Bahal Vadisi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış, doğa severlerin ve gezi tutkunlarının yeni keşif noktası. Bahal Vadisi, doğa yürüyüşlerinden, fotoğrafçılığa, piknikten, doğaına kadar çeşitli aktiviteler sunuyor ve ziyaretçilerine, şehrin gürültüsünden uzak, sakin bir atmosfer sunuyor.
+ Bahal Vadisi, doğa yürüyüşlerinden, fotoğrafçılığa, piknikten, doğaına kadar çeşitli aktiviteler sunuyor ve ziyaretçilerine, şehrin gürültüsünden uzak, sakin bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Bahal Vadisi Sit Alanı, zengin bir flora ve fauna çeşitliliğine sahip. Vadid
 Bahal Vadisi Sit Alanı, ziyaretçilerine, çeşitli aktivite olanakları sunuyor. Doğa yürüyüşleri, fotoğrafçılık, pikni ve doğa gözlemi, başlıca aktiviteler arasında yer alıyor. Bahal Vadisi'ne, her mevsim ziyaret edilebilir, ancak ilkbahar ve sonbahar, en uygun ziyaret zamanları. Ziyaretçilerin, vadiye gelirken, uygun giysi ve malzemelerle gelmeleri öneriliyor. Bahal Vadisi, ziyaretçilerine, unutulmaz bir deneyim vaat ediyor ve doğa severlerin, yeni favori destinasyonu olmaya aday.
 
 ## İlginç Bilgiler
-
-- Bahal Vadisi, 140 hektarlık geniş bir alana yayılmış.
 
 - Bahal Vadisi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Vadi, mevsimsel değişimlerle, farklı bir güzelliğe bürünüyor.

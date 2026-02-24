@@ -50,7 +50,7 @@ Limyra Roma Hamamı, ziyaretçilerine birçok olanak sunar. Bu alan, kolay bir u
 ## İlginç Bilgiler
 
 - Limyra Roma Hamamı, Finike/Antalya'da yer alan bir alandır
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Limyra Roma Hamamı, Roma Dönemi'nde inşa edilmiştir
 - Bu alan, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında kalmıştır
 - Limyra Roma Hamamı, önemli bir arkeolojik çalışma alanı olarak bilinmektedir

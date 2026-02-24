@@ -30,7 +30,7 @@ wikidata_id: "Q15818405"
 
 # Yakutiye Medresesi
 
-Yakutiye Medresesi, Doğu Anadolu Bölgesi'nin önemli kültürel ve tarihi merkezlerinden biri olarak dikkat çekiyor. Yakutiye ilçesinde bulunan bu tarihi yapı, yaklaşık 140 hektarlık bir alanda yer alıyor. Medrese, tarihi ve mimari açıdan önemli bir yapı olarak karşımıza çıkarken, aynı zamanda bölgeye gelen ziyaretçiler için de önemli bir gezi noktası olarak biliniyor.
+Yakutiye Medresesi, Doğu Anadolu Bölgesi'nin önemli kültürel ve tarihi merkezlerinden biri olarak dikkat çekiyor. Medrese, tarihi ve mimari açıdan önemli bir yapı olarak karşımıza çıkarken, aynı zamanda bölgeye gelen ziyaretçiler için de önemli bir gezi noktası olarak biliniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yakutiye Medresesi'nin tarihi geçmişi, bölgeye ait önemli bir kültürel mir
 
 ## Coğrafya
 
-Yakutiye Medresesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesinde yer alıyor. Medrese, Yakutiye ilçesinde bulunmakta ve yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, bölgeye ait doğal güzellikleri ve tarihi yapıları bir araya getiren önemli bir gezi noktası olarak biliniyor. Medrese, coğrafi olarak önemli bir konuma sahipken, aynı zamanda bölgeye ait iklim ve çevre koşullarını da yansıtıyor. Doğu Anadolu Bölgesi'nin karasal iklim koşullarına sahip olan medrese, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor. Medrese ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunarken, aynı zamanda bölgeye ait kültürel ve tarihi zenginliklerini de keşfetme fırsatı veriyor.
+Yakutiye Medresesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesinde yer alıyor. Bu alan, bölgeye ait doğal güzellikleri ve tarihi yapıları bir araya getiren önemli bir gezi noktası olarak biliniyor. Medrese, coğrafi olarak önemli bir konuma sahipken, aynı zamanda bölgeye ait iklim ve çevre koşullarını da yansıtıyor. Doğu Anadolu Bölgesi'nin karasal iklim koşullarına sahip olan medrese, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor. Medrese ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunarken, aynı zamanda bölgeye ait kültürel ve tarihi zenginliklerini de keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Yakutiye Medresesi'ni ziyaret etmek, bölgeye ait tarihi ve kültürel zenginlik
 ## İlginç Bilgiler
 
 - Yakutiye Medresesi, Selçuklu Dönemi'nde inşa edilmiş
-- Medrese, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Medrese, coğrafi olarak önemli bir konuma sahip
 - Medrese ve çevresindeki alan, çeşitli bitki türleri ve canlılara ev sahipliği yapıyor
 - Medrese, yıl boyunca ziyaret edilebilir

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Kestane Tepesi","caption":"Kestane Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestane%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539553","tip":"genel"}]
-description: "Siirt'te bulunan Kestane Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Kestane Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31539553"
@@ -28,7 +28,7 @@ wikidata_id: "Q31539553"
 
 # Kestane Tepesi
 
-Kestane Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan 140 hektarlık bir yeşil alandır. Kestane Tepesi, coğrafi konumu itibarıyla bölgenin en önemli doğal güzelliklerinden birisidir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgeye özgü olmasının yanı sıra, bazıları da endemik türlerdir. Kestane Tepesi, aynı zamanda zengin fauna yapısıyla da dikkat çeker. Burada, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Bu nedenle, Kestane Tepesi hem doğa severler hem de hayvanseverler için önemli bir destinasyondur.
+ Kestane Tepesi, coğrafi konumu itibarıyla bölgenin en önemli doğal güzelliklerinden birisidir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgeye özgü olmasının yanı sıra, bazıları da endemik türlerdir. Kestane Tepesi, aynı zamanda zengin fauna yapısıyla da dikkat çeker. Burada, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Bu nedenle, Kestane Tepesi hem doğa severler hem de hayvanseverler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kestane Tepesi'ni ziyaret etmek, doğa severler ve hayvanseverler için önemli 
 
 ## İlginç Bilgiler
 
-- Kestane Tepesi, 140 hektarlık bir yeşil alandır.
 - Tepenin etrafında, çeşitli bitki türleri bulunur.
 - Kestane Tepesi, fauna bakımından da zengindir.
 - Tepede, özellikle kestane ağaçları dikkat çeker.

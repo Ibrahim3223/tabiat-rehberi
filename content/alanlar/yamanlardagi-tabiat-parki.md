@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Yamanlardagi.jpg","alt":"Yamanlardağı Tabiat Parkı manzarası","credit":"squieler","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/47/Yamanlartabiatparki2020.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Yamanlartabiatparki2020.jpg/1280px-Yamanlartabiatparki2020.jpg","alt":"Yamanlardağı Tabiat Parkı - Yamanlartabiatparki2020","credit":"Ayawrom","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d3/A_pair_of_Testudo_graeca_mating.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A_pair_of_Testudo_graeca_mating.jpg/1280px-A_pair_of_Testudo_graeca_mating.jpg","alt":"Yamanlardağı Tabiat Parkı - A pair of Testudo graeca mating","credit":"Maurice Flesier","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a0/A_Spartium_junceum_in_%C4%B0zmir.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/A_Spartium_junceum_in_%C4%B0zmir.jpg/1280px-A_Spartium_junceum_in_%C4%B0zmir.jpg","alt":"Yamanlardağı Tabiat Parkı - A Spartium junceum in İzmir","credit":"Maurice Flesier","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Spartium_junceum_in_%C4%B0zmir.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spartium_junceum_in_%C4%B0zmir.jpg/1280px-Spartium_junceum_in_%C4%B0zmir.jpg","alt":"Yamanlardağı Tabiat Parkı - Spartium junceum in İzmir","credit":"Maurice Flesier","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/18/Spartium_junceum_in_Yamanlarda%C4%9F%C4%B1_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Spartium_junceum_in_Yamanlarda%C4%9F%C4%B1_Nature_Park.jpg/1280px-Spartium_junceum_in_Yamanlarda%C4%9F%C4%B1_Nature_Park.jpg","alt":"Yamanlardağı Tabiat Parkı - Spartium junceum in Yamanlardağı Nature Park","credit":"Maurice Flesier","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yamanlarda%C4%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228266","tip":"genel"}]
-description: "İzmir'in Karşıyaka ilçesinde yer alan Yamanlardağı Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Yamanldağı","Tabiat Parkı","İzmir","Karşıyaka","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228266"
@@ -38,7 +38,7 @@ Yamanldağı Tabiat Parkı, tarihi geçmişiyle dikkat çekiyor. Bu bölgenin y�
 
 ## Coğrafya
 
-Yamanldağı Tabiat Parkı, İzmir'in Karşıyaka ilçesinde, Ege Bölgesi'nin güzel coğrafyası içinde yer alıyor. Park, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak, ziyaretçilerine doğayla iç içe bir ortam sunuyor. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar yaşamlarını sürdürüyor. Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, serin kışlar ve sıcak yazlarla karakterize ediliyor. Çevre, doğanın güzelliği ile dolu bir şekilde, ziyaretçilere huzurlu anlar vaat ediyor. Yamanldağı Tabiat Parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir coğrafi konumda yer alıyor.
+Yamanldağı Tabiat Parkı, İzmir'in Karşıyaka ilçesinde, Ege Bölgesi'nin güzel coğrafyası içinde yer alıyor. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar yaşamlarını sürdürüyor. Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, serin kışlar ve sıcak yazlarla karakterize ediliyor. Çevre, doğanın güzelliği ile dolu bir şekilde, ziyaretçilere huzurlu anlar vaat ediyor. Yamanldağı Tabiat Parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir coğrafi konumda yer alıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Yamanldağı Tabiat Parkı, ziyaretçilerine çeşitli etkinlikler sunuyor. Park
 
 ## İlginç Bilgiler
 
-- Yamanldağı Tabiat Parkı, 140 hektarlık bir yeşil alanı kaplıyor.
 - Parkta, çeşitli bitki türleri ve zengin fauna yer alıyor.
 - Yamanldağı Tabiat Parkı, İzmir'in Karşıyaka ilçesinde yer alıyor.
 - Parkın içinde, yürüyüş yolları, piknik alanları ve dinlenme noktaları yer alıyor.

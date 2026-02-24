@@ -29,7 +29,7 @@ wikidata_id: "Q131390663"
 
 # Şirvanlı Baba Türbesi
 
-Amasya'nın tarihi ve doğal güzellikleri arasında öne çıkan Şirvanlı Baba Türbesi, Karadeniz Bölgesi'nde yer alan önemli bir ziyaret noktasıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor ve ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Şirvanlı Baba Türbesi, Amasya'nın merkezine yakın bir konumda bulunmakta ve ulaşım açısından kolaylık sağlamaktadır. Türbenin etrafındaki peyzaj, ziyaretçilere hem dinlenme hem de doğayı seyir etme fırsatı sunuyor.
+Amasya'nın tarihi ve doğal güzellikleri arasında öne çıkan Şirvanlı Baba Türbesi, Karadeniz Bölgesi'nde yer alan önemli bir ziyaret noktasıdır. Şirvanlı Baba Türbesi, Amasya'nın merkezine yakın bir konumda bulunmakta ve ulaşım açısından kolaylık sağlamaktadır. Türbenin etrafındaki peyzaj, ziyaretçilere hem dinlenme hem de doğayı seyir etme fırsatı sunuyor.
 
 ## Tarihçe
 

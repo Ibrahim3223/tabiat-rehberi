@@ -31,7 +31,7 @@ KAHRAMANLAR milli parkı, yüzyıllar boyunca insanların yaşadığı ve doğay
 
 ## Coğrafya
 
-KAHRAMANLAR milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birinde yer alıyor. Parkın coğrafi konumu, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Parkın coğrafi yapısı, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın yüksekliği, yüksek bir konumda, bu da parkın havasının temiz ve ferah olmasını sağlıyor.
+KAHRAMANLAR milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birinde yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Parkın coğrafi yapısı, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın yüksekliği, yüksek bir konumda, bu da parkın havasının temiz ve ferah olmasını sağlıyor.
 
 ## Flora ve Fauna
 

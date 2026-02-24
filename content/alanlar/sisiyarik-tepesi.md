@@ -20,7 +20,7 @@ aktiviteler: ["fotoğraf çekmek","doğa yürüyüşü","bitki gözlemi","hayvan
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Sisiyarık Tepesi","caption":"Sisiyarık Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sisiyar%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545464","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliği Sisiyarık Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Sisiyarık Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31545464"
@@ -36,7 +36,7 @@ Sisiyarık Tepesi'nin tarihi geçmişi, bölgenin genel tarih paralel olarak şe
 
 ## Coğrafya
 
-Sisiyarık Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin yüksekliği, bölgenin genel yüksekliğine göre farklılık gösterir ve bu, tepeye farklı bir atmosfer kazandırır. Sisiyarık Tepesi, eteklerinde akan nehirler ve çevresindeki vadilerle birlikte, bir doğa harikası olarak görünür. İklim, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer. Bu iklim özelliği, tepeye çıkan ziyaretçilerin, mevsime uygun şekilde hazırlanmalarını gerektirir. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunar.
+Sisiyarık Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Tepenin yüksekliği, bölgenin genel yüksekliğine göre farklılık gösterir ve bu, tepeye farklı bir atmosfer kazandırır. Sisiyarık Tepesi, eteklerinde akan nehirler ve çevresindeki vadilerle birlikte, bir doğa harikası olarak görünür. İklim, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer. Bu iklim özelliği, tepeye çıkan ziyaretçilerin, mevsime uygun şekilde hazırlanmalarını gerektirir. Tepenin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Sisiyarık Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf meraklıları i�
 
 - Sisiyarık Tepesi, bölgenin en önemli doğal güzelliklerinden biridir
 - Tepenin adı, yerel dilde 'sisli tepe' anlamına gelir
-- Sisiyarık Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur
 - Sisiyarık Tepesi, bölgenin önemli bir turizm merkezi haline gelmesi için potansiyeli yüksek bir destinasyondur

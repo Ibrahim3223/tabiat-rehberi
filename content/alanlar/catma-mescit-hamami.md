@@ -29,7 +29,7 @@ wikidata_id: "Q135429073"
 
 # Çatma Mescit Hamamı
 
-Çatma Mescit Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran Beyoğlu'nda yer alıyor. Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu tarihi hamam, İstanbul'un tarihine ve kültürüne ışık tutan önemli bir mekan olarak kabul ediliyor. Çatma Mescit Hamamı, hem yerel halk hem de turistler tarafından ziyaret ediliyor ve tarihi önemini koruyor.
+Çatma Mescit Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran Beyoğlu'nda yer alıyor. Bu tarihi hamam, İstanbul'un tarihine ve kültürüne ışık tutan önemli bir mekan olarak kabul ediliyor. Çatma Mescit Hamamı, hem yerel halk hem de turistler tarafından ziyaret ediliyor ve tarihi önemini koruyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q135429073"
 
 ## Coğrafya
 
-Çatma Mescit Hamamı, Marmara Bölgesi'nde bulunan Beyoğlu'nda yer alıyor. Bu bölge, İstanbul'un tarihi ve turistik merkezlerinden biri olarak kabul ediliyor. Hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur ve çevresi tarihi yapılarla dolu. Çatma Mescit Hamamı'nın coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Hamamın çevresi, tarihi binalar, camiler ve diğer turistik mekanlarla dolu. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakim. Çatma Mescit Hamamı, bu coğrafi konumda, ziyaretçilere tarihi ve kültürel bir deneyimi sunuyor.
+Çatma Mescit Hamamı, Marmara Bölgesi'nde bulunan Beyoğlu'nda yer alıyor. Bu bölge, İstanbul'un tarihi ve turistik merkezlerinden biri olarak kabul ediliyor. Çatma Mescit Hamamı'nın coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Hamamın çevresi, tarihi binalar, camiler ve diğer turistik mekanlarla dolu. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakim. Çatma Mescit Hamamı, bu coğrafi konumda, ziyaretçilere tarihi ve kültürel bir deneyimi sunuyor.
 
 ## Flora ve Fauna
 

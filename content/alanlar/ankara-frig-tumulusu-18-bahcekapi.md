@@ -50,7 +50,7 @@ Ankara Frig Tümülüsü 18, Bahçekapı, ziyaretçilerine çeşitli olanaklar s
 ## İlginç Bilgiler
 
 - Ankara Frig Tümülüsü 18, Bahçekapı, Frig Uygarlığı'nın önemli merkezlerinden biridir.
-- Bölge, 140 hektarlık bir alana yayılmıştır.
+
 - Frig Uygarlığı, M.Ö. 8. yüzyılda bölgede hüküm sürmüştür.
 - Bölge, doğal güzellikleriyle dikkat çekmektedir.
 - Ziyaretçiler, bölgenin tarihi ve doğal güzelliklerini keşfedebilirler.

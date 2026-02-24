@@ -29,7 +29,7 @@ wikidata_id: "Q31507708"
 
 # Şam Tepesi
 
-Konya'nın tarihi ve doğal güzelliklerinin birleştiği nokta olan Şam Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. Şam Tepesi, Konya'nın en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Tepenin panoramik manzarası, ziyaretçilerin şehri ve çevresini keşfetmesine olanak tanır. Şam Tepesi, aynı zamanda doğa severler için de bir cennet olarak kabul edilir, çünkü burada çeşitli bitki türleri ve hayvanlar bulunur.
+ Şam Tepesi, Konya'nın en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Tepenin panoramik manzarası, ziyaretçilerin şehri ve çevresini keşfetmesine olanak tanır. Şam Tepesi, aynı zamanda doğa severler için de bir cennet olarak kabul edilir, çünkü burada çeşitli bitki türleri ve hayvanlar bulunur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Konya'nın tarihi ve doğal güzelliklerinin birleştiği nokta olan Şam Tepesi
 
 ## Coğrafya
 
-Şam Tepesi, Konya'nın coğrafi olarak zengin bir bölgesinde yer alır. Tepenin konumu, şehrin merkezi bir noktasında olup, ziyaretçilerin kolayca ulaşabileceği bir yerdedir. Şam Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ve hayvanlar tarafından mesken edinilir. Tepenin coğrafi yapısı, ziyaretçilerin şehri ve çevresini keşfetmesine olanak tanır. Şam Tepesi, aynı zamanda şehrin iklimini de etkiler, çünkü tepenin yüksekliği, şehrin sıcaklık ve nem oranlarını etkileyebilir. Şam Tepesi'nin coğrafi konumu, ziyaretçilerin şehri daha iyi anlamalarına yardımcı olur ve şehrin doğal güzelliklerini keşfetmelerine olanak tanır.
+Şam Tepesi, Konya'nın coğrafi olarak zengin bir bölgesinde yer alır. Tepenin konumu, şehrin merkezi bir noktasında olup, ziyaretçilerin kolayca ulaşabileceği bir yerdedir. Tepenin coğrafi yapısı, ziyaretçilerin şehri ve çevresini keşfetmesine olanak tanır. Şam Tepesi, aynı zamanda şehrin iklimini de etkiler, çünkü tepenin yüksekliği, şehrin sıcaklık ve nem oranlarını etkileyebilir. Şam Tepesi'nin coğrafi konumu, ziyaretçilerin şehri daha iyi anlamalarına yardımcı olur ve şehrin doğal güzelliklerini keşfetmelerine olanak tanır.
 
 ## Flora ve Fauna
 

@@ -50,8 +50,6 @@ wikidata_id: "Q131391327"
 
 ## İlginç Bilgiler
 
-- Şeyh Hasan Türbesi, 140 hektarlık bir alanı kapsiyor
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor
 - Şeyh Hasan Türbesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biri
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Şeyh Hasan Türbesi, hem dini hem de turistik bir merkez olarak hizmet vermeye devam ediyor

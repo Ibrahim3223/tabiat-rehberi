@@ -43,7 +43,6 @@ Uşak'ı ziyaret etmek, özellikle doğa severler ve tarih meraklıları için u
 
 ## İlginç Bilgiler
 
-- Uşak, yaklaşık 140 hektarlık bir alana yayılıyor.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar bulunmakta.
 - Uşak, tarihi geçmişi ve coğrafi güzellikleriyle dikkat çekiyor.
 - Bahar ve sonbahar ayları, Uşak'ı ziyaret etmek için en uygun zamanlar.

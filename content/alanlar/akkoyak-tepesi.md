@@ -49,7 +49,7 @@ Akkoyak Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim sunu
 ## İlginç Bilgiler
 
 - Akkoyak Tepesi, bölgenin en önemli doğal güzelliklerinden biridir
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Akkoyak Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir
 - Tepenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor
 - Akkoyak Tepesi, bölgenin biyolojik zenginliğini gösteriyor

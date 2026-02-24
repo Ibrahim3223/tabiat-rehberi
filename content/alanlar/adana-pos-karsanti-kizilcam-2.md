@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık"," piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Adana-Pos-Karsanti Kızılçam 2","caption":"Adana-Pos-Karsanti Kızılçam 2","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Karsanti%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227408","tip":"genel"}]
-description: "Adana'nın yeşilliğiyle çevrili milli parkı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Adana","milli park","Karsanti","Kızılçam","yeşillik","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227408"
@@ -30,11 +30,11 @@ Adana-Pos-Karsanti Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Adana-Pos-Karsanti Kızılçam 2 milli parkı, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Parkın 140 hektarlık alanı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin iklimine uygun bir şekilde gelişmiştir. Parkın coğrafi yapısı, ziyaretçilere hem yürüyüş hem de doğa gözlemi için uygun bir ortam sağlar. Parkın etrafı, yeşillikler ve doğal yaşam alanlarıyla çevrilidir ve bu, ziyaretçilere geniş bir görüş açısı sunar. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşır ve bu da parkın flora ve faunasına özel bir karakter kazandırır. Parkın coğrafi konumu, ziyaretçilerin hem güzelliğini keşfetmelerini hem de bölgenin tarihini öğrenmelerini sağlar.
+Adana-Pos-Karsanti Kızılçam 2 milli parkı, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Parkın coğrafi yapısı, ziyaretçilere hem yürüyüş hem de doğa gözlemi için uygun bir ortam sağlar. Parkın etrafı, yeşillikler ve doğal yaşam alanlarıyla çevrilidir ve bu, ziyaretçilere geniş bir görüş açısı sunar. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşır ve bu da parkın flora ve faunasına özel bir karakter kazandırır. Parkın coğrafi konumu, ziyaretçilerin hem güzelliğini keşfetmelerini hem de bölgenin tarihini öğrenmelerini sağlar.
 
 ## Flora ve Fauna
 
-Adana-Pos-Karsanti Kızılçam 2 milli parkı, zengin bir flora ve faunaya sahiptir. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu, bölgenin ekolojik dengesini sağlar. Parkta, mevsimsel değişimlere uygun olarak farklı bitki türleri yetişir ve bu da parkın renk paletini zenginleştirir. Ayrıca, parkta çeşitli hayvan türleri de bulunur ve bu, ziyaretçilere doğanın güzelliğini gösterme fırsatı sunar. Parkın fauna ve florası, bölgenin doğal yaşamının önemli bir parçasını oluşturur ve ziyaretçilere doğayla iç içe bir deneyim sunar.
+Adana-Pos-Karsanti Kızılçam 2 milli parkı, zengin bir flora ve faunaya sahiptir. Parkta, mevsimsel değişimlere uygun olarak farklı bitki türleri yetişir ve bu da parkın renk paletini zenginleştirir. Ayrıca, parkta çeşitli hayvan türleri de bulunur ve bu, ziyaretçilere doğanın güzelliğini gösterme fırsatı sunar. Parkın fauna ve florası, bölgenin doğal yaşamının önemli bir parçasını oluşturur ve ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 

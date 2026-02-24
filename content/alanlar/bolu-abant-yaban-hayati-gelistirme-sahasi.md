@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Hayvan izleme","Bitki türleri incelemesi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Bolu_Abant_Park%C4%B1.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası manzarası","credit":"Barış Güngör TOSUN","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg/960px-Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası","caption":"Bolu Abant Yaban Hayatı Geliştirme Sahası","credit":"Bolu Abant Tabiat Parkı Havadan Görünüm Sonbahar - Türkiye","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Bolu_Abant_G%C3%B6l%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bolu_Abant_G%C3%B6l%C3%BC.jpg/1280px-Bolu_Abant_G%C3%B6l%C3%BC.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası - Bolu Abant Gölü","credit":"Barış Güngör TOSUN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Bolu_Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bolu_Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1.jpg/1280px-Bolu_Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası - Bolu Abant Gölü Tabiat Parkı","credit":"Fatihooz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Bolu_Abant_G%C3%B6l%C3%BC_Harika_Manzara.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bolu_Abant_G%C3%B6l%C3%BC_Harika_Manzara.jpg/1280px-Bolu_Abant_G%C3%B6l%C3%BC_Harika_Manzara.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası - Bolu Abant Gölü Harika Manzara","credit":"Fatihooz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/Bolu_-_Abant_Lake1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bolu_-_Abant_Lake1.jpg/1280px-Bolu_-_Abant_Lake1.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası - Bolu - Abant Lake1","credit":"Uweys90","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Bolu_-_Abant_Lake3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bolu_-_Abant_Lake3.jpg/1280px-Bolu_-_Abant_Lake3.jpg","alt":"Bolu Abant Yaban Hayatı Geliştirme Sahası - Bolu - Abant Lake3","credit":"Uweys90","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Abant%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227392","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Bolu Abant Yaban Hayatı Geliştirme Sahası, 140 hektarlık geniş alanı ile birçok canlıya ev sahipliği yapıyor."
+"
 keywords: ["Bolu Abant","Yaban Hayatı Geliştirme Sahası","İç Anadolu Bölgesi","Doğa","Yaban Hayatı","Çevre","Turizm","Seyahat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227392"
@@ -42,8 +42,6 @@ Bolu Abant Yaban Hayatı Geliştirme Sahası, zengin bir flora ve fauna ile dikk
 Bolu Abant Yaban Hayatı Geliştirme Sahası, ziyaretçilere birçok farklı aktivite sunuyor. Bu sahayı ziyaret etmek için, en iyi zaman, ilkbahar ve sonbahar ayları olarak düşünülebilir. Ziyaretçilerin, bu sahayı gezerken, doğa yürüyüşü yapmaları, hayvanları izlemeleri ve bitki türlerini incelemeleri möglich. Ziyaret süresi, yaklaşık 2-3 saat olarak düşünülebilir. Ancak, bu süre, ziyaretçilerin ilgi alanlarına göre değişebilir.
 
 ## İlginç Bilgiler
-
-- Bolu Abant Yaban Hayatı Geliştirme Sahası, 140 hektarlık geniş bir alanı kaplıyor.
 
 - Bolu Abant Yaban Hayatı Geliştirme Sahası, birçok farklı türde bitki ve hayvan yaşamına ev sahipliği yapıyor.
 - Bu saha, aynı zamanda bir doğa koruma alanı olarak da işlev görüyor.

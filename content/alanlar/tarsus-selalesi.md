@@ -51,7 +51,6 @@ Tarsus Şelalesi'ni ziyaret etmek, hem doğa ile iç içe vakit geçirmek hem de
 ## İlginç Bilgiler
 
 - Tarsus Şelalesi, Mersin'in en önemli turizm merkezlerinden biri.
-- Şelale, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş.
-- Tarsus Şelalesi, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor.
+
 - Şelalenin etrafında, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Tarsus Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor.

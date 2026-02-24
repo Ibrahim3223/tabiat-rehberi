@@ -37,7 +37,7 @@ Oturak Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olara ilerl
 
 ## Coğrafya
 
-Oturak Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki diğer tepe ve dağlarla birlikte büyük bir coğrafi yapı oluşturur. Tepenin yüksekliği, bölgenin ortalama yüksekliğinden daha fazla değildir, ancak çevresindeki diğer tepe ve dağlardan daha yüksek bir konumda yer alır. Bu coğrafi konum, buraya gelen ziyaretçilere geniş ve güzel bir manzara sunar. Oturak Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu iklim, buranın flora ve faunasını etkileyen önemli bir faktördür. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşar ve burası, doğa severler için bir cennet olarak kabul edilebilir.
+Oturak Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Tepenin yüksekliği, bölgenin ortalama yüksekliğinden daha fazla değildir, ancak çevresindeki diğer tepe ve dağlardan daha yüksek bir konumda yer alır. Bu coğrafi konum, buraya gelen ziyaretçilere geniş ve güzel bir manzara sunar. Oturak Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu iklim, buranın flora ve faunasını etkileyen önemli bir faktördür. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşar ve burası, doğa severler için bir cennet olarak kabul edilebilir.
 
 ## Flora ve Fauna
 

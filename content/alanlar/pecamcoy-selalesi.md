@@ -49,7 +49,7 @@ Peçamçoy Şelalesi, ziyaretçilere unutulmaz bir deneyim sunar. Ziyaretçiler,
 ## İlginç Bilgiler
 
 - Peçamçoy Şelalesi, Rize'nin en önemli doğal güzelliklerinden biridir.
-- Şelalenin etrafındaki orman, 140 hektarlık bir alana yayılır.
+
 - Şelalenin yüksekliği, 50 metreyi aşar.
 - Bölge, flora ve fauna açısından zengindir.
 - Peçamçoy Şelalesi, trekking ve doğa yürüyüşü için ideal bir yerdir.

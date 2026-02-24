@@ -22,7 +22,7 @@ wikidata_id: "Q108228402"
 
 # Antalya-Akseki-Ibradi-Menengic
 
-Antalya-Akseki-Ibradi-Menengic milli parkı, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor. Milli park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunan bir mekan. Burada, doğanın güzellikleri ve zengin fauna ile karşılaşma mümkün. Milli parkın konumu, Akdeniz Bölgesi'nde yer alan Antalya ilinde bulunuyor ve bu sayede ılıman bir iklime sahip.
+ Milli park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunan bir mekan. Burada, doğanın güzellikleri ve zengin fauna ile karşılaşma mümkün. Milli parkın konumu, Akdeniz Bölgesi'nde yer alan Antalya ilinde bulunuyor ve bu sayede ılıman bir iklime sahip.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Antalya-Akseki-Ibradi-Menengic milli parkını ziyaret etmek, ziyaretçilerine b
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, doğal güzellikleri korumak amacıyla gerçekleştirilmiştir.
-- Milli park, 140 hektarlık bir alanda yer alıyor.
+
 - Milli parkın coğrafi konumu, ziyaretçilerine benzersiz bir doğa deneyimi sunuyor.
 - Milli parkın flora ve fauna'sı, mevsimsel değişimlere göre farklılık gösteriyor.
 - Milli park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunuyor.

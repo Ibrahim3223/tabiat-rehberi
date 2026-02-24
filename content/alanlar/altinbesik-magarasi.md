@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["rehberli turlar","doğa yürüyüşleri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Alt%C4%B1nbe%C5%9Fik_Ma%C4%9Faras%C4%B1_Giri%C5%9Fi%2C_%C4%B0brad%C4%B1.jpg","alt":"Altinbesik Magarasi manzarası","credit":"Kadı","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alt%C4%B1nbe%C5%9Fik_ma%C4%9Faras%C4%B1_giri%C5%9Fi_-_panoramio.jpg/960px-Alt%C4%B1nbe%C5%9Fik_ma%C4%9Faras%C4%B1_giri%C5%9Fi_-_panoramio.jpg","alt":"Altinbesik Magarasi","caption":"Altinbesik Magarasi","credit":"Altınbeşik mağarası girişi - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Alt%C4%B1nbesik_magarasi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alt%C4%B1nbesik_magarasi.jpg/1280px-Alt%C4%B1nbesik_magarasi.jpg","alt":"Altinbesik Magarasi - Altınbesik magarasi","credit":"Ekrem07","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Alt%C4%B1nbe%C5%9Fik_Cave_National_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alt%C4%B1nbe%C5%9Fik_Cave_National_Park.jpg/1280px-Alt%C4%B1nbe%C5%9Fik_Cave_National_Park.jpg","alt":"Altinbesik Magarasi - Altınbeşik Cave National Park","credit":"Damira Fedorova","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/87/Alt%C4%B1nbe%C5%9Fik_Cave.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alt%C4%B1nbe%C5%9Fik_Cave.jpg/1280px-Alt%C4%B1nbe%C5%9Fik_Cave.jpg","alt":"Altinbesik Magarasi - Altınbeşik Cave","credit":"Damira Fedorova","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/94/Alt%C4%B1nbe%C5%9Fik_Cave_and_boat.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alt%C4%B1nbe%C5%9Fik_Cave_and_boat.jpg/1280px-Alt%C4%B1nbe%C5%9Fik_Cave_and_boat.jpg","alt":"Altinbesik Magarasi - Altınbeşik Cave and boat","credit":"Damira Fedorova","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Alt%C4%B1nbe%C5%9Fik_Cave_lake.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alt%C4%B1nbe%C5%9Fik_Cave_lake.jpg/1280px-Alt%C4%B1nbe%C5%9Fik_Cave_lake.jpg","alt":"Altinbesik Magarasi - Altınbeşik Cave lake","credit":"Damira Fedorova","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Altinbesik%20Magarasi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227120","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Altinbesik Magarasi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
@@ -23,7 +23,7 @@ wikidata_id: "Q108227120"
 
 # Altinbesik Magarasi
 
-Altinbesik Magarasi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu doğal güzelliğin büyüklüğü, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu mağaranın oluşumu, milyonlarca yıl önce gerçekleşmiş ve zamanla şekillenmiştir. Mağaranın girişi, ziyaretçilere geniş bir açıyla karşılayarak, içerideki zengin doğayı keşfetmek için davet ediyor.
+Altinbesik Magarasi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu mağaranın oluşumu, milyonlarca yıl önce gerçekleşmiş ve zamanla şekillenmiştir. Mağaranın girişi, ziyaretçilere geniş bir açıyla karşılayarak, içerideki zengin doğayı keşfetmek için davet ediyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Altinbesik Magarasi, ziyaretçilere keyifli bir deneyim sunuyor. Mağaraya ulaş
 ## İlginç Bilgiler
 
 - Mağaranın oluşumu, milyonlarca yıl önce gerçekleşmiştir.
-- Mağara, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Mağaranın girişi, geniş bir açıyla ziyaretçilere karşılıyor.
 - Mağara, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır.
 - Mağarayı ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır.

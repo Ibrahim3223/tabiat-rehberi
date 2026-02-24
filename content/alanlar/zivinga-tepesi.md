@@ -28,7 +28,7 @@ wikidata_id: "Q31546213"
 
 # Zivinga Tepesi
 
-Zivinga Tepesi, Batman'ın güneydoğu kesiminde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Zivinga Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret ediliyor. Zivinga Tepesi'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, zengin fauna da bulunuyor. Zivinga Tepesi, Batman'ın önemli bir turizm merkezi olarak dikkat çekiyor.
+Zivinga Tepesi, Batman'ın güneydoğu kesiminde yer alan bir tepe. Zivinga Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret ediliyor. Zivinga Tepesi'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, zengin fauna da bulunuyor. Zivinga Tepesi, Batman'ın önemli bir turizm merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zivinga Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-Zivinga Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepe, Batman'ın güneydoğu kesiminde bulunuyor. Zivinga Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepe, özellikle bölgenin coğrafi yapısını şekillendiren önemli bir faktör. Zivinga Tepesi'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, zengin fauna da bulunuyor. Zivinga Tepesi, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret ediliyor. Bu tepe, bölgenin iklimini de etkileyen bir faktör olarak dikkat çekiyor. Zivinga Tepesi, özellikle bölgenin önemli bir turizm merkezi olarak kabul ediliyor. Zivinga Tepesi'nin coğrafi yapısı, bölgenin doğal güzelliklerini de yansıtıyor.
+Zivinga Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepe, Batman'ın güneydoğu kesiminde bulunuyor. Bu tepe, özellikle bölgenin coğrafi yapısını şekillendiren önemli bir faktör. Zivinga Tepesi'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, zengin fauna da bulunuyor. Zivinga Tepesi, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret ediliyor. Bu tepe, bölgenin iklimini de etkileyen bir faktör olarak dikkat çekiyor. Zivinga Tepesi, özellikle bölgenin önemli bir turizm merkezi olarak kabul ediliyor. Zivinga Tepesi'nin coğrafi yapısı, bölgenin doğal güzelliklerini de yansıtıyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Zivinga Tepesi, özellikle trekking ve doğa yürüyüşü severler tarafından 
 
 ## İlginç Bilgiler
 
-- Zivinga Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Zivinga Tepesi, özellikle trekking ve doğa yürüyüşü severler tarafından ziyaret ediliyor
 - Bu tepe, bölgenin önemli bir doğal güzelliği olarak kabul ediliyor
 - Zivinga Tepesi, bölgenin iklimini de etkileyen bir faktör olarak dikkat çekiyor

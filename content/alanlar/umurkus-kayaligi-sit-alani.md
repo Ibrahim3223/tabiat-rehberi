@@ -22,7 +22,7 @@ wikidata_id: "Q108226113"
 
 # Umurkuş Kayalığı Sit Alanı
 
-İç Anadolu Bölgesi'nde yer alan Umurkuş Kayalığı Sit Alanı, yaklaşık 140 hektarlık alanı kapsıyor. Umurkuş Kayalığı Sit Alanı, doğal güzellikleri ve tarihi değerleri ile birlikte, bölgenin önemli bir parçası. Bu alan, ziyaretçilerini tarihi ve doğal güzelliklerinin keşfine davet ediyor. Umurkuş Kayalığı Sit Alanı, aynı zamanda bölgenin ekolojik dengesini koruma altına almak amacıyla oluşturulmuş bir sit alanı.
+ Umurkuş Kayalığı Sit Alanı, doğal güzellikleri ve tarihi değerleri ile birlikte, bölgenin önemli bir parçası. Bu alan, ziyaretçilerini tarihi ve doğal güzelliklerinin keşfine davet ediyor. Umurkuş Kayalığı Sit Alanı, aynı zamanda bölgenin ekolojik dengesini koruma altına almak amacıyla oluşturulmuş bir sit alanı.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Umurkuş Kayalığı Sit Alanı, bölgenin flora ve fauna çeşitliliğini korum
 Umurkuş Kayalığı Sit Alanı, ziyaretçilerini tarihi ve doğal güzelliklerinin keşfine davet ediyor. Bu alan, bölgenin flora ve fauna çeşitliliğini koruma altına almak amacıyla oluşturulmuş bir sit alanı. Umurkuş Kayalığı Sit Alanı, aynı zamanda bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör. Bu alan, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Umurkuş Kayalığı Sit Alanı, aynı zamanda bölgenin su kaynaklarını koruma altına almak amacıyla oluşturulmuş bir alan. Bu alan, ziyaretçilerine bölgenin tarihi değerleri hakkında bilgi vermeyi amaçlıyor. Umurkuş Kayalığı Sit Alanı, bölgenin kültürel mirasını koruma altına almak amacıyla oluşturulmuş bir alan.
 
 ## İlginç Bilgiler
-
-- Umurkuş Kayalığı Sit Alanı, yaklaşık 140 hektarlık alanı kapsıyor.
 
 - Umurkuş Kayalığı Sit Alanı, bölgenin jeolojik yapısını gösteren önemli bir kayalık oluşum.
 - Bu alan, aynı zamanda bölgenin ekolojik dengesini koruma altına almak amacıyla oluşturulmuş bir sit alanı.

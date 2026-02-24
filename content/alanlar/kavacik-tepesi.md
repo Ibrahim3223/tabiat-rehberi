@@ -29,7 +29,7 @@ wikidata_id: "Q31389840"
 
 # Kavacık Tepesi
 
-Kavacık Tepesi, İç Anadolu Bölgesi'nin görece düz arazilerine nazaran oldukça dikkat çekici bir tepe olup, çevresindeki manzarayla birlikte ziyaretçilerini büyülemektedir. Çankırı ilinin doğal güzelliklerinden biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Kavacık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Bu tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu da bölgenin ekolojik zenginliğini göstermektedir.
+Kavacık Tepesi, İç Anadolu Bölgesi'nin görece düz arazilerine nazaran oldukça dikkat çekici bir tepe olup, çevresindeki manzarayla birlikte ziyaretçilerini büyülemektedir. Kavacık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Bu tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu da bölgenin ekolojik zenginliğini göstermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kavacık Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihinde öneml
 
 ## Coğrafya
 
-Kavacık Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutmaktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve çevresindeki manzarayla birlikte ziyaretçilerini büyülemektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu da bölgenin ekolojik zenginliğini göstermektedir. Kavacık Tepesi, Çankırı ilinin önemli bir doğal güzelliği olup, ziyaretçilerini hem doğal güzelliği hem de tarihi zenginliği ile karşılamaktadır. Tepenin coğrafi konumu, ziyaretçilerin आसaniyla ulaşabileceği bir konumda bulunmaktadır. Kavacık Tepesi, çevresindeki diğer doğal güzelliklerle birlikte ziyaretçilere geniş bir gezi alanı sunmaktadır.
+Kavacık Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutmaktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu da bölgenin ekolojik zenginliğini göstermektedir. Kavacık Tepesi, Çankırı ilinin önemli bir doğal güzelliği olup, ziyaretçilerini hem doğal güzelliği hem de tarihi zenginliği ile karşılamaktadır. Tepenin coğrafi konumu, ziyaretçilerin आसaniyla ulaşabileceği bir konumda bulunmaktadır. Kavacık Tepesi, çevresindeki diğer doğal güzelliklerle birlikte ziyaretçilere geniş bir gezi alanı sunmaktadır.
 
 ## Flora ve Fauna
 

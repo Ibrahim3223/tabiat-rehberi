@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","gözleme faaliyetleri","fotografçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Erzurum Bataklıkları Sulak Alanı","caption":"Erzurum Bataklıkları Sulak Alanı","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Batakl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229022","tip":"genel"}]
-description: "Erzurum'un doğal güzellikleri arasında yer alan sulak alan, 140 hektarlık geniş bir alanı kapsıyor. Burada çeşitli bitki türleri ve zengin fauna bulunmakta."
+ Burada çeşitli bitki türleri ve zengin fauna bulunmakta."
 keywords: ["Erzurum Bataklıkları Sulak Alanı","sulak alan","doğal güzellik","bitki türleri","fauna","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229022"
@@ -22,7 +22,7 @@ wikidata_id: "Q108229022"
 
 # Erzurum Bataklıkları Sulak Alanı
 
-Erzurum Bataklıkları Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada birçok farklı türün bir arada yaşadığı görülüyor. Bu doğal güzelliği korumak için Necessary önlemler alınıyor. Alan, ziyaretçilere açık ve doğa severler için önemli bir destinasyon.
+ Sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada birçok farklı türün bir arada yaşadığı görülüyor. Bu doğal güzelliği korumak için Necessary önlemler alınıyor. Alan, ziyaretçilere açık ve doğa severler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Erzurum Bataklıkları Sulak Alanı, çeşitli bitki türleri ve zengin fauna il
 Erzurum Bataklıkları Sulak Alanı, ziyaretçilere açık ve doğa severler için önemli bir destinasyon. Alan, çeşitli doğa yürüyüşleri ve gözleme faaliyetleri için elverişli conditions sağlıyor. Ziyaretçiler, sulak alanın doğal güzelliğini ve canlılarını gözlemleyebilir. Alanın ziyaretçilere açık olması, bölgenin turizm potansiyelini artırıyor. Ziyaretçiler, sulak alanın güzelliğini ve önemiını anlayarak, doğal güzelliği korumak için gerekli önlemleri alabilir.
 
 ## İlginç Bilgiler
-
-- Sulak alanın 140 hektarlık geniş bir alanı kapsıyor.
 
 - Erzurum Bataklıkları Sulak Alanı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Sulak alan, yüzyıllar boyunca birçok farklı kültürün etkilerini taşımış.

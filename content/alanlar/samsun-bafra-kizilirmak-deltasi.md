@@ -31,7 +31,7 @@ Samsun-Bafra Kızılırmak Deltası'nın tarihi geçmişi, yüzyıllar öncesine
 
 ## Coğrafya
 
-Samsun-Bafra Kızılırmak Deltası, coğrafi olarak Karadeniz Bölgesi'nde yer alıyor ve delta, çevresindeki diğer doğal güzelliklerle birlikte önemli bir ekosistem oluşturuyor. Delta, 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve yaban hayvanları için ideal bir habitat sunuyor. Delta, Karadeniz'in kıyı şeridinde yer alıyor ve bu nedenle deniz ikliminin etkisinde kalıyor. Bu durum, delta için olumlu bir faktör olarak kabul ediliyor, çünkü delta, thus, nemli bir iklimi olan bir bölgede yer alıyor. Delta, aynı zamanda, yaban hayatı için önemli bir sığınak olarak kabul ediliyor.
+Samsun-Bafra Kızılırmak Deltası, coğrafi olarak Karadeniz Bölgesi'nde yer alıyor ve delta, çevresindeki diğer doğal güzelliklerle birlikte önemli bir ekosistem oluşturuyor. Delta, Karadeniz'in kıyı şeridinde yer alıyor ve bu nedenle deniz ikliminin etkisinde kalıyor. Bu durum, delta için olumlu bir faktör olarak kabul ediliyor, çünkü delta, thus, nemli bir iklimi olan bir bölgede yer alıyor. Delta, aynı zamanda, yaban hayatı için önemli bir sığınak olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -43,8 +43,6 @@ Samsun-Bafra Kızılırmak Deltası, ziyaretçilerini bekliyor. Delta, turizm a�
 
 ## İlginç Bilgiler
 
-- Samsun-Bafra Kızılırmak Deltası, 140 hektarlık bir alanı kaplıyor
-- Delta, yaklaşık 200 futbol sahası büyüklüğünde
 - Delta, yaban hayatı ve doğa severler için gerçek bir cennet olarak kabul ediliyor
 - Delta, birçok farklı türde bitki ve ağaç için ideal bir habitat sunuyor
 - Delta, turizm açısından önemli bir destinasyon olarak kabul ediliyor

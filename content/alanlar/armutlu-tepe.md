@@ -36,7 +36,7 @@ Armutlu Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Armutlu Tepe, Burdur'un merkezi bir noktasında yer alır ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin en önemli doğal güzelliklerinden biridir. Armutlu Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunar. Tepeye çıkıldığında, Burdur'un panoramik manzarası izlenebilir. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçiler, tepeye tırmanırken çeşitli bitki türleriyle karşılaşabilirler. Armutlu Tepe, coğrafi konumu ve doğal güzellikleriyle ziyaretçilerini çekmektedir.
+Armutlu Tepe, Burdur'un merkezi bir noktasında yer alır ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Armutlu Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunar. Tepeye çıkıldığında, Burdur'un panoramik manzarası izlenebilir. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçiler, tepeye tırmanırken çeşitli bitki türleriyle karşılaşabilirler. Armutlu Tepe, coğrafi konumu ve doğal güzellikleriyle ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Armutlu Tepe, ziyaretçilerine çeşitli aktivite olanakları sunar. Ziyaretçil
 ## İlginç Bilgiler
 
 - Armutlu Tepe, Burdur'un en önemli doğal güzelliklerinden biridir.
-- Tepe, 140 hektarlık bir alanı kaplar.
+
 - Armutlu Tepe, tarihin farklı dönemlerinde çeşitli medeniyetlerin hakimiyeti altında geçmiş.
 - Tepe, ziyaretçilerine çeşitli manzaralar sunar.
 - Armutlu Tepe, flora ve fauna zenginliğiyle dikkat çeker.

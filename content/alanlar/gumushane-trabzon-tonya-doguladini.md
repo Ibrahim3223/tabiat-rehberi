@@ -43,7 +43,7 @@ Gümüşhane-Trabzon-Tonya-Doğuladini milli parkını ziyaret etmek, ziyaretçi
 ## İlginç Bilgiler
 
 - Gümüşhane-Trabzon-Tonya-Doğuladini milli parkı, Karadeniz Bölgesi'nin önemli bir doğal güzelliğidir
-- Milli park, 140 hektarlık bir alana sahiptir
+
 - Bölge, çeşitli medeniyetlerin hüküm sürdüğü bir tarihçeye sahiptir
 - Gümüşhane-Trabzon-Tonya-Doğuladini milli parkı, flora ve faunası açısından oldukça zengindir
 - Milli park, coğrafi güzellikleri ve doğal zenginlikleriyle birlikte ziyaretçilere önemli bir gezi deneyimi sunuyor

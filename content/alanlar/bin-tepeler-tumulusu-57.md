@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 57'yi ziyaret etmek, hem tarihi hem de doğal güzellik
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 57, Ege Bölgesi'nin önemli arkeolojik sitelerinden birisidir.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Tümülüslerin inşa edildiği dönem, bölgenin tarihi hakkında önemli ipuçları sunuyor.
 - Bölge, zengin flora ve faunaya ev sahipliği yapıyor.
 - Ziyaretçiler, bölgenin tarihini ve coğrafyasını keşfedebilir.

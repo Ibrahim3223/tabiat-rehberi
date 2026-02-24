@@ -36,7 +36,7 @@ Memberhöyüğü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş 
 
 ## Coğrafya
 
-Memberhöyüğü Tepesi, Konya'nın coğrafî olarak önemli bir bölgesinde yer almaktadır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafî özellikleri olan bozkır ve step bölgelerine sahiptir. Memberhöyüğü Tepesi, 140 hektarlık bir alan kaplar ve bu genişlikte birçok farklı bitki türünü barındırır. Tepe, Konya'nın merkezine yakındır ve ulaşım açısından kolaylık sağlar. Memberhöyüğü Tepesi, coğrafî olarak önemli bir noktada yer alır ve ziyaretçilere Konya'nın doğasını ve manzarasını keşfetme fırsatı sunar. memberhöyüğü Tepesi, Konya'nın coğrafî değerlerini taşıyan önemli bir noktadır ve ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Memberhöyüğü Tepesi, Konya'nın coğrafî olarak önemli bir bölgesinde yer almaktadır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafî özellikleri olan bozkır ve step bölgelerine sahiptir. Tepe, Konya'nın merkezine yakındır ve ulaşım açısından kolaylık sağlar. Memberhöyüğü Tepesi, coğrafî olarak önemli bir noktada yer alır ve ziyaretçilere Konya'nın doğasını ve manzarasını keşfetme fırsatı sunar. memberhöyüğü Tepesi, Konya'nın coğrafî değerlerini taşıyan önemli bir noktadır ve ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Memberhöyüğü Tepesi, ziyaretçiler için önemli bir destinasyondur. Bu tepe
 ## İlginç Bilgiler
 
 - Memberhöyüğü Tepesi, Konya'nın tarihî ve coğrafî değerlerini taşıyan önemli bir noktadır
-- 140 hektarlık bir alana sahiptir
+
 - Zengin bir flora ve fauna çeşitliliğine sahiptir
 - Mevsimsel değişimlere göre farklı bir görünüm sunar
 - Konya'nın merkezine yakındır

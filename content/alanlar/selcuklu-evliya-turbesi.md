@@ -29,7 +29,7 @@ wikidata_id: "Q131391696"
 
 # Selçuklu Evliya Türbesi
 
-Selçuklu Evliya Türbesi, Kars ilinin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir kültürel varlıktır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve ziyaretçilerini geniş ve yeşil bir ortamla karşılamaktadır. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir açıdan tarihi ve kültürel bir deneyim sunmaktadır. Tarihi ve coğrafi güzelliği ile dikkat çeken Selçuklu Evliya Türbesi, Kars'ta görülmeye değer yerlerden biridir.
+Selçuklu Evliya Türbesi, Kars ilinin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir kültürel varlıktır. Tarihi ve coğrafi güzelliği ile dikkat çeken Selçuklu Evliya Türbesi, Kars'ta görülmeye değer yerlerden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Selçuklu Evliya Türbesi, yüzyıllar boyunca Türk kültürünün önemli merk
 
 ## Coğrafya
 
-Selçuklu Evliya Türbesi, Kars ilinin merkezinde yer alan ve coğrafi güzelliği ile dikkat çeken bir bölgedir. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşımakta ve ziyaretçilerine geniş bir coğrafi çeşitlilik sunmaktadır. 140 hektarlık bir alan üzerinde yer alan türbe, geniş ve yeşil bir ortam sunmaktadır. Coğrafi güzelliği ile dikkat çeken Selçuklu Evliya Türbesi, ziyaretçilerine geniş bir açıdan coğrafi bir deneyim sunmaktadır. Bu bölge, birçok coğrafi çeşitliliğe sahip olup, ziyaretçilerine dağlar, ovalar ve nehirler gibi farklı coğrafi oluşumları sunmaktadır.
+Selçuklu Evliya Türbesi, Kars ilinin merkezinde yer alan ve coğrafi güzelliği ile dikkat çeken bir bölgedir. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşımakta ve ziyaretçilerine geniş bir coğrafi çeşitlilik sunmaktadır. Coğrafi güzelliği ile dikkat çeken Selçuklu Evliya Türbesi, ziyaretçilerine geniş bir açıdan coğrafi bir deneyim sunmaktadır. Bu bölge, birçok coğrafi çeşitliliğe sahip olup, ziyaretçilerine dağlar, ovalar ve nehirler gibi farklı coğrafi oluşumları sunmaktadır.
 
 ## Flora ve Fauna
 

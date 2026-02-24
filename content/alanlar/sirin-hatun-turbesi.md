@@ -38,7 +38,7 @@ Bursa'nın Osmangazi ilçesinde bulunan Şirin Hatun Türbesi, tarihi ve doğal 
 
 ## Coğrafya
 
-Şirin Hatun Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bölge, Marmara Bölgesi'nin doğal güzelliklerini sunuyor. Şirin Hatun Türbesi, 140 hektarlık alanı ile ziyaretçilerine geniş bir yeşil alan sunuyor. Türbenin çevresi, çeşitli ağaç türleri ve bitki örtüsüyle kaplı ve ziyaretçilere doğayla iç içe bir ortam sunuyor. Şirin Hatun Türbesi, özellikle yaz aylarında plaj severlerin tercih ettiği bir destinasyon. Bölge, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir yer.
+Şirin Hatun Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bölge, Marmara Bölgesi'nin doğal güzelliklerini sunuyor. Türbenin çevresi, çeşitli ağaç türleri ve bitki örtüsüyle kaplı ve ziyaretçilere doğayla iç içe bir ortam sunuyor. Şirin Hatun Türbesi, özellikle yaz aylarında plaj severlerin tercih ettiği bir destinasyon. Bölge, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir yer.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Bursa'nın Osmangazi ilçesinde bulunan Şirin Hatun Türbesi, tarihi ve doğal 
 ## İlginç Bilgiler
 
 - Şirin Hatun Türbesi, Bursa'nın en önemli tarihi yapılarından biri
-- Türbe, 140 hektarlık bir alanı kapsıyor
+
 - Bölge, çeşitli ağaç türleri ve bitki örtüsüyle kaplı
 - Şirin Hatun Türbesi, özellikle plaj severlerin ve tarih meraklılarının ilgisini çekiyor
 - Türbe, ziyaretçilerine geniş bir yeşil alan sunuyor

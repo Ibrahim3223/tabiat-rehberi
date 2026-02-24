@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","gezi","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Selimbeyyolu Tepesi","caption":"Selimbeyyolu Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selimbeyyolu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390742","tip":"genel"}]
-description: "Yozgat'ın güzide noktalarından biri olan Selimbeyyolu Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Yozgat","Selimbeyyolu Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","yürüyüş","manzara","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390742"

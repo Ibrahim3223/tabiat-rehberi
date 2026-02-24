@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/An%C4%B1t_Kara%C3%A7am_%28Pinus_nigra%29%2C_Denizli.jpg","alt":"Denizli Karacam manzarası","credit":"Şahin 1","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227500","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Denizli Karacam, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Doğal Alan","İç Anadolu Bölgesi","Denizli Karacam","Yeşil Alan","Ziyaretçi","Doğa","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227500"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227500"
 
 # Denizli Karacam
 
-Denizli Karacam, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Denizli Karacam, doğa severlerin ve çevrecilerin merakla beklediği bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunmaktadır.
+ Denizli Karacam, doğa severlerin ve çevrecilerin merakla beklediği bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Denizli Karacam'ı ziyaret etmek, doğa severler ve çevreciler için önemli bi
 
 ## İlginç Bilgiler
 
-- Denizli Karacam, 140 hektarlık bir yeşil alandır.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 - Denizli Karacam, aynı zamanda önemli bir ekosistemdir.
 - Burada, ziyaretçiler hem doğayı hem de tarihin izlerini keşfedebilirler.

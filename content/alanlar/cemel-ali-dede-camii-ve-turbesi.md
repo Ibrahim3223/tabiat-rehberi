@@ -29,7 +29,7 @@ wikidata_id: "Q132134437"
 
 # Cemel Ali Dede Camii ve Türbesi
 
-Cemel Ali Dede Camii ve Türbesi, İç Anadolu Bölgesi'nin kalbinde, Meram, Konya'da yer alan bir tarihi ve dini yapıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde yer almaktadır. Cemel Ali Dede Camii ve Türbesi, hem dini hem de tarihi öneme sahip bir yapı olarak, ziyaretçilerini beklemektedir. Bu yapı, Meram'ın tarihi ve kültürel zenginliğini yansıtan önemli bir noktadır.
+Cemel Ali Dede Camii ve Türbesi, İç Anadolu Bölgesi'nin kalbinde, Meram, Konya'da yer alan bir tarihi ve dini yapıdır. Cemel Ali Dede Camii ve Türbesi, hem dini hem de tarihi öneme sahip bir yapı olarak, ziyaretçilerini beklemektedir. Bu yapı, Meram'ın tarihi ve kültürel zenginliğini yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cemel Ali Dede Camii ve Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Cemel Ali Dede Camii ve Türbesi, Meram, Konya'da yer alan bir bölgede bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, geniş ovalar ve yüksek platolardan oluşmaktadır. Cemel Ali Dede Camii ve Türbesi, yaklaşık 140 hektarlık bir yeşil alan içinde yer almaktadır. Bu yeşil alan, ziyaretçilere geniş bir açık alan sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçmektedir. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını şekillendirmiştir. Cemel Ali Dede Camii ve Türbesi, ziyaretçilerine hem doğal hem de dini bir deneyim sunmaktadır.
+Cemel Ali Dede Camii ve Türbesi, Meram, Konya'da yer alan bir bölgede bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, geniş ovalar ve yüksek platolardan oluşmaktadır. Bu yeşil alan, ziyaretçilere geniş bir açık alan sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçmektedir. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını şekillendirmiştir. Cemel Ali Dede Camii ve Türbesi, ziyaretçilerine hem doğal hem de dini bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Cemel Ali Dede Camii ve Türbesi'ni ziyaret etmek, hem dini hem de tarihi bir de
 
 - Cemel Ali Dede Camii ve Türbesi, Meram, Konya'da yer alan bir tarihi ve dini yapıdır
 - Yapının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
-- Bölge, yaklaşık 140 hektarlık bir yeşil alan içinde yer almaktadır
+
 - Cemel Ali Dede Camii ve Türbesi, ziyaretçilerine hem dini hem de tarihi bir deneyim sunmaktadır
 - Bölgenin flora ve faunası, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır

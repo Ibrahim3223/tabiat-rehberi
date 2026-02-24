@@ -28,7 +28,7 @@ wikidata_id: "Q31569060"
 
 # Demirkapu Tepesi
 
-Demirkapu Tepesi, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak karşımıza çıkıyor. Kırklareli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Demirkapu Tepesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürünü kazandırmış.
+Demirkapu Tepesi, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak karşımıza çıkıyor. Demirkapu Tepesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürünü kazandırmış.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Demirkapu Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe
 
 ## Coğrafya
 
-Demirkapu Tepesi, Marmara Bölgesi'nin coğrafi olarak en önemli noktalarından biri olarak karşımıza çıkıyor. Kırklareli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, geniş bir görüş açısı sunuyor ve ziyaretçilerine çeşitli coğrafi özellikler sunuyor. Demirkapu Tepesi'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu. Bu tepe, yüzyıllar boyunca birçok doğal afete tanıklık etmiş ve her biri bu bölgeye ayrı bir karakter kazandırmış. Demirkapu Tepesi, ziyaretçilerine hem doğal güzelliği hem de coğrafi özellikleri ile birlikte bir gezi deneyimi sunuyor.
+Demirkapu Tepesi, Marmara Bölgesi'nin coğrafi olarak en önemli noktalarından biri olarak karşımıza çıkıyor. Bu alan, geniş bir görüş açısı sunuyor ve ziyaretçilerine çeşitli coğrafi özellikler sunuyor. Demirkapu Tepesi'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu. Bu tepe, yüzyıllar boyunca birçok doğal afete tanıklık etmiş ve her biri bu bölgeye ayrı bir karakter kazandırmış. Demirkapu Tepesi, ziyaretçilerine hem doğal güzelliği hem de coğrafi özellikleri ile birlikte bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Demirkapu Tepesi'ni ziyaret etmek, ziyaretçilere hem doğal güzelliği hem de 
 
 ## İlginç Bilgiler
 
-- Demirkapu Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş.
 - Demirkapu Tepesi, çeşitli bitki türleri ve hayvanlarla dolu.
 - Bu tepe, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak karşımıza çıkıyor.

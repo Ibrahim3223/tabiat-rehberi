@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografçılık","Picnic"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ayazma%20Milli%20Park%C4%B1%2C%20Bayrami%C3%A7%20%2828072023%29%20-%2053077474035.jpg","alt":"Ayazmapınarı Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Sapling.jpg/960px-Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Sapling.jpg","alt":"Ayazmapınarı Tabiat Parkı","caption":"Ayazmapınarı Tabiat Parkı","credit":"Ayazmapınarı Nature Park - Sapling","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Ayazma%27da_ne_oldu%C4%9Funa_karar_veremeyen_a%C4%9Fa%C3%A7.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ayazma%27da_ne_oldu%C4%9Funa_karar_veremeyen_a%C4%9Fa%C3%A7.jpg/1280px-Ayazma%27da_ne_oldu%C4%9Funa_karar_veremeyen_a%C4%9Fa%C3%A7.jpg","alt":"Ayazmapınarı Tabiat Parkı - Ayazma'da ne olduğuna karar veremeyen ağaç","credit":"Kubrancicek","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Ayazmadaki_yosunlu_ta%C5%9Flar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ayazmadaki_yosunlu_ta%C5%9Flar.jpg/1280px-Ayazmadaki_yosunlu_ta%C5%9Flar.jpg","alt":"Ayazmapınarı Tabiat Parkı - Ayazmadaki yosunlu taşlar","credit":"Kubrancicek","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/40/Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Stream.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Stream.jpg/1280px-Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Stream.jpg","alt":"Ayazmapınarı Tabiat Parkı - Ayazmapınarı Nature Park - Stream","credit":"Cakir.Photography","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/87/Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Sapling.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Sapling.jpg/1280px-Ayazmap%C4%B1nar%C4%B1_Nature_Park_-_Sapling.jpg","alt":"Ayazmapınarı Tabiat Parkı - Ayazmapınarı Nature Park - Sapling","credit":"Cakir.Photography","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Ayazma_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ayazma_%283%29.jpg/1280px-Ayazma_%283%29.jpg","alt":"Ayazmapınarı Tabiat Parkı - Ayazma (3)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayazmap%C4%B1nar%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228204","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide şehri Çanakkale'de yer alan Ayazmapınarı Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Ayazmapınarı Tabiat Parkı","Çanakkale","Marmara Bölgesi","tabiat parkı","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228204"
@@ -43,7 +43,6 @@ Ayazmapınarı Tabiat Parkı, ziyaretçilerine birçok aktivite ve gezi fırsat�
 
 ## İlginç Bilgiler
 
-- Ayazmapınarı Tabiat Parkı, 140 hektarlık bir alana sahiptir.
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunur.
 - Park, Marmara Bölgesi'nin önemli doğal alanlarından biridir.
 - Ayazmapınarı Tabiat Parkı, ziyaretçilerine doğa güzelliği ve kültürel zenginlik sunar.

@@ -43,7 +43,7 @@ Kutahya-Tavsanli-Ballikoy Karacam 2 milli parkını ziyaret etmek, doğa severle
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgenin doğal güzelliğini korumak amacıyla gerçekleştirilmiştir.
-- Milli park, 140 hektarlık alan üzerinde kurulmuştur.
+
 - Milli parkın fauna zenginliği, çeşitli hayvan türleri ile temsil edilir.
 - Milli parkın flora zenginliği, çeşitli bitki türleri ile örtülüdür.
 - Milli parkın konumu, ziyaretçilere kolay ulaşım imkânı sunar.

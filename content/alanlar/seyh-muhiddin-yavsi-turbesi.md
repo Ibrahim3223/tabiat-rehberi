@@ -29,7 +29,7 @@ wikidata_id: "Q131390765"
 
 # Şeyh Muhiddin Yavsi Türbesi
 
-Şeyh Muhiddin Yavsi Türbesi, Çorum'un İskilip ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, 140 hektarlık bir yeşil alanın içinde yer alıyor. Şeyh Muhiddin Yavsi Türbesi, Karadeniz Bölgesi'nin önemli dini ve turistik merkezlerinden biri olarak kabul ediliyor. Burada, ziyaretçiler hem türbeyi gezebiliyor hem de plajın keyfini çıkarabiliyor.
+Şeyh Muhiddin Yavsi Türbesi, Çorum'un İskilip ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Şeyh Muhiddin Yavsi Türbesi, Karadeniz Bölgesi'nin önemli dini ve turistik merkezlerinden biri olarak kabul ediliyor. Burada, ziyaretçiler hem türbeyi gezebiliyor hem de plajın keyfini çıkarabiliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390765"
 
 ## Coğrafya
 
-Şeyh Muhiddin Yavsi Türbesi, Çorum'un İskilip ilçesinde, Karadeniz Bölgesi'nin güzel bir bölümünde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanın içinde yer alıyor. Plajın yanında, türbenin etrafında çeşitli ağaçlar ve bitkiler bulunuyor. Bölgenin iklimi, Karadeniz ikliminin característicasını taşıyor ve genellikle ılıman ve yağışlı. Bu coğrafi özellikler, ziyaretçilere hem dinlenme hem de eğlenme imkanı sunuyor. Türbenin ve plajın bulunduğu bu bölge, aynı zamanda bölgenin fauna ve florası açısından da zengin.
+Şeyh Muhiddin Yavsi Türbesi, Çorum'un İskilip ilçesinde, Karadeniz Bölgesi'nin güzel bir bölümünde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Plajın yanında, türbenin etrafında çeşitli ağaçlar ve bitkiler bulunuyor. Bölgenin iklimi, Karadeniz ikliminin característicasını taşıyor ve genellikle ılıman ve yağışlı. Bu coğrafi özellikler, ziyaretçilere hem dinlenme hem de eğlenme imkanı sunuyor. Türbenin ve plajın bulunduğu bu bölge, aynı zamanda bölgenin fauna ve florası açısından da zengin.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Güllücedağı Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliğ
 
 ## Coğrafya
 
-Güllücedağı Tepesi, Şanlıurfa'nın merkezi bir konumda bulunur ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak bir iklime sahiptir. Güllücedağı Tepesi, bu bölgenin coğrafi özelliklerini yansıtan bir tepe olarak, ziyaretçilerine geniş bir manzara sunar. Tepenin eteklerinde bulunan tarihi kalıntılar, tepe üzerindeki manzara ve bölgenin coğrafi özellikleri, ziyaretçilerin ilgisini çeker. Güllücedağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir alan sunar. Bu tepe, Şanlıurfa'nın merkezi bir konumda bulunması ve geniş bir alanı kapsaması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir noktada bulunur.
+Güllücedağı Tepesi, Şanlıurfa'nın merkezi bir konumda bulunur ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak bir iklime sahiptir. Güllücedağı Tepesi, bu bölgenin coğrafi özelliklerini yansıtan bir tepe olarak, ziyaretçilerine geniş bir manzara sunar. Tepenin eteklerinde bulunan tarihi kalıntılar, tepe üzerindeki manzara ve bölgenin coğrafi özellikleri, ziyaretçilerin ilgisini çeker. Bu tepe, Şanlıurfa'nın merkezi bir konumda bulunması ve geniş bir alanı kapsaması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir noktada bulunur.
 
 ## Flora ve Fauna
 
@@ -52,4 +52,4 @@ Güllücedağı Tepesi, ziyaretçilerine tarihi ve doğal güzelliklerini bir ar
 - Tepenin eteklerinde tarihi kalıntılar bulunur
 - Tepenin üzerindeki manzara, ziyaretçileri büyüler
 - Güllücedağı Tepesi, flora ve fauna türlerine ev sahipliği yapar
-- Tepenin alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
+

@@ -18,10 +18,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Kamp","Fotoğraf Çekimi","Doğa Gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Y%C3%BCzen%20adalar%20ve%20bulut.jpg","alt":"Bingöl (Solhan) Yüzen Adaları manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Y%C3%BCzen_adalar_ve_bulut.jpg/960px-Y%C3%BCzen_adalar_ve_bulut.jpg","alt":"Bingöl (Solhan) Yüzen Adaları","caption":"Bingöl (Solhan) Yüzen Adaları","credit":"Yüzen adalar ve bulut","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Y%C3%BCzen_Ada.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Y%C3%BCzen_Ada.jpg/1280px-Y%C3%BCzen_Ada.jpg","alt":"Bingöl (Solhan) Yüzen Adaları - Yüzen Ada","credit":"Alizll0421","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Uros_Floating_Islands-nX-3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Uros_Floating_Islands-nX-3.jpg/1280px-Uros_Floating_Islands-nX-3.jpg","alt":"Bingöl (Solhan) Yüzen Adaları - Uros Floating Islands-nX-3","credit":"PsamatheM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Floating_Islands_-_Bingol.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Floating_Islands_-_Bingol.jpg/1280px-Floating_Islands_-_Bingol.jpg","alt":"Bingöl (Solhan) Yüzen Adaları - Floating Islands - Bingol","credit":"Adem Said Kocadag","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Y%C3%BCzen_adalar_ve_bulut.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Y%C3%BCzen_adalar_ve_bulut.jpg/1280px-Y%C3%BCzen_adalar_ve_bulut.jpg","alt":"Bingöl (Solhan) Yüzen Adaları - Yüzen adalar ve bulut","credit":"Fatih YILMAZ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Floating_Island.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Floating_Island.jpg/1280px-Floating_Island.jpg","alt":"Bingöl (Solhan) Yüzen Adaları - Floating Island","credit":"Valereee","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bing%C3%B6l%20(Solhan)%20Y%C3%BCzen%20Adalar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20472614","tip":"genel"}]
-description: "Bingöl'ün Solhan ilçesinde bulunan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik."
+"
 keywords: ["Bingöl","Solhan","Yüzen Adalar","Doğal Güzellik"," Milli Park","İç Anadolu Bölgesi","Turizm","Gezi","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q20472614"
@@ -48,8 +48,6 @@ Bingöl (Solhan) Yüzen Adaları, çeşitli bitki türleri ve hayvanlarla dolu b
 Bingöl (Solhan) Yüzen Adaları, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Buraya ulaşmak için, Solhan ilçesine gelmek gerekiyor. Yüzen Adalar, Solhan'a uzun bir mesafe uzaklıkta yer alıyor. Burada, ziyaretçilere çeşitli etkinlikler sunuluyor. Yüzen Adalar, doğa yürüyüşleri, kamp ve fotoğraf çekimi için ideal bir destinasyon. Ziyaretçiler, Yüzen Adalar'ın doğal güzelliklerini keşfetebilir ve burada güzel anılar yaratabilir. Yüzen Adalar, ziyaretçilere zengin bir doğa deneyimi sunuyor.
 
 ## İlginç Bilgiler
-
-- Yüzen Adalar, 140 hektarlık bir alanı kaplıyor.
 
 - Yüzen Adalar, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri.
 - Yüzen Adalar, doğa yürüyüşleri ve kamp için ideal bir destinasyon.

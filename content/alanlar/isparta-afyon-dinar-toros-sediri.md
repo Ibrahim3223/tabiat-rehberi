@@ -30,7 +30,7 @@ Isparta-Afyon-Dinar Toros Sediri milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Isparta-Afyon-Dinar Toros Sediri milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtıyor. Milli parkın konumu, Isparta ilinin merkezine yakın bir yerde bulunuyor. 140 hektarlık alan, Toros sedirleri ile kaplı ve bu sedirlerin güzelliği, ziyaretçileri etkiliyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri taşıyor ve bu iklim, Toros sedirlerinin growth için ideal koşulları sunuyor. Milli parkın çevresi, diğer doğal alanlar ile çevrili ve bu doğal güzelliği, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere birçok farklı güzelliği sunuyor.
+Isparta-Afyon-Dinar Toros Sediri milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtıyor. Milli parkın konumu, Isparta ilinin merkezine yakın bir yerde bulunuyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri taşıyor ve bu iklim, Toros sedirlerinin growth için ideal koşulları sunuyor. Milli parkın çevresi, diğer doğal alanlar ile çevrili ve bu doğal güzelliği, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere birçok farklı güzelliği sunuyor.
 
 ## Flora ve Fauna
 

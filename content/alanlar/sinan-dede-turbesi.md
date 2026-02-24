@@ -37,7 +37,7 @@ Sinan Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca uzanmaktadır. Tar
 
 ## Coğrafya
 
-Sinan Dede Türbesi,Nazilli ilçesinde, Ege Bölgesi'nin güler yüzlü ve misafirperver bir köşesinde yer almaktadır. 140 hektarlık bir alan üzerinde kurulu olan türbe ve plaj, denize sıfır bir konumda ve etrafı zengin bir flora ile çevrilidir. İklimi, Ege Bölgesi'nin genel iklimi gibi ılımandır ve ziyaretçilerin yılın her dönemi gelip güneşin tadını çıkarabileceği bir yerdir. Türbenin yakınında, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır. Çevre, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanır.
+Sinan Dede Türbesi,Nazilli ilçesinde, Ege Bölgesi'nin güler yüzlü ve misafirperver bir köşesinde yer almaktadır. İklimi, Ege Bölgesi'nin genel iklimi gibi ılımandır ve ziyaretçilerin yılın her dönemi gelip güneşin tadını çıkarabileceği bir yerdir. Türbenin yakınında, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır. Çevre, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanır.
 
 ## Flora ve Fauna
 

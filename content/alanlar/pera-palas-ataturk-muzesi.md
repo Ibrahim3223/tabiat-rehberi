@@ -29,7 +29,7 @@ wikidata_id: "Q132949304"
 
 # Pera Palas Atatürk Müzesi
 
-İstanbul'un tarihi mekanlarından biri olan Pera Palas Atatürk Müzesi, 1911 yılında inşa edilen Pera Palas Oteli içerisinde yer alır. Bu otel, o dönemin en önemli ve lüks mekanlarından biri olarak knownır. Atatürk'ün kaldığı oda, müze olarak hizmet vermektedir. 140 hektarlık bir alan üzerinde yer almayan bu müze, yaklaşık 2000 metrekarelik bir alanı kaplar. Pera Palas Atatürk Müzesi, İstanbul'un merkezi bir noktasında yer alır ve ulaşımı oldukça kolaydır. Burada ziyaretçiler, Atatürk'ün kişisel eşyalarını ve o döneme ait tarihi belgeleri görme fırsatı bulurlar.
+İstanbul'un tarihi mekanlarından biri olan Pera Palas Atatürk Müzesi, 1911 yılında inşa edilen Pera Palas Oteli içerisinde yer alır. Bu otel, o dönemin en önemli ve lüks mekanlarından biri olarak knownır. Atatürk'ün kaldığı oda, müze olarak hizmet vermektedir. Pera Palas Atatürk Müzesi, İstanbul'un merkezi bir noktasında yer alır ve ulaşımı oldukça kolaydır. Burada ziyaretçiler, Atatürk'ün kişisel eşyalarını ve o döneme ait tarihi belgeleri görme fırsatı bulurlar.
 
 ## Tarihçe
 

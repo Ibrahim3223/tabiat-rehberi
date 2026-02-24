@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Kelhar Tepesi","caption":"Kelhar Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelhar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515814","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan Kelhar Tepesi, yaklaşık 140 hektarlık alanı ile geniş bir doğal güzelliğe sahiptir."
+"
 keywords: ["Kelhar Tepesi","Bitlis","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31515814"
@@ -28,7 +28,7 @@ wikidata_id: "Q31515814"
 
 # Kelhar Tepesi
 
-Kelhar Tepesi, Bitlis ilinin gözde doğal güzelliklerinden biri olarak bilinir. Yaklaşık 140 hektarlık alanı ile geniş bir yeşil alan sunar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bölge, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir destinasyondur. Kelhar Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi ile büyüler.
+Kelhar Tepesi, Bitlis ilinin gözde doğal güzelliklerinden biri olarak bilinir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bölge, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir destinasyondur. Kelhar Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi ile büyüler.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728334"
 
 # Bin Tepeler Tümülüsü 46
 
-Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak dikkat çekiyor. Salihli ilçesi sınırları içinde yer alan bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor. Bin Tepeler Tümülüsü 46, adını çevresindeki tepe gibi yükselen tümülüslerden alıyor. Bu tarihi mekan, ziyaretçilerini hem tarihin derinliklerine götürüyor hem de Ege Bölgesi'nin güzelliğini gözler önüne seriyor.
+Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak dikkat çekiyor. Bin Tepeler Tümülüsü 46, adını çevresindeki tepe gibi yükselen tümülüslerden alıyor. Bu tarihi mekan, ziyaretçilerini hem tarihin derinliklerine götürüyor hem de Ege Bölgesi'nin güzelliğini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 46, ziyaretçilerine yılın her döneminde gezebilecek
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak kabul ediliyor.
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bin Tepeler Tümülüsü 46, çevresi ile birlikte bir doğa harikası olarak görülüyor.
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Tümülüsün çevresi, ziyaretçilere yılın her döneminde gezebilecekleri bir mekan sunuyor.

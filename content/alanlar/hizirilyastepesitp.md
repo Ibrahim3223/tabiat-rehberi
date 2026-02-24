@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"HIZIRİLYAS_TEPESİ_TP","caption":"HIZIRİLYAS_TEPESİ_TP","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HIZIR%C4%B0LYAS_TEPES%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229007","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan HIZIRİLYAS_TEPESİ_TP, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["HIZIRİLYAS_TEPESİ_TP","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229007"
@@ -22,7 +22,7 @@ wikidata_id: "Q108229007"
 
 # HIZIRİLYAS_TEPESİ_TP
 
-HIZIRİLYAS_TEPESİ_TP, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir milli parktır. Parkın konumu, coğrafi özellikleriyle birlikte, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır. HIZIRİLYAS_TEPESİ_TP, doğa severler için bir cennet olarak görülebilir.
+ Parkın konumu, coğrafi özellikleriyle birlikte, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır. HIZIRİLYAS_TEPESİ_TP, doğa severler için bir cennet olarak görülebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ HIZIRİLYAS_TEPESİ_TP'yi ziyaret etmek, doğa severler için bir cennet olarak 
 
 ## İlginç Bilgiler
 
-- HIZIRİLYAS_TEPESİ_TP, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar.
 - Park, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır.
 - HIZIRİLYAS_TEPESİ_TP, doğa severler için bir cennet olarak görülebilir.
 - Parkın konumu, coğrafi özellikleriyle birlikte, doğal güzellikleri ile ziyaretçilere benzersiz bir deneyim sunar.

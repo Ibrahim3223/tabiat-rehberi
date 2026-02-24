@@ -37,7 +37,7 @@ Kadıoğlu Hamamı'nın tarihi geçmişi, yüzyıllar boyunca insanların ziyare
 
 ## Coğrafya
 
-Kadıoğlu Hamamı, İzmir'in Kemalpaşa ilçesinde yer alan bir plaj olarak, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölgenin coğrafyası, deniz, kum ve yeşil alanlardan oluşmaktadır. 140 hektarlık bir alanı kapsayan Kadıoğlu Hamamı, ziyaretçilerine geniş bir yeşil alan sunar. Ayrıca, bu bölgenin iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösterir ve genellikle ılıman bir iklimi vardır. Çevre, doğal güzelliği ile dikkat çeker ve ziyaretçilere, deniz kumunun ve suyun tadını çıkarmak için ideal bir ortam sunar.
+Kadıoğlu Hamamı, İzmir'in Kemalpaşa ilçesinde yer alan bir plaj olarak, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölgenin coğrafyası, deniz, kum ve yeşil alanlardan oluşmaktadır. Ayrıca, bu bölgenin iklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösterir ve genellikle ılıman bir iklimi vardır. Çevre, doğal güzelliği ile dikkat çeker ve ziyaretçilere, deniz kumunun ve suyun tadını çıkarmak için ideal bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kadıoğlu Hamamı, ziyaretçilerine, yılın her dönemi, özellikle yaz aylar�
 ## İlginç Bilgiler
 
 - Kadıoğlu Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir.
-- Bu bölge, 140 hektarlık bir alanı kapsar.
+
 - Ziyaretçiler, bu bölgede, deniz kumunun ve suyun tadını çıkarmakla birlikte, aynı zamanda çevreyi keşfetme fırsatı da bulabilirler.
 - Kadıoğlu Hamamı, yılın her dönemi, özellikle yaz aylarında, ideal bir gezi durağı olarak hizmet vermektedir.
 - Bu bölgenin flora ve fauna çeşitliliği, Ege Bölgesi'nin genel özelliklerini taşır.

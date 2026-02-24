@@ -29,7 +29,7 @@ wikidata_id: "Q131390749"
 
 # Cahidi Sultan Türbesi
 
-Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu türbe, ziyaretçiler için önemli bir gezi noktası oluşturuyor. Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor.
+Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu türbe, ziyaretçiler için önemli bir gezi noktası oluşturuyor. Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cahidi Sultan Türbesi, tarihi geçmişiyle dikkat çekiyor. Tarihi hakkında sp
 
 ## Coğrafya
 
-Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor. Ayrıca, türbenin bulunduğu bölge, deniz seviyesine oldukça yakın bir konumda yer alıyor. Bu nedenle, ziyaretçiler türbe etrafında deniz manzarasını da görebiliyor. Coğrafi olarak zengin bir yapıya sahip olan bu bölge, ziyaretçiler için önemli bir gezi noktası oluşturuyor. 140 hektarlık bu alan, çeşitli bitkiler ve ağaçlarla kaplı ve ziyaretçilere geniş bir yeşil alan sunuyor.
+Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor. Ayrıca, türbenin bulunduğu bölge, deniz seviyesine oldukça yakın bir konumda yer alıyor. Bu nedenle, ziyaretçiler türbe etrafında deniz manzarasını da görebiliyor. Coğrafi olarak zengin bir yapıya sahip olan bu bölge, ziyaretçiler için önemli bir gezi noktası oluşturuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Cahidi Sultan Türbesi, ziyaretçiler için önemli bir gezi noktası oluşturuy
 
 ## İlginç Bilgiler
 
-- Cahidi Sultan Türbesi, 140 hektarlık bir alanı kapsıyor
 - Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor
 - Türbe, tarihi geçmişiyle dikkat çekiyor
 - Bu bölgede, mevsimsel değişimlere göre farklı bitkiler ve hayvanlar yer alıyor

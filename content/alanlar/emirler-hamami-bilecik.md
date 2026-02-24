@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","ekoloji 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Emirler Hamamı, Bilecik","caption":"Emirler Hamamı, Bilecik","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emirler%20Hamam%C4%B1%2C%20Bilecik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245761","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bilecik","Marmara Bölgesi","doğa","gezi","tarih","ekoloji","çevre","turizm","gezilecek yerler","Emirler Hamamı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245761"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245761"
 
 # Emirler Hamamı, Bilecik
 
-Emirler Hamamı, Bilecik'in merkezinde yer alan 140 hektarlık bir doğa harikasıdır. Bu bölge, yüzyıllar boyunca insan yerleşimine sahne olmuş ve tarihi geçmişiyle dikkat çekmektedir. Emirler Hamamı, doğa severler ve tarih meraklıları için ideal bir destinasyondur. Ziyaretçiler, bu büyüleyici mekanda hem doğanın güzelliğini keşfedebilir hem de tarihi açıdan zengin bir deneyim yaşayabilir.
+ Bu bölge, yüzyıllar boyunca insan yerleşimine sahne olmuş ve tarihi geçmişiyle dikkat çekmektedir. Emirler Hamamı, doğa severler ve tarih meraklıları için ideal bir destinasyondur. Ziyaretçiler, bu büyüleyici mekanda hem doğanın güzelliğini keşfedebilir hem de tarihi açıdan zengin bir deneyim yaşayabilir.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Emirler Hamamı, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı s
 
 ## İlginç Bilgiler
 
-- Emirler Hamamı, 140 hektarlık bir alanı kaplamaktadır.
 - Bu bölge, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Emirler Hamamı, yüzyıllar öncesine dayanan bir tarihi geçmişi vardır.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.

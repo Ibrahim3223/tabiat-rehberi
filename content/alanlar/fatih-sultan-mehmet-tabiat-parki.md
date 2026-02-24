@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Fatih%20Forest%20Nature%20Park.jpg","alt":"Fatih Sultan Mehmet Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Fatih_Forest_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fatih_Forest_Nature_Park.jpg/1280px-Fatih_Forest_Nature_Park.jpg","alt":"Fatih Sultan Mehmet Tabiat Parkı - Fatih Forest Nature Park","credit":"Fatih Biricik","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/FatihSultanMehmetNaturePark.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FatihSultanMehmetNaturePark.jpg/1280px-FatihSultanMehmetNaturePark.jpg","alt":"Fatih Sultan Mehmet Tabiat Parkı - FatihSultanMehmetNaturePark","credit":"CeeGee","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Fatih_Sultan_Mehmet_Tabiat_Park%C4%B1_Orman%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fatih_Sultan_Mehmet_Tabiat_Park%C4%B1_Orman%C4%B1.jpg/1280px-Fatih_Sultan_Mehmet_Tabiat_Park%C4%B1_Orman%C4%B1.jpg","alt":"Fatih Sultan Mehmet Tabiat Parkı - Fatih Sultan Mehmet Tabiat Parkı Ormanı","credit":"ArifBagci1 Arif Bağcı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Unknown_Path.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Unknown_Path.jpg","alt":"Fatih Sultan Mehmet Tabiat Parkı - Unknown Path","credit":"Mustafa CAN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/88/Tree_With_Ivy.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/88/Tree_With_Ivy.jpg","alt":"Fatih Sultan Mehmet Tabiat Parkı - Tree With Ivy","credit":"Mustafa CAN","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatih%20Sultan%20Mehmet%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623995","tip":"genel"}]
-description: "İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık tabiat parkı"
+
 keywords: ["Fatih Sultan Mehmet Tabiat Parkı","Sarıyer","İstanbul","Marmara Bölgesi","tabiat parkı","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30623995"
@@ -30,7 +30,7 @@ wikidata_id: "Q30623995"
 
 # Fatih Sultan Mehmet Tabiat Parkı
 
- Bu 140 hektarlık park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Fatih Sultan Mehmet Tabiat Parkı, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de yansıtıyor.
+ İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Fatih Sultan Mehmet Tabiat Parkı, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de yansıtıyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Fatih Sultan Mehmet Tabiat Parkı, ziyaretçiler için birçok aktivite sunuyor.
 
 ## İlginç Bilgiler
 
-- Parkın toplam alanı yaklaşık 200 futbol sahası büyüklüğünde
 - Fatih Sultan Mehmet'in adı, bu tabiat parkına verilmiştir
 - Park, Marmara Bölgesi'nin ılıman ve nemli iklimine sahip
 - Zengin flora ve fauna, parkın önemli özelliklerinden biri

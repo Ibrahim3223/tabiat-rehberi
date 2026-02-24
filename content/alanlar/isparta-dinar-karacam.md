@@ -42,8 +42,6 @@ Isparta-Dinar Karacam milli parkını ziyaret etmek, doğa severler için bir ba
 
 ## İlginç Bilgiler
 
-- Isparta-Dinar Karacam milli parkı, 140 hektarlık bir alanı kaplar
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kapsar
 - Isparta-Dinar Karacam, çeşitli bitki türleri ve fauna çeşitliliği ile karakterize edilir
 - Milli parkın iklimi, Akdeniz ikliminin özellikleri ile uyumludur
 - Isparta-Dinar Karacam, ziyaretçilere doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli olanaklar sunar

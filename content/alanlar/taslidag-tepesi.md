@@ -36,7 +36,7 @@ Taşlıdağ Tepesi'nin tarihi geçmişi, Gaziantep'in tarihine paralel olarak ge
 
 ## Coğrafya
 
-Taşlıdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve verimli bir bölgede yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Taşlıdağ Tepesi'nin yüksekliği, bölgenin iklimini etkileyen önemli faktörlerden biri. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölgede, yaban hayatı da oldukça zengin. Taşlıdağ Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunuyor. Tepenin çevresinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin ekolojisini destekleyen önemli faktörler.
+Taşlıdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve verimli bir bölgede yer alıyor. Taşlıdağ Tepesi'nin yüksekliği, bölgenin iklimini etkileyen önemli faktörlerden biri. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölgede, yaban hayatı da oldukça zengin. Taşlıdağ Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunuyor. Tepenin çevresinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin ekolojisini destekleyen önemli faktörler.
 
 ## Flora ve Fauna
 
@@ -44,11 +44,10 @@ Taşlıdağ Tepesi, çeşitli bitki türleri ve yaban hayatı ile zengin bir eko
 
 ## Ziyaret Bilgileri
 
-Taşlıdağ Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıları için ideal bir deneyim. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Taşlıdağ Tepesi'ne ulaşım, Gaziantep şehir merkezinden yaklaşık 30 dakika sürüyor. Bu bölgede, ziyaretçilere çeşitli aktiviteler sunuluyor. Bunlar arasında, doğa yürüyüşleri, kampçılık ve fotoğrafçılık yer alıyor. Taşlıdağ Tepesi'ni ziyaret etmek, ziyaretçilere geniş bir manzara sunuyor ve bölgenin ekolojisini keşfetme imkanı sağlıyor.
+Taşlıdağ Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıları için ideal bir deneyim. Taşlıdağ Tepesi'ne ulaşım, Gaziantep şehir merkezinden yaklaşık 30 dakika sürüyor. Bu bölgede, ziyaretçilere çeşitli aktiviteler sunuluyor. Bunlar arasında, doğa yürüyüşleri, kampçılık ve fotoğrafçılık yer alıyor. Taşlıdağ Tepesi'ni ziyaret etmek, ziyaretçilere geniş bir manzara sunuyor ve bölgenin ekolojisini keşfetme imkanı sağlıyor.
 
 ## İlginç Bilgiler
 
-- Taşlıdağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor.
 - Taşlıdağ Tepesi'nin yüksekliği, bölgenin iklimini etkileyen önemli faktörlerden biri.
 - Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunmakta.

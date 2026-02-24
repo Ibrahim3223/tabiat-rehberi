@@ -30,7 +30,7 @@ Kutahya-Tavsanli-Balikoy-Karacam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Kutahya-Tavsanli-Balikoy-Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunuyor. Parkın coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını sunuyor. Parkın içinde, çeşitli bitki türleri ve hayvanlar bulunmakta. Ayrıca, parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun ve ziyaretçilere dört mevsim farklı bir deneyim sunuyor. Parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilere geniş bir açık alan sunuyor. 140 hektarlık bu park, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Kutahya-Tavsanli-Balikoy-Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde bulunuyor. Parkın coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını sunuyor. Parkın içinde, çeşitli bitki türleri ve hayvanlar bulunmakta. Ayrıca, parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun ve ziyaretçilere dört mevsim farklı bir deneyim sunuyor. Parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilere geniş bir açık alan sunuyor.
 
 ## Flora ve Fauna
 

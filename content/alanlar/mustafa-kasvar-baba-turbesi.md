@@ -51,6 +51,6 @@ Mustafa Kasvar Baba Türbesi, ziyaretçilerine çeşitli olanaklar sunan bir mek
 ## İlginç Bilgiler
 
 - Mustafa Kasvar Baba Türbesi, Türk kültürünün önemli bir parçası olarak, ziyaretçilerine tarihsel bir yolculuk imkânı sunuyor
-- Mekan, 140 hektarlık bir yeşil alan sunuyor
+
 - Mustafa Kasvar Baba Türbesi, yaban hayatı açısından zengin bir çeşitlilik sunuyor
 - Ziyaretçiler, bu özel mekanı, yılın her döneminde ziyaret edebilirler

@@ -37,7 +37,7 @@ Büyük Hamam, Seddülbahir'in tarihi geçmişi, Çanakkale Savaşı'na kadar uz
 
 ## Coğrafya
 
-Büyük Hamam, Seddülbahir plajı, Eceabat'ın sahil şeridinde yer alıyor. Bu bölge, Çanakkale Boğazı'na bakan bir konumda bulunuyor. Plajın etrafı, yeşilliklerle dolu ve çam ağaçları ile süslü. Denizin maviliği ve güneşin ışığı, bu bölgeyi ziyaret etmek için ideal bir reasons veriyor. Ayrıca, Seddülbahir'in coğrafi konumu, burayı ziyaret edenler için çeşitli aktiviteler sunuyor. Denize girme, güneşlenme, doğa yürüyüşleri ve tarihin izlerini sürme, bu bölgede yapılabilecek şeyler arasında yer alıyor. Büyük Hamam, Seddülbahir plajı, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu da ziyaretçilere geniş bir alan sunuyor.
+Büyük Hamam, Seddülbahir plajı, Eceabat'ın sahil şeridinde yer alıyor. Bu bölge, Çanakkale Boğazı'na bakan bir konumda bulunuyor. Plajın etrafı, yeşilliklerle dolu ve çam ağaçları ile süslü. Denizin maviliği ve güneşin ışığı, bu bölgeyi ziyaret etmek için ideal bir reasons veriyor. Ayrıca, Seddülbahir'in coğrafi konumu, burayı ziyaret edenler için çeşitli aktiviteler sunuyor. Denize girme, güneşlenme, doğa yürüyüşleri ve tarihin izlerini sürme, bu bölgede yapılabilecek şeyler arasında yer alıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Büyük Hamam, Seddülbahir plajına ziyaretçiler, Eceabat merkezinden kolayca 
 
 ## İlginç Bilgiler
 
-- Büyük Hamam, Seddülbahir plajı, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu bölge, Çanakkale Boğazı'na bakan bir konumda bulunuyor.
 - Seddülbahir, Türk milletinin kahramanlık ve fedakarlığının sembolü haline gelmiştir.
 - Büyük Hamam, Seddülbahir plajı, çeşitli bitki türleri ve ağaçlarla süslü.

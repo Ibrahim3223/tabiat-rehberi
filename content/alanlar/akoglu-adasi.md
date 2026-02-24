@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Princes%27_Islands_104.JPG/960px-Princes%27_Islands_104.JPG","alt":"Akoğlu Adası","caption":"Akoğlu Adası","credit":"Princes' Islands 104","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Islands_near_Ayvalik.jpg/960px-Islands_near_Ayvalik.jpg","alt":"Akoğlu Adası","caption":"Akoğlu Adası","credit":"Islands near Ayvalik","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ako%C4%9Flu%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19610447","tip":"genel"}]
 description: "Balıkesir'de bulunan Akoğlu Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Akoğlu Adası","Balıkesir","ada","doğal güzellik","tarihi değer","gezi","seyahat","turizm","Marmara Denizi"]

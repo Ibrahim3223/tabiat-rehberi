@@ -42,7 +42,6 @@ Adana-Feke-Mansurlu Sedir 2 milli parkını ziyaret etmek, doğa severler için 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alana sahiptir.
 - Akdeniz Bölgesi'nde bulunmaktadır.
 - Adana iline bağlı Feke ilçesinde bulunur.
 - Mansurlu Sedir 2, doğa severlerin cenneti olarak bilinir.

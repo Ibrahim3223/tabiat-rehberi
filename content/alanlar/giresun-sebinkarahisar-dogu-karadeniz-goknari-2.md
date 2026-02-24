@@ -30,7 +30,7 @@ Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2 milli parkının tarihi geçmiş
 
 ## Coğrafya
 
-Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2 milli parkı, coğrafi olarak çok zengin bir bölge. Parkın konumu, Karadeniz Bölgesi'nin en güzel yerlerinden biri. 140 hektarlık bu alan, sebze ve meyve bahçeleri, ormanlık alanlar ve çeşitli bitki türleriyle dolu. Parkın iklimi, Karadeniz ikliminin karakteristik özellikleri taşıyor. Kışları soğuk ve yağışlı, yazları ise serin ve güneşli. Bu iklim, parkın florası için ideal. Parkın coğrafi yapısı, ziyaretçilere birçok güzelliği sunuyor. Dağlar, vadiler, nehirler ve göller, parkın coğrafi zenginliğini oluşturuyor.
+Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2 milli parkı, coğrafi olarak çok zengin bir bölge. Parkın konumu, Karadeniz Bölgesi'nin en güzel yerlerinden biri. Parkın iklimi, Karadeniz ikliminin karakteristik özellikleri taşıyor. Kışları soğuk ve yağışlı, yazları ise serin ve güneşli. Bu iklim, parkın florası için ideal. Parkın coğrafi yapısı, ziyaretçilere birçok güzelliği sunuyor. Dağlar, vadiler, nehirler ve göller, parkın coğrafi zenginliğini oluşturuyor.
 
 ## Flora ve Fauna
 

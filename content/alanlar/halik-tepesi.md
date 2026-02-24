@@ -28,7 +28,7 @@ wikidata_id: "Q31556441"
 
 # Halik Tepesi
 
-Halik Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alan kaplıyor. Tarihi geçmişiyle dikkat çeken Halik Tepesi, aynı zamanda bölgenin coğrafi yapısını da yansıtıyor. Ziyaretçiler, bu tepeden Mardin'in panoramik manzarasını izleme fırsatı buluyor.
+Halik Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Tarihi geçmişiyle dikkat çeken Halik Tepesi, aynı zamanda bölgenin coğrafi yapısını da yansıtıyor. Ziyaretçiler, bu tepeden Mardin'in panoramik manzarasını izleme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Halik Tepesi, Mardin'in tarihi geçmişi ile doğrudan bağlantılı. Bu tepe, y
 
 ## Coğrafya
 
-Halik Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin konumu, ziyaretçilere Mardin'in panoramik manzarasını izleme fırsatı sunuyor. Halik Tepesi, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alan kaplıyor. Bu alan, ziyaretçilere geniş bir görüş açısı sağlıyor. Tepenin coğrafi konumu, bölgenin iklimini de etkiliyor. Ziyaretçiler, bu tepeden Mardin'in coğrafi güzelliklerini izleyerek bölgenin doğal yapısını daha iyi anlayabiliyor.
+Halik Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin konumu, ziyaretçilere Mardin'in panoramik manzarasını izleme fırsatı sunuyor. Bu alan, ziyaretçilere geniş bir görüş açısı sağlıyor. Tepenin coğrafi konumu, bölgenin iklimini de etkiliyor. Ziyaretçiler, bu tepeden Mardin'in coğrafi güzelliklerini izleyerek bölgenin doğal yapısını daha iyi anlayabiliyor.
 
 ## Flora ve Fauna
 

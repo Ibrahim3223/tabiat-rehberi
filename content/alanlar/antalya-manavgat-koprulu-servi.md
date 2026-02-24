@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Yaban hayatı izleme","Fotoğrafçılık","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Antalya-Manavgat-Köprülü Servi","caption":"Antalya-Manavgat-Köprülü Servi","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Manavgat-K%C3%B6pr%C3%BCl%C3%BC%20Servi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228290","tip":"genel"}]
-description: "Antalya-Manavgat-Köprülü Servi milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar."
+"
 keywords: ["Antalya","Manavgat","Köprülü Servi","milli park","doğa","gezi","yaban hayatı","ekoloji","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228290"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228290"
 
 # Antalya-Manavgat-Köprülü Servi
 
-Antalya-Manavgat-Köprülü Servi milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Köprülü Servi, doğa severlerin ve macera arayanların keyif alacağı bir yer. Milli park, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+ Köprülü Servi, doğa severlerin ve macera arayanların keyif alacağı bir yer. Milli park, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Antalya-Manavgat-Köprülü Servi milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kapsıyor.
 - Köprülü Servi, tarihi geçmişiyle dikkat çekiyor.
 - Milli parkın flora ve faunası, ziyaretçileri bekliyor.
 - İlkbahar ve yaz ayları, milli parkı ziyaret etmek için en iyi mevsimler.

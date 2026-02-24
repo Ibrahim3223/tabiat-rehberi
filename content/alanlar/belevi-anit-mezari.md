@@ -51,7 +51,7 @@ Belevi Anıt Mezarı, ziyaretçilerine, Ege Bölgesi'nin zengin tarihi ve kült�
 ## İlginç Bilgiler
 
 - Belevi Anıt Mezarı, Ege Bölgesi'nin en önemli tarihi noktalarından biri
-- Mezar, 140 hektarlık bir alana yayılmış
+
 - Belevi Anıt Mezarı, yıl boyunca, çeşitli kültürel ve dini etkinliklere ev sahipliği yapıyor
 - Mezarın bulunduğu bölgede, zengin flora ve fauna çeşitliliği bulunmakta
 - Belevi Anıt Mezarı, Ege Bölgesi'nin güzel iklimini ve kültürel zenginliğini bir araya getiren önemli bir nokta

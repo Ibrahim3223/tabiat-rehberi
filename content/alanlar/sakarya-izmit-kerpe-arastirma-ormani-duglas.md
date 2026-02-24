@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotografcılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas","caption":"Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-%C4%B0zmit-Kerpe%20Ara%C5%9Ft%C4%B1rma%20Orman%C4%B1%20Duglas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228281","tip":"genel"}]
-description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Sakarya","İzmit","Kerpe","Araştırma Ormanı","Duglas","Marmara Bölgesi","doğa","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228281"
@@ -41,8 +41,6 @@ Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, zengin bir flora ve fauna sunuy
 Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas'ı ziyaret etmek, doğa severler için ideal bir aktivite. Ormana ulaşmak için, Sakarya veya İzmit şehir merkezlerinden Kerpe yönüne giden yoldanabilirsiniz. Orman, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliği sunuyor. Ziyaretçiler, ormanın doğal güzelliklerini keşfedebilir ve çeşitli bitki türleri ve hayvanlarla iç içe olabilirler.
 
 ## İlginç Bilgiler
-
-- Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, 140 hektarlık bir alana yayılmış.
 
 - Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin coğrafi yapısında önemli bir yer alıyor.
 - Orman, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçiler için bir doğa cenneti.

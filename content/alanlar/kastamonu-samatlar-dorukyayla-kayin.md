@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Kastamonu-Samatlar-Dorukyayla Kayin","caption":"Kastamonu-Samatlar-Dorukyayla Kayin","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Samatlar-Dorukyayla%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227264","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerinin buluşma noktası, 140 hektarlık Dorukyayla Kayin Milli Parkı"
+
 keywords: ["Kastamonu","Dorukyayla Kayin","Milli Park","Karadeniz Bölgesi","Doğal Güzellikler","Kastamonu Turizm","Milli Parklar"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227264"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227264"
 
 # Kastamonu-Samatlar-Dorukyayla Kayin
 
-Kastamonu'nun Samatlar ve Dorukyayla köyleri arasında yer alan Dorukyayla Kayin Milli Parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini karşılar. Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Dorukyayla Kayin Milli Parkı, hem doğa severler hem de tarih meraklıları için keyifli bir gezi deneyimi sunuyor. Parkın etrafındaki köyler, geleneksel mimari örnekleriyle ziyaretçileri karşılar.
+ Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Dorukyayla Kayin Milli Parkı, hem doğa severler hem de tarih meraklıları için keyifli bir gezi deneyimi sunuyor. Parkın etrafındaki köyler, geleneksel mimari örnekleriyle ziyaretçileri karşılar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Dorukyayla Kayin Milli Parkı, tarihi geçmişiyle dikkat çekiyor. Bu bölge, y
 
 ## Coğrafya
 
-Dorukyayla Kayin Milli Parkı, Kastamonu'nun Samatlar ve Dorukyayla köyleri arasında yer alıyor. Park, 140 hektarlık geniş bir alana yayılmış durumda. Milli parkın coğrafyası, Karadeniz Bölgesi'nin tipik özellikleri taşır. Bölge, ormanlık alanlar, dereler ve tepelerle çevrili. Parkın iklimi, Karadeniz ikliminin karakteristik özellikleri gösteriyor; yağışlı ve nemli bir hava hakim. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Parkın etrafındaki köyler, geleneksel tarım ve hayvancılık faaliyetleri yapıyor. Dorukyayla Kayin Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini korumak amacıyla kurulmuş önemli bir destinasyon.
+Dorukyayla Kayin Milli Parkı, Kastamonu'nun Samatlar ve Dorukyayla köyleri arasında yer alıyor. Milli parkın coğrafyası, Karadeniz Bölgesi'nin tipik özellikleri taşır. Bölge, ormanlık alanlar, dereler ve tepelerle çevrili. Parkın iklimi, Karadeniz ikliminin karakteristik özellikleri gösteriyor; yağışlı ve nemli bir hava hakim. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Parkın etrafındaki köyler, geleneksel tarım ve hayvancılık faaliyetleri yapıyor. Dorukyayla Kayin Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini korumak amacıyla kurulmuş önemli bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Dorukyayla Kayin Milli Parkı, ziyaretçilerine çeşitli aktivite olanakları s
 
 ## İlginç Bilgiler
 
-- Dorukyayla Kayin Milli Parkı, 140 hektarlık geniş bir alana yayılmış.
 - Park, Karadeniz Bölgesi'nin doğal güzelliklerini bir araya getiren önemli bir destinasyon.
 - Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor.
 - Parkın etrafındaki köyler, geleneksel mimari örnekleriyle ziyaretçileri karşılar.

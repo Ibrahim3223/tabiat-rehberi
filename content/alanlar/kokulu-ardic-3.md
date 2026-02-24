@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/33/Kokulu_ard%C4%B1%C3%A7_3.jpg","alt":"Kokulu Ardic 3 manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Juniperus_foetidissima_kz1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juniperus_foetidissima_kz1.jpg/1280px-Juniperus_foetidissima_kz1.jpg","alt":"Kokulu Ardic 3 - Juniperus foetidissima kz1","credit":"Krzysztof Ziarnek, Kenraiz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Juniperus_foetidissima_kz7.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Juniperus_foetidissima_kz7.jpg/1280px-Juniperus_foetidissima_kz7.jpg","alt":"Kokulu Ardic 3 - Juniperus foetidissima kz7","credit":"Krzysztof Ziarnek, Kenraiz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Juniperus_foetidissima_kz8.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Juniperus_foetidissima_kz8.jpg/1280px-Juniperus_foetidissima_kz8.jpg","alt":"Kokulu Ardic 3 - Juniperus foetidissima kz8","credit":"Krzysztof Ziarnek, Kenraiz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/30/Juniperus_foetidissima_kz2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Juniperus_foetidissima_kz2.jpg/1280px-Juniperus_foetidissima_kz2.jpg","alt":"Kokulu Ardic 3 - Juniperus foetidissima kz2","credit":"Krzysztof Ziarnek, Kenraiz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Juniperus_foetidissima_kz5.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Juniperus_foetidissima_kz5.jpg/1280px-Juniperus_foetidissima_kz5.jpg","alt":"Kokulu Ardic 3 - Juniperus foetidissima kz5","credit":"Krzysztof Ziarnek, Kenraiz","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kokulu%20Ardic%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228072","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli bir incisi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kokulu Ardic 3","milli park","İç Anadolu Bölgesi","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228072"
@@ -43,7 +43,6 @@ Kokulu Ardic 3'ü ziyaret etmek, doğa severler ve macera arayanlar için unutul
 
 ## İlginç Bilgiler
 
-- Kokulu Ardic 3, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor
 - İklim, karasal iklim özellikleri gösteriyor
 - Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor

@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Myrina_Antik_Kenti_-_Kalabasar_-_%C3%96teki_Tepe_%28Alia%C4%9Fa_Genel_G%C3%B6r%C3%BCn%C3%BCm%29.jpg","alt":"Kömürcü Tepe manzarası","credit":"Ferit BAYCUMAN","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6m%C3%BCrc%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210216","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kömürcü Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kömürcü Tepe","İç Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna","ziyaret","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32210216"
@@ -51,7 +51,7 @@ Kömürcü Tepe, ziyaretçilerini bekleyen bir destinasyon olarak ortaya çıkı
 ## İlginç Bilgiler
 
 - Kömürcü Tepe, İç Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri
-- Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kömürcü Tepe, flora ve fauna açısından zengin bir bölge
 - Bu tepe, coğrafi konumu itibariyle ziyaretçilerini etkiliyor
 - Kömürcü Tepe, doğa severlerin ve tarihi merak edenlerin bir araya gelebileceği ender mekanlardan biri

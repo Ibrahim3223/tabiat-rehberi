@@ -29,7 +29,7 @@ wikidata_id: "Q134727952"
 
 # Piramit Mezar-Söğüt, Marmaris
 
-Marmaris'in güzelliklerini keşfetmek isteyenler için Piramit Mezar-Söğüt, önemli bir durak noktasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alandır. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Marmaris'in tarihi ve doğal güzelliklerini bir arada sunan Piramit Mezar-Söğüt, ziyaretçilerini bekliyor. Burada, tarihi yapılar, yeşilin her tonunu bulabileceğiniz ormanlar ve temiz hava sizi karşılayacak.
+Marmaris'in güzelliklerini keşfetmek isteyenler için Piramit Mezar-Söğüt, önemli bir durak noktasıdır. Marmaris'in tarihi ve doğal güzelliklerini bir arada sunan Piramit Mezar-Söğüt, ziyaretçilerini bekliyor. Burada, tarihi yapılar, yeşilin her tonunu bulabileceğiniz ormanlar ve temiz hava sizi karşılayacak.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Piramit Mezar-Söğüt'ü ziyaret etmek isteyenler, birçok ulaşım imkânına 
 ## İlginç Bilgiler
 
 - Piramit Mezar-Söğüt, Marmaris'in en önemli tarihi mekanlarından biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alandır.
+
 - Piramit Mezar-Söğüt'ün tarihi geçmişi, yüzyıllar öncesine dayanıyor.
 - Bölge, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Piramit Mezar-Söğüt, ziyaretçilerine birçok aktivite imkânı sunuyor.

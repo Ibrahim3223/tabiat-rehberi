@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Piknik","Balık Avı","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"YAZIR GÖLETİ","caption":"YAZIR GÖLETİ","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YAZIR%20G%C3%96LET%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228760","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yazır Göleti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor."
+"
 keywords: ["Yazır Göleti","İç Anadolu Bölgesi","Doğal Alan","Gölet","Yeşil Cennet"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228760"

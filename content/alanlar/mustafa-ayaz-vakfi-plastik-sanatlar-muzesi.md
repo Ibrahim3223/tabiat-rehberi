@@ -37,7 +37,7 @@ Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, tarihsel geçmişi ile dikkat çek
 
 ## Coğrafya
 
-Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, Ankara'nın Çankaya ilçesinde yer almaktadır. Müze, şehrin merkezinde bulunmaktadır ve ulaşımı kolaydır. Müzenin çevresinde, birçok önemli kültürel ve tarihi mekân bulunmaktadır. Müze, Ankara'nın coğrafi olarak önemli bir konumda yer almaktadır. Ankara, İç Anadolu Bölgesi'nin merkezi bir şehridir ve müze, bu bölgenin kültürel zenginliklerini yansıtmaktadır. Müzenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsamaktadır. Bu alan, ziyaretçiler için dinlenme ve gezi imkanı sunmaktadır. Ayrıca, müze çevresinde, birçok önemli sanat eseri ve heykel bulunmaktadır.
+Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, Ankara'nın Çankaya ilçesinde yer almaktadır. Müze, şehrin merkezinde bulunmaktadır ve ulaşımı kolaydır. Müzenin çevresinde, birçok önemli kültürel ve tarihi mekân bulunmaktadır. Müze, Ankara'nın coğrafi olarak önemli bir konumda yer almaktadır. Ankara, İç Anadolu Bölgesi'nin merkezi bir şehridir ve müze, bu bölgenin kültürel zenginliklerini yansıtmaktadır. Bu alan, ziyaretçiler için dinlenme ve gezi imkanı sunmaktadır. Ayrıca, müze çevresinde, birçok önemli sanat eseri ve heykel bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi'ni ziyaret etmek, sanatseverler iç
 
 ## İlginç Bilgiler
 
-- Müze, 140 hektarlık bir alanı kapsar
 - Müzenin koleksiyonunda, Türkiye'nin önde gelen sanatçılarının eserleri bulunmaktadır
 - Müze, düzenli olarak sergi ve etkinlikler düzenler
 - Müze, sanat eğitimine de önem vermektedir

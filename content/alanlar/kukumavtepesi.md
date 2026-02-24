@@ -28,7 +28,7 @@ wikidata_id: "Q31388825"
 
 # KukumavTepesi
 
-KukumavTepesi, Tekirdağ'ın güzide noktalarından biri olarak Marmara Bölgesi'nin önemli doğal alanları arasında yer alıyor. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. KukumavTepesi, ziyaretçilerini bölgeye özgü bitki türleri ve hayvanlarla karşılaşmaya davet ediyor. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon olarak görülüyor.
+KukumavTepesi, Tekirdağ'ın güzide noktalarından biri olarak Marmara Bölgesi'nin önemli doğal alanları arasında yer alıyor. KukumavTepesi, ziyaretçilerini bölgeye özgü bitki türleri ve hayvanlarla karşılaşmaya davet ediyor. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

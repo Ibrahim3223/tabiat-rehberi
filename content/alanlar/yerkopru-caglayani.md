@@ -51,7 +51,7 @@ Yerköprü Çağlayanı, yıl boyunca ziyaret edilebilir. Yerköprü Çağlayan�
 ## İlginç Bilgiler
 
 - Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alıyor.
-- Yerköprü Çağlayanı, 140 hektarlık bir alana yayılmış.
+
 - Yerköprü Çağlayanı, birçok bitki ve hayvan türünün yaşam alanı.
 - Yerköprü Çağlayanı, yıl boyunca ziyaret edilebilir.
 - Yerköprü Çağlayanı, doğa yürüyüşleri, piknik, fotoğraf çekimi gibi birçok aktivite sunuyor.

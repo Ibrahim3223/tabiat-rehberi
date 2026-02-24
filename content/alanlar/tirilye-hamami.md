@@ -38,7 +38,7 @@ Tirilye Hamamı, tarihsel geçmişi ile de dikkat çekmektedir. Bu bölgede, yü
 
 ## Coğrafya
 
-Tirilye Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Bu plaj, Bursa'nın Mudanya ilçesinde yer almaktadır ve 140 hektarlık bir alanı kaplamaktadır. Plajın çevresinde, çeşitli ağaçlar ve yeşillikler bulunmakta olup, ziyaretçilere doğal bir ortam sunmaktadır. Tirilye Hamamı, denize girerek serinlemek isteyenler için ideal bir destinasyon olup, aynı zamanda doğal güzelliği ve temizliği ile de dikkat çekmektedir. Plajın kumları ince ve beyaz olup, denizin suyu ise berra ve serindir. Tirilye Hamamı, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilmektedir. Bu bölgede, çeşitli turistik faaliyetler gerçekleştirilebilmekte olup, ziyaretçiler, plajın güzelliğinin yanı sıra, bu bölgenin zengin tarihsel mirasını da keşfedebilirler. Tirilye Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunmaktadır. Plajın yakınında bulunan dağlar ve ormanlar, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler gerçekleştirebilecekleri bir ortam sunmaktadır.
+Tirilye Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Plajın çevresinde, çeşitli ağaçlar ve yeşillikler bulunmakta olup, ziyaretçilere doğal bir ortam sunmaktadır. Tirilye Hamamı, denize girerek serinlemek isteyenler için ideal bir destinasyon olup, aynı zamanda doğal güzelliği ve temizliği ile de dikkat çekmektedir. Plajın kumları ince ve beyaz olup, denizin suyu ise berra ve serindir. Tirilye Hamamı, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilmektedir. Bu bölgede, çeşitli turistik faaliyetler gerçekleştirilebilmekte olup, ziyaretçiler, plajın güzelliğinin yanı sıra, bu bölgenin zengin tarihsel mirasını da keşfedebilirler. Tirilye Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunmaktadır. Plajın yakınında bulunan dağlar ve ormanlar, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler gerçekleştirebilecekleri bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Tirilye Hamamı, ziyaretçilere çeşitli olanaklar sunmaktadır. Plajın yakın
 ## İlginç Bilgiler
 
 - Tirilye Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alanı kaplamaktadır.
+
 - Tirilye Hamamı, denize girerek serinlemek isteyenler için ideal bir destinasyon olup, aynı zamanda doğal güzelliği ve temizliği ile de dikkat çekmektedir.
 - Plajın yakınında bulunan dağlar ve ormanlar, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler gerçekleştirebilecekleri bir ortam sunmaktadır.
 - Tirilye Hamamı, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilmektedir.

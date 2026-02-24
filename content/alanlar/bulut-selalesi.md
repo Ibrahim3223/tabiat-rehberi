@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Tar_Creek_Waterfall_View.jpg","alt":"Bulut Şelalesi manzarası","credit":"Kadir KARA","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Tar_Creek_Waterfall.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tar_Creek_Waterfall.jpg/1280px-Tar_Creek_Waterfall.jpg","alt":"Bulut Şelalesi - Tar Creek Waterfall","credit":"Kadir KARA","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Tar_Creek_Waterfall_and_Bridge.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tar_Creek_Waterfall_and_Bridge.jpg/1280px-Tar_Creek_Waterfall_and_Bridge.jpg","alt":"Bulut Şelalesi - Tar Creek Waterfall and Bridge","credit":"Kadir KARA","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/%C3%87AMLIHEM%C5%9E%C4%B0N_2010_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%C3%87AMLIHEM%C5%9E%C4%B0N_2010_-_panoramio.jpg/1280px-%C3%87AMLIHEM%C5%9E%C4%B0N_2010_-_panoramio.jpg","alt":"Bulut Şelalesi - ÇAMLIHEMŞİN 2010 - panoramio","credit":"nurettingülay(from T…","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Bulut_%C5%9Felalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bulut_%C5%9Felalesi.jpg/1280px-Bulut_%C5%9Felalesi.jpg","alt":"Bulut Şelalesi - Bulut şelalesi","credit":"Dr.güngör","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/89/Tar_deresi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tar_deresi.jpg/1280px-Tar_deresi.jpg","alt":"Bulut Şelalesi - Tar deresi","credit":"Dr.güngör","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulut%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076470","tip":"genel"}]
-description: "Rize'nin Çamlıhemşin ilçesinde bulunan Bulut Şelalesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bulut Şelalesi","Rize","Çamlıhemşin","Karadeniz Bölgesi","doğa","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q61076470"
@@ -51,7 +51,7 @@ Bulut Şelalesi'ni ziyaret etmek, özellikle doğa severler için gerçek bir ke
 ## İlginç Bilgiler
 
 - Bulut Şelalesi, Rize ilinin en önemli turizm noktalarından biri
-- Şelale, 140 hektarlık bir alana yayılmış durumda
+
 - Bölge, zengin flora ve fauna çeşitliliğine sahip
 - Şelale, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor
 - Çamlıhemşin ilçesi, Karadeniz Bölgesi'nin önemli kültürel merkezlerinden biri

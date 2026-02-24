@@ -28,7 +28,7 @@ wikidata_id: "Q31388197"
 
 # Ortaca Tepesi
 
-Ortaca Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Denizli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ortaca Tepesi, hem doğa severler hem de tarih meraklıları tarafından sıkça ziyaret edilen bir yer olarak biliniyor. Tepenin eteklerinde yer alan köyler, misafirlerine geleneksel yemekler veospitalite sunuyor.
+Ortaca Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Ortaca Tepesi, hem doğa severler hem de tarih meraklıları tarafından sıkça ziyaret edilen bir yer olarak biliniyor. Tepenin eteklerinde yer alan köyler, misafirlerine geleneksel yemekler veospitalite sunuyor.
 
 ## Tarihçe
 

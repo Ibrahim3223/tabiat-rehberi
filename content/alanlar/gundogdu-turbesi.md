@@ -51,7 +51,7 @@ Gündoğdu Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve 
 ## İlginç Bilgiler
 
 - Gündoğdu Türbesi, Niğde ilinin önemli turizm noktalarından biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Gündoğdu Türbesi, çeşitli bitki türleri ve hayvanlar ile rich bir ekosisteme sahiptir.
 - Bölge, step ve bozkır gibi doğal alanlardan oluşur.
 - Gündoğdu Türbesi, yılın her dönemi ziyaret edilebilir.

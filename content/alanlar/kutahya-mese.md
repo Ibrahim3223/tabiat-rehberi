@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Kutahya Mese","caption":"Kutahya Mese","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227766","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kutahya Mese","milli park","doğa","gezi","iç Anadolu","turizm","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227766"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227766"
 
 # Kutahya Mese
 
-Kutahya Mese milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Parkın etrafı, çeşitli bitki türleriyle dolu ormanlarla çevrilidir.
+ Parkın etrafı, çeşitli bitki türleriyle dolu ormanlarla çevrilidir.
 
 ## Tarihçe
 

@@ -42,7 +42,6 @@ Kahramanmaras-Antakya-Ulucinar Kızılçam milli parkını ziyaret etmek, doğa 
 
 ## İlginç Bilgiler
 
-- Parkın alanı, 140 hektarlık bir alana sahip
 - Parkın yüksekliği, yüksek bir konumda
 - Parkta, çeşitli bitki türleri ve yaban hayatı bulunuyor
 - Parkın ekosistemi, doğanın güzelliği ve yaban hayatı açısından zengin

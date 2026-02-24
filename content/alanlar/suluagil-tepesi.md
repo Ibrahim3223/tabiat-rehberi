@@ -49,7 +49,7 @@ Suluağıl Tepesi'ni ziyaret etmek, doğa severler için ideal bir gezi seçene�
 ## İlginç Bilgiler
 
 - Suluağıl Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Bu bölge, 140 hektarlık bir alanı kaplıyor.
+
 - Suluağıl Tepesi, trekking ve doğa yürüyüşü için ideal bir destinasyon.
 - Tepenin zirvesinden, Karadeniz Bölgesi'nin eşsiz manzarasını izleme mümkün.
 - Suluağıl Tepesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.

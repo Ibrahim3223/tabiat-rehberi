@@ -50,7 +50,7 @@ Rami Kışlası Hamamı, ziyaretçilerine birçok aktivite ve imkan sunar. Bu al
 ## İlginç Bilgiler
 
 - Rami Kışlası Hamamı, Osmanlı dönemine ait bir tarihi mekan
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Rami Kışlası Hamamı, çeşitli bitki türlerini barındırır
 - Bu alan, birçok hayvan türünün yaşam alanı olarak bilinir
 - Rami Kışlası Hamamı, ziyaretçilerine birçok aktivite ve imkan sunar

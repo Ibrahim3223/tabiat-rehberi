@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Flora ve fauna hakkında bilgi edinme","F
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Mugla-Kemer-Akcay Kızılçam 2","caption":"Mugla-Kemer-Akcay Kızılçam 2","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Akcay%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227917","tip":"genel"}]
-description: "Mugla-Kemer-Akcay Kızılçam 2 milli parkı, 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor."
+"
 keywords: ["Mugla-Kemer-Akcay Kızılçam 2","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227917"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227917"
 
 # Mugla-Kemer-Akcay Kızılçam 2
 
- Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın hikayesi, yüzyıllar boyunca şekillenmiş ve bugünkü haline ulaşmıştır. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğa ile iç içe bir deneyim yaşayabilir hem de bölgenin tarihini ve kültürünü öğrenebilirler.
+ Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın hikayesi, yüzyıllar boyunca şekillenmiş ve bugünkü haline ulaşmıştır. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğa ile iç içe bir deneyim yaşayabilir hem de bölgenin tarihini ve kültürünü öğrenebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mugla-Kemer-Akcay Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Mugla-Kemer-Akcay Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafyası, çeşitli dağlar, ovalar ve nehirler ile şekillenmiştir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın iklimi, karasal iklim özellikleri taşır. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, çeşitli bitki türleri ve fauna için elverişlidir. Milli parkın çevresi, çeşitli dağlar ve ovalar ile çevrilidir. Bu bölge, ziyaretçilere geniş bir açık alan sunar ve doğa ile iç içe bir deneyim yaşamalarına olanak tanır.
+Mugla-Kemer-Akcay Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölgenin coğrafyası, çeşitli dağlar, ovalar ve nehirler ile şekillenmiştir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın iklimi, karasal iklim özellikleri taşır. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, çeşitli bitki türleri ve fauna için elverişlidir. Milli parkın çevresi, çeşitli dağlar ve ovalar ile çevrilidir. Bu bölge, ziyaretçilere geniş bir açık alan sunar ve doğa ile iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mugla-Kemer-Akcay Kızılçam 2 milli parkını ziyaret etmek, ziyaretçiler iç
 
 ## İlginç Bilgiler
 
-- Mugla-Kemer-Akcay Kızılçam 2 milli parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar.
 - Milli parkın kuruluş amacı, bu bölgenin doğal güzelliklerini ve tarihi eserlerini koruma ve ziyaretçilere sunmaktır.
 - Milli parkın flora ve fauna, mevsimsel değişimlere göre şekillenir.
 - Ziyaretçiler, milli parkı gezerken, bu bölgenin tarihini ve kültürünü öğrenebilirler.

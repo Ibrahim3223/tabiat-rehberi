@@ -30,7 +30,7 @@ wikidata_id: "Q131391237"
 
 # Hümâ Hatun Türbesi
 
-Hümâ Hatun Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir yeşil alanın içinde bulunmakta ve ziyaretçilere hem tarih hem de doğa güzelliği sunmaktadır. 200 futbol sahası büyüklüğünde olan bu alan, doğa severler ve tarih meraklıları için bir çekim noktasıdır. Hümâ Hatun Türbesi, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini bir zaman yolculuğuna çıkararak, hem bilgi hem de güzellik sunmaktadır.
+Hümâ Hatun Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir yapıdır. Hümâ Hatun Türbesi, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini bir zaman yolculuğuna çıkararak, hem bilgi hem de güzellik sunmaktadır.
 
 ## Tarihçe
 

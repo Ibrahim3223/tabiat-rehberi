@@ -48,7 +48,6 @@ Keriyeraşa Tepesi'ni ziyaret etmek, bölgenin doğal ve kültürel güzellikler
 
 ## İlginç Bilgiler
 
-- Keriyeraşa Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış.
 - Keriyeraşa Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Bu bölge, mevsimsel değişimlere göre güzelliğini değiştiriyor.

@@ -36,7 +36,7 @@ wikidata_id: "Q34810178"
 
 ## Coğrafya
 
-Üçöz Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Tepenin konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Yaklaşık 140 hektarlık bir alanı kaplayan tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tepenin yüksekliği, bölgenin manzarasını ve panoramasını etkiler. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip olan Üçöz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafındaki vadiler ve ovalar, bölgenin jeolojik yapısını ve tarihi geçmişini yansıtan önemli coğrafi oluşumlarıdır.
+Üçöz Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Tepenin konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Tepenin yüksekliği, bölgenin manzarasını ve panoramasını etkiler. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip olan Üçöz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafındaki vadiler ve ovalar, bölgenin jeolojik yapısını ve tarihi geçmişini yansıtan önemli coğrafi oluşumlarıdır.
 
 ## Flora ve Fauna
 

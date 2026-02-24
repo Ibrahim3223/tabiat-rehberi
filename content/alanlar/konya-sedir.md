@@ -22,7 +22,7 @@ wikidata_id: "Q108227214"
 
 # Konya-Sedir
 
-Konya-Sedir milli parkı, Konya ilinin güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliğin merkezinde bulunmaktadır. Konya ilinin coğrafi yapısı ve iklim özellikleri, bu bölgenin doğal güzelliğini daha da ön plana çıkarmaktadır. Konya-Sedir milli parkı, aynı zamanda İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir.
+ Konya ilinin coğrafi yapısı ve iklim özellikleri, bu bölgenin doğal güzelliğini daha da ön plana çıkarmaktadır. Konya-Sedir milli parkı, aynı zamanda İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Konya-Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Konya-Sedir milli parkı, Konya ilinin coğrafi yapısı ve iklim özellikleri ile şekillenmiş bir bölgede yer almaktadır. Bu park, yaklaşık 140 hektarlık bir alanı kapsamakta ve çeşitli bitki türleri ile zengin fauna bulunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik göstermekte ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunmaktadır. Konya-Sedir milli parkı, aynı zamanda çevreye duyarlı bir turizm anlayışını desteklemektedir.
+Konya-Sedir milli parkı, Konya ilinin coğrafi yapısı ve iklim özellikleri ile şekillenmiş bir bölgede yer almaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimi ile benzerlik göstermekte ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunmaktadır. Konya-Sedir milli parkı, aynı zamanda çevreye duyarlı bir turizm anlayışını desteklemektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Konya-Sedir milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat ç
 ## İlginç Bilgiler
 
 - Konya-Sedir milli parkı, Konya ilinin önemli turizm merkezlerinden biridir.
-- Bu park, yaklaşık 140 hektarlık bir alanı kapsamaktadır.
+
 - Konya-Sedir milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu park, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapmaktadır.
 - Konya-Sedir milli parkı, çevre koruma çalışmaları ile dikkat çekmektedir.

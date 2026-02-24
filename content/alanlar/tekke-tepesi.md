@@ -28,7 +28,7 @@ wikidata_id: "Q31389978"
 
 # Tekke Tepesi
 
-Tekke Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tekke Tepesi, coğrafyası ve tarihi geçmişiyle dikkat çekiyor. Doğa severler ve tarih meraklıları için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir.
+Tekke Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Tekke Tepesi, coğrafyası ve tarihi geçmişiyle dikkat çekiyor. Doğa severler ve tarih meraklıları için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir.
 
 ## Tarihçe
 

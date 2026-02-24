@@ -28,7 +28,7 @@ wikidata_id: "Q31385450"
 
 # Sinekseken Tepe
 
-Sinekseken Tepe, Kilis ilinin güzide noktalarından biri olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin önemli coğrafik oluşumlarından biri olan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. Sinekseken Tepe, ziyaretçilerini bölge hakkında detaylı bilgi sahibi olmaya davet ediyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor.
+Sinekseken Tepe, Kilis ilinin güzide noktalarından biri olarak dikkat çekiyor. Sinekseken Tepe, ziyaretçilerini bölge hakkında detaylı bilgi sahibi olmaya davet ediyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sinekseken Tepe'nin tarihi geçmişi, bölgenin genel tarihini yansıtan önemli
 
 ## Coğrafya
 
-Sinekseken Tepe, coğrafi konumu itibariyle Güneydoğu Anadolu Bölgesi'nin önemli bir noktası. Bu tepe, Kilis ilinin sınırları içerisinde yer alıyor ve bölgenin coğrafi yapısını etkileyen önemli bir faktör. Sinekseken Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, bölge için önemli bir doğal kaynak teşkil ediyor. Bu tepe, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor. Sinekseken Tepe'nin coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkileyen önemli bir faktör. Bu tepe, ziyaretçilerine bölge hakkında detaylı bilgi sahibi olma fırsatı sunuyor. Sinekseken Tepe, coğrafi güzellikleri ile ziyaretçilerini büyülüyor.
+Sinekseken Tepe, coğrafi konumu itibariyle Güneydoğu Anadolu Bölgesi'nin önemli bir noktası. Bu tepe, Kilis ilinin sınırları içerisinde yer alıyor ve bölgenin coğrafi yapısını etkileyen önemli bir faktör. Bu tepe, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor. Sinekseken Tepe'nin coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkileyen önemli bir faktör. Bu tepe, ziyaretçilerine bölge hakkında detaylı bilgi sahibi olma fırsatı sunuyor. Sinekseken Tepe, coğrafi güzellikleri ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Sinekseken Tepe, ziyaretçilerine bölge hakkında detaylı bilgi sahibi olma f�
 
 ## İlginç Bilgiler
 
-- Sinekseken Tepe, 140 hektarlık bir alanı kaplıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Sinekseken Tepe, bölgenin coğrafi yapısını etkileyen önemli bir faktör
 - Bu tepe, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor
 - Sinekseken Tepe, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapıyor

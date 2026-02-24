@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2778b.jpg","alt":"Bağtepe manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2755b.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2755b.jpg/1280px-Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2755b.jpg","alt":"Bağtepe - Gaziantep Zeugma Museum Yarımca-Bağtepe mosaic in 2014 2755b","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2757b.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2757b.jpg/1280px-Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2757b.jpg","alt":"Bağtepe - Gaziantep Zeugma Museum Yarımca-Bağtepe mosaic in 2014 2757b","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/39/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2758b.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2758b.jpg/1280px-Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2758b.jpg","alt":"Bağtepe - Gaziantep Zeugma Museum Yarımca-Bağtepe mosaic in 2014 2758b","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2756b.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2756b.jpg/1280px-Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2756b.jpg","alt":"Bağtepe - Gaziantep Zeugma Museum Yarımca-Bağtepe mosaic in 2014 2756b","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2774b.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2774b.jpg/1280px-Gaziantep_Zeugma_Museum_Yar%C4%B1mca-Ba%C4%9Ftepe_mosaic_in_2014_2774b.jpg","alt":"Bağtepe - Gaziantep Zeugma Museum Yarımca-Bağtepe mosaic in 2014 2774b","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571095","tip":"genel"}]
-description: "Kırklareli'nin doğal güzellikleri arasında yer alan Bağtepe, 140 hektarlık bir alana sahiptir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğayla baş başa bırakıyor."
+"
 keywords: ["Bağtepe","Kırklareli","Marmara Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31571095"
@@ -41,15 +41,13 @@ Bağtepe, Marmara Bölgesi'nin coğrafyasına uygun olarak yer alıyor. Bağtepe
 
 ## Flora ve Fauna
 
-Bağtepe, flora ve fauna açısından zengin bir alana sahiptir. Bu 140 hektarlık alan, çeşitli bitkiler ve hayvanlar barındırıyor. Bağtepe, ziyaretçilerine hem flora hem de fauna açısından çeşitli imkanlar sunuyor. Bu yeşil alan, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor ve onlara çeşitli doğa güzellikleri sunuyor. Bağtepe'nin flora ve faunası, ziyaretçilerini cezbeden bir diğer önemli unsur olarak karşımıza çıkıyor.
+Bağtepe, flora ve fauna açısından zengin bir alana sahiptir. Bağtepe, ziyaretçilerine hem flora hem de fauna açısından çeşitli imkanlar sunuyor. Bu yeşil alan, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor ve onlara çeşitli doğa güzellikleri sunuyor. Bağtepe'nin flora ve faunası, ziyaretçilerini cezbeden bir diğer önemli unsur olarak karşımıza çıkıyor.
 
 ## Ziyaret Bilgileri
 
-Bağtepe'yi ziyaret etmek isteyenler, özellikle bahar ve yaz aylarını tercih edebilir. Bu yeşil alan, ziyaretçilerine hem dinlenme hem de doğayı seyretme imkanı sunuyor. Bağtepe, hafta sonları ve tatil günlerinde ziyaretçilerini ağırlıyor. Ziyaretçiler, bu 140 hektarlık alanı yürüyere veya bisikletle gezebilir. Bağtepe, ziyaretçilerine çeşitli imkanlar sunuyor ve onları doğayla baş başa bırakıyor.
+Bağtepe'yi ziyaret etmek isteyenler, özellikle bahar ve yaz aylarını tercih edebilir. Bu yeşil alan, ziyaretçilerine hem dinlenme hem de doğayı seyretme imkanı sunuyor. Bağtepe, hafta sonları ve tatil günlerinde ziyaretçilerini ağırlıyor. Bağtepe, ziyaretçilerine çeşitli imkanlar sunuyor ve onları doğayla baş başa bırakıyor.
 
 ## İlginç Bilgiler
-
-- Bağtepe, 140 hektarlık bir alana sahiptir.
 
 - Bağtepe, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biridir.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptı.

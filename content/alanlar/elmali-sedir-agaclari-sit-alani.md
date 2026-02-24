@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","dağcılık","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Elmalı Sedir Ağaçları Sit Alanı","caption":"Elmalı Sedir Ağaçları Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmal%C4%B1%20Sedir%20A%C4%9Fa%C3%A7lar%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226653","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sedir ormanı"
+
 keywords: ["Elmalı Sedir Ağaçları","İç Anadolu Bölgesi","sedir ormanı","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226653"
@@ -30,7 +30,7 @@ Elmalı Sedir Ağaçları Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Elmalı Sedir Ağaçları Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. 140 hektarlık sedir ormanı, dağların eteklerinde ve vadilerde yer alıyor. Bu bölge, coğrafi olarak çeşitli ve zengin bir yapıya sahip. Dağlar, vadiler, ve sedir ormanları, ziyaretçilere farklı coğrafi şekiller sunuyor. Elmalı Sedir Ağaçları Sit Alanı, aynı zamanda iklim olarak da çeşitli bir yapıya sahip. Bölge, karasal iklimin etkisinde ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sunuyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren sedir ormanları, yazın sıcakk günleri ve sonbaharda renkli yapraklar, ziyaretçilere yıl boyunca farklı güzellikler sunuyor.
+Elmalı Sedir Ağaçları Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli ve zengin bir yapıya sahip. Dağlar, vadiler, ve sedir ormanları, ziyaretçilere farklı coğrafi şekiller sunuyor. Elmalı Sedir Ağaçları Sit Alanı, aynı zamanda iklim olarak da çeşitli bir yapıya sahip. Bölge, karasal iklimin etkisinde ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sunuyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren sedir ormanları, yazın sıcakk günleri ve sonbaharda renkli yapraklar, ziyaretçilere yıl boyunca farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Elmalı Sedir Ağaçları Sit Alanı, ziyaretçilere çeşitli deneyimler sunuyo
 
 ## İlginç Bilgiler
 
-- Elmalı Sedir Ağaçları Sit Alanı, 140 hektarlık bir alana sahip
 - Sedir ormanları, çeşitli bitki türlerine ev sahipliği yapıyor
 - Bu bölge, fauna açısından da zengin
 - Ziyaretçiler, sedir ormanlarında çeşitli hayvan türleri ile karşılaşabiliyor

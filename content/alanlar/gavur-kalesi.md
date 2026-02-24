@@ -51,7 +51,7 @@ Gavur Kalesi'ni ziyaret etmek, hem tarihi hem de doğayı birlikte keşfetme fı
 ## İlginç Bilgiler
 
 - Gavur Kalesi, Ankara'nın Haymana ilçesinde yer alıyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Gavur Kalesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmasıyla şekillenmiştir
 - Bu bölge, coğrafi konumu itibariyle, çeşitli yaban hayvanlarının yaşadığı bir bölge olarak dikkat çekiyor
 - Gavur Kalesi'ni ziyaret etmek, hem tarihi hem de doğayı birlikte keşfetme fırsatı sunuyor

@@ -21,7 +21,7 @@ aktiviteler: ["Denizde yüzme","Güneşlenme","Plaj voleybolu","Yürüyüş"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%40_babaylon_beach_%28october_2009%29_-_panoramio.jpg/960px-%40_babaylon_beach_%28october_2009%29_-_panoramio.jpg","alt":"Türbe (Pirlibey Mahallesi)","caption":"Türbe (Pirlibey Mahallesi)","credit":"@ babaylon beach (october 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrbe%20(Pirlibey%20Mahallesi)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391623","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Nazilli ilçesinde bulunan Türbe Plajı, 140 hektarlık geniş alanıyla ziyaretçilerini ağırlıyor."
+"
 keywords: ["Türbe Plajı","Nazilli","Aydın","Ege Bölgesi","plajlar","deniz","turizm","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391623"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391623"
 
 # Türbe (Pirlibey Mahallesi)
 
-Türbe Plajı, Aydın'ın Nazilli ilçesinde, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık geniş bir alana yayılan plaj, misafirlerine geniş bir alan sunar. Bu genişlik, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve plajda çeşitli etkinliklere katılmalarına olanak tanır. Türbe Plajı, Nazilli'nin en önemli turizm merkezlerinden biri olarak görülmektedir.
+Türbe Plajı, Aydın'ın Nazilli ilçesinde, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu genişlik, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve plajda çeşitli etkinliklere katılmalarına olanak tanır. Türbe Plajı, Nazilli'nin en önemli turizm merkezlerinden biri olarak görülmektedir.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Türbe Plajı, yılın her döneminde ziyaret edilebilir. İlkbahar ve yaz aylar
 
 ## İlginç Bilgiler
 
-- Türbe Plajı, 140 hektarlık geniş bir alana yayılır.
 - Plajın etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir.
 - Plajda, birçok kuş türü bulunur.
 - Plajın yakınında, birçok otel, restoran ve kafeler bulunur.

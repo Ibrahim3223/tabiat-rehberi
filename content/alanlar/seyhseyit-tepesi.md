@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Şeyhseyit Tepesi","caption":"Şeyhseyit Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhseyit%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582418","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'te yer alan Şeyhseyit Tepesi, 140 hektarlık geniş bir alana sahiptir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar."
+"
 keywords: ["Şeyhseyit Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31582418"
@@ -28,7 +28,7 @@ wikidata_id: "Q31582418"
 
 # Şeyhseyit Tepesi
 
-Şeyhseyit Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Siirt ilinin sınırları içerisinde yer alan bu tepe, 140 hektarlık geniş bir alanı kaplar. Şeyhseyit Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Şeyhseyit Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Şeyhseyit Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ wikidata_id: "Q31582418"
 
 ## İlginç Bilgiler
 
-- Şeyhseyit Tepesi, 140 hektarlık geniş bir alana sahiptir.
 - Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri bulunur.
 - Şeyhseyit Tepesi, önemli bir fauna alanıdır.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

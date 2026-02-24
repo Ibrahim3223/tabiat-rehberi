@@ -43,7 +43,7 @@ Doğanli Cinari, ziyaretçilerini bekliyor. Bu milli park, ziyaretçilerine doğ
 ## İlginç Bilgiler
 
 - Doğanli Cinari, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran bir milli park.
-- Bu milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Doğanli Cinari, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 - Bu milli park, bölgenin ekolojik dengesinin korunması için önemli bir rol oynuyor.
 - Doğanli Cinari, ziyaretçilerine, bölgenin doğal güzelliği ve ekolojik önemi hakkında bilgi sahibi olma fırsatı sunuyor.

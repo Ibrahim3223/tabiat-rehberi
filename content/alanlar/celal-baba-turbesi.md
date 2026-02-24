@@ -37,7 +37,7 @@ Celal Baba Türbesi, Kars ilinin tarihi geçmişiçerisinde önemli bir yere sah
 
 ## Coğrafya
 
-Celal Baba Türbesi, Kars ilinin coğrafi yapısı içerisinde özel bir konumda yer alıyor. Bu mekan, Kars'ın merkez ilçesinde bulunmakta ve ilin diğer önemli noktalarına yakınlığıyla dikkat çekiyor. Celal Baba Türbesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve canlılarla dolu. Mekan, Kars'ın iklimine uygun olarak tasarlanmış ve ziyaretçilere, bölgenin doğal güzelliklerini deneyimleme fırsatı sunuyor. Celal Baba Türbesi, Kars'ın coğrafi çeşitliliğiçerisinde önemli bir nokta olarak kabul ediliyor ve bu mekan, ziyaretçilere Kars'ın güzelliğini gösteriyor. Mekan etrafında, çeşitli dağlar ve vadiler yer alıyor ve bu coğrafi özellikler, Celal Baba Türbesi'nin güzelliğini artırıyor.
+Celal Baba Türbesi, Kars ilinin coğrafi yapısı içerisinde özel bir konumda yer alıyor. Bu mekan, Kars'ın merkez ilçesinde bulunmakta ve ilin diğer önemli noktalarına yakınlığıyla dikkat çekiyor. Mekan, Kars'ın iklimine uygun olarak tasarlanmış ve ziyaretçilere, bölgenin doğal güzelliklerini deneyimleme fırsatı sunuyor. Celal Baba Türbesi, Kars'ın coğrafi çeşitliliğiçerisinde önemli bir nokta olarak kabul ediliyor ve bu mekan, ziyaretçilere Kars'ın güzelliğini gösteriyor. Mekan etrafında, çeşitli dağlar ve vadiler yer alıyor ve bu coğrafi özellikler, Celal Baba Türbesi'nin güzelliğini artırıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Celal Baba Türbesi, ziyaretçilere Kars'ın tarihi ve doğal güzelliklerini de
 ## İlginç Bilgiler
 
 - Celal Baba Türbesi, Kars'ın tarihi geçmişiçerisinde önemli bir yere sahip.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Celal Baba Türbesi, Kars'ın flora ve faunasının zengin örneklerini bir araya getiriyor.
 - Mekan, yılın her döneminde ziyaret edilebilir.
 - Celal Baba Türbesi, Kars'ın kültürel mirasının önemli bir parçası olarak kabul ediliyor.

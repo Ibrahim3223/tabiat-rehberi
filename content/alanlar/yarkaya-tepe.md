@@ -28,7 +28,7 @@ wikidata_id: "Q31387538"
 
 # Yarkaya Tepe
 
-Yarkaya Tepe, Çanakkale'nin önemli güzelliklerinden biridir. Marmara Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir. Yarkaya Tepe, ziyaretçilerine geniş bir manzara sunar ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
+Yarkaya Tepe, Çanakkale'nin önemli güzelliklerinden biridir. Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir. Yarkaya Tepe, ziyaretçilerine geniş bir manzara sunar ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yarkaya Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Yarkaya Tepe, Çanakkale'nin coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, Marmara Bölgesi'nde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Yarkaya Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin bir ekosistemi destekler. Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir. Yarkaya Tepe'nin çevresi, geniş bir manzara sunar ve ziyaretçilerine bu bölgenin güzelliğini gösterir. Bu tepe, Çanakkale'nin önemli bir parçası olarak kabul edilir ve ziyaretçilerine bu bölgenin coğrafi güzelliğini sunar.
+Yarkaya Tepe, Çanakkale'nin coğrafi yapısını oluşturan önemli bir bölgedir. Yarkaya Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin bir ekosistemi destekler. Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir. Yarkaya Tepe'nin çevresi, geniş bir manzara sunar ve ziyaretçilerine bu bölgenin güzelliğini gösterir. Bu tepe, Çanakkale'nin önemli bir parçası olarak kabul edilir ve ziyaretçilerine bu bölgenin coğrafi güzelliğini sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yarkaya Tepe, ziyaretçilerine geniş bir manzara sunar ve çeşitli bitki türl
 ## İlginç Bilgiler
 
 - Yarkaya Tepe, Çanakkale'nin önemli bir doğal güzelliğidir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Yarkaya Tepe, çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
 - Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir.
 - Yarkaya Tepe, Çanakkale'nin önemli bir parçası olarak kabul edilir.

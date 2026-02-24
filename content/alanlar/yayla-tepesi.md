@@ -50,7 +50,7 @@ Yayla Tepesi, Kastamonu'nun en önemli doğal alanlarından biri olarak kabul ed
 ## İlginç Bilgiler
 
 - Yayla Tepesi, Kastamonu'nun en yüksek noktalarından biridir
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Yayla Tepesi'nin etrafı ormanlarla çevrilidir
 - Bu tepe, Kastamonu'nun en önemli doğal alanlarından biri olarak kabul edilir
 - Yayla Tepesi, Karadeniz Bölgesi'nin iklimine sahiptir

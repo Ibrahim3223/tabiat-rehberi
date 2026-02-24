@@ -20,7 +20,7 @@ aktiviteler: ["Tarihî kalıntıları gezmek","Doğa yürüyüşü yapmak","Manz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Ayımekânı Tepesi","caption":"Ayımekânı Tepesi","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1mek%C3%A2n%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131395","tip":"genel"}]
-description: "Kahramanmaraş'ın tarihi ve doğal güzelliklerini bir araya getiren Ayımekânı Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Ayımekânı Tepesi","Kahramanmaraş","Akdeniz Bölgesi","Tarih","Doğa","Turizm","Gezi","Kahramanmaraş'ta gezilecek yerler","Ayımekânı Tepesi hakkında"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32131395"
@@ -28,7 +28,7 @@ wikidata_id: "Q32131395"
 
 # Ayımekânı Tepesi
 
-Ayımekânı Tepesi, Kahramanmaraş'ın kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan tarihi ve doğal bir güzelliktir. Bu tepe, ziyaretçilerini hem tarihi geçmişine hem de doğanın güzelliğine tanık olmaya davet ediyor. 200 futbol sahası büyüklüğünde olan bu alan, hem geniş hem de zengin bir ekosisteme sahiptir. Ayımekânı Tepesi, bir yandan tarihi ve kültürel önemini korurken diğer yandan da doğal güzelliği ile ziyaretçilerini etkiliyor.
+ Bu tepe, ziyaretçilerini hem tarihi geçmişine hem de doğanın güzelliğine tanık olmaya davet ediyor. Ayımekânı Tepesi, bir yandan tarihi ve kültürel önemini korurken diğer yandan da doğal güzelliği ile ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Ayımekânı Tepesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri den
 
 ## İlginç Bilgiler
 
-- Ayımekânı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepede çeşitli bitki ve hayvan türleri yaşuyor.
 - Ayımekânı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
 - Tepenin etrafında yer alan yerleşim yerleri, ziyaretçilere konaklama ve yeme içme olanakları sunuyor.

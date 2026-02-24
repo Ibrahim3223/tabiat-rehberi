@@ -52,6 +52,6 @@ Aziziye Hamamı'na ziyaret için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu d
 
 - Aziziye Hamamı, tarihi bir plajdır.
 - Bu mekan, Marmara Bölgesi'nin güzide noktalarından biridir.
-- 140 hektarlık bir yeşil alana sahiptir.
+
 - Aziziye Hamamı, Osmanlı döneminde önemli bir role sahiptir.
 - Bu bölgede, çeşitli bitki türleri ve fauna bulunur.

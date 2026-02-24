@@ -51,4 +51,4 @@ Karadikmen Tepesi'ni ziyaret etmek, doğa severler için gerçek bir keşif alan
 - Karadikmen Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir
 - Burası, flora ve fauna açısından zengin bir bölgedir
 - Karadikmen Tepesi, yüzyıllar boyu insanların yerleşim yeri olarak kullanılmış
-- Bölge, coğrafi olarak 140 hektarlık bir alanı kaplamakta
+

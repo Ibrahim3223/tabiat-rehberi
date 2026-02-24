@@ -50,7 +50,7 @@ Ayazma Hamamı'na ziyaretçiler, Üsküdar'dan çeşitli ulaşım seçenekleri i
 ## İlginç Bilgiler
 
 - Ayazma Hamamı, Üsküdar'ın en önemli doğal güzelliklerinden biri
-- Bu plaj, yaklaşık 140 hektarlık bir büyüklüğe sahip
+
 - Ayazma Hamamı, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor
 - Bu özel yer, ziyaretçilerine çeşitli flora ve fauna türleri ile dolu bir doğal ortam sunuyor
 - Ayazma Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlıyor

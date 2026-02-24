@@ -51,7 +51,7 @@ wikidata_id: "Q31191088"
 ## İlginç Bilgiler
 
 - Çit Kasrı, Osmanlı İmparatorluğu döneminde inşa edilmiştir
-- 140 hektarlık bir alana yayılmıştır
+
 - İstanbul Boğazı'nın güzelliğini izlemek için ideal bir konumda
 - Zengin bir flora ve fauna çeşitliliğine sahiptir
 - Tarih ve doğa severler için önemli bir çekim merkezi

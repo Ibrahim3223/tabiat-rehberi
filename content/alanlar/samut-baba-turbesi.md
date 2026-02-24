@@ -37,7 +37,7 @@ Samut Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Samut Baba Türbesi, Urla'nın sahildeki bir sectionunda yer alır. Bu bölge, Ege Denizi'ne bakan bir konumda bulunur ve denizin serinliğini hissetme mümkündür. Türbenin etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkiler ile çevrilidir. Bu coğrafi konumu, ziyaretçilere hem deniz hem de doğanın güzelliğini bir arada sunar. Samut Baba Türbesi, bir bütün olarak düşünüldüğünde, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, denize paralel uzanan bir sahil şeridi ve arka tarafta yükselen tepelerle çevrilidir. Coğrafi olarak, bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşır. Denizin ve doğanın bir arada olduğu bu mekan, ziyaretçilere geniş bir perspektif sunar.
+Samut Baba Türbesi, Urla'nın sahildeki bir sectionunda yer alır. Bu bölge, Ege Denizi'ne bakan bir konumda bulunur ve denizin serinliğini hissetme mümkündür. Türbenin etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkiler ile çevrilidir. Bu coğrafi konumu, ziyaretçilere hem deniz hem de doğanın güzelliğini bir arada sunar. Bu alan, denize paralel uzanan bir sahil şeridi ve arka tarafta yükselen tepelerle çevrilidir. Coğrafi olarak, bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşır. Denizin ve doğanın bir arada olduğu bu mekan, ziyaretçilere geniş bir perspektif sunar.
 
 ## Flora ve Fauna
 

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Hasandede Tepesi","caption":"Hasandede Tepesi","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasandede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390350","tip":"genel"}]
-description: "Afyonkarahisar'da bulunan Hasandede Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Hasandede Tepesi","Afyonkarahisar","Ege Bölgesi","tepe","yeşil alan","fiziksel veriler","hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390350"
@@ -48,8 +48,6 @@ Hasandede Tepesi'ni ziyaret etmek, ziyaretçilere önemli bir deneyim sunuyor. B
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Ege Bölgesi'nde yer alan önemli bir tepe
 - tarihi geçmişi
 - coğrafi konumu

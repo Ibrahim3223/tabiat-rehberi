@@ -30,7 +30,7 @@ Hartlap Kayacik'in tarihi geçmişi, yüzyıllar boyunca bu bölgede yaşayan ha
 
 ## Coğrafya
 
-Hartlap Kayacik, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölgenin coğrafi özellikleri, ziyaretçilerine çeşitli manzaralar sunmaktadır. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Hartlap Kayacik'in coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Bu milli park, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir destinasyondur. Hartlap Kayacik'in coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler yapma fırsatı sunmaktadır.
+Hartlap Kayacik, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölgenin coğrafi özellikleri, ziyaretçilerine çeşitli manzaralar sunmaktadır. Hartlap Kayacik'in coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Bu milli park, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir destinasyondur. Hartlap Kayacik'in coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler yapma fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

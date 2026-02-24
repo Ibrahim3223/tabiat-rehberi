@@ -21,8 +21,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Port_Atami-Bodrum_Marina-panorama-big.jpg/960px-Port_Atami-Bodrum_Marina-panorama-big.jpg","alt":"Seydiler Hamamı","caption":"Seydiler Hamamı","credit":"Port Atami-Bodrum Marina-panorama-big","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seydiler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738666","tip":"genel"}]
-description: "Eskişehir'in Sivrihisar ilçesinde yer alan Seydiler Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Seydiler Hamamı","Eskişehir","Sivrihisar","İç Anadolu Bölgesi","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738666"
 ---
@@ -49,8 +48,6 @@ Seydiler Hamamı, ziyaretçilerine, doğal güzelliği ve huzurlu atmosferi ile 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi
 - Sivrihisar ilçesi
 - doğal güzellik

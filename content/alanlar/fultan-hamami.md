@@ -29,7 +29,7 @@ wikidata_id: "Q131739059"
 
 # Fultan Hamamı
 
-Fultan Hamamı, Doğu Anadolu Bölgesi'nin Bingöl ilinin Kiğı ilçesinde yer alan, 140 hektarlık geniş bir alana sahip olan bir plajdır. Bu doğal alan, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Yerliler ve turistler için bir çekim merkezi olan Fulton Hamamı, doğanın güzelliğini ve sakinliğini deneyimlemek isteyenler için ideal bir destinasyondur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
+ Bu doğal alan, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Yerliler ve turistler için bir çekim merkezi olan Fulton Hamamı, doğanın güzelliğini ve sakinliğini deneyimlemek isteyenler için ideal bir destinasyondur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Fultan Hamamı, ziyaretçilerine unutulmaz anlar yaşatmak için bekliyor. Bu do
 
 ## İlginç Bilgiler
 
-- Fultan Hamamı, 140 hektarlık bir alana sahiptir.
 - Bu doğal alan, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Fultan Hamamı, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimlemek için ideal bir destinasyondur.
 - Bu bölgede, birçok farklı türde ağaç, çalı ve çiçeklerin bulunduğu bir bölgedir.

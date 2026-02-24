@@ -36,7 +36,7 @@ Kepirtarla Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Kepirtarla Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, Kilis ilinin merkezine yakın bir konumda yer alır. Kepirtarla Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve çeşitli coğrafi özelliklere sahiptir. Tepenin etrafı, dağlar ve ovalarla çevrilidir. Kepirtarla Tepesi, ziyaretçilerine farklı coğrafi yapıları sunan bir destinasyondur. Bu bölge, hem dağlık hem de ovalık alanlara sahiptir. Kepirtarla Tepesi'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunar. Bu bölge, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir.
+Kepirtarla Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, Kilis ilinin merkezine yakın bir konumda yer alır. Tepenin etrafı, dağlar ve ovalarla çevrilidir. Kepirtarla Tepesi, ziyaretçilerine farklı coğrafi yapıları sunan bir destinasyondur. Bu bölge, hem dağlık hem de ovalık alanlara sahiptir. Kepirtarla Tepesi'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunar. Bu bölge, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kepirtarla Tepesi, ziyaretçilerine çeşitli aktiviteleri sunan bir destinasyon
 
 ## İlginç Bilgiler
 
-- Kepirtarla Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu bölge, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir.
 - Kepirtarla Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir destinasyondur.
 - Bu bölge, hem bitkisel hem de hayvansal çeşitlilik açısından zengin bir bölgedir.

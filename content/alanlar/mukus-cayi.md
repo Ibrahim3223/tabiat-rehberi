@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/Ho%C5%9Fap_24_05_2010_Burg.jpg","alt":"MÜKÜS ÇAYI manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%9CK%C3%9CS%20%C3%87AYI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228920","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin buluşma noktası, 140 hektarlık yeşil alan"
+
 keywords: ["MÜKÜS ÇAYI","İç Anadolu Bölgesi","doğa","yeşil alan","çay","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228920"
@@ -31,7 +31,7 @@ MÜKÜS ÇAYI'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-MÜKÜS ÇAYI, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bölgenin coğrafi özellikleri, 140 hektarlık yeşil alanın güzelliğini ve zenginliğini sağlar. İklim, bitki türlerinin growthına uygun koşulları sağlar. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve güzellikler sunar. MÜKÜS ÇAYI, coğrafi konumu itibariyle, ziyaretçilere doğanın güzelliğini ve zenginliğini sunar. Bölgenin coğrafi özellikleri, yüzyıllar boyunca şekillenmiştir ve günümüzde önemli bir turizm merkezi haline gelmiştir.
+MÜKÜS ÇAYI, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. İklim, bitki türlerinin growthına uygun koşulları sağlar. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve güzellikler sunar. MÜKÜS ÇAYI, coğrafi konumu itibariyle, ziyaretçilere doğanın güzelliğini ve zenginliğini sunar. Bölgenin coğrafi özellikleri, yüzyıllar boyunca şekillenmiştir ve günümüzde önemli bir turizm merkezi haline gelmiştir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ MÜKÜS ÇAYI, ziyaretçilere doğanın güzelliğini ve zenginliğini sunar. Zi
 
 ## İlginç Bilgiler
 
-- MÜKÜS ÇAYI, 140 hektarlık bir yeşil alan sunar
 - Bölge, çeşitli bitki türlerine ev sahipliği yapar
 - MÜKÜS ÇAYI, doğa severler için bir cennet niteliğinde
 - Bölge, yüzyıllar boyunca şekillenmiştir

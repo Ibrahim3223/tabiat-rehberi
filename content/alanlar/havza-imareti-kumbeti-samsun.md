@@ -50,7 +50,7 @@ Havza İmareti Kümbeti Samsun'a ziyaret için, Karadeniz Bölgesi'nin ulaşım 
 ## İlginç Bilgiler
 
 - Havza İmareti Kümbeti, Samsun'un tarihi mekanlarından biri
-- 140 hektarlık yeşil alan
+
 - Karadeniz Bölgesi'nin coğrafi güzellikleri
 - İlkbahar ve yaz aylarında ziyaret etmek öneriliyor
 - Samsun iline ulaşım kolay

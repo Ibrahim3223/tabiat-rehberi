@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Rahmi_Demir_Kent_Orman%C4%B1.jpg","alt":"RAHMİ DEMİR manzarası","credit":"İmmortalance","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Lesbos%27lu_Dimitri_Demir_Sac_%C4%B0%C5%9Fleri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lesbos%27lu_Dimitri_Demir_Sac_%C4%B0%C5%9Fleri.jpg/1280px-Lesbos%27lu_Dimitri_Demir_Sac_%C4%B0%C5%9Fleri.jpg","alt":"RAHMİ DEMİR - Lesbos'lu Dimitri Demir Sac İşleri","credit":"muammerokumus","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Cekmekoy_colaj.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Cekmekoy_colaj.png","alt":"RAHMİ DEMİR - Cekmekoy colaj","credit":"Afakii, hüsamettin_alpaslan, Yunusemreatalayoglu","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/RAHM%C4%B0%20DEM%C4%B0R","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228652","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin örneklerinden biri olan Rahmi Demir milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Rahmi Demir","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228652"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228652"
 
 # RAHMİ DEMİR
 
-İç Anadolu Bölgesi'nde yer alan Rahmi Demir milli parkı, 140 hektarlık geniş bir alanı kaplıyor. Parkın coğrafi konumu, ziyaretçilerine geniş bir gökyüzü ve bol oksijen sunuyor. Doğal güzelliği, yürüyüş parkurları ve piknik alanları ile Rahmi Demir milli parkı, hem doğa severlerin hem de ailelerin ziyaret edebileceği bir destinasyon olarak dikkat çekiyor.
+ Parkın coğrafi konumu, ziyaretçilerine geniş bir gökyüzü ve bol oksijen sunuyor. Doğal güzelliği, yürüyüş parkurları ve piknik alanları ile Rahmi Demir milli parkı, hem doğa severlerin hem de ailelerin ziyaret edebileceği bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Rahmi Demir milli parkını ziyaret etmek, doğa ile iç içe olma ve geniş bir
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Rahmi Demir milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerinin örneklerinden biri
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Parkın coğrafi konumu, ziyaretçilerine geniş bir gökyüzü ve bol oksijen sunuyor

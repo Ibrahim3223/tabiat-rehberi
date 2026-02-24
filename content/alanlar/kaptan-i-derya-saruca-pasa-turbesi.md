@@ -51,6 +51,6 @@ Kaptan-ı Derya Saruca Paşa Türbesi'ni ziyaret etmek, tarihi ve doğa severler
 
 - Türbenin mimarisi, Osmanlı dönemi yapılarının özelliklerini taşır.
 - Saruca Paşa, Kaptan-ı Derya olarak görev yapmış ve denizlerde birçok başarı elde etmiştir.
-- Türbenin bulunduğu alan, 140 hektarlık bir yeşil alana sahiptir.
+
 - Gelibolu, tarihi ve doğal güzellikleriyle ziyaretçileri cezbeder.
 - Türbenin etrafı, tarihi öneme sahip diğer yapılara da ev sahipliği yapar.

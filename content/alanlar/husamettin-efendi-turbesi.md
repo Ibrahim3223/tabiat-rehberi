@@ -37,7 +37,7 @@ Hüsamettin Efendi Türbesi, tarihi geçmişiyle birlikte, önemli bir kültüre
 
 ## Coğrafya
 
-Hüsamettin Efendi Türbesi, Muğla'nın Ula ilçesinde, Ege Bölgesi'nin güzellikleriyle çevrili bir alanda bulunmaktadır. Türbe, yaklaşık 140 hektarlık bir alanı kaplamakta olup, doğal güzellikleri ve tarihi değerleriyle birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Özellikle bahar ve yaz aylarında, türbenin bulunduğu alan, renkli çiçekler ve yeşilliklerle örtülmektedir. Bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve genellikle ılıman ve yağışlı bir hava hakimdir. Hüsamettin Efendi Türbesi, doğal güzellikleri ve tarihi değerleriyle birlikte, ziyaretçilerine özel bir deneyim sunmaktadır. Özellikle doğa ve tarih meraklıları için, bu türbe, önemli bir destinasyon olarak görülmektedir.
+Hüsamettin Efendi Türbesi, Muğla'nın Ula ilçesinde, Ege Bölgesi'nin güzellikleriyle çevrili bir alanda bulunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Özellikle bahar ve yaz aylarında, türbenin bulunduğu alan, renkli çiçekler ve yeşilliklerle örtülmektedir. Bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve genellikle ılıman ve yağışlı bir hava hakimdir. Hüsamettin Efendi Türbesi, doğal güzellikleri ve tarihi değerleriyle birlikte, ziyaretçilerine özel bir deneyim sunmaktadır. Özellikle doğa ve tarih meraklıları için, bu türbe, önemli bir destinasyon olarak görülmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hüsamettin Efendi Türbesi, ziyaretçilerine zengin bir deneyim sunmaktadır. �
 ## İlginç Bilgiler
 
 - Hüsamettin Efendi Türbesi, tarihi ve kültürel açıdan önemli bir merkez olarak kabul edilmektedir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Türbenin inşa tarihi tam olarak bilinmemekle birlikte, yüzyıllar boyunca bölgede önemli bir kültürel ve tarihi merkez olarak kabul edilmiştir.
 - Hüsamettin Efendi Türbesi, ziyaretçilerine bölgenin tarihi ve kültürel değerlerini öğrenme fırsatı sunmaktadır.

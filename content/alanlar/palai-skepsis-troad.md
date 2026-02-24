@@ -37,7 +37,7 @@ Palai Skepsis, tarihi geçmişi ile dikkat çekiyor. Bu bölge, yüzyıllar boyu
 
 ## Coğrafya
 
-Palai Skepsis, Marmara Bölgesi'nin Çanakkale iline bağlı Bayramiç ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Yaklaşık 140 hektarlık bir alanı kaplayan Palai Skepsis, çeşitli bitki türleri ve hayvanlarla dolu. Bu mekan, doğa severler için gerçek bir cennet sunuyor. Palai Skepsis'in coğrafi konumu, ziyaretçilerin hem tarihi yapıları hem de doğal güzellikleri keşfetmesine olanak tanıyor. Bu bölge, Troad bölgesinin önemli coğrafi özelliklerini barındıran bir yer. Ziyaretçiler, burada çeşitli doğa aktivitelerini gerçekleştirebilir ve bölgenin güzelliklerini keşfedebilir.
+Palai Skepsis, Marmara Bölgesi'nin Çanakkale iline bağlı Bayramiç ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Bu mekan, doğa severler için gerçek bir cennet sunuyor. Palai Skepsis'in coğrafi konumu, ziyaretçilerin hem tarihi yapıları hem de doğal güzellikleri keşfetmesine olanak tanıyor. Bu bölge, Troad bölgesinin önemli coğrafi özelliklerini barındıran bir yer. Ziyaretçiler, burada çeşitli doğa aktivitelerini gerçekleştirebilir ve bölgenin güzelliklerini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Palai Skepsis'i ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek
 ## İlginç Bilgiler
 
 - Palai Skepsis, Troad bölgesinin önemli tarihi ve kültürel değerlerini barındıran bir yer.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Palai Skepsis, çeşitli bitki türleri ve hayvanlarla dolu.
 - Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor.
 - Palai Skepsis, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.

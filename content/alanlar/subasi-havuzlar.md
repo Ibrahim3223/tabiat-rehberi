@@ -46,4 +46,4 @@ Subaşı-Havuzlar'ı ziyaret etmek, doğa ve tarih severler için ideal bir gezi
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
 - Subaşı-Havuzlar, tarihi önemi ile dikkat çekiyor.
 - Bu bölgede, ziyaretçilere doğa ile iç içe olabilme imkanı sunuluyor.
-- Subaşı-Havuzlar, 140 hektarlık bir alana sahip.
+

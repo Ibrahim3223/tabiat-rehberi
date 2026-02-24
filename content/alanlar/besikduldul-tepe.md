@@ -36,7 +36,7 @@ Beşikdüldül Tepe'nin tarihi geçmişi, bölgenin genel tarihine paralel olara
 
 ## Coğrafya
 
-Beşikdüldül Tepe, coğrafi olarak Akdeniz Bölgesi'nde yer alır. Bu bölge, tepe ve dağların yanı sıra ovaları da içerir. Beşikdüldül Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Tepe, 140 hektarlık alanıyla önemli bir coğrafi yapıdır. Beşikdüldül Tepe, ayrıca çevresindeki diğer tepe ve dağlarla birlikte bir coğrafi sistem oluşturur. Bu sistem, bölgenin iklimini, bitki örtüsünü ve fauna yapısını etkiler. İklim, genellikle Akdeniz iklimi özellikleri gösterir ve mevsimsel değişimler, bölgenin coğrafi yapısını etkiler.
+Beşikdüldül Tepe, coğrafi olarak Akdeniz Bölgesi'nde yer alır. Bu bölge, tepe ve dağların yanı sıra ovaları da içerir. Beşikdüldül Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütünü oluşturur. Beşikdüldül Tepe, ayrıca çevresindeki diğer tepe ve dağlarla birlikte bir coğrafi sistem oluşturur. Bu sistem, bölgenin iklimini, bitki örtüsünü ve fauna yapısını etkiler. İklim, genellikle Akdeniz iklimi özellikleri gösterir ve mevsimsel değişimler, bölgenin coğrafi yapısını etkiler.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Beşikdüldül Tepe, doğa severler ve coğrafya meraklıları için önemli bir
 
 ## İlginç Bilgiler
 
-- Beşikdüldül Tepe, 140 hektarlık bir alana sahiptir.
 - Tepe, Akdeniz Bölgesi'nin coğrafyasında önemli bir yere sahiptir.
 - Bölge, çeşitli bitki türleri ve fauna yapısına sahiptir.
 - Beşikdüldül Tepe, trekking ve doğa yürüyüşü için uygun bir alandır.

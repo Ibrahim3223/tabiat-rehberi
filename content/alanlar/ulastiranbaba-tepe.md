@@ -49,7 +49,7 @@ Ulaştıranbaba Tepe, hem doğa severler hem de tarih meraklıları için öneml
 ## İlginç Bilgiler
 
 - Ulaştıranbaba Tepe, Çorum'un tarihi ve doğal güzelliklerinin birleştiği nokta
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Bölge, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en güzel manzaralarından birine ev sahipliği yapıyor
 - Ulaştıranbaba Tepe, flora ve fauna açısından zengin bir bölge
 - Tepe, ziyaretçilerine, tarihi geçmişinin yanı sıra, doğal güzellikleri ile de dikkat çekiyor

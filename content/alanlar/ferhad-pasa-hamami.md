@@ -29,7 +29,7 @@ wikidata_id: "Q131738705"
 
 # Ferhad Paşa Hamamı
 
-Ferhad Paşa Hamamı, İstanbul'un Çatalca ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biri olarak kabul edilen bir yapıdır. Bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuş ve bölgenin tarihi geçmişi ile iç içe geçmiş bir geçmişe sahiptir. 200 futbol sahası büyüklüğünde bir alan kaplayan Ferhad Paşa Hamamı, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
+Ferhad Paşa Hamamı, İstanbul'un Çatalca ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biri olarak kabul edilen bir yapıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ferhad Paşa Hamamı'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir h
 
 ## Coğrafya
 
-Ferhad Paşa Hamamı, Çatalca'nın güzide noktalarından birinde yer alıyor ve Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgede kurulmuş. Bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuş ve bölgenin coğrafi özelliklerini yansıtan bir yapı olarak kabul ediliyor. Hamamın bulunduğu bölge, yeşilin ve mavinin bir araya geldiği bir doğal güzellik alanı olarak dikkat çekiyor. Özellikle bölgenin coğrafi yapısı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunuyor. Ferhad Paşa Hamamı, coğrafi konumu itibariyle de önemli bir yere sahip ve ziyaretçilerini bölgenin güzelliklerine davet ediyor.
+Ferhad Paşa Hamamı, Çatalca'nın güzide noktalarından birinde yer alıyor ve Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgede kurulmuş. Hamamın bulunduğu bölge, yeşilin ve mavinin bir araya geldiği bir doğal güzellik alanı olarak dikkat çekiyor. Özellikle bölgenin coğrafi yapısı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunuyor. Ferhad Paşa Hamamı, coğrafi konumu itibariyle de önemli bir yere sahip ve ziyaretçilerini bölgenin güzelliklerine davet ediyor.
 
 ## Flora ve Fauna
 

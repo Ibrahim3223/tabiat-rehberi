@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"SARIKAYALAR_TP","caption":"SARIKAYALAR_TP","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/SARIKAYALAR_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228786","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık Sarıkayalar Tabiat Parkı"
+
 keywords: ["Sarıkayalar Tabiat Parkı","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","flora","fauna","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228786"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228786"
 
 # SARIKAYALAR_TP
 
-Sarıkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Sarıkayalar Tabiat Parkı, doğa severler ve macera arayışındaki herkes için bir cennet harika bir deneyim.
+ Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Sarıkayalar Tabiat Parkı, doğa severler ve macera arayışındaki herkes için bir cennet harika bir deneyim.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sarıkayalar Tabiat Parkı, yılın her döneminde ziyaret edilebilir. Ancak, il
 
 ## İlginç Bilgiler
 
-- Sarıkayalar Tabiat Parkı, 140 hektarlık bir alanı kapsıyor.
 - Parkta, çeşitli bitki türleri ve zengin fauna yaşanıyor.
 - Park, ilkbahar ve yaz aylarında en çok ziyaret ediliyor.
 - Sarıkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri.

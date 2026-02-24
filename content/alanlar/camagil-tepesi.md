@@ -49,7 +49,7 @@ wikidata_id: "Q34823774"
 ## İlginç Bilgiler
 
 - Çamağıl Tepesi, Marmara Bölgesi'nin en önemli doğal alanlarından biridir.
-- Bu tepe, 140 hektarlık bir alana sahiptir.
+
 - Çamağıl Tepesi, Balıkesir ilinin sınırları içerisinde yer alır.
 - Bu bölge, çeşitli flora ve fauna türleri ile tanınır.
 - Çamağıl Tepesi, doğa severler ve tarih meraklıları için bir hazine niteliğinde

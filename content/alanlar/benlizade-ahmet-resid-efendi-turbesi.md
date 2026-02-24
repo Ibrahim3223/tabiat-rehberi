@@ -29,7 +29,7 @@ wikidata_id: "Q131390963"
 
 # Benlizade Ahmet Reşid Efendi Türbesi
 
-Benlizade Ahmet Reşid Efendi Türbesi, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde yer alır. Marmara Bölgesi'nin kalbinde bulunan bu mekan, yaklaşık 140 hektarlık bir alanda kurulmuştur. Türbe, tarihi ve mimari özellikleri ile dikkat çeker. İstanbul'un tarihi dokusunu korumak için önemli bir role sahiptir. Ziyaretçiler, bu mekanın tarihi ve kültürel zenginliğini keşfetmek için gelirler. Türbenin etrafında çeşitli tarihi eserler ve yapılar bulunur.
+Benlizade Ahmet Reşid Efendi Türbesi, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde yer alır. Türbe, tarihi ve mimari özellikleri ile dikkat çeker. İstanbul'un tarihi dokusunu korumak için önemli bir role sahiptir. Ziyaretçiler, bu mekanın tarihi ve kültürel zenginliğini keşfetmek için gelirler. Türbenin etrafında çeşitli tarihi eserler ve yapılar bulunur.
 
 ## Tarihçe
 

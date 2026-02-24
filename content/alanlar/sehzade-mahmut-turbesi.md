@@ -38,7 +38,7 @@ wikidata_id: "Q131390479"
 
 ## Coğrafya
 
-Şehzade Mahmut Türbesi, Osmangazi, Bursa'da yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle ılıman iklimi ile bilinir ve dört mevsim ayrı ayrı yaşanır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan içine kurulmuş ve ziyaretçilere geniş bir açık alan sunuyor. Çevre, çeşitli bitki türleri ile zengin bir fauna tarafından oluşuyor. Şehzade Mahmut Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bölgenin coğrafi yapısı, birçok farklı bitki ve hayvan türünün yaşamasına olanak sağlıyor ve bu nedenle ekolojik açıdan önemli bir alandır.
+Şehzade Mahmut Türbesi, Osmangazi, Bursa'da yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle ılıman iklimi ile bilinir ve dört mevsim ayrı ayrı yaşanır. Çevre, çeşitli bitki türleri ile zengin bir fauna tarafından oluşuyor. Şehzade Mahmut Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bölgenin coğrafi yapısı, birçok farklı bitki ve hayvan türünün yaşamasına olanak sağlıyor ve bu nedenle ekolojik açıdan önemli bir alandır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390479"
 ## İlginç Bilgiler
 
 - Şehzade Mahmut Türbesi, Osmanlı dönemine ait önemli bir kültür mirası
-- Türbenin çevresi, 140 hektarlık bir yeşil alan
+
 - Marmara Bölgesi'nin önemli turizm noktalarından biri
 - Türbenin mimarisi, klasik Osmanlı tarzını yansıtıyor
 - Çevre, çeşitli bitki türleri ile zengin bir fauna tarafından oluşuyor

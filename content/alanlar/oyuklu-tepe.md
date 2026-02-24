@@ -49,7 +49,7 @@ Oyuklu Tepe, ziyaretçilerine çeşitli faaliyetler sunuyor. Bu tepe, trekking, 
 ## İlginç Bilgiler
 
 - Oyuklu Tepe, Burdur'un önemli bir simgesi
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Oyuklu Tepe, ziyaretçilerine zengin bir flora ve fauna sunuyor
 - Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sunuyor
 - Oyuklu Tepe, yılın her döneminde ziyaret edilebilir

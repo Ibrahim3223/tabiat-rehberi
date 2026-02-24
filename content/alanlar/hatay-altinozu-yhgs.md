@@ -43,8 +43,6 @@ Hatay Altınözü YHGS'yi ziyaret etmek, doğa severler ve tarihi geçmişi keş
 
 ## İlginç Bilgiler
 
-- Hatay Altınözü YHGS, 140 hektarlık bir alanı kapsar.
-
 - Hatay Altınözü YHGS, zengin flora ve fauna çeşitliliğiyle tanınır.
 - Bu bölge, İç Anadolu Bölgesi'nde yer alan bir koruma alanıdır.
 - Ziyaretçiler, bu bölgeyi keşfederek hem doğa güzelliklerini deneyimleyebilir hem de tarihi geçmişi hakkında bilgi edinebilir.

@@ -50,7 +50,7 @@ Yeniyurt Anıt Mezarı, ziyaretçilere tarihi bir gezi deneyimi sunuyor. Bu anı
 ## İlginç Bilgiler
 
 - Yeniyurt Anıt Mezarı, Erdemli'nin önemli turizm noktalarından biri.
-- Bu anıt mezarın bulunduğu bölge, 140 hektarlık bir büyüklüğe sahip.
+
 - Anıt mezarın tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 - Bu bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Yeniyurt Anıt Mezarı, ziyaretçilere tarihi bir gezi deneyimi sunuyor.

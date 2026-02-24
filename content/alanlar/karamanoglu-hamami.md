@@ -30,7 +30,7 @@ wikidata_id: "Q131738524"
 
 # Karamanoğlu Hamamı
 
-Karamanoğlu Hamamı, Karaman ilinin Ermenek ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur ve tarihi dokusunu korumayı başarmıştır. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu hamam, ziyaretçilerini geçmişe götürmeyi vaat ediyor. Karamanoğlu Hamamı, tarihi ve kültürel önemiyle birlikte, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri haline gelmiştir.
+Karamanoğlu Hamamı, Karaman ilinin Ermenek ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir hamamdır. Karamanoğlu Hamamı, tarihi ve kültürel önemiyle birlikte, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri haline gelmiştir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Karamanoğlu Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar
 ## İlginç Bilgiler
 
 - Karamanoğlu Hamamı, Karamanoğulları Beyliği döneminde inşa edilmiştir
-- Hamam, 140 hektarlık bir alanı kaplar
+
 - Karamanoğlu Hamamı, İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir
 - Hamamın çevresi, tarihi yapılar ve geleneksel Türk mimarisinin örnekleri ile çevrilidir
 - Bu bölgede, özellikle çam, meşe ve kayın ağaçları yaygın olarak bulunur

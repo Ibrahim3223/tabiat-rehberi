@@ -51,6 +51,6 @@ Güzelce Hasan Bey Hamamı ve plaj alanını ziyaret etmek için, Tekirdağ'ın 
 
 - Güzelce Hasan Bey Hamamı, Osmanlı döneminde yapılmıştır.
 - Bu hamam, stillerinin ve mimari özelliklerinin korunması açısından önemli bir tarihi eser olarak kabul edilmektedir.
-- Plaj alanı, 140 hektarlık bir yeşil alan sunmaktadır.
+
 - Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir.
 - Ziyaretçiler, bu bölgede hem tarihi hamamın hem de plajın keyfini çıkarmak için çeşitli imkanlardan yararlanabilirler.

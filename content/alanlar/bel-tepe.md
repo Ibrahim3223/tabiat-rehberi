@@ -37,7 +37,7 @@ Bel Tepe'nin tarihi geçmişi, Gaziantep'in tarihi ile iç içe geçmiş durumda
 
 ## Coğrafya
 
-Bel Tepe, Gaziantep'in merkezinde, şehrin diğer önemli noktalarına yakın bir konumda yer alıyor. Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleriyle kaplı. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor; yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bel Tepe, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturuyor. Tepe ve çevresindeki manzara, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Bel Tepe, Gaziantep'in merkezinde, şehrin diğer önemli noktalarına yakın bir konumda yer alıyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor; yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bel Tepe, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturuyor. Tepe ve çevresindeki manzara, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bel Tepe, ziyaretçilere yıl boyunca açık bir gezi alanı sunuyor. Tepeye, Ga
 ## İlginç Bilgiler
 
 - Bel Tepe, Gaziantep'in en önemli doğal ve tarihi güzelliklerinden biri.
-- Tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Bel Tepe, şehrin panoramik manzarasını sunuyor.
 - Tepe ve çevresinde, çeşitli bitki ve hayvan türleri bulunuyor.
 - Bel Tepe, yıl boyunca ziyaretçilere açık.

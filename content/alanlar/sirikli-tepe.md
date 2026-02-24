@@ -49,8 +49,6 @@ Sırıklı Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için ge
 
 ## İlginç Bilgiler
 
-- Sırıklı Tepe, 140 hektarlık bir alanı kaplıyor
-- Tepe, 200 futbol sahası büyüklüğünde
 - Bu bölge, farklı medeniyetlere ev sahipliği yapmış
 - Sırıklı Tepe, doğa severler ve tarih meraklıları için gerçek bir hazine
 - Tepe, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyle dikkat çekiyor

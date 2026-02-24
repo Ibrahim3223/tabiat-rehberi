@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihsel ve kült
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Obruk Tepesi","caption":"Obruk Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Obruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388034","tip":"genel"}]
-description: "Kütahya'nın Ege Bölgesi'nde yer alan Obruk Tepesi, 140 hektarlık geniş bir alana sahiptir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar."
+"
 keywords: ["Obruk Tepesi","Kütahya","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388034"
@@ -47,8 +47,6 @@ Obruk Tepesi, flora ve fauna açısından zengin bir bölge olarak bilinir. Bu t
 Obruk Tepesi'ni ziyaret etmek, Ege Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir fırsat sunar. Ziyaretçiler, Obruk Tepesi'ni ziyaret ederek, bölgenin flora ve fauna açısından zenginliğini keşfedebilir ve doğal güzelliklerini görebilirler. Ayrıca, bu tepe, tarihsel ve kültürel açıdan da önemli bir konum olarak kabul edilir ve ziyaretçilerin bölgenin tarihini ve kültürünü daha iyi anlamalarına yardımcı olur.
 
 ## İlginç Bilgiler
-
-- Obruk Tepesi, 140 hektarlık geniş bir alana sahiptir.
 
 - Obruk Tepesi, flora ve fauna açısından zengin bir bölge olarak bilinir.
 - Bu tepe, tarihsel ve kültürel açıdan da önemli bir konum olarak kabul edilir.

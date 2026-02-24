@@ -36,7 +36,7 @@ Livit Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Livit Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini ve zenginliklerini bir arada sunuyor. Bölge, çeşitli bitki türleri ve fauna ile ziyaretçilerini karşılar. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Livit Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, coğrafi olarak oldukça çeşitli. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alırken, zirvesinde ise geniş bir görüş açısı sunan bir manzara bulunuyor. Livit Tepesi'nin coğrafi konumu, ziyaretçilere bölge hakkında derin bir anlayış kazandırıyor.
+Livit Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini ve zenginliklerini bir arada sunuyor. Bölge, çeşitli bitki türleri ve fauna ile ziyaretçilerini karşılar. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alırken, zirvesinde ise geniş bir görüş açısı sunan bir manzara bulunuyor. Livit Tepesi'nin coğrafi konumu, ziyaretçilere bölge hakkında derin bir anlayış kazandırıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Livit Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için unutu
 
 ## İlginç Bilgiler
 
-- Livit Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bölgede, çeşitli bitki türleri ve fauna bulunuyor.
 - Livit Tepesi, tarih boyunca ticaret yollarının kesişme noktası olarak önemini korumuştur.
 - Bölgede yapılan arkeolojik kazılar, Livit Tepesi'nin tarihinin derinliklerine ışık tutuyor.

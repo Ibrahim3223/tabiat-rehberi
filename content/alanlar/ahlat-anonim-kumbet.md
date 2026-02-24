@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarihî yapıları ziyaret","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/Ahlat_31_08_1991_Anonim_II_K%C3%BCmbet.jpg","alt":"Ahlat Anonim Kümbet manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ahlat_31_08_1991_Anonim_II_K%C3%BCmbet.jpg/960px-Ahlat_31_08_1991_Anonim_II_K%C3%BCmbet.jpg","alt":"Ahlat Anonim Kümbet","caption":"Ahlat Anonim Kümbet","credit":"Ahlat 31 08 1991 Anonim II Kümbet","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahlat%20Anonim%20K%C3%BCmbet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582807","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan tarihi bir yapı"
@@ -38,7 +38,7 @@ Ahlat Anonim Kümbet'in tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. 
 
 ## Coğrafya
 
-Ahlat Anonim Kümbet, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır. Bu bölge, dağlık ve engebeli bir araziye sahiptir. Ahlat Anonim Kümbet, bu coğrafi koşullar altında inşa edilmiştir. Yapının çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, iklim açısından karasal bir yapıya sahiptir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel koşullar, Ahlat Anonim Kümbet'in mimari yapısını ve çevresindeki ekosistemi etkilemiştir. 140 hektarlık bu alan, doğa ve tarih arasında bir köprü oluşturuyor.
+Ahlat Anonim Kümbet, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır. Bu bölge, dağlık ve engebeli bir araziye sahiptir. Ahlat Anonim Kümbet, bu coğrafi koşullar altında inşa edilmiştir. Yapının çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, iklim açısından karasal bir yapıya sahiptir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel koşullar, Ahlat Anonim Kümbet'in mimari yapısını ve çevresindeki ekosistemi etkilemiştir.
 
 ## Flora ve Fauna
 

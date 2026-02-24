@@ -37,7 +37,7 @@ Mustafa Aslan Efendi Türbesi, tarihi geçmişi ile dikkat çeken önemli bir k�
 
 ## Coğrafya
 
-Mustafa Aslan Efendi Türbesi, Çanakkale'nin Bayramiç ilçesinde, Marmara Bölgesi'nin güzelliklerini sergileyen bir coğrafi konumda yer alır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan sunar ve bu alanda çeşitli bitki türleri bulunur. Coğrafi olarak bakıldığında, türbe ve çevresi, Marmara Denizi'ne yakınlığı ile dikkat çeker ve ziyaretçilere deniz manzarası sunar. İklim olarak, Marmara Bölgesi'nin karakteristik featuresini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, zengin fauna ve flora ile doludur ve bu reason ile doğa severlerin ilgisini çeker.
+Mustafa Aslan Efendi Türbesi, Çanakkale'nin Bayramiç ilçesinde, Marmara Bölgesi'nin güzelliklerini sergileyen bir coğrafi konumda yer alır. Coğrafi olarak bakıldığında, türbe ve çevresi, Marmara Denizi'ne yakınlığı ile dikkat çeker ve ziyaretçilere deniz manzarası sunar. İklim olarak, Marmara Bölgesi'nin karakteristik featuresini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, zengin fauna ve flora ile doludur ve bu reason ile doğa severlerin ilgisini çeker.
 
 ## Flora ve Fauna
 

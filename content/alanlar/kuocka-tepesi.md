@@ -28,7 +28,7 @@ wikidata_id: "Q31549538"
 
 # Kuocka Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Kuocka Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini güzelliği ile karşılar. 200 futbol sahası büyüklüğünde olan bu alan, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Kuocka Tepesi, ziyaretçilerine doğanın içinden geçerek tepenin zirvesine ulaşma imkanı sunar. Bu yolculuk sırasında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kuocka Tepesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyon olarak ön plana çıkıyor.
+ Kuocka Tepesi, ziyaretçilerine doğanın içinden geçerek tepenin zirvesine ulaşma imkanı sunar. Bu yolculuk sırasında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kuocka Tepesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kuocka Tepesi, tarihi geçmişi ile de dikkat çekiyor. Yüzyıllar boyunca, bu 
 
 ## Coğrafya
 
-Kuocka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bu bölge, genel olarak dağlık ve engebeli arazilerden oluşuyor. Kuocka Tepesi de bu coğrafi yapı içinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu doğal güzellikler, Kuocka Tepesi'ni ziyaretçilerin ilgisini çekiyor. Tepenin iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı passing. Bu iklim, bölgede yaşayan bitki ve hayvan türleri için uygun koşullar sağlıyor. Kuocka Tepesi, çevresindeki dağlar ve vadiler ile birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş ve çeşitli bir coğrafi alan sunuyor. Bu reason, Kuocka Tepesi'nin coğrafyası, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
+Kuocka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bu bölge, genel olarak dağlık ve engebeli arazilerden oluşuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu doğal güzellikler, Kuocka Tepesi'ni ziyaretçilerin ilgisini çekiyor. Tepenin iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlı passing. Bu iklim, bölgede yaşayan bitki ve hayvan türleri için uygun koşullar sağlıyor. Kuocka Tepesi, çevresindeki dağlar ve vadiler ile birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş ve çeşitli bir coğrafi alan sunuyor. Bu reason, Kuocka Tepesi'nin coğrafyası, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kuocka Tepesi'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal b
 
 ## İlginç Bilgiler
 
-- Kuocka Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğal güzelliği ile karşılar.
 - Tepenin etrafındaki ormanlık alanlar, birçok bitki türünün yaşamasına olanak sağlıyor.
 - Kuocka Tepesi, tarihi geçmişi ile de dikkat çekiyor.
 - Bölge, geçmişten günümüze birçok önemli olaya tanıklık etmiş.

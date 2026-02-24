@@ -48,7 +48,6 @@ Dikili Tepesi'ni ziyaret etmek, bir doğa ve tarih sever için ideal bir gezi de
 
 ## İlginç Bilgiler
 
-- Dikili Tepesi, 140 hektarlık bir alana sahip
 - Tepenin zirvesi, yüksek bir konumda
 - Dikili Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Tepenin eteklerinde ve zirvesinde bulunan tarihi kalıntılar, bir açık hava müzesi haline getiriyor

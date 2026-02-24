@@ -48,7 +48,6 @@ Hiltanlıyolu Tepesi, ziyaretçilere birçok aktivite sunuyor. Tepenin etrafınd
 
 ## İlginç Bilgiler
 
-- Hiltanlıyolu Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin etrafında yer alan ormanlar, birçok bitki türüne ev sahipliği yapıyor.
 - Bölge, mevsimsel değişimlere göre farklı türde bitkiler ve hayvanlar barındırıyor.
 - Tepenin üzerinde yer alan tarihi eserler, bölgenin zengin tarihini yansıtıyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q131390724"
 
 # II.Yakup Çelebi Türbesi
 
-II.Yakup Çelebi Türbesi, Kütahya'nın merkezinde yer alan önemli bir tarihi ve dini yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan içinde, şehrin diğer tarihi eserleriyle birlikte yer alır. Türbenin bulunduğu bölge, Kütahya'nın en çok ziyaret edilen ve tarihi açıdan en zengin bölgelerinden biridir. II.Yakup Çelebi Türbesi, şehre gelen ziyaretçiler için bir çekim merkezi olarak kabul edilir ve Kütahya'nın kültürel mirasının önemli bir parçasıdır. Türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmektedir. Ayrıca, türbenin çevresindeki tarihi yapılardan oluşan bir gezinti, Kütahya'nın tarihsel zenginliklerini keşfetmek için ideal bir başlangıç noktasıdır.
+II.Yakup Çelebi Türbesi, Kütahya'nın merkezinde yer alan önemli bir tarihi ve dini yapıdır. Türbenin bulunduğu bölge, Kütahya'nın en çok ziyaret edilen ve tarihi açıdan en zengin bölgelerinden biridir. II.Yakup Çelebi Türbesi, şehre gelen ziyaretçiler için bir çekim merkezi olarak kabul edilir ve Kütahya'nın kültürel mirasının önemli bir parçasıdır. Türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmektedir. Ayrıca, türbenin çevresindeki tarihi yapılardan oluşan bir gezinti, Kütahya'nın tarihsel zenginliklerini keşfetmek için ideal bir başlangıç noktasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ II.Yakup Çelebi Türbesi, tarihsel geçmişi yüzyıllar öncesine dayanan bir 
 
 ## Coğrafya
 
-II.Yakup Çelebi Türbesi, Kütahya şehrinin merkezinde, 140 hektarlık bir alan içinde yer almaktadır. Türbenin bulunduğu bölge, Ege Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Kütahya, doğusunda Ankara, batısında Manisa, kuzeyinde Bursa ve güneyinde Afyonkarahisar illeriyle çevrilidir. II.Yakup Çelebi Türbesi, Kütahya'nın coğrafi konumu itibariyle, önemli bir ulaşım merkezi olarak da hizmet vermektedir. Türbenin etrafındaki bölge, tarihi yapılar, camiler, ve diğer kültürel merkezlerle çevrilidir ve Kütahya'nın tarihsel dokusunu yansıtmaktadır. Ayrıca, türbenin bulunduğu alan, şehrin en çok ziyaret edilen yerlerinden biridir ve Kütahya'nın turizm potansiyelini yüksek bir seviyede tutmaktadır.
+II. Türbenin bulunduğu bölge, Ege Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Kütahya, doğusunda Ankara, batısında Manisa, kuzeyinde Bursa ve güneyinde Afyonkarahisar illeriyle çevrilidir. II.Yakup Çelebi Türbesi, Kütahya'nın coğrafi konumu itibariyle, önemli bir ulaşım merkezi olarak da hizmet vermektedir. Türbenin etrafındaki bölge, tarihi yapılar, camiler, ve diğer kültürel merkezlerle çevrilidir ve Kütahya'nın tarihsel dokusunu yansıtmaktadır. Ayrıca, türbenin bulunduğu alan, şehrin en çok ziyaret edilen yerlerinden biridir ve Kütahya'nın turizm potansiyelini yüksek bir seviyede tutmaktadır.
 
 ## Flora ve Fauna
 

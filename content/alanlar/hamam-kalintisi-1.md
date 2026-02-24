@@ -52,6 +52,6 @@ Hamam Kalıntısı 1'i ziyaret etmek, hem tarihi hem de doğa severler için ön
 
 - Hamam Kalıntısı 1, Gümüşhane ve Trabzon vilayetinin sınırında yer alır
 - Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olmasıdır
 - Plajın etrafındaki tarihi yapılar, buranın tarihsel değerini artırmaktadır

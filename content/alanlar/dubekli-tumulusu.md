@@ -49,7 +49,6 @@ Dübekli Tümülüsü'ne ziyaretçiler, yılın her dönemi gelebilir. Tümülü
 
 ## İlginç Bilgiler
 
-- Dübekli Tümülüsü, 140 hektarlık bir alanı kaplar
 - Tümülüs, Marmara Bölgesi'nin merkezi bir noktasında yer alır
 - Dübekli Tümülüsü, çeşitli bitki türleri ile kaplıdır
 - Tümülüsün etrafında, zengin fauna çeşitliliği mevcuttur

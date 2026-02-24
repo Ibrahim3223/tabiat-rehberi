@@ -51,7 +51,7 @@ Son Ok Anıtı, ziyaretçilere historiaşin bir parçası olarak kabul edilen bu
 ## İlginç Bilgiler
 
 - Anzak çıkarmasının 100. yılı anısına yapılmış olan anıt
-- Approximately 140 hektarlık bir alanda yer alan anıt
+
 - Anıtın çevredeki alanında çeşitli bitki türleri ve fauna bulunur
 - Anıtın coğrafi konumu, ziyaretçilere historiaşin bir parçası olarak kabul edilen bu bölgenin güzelliğini ve önemini göstermektedir
 - Anıtın çevredeki alanında, çeşitli restoran ve kafeler bulunur

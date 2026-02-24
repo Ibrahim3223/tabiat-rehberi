@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa İzleme","Fotografcılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Horasan Tepesi","caption":"Horasan Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Horasan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566747","tip":"genel"}]
-description: "Artvin'in güzide tepelerinden biri olan Horasan Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Horasan Tepesi","Artvin","Karadeniz Bölgesi","Doğa","Tepeler","Yeşil Alanlar","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31566747"
@@ -48,7 +48,6 @@ Horasan Tepesi'ni ziyaret etmek, doğa severler için bir rüya gibi olabilir. T
 
 ## İlginç Bilgiler
 
-- Horasan Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur
 - Tepenin zirvesi, deniz seviyesinden belirli bir yükseklikte bulunur
 - Horasan Tepesi, bir doğa cenneti olarak kabul edilir

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Büyükhüyük Tepesi","caption":"Büyükhüyük Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkh%C3%BCy%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731366","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Büyükhüyük Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Büyükhüyük Tepesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q35731366"
@@ -28,7 +28,7 @@ wikidata_id: "Q35731366"
 
 # Büyükhüyük Tepesi
 
-Büyükhüyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Büyükhüyük Tepesi, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor ve bu durum, bölgenin ekolojik zenginliğini gösteriyor. Büyükhüyük Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılıyor ve buradan Ankara'nın panoramik manzarasını izleme mümkün.
+ Büyükhüyük Tepesi, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor ve bu durum, bölgenin ekolojik zenginliğini gösteriyor. Büyükhüyük Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılıyor ve buradan Ankara'nın panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Büyükhüyük Tepesi'nin tarihi geçmişi, Ankara'nın tarihi ile iç içe geç
 
 ## Coğrafya
 
-Büyükhüyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepe, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor ve bu durum, bölgenin ekolojik zenginliğini gösteriyor. Büyükhüyük Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılıyor ve buradan Ankara'nın panoramik manzarasını izleme mümkün. Tepenin yakınında, çeşitli su kaynakları ve akarsular yer alıyor ve bu su kaynakları, bölgenin ekolojik dengesini sağlayan önemli unsurlar. Ayrıca, tepenin çevresi, Ankara'nın diğer önemli coğrafi oluşumları ile yer alıyor ve bu durum, bölgenin coğrafi zenginliğini gösteriyor. Büyükhüyük Tepesi, Ankara'nın coğrafi yapısını ve jeolojik özelliklerini gösteren önemli bir oluşum ve bu nedenle, bilim insanları tarafından nghiêniliyor ve inceleniyor.
+ Bu tepe, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor ve bu durum, bölgenin ekolojik zenginliğini gösteriyor. Büyükhüyük Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılıyor ve buradan Ankara'nın panoramik manzarasını izleme mümkün. Tepenin yakınında, çeşitli su kaynakları ve akarsular yer alıyor ve bu su kaynakları, bölgenin ekolojik dengesini sağlayan önemli unsurlar. Ayrıca, tepenin çevresi, Ankara'nın diğer önemli coğrafi oluşumları ile yer alıyor ve bu durum, bölgenin coğrafi zenginliğini gösteriyor. Büyükhüyük Tepesi, Ankara'nın coğrafi yapısını ve jeolojik özelliklerini gösteren önemli bir oluşum ve bu nedenle, bilim insanları tarafından nghiêniliyor ve inceleniyor.
 
 ## Flora ve Fauna
 

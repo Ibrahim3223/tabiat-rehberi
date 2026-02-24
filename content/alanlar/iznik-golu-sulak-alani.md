@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/Iznik_%281%29.jpg","alt":"İznik Gölü Sulak Alanı manzarası","credit":"Cetintas555","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0znik%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229008","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan İznik Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker."
+ Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker."
 keywords: ["İznik Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229008"
@@ -39,11 +39,9 @@ wikidata_id: "Q108229008"
 
 ## Ziyaret Bilgileri
 
-İznik Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir ziyaret alanıdır. İznik Gölü'nün sulak alanı, yaklaşık 140 hektarlık bir alanı kapsar ve bu bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar barındırır. Ziyaretçiler, bu bölgeyi yürüyere veya bisikletle gezebilir ve doğanın güzelliğini gözlemleyebilirler.
+İznik Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir ziyaret alanıdır. Ziyaretçiler, bu bölgeyi yürüyere veya bisikletle gezebilir ve doğanın güzelliğini gözlemleyebilirler.
 
 ## İlginç Bilgiler
-
-- İznik Gölü Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsar.
 
 - İznik Gölü'nün sulak alanı, birçok canlı türünün yaşam alanı olarak hizmet eder.
 - Bu bölge, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanıdır.

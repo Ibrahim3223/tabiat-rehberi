@@ -49,7 +49,7 @@ Deveboynu Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için �
 ## İlginç Bilgiler
 
 - Deveboynu Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Deveboynu Tepesi'nin eteklerinde ve çevresinde çeşitli bitki türleri yetişir.
 - Bu tepenin fauna zenginliği de oldukça dikkat çekicidir.
 - Deveboynu Tepesi, doğa severler ve tarih meraklıları için önemli bir gezi noktası.

@@ -50,7 +50,7 @@ Sekiz Direkli Hamam, yıl boyunca ziyaret edilebilir. Bu bölgenin ziyaret edilm
 ## İlginç Bilgiler
 
 - Sekiz Direkli Hamam, Trabzon'un Ortahisar ilçesinde yer alır.
-- Bu bölge, yaklaşık 140 hektarlık bir alan kaplar.
+
 - Sekiz Direkli Hamam, zengin flora ve fauna ile çevrilidir.
 - Bu bölgenin iklimi, Karadeniz iklimi olarak bilinen ılıman iklimdir.
 - Sekiz Direkli Hamam, yıl boyunca ziyaret edilebilir.

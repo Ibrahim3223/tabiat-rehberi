@@ -51,7 +51,7 @@ Cariyeler Türbesi'ni ziyaret etmek, ziyaretçiler için güzel bir deneyimdir. 
 ## İlginç Bilgiler
 
 - Cariyeler Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Cariyeler Türbesi, tarihinin her döneminde önemli bir merkez olarak kabul edilmiştir
 - Plaj, yüksek bir konumda yer alır
 - Cariyeler Türbesi, ekolojik açıdan önemli bir merkez olarak kabul edilir

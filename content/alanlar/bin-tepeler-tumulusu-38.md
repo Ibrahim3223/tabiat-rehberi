@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 38, tarihi geçmişi ile dikkat çekiyor. Bu alanda yap
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 38, coğrafi konumu itibariyle de dikkat çekiyor. Salihli, Manisa'da bulunan bu tümülüs, Ege Bölgesi'nin orta kesiminde yer alıyor. Bölge, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilere çeşitli doğal güzellikler sunuyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu tümülüs, ziyaretçilere geniş bir alan sunuyor. Coğrafi konumu, tarihi ve doğal güzellikleri ile birlikte, Bin Tepeler Tümülüsü 38, bölgede önemli bir turizm merkezi olarak kabul ediliyor. Ege Bölgesi'nin coğrafi çeşitliliği, bu tümülüsün güzelliğini daha da artırıyor.
+Bin Tepeler Tümülüsü 38, coğrafi konumu itibariyle de dikkat çekiyor. Salihli, Manisa'da bulunan bu tümülüs, Ege Bölgesi'nin orta kesiminde yer alıyor. Bölge, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilere çeşitli doğal güzellikler sunuyor. Coğrafi konumu, tarihi ve doğal güzellikleri ile birlikte, Bin Tepeler Tümülüsü 38, bölgede önemli bir turizm merkezi olarak kabul ediliyor. Ege Bölgesi'nin coğrafi çeşitliliği, bu tümülüsün güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

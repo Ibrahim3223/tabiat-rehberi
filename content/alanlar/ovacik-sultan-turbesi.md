@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarihi araştırma","fotografcılık","dinl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Ovacık Sultan Türbesi","caption":"Ovacık Sultan Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ovac%C4%B1k%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390691","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide illerinden Balıkesir'in Havran ilçesinde yer alan Ovacık Sultan Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Ovacık Sultan Türbesi","Havran","Balıkesir","Marmara Bölgesi","plaj","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390691"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390691"
 
 # Ovacık Sultan Türbesi
 
-Marmara Bölgesi'nin güzide illerinden Balıkesir'in Havran ilçesinde yer alan Ovacık Sultan Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor. Ovacık Sultan Türbesi, hem tarihi değerleri hem de doğal güzellikleri ile dikkat çekiyor. 140 hektarlık bu yeşil cennet, ziyaretçilerine çeşitli aktivite ve keşif fırsatları sunuyor. Burada, hem doğayı keşfedebilir hem de tarihi değerleri öğrenebilirsiniz.
+ Ovacık Sultan Türbesi, hem tarihi değerleri hem de doğal güzellikleri ile dikkat çekiyor. Burada, hem doğayı keşfedebilir hem de tarihi değerleri öğrenebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ovacık Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Ovacık Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Balıkesir'in Havran ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler sergiliyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. Ovacık Sultan Türbesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını seyretme fırsatı sunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu çeşitlilik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Ovacık Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Balıkesir'in Havran ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler sergiliyor. Ovacık Sultan Türbesi, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını seyretme fırsatı sunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu çeşitlilik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Ovacık Sultan Türbesi, çeşitli bitki türleri ve hayvanlar ile ziyaretçiler
 Ovacık Sultan Türbesi'ni ziyaret etmek, hem tarihi değerleri hem de doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon. Bu bölgeye, Havran ilçesinden dàng ulaşabilirsiniz. Ovacık Sultan Türbesi'ni ziyaret ederken, çeşitli aktivite ve keşif fırsatlarından yararlanabilirsiniz. Burada, hem doğayı keşfedebilir hem de tarihi değerleri öğrenebilirsiniz. Ovacık Sultan Türbesi, ziyaretçilerine yıl boyunca ziyaret fırsatı sunuyor.
 
 ## İlginç Bilgiler
-
-- Ovacık Sultan Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor.
 
 - Ovacık Sultan Türbesi, hem tarihi değerleri hem de doğal güzellikleri ile dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.

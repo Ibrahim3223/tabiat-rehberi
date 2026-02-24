@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Çocuk oyun parkları"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"TURHAL ŞEHİR ORMANI","caption":"TURHAL ŞEHİR ORMANI","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TURHAL%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228670","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşil cenneti, 140 hektarlık Turhal Şehir Ormanı, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Turhal Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228670"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228670"
 
 # TURHAL ŞEHİR ORMANI
 
-Turhal Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil cennettir. Turhal Şehir Ormanı, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Ormanın içinde yürüyüş yolları, piknik alanları ve çocuk oyun parkları gibi çeşitli olanaklar mevcut. Turhal Şehir Ormanı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için ideal bir destinasyon.
+ Turhal Şehir Ormanı, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Ormanın içinde yürüyüş yolları, piknik alanları ve çocuk oyun parkları gibi çeşitli olanaklar mevcut. Turhal Şehir Ormanı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Turhal Şehir Ormanı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadı
 
 ## Coğrafya
 
-Turhal Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve düzlük bir arazi üzerinde kurulmuştur. Orman, yaklaşık 140 hektarlık bir alanı kaplamakta ve çeşitli bitki türleri ile ziyaretçilerini ağırlamaktadır. Ormanın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunmaktadır. Ormanda, mevsimsel değişimlere göre, farklı türlerde bitkiler ve ağaçlar bulunmakta olup, bu durum ormanı daha da güzelleştirmektedir. Turhal Şehir Ormanı, coğrafi yapısı itibariyle, ziyaretçilerine geniş ve ferah bir alan sunmaktadır.
+Turhal Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve düzlük bir arazi üzerinde kurulmuştur. Ormanın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunmaktadır. Ormanda, mevsimsel değişimlere göre, farklı türlerde bitkiler ve ağaçlar bulunmakta olup, bu durum ormanı daha da güzelleştirmektedir. Turhal Şehir Ormanı, coğrafi yapısı itibariyle, ziyaretçilerine geniş ve ferah bir alan sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Turhal Şehir Ormanı, ziyaretçilerine, doğanın güzelliğini keşfetme fırs
 
 ## İlginç Bilgiler
 
-- Turhal Şehir Ormanı, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Orman, çeşitli bitki türleri ile ziyaretçilerini ağırlamaktadır.
 - Ormanda, mevsimsel değişimlere göre, farklı türlerde bitkiler ve ağaçlar bulunmakta.
 - Ormanın coğrafi konumu, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunmaktadır.

@@ -49,7 +49,6 @@ Köse Süleyman Ziyaret Tepesi, ziyaretçilerine hem doğa hem de tarih hakkınd
 
 ## İlginç Bilgiler
 
-- Köse Süleyman Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafında, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, farklı mevsimlerde ziyaret edilebiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor.
 - Köse Süleyman Ziyaret Tepesi, coğrafi konumu ile dikkat çekiyor ve ziyaretçilerini buraya çekiyor.

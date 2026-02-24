@@ -37,7 +37,7 @@ Hacı Sinan Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyet
 
 ## Coğrafya
 
-Hacı Sinan Hamamı, İzmir'in Bayındır ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafyasına uygun olarak bir plaj alanı olarak hizmet veriyor. Bu özel mekan, 140 hektarlık geniş bir alana sahip ve ziyaretçilere geniş bir gezi alanı sunuyor. Hacı Sinan Hamamı'nın coğrafyası, Ege Bölgesi'nin karakteristik özelliklerine uygun olarak m ve nemli bir iklime sahip. Bu alan, deniz seviyesine yakın bir konumda bulunması nedeniyle, ziyaretçilere deniz ve kumun keyfini çıkarma fırsatı sunuyor. Hacı Sinan Hamamı'nın coğrafyası, ayrıca ziyaretçilere çevreyi keşfetme ve doğanın güzelliklerini görme fırsatı sunuyor. Bu özel mekan, Ege Bölgesi'nin coğrafyasının güzelliklerini bir araya getiren ve ziyaretçilerini doğal güzelliklerle baş başa bırakmaya hazırlanan bir alan olarak dikkat çekiyor.
+Hacı Sinan Hamamı, İzmir'in Bayındır ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafyasına uygun olarak bir plaj alanı olarak hizmet veriyor. Hacı Sinan Hamamı'nın coğrafyası, Ege Bölgesi'nin karakteristik özelliklerine uygun olarak m ve nemli bir iklime sahip. Bu alan, deniz seviyesine yakın bir konumda bulunması nedeniyle, ziyaretçilere deniz ve kumun keyfini çıkarma fırsatı sunuyor. Hacı Sinan Hamamı'nın coğrafyası, ayrıca ziyaretçilere çevreyi keşfetme ve doğanın güzelliklerini görme fırsatı sunuyor. Bu özel mekan, Ege Bölgesi'nin coğrafyasının güzelliklerini bir araya getiren ve ziyaretçilerini doğal güzelliklerle baş başa bırakmaya hazırlanan bir alan olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

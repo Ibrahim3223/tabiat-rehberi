@@ -51,7 +51,7 @@ Marmara Bölgesi'nin güzel plajlarından biri olan Şeyh Müftü Camii, Mustafa
 ## İlginç Bilgiler
 
 - Şeyh Müftü Camii, Mustafakemalpaşa/Bursa'da yer alır.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Cami, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir.
 - Bölge, genellikle ılıman iklimi ile dikkat çeker.
 - Şeyh Müftü Camii, bölgenin önemli turizm merkezlerinden biri olarak kabul edilir.

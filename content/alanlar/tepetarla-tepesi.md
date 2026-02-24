@@ -36,7 +36,7 @@ Tepetarla Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Tepetarla Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir nokta. Bu tepe, Ankara'nın kuzeyinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepetarla Tepesi, şehrin merkezine uzun bir mesafe uzaklıkta ve ulaşımı kolay. Bu tepe, aynı zamanda bölgenin iklimini de yansıtıyor. Tepetarla Tepesi, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklime sahip. Bu tepe, aynı zamanda bölgenin flora ve faunasını da barındırıyor. Ziyaretçiler, tepeye tırmanarak bölgenin doğal güzelliğini keşfedebilirler.
+Tepetarla Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir nokta. Tepetarla Tepesi, şehrin merkezine uzun bir mesafe uzaklıkta ve ulaşımı kolay. Bu tepe, aynı zamanda bölgenin iklimini de yansıtıyor. Tepetarla Tepesi, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir iklime sahip. Bu tepe, aynı zamanda bölgenin flora ve faunasını da barındırıyor. Ziyaretçiler, tepeye tırmanarak bölgenin doğal güzelliğini keşfedebilirler.
 
 ## Flora ve Fauna
 

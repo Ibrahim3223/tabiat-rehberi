@@ -48,7 +48,6 @@ Kırıkelma Tepesi'ni ziyaret etmek, doğa severler için bir hayal olarak kabul
 
 ## İlginç Bilgiler
 
-- Kırıkelma Tepesi, 140 hektarlık bir alana sahiptir.
 - Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Kırıkelma Tepesi, birçok endemik bitki türüne ev sahipliği yapar.
 - Buradaki fauna, birçok farklı hayvan türünü içerir.

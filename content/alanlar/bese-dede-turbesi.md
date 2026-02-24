@@ -50,7 +50,7 @@ Beşe Dede Türbesi'ni ziyaret etmek, Bergama'nın tarihi ve doğal güzellikler
 ## İlginç Bilgiler
 
 - Beşe Dede Türbesi, Bergama'nın önemli tarihi noktalarından biri.
-- Türbe, 140 hektarlık bir yeşil alan içinde yer alıyor.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, ilkbahar ve yaz aylarında daha çok geliyor.
 - Beşe Dede Türbesi, Bergama'nın tarihi mirasının bir parçası olarak kabul ediliyor.

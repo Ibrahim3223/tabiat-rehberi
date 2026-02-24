@@ -14,8 +14,8 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık","Doğa gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Sinop-Boyabat Karacam","caption":"Sinop-Boyabat Karacam","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Boyabat%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227686","tip":"genel"}]
-description: "Sinop'un doğal güzellikleri arasında yer alan Karacam Milli Parkı, 140 hektarlık geniş bir alanı kaplıyor."
-keywords: ["Sinop","Karacam","Milli Park","Doğa","Turizm","Yeşil Alan","Futbol Sahası","Karadeniz Bölgesi"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227686"
 ---
@@ -30,7 +30,7 @@ Sinop-Boyabat Karacam Milli Parkı, yüzyıllar boyunca bölgenin doğal güzell
 
 ## Coğrafya
 
-Sinop-Boyabat Karacam Milli Parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Parkın coğrafi konumu, Sinop ilinin Boyabat ilçesinde yer alması ve Karadeniz kıyılarına yakınlığıyla karakterizedir. 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu geniş bir yeşil alandır. Parkın iklimi, Karadeniz Bölgesi'nin ılıman iklimine uygun olarak belirlenmiştir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor ve bu doğal alanın güzelliğini daha da artırıyor. Parkın çevresi, doğa yürüyüşleri ve diğer açık hava etkinlikleri için uygun bir ortam sunuyor.
+Sinop-Boyabat Karacam Milli Parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Parkın coğrafi konumu, Sinop ilinin Boyabat ilçesinde yer alması ve Karadeniz kıyılarına yakınlığıyla karakterizedir. Parkın iklimi, Karadeniz Bölgesi'nin ılıman iklimine uygun olarak belirlenmiştir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor ve bu doğal alanın güzelliğini daha da artırıyor. Parkın çevresi, doğa yürüyüşleri ve diğer açık hava etkinlikleri için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 

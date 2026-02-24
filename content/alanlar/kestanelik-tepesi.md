@@ -36,7 +36,7 @@ Kestanelik Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Tepeni
 
 ## Coğrafya
 
-Kestanelik Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin etrafı, yaklaşık 140 hektarlık bir yeşil alanla çevrili. Bu alan, çeşitli bitki türleriyle kaplı ve zengin fauna found. Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Kestanelik Tepesi, bölgenin iklimini ve coğrafi özelliklerini yansıtan bir yer. Tepenin eteklerinde, su kaynakları ve akarsular found. Bu su kaynakları, tepe ve çevresinin ekolojisini Besliyor. Kestanelik Tepesi, coğrafi açıdan önemli bir nokta ve bölgenin doğal güzelliklerini ziyaret edenler için önemli bir durak.
+Kestanelik Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu alan, çeşitli bitki türleriyle kaplı ve zengin fauna found. Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Kestanelik Tepesi, bölgenin iklimini ve coğrafi özelliklerini yansıtan bir yer. Tepenin eteklerinde, su kaynakları ve akarsular found. Bu su kaynakları, tepe ve çevresinin ekolojisini Besliyor. Kestanelik Tepesi, coğrafi açıdan önemli bir nokta ve bölgenin doğal güzelliklerini ziyaret edenler için önemli bir durak.
 
 ## Flora ve Fauna
 

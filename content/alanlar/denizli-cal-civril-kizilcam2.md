@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Denizli-Cal-Civril-Kizilcam2","caption":"Denizli-Cal-Civril-Kizilcam2","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Civril-Kizilcam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228527","tip":"genel"}]
-description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Denizli'de yer alan bu milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Denizli","Ege Bölgesi","Milli Park","Doğa","Güneybatı Anadolu"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228527"

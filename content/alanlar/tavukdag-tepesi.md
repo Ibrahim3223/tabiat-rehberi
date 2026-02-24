@@ -49,7 +49,7 @@ Tavukdağ Tepesi'ni ziyaret etmek, hem yerel halk hem de turistler için bir çe
 ## İlginç Bilgiler
 
 - Tavukdağ Tepesi, Erzurum'un merkezi bir konumda yer almaktadır.
-- Tavukdağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Tavukdağ Tepesi, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Tavukdağ Tepesi, tarihi geçmişi ile dikkat çekmektedir.
 - Tavukdağ Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliği sunmaktadır.

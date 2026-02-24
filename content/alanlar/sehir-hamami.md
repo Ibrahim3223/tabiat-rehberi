@@ -30,7 +30,7 @@ wikidata_id: "Q131738492"
 
 # Şehir Hamamı
 
-Kırşehir'in merkezinde yer alan Şehir Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin önemli bir parçası olan bir plajdır. Şehir Hamamı, Kırşehir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehrin kalabalığından uzaklaşmak isteyenler, Şehir Hamamı'nda huzurlu bir atmosfer bulabilirler. Şehir Hamamı, aynı zamanda şehrin tarihini ve kültürünü yansıtan önemli bir noktadır.
+ Şehir Hamamı, Kırşehir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehrin kalabalığından uzaklaşmak isteyenler, Şehir Hamamı'nda huzurlu bir atmosfer bulabilirler. Şehir Hamamı, aynı zamanda şehrin tarihini ve kültürünü yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kırşehir'in merkezinde yer alan Şehir Hamamı, yaklaşık 140 hektarlık bir 
 
 ## Coğrafya
 
-Şehir Hamamı, Kırşehir'in merkezinde yer alan bir plajdır. Şehir Hamamı, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve şehrin sakinlerinin keyifli vakit geçirebileceği bir yerdir. Şehir Hamamı, Kırşehir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehrin kalabalığından uzaklaşmak isteyenler, Şehir Hamamı'nda huzurlu bir atmosfer bulabilirler. Şehir Hamamı, aynı zamanda şehrin tarihini ve kültürünü yansıtan önemli bir noktadır. Şehir Hamamı, Kırşehir'in coğrafi yapısını yansıtan bir bölgedir ve ziyaretçilerine şehrin güzelliklerini tanıtmaktadır. Şehir Hamamı, Kırşehir'in İç Anadolu Bölgesi'nde yer alan bir destinasyondur ve şehrin coğrafi özelliklerini yansıtmaktadır.
+Şehir Hamamı, Kırşehir'in merkezinde yer alan bir plajdır. Şehir Hamamı, Kırşehir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehrin kalabalığından uzaklaşmak isteyenler, Şehir Hamamı'nda huzurlu bir atmosfer bulabilirler. Şehir Hamamı, aynı zamanda şehrin tarihini ve kültürünü yansıtan önemli bir noktadır. Şehir Hamamı, Kırşehir'in coğrafi yapısını yansıtan bir bölgedir ve ziyaretçilerine şehrin güzelliklerini tanıtmaktadır. Şehir Hamamı, Kırşehir'in İç Anadolu Bölgesi'nde yer alan bir destinasyondur ve şehrin coğrafi özelliklerini yansıtmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Kırşehir'in merkezinde yer alan Şehir Hamamı, yaklaşık 140 hektarlık bir 
 
 ## İlginç Bilgiler
 
-- Şehir Hamamı, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Şehir Hamamı, Kırşehir'in merkezinde yer alan bir plajdır.
 - Şehir Hamamı, şehrin sakinlerinin keyifli vakit geçirebileceği bir yerdir.
 - Şehir Hamamı, şehrin tarihini ve kültürünü yansıtan önemli bir noktadır.

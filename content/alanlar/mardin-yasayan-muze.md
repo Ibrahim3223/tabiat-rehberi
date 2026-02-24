@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Trekking","Fotoğrafçılık","Tarihi eserl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mardin%20Ya%C5%9Fayan%20M%C3%BCze","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125536786","tip":"genel"}]
-description: "Mardin'in tarihi ve kültürel zenginliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Mardin'in tarihi ve kültürel zenginliklerini keşfedin."
 keywords: ["Mardin","Yaşayan Müze","Tarih","Kültür","Doğa","Turizm","Gezi","Müze"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q125536786"
@@ -47,8 +47,6 @@ Mardin Yaşayan Müze, flora ve fauna açısından zengin bir alana sahip. Bu b�
 Mardin Yaşayan Müze, yıl boyunca ziyaretçilere açık ve her mevsim, farklı bir güzelliğe sahip. Ziyaretçiler, müzeyi gezerken, tarihi eserler ve nesneler hakkında bilgi edinebiliyor ve Mardin'in kültürel mirasını keşfedebiliyor. Müze, aynı zamanda doğa severlerin de ilgisini çekiyor ve ziyaretçilere, doğa yürüyüşleri, trekking ve diğer açık hava etkinlikleri için ideal bir ortam sunuyor. Ziyaretçiler, müzenin coğrafi konumunu değerlendirerek, en uygun ziyaret zamanını belirleyebilir ve bu sayede, en iyi deneyimi elde edebilir.
 
 ## İlginç Bilgiler
-
-- Mardin Yaşayan Müze, 140 hektarlık bir alana yayılmış durumda.
 
 - Bu bölge, farklı coğrafi oluşumların bir araya geldiği bir alan.
 - Mardin Yaşayan Müze, flora ve fauna açısından zengin bir alana sahip.

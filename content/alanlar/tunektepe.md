@@ -43,8 +43,6 @@ Tünektepe, ziyaretçilerine çeşitli aktiviteler sunuyor. Bu bölgede, doğa y
 
 ## İlginç Bilgiler
 
-- Tünektepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-- Tünektepe, 200 futbol sahası büyüklüğünde olan bir yeşil alandır.
 - Tünektepe, zengin flora ve fauna çeşitliliğine sahiptir.
 - Tünektepe, tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkıyor.
 - Tünektepe, aynı zamanda bir piknik alanı olarak da kullanılıyor.

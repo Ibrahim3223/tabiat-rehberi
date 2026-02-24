@@ -37,7 +37,7 @@ Zağanos Paşa Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu dönemine
 
 ## Coğrafya
 
-Zağanos Paşa Hamamı, Marmara Bölgesi'nin Karesi ilçesinde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir açık alan olup, ziyaretçilere geniş bir yeşil alan sunmaktadır. Bu bölgenin coğrafi yapısı, ziyaretçilerin hem tarihi bir yapıyı ziyaret etmelerine hem de doğal güzellikleri keşfetmelerine olanak tanır. Zağanos Paşa Hamamı'nın coğrafi konumu, Marmara Denizi'ne yakınlığı ve bölgenin iklimi, ziyaretçilere rahat ve keyifli bir gezi deneyimi sunar. Bölgenin iklimi, genellikle ılıman ve yağışlıdır, bu nedenle ziyaretçiler yılın herhangi bir zamanında bölgeyi ziyaret edebilirler.
+Zağanos Paşa Hamamı, Marmara Bölgesi'nin Karesi ilçesinde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Bu bölgenin coğrafi yapısı, ziyaretçilerin hem tarihi bir yapıyı ziyaret etmelerine hem de doğal güzellikleri keşfetmelerine olanak tanır. Zağanos Paşa Hamamı'nın coğrafi konumu, Marmara Denizi'ne yakınlığı ve bölgenin iklimi, ziyaretçilere rahat ve keyifli bir gezi deneyimi sunar. Bölgenin iklimi, genellikle ılıman ve yağışlıdır, bu nedenle ziyaretçiler yılın herhangi bir zamanında bölgeyi ziyaret edebilirler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Zağanos Paşa Hamamı'na ziyaretçiler, yılın herhangi bir zamanında gelebil
 ## İlginç Bilgiler
 
 - Zağanos Paşa Hamamı, Marmara Bölgesi'nin en önemli tarihi yapılarından birisidir.
-- Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir açık alan sunar.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Zağanos Paşa Hamamı, yılın herhangi bir zamanında ziyaret edilebilir.
 - Hamamın tarihi geçmişi, Osmanlı İmparatorluğu dönemine kadar uzanmaktadır.

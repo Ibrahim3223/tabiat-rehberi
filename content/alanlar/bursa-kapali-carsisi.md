@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0047.jpg","alt":"Bursa Kapalı Çarşısı manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0048.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0048.jpg/1280px-Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0048.jpg","alt":"Bursa Kapalı Çarşısı - Bursa Bakircilar Kapali Çarşisi 2014 0048","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/62/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0046.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0046.jpg/1280px-Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0046.jpg","alt":"Bursa Kapalı Çarşısı - Bursa Bakircilar Kapali Çarşisi 2014 0046","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/69/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2018_0044.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2018_0044.jpg/1280px-Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2018_0044.jpg","alt":"Bursa Kapalı Çarşısı - Bursa Bakircilar Kapali Çarşisi 2018 0044","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2018_0045.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2018_0045.jpg/1280px-Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2018_0045.jpg","alt":"Bursa Kapalı Çarşısı - Bursa Bakircilar Kapali Çarşisi 2018 0045","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0049.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0049.jpg/1280px-Bursa_Bakircilar_Kapali_%C3%87ar%C5%9Fisi_2014_0049.jpg","alt":"Bursa Kapalı Çarşısı - Bursa Bakircilar Kapali Çarşisi 2014 0049","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa%20Kapal%C4%B1%20%C3%87ar%C5%9F%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108607497","tip":"genel"}]
-description: "Bursa'nın tarihi ve ticari merkezi olan Kapalı Çarşı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bursa","Kapalı Çarşı","Tarih","Ticaret","Marmara Bölgesi","Turizm","Alışveriş","Gezi","Tarihi mekan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108607497"
@@ -43,7 +43,6 @@ Bursa Kapalı Çarşısı, yıl boyunca ziyaret edilebilir. Ancak, en uygun zama
 
 ## İlginç Bilgiler
 
-- Bursa Kapalı Çarşısı, 140 hektarlık bir alana yayılmıştır.
 - Çarşıda,çeşitli dükkanlar ve tarihi yapılar bulunmaktadır.
 - Bursa Kapalı Çarşısı, Marmara Bölgesi'nin önemli ticaret merkezlerinden biridir.
 - Çarşı, yüzyıllar boyunca ticaret ve kültür merkezi olarak hizmet vermiştir.

@@ -37,7 +37,7 @@ Tavşan Dede Türbesi'nin tarihi geçmişi hakkındalı bilgi bulunmuyor, ancak 
 
 ## Coğrafya
 
-Tavşan Dede Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Akçakoca ilçesinde yer alıyor. Bu plaj, Karadeniz'in güzel kumsallarından biri ve yaklaşık 140 hektarlık bir alanı kaplıyor. Plajın etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor, ziyaretçilere doğal bir atmosfer sunuyor. Tavşan Dede Türbesi, Karadeniz'in karakteristik iklimine sahip, yani yağışlı ve nemli bir bölgede yer alıyor. Bu iklim, plajın etrafındaki bitki örtüsünün zengin olmasını sağlıyor. Plaj, ayrıca çeşitli hayvan türlerine ev sahipliği yapıyor, bu da ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Tavşan Dede Türbesi'nin coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliğini deneyimleme fırsatı sunuyor.
+Tavşan Dede Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Akçakoca ilçesinde yer alıyor. Plajın etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor, ziyaretçilere doğal bir atmosfer sunuyor. Tavşan Dede Türbesi, Karadeniz'in karakteristik iklimine sahip, yani yağışlı ve nemli bir bölgede yer alıyor. Bu iklim, plajın etrafındaki bitki örtüsünün zengin olmasını sağlıyor. Plaj, ayrıca çeşitli hayvan türlerine ev sahipliği yapıyor, bu da ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Tavşan Dede Türbesi'nin coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliğini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

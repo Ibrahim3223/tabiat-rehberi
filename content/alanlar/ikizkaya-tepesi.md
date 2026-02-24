@@ -36,7 +36,7 @@ wikidata_id: "Q31566489"
 
 ## Coğrafya
 
-İkizkaya Tepesi, Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bölgenin en önemli doğal güzelliklerinden biri olarak bekannt. İkizkaya Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı ile zengin. İkizkaya Tepesi'nin eteklerinde, çeşitli akarsular ve dereler bulunuyor. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli rol oynuyor. İkizkaya Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor.
+İkizkaya Tepesi, Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. İkizkaya Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı ile zengin. İkizkaya Tepesi'nin eteklerinde, çeşitli akarsular ve dereler bulunuyor. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli rol oynuyor. İkizkaya Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31566489"
 ## İlginç Bilgiler
 
 - İkizkaya Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir.
-- İkizkaya Tepesi, 140 hektarlık bir alanı kaplıyor.
+
 - İkizkaya Tepesi, çeşitli bitki türleri ve yaban hayatı ile zengin.
 - İkizkaya Tepesi, yılın her mevsiminde ziyaret edilebilir.
 - İkizkaya Tepesi, doğa severlerin ve fotoğrafçıların ilgisini çeken bir destinasyon.

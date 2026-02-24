@@ -29,7 +29,7 @@ wikidata_id: "Q134728425"
 
 # Gözecik Tümülüsü, Divriği
 
-Gözecik Tümülüsü, Sivas'ın Divriği ilçesinde yer alan bir arkeolojik sit alanıdır. Bu tarihi alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, çevresindeki doğal güzellikler ile birleşerek ziyaretçilere geniş bir açık hava müzesi sunuyor. Tümülüsün bulunduğu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölgenin jeolojik yapısı, tarihi geçmişi ve coğrafi konumu, Gözecik Tümülüsünü önemli bir kültür varlığı haline getiriyor.
+Gözecik Tümülüsü, Sivas'ın Divriği ilçesinde yer alan bir arkeolojik sit alanıdır. Tümülüsün bulunduğu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölgenin jeolojik yapısı, tarihi geçmişi ve coğrafi konumu, Gözecik Tümülüsünü önemli bir kültür varlığı haline getiriyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Gözecik Tümülüsünü ziyaret etmek isteyenler, Sivas'ın Divriği ilçesine 
 ## İlginç Bilgiler
 
 - Gözecik Tümülüsü, Sivas'ın Divriği ilçesinde yer alan bir arkeolojik sit alanıdır.
-- Tümülüs, yaklaşık 140 hektarlık bir büyüklüğe sahip.
+
 - Bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Tümülüs, muhtemelen eski bir mezar höyüğü olarak inşa edilmiş.
 - Bölge, çeşitli bitki türleri ve yaban hayvanları ile zengin bir ekosisteme sahip.

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aksu_%C3%87ay%C4%B1_-_Giresun_02.JPG/960px-Aksu_%C3%87ay%C4%B1_-_Giresun_02.JPG","alt":"Eğvane Şelalesi","caption":"Eğvane Şelalesi","credit":"Aksu Çayı - Giresun 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Fvane%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320213","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Eğvane Şelalesi","İç Anadolu Bölgesi","doğa","şelale","yeşil alan","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q97320213"
@@ -48,7 +48,6 @@ Eğvane Şelalesi'ni ziyaret etmek, oldukça keyifli bir deneyim olabilir. Buray
 
 ## İlginç Bilgiler
 
-- Eğvane Şelalesi, 140 hektarlık bir yeşil alanı kapsar.
 - Şelale, bir derenin yüksek bir kayadan düşmesiyle oluşur.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - İlkbahar ve yaz ayları, şelaleyi ziyaret etmek için en iyi zamanlardır.

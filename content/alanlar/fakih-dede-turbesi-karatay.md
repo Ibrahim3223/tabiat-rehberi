@@ -29,7 +29,7 @@ wikidata_id: "Q135582377"
 
 # Fakih Dede Türbesi, Karatay
 
-Fakih Dede Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi ve kültürel açıdan önemli bir dini mekan olarak karşımıza çıkıyor. Bu mekan, yaklaşık 140 hektarlık bir alanda, şehrin merkezi bölgesinde bulunuyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu türbe, ziyaretçilerini tarihi ve dini açıdan zengin bir deneyim sunuyor. Fakih Dede Türbesi, özellikle dini ve kültürel değerleri öğrenmek isteyenler için önemli bir destinasyon olarak görülüyor.
+Fakih Dede Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi ve kültürel açıdan önemli bir dini mekan olarak karşımıza çıkıyor. Fakih Dede Türbesi, özellikle dini ve kültürel değerleri öğrenmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

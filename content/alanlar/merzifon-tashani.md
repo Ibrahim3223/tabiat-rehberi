@@ -51,7 +51,7 @@ Merzifon Taşhanı, Merzifon'un merkezinde yer alıyor ve ulaşımı oldukça ko
 ## İlginç Bilgiler
 
 - Merzifon Taşhanı, Merzifon'un tarihi ve kültürel mirasını yansıtan önemli bir eser.
-- Taşhanı, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - Merzifon, İç Anadolu Bölgesi'nin önemli bir turizm merkezi haline geliyor.
 - Taşhanı'nın etrafı, genellikle step ve ova gibi coğrafi oluşumlarla karakterize ediliyor.
 - Merzifon'un fauna zenginliği, genellikle tavşan, tilki ve kurt gibi yabani hayvanlarla karakterize ediliyor.

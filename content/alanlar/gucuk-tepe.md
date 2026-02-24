@@ -48,8 +48,6 @@ Gücük Tepe, ziyaretçiler için birçok imkan sunuyor. Ziyaretçiler, bu tepey
 
 ## İlginç Bilgiler
 
-- Gücük Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-
 - Gücük Tepe, yüzyıllar öncesine kadar uzanan bir tarihi geçmişi var.
 - Bu tepe, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Gücük Tepe, özellikle bahar ve yaz aylarında ziyaret edildiğinde, ziyaretçiler için birçok imkan sunuyor.

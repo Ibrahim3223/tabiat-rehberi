@@ -50,7 +50,7 @@ Belen Tepesi, Kastamonu'nun en önemli turizm merkezlerinden biri olarak kabul e
 ## İlginç Bilgiler
 
 - Belen Tepesi, Kastamonu'nun en yüksek noktası olarak bilinir
-- Belen Tepesi, 140 hektarlık bir yeşil alan üzerinde kurulmuştur
+
 - Belen Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur
 - Belen Tepesi, her yıl binlerce ziyaretçi tarafından ziyaret edilir
 - Belen Tepesi, doğa severlerin mutlaka ziyaret etmesi gereken bir yerdir

@@ -28,7 +28,7 @@ wikidata_id: "Q31385789"
 
 # Habip Tepesi
 
-Habip Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçiler için geniş bir yeşil alan sunmaktadır. Habip Tepesi, Diyarbakır'ın tarihi geçmişi ile modern yaşamın birleştiği bir bölgede bulunmakta ve ziyaretçilerine eşsiz bir manzara sunmaktadır. Tepenin etrafında bulunan tarihi eserler ve doğal güzellikler, ziyaretçilerin dikkatini çekmekte ve onları bu bölgeye çekmektedir.
+Habip Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Habip Tepesi, Diyarbakır'ın tarihi geçmişi ile modern yaşamın birleştiği bir bölgede bulunmakta ve ziyaretçilerine eşsiz bir manzara sunmaktadır. Tepenin etrafında bulunan tarihi eserler ve doğal güzellikler, ziyaretçilerin dikkatini çekmekte ve onları bu bölgeye çekmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Habip Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Habip Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer almakta ve ziyaretçilere geniş bir manzara sunmaktadır. Tepenin etrafında bulunan doğal güzellikler, ziyaretçilerin dikkatini çekmekte ve onları bu bölgeye çekmektedir. Habip Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçiler için geniş bir yeşil alan sunmaktadır. Tepenin yüksekliği, ziyaretçilere Diyarbakır'ın şehir merkezini ve çevresini panoramik olarak görmesine olanak sağlamaktadır. Habip Tepesi, Diyarbakır'ın coğrafi özellikleri ile birleşerek ziyaretçilere eşsiz bir deneyim sunmaktadır. Tepenin konumu, ziyaretçilere Diyarbakır'ın tarihi ve doğal güzelliklerine kolayca ulaşabilme imkanı sunmaktadır.
+Habip Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer almakta ve ziyaretçilere geniş bir manzara sunmaktadır. Tepenin etrafında bulunan doğal güzellikler, ziyaretçilerin dikkatini çekmekte ve onları bu bölgeye çekmektedir. Tepenin yüksekliği, ziyaretçilere Diyarbakır'ın şehir merkezini ve çevresini panoramik olarak görmesine olanak sağlamaktadır. Habip Tepesi, Diyarbakır'ın coğrafi özellikleri ile birleşerek ziyaretçilere eşsiz bir deneyim sunmaktadır. Tepenin konumu, ziyaretçilere Diyarbakır'ın tarihi ve doğal güzelliklerine kolayca ulaşabilme imkanı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Habip Tepesi, ziyaretçilerine çeşitli etkinlikler sunmaktadır. Ziyaretçiler
 
 - Habip Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer almaktadır.
 - Tepenin etrafında bulunan tarihi eserler, ziyaretçilere bu bölgenin zengin tarihini anlatmaktadır.
-- Habip Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçiler için geniş bir yeşil alan sunmaktadır.
+
 - Tepenin yüksekliği, ziyaretçilere Diyarbakır'ın şehir merkezini ve çevresini panoramik olarak görmesine olanak sağlamaktadır.
 - Habip Tepesi, Diyarbakır'ın ekolojik dengesini korumakta ve ziyaretçilere bu bölgenin doğal güzelliklerini sunmaktadır.

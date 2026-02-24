@@ -36,7 +36,7 @@ Kuşkayası Tepe'nin tarihi geçmişi oldukça zengindir. Bu bölge, yüzyıllar
 
 ## Coğrafya
 
-Kuşkayası Tepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Bu tepe, Sivas ilinin merkezine yakın bir konumda yer almaktadır ve çevresinde çeşitli bitki türleri bulunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri ile uyumludur; soğuk kışlar ve sıcak yazlar karakteristiktir. Çevre, doğal güzellikleri ile dikkat çekmekte ve ziyaretçilere geniş bir alan sunmaktadır. Kuşkayası Tepe, 140 hektarlık alanı ile büyük bir yeşil alan sunar ve bu genişlikte birçok farklı bitki türünü ve hayvanı barındırmaktadır. Coğrafi konumu ve doğal güzellikleri, bu tepeyi özel bir gezi noktası haline getirmektedir.
+Kuşkayası Tepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Bu tepe, Sivas ilinin merkezine yakın bir konumda yer almaktadır ve çevresinde çeşitli bitki türleri bulunmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri ile uyumludur; soğuk kışlar ve sıcak yazlar karakteristiktir. Çevre, doğal güzellikleri ile dikkat çekmekte ve ziyaretçilere geniş bir alan sunmaktadır. Coğrafi konumu ve doğal güzellikleri, bu tepeyi özel bir gezi noktası haline getirmektedir.
 
 ## Flora ve Fauna
 

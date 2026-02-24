@@ -49,7 +49,7 @@ Perikaya Tepe, ziyaretçilerine çeşitli aktiviteler sunuyor. Bu tepe, doğa y�
 ## İlginç Bilgiler
 
 - Perikaya Tepe, Karadeniz Bölgesi'nin doğusunda yer alıyor.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Perikaya Tepe, deniz seviyesinden yüksek bir konumda yer alıyor.
 - Bu tepe, çevresindeki dağların arasında yer alıyor.
 - Perikaya Tepe, zengin bir flora ve fauna çeşitliliğine sahip.

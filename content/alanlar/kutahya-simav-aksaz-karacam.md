@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Kutahya-Simav-Aksaz Karacam","caption":"Kutahya-Simav-Aksaz Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Aksaz%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227527","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Kutahya","Simav","Aksaz Karacam","milli park","doğa","gezi","iç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227527"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227527"
 
 # Kutahya-Simav-Aksaz Karacam
 
-Kutahya-Simav-Aksaz Karacam milli parkı, yaklaşık 140 hektarlık yeşil alanı ile İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu park, ziyaretçilerine eşsiz bir deneyim sunuyor. 140 hektarlık bu yeşil alan, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon.
+ İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu park, ziyaretçilerine eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kutahya-Simav-Aksaz Karacam milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Kutahya-Simav-Aksaz Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak oldukça çeşitli bir yapıya sahip. Parkın coğrafyası, ziyaretçilere farklı türde bitki ve hayvan çeşitlerini gözlemleme fırsatı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip ve mevsimsel değişimler bu bölgede oldukça belirgin. Parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmeleri için ideal bir ortam sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğanın güzelliğini ve çeşitliliğini deneyimleme fırsatı sağlıyor.
+Kutahya-Simav-Aksaz Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın coğrafyası, ziyaretçilere farklı türde bitki ve hayvan çeşitlerini gözlemleme fırsatı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip ve mevsimsel değişimler bu bölgede oldukça belirgin. Parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kutahya-Simav-Aksaz Karacam milli parkını ziyaret etmek, doğa severler ve tat
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - İç Anadolu Bölgesi'nin gizli cenneti
 - zengin flora ve fauna çeşitliliği
 - doğal yaşam alanları

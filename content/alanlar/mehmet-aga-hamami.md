@@ -30,7 +30,7 @@ wikidata_id: "Q131738598"
 
 # Mehmet Ağa Hamamı
 
-Mehmet Ağa Hamamı, İstanbul'un tarihi dokusunu taşıyan önemli yapılarından birisidir. Fatih ilçesinde bulunan hamam, Marmara Bölgesi'nin önemli kültürel varlıklarından biridir. 140 hektarlık bir alanda yer almasa da, tarihi önemi ve mimarisi ile dikkat çekmektedir. Mehmet Ağa Hamamı, İstanbul'un tarihi hamamlarının önemli bir parçasıdır ve ziyaretçilerini geçmişe götürmektedir.
+Mehmet Ağa Hamamı, İstanbul'un tarihi dokusunu taşıyan önemli yapılarından birisidir. Fatih ilçesinde bulunan hamam, Marmara Bölgesi'nin önemli kültürel varlıklarından biridir. Mehmet Ağa Hamamı, İstanbul'un tarihi hamamlarının önemli bir parçasıdır ve ziyaretçilerini geçmişe götürmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mehmet Ağa Hamamı'nın tarihi geçmişi, İstanbul'un fethi ile başlar. Bu d�
 
 ## Coğrafya
 
-Mehmet Ağa Hamamı, İstanbul'un Fatih ilçesinde yer alır. Marmara Bölgesi'nin kalbinde bulunan bu hamam, bölgenin coğrafi ve kültürel özelliklerini taşır. Hamamın etrafı, tarihi binalar ve çarşılardan oluşan bir dokuya sahiptir. Coğrafi konumu itibariyle, hamamın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun şekilde değişir. Kış aylarında soğuk, yaz aylarında sıcak olan bu iklim, hamamın işlevini ve ziyaretçilerini etkiler. Çevre yapıları ve tarihi binaları ile birlikte, Mehmet Ağa Hamamı, bir bütün olarak İstanbul'un tarihi ve kültürel atmosferini yansıtmaktadır. 140 hektarlık bir alana yayılmayan hamam, ancak tarihi ve kültürel önemi ile dikkat çekmektedir.
+Mehmet Ağa Hamamı, İstanbul'un Fatih ilçesinde yer alır. Marmara Bölgesi'nin kalbinde bulunan bu hamam, bölgenin coğrafi ve kültürel özelliklerini taşır. Hamamın etrafı, tarihi binalar ve çarşılardan oluşan bir dokuya sahiptir. Coğrafi konumu itibariyle, hamamın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun şekilde değişir. Kış aylarında soğuk, yaz aylarında sıcak olan bu iklim, hamamın işlevini ve ziyaretçilerini etkiler. Çevre yapıları ve tarihi binaları ile birlikte, Mehmet Ağa Hamamı, bir bütün olarak İstanbul'un tarihi ve kültürel atmosferini yansıtmaktadır.
 
 ## Flora ve Fauna
 

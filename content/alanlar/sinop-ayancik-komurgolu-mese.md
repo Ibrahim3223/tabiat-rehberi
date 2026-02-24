@@ -30,7 +30,7 @@ Sinop-Ayancik-Komurgölü Mese'nin tarihi geçmişi, yüzyıllar önceye dayanma
 
 ## Coğrafya
 
-Sinop-Ayancik-Komurgölü Mese, Karadeniz Bölgesi'nin coğrafi yapısının güzel bir örneğini sunuyor. Milli park, 140 hektarlık bir alan üzerinde kurulmuş ve çeşitli coğrafi özelliklere sahip. Burada, dağlar, ormanlar ve göller bir arada bulunmakta. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmeleri için ideal bir ortam sunuyor. Ayrıca, milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve yağışlı. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş. Milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu coğrafi özellikler, Sinop-Ayancik-Komurgölü Mese'yi ziyaretçileri için bir cennet haline getiriyor.
+Sinop-Ayancik-Komurgölü Mese, Karadeniz Bölgesi'nin coğrafi yapısının güzel bir örneğini sunuyor. Burada, dağlar, ormanlar ve göller bir arada bulunmakta. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmeleri için ideal bir ortam sunuyor. Ayrıca, milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve yağışlı. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş. Milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu coğrafi özellikler, Sinop-Ayancik-Komurgölü Mese'yi ziyaretçileri için bir cennet haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Sinop-Ayancik-Komurgölü Mese'yi ziyaret etmek, doğanın güzelliklerini keşf
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alan üzerinde kurulmuştur.
 - Milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmeleri için ideal bir ortam sunuyor.
 - Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve yağışlı.

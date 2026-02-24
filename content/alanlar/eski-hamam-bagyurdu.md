@@ -50,7 +50,7 @@ Eski Hamam, Bağyurdu'nu ziyaret etmek, yılın her dönemi mümkün. Ancak, en 
 ## İlginç Bilgiler
 
 - Eski Hamam, Bağyurdu, Ege Bölgesi'nin en güzel plajlarından biri
-- 140 hektarlık yeşil alan
+
 - yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış
 - zengin flora ve fauna çeşitliliği
 - ideal bir doğa yürüyüşü alanı

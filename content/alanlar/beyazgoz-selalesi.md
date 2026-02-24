@@ -49,7 +49,7 @@ Beyazgöz Şelalesi'ni ziyaret etmek, doğa severler için bir macera. Şelaleye
 ## İlginç Bilgiler
 
 - Beyazgöz Şelalesi, yüksek bir konumda yer alıyor
-- Şelale, 140 hektarlık bir alanı kaplıyor
+
 - Şelale çevresinde, yaklaşık 50 farklı bitki türü tespit edilmiştir
 - Şelale, birçok hayvan türüne ev sahipliği yapıyor
 - Şelaleye, uzun bir mesafelik bir yürüyüş yolu ile ulaşılabiliyor

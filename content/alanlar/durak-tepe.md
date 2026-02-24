@@ -36,7 +36,7 @@ Durak Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin iz
 
 ## Coğrafya
 
-Durak Tepe, coğrafi açıdan önemli bir konuma sahiptir. Doğu Anadolu Bölgesi'nin merkezi bir noktasında yer alan tepe, Muş ilinin merkezi ilçesine yakındır. Bölgenin coğrafi yapısı, dağlar, ovalar ve nehirlere ev sahipliği yapar. Durak Tepe, bu coğrafi çeşitlilik içerisinde yer alır ve ziyaretçilerine farklı manzaralar sunar. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve doğu-batı yönünde uzanır. Coğrafi konumu nedeniyle, Durak Tepe, bölgenin iklimini de etkiler. İlkbahar ve yaz aylarında, tepe yeşillenir ve çiçeklerle dolar. Sonbahar ve kış aylarında ise, tepe, beyaz bir örtüye bürünür ve karla kaplanır. Bu mevsimsel değişimler, Durak Tepe'nin güzelliğini ve çeşitliliğini gösterir.
+Durak Tepe, coğrafi açıdan önemli bir konuma sahiptir. Doğu Anadolu Bölgesi'nin merkezi bir noktasında yer alan tepe, Muş ilinin merkezi ilçesine yakındır. Bölgenin coğrafi yapısı, dağlar, ovalar ve nehirlere ev sahipliği yapar. Durak Tepe, bu coğrafi çeşitlilik içerisinde yer alır ve ziyaretçilerine farklı manzaralar sunar. Coğrafi konumu nedeniyle, Durak Tepe, bölgenin iklimini de etkiler. İlkbahar ve yaz aylarında, tepe yeşillenir ve çiçeklerle dolar. Sonbahar ve kış aylarında ise, tepe, beyaz bir örtüye bürünür ve karla kaplanır. Bu mevsimsel değişimler, Durak Tepe'nin güzelliğini ve çeşitliliğini gösterir.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Durak Tepe, ziyaretçilere, tarihi ve doğal güzellikleri bir arada sunan bir d
 
 ## İlginç Bilgiler
 
-- Durak Tepe, 140 hektarlık bir alanı kaplar
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir
 - Durak Tepe, Muş ilinin merkezi ilçesine yakındır
 - Tepe, yılın her mevsiminde ziyaret edilebilir
 - Durak Tepe, trekking, kamp ve doğa yürüyüşü gibi aktivitelere uygun bir alana sahiptir

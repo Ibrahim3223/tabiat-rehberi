@@ -22,7 +22,7 @@ wikidata_id: "Q108228090"
 
 # Antalya Kas Demre-Akcaagac
 
-Antalya Kas Demre-Akcaagac milli parkı, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerini doğanın güzelliğine davet ediyor. Bu büyüleyici alan, 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Milli parkın sunduğu doğal güzellikler ve tarihi değerler, ziyaretçilere unutulmaz bir deneyim vadediyor. Burada, doğa ile iç içe olma ve tarihi geçmişin izlerini keşfetme mümkün.
+ Milli parkın sunduğu doğal güzellikler ve tarihi değerler, ziyaretçilere unutulmaz bir deneyim vadediyor. Burada, doğa ile iç içe olma ve tarihi geçmişin izlerini keşfetme mümkün.
 
 ## Tarihçe
 

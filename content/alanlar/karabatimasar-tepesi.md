@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotografcıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Karabatımasar Tepesi","caption":"Karabatımasar Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabat%C4%B1masar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554756","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan Karabatımasar Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Karabatımasar Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","yaban hayatı","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31554756"

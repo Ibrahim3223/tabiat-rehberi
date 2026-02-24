@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara seyri","flora ve fauna keşfi","tep
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Buruklu Tepe","caption":"Buruklu Tepe","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buruklu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388194","tip":"genel"}]
-description: "Denizli'nin doğal güzelliği, 140 hektarlık Buruklu Tepe, gezginler için önemli bir destinasyon."
+"
 keywords: ["Buruklu Tepe","Denizli","Ege Bölgesi","doğa","gezi","tepe","manzara","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388194"
@@ -28,7 +28,7 @@ wikidata_id: "Q31388194"
 
 # Buruklu Tepe
 
-Buruklu Tepe, Denizli'nin Ege Bölgesi'nde yer alan 140 hektarlık bir doğa harikası. Tepe, ziyaretçilerine eşsiz manzaralar sunarken, aynı zamanda bölgenin zengin florasını ve faunasını keşfetme fırsatı sunuyor. Buruklu Tepe, doğa severler ve gezginler için önemli bir destinasyon olarak dikkat çekiyor.
+ Tepe, ziyaretçilerine eşsiz manzaralar sunarken, aynı zamanda bölgenin zengin florasını ve faunasını keşfetme fırsatı sunuyor. Buruklu Tepe, doğa severler ve gezginler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Buruklu Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Buruklu Tepe, Ege Bölgesi'nin coğrafyasına uygun olarak, tepe ve vadilerden oluşan bir araziye sahip. 140 hektarlık bu geniş alan, tepe ve düzlükleri ile birlikte, ziyaretçilere farklı coğrafi oluşumları keşfetme fırsatı sunuyor. Tepe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere Ege Bölgesi'nin geniş ovalarına ve dağlarına doğru uzanan manzaralar sunuyor. Buruklu Tepe'nin coğrafyası, aynı zamanda iklimi de etkiliyor. Bölge, Ege Bölgesi'nin ılıman iklimine sahip ve bu, ziyaretçilerin yılın dört mevsiminde tepeyi ziyaret etmelerini möglich kılıyor.
+Buruklu Tepe, Ege Bölgesi'nin coğrafyasına uygun olarak, tepe ve vadilerden oluşan bir araziye sahip. Tepe, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere Ege Bölgesi'nin geniş ovalarına ve dağlarına doğru uzanan manzaralar sunuyor. Buruklu Tepe'nin coğrafyası, aynı zamanda iklimi de etkiliyor. Bölge, Ege Bölgesi'nin ılıman iklimine sahip ve bu, ziyaretçilerin yılın dört mevsiminde tepeyi ziyaret etmelerini möglich kılıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Buruklu Tepe, ziyaretçilerine birçok farklı aktivite sunuyor. Tepeye tırmanm
 
 ## İlginç Bilgiler
 
-- Buruklu Tepe, 140 hektarlık bir alana sahip.
 - Tepe, yüksek bir konumda yer alıyor.
 - Buruklu Tepe, Ege Bölgesi'nin coğrafyasına uygun olarak, tepe ve vadilerden oluşan bir araziye sahip.
 - Tepe, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.

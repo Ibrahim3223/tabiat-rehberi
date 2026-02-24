@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa keşfi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Ömer Eşen","caption":"Ömer Eşen","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96mer%20E%C5%9Fen","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228300","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["İç Anadolu Bölgesi","doğal alan","yeşil alan","fiziksel veriler","hikaye","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228300"
@@ -42,7 +42,6 @@ wikidata_id: "Q108228300"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - çeşitli bitki türleri
 - zengin fauna
 - coğrafi güzellikler

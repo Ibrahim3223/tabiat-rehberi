@@ -49,7 +49,6 @@ Anadolu Oyuncak Müzesi, ziyaretçilerine çocukluklarının nostaljik anların�
 
 ## İlginç Bilgiler
 
-- Anadolu Oyuncak Müzesi, 140 hektarlık bir alana kurulmuştur.
 - Müzenin koleksiyonunda, tarihi geçmişe sahip oyuncaklar bulunmaktadır.
 - Anadolu Oyuncak Müzesi, çocukların hayal güçlerini geliştirmek için önemli bir kaynak sunmaktadır.
 - Müze, flora ve fauna türlerinin korunması için önemli bir kaynak sunmaktadır.

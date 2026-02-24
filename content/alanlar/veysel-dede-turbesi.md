@@ -37,7 +37,7 @@ Veysel Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 
 ## Coğrafya
 
-Veysel Dede Türbesi, Sakarya'nın Erenler ilçesinde yer almaktadır ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Bu bölge, farklı coğrafi özelliklere sahip bir alandır ve ziyaretçilere çeşitli manzaralar sunmaktadır. Türbe, bir tepe üzerinde yer almaktadır ve etrafı ormanlık alanlarla çevrilidir. Ayrıca, bu bölgede çeşitli nehirler ve dereler yer almaktadır ve bu su kaynakları, bölgenin ekolojisini desteklemektedir. Veysel Dede Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi bir mekanın atmosferini soluyabilme hem de doğal güzellikleri keşfetme fırsatı sunmaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve bu geniş alan, ziyaretçilere çeşitli aktiviteler yapma fırsatı sunmaktadır.
+Veysel Dede Türbesi, Sakarya'nın Erenler ilçesinde yer almaktadır ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Bu bölge, farklı coğrafi özelliklere sahip bir alandır ve ziyaretçilere çeşitli manzaralar sunmaktadır. Türbe, bir tepe üzerinde yer almaktadır ve etrafı ormanlık alanlarla çevrilidir. Ayrıca, bu bölgede çeşitli nehirler ve dereler yer almaktadır ve bu su kaynakları, bölgenin ekolojisini desteklemektedir. Veysel Dede Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi bir mekanın atmosferini soluyabilme hem de doğal güzellikleri keşfetme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Veysel Dede Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bir araya 
 
 - Veysel Dede Türbesi, Sakarya'nın önemli turizm noktalarından biridir
 - Türbe, Veysel Dede adlı bir tarihi figureye adanmıştır
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır
+
 - Türbeye ulaşmak için, Erenler ilçesine gelmek gerekir
 - Ziyaretçiler, türbeyi yaklaşık 2-3 saatte gezebilir

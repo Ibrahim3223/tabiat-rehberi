@@ -28,7 +28,7 @@ wikidata_id: "Q31386696"
 
 # Girkemuhammet Tepesi
 
-Girkemuhammet Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini doğal güzelliklerle dolu bir dünya sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, çeşitli flora ve fauna türleriyle dolu. Girkemuhammet Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor. Bu tepenin etrafında, tarihi eserler ve doğal güzellikler bulunuyor. Ziyaretçiler, bu tepeye çıktıklarında, bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyorlar.
+Girkemuhammet Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Girkemuhammet Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor. Bu tepenin etrafında, tarihi eserler ve doğal güzellikler bulunuyor. Ziyaretçiler, bu tepeye çıktıklarında, bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyorlar.
 
 ## Tarihçe
 

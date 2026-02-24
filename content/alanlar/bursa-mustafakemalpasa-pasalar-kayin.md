@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Bisiklet Turu","Piknik","Doğa Fotoğrafçılığı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Bursa-Mustafakemalpaşa-Paşalar Kayin","caption":"Bursa-Mustafakemalpaşa-Paşalar Kayin","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227239","tip":"genel"}]
-description: "Bursa'da yer alan Paşalar Kayin Milli Parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Bursa","Milli Park","Paşalar Kayin","Marmara Bölgesi","Doğa","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227239"
@@ -30,7 +30,7 @@ Paşalar Kayin Milli Parkı'nın tarihi geçmişi, Bursa'nın tarihi ile iç iç
 
 ## Coğrafya
 
-Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir milli park. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplı. Milli parkın coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor. Paşalar Kayin Milli Parkı, Bursa'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış. Milli parkın iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişken. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hüküm sürüyor. Bu iklim, çeşitli bitki türlerinin yetişmesine uygun koşullar sağlıyor. Milli parkın çevresi, Bursa'nın diğer doğal güzelliklerine yakın bir konumda yer alıyor. Ziyaretçiler, milli parkı ziyaret ederken aynı zamanda Bursa'nın diğer turistik noktalarını da keşfedebilirler.
+Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir milli park. Milli parkın coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor. Paşalar Kayin Milli Parkı, Bursa'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış. Milli parkın iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişken. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hüküm sürüyor. Bu iklim, çeşitli bitki türlerinin yetişmesine uygun koşullar sağlıyor. Milli parkın çevresi, Bursa'nın diğer doğal güzelliklerine yakın bir konumda yer alıyor. Ziyaretçiler, milli parkı ziyaret ederken aynı zamanda Bursa'nın diğer turistik noktalarını da keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Paşalar Kayin Milli Parkı, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziya
 
 ## İlginç Bilgiler
 
-- Paşalar Kayin Milli Parkı, 140 hektarlık bir alana sahip.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşyor.
 - Milli parkın iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişken.
 - Paşalar Kayin Milli Parkı, Bursa'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış.

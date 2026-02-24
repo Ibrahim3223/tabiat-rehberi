@@ -49,7 +49,7 @@ Elgiz Müzesi, modern sanatın önemli merkezlerinden biri olarak bilinir ve ziy
 ## İlginç Bilgiler
 
 - Elgiz Müzesi, modern sanatın önemli merkezlerinden biri olarak bilinir.
-- Müze, 140 hektarlık bir alanı kaplar.
+
 - Elgiz Müzesi, yılın her günü ziyaret edilebilir.
 - Müzenin çevresinde, çeşitli restoranlar ve kafeler found.
 - Elgiz Müzesi, modern sanatın önemli noktalarından biri olarak kabul edilir.

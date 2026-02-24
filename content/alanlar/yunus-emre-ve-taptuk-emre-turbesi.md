@@ -37,11 +37,11 @@ Yunus Emre ve Taptuk Emre Türbesi'nin tarihi geçmişi, Türk edebiyatının ö
 
 ## Coğrafya
 
-Yunus Emre ve Taptuk Emre Türbesi, Isparta'nın Gönen ilçesinde yer alıyor ve Akdeniz Bölgesi'nin önemli kültür merkezlerinden birini oluşturuyor. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Türbe, Gönen ilçesinin merkezinde yer alıyor ve ulaşımı oldukça kolaydır. Mekan, tarihi ve kültürel açıdan zengin bir bölge içinde yer alıyor ve ziyaretçilere, Türk kültürünün derinliklerine dalma fırsatı sunuyor. Akdeniz Bölgesi'nin karakteristik iklimi, bu mekanda da hissediliyor ve ziyaretçilere, bölgeye özgü flora ve fauna ile karşılaşma fırsatı sunuyor. Mekan, tarihi atmosferi ile ziyaretçilerini büyülüyor ve Türk kültürünün zenginliğini gösteren bir pencere açıyor.
+Yunus Emre ve Taptuk Emre Türbesi, Isparta'nın Gönen ilçesinde yer alıyor ve Akdeniz Bölgesi'nin önemli kültür merkezlerinden birini oluşturuyor. Türbe, Gönen ilçesinin merkezinde yer alıyor ve ulaşımı oldukça kolaydır. Mekan, tarihi ve kültürel açıdan zengin bir bölge içinde yer alıyor ve ziyaretçilere, Türk kültürünün derinliklerine dalma fırsatı sunuyor. Akdeniz Bölgesi'nin karakteristik iklimi, bu mekanda da hissediliyor ve ziyaretçilere, bölgeye özgü flora ve fauna ile karşılaşma fırsatı sunuyor. Mekan, tarihi atmosferi ile ziyaretçilerini büyülüyor ve Türk kültürünün zenginliğini gösteren bir pencere açıyor.
 
 ## Flora ve Fauna
 
-Yunus Emre ve Taptuk Emre Türbesi, Akdeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapıyor. Mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bölge, çeşitli bitki türleri ile zengin bir ekosisteme sahip ve ziyaretçilere, bölgeye özgü flora ile karşılaşma fırsatı sunuyor. Mekan, tarihi atmosferi ile ziyaretçilerini büyülüyor ve Türk kültürünün zenginliğini gösteren bir pencere açıyor. Ziyaretçiler, bu mekanın flora ve faunasını keşfederek, Türk kültürünün derinliklerine dalma fırsatı buluyor. Mekan, mevsimsel değişimlere göre değişen bir flora ve fauna yapısına sahip ve ziyaretçilere, her mevsim farklı bir güzellik sunuyor.
+Yunus Emre ve Taptuk Emre Türbesi, Akdeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapıyor. Bölge, çeşitli bitki türleri ile zengin bir ekosisteme sahip ve ziyaretçilere, bölgeye özgü flora ile karşılaşma fırsatı sunuyor. Mekan, tarihi atmosferi ile ziyaretçilerini büyülüyor ve Türk kültürünün zenginliğini gösteren bir pencere açıyor. Ziyaretçiler, bu mekanın flora ve faunasını keşfederek, Türk kültürünün derinliklerine dalma fırsatı buluyor. Mekan, mevsimsel değişimlere göre değişen bir flora ve fauna yapısına sahip ve ziyaretçilere, her mevsim farklı bir güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Yunus Emre ve Taptuk Emre Türbesi'ne ziyaret etmek, Türk kültürünün derinl
 
 - Yunus Emre ve Taptuk Emre, Türk edebiyatının önemli isimlerinden
 - Türbe, onların anısına inşa edilmiştir
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Türbe, her yıl birçok ziyaretçi tarafından ziyaret ediliyor
 - Mekan, tarihi atmosferi ile ziyaretçilerini büyülüyor

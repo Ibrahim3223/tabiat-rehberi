@@ -51,7 +51,7 @@ Mindos Kapısı, ziyaretçilerini bekliyor. Bölgeye, Bodrum'dan kolayca ulaşı
 ## İlginç Bilgiler
 
 - Mindos Kapısı, Bodrum'un en önemli tarihi ve kültürel merkezlerinden biri.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Mindos Kapısı, Ege Bölgesi'nin en güzel plajlarına ev sahipliği yapıyor.
 - Bölge, flora ve fauna açısından zengin.
 - Mindos Kapısı, ziyaretçilerine plajları, tarihi yapıları ve doğal güzellikleriyle bir gezi deneyimi sunuyor.

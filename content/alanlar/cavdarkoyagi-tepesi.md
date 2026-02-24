@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşleri","Trekking","Fotoğrafçılık","Doğa göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Çavdarkoyağı Tepesi","caption":"Çavdarkoyağı Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avdarkoya%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828679","tip":"genel"}]
-description: "Mersin'in gizli cenneti, 140 hektarlık yeşil alan ve tarihi geçmişiyle ziyaretçilerini bekliyor."
+"
 keywords: ["Çavdarkoyağı Tepesi","Mersin","Akdeniz Bölgesi","Doğa","Tarih","Turizm","Gezi","Tepeler","Yeşil Alanlar"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828679"
@@ -28,7 +28,7 @@ wikidata_id: "Q34828679"
 
 # Çavdarkoyağı Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Çavdarkoyağı Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa tutkunları için bir çekim merkezi haline getirmekte.
+ Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa tutkunları için bir çekim merkezi haline getirmekte.
 
 ## Tarihçe
 

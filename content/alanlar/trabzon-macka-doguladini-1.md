@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Trabzon Macka-Doguladini 1","caption":"Trabzon Macka-Doguladini 1","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Macka-Doguladini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228061","tip":"genel"}]
-description: "Trabzon'un güzide milli parklarından biri olan Trabzon Macka-Doguladini 1, 140 hektarlık geniş alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Trabzon","Macka-Doguladini","milli park","doğa","gezi","yaban hayatı","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228061"

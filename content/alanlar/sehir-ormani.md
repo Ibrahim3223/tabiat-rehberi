@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Seyir_Tepesi_%C5%9Eehir_Orman%C4%B1_Horoz_Heykeli.jpg","alt":"Şehir Ormanı manzarası","credit":"Ebrar Günay","license":"cc0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehir%20Orman%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228654","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşillendirilmiş alanı, 140 hektarlık Şehir Ormanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini bekliyor."
+"
 keywords: ["Şehir Ormanı","İç Anadolu Bölgesi","yeşillendirme","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228654"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228654"
 
 # Şehir Ormanı
 
- Bu bölge, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklarla dikkat çekiyor. Şehir Ormanı, doğa severlerin ve çevre dostlarının keyiflenebileceği, aynı zamanda şehrin gürültüsünden uzaklaşmak isteyenlerin sığınabileceği bir mekan. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size doğanın güzelliğini hatırlatıyor.
+ Bu bölge, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklarla dikkat çekiyor. Şehir Ormanı, doğa severlerin ve çevre dostlarının keyiflenebileceği, aynı zamanda şehrin gürültüsünden uzaklaşmak isteyenlerin sığınabileceği bir mekan.
 
 ## Tarihçe
 
@@ -43,8 +43,6 @@ wikidata_id: "Q108228654"
 
 ## İlginç Bilgiler
 
-- Şehir Ormanı, 140 hektarlık bir alana kurulmuş
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri ile zengin bir flora yapısına sahip
 - bölgedeki fauna çeşitliliği ile dikkat çekiyor
 - coğrafi olarak çevredeki dağların eteklerinde yer alıyor

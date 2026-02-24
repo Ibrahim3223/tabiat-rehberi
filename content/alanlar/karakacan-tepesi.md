@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","yöresel
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Karakaçan Tepesi","caption":"Karakaçan Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaka%C3%A7an%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877967","tip":"genel"}]
-description: "Kırklareli'nin doğal güzelliklerinden biri olan Karakaçan Tepesi, 140 hektarlık área büyüklüğünde."
+"
 keywords: ["Karakaçan Tepesi","Kırklareli","Marmara Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34877967"
@@ -28,7 +28,7 @@ wikidata_id: "Q34877967"
 
 # Karakaçan Tepesi
 
- Bu 140 hektarlık yeşil alan, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri. Karakaçan Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunar. Karakaçan Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
+ Karakaçan Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunar. Karakaçan Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karakaçan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Te
 
 ## Coğrafya
 
-Karakaçan Tepesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. Tepenin yüksekliği, bölgenin diğer tepe ve dağları ile karşılaştırıldığında önemli bir yer tutar. Karakaçan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunar. Karakaçan Tepesi, Marmara Bölgesi'nin iklimini yansıtan bir coğrafi yapıya sahiptir. Tepenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunar. Karakaçan Tepesi, doğa severlerin ve coğrafya meraklılarının ilgisini çeker.
+Karakaçan Tepesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. Tepenin yüksekliği, bölgenin diğer tepe ve dağları ile karşılaştırıldığında önemli bir yer tutar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunar. Karakaçan Tepesi, Marmara Bölgesi'nin iklimini yansıtan bir coğrafi yapıya sahiptir. Tepenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunar. Karakaçan Tepesi, doğa severlerin ve coğrafya meraklılarının ilgisini çeker.
 
 ## Flora ve Fauna
 

@@ -42,7 +42,6 @@ Arin Gölü Sulak Alanı, doğa severler ve bilim insanları için wicht bir des
 
 ## İlginç Bilgiler
 
-- Arin Gölü Sulak Alanı, 140 hektarlık bir alanı kaplamaktadır.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Sulak alan, kuş türleri için wicht bir yaşam alanıdır.
 - Arin Gölü Sulak Alanı, coğrafi konumu itibariyle, önemli bir ekosistem merkezidir.

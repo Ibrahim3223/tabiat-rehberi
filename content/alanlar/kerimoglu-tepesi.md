@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kerimoğlu Tepesi","caption":"Kerimoğlu Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kerimo%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388323","tip":"genel"}]
-description: "Kars'ın doğal güzelliklerine ev sahipliği yapan Kerimoğlu Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
+"
 keywords: ["Kerimoğlu Tepesi","Kars","Doğu Anadolu Bölgesi","doğal güzellik","yeşil alan","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388323"
@@ -36,7 +36,7 @@ Kerimoğlu Tepesi, yüzyıllar boyunca bölgenin önemli bir doğal güzelliği 
 
 ## Coğrafya
 
-Kerimoğlu Tepesi, Kars'ın coğrafi yapısına uygun olarak, yüksekli ve eğimli bir bölgede yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafındaki diğer tepelerle birlikte bir bütünü oluşturuyor. Kerimoğlu Tepesi'nin coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında, tepeye çeşitli çiçekler ve bitkiler renk katarken, sonbahar ve kış aylarında ise karla kaplanan tepe, bir kış cenneti haline geliyor. Bu bölge, coğrafi olarak zengin bir flora ve fauna çeşitliliğine sahip.
+Kerimoğlu Tepesi, Kars'ın coğrafi yapısına uygun olarak, yüksekli ve eğimli bir bölgede yer alıyor. Kerimoğlu Tepesi'nin coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında, tepeye çeşitli çiçekler ve bitkiler renk katarken, sonbahar ve kış aylarında ise karla kaplanan tepe, bir kış cenneti haline geliyor. Bu bölge, coğrafi olarak zengin bir flora ve fauna çeşitliliğine sahip.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kerimoğlu Tepesi'ni ziyaret etmek, özellikle doğa severler için unutulmaz bi
 
 ## İlginç Bilgiler
 
-- Kerimoğlu Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre.
 - Bu bölge, çeşitli bitki ve hayvan türleriyle zengin bir fauna ve flora çeşitliliğine sahip.
 - Kerimoğlu Tepesi, özellikle doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir nokta.

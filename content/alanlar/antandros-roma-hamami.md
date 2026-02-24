@@ -50,7 +50,7 @@ Antandros Roma Hamamı, ziyaretçilerine geniş bir aktivite yelpazesi sunar. B�
 ## İlginç Bilgiler
 
 - Antandros Roma Hamamı, Marmara Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bölge, 140 hektarlık geniş bir yeşil alanı kaplar.
+
 - Roma Hamamı, Roma İmparatorluğu döneminde inşa edilmiştir.
 - Bölge, yılın her dönemi ziyaret edilebilir.
 - Antandros Roma Hamamı, ziyaretçilerine geniş bir aktivite yelpazesi sunar.

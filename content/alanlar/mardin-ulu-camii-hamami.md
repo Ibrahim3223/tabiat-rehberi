@@ -30,7 +30,7 @@ wikidata_id: "Q131738758"
 
 # Mardin Ulu Camii Hamamı
 
-Mardin Ulu Camii Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli tarihi merkezlerinden biri olan Artuklu'da yer alıyor. Bu tarihi hamam, yaklaşık 140 hektarlık alanın içerisinde, Mardin'in merkezi bölgesinde bulunmakta. Mardin Ulu Camii Hamamı, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Mardin Ulu Camii Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli tarihi merkezlerinden biri olan Artuklu'da yer alıyor. Mardin Ulu Camii Hamamı, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mardin Ulu Camii Hamamı'nın tarihi geçmişi, Mardin'in tarihi ile iç içe ge
 
 ## Coğrafya
 
-Mardin Ulu Camii Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli şehirlerinden biri olan Mardin'in merkezi bölgesinde yer alıyor. Bu bölge, coğrafi olarak, geniş ovalar ve dağlarla çevrili. Mardin Ulu Camii Hamamı, 140 hektarlık alanın içerisinde, Mardin'in tarihi merkezi Artuklu'da bulunmakta. Hamamın etrafı, tarihi yapılar ve kültürel zenginliklerle dolu. Ziyaretçiler, hamamın etrafında, Mardin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı bulabilirler. Mardin Ulu Camii Hamamı, coğrafi olarak, ziyaretçilere geniş bir gezi alanı sunuyor ve Mardin'in tarihi merkezi Artuklu'da yer alıyor.
+Mardin Ulu Camii Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli şehirlerinden biri olan Mardin'in merkezi bölgesinde yer alıyor. Bu bölge, coğrafi olarak, geniş ovalar ve dağlarla çevrili. Hamamın etrafı, tarihi yapılar ve kültürel zenginliklerle dolu. Ziyaretçiler, hamamın etrafında, Mardin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı bulabilirler. Mardin Ulu Camii Hamamı, coğrafi olarak, ziyaretçilere geniş bir gezi alanı sunuyor ve Mardin'in tarihi merkezi Artuklu'da yer alıyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Mardin Ulu Camii Hamamı, ziyaretçilerine geniş bir gezi alanı sunuyor. Ziyar
 ## İlginç Bilgiler
 
 - Mardin Ulu Camii Hamamı, Mardin'in tarihi merkezi Artuklu'da yer alıyor.
-- Hamam, yaklaşık 140 hektarlık alanın içerisinde bulunmakta.
+
 - Mardin Ulu Camii Hamamı, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.

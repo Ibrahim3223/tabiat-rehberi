@@ -49,8 +49,6 @@ Keramet Ilıcası, hem yerel halk hem de turistler için bir çekim noktasıdır
 
 ## İlginç Bilgiler
 
-- Keramet Ilıcası, 140 hektarlık bir alanı kaplar.
-
 - Keramet Ilıcası, ilçe merkezine uzun bir mesafe uzaklıkta olup ulaşım açısından rahat bir konumdadır.
 - Bu bölge, hem yerel halk hem de turistler için bir çekim noktasıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 - Keramet Ilıcası, yılın her dönemi ziyaret edilebilir.

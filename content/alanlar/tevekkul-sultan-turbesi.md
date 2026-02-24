@@ -51,7 +51,7 @@ Tevekkül Sultan Türbesi, ziyaretçilerine zengin bir deneyim sunmaktadır. Bu 
 ## İlginç Bilgiler
 
 - Tevekkül Sultan Türbesi, Mersin'in Silifke ilçesinde bulunmaktadır
-- Bu türkbe, 140 hektarlık bir alan üzerinde kurulmuştur
+
 - Tevekkül Sultan Türbesi, tarihi ve coğrafi konumu itibariyle önemli bir mekan olarak kabul edilmektedir
 - Bu türkbe, ziyaretçilerine flora ve fauna açısından zengin bir deneyim sunmaktadır
 - Tevekkül Sultan Türbesi, Mersin'in Silifke ilçesinde bulunan ve historical değer taşıyan bir yapıdır

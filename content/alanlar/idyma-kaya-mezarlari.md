@@ -50,7 +50,7 @@ Idyma Kaya Mezarları, ziyaretçilerini geçmişe götürerek tarihi bir yolculu
 ## İlginç Bilgiler
 
 - Idyma Kaya Mezarları, Muğla'nın Ula ilçesinde yer alır
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Mezarların bulunduğu bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır
 - Bölgenin tarihi geçmişi, ziyaretçilere önemli bir deneyim sunar
 - Bölgenin flora ve fauna çeşitliliği, zengin ve çeşitli bir yapıya sahiptir

@@ -30,7 +30,7 @@ wikidata_id: "Q131391642"
 
 # Şeyh Ahmet Türbesi
 
-Şeyh Ahmet Türbesi, Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'de yer alan önemli bir dini ve turistik mekan olarak bilinir. Bingöl ilinin merkezinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Şeyh Ahmet Türbesi, hem dini hem de turistik açıdan ziyaretçilerini ağırlamaya devam etmektedir. Bu mekan, doğa severler ve tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir.
+Şeyh Ahmet Türbesi, Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'de yer alan önemli bir dini ve turistik mekan olarak bilinir. Şeyh Ahmet Türbesi, hem dini hem de turistik açıdan ziyaretçilerini ağırlamaya devam etmektedir. Bu mekan, doğa severler ve tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131391642"
 ## İlginç Bilgiler
 
 - Şeyh Ahmet Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişe sahiptir.
-- Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Şeyh Ahmet Türbesi, özellikle din alimleri ve ziyaretçiler tarafından önemli bir mekan olarak kabul edilmektedir.
 - Bu mekan, yüksek bir konumda yer almaktadır.
 - Şeyh Ahmet Türbesi'nin çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır.

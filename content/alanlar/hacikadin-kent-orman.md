@@ -30,7 +30,7 @@ Hacıkadın Kent Ormanı'nın tarihi geçmişi, bölgenin yerlileri tarafından 
 
 ## Coğrafya
 
-Hacıkadın Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve tepelik alanlardan oluşuyor. Orman, 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli ağaç türleri ve bitki örtüsüne ev sahipliği yapıyor. Ormanın coğrafi konumu, ziyaretçilere geniş panoramik manzaralar sunuyor ve buradan, çevredeki dağları ve ovaları seyretme mümkün. İklim, İç Anadolu Bölgesi'nin karakteristik kuru ve karasal iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı passing. Orman, bu iklim koşullarına adapte olmuş ve bu nedenle, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Hacıkadın Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve tepelik alanlardan oluşuyor. Ormanın coğrafi konumu, ziyaretçilere geniş panoramik manzaralar sunuyor ve buradan, çevredeki dağları ve ovaları seyretme mümkün. İklim, İç Anadolu Bölgesi'nin karakteristik kuru ve karasal iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı passing. Orman, bu iklim koşullarına adapte olmuş ve bu nedenle, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Hacıkadın Kent Ormanı, yılın her dönemi ziyaret edilebilir. Ancak, ilkbaha
 ## İlginç Bilgiler
 
 - Hacıkadın Kent Ormanı, İç Anadolu Bölgesi'nin en büyük kent ormanlarından biri.
-- Orman, 140 hektarlık bir alanı kapsıyor.
+
 - Ormanda, çeşitli ağaç türleri ve bitki örtüsü bulunuyor.
 - Orman, aynı zamanda, çeşitli hayvan türlerine de ev sahipliği yapıyor.
 - Orman, yılın her dönemi ziyaret edilebilir.

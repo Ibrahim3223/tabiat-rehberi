@@ -22,7 +22,7 @@ wikidata_id: "Q108228558"
 
 # Mugla-Marmaris-Bayir-Kizilcam
 
-Muğla'nın Marmaris ilçesinde bulunan Bayır Köyü ve Kızılcâm Ormanı, birleşerek 140 hektarlık bir milli park oluşturuyor. Marmaris'in doğal güzellikleri arasında yer alan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Marmaris'te yer alan diğer doğal güzelliklere kıyasla, Bayır Köyü ve Kızılcâm Ormanı'nın birleşmesiyle oluşan bu milli park, benzersiz bir deneyim sunuyor. Milli parkın içinde yer alan Kızılcâm Ormanı, çeşitli ağaç türleriyle ziyaretçilerini karşılayacak.
+ Marmaris'in doğal güzellikleri arasında yer alan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Marmaris'te yer alan diğer doğal güzelliklere kıyasla, Bayır Köyü ve Kızılcâm Ormanı'nın birleşmesiyle oluşan bu milli park, benzersiz bir deneyim sunuyor. Milli parkın içinde yer alan Kızılcâm Ormanı, çeşitli ağaç türleriyle ziyaretçilerini karşılayacak.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı, zengin bir flora ve f
 Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı, ziyaretçilerini doğanın kucağına davet ediyor. Milli parka, Marmaris'in merkezinden kolayca ulaşma mümkün. Milli parkı ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak görülüyor. Bu aylarda, Marmaris'in iklimi ılıman ve yağışlı bir yapıya sahip oluyor. Milli parka gitmek için, Marmaris'in merkezinden kalkan toplu taşıma araçlarını kullanma mümkün. Milli parkta, çeşitli yürüyüş parkurları ve piknik alanları gibi imkanlar sunuluyor. Ziyaretçilerin, milli parkın doğal güzelliklerini keşfetmeleri içinufficient imkanlar sunuluyor.
 
 ## İlginç Bilgiler
-
-- Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı, 140 hektarlık bir alanı kaplıyor.
 
 - Milli park, 1998 yılında milli park olarak ilan edildi.
 - Kızılcâm Ormanı, çeşitli ağaç türleriyle kaplı bir alan olarak dikkat çekiyor.

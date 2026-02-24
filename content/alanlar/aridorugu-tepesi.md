@@ -28,7 +28,7 @@ wikidata_id: "Q31556667"
 
 # Arıdoruğu Tepesi
 
-Arıdoruğu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan önemli bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Arıdoruğu Tepesi, aynı zamanda çevre düzenlemesiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu tepe, Ankara'nın merkezine yakın konumuyla da dikkat çekiyor ve ziyaretçilere kolay ulaşım imkanı sunuyor.
+Arıdoruğu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan önemli bir doğal güzelliktir. Arıdoruğu Tepesi, aynı zamanda çevre düzenlemesiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu tepe, Ankara'nın merkezine yakın konumuyla da dikkat çekiyor ve ziyaretçilere kolay ulaşım imkanı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Arıdoruğu Tepesi'nin tarihi geçmişi, Ankara'nın zengin tarihine ışık tut
 
 ## Coğrafya
 
-Arıdoruğu Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Ankara'nın merkezine yakın bir konumda yer alıyor ve yaklaşık 140 hektarlık bir alana sahip. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Arıdoruğu Tepesi, aynı zamanda Ankara'nın iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu tepe, kışları soğuk ve karlı, yazları ise sıcak ve kuru bir iklimi experiencia ediyor. Arıdoruğu Tepesi, Ankara'nın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul ediliyor. Bu tepe, aynı zamanda ziyaretçilerine, Ankara'nın doğal güzelliklerini keşfetme fırsatı sunuyor.
+Arıdoruğu Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Arıdoruğu Tepesi, aynı zamanda Ankara'nın iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu tepe, kışları soğuk ve karlı, yazları ise sıcak ve kuru bir iklimi experiencia ediyor. Arıdoruğu Tepesi, Ankara'nın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul ediliyor. Bu tepe, aynı zamanda ziyaretçilerine, Ankara'nın doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Arıdoruğu Tepesi, ziyaretçilerini bekliyor. Bu tepe, Ankara'nın merkezine ya
 ## İlginç Bilgiler
 
 - Arıdoruğu Tepesi, Ankara'nın en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alana sahiptir.
+
 - Arıdoruğu Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Arıdoruğu Tepesi, aynı zamanda ekolojik açıdan önemli bir yer olarak kabul ediliyor.

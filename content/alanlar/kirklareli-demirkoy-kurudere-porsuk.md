@@ -14,8 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%C4%B0%C4%9FneadaFloodplainForestsNP_%284%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%284%29.JPG","alt":"Kırklareli-Demirkoy-Kurudere-Porsuk","caption":"Kırklareli-Demirkoy-Kurudere-Porsuk","credit":"İğneadaFloodplainForestsNP (4).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklareli-Demirkoy-Kurudere-Porsuk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228207","tip":"genel"}]
-description: "Kırklareli ilinin Demirköy ilçesinde bulunan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Kırklareli","Demirköy","Kurudere","Porsuk","Marmara Bölgesi","milli park","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228207"
 ---
@@ -42,7 +41,6 @@ Kırklareli-Demirkoy-Kurudere-Porsuk milli parkını ziyaret etmek, doğa severl
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta
 - Milli parkın coğrafi konumu, Marmara Bölgesi'nin kuzeydoğusunda yer alıyor
 - Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor

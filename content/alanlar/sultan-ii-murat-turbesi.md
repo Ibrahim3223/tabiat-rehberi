@@ -30,7 +30,7 @@ wikidata_id: "Q131390478"
 
 # Sultan II. Murat Türbesi
 
-Sultan II. Murat Türbesi, Osmangazi, Bursa'da yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Sultan II. Murat'ın anısına inşa edilmiştir. Türbenin etrafındaki doğal güzellikler, ziyaretçilerin dikkatini çekmektedir. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biridir. Ziyaretçiler, hem tarihi türbeyi gezebilmekte hem de çevredeki doğa güzelliklerini keşfedebilmektedir.
+Sultan II. Murat Türbesi, Osmangazi, Bursa'da yer alan bir tarihi yapıdır. Murat'ın anısına inşa edilmiştir. Türbenin etrafındaki doğal güzellikler, ziyaretçilerin dikkatini çekmektedir. Ziyaretçiler, hem tarihi türbeyi gezebilmekte hem de çevredeki doğa güzelliklerini keşfedebilmektedir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Sultan II. Murat Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikle
 ## İlginç Bilgiler
 
 - Sultan II. Murat Türbesi, Osmangazi, Bursa'da yer almaktadır.
-- Türbenin etrafındaki alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Bölge, çeşitli bitki türleriyle zengin bir flora sunmaktadır.
 - Türbenin tarihi geçmişi, Osmanlı İmparatorluğu'nun önemli hükümdarlarından biri olan Sultan II. Murat'ın yaşamına dayanmaktadır.
 - Türbe, Sultan II. Murat'ın anısına inşa edilmiştir.

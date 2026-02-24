@@ -28,7 +28,7 @@ wikidata_id: "Q31547762"
 
 # Varikera Tepesi
 
-Varikera Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan coğrafi bir oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Varikera Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünüldüğünde, bölgeye özgü coğrafi yapıyı göstermektedir. Bu tepe, bölgenin jeolojik geçmişi ve coğrafi oluşumları hakkında önemli bilgiler sunmaktadır. Ayrıca, Varikera Tepesi'nin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta, bu nedenle bölgenin ekolojik dengesi açısından da önemli bir role sahiptir.
+Varikera Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan coğrafi bir oluşumdur. Varikera Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünüldüğünde, bölgeye özgü coğrafi yapıyı göstermektedir. Bu tepe, bölgenin jeolojik geçmişi ve coğrafi oluşumları hakkında önemli bilgiler sunmaktadır. Ayrıca, Varikera Tepesi'nin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta, bu nedenle bölgenin ekolojik dengesi açısından da önemli bir role sahiptir.
 
 ## Tarihçe
 

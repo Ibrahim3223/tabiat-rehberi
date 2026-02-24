@@ -49,7 +49,6 @@ Hamam 2, Malkara'yı ziyaret etmek, hem doğa severler hem de deniz keyfi yapmak
 
 ## İlginç Bilgiler
 
-- Hamam 2, Malkara, yaklaşık 140 hektarlık bir alana yayılmıştır.
 - Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Malkara, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış, her biri bu bölgeye kendi kültürünü ve izini bırakmıştır.
 - Hamam 2, Malkara, hem doğa severler hem de deniz keyfi yapmak isteyenler için ideal bir destinasyondur.

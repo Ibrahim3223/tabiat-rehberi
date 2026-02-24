@@ -42,7 +42,6 @@ Omeroba milli parkını ziyaret etmek, doğa severler ve fotoğraf tutkunları i
 
 ## İlginç Bilgiler
 
-- Omeroba milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunmakta.
 - Park, bir yaban hayatı koruma alanı olarak da önemli.
 - Ziyaretçiler, parkı gezerken, hem doğal güzellikleri keşfedebilir, hem de bu bölgenin kültürel zenginliklerini öğrenebilir.

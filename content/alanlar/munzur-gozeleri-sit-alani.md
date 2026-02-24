@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Munzur_Vadisi_Milli_Park%C4%B1_Munzur_G%C3%B6zeleri.jpg","alt":"Munzur Gözeleri Sit Alanı manzarası","credit":"Zgcnkygsz","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Munzur%20G%C3%B6zeleri%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226258","tip":"genel"}]
-description: "Doğal güzelliklerin buluştuğu Munzur Gözeleri Sit Alanı, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["doğa","gözeler","sit alanı","Munzur","İç Anadolu Bölgesi","turizm","gezi","doğal güzellik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226258"
@@ -23,7 +23,7 @@ wikidata_id: "Q108226258"
 
 # Munzur Gözeleri Sit Alanı
 
-Munzur Gözeleri Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin buluştuğu bir nokta olarak yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Munzur Gözeleri Sit Alanı, yüzyıllar boyunca doğanın güzelliğini korumuş ve ziyaretçilerine eşsiz bir deneyim sunuyor. Bu bölge, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir yer.
+ Munzur Gözeleri Sit Alanı, yüzyıllar boyunca doğanın güzelliğini korumuş ve ziyaretçilerine eşsiz bir deneyim sunuyor. Bu bölge, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Munzur Gözeleri Sit Alanı, ziyaretçilerine çeşitli aktivite seçenekleri su
 
 ## İlginç Bilgiler
 
-- Munzur Gözeleri Sit Alanı, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor.
 - Bu alan, çeşitli bitki türleri ve hayvanlar barındırmakla birlikte ziyaretçilerine doğal güzelliği sunuyor.
 - Munzur Gözeleri Sit Alanı, coğrafi olarak oldukça zengin bir yapıya sahip.
 - Bu alan, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor.

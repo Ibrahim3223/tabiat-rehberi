@@ -50,7 +50,7 @@ Koca Musa Efendi Dede Türbesi'ni ziyaret etmek, ziyaretçiler için önemli bir
 ## İlginç Bilgiler
 
 - Koca Musa Efendi Dede Türbesi, Ege Bölgesi'nin önemli dini ve turistik mekanlarından biridir.
-- Mekan, 140 hektarlık bir alana yayılmış vehistoric bir geçmişe sahiptir.
+
 - Ziyaretçiler, bu mekanın zengin tarihi ve doğal güzelliklerini keşfetme fırsatı bulurlar.
 - Mekan, çeşitli bitki türleri ve hayvanlarla birlikte, ekolojik bir dengeye sahiptir.
 - Ziyaret süresi, ziyaretçilerin ilgi alanlarına göre değişebilir, ancak ortalama 2-3 saat sürer.

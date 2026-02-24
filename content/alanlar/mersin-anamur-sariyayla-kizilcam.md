@@ -42,7 +42,6 @@ Mersin-Anamur-Sariyayla Kızılçam milli parkını ziyaret etmek, doğa ile iç
 
 ## İlginç Bilgiler
 
-- Mersin-Anamur-Sariyayla Kızılçam milli parkı, 140 hektarlık bir alana sahip
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre şekilleniyor
 - Milli park, Mersin'in Anamur ilçesinde yer alıyor
 - Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor

@@ -36,7 +36,7 @@ Köprütaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca verschilli medeni
 
 ## Coğrafya
 
-Köprütaşı Tepesi, Van ilinin coğrafi yapısını yansıtacak şekilde, dağlık ve engebeli bir bölgede yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve çevresindeki dağlar ile birlikte bir bütün olarak görülüyor. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve soğuk bir yapıya sahip. Kış aylarında karla kaplanan Köprütaşı Tepesi, yaz aylarında ise yeşilin tüm tonlarını ziyaretçilerine sunuyor. Bu tepe, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülüyor ve ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Köprütaşı Tepesi, Van'ın doğal güzelliklerini keşfetmek için ideal bir başlangıç noktası olarak kabul ediliyor.
+Köprütaşı Tepesi, Van ilinin coğrafi yapısını yansıtacak şekilde, dağlık ve engebeli bir bölgede yer alıyor. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve soğuk bir yapıya sahip. Kış aylarında karla kaplanan Köprütaşı Tepesi, yaz aylarında ise yeşilin tüm tonlarını ziyaretçilerine sunuyor. Bu tepe, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülüyor ve ziyaretçilerine geniş bir coğrafi çeşitlilik sunuyor. Köprütaşı Tepesi, Van'ın doğal güzelliklerini keşfetmek için ideal bir başlangıç noktası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Köprütaşı Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz ayla
 
 ## İlginç Bilgiler
 
-- Köprütaşı Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, Van ilinin doğal güzelliklerini keşfetmek için ideal bir nokta.
 - Köprütaşı Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
 - Bu bölge, doğa severler için bir cennet olarak görülüyor.

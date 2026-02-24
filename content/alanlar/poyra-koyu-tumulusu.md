@@ -51,6 +51,6 @@ Poyra Köyü Tümülüsü, ziyaretçilerine birçok güzellik sunuyor. Bu bölge
 
 - Poyra Köyü Tümülüsü, Marmara Bölgesi'nin önemli bir kültürel ve tarihi mirası olarak kabul ediliyor.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin hüküm sürdüğü bir bölge olarak dikkat çekiyor.
-- Poyra Köyü Tümülüsü, 140 hektarlık bir büyüklüğe sahip ve coğrafi olarak önemli bir noktada bulunmakta.
+
 - Bu bölge, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyor.
 - Poyra Köyü Tümülüsü, ziyaretçilerine birçok doğal güzellik sunuyor.

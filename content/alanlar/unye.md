@@ -15,8 +15,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6f/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_restaurant.jpg","alt":"ÜNYE manzarası","credit":"Mahrujan","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e4/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_shoreline.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_shoreline.jpg/1280px-%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_shoreline.jpg","alt":"ÜNYE - Ünye, Çamlık, shoreline","credit":"Mahrujan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_outcrops_on_the_coastline.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_outcrops_on_the_coastline.jpg/1280px-%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_outcrops_on_the_coastline.jpg","alt":"ÜNYE - Ünye, Çamlık, outcrops on the coastline","credit":"Mahrujan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_rocky_cove.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_rocky_cove.jpg/1280px-%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_rocky_cove.jpg","alt":"ÜNYE - Ünye, Çamlık, rocky cove","credit":"Mahrujan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_shoreline_view.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_shoreline_view.jpg/1280px-%C3%9Cnye%2C_%C3%87aml%C4%B1k%2C_shoreline_view.jpg","alt":"ÜNYE - Ünye, Çamlık, shoreline view","credit":"Mahrujan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Yal%C4%B1_Church%2C_%C3%9Cnye%2C_view_from_the_north.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Yal%C4%B1_Church%2C_%C3%9Cnye%2C_view_from_the_north.jpg/1280px-Yal%C4%B1_Church%2C_%C3%9Cnye%2C_view_from_the_north.jpg","alt":"ÜNYE - Yalı Church, Ünye, view from the north","credit":"Mahrujan","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9CNYE","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228642","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["İç Anadolu Bölgesi","doğa","yeşil alan","futbol sahası","gezi","turizm","Ünye","milli park"]
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228642"
 ---
@@ -43,7 +43,6 @@ wikidata_id: "Q108228642"
 
 ## İlginç Bilgiler
 
-- Ünye, 140 hektarlık bir alana sahiptir.
 - Ünye, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Ünye, flora ve fauna açısından zengin bir bölgedir.
 - Ünye, tarihi eserler ve kalıntılar barındırır.

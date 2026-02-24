@@ -37,7 +37,7 @@ Sakal Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, fa
 
 ## Coğrafya
 
-Sakal Tepe, Adıyaman şehrinin merkezi bir bölümünde yer alıyor. Tepenin etrafı, şehrin önemli caddeleri ve yapılarıyla çevrili. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve şehrin en büyük yeşil alanlarından biri olarak biliniyor. Sakal Tepe'nin coğrafi konumu, ziyaretçilere şehrin dört bir yanını panoramik olarak görme imkanı sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Burada, şehrin gürültüsünden uzaklaşarak, doğanın sakinliğinde vakit geçirebilir ve şehri farklı bir açıdan keşfedebilirsiniz. Sakal Tepe'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçiler, mevsimsel değişimlere göre burayı gezebilirler.
+Sakal Tepe, Adıyaman şehrinin merkezi bir bölümünde yer alıyor. Tepenin etrafı, şehrin önemli caddeleri ve yapılarıyla çevrili. Sakal Tepe'nin coğrafi konumu, ziyaretçilere şehrin dört bir yanını panoramik olarak görme imkanı sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Burada, şehrin gürültüsünden uzaklaşarak, doğanın sakinliğinde vakit geçirebilir ve şehri farklı bir açıdan keşfedebilirsiniz. Sakal Tepe'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçiler, mevsimsel değişimlere göre burayı gezebilirler.
 
 ## Flora ve Fauna
 

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Armutlu%207005.jpg","alt":"Armutlu Yarımadası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Armutlu_Yar%C4%B1madas%C4%B1.jpg/960px-Armutlu_Yar%C4%B1madas%C4%B1.jpg","alt":"Armutlu Yarımadası","caption":"Armutlu Yarımadası","credit":"Armutlu Yarımadası","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Armutlu_7005.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Armutlu_7005.jpg/1280px-Armutlu_7005.jpg","alt":"Armutlu Yarımadası - Armutlu 7005","credit":"User:Darwinek","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Armutlu%20Yar%C4%B1madas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q4794056","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Armutlu Yarımadası, 1200 hektarlık yeşil alanı ile dikkat çekiyor."

@@ -50,7 +50,7 @@ Yüzbaşı Şekip Efendi Şehitliği'ni ziyaret etmek, hem tarihi hem de doğal 
 ## İlginç Bilgiler
 
 - Yüzbaşı Şekip Efendi Şehitliği, tarihsel önemiyle dikkat çeker.
-- Bu plaj, 140 hektarlık bir alanı kaplar.
+
 - Plajın etrafı, çeşitli bitki türleriyle çevrilidir.
 - Bu bölge, yüzyıllar boyunca önemli olaylara tanıklık etti.
 - Yüzbaşı Şekip Efendi Şehitliği, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.

@@ -48,7 +48,6 @@ Perişankalesı Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih merakl�
 
 ## İlginç Bilgiler
 
-- Perişankalesı Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
 - Bu tepe, Hatay ilinin önemli doğal alanlarından biridir.
 - Perişankalesı Tepesi'nin etrafındaki ormanlar, birçok hayvan türüne ev sahipliği yapar.
 - Tepenin yüksekliği, çevredeki diğer tepe ve dağlarla birlikte, Akdeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir faktördür.

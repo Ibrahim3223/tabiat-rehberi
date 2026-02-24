@@ -29,7 +29,7 @@ wikidata_id: "Q131390624"
 
 # İmad Bin Hacı Muhiddin Türbesi
 
-İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın merkezinde, şehrin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu özel yer, yaklaşık 140 hektarlık bir alanda, şehrin kalabalığından uzakta, sakin ve huzurlu bir atmosfer sunuyor. Bu büyük alan, ziyaretçilere geniş ve ferah bir ortam sağlıyor. İmad Bin Hacı Muhiddin Türbesi, sadece tarihi önemini değil, aynı zamanda doğal güzelliği ile de dikkat çekiyor.
+İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın merkezinde, şehrin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu büyük alan, ziyaretçilere geniş ve ferah bir ortam sağlıyor. İmad Bin Hacı Muhiddin Türbesi, sadece tarihi önemini değil, aynı zamanda doğal güzelliği ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390624"
 
 ## Coğrafya
 
-İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın coğrafi olarak önemli bir bölgesinde yer alıyor. Türbe ve çevresi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, geniş ova ve dağların birleştiği bir noktada bulunuyor. İmad Bin Hacı Muhiddin Türbesi, bu coğrafi oluşumun içinde, yaklaşık 140 hektarlık bir alanda yer alıyor. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu doğal güzellik, ziyaretçilere geniş ve ferah bir ortam sağlıyor. İklim olarak, Ege Bölgesi'nin ılıman iklimi hakim. Kışlar ılık, yazlar ise sıcakk geçiyor. Bu iklim, türbenin ve çevresinin yeşilliğini ve doğal güzelliğini desteklıyor.
+İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın coğrafi olarak önemli bir bölgesinde yer alıyor. Türbe ve çevresi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, geniş ova ve dağların birleştiği bir noktada bulunuyor. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili. Bu doğal güzellik, ziyaretçilere geniş ve ferah bir ortam sağlıyor. İklim olarak, Ege Bölgesi'nin ılıman iklimi hakim. Kışlar ılık, yazlar ise sıcakk geçiyor. Bu iklim, türbenin ve çevresinin yeşilliğini ve doğal güzelliğini desteklıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131390624"
 ## İlginç Bilgiler
 
 - İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın önemli tarihi ve doğal güzelliklerinden biri.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - İmad Bin Hacı Muhiddin Türbesi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili.
 - İlkbahar ve yaz aylarında, doğa daha da güzelleşiyor.

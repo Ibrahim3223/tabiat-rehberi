@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/B%C3%BCy%C3%BCkada_Deniz.jpg/960px-B%C3%BCy%C3%BCkada_Deniz.jpg","alt":"Adacık","caption":"Adacık","credit":"Büyükada Deniz","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uzung%C3%B6l_Adac%C4%B1k.jpg/960px-Uzung%C3%B6l_Adac%C4%B1k.jpg","alt":"Adacık","caption":"Adacık","credit":"Uzungöl Adacık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adac%C4%B1k%20(T%C3%BCrkiye%20Konya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631369","tip":"genel"}]
 description: "Konya'da yer alan Adacık, 1200 hektarlık bir yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Adacık","Konya","Ada","Yeşil Alan","Doğa","Türkiye","Gezi","Seyahat","Konya Turizm"]

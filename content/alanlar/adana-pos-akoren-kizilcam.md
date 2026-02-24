@@ -42,7 +42,6 @@ Adana-Pos-Akören-Kızılçam milli parkını ziyaret etmek, unutulmaz bir deney
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - çeşitli bitki türleri
 - zengin fauna
 - tarihi geçmişi

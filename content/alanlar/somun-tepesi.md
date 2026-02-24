@@ -36,7 +36,7 @@ Somun Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgeni
 
 ## Coğrafya
 
-Somun Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini gözler önüne seren bir nokta. Tokat ilinin merkezi ve çevresindeki dağların birleştiği noktada yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Bölgenin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de trekking ve diğer açık hava etkinlikleri yapma fırsatı sunuyor. Somun Tepesi, ziyaretçilerini dört mevsim boyunca farklı bir güzelliğe sahip olan bir doğal cennet olarak karşılıyor. Kışın karla kaplı, ilkbaharda yeşilin tüm tonlarıyla dolu, yazın sıcakcık ve sonbaharda renk cümbüşü olan bu tepe, her mevsim ziyaretçilerini farklı bir  sunuyor.
+Somun Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini gözler önüne seren bir nokta. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Bölgenin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri keşfetme hem de trekking ve diğer açık hava etkinlikleri yapma fırsatı sunuyor. Somun Tepesi, ziyaretçilerini dört mevsim boyunca farklı bir güzelliğe sahip olan bir doğal cennet olarak karşılıyor. Kışın karla kaplı, ilkbaharda yeşilin tüm tonlarıyla dolu, yazın sıcakcık ve sonbaharda renk cümbüşü olan bu tepe, her mevsim ziyaretçilerini farklı bir  sunuyor.
 
 ## Flora ve Fauna
 

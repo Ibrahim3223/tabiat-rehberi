@@ -48,7 +48,6 @@ Somaklı Tepe, ziyaretçilerini birçok farklı faaliyet ve aktiviteyle bekliyor
 
 ## İlginç Bilgiler
 
-- Somaklı Tepe, 140 hektarlık bir alana sahiptir
 - Bu bölgede, birçok farklı bitki türü bulunmaktadır
 - Somaklı Tepe, doğa severler için bir cennet
 - Bu bölgede, birçok farklı hayvan türü bulunmaktadır

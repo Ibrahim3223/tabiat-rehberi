@@ -29,7 +29,7 @@ wikidata_id: "Q131390830"
 
 # Piri Halife Sultan Türbesi
 
-Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunan bir tarihi türbe ve plajdır. Bu güzel mekan, 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde yer alır. Tarihi türbe, güzel plajı ve zengin doğasıyla birlikte, Piri Halife Sultan Türbesi, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur. Burada, tarihi bir türbenin huzurunu ve güzel bir plajın keyfini bir arada yaşayabilirsiniz.
+Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunan bir tarihi türbe ve plajdır. Tarihi türbe, güzel plajı ve zengin doğasıyla birlikte, Piri Halife Sultan Türbesi, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur. Burada, tarihi bir türbenin huzurunu ve güzel bir plajın keyfini bir arada yaşayabilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Piri Halife Sultan Türbesi, tarihi geçmişi ile dikkat çeker. Bu tarihi mekan
 
 ## Coğrafya
 
-Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunur. Bu bölge, Akdeniz Bölgesi'nin güzelliklerini taşır. Türbe ve plaj, 140 hektarlık geniş bir yeşil alanın içinde yer alır. Bölge, güzel bir plaj ve tarihi bir türbe ile birlikte, ziyaretçilerine zengin bir doğa ve tarih deneyimi sunar. Eğirdir Gölü'nün yakınlarında bulunan Piri Halife Sultan Türbesi, güzel bir göl manzarası da sunar. Bu mekan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur.
+Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunur. Bu bölge, Akdeniz Bölgesi'nin güzelliklerini taşır. Bölge, güzel bir plaj ve tarihi bir türbe ile birlikte, ziyaretçilerine zengin bir doğa ve tarih deneyimi sunar. Eğirdir Gölü'nün yakınlarında bulunan Piri Halife Sultan Türbesi, güzel bir göl manzarası da sunar. Bu mekan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Piri Halife Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellik
 ## İlginç Bilgiler
 
 - Piri Halife Sultan Türbesi, Eğirdir'in önemli tarihi mekanlarından biridir.
-- Türbe ve plaj, 140 hektarlık bir yeşil alanın içinde yer alır.
+
 - Bu mekan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur.
 - Piri Halife Sultan Türbesi, yılın her döneminde ziyaret edilebilir.
 - İlkbahar ve yaz aylarında, plajın keyfini çıkarmak için ideal bir zaman iken, sonbahar ve kış aylarında, daha sakin ve huzurlu bir atmosferi deneyimlemek için ziyaret edilebilir.

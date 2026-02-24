@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotografcılık","tarihî yapıları ziyare
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Kahramanmaras-Kilis Fistik Cami","caption":"Kahramanmaras-Kilis Fistik Cami","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kilis%20Fistik%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228005","tip":"genel"}]
-description: "Kahramanmaras ve Kilis illerinin sınırında yer alan bu tarihi cami, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Kahramanmaras","Kilis","Fistik Cami","tarihi yapılar","yeşil alanlar","doğa","kültür","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228005"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228005"
 
 # Kahramanmaras-Kilis Fistik Cami
 
-Kahramanmaras-Kilis Fistik Cami, İç Anadolu Bölgesi'nde yer alan bir tarihi yapıdır. Caminin tarihi geçmişi, ziyaretçilere bu özel yapı hakkında bilgi vermektedir. 140 hektarlık bu yeşil alan, birçok bitki türünü ve çeşitli canlıları barındırmaktadır. Ziyaretçiler, bu cami ve çevresini ziyaret ederek hem tarihi bir yapıyı görmüş hem de doğanın güzelliğini keşfetmiş olurlar.
+Kahramanmaras-Kilis Fistik Cami, İç Anadolu Bölgesi'nde yer alan bir tarihi yapıdır. Caminin tarihi geçmişi, ziyaretçilere bu özel yapı hakkında bilgi vermektedir. Ziyaretçiler, bu cami ve çevresini ziyaret ederek hem tarihi bir yapıyı görmüş hem de doğanın güzelliğini keşfetmiş olurlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kahramanmaras-Kilis Fistik Cami'nin tarihi geçmişi, yüzyıllar boyunca versch
 
 ## Coğrafya
 
-Kahramanmaras-Kilis Fistik Cami, İç Anadolu Bölgesi'nde yer alan bir yapidir. Bu cami, 140 hektarlık yeşil alanının içinde bulunmakta ve çevresi, çeşitli bitki türleri ve canlıları barındırmaktadır. Caminin bulunduğu yer, ilkbahar ve yaz aylarında yeşilin tüm tonlarını sergilerken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünmektedir. Ziyaretçiler, bu cami ve çevresini ziyaret ederek, doğanın güzelliğini keşfetme fırsatı bulurlar. Caminin bulunduğu yerin coğrafi özellikleri, ziyaretçilere önemli bir deneyim sunmaktadır. Ziyaretçiler, bu tarihi yapıyı ziyaret ederek, hem tarihi bir yapıyı görmüş hem de doğanın güzelliğini keşfetmiş olurlar. 140 hektarlık bu yeşil alan, birçok futbol sahası büyüklüğünde bir alana sahiptir ve ziyaretçilere geniş bir açık alan sunmaktadır.
+Kahramanmaras-Kilis Fistik Cami, İç Anadolu Bölgesi'nde yer alan bir yapidir. Caminin bulunduğu yer, ilkbahar ve yaz aylarında yeşilin tüm tonlarını sergilerken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünmektedir. Ziyaretçiler, bu cami ve çevresini ziyaret ederek, doğanın güzelliğini keşfetme fırsatı bulurlar. Caminin bulunduğu yerin coğrafi özellikleri, ziyaretçilere önemli bir deneyim sunmaktadır. Ziyaretçiler, bu tarihi yapıyı ziyaret ederek, hem tarihi bir yapıyı görmüş hem de doğanın güzelliğini keşfetmiş olurlar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kahramanmaras-Kilis Fistik Cami'ni ziyaret etmek, hem tarihi bir yapıyı görme
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - tarihi yapı
 - doğa
 - kültür

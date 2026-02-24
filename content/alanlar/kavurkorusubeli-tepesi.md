@@ -28,7 +28,7 @@ wikidata_id: "Q31390797"
 
 # Kavurkorusubeli Tepesi
 
-Yozgat'ın İç Anadolu Bölgesi'nde yer alan Kavurkorusubeli Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyüleyici manzarasıyla karşılar. Bölgenin coğrafi yapısı ve iklimi, burada bulunan flora ve faunayı etkileyen önemli faktörlerdir. Kavurkorusubeli Tepesi, doğa severlerin ve fotoğraf tutkunlarının ilgisini çeken bir destinasyon olarak dikkat çeker.
+ Bölgenin coğrafi yapısı ve iklimi, burada bulunan flora ve faunayı etkileyen önemli faktörlerdir. Kavurkorusubeli Tepesi, doğa severlerin ve fotoğraf tutkunlarının ilgisini çeken bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kavurkorusubeli Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları
 ## İlginç Bilgiler
 
 - Kavurkorusubeli Tepesi, Yozgat'ın önemli bir doğal güzelliğidir.
-- Bu tepe, yaklaşık 140 hektarlık bir alan kaplar.
+
 - Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur.
 - Kavurkorusubeli Tepesi, fauna açısından da zengin bir bölgedir.
 - Bu bölge, doğa severler ve bilim insanları için önemli bir destinasyondur.

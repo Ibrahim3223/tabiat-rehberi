@@ -50,7 +50,6 @@ Vialand'ı ziyaret etmek, İstanbul'un merkezinde bir eğlence ve alışveriş d
 
 ## İlginç Bilgiler
 
-- Vialand, 140 hektarlık bir alanı kaplıyor.
 - Vialand, İstanbul'un Eyüpsultan ilçesinde yer alıyor.
 - Vialand, Marmara Bölgesi'nde bulunuyor.
 - Vialand, yılın her döneminde ziyaret edilebiliyor.

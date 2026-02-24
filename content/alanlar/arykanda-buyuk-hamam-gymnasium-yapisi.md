@@ -29,7 +29,7 @@ wikidata_id: "Q131738870"
 
 # Arykanda Büyük Hamam Gymnasium Yapısı
 
-Arykanda Büyük Hamam Gymnasium Yapısı, Finike ilçesinde bulunan ve tarihi geçmişiyle dikkat çekici bir yapıdır. Bu yapı, yaklaşık 140 hektarlık bir alanda yer alan Arykanda antik kentinde bulunur. Arykanda, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve Büyük Hamam Gymnasium Yapısı, bu bölgenin en önemli tarihi yapılarından biridir. Yapı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. 200 futbol sahası büyüklüğünde olan bu alan, tarihi ve kültürel açıdan büyük önem taşır.
+Arykanda Büyük Hamam Gymnasium Yapısı, Finike ilçesinde bulunan ve tarihi geçmişiyle dikkat çekici bir yapıdır. Arykanda, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve Büyük Hamam Gymnasium Yapısı, bu bölgenin en önemli tarihi yapılarından biridir. Yapı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır.
 
 ## Tarihçe
 
@@ -37,15 +37,15 @@ Arykanda Büyük Hamam Gymnasium Yapısı, tarihi geçmişiyle dikkat çekicidir
 
 ## Coğrafya
 
-Arykanda Büyük Hamam Gymnasium Yapısı, Finike ilçesinde bulunan Arykanda antik kentinde yer alır. Bu yapı, yaklaşık 140 hektarlık bir alanda bulunur ve Arykanda antik kentinin en önemli tarihi yapılarından biridir. Arykanda antik kenti, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve tarihi M.Ö. 5. yüzyıla kadar uzanır. Büyük Hamam Gymnasium Yapısı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. Yapı, 200 futbol sahası büyüklüğünde olan bir alanda yer alır ve tarihi ve kültürel açıdan büyük önem taşır. Arykanda antik kenti, Akdeniz Bölgesi'nde yer alır ve bu bölge, iklimi ve coğrafi özellikleri ile dikkat çekicidir. Büyük Hamam Gymnasium Yapısı, Arykanda antik kentinin en önemli tarihi yapılarından biridir ve bu yapı, tarihi geçmişi ile dikkat çekicidir.
+Arykanda Büyük Hamam Gymnasium Yapısı, Finike ilçesinde bulunan Arykanda antik kentinde yer alır. Arykanda antik kenti, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve tarihi M.Ö. 5. yüzyıla kadar uzanır. Büyük Hamam Gymnasium Yapısı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. Arykanda antik kenti, Akdeniz Bölgesi'nde yer alır ve bu bölge, iklimi ve coğrafi özellikleri ile dikkat çekicidir. Büyük Hamam Gymnasium Yapısı, Arykanda antik kentinin en önemli tarihi yapılarından biridir ve bu yapı, tarihi geçmişi ile dikkat çekicidir.
 
 ## Flora ve Fauna
 
-Arykanda Büyük Hamam Gymnasium Yapısı, Arykanda antik kentinde yer alır ve bu bölge, çeşitli bitki türleri ve hayvanlarla dolu bir doğaya sahiptir. Arykanda antik kenti, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve tarihi M.Ö. 5. yüzyıla kadar uzanır. Büyük Hamam Gymnasium Yapısı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. Bu yapı, 200 futbol sahası büyüklüğünde olan bir alanda yer alır ve tarihi ve kültürel açıdan büyük önem taşır. Arykanda antik kenti, Akdeniz Bölgesi'nde yer alır ve bu bölge, iklimi ve coğrafi özellikleri ile dikkat çekicidir. Bu bölge, çeşitli mevsimsel değişimlere sahiptir ve bu değişimler, bölgenin flora ve faunasını etkiler. Arykanda antik kenti, yaban hayatı açısından da zengin bir bölgedir ve bu bölge, çeşitli hayvan türlerine ev sahipliği yapar.
+Arykanda Büyük Hamam Gymnasium Yapısı, Arykanda antik kentinde yer alır ve bu bölge, çeşitli bitki türleri ve hayvanlarla dolu bir doğaya sahiptir. Arykanda antik kenti, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve tarihi M.Ö. 5. yüzyıla kadar uzanır. Büyük Hamam Gymnasium Yapısı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. Arykanda antik kenti, Akdeniz Bölgesi'nde yer alır ve bu bölge, iklimi ve coğrafi özellikleri ile dikkat çekicidir. Bu bölge, çeşitli mevsimsel değişimlere sahiptir ve bu değişimler, bölgenin flora ve faunasını etkiler. Arykanda antik kenti, yaban hayatı açısından da zengin bir bölgedir ve bu bölge, çeşitli hayvan türlerine ev sahipliği yapar.
 
 ## Ziyaret Bilgileri
 
-Arykanda Büyük Hamam Gymnasium Yapısı, Arykanda antik kentinde yer alır ve bu yapı, tarihi geçmişi ile dikkat çekicidir. Bu yapının ziyaret edilmesi, tarihi ve kültürel açıdan büyük önem taşır. Arykanda antik kenti, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve tarihi M.Ö. 5. yüzyıla kadar uzanır. Büyük Hamam Gymnasium Yapısı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. Bu yapı, 200 futbol sahası büyüklüğünde olan bir alanda yer alır ve tarihi ve kültürel açıdan büyük önem taşır. Ziyaretçiler, bu yapıyı ziyaret ederek, tarihi geçmişi hakkında bilgi edinebilirler. Arykanda antik kenti, Akdeniz Bölgesi'nde yer alır ve bu bölge, iklimi ve coğrafi özellikleri ile dikkat çekicidir.
+Arykanda Büyük Hamam Gymnasium Yapısı, Arykanda antik kentinde yer alır ve bu yapı, tarihi geçmişi ile dikkat çekicidir. Bu yapının ziyaret edilmesi, tarihi ve kültürel açıdan büyük önem taşır. Arykanda antik kenti, Likya bölgesinin en önemli antik kentlerinden biri olarak bilinir ve tarihi M.Ö. 5. yüzyıla kadar uzanır. Büyük Hamam Gymnasium Yapısı, antik dönemde hamam ve spor kompleksi olarak kullanılmıştır. Ziyaretçiler, bu yapıyı ziyaret ederek, tarihi geçmişi hakkında bilgi edinebilirler. Arykanda antik kenti, Akdeniz Bölgesi'nde yer alır ve bu bölge, iklimi ve coğrafi özellikleri ile dikkat çekicidir.
 
 ## İlginç Bilgiler
 

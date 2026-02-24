@@ -28,7 +28,7 @@ wikidata_id: "Q31389361"
 
 # Kapıtaşı Tepesi
 
-Mersin'de yer alan Kapıtaşı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biri olarak bilinir. Burada, doğal güzellikleri yakındanleme mümkündür. Ayrıca, bu tepe, Mersin'in tarihî ve kültürel zenginliklerini de içinde barındırır. Kapıtaşı Tepesi, hem doğal güzellikleri hem de tarihî zenginlikleriyle ziyaretçilerini büyüler.
+Mersin'de yer alan Kapıtaşı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biri olarak bilinir. Burada, doğal güzellikleri yakındanleme mümkündür. Ayrıca, bu tepe, Mersin'in tarihî ve kültürel zenginliklerini de içinde barındırır. Kapıtaşı Tepesi, hem doğal güzellikleri hem de tarihî zenginlikleriyle ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kapıtaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Kapıtaşı Tepesi, Mersin'de yer alan bir tepe olarak bilinir. Bu tepe, Akdeniz Bölgesi'nin önemli coğrafî noktalarından biridir. Kapıtaşı Tepesi, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. Bu alan, çeşitli bitki türleri ve zengin fauna ile doludur. Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biri olarak bilinir ve ziyaretçilerini doğal güzellikleri ile büyüler. Bu tepe, Mersin'in coğrafî zenginliklerini içinde barındırır ve ziyaretçilerine geniş bir yeşil alan sunar. Kapıtaşı Tepesi, Mersin'in önemli bir coğrafî noktası olarak bilinir ve ziyaretçilerini coğrafî güzellikleri ile büyüler. Ayrıca, bu tepe, Mersin'in iklimini ve çevre koşullarını da etkiler.
+Kapıtaşı Tepesi, Mersin'de yer alan bir tepe olarak bilinir. Bu tepe, Akdeniz Bölgesi'nin önemli coğrafî noktalarından biridir. Bu alan, çeşitli bitki türleri ve zengin fauna ile doludur. Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biri olarak bilinir ve ziyaretçilerini doğal güzellikleri ile büyüler. Bu tepe, Mersin'in coğrafî zenginliklerini içinde barındırır ve ziyaretçilerine geniş bir yeşil alan sunar. Kapıtaşı Tepesi, Mersin'in önemli bir coğrafî noktası olarak bilinir ve ziyaretçilerini coğrafî güzellikleri ile büyüler. Ayrıca, bu tepe, Mersin'in iklimini ve çevre koşullarını da etkiler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kapıtaşı Tepesi'ni ziyaret etmek, Mersin'in önemli turizm noktalarından bir
 ## İlginç Bilgiler
 
 - Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir.
+
 - Kapıtaşı Tepesi, çeşitli bitki türleri ve zengin fauna ile doludur.
 - Bu tepe, Mersin'in tarihî ve kültürel zenginliklerini içinde barındırır.
 - Kapıtaşı Tepesi, Mersin'in coğrafî zenginliklerini içinde barındırır.

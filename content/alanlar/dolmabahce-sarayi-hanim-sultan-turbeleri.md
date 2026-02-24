@@ -50,7 +50,7 @@ Dolmabahçe Sarayı Hanım Sultan Türbeleri'ne ziyaretçiler, toplu taşıma ar
 ## İlginç Bilgiler
 
 - Dolmabahçe Sarayı Hanım Sultan Türbeleri, İstanbul'un en önemli turistik yerlerinden biri.
-- Bu mekan, yaklaşık 140 hektarlık bir yeşil alanı kaplıyor.
+
 - Hanım Sultan Türbeleri, Osmanlı Devleti'nin önemli isimlerine ait türbeleri barındırıyor.
 - Mekan, yüzyıllar boyunca çeşitli dönemlere tanıklık etti.
 - Dolmabahçe Sarayı Hanım Sultan Türbeleri, Marmara Bölgesi'nin coğrafi güzelliklerini sunuyor.

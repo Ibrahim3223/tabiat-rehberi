@@ -43,7 +43,7 @@ Yarışlı Gölü Sulak Alanı, doğa severler ve araştırmacılar için bir ce
 ## İlginç Bilgiler
 
 - Yarışlı Gölü Sulak Alanı, bölgenin en önemli sulak alanlarından biri
-- Sulak alan, 140 hektarlık bir alanı kapsıyor
+
 - Yarışlı Gölü, bölgenin su dengesini sağlayan önemli bir kaynak
 - Sulak alan, özellikle su kuşları olmak üzere birçok hayvan türüne ev sahipliği yapıyor
 - Yarışlı Gölü Sulak Alanı, koruma altına alınmıştır

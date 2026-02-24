@@ -48,7 +48,6 @@ wikidata_id: "Q34819930"
 
 ## İlginç Bilgiler
 
-- Çöreşi Tepesi, 140 hektarlık bir alana yayılmış
 - Tepenin etrafında yer alan çeşitli bitki türleri
 - Zengin fauna ile dikkat çekiyor
 - Bölgenin önemli bir su kaynağını barındırmakta

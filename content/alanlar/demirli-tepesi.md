@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi","tarihî kalın
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Demirli Tepesi","caption":"Demirli Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526023","tip":"genel"}]
-description: "Isparta'nın doğal güzelliklerinden biri olan Demirli Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Isparta","Demirli Tepesi","doğal güzellik","tepe","Akdeniz Bölgesi","gezi","turizm","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31526023"

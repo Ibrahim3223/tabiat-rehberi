@@ -48,7 +48,6 @@ Elmakırı Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için 
 
 ## İlginç Bilgiler
 
-- Elmakırı Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepenin etrafında çeşitli bitki türleri yetişiyor
 - Elmakırı Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Tepenin zirvesinden manzara izlemek, ayrı bir keyif sunuyor

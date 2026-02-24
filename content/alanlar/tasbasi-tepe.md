@@ -28,7 +28,7 @@ wikidata_id: "Q31389507"
 
 # Taşbaşı Tepe
 
-Taşbaşı Tepe, Gaziantep'in merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve Gaziantep'in şehir silüetini oluşturan önemli bir coğrafi özelliktir. Taşbaşı Tepe'nin etrafı, tarihi eserlerle dolu ve ziyaretçiler için birçok gezilecek yer sunar. Tepenin üzerinde yer alan tarihi yapılar, Gaziantep'in kültürel zenginliğini gözler önüne serer. Taşbaşı Tepe, aynı zamanda şehre hakim bir konumda bulunması nedeniyle, Gaziantep'in panoramik manzarasını izlemek için ideal bir noktadır.
+Taşbaşı Tepe, Gaziantep'in merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir noktadır. Taşbaşı Tepe'nin etrafı, tarihi eserlerle dolu ve ziyaretçiler için birçok gezilecek yer sunar. Tepenin üzerinde yer alan tarihi yapılar, Gaziantep'in kültürel zenginliğini gözler önüne serer. Taşbaşı Tepe, aynı zamanda şehre hakim bir konumda bulunması nedeniyle, Gaziantep'in panoramik manzarasını izlemek için ideal bir noktadır.
 
 ## Tarihçe
 

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"EFENDİOĞLU_HANYANI_TP","caption":"EFENDİOĞLU_HANYANI_TP","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/EFEND%C4%B0O%C4%9ELU_HANYANI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229002","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan EFENDİOĞLU_HANYANI_TP, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Zengin flora ve fauna çeşitliliğine sahiptir."
+ Zengin flora ve fauna çeşitliliğine sahiptir."
 keywords: ["İç Anadolu Bölgesi","milli park","flora","fauna","gezi","doğa","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229002"
@@ -41,8 +41,6 @@ EFENDİOĞLU_HANYANI_TP, zengin flora ve fauna çeşitliliğine sahiptir. Milli 
 EFENDİOĞLU_HANYANI_TP, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parka gitmek için, ziyaretçiler çeşitli ulaşım seçeneklerini kullanabilir. Ziyaretçiler, milli parkın içinde yürüyüş yapabilir, piknik düzenleyebilir ve çevreyi keşfedebilir. EFENDİOĞLU_HANYANI_TP, doğa severler ve çevreyi korumak isteyenler için ideal bir destinasyondur. Ziyaretçilerin, milli parkın kurallarına uyması önemlidir. Ziyaretçiler, doğanın güzelliğini koruyarak, gelecek nesiller için de aynı güzelliği korumalıdır.
 
 ## İlginç Bilgiler
-
-- EFENDİOĞLU_HANYANI_TP, 140 hektarlık geniş bir alanı kapsar.
 
 - Bölge, çeşitli bitki türleri ve hayvanlar ile dolu olan bir ekosisteme sahiptir.
 - İklim, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer.

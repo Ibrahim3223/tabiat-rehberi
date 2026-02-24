@@ -36,7 +36,7 @@ Habis Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Habis Tepesi, Şırnak ilinin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin doğal güzelliklerini sergiler. Şırnak'ın coğrafi konumu, Habis Tepesi'nin flora ve faunasını etkileyen önemli bir faktördür. Bölgenin iklimi, genellikle sıcak ve kurudur, ancak Habis Tepesi'nin yüksekliği, iklimin biraz daha ılıman olmasına neden olur. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Habis Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek için ideal bir lokasyondur. Tepenin manzarası, ziyaretçilere bölgenin güzelliğini ve çeşitliliğini gösterir.
+Habis Tepesi, Şırnak ilinin coğrafi yapısını temsil eden önemli bir noktadır. Şırnak'ın coğrafi konumu, Habis Tepesi'nin flora ve faunasını etkileyen önemli bir faktördür. Bölgenin iklimi, genellikle sıcak ve kurudur, ancak Habis Tepesi'nin yüksekliği, iklimin biraz daha ılıman olmasına neden olur. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Habis Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek için ideal bir lokasyondur. Tepenin manzarası, ziyaretçilere bölgenin güzelliğini ve çeşitliliğini gösterir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Habis Tepesi'ni ziyaret etmek, doğa severler ve bölgenin tarihini öğrenmek i
 
 ## İlginç Bilgiler
 
-- Habis Tepesi, 140 hektarlık bir alanı kaplar
 - Tepenin etrafında, çeşitli bitki türleri bulunur
 - Habis Tepesi, bölgenin tarihini ve kültürünü keşfetmek için ideal bir lokasyondur
 - Tepenin manzarası, ziyaretçilere bölgenin güzelliğini ve çeşitliliğini gösterir

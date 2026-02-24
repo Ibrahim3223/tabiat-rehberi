@@ -38,7 +38,7 @@ Santralistanbul Enerji Müzesi, 1914 yılında Silahtarağa Elektrik Santrali ol
 
 ## Coğrafya
 
-Santralistanbul Enerji Müzesi, İstanbul'un Avrupa Yakası'nda, Silahtarağa Mahallesi'nde yer alıyor. Müzenin coğrafi konumu, ziyaretçilerin diğer turistik noktalara ulaşmasını kolaylaştırıyor. Müze, 140 hektarlık bir alanda kurulmuş ve çevresi yeşilliklerle dolu. Alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunuyor. Ayrıca, müzenin yakınında bulunan Haliç, ziyaretçilere güzel bir manzara sunuyor. Çevre, tarihi ve modern yapıların birleşimidir ve İstanbul'un coğrafi çeşitliliğini yansıtıyor. Müzenin iklimi, İstanbul'un genel iklimine uygun olarak karasal ve ılımandır. Bahar ve yaz aylarında ziyaretçiler, müzenin açık alanlarını ve çevreyi keşfedebilirken, kış aylarında ise kapalı alanlarda bilim ve enerji hakkında bilgi edinebilirler.
+Santralistanbul Enerji Müzesi, İstanbul'un Avrupa Yakası'nda, Silahtarağa Mahallesi'nde yer alıyor. Müzenin coğrafi konumu, ziyaretçilerin diğer turistik noktalara ulaşmasını kolaylaştırıyor. Alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunuyor. Ayrıca, müzenin yakınında bulunan Haliç, ziyaretçilere güzel bir manzara sunuyor. Çevre, tarihi ve modern yapıların birleşimidir ve İstanbul'un coğrafi çeşitliliğini yansıtıyor. Müzenin iklimi, İstanbul'un genel iklimine uygun olarak karasal ve ılımandır. Bahar ve yaz aylarında ziyaretçiler, müzenin açık alanlarını ve çevreyi keşfedebilirken, kış aylarında ise kapalı alanlarda bilim ve enerji hakkında bilgi edinebilirler.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Santralistanbul Enerji Müzesi'ni ziyaret etmek, bilim ve teknoloji meraklılar�
 ## İlginç Bilgiler
 
 - Santralistanbul Enerji Müzesi, 2007 yılında açılmış.
-- Müze, 140 hektarlık bir alanda kurulmuş.
+
 - Müzenin yakınında bulunan Haliç, çeşitli su canlılarına ev sahipliği yapıyor.
 - Müze, yıl boyunca ziyaretçilere açık.
 - Ziyaretçiler, müzenin resmi internet sitesinden bilgi edinebilirler.

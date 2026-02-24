@@ -48,7 +48,6 @@ Göğebakan Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi değerleriyl
 
 ## İlginç Bilgiler
 
-- Göğebakan Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
 - Bu bölge, bir çok farklı bitki türüne ev sahipliği yapar
 - Göğebakan Tepesi, aynı zamanda bir çok farklı fauna türünü de barındıran bir bölge olarak biliniyor
 - Bu bölge, coğrafi olarak zengin bir bölge olarak dikkat çekiyor

@@ -43,7 +43,7 @@ Konya-Ermenek-Kazancı Sedir 1 milli parkını ziyaret etmek için, Konya iline 
 ## İlginç Bilgiler
 
 - Konya-Ermenek-Kazancı Sedir 1, İç Anadolu Bölgesi'nin en önemli milli parklarından biridir.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Bölgede, çeşitli bitki türleri ve hayvanlar bulunur.
 - Konya-Ermenek-Kazancı Sedir 1, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
 - Milli parkta, yürüyüş yolları ve piknik alanları bulunuyor.

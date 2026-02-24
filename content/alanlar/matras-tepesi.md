@@ -29,7 +29,7 @@ wikidata_id: "Q31548838"
 
 # Matras Tepesi
 
-Matras Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak dikkat çekiyor. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Matras Tepesi, ziyaretçilerine büyüleyici bir manzara sunuyor ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için bir kapı olarak görev yapıyor. Siirt'in coğrafi yapısı, tepe ve vadilerin birleşmesiyle oluşuyor ve Matras Tepesi de bu coğrafi çeşitliliğin önemli bir parçasını oluşturuyor.
+Matras Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak dikkat çekiyor. Matras Tepesi, ziyaretçilerine büyüleyici bir manzara sunuyor ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için bir kapı olarak görev yapıyor. Siirt'in coğrafi yapısı, tepe ve vadilerin birleşmesiyle oluşuyor ve Matras Tepesi de bu coğrafi çeşitliliğin önemli bir parçasını oluşturuyor.
 
 ## Tarihçe
 

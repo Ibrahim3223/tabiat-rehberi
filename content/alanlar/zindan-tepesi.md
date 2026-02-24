@@ -28,7 +28,7 @@ wikidata_id: "Q31385337"
 
 # Zindan Tepesi
 
-Zindan Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Şanlıurfa'nın merkezine oldukça yakındır. Zindan Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezidir. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunur. Zindan Tepesi, Şanlıurfa'nın coğrafi ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Zindan Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Zindan Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezidir. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunur. Zindan Tepesi, Şanlıurfa'nın coğrafi ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zindan Tepesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu tepe, yüzyıl
 
 ## Coğrafya
 
-Zindan Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Şanlıurfa'nın merkezine yakındır. Zindan Tepesi, coğrafi açıdan önemli bir noktadır. Burada, doğal güzellikler ve tarihi kalıntılar bir arada bulunur. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Zindan Tepesi, Şanlıurfa'nın coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir çekim merkezidir. Zindan Tepesi'nin coğrafi konumu, onu özel ve önemli bir nokta haline getirir.
+Zindan Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Zindan Tepesi, coğrafi açıdan önemli bir noktadır. Burada, doğal güzellikler ve tarihi kalıntılar bir arada bulunur. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Zindan Tepesi, Şanlıurfa'nın coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir çekim merkezidir. Zindan Tepesi'nin coğrafi konumu, onu özel ve önemli bir nokta haline getirir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Zindan Tepesi, ziyaretçilere çeşitli olanaklar sunar. Bu tepe, hem doğa seve
 ## İlginç Bilgiler
 
 - Zindan Tepesi, Şanlıurfa'nın tarihi ve coğrafi açıdan önemli noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Zindan Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Tepenin etrafı, yürüyüş yolları ve gözlem noktaları ile çevrilidir.
 - Zindan Tepesi, yılın her dönemi ziyaret edilebilir.

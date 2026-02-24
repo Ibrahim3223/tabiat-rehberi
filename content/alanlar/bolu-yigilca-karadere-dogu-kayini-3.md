@@ -22,7 +22,7 @@ wikidata_id: "Q108227780"
 
 # Bolu-Yigilca-Karadere Dogu Kayini 3
 
-Bolu ilinin Karadeniz Bölgesi'nde yer alan Bolu-Yigilca-Karadere Dogu Kayini 3 milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Milli park, ziyaretçilerin doğayı keşfetmelerine ve yaban hayatınılemek için ideal bir ortam sunuyor. Bolu ilinin doğal güzelliklerini keşfetmek isteyenler için bu milli park, önemli bir destinasyon olarak öne çıkıyor.
+ Milli park, ziyaretçilerin doğayı keşfetmelerine ve yaban hayatınılemek için ideal bir ortam sunuyor. Bolu ilinin doğal güzelliklerini keşfetmek isteyenler için bu milli park, önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Bolu-Yigilca-Karadere Dogu Kayini 3 milli parkını ziyaret etmek, doğa severle
 ## İlginç Bilgiler
 
 - Bolu ilinin doğal güzelliklerini keşfetmek için ideal bir destinasyon
-- 140 hektarlık alanı kaplıyor
+
 - Çeşitli bitki türleri ve yaban hayata ev sahipliği yapıyor
 - Mevsimsel değişimlere bağlı olarak farklı deneyimler sunuyor
 - Doğa severler için ideal bir ativite

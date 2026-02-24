@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi","fo
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Beşik Tepesi","caption":"Beşik Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385997","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği Beşik Tepesi, 140 hektarlık genişlikte"
+
 keywords: ["Beşik Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385997"
@@ -28,7 +28,7 @@ wikidata_id: "Q31385997"
 
 # Beşik Tepesi
 
-Beşik Tepesi, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan, 140 hektarlık genişlikte bir tepe. Beşik Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde, tarihi geçmişi olan beberapa köy yer alıyor.
+ Beşik Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde, tarihi geçmişi olan beberapa köy yer alıyor.
 
 ## Tarihçe
 

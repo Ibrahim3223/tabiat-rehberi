@@ -50,7 +50,7 @@ wikidata_id: "Q131391373"
 ## İlginç Bilgiler
 
 - Şeyh Alaman Türbesi, yüzyıllar boyunca önemli bir kültür merkezi olarak kabul edilmiş
-- Mekan, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Şeyh Alaman Türbesi, aynı zamanda önemli bir coğrafi konumda yer alıyor
 - Mekan, Konya şehir merkezine yakın bir konumda bulunuyor
 - Şeyh Alaman Türbesi, zengin bir flora ve fauna çeşitliliğine sahip

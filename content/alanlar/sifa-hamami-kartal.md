@@ -50,7 +50,7 @@ Kartal'da bulunan Şifa Hamamı, Marmara Bölgesi'nin en önemli tarihi ve şifa
 ## İlginç Bilgiler
 
 - Şifa Hamamı, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olarak bilinir
-- Hamamın etrafındaki yeşil alan, 140 hektarlık bir alana yayılır
+
 - Şifa Hamamı, Kartal'ın en önemli tarihi ve şifalı su kaynaklarından biridir
 - Hamam, zaman içinde birçok kez restore edilmiştir
 - Şifa Hamamı'nın bulunduğu Kartal, Marmara Bölgesi'nin en önemli ilçelerinden biridir

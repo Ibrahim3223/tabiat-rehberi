@@ -37,7 +37,7 @@ Kemankeş Kara Mustafa Paşa Hamamı, tarihi geçmişi ile dikkat çeker. Bu ham
 
 ## Coğrafya
 
-Kemankeş Kara Mustafa Paşa Hamamı, Sivas'ın Yıldızeli ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Hamamın bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve etrafı doğal güzelliklerle çevrili. Bölge, genellikle karasal iklim özellikleri gösteriyor, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Hamamın etrafındaki coğrafya, genellikle bozkır ve step özellikleri gösteriyor, ancak bazı noktalarda ormanlık alanlar da bulunabiliyor. Bu coğrafi çeşitlilik, ziyaretçilere farklı bir deneyim sunuyor. Hamamın bulunduğu Yıldızeli ilçesi, Sivas il merkezine uzun bir mesafe uzaklıkta bulunuyor, bu da ziyaretçilerin ulaşım açısından bazı zorluklar yaşayabileceği anlamına geliyor.
+Kemankeş Kara Mustafa Paşa Hamamı, Sivas'ın Yıldızeli ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, genellikle karasal iklim özellikleri gösteriyor, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Hamamın etrafındaki coğrafya, genellikle bozkır ve step özellikleri gösteriyor, ancak bazı noktalarda ormanlık alanlar da bulunabiliyor. Bu coğrafi çeşitlilik, ziyaretçilere farklı bir deneyim sunuyor. Hamamın bulunduğu Yıldızeli ilçesi, Sivas il merkezine uzun bir mesafe uzaklıkta bulunuyor, bu da ziyaretçilerin ulaşım açısından bazı zorluklar yaşayabileceği anlamına geliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kemankeş Kara Mustafa Paşa Hamamını ziyaret etmek, hem tarihi bir yapıyı g
 ## İlginç Bilgiler
 
 - Kemankeş Kara Mustafa Paşa Hamamı, Osmanlı döneminde inşa edilmiştir.
-- Hamam, 140 hektarlık bir alan üzerinde bulunuyor.
+
 - Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Hamamın etrafı, doğal güzelliklerle çevrili.
 - Ziyaretçiler, burada hem tarihi bir yapıyı görebiliyor hem de doğal güzelliği keşfedebiliyor.

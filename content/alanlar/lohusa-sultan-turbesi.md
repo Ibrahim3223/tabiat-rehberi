@@ -51,7 +51,7 @@ Lohusa Sultan Türbesi, İç Anadolu Bölgesi'ndeki önemli gezi noktalarından 
 ## İlginç Bilgiler
 
 - Lohusa Sultan Türbesi, İç Anadolu Bölgesi'nin tarihi mekanları arasında önemli bir yere sahip
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Lohusa Sultan Türbesi, çeşitli bitki türleri ve hayvan türlerine ev sahipliği yapıyor
 - İç Anadolu Bölgesi'nin iklimi, Lohusa Sultan Türbesi'nin flora ve faunasını etkiliyor
 - Ziyaretçiler, Lohusa Sultan Türbesi'nin doğal güzelliklerini keşfetmek için burayı ziyaret edebilir

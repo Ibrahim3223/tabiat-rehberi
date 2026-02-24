@@ -14,7 +14,7 @@ aktiviteler: ["Trekking","Kamp","Kuş gözlemciliği","Balık avı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"DENİZLİ ÇAL KANYONU","caption":"DENİZLİ ÇAL KANYONU","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20%C3%87AL%20KANYONU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228897","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık yeşil vadi"
+
 keywords: ["Denizli","Çal Kanyonu","İç Anadolu Bölgesi","Doğa","Kanyon","Yeşil Vadi","Tarih","Coğrafya","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228897"
@@ -42,7 +42,6 @@ Denizli Çal Kanyonu, İç Anadolu Bölgesi'nin gizli güzelliği olarak bilinir
 
 ## İlginç Bilgiler
 
-- Çal Kanyonu, 140 hektarlık bir alanı kaplar.
 - Kanyonun etrafındaki dağlar, 2000 metreyi aşan yüksekliklere sahiptir.
 - Çal Kanyonu, birçok kuş türünün yuvalanma ve göç etme alanı olarak bilinir.
 - Kanyonun etrafındaki nehirler ve dereler, birçok balık ve diğer su canlısına ev sahipliği yapar.

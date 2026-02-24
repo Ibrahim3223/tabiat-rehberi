@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi","tari
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Balikesir-Alacam-Golcuk Karacam 2","caption":"Balikesir-Alacam-Golcuk Karacam 2","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Alacam-Golcuk%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227539","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz 140 hektarlık milli park"
+
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227539"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227539"
 
 # Balikesir-Alacam-Golcuk Karacam 2
 
- Bu bölge, yaban hayatının çeşitliliği ve doğal güzellikleri ile dikkat çekiyor. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. 140 hektarlık bu alan, doğa severlerin ve turistlerin ilgisini çekmektedir. Doğal güzelliklerin yanı sıra, milli parkın tarihi geçmişi de oldukça ilgi çekicidir.
+ Bu bölge, yaban hayatının çeşitliliği ve doğal güzellikleri ile dikkat çekiyor. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Doğal güzelliklerin yanı sıra, milli parkın tarihi geçmişi de oldukça ilgi çekicidir.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Balikesir-Alacam-Golcuk Karacam 2 milli parkı, İç Anadolu Bölgesi'nin coğra
 
 ## Flora ve Fauna
 
-Balikesir-Alacam-Golcuk Karacam 2 milli parkı, çeşitli flora ve fauna türleri ile dikkat çekmektedir. Milli parkın 140 hektarlık alanı, farklı bitki türleri ile kaplıdır. Mevsimsel değişimler, bitki türlerinin çeşitliliğini etkilemektedir. İlkbahar ve yaz aylarında, çiçekler açarak renkli bir manzara oluştururken, sonbahar ve kış aylarında, ağaçlar ve bitkiler farklı bir görünüm sergilemektedir. Fauna açısından da zengin bir çeşitlilik gösteren milli park, çeşitli hayvan türleri ile yaşamaktadır. Hayvanlar, milli parkın coğrafi yapısı ve iklimi ile uyumlu bir şekilde yaşamaktadır. Milli parkın flora ve faunası, doğal dengenin korunması için önemli bir role sahiptir.
+Balikesir-Alacam-Golcuk Karacam 2 milli parkı, çeşitli flora ve fauna türleri ile dikkat çekmektedir. Mevsimsel değişimler, bitki türlerinin çeşitliliğini etkilemektedir. İlkbahar ve yaz aylarında, çiçekler açarak renkli bir manzara oluştururken, sonbahar ve kış aylarında, ağaçlar ve bitkiler farklı bir görünüm sergilemektedir. Fauna açısından da zengin bir çeşitlilik gösteren milli park, çeşitli hayvan türleri ile yaşamaktadır. Hayvanlar, milli parkın coğrafi yapısı ve iklimi ile uyumlu bir şekilde yaşamaktadır. Milli parkın flora ve faunası, doğal dengenin korunması için önemli bir role sahiptir.
 
 ## Ziyaret Bilgileri
 
@@ -42,7 +42,6 @@ Balikesir-Alacam-Golcuk Karacam 2 milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde kurulmuştur
 - Milli parkın flora ve faunası, doğal dengenin korunması için önemli bir role sahiptir
 - Milli park, yılın her döneminde ziyaret edilebilir

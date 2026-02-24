@@ -20,7 +20,7 @@ aktiviteler: ["Tepenin zirvesine çıkmak","Çevreyi keşfetmek","Bölge hakkın
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Merelikasımtiği Tepesi","caption":"Merelikasımtiği Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merelikas%C4%B1mti%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391169","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği Merelikasımtiği Tepesi, 140 hektarlık geniş alanıyla dikkat çekiyor."
+"
 keywords: ["Merelikasımtiği Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391169"
@@ -47,8 +47,6 @@ Merelikasımtiği Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir. B
 Merelikasımtiği Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu tepe, aynı zamanda tarihin izlerini taşıyan bir bölgedir. Ziyaretçiler, tepeye çıkarak çevreyi kuşbakışı olarak görebilir ve bölge hakkında daha çok şey öğrenebilir. Merelikasımtiği Tepesi'ne ulaşmak için, İç Anadolu Bölgesi'ne gelmek gerekir. Bu bölge, çeşitli ulaşım araçlarıyla erişilebilir. Merelikasımtiği Tepesi, aynı zamanda ziyaretçilerine farklı aktivite olanakları sunar. Ziyaretçiler, tepeye tırmanabilir, çevreyi keşfedebilir ve bölge hakkında daha çok şey öğrenebilir.
 
 ## İlginç Bilgiler
-
-- Merelikasımtiği Tepesi, 140 hektarlık bir alanı kapsar.
 
 - Bu bölge, yüzyıllar öncesine dayanan bir tarihe sahiptir.
 - Merelikasımtiği Tepesi, aynı zamanda önemli bir stratejik noktaydı.

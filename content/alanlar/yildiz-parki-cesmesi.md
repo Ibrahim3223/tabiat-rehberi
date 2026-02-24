@@ -51,6 +51,6 @@ Yıldız Parkı Çeşmesi'ni ziyaret etmek, özellikle ilkbahar ve yaz aylarınd
 
 - Yıldız Parkı Çeşmesi, Beşiktaş'ın en önemli tarihi ve doğal güzelliklerinden biridir.
 - Parkın içindeki çeşme, 19. yüzyılda inşa edilmiştir.
-- Yıldız Parkı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Parkın içinde, çeşitli ağaçlar, süs bitkileri ve çiçekler bulunur.
 - Yıldız Parkı Çeşmesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur.

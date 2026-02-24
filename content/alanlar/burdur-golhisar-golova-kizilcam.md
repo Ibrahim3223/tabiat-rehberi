@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Picnic","Fotoğrafçılık","Doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Burdur-Golhisar-Golova Kızılçam","caption":"Burdur-Golhisar-Golova Kızılçam","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Golova%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227651","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Burdur-Golhisar-Golova Kızılçam, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Burdur","Golhisar","Golova","Kızılçam","Milli Park","İç Anadolu","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227651"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227651"
 
 # Burdur-Golhisar-Golova Kızılçam
 
- Bu büyüleyici mekan, doğa severlerin ve macera arayanların gözdesi haline gelmiştir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
+ Bu büyüleyici mekan, doğa severlerin ve macera arayanların gözdesi haline gelmiştir.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Burdur-Golhisar-Golova Kızılçam milli parkını ziyaret etmek, doğa severler
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Zengin flora ve fauna çeşitliliği
 - Mevsimsel değişimler
 - Doğa severler ve macera arayanlar için ideal

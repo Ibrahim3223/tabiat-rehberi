@@ -50,7 +50,7 @@ Malkoçoğlu Türbesi'ni ziyaret etmek, tarihin ve doğanın bir arada bulunduğ
 ## İlginç Bilgiler
 
 - Malkoçoğlu Türbesi, tarihin izlerini taşıyan bir mekan
-- Bu mekan, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Malkoçoğlu Türbesi, coğrafi konumu itibariyle dikkat çekici bir yer
 - Bu mekan, çeşitli bitki türleri ve hayvan türleri barındırıyor
 - Malkoçoğlu Türbesi, doğa severler için ideal bir yer

@@ -48,7 +48,6 @@ Yanıktepe, ziyaretçiler için önemli bir gezi noktası olarak dikkat çekiyor
 
 ## İlginç Bilgiler
 
-- Yanıktepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor.
 - Bölge, Marmara Bölgesi'nin coğrafi özelliklerine uygun olarak değişken bir iklim yapısına sahip.
 - Yanıktepe'nin etrafı, zengin bir flora ve fauna ile kaplı olup, bu yönüyle de önemli bir ekolojik değer taşıyor.
 - Bölge, özellikle doğa severlerin ilgisini çekiyor ve çeşitli faaliyetler için uygun bir ortam sunuyor.

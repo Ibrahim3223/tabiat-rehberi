@@ -50,7 +50,7 @@ wikidata_id: "Q131739218"
 ## İlginç Bilgiler
 
 - Tarihi hamamları
-- Yaklaşık 140 hektarlık alan
+
 - Marmara Bölgesi'nin kıyı şeridinde yer alır
 - İstanbul'un merkezi noktalarına yakındır
 - İlkbahar ve yaz aylarında ziyaret edilebilir

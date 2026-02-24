@@ -29,7 +29,7 @@ wikidata_id: "Q131390779"
 
 # Koç Baba Türbesi
 
-Koç Baba Türbesi, Düzce'nin Akçakoca ilçesinde yer alan bir tarih ve doğa harikası. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini büyüleyici bir atmosfere davet ediyor. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Koç Baba Türbesi, ziyaretçilerine hem geçmişten günümüze uzanan bir tarihçe hem de muhteşem bir manzara sunuyor.
+Koç Baba Türbesi, Düzce'nin Akçakoca ilçesinde yer alan bir tarih ve doğa harikası. Koç Baba Türbesi, ziyaretçilerine hem geçmişten günümüze uzanan bir tarihçe hem de muhteşem bir manzara sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Koç Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri dene
 ## İlginç Bilgiler
 
 - Koç Baba Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak görev yapmış.
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Koç Baba Türbesi, Karadeniz Bölgesi'nin güzelliklerine ev sahipliği yapıyor.
 - Türbe, yeşilliklerle çevrili ve deniz manzaralı bir alanda bulunuyor.
 - Bu bölgenin iklimi, Karadeniz'in karakteristik özellikleri taşıyor.

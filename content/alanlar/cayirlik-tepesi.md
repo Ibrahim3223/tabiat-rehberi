@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihi geçmişi keşfe
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Çayırlık Tepesi","caption":"Çayırlık Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828813","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Çayırlık Tepesi, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, doğal güzelliği ve tarihi geçmişi ile dikkat çekicidir."
+ Bu bölge, doğal güzelliği ve tarihi geçmişi ile dikkat çekicidir."
 keywords: ["Çayırlık Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828813"
@@ -28,7 +28,7 @@ wikidata_id: "Q34828813"
 
 # Çayırlık Tepesi
 
- 140 hektarlık bu geniş alan, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. Bu bölge, coğrafi konumu ve iklimi ile birlikte, flora ve faunayı da etkileyen önemli bir bölgedir. Çayırlık Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişi sunmaktadır.
+ Bu bölge, coğrafi konumu ve iklimi ile birlikte, flora ve faunayı da etkileyen önemli bir bölgedir. Çayırlık Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişi sunmaktadır.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ wikidata_id: "Q34828813"
 
 ## İlginç Bilgiler
 
-- Çayırlık Tepesi, 140 hektarlık geniş bir alanı kapsar
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir
 - Çayırlık Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir
 - Bu bölge, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir
 - Çayırlık Tepesi, flora ve faunayı da etkileyen önemli bir bölgedir

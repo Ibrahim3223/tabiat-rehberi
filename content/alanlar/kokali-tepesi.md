@@ -49,7 +49,7 @@ Kokali Tepesi'ni ziyaret etmek, ziyaretçilere güzel bir deneyim sunuyor. Bu te
 ## İlginç Bilgiler
 
 - Kokali Tepesi, Batman ilinin önemli bir turizm noktası.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Tepenin eteklerinde, çeşitli bitki türleri yetişiyor.
 - Kokali Tepesi, kuş türleri için önemli bir yaşam alanı.
 - Bu bölge, ilkbahar ve sonbahar aylarında gezmek için ideal.

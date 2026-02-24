@@ -52,6 +52,6 @@ Hacı Bayram Türbesi, Ankara'nın en önemli gezi noktalarından biridir ve her
 
 - Hacı Bayram-ı Veli, 15. yüzyılda yaşamış bir Türk mutasavvıfı ve şairidir.
 - Hacı Bayram Türbesi, Ankara'nın en önemli tarihi ve kültürel miraslarından biridir.
-- Türbe, 140 hektarlık bir alanda yer alır.
+
 - Hacı Bayram Türbesi, Ankara'nın fauna çeşitliliği hakkında önemli bilgiler sunar.
 - Türbe ziyaretinin ardından, ziyaretçiler Ankara'nın merkezi parklarından birini keşfedebilirler.

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Güneydilek Tepesi","caption":"Güneydilek Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneydilek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873290","tip":"genel"}]
-description: "Siirt'in güzel tepelerinden biri olan Güneydilek Tepesi, 140 hektarlık geniş bir alanı kapsıyor."
+"
 keywords: ["Güneydilek Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34873290"
@@ -28,7 +28,7 @@ wikidata_id: "Q34873290"
 
 # Güneydilek Tepesi
 
-Güneydilek Tepesi, Siirt'in güzel tepelerinden biri olarak 140 hektarlık geniş bir alanı kapsıyor. Güneydilek Tepesi, hem şehrin güzelliğini görmek hem de doğanın tadını çıkarmak isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı daha da özel kılıyor.
+ Güneydilek Tepesi, hem şehrin güzelliğini görmek hem de doğanın tadını çıkarmak isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı daha da özel kılıyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Güneydilek Tepesi'ni ziyaret etmek, şehrin güzelliğini görme ve doğanın t
 
 ## İlginç Bilgiler
 
-- Güneydilek Tepesi 140 hektarlık bir alanı kapsıyor
 - Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması
 - Tepenin tarihi geçmişi
 - Tepenin coğrafi konumu

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a9/ISS018-E-44204_-_View_of_Morocco.jpg","alt":"Akkaş Tepesi manzarası","credit":"Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center","license":"pd"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ce/ISS018-E-44202_-_View_of_Morocco.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ISS018-E-44202_-_View_of_Morocco.jpg/1280px-ISS018-E-44202_-_View_of_Morocco.jpg","alt":"Akkaş Tepesi - ISS018-E-44202 - View of Morocco","credit":"Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/ISS018-E-44203_-_View_of_Morocco.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/ISS018-E-44203_-_View_of_Morocco.jpg/1280px-ISS018-E-44203_-_View_of_Morocco.jpg","alt":"Akkaş Tepesi - ISS018-E-44203 - View of Morocco","credit":"Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e4/ISS018-E-44205_-_View_of_Morocco.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ISS018-E-44205_-_View_of_Morocco.jpg/1280px-ISS018-E-44205_-_View_of_Morocco.jpg","alt":"Akkaş Tepesi - ISS018-E-44205 - View of Morocco","credit":"Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akka%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388149","tip":"genel"}]
-description: "Denizli'nin doğal güzelliklerini keşfedin, 140 hektarlık yeşil alanın keyfini çıkarın"
+
 keywords: ["Akkaş Tepesi","Denizli","Ege Bölgesi","doğa","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388149"
@@ -49,8 +49,6 @@ Akkaş Tepesi'ni ziyaret etmek, doğa severler için ideal bir gezi seçeneğidi
 
 ## İlginç Bilgiler
 
-- Akkaş Tepesi, 140 hektarlık bir yeşil alan
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için ideal bir opportunities sunar
 - Bölgede, çeşitli bitki türleri ve hayvanlar bulunur
 - Mevsimsel değişimler, bölgede yaşayan canlıları ve bitki türlerini etkiler

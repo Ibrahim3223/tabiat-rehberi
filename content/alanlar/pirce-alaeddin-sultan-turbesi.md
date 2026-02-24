@@ -21,8 +21,8 @@ aktiviteler: ["Türbe gezisi","Yeşil alan gezintisi","Doğa seyri","Fotoğraf �
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Beach_and_cows_I%C4%9Fneada_floodplain.jpg/960px-Beach_and_cows_I%C4%9Fneada_floodplain.jpg","alt":"Pirce Alaeddin Sultan Türbesi","caption":"Pirce Alaeddin Sultan Türbesi","credit":"Beach and cows Iğneada floodplain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pirce%20Alaeddin%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390680","tip":"genel"}]
-description: "Alanya'nın tarihi ve kültürel zenginliğini keşfedin. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Pirce Alaeddin Sultan Türbesi","Alanya","Antalya","tarih","kültür","yeşil alan","futbol sahası"]
+description: "Alanya'nın tarihi ve kültürel zenginliğini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390680"
 ---
@@ -37,7 +37,7 @@ Pirce Alaeddin Sultan Türbesi, tarihi geçmişiyle dikkat çeker. Bu türbe, y�
 
 ## Coğrafya
 
-Pirce Alaeddin Sultan Türbesi, Alanya'nın merkezine yakın bir konumda yer alır. Akdeniz Bölgesi'nin güneşli iklimi, ziyaretçilerin yıl boyunca türbeyi ziyaret etmelerini sağlar. Türbenin etrafındaki yeşil alan, yaklaşık 140 hektarlık bir alana yayılır ve ziyaretçilere geniş bir açık alan sunar. Bu yeşil alan, doğayı seyretme ve dinlenmek için ideal bir ortam sağlar. Türbenin konumundan dolayı, ziyaretçiler Alanya'nın diğer tarihi ve kültürel noktalarına kolayca ulaşabilir. Alanya'nın merkezine yakın olması, ziyaretçilerin türbeyi ziyaret ederken aynı zamanda şehrin diğer güzelliklerini de keşfetmesine olanak tanır. Türbenin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar.
+Pirce Alaeddin Sultan Türbesi, Alanya'nın merkezine yakın bir konumda yer alır. Akdeniz Bölgesi'nin güneşli iklimi, ziyaretçilerin yıl boyunca türbeyi ziyaret etmelerini sağlar. Bu yeşil alan, doğayı seyretme ve dinlenmek için ideal bir ortam sağlar. Türbenin konumundan dolayı, ziyaretçiler Alanya'nın diğer tarihi ve kültürel noktalarına kolayca ulaşabilir. Alanya'nın merkezine yakın olması, ziyaretçilerin türbeyi ziyaret ederken aynı zamanda şehrin diğer güzelliklerini de keşfetmesine olanak tanır. Türbenin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar.
 
 ## Flora ve Fauna
 

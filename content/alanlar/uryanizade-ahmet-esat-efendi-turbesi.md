@@ -51,6 +51,6 @@ wikidata_id: "Q131391115"
 
 - Türbenin, yüzyıllar önce inşa edilmiş bir yapı olduğu
 - Üryanizade Ahmet Esat Efendi'nin, İstanbul'un fethi sırasında önemli roller oynayan bir historical figür olduğu
-- Türbenin, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsadığı
+
 - Türbenin etrafında, çeşitli bitkiler ve ağaçlar ile çevrilidir
 - Türbenin, yılın her döneminde ziyaret edilebileceği

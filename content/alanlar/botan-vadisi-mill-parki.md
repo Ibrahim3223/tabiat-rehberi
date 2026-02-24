@@ -38,7 +38,7 @@ Botan Vadisi Millî Parkı, 1994 yılında millî park olarak ilan edildi. Ancak
 
 ## Coğrafya
 
-Botan Vadisi Millî Parkı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölge, Botan Çayı'nın vadisi boyunca uzanır ve yükseklik 1000 metreye ulaşır. Parkın coğrafi yapısı, çayırlar, ormanlar ve kaya oluşumlarından oluşur. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Botan Vadisi Millî Parkı, 1200 hektarlık alanı ile bir şehir büyüklüğünde bir alanı kaplar ve bu alan, bir futbol sahasından yaklaşık 166 kat daha büyüktür.
+Botan Vadisi Millî Parkı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölge, Botan Çayı'nın vadisi boyunca uzanır ve yükseklik 1000 metreye ulaşır. Parkın coğrafi yapısı, çayırlar, ormanlar ve kaya oluşumlarından oluşur. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer.
 
 ## Flora ve Fauna
 

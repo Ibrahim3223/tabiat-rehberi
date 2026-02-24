@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Yeşilırmak Deltası Sulak Alanı","caption":"Yeşilırmak Deltası Sulak Alanı","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%C4%B1rmak%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229014","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yeşilırmak Deltası Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Yeşilırmak Deltası","Sulak Alanı","İç Anadolu Bölgesi","doğal güzellik","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229014"
@@ -42,7 +42,6 @@ Yeşilırmak Deltası Sulak Alanı, ziyaretçilerine zengin bir doğa deneyimi s
 
 ## İlginç Bilgiler
 
-- Yeşilırmak Deltası Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bu sulak alan, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir
 - Yeşilırmak Deltası Sulak Alanı, birçok canlı türünün yaşam alanı olarak bilinmektedir
 - Bu sulak alan, coğrafi konumu ve doğal özellikleri ile dikkat çekmektedir

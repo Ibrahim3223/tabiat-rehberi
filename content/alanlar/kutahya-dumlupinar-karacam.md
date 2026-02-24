@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Kutahya-Dumlupinar Karacam","caption":"Kutahya-Dumlupinar Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Dumlupinar%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227684","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","Kutahya","Dumlupinar","Karacam","doğa","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227684"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227684"
 
 # Kutahya-Dumlupinar Karacam
 
- Bu geniş alan, doğa severlerin keşfetmek için ideal bir yer sunar. Milli parkın sunduğu çeşitlilik, ziyaretçilerin doğayla iç içe olmasını sağlar. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, bölgenin tarihi ve kültürel zenginliklerini de barındırır. 140 hektarlık bu yeşil alan, hem doğa tutkunları hem de bölgeyi keşfetmek isteyenler için bir hazine niteliğindedir.
+ Bu geniş alan, doğa severlerin keşfetmek için ideal bir yer sunar. Milli parkın sunduğu çeşitlilik, ziyaretçilerin doğayla iç içe olmasını sağlar. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, bölgenin tarihi ve kültürel zenginliklerini de barındırır.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Kutahya-Dumlupinar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi öze
 
 ## Flora ve Fauna
 
-Kutahya-Dumlupinar Karacam milli parkı, flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Milli parkın 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla doludur. Bu doğal alan, mevsimsel değişimlere bağlı olarak farklı canlıları barındırır. Milli parkın fauna çeşitliliği, bölgenin ekolojik dengesini korur ve doğal yaşamın sürekliliğini sağlar. Flora açısından da zengin olan milli park, bölgenin iklimine uygun bitki türleriyle kaplıdır. Bu bitki örtüsü, milli parkın doğal güzelliğini artırır ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın flora ve fauna çeşitliliği, bölgenin doğal mirasının korunmasına katkı sağlar.
+Kutahya-Dumlupinar Karacam milli parkı, flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Bu doğal alan, mevsimsel değişimlere bağlı olarak farklı canlıları barındırır. Milli parkın fauna çeşitliliği, bölgenin ekolojik dengesini korur ve doğal yaşamın sürekliliğini sağlar. Flora açısından da zengin olan milli park, bölgenin iklimine uygun bitki türleriyle kaplıdır. Bu bitki örtüsü, milli parkın doğal güzelliğini artırır ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın flora ve fauna çeşitliliği, bölgenin doğal mirasının korunmasına katkı sağlar.
 
 ## Ziyaret Bilgileri
 

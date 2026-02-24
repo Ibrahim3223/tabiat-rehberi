@@ -51,7 +51,6 @@ Gül Baba Türbesi, Tomtom, ziyaretçilerine birçok imkan sunar. Bu mekan, İst
 ## İlginç Bilgiler
 
 - Gül Baba Türbesi, Tomtom, İstanbul'un en önemli tarihi ve kültürel mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alana kurulmuştur.
 
 - Bu mekan, İstanbul'un en çok ziyaret edilen yerlerinden biridir.
 - Gül Baba Türbesi, Tomtom, her yıl binlerce ziyaretçi tarafından keşfedilir.

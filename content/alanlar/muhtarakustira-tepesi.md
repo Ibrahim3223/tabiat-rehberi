@@ -48,7 +48,6 @@ Muhtarakuştira Tepesi, ziyaretçilere, hem doğal güzelliği hem de tarihi de�
 
 ## İlginç Bilgiler
 
-- Muhtarakuştira Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor.
 - Muhtarakuştira Tepesi, Diyarbakır'ın tarihi merkezi ve çevresi, bu tepeye yakın bir mesafede bulunuyor.
 - Tepenin yüksekliği, iklimi biraz daha ılıman hale getiriyor.

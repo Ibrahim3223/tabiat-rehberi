@@ -36,7 +36,7 @@ Kızılca Hüyük'ün tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Kızılca Hüyük, coğrafi olarak Hatay ilinin Akdeniz Bölgesi'nde yer alıyor. Bu tepe, çevresindeki doğal güzelliklerle birlikte bir bütün olarak değerlendiriliyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, etrafındaki köyler ve kasabalar ile birlikte bir bölge olarak ele alınıyor. İklimi, Akdeniz ikliminin característicasını taşıyor ve bu bölgede çeşitli bitki türleri yetişiyor. Çevresindeki dağlar, ovalar ve nehirler, bu tepeyi bir coğrafi zenginlik olarak gösteriyor. Kızılca Hüyük'ün coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunuyor. Doğa yürüyüşleri, kampçılık ve doğa fotoğrafçılığı, bu bölgede yapılan bazı etkinlikler olarak sayılabilir.
+Kızılca Hüyük, coğrafi olarak Hatay ilinin Akdeniz Bölgesi'nde yer alıyor. Bu tepe, çevresindeki doğal güzelliklerle birlikte bir bütün olarak değerlendiriliyor. İklimi, Akdeniz ikliminin característicasını taşıyor ve bu bölgede çeşitli bitki türleri yetişiyor. Çevresindeki dağlar, ovalar ve nehirler, bu tepeyi bir coğrafi zenginlik olarak gösteriyor. Kızılca Hüyük'ün coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunuyor. Doğa yürüyüşleri, kampçılık ve doğa fotoğrafçılığı, bu bölgede yapılan bazı etkinlikler olarak sayılabilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kızılca Hüyük'ü ziyaret etmek, bir gezi durağı olarak ön plana çıkıyo
 ## İlginç Bilgiler
 
 - Kızılca Hüyük'ün yüksekliği 500 metredir
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Kızılca Hüyük'ün coğrafi konumu, Akdeniz ikliminin característicasını taşıyor
 - Bu tepe, yaban hayatının çeşitliliği ile dikkat çekiyor
 - Kızılca Hüyük, bir açık hava müzesi gibi ziyaret ediliyor

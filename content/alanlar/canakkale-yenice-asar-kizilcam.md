@@ -22,7 +22,7 @@ wikidata_id: "Q108227644"
 
 # Canakkale-Yenice-Asar Kızılçam
 
-İç Anadolu Bölgesi'nin yeşillendirilmiş bir köşesi olan Canakkale-Yenice-Asar Kızılçam, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
+ Bu geniş yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Canakkale-Yenice-Asar Kızılçam'ı ziyaret etmek için en uygun zaman, ilkbaha
 ## İlginç Bilgiler
 
 - Bölgenin flora ve faunası, mevsimsel değişimlere göre şekilleniyor
-- Canakkale-Yenice-Asar Kızılçam, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Bölge, tarihsel önemiyle de dikkat çekiyor
 - İç Anadolu Bölgesi'nin yeşillendirilmiş bir köşesi
 - Doğa severler için bir cennet

@@ -51,7 +51,7 @@ Okçu Baba Türbesi'ni ziyaret etmek, tarihin ve doğanın güzelliği ile baş 
 ## İlginç Bilgiler
 
 - Okçu Baba Türbesi, Osmangazi ilçesinde bulunur.
-- Bu mekan, 140 hektarlık bir yeşil alanın içinde yer alır.
+
 - Tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Zengin bir flora ve fauna ile çevrilidir.
 - İlkbahar ve sonbahar, en iyi ziyaret mevsimleridir.

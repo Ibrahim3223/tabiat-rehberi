@@ -30,7 +30,7 @@ wikidata_id: "Q131390774"
 
 # Sahabe Mezarları Türbesi
 
-Sahabe Mezarları Türbesi, Diyarbakır'ın Silvan ilçesinde yer alan tarihi bir türbe ve mezarlık alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve Silvan'ın zengin tarihi geçmişi hakkında önemli bilgiler sunar. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir tarih ve kültür deneyimi sağlar. Sahabe Mezarları Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi noktalarından biri olarak kabul edilir ve bölgeyi ziyaret edenlerin kesinlikle görmesi gereken bir yerdir.
+Sahabe Mezarları Türbesi, Diyarbakır'ın Silvan ilçesinde yer alan tarihi bir türbe ve mezarlık alanıdır. Sahabe Mezarları Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi noktalarından biri olarak kabul edilir ve bölgeyi ziyaret edenlerin kesinlikle görmesi gereken bir yerdir.
 
 ## Tarihçe
 

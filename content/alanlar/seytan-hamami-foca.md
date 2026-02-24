@@ -29,7 +29,7 @@ wikidata_id: "Q134728101"
 
 # Şeytan Hamamı, Foça
 
-Foça'da yer alan Şeytan Hamamı, İzmir'in en güzel ve gizli cennetlerinden biri olarak dikkat çekiyor. Bu doğal güzellik, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Şeytan Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklarla, Şeytan Hamamı her yıl binlerce turisti ağırlıyor.
+Foça'da yer alan Şeytan Hamamı, İzmir'in en güzel ve gizli cennetlerinden biri olarak dikkat çekiyor. Şeytan Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklarla, Şeytan Hamamı her yıl binlerce turisti ağırlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Foça'da yer alan Şeytan Hamamı, İzmir'in en güzel ve gizli cennetlerinden b
 
 ## Coğrafya
 
-Şeytan Hamamı, Foça'da yer alıyor ve Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu doğal güzellik, 140 hektarlık bir alan üzerinde yer alıyor ve ziyaretçilere geniş bir yeşil alan sunuyor. Şeytan Hamamı, yüksek bir konumda yer alıyor ve bu sayede ziyaretçilere muhteşem bir manzara sunuyor. Bu bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer ve ziyaretçilere sıcak ve güneşli bir atmosfer sunuyor. Şeytan Hamamı, çevresi ile birlikte doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor.
+Şeytan Hamamı, Foça'da yer alıyor ve Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şeytan Hamamı, yüksek bir konumda yer alıyor ve bu sayede ziyaretçilere muhteşem bir manzara sunuyor. Bu bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer ve ziyaretçilere sıcak ve güneşli bir atmosfer sunuyor. Şeytan Hamamı, çevresi ile birlikte doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Foça'da yer alan Şeytan Hamamı, İzmir'in en güzel ve gizli cennetlerinden b
 ## İlginç Bilgiler
 
 - Şeytan Hamamı, Foça'da yer alıyor.
-- 140 hektarlık bir alan üzerinde yer alıyor.
+
 - Deniz seviyesinden yüksek bir konumda yer alıyor.
 - Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.

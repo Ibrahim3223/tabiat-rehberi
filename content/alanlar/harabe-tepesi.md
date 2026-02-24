@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Harabe Tepesi","caption":"Harabe Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harabe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386160","tip":"genel"}]
-description: "Gaziantep'in tarihi ve doğal güzelliklerinin bir araya geldiği Harabe Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır."
+"
 keywords: ["Harabe Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386160"
@@ -48,7 +48,6 @@ Harabe Tepesi, Gaziantep'in tarihi ve doğal güzelliklerini keşfetmek isteyenl
 
 ## İlginç Bilgiler
 
-- Harabe Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Tepenin eteklerinde yer alan tarihi yapılar, Gaziantep'in tarihini ve kültürünü yansıtmaktadır.
 - Tepenin etrafındaki yeşillikler, şehrin doğal güzelliklerini temsil etmektedir.
 - Harabe Tepesi, doğa severler için önemli bir destinasyondur.

@@ -43,8 +43,6 @@ Isparta-Eğirdir-Eğirdir-Üvez milli parkını ziyaret etmek, doğa severler ve
 
 ## İlginç Bilgiler
 
-- Isparta-Eğirdir-Eğirdir-Üvez milli parkı, 140 hektarlık bir alana sahip
-- Parkta, yaklaşık 200 futbol sahası büyüklüğünde bir alan bulunuyor
 - Park, Isparta'nın merkezi ve Eğirdir ilçesi arasında yer alıyor
 - Parkın flora ve faunası, mevsimsel değişimlere göre şekilleniyor
 - Parkta, çeşitli yürüyüş parkurları ve gözlem noktaları gibi imkanlar bulunuyor

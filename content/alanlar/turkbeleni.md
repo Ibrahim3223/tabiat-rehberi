@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"TÜRKBELENİ","caption":"TÜRKBELENİ","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%9CRKBELEN%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228742","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık Türkbeleni milli parkı, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["İç Anadolu Bölgesi","doğal güzellik","milli park","Türkbeleni","çevre","ekosistem","flora","fauna","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228742"
@@ -34,7 +34,7 @@ Türkbeleni milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıt
 
 ## Flora ve Fauna
 
-Türkbeleni milli parkı, ziyaretçilerine zengin bir flora ve fauna sunar. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve hayvanları barındırır. Bu alan, bölgenin en önemli ekosistemlerinden birini oluşturur ve ziyaretçilere doğal güzellikleri keşfetme fırsatı verir. Parkın flora ve faunası, mevsimsel değişimlere bağlı olarak değişir ve ziyaretçilere yılın her döneminde farklı bir deneyim sunar. Türkbeleni, aynı zamanda bölgedeki diğer doğal güzellik alanlarına da yakın bir konumda yer alır, böylece ziyaretçiler birden fazla alanı keşfedebilir.
+Türkbeleni milli parkı, ziyaretçilerine zengin bir flora ve fauna sunar. Bu alan, bölgenin en önemli ekosistemlerinden birini oluşturur ve ziyaretçilere doğal güzellikleri keşfetme fırsatı verir. Parkın flora ve faunası, mevsimsel değişimlere bağlı olarak değişir ve ziyaretçilere yılın her döneminde farklı bir deneyim sunar. Türkbeleni, aynı zamanda bölgedeki diğer doğal güzellik alanlarına da yakın bir konumda yer alır, böylece ziyaretçiler birden fazla alanı keşfedebilir.
 
 ## Ziyaret Bilgileri
 
@@ -42,8 +42,6 @@ Türkbeleni milli parkını ziyaret etmek, ziyaretçilere doğanın güzellikler
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - bölgenin en önemli ekosistemlerinden biri
 - zengin flora ve fauna
 - mevsimsel değişimler

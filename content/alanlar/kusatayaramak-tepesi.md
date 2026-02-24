@@ -48,7 +48,6 @@ Küşatayaramak Tepesi'ni ziyaret etmek, doğal güzelliklerini keşfetme ve tar
 
 ## İlginç Bilgiler
 
-- Küşatayaramak Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin zirvesine çıkıldığında, çevredeki köylerin ve doğal güzelliklerin manzarası izlenebilir.
 - Tepenin eteklerinde, çeşitli su kaynakları bulunur ve bu kaynaklar, çevredeki köylerin su ihtiyacını karşılar.
 - Tepenin fauna çeşitliliği zengin olup, çeşitli kuş ve memeli türleri bulunur.

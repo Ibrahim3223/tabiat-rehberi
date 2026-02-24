@@ -37,7 +37,7 @@ Pire Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, fa
 
 ## Coğrafya
 
-Pire Tepesi, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Kırklareli'nin doğal güzelliklerinden biri olarak kabul ediliyor. Pire Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu bölge, doğa severler için bir cennet. Pire Tepesi'nin etrafında, farklı yükseklikteki tepeler ve vadiler yer alıyor. Bu coğrafi özellikler, Pire Tepesi'ni ziyaret edenler için unutulmaz bir deneyim sunuyor. Pire Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, farklı coğrafi oluşumları barındırıyor.
+Pire Tepesi, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Kırklareli'nin doğal güzelliklerinden biri olarak kabul ediliyor. Pire Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu bölge, doğa severler için bir cennet. Pire Tepesi'nin etrafında, farklı yükseklikteki tepeler ve vadiler yer alıyor. Bu coğrafi özellikler, Pire Tepesi'ni ziyaret edenler için unutulmaz bir deneyim sunuyor. Bu alan, farklı coğrafi oluşumları barındırıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Pire Tepesi'ni ziyaret etmek, doğa severler ve tarihe meraklı olanlar için bi
 
 ## İlginç Bilgiler
 
-- Pire Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Bu tepe, farklı medeniyetlerin izlerini taşıyor
 - Pire Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna encontruluyor
 - Pire Tepesi, doğa severler için bir cennet

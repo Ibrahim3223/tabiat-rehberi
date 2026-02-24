@@ -28,7 +28,7 @@ wikidata_id: "Q34873484"
 
 # Gürzedin Tepesi
 
-Gürzedin Tepesi, Batman'ın güneydoğusunda yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Gürzedin Tepesi, ziyaretçilerine büyüleyici bir manzara sunuyor ve bölgenin coğrafi özelliklerini keşfetmek için ideal bir nokta.
+ Gürzedin Tepesi, ziyaretçilerine büyüleyici bir manzara sunuyor ve bölgenin coğrafi özelliklerini keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gürzedin Tepesi, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış b
 
 ## Coğrafya
 
-Gürzedin Tepesi, coğrafi olarak Gotham'ın güneydoğusunda yer alıyor. Batman ilinin sınırları içerisinde kalan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu bölge, genellikle dağlık ve engebeli arazilerden oluşuyor ve coğrafi yapısı itibariyle ziyaretçilere çeşitli doğal güzellikler sunuyor. Gürzedin Tepesi'nin etrafı, genellikle çam ve meşe ağaçlarından oluşan ormanlarla çevrili ve bu ormanlar, bölgeye özgü bitki türlerine ev sahipliği yapıyor. Tepenin yüksekliği, bölgenin iklimini etkiliyor ve burada daha serin bir hava hüküm sürüyor.
+Gürzedin Tepesi, coğrafi olarak Gotham'ın güneydoğusunda yer alıyor. Bu bölge, genellikle dağlık ve engebeli arazilerden oluşuyor ve coğrafi yapısı itibariyle ziyaretçilere çeşitli doğal güzellikler sunuyor. Gürzedin Tepesi'nin etrafı, genellikle çam ve meşe ağaçlarından oluşan ormanlarla çevrili ve bu ormanlar, bölgeye özgü bitki türlerine ev sahipliği yapıyor. Tepenin yüksekliği, bölgenin iklimini etkiliyor ve burada daha serin bir hava hüküm sürüyor.
 
 ## Flora ve Fauna
 

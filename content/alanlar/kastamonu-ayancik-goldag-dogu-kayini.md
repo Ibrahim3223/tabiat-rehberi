@@ -30,7 +30,7 @@ Kastamonu-Ayancik-Goldag Dogu Kayini milli parkının tarihi geçmişi, Kastamon
 
 ## Coğrafya
 
-Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Bu bölgenin coğrafyası, dağlar, ormanlar ve nehirler ile karakterizedir. Milli park, 140 hektarlık bir alanda yer almakta ve çeşitli bitki türleri ile hayvanlara ev sahipliği yapmaktadır. Kastamonu-Ayancik-Goldag Dogu Kayini milli parkının iklimi, Karadeniz iklimi olarak bilinir ve bu bölgede yağışlar sut yıl boyunca devam etmektedir. Milli parkın coğrafi konumu, ziyaretçilere doğanın tüm güzelliklerini sunmaktadır. Ziyaretçiler, burada yürüyüş yapabilir, doğanın güzelliklerini izleyebilir ve fotoğraf çekebilirler. Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini beklemektedir.
+Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Bu bölgenin coğrafyası, dağlar, ormanlar ve nehirler ile karakterizedir. Kastamonu-Ayancik-Goldag Dogu Kayini milli parkının iklimi, Karadeniz iklimi olarak bilinir ve bu bölgede yağışlar sut yıl boyunca devam etmektedir. Milli parkın coğrafi konumu, ziyaretçilere doğanın tüm güzelliklerini sunmaktadır. Ziyaretçiler, burada yürüyüş yapabilir, doğanın güzelliklerini izleyebilir ve fotoğraf çekebilirler. Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kastamonu-Ayancik-Goldag Dogu Kayini milli parkını ziyaret etmek, doğa severl
 ## İlginç Bilgiler
 
 - Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Milli park, 140 hektarlık bir alanda yer almaktadır.
+
 - Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, zengin flora ve fauna çeşitliliğine sahiptir.
 - Milli park, Kastamonu'nun Ayancik ilçesinde yer almaktadır.
 - Kastamonu-Ayancik-Goldag Dogu Kayini milli parkını ziyaret etmek, doğa severler için önemli bir deneyimi sunmaktadır.

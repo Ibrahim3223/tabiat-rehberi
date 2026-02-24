@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","doğa gözlemi","fotoğrafçılık","çev
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Kutahya-Tavsanli Catak","caption":"Kutahya-Tavsanli Catak","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli%20Catak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227824","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kutahya-Tavsanli Catak, doğa severler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nde yer alan Kutahya-Tavsanli Catak, doğa severler için bir cennet."
 keywords: ["Kutahya","Tavsanli Catak","İç Anadolu Bölgesi","doğa","milli park","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227824"
@@ -42,7 +42,6 @@ Kutahya-Tavsanli Catak, ziyaretçiler için önemli bir destinasyon. Milli park,
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana sahip.
 - Milli parkta, çeşitli bitki türleri bulunmakta.
 - Milli park, doğa yürüyüşleri ve doğa gözlemi için ideal bir yer.
 - Milli park, İç Anadolu Bölgesi'nde yer alıyor.

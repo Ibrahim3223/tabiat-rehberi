@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gezintisi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Tepeliceyayla Tepesi","caption":"Tepeliceyayla Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepeliceyayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388139","tip":"genel"}]
-description: "Denizli'nin en önemli doğal güzelliklerinden biri olan Tepeliceyayla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tepeliceyayla Tepesi","Denizli","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388139"
@@ -48,7 +48,6 @@ Tepeliceyayla Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihsel 
 
 ## İlginç Bilgiler
 
-- Tepeliceyayla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, Ege Bölgesi'nin en önemli coğrafi oluşumlarından biridir
 - Tepeliceyayla Tepesi, ziyaretçilerini doğal güzelliği ve zengin florasıyla karşılar
 - Bu tepe, aynı zamanda bölgenin tarihi geçmişini yansıtan önemli bir noktadır

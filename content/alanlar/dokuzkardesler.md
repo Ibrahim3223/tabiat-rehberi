@@ -44,6 +44,6 @@ Dokuzkardesler milli parkına ziyaretçiler, çeşitli yollarla ulaşabilmektedi
 
 - Dokuzkardesler milli parkı, 1998 yılında milli park olarak ilan edilmiştir
 - Parkın adı, burada yaşayan dokuz kardeşin hikayesinden gelmektedir
-- Park, 140 hektarlık bir alanda yer almakta ve yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Parkın coğrafi yapısı, çeşitli bitki türleriyle kaplıdır
 - Parkın fauna yapısı, çeşitli hayvan türlerine ev sahipliği yapmaktadır

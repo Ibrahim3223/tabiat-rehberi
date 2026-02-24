@@ -31,7 +31,7 @@ Karşıyaka milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Karşıyaka milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak dikkat çekiyor. Bu milli park, yaklaşık 140 hektarlık bir alanı kaplıyor ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın coğrafi konumu, ziyaretçilere bölgenin benzersiz iklimini ve coğrafi özelliklerini keşfetme fırsatı sunuyor. İç Anadolu Bölgesi'nin iklimi, genellikle karasal iklim olarak bilinir ve bu, Karşıyaka milli parkının flora ve faunasını şekillendirmiştir. Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunuyor.
+Karşıyaka milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak dikkat çekiyor. Parkın coğrafi konumu, ziyaretçilere bölgenin benzersiz iklimini ve coğrafi özelliklerini keşfetme fırsatı sunuyor. İç Anadolu Bölgesi'nin iklimi, genellikle karasal iklim olarak bilinir ve bu, Karşıyaka milli parkının flora ve faunasını şekillendirmiştir. Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunuyor.
 
 ## Flora ve Fauna
 

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","flora ve fauna keşfi","tarihî geçmişi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Adana-Kozan-Horzum Kızılçam","caption":"Adana-Kozan-Horzum Kızılçam","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Horzum%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227294","tip":"genel"}]
-description: "140 hektarlık bu yeşil cennet, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz Bölgesi'nin en önemli doğal alanlarından biri"
+
 keywords: ["Adana","Kozan","Horzum","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227294"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227294"
 
 # Adana-Kozan-Horzum Kızılçam
 
-Adana-Kozan-Horzum Kızılçam milli parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Burada, zengin bitki türleri ve çeşitli hayvanlar ile karşılaşma mümkün. Milli parkın tarihi geçmişi, yüzyıllar boyunca bölgeye yaşam veren doğal güzellikleri koruma altına almak için yapılan çalışmalara dayanıyor. Bu doğal cenneti ziyaret edenler, hem doğanın güzelliğiniDiscover hem de bölgenin tarihi geçmişini keşfedebilirler.
+ Burada, zengin bitki türleri ve çeşitli hayvanlar ile karşılaşma mümkün. Milli parkın tarihi geçmişi, yüzyıllar boyunca bölgeye yaşam veren doğal güzellikleri koruma altına almak için yapılan çalışmalara dayanıyor. Bu doğal cenneti ziyaret edenler, hem doğanın güzelliğiniDiscover hem de bölgenin tarihi geçmişini keşfedebilirler.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Adana-Kozan-Horzum Kızılçam milli parkını ziyaret etmek, doğa severler iç
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Akdeniz Bölgesi'nin önemli doğal alanlarından biri
 - zengin flora ve fauna
 - ilkbahar ve yaz aylarında ziyaret etmek öneriliyor

@@ -37,7 +37,7 @@ Aynalıkavak Kasrı Hamamı'nın tarihi geçmişi, İstanbul'un tarihine uzanır
 
 ## Coğrafya
 
-Aynalıkavak Kasrı Hamamı, Marmara Bölgesi'nin kalbinde yer alan Beyoğlu'nda bulunur. Bu tarihi mekan, 140 hektarlık bir yeşil alan sunar. Aynalıkavak Kasrı Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sunar. Aynalıkavak Kasrı Hamamı, İstanbul'un önemli kültür merkezlerine yakın bir konumda yer alır. Bu tarihi mekan, ziyaretçilerine geniş bir kültür ve tarih yelpazesi sunar. Aynalıkavak Kasrı Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sağlar. İstanbul'un kalbinde yer alan Aynalıkavak Kasrı Hamamı, ziyaretçilerini geçmişe götürerek zengin bir tarih ve kültür deneyimi sunar.
+Aynalıkavak Kasrı Hamamı, Marmara Bölgesi'nin kalbinde yer alan Beyoğlu'nda bulunur. Aynalıkavak Kasrı Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sunar. Aynalıkavak Kasrı Hamamı, İstanbul'un önemli kültür merkezlerine yakın bir konumda yer alır. Bu tarihi mekan, ziyaretçilerine geniş bir kültür ve tarih yelpazesi sunar. Aynalıkavak Kasrı Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sağlar. İstanbul'un kalbinde yer alan Aynalıkavak Kasrı Hamamı, ziyaretçilerini geçmişe götürerek zengin bir tarih ve kültür deneyimi sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Aynalıkavak Kasrı Hamamı, ziyaretçilerini geçmişe götürerek zengin bir t
 
 - Aynalıkavak Kasrı Hamamı, İstanbul'un en önemli kültür miraslarından biridir.
 - Bu tarihi mekan, yüzyıllar boyunca önemli bir kültür merkezi olarak hizmet vermiştir.
-- Aynalıkavak Kasrı Hamamı, 140 hektarlık bir yeşil alan sunar.
+
 - Bu tarihi mekan, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar.
 - Aynalıkavak Kasrı Hamamı, İstanbul'un kalbinde yer alır.

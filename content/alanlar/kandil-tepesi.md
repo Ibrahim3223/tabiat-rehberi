@@ -49,7 +49,7 @@ Kandil Tepesi'ni ziyaret etmek isteyenler, Muş iline ulaştıktan sonra, bu tep
 ## İlginç Bilgiler
 
 - Kandil Tepesi, Muş ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Kandil Tepesi, çeşitli bitki türleri ile zengin bir flora yapısına sahiptir.
 - Bu tepe, Doğu Anadolu Bölgesi'nin genel flora ve fauna yapısı ile benzerlik gösterir.
 - Kandil Tepesi, tarihin gizemli sayfalarında yer alan bir bölgedir.

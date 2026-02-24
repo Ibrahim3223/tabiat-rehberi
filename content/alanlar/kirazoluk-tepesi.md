@@ -28,7 +28,7 @@ wikidata_id: "Q31514997"
 
 # Kirazoluk Tepesi
 
-Kütahya'nın güzide bir noktası olan Kirazoluk Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yamacında bulunan çeşitli bitki türleri, mevsimsel değişimlerle birlikte renk değiştirerek doğa severlerin ilgisini çekiyor. Kirazoluk Tepesi, hem doğa tutkunları hem de yerel halk için önemli bir çekim merkezi olarak kabul ediliyor.
+ Tepenin yamacında bulunan çeşitli bitki türleri, mevsimsel değişimlerle birlikte renk değiştirerek doğa severlerin ilgisini çekiyor. Kirazoluk Tepesi, hem doğa tutkunları hem de yerel halk için önemli bir çekim merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

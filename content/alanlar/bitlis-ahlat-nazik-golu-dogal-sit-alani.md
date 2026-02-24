@@ -30,7 +30,7 @@ Bitlis Ahlat Nazik Gölü Doğal Sit Alanı'nın tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Bitlis Ahlat Nazik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafi yapısı, dağlar, tepeler ve ovalardan oluşuyor. Nazik Gölü, bu bölgenin en önemlisu kaynağı olarak dikkat çekiyor. Gölün etrafında yer alan dağlar ve tepeler, bu bölgenin coğrafi özelliklerini daha da zenginleştiriyor. Ayrıca, bu bölgeye yapılan ziyaretler, doğa severler için unutulmaz deneyimler sunuyor. Bitlis Ahlat Nazik Gölü Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor ve doğal sit alanı olarak koruma altına alınmış durumda. Bu bölgenin coğrafi özellikleri, flora ve fauna çeşitliliği ile ön plana çıkıyor. Nazik Gölü'nün etrafında yer alan dağlar ve tepeler, bu bölgenin coğrafi özelliklerini daha da zenginleştiriyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve karasal iklim özellikleri taşıyor.
+Bitlis Ahlat Nazik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafi yapısı, dağlar, tepeler ve ovalardan oluşuyor. Nazik Gölü, bu bölgenin en önemlisu kaynağı olarak dikkat çekiyor. Gölün etrafında yer alan dağlar ve tepeler, bu bölgenin coğrafi özelliklerini daha da zenginleştiriyor. Ayrıca, bu bölgeye yapılan ziyaretler, doğa severler için unutulmaz deneyimler sunuyor. Bu bölgenin coğrafi özellikleri, flora ve fauna çeşitliliği ile ön plana çıkıyor. Nazik Gölü'nün etrafında yer alan dağlar ve tepeler, bu bölgenin coğrafi özelliklerini daha da zenginleştiriyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve karasal iklim özellikleri taşıyor.
 
 ## Flora ve Fauna
 

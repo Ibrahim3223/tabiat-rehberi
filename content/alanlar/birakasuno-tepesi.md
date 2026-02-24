@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı"," piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Birakasuno Tepesi","caption":"Birakasuno Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Birakasuno%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546196","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nde yer alan Birakasuno Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Birakasuno Tepesi","Güneydoğu Anadolu Bölgesi","Batman","doğa","tepe","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31546196"
@@ -28,7 +28,7 @@ wikidata_id: "Q31546196"
 
 # Birakasuno Tepesi
 
- 140 hektarlık bu yeşil alan, bölgeye gelen ziyaretçilere doğanın güzelliğini ve sakinliğini sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu doğal güzellik, ziyaretçilerini doğayla baş başa bırakır ve onlara unutulmaz anlar yaşatır.
+ Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu doğal güzellik, ziyaretçilerini doğayla baş başa bırakır ve onlara unutulmaz anlar yaşatır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Birakasuno Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim o
 
 ## İlginç Bilgiler
 
-- Birakasuno Tepesi, 140 hektarlık bir yeşil alana sahiptir.
 - Tepenin etrafında çeşitli bitki türleri bulunur.
 - Birakasuno Tepesi, flora ve fauna açısından zengin bir bölgedir.
 - Tepenin zirvesine çıkmak, ziyaretçilere bölgenin panoramik manzarasını sunar.

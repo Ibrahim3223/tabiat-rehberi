@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Kamp","Doğa fotoğrafçılığı","Yaban hayatı g
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Mugla-Kemer-Yapraktepe Karacam","caption":"Mugla-Kemer-Yapraktepe Karacam","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Yapraktepe%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228811","tip":"genel"}]
-description: "Muğla'nın doğal güzelliklerini keşfedin, 140 hektarlık milli parkın büyüleyici manzaralarını görün."
+"
 keywords: ["Mugla-Kemer-Yapraktepe Karacam","Milli Park","Muğla","Ege Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228811"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228811"
 
 # Mugla-Kemer-Yapraktepe Karacam
 
-Mugla-Kemer-Yapraktepe Karacam, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerin doğa ile iç içe olması için mükemmel bir ortam sunuyor.
+ Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerin doğa ile iç içe olması için mükemmel bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mugla-Kemer-Yapraktepe Karacam milli parkını ziyaret etmek, doğa severler iç
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkta, çeşitli flora ve fauna türleri yaşuyor
 - Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor
 - Milli parkta, kamp yapma imkanı bulunuyor

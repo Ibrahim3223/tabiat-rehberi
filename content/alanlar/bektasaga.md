@@ -43,7 +43,7 @@ Bektaşağa Milli Parkı, ziyaretçilerine doğanın güzelliğini deneyimleme f
 ## İlginç Bilgiler
 
 - Bektaşağa Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğa harikalarından biridir
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğündedir
+
 - Bektaşağa Milli Parkı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini gösterir
 - Parkın tarihi geçmişi, yüzyıllar öncesine dayanır
 - Bektaşağa Milli Parkı, ziyaretçilerine unutulmaz anlar yaratmak için doğanın güzelliği ile baş başa bırakmaya davet ediyor

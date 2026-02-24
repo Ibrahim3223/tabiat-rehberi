@@ -36,7 +36,7 @@ Bakgör Tepe'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Bakgör Tepe, Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Bu tepe, şehrin doğal güzelliklerini sergileyen önemli bir nokta olarak biliniyor. 140 hektarlık bu yeşil alan, Diyarbakır'ın coğrafi yapısını ve iklimini yansıtan bir bölge olarak dikkat çekiyor. Bu tepe, ziyaretçilerine Diyarbakır'ın doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda şehrin coğrafi çeşitliliğini de sergiliyor. Bakgör Tepe'nin coğrafi konumu, ziyaretçilerine şehrin farklı bölgelerine ulaşma fırsatı sunuyor. Bu tepe, Diyarbakır'ın merkezine yakın bir konumda yer aldığı için, ziyaretçilere şehrin diğer önemli noktalarına kolayca ulaşma imkanı sağlıyor. Bakgör Tepe, Diyarbakır'ın coğrafi ve kültürel zenginliklerini keşfetmek için ideal bir gezi noktası olarak görülmektedir.
+Bakgör Tepe, Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Bu tepe, şehrin doğal güzelliklerini sergileyen önemli bir nokta olarak biliniyor. Bu tepe, ziyaretçilerine Diyarbakır'ın doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda şehrin coğrafi çeşitliliğini de sergiliyor. Bakgör Tepe'nin coğrafi konumu, ziyaretçilerine şehrin farklı bölgelerine ulaşma fırsatı sunuyor. Bu tepe, Diyarbakır'ın merkezine yakın bir konumda yer aldığı için, ziyaretçilere şehrin diğer önemli noktalarına kolayca ulaşma imkanı sağlıyor. Bakgör Tepe, Diyarbakır'ın coğrafi ve kültürel zenginliklerini keşfetmek için ideal bir gezi noktası olarak görülmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bakgör Tepe, ziyaretçilerine Diyarbakır'ın tarihi, kültürel ve doğal güz
 ## İlginç Bilgiler
 
 - Bakgör Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek için ideal bir gezi noktasıdır.
-- Bu tepe, 140 hektarlık bir yeşil alana sahiptir.
+
 - Bakgör Tepe, Diyarbakır'ın merkezine yakın bir konumda yer almaktadır.
 - Bu tepe, yılın her döneminde ziyaret edilebilir.
 - Bakgör Tepe,çeşitli bitki türleri ve hayvanlarla dolu bir bölge olarak dikkat çekmektedir.

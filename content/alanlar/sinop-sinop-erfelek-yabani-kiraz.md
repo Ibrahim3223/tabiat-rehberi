@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki ve hayv
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Sinop-Sinop-Erfelek-Yabani kiraz","caption":"Sinop-Sinop-Erfelek-Yabani kiraz","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Sinop-Erfelek-Yabani%20kiraz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228282","tip":"genel"}]
-description: "Sinop'un Erfelek ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve yabanî kiraz ağaçlarıyla dikkat çekiyor."
+"
 keywords: ["Sinop","Erfelek","Yabani kiraz","Milli park","Karadeniz Bölgesi","Doğa","Yeşil alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228282"
@@ -42,7 +42,6 @@ Sinop'un Erfelek ilçesinde yer alan milli park, ziyaretçilerine çeşitli olan
 
 ## İlginç Bilgiler
 
-- Milli parkın içinde, 140 hektarlık yeşil alan bulunuyor.
 - Milli park, yabanî kiraz ağaçları ile dikkat çekiyor.
 - Milli parka, özel araçlar ile ulaşımümkün.
 - Milli parkın içinde, yürüyüş yolları ve piknik alanları bulunuyor.

@@ -37,7 +37,7 @@ Servili Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca İstanbul'un ön
 
 ## Coğrafya
 
-Servili Baba Türbesi, Marmara Bölgesi'nin önemli bir bölümünü kaplayan İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, coğrafi olarak deniz seviyesine yakın bir konumda bulunmakta ve deniz kenarına yakın bir mesafede yer alıyor. Türbe ve çevresindeki yeşil alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu, ziyaretçilere geniş bir açık alan sunuyor. Bölgenin iklimi, genel olarak İstanbul'un iklimine benzer, ılıman ve nemli. Bahar ve yaz aylarında, bu bölge, güneşin tadını çıkarma ve deniz kenarında zaman geçirmek isteyenler için ideal bir destinasyon. Çevre, tarihi ve doğal güzelliklerinin yanı sıra, sosyal ve kültürel etkinliklere de ev sahipliği yapıyor.
+Servili Baba Türbesi, Marmara Bölgesi'nin önemli bir bölümünü kaplayan İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, coğrafi olarak deniz seviyesine yakın bir konumda bulunmakta ve deniz kenarına yakın bir mesafede yer alıyor. Bölgenin iklimi, genel olarak İstanbul'un iklimine benzer, ılıman ve nemli. Bahar ve yaz aylarında, bu bölge, güneşin tadını çıkarma ve deniz kenarında zaman geçirmek isteyenler için ideal bir destinasyon. Çevre, tarihi ve doğal güzelliklerinin yanı sıra, sosyal ve kültürel etkinliklere de ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

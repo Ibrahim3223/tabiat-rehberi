@@ -53,5 +53,5 @@ Hz. Kab Bin Malik Türbesi'ni ziyaret etmek, hem dinî hem de kültürel açıda
 - Hz. Kab Bin Malik, İslam peygamberi Muhammed'in sahabelerinden biridir
 - Türbe, yüzyıllar boyunca ziyaretçilerini ağırlamış ve dinî açıdan önemli bir merkez olarak kabul edilmiştir
 - Eyüpsultan, İstanbul'un fethi döneminde önemli bir role sahip olmuştur
-- Bölge, tarihi yapılar ve yeşil alanlar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir bölgede yer alır
+
 - Türbe ve çevresindeki bölge, ziyaretçilerin hem dinî hem de kültürel açıdan zengin bir deneyimleyebilir sunmaktadır

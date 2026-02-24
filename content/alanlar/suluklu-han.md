@@ -1,7 +1,7 @@
 ---
 title: "Sülüklü Han"
 date: "2026-01-10T04:29:14.432Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q63349559"
 
 # Sülüklü Han
 
-Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Sur ilçe merkezine uzun bir mesafe uzaklıkta bulunan bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Sülüklü Han, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve zengin fauna ile birlikte unutulmaz bir deneyim sunuyor.
+Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Sülüklü Han, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve zengin fauna ile birlikte unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sülüklü Han'ın tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu bölge, aproxim 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini farklı coğrafi oluşumlar ile karşılaştırıyor. Sülüklü Han, dağlar, ovalar ve nehirler ile çevrilidir ve bu coğrafi oluşumlar, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Bu bölge'nin iklimi, genellikle sıcak ve kurak bir iklim olmakla birlikte, kış aylarında soğuk ve yağışlı bir hava görülebilir. Sülüklü Han, coğrafi konumu ve iklimi ile birlikte ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Bu bölge, flora ve fauna açısından da zengin bir bölge ve ziyaretçilere çeşitli bitki ve hayvan türleri sunuyor.
+Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Sülüklü Han, dağlar, ovalar ve nehirler ile çevrilidir ve bu coğrafi oluşumlar, ziyaretçilere çeşitli doğa güzellikleri sunuyor. Bu bölge'nin iklimi, genellikle sıcak ve kurak bir iklim olmakla birlikte, kış aylarında soğuk ve yağışlı bir hava görülebilir. Sülüklü Han, coğrafi konumu ve iklimi ile birlikte ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Bu bölge, flora ve fauna açısından da zengin bir bölge ve ziyaretçilere çeşitli bitki ve hayvan türleri sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Sülüklü Han, ziyaretçilerine çeşitli gezi seçenekleri sunuyor. Bu bölge,
 
 ## İlginç Bilgiler
 
-- Sülüklü Han, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, Sur ilçe merkezine uzun bir mesafe uzaklıkta bulunuyor.
 - Sülüklü Han, flora ve fauna açısından zengin bir bölge.
 - Bu bölge, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor.

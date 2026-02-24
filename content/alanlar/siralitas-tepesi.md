@@ -28,7 +28,7 @@ wikidata_id: "Q31559153"
 
 # Sıralıtaş Tepesi
 
-Sıralıtaş Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Sıralıtaş Tepesi, hem doğa severler hem de şehrin tarihini keşfetmek isteyenler için önemli bir destinasyon olarak karşımıza çıkıyor.
+Sıralıtaş Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekiyor. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Sıralıtaş Tepesi, hem doğa severler hem de şehrin tarihini keşfetmek isteyenler için önemli bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

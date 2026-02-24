@@ -29,7 +29,7 @@ wikidata_id: "Q131738455"
 
 # Artuklu Hamamı
 
-Güneydoğu Anadolu Bölgesi'nin zengin tarihine ışık tutan Artuklu Hamamı, Hasankeyf'in merkezinde yer alır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanda, Hasankeyf'in yerleşim merkezine yakın bir konumda bulunmaktadır. Artuklu Hamamı, tarihi ve mimari özellikleri ile dikkat çekici bir yapıdır. Hasankeyf'in önemli turistik noktalarından biri olan bu hamam, ziyaretçilerini tarihin derinliklerine götürmektedir.
+Güneydoğu Anadolu Bölgesi'nin zengin tarihine ışık tutan Artuklu Hamamı, Hasankeyf'in merkezinde yer alır. Artuklu Hamamı, tarihi ve mimari özellikleri ile dikkat çekici bir yapıdır. Hasankeyf'in önemli turistik noktalarından biri olan bu hamam, ziyaretçilerini tarihin derinliklerine götürmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Artuklu Hamamı, tarihi geçmişi ile ön plana çıkan bir yapıdır. Hasankeyf
 
 ## Coğrafya
 
-Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri, Artuklu Hamamı'nın bulunduğu Hasankeyf'i de etkilemiştir. Hasankeyf, Fırat Nehri'nin kıyısında yer alan bir ilçedir. İlçenin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Artuklu Hamamı, Hasankeyf'in merkezinde, Fırat Nehri'nin kıyısına yakın bir konumda yer alır. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir bölgeyi kaplar. Bu bölge, Hasankeyf'in yerleşim merkezine yakın bir konumda yer almaktadır. Artuklu Hamamı'nın coğrafi konumu, ziyaretçilerin hamama ulaşımını kolaylaştırmaktadır. Hamamın etrafında, tarihi ve kültürel öneme sahip çeşitli yapılar yer almaktadır. Bu yapılar, Hasankeyf'in tarihine ve kültürel mirasına ışık tutmaktadır.
+Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri, Artuklu Hamamı'nın bulunduğu Hasankeyf'i de etkilemiştir. Hasankeyf, Fırat Nehri'nin kıyısında yer alan bir ilçedir. İlçenin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Artuklu Hamamı, Hasankeyf'in merkezinde, Fırat Nehri'nin kıyısına yakın bir konumda yer alır. Bu bölge, Hasankeyf'in yerleşim merkezine yakın bir konumda yer almaktadır. Artuklu Hamamı'nın coğrafi konumu, ziyaretçilerin hamama ulaşımını kolaylaştırmaktadır. Hamamın etrafında, tarihi ve kültürel öneme sahip çeşitli yapılar yer almaktadır. Bu yapılar, Hasankeyf'in tarihine ve kültürel mirasına ışık tutmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Artuklu Hamamı, ziyaretçilerini tarihin derinliklerine götürmektedir. Hamam�
 ## İlginç Bilgiler
 
 - Artuklu Hamamı, Hasankeyf'in en önemli turistik noktalarından biridir.
-- Hamam, yaklaşık 140 hektarlık bir alanda yer almaktadır.
+
 - Artuklu Hamamı, restore edilmiştir.
 - Hamamın tarihi geçmişi, Hasankeyf'in tarihine ışık tutmaktadır.
 - Artuklu Hamamı, yıl boyunca ziyaret edilebilmektedir.

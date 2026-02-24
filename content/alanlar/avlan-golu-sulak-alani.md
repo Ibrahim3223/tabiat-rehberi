@@ -30,7 +30,7 @@ Avlan Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Avlan Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir. 140 hektarlık bir alanı kapsayan bu sulak alan, göl ve çevresindeki bitkilerle birlikte, bir ekosistem olarak işlev görmektedir. Bu bölgenin coğrafi yapısı, hem sulak alanların hem de kara parçalarının bir arada bulunmasıyla oluşmaktadır. Avlan Gölü, bir sulak alan olarak, birçok canlı türünün yaşam alanı olarak hizmet vermektedir. Gölünindeki araziler, farklı bitki türleriyle kaplıdır ve bu bitkiler, yaban hayvanları için önemli bir besin kaynağı oluşturmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri göstermektedir.
+Avlan Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir. Bu bölgenin coğrafi yapısı, hem sulak alanların hem de kara parçalarının bir arada bulunmasıyla oluşmaktadır. Avlan Gölü, bir sulak alan olarak, birçok canlı türünün yaşam alanı olarak hizmet vermektedir. Gölünindeki araziler, farklı bitki türleriyle kaplıdır ve bu bitkiler, yaban hayvanları için önemli bir besin kaynağı oluşturmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri göstermektedir.
 
 ## Flora ve Fauna
 

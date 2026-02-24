@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP14.jpg","alt":"Gümeli manzarası","credit":"Tobias 67","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP22.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP22.jpg/1280px-Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP22.jpg","alt":"Gümeli - Monumental Yew TR (Alaplı Gümeli) Anıt Porsuk 01 TP22","credit":"Tobias 67","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP23.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP23.jpg/1280px-Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_01_TP23.jpg","alt":"Gümeli - Monumental Yew TR (Alaplı Gümeli) Anıt Porsuk 01 TP23","credit":"Tobias 67","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP08.jpg/1280px-Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP08.jpg","alt":"Gümeli - Monumental Yew TR (Alaplı Gümeli) Anıt Porsuk 02 TP08","credit":"Tobias 67","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP16.jpg/1280px-Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP16.jpg","alt":"Gümeli - Monumental Yew TR (Alaplı Gümeli) Anıt Porsuk 02 TP16","credit":"Tobias 67","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP18.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP18.jpg/1280px-Monumental_Yew_TR_%28Alapl%C4%B1_G%C3%BCmeli%29_An%C4%B1t_Porsuk_02_TP18.jpg","alt":"Gümeli - Monumental Yew TR (Alaplı Gümeli) Anıt Porsuk 02 TP18","credit":"Tobias 67","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCmeli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228149","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz 140 hektarlık milli park"
+
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228149"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228149"
 
 # Gümeli
 
-Gümeli milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkmaktadır. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğa ile iç içe zaman geçirmelerine olanak tanır. Gümeli milli parkı, İlerleyen mevsimlerde farklı renklerle donanarak, her sezon ziyaretçilerine benzersiz bir deneyim sunar.
+ Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğa ile iç içe zaman geçirmelerine olanak tanır. Gümeli milli parkı, İlerleyen mevsimlerde farklı renklerle donanarak, her sezon ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Gümeli milli parkını ziyaret etmek, doğa severler için harika bir deneyim o
 
 ## İlginç Bilgiler
 
-- Gümeli milli parkı, yaklaşık 140 hektarlık bir alana sahiptir.
 - Parkın içinde yer alan ormanlık alanlar, çeşitli ağaç türleri ile dolu olup, bu ağaçlar, ziyaretçilere gölgeli ve serin bir ortam sunar.
 - Park, çeşitli kuş türleri, memeliler ve sürüngenler gibi canlıları barındırmaktadır.
 - Gümeli milli parkı, sadece doğal güzellikleri ile değil, aynı zamanda tarihi değerleri ile de önemli bir turizm merkezidir.

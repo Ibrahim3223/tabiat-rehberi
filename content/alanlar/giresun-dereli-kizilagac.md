@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sis_da%C4%9F%C4%B1_%286%29.jpg/960px-Sis_da%C4%9F%C4%B1_%286%29.jpg","alt":"Giresun-Dereli Kizilagac","caption":"Giresun-Dereli Kizilagac","credit":"Sis dağı (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Dereli%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227749","tip":"genel"}]
-description: "Giresun'da yer alan milli park, 140 hektarlık yeşil alanıyla dikkat çekiyor."
+"
 keywords: ["Giresun","Dereli","Kizilagac","milli park","Karadeniz Bölgesi","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227749"
@@ -30,7 +30,7 @@ Giresun-Dereli Kizilagac milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Giresun-Dereli Kizilagac milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Park, 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın coğrafi konumu, ziyaretçilere doğanın tüm güzelliklerini sunuyor. Ziyaretçiler, buradaki yürüyüş parkurlarını kullanarak doğayı keşfedebilir, manzaraları izleyebilir. Parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine uygun olarak, ılıman ve yağışlı. Bu reasonla, ziyaretçiler her mevsim burayı ziyaret edebilir. Parkın çevresi, diğer doğal güzelliklerle dolu ve ziyaretçiler, buradan diğer destinasyonlara kolayca ulaşabilir.
+Giresun-Dereli Kizilagac milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Milli parkın coğrafi konumu, ziyaretçilere doğanın tüm güzelliklerini sunuyor. Ziyaretçiler, buradaki yürüyüş parkurlarını kullanarak doğayı keşfedebilir, manzaraları izleyebilir. Parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine uygun olarak, ılıman ve yağışlı. Bu reasonla, ziyaretçiler her mevsim burayı ziyaret edebilir. Parkın çevresi, diğer doğal güzelliklerle dolu ve ziyaretçiler, buradan diğer destinasyonlara kolayca ulaşabilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Giresun-Dereli Kizilagac milli parkını ziyaret etmek, ziyaretçilere birçok o
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kapsıyor.
 - Parkta, birçok endemik bitki türü bulunmakta.
 - Milli park, aynı zamanda, birçok hayvan türüne de ev sahipliği yapıyor.
 - Ziyaretçiler, buradaki yürüyüş parkurlarını kullanarak doğayı keşfedebilir.

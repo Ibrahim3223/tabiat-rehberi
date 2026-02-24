@@ -38,7 +38,7 @@ Murat Hamamı, tarihsel geçmişi ile önemli bir yer tutar. Tarihi geçmişi, y
 
 ## Coğrafya
 
-Murat Hamamı, Çerkeş'te yer alır ve coğrafi konumu ile dikkat çekiyor. Bu alan, İç Anadolu Bölgesi'nde bulunmaktadır. Coğrafi olarak, Murat Hamamı'nın çevresi çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu alan, doğal güzellikleri ile ziyaretçilerini çekmektedir. Murat Hamamı, coğrafi olarak ulaşılması kolay bir konumdadır. Bu alan, ziyaretçilerine çeşitli faaliyetler sunuyor. Murat Hamamı, coğrafi olarak yaklaşık 140 hektarlık bir alanı kaplar ve bu størreligi ile önemli bir doğal alan olarak bilinir. Bu alanda, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunmaktadır. Murat Hamamı, coğrafi olarak ziyaretçilerine benzersiz bir deneyim sunuyor.
+Murat Hamamı, Çerkeş'te yer alır ve coğrafi konumu ile dikkat çekiyor. Bu alan, İç Anadolu Bölgesi'nde bulunmaktadır. Coğrafi olarak, Murat Hamamı'nın çevresi çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu alan, doğal güzellikleri ile ziyaretçilerini çekmektedir. Murat Hamamı, coğrafi olarak ulaşılması kolay bir konumdadır. Bu alan, ziyaretçilerine çeşitli faaliyetler sunuyor. Bu alanda, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunmaktadır. Murat Hamamı, coğrafi olarak ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Murat Hamamı, ziyaretçilerine çeşitli faaliyetler sunuyor. Bu alan, ulaşım
 ## İlginç Bilgiler
 
 - Murat Hamamı, tarihi geçmişi ile dikkat çekiyor
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Murat Hamamı, flora ve fauna açısından zengin bir alandır
 - Bu alanda, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunmaktadır
 - Murat Hamamı, ziyaretçilerine benzersiz bir deneyim sunuyor

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarihî geziler","kültürel etkinlikler"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Tahtir Tepesi","caption":"Tahtir Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahtir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538343","tip":"genel"}]
-description: "Hatay'da bulunan Tahtir Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Tahtir Tepesi","Hatay","Akdeniz Bölgesi","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31538343"
@@ -48,7 +48,6 @@ Tahtir Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunar. Bu bölge,
 
 ## İlginç Bilgiler
 
-- Tahtir Tepesi, 140 hektarlık yeşil alanı ile dikkat çeker
 - Bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır
 - Tahtir Tepesi, tarihî geçmişi ile ön plana çıkar
 - Bölge, flora ve fauna açısından zengin bir yapıya sahiptir

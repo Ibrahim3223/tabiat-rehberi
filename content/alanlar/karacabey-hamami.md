@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20asv2021-10%20img26%20Karacabey%20Hamam.jpg","alt":"Karacabey Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Ankara_asv2021-10_img26_Karacabey_Hamam.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ankara_asv2021-10_img26_Karacabey_Hamam.jpg/1280px-Ankara_asv2021-10_img26_Karacabey_Hamam.jpg","alt":"Karacabey Hamamı - Ankara asv2021-10 img26 Karacabey Hamam","credit":"A.Savin","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacabey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19611618","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinden biri olan Karacabey Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Karacabey Hamamı","Ankara","doğa","yeşil alan","gezi","tatil","iç Anadolu Bölgesi","Altındağ","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q19611618"
@@ -38,7 +38,7 @@ Karacabey Hamamı'nın tarihi geçmişi, Ankara'nın eski yerleşim yerlerine da
 
 ## Coğrafya
 
-Karacabey Hamamı, Ankara'nın Altındağ ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle kura ve soğuk bir iklime sahiptir. Ancak, Karacabey Hamamı'nın bulunduğu alan, yeşilin ve suyun bir arada olduğu ender yerlerden biridir. Burada, 140 hektarlık yeşil alan, ziyaretçilere geniş ve ferah bir ortam sunar. Ayrıca, bu alanın coğrafi konumu, Ankara'nın merkezine yakınlığıyla da dikkat çeker. Ziyaretçiler, buraya ulaşmak için çeşitli ulaşım seçeneklerinden yararlanabilirler. Karacabey Hamamı, Ankara'nın kalbinde yer alan bir doğa cenneti olarak, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
+Karacabey Hamamı, Ankara'nın Altındağ ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle kura ve soğuk bir iklime sahiptir. Ancak, Karacabey Hamamı'nın bulunduğu alan, yeşilin ve suyun bir arada olduğu ender yerlerden biridir. Ayrıca, bu alanın coğrafi konumu, Ankara'nın merkezine yakınlığıyla da dikkat çeker. Ziyaretçiler, buraya ulaşmak için çeşitli ulaşım seçeneklerinden yararlanabilirler. Karacabey Hamamı, Ankara'nın kalbinde yer alan bir doğa cenneti olarak, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Flora ve Fauna
 

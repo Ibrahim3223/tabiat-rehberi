@@ -38,11 +38,11 @@ Turgut Özal Anıt Mezarı, Turgut Özal'ın vefatından sonra edilmiştir. Turg
 
 ## Coğrafya
 
-Turgut Özal Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. Anıt mezarın etrafında, çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Anıt mezarın yapıldığı bölge, İstanbul'un merkezi bölgelerinden biridir. Ziyaretçiler, anıt mezarı kolayca ulaşabilirler. Anıt mezarın yakınında, çeşitli ulaşım araçları bulunmaktadır. Bu ulaşım araçları, ziyaretçilere anıt mezarına ulaşmak için uygun seçenekler sunar. Anıt mezarın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir. Ziyaretçiler, anıt mezarı ziyaret ederken, bölgenin iklimine uygun şekilde hazırlanmalıdır.
+Turgut Özal Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. Anıt mezarın etrafında, çeşitli bitkiler ve ağaçlar bulunmaktadır. Anıt mezarın yapıldığı bölge, İstanbul'un merkezi bölgelerinden biridir. Ziyaretçiler, anıt mezarı kolayca ulaşabilirler. Anıt mezarın yakınında, çeşitli ulaşım araçları bulunmaktadır. Bu ulaşım araçları, ziyaretçilere anıt mezarına ulaşmak için uygun seçenekler sunar. Anıt mezarın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir. Ziyaretçiler, anıt mezarı ziyaret ederken, bölgenin iklimine uygun şekilde hazırlanmalıdır.
 
 ## Flora ve Fauna
 
-Turgut Özal Anıt Mezarı, çeşitli bitkiler ve ağaçlar ile çevrilidir. Bu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Anıt mezarın etrafında, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sunar. Anıt mezarın bitki örtüsü, mevsimsel değişimlere göre değişmektedir. Ziyaretçiler, anıt mezarı ziyaret ederken, bitki örtüsünün güzelliğini görebilirler. Anıt mezarın fauna açısından zengin bir çeşitlilik sunar. Bu çeşitlilik, ziyaretçilere anıt mezarın etrafında bulunan canlıları gözlemlemek için uygun bir ortam sağlar. Anıt mezarın ekosistemi, ziyaretçilere anıt mezarın etrafında bulunan canlıları ve bitki örtüsünü korumak için uygun bir ortam sunar.
+Turgut Özal Anıt Mezarı, çeşitli bitkiler ve ağaçlar ile çevrilidir. Anıt mezarın etrafında, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sunar. Anıt mezarın bitki örtüsü, mevsimsel değişimlere göre değişmektedir. Ziyaretçiler, anıt mezarı ziyaret ederken, bitki örtüsünün güzelliğini görebilirler. Anıt mezarın fauna açısından zengin bir çeşitlilik sunar. Bu çeşitlilik, ziyaretçilere anıt mezarın etrafında bulunan canlıları gözlemlemek için uygun bir ortam sağlar. Anıt mezarın ekosistemi, ziyaretçilere anıt mezarın etrafında bulunan canlıları ve bitki örtüsünü korumak için uygun bir ortam sunar.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Turgut Özal Anıt Mezarı, ziyaretçilere açık bir alandır. Ziyaretçiler, a
 ## İlginç Bilgiler
 
 - Turgut Özal Anıt Mezarı, Türkiye'nin sekizinci cumhurbaşkanı Turgut Özal'ın anısına yapılmıştır.
-- Anıt mezar, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Anıt mezarın etrafında, çeşitli bitkiler ve ağaçlar bulunmaktadır.
 - Anıt mezarın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir.
 - Anıt mezar, ziyaretçilere Turgut Özal'ın hayatını ve hizmetlerini anlatmaktadır.

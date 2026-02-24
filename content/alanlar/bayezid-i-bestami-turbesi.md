@@ -30,7 +30,7 @@ wikidata_id: "Q131390827"
 
 # Bayezid-i Bestami Türbesi
 
-Bayezid-i Bestami Türbesi, Hatay'ın Kırıkhan ilçesinde yer alan ve tarihi geçmişiyle ön plana çıkan bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulan bir kompleksin içinde yer alıyor. Bayezid-i Bestami Türbesi, hem dini hem de kültürel açıdan önemli bir merkez olarak kabul ediliyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı bulunuyor.
+Bayezid-i Bestami Türbesi, Hatay'ın Kırıkhan ilçesinde yer alan ve tarihi geçmişiyle ön plana çıkan bir türbedir. Bayezid-i Bestami Türbesi, hem dini hem de kültürel açıdan önemli bir merkez olarak kabul ediliyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı bulunuyor.
 
 ## Tarihçe
 

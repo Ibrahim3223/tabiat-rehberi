@@ -15,8 +15,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c3/%C4%B0sakl%C4%B1_Han_von_Westen_in_Sultanda%C4%9Fi%3B_Afyonkarahisar.jpg","alt":"Sultandagi manzarası","credit":"Christian1311","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Akbaba_T%C3%BCrbesi_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Akbaba_T%C3%BCrbesi_01.jpg/1280px-Akbaba_T%C3%BCrbesi_01.jpg","alt":"Sultandagi - Akbaba Türbesi 01","credit":"Sadrettin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Akbaba_T%C3%BCrbesi_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Akbaba_T%C3%BCrbesi_02.jpg/1280px-Akbaba_T%C3%BCrbesi_02.jpg","alt":"Sultandagi - Akbaba Türbesi 02","credit":"Sadrettin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Akbaba_T%C3%BCrbesi_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Akbaba_T%C3%BCrbesi_03.jpg/1280px-Akbaba_T%C3%BCrbesi_03.jpg","alt":"Sultandagi - Akbaba Türbesi 03","credit":"Sadrettin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Akbaba_T%C3%BCrbesi_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Akbaba_T%C3%BCrbesi_04.jpg/1280px-Akbaba_T%C3%BCrbesi_04.jpg","alt":"Sultandagi - Akbaba Türbesi 04","credit":"Sadrettin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Kozluk_mahallesinden_Akbaba_k%C3%B6y%C3%BC_s%C4%B1rt%C4%B1n%C4%B1n_genel_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC%2C_2009.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kozluk_mahallesinden_Akbaba_k%C3%B6y%C3%BC_s%C4%B1rt%C4%B1n%C4%B1n_genel_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC%2C_2009.jpg/1280px-Kozluk_mahallesinden_Akbaba_k%C3%B6y%C3%BC_s%C4%B1rt%C4%B1n%C4%B1n_genel_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC%2C_2009.jpg","alt":"Sultandagi - Kozluk mahallesinden Akbaba köyü sırtının genel görünüşü, 2009","credit":"ႧႤႧႰႨ ႾႠႰႨ","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultandagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227816","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Sultandagi Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Sultandagi","Milli Park","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","futbol sahası"]
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227816"
 ---
@@ -31,7 +31,7 @@ Sultandagi Milli Parkı, yüzyıllar boyunca doğal güzelliğini korumuştur. T
 
 ## Coğrafya
 
-Sultandagi Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. 140 hektarlık yeşil alan, ziyaretçilere geniş yürüyüş yolları ve piknik alanları sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar. Sultandagi Milli Parkı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere benzersiz bir deneyim sağlar.
+Sultandagi Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar. Sultandagi Milli Parkı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere benzersiz bir deneyim sağlar.
 
 ## Flora ve Fauna
 

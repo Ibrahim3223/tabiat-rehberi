@@ -51,7 +51,7 @@ Umur Bey Türbesi, ziyaretçilerine keyifli bir deneyim sunuyor. Türbeye ulaş�
 ## İlginç Bilgiler
 
 - Umur Bey Türbesi, tarihi önemi ile dikkat çekiyor
-- Türbe, 140 hektarlık bir alan üzerine kurulmuş
+
 - Umur Bey Türbesi, plajı ile de ziyaretçilerini cezbediyor
 - Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunmakta
 - Umur Bey Türbesi, Marmara Denizi'ne yakın bir konumda yer alıyor

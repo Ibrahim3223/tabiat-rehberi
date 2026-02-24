@@ -20,7 +20,7 @@ aktiviteler: ["Trekking","Doğa yürüyüşleri","Fotoğrafçılık","Yaban haya
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Kargıdık Tepesi","caption":"Kargıdık Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karg%C4%B1d%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388730","tip":"genel"}]
-description: "Muğla'nın Ege Bölgesi'nde yer alan Kargıdık Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Kargıdık Tepesi","Muğla","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388730"
@@ -28,7 +28,7 @@ wikidata_id: "Q31388730"
 
 # Kargıdık Tepesi
 
-Kargıdık Tepesi, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir doğa harikasıdır. Kargıdık Tepesi, özellikle doğa severlerin ve trekking tutkunlarının gözdesi haline gelmiştir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunar. Kargıdık Tepesi'ne yapılan ziyaretler, genellikle bahar ve yaz aylarında gerçekleştirilir. Bu dönemde, tepe üzerindeki çiçekler açar ve manzara daha da güzelleşir.
+ Kargıdık Tepesi, özellikle doğa severlerin ve trekking tutkunlarının gözdesi haline gelmiştir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunar. Kargıdık Tepesi'ne yapılan ziyaretler, genellikle bahar ve yaz aylarında gerçekleştirilir. Bu dönemde, tepe üzerindeki çiçekler açar ve manzara daha da güzelleşir.
 
 ## Tarihçe
 
@@ -47,8 +47,6 @@ Kargıdık Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır
 Kargıdık Tepesi'ne ziyaret, genellikle bahar ve yaz aylarında gerçekleştirilir. Bu dönemde, tepe üzerindeki çiçekler açar ve manzara daha da güzelleşir. Kargıdık Tepesi'ne ulaşım, genellikle özel araçlarla veya toplu taşıma araçlarıyla gerçekleştirilir. Bu tepe, Muğla'nın merkezi bölgesine uzun bir mesafe uzaklıktadır. Kargıdık Tepesi'ne yapılan ziyaretler, genellikle gün boyu süren gezilerdir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunar.
 
 ## İlginç Bilgiler
-
-- Kargıdık Tepesi, 140 hektarlık bir alanı kapsar.
 
 - Kargıdık Tepesi, özellikle doğa severlerin ve trekking tutkunlarının gözdesi haline gelmiştir.
 - Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunar.

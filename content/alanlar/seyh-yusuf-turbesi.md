@@ -30,7 +30,7 @@ wikidata_id: "Q131391514"
 
 # Şeyh Yusuf Türbesi
 
-Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Diyarbakır'ın Sur ilçesinde bulunan bu mekan, 140 hektarlık bir alana yayılmıştır. Şeyh Yusuf Türbesi, tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
+Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Şeyh Yusuf Türbesi, tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
 
 ## Tarihçe
 
@@ -50,8 +50,6 @@ wikidata_id: "Q131391514"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alana yayılmıştır
-- yaklaşık 200 futbol sahası büyüklüğündedir
 - Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir
 - tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir
 - ziyatçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır

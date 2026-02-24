@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Çiyil Tepesi","caption":"Çiyil Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iyil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829352","tip":"genel"}]
-description: "Afyonkarahisar'ın doğa harikası, 140 hektarlık yeşil alan."
+"
 keywords: ["Afyonkarahisar","doğa","gezi","tepe","çevre","iklim","bitki","hayvan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829352"
@@ -28,7 +28,7 @@ wikidata_id: "Q34829352"
 
 # Çiyil Tepesi
 
-Afyonkarahisar'ın merkezinde yer alan Çiyil Tepesi, yaklaşık 140 hektarlık bir alanı kapsayan ve şehrin önemli doğal güzelliklerinden biri olan bir tepe. Çiyil Tepesi, doğa severlerin ve şehir sakinlerinin keyifli zaman geçirebileceği bir nokta olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Çiyil Tepesi, doğa severlerin ve şehir sakinlerinin keyifli zaman geçirebileceği bir nokta olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Afyonkarahisar'ın merkezinde yer alan Çiyil Tepesi, yaklaşık 140 hektarlık 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - Afyonkarahisar'ın önemli doğal güzelliklerinden biri
 - zengin flora ve fauna çeşitliliği
 - mevsimsel değişimlere bağlı olarak farklı bitki türleri ve hayvanlar

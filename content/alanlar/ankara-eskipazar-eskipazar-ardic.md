@@ -42,8 +42,6 @@ Ankara-Eskipazar-Eskipazar-Ardıc'ı ziyaret etmek, ziyaretçilere unutulmaz bir
 
 ## İlginç Bilgiler
 
-- Ankara-Eskipazar-Eskipazar-Ardıc, 140 hektarlık bir alanı kapsıyor.
-
 - Bölgenin iklimi karasal iklim özellikleri gösteriyor.
 - Bölgede, çeşitli flora ve fauna türleri yer alıyor.
 - Ziyaretçiler, bölgede yer alan doğa yürüyüşleri, fotoğraf çekimi ve doğayla iç içe olmak gibi çeşitli etkinliklerle bu güzel mekanın tadını çıkarabilirler.

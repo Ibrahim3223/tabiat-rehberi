@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Pamukkale%2030.jpg","alt":"Pamukkale manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/TR_Pamukkale_White_Terraces_asv2020-02_img12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/TR_Pamukkale_White_Terraces_asv2020-02_img12.jpg/1280px-TR_Pamukkale_White_Terraces_asv2020-02_img12.jpg","alt":"Pamukkale - TR Pamukkale White Terraces asv2020-02 img12","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/TR_Pamukkale_White_Terraces_asv2020-02_img14.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/TR_Pamukkale_White_Terraces_asv2020-02_img14.jpg/1280px-TR_Pamukkale_White_Terraces_asv2020-02_img14.jpg","alt":"Pamukkale - TR Pamukkale White Terraces asv2020-02 img14","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/TR_Pamukkale_White_Terraces_asv2020-02_img16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TR_Pamukkale_White_Terraces_asv2020-02_img16.jpg/1280px-TR_Pamukkale_White_Terraces_asv2020-02_img16.jpg","alt":"Pamukkale - TR Pamukkale White Terraces asv2020-02 img16","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/TR_Pamukkale_White_Terraces_asv2020-02_img13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TR_Pamukkale_White_Terraces_asv2020-02_img13.jpg/1280px-TR_Pamukkale_White_Terraces_asv2020-02_img13.jpg","alt":"Pamukkale - TR Pamukkale White Terraces asv2020-02 img13","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/TR_Pamukkale_White_Terraces_asv2020-02_img10.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TR_Pamukkale_White_Terraces_asv2020-02_img10.jpg/1280px-TR_Pamukkale_White_Terraces_asv2020-02_img10.jpg","alt":"Pamukkale - TR Pamukkale White Terraces asv2020-02 img10","credit":"A.Savin","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pamukkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q105893254","tip":"genel"}]
-description: "Ege Bölgesi'nin Denizli ilinde yer alan Pamukkale, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir termal kaynak alanıdır. Doğal güzelliği ve tarihi geçmişiyle dikkat çeker."
+ Doğal güzelliği ve tarihi geçmişiyle dikkat çeker."
 keywords: ["Pamukkale","Denizli","Ege Bölgesi","termal kaynak","doğal güzellik","tarih","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q105893254"
@@ -30,7 +30,7 @@ wikidata_id: "Q105893254"
 
 # Pamukkale
 
-Pamukkale, Ege Bölgesi'nin Denizli ilinde yer alan, 140 hektarlık bir termal kaynak alanıdır. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Pamukkale, ziyaretçilerini büyüler. Denizli ilinin merkezine uzun bir mesafe uzaklıkta yer alan Pamukkale, yıl boyunca binlerce ziyaretçi tarafından keşfedilir. Termal suların oluşturduğu pembe ve beyaz renkli travertenler, bu doğal güzelliğin en önemli özelliklerindendir.
+ Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Pamukkale, ziyaretçilerini büyüler. Denizli ilinin merkezine uzun bir mesafe uzaklıkta yer alan Pamukkale, yıl boyunca binlerce ziyaretçi tarafından keşfedilir. Termal suların oluşturduğu pembe ve beyaz renkli travertenler, bu doğal güzelliğin en önemli özelliklerindendir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Pamukkale'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, antik
 
 ## Coğrafya
 
-Pamukkale, Ege Bölgesi'nin Denizli ilinde yer alan, 140 hektarlık bir termal kaynak alanıdır. Pamukkale, deniz seviyesinden yüksek bir konumdate yer alır. Bu bölgenin coğrafyası, genellikle travertenler ve termal sularla kaplıdır. Travertenler, kalsiyum karbonatın çökelmesiyle oluşur ve pembe, beyaz gibi çeşitli renklerde olabilir. Pamukkale'nin iklimi, Akdeniz ikliminin özellikleri taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlıdır. Bu bölgede, çeşitli bitki türleri bulunur ve fauna da oldukça zengindir. Pamukkale, doğal güzelliği ve coğrafi özellikleri ile dikkat çeker.
+ Pamukkale, deniz seviyesinden yüksek bir konumdate yer alır. Bu bölgenin coğrafyası, genellikle travertenler ve termal sularla kaplıdır. Travertenler, kalsiyum karbonatın çökelmesiyle oluşur ve pembe, beyaz gibi çeşitli renklerde olabilir. Pamukkale'nin iklimi, Akdeniz ikliminin özellikleri taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlıdır. Bu bölgede, çeşitli bitki türleri bulunur ve fauna da oldukça zengindir. Pamukkale, doğal güzelliği ve coğrafi özellikleri ile dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Pamukkale, yıl boyunca binlerce ziyaretçi tarafından keşfedilir. Bu bölgeye
 - Bu bölgenin termal suları, şifalı olduğu düşünülür.
 - Pamukkale, deniz seviyesinden yüksek bir konumdate yer alır.
 - Bu bölgede, çeşitli bitki türleri bulunur ve fauna da oldukça zengindir.
-- Pamukkale, 140 hektarlık bir termal kaynak alanıdır.
+

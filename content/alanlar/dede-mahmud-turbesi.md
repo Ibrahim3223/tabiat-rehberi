@@ -51,7 +51,7 @@ Dede Mahmud Türbesi'ni ziyaret etmek için, Pasinler'e ulaşmak gerekir. Türbe
 ## İlginç Bilgiler
 
 - Dede Mahmud Türbesi, Pasinler'in önemli turistik mekanlarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir arazide yer alır.
+
 - Dede Mahmud, bölgenin tarihi figürleri arasında önemli bir yere sahiptir.
 - Türbe, restore edilmiştir ve günümüze kadar ulaşmıştır.
 - Bölgede, çeşitli bitki türleri ve fauna bulunur.

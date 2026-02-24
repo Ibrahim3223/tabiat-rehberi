@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Kestel-Marienkapelle.jpg","alt":"Kestel manzarası","credit":"Störfix","license":"cc-by-sa-3.0-de"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/Kestel-Hauskapelle.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kestel-Hauskapelle.jpg/1280px-Kestel-Hauskapelle.jpg","alt":"Kestel - Kestel-Hauskapelle","credit":"Störfix","license":"cc-by-sa-3.0-de"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/20230212_Barakfakih%2C_Kestel.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20230212_Barakfakih%2C_Kestel.jpg/1280px-20230212_Barakfakih%2C_Kestel.jpg","alt":"Kestel - 20230212 Barakfakih, Kestel","credit":"Basak","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/20230212_Barakfakih%2C_Kestel_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20230212_Barakfakih%2C_Kestel_2.jpg/1280px-20230212_Barakfakih%2C_Kestel_2.jpg","alt":"Kestel - 20230212 Barakfakih, Kestel 2","credit":"Basak","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F_Kestel_%D0%B2%D0%B8%D0%B4_%D0%B8%D0%B7_%D0%BE%D1%82%D0%B5%D0%BB%D1%8F_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F_Kestel_%D0%B2%D0%B8%D0%B4_%D0%B8%D0%B7_%D0%BE%D1%82%D0%B5%D0%BB%D1%8F_-_panoramio.jpg/1280px-%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F_Kestel_%D0%B2%D0%B8%D0%B4_%D0%B8%D0%B7_%D0%BE%D1%82%D0%B5%D0%BB%D1%8F_-_panoramio.jpg","alt":"Kestel - Турция Kestel вид из отеля - panoramio","credit":"Андрей Груздев","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/20230212_Barakfakih%2C_Kestel_4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/20230212_Barakfakih%2C_Kestel_4.jpg/1280px-20230212_Barakfakih%2C_Kestel_4.jpg","alt":"Kestel - 20230212 Barakfakih, Kestel 4","credit":"Basak","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestel","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227004","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde bulunan Kestel, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor"
+
 keywords: ["Kestel","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227004"
@@ -31,7 +31,7 @@ Kestel'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, far
 
 ## Coğrafya
 
-Kestel, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor. Kestel'in coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunmaktadır. Burada, mevsimsel değişimlerle birlikte renk değiştiren manzaralarla karşılaşma mümkün. Kestel, çevresindeki diğer doğal alanlarla birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerine geniş bir doğa serisi sunuyor. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer.
+Kestel, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Kestel'in coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunmaktadır. Burada, mevsimsel değişimlerle birlikte renk değiştiren manzaralarla karşılaşma mümkün. Kestel, çevresindeki diğer doğal alanlarla birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerine geniş bir doğa serisi sunuyor. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Kestel, ziyaretçilerine doğanın güzelliğini ve zengin fauna çeşitliliğin
 
 ## İlginç Bilgiler
 
-- Kestel, 140 hektarlık yeşil alanı ile dikkat çekiyor
 - Burada, zengin fauna çeşitliliği bulunmaktadır
 - Kestel, doğa severlerin ziyaret ettiği bir yer olarak bilinir
 - Bu bölge, mevsimsel değişimlerle birlikte renk değiştiren manzaralar sunuyor

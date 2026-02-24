@@ -50,7 +50,7 @@ Söylemez Baba Kümbeti'ni ziyaret etmek, Karayazı'nın tarihini ve kültürün
 ## İlginç Bilgiler
 
 - Söylemez Baba Kümbeti, Karayazı'nın en önemli tarihi yapılarından biri
-- Bu kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Söylemez Baba Kümbeti, Karayazı'nın merkezinde yer alıyor
 - Bu bölge, çeşitli coğrafi özelliklere sahip
 - Söylemez Baba Kümbeti'nin çevresi, çeşitli bitki türleri ve hayvanlarla dolu

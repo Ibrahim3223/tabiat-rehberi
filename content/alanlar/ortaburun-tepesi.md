@@ -28,7 +28,7 @@ wikidata_id: "Q31386990"
 
 # Ortaburun Tepesi
 
-Ortaburun Tepesi, Bolu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. Ortaburun Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem manzaralarıyla baş başa bırakıyor. Bu tepe, hem doğa severlerin hem de macera arayanların ilgisini çekiyor. Ortaburun Tepesi, geniş açıkları ve yemyeşil ormanlarıyla ziyaretçilerini büyülüyor.
+Ortaburun Tepesi, Bolu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ortaburun Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem manzaralarıyla baş başa bırakıyor. Bu tepe, hem doğa severlerin hem de macera arayanların ilgisini çekiyor. Ortaburun Tepesi, geniş açıkları ve yemyeşil ormanlarıyla ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ortaburun Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tep
 
 ## Coğrafya
 
-Ortaburun Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. Ortaburun Tepesi, yemyeşil ormanlarıyla ve geniş açıklarıyla ziyaretçilerini büyülüyor. Bu tepe, Karadeniz Bölgesi'nin ikliminin etkisi altında. Ortaburun Tepesi, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle baş başa bırakıyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını sunan Ortaburun Tepesi, sonbahar ve kış aylarında ise bembeyaz bir örtüye bürünüyor. Ortaburun Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin coğrafi güzellikleriyle baş başa bırakıyor.
+Ortaburun Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Ortaburun Tepesi, yemyeşil ormanlarıyla ve geniş açıklarıyla ziyaretçilerini büyülüyor. Bu tepe, Karadeniz Bölgesi'nin ikliminin etkisi altında. Ortaburun Tepesi, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle baş başa bırakıyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını sunan Ortaburun Tepesi, sonbahar ve kış aylarında ise bembeyaz bir örtüye bürünüyor. Ortaburun Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin coğrafi güzellikleriyle baş başa bırakıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Ortaburun Tepesi'ni ziyaret etmek, Karadeniz Bölgesi'nin doğal güzelliklerini
 
 ## İlginç Bilgiler
 
-- Ortaburun Tepesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor.
 - Bu tepe, yemyeşil ormanlarıyla ve geniş açıklarıyla ziyaretçilerini büyülüyor.
 - Ortaburun Tepesi, çeşitli bitki türleri ve zengin fauna sunuyor.
 - Bu tepe, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor.

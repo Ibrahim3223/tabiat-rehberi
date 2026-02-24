@@ -48,7 +48,6 @@ Tepesidelik Tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu b
 
 ## İlginç Bilgiler
 
-- Tepesidelik Tepe, 140 hektarlık bir alanı kaplar.
 - Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir.
 - Tepesidelik Tepe, zengin bir flora ve fauna'ya sahiptir.
 - Bu tepe, deniz seviyesinden yüksekliği ile birlikte çevredeki diğer tepelerden ayırt edilebilir.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Tarihî önemi hakkında b
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Eflatunpınar Sit Alanı","caption":"Eflatunpınar Sit Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eflatunp%C4%B1nar%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226400","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Eflatunpınar Sit Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Eflatunpınar","Sit Alanı","İç Anadolu Bölgesi","Doğa","Tarih","Çevre","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226400"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226400"
 
 # Eflatunpınar Sit Alanı
 
- Bu bölge, doğal güzellikleri ve tarihi önemiyle dikkat çekmektedir. Ziyaretçiler, bu alanda çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Eflatunpınar Sit Alanı, hem doğa severler hem de tarihe ilgi duyanlar için önemli bir destinasyon olarak karşımıza çıkmaktadır. 140 hektarlık bu yeşil alan, ziyaretçilerini büyülemeye hazır.
+ Bu bölge, doğal güzellikleri ve tarihi önemiyle dikkat çekmektedir. Ziyaretçiler, bu alanda çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Eflatunpınar Sit Alanı, hem doğa severler hem de tarihe ilgi duyanlar için önemli bir destinasyon olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Eflatunpınar Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve coğrafi açıda
 Eflatunpınar Sit Alanı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabilir, flora ve faunayı yakından tanıyabilir ve tarihi önemi hakkında bilgi edinebilirler. Eflatunpınar Sit Alanı, ziyaretçilerini büyülemeye hazır. Ziyaretçiler, bu bölgeye nasıl gidileceği hakkında bilgi sahibi olmak isteyebilirler. Eflatunpınar Sit Alanı, İç Anadolu Bölgesi'nde yer aldığı için, ziyaretçiler buraya çeşitli ulaşım araçları ile rahatça ulaşabilirler. Ziyaretçiler, Eflatunpınar Sit Alanı'nı ziyaret etmek için en uygun zamanı merak ediyor olabilirler. Bu bölge, tüm yıl boyunca ziyaret edilebilir olup, ziyaretçiler, mevsimsel değişimlere göre planlarını yapabilirler.
 
 ## İlginç Bilgiler
-
-- Eflatunpınar Sit Alanı, 140 hektarlık bir alana sahiptir.
 
 - Bu bölge, İç Anadolu Bölgesi'nde yer almaktadır.
 - Eflatunpınar Sit Alanı, tüm yıl boyunca ziyaret edilebilir.

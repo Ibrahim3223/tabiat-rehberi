@@ -37,7 +37,7 @@ Kumbahçe Plajı, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyunca, birç
 
 ## Coğrafya
 
-Kumbahçe Plajı, Muğla'nın en güzel noktalarından birini oluşturur. Plaj, Ege Bölgesi'nin en güzel kıyılarına sahiptir ve ziyaretçilere unutulmaz bir manzara sunar. Kumbahçe Plajı, 140 hektarlık bir alana sahiptir ve bu genişlik, plajın birçok ziyaretçiye aynı anda hizmet vermesini sağlar. Plajın genişliği ve güzelliği, birçok turisti buraya çekmektedir. Kumbahçe Plajı, Muğla'nın turizm açısından önemli bir noktasıdır ve her yıl birçok ziyaretçi tarafından tercih edilmektedir. Plajın coğrafi konumu, ziyaretçilere birçok avantaj sunar. Plaj, Muğla'nın merkezine yakın bir konumda bulunmakta ve ulaşım oldukça kolaydır. Kumbahçe Plajı, Ege Bölgesi'nin en güzel noktalarından birini oluşturur ve ziyaretçilere unutulmaz bir tatil deneyimi sunar.
+Kumbahçe Plajı, Muğla'nın en güzel noktalarından birini oluşturur. Plaj, Ege Bölgesi'nin en güzel kıyılarına sahiptir ve ziyaretçilere unutulmaz bir manzara sunar. Plajın genişliği ve güzelliği, birçok turisti buraya çekmektedir. Kumbahçe Plajı, Muğla'nın turizm açısından önemli bir noktasıdır ve her yıl birçok ziyaretçi tarafından tercih edilmektedir. Plajın coğrafi konumu, ziyaretçilere birçok avantaj sunar. Plaj, Muğla'nın merkezine yakın bir konumda bulunmakta ve ulaşım oldukça kolaydır. Kumbahçe Plajı, Ege Bölgesi'nin en güzel noktalarından birini oluşturur ve ziyaretçilere unutulmaz bir tatil deneyimi sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kumbahçe Plajı, ziyaretçilere birçok avantaj sunar. Plaj, Muğla'nın merkez
 ## İlginç Bilgiler
 
 - Kumbahçe Plajı, Muğla'nın en çok ziyaret edilen plajlarından biridir.
-- Plaj, 140 hektarlık bir alana sahiptir.
+
 - Kumbahçe Plajı, Ege Bölgesi'nin en güzel noktalarından birini oluşturur.
 - Plaj, birçok çeşit bitki ve hayvan türüne ev sahipliği yapar.
 - Kumbahçe Plajı, her yıl birçok ziyaretçi tarafından tercih edilmektedir.

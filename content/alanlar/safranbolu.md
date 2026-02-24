@@ -23,7 +23,7 @@ wikidata_id: "Q108228691"
 
 # SAFRANBOLU
 
-Safranbolu, İç Anadolu Bölgesi'nin Karadeniz'e kıyısı olan bölümünde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve tarihi geçmişi ile dikkat çeker. Safranbolu'nun yerleşim yeri, tarihi evleri ve geleneksel mimarisi ile ünlüdür. Safranbolu'nun tarihi ve doğal güzellikleri, ziyaretçileri için unutulmaz bir deneyim sunar.
+Safranbolu, İç Anadolu Bölgesi'nin Karadeniz'e kıyısı olan bölümünde yer alır. Safranbolu'nun yerleşim yeri, tarihi evleri ve geleneksel mimarisi ile ünlüdür. Safranbolu'nun tarihi ve doğal güzellikleri, ziyaretçileri için unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

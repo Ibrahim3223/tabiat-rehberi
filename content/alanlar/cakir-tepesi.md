@@ -36,7 +36,7 @@ wikidata_id: "Q34827817"
 
 ## Coğrafya
 
-Çakır Tepesi, Yozgat'ın coğrafi yapısını oluşturan önemli bir tepe olup, bölgenin genel coğrafyasını etkiliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi çeşitli bitki türleriyle dolu. Çakır Tepesi, bölgenin iklimini de etkiliyor. Burada, karasal iklim hüküm sürüyor ve mevsimsel değişimler oldukça belirgin. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Çakır Tepesi, çevresi ile birlikte bir bütün olarak, bölgenin coğrafi çeşitliliğini gösteriyor. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkiliyor. Çakır Tepesi'nin etrafında, çeşitli su kaynakları ve akarsular bulunuyor.
+Çakır Tepesi, Yozgat'ın coğrafi yapısını oluşturan önemli bir tepe olup, bölgenin genel coğrafyasını etkiliyor. Çakır Tepesi, bölgenin iklimini de etkiliyor. Burada, karasal iklim hüküm sürüyor ve mevsimsel değişimler oldukça belirgin. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurak geçiyor. Çakır Tepesi, çevresi ile birlikte bir bütün olarak, bölgenin coğrafi çeşitliliğini gösteriyor. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkiliyor. Çakır Tepesi'nin etrafında, çeşitli su kaynakları ve akarsular bulunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34827817"
 ## İlginç Bilgiler
 
 - Çakır Tepesi, bölgenin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Çakır Tepesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Buraya, ilkbahar ve sonbahar aylarında ziyaret etmek en ideal.
 - Çakır Tepesi, doğa severler için bir cennet.

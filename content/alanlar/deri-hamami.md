@@ -38,7 +38,7 @@ Deri Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bö
 
 ## Coğrafya
 
-Deri Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, İskilip'in merkezine uzun bir mesafe uzaklıktadır. Deri Hamamı, 140 hektarlık bir alanı kaplamaktadır. Deri Hamamı'nın deniz suyu, m ve berrak bir yapıya sahiptir. Bu plaj, deniz suyu ve kumsalın güzelliği ile birlikte, ziyaretçilere unutulmaz bir deneyim sunar. Deri Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, her yıl binlerce turisti çekerek, İskilip'in turizm gelirlerine katkıda bulunmaktadır.
+Deri Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, İskilip'in merkezine uzun bir mesafe uzaklıktadır. Deri Hamamı'nın deniz suyu, m ve berrak bir yapıya sahiptir. Bu plaj, deniz suyu ve kumsalın güzelliği ile birlikte, ziyaretçilere unutulmaz bir deneyim sunar. Deri Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, her yıl binlerce turisti çekerek, İskilip'in turizm gelirlerine katkıda bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Deri Hamamı, deniz suyu ve kumsalın güzelliği ile birlikte, ziyaretçilere u
 
 - Deri Hamamı, İskilip'in en güzel plajlarından biridir.
 - Bu plaj, Karadeniz Bölgesi'nin en güzel kumsallarından birine sahiptir.
-- Deri Hamamı, 140 hektarlık bir alanı kaplamaktadır.
+
 - Bu plaj, deniz suyu ve kumsalın güzelliği ile birlikte, ziyaretçilere unutulazar bir deneyim sunar.
 - Deri Hamamı, mevsimsel değişimlere göre, farklı türde bitki ve hayvanları barındırmaktadır.

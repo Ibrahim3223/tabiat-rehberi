@@ -29,7 +29,7 @@ wikidata_id: "Q134728121"
 
 # Hierapolis Aziz Philippus Mezarı
 
-Hierapolis Aziz Philippus Mezarı, Ege Bölgesi'nin önemli tarihi merkezlerinden biri olan Pamukkale'de yer alır. Bu tarihi mezar, yaklaşık olarak 2000 yıllık bir geçmişe sahiptir ve Hristiyanlığın erken dönemlerinde önemli bir figür olan Aziz Philippus'a adanmıştır. 140 hektarlık Hierapolis antik kentinde bulunan mezar, ziyaretçilerini bu tarihi geçmişi keşfetmeye davet ediyor. Mezarın mimarisi ve tarihi önemi, Hierapolis'i ziyaret edenlerin ilgisini çekmektedir.
+Hierapolis Aziz Philippus Mezarı, Ege Bölgesi'nin önemli tarihi merkezlerinden biri olan Pamukkale'de yer alır. Bu tarihi mezar, yaklaşık olarak 2000 yıllık bir geçmişe sahiptir ve Hristiyanlığın erken dönemlerinde önemli bir figür olan Aziz Philippus'a adanmıştır. Mezarın mimarisi ve tarihi önemi, Hierapolis'i ziyaret edenlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Hierapolis Aziz Philippus Mezarı, ziyaretçilerini bekliyor. Mezar, Hierapolis 
 
 - Hierapolis Aziz Philippus Mezarı, 2000 yıllık bir geçmişe sahiptir.
 - Mezar, Hierapolis antik kentinde yer alır.
-- Antik kent, 140 hektarlık bir alanda kurulmuştur.
+
 - Mezar, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiştir.
 - Hierapolis, Ege Bölgesi'nin önemli bir coğrafi konumunda yer alır.

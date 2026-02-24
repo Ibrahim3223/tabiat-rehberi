@@ -22,7 +22,7 @@ wikidata_id: "Q108227658"
 
 # Kastamonu-Inebolu-Gemiciler Kızılçam
 
-Kastamonu'nun doğal güzellikleri arasında yer alan İnebolu-Gemiciler Kızılçam milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. İç Anadolu Bölgesi'nde bulunan bu milli park, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Kastamonu'nun yeşili, İnebolu'nun güzelliği ve Gemiciler'in zengin doğası bir araya geldiğinde, ortaya gerçek bir doğa harikası çıkıyor.
+ İç Anadolu Bölgesi'nde bulunan bu milli park, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Kastamonu'nun yeşili, İnebolu'nun güzelliği ve Gemiciler'in zengin doğası bir araya geldiğinde, ortaya gerçek bir doğa harikası çıkıyor.
 
 ## Tarihçe
 

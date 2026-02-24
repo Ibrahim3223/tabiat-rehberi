@@ -43,7 +43,7 @@ Corum-Boyabat-Aksu-Saricam milli parkını ziyaret etmek, doğa severler için b
 ## İlginç Bilgiler
 
 - Milli park, Çorum'un merkezine yakın bir konumda yer alıyor
-- 140 hektarlık bir alanı kapsıyor
+
 - Doğa severler ve fotoğraf meraklıları için ideal bir destinasyon
 - Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor
 - Çeşitlilik gösteren flora ve faunaya ev sahipliği yapıyor

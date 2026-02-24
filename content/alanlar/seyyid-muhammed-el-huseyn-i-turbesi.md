@@ -50,7 +50,7 @@ Seyyid Muhammed El Hüseyn-i Türbesi'ni ziyaret etmek, Mardin'e gelenler için 
 ## İlginç Bilgiler
 
 - Seyyid Muhammed El Hüseyn-i Türbesi, Mardin'in en önemli dini merkezlerinden biri.
-- Türbe, 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Bölge, coğrafi olarak zengin bir çeşitlilik gösteriyor.
 - Seyyid Muhammed El Hüseyn-i Türbesi, yıl boyunca ziyaret edilebilir.
 - Türbeye ulaşım, Artuklu ilçesinden kolayca sağlanabiliyor.

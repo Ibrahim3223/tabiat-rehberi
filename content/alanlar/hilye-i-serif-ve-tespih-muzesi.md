@@ -21,7 +21,7 @@ aktiviteler: ["Müze gezisi","Bahçe turu","Sanat eserleri incelemesi","Tarih ke
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Hilye-i Şerif ve Tespih Müzesi","caption":"Hilye-i Şerif ve Tespih Müzesi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hilye-i%20%C5%9Eerif%20ve%20Tespih%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949494","tip":"genel"}]
-description: "İstanbul'un merkezinde, Marmara Bölgesi'nde yer alan Hilye-i Şerif ve Tespih Müzesi, 140 hektarlık yeşil alanıyla dikkat çekiyor."
+"
 keywords: ["Hilye-i Şerif","Tespih Müzesi","İstanbul","Marmara Bölgesi","Müze","Yeşil Alan","Tarih","Sanat","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132949494"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949494"
 
 # Hilye-i Şerif ve Tespih Müzesi
 
-Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. 140 hektarlık yeşil alanıyla dikkat çekiyor. Müzenin tarihi geçmişi, sanatseverleri ve tarih meraklılarını cezbetmeye devam ediyor. Müze, ziyaretçilerini sanatın ve tarihin zenginliklerine davet ediyor.
+Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müzenin tarihi geçmişi, sanatseverleri ve tarih meraklılarını cezbetmeye devam ediyor. Müze, ziyaretçilerini sanatın ve tarihin zenginliklerine davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hilye-i Şerif ve Tespih Müzesi, tarihi geçmişiyle dikkat çekiyor. Müzenin 
 
 ## Coğrafya
 
-Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müze, 140 hektarlık yeşil alanıyla dikkat çekiyor. Müzenin etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilere doğanın güzelliğini sunuyor. Müzenin konumu, ziyaretçilere geniş bir perspektif sunuyor ve şehrin panoramik manzarasını keşfetmeye olanak tanıyor. Müzenin coğrafyası, ziyaretçileri sanatın ve tarihin zenginliklerine davet ediyor.
+Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müzenin etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilere doğanın güzelliğini sunuyor. Müzenin konumu, ziyaretçilere geniş bir perspektif sunuyor ve şehrin panoramik manzarasını keşfetmeye olanak tanıyor. Müzenin coğrafyası, ziyaretçileri sanatın ve tarihin zenginliklerine davet ediyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hilye-i Şerif ve Tespih Müzesi'ni ziyaret etmek, sanatseverler ve tarih merakl
 ## İlginç Bilgiler
 
 - Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde yer alıyor.
-- Müze, 140 hektarlık yeşil alanıyla dikkat çekiyor.
+
 - Müzenin koleksiyonunda yer alan eserler, sanatın ve tarihin güzelliğini sergiliyor.
 - Müzenin bahçesi, mevsimsel değişimlere göre farklı güzelliğini sergiliyor.
 - Müzenin konumu, ziyaretçilere geniş bir perspektif sunuyor ve şehrin panoramik manzarasını keşfetmeye olanak tanıyor.

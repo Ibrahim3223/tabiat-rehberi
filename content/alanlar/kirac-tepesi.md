@@ -49,7 +49,7 @@ Kıraç Tepesi, ziyaretçilerine, doğa ile iç içe zaman geçirebileceği ve b
 ## İlginç Bilgiler
 
 - Kıraç Tepesi, Eskişehir'in önemli turizm noktalarından biri olarak bilinir.
-- Bu tepe, 140 hektarlık bir yeşil alanı sunar.
+
 - Tepenin etrafında, çeşitli yürüyüş yolları ve piknik alanları bulunur.
 - Bu bölgede, çok sayıda bitki ve hayvan türü bulunur.
 - Kıraç Tepesi, ziyaretçilerine, doğa ile iç içe zaman geçirebileceği bir mekan sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31385636"
 
 # Kırklar Tepesi
 
-Kırklar Tepesi, İç Anadolu Bölgesi'nde bulunan Konya ilinin tarihi ve coğrafi açıdan önemli bir bölgesidir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir. Kırklar Tepesi, Konya'nın merkezine yakın bir konumda bulunmakta ve şehrin önemli bir bölümünü panoramik olarak görmeye olanak tanıyan bir noktaya sahiptir.
+Kırklar Tepesi, İç Anadolu Bölgesi'nde bulunan Konya ilinin tarihi ve coğrafi açıdan önemli bir bölgesidir. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir. Kırklar Tepesi, Konya'nın merkezine yakın bir konumda bulunmakta ve şehrin önemli bir bölümünü panoramik olarak görmeye olanak tanıyan bir noktaya sahiptir.
 
 ## Tarihçe
 

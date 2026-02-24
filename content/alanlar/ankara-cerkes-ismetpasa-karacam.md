@@ -42,7 +42,6 @@ Ankara-Cerkes-Ismetpaşa Karacam milli parkını ziyaret etmek, doğa severler v
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kaplıyor.
 - Parkın coğrafi yapısı, dağlar, vadiler ve ormanlık alanlardan oluşuyor.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 - Parkın flora ve fauna zenginliği, mevsimsel değişimlere göre değişiyor.

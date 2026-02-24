@@ -22,7 +22,7 @@ wikidata_id: "Q108228381"
 
 # Izmir-Selcuk Gebekirse Golu
 
-Izmir-Selcuk Gebekirse Golu, Ege Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. Yaklaşık 140 hektarlık bir alanı kapsayan bu milli park, doğal güzellikleri ve biyolojik çeşitliliğiyle dikkat çekiyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Gebekirse Golu, çevresindeki dağların eteklerinde yer alan bir sulak alan olarak, çeşitli bitkilerin ve hayvanların yaşam alanı olarak hizmet veriyor.
+Izmir-Selcuk Gebekirse Golu, Ege Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. Gebekirse Golu, çevresindeki dağların eteklerinde yer alan bir sulak alan olarak, çeşitli bitkilerin ve hayvanların yaşam alanı olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Izmir-Selcuk Gebekirse Golu'nu ziyaret etmek, doğayla iç içe bir deneyim sunu
 ## İlginç Bilgiler
 
 - Gebekirse Golu, Ege Bölgesi'nin önemli doğal alanlarından biri
-- Bölge, 140 hektarlık bir alanı kapsıyor
+
 - Gebekirse Golu, çeşitli bitkilerin ve hayvanların yaşam alanı olarak hizmet veriyor
 - Milli park olarak ilan edilmesinin ardından, koruma altına alınmış ve doğal güzelliğinin korunmasına önem verilmiştir
 - Ziyaretçiler, bu bölgede, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleyebilirler

@@ -37,7 +37,7 @@ Muhterem Efendi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. �
 
 ## Coğrafya
 
-Muhterem Efendi Türbesi, Fatih, İstanbul'da bulunmaktadır. Marmara Bölgesi'nin önemli bir częsi olan bu bölge, yüksek bir konumdadir. Türbe ve plaj, 140 hektarlık bir alan üzerinde kurulmuştur. Bölge, deniz ve kara iklimlerinin birleştiği bir noktada bulunmaktadır. Kışın ılıman, yazın sıcak ve nemli bir iklimi vardır. Ziyaretçiler, türbenin ve plajın güzelliğini जबकar, aynı zamanda İstanbul'un tarihi ve doğal güzelliğini de deneyimleyebilirler. Muhterem Efendi Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak tanımlanabilir. Türbe ve plaj, ziyaretçilere hem tarihi hem de doğal güzelliği sunar.
+Muhterem Efendi Türbesi, Fatih, İstanbul'da bulunmaktadır. Marmara Bölgesi'nin önemli bir częsi olan bu bölge, yüksek bir konumdadir. Bölge, deniz ve kara iklimlerinin birleştiği bir noktada bulunmaktadır. Kışın ılıman, yazın sıcak ve nemli bir iklimi vardır. Ziyaretçiler, türbenin ve plajın güzelliğini जबकar, aynı zamanda İstanbul'un tarihi ve doğal güzelliğini de deneyimleyebilirler. Muhterem Efendi Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak tanımlanabilir. Türbe ve plaj, ziyaretçilere hem tarihi hem de doğal güzelliği sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Muhterem Efendi Türbesi ve plajını ziyaret etmek için, ziyaretçiler Fatih, 
 
 - Muhterem Efendi Türbesi, İstanbul'un önemli tarihi ve dini merkezlerinden biridir.
 - Türbe, Muhterem Efendi'nin mezarı üzerine inşa edilmiştir.
-- Bölge, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Türbe ve plaj, yıl boyunca açık olup, ziyaretçiler her zaman ziyaret edebilirler.
 - En iyi ziyaret dönemi ilkbahar ve yaz aylarıdır.

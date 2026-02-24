@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Çevre gezisi","Ek
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"KÖSE_TP","caption":"KÖSE_TP","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%96SE_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228774","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["İç Anadolu Bölgesi","Milli Park","doğa","gezi","yaban hayatı","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228774"
@@ -30,7 +30,7 @@ KÖSE_TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgeni
 
 ## Coğrafya
 
-KÖSE_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla kaplıdır. 140 hektarlık alanı, ziyaretçilere geniş bir gezi alanı sunar. Milli parkın coğrafi konumu, çeşitli bitki türlerinin ve yaban hayatının gelişmesine uygunConditions sağlar. İklim, mevsimsel değişimlere göre farklılık gösterir, ancak genel olarak İç Anadolu Bölgesi'nin iklim koşullarını taşır. KÖSE_TP, ziyaretçilerine, coğrafi çeşitlili ve doğal güzellikler sunar. Milli parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlar.
+KÖSE_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla kaplıdır. Milli parkın coğrafi konumu, çeşitli bitki türlerinin ve yaban hayatının gelişmesine uygunConditions sağlar. İklim, mevsimsel değişimlere göre farklılık gösterir, ancak genel olarak İç Anadolu Bölgesi'nin iklim koşullarını taşır. KÖSE_TP, ziyaretçilerine, coğrafi çeşitlili ve doğal güzellikler sunar. Milli parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Flora ve Fauna
 

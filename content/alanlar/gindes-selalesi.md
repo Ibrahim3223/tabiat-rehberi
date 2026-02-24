@@ -29,7 +29,7 @@ Gindeş Şelalesi, yüzyıllar boyunca bölgenin en önemli doğal güzellikleri
 
 ## Coğrafya
 
-Gindeş Şelalesi, Rize ilinin sınırları içerisinde yer alıyor ve Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biri. Bu şelale, 140 hektarlık bir alanı kapsıyor ve Karadeniz Bölgesi'nin en büyük şelalelerinden biri olarak kabul ediliyor. Şelalenin yüksekliği, yaklaşık 10 metre ve su akışı, yıl boyunca sürer. Şelalenin çevresinde, çeşitli bitki türleri ve hayvanlar yaşar, bu da burayı doğa severler için bir cennet haline getirir. Gindeş Şelalesi, Karadeniz Bölgesi'nin iklimiyle uyumlu bir şekilde, nemli ve ılıman bir ortamda yer alıyor. Bu şelale, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı, ilkbahar ve yaz aylarıdır.
+Gindeş Şelalesi, Rize ilinin sınırları içerisinde yer alıyor ve Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biri. Şelalenin yüksekliği, yaklaşık 10 metre ve su akışı, yıl boyunca sürer. Şelalenin çevresinde, çeşitli bitki türleri ve hayvanlar yaşar, bu da burayı doğa severler için bir cennet haline getirir. Gindeş Şelalesi, Karadeniz Bölgesi'nin iklimiyle uyumlu bir şekilde, nemli ve ılıman bir ortamda yer alıyor. Bu şelale, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı, ilkbahar ve yaz aylarıdır.
 
 ## Flora ve Fauna
 

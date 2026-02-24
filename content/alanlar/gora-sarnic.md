@@ -36,7 +36,7 @@ Gora Sarnıç'ın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkları
 
 ## Coğrafya
 
-Gora Sarnıç, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi çeşitli bitki türleri ile zenginleştirilmiş. Gora Sarnıç'ın coğrafyası, genellikle engebeli ve dağlık bir yapıya sahip. Bu bölgede, mevsimsel değişimler belirgin bir şekilde hissediliyor. Kış aylarında karla kaplı olan Gora Sarnıç, ilkbahar ve yaz aylarında ise yeşilin çeşitli tonlarını sergiliyor. Bu bölge, aynı zamanda fauna açısından da zengindir. Çeşitli kuş türleri, memeliler ve diğer canlılar, Gora Sarnıç'ın zengin ekolojisini oluşturuyor.
+Gora Sarnıç, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Gora Sarnıç'ın coğrafyası, genellikle engebeli ve dağlık bir yapıya sahip. Bu bölgede, mevsimsel değişimler belirgin bir şekilde hissediliyor. Kış aylarında karla kaplı olan Gora Sarnıç, ilkbahar ve yaz aylarında ise yeşilin çeşitli tonlarını sergiliyor. Bu bölge, aynı zamanda fauna açısından da zengindir. Çeşitli kuş türleri, memeliler ve diğer canlılar, Gora Sarnıç'ın zengin ekolojisini oluşturuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gora Sarnıç, ziyaretçiler için birçok aktivite sunuyor. Doğa yürüyüşle
 
 ## İlginç Bilgiler
 
-- Gora Sarnıç, 140 hektarlık bir alanı kaplıyor
 - Bu bölge, yaban hayatı için önemli bir yaşam alanı
 - Gora Sarnıç, çeşitli bitki türleri ile kaplı
 - Bu bölge, mevsimsel değişimlere bağlı olarak farklı bir güzelliğe sahip

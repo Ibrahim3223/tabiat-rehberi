@@ -38,7 +38,7 @@ Sarıgazi Türbesi'nin tarihi geçmişi oldukça eskidir. Bu tarihi mekan, yüzy
 
 ## Coğrafya
 
-Sarıgazi Türbesi, İstanbul'un Sancaktepe ilçesinde yer almakta ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Bu mekan, denize yakın bir konumda bulunmakta ve plaj severlerin ilgisini çekmektedir. Sarıgazi Türbesi'nin coğrafi konumu, ziyaretçilere deniz ve kıyıların güzelliğini deneyimlemek için ideal bir ortam sunmaktadır. Mekan, yaklaşık 140 hektarlık bir alanı kaplamakta ve bu genişlik, ziyaretçilere geniş bir alan sunmaktadır. Sarıgazi Türbesi'nin iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir. Bu bölge, genellikle ılıman bir iklim özelliği göstermekte ve ziyaretçilere dört mevsim boyunca gezebilecekleri bir ortam sunmaktadır. Sarıgazi Türbesi'nin coğrafi konumu ve iklimi, ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sağlamaktadır.
+Sarıgazi Türbesi, İstanbul'un Sancaktepe ilçesinde yer almakta ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Bu mekan, denize yakın bir konumda bulunmakta ve plaj severlerin ilgisini çekmektedir. Sarıgazi Türbesi'nin coğrafi konumu, ziyaretçilere deniz ve kıyıların güzelliğini deneyimlemek için ideal bir ortam sunmaktadır. Sarıgazi Türbesi'nin iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir. Bu bölge, genellikle ılıman bir iklim özelliği göstermekte ve ziyaretçilere dört mevsim boyunca gezebilecekleri bir ortam sunmaktadır. Sarıgazi Türbesi'nin coğrafi konumu ve iklimi, ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Sarıgazi Türbesi'ni ziyaret etmek, ziyaretçilere keyifli bir gün geçirmeler
 ## İlginç Bilgiler
 
 - Sarıgazi Türbesi, İstanbul'un Sancaktepe ilçesinde yer almaktadır
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplamaktadır
+
 - Sarıgazi Türbesi, plaj severlerin ilgisini çekmektedir
 - Mekan, çeşitli bitki türleri ile kaplıdır
 - Sarıgazi Türbesi, doğal bir habitat sunmaktadır

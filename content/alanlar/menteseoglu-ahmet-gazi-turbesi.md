@@ -37,7 +37,7 @@ Menteşeoğlu Ahmet Gazi Türbesi, 13. yüzyılda inşa edilmiştir. Bu dönemde
 
 ## Coğrafya
 
-Menteşeoğlu Ahmet Gazi Türbesi, Muğla'nın Milas ilçesinde, Ege Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Denizin güzelliği ve plajın genişliği, bu bölgeyi bir turistik merkez haline getirmiştir. İklim olarak, Akdeniz iklimi hakimdir ve yazları sıcak, kışları ılımandır. Bu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Türbenin coğrafi konumu, tarihi ve kültürel önemini artırmaktadır. Yaklaşık 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan ve plaj sunmaktadır.
+Menteşeoğlu Ahmet Gazi Türbesi, Muğla'nın Milas ilçesinde, Ege Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Denizin güzelliği ve plajın genişliği, bu bölgeyi bir turistik merkez haline getirmiştir. İklim olarak, Akdeniz iklimi hakimdir ve yazları sıcak, kışları ılımandır. Bu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Türbenin coğrafi konumu, tarihi ve kültürel önemini artırmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Menteşeoğlu Ahmet Gazi Türbesi'ni ziyaret etmek, Muğla'nınMilas ilçesine g
 
 - Menteşeoğlu Ahmet Gazi, 13. yüzyılda yaşamış bir Türk beyidir
 - Türbe, 13. yüzyılda inşa edilmiştir
-- Bölge, yaklaşık 140 hektarlık bir alana sahiptir
+
 - Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır
 - Bölge, yıl boyunca ziyaret edilebilir

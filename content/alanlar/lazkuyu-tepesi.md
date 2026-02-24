@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Lazkuyu Tepesi","caption":"Lazkuyu Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lazkuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390507","tip":"genel"}]
-description: "Konya'nın doğal güzelliklerinden biri olan Lazkuyu Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Lazkuyu Tepesi","Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390507"

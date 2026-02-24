@@ -49,7 +49,6 @@ wikidata_id: "Q131738769"
 
 ## İlginç Bilgiler
 
-- İncir Hamamı ve Çeşmesi, 140 hektarlık bir alanı kapsıyor.
 - Bu mekan, tarihi ve doğal güzellikleri bir arada sunuyor.
 - İncir Hamamı, restore edilmiş ve günümüzde ziyaretçilere açık.
 - Çeşme, tarihi önemini korurken, doğal güzelliği ile de dikkat çekiyor.

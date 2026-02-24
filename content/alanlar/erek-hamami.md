@@ -37,7 +37,7 @@ Erek Hamamı, tarihi geçmişi ile dikkat çekici bir bölgedir. Bu bölgenin ta
 
 ## Coğrafya
 
-Erek Hamamı, coğrafi açıdan zengin bir bölgedir. Bu bölge, Karadeniz Bölgesi'nin Tokat ilinin Erbaa ilçesinde yer almaktadır ve 140 hektarlık bir alanı kapsar. Erek Hamamı, deniz seviyesinden yüksek bir noktada yer almakta ve bu bölgenin iklimi, Karadeniz ikliminin özellikleri taşımaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgi odağı olmaktadır. Erek Hamamı, orman ve deniz arasındaki geçiş bölgesinde yer almakta ve bu bölgenin coğrafi yapısı, ziyaretçilere, doğanın güzelliğini sunmaktadır. Bu bölgenin coğrafi konumu, ziyaretçilere, Karadeniz Bölgesi'nin güzelliğini göstermekte ve Erek Hamamı, bu bölgenin önemli bir parçası olarak bilinmektedir.
+Erek Hamamı, coğrafi açıdan zengin bir bölgedir. Erek Hamamı, deniz seviyesinden yüksek bir noktada yer almakta ve bu bölgenin iklimi, Karadeniz ikliminin özellikleri taşımaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgi odağı olmaktadır. Erek Hamamı, orman ve deniz arasındaki geçiş bölgesinde yer almakta ve bu bölgenin coğrafi yapısı, ziyaretçilere, doğanın güzelliğini sunmaktadır. Bu bölgenin coğrafi konumu, ziyaretçilere, Karadeniz Bölgesi'nin güzelliğini göstermekte ve Erek Hamamı, bu bölgenin önemli bir parçası olarak bilinmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Erek Hamamı, ziyaretçilere, çeşitli olanaklar sunmaktadır. Bu bölge, Tokat
 
 ## İlginç Bilgiler
 
-- Erek Hamamı, 140 hektarlık bir alanı kapsar.
 - Bu bölge, Karadeniz Bölgesi'nin Tokat ilinin Erbaa ilçesinde yer almaktadır.
 - Erek Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu bölge, yüzyıllar boyunca farklı medeniyetlerin yaşadığı bir bölgedir.

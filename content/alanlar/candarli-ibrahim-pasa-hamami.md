@@ -30,7 +30,7 @@ wikidata_id: "Q131738642"
 
 # Çandarlı İbrahim Paşa Hamamı
 
-Çandarlı İbrahim Paşa Hamamı, Marmara Bölgesi'nin güzide şehri Bursa'nın Osmangazi ilçesinde yer alan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulu olup, tarihi geçmişi ile dikkat çekmektedir. Hamamın etrafında çeşitli bitki türleri bulunmaktadır. Çandarlı İbrahim Paşa Hamamı, ziyaretçilerini tarihi bir atmosfere davet etmektedir. Hamamın tarihi geçmişini keşfetmek, ziyaretçilere benzersiz bir deneyim sunmaktadır. Bursa'nın tarihi dokusunu keşfetmek isteyenler için ideal bir destinasyondur.
+Çandarlı İbrahim Paşa Hamamı, Marmara Bölgesi'nin güzide şehri Bursa'nın Osmangazi ilçesinde yer alan tarihi bir hamamdır. Hamamın etrafında çeşitli bitki türleri bulunmaktadır. Çandarlı İbrahim Paşa Hamamı, ziyaretçilerini tarihi bir atmosfere davet etmektedir. Hamamın tarihi geçmişini keşfetmek, ziyaretçilere benzersiz bir deneyim sunmaktadır. Bursa'nın tarihi dokusunu keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

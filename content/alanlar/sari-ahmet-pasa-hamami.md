@@ -51,7 +51,7 @@ Sarı Ahmet Paşa Hamamı ve çevresindeki bölge, ziyaretçiler için birçok o
 ## İlginç Bilgiler
 
 - Sarı Ahmet Paşa Hamamı, Osmanlı Dönemi'nde inşa edilmiştir.
-- Hamam, 140 hektarlık bir alanı kaplıyor.
+
 - Bölge, Ege Denizi'nin güzel kıyılarına sahip.
 - Ziyaretçiler, burada çeşitli bitki ve hayvan türlerini görebilirler.
 - Sarı Ahmet Paşa Hamamı, yıl boyunca ziyaret edilebilir.

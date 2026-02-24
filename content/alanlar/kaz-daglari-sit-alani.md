@@ -42,8 +42,6 @@ Kaz Dağları Sit Alanı, doğa severler için bir cennet olarak kabul edilir ve
 
 ## İlginç Bilgiler
 
-- Kaz Dağları Sit Alanı, 140 hektarlık bir alanı kapsar
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır
 - Kaz Dağları Sit Alanı, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır
 - Bu alan, coğrafi konumu itibari ile, Türkiye'nin en önemli doğal sit alanlarından biridir
 - Kaz Dağları Sit Alanı, yüksek dağlar, derin vadiler ve geniş ova alanları ile birlikte, Türkiye'nin en önemli coğrafi varlıklarından biridir

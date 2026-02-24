@@ -30,7 +30,7 @@ wikidata_id: "Q131391056"
 
 # Gazi Osman Paşa Türbesi
 
-Gazi Osman Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunan tarihi bir mekandır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alır ve ziyaretçilerini tarihin derinliklerine götürmeyi hedefler. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, aynı zamanda önemli bir kültürel miras olarak kabul edilir. Gazi Osman Paşa'nın hayatını ve tarihsel önemini öğrenmek için ideal bir yerdir. Türbenin etrafı, tarihi yapılar ve yeşil alanlarla çevrilidir, ziyaretçilere huzurlu bir atmosfer sunar.
+Gazi Osman Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunan tarihi bir mekandır. Gazi Osman Paşa'nın hayatını ve tarihsel önemini öğrenmek için ideal bir yerdir. Türbenin etrafı, tarihi yapılar ve yeşil alanlarla çevrilidir, ziyaretçilere huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gazi Osman Paşa Türbesi, tarihsel olarak önemli bir figür olan Gazi Osman Pa
 
 ## Coğrafya
 
-Gazi Osman Paşa Türbesi, İstanbul'un kalbi olan Fatih ilçesinde yer alır. Bu ilçenin coğrafi konumu, Marmara Bölgesi'nin merkezinde bulunur ve tarihi yarımadayla çevrili bir bölgedir. Türbenin etrafı, tarihi yapılar, camiler ve yeşil alanlarla çevrilidir. İstanbul'un coğrafi olarak çeşitlilik gösteren iklimi, türbenin bulunduğu bölgede de kendini gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakimdir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olarak tasarlanmış ve bu alanda çeşitli bitki türleri yetiştirilmiştir. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Ayrıca, türbenin yakınında çeşitli tarihi eserler ve yapılar bulunur, ziyaretçilere geniş bir kültürel deneyim sunar.
+Gazi Osman Paşa Türbesi, İstanbul'un kalbi olan Fatih ilçesinde yer alır. Bu ilçenin coğrafi konumu, Marmara Bölgesi'nin merkezinde bulunur ve tarihi yarımadayla çevrili bir bölgedir. Türbenin etrafı, tarihi yapılar, camiler ve yeşil alanlarla çevrilidir. İstanbul'un coğrafi olarak çeşitlilik gösteren iklimi, türbenin bulunduğu bölgede de kendini gösterir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir iklim hakimdir. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Ayrıca, türbenin yakınında çeşitli tarihi eserler ve yapılar bulunur, ziyaretçilere geniş bir kültürel deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Gazi Osman Paşa Türbesini ziyaret etmek, tarihe ilgi duyanlar için önemli bi
 ## İlginç Bilgiler
 
 - Gazi Osman Paşa, Osmanlı İmparatorluğu'nun önemli komutanlarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alır.
+
 - Türbenin bahçesi, Osmanlı bahçe mimarisi özelliklerine sahiptir.
 - Türbe ve bahçesi, mevsimsel değişimlere göre farklı bir görünüm sunar.
 - Gazi Osman Paşa'nın hayatını ve tarihsel önemini öğrenmek için ideal bir yerdir.

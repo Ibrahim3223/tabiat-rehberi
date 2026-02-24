@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/69/Waterrow_%2C_Bibors_Hill_-_geograph.org.uk_-_6282994.jpg","alt":"Biber Tepesi manzarası","credit":"Lewis Clarke ","license":"cc-by-sa-2.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/ETH-BIB-Bosporus%2C_Panorama_%28Mitte%29_vom_Paradiesh%C3%BCgel_%22Frenk_T%C3%A9pesi%22-Dia_247-08721.tif","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ETH-BIB-Bosporus%2C_Panorama_%28Mitte%29_vom_Paradiesh%C3%BCgel_%22Frenk_T%C3%A9pesi%22-Dia_247-08721.tif/lossy-page1-1200px-ETH-BIB-Bosporus%2C_Panorama_%28Mitte%29_vom_Paradiesh%C3%BCgel_%22Frenk_T%C3%A9pesi%22-Dia_247-08721.tif.jpg","alt":"Biber Tepesi - ETH-BIB-Bosporus, Panorama (Mitte) vom Paradieshügel \"Frenk Tépesi\"-Dia 247-08721","credit":"Leo Wehrli","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/House_and_dog_on_Bibor%27s_Hill_-_geograph.org.uk_-_3545470.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/5/53/House_and_dog_on_Bibor%27s_Hill_-_geograph.org.uk_-_3545470.jpg","alt":"Biber Tepesi - House and dog on Bibor's Hill - geograph.org.uk - 3545470","credit":"Roger Cornfoot ","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Biber%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389340","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Biber Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Biber Tepesi","Mersin","Akdeniz Bölgesi","yeşil alan","fiziksel veriler","doğal güzellik","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389340"

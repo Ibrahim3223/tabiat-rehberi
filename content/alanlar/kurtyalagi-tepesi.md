@@ -49,7 +49,7 @@ Kurtyalağı Tepesi, ziyaretçilerine doğal güzellikleri ile büyülüyor. Bu 
 ## İlginç Bilgiler
 
 - Kurtyalağı Tepesi, Tunceli'nin doğal güzelliklerini barındıran bir bölge olarak dikkat çekiyor
-- Bu tepe, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kurtyalağı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor
 - Bu bölge, yüzyıllar boyunca önemli bir merkez olarak kullanılmış
 - Kurtyalağı Tepesi, coğrafi olarak Tunceli'nin merkezi bir bölgesinde yer alıyor

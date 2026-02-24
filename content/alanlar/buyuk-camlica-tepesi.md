@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Bosphorus%20Bridge%2C%20Istanboul.jpg","alt":"Büyük Çamlıca Tepesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1e/%C3%87aml%C4%B1ca_Hill_Flagpole%2C_Istanbul%2C_T%C3%BCrkiye.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%C3%87aml%C4%B1ca_Hill_Flagpole%2C_Istanbul%2C_T%C3%BCrkiye.jpg/1280px-%C3%87aml%C4%B1ca_Hill_Flagpole%2C_Istanbul%2C_T%C3%BCrkiye.jpg","alt":"Büyük Çamlıca Tepesi - Çamlıca Hill Flagpole, Istanbul, Türkiye","credit":"Julian Lupyan","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Istanbul_Feb_2020_11_23_00_046000.jpeg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Istanbul_Feb_2020_11_23_00_046000.jpeg/1280px-Istanbul_Feb_2020_11_23_00_046000.jpeg","alt":"Büyük Çamlıca Tepesi - Istanbul Feb 2020 11 23 00 046000","credit":"Robot8A","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4c/B%C3%BCy%C3%BCk_%C3%87aml%C4%B1ca_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/B%C3%BCy%C3%BCk_%C3%87aml%C4%B1ca_Tepesi.jpg/1280px-B%C3%BCy%C3%BCk_%C3%87aml%C4%B1ca_Tepesi.jpg","alt":"Büyük Çamlıca Tepesi - Büyük Çamlıca Tepesi","credit":"Sezenkerem","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/37/Bosphorus_Bridge%2C_Istanboul.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bosphorus_Bridge%2C_Istanboul.jpg/1280px-Bosphorus_Bridge%2C_Istanboul.jpg","alt":"Büyük Çamlıca Tepesi - Bosphorus Bridge, Istanboul","credit":"POLISEO","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/B%C3%BCy%C3%BCk_%C3%87aml%C4%B1ca_g%C3%BCney_direkler_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/B%C3%BCy%C3%BCk_%C3%87aml%C4%B1ca_g%C3%BCney_direkler_-_panoramio.jpg/1280px-B%C3%BCy%C3%BCk_%C3%87aml%C4%B1ca_g%C3%BCney_direkler_-_panoramio.jpg","alt":"Büyük Çamlıca Tepesi - Büyük Çamlıca güney direkler - panoramio","credit":"Allen Turner","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20%C3%87aml%C4%B1ca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q2414579","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Büyük Çamlıca Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nde yer alan Büyük Çamlıca Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Büyük Çamlıca Tepesi","İç Anadolu Bölgesi","flora","fauna","doğa","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q2414579"
@@ -49,7 +49,6 @@ Büyük Çamlıca Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları
 
 ## İlginç Bilgiler
 
-- Büyük Çamlıca Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin yüksekliği, çevredeki diğer tepe ve dağlara nazaran daha yüksek.
 - Büyük Çamlıca Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 - Tepenin etrafında, birçok farklı yürüyüş yolu bulunmakta.

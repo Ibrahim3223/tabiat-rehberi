@@ -20,7 +20,7 @@ aktiviteler: ["Termal su tedavisi","Dinlenme","Doğa yürüyüşleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pamukkale%2C_Turkey_%28ASTER%29.jpg/960px-Pamukkale%2C_Turkey_%28ASTER%29.jpg","alt":"Urganlı Kaplıcaları","caption":"Urganlı Kaplıcaları","credit":"Pamukkale, Turkey (ASTER)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Urganl%C4%B1%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31189587","tip":"genel"}]
-description: "Manisa'nın termal zenginlikleri arasında yer alan Urganlı Kaplıcaları, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
+"
 keywords: ["Urganlı Kaplıcaları","Manisa","termal kaynak","Ege Bölgesi","kaplıca","turizm","sağlık"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31189587"
@@ -36,11 +36,11 @@ Urganlı Kaplıcaları'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir
 
 ## Coğrafya
 
-Urganlı Kaplıcaları, Manisa'nın Ege Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık yeşil bir alan üzerine kurulmuştur. Coğrafi konumu itibarıyla ulaşım kolaydır ve ziyaretçiler, bu termal kaynağa gelerek hem dinlenebiliyor hem de sağlıklarına katkıda bulunabiliyor. Urganlı Kaplıcaları'nın coğrafyası, ziyaretçilerine hem doğal güzellikler hem de sağlık açısından önemli bir merkez sunar. İklimi ılımandır ve bu özelliği ile birlikte Urganlı Kaplıcaları, dört mevsim ziyaret edilebilir bir yer olarak bilinir. Çevre, doğal güzellikleri ile birlikte ziyaretçilerin ilgisini çekmektedir.
+ Coğrafi konumu itibarıyla ulaşım kolaydır ve ziyaretçiler, bu termal kaynağa gelerek hem dinlenebiliyor hem de sağlıklarına katkıda bulunabiliyor. Urganlı Kaplıcaları'nın coğrafyası, ziyaretçilerine hem doğal güzellikler hem de sağlık açısından önemli bir merkez sunar. İklimi ılımandır ve bu özelliği ile birlikte Urganlı Kaplıcaları, dört mevsim ziyaret edilebilir bir yer olarak bilinir. Çevre, doğal güzellikleri ile birlikte ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
-Urganlı Kaplıcaları, 140 hektarlık yeşil alanı ile birlikte çeşitli bitki türlerine ev sahipliği yapar. Bu alan, mevsimsel değişimlere göre farklı bitki türleri ile birlikte ziyaretçilerini ağırlar. Urganlı Kaplıcaları'nın flora ve fauna açısından zengin bir yapıya sahip olduğu söylenebilir. Canlılar açısından da zengin bir yapıya sahip olan bu alan, ziyaretçilerine doğal güzellikleri sunar. Ekoloji açısından önemli bir role sahip olan Urganlı Kaplıcaları, ziyaretçilerin doğa ile iç içe olabileceği bir yer olarak bilinir.
+ Bu alan, mevsimsel değişimlere göre farklı bitki türleri ile birlikte ziyaretçilerini ağırlar. Urganlı Kaplıcaları'nın flora ve fauna açısından zengin bir yapıya sahip olduğu söylenebilir. Canlılar açısından da zengin bir yapıya sahip olan bu alan, ziyaretçilerine doğal güzellikleri sunar. Ekoloji açısından önemli bir role sahip olan Urganlı Kaplıcaları, ziyaretçilerin doğa ile iç içe olabileceği bir yer olarak bilinir.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Urganlı Kaplıcaları, ziyaretçilerine ulaşımın kolay olduğu bir termal ka
 
 ## İlginç Bilgiler
 
-- Urganlı Kaplıcaları, 140 hektarlık yeşil alanı ile birlikte ziyaretçilerini ağırlar.
 - Bu termal kaynak, sağlık ve turizm açısından önemli bir merkez olarak bilinir.
 - Urganlı Kaplıcaları'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir sürecin ürünüdür.
 - Bu alan, mevsimsel değişimlere göre farklı bitki türleri ile birlikte ziyaretçilerini ağırlar.

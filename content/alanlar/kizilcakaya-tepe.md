@@ -36,7 +36,7 @@ Kızılcakaya Tepe'nin tarihi geçmişi, Kastamonu'nun zengin tarihini yansıtı
 
 ## Coğrafya
 
-Kızılcakaya Tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak karşımıza çıkıyor. Bu tepe, Kastamonu'nun dağlık ve engebeli arazisinin bir parçası olarak, bölgenin coğrafi çeşitliliğini gösteriyor. Kızılcakaya Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan, çeşitli bitki türleri ve fauna ile dolu. Bu tepe, Karadeniz Bölgesi'nin karakteristik iklimine sahip ve bu nedenle, burada mevsimsel değişimler gözlemlenebiliyor. Kızılcakaya Tepe, ziyaretçilerine doğanın güzelliklerini ve coğrafi çeşitliliği sunuyor. Bu tepe, Kastamonu'nun coğrafi güzelliklerini keşfetmek için ideal bir destinasyon.
+Kızılcakaya Tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak karşımıza çıkıyor. Bu tepe, Kastamonu'nun dağlık ve engebeli arazisinin bir parçası olarak, bölgenin coğrafi çeşitliliğini gösteriyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik iklimine sahip ve bu nedenle, burada mevsimsel değişimler gözlemlenebiliyor. Kızılcakaya Tepe, ziyaretçilerine doğanın güzelliklerini ve coğrafi çeşitliliği sunuyor. Bu tepe, Kastamonu'nun coğrafi güzelliklerini keşfetmek için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

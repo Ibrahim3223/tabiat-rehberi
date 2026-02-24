@@ -43,7 +43,6 @@ Kastamonu-Daday-Ballidag Saricam milli parkını ziyaret etmek, doğa severler i
 ## İlginç Bilgiler
 
 - Kastamonu ilinin en büyük milli parkı
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
+
 - Variası bitki türleri
 - Zengin fauna

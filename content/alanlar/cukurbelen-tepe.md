@@ -28,7 +28,7 @@ wikidata_id: "Q34829577"
 
 # Çukurbelen Tepe
 
-Antalya'nın Akdeniz Bölgesi'nde bulunan Çukurbelen Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaretçiler, bu güzel tepeyi keşfederek hem doğanın güzelliklerini hem de bölgeye özgü bitki ve hayvan türlerini yakından görebiliyor. Çukurbelen Tepe, özellikle doğa severler için bir cennet niteliğinde. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinilebilecek önemli bir nokta.
+ Ziyaretçiler, bu güzel tepeyi keşfederek hem doğanın güzelliklerini hem de bölgeye özgü bitki ve hayvan türlerini yakından görebiliyor. Çukurbelen Tepe, özellikle doğa severler için bir cennet niteliğinde. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinilebilecek önemli bir nokta.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Antalya'nın Akdeniz Bölgesi'nde bulunan Çukurbelen Tepe, yaklaşık 140 hekta
 
 ## İlginç Bilgiler
 
-- Çukurbelen Tepe, 140 hektarlık bir alanı kapsıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Çukurbelen Tepe, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip
 - Bu tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor
 - Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzellikleri hem de tarihi önemi hakkında bilgi edinebiliyor

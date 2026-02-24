@@ -20,7 +20,7 @@ aktiviteler: ["tepeye tırmanmak","manzara izlemek","çevreyi keşfetmek","bitki
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Akoluk Tepesi","caption":"Akoluk Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akoluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532810","tip":"genel"}]
-description: "Akoluk Tepesi, Antalya'nın büyüleyici doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar."
+description: "Akoluk Tepesi, Antalya'nın büyüleyici doğal güzelliklerinden biridir."
 keywords: ["Akoluk Tepesi","Antalya","doğal güzellik","tepe","yeşil alan","gezi","turizm","Akdeniz Bölgesi","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31532810"
@@ -47,8 +47,6 @@ Akoluk Tepesi, çeşitli bitki türlerine ev sahipliği yapar. Bu tepe, mevsimse
 Akoluk Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Ziyaretçiler, bu tepeye tırmanarak, Akdeniz'in güzel manzarasını izleyebilirler. Akoluk Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava sıcaklığı ziyaretçilere uygun olur ve tepeye tırmanmak daha kolay olur. Ziyaretçiler, bu tepeyi gezerek, çevrenin coğrafi yapısını keşfedebilir ve doğanın güzelliğini görebilirler.
 
 ## İlginç Bilgiler
-
-- Akoluk Tepesi, 140 hektarlık bir alanı kaplar.
 
 - Akoluk Tepesi, Akdeniz Bölgesi'nde yer alır.
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapar.

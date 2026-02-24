@@ -29,7 +29,7 @@ wikidata_id: "Q134728351"
 
 # Bin Tepeler Tümülüsü 28
 
-Bin Tepeler Tümülüsü 28, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerinin bir araya geldiği bir destinasyon. Salihli-Manisa bölgesinde bulunan buhistoric ve doğal güzellik, yaklaşık 140 hektarlık bir alanı kapsıyor. Bin Tepeler Tümülüsü 28, hem tarihin sayfalarını karıştırmak hem de doğanın güzelliklerini keşfetmek isteyenler için al bir destinasyon.
+Bin Tepeler Tümülüsü 28, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerinin bir araya geldiği bir destinasyon. Bin Tepeler Tümülüsü 28, hem tarihin sayfalarını karıştırmak hem de doğanın güzelliklerini keşfetmek isteyenler için al bir destinasyon.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Bin Tepeler Tümülüsü 28'i ziyaret etmek, hem tarihi hem de doğal güzellikl
 
 - Bin Tepeler Tümülüsü 28, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir.
 - Tümülüsler, Lidya Uygarlığı döneminde inşa edilmiş.
-- Bölge, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bin Tepeler Tümülüsü 28, ziyaretçilerine geniş bir keşif alanı sunuyor.
 - Bölgenin flora ve faunası, Akdeniz ikliminin karakteristik özelliklerine sahiptir.

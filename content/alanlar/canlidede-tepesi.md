@@ -36,7 +36,7 @@ wikidata_id: "Q34828366"
 
 ## Coğrafya
 
-Çanlıdede Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin coğrafi yapısı, geniş ve yeşil alanlardan oluşur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Çanlıdede Tepesi'nin etrafındaki coğrafi yapı, ziyaretçilere geniş ve çeşitli manzaralar sunar. Tepenin yüksekliği, ziyaretçilere bölgenin geniş bir panoramasını sunar ve manzaranın keyfini çıkarmalarına olanak sağlar.
+ Tepenin coğrafi yapısı, geniş ve yeşil alanlardan oluşur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Çanlıdede Tepesi'nin etrafındaki coğrafi yapı, ziyaretçilere geniş ve çeşitli manzaralar sunar. Tepenin yüksekliği, ziyaretçilere bölgenin geniş bir panoramasını sunar ve manzaranın keyfini çıkarmalarına olanak sağlar.
 
 ## Flora ve Fauna
 

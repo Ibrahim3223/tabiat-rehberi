@@ -29,7 +29,7 @@ wikidata_id: "Q134728214"
 
 # Kaya Mezarı 2 (Günören Mahallesi), Altınordu
 
-Kaya Mezarı 2, Günören Mahallesi'nde bulunan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plajın suyu, berra ve serin olup, yaz aylarında serinlemek için ideal bir yerdir. Kaya Mezarı 2 plajı, aynı zamanda doğal güzelliği ile de dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir.
+Kaya Mezarı 2, Günören Mahallesi'nde bulunan bir plajdır. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plajın suyu, berra ve serin olup, yaz aylarında serinlemek için ideal bir yerdir. Kaya Mezarı 2 plajı, aynı zamanda doğal güzelliği ile de dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 2 plajının tarihi geçmişi, çok eskilere dayanır. Bu plaj, yü
 
 ## Coğrafya
 
-Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin Altınordu ilçesinde bulunur. Bu plaj, Günören Mahallesi'nde, yaklaşık 140 hektarlık bir alanı kaplar. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plajın suyu, berra ve serin olup, yaz aylarında serinlemek için ideal bir yerdir. Kaya Mezarı 2 plajı, aynı zamanda doğal güzelliği ile de dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en önemli turistik yerlerinden biridir. Bu plaj, her yıl, binlerce turisti ağırlar.
+Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin Altınordu ilçesinde bulunur. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plajın suyu, berra ve serin olup, yaz aylarında serinlemek için ideal bir yerdir. Kaya Mezarı 2 plajı, aynı zamanda doğal güzelliği ile de dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir. Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en önemli turistik yerlerinden biridir. Bu plaj, her yıl, binlerce turisti ağırlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kaya Mezarı 2 plajına, çeşitli ulaşım araçları ile ulaşılabilir. Bu pl
 ## İlginç Bilgiler
 
 - Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin en güzel plajlarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kaya Mezarı 2 plajı, aynı zamanda, tarihi bir geçmişe sahiptir.
 - Bu plaj, her yıl, binlerce turisti ağırlar.
 - Kaya Mezarı 2 plajı, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir.

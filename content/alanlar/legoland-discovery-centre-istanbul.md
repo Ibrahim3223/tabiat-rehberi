@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/LEGO_Flag_Turkey.jpg","alt":"Legoland Discovery Centre İstanbul manzarası","credit":"Gufo46","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Deniz_Can_Do%C4%9Fan.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Deniz_Can_Do%C4%9Fan.jpg/1280px-Deniz_Can_Do%C4%9Fan.jpg","alt":"Legoland Discovery Centre İstanbul - Deniz Can Doğan","credit":"Gufo46","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Deniz_Can_Do%C4%9Fan_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deniz_Can_Do%C4%9Fan_2.jpg/1280px-Deniz_Can_Do%C4%9Fan_2.jpg","alt":"Legoland Discovery Centre İstanbul - Deniz Can Doğan 2","credit":"Gufo46","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/LEGO_Flag_Turkey_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LEGO_Flag_Turkey_2.jpg/1280px-LEGO_Flag_Turkey_2.jpg","alt":"Legoland Discovery Centre İstanbul - LEGO Flag Turkey 2","credit":"Gufo46","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/88/LEGO_Flag.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/LEGO_Flag.jpg/1280px-LEGO_Flag.jpg","alt":"Legoland Discovery Centre İstanbul - LEGO Flag","credit":"Gufo46","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Legoland%20Discovery%20Centre%20%C4%B0stanbul","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123222156","tip":"genel"}]
-description: "Eğlence ve öğrenmenin birleştiği Legoland Discovery Centre İstanbul, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Legoland","İstanbul","eğlence","öğrenme","çocuk","aile","oyun","macera"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q123222156"
@@ -44,7 +44,7 @@ Legoland Discovery Centre İstanbul'u ziyaret etmek, özellikle çocuklu aileler
 ## İlginç Bilgiler
 
 - LEGOLAND'un kurucusu Ole Kirk Christiansen, LEGO taşlarını 1949 yılında tasarladı
-- Legoland Discovery Centre İstanbul, 140 hektarlık bir alana kurulmuştur
+
 - Merkezde, LEGO'nun değerlerini paylaşmak amaçlanıyor
 - İç Anadolu Bölgesi, flora ve fauna açısından zengin bir alana sahip
 - LEGOLAND, çocukların hayal güçlerini geliştirmelerine yardımcı oluyor

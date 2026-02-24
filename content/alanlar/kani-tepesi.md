@@ -28,7 +28,7 @@ wikidata_id: "Q31539424"
 
 # Kani Tepesi
 
-Siirt'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Kani Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Kani Tepesi, ziyaretçilerini sadece doğal güzellikleriyle değil, aynı zamanda tarihi ve kültürel zenginlikleriyle de büyülüyor. Tepenin eteklerinde yer alan köyler, misafirperver halkı ve geleneksel yaşam tarzı ile ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Kani Tepesi, ziyaretçilerini sadece doğal güzellikleriyle değil, aynı zamanda tarihi ve kültürel zenginlikleriyle de büyülüyor. Tepenin eteklerinde yer alan köyler, misafirperver halkı ve geleneksel yaşam tarzı ile ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

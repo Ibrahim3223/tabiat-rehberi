@@ -28,7 +28,7 @@ wikidata_id: "Q31530609"
 
 # Basrıkale Tepesi
 
-Basrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Basrıkale Tepesi, doğa severlerin ve trekking yapmayı sevenlerin tercih ettiği bir yer. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor. Burada, Ankara'nın panoramik manzarasını izleyebilirsiniz. Basrıkale Tepesi, aynı zamanda tarihî ve kültürel açıdan da önemli bir yer.
+Basrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Basrıkale Tepesi, doğa severlerin ve trekking yapmayı sevenlerin tercih ettiği bir yer. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor. Burada, Ankara'nın panoramik manzarasını izleyebilirsiniz. Basrıkale Tepesi, aynı zamanda tarihî ve kültürel açıdan da önemli bir yer.
 
 ## Tarihçe
 

@@ -37,7 +37,7 @@ Dodurga Tümülüsü'nün tarihi geçmişi, Marmara Bölgesi'nin tarihi ile iç 
 
 ## Coğrafya
 
-Dodurga Tümülüsü, Bilecik'in Bozüyük ilçesinde yer almaktadır. Bu tümülüs, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Dodurga Tümülüsü, bu coğrafi yapının bir parçası olarak, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunmaktadır. Tümülüsün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu alan, coğrafi açıdan zengin bir bölge olarak, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Dodurga Tümülüsü, Marmara Bölgesi'nin coğrafi ve kültürel zenginliklerini bir arada sunmasıyla dikkat çekmektedir. Bu tümülüs, ziyaretçilere bölgenin coğrafi özelliklerini deneyimleme fırsatı sunmaktadır.
+Dodurga Tümülüsü, Bilecik'in Bozüyük ilçesinde yer almaktadır. Bu tümülüs, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşmaktadır. Dodurga Tümülüsü, bu coğrafi yapının bir parçası olarak, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunmaktadır. Bu alan, coğrafi açıdan zengin bir bölge olarak, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Dodurga Tümülüsü, Marmara Bölgesi'nin coğrafi ve kültürel zenginliklerini bir arada sunmasıyla dikkat çekmektedir. Bu tümülüs, ziyaretçilere bölgenin coğrafi özelliklerini deneyimleme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

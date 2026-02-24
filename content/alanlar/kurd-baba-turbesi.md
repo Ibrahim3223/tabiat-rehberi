@@ -50,7 +50,7 @@ Kurd Baba Türbesi, ziyaretçilerin keyiflenebileceği bir yer olarak biliniyor.
 ## İlginç Bilgiler
 
 - Kurd Baba Türbesi, Edirne'nin en önemli turizm merkezlerinden biri olarak biliniyor
-- Bu plaj, 140 hektarlık bir alana sahip
+
 - Kurd Baba Türbesi, tarihi geçmişi ile dikkat çekiyor
 - Plajın etrafında bulunan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir ortam sunuyor
 - Kurd Baba Türbesi, birçok bitki ve hayvan türünün yaşadığı bir yer olarak biliniyor

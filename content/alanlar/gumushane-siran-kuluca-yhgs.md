@@ -30,7 +30,7 @@ Gümüşhane-Şiran Kuluca YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekil
 
 ## Coğrafya
 
-Gümüşhane-Şiran Kuluca YHGS, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerini doğanın kucağına davet ediyor. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşıyor ve yağışların fazla olduğu bir bölge. Bu durum, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Gümüşhane-Şiran Kuluca YHGS, ziyaretçilerine doğanın tüm güzelliklerini sunan bir bölge. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor.
+Gümüşhane-Şiran Kuluca YHGS, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşıyor ve yağışların fazla olduğu bir bölge. Bu durum, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Gümüşhane-Şiran Kuluca YHGS, ziyaretçilerine doğanın tüm güzelliklerini sunan bir bölge. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Gümüşhane-Şiran Kuluca YHGS, ziyaretçilerine doğanın tüm güzelliklerini
 
 ## İlginç Bilgiler
 
-- Gümüşhane-Şiran Kuluca YHGS, 140 hektarlık bir alana sahip.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerini doğanın kucağına davet ediyor.
 - Bölgenin iklimi, Karadeniz ikliminin özellikleri taşıyor.
 - Gümüşhane-Şiran Kuluca YHGS, doğa severlerin ilgisini çekmeyi başarıyor.

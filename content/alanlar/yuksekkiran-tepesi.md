@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","manzara seyretme","bitki türleri incelemesi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Yüksekkıran Tepesi","caption":"Yüksekkıran Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCksekk%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196143","tip":"genel"}]
-description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Yüksekkıran Tepesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafında çeşitli bitki türleri bulunur."
+ Tepenin etrafında çeşitli bitki türleri bulunur."
 keywords: ["Yüksekkıran Tepesi","Eskişehir","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32196143"
@@ -36,7 +36,7 @@ Yüksekkıran Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Yüksekkıran Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık bir alanı kaplar. Tepenin yüksekliği, etrafındaki manzarayı seyretmek için ideal bir noktadır. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, tepenin doğal güzelliğini artırmaktadır. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer. Tepenin etrafında bulunan su kaynakları, bitki türlerinin varlığını destekler. Yüksekkıran Tepesi, coğrafi olarak önemli bir noktadır ve etrafındaki manzara, ziyaretçileri çekmektedir.
+ Tepenin yüksekliği, etrafındaki manzarayı seyretmek için ideal bir noktadır. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, tepenin doğal güzelliğini artırmaktadır. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer. Tepenin etrafında bulunan su kaynakları, bitki türlerinin varlığını destekler. Yüksekkıran Tepesi, coğrafi olarak önemli bir noktadır ve etrafındaki manzara, ziyaretçileri çekmektedir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yüksekkıran Tepesi'ni ziyaret etmek, doğa severler ve gezi meraklıları içi
 
 ## İlginç Bilgiler
 
-- Yüksekkıran Tepesi, 140 hektarlık bir alanı kaplar
 - Tepenin etrafında bulunan bitki türleri, mevsimsel değişimlere göre farklılık gösterir
 - Tepenin yüksekliği, etrafındaki manzarayı seyretmek için ideal bir noktadır
 - Yüksekkıran Tepesi, doğa severlerin ve gezi meraklılarının ziyaret etmesi gereken bir yerdir

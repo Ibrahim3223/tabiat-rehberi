@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 43'i ziyaret etmek, hem tarihi hem de doğal güzellikl
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 43, Ege Bölgesi'nin önemli tarihi ve doğal sit alanlarından biri.
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, Salihli'nin merkezine çok yakınlıkta bulunuyor.
 - Ziyaretçiler, tümülüsün tarihi önemini öğrenme fırsatı buluyor.
 - Bin Tepeler Tümülüsü 43, doğal güzellikleri ile de dikkat çekiyor.

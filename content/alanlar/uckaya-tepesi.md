@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","huzur bulma"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Üçkaya Tepesi","caption":"Üçkaya Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820532","tip":"genel"}]
-description: "Hatay'ın Akdeniz Bölgesi'nde bulunan Üçkaya Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Üçkaya Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34820532"
@@ -48,7 +48,6 @@ wikidata_id: "Q34820532"
 
 ## İlginç Bilgiler
 
-- Üçkaya Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin etrafında, yeşil örtü, çiçekler ve ağaçlar bulunmakta
 - İklim, Akdeniz iklimi özellikleri göstermekte
 - Tepenin konumu, ziyaretçiler için ideal

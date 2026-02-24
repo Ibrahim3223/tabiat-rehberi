@@ -30,7 +30,7 @@ wikidata_id: "Q131391216"
 
 # Osman Fazıl Paşa Türbesi
 
-Osman Fazıl Paşa Türbesi, Ankara'nın Altındağ ilçesinde bulunan önemli bir tarihi ve kültürel mekan. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve ziyaretçilerini Ankara'nın tarihi geçmişine götürmeyi amaçlıyor. Türbenin içinde bulunan mezarlar, geçmişin önemli figürlerine ait ve bu mezarlar, ziyaretçilere tarihin önemli sayfalarını hatırlatıyor. 200 futbol sahası büyüklüğünde olan bu alan, hem dinlenmek hem de tarihe dokunmak isteyenler için mükemmel bir seçenek.
+Osman Fazıl Paşa Türbesi, Ankara'nın Altındağ ilçesinde bulunan önemli bir tarihi ve kültürel mekan. Türbenin içinde bulunan mezarlar, geçmişin önemli figürlerine ait ve bu mezarlar, ziyaretçilere tarihin önemli sayfalarını hatırlatıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Osman Fazıl Paşa Türbesi'nin tarihi geçmişi, 18. yüzyıla kadar uzanıyor.
 
 ## Coğrafya
 
-Osman Fazıl Paşa Türbesi, Ankara'nın coğrafi olarak önemli bir bölgesinde yer alıyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve bu alan, ziyaretçilere dinlenme ve gezi imkanı sunuyor. Türbenin etrafı, çeşitli ağaçlar ve bitkiler ile çevrili ve bu nedenle ziyaretçilere doğal bir ortam sunuyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu türbede de görülüyor ve ziyaretçilere bölgeyi tanıma fırsatı sunuyor. Ankara'nın iklimi, karasal iklim özellikleri gösteriyor ve bu nedenle türbe, özellikle bahar ve yaz aylarında ziyaret ediliyor. Türbenin bulunduğu yer, Ankara'nın merkezi bölgelerine yakın ve bu nedenle ulaşım açısından kolaylık sağlanıyor. Türbe, Ankara'nın önemli bir turizm merkezi olarak kabul ediliyor ve bu nedenle her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Osman Fazıl Paşa Türbesi, Ankara'nın coğrafi olarak önemli bir bölgesinde yer alıyor. Türbenin etrafı, çeşitli ağaçlar ve bitkiler ile çevrili ve bu nedenle ziyaretçilere doğal bir ortam sunuyor. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu türbede de görülüyor ve ziyaretçilere bölgeyi tanıma fırsatı sunuyor. Ankara'nın iklimi, karasal iklim özellikleri gösteriyor ve bu nedenle türbe, özellikle bahar ve yaz aylarında ziyaret ediliyor. Türbenin bulunduğu yer, Ankara'nın merkezi bölgelerine yakın ve bu nedenle ulaşım açısından kolaylık sağlanıyor. Türbe, Ankara'nın önemli bir turizm merkezi olarak kabul ediliyor ve bu nedenle her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Osman Fazıl Paşa Türbesi'ni ziyaret etmek, Ankara'nın tarihi ve kültürel z
 
 - Osman Fazıl Paşa Türbesi, Ankara'nın en eski türbelerinden biri
 - Türbenin inşaatında kullanılan malzemeler, o dönemdeki mimari özellikleri yansıtıyor
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor
+
 - Türbenin bulunduğu yer, Ankara'nın en eski yerleşim yerlerinden biri
 - Türbe, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş

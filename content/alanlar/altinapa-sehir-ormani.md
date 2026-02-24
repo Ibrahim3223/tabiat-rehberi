@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","canlı gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"ALTINAPA ŞEHİR ORMANI","caption":"ALTINAPA ŞEHİR ORMANI","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ALTINAPA%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228700","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğa harikalarından biri olan Altınapa Şehir Ormanı, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır."
+"
 keywords: ["Altınapa Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","doğa alanı","yeşil alan","orman","doğal yaşam","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228700"
@@ -41,8 +41,6 @@ Altınapa Şehir Ormanı, zengin bir flora ve fauna çeşitliliğine sahiptir. O
 Altınapa Şehir Ormanı, ziyaretçilerine birçok aktivite ve deneyim sunar. Ormanda yürüyüş yapmak, piknik yemek, doğa fotoğrafçılığı yapma ve yaban hayatı gözlemlemek, ziyaretçilerin tercih ettiği etkinlikler arasındadır. Orman, aynı zamanda, doğa yürüyüşü ve trekking için ideal bir destinasyondur. Ziyaretçilerin, ormanda yürüyüş yaparken, doğal güzellikleri ve canlıları gözlemleyebilecekleri ve temiz hava alacakları bir ortam sunar. Altınapa Şehir Ormanı, yılın her mevsimi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, ormanın en güzel zamanları olarak kabul edilir.
 
 ## İlginç Bilgiler
-
-- Altınapa Şehir Ormanı, 140 hektarlık bir alanı kapsar.
 
 - Altınapa Şehir Ormanı, İç Anadolu Bölgesi'nin en önemli doğal miraslarından biridir.
 - Orman, çeşitli ağaç türleri, çalılar ve otsu bitkiler ile kaplıdır.

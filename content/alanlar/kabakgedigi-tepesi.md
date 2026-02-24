@@ -36,7 +36,7 @@ Kabakgediği Tepesi'nin tarihi geçmişi, bölgeyi ziyaret eden çeşitli medeni
 
 ## Coğrafya
 
-Kabakgediği Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir oluşumdur. Bu tepe, Kilis ilinin güneydoğusunda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin etrafında yer alan ovalar ve dağlar, bölgenin coğrafi çeşitliliğini gösterir. Kabakgediği Tepesi, bölgenin iklimini etkileyen önemli bir faktördür. Tepenin yüksekliği, bölgenin yağış düzenini etkiler ve etrafındaki ovaları verimli hale getirir. Tepenin eteklerinde yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturur. Kabakgediği Tepesi, bölgenin coğrafi yapısını ve iklimini etkileyen önemli bir doğal oluşumdur.
+Kabakgediği Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir oluşumdur. Tepenin etrafında yer alan ovalar ve dağlar, bölgenin coğrafi çeşitliliğini gösterir. Kabakgediği Tepesi, bölgenin iklimini etkileyen önemli bir faktördür. Tepenin yüksekliği, bölgenin yağış düzenini etkiler ve etrafındaki ovaları verimli hale getirir. Tepenin eteklerinde yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturur. Kabakgediği Tepesi, bölgenin coğrafi yapısını ve iklimini etkileyen önemli bir doğal oluşumdur.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kabakgediği Tepesi, ziyaretçilerine çeşitli olanaklar sunar. Tepenin etrafı
 
 ## İlginç Bilgiler
 
-- Kabakgediği Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin etrafında yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır.
 - Kabakgediği Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir.
 - Tepenin yüksekliği, bölgenin iklimini etkiler ve etrafındaki ovaları verimli hale getirir.

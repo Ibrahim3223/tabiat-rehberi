@@ -36,7 +36,7 @@ Telli Tepe'nin tarihi geçmişi, Mardin'in tarihi ile iç içedir. Bu bölge, y�
 
 ## Coğrafya
 
-Telli Tepe, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir manzara sunar. Telli Tepe'nin coğrafi konumu, ziyaretçilere Mardin'in tarihi merkezi ve çevresini görme fırsatı tanır. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin tipik iklimi olup, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer. Telli Tepe, Mardin'in doğal güzelliklerini korumak için önemli bir noktadır. Bu tepe, şehrin etrafını saran dağların bir parçası olup, ziyaretçilere geniş bir görüş açısı sunar.
+Telli Tepe, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Telli Tepe'nin coğrafi konumu, ziyaretçilere Mardin'in tarihi merkezi ve çevresini görme fırsatı tanır. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin tipik iklimi olup, yazları sıcak ve kurak, kışları soğuk ve yağışlı geçer. Telli Tepe, Mardin'in doğal güzelliklerini korumak için önemli bir noktadır. Bu tepe, şehrin etrafını saran dağların bir parçası olup, ziyaretçilere geniş bir görüş açısı sunar.
 
 ## Flora ve Fauna
 

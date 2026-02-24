@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotograf çekimi","tarih keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Gedik Paşa Hamamı","caption":"Gedik Paşa Hamamı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedik%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738986","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli cenneti, Çivril'de bulunan Gedik Paşa Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Gedik Paşa Hamamı","Çivril","Denizli","Ege Bölgesi","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738986"
@@ -37,7 +37,7 @@ Gedik Paşa Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Gedik Paşa Hamamı, Çivril'in doğal güzelliklerini barındıran bir bölgede yer alıyor. Bu 140 hektarlık alan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yaz aylarıyla birlikte, ılıman ve yağışlı kış aylarına sahip. Gedik Paşa Hamamı'nın coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Bahar aylarında, çiçeklerin açması ve yeşillikler içindeki manzaralar, ziyaretçilere büyüleyici bir atmosfer sunarken, yaz aylarında serin ve huzurlu bir kaçış noktası oluyor. Sonbahar ve kış aylarında ise, doğanın renk değiştirmesi ve yağmurların yeşilliği canlandırması, bu mekanı her mevsim ziyaret etmeye değer kılıyor. Gedik Paşa Hamamı'nın etrafı, çeşitli bitki türleriyle dolu ve zengin fauna çeşitliliği de bu bölgenin önemli özelliklerinden biri.
+Gedik Paşa Hamamı, Çivril'in doğal güzelliklerini barındıran bir bölgede yer alıyor. Bölge, genellikle sıcak ve kurak yaz aylarıyla birlikte, ılıman ve yağışlı kış aylarına sahip. Gedik Paşa Hamamı'nın coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Bahar aylarında, çiçeklerin açması ve yeşillikler içindeki manzaralar, ziyaretçilere büyüleyici bir atmosfer sunarken, yaz aylarında serin ve huzurlu bir kaçış noktası oluyor. Sonbahar ve kış aylarında ise, doğanın renk değiştirmesi ve yağmurların yeşilliği canlandırması, bu mekanı her mevsim ziyaret etmeye değer kılıyor. Gedik Paşa Hamamı'nın etrafı, çeşitli bitki türleriyle dolu ve zengin fauna çeşitliliği de bu bölgenin önemli özelliklerinden biri.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Gedik Paşa Hamamı'na ziyaret etmek, doğa ve tarihle iç içe olmak isteyenler
 ## İlginç Bilgiler
 
 - Gedik Paşa Hamamı, Çivril'in en önemli turistik noktalarından biri.
-- 140 hektarlık yeşil alanı, ziyaretçilere geniş bir açık alan sunuyor.
+
 - Bölge, tarihi ve doğal güzellikleri bir arada sunuyor.
 - Çivril'in merkezine yakınlığı, ulaşımı kolaylaştırıyor.
 - Yılın her dönemi ziyaret edilebilir, ancak bahar ve yaz ayları daha popüler.

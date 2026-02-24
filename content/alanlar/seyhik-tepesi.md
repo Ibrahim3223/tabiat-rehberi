@@ -48,8 +48,6 @@ wikidata_id: "Q31556652"
 
 ## İlginç Bilgiler
 
-- Şeyhik Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Şeyhik Tepesi, bölgenin coğrafi yapısını ve tarihini anlamak için önemli bir nokta
 - Bu tepe, çeşitli medeniyetlere ev sahipliği yapmış
 - Şeyhik Tepesi, bölgenin flora ve faunasını yansıtan bir tepe

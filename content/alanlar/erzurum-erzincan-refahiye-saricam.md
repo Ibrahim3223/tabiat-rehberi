@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","balık tutma","yöresel yemekleri tatma","o
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Erzurum-Erzincan-Refahiye Saricam","caption":"Erzurum-Erzincan-Refahiye Saricam","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Erzincan-Refahiye%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227559","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","Erzurum","Erzincan","Refahiye","Saricam","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227559"

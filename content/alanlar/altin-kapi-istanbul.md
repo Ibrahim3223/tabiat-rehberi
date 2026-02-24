@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Istanbul%20asv2021-11%20img57%20Yedikule.jpg","alt":"Altın Kapı (İstanbul) manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Golden_Gate_Bridge_at_sunset_1.jpg/960px-Golden_Gate_Bridge_at_sunset_1.jpg","alt":"Altın Kapı (İstanbul)","caption":"Altın Kapı (İstanbul)","credit":"Golden Gate Bridge at sunset 1","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/44/Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg/1280px-Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg","alt":"Altın Kapı (İstanbul) - Aerial view of Golden Gate Bridge from the south dllu","credit":"Daniel L. Lu (user:dllu)","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/1280px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg","alt":"Altın Kapı (İstanbul) - Golden Gate Bridge as seen from Battery East","credit":"Frank Schulenburg","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/df/Golden_Gate_bridge_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Golden_Gate_bridge_3.jpg/1280px-Golden_Gate_bridge_3.jpg","alt":"Altın Kapı (İstanbul) - Golden Gate bridge 3","credit":"Sebring12Hrs","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg/1280px-Golden_Gate_Bridge_as_seen_from_Marshall%E2%80%99s_Beach%2C_March_2018.jpg","alt":"Altın Kapı (İstanbul) - Golden Gate Bridge as seen from Marshall’s Beach, March 2018","credit":"Frank Schulenburg","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Golden_Gate_Bridge_bw.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Golden_Gate_Bridge_bw.jpg/1280px-Golden_Gate_Bridge_bw.jpg","alt":"Altın Kapı (İstanbul) - Golden Gate Bridge bw","credit":"Almonroth","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1n%20Kap%C4%B1%20(%C4%B0stanbul)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q592270","tip":"genel"}]
-description: "İstanbul'un tarihi ve doğal güzellikleri ile ünlü bir bölgesinde yer alan Altın Kapı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Altın Kapı","İstanbul","Marmara Bölgesi","Fatih","Plaj","Yeşil Alan","Tarih","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q592270"
@@ -30,7 +30,7 @@ wikidata_id: "Q592270"
 
 # Altın Kapı (İstanbul)
 
-İstanbul'un kalbinde, Fatih ilçesinde yer alan Altın Kapı, 140 hektarlık geniş yeşil alanı ile şehrin gürültüsünden uzaklaşmak isteyenlerin tercih ettiği bir nokta. Altın Kapı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Burada, tarihi yapılar ve modern mimari örnekleri bir arada görme mümkün. Altın Kapı, İstanbul'un önemli bir turizm merkezi ve aynı zamanda yerel halkın da severek ziyaret ettiği bir yer.
+ Altın Kapı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Burada, tarihi yapılar ve modern mimari örnekleri bir arada görme mümkün. Altın Kapı, İstanbul'un önemli bir turizm merkezi ve aynı zamanda yerel halkın da severek ziyaret ettiği bir yer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Altın Kapı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanıyor. Bu bö
 
 ## Coğrafya
 
-Altın Kapı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, şehrin merkezi bir konumunda bulunuyor ve ulaşımı oldukça kolay. Altın Kapı, 140 hektarlık geniş bir yeşil alana sahip ve bu alan, şehrin en büyük yeşil alanlarından biri. Burada, çeşitli bitki türleri ve ağaçlar bulunuyor. Altın Kapı'nın coğrafi konumu, ziyaretçilerin şehrin diğer önemli noktalarına kolayca ulaşmasını sağlıyor. Bu bölgede, tarihi yapılar, parklar, ve diğer turistik noktalar da yer alıyor. Altın Kapı, İstanbul'un coğrafi ve kültürel zenginliklerini bir arada sunan bir bölge. Bu bölgede, Marmara Denizi'ne de yakın bir konumda bulunmakta ve deniz manzarasının keyfini çıkarma mümkün.
+Altın Kapı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, şehrin merkezi bir konumunda bulunuyor ve ulaşımı oldukça kolay. Burada, çeşitli bitki türleri ve ağaçlar bulunuyor. Altın Kapı'nın coğrafi konumu, ziyaretçilerin şehrin diğer önemli noktalarına kolayca ulaşmasını sağlıyor. Bu bölgede, tarihi yapılar, parklar, ve diğer turistik noktalar da yer alıyor. Altın Kapı, İstanbul'un coğrafi ve kültürel zenginliklerini bir arada sunan bir bölge. Bu bölgede, Marmara Denizi'ne de yakın bir konumda bulunmakta ve deniz manzarasının keyfini çıkarma mümkün.
 
 ## Flora ve Fauna
 

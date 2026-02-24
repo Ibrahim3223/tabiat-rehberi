@@ -48,7 +48,6 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Şırrık
 
 ## İlginç Bilgiler
 
-- Şırrıka Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin yüksekliği, 1000 metredir.
 - Şırrıka Tepesi, Batman ilinin önemli coğrafi oluşumlarından biridir.
 - Tepede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.

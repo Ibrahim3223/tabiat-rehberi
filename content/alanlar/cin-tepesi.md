@@ -28,7 +28,7 @@ wikidata_id: "Q31539200"
 
 # Cin Tepesi
 
-Cin Tepesi, Siirt'in merkezi bir konumunda yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. Tepenin eteklerinde çeşitli bitki türleri yer alıyor. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Tepenin zirvesinden ise Siirt şehrinin panoramik manzarasını izleme mümkün.
+Cin Tepesi, Siirt'in merkezi bir konumunda yer alıyor. Tepenin eteklerinde çeşitli bitki türleri yer alıyor. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Tepenin zirvesinden ise Siirt şehrinin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

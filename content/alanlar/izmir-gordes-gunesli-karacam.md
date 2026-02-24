@@ -43,7 +43,7 @@ Gordes-Gunesli Karacam milli parkını ziyaret etmek, doğa ile iç içe olmak i
 ## İlginç Bilgiler
 
 - Gordes-Gunesli Karacam milli parkı, İzmir'in en büyük milli parklarından biri
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Gordes-Gunesli Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Parkın iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor
 - Gordes-Gunesli Karacam milli parkı, yıl boyunca ziyaret edilebilir

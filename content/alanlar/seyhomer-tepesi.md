@@ -36,7 +36,7 @@ wikidata_id: "Q34810550"
 
 ## Coğrafya
 
-Şeyhömer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin coğrafi yapısı, genellikle engebeli ve dağlık bir araziye sahip. Şeyhömer Tepesi, eteklerinde ve çevresinde çeşitli bitki türleri ve ağaçlarla kaplı. Bu bitki örtüsü, tepeye renkli bir görünüm kazandırıyor. Tepenin iklimi, genellikle sıcak ve kurak bir iklim. Şeyhömer Tepesi, ziyaretçilerine aynı zamanda panoramik manzaralar sunuyor. Tepenin zirvesinden, çevredeki diğer tepeler ve vadiler görülebiliyor. Şeyhömer Tepesi, coğrafi konumu itibariyle, doğa severler için önemli bir destinasyon olarak dikkat çekiyor.
+Şeyhömer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Tepenin coğrafi yapısı, genellikle engebeli ve dağlık bir araziye sahip. Şeyhömer Tepesi, eteklerinde ve çevresinde çeşitli bitki türleri ve ağaçlarla kaplı. Bu bitki örtüsü, tepeye renkli bir görünüm kazandırıyor. Tepenin iklimi, genellikle sıcak ve kurak bir iklim. Şeyhömer Tepesi, ziyaretçilerine aynı zamanda panoramik manzaralar sunuyor. Tepenin zirvesinden, çevredeki diğer tepeler ve vadiler görülebiliyor. Şeyhömer Tepesi, coğrafi konumu itibariyle, doğa severler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34810550"
 
 ## İlginç Bilgiler
 
-- Şeyhömer Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin eteklerinde ve çevresinde, tarihi kalıntılar ve yapılar bulunmakta.
 - Şeyhömer Tepesi, zengin bir flora ve fauna çeşitliliğine sahip.
 - Tepenin zirvesinden, çevredeki diğer tepeler ve vadiler görülebiliyor.

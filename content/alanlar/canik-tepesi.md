@@ -36,7 +36,7 @@ Canik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Canik Tepesi, Giresun'un merkezinde, Karadeniz kıyılarına yakın bir konumda bulunuyor. Tepenin yüksekliği, Karadeniz'in güzel manzarasını sunuyor. Canik Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Canik Tepesi, Giresun'un iklimine phù uygun bir yapıya sahip. Tepenin konumu, ziyaretçilerine Karadeniz'in güzel manzarasını sunuyor. Canik Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Tepenin coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Canik Tepesi, Giresun'un önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Canik Tepesi, Giresun'un merkezinde, Karadeniz kıyılarına yakın bir konumda bulunuyor. Tepenin yüksekliği, Karadeniz'in güzel manzarasını sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Canik Tepesi, Giresun'un iklimine phù uygun bir yapıya sahip. Tepenin konumu, ziyaretçilerine Karadeniz'in güzel manzarasını sunuyor. Canik Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Tepenin coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Canik Tepesi, Giresun'un önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Canik Tepesi'ni ziyaret etmek, Giresun'un güzel manzarasını keşfetmek için 
 ## İlginç Bilgiler
 
 - Canik Tepesi, Giresun'un en yüksek noktası
-- Tepenin alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Canik Tepesi, Karadeniz Bölgesi'nin eşsiz manzarasına sahip
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Canik Tepesi, Giresun'un önemli turizm merkezlerinden biri

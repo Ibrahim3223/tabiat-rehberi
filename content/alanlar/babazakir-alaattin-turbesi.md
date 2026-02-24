@@ -29,7 +29,7 @@ wikidata_id: "Q131390733"
 
 # Babazakir Alaattin Türbesi
 
-Bursa'nın Yıldırım ilçesinde yer alan Babazakir Alaattin Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri. Bu özel alan, yaklaşık 140 hektarlık bir arazide kurulmuş ve ziyaretçiler için geniş bir açık alan sunuyor. Babazakir Alaattin Türbesi, tarihi geçmişi ve doğal güzellikleri ile birlikte, ziyaretçilerin ilgisini çekiyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, aynı zamanda bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
+Bursa'nın Yıldırım ilçesinde yer alan Babazakir Alaattin Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri. Babazakir Alaattin Türbesi, tarihi geçmişi ve doğal güzellikleri ile birlikte, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Babazakir Alaattin Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Babazakir Alaattin Türbesi, Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin merkezi bir konumunda yer alıyor. Türbe, yaklaşık 140 hektarlık bir arazide kurulmuş ve geniş bir açık alan sunuyor. Bölgenin coğrafi özellikleri, türbenin mimarisini ve iç dizaynını etkilemiş. Marmara Bölgesi'nin iklimi, türbenin çevresinde çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Ziyaretçiler, türbenin çevresinde güzel manzaralar ve doğal güzellikler keşfedebilir. Babazakir Alaattin Türbesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini bir araya getiren özel bir mekan olarak kabul ediliyor.
+Babazakir Alaattin Türbesi, Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin merkezi bir konumunda yer alıyor. Bölgenin coğrafi özellikleri, türbenin mimarisini ve iç dizaynını etkilemiş. Marmara Bölgesi'nin iklimi, türbenin çevresinde çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Ziyaretçiler, türbenin çevresinde güzel manzaralar ve doğal güzellikler keşfedebilir. Babazakir Alaattin Türbesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini bir araya getiren özel bir mekan olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Babazakir Alaattin Türbesi'ni ziyaret etmek, Marmara Bölgesi'nin tarihi ve kü
 ## İlginç Bilgiler
 
 - Babazakir Alaattin Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri.
-- Türbe, yaklaşık 140 hektarlık bir arazide kurulmuş.
+
 - Babazakir Alaattin Türbesi, bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
 - Ziyaretçiler, türbenin tarihi geçmişi hakkında bilgi edinebilir.
 - Türbenin çevresinde, çeşitli bitki türleri ve hayvanlar yaşadığından, ziyaretçiler için önemli bir doğa deneyimi sunuyor.

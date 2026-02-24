@@ -51,6 +51,6 @@ wikidata_id: "Q131390713"
 
 - İmam Kurtubi Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişe sahiptir.
 - Bölge, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir.
-- İmam Kurtubi Türbesi, 140 hektarlık bir büyüklüğe sahiptir.
+
 - Burada, çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler doğanın güzelliğini keşfetme fırsatı bulurlar.
 - İmam Kurtubi Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren bir destinasyondur.

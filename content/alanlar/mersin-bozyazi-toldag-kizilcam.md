@@ -14,7 +14,7 @@ aktiviteler: ["gezi","doğa yürüyüşü","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Mersin Bozyazi Toldag-Kızılçam","caption":"Mersin Bozyazi Toldag-Kızılçam","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Bozyazi%20Toldag-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228058","tip":"genel"}]
-description: "Mersin'in doğal güzelliklerini keşfedin. Bozyazi Toldag-Kızılçam milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+description: "Mersin'in doğal güzelliklerini keşfedin."
 keywords: ["Mersin","Bozyazi","Toldag-Kızılçam","milli park","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228058"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228058"
 
 # Mersin Bozyazi Toldag-Kızılçam
 
- İç Anadolu Bölgesi'nin bu güzel köşesinde, ziyaretçiler doğanın tüm güzelliğini keşfedebilir. parkın geniş alanları, gezi için ideal bir ortam sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
+ İç Anadolu Bölgesi'nin bu güzel köşesinde, ziyaretçiler doğanın tüm güzelliğini keşfedebilir. parkın geniş alanları, gezi için ideal bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mersin Bozyazi Toldag-Kızılçam milli parkını ziyaret etmek için, ziyaretç
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - yüzyıllar boyunca şekillenmiş tarihi geçmişi
 - zengin flora ve fauna
 - doğal güzelliği

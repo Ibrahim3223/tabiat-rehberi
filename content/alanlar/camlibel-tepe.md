@@ -36,7 +36,7 @@ wikidata_id: "Q34828197"
 
 ## Coğrafya
 
-Çamlıbel Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle dikkat çekiyor. Bu tepe, 140 hektarlık alanı ile oldukça geniş bir bölgeyi kapsıyor. Çamlıbel Tepe'nin coğrafyası, çeşitli bitki türleri ile kaplı ve yaban hayatı ile zengin bir ekosisteme sahip. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alıyor ve çevresi doğal güzelliklerle dolu. İklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Çamlıbel Tepe, coğrafi konumu itibariyle hem doğa severlerin hem de macera arayanların ilgisini çekiyor.
+Çamlıbel Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle dikkat çekiyor. Çamlıbel Tepe'nin coğrafyası, çeşitli bitki türleri ile kaplı ve yaban hayatı ile zengin bir ekosisteme sahip. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alıyor ve çevresi doğal güzelliklerle dolu. İklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Çamlıbel Tepe, coğrafi konumu itibariyle hem doğa severlerin hem de macera arayanların ilgisini çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34828197"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - çeşitli bitki türleri
 - yaban hayatı ile zengin ekosistem
 - tarihi geçmişi

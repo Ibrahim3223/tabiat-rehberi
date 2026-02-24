@@ -49,7 +49,7 @@ Kara Tepe'yi ziyaret etmek, doğa ve tarih severler için önemli bir deneyim. Z
 ## İlginç Bilgiler
 
 - Kara Tepe, Şanlıurfa'nın önemli bir tarihi ve doğal güzellik merkezi
-- Bölge, yaklaşık 140 hektarlık alanı kaplıyor
+
 - Kara Tepe, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış
 - Bölge, flora ve fauna açısından zengin
 - Ziyaretçiler, özel araçları ile veya toplu taşıma araçlarını kullanarak ulaşabiliyor

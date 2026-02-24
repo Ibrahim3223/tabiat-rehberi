@@ -36,7 +36,7 @@ Ahır Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bölge,
 
 ## Coğrafya
 
-Ahır Tepe, Tekirdağ'ın Marmara Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Bu tepe, 140 hektarlık bir alanı kaplıyor ve etrafı, yeşilin farklı tonlarını sunan ormanlarla çevrilidir. Ormanlar, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor ve bu reason, Ahır Tepe'yi doğa severler için ideal bir gezi noktası haline getiriyor. İklim, genel olarak ılımandır ve mevsimsel değişimler, bu bölgede farklı doğa güzelliklerini ortaya çıkarıyor. Bahar aylarında, çiçekler açıyor ve yaz aylarında, yeşilin farklı tonları ortaya çıkıyor. Kış aylarında, kar yağışları görülüyor ve bu reason, Ahır Tepe'yi dört mevsim ziyaret edilebilir bir yer haline getiriyor.
+Ahır Tepe, Tekirdağ'ın Marmara Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Ormanlar, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor ve bu reason, Ahır Tepe'yi doğa severler için ideal bir gezi noktası haline getiriyor. İklim, genel olarak ılımandır ve mevsimsel değişimler, bu bölgede farklı doğa güzelliklerini ortaya çıkarıyor. Bahar aylarında, çiçekler açıyor ve yaz aylarında, yeşilin farklı tonları ortaya çıkıyor. Kış aylarında, kar yağışları görülüyor ve bu reason, Ahır Tepe'yi dört mevsim ziyaret edilebilir bir yer haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -44,11 +44,10 @@ Ahır Tepe, Tekirdağ'ın Marmara Bölgesi'nde yer alıyor ve coğrafi olarak ol
 
 ## Ziyaret Bilgileri
 
-Ahır Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için ideal bir gezi noktası. Bu tepe, 140 hektarlık bir alanı kaplıyor ve etrafı, yeşilin farklı tonlarını sunan ormanlarla çevrilidir. Ahır Tepe'ye ulaşım, Tekirdağ merkezinden kolayca sağlanabilir ve bu reason, bu bölgeyi ziyaret edilebilir bir yer haline getiriyor. Ahır Tepe, dört mevsim ziyaret edilebilir ve her mevsim, bu bölgede farklı doğa güzelliklerini ortaya çıkarıyor.
+Ahır Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için ideal bir gezi noktası. Ahır Tepe'ye ulaşım, Tekirdağ merkezinden kolayca sağlanabilir ve bu reason, bu bölgeyi ziyaret edilebilir bir yer haline getiriyor. Ahır Tepe, dört mevsim ziyaret edilebilir ve her mevsim, bu bölgede farklı doğa güzelliklerini ortaya çıkarıyor.
 
 ## İlginç Bilgiler
 
-- Ahır Tepe, 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, çeşitli bitki türlerini barındırıyor.
 - Ahır Tepe, yaban hayvanlarına ev sahipliği yapıyor.
 - Bu bölge, dört mevsim ziyaret edilebilir.

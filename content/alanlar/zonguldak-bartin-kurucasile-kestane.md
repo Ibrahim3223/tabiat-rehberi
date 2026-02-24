@@ -22,7 +22,7 @@ wikidata_id: "Q108228502"
 
 # Zonguldak-Bartin-Kurucasile Kestane
 
-Zonguldak-Bartin-Kurucasile Kestane milli parkı, yaklaşık 140 hektarlık alanı ile Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Milli parkın bulunduğu Zonguldak, Karadeniz Bölgesi'nin en güzel illerinden biri olup, tarihi ve doğal güzellikleri ile dikkat çeker. Zonguldak-Bartin-Kurucasile Kestane milli parkı, doğa severlerin ve turistlerin sık sık ziyaret ettiği bir yerdir.
+ Milli parkın bulunduğu Zonguldak, Karadeniz Bölgesi'nin en güzel illerinden biri olup, tarihi ve doğal güzellikleri ile dikkat çeker. Zonguldak-Bartin-Kurucasile Kestane milli parkı, doğa severlerin ve turistlerin sık sık ziyaret ettiği bir yerdir.
 
 ## Tarihçe
 

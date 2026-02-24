@@ -30,7 +30,7 @@ wikidata_id: "Q122051242"
 
 # Ebu Şeybe El-Hudri Türbesi
 
-Ebu Şeybe El-Hudri Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan bir tarihi türbedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve İstanbul'un önemli tarihi ve dini merkezlerinden biridir. Türbenin bulunduğu yer, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır ve ziyaretçilere tarihi ve doğal güzellikleri bir arada sunar. İstanbul'un tarihi dokusunu keşfetmek isteyenler için Ebu Şeybe El-Hudri Türbesi, önemli bir destinasyon olarak dikkat çeker.
+Ebu Şeybe El-Hudri Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan bir tarihi türbedir. Türbenin bulunduğu yer, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır ve ziyaretçilere tarihi ve doğal güzellikleri bir arada sunar. İstanbul'un tarihi dokusunu keşfetmek isteyenler için Ebu Şeybe El-Hudri Türbesi, önemli bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Ebu Şeybe El-Hudri Türbesi, ziyaretçilere tarihi ve doğal güzellikleri bir 
 ## İlginç Bilgiler
 
 - Ebu Şeybe El-Hudri, İstanbul'un fethi sırasında önemli roller oynayan tarihi figürlerden biridir.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur.
+
 - Ebu Şeybe El-Hudri Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunar.
 - Türbe, yılın her döneminde ziyaret edilebilir.
 - İlkbahar ve yaz ayları, türbenin doğal güzelliklerini keşfetmek için en uygun zamanlardır.

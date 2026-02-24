@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih keşfi","fotoğrafç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Kızılsarnıç Tepe","caption":"Kızılsarnıç Tepe","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lsarn%C4%B1%C3%A7%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211284","tip":"genel"}]
-description: "Karaman'ın tarihi ve coğrafi zenginliklerini keşfedin, 140 hektarlık alan"
+
 keywords: ["Kızılsarnıç Tepe","Karaman","İç Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211284"
@@ -36,7 +36,7 @@ Kızılsarnıç Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Kızılsarnıç Tepe, Karaman'ın coğrafi yapısını temsil eder. 140 hektarlık bu alan, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, coğrafi konumu itibariyle, doğa severlerin ilgisini çeker. Kızılsarnıç Tepe, manzaraları ve doğası ile ziyaretçilerini etkiler. Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Kızılsarnıç Tepe, ziyaretçilerine, İç Anadolu Bölgesi'nin güzelliğini ve zenginliğini sunar. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere, yerel kültürü ve gelenekleri tanıtmak için önemli bir fırsat sunar.
+Kızılsarnıç Tepe, Karaman'ın coğrafi yapısını temsil eder. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, coğrafi konumu itibariyle, doğa severlerin ilgisini çeker. Kızılsarnıç Tepe, manzaraları ve doğası ile ziyaretçilerini etkiler. Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Kızılsarnıç Tepe, ziyaretçilerine, İç Anadolu Bölgesi'nin güzelliğini ve zenginliğini sunar. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere, yerel kültürü ve gelenekleri tanıtmak için önemli bir fırsat sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kızılsarnıç Tepe, ziyaretçiler için önemli bir destinasyon. Tepenin etraf
 
 ## İlginç Bilgiler
 
-- Kızılsarnıç Tepe, 140 hektarlık bir alana sahiptir.
 - Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur.
 - Kızılsarnıç Tepe, Karaman'ın tarihini ve kültürünü anlamak için önemli bir nokta.
 - Tepenin etrafındaki köyler, ziyaretçilere, yerel halkın yaşam tarzını ve geleneklerini tanıtmak için önemli bir opportunity sunar.

@@ -36,7 +36,7 @@ Kestanbol Kaplıcası'nın tarihi geçmişi, yüzyıllar boyunca insanların bu 
 
 ## Coğrafya
 
-Kestanbol Kaplıcası, Çanakkale'nin eşsiz coğrafi güzellikleri arasında yer alıyor. Bölge, Marmara Bölgesi'nin batı ucunda, Çanakkale Boğazı'nın yakınında bulunuyor. Kaplıca, etrafı ormanlarla çevrili ve yeşilin her tonunu barındıran bir doğa harikası. Coğrafi konumu itibariyle, kaplıca sakin bir atmosfere sahip ve şehir hayatının gürültüsünden uzakta. İklimi ılıman ve nemli, yazları sıcak ve kışları ılık geçiyor. Çevre, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor ve ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kestanbol Kaplıcası, 140 hektarlık geniş bir alana yayılmış ve ziyaretçilerine geniş yeşil alanlar, yürüyüş parkurları ve dinlenme alanları sunuyor.
+Kestanbol Kaplıcası, Çanakkale'nin eşsiz coğrafi güzellikleri arasında yer alıyor. Bölge, Marmara Bölgesi'nin batı ucunda, Çanakkale Boğazı'nın yakınında bulunuyor. Kaplıca, etrafı ormanlarla çevrili ve yeşilin her tonunu barındıran bir doğa harikası. Coğrafi konumu itibariyle, kaplıca sakin bir atmosfere sahip ve şehir hayatının gürültüsünden uzakta. İklimi ılıman ve nemli, yazları sıcak ve kışları ılık geçiyor. Çevre, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor ve ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

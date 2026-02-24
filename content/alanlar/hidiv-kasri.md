@@ -42,7 +42,7 @@ Hidiv Kasrı, Çubuklu semtinde bulunur ve İstanbul'un en güzel bölgelerinden
 
 ## Flora ve Fauna
 
-Hidiv Kasrı, ziyaretçilerine birçok farklı türde flora ve fauna sunar. Bu kasır, yaklaşık 140 hektarlık bir alanı kaplar ve bu størreligi ile birçok farklı türde bitki ve hayvan barındırır. Hidiv Kasrı, birçok farklı türde ağaç, çiçe ve diğer bitki türlerine ev sahipliği yapar. Bu kasır, aynı zamanda birçok farklı türde hayvan da barındırır. Hidiv Kasrı, ziyaretçilerine birçok farklı türde kuş, böce ve diğer hayvanları gözlemleme imkanı sunar. Hidiv Kasrı, flora ve faunası ile ziyaretçilerine birçok farklı türde bitki ve hayvanı tanıma fırsatı sunar.
+Hidiv Kasrı, ziyaretçilerine birçok farklı türde flora ve fauna sunar. Hidiv Kasrı, birçok farklı türde ağaç, çiçe ve diğer bitki türlerine ev sahipliği yapar. Bu kasır, aynı zamanda birçok farklı türde hayvan da barındırır. Hidiv Kasrı, ziyaretçilerine birçok farklı türde kuş, böce ve diğer hayvanları gözlemleme imkanı sunar. Hidiv Kasrı, flora ve faunası ile ziyaretçilerine birçok farklı türde bitki ve hayvanı tanıma fırsatı sunar.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Hidiv Kasrı, ziyaretçilerine birçok farklı faaliyet yapma imkanı sunar. Bu 
 ## İlginç Bilgiler
 
 - Hidiv Kasrı, 19. yüzyılda yaptırılmıştır.
-- Bu kasır, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hidiv Kasrı, birçok farklı türde flora ve fauna sunar.
 - Bu kasır, ziyaretçilerine tarihin izlerini taşıyan bir ortam sunar.
 - Hidiv Kasrı, birçok farklı faaliyet yapma imkanı sunar.

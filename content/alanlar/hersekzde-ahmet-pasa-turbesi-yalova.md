@@ -50,7 +50,7 @@ Hersekzâde Ahmet Paşa Türbesi, Yalova'nın Altınova ilçesinde ziyaret edile
 ## İlginç Bilgiler
 
 - Hersekzâde Ahmet Paşa Türbesi, Yalova'nın önemli tarihi mekanlarından biridir.
-- Türbe, 140 hektarlık bir alanın içerisinde yer alır.
+
 - Bu bölgede, çeşitli bitkiler ve ağaçlar bulunur.
 - Hersekzâde Ahmet Paşa, Osmanlı İmparatorluğu'nun önemli isimlerinden biridir.
 - Türbe, Marmara Bölgesi'nin karakteristik özelliklerini taşır.

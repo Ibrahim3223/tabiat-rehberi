@@ -29,7 +29,7 @@ wikidata_id: "Q134728216"
 
 # Kaya Mezarı 3 (Günören Mahallesi), Altınordu
 
-Kaya Mezarı 3, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Altınordu'nun Günören Mahallesi'nde yer alan bu plaj, yaklaşık 140 hektarlık bir alana yayılır. Kaya Mezarı 3, denizin ve güneşin keyfini çıkarabileceğiniz bir yerdir. Plajın kumsalı, ince kumdan oluşur ve suyun kenarına kadar uzanır. Kaya Mezarı 3, hem yerel halk hem de turistler tarafından sıkça ziyaret edilir. Bu plaj, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Kaya Mezarı 3, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Kaya Mezarı 3, denizin ve güneşin keyfini çıkarabileceğiniz bir yerdir. Plajın kumsalı, ince kumdan oluşur ve suyun kenarına kadar uzanır. Kaya Mezarı 3, hem yerel halk hem de turistler tarafından sıkça ziyaret edilir. Bu plaj, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kaya Mezarı 3'ü ziyaret etmek, Karadeniz Bölgesi'nin doğal güzelliklerini k
 ## İlginç Bilgiler
 
 - Kaya Mezarı 3, Karadeniz Bölgesi'nin en güzel plajlarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alana yayılır.
+
 - Kaya Mezarı 3'ün kumsalı, ince kumdan oluşur ve suyun kenarına kadar uzanır.
 - Bu plaj, hem yerel halk hem de turistler tarafından sıkça ziyaret edilir.
 - Kaya Mezarı 3, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Gökbelen Tepesi","caption":"Gökbelen Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kbelen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223469","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Gökbelen Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Gökbelen Tepesi","Mersin","Akdeniz Bölgesi","turizm","doğa","tepe","gezi","yaylak"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32223469"
@@ -48,7 +48,6 @@ Gökbelen Tepesi'ni ziyaret etmek, doğa severler için büyük bir fırsat. Bö
 
 ## İlginç Bilgiler
 
-- Gökbelen Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, yemyeşil ormanları ve çeşitli bitki türleri ile dikkat çekiyor
 - Gökbelen Tepesi, zengin fauna ile dikkat çekiyor
 - Bölge, deniz seviyesinden yüksek bir noktada yer alıyor

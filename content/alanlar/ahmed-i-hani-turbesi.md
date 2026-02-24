@@ -38,7 +38,7 @@ Ahmed-i Hani Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Ahmed-i Hani Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve etrafında çeşitli bitki türleri ile zengin fauna bulunmakta. Coğrafi konumu itibariyle, Ahmed-i Hani Türbesi, ziyaretçilerine güzel bir manzara sunuyor. Türbenin bulunduğu bölge, iklim açısından da dikkat çekici. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler oldukça belirgin. Ahmed-i Hani Türbesi'nin etrafındaki coğrafya, ziyaretçilere hem doğal güzellikleri hem de tarihi mekanları keşfetme fırsatı sunuyor.
+Ahmed-i Hani Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Coğrafi konumu itibariyle, Ahmed-i Hani Türbesi, ziyaretçilerine güzel bir manzara sunuyor. Türbenin bulunduğu bölge, iklim açısından da dikkat çekici. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler oldukça belirgin. Ahmed-i Hani Türbesi'nin etrafındaki coğrafya, ziyaretçilere hem doğal güzellikleri hem de tarihi mekanları keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Ahmed-i Hani Türbesi'ni ziyaret etmek, hem tarihi hem de kültürel açıdan ol
 - Ahmed-i Hani Türbesi, yüzyıllar öncesine dayanan tarihi bir mekan
 - Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Ahmed-i Hani, Kürt edebiyatının önemli isimlerinden biri olarak biliniyor
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor
+
 - Ahmed-i Hani Türbesi, Doğubayazıt'ın önemli ziyaret noktalarından biri olarak kabul ediliyor

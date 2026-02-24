@@ -28,7 +28,7 @@ wikidata_id: "Q31554183"
 
 # Mantalaferho Tepesi
 
-Mantalaferho Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yakındaki diğer tepelerle birlikte bir bütün olarak görülür. Mantalaferho Tepesi, ziyaretçilerine Mardin'in tarihi geçmişini ve doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafındaki manzara, Mardin'in eşsiz coğrafyasını gözler önüne serer. Ziyaretçiler, bu tepeye çıktıklarında, Mardin'in tarihi ve kültürel zenginliklerini yakından görebilirler.
+Mantalaferho Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak bilinir. Mantalaferho Tepesi, ziyaretçilerine Mardin'in tarihi geçmişini ve doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafındaki manzara, Mardin'in eşsiz coğrafyasını gözler önüne serer. Ziyaretçiler, bu tepeye çıktıklarında, Mardin'in tarihi ve kültürel zenginliklerini yakından görebilirler.
 
 ## Tarihçe
 

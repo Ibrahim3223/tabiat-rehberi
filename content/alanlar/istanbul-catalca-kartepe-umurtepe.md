@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Bisiklet","Doğa fotoğrafçılığı","Tarih gezis
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"İSTANBUL ÇATALCA KARTEPE (UMURTEPE","caption":"İSTANBUL ÇATALCA KARTEPE (UMURTEPE","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0STANBUL%20%C3%87ATALCA%20KARTEPE%20(UMURTEPE","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228910","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan İstanbul Çatalca Kartaltepe (Umurtepe), 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor"
+
 keywords: ["Kartaltepe","Umurtepe","İstanbul Çatalca","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228910"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228910"
 
 # İSTANBUL ÇATALCA KARTEPE (UMURTEPE
 
- Bu büyük yeşil alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Kartaltepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak öne çıkıyor. 140 hektarlık bu büyük yeşil alan, ziyaretçilere doğayı keşfetme ve tarihi geçmişi öğrenme fırsatı sunuyor.
+ Bu büyük yeşil alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Kartaltepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kartaltepe (Umurtepe)'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Kartaltepe (Umurtepe), İç Anadolu Bölgesi'nde yer alan bir milli park olarak, coğrafi açıdan zengin bir yapıya sahiptir. 140 hektarlık büyük yeşil alanı, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş açık alanlar ve doğal güzellikler sunuyor. Ayrıca, Kartaltepe'nin konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere kolayca ulaşmesine olanak sağlıyor. Coğrafi açıdan zengin olan bu bölge, ziyaretçilere geniş bir perspektif sunuyor.
+Kartaltepe (Umurtepe), İç Anadolu Bölgesi'nde yer alan bir milli park olarak, coğrafi açıdan zengin bir yapıya sahiptir. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş açık alanlar ve doğal güzellikler sunuyor. Ayrıca, Kartaltepe'nin konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere kolayca ulaşmesine olanak sağlıyor. Coğrafi açıdan zengin olan bu bölge, ziyaretçilere geniş bir perspektif sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kartaltepe (Umurtepe)'yi ziyaret etmek, özellikle doğa severler ve tarih merak
 
 ## İlginç Bilgiler
 
-- Kartaltepe (Umurtepe), 140 hektarlık büyük yeşil alanı ile dikkat çekiyor
 - Bu bölgede, çeşitli bitki türleri ve fauna çeşitliliği bulunuyor
 - Kartaltepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon
 - Bahar ve yaz ayları, ziyaret için en uygun mevsimler

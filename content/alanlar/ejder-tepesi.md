@@ -48,7 +48,6 @@ Ejder Tepesi'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal bi
 
 ## İlginç Bilgiler
 
-- Ejder Tepesi, 140 hektarlık bir alana sahip
 - Tepenin yüksekliği, deniz seviyesinden 2000 metre
 - Ejder Tepesi, Erzurum'un merkezine 10 kilometre uzaklıkta
 - Tepede, çeşitli bitki türleri ve zengin fauna bulunmakta

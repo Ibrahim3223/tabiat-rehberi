@@ -49,7 +49,7 @@ Yükselen Tepe, ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, Kas
 ## İlginç Bilgiler
 
 - Yükselen Tepe, Kastamonu'nun en önemli doğal güzelliklerinden biri
-- Bu tepe, 140 hektarlık bir alanı kapsıyor
+
 - Yükselen Tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmesi önerilir
 - Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını taşıyor
 - Yükselen Tepe, ziyaretçilerine çeşitli bitki türleri ve zengin fauna sunuyor

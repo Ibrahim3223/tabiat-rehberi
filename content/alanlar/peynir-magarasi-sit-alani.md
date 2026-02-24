@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","trekking","mağara gezi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Peynir Mağarası Sit Alanı","caption":"Peynir Mağarası Sit Alanı","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peynir%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226384","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli hazinesi, 140 hektarlık natuur alanı"
+
 keywords: ["Peynir Mağarası","Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","mağara","türkiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226384"
@@ -42,7 +42,6 @@ Peynir Mağarası Sit Alanı, ziyaretçilerini büyüleyici bir dünyada unutulm
 
 ## İlginç Bilgiler
 
-- Peynir Mağarası Sit Alanı, 140 hektarlık bir natuur alanıdır
 - Mağaranın oluşumu, milyonlarca yıl önce bt ngun etmiş
 - Bu doğal alan, çeşitli medeniyetlere ev sahipliği yapmış
 - Peynir Mağarası Sit Alanı, bölgenin en önemli doğal sit alanlarından biridir

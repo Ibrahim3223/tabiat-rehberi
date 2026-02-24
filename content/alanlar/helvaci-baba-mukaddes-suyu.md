@@ -29,7 +29,7 @@ wikidata_id: "Q131390831"
 
 # Helvacı Baba Mukaddes Suyu
 
-Helvacı Baba Mukaddes Suyu, İzmir'in Bergama ilçesinde yer alan bir plaj ve tarihi mekân olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor. Helvacı Baba Mukaddes Suyu, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bu mekân, Bergama'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor.
+Helvacı Baba Mukaddes Suyu, İzmir'in Bergama ilçesinde yer alan bir plaj ve tarihi mekân olarak dikkat çekiyor. Helvacı Baba Mukaddes Suyu, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bu mekân, Bergama'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Helvacı Baba Mukaddes Suyu'nu ziyaret etmek için, en uygun zaman ilkbahar ve y
 ## İlginç Bilgiler
 
 - Helvacı Baba Mukaddes Suyu, Bergama'nın en önemli turizm noktalarından biri.
-- Bu bölge, yaklaşık 140 hektarlık bir yeşil alan içinde yer alıyor.
+
 - Helvacı Baba Mukaddes Suyu, tarihi ve doğal güzelliği ile dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor.
 - İlkbahar ve yaz ayları, bu bölgenin en çok ziyaret edildiği zamanlar.

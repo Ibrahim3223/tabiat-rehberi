@@ -14,8 +14,8 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Erzurum-Sarikamis Saricam","caption":"Erzurum-Sarikamis Saricam","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Sarikamis%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227563","tip":"genel"}]
-description: "Erzurum'un güzide mekanlarından biri olan Sarikamis Saricam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Erzurum","Sarikamis Saricam","Doğu Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi","turizm"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227563"
 ---
@@ -30,7 +30,7 @@ Sarikamis Saricam'ın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Sarikamis Saricam, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık yeşil alan, çeşitli bitkileri ve ağaç türlerini barındırıyor. Bu bölge, iklimsel olarak karasal iklimin hakim olduğu bir bölgede yer alıyor ve dört mevsim farklı güzellikler sunuyor. Kış aylarında karla kaplanan Saricam, yaz aylarında ise yeşille bezeli bir görünüm sunuyor. Bu mekan, doğa severlerin her mevsim ziyaret edebileceği bir cennet olarak düşünülebilir. Sarikamis Saricam, Erzurum'un coğrafi güzelliklerini bir araya getiren özel bir nokta olarak biliniyor.
+Sarikamis Saricam, coğrafi olarak oldukça zengin bir yapıya sahip. Bu bölge, iklimsel olarak karasal iklimin hakim olduğu bir bölgede yer alıyor ve dört mevsim farklı güzellikler sunuyor. Kış aylarında karla kaplanan Saricam, yaz aylarında ise yeşille bezeli bir görünüm sunuyor. Bu mekan, doğa severlerin her mevsim ziyaret edebileceği bir cennet olarak düşünülebilir. Sarikamis Saricam, Erzurum'un coğrafi güzelliklerini bir araya getiren özel bir nokta olarak biliniyor.
 
 ## Flora ve Fauna
 

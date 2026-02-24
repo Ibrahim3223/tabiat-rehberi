@@ -50,7 +50,7 @@ Arapzade Mustafa Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kült�
 ## İlginç Bilgiler
 
 - Arapzade Mustafa Efendi Türbesi, İstanbul'un tarihi mekanlarından biri.
-- Türbe, 140 hektarlık bir alan içinde yer alıyor.
+
 - Arapzade Mustafa Efendi Türbesi, İstanbul'un kültürel kimliğinin önemli bir simgesi.
 - Türbe, çeşitli bitki türleriyle çevrili.
 - Arapzade Mustafa Efendi Türbesi, yılın herhangi bir zamanında ziyaret edilebilir.

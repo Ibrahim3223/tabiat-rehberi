@@ -30,7 +30,7 @@ Pınarbaşı Sarıçam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. 
 
 ## Coğrafya
 
-Pınarbaşı Sarıçam, Adana ve Kayseri illerinin sınırında yer alıyor. Milli park, yaklaşık 140 hektarlık bir alanı kapsıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Pınarbaşı Sarıçam'ın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor. Milli parkın etrafında, çeşitli yürüyüş yolları ve piknik alanları bulunuyor. Pınarbaşı Sarıçam, ziyaretçilerine doğanın içinde huzur bulma fırsatı sunuyor. Burada, mevsimsel değişimler ile birlikte, doğanın güzelliği değişiyor. Kış aylarında karla kaplı olan milli park, yaz aylarında yeşilin her tonunu sunuyor.
+Pınarbaşı Sarıçam, Adana ve Kayseri illerinin sınırında yer alıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Pınarbaşı Sarıçam'ın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor. Milli parkın etrafında, çeşitli yürüyüş yolları ve piknik alanları bulunuyor. Pınarbaşı Sarıçam, ziyaretçilerine doğanın içinde huzur bulma fırsatı sunuyor. Burada, mevsimsel değişimler ile birlikte, doğanın güzelliği değişiyor. Kış aylarında karla kaplı olan milli park, yaz aylarında yeşilin her tonunu sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Pınarbaşı Sarıçam, ziyaretçilerine doğanın içinde huzur bulma fırsatı
 
 ## İlginç Bilgiler
 
-- Pınarbaşı Sarıçam, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Milli park, Adana ve Kayseri illerinin sınırında yer alıyor.
 - Pınarbaşı Sarıçam, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Milli parkta, çeşitli yürüyüş yolları ve piknik alanları bulunuyor.

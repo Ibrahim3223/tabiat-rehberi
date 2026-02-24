@@ -21,7 +21,7 @@ aktiviteler: ["Piknik yapmak","Doğayı seyretmek","Türbe ziyaretleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Ahi Hüsameddin Türbesi","caption":"Ahi Hüsameddin Türbesi","credit":"Mediterranean ^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20H%C3%BCsameddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390665","tip":"genel"}]
-description: "Ankara'nın tarihi mekanlarından biri olan Ahi Hüsameddin Türbesi, İç Anadolu Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar."
+description: "Ankara'nın tarihi mekanlarından biri olan Ahi Hüsameddin Türbesi, İç Anadolu Bölgesi'nde yer alır."
 keywords: ["Ahi Hüsameddin Türbesi","Ankara","İç Anadolu Bölgesi","Tarih","Kültür","Turizm","Yeşil Alan","Türbe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390665"
@@ -50,7 +50,7 @@ Ahi Hüsameddin Türbesi, ziyaretçilerine çeşitli etkinlikler sunar. Türbe, 
 ## İlginç Bilgiler
 
 - Ahi Hüsameddin Türbesi, Ankara'nın tarihi mekanlarından biridir.
-- Türbe, 140 hektarlık bir yeşil alanı kapsar.
+
 - Ahi Hüsameddin, 13. yüzyılda yaşayan bir Türk alimi ve mutasavvıf olarak bilinir.
 - Türbe, Ahi Hüsameddin'in ölümünden sonra inşa edilmiştir.
 - Ahi Hüsameddin Türbesi, Türk kültürü ve tarihi açısından önemli bir mekan olarak görülmektedir.

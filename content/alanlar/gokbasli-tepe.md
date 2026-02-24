@@ -36,7 +36,7 @@ Gökbaşlı Tepe'nin tarihi geçmişi, binlerce yıl öncesine dayanıyor. Eski 
 
 ## Coğrafya
 
-Gökbaşlı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, genellikle step ve bozkır gibi doğal oluşumlarla karakterize ediliyor. Gökbaşlı Tepe, bu bölgenin coğrafi yapısını temsil ediyor. Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitkiler ve ağaçlar ile kaplı. Gökbaşlı Tepe, aynı zamanda su kaynakları açısından zengin. Tepe üzerindeki su kaynakları, çevredeki diğer bölgelere göre daha fazla. Bu, tepeyi bir doğa harikası haline getiriyor. Gökbaşlı Tepe, coğrafi olarak da önemli bir konumda yer alıyor. Tepe, Konya şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu, ziyaretçilerin tepeyi kolayca ziyaret edebileceği anlamına geliyor. Gökbaşlı Tepe, aynı zamanda diğer doğal güzelliklere de yakın. Tepe, uzun bir mesafe uzaklıkta yer alan bir göle ve çeşitli diğer doğal oluşumlara yakındırlar.
+Gökbaşlı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, genellikle step ve bozkır gibi doğal oluşumlarla karakterize ediliyor. Gökbaşlı Tepe, bu bölgenin coğrafi yapısını temsil ediyor. Gökbaşlı Tepe, aynı zamanda su kaynakları açısından zengin. Tepe üzerindeki su kaynakları, çevredeki diğer bölgelere göre daha fazla. Bu, tepeyi bir doğa harikası haline getiriyor. Gökbaşlı Tepe, coğrafi olarak da önemli bir konumda yer alıyor. Tepe, Konya şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu, ziyaretçilerin tepeyi kolayca ziyaret edebileceği anlamına geliyor. Gökbaşlı Tepe, aynı zamanda diğer doğal güzelliklere de yakın. Tepe, uzun bir mesafe uzaklıkta yer alan bir göle ve çeşitli diğer doğal oluşumlara yakındırlar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gökbaşlı Tepe, Konya'nın doğal ve tarihi güzelliklerini keşfetmek isteyen
 
 ## İlginç Bilgiler
 
-- Gökbaşlı Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Gökbaşlı Tepe, Konya şehir merkezine uzun bir mesafe uzaklıkta yer alıyor.
 - Gökbaşlı Tepe, çeşitli bitkiler ve ağaçlar ile kaplı.
 - Gökbaşlı Tepe, fauna açısından da zengin.

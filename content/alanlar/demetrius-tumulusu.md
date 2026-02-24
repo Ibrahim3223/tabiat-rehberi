@@ -29,7 +29,7 @@ wikidata_id: "Q134728392"
 
 # Demetrius Tümülüsü
 
-Demetrius Tümülüsü, Ezine ilçesinde bulunan önemli bir tarihî mekan olarak dikkat çekiyor. Bu alan, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Demetrius Tümülüsü,i geçmişinin zenginliği ile ziyaretçilerini cezbediyor. Ezine'nin tarihî dokusunu keşfetmek isteyenler için ideal bir destinasyon olan Demetrius Tümülüsü, bölgeye yapılan gezilerde mutlaka görülmesi gereken bir yer olarak öneriliyor.
+Demetrius Tümülüsü, Ezine ilçesinde bulunan önemli bir tarihî mekan olarak dikkat çekiyor. Demetrius Tümülüsü,i geçmişinin zenginliği ile ziyaretçilerini cezbediyor. Ezine'nin tarihî dokusunu keşfetmek isteyenler için ideal bir destinasyon olan Demetrius Tümülüsü, bölgeye yapılan gezilerde mutlaka görülmesi gereken bir yer olarak öneriliyor.
 
 ## Tarihçe
 

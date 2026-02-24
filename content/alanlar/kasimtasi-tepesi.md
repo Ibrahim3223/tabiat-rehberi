@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşleri","manzara seyri","çevre gezileri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Kaşımtaşı Tepesi","caption":"Kaşımtaşı Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9F%C4%B1mta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582325","tip":"genel"}]
-description: "Çorum'un görkemli doğal güzelliği Kaşımtaşı Tepesi, 140 hektarlık geniş alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Kaşımtaşı Tepesi","Çorum","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31582325"
@@ -28,7 +28,7 @@ wikidata_id: "Q31582325"
 
 # Kaşımtaşı Tepesi
 
-Kaşımtaşı Tepesi, Çorum'un merkezinde yer alan ve yaklaşık 140 hektarlık geniş alanı ile ziyaretçilerini bekleyen bir doğal güzelliktir. Kaşımtaşı Tepesi, şehre gelen ziyaretçilerin gezi noktalarından biridir ve burada yapılan faaliyetler arasında doğa yürüyüşleri, manzara seyri ve çevre gezileri bulunmaktadır.
+ Kaşımtaşı Tepesi, şehre gelen ziyaretçilerin gezi noktalarından biridir ve burada yapılan faaliyetler arasında doğa yürüyüşleri, manzara seyri ve çevre gezileri bulunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kaşımtaşı Tepesi'nin tarihi geçmişi, Çorum'un tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Kaşımtaşı Tepesi, Çorum'un merkezinde yer alan bir tepe olup, şehrin önemli bir coğrafi oluşumudur. Bu tepe, yaklaşık 140 hektarlık geniş bir alana yayılmış durumdadır ve şehrin merkezi bölgesinde yer almaktadır. Kaşımtaşı Tepesi'nin coğrafi konumu, ziyaretçilerine şehrin panoramik manzarasını sunmaktadır. Burada, şehrin önemli noktalarını görebilir ve çevre gezileri yapabilirsiniz. Kaşımtaşı Tepesi, Çorum'un iklimine uygun olarak, çeşitli mevsimlerde farklı güzellikler sunmaktadır. İlkbahar ve sonbahar aylarında, tepe çevresinde bulunan bitkilerin renkleri değişmekte ve güzel manzaralar oluşmaktadır.
+Kaşımtaşı Tepesi, Çorum'un merkezinde yer alan bir tepe olup, şehrin önemli bir coğrafi oluşumudur. Kaşımtaşı Tepesi'nin coğrafi konumu, ziyaretçilerine şehrin panoramik manzarasını sunmaktadır. Burada, şehrin önemli noktalarını görebilir ve çevre gezileri yapabilirsiniz. Kaşımtaşı Tepesi, Çorum'un iklimine uygun olarak, çeşitli mevsimlerde farklı güzellikler sunmaktadır. İlkbahar ve sonbahar aylarında, tepe çevresinde bulunan bitkilerin renkleri değişmekte ve güzel manzaralar oluşmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Kaşımtaşı Tepesi'ni ziyaret etmek, Çorum'a gelenler için önemli bir faali
 - Kaşımtaşı Tepesi, Çorum'un önemli bir turizm noktasıdır.
 - Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Kaşımtaşı Tepesi, şehre gelen ziyaretçilerin gezi noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık geniş bir alana yayılmış durumdadır.
+
 - Kaşımtaşı Tepesi, Çorum'un tarihi ve kültürel mirasının önemli bir parçasıdır.

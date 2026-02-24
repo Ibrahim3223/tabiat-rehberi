@@ -37,7 +37,7 @@ Selman Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Selman Dede Türbesi, Sakarya'nın Hendek ilçesinde, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, 140 hektarlık bir yeşil alan içinde bulunur ve etrafı çeşitli bitki türleriyle çevrilidir. Coğrafi konumu itibariyle, türbe ve çevresi, Marmara Bölgesi'nin karakteristik iklimini taşır. Bölge, nemli bir kara iklimine sahiptir ve dört mevsim belirgin olarak yaşanır. İlkbahar ve sonbahar mevsimleri, ziyaretçiler için en uygun zamanlardır, çünkü hava genellikle mildir ve yağış azdır. Kış mevsimi serin ve yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu coğrafi özellikler, türbenin ve çevresinin güzelliğini ve zenginliğini etkiler. Türbenin yakınında, çeşitli su kaynakları ve doğal güzellikler bulunur, bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
+Selman Dede Türbesi, Sakarya'nın Hendek ilçesinde, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Coğrafi konumu itibariyle, türbe ve çevresi, Marmara Bölgesi'nin karakteristik iklimini taşır. Bölge, nemli bir kara iklimine sahiptir ve dört mevsim belirgin olarak yaşanır. İlkbahar ve sonbahar mevsimleri, ziyaretçiler için en uygun zamanlardır, çünkü hava genellikle mildir ve yağış azdır. Kış mevsimi serin ve yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu coğrafi özellikler, türbenin ve çevresinin güzelliğini ve zenginliğini etkiler. Türbenin yakınında, çeşitli su kaynakları ve doğal güzellikler bulunur, bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Selman Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleriper
 ## İlginç Bilgiler
 
 - Selman Dede Türbesi, Sakarya'nın önemli turizm noktalarından biridir.
-- Türbe, 140 hektarlık bir yeşil alan içinde bulunur.
 
 - Türbenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Selman Dede, bölgede saygın bir figür olarak bilinir ve türbesi, manevi bir merkez olarak hizmet eder.

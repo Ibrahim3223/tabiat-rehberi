@@ -29,7 +29,7 @@ wikidata_id: "Q31390623"
 
 # Tuz Tepe
 
-Kırşehir'in merkezinde yer alan Tuz Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tuz Tepe, özellikle manzarasıyla dikkat çekiyor ve ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Tuz Tepe'ye çıkanlar, eşsiz bir manzara izleme fırsatı buluyorlar.
+ Tuz Tepe, özellikle manzarasıyla dikkat çekiyor ve ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Tuz Tepe'ye çıkanlar, eşsiz bir manzara izleme fırsatı buluyorlar.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Tuz Tepe'yi ziyaret etmek, ziyaretçiler için keyifli bir deneyim. Tuz Tepe'ye 
 
 ## İlginç Bilgiler
 
-- Tuz Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tuz Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Tuz Tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 - Tuz Tepe, özellikle bahar aylarında ziyaret ediliyor.

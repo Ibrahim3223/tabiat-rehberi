@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","tarih izleri takip"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Danakıran Tepesi","caption":"Danakıran Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Danak%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558275","tip":"genel"}]
-description: "Ankara'nın eşsiz doğa güzelliği, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Ankara","doğa","tepe","gezi","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558275"
@@ -28,7 +28,7 @@ wikidata_id: "Q31558275"
 
 # Danakıran Tepesi
 
-Danakıran Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, 140 hektarlık geniş bir alana sahip doğal bir güzelliğimiz. Doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olan Danakıran Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge. Burada, yüzyılların izlerini görme mümkün. Bu bölge, hem doğa hem de tarih açısından zengin bir içeriğe sahip.
+ Doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olan Danakıran Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge. Burada, yüzyılların izlerini görme mümkün. Bu bölge, hem doğa hem de tarih açısından zengin bir içeriğe sahip.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Danakıran Tepesi'nin tarihi geçmişi, yüzyılların ötesine uzanır. Bu böl
 
 ## Coğrafya
 
-Danakıran Tepesi, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, geniş otlakları, ormanlık alanları ve çeşitli jeolojik oluşumları ile dikkat çeker. Tepenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, ekolojik açıdan zengin bir içeriğe sahip. Danakıran Tepesi, aynı zamanda, Ankara'nın önemli bir su kaynağı olarak da bilinir. Burada, çeşitli su kaynakları ve akarsular bulunur. Bu bölgenin coğrafi özellikleri, ziyaretçilere, doğanın gerçek güzelliğini deneyimleme fırsatı sunar. 200 futbol sahası büyüklüğündeki bu alan, aynı zamanda, geniş bir görüş açısına sahip, ziyaretçilere, etraftaki manzarayı izleme imkanı sağlar.
+Danakıran Tepesi, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, geniş otlakları, ormanlık alanları ve çeşitli jeolojik oluşumları ile dikkat çeker. Tepenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, ekolojik açıdan zengin bir içeriğe sahip. Danakıran Tepesi, aynı zamanda, Ankara'nın önemli bir su kaynağı olarak da bilinir. Burada, çeşitli su kaynakları ve akarsular bulunur. Bu bölgenin coğrafi özellikleri, ziyaretçilere, doğanın gerçek güzelliğini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

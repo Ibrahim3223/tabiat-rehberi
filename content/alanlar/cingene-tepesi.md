@@ -28,7 +28,7 @@ wikidata_id: "Q34829174"
 
 # Çingene Tepesi
 
-Sinop'un güzide noktalarından biri olan Çingene Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini bir arada sunan önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Sinop'un şehir merkezine assez yakın bir konumda yer alıyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir nokta.
+Sinop'un güzide noktalarından biri olan Çingene Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini bir arada sunan önemli bir destinasyon.
 
 ## Tarihçe
 

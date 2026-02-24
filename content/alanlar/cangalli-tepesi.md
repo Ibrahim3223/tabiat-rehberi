@@ -28,7 +28,7 @@ wikidata_id: "Q34828329"
 
 # Çangallı Tepesi
 
-Amasya'nın tarihi ve doğal güzellikleri ile bilinen bir bölgesi olan Çangallı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Çangallı Tepesi, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunar. Tepenin eteklerinde bulunan tarihi yapılar ve çevredeki doğal güzellikler, ziyaretçilerin ilgisini çeker. Çangallı Tepesi, özellikle doğa severler ve tarih meraklıları için bir çekim merkezi olarak görülür.
+ Çangallı Tepesi, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunar. Tepenin eteklerinde bulunan tarihi yapılar ve çevredeki doğal güzellikler, ziyaretçilerin ilgisini çeker. Çangallı Tepesi, özellikle doğa severler ve tarih meraklıları için bir çekim merkezi olarak görülür.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Amasya'nın tarihi ve doğal güzellikleri ile bilinen bir bölgesi olan Çangal
 
 ## İlginç Bilgiler
 
-- Çangallı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde bulunan tarihi yapılar, Hitit ve Roma dönemlerinden kalma izleri taşır.
 
 - Çangallı Tepesi, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir.

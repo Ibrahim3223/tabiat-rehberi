@@ -21,15 +21,15 @@ aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_beaches-_Sea_of_Marmara_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_07.jpg","alt":"Tavşancıl Tarihi Hamamı","caption":"Tavşancıl Tarihi Hamamı","credit":"Istanbul beaches- Sea of Marmara 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fanc%C4%B1l%20Tarihi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739235","tip":"genel"}]
-description: "Kocaeli'nin Dilovası ilçesinde bulunan Tavşancıl Tarihi Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Tavşancıl Tarihi Hamamı","Dilovası","Kocaeli","Marmara Bölgesi","tarihi hamam","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739235"
 ---
 
 # Tavşancıl Tarihi Hamamı
 
-Tavşancıl Tarihi Hamamı, Kocaeli'nin Dilovası ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekici bir mekan. Tavşancıl Tarihi Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte hem yerel halkın hem de ziyaretçilerin ilgisini çekiyor.
+ Tavşancıl Tarihi Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte hem yerel halkın hem de ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Tavşancıl Tarihi Hamamı'na ziyaretçiler, yıl boyunca farklı mevsimlerde ge
 
 ## İlginç Bilgiler
 
-- Tavşancıl Tarihi Hamamı, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Hamamın tarihi geçmişi hakkında net bilgiler bulunmuyor.
 - Bölge, Marmara Bölgesi'nin kuzeydoğusunda yer alıyor.
 - Dilovası ilçesi, sanayi ve ticaret merkezleri ile birlikte önemli bir ekonomik role sahip.

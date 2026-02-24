@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Doğa yürüy
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sis_da%C4%9F%C4%B1_%286%29.jpg/960px-Sis_da%C4%9F%C4%B1_%286%29.jpg","alt":"Giresun-Ordu-Golkoy Saricam","caption":"Giresun-Ordu-Golkoy Saricam","credit":"Sis dağı (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu-Golkoy%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227982","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gözde millet parkı, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Giresun","Ordu","Golkoy","Saricam","millet parkı","Karadeniz Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227982"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227982"
 
 # Giresun-Ordu-Golkoy Saricam
 
-Giresun ve Ordu illerinin birleştiği noktada, Karadeniz Bölgesi'nin güzide millet parklarından biri olarak bilinen Giresun-Ordu-Golkoy Saricam, 140 hektarlık geniş alanıyla ziyaretçilerini doğanın kucağına davet ediyor. Millet parkının içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Giresun-Ordu-Golkoy Saricam, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
+ Millet parkının içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Giresun-Ordu-Golkoy Saricam, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Giresun-Ordu-Golkoy Saricam millet parkı, çeşitliliği ile dikkat çeken bir 
 Giresun-Ordu-Golkoy Saricam millet parkını ziyaret etmek, doğayı sevenler için harika bir deneyim olabilir. Parka ulaşım, Giresun ve Ordu illerinin merkezlerinden kolayca sağlanabilir. Ziyaretçilerin, parkı gezmek için yeterli zaman ayırmaları önerilir. Parkın geniş alanı, ziyaretçilere çeşitli yürüyüş rotaları sunuyor ve bu rotalar, ziyaretçileri doğanın güzelliğine davet ediyor. Saricam, ziyaretçilerine, doğanın kucağında, huzurlu ve güzel bir gün geçirmeleri için olanaklar sunuyor.
 
 ## İlginç Bilgiler
-
-- Giresun-Ordu-Golkoy Saricam, 140 hektarlık geniş alanı ile Karadeniz Bölgesi'nin en büyük millet parklarından biridir.
 
 - Park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini gösteren özel bir destinasyon olarak bilinmektedir.
 - Giresun-Ordu-Golkoy Saricam, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.

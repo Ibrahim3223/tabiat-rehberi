@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Meryemana%20%2820180724%29.jpg","alt":"Meryemana Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/20180113_MariaRoad_6613_%2825273570367%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/20180113_MariaRoad_6613_%2825273570367%29.jpg/1280px-20180113_MariaRoad_6613_%2825273570367%29.jpg","alt":"Meryemana Tabiat Parkı - 20180113 MariaRoad 6613 (25273570367)","credit":"Ray Swi-hymn from Sijhih-Taipei, Taiwan","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/20180113_MariaRoad_6614_%2839246378105%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20180113_MariaRoad_6614_%2839246378105%29.jpg/1280px-20180113_MariaRoad_6614_%2839246378105%29.jpg","alt":"Meryemana Tabiat Parkı - 20180113 MariaRoad 6614 (39246378105)","credit":"Ray Swi-hymn from Sijhih-Taipei, Taiwan","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7e/20180113_MariaRoad_6643_%2839246375415%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20180113_MariaRoad_6643_%2839246375415%29.jpg/1280px-20180113_MariaRoad_6643_%2839246375415%29.jpg","alt":"Meryemana Tabiat Parkı - 20180113 MariaRoad 6643 (39246375415)","credit":"Ray Swi-hymn from Sijhih-Taipei, Taiwan","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Meryem_Ana_Evi_Giri%C5%9Fi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Meryem_Ana_Evi_Giri%C5%9Fi.jpg/1280px-Meryem_Ana_Evi_Giri%C5%9Fi.jpg","alt":"Meryemana Tabiat Parkı - Meryem Ana Evi Girişi","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Meryem_Ana_Evi_Genel_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Meryem_Ana_Evi_Genel_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/1280px-Meryem_Ana_Evi_Genel_G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Meryemana Tabiat Parkı - Meryem Ana Evi Genel Görünümü","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meryemana%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228123","tip":"genel"}]
-description: "İzmir'in Selçuk ilçesinde yer alan Meryemana Tabiat Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar. Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
+ Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Meryemana Tabiat Parkı","Selçuk","İzmir","Ege Bölgesi","Tabiat Parkı","Doğa","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228123"
@@ -30,7 +30,7 @@ wikidata_id: "Q108228123"
 
 # Meryemana Tabiat Parkı
 
-Meryemana Tabiat Parkı, İzmir'in Selçuk ilçesinde bulunan 140 hektarlık bir yeşil alanı sunar. Parkın konumu, ziyaretçilerin hem doğal güzellikleri keşfetmesine hem de tarihi ve kültürel değerleri deneyimlemesine olanak tanır. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
+ Parkın konumu, ziyaretçilerin hem doğal güzellikleri keşfetmesine hem de tarihi ve kültürel değerleri deneyimlemesine olanak tanır.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Meryemana Tabiat Parkı, Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bölge
 
 ## Flora ve Fauna
 
- Parkın 140 hektarlık alanı, farklı bitki türlerinin yetişmesi için uygun bir ortam sunar. Mevsimsel değişimler, parkın flora ve faunasını etkiler ve her mevsim, ziyaretçilere farklı bir deneyim sunar. Parkın fauna zenginliği, farklı hayvan türlerini barındırır ve bu, parkın ekolojik dengesi için önemlidir. Parkın flora ve faunası, ziyaretçilerin doğal güzellikleri keşfetmelerine ve bölgeyi anlamalarına olanak tanır.
+ Mevsimsel değişimler, parkın flora ve faunasını etkiler ve her mevsim, ziyaretçilere farklı bir deneyim sunar. Parkın fauna zenginliği, farklı hayvan türlerini barındırır ve bu, parkın ekolojik dengesi için önemlidir. Parkın flora ve faunası, ziyaretçilerin doğal güzellikleri keşfetmelerine ve bölgeyi anlamalarına olanak tanır.
 
 ## Ziyaret Bilgileri
 

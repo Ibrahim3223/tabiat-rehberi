@@ -52,6 +52,6 @@ Hocapaşa Hamamı, yıl boyunca ziyaretçilerini ağırlar. Hamama ulaşım, çe
 
 - Hocapaşa Hamamı, İstanbul'un en eski hamamlarından biridir.
 - Hamam, yüzyıllar boyunca İstanbul'un önemli bir kültürel merkezi olarak hizmet vermiştir.
-- Hocapaşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hamamın tarihi geçmişi, İstanbul'un tarihini anlamak için önemli bir kaynak teşkil eder.
 - Hocapaşa Hamamı, İstanbul'un kültürel mirasının önemli bir parçası olarak kabul edilir.

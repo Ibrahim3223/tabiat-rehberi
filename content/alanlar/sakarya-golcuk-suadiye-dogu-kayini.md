@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Sakarya-Gölcük-Suadiye Dogu Kayini","caption":"Sakarya-Gölcük-Suadiye Dogu Kayini","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-G%C3%B6lc%C3%BCk-Suadiye%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227771","tip":"genel"}]
-description: "Marmara Bölgesi'nin saklı cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Marmara Bölgesi","Sakarya","Gölcük","Suadiye","Doğu Kayını","Milli Park","Yeşil Alan","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227771"
@@ -42,8 +42,6 @@ Sakarya-Gölcük-Suadiye Doğu Kayını'na ziyaretçiler, yıl boyunca gelebilir
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kaplar
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Marmara Bölgesi'nin saklı cenneti
 - Çeşitli bitki türleri ve zengin fauna
 - Ekolojik dengenin korunması için önemli bir role sahiptir

@@ -49,7 +49,7 @@ Aydoğmuş Tepesi'ni ziyaret etmek, bir çok ziyaretçiçin, unutulmaz bir deney
 ## İlginç Bilgiler
 
 - Aydoğmuş Tepesi, Tokat'ın en yüksek noktalarından biri
-- Bu tepe, 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor
+
 - Aydoğmuş Tepesi, yüzyıllar boyunca insanların dikkatini çekmiş ve birçok efsaneye konu olmuş
 - Tepenin etrafı, ormanlık alanlarla çevrili ve bu ormanlar, bir çok hayvan türünün yaşam alanı olarak biliniyor
 - Aydoğmuş Tepesi, mevsimsel değişimlere göre, farklı bir güzellik sunuyor

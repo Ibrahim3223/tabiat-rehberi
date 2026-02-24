@@ -51,6 +51,6 @@ Tevekkül Hamamı, yıl boyunca ziyaret edilebilir bir yerdir. Ancak, en iyi ziy
 
 - Tevekkül Hamamı, İstanbul'un tarihi plajlarından biridir.
 - Bu plaj, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır.
-- Tevekkül Hamamı, 140 hektarlık bir yeşil alanı sunmaktadır.
+
 - Bu plaj, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her biri buraya farklı bir iz bırakmıştır.
 - Tevekkül Hamamı, sadece bir plaj olarak değil, aynı zamanda bir kültür merkezi ve doğa koruma alanı olarak da görülür.

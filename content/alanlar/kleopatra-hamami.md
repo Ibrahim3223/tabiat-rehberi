@@ -38,7 +38,7 @@ Kleopatra Hamamı'nın tarihi geçmişi, Bergama'nın tarihi ile iç içedir. Be
 
 ## Coğrafya
 
-Kleopatra Hamamı, İzmir'in Bergama ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölgede, typically Akdeniz iklimi hüküm sürer ve yazlar sıcak, kışlar ılıman geçer. Plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. Denizin suyu, genellikle serin ve temizdir. Plajın etrafında, çeşitli türde bitkiler ve ağaçlar yer alıyor ve bu bölge, zengin bir flora ve fauna çeşitliliğine sahip. Kleopatra Hamamı, coğrafi konumu itibariyle, hem deniz hem de doğa severler için ideal bir destinasyon. Bu plaj, ziyaretçilerine geniş bir alan sunuyor ve khong 140 hektarlık bir alanı kapsıyor.
+Kleopatra Hamamı, İzmir'in Bergama ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölgede, typically Akdeniz iklimi hüküm sürer ve yazlar sıcak, kışlar ılıman geçer. Plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. Denizin suyu, genellikle serin ve temizdir. Plajın etrafında, çeşitli türde bitkiler ve ağaçlar yer alıyor ve bu bölge, zengin bir flora ve fauna çeşitliliğine sahip. Kleopatra Hamamı, coğrafi konumu itibariyle, hem deniz hem de doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kleopatra Hamamı, ziyaretçilerine çeşitli olanaklar sunuyor. Bu plaj, geniş
 ## İlginç Bilgiler
 
 - Kleopatra Hamamı, adını Mısırlı Kraliçe Kleopatra'dan alır
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kleopatra Hamamı, Ege Bölgesi'nin en önemli turizm merkezlerinden biridir
 - Bu plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor
 - Kleopatra Hamamı, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış

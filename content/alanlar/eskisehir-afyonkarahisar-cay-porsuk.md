@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","picnic"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Eskisehir-Afyonkarahisar-Cay-Porsuk","caption":"Eskisehir-Afyonkarahisar-Cay-Porsuk","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskisehir-Afyonkarahisar-Cay-Porsuk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228530","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Eskisehir-Afyonkarahisar-Cay-Porsuk, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğal güzellik","porsuk","çay","afyonkarahisar","eskisehir"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228530"
@@ -42,7 +42,6 @@ Eskisehir-Afyonkarahisar-Cay-Porsuk milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Porsu ve çay gibi su kaynakları, bölgenin ekolojik dengesini koruyor
 - Zengin flora ve fauna çeşitliliği
 - İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş

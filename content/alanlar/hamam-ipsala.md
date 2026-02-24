@@ -21,7 +21,7 @@ aktiviteler: ["denizde serinlemek","güneşin tadını çıkarmak","doğanın g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg","alt":"Hamam, İpsala","caption":"Hamam, İpsala","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 19","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20%C4%B0psala","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245798","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli cenneti, İpsala'da yer alan Hamam Plajı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Hamam Plajı","İpsala","Marmara Bölgesi","plaj","deniz","tatil","gezi","edinmek","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245798"
@@ -50,7 +50,7 @@ Hamam, İpsala plajını ziyaret etmek, keyifli bir gün geçirmek için ideal b
 ## İlginç Bilgiler
 
 - Hamam, İpsala plajı, Marmara Bölgesi'nin en önemli turizm noktalarından biri
-- plaj, 140 hektarlık bir alana sahip
+
 - plajın hinterlandında, çeşitli bitki türleri ve zengin bir fauna encontruyor
 - plaj, yıl boyunca ziyaret edilebilir
 - en iyi ziyaret dönemi, ilkbahar ve yaz ayları

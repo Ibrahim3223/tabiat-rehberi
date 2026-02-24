@@ -36,7 +36,7 @@ Galucirgali Tepesi, tarihi geçmişiyle de dikkat çekiyor. Bu tepe, yüzyıllar
 
 ## Coğrafya
 
-Galucirgali Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, 140 hektarlık bir alana yayılmış ve çevresi çeşitli bitki türleriyle kaplı. Tepenin etrafında, derin vadiler ve yüksek dağlar bulunmakta. İklim, genel olarak karasal ve_step iklimi arasında değişkenlik gösteriyor. Galucirgali Tepesi, çevresindeki diğer dağlar ve tepelerle birlikte, bölgeyi bir doğal güzellik şeridi haline getiriyor. Bu tepe, aynı zamanda, bölgenin fauna çeşitliliğine de ev sahipliği yapıyor.
+Galucirgali Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin etrafında, derin vadiler ve yüksek dağlar bulunmakta. İklim, genel olarak karasal ve_step iklimi arasında değişkenlik gösteriyor. Galucirgali Tepesi, çevresindeki diğer dağlar ve tepelerle birlikte, bölgeyi bir doğal güzellik şeridi haline getiriyor. Bu tepe, aynı zamanda, bölgenin fauna çeşitliliğine de ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

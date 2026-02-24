@@ -36,7 +36,7 @@ Karasırt Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Karasırt Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve çevresinde çeşitli bitki türleri bulunmaktadır. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır ve bu, ziyaretçilere bölgeyi panoramik olarak görmelerine olanak tanır. Tepenin eteklerinde akan nehirler ve derenin oluşturduğu vadiler, bu bölgenin coğrafi çeşitliliğini göstermektedir. Karşırt Tepesi, aynı zamanda zengin bir fauna'ya da ev sahipliği yapmaktadır. Bu bölgede, çeşitli hayvan türleri ve kuşlar yaşamaktadır. İklim, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılımandır.
+Karasırt Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir coğrafi oluşumdur. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır ve bu, ziyaretçilere bölgeyi panoramik olarak görmelerine olanak tanır. Tepenin eteklerinde akan nehirler ve derenin oluşturduğu vadiler, bu bölgenin coğrafi çeşitliliğini göstermektedir. Karşırt Tepesi, aynı zamanda zengin bir fauna'ya da ev sahipliği yapmaktadır. Bu bölgede, çeşitli hayvan türleri ve kuşlar yaşamaktadır. İklim, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılımandır.
 
 ## Flora ve Fauna
 

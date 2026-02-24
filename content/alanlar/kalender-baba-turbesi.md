@@ -38,7 +38,7 @@ Kalender Baba Türbesi, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyunca 
 
 ## Coğrafya
 
-Kalender Baba Türbesi, Konya'nın Selçuklu ilçesinde, şehrin merkezi bölgelerine oldukça yakın bir konumda yer alır. 140 hektarlık geniş bir alana yayılan bu yeşil alan, doğal güzellikleri ve plaj alanı ile ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sunar. Türbenin etrafı, çeşitli bitki türleri ile çevrili olup, ziyaretçilere doğa ile iç içe bir deneyim sunar. Ayrıca, türbenin yakınlarında bulunan diğer tarihi ve dinî merkezler, ziyaretçilere bölgenin zengin tarihini ve kültürünü keşfetmeleri için olanak sağlar.
+Kalender Baba Türbesi, Konya'nın Selçuklu ilçesinde, şehrin merkezi bölgelerine oldukça yakın bir konumda yer alır. Türbenin etrafı, çeşitli bitki türleri ile çevrili olup, ziyaretçilere doğa ile iç içe bir deneyim sunar. Ayrıca, türbenin yakınlarında bulunan diğer tarihi ve dinî merkezler, ziyaretçilere bölgenin zengin tarihini ve kültürünü keşfetmeleri için olanak sağlar.
 
 ## Flora ve Fauna
 

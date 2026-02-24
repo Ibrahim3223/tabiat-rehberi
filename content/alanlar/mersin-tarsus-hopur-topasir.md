@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Çevre keşifleri","Kuş gözlemciliği",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kad%C4%B1nc%C4%B1k_Valley_23.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_23.jpg","alt":"Mersin-Tarsus Hopur Topasir","caption":"Mersin-Tarsus Hopur Topasir","credit":"Kadıncık Valley 23.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus%20Hopur%20Topasir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227398","tip":"genel"}]
-description: "Mersin'in Tarsus ilçesinde yer alan Hopur Topasir Milli Parkı, 140 hektarlık geniş bir yeşil alana sahiptir."
+"
 keywords: ["Mersin","Tarsus","Hopur Topasir","Milli Park","Doğa","Yeşil Alan","Ekosistem","Çevre","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227398"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227398"
 
 # Mersin-Tarsus Hopur Topasir
 
-Mersin-Tarsus Hopur Topasir Milli Parkı, Mersin'in Tarsus ilçesinde yer alan ve 140 hektarlık geniş bir yeşil alana sahip olan bir milli parktır. Hopur Topasir Milli Parkı, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyondur. Parkta çeşitli bitki türleri ve hayvanlar bulunur. Bu milli park, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
+ Hopur Topasir Milli Parkı, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyondur. Parkta çeşitli bitki türleri ve hayvanlar bulunur. Bu milli park, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Hopur Topasir Milli Parkı, uzun bir geçmişe sahiptir. Tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Hopur Topasir Milli Parkı, Mersin'in Tarsus ilçesinde yer alır ve Akdeniz Bölgesi'nde bulunmaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunar. Hopur Topasir Milli Parkı, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, ziyaretçilere geniş bir açık alan sunar. Parkın coğrafi konumu, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Parkın iklimi, Akdeniz iklimi özellikleri gösterir ve genellikle sıcak ve kurudur. Bu iklim, parkın flora ve faunası için uygun bir ortam sunar.
+Hopur Topasir Milli Parkı, Mersin'in Tarsus ilçesinde yer alır ve Akdeniz Bölgesi'nde bulunmaktadır. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunar. Parkın coğrafi konumu, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Parkın iklimi, Akdeniz iklimi özellikleri gösterir ve genellikle sıcak ve kurudur. Bu iklim, parkın flora ve faunası için uygun bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Hopur Topasir Milli Parkı, Mersin'in Tarsus ilçesinde yer alır ve ziyaretçil
 
 ## İlginç Bilgiler
 
-- Hopur Topasir Milli Parkı, 140 hektarlık bir alanı kaplar.
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunur.
 - Parkın coğrafi konumu, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
 - Parkın iklimi, Akdeniz iklimi özellikleri gösterir.

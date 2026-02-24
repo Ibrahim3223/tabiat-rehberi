@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çevre keşfi","ekoloji eğitimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Kirikli-Dortler","caption":"Kirikli-Dortler","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirikli-Dortler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227890","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Kirikli-Dortler milli parkı, yaklaşık 140 hektarlık bir alanı kaplayan bir doğal alan."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kirikli-Dortler","milli park","İç Anadolu Bölgesi","doğal güzellik","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227890"
@@ -30,7 +30,7 @@ Kirikli-Dortler milli parkının tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Kirikli-Dortler milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Park, yaklaşık 140 hektarlık bir alanı kaplıyor ve çeşitli bitki türleri ile zengin fauna barındırıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Parkın coğrafi konumu, ziyaretçilerin doğa yürüyüşü yapabilmesi, çevre güzelliklerini keşfedebilmesi ve ekolojik dengenin önemini öğrenebilmesi için ideal. Kirikli-Dortler, ziyaretçilerine doğa güzelliklerinin yanı sıra, coğrafi ve iklimsel çeşitliliği de sunuyor. Parkın içinden geçen akarsular, ziyaretçilere serinleme ve dinlenme imkanı sağlıyor. Kirikli-Dortler milli parkı, coğrafi güzellikleri ve doğal zenginlikleri ile ziyaretçilerini bekliyor.
+Kirikli-Dortler milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Parkın coğrafi konumu, ziyaretçilerin doğa yürüyüşü yapabilmesi, çevre güzelliklerini keşfedebilmesi ve ekolojik dengenin önemini öğrenebilmesi için ideal. Kirikli-Dortler, ziyaretçilerine doğa güzelliklerinin yanı sıra, coğrafi ve iklimsel çeşitliliği de sunuyor. Parkın içinden geçen akarsular, ziyaretçilere serinleme ve dinlenme imkanı sağlıyor. Kirikli-Dortler milli parkı, coğrafi güzellikleri ve doğal zenginlikleri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kirikli-Dortler milli parkını ziyaret etmek, doğa severler ve macera tutkunla
 
 ## İlginç Bilgiler
 
-- Kirikli-Dortler milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, parkın içinde doğa yürüyüşü yapabilir ve çevre güzelliklerini keşfedebilir.
 - Parkın ekolojik dengesi, ziyaretçilerin doğa güzelliklerini keşfetmesine olanak sağlıyor.

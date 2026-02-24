@@ -37,7 +37,7 @@ wikidata_id: "Q131739005"
 
 ## Coğrafya
 
-Çadırcı Hamamı, coğrafi olarak Erzincan'ın merkezi bir bölgesinde yer alıyor. Mekan, 140 hektarlık bir alanda kurulmuş ve etrafı yeşilliklerle çevrili. Çadırcı Hamamı, coğrafi konumu itibariyle ziyaretçilerine geniş bir yeşil alan sunuyor. Mekan, ayrıca çevresindeki dağların ve ormanların güzelliği ile de dikkat çekiyor. Çadırcı Hamamı'nın coğrafi konumu, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Mekan, çevresindeki diğer turizm noktalarına da yakınlığı ile önemli bir konumda bulunuyor.
+Çadırcı Hamamı, coğrafi olarak Erzincan'ın merkezi bir bölgesinde yer alıyor. Çadırcı Hamamı, coğrafi konumu itibariyle ziyaretçilerine geniş bir yeşil alan sunuyor. Mekan, ayrıca çevresindeki dağların ve ormanların güzelliği ile de dikkat çekiyor. Çadırcı Hamamı'nın coğrafi konumu, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Mekan, çevresindeki diğer turizm noktalarına da yakınlığı ile önemli bir konumda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131739005"
 
 ## İlginç Bilgiler
 
-- Çadırcı Hamamı, 140 hektarlık bir alana kurulmuş
 - Mekan, çeşitli bitki türleri ile ziyaretçilerine renkli bir manzara sunuyor
 - Çadırcı Hamamı, yaban hayatı açısından da önemli bir mekan
 - Mekan, mevsimsel değişimlere göre ziyaretçilerine farklı bir güzellik sunuyor

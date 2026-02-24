@@ -37,7 +37,7 @@ Alişir-Beşir-Nezir Gazi Türbesi, tarihi geçmişi ile dikkat çeker. Bu türb
 
 ## Coğrafya
 
-Alişir-Beşir-Nezir Gazi Türbesi, İzmir'in Bornova ilçesinde yer alır. Bu alan, Ege Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bölge, genellikle ılıman iklimi ile bilinir ve ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunar. Alişir-Beşir-Nezir Gazi Türbesi, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Türbenin bulunduğu bölge, yeşilin çeşitli tonlarını sunan ormanlık alanlar ve tarım alanları ile çevrilidir. Coğrafi olarak zengin bir bölge olan Ege Bölgesi, ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunar.
+Alişir-Beşir-Nezir Gazi Türbesi, İzmir'in Bornova ilçesinde yer alır. Bu alan, Ege Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bölge, genellikle ılıman iklimi ile bilinir ve ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunar. Türbenin bulunduğu bölge, yeşilin çeşitli tonlarını sunan ormanlık alanlar ve tarım alanları ile çevrilidir. Coğrafi olarak zengin bir bölge olan Ege Bölgesi, ziyaretçilere çeşitli coğrafi oluşumları keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Alişir-Beşir-Nezir Gazi Türbesi, ziyaretçilere tarihsel ve kültürel öneme
 
 - Alişir-Beşir-Nezir Gazi Türbesi, tarihsel öneme sahip bir alandır.
 - Bölge, Ege Bölgesi'nin coğrafi özellikleri ile dikkat çeker.
-- Türbe, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Alişir-Beşir-Nezir Gazi Türbesi, ziyaretçilere tarihin sayfalarını keşfetme fırsatı sunar.
 - Bölge, flora ve fauna açısından zengin bir bölgeye sahiptir.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Akçakale Yarım Adası Sit Alanı","caption":"Akçakale Yarım Adası Sit Alanı","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Yar%C4%B1m%20Adas%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226268","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olan Akçakale Yarım Adası Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["doğa","sit alanı","yarım ada","İç Anadolu Bölgesi","turizm","gezi","ekosistem","çevre","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226268"
@@ -30,7 +30,7 @@ Akçakale Yarım Adası Sit Alanı'nın tarihi geçmişi, bölgenin jeolojik olu
 
 ## Coğrafya
 
-Akçakale Yarım Adası Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık bu alan, yarımadanın özel coğrafi konumunu ve doğal güzelliklerini koruyor. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunuyor. Coğrafi yapı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Bahar aylarında yeşeren bitkiler, yaz aylarında ise sıcakk bir iklim ziyaretçileri karşılıyor. Kış mevsiminde ise, bölgenin karla kaplı manzarası, ayrı bir güzellik sunuyor. Bu sit alanı, coğrafi çeşitliliği ve doğal güzelliği ile ziyaretçilerini büyülüyor.
+Akçakale Yarım Adası Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunuyor. Coğrafi yapı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Bahar aylarında yeşeren bitkiler, yaz aylarında ise sıcakk bir iklim ziyaretçileri karşılıyor. Kış mevsiminde ise, bölgenin karla kaplı manzarası, ayrı bir güzellik sunuyor. Bu sit alanı, coğrafi çeşitliliği ve doğal güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Akçakale Yarım Adası Sit Alanı'na ziyaretçiler, çeşitli ulaşım seçenek
 
 ## İlginç Bilgiler
 
-- Akçakale Yarım Adası Sit Alanı, 140 hektarlık bir alana sahip
-- Bu sit alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunuyor
 - Coğrafi yapı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor
 - Bu sit alanı, ekolojik dengesini korumak amacıyla kurulmuş

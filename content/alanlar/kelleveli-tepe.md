@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih araştırması"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Kelleveli Tepe","caption":"Kelleveli Tepe","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelleveli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386170","tip":"genel"}]
-description: "Gaziantep'in tarihi ve doğal güzellikleriyle dolu bir bölgesinde yer alan Kelleveli Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor."
+"
 keywords: ["Kelleveli Tepe","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386170"
@@ -36,7 +36,7 @@ Kelleveli Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölg
 
 ## Coğrafya
 
-Kelleveli Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Gaziantep ilinin bir parçası. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çeşitli bitki türleri ile zengin fauna barındırıyor. Kelleveli Tepe'nin coğrafyası, ziyaretçilerini doğal güzellikleriyle dolu bire davet ediyor. Bu tepe, etrafındaki dağlarla çevrili ve çeşitli akarsular bulunuyor. Kelleveli Tepe'nin iklimi, bölgenin coğrafyasına göre şekillenmiş. Bu tepe, ziyaretçilerine doğal güzellikleriyle dolu biri keşfetme fırsatı sunuyor.
+Kelleveli Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Gaziantep ilinin bir parçası. Kelleveli Tepe'nin coğrafyası, ziyaretçilerini doğal güzellikleriyle dolu bire davet ediyor. Bu tepe, etrafındaki dağlarla çevrili ve çeşitli akarsular bulunuyor. Kelleveli Tepe'nin iklimi, bölgenin coğrafyasına göre şekillenmiş. Bu tepe, ziyaretçilerine doğal güzellikleriyle dolu biri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kelleveli Tepe, ziyaretçilerine doğal güzellikleriyle dolu biri keşfetme fı
 
 ## İlginç Bilgiler
 
-- Kelleveli Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna barındırıyor.
 - Kelleveli Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 - Bu tepe, ziyaretçilerine doğal güzellikleriyle dolu biri keşfetme fırsatı sunuyor.

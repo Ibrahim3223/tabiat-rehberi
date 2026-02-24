@@ -28,7 +28,7 @@ wikidata_id: "Q34828317"
 
 # Çandırdağı Tepesi
 
-Kahramanmaraş ilinin güzide bir bölgesi olan Çandırdağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çandırdağı Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak biliniyor. Bu tepe, bölgeün doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Çandırdağı Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak biliniyor. Bu tepe, bölgeün doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kahramanmaraş ilinin güzide bir bölgesi olan Çandırdağı Tepesi, yaklaşı
 
 ## Coğrafya
 
-Çandırdağı Tepesi, Kahramanmaraş ilinin coğrafi yapısını oluşturan önemli bir parça. Bu tepe, Akdeniz Bölgesi'nin genel coğrafi özelliklerini taşıyor. Çandırdağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan, çeşitli bitki türleri ile kaplı. Tepenin coğrafi konumu, burada çeşitli iklim tiplerinin görülmesine neden oluyor. Bu durum, Çandırdağı Tepesi'nde zengin bir flora ve fauna oluşmasına yol açıyor. Tepenin eteklerinde, çeşitli su kaynakları ve dere yatakları yer alıyor. Bu su kaynakları, bölgenin ekolojik dengesinin korunmasına katkıda bulunmakta.
+Çandırdağı Tepesi, Kahramanmaraş ilinin coğrafi yapısını oluşturan önemli bir parça. Bu tepe, Akdeniz Bölgesi'nin genel coğrafi özelliklerini taşıyor. Tepenin coğrafi konumu, burada çeşitli iklim tiplerinin görülmesine neden oluyor. Bu durum, Çandırdağı Tepesi'nde zengin bir flora ve fauna oluşmasına yol açıyor. Tepenin eteklerinde, çeşitli su kaynakları ve dere yatakları yer alıyor. Bu su kaynakları, bölgenin ekolojik dengesinin korunmasına katkıda bulunmakta.
 
 ## Flora ve Fauna
 

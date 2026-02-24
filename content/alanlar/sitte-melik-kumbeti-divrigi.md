@@ -50,7 +50,7 @@ Sitte Melik Kümbeti'ni ziyaret etmek, özellikle tarihi ve kültürel değerler
 ## İlginç Bilgiler
 
 - Sitte Melik Kümbeti, 12. yüzyılda inşa edilmiştir.
-- Kümbet, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Sitte Melik Kümbeti, Sivas'ın Divriği ilçesinde yer alıyor.
 - Bölge, özellikle bahar ve yaz aylarında ziyaret edilmeye uygun bir yer olarak görülüyor.
 - Sitte Melik Kümbeti'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q131390951"
 
 # Gıj Gıj Dede Türbesi
 
-Gıj Gıj Dede Türbesi, Tokat'ta bulunan ve tarihi geçmişi olan bir turbe. Bu turbe, yaklaşık 140 hektarlık bir alanda yer alıyor. Gıj Gıj Dede Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Turbe, Tokat'ın merkezine yakın bir konumda bulunuyor ve ulaşımı kolay.
+Gıj Gıj Dede Türbesi, Tokat'ta bulunan ve tarihi geçmişi olan bir turbe. Gıj Gıj Dede Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Turbe, Tokat'ın merkezine yakın bir konumda bulunuyor ve ulaşımı kolay.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gıj Gıj Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Gıj Gıj Dede Türbesi, Tokat ilinin merkezine yakın bir konumda yer alıyor. Türbe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, yeşilin farklı tonlarını barındıran ormanlarla çevrili ve bu ormanlar, ziyaretçilere geniş bir yeşil alan sunuyor. Gıj Gıj Dede Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alan, ziyaretçilere geniş bir açık alan sağlıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölge, Karadeniz ikliminin etkilerini taşıyor ve bu iklim, ziyaretçilere serin ve ferah bir ortam sunuyor. Gıj Gıj Dede Türbesi, ziyaretçilerine doğal güzelliği ve tarihi önemi ile bir gezi deneyimi sunuyor.
+Gıj Gıj Dede Türbesi, Tokat ilinin merkezine yakın bir konumda yer alıyor. Türbe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, yeşilin farklı tonlarını barındıran ormanlarla çevrili ve bu ormanlar, ziyaretçilere geniş bir yeşil alan sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölge, Karadeniz ikliminin etkilerini taşıyor ve bu iklim, ziyaretçilere serin ve ferah bir ortam sunuyor. Gıj Gıj Dede Türbesi, ziyaretçilerine doğal güzelliği ve tarihi önemi ile bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Gıj Gıj Dede Türbesi'ni ziyaret etmek, Tokat'ta bulunmanın en güzel yanı. 
 ## İlginç Bilgiler
 
 - Gıj Gıj Dede Türbesi, Tokat'ta bulunan en önemli tarihi mekanlardan biri
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alıyor
+
 - Gıj Gıj Dede, bölge halkı tarafından saygı duyulan ve sevilen bir kişi olarak biliniyor
 - Türbe, yüzyıllar boyunca bölgede önemli bir kültürel ve dini merkez olarak görev yapmış
 - Gıj Gıj Dede Türbesi, ziyaretçilerine geniş bir açık alan sunuyor

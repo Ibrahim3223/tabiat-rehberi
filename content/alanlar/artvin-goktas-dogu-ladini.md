@@ -30,7 +30,7 @@ Artvin Goktas-Dogu Ladini Milli Parkı, tarihi geçmişiyle dikkat çeker. Tarih
 
 ## Coğrafya
 
-Artvin Goktas-Dogu Ladini Milli Parkı, coğrafi konumu itibariyle dikkat çeker. Milli park, yaklaşık 140 hektarlık bir alanı kaplar. Milli parkın coğrafi konumu, ziyaretçilere farklı manzaralar sunar. Milli parkın iklimi, ziyaretçilere uygun koşullar sağlar. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Milli parkın çevresinde, farklı bitki türleri ve hayvanlar bulunur. Milli parkın coğrafi konumu, ziyaretçilere doğayla iç içe olmak için ideal bir opportunity sunar. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli etkinlikler yapmak için uygun alanlar sunar.
+Artvin Goktas-Dogu Ladini Milli Parkı, coğrafi konumu itibariyle dikkat çeker. Milli parkın coğrafi konumu, ziyaretçilere farklı manzaralar sunar. Milli parkın iklimi, ziyaretçilere uygun koşullar sağlar. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Milli parkın çevresinde, farklı bitki türleri ve hayvanlar bulunur. Milli parkın coğrafi konumu, ziyaretçilere doğayla iç içe olmak için ideal bir opportunity sunar. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli etkinlikler yapmak için uygun alanlar sunar.
 
 ## Flora ve Fauna
 

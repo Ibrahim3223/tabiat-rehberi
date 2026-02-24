@@ -21,7 +21,7 @@ aktiviteler: ["Doğa Yürüyüşü","Tarih Araştırması","Fotoğrafçılık","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Tezveren Dede Türbesi","caption":"Tezveren Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tezveren%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390462","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzel köşesi, Osmangazi/Bursa'da yer alan Tezveren Dede Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tezveren Dede Türbesi","Osmangazi","Bursa","Marmara Bölgesi","Yeşil Alan","Türbe","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390462"
@@ -49,7 +49,6 @@ Tezveren Dede Türbesi'ni ziyaret etmek, hem dinlenme hem de bilgi edinme imkan�
 
 ## İlginç Bilgiler
 
-- Tezveren Dede Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bursa'nın Osmangazi ilçesinde yer alıyor
 - Tarihi ve doğal güzelliği bir arada sunuyor
 - Ziyaretçilere hem dinlenme hem de bilgi edinme imkanı sunuyor

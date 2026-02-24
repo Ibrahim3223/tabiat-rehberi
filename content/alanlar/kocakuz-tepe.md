@@ -36,7 +36,7 @@ Kocakuz Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Kocakuz Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alanda çeşitli bitki türleri bulunur. Bölgenin iklimi, generally sıcak ve kurudur, ancak tepe ve çevresinin coğrafi yapısı, burada çeşitli mikro iklimlerin oluşmasına neden olur. Kocakuz Tepe'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Tepe ve çevresinin coğrafi yapısı, çeşitli fauna türlerine de ev sahipliği yapar. Kocakuz Tepe, bölgenin coğrafi ve ekolojik özelliklerini yansıtması bakımından önemli bir değer taşır.
+Kocakuz Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Bölgenin iklimi, generally sıcak ve kurudur, ancak tepe ve çevresinin coğrafi yapısı, burada çeşitli mikro iklimlerin oluşmasına neden olur. Kocakuz Tepe'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Tepe ve çevresinin coğrafi yapısı, çeşitli fauna türlerine de ev sahipliği yapar. Kocakuz Tepe, bölgenin coğrafi ve ekolojik özelliklerini yansıtması bakımından önemli bir değer taşır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kocakuz Tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme f�
 ## İlginç Bilgiler
 
 - Kocakuz Tepe, Gaziantep ilinin önemli ziyaret noktalarından biri.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kocakuz Tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
 - Tepe ve çevresinin coğrafi yapısı, farklı mikro iklimlerin oluşmasına neden olur.
 - Kocakuz Tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edilebilir.

@@ -12,9 +12,9 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","balık avlama","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Apa Barajı","caption":"Apa Barajı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Apasarayc%C4%B1k_12_09_2000_Apa_Baraj%C4%B1.jpg/960px-Apasarayc%C4%B1k_12_09_2000_Apa_Baraj%C4%B1.jpg","alt":"Apa Barajı","caption":"Apa Barajı","credit":"Apasaraycık 12 09 2000 Apa Barajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Apa%20Baraj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227879","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Apa Barajı, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Apa Barajı","İç Anadolu Bölgesi","doğal alan","baraj","orman","fauna","flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227879"
@@ -42,7 +42,6 @@ Apa Barajı'nı ziyaret etmek, her mevsim farklı bir deneyim sunuyor. Ziyaretç
 
 ## İlginç Bilgiler
 
-- Apa Barajı, 140 hektarlık geniş bir alanı kaplıyor
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dolu
 - Apa Barajı, İç Anadolu Bölgesi'nin önemli bir turizm merkezi olarak kabul ediliyor
 - Bölge, coğrafi olarak önemli bir konumda bulunuyor

@@ -37,7 +37,7 @@ Karabali Hamamı'nın tarihi geçmişi, bölgenin tarihi ile iç içe geçmiş d
 
 ## Coğrafya
 
-Karabali Hamamı, Kocaeli'nin Karamürsel ilçesinde yer almaktadır. Plaj, Marmara Denizi'nin kıyısında yer almaktadır ve deniz suyu, plajın güzelliğini artırmaktadır. Plajın etrafında yer alan ağaçlar ve yeşillik, ziyaretçilere serin ve ferin bir atmosfer sağlamaktadır. Karabali Hamamı, 140 hektarlık bir alana yayılmış durumdadır ve bu alan, ziyaretçilere geniş bir mekan sunmaktadır. Plajın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilliğin keyfini çıkarmak için ideal bir ortam sunmaktadır.
+Karabali Hamamı, Kocaeli'nin Karamürsel ilçesinde yer almaktadır. Plaj, Marmara Denizi'nin kıyısında yer almaktadır ve deniz suyu, plajın güzelliğini artırmaktadır. Plajın etrafında yer alan ağaçlar ve yeşillik, ziyaretçilere serin ve ferin bir atmosfer sağlamaktadır. Plajın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilliğin keyfini çıkarmak için ideal bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Karabali Hamamı, ziyaretçilerine güneşin ve denizin keyfini çıkarmak için
 
 ## İlginç Bilgiler
 
-- Karabali Hamamı, 140 hektarlık bir alana yayılmış durumdadır.
 - Plaj, Marmara Denizi'nin kıyısında yer almaktadır.
 - Bölge, çeşitli bitki türleri ve zengin faunaya sahiptir.
 - Karabali Hamamı, ziyaretçilerine doğal güzellikleri sunmaktadır.

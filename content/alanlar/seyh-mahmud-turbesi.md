@@ -51,7 +51,7 @@ wikidata_id: "Q131390953"
 ## İlginç Bilgiler
 
 - Şeyh Mahmud Türbesi, tarihi ve doğal güzelliklerinin birleştiği özel bir destinasyondur.
-- 140 hektarlık bir yeşil alanı kapsar.
+
 - Karadeniz Bölgesi'nin karakteristik iklimine sahiptir.
 - Zengin bir fauna sunar.
 - İlkbahar ve yaz ayları en iyi ziyaret mevsimidir.

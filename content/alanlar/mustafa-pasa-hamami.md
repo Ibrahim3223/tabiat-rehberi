@@ -53,5 +53,5 @@ Mustafa Paşa Hamamı, ziyaretçilerine çeşitli olanaklar sunar. Bu bölge, To
 - Mustafa Paşa Hamamı, Tokat'ın tarihi dokusunu yansıtan önemli bir yapıdır.
 - Bu hamam, yüzyıllar boyunca önemli bir role sahip olmuştur.
 - Mustafa Paşa Hamamı, Tokat'ın kültürel ve tarihi mirasının önemli bir parçasıdır.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Mustafa Paşa Hamamı, ziyaretçilerine çeşitli aktivite olanakları sunar.

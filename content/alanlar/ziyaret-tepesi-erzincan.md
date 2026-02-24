@@ -28,7 +28,7 @@ wikidata_id: "Q31387944"
 
 # Ziyaret Tepesi (Erzincan)
 
-Erzincan, Doğu Anadolu Bölgesi'nin önemli şehirlerinden biri olarak bilinir. Şehrin panoramik manzarasını sunan Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Ziyaret Tepesi, şehrin tarihi ve kültürel zenginliklerini de bünyesinde barındırır. Burada, geçmişin izlerini taşıyan çeşitli yapılar ve anıtlar bulunur.
+Erzincan, Doğu Anadolu Bölgesi'nin önemli şehirlerinden biri olarak bilinir. Ziyaret Tepesi, şehrin tarihi ve kültürel zenginliklerini de bünyesinde barındırır. Burada, geçmişin izlerini taşıyan çeşitli yapılar ve anıtlar bulunur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ziyaret Tepesi'nin tarihi geçmişi, Erzincan'ın tarihine paralel olarak şekil
 
 ## Coğrafya
 
-Ziyaret Tepesi, Erzincan şehrinin merkezinde yer alır. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve şehrin panoramik manzarasını sunar. Bu tepe, şehrin önemli bir części olarak bilinir ve çeşitli bitkiler ve hayvanlar barındırır. Ziyaret Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin iklimine benzer. Burada, kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Ziyaret Tepesi, şehrin önemli bir turizm merkezi olarak bilinir ve her yıl binlerce ziyaretçi alır.
+Ziyaret Tepesi, Erzincan şehrinin merkezinde yer alır. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu tepe, şehrin önemli bir części olarak bilinir ve çeşitli bitkiler ve hayvanlar barındırır. Ziyaret Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin iklimine benzer. Burada, kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Ziyaret Tepesi, şehrin önemli bir turizm merkezi olarak bilinir ve her yıl binlerce ziyaretçi alır.
 
 ## Flora ve Fauna
 

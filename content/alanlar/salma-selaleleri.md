@@ -36,7 +36,7 @@ Salma Şelaleleri, yüzyıllar boyunca bölgenin doğal güzelliği olarak varl�
 
 ## Coğrafya
 
-Salma Şelaleleri, Rize'nin Karadeniz Bölgesi'nde yer alan bir doğa harikası. Şelaleler, yaklaşık 140 hektarlık bir alanda yer alıyor ve etrafını saran ormanlık alan, ziyaretçilere doğanın güzelliğini gösteriyor. Bölgenin coğrafi yapısı, şelalelerin oluşumuna etki etmiş ve çevredeki dağlar, nehirler ve ormanlar, şelalelerin güzelliğini artırıyor. Şelalelerin yüksekliği, çevresindeki yeşil alanlar ve kuşların şakıması, ziyaretçileri doğanın içinde bir maceraya davet ediyor. Salma Şelaleleri, Rize'nin coğrafi güzelliklerinin önemli bir parçası olarak kabul ediliyor ve ziyaretçilerini etkileyen bir doğa harikası.
+Salma Şelaleleri, Rize'nin Karadeniz Bölgesi'nde yer alan bir doğa harikası. Bölgenin coğrafi yapısı, şelalelerin oluşumuna etki etmiş ve çevredeki dağlar, nehirler ve ormanlar, şelalelerin güzelliğini artırıyor. Şelalelerin yüksekliği, çevresindeki yeşil alanlar ve kuşların şakıması, ziyaretçileri doğanın içinde bir maceraya davet ediyor. Salma Şelaleleri, Rize'nin coğrafi güzelliklerinin önemli bir parçası olarak kabul ediliyor ve ziyaretçilerini etkileyen bir doğa harikası.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Salma Şelaleleri'ni ziyaret etmek, Rize'nin doğal güzelliklerini görmek iste
 ## İlginç Bilgiler
 
 - Salma Şelaleleri, Rize'nin doğal güzelliklerinin önemli bir parçası
-- Şelaleler, yaklaşık 140 hektarlık bir alanda yer alıyor
+
 - Bölgede, çeşitli ağaç türleri ve bitkiler bulunuyor
 - Şelalelerin etrafındaki ormanlık alan, fauna ve florasına ev sahipliği yapıyor
 - Salma Şelaleleri, her mevsim ziyaret edilebilir, ancak en güzel zaman, ilkbahar ve yaz aylarıdır

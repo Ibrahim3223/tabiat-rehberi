@@ -49,7 +49,7 @@ Varan Tepe, ziyaretçilerine, hem tarihi hem de doğal güzellikleri sunar. Bura
 ## İlginç Bilgiler
 
 - Varan Tepe, Bitlis'in en önemli tarihi ve doğal güzelliklerinden biridir.
-- Alan, 140 hektarlık bir yeşil alana sahiptir.
+
 - Varan Tepe, doğa severler için önemli bir destinasyondur.
 - Burada, çeşitli bitki ve hayvan türleri bulunur.
 - Alan, tarihi geçmişiyle birlikte, ziyaretçilerine zengin bir kültürel miras sunar.

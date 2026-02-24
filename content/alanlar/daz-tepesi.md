@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tepenin etrafındaki k�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Daz Tepesi","caption":"Daz Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526301","tip":"genel"}]
-description: "Hatay'ın güzide noktalarından biri olan Daz Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Hatay'ın güzide noktalarından biri olan Daz Tepesi, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Daz Tepesi","Hatay","Akdeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31526301"
@@ -36,7 +36,7 @@ Daz Tepesi, tarihsel geçmişiyle de dikkat çekiyor. Bu bölgenin tarihi, yüzy
 
 ## Coğrafya
 
-Daz Tepesi, Hatay'ın coğrafi güzelliklerinin önemli bir parçasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontrando. Daz Tepesi, aynı zamanda çevresindeki köylerle ve tarihi geçmişiyle de dikkat çekiyor. Bu bölgenin coğrafyası, ziyaretçilere hem doğal güzelliği hem de tarihi zenginliği deneyimleme fırsatı sunuyor. Daz Tepesi, Akdeniz Bölgesi'nin karakteristik iklimine sahip ve bu bölgede, mevsimsel değişimler ziyaretçilere farklı deneyimler sunuyor. İlkbahar ve sonbahar ayları, bu tepeyi ziyaret etmek için en uygun zamanlar olarak karşımıza çıkıyor.
+Daz Tepesi, Hatay'ın coğrafi güzelliklerinin önemli bir parçasıdır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontrando. Daz Tepesi, aynı zamanda çevresindeki köylerle ve tarihi geçmişiyle de dikkat çekiyor. Bu bölgenin coğrafyası, ziyaretçilere hem doğal güzelliği hem de tarihi zenginliği deneyimleme fırsatı sunuyor. Daz Tepesi, Akdeniz Bölgesi'nin karakteristik iklimine sahip ve bu bölgede, mevsimsel değişimler ziyaretçilere farklı deneyimler sunuyor. İlkbahar ve sonbahar ayları, bu tepeyi ziyaret etmek için en uygun zamanlar olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 
@@ -47,8 +47,6 @@ Daz Tepesi, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Bu bölgede
 Daz Tepesi, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Bu tepeye tırmanmak, ziyaretçilere hem fiziksel olarak dinamik bir aktivite gerçekleştirme fırsatı sunuyor hem de manzaranın güzelliğine şahitlik etme fırsatı sunuyor. Tepenin etrafındaki köyleri gezmek, ziyaretçilere bu bölgenin kültürel zenginliğini deneyimleme fırsatı sunuyor. Daz Tepesi, aynı zamanda doğa yürüyüşleri ve fotoğrafçılık için de ideal bir destinasyon olarak karşımıza çıkıyor. Ziyaretçiler, bu tepeye çıkarken, aynı zamanda tarihi kalıntıları da gezme fırsatı buluyor.
 
 ## İlginç Bilgiler
-
-- Daz Tepesi, 140 hektarlık bir alanı kaplıyor.
 
 - Daz Tepesi, Akdeniz Bölgesi'nin karakteristik iklimine sahip.
 - Bu bölgede, mevsimsel değişimler ziyaretçilere farklı deneyimler sunuyor.

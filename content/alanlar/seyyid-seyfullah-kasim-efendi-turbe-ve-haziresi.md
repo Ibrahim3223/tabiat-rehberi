@@ -52,6 +52,6 @@ Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, ziyaretçilere tarihi ve kül
 
 - Seyyid Seyfullah Kasım Efendi, Osmanlı döneminde önemli bir din adamı ve alimdir.
 - Türbe ve hazire, 16. yüzyılda inşa edilmiştir.
-- Bölge, yaklaşık 140 hektarlık bir yeşil alanı kaplar.
+
 - Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, İstanbul'un önemli tarihi mekanlarından biridir.
 - Bölge, Marmara Denizi'ne yakındır.

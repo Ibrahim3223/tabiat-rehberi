@@ -42,8 +42,6 @@ Balıkesir-Kütahya-Akdağ Yaban Hayatı Geliştirme Sahası, ziyaretçilere do�
 
 ## İlginç Bilgiler
 
-- Alan, 140 hektarlık bir büyüklüğe sahiptir
-- Alan, yaklaşık 200 futbol sahası büyüklüğündedir
 - Alan, çeşitli bitki ve hayvan türlerine ev sahipliği yapar
 - Alan, mevsimsel değişimlere göre farklı bitki ve hayvan türlerinin yaşamına olanak sağlar
 - Alan, doğa yürüyüşleri, kuş izleme ve fotoğrafçılık için idealdir

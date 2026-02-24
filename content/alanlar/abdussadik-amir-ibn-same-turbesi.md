@@ -38,7 +38,7 @@ Abdüssadık Amir İbn Same Türbesi'nin tarihi geçmişi, İstanbul'un fethine 
 
 ## Coğrafya
 
-Abdüssadık Amir İbn Same Türbesi, Eyüpsultan ilçesinde yer alır. İstanbul'un merkezine yakın bir konumda bulunan bu mekan, ulaşım açısından kolaylık sağlar. Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer alır. Bu yeşil alan, ziyaretçilere dinlenme ve gezi imkanı sunar. Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. İstanbul'un iklimi, karasal ve denizel iklimlerin karışımıdır. Bu nedenle, Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, yıl boyunca ziyaret edilebilir.
+Abdüssadık Amir İbn Same Türbesi, Eyüpsultan ilçesinde yer alır. İstanbul'un merkezine yakın bir konumda bulunan bu mekan, ulaşım açısından kolaylık sağlar. Bu yeşil alan, ziyaretçilere dinlenme ve gezi imkanı sunar. Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. İstanbul'un iklimi, karasal ve denizel iklimlerin karışımıdır. Bu nedenle, Abdüssadık Amir İbn Same Türbesi'nin bulunduğu bölge, yıl boyunca ziyaret edilebilir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Abdüssadık Amir İbn Same Türbesi'ni ziyaret etmek isteyenler, Eyüpsultan il
 ## İlginç Bilgiler
 
 - Abdüssadık Amir İbn Same Türbesi, İstanbul'un tarihi mekanlarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir yeşil alanda yer alır.
+
 - Abdüssadık Amir İbn Same Türbesi, yıl boyunca ziyaret edilebilir.
 - Bölgede, çeşitli bitki ve hayvan türleri bulunur.
 - Türbe, ulaşım açısından kolaylık sağlar.

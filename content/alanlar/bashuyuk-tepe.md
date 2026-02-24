@@ -49,7 +49,7 @@ Başhüyük Tepe'yi ziyaret etmek, hem tarihi hem de doğa severler için mükem
 ## İlginç Bilgiler
 
 - Tarihi geçmişi yüzyıllar öncesine dayanıyor
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu
 - İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor
 - Karaisal iklim özellikleri gösteriyor

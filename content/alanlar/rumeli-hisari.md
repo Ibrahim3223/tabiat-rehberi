@@ -52,6 +52,6 @@ Rumeli Hisarı, yıl boyunca ziyaret edilebilir. Hisara ulaşım, toplu taşıma
 
 - Rumeli Hisarı, İstanbul'un fethine önemli bir stratejik rol oynamıştır.
 - Hisar, Fatih Sultan Mehmet tarafından 1452 yılında inşa ettirilmiştir.
-- Rumeli Hisarı, 140 hektarlık bir yeşil alana sahiptir.
+
 - Hisarın inşaasında, Bizans döneminden kalan yapıların taşları ve diğer malzemeler kullanılmıştır.
 - Rumeli Hisarı, Türkiye'nin önemli tarihi ve turistik mekanlarından birisidir.

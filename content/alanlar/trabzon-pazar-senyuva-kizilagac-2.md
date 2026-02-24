@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","bitki gözlemi","hayvan gözlemi","fotogr
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sis_da%C4%9F%C4%B1_%287%29.jpg/960px-Sis_da%C4%9F%C4%B1_%287%29.jpg","alt":"Trabzon-Pazar-Senyuva Kizilagac 2","caption":"Trabzon-Pazar-Senyuva Kizilagac 2","credit":"Sis dağı (7).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Pazar-Senyuva%20Kizilagac%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227753","tip":"genel"}]
-description: "Trabzon'un güzide milli parklarından biri olan Trabzon-Pazar-Senyuva Kizilagac 2, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Trabzon","milli park","doğa","gezi","yaban hayatı","flora","fauna","ekoloji","çevre","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227753"
@@ -30,7 +30,7 @@ Trabzon-Pazar-Senyuva Kizilagac 2 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Trabzon-Pazar-Senyuva Kizilagac 2 milli parkı, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Milli parkın 140 hektarlık alanı, yeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu bölgenin iklimi, Karadeniz ikliminin etkisinde ve yağış lưngu oldukça yüksek. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunmakla birlikte, aynı zamanda ekolojik dengeyi koruma açısından da önemli bir role sahip. Milli parkın çevresi, doğal güzelliğin korunmasına yönelik çalışmalarla şekillenmiş ve bu bölge, doğa severler için gerçek bir cennet olarak kabul ediliyor.
+Trabzon-Pazar-Senyuva Kizilagac 2 milli parkı, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgenin iklimi, Karadeniz ikliminin etkisinde ve yağış lưngu oldukça yüksek. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunmakla birlikte, aynı zamanda ekolojik dengeyi koruma açısından da önemli bir role sahip. Milli parkın çevresi, doğal güzelliğin korunmasına yönelik çalışmalarla şekillenmiş ve bu bölge, doğa severler için gerçek bir cennet olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Trabzon-Pazar-Senyuva Kizilagac 2 milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Trabzon-Pazar-Senyuva Kizilagac 2 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri
 - Milli parkın flora ve fauna açısından zenginliği, ziyaretçilere doğanın gerçek bir cennet olduğunu gösteriyor
 - Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunmakla birlikte, aynı zamanda ekolojik dengeyi koruma açısından da önemli bir role sahip

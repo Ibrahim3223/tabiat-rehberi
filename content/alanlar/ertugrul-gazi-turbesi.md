@@ -38,7 +38,7 @@ Ertuğrul Gazi Türbesi, tarihi geçmişi ile dikkat çeker. Ertuğrul Gazi, 13.
 
 ## Coğrafya
 
-Ertuğrul Gazi Türbesi, Söğüt ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle engebeli araziler ve ormanlık alanlar ile karakterizedir. Türbe, 140 hektarlık bir alanı kaplar ve çevresinde çeşitli bitki türleri bulunur. İklim, genellikle karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar ise soğuk geçer. Çevre, tarihi ve doğal güzelliği ile dikkat çeker ve ziyaretçilere birçok aktivite imkanı sunar. Ertuğrul Gazi Türbesi, coğrafi konumu itibariyle önemli bir merkez olarak görev yapmaktadır ve birçok tarihi ve doğal güzelliğe ev sahipliği yapar.
+Ertuğrul Gazi Türbesi, Söğüt ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle engebeli araziler ve ormanlık alanlar ile karakterizedir. İklim, genellikle karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar ise soğuk geçer. Çevre, tarihi ve doğal güzelliği ile dikkat çeker ve ziyaretçilere birçok aktivite imkanı sunar. Ertuğrul Gazi Türbesi, coğrafi konumu itibariyle önemli bir merkez olarak görev yapmaktadır ve birçok tarihi ve doğal güzelliğe ev sahipliği yapar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ertuğrul Gazi Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliği ile dikka
 ## İlginç Bilgiler
 
 - Ertuğrul Gazi Türbesi, Osmanlı Devleti'nin kuruluşuna tanıklık eden bir tarihi mekan
-- Türbe, 140 hektarlık bir alanı kaplar
+
 - Çevre, çeşitli bitki türleri ve yaban hayatı ile dikkat çeker
 - Ertuğrul Gazi, 13. yüzyılda yaşayan bir Türk beyidir
 - Türbe, yüzyıllar boyunca birçok restorasyon geçirmiştir

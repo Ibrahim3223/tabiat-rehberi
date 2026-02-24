@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fauna","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"İsparta-Egirdir-Y.Gokdere-Uvez","caption":"İsparta-Egirdir-Y.Gokdere-Uvez","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0sparta-Egirdir-Y.Gokdere-Uvez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228218","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. İsparta-Egirdir-Y."
 keywords: ["İsparta","Egirdir","Y.Gokdere","Uvez","milli park","doğa","yeşil alan","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228218"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228218"
 
 # İsparta-Egirdir-Y.Gokdere-Uvez
 
-İç Anadolu Bölgesi'nin kalbinde yer alan İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
+İç Anadolu Bölgesi'nin kalbinde yer alan İsparta-Egirdir-Y. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228218"
 
 ## Coğrafya
 
-İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, 140 hektarlık yeşil alanı ve çeşitli bitki türleri ile kaplı. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve dört mevsim farklılık gösteriyor. Bölge, zengin faunası ile dikkat çekiyor ve çeşitli hayvan türleri burada yaşıyor. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, doğal güzellikleri ve coğrafi özellikleri ile ziyaretçilerini cezbediyor. Bu milli park, bölgenin önemli bir doğal alanı olarak karşımıza çıkıyor ve ziyaretçilerine doğanın güzelliklerini sunuyor.
+İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve dört mevsim farklılık gösteriyor. Bölge, zengin faunası ile dikkat çekiyor ve çeşitli hayvan türleri burada yaşıyor. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, doğal güzellikleri ve coğrafi özellikleri ile ziyaretçilerini cezbediyor. Bu milli park, bölgenin önemli bir doğal alanı olarak karşımıza çıkıyor ve ziyaretçilerine doğanın güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,7 @@ wikidata_id: "Q108228218"
 
 ## İlginç Bilgiler
 
-- İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, 140 hektarlık yeşil alanı ile dikkat çekiyor.
+- İsparta-Egirdir-Y.
 - Bu milli park, çeşitli bitki türleri ile kaplı.
 - İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, zengin faunası ile dikkat çekiyor.
 - Bu milli park, doğa severler için önemli bir destinasyon.

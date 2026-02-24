@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e7/%C5%9Eahinler_Aziz_Antonios_Kilisesi_2.jpg","alt":"Şahinler manzarası","credit":"ToprakM","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/%C5%9Eahinler_Aziz_Antonios_Kilisesi_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%C5%9Eahinler_Aziz_Antonios_Kilisesi_3.jpg/1280px-%C5%9Eahinler_Aziz_Antonios_Kilisesi_3.jpg","alt":"Şahinler - Şahinler Aziz Antonios Kilisesi 3","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/%C5%9Eahinler_Cami.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C5%9Eahinler_Cami.jpg/1280px-%C5%9Eahinler_Cami.jpg","alt":"Şahinler - Şahinler Cami","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/%C5%9Eahinler_Eski_Cami.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C5%9Eahinler_Eski_Cami.jpg/1280px-%C5%9Eahinler_Eski_Cami.jpg","alt":"Şahinler - Şahinler Eski Cami","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/%C5%9Eahinler_%C3%87e%C5%9Fme_1961.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C5%9Eahinler_%C3%87e%C5%9Fme_1961.jpg/1280px-%C5%9Eahinler_%C3%87e%C5%9Fme_1961.jpg","alt":"Şahinler - Şahinler Çeşme 1961","credit":"ToprakM","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/%C5%9Eahinler_%C3%87e%C5%9Fme_1961_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%C5%9Eahinler_%C3%87e%C5%9Fme_1961_2.jpg/1280px-%C5%9Eahinler_%C3%87e%C5%9Fme_1961_2.jpg","alt":"Şahinler - Şahinler Çeşme 1961 2","credit":"ToprakM","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahinler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228142","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Şahinler, 140 hektarlık geniş bir alana sahiptir. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker."
+ Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker."
 keywords: ["Şahinler","İç Anadolu Bölgesi","doğal güzellik","zengin fauna","turizm","gezi","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228142"
@@ -31,7 +31,7 @@ wikidata_id: "Q108228142"
 
 ## Coğrafya
 
-Şahinler, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. 140 hektarlık bu alan, geniş bir yeşil örtüye sahiptir ve çeşitli bitki türlerini barındırır. Şahinler'in coğrafyası, ziyaretçilerin ilgisini çeker ve onları doğanın güzelliği ile büyüler. Bu bölge, aynı zamanda zengin bir fauna çeşitliliğine sahiptir. Şahinler'in coğrafyası, yürüyüş ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, Şahinler'in coğrafyasını keşfederek, bu güzel destinasyonu daha iyi anlayabilirler. Şahinler'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilerin burayı gezmeleri için uygun bir yerdir.
+Şahinler, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Şahinler'in coğrafyası, ziyaretçilerin ilgisini çeker ve onları doğanın güzelliği ile büyüler. Bu bölge, aynı zamanda zengin bir fauna çeşitliliğine sahiptir. Şahinler'in coğrafyası, yürüyüş ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, Şahinler'in coğrafyasını keşfederek, bu güzel destinasyonu daha iyi anlayabilirler. Şahinler'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilerin burayı gezmeleri için uygun bir yerdir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ wikidata_id: "Q108228142"
 
 ## İlginç Bilgiler
 
-- Şahinler, 140 hektarlık geniş bir alana sahiptir.
 - Bu bölge, çeşitli bitki türleri ile ziyaretçilerini büyüler.
 - Şahinler, zengin bir fauna çeşitliliğine sahiptir.
 - Ziyaretçiler, Şahinler'i gezerken, geçmişin izlerini görebilirler.

@@ -15,7 +15,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","yaban hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_07.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_07.JPG","alt":"Halgent Şelalesi","caption":"Halgent Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halgent%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q65219886","tip":"genel"}]
-description: "Gümüşhane ve Bayburt'un sınırında, Karadeniz Bölgesi'nin güzelliğini keşfedin. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Gümüşhane ve Bayburt'un sınırında, Karadeniz Bölgesi'nin güzelliğini keşfedin."
 keywords: ["Halgent Şelalesi","Gümüşhane","Bayburt","Karadeniz Bölgesi","doğa","yeşil alan","şelale"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q65219886"
@@ -44,7 +44,7 @@ Halgent Şelalesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları içi
 ## İlginç Bilgiler
 
 - Halgent Şelalesi, Gümüşhane ve Bayburt'un sınırında yer alıyor.
-- Şelale, 140 hektarlık yeşil alanın içinde yer alıyor.
+
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Şelalenin suyu, çevredeki ekosistemi destekleyen önemli bir unsur.
 - Ziyaretçiler, şelaleyi yılın her döneminde ziyaret edebilirler.

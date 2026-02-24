@@ -48,7 +48,6 @@ Gökçe Tepe, ziyaretçileri için çeşitli aktivitelere olanak tanıyor. Bu b�
 
 ## İlginç Bilgiler
 
-- Gökçe Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yaptı.
 - Gökçe Tepe, flora ve fauna açısından zengin bir çeşitliliğe sahip.
 - Bu bölge, farklı mevsimlerde ziyaret edilebiliyor.

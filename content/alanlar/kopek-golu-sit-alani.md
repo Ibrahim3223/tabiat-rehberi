@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yelken","balık avı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Köpek Gölü Sit Alanı","caption":"Köpek Gölü Sit Alanı","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pek%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226403","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin başlıcalarından biri olan Köpek Gölü Sit Alanı, 140 hektarlık geniş bir alanı kaplayan önemli bir ekosistemdir."
+"
 keywords: ["Köpek Gölü","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","ekosistem","korunan alan","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226403"
@@ -41,8 +41,6 @@ Köpek Gölü Sit Alanı, zengin bir flora ve fauna çeşitliliğine sahiptir. B
 Köpek Gölü Sit Alanı, ziyaretçiler için önemli bir destinasyondur. Bu bölgeye ulaşım, çeşitli ulaşım araçlarıyla sağlanabilmektedir. Ziyaretçiler, Köpek Gölü Sit Alanı'nı gezerken, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini görebilmektedir. İlkbahar ve yaz ayları, ziyaret için en uygun zamanlardır. Bu mevsimlerde, bölgenin flora çeşitliliği artmaktadır. Ziyaretçiler, Köpek Gölü Sit Alanı'nda doğa yürüyüşü yapabilir, bölgenin güzelliklerini fotoğraflayabilir ve yerel halkla iletişim kurabilir.
 
 ## İlginç Bilgiler
-
-- Köpek Gölü Sit Alanı, 140 hektarlık bir alanı kaplar.
 
 - Köpek Gölü Sit Alanı, önemli bir doğal sit alanı olarak tanımlanmıştır.
 - Bölge, yüzyıllar boyunca farklı medeniyetlerin yerleşim yeri olarak kullanılmıştır.

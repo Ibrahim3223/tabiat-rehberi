@@ -37,7 +37,7 @@ Yıldız Sarayı Limonluk Kasrı'nın tarihi geçmişi, 19. yüzyıla kadar uzan
 
 ## Coğrafya
 
-Yıldız Sarayı Limonluk Kasrı, Beşiktaş'ta bulunan bir tepenin üzerine kurulmuştur. Sarayın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak kabul edilir. Sarayın çevresi, ormanlık bir alan olup, ziyaretçilere doğayla iç içe bir deneyim sunar. Sarayın bulunduğu tepe, yüksek bir konumda olup, buradan İstanbul'un manzarasını izleme mümkün. Sarayın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlıdır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakimdir.
+Yıldız Sarayı Limonluk Kasrı, Beşiktaş'ta bulunan bir tepenin üzerine kurulmuştur. Sarayın çevresi, ormanlık bir alan olup, ziyaretçilere doğayla iç içe bir deneyim sunar. Sarayın bulunduğu tepe, yüksek bir konumda olup, buradan İstanbul'un manzarasını izleme mümkün. Sarayın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlıdır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakimdir.
 
 ## Flora ve Fauna
 

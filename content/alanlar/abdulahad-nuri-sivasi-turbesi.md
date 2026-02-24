@@ -51,6 +51,5 @@ Abdülahad Nuri Sivasi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güze
 
 - Abdülahad Nuri Sivasi Türbesi, İstanbul'un en eski türbelerinden biri
 - Bu mekan, aynı zamanda bir plaj olarak kullanılan bir alan
-- Abdülahad Nuri Sivasi Türbesi, 140 hektarlık bir alanda bulunuyor
-- Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip
+
 - Abdülahad Nuri Sivasi Türbesi, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor

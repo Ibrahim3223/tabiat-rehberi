@@ -14,8 +14,7 @@ aktiviteler: ["Yürüyüş","Bisiklet","Piknik","Doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Mugla-Fethiye-Uzumlu Sedir","caption":"Mugla-Fethiye-Uzumlu Sedir","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Uzumlu%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227616","tip":"genel"}]
-description: "Mugla-Fethiye-Uzumlu Sedir milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Mugla","Fethiye","Uzumlu Sedir","Milli Park","Doğa","Yeşil Alan","Futbol Sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227616"
 ---

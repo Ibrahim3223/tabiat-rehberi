@@ -50,7 +50,7 @@ Sekibaşı Hamamı, ziyaretçiler için birçok aktivite sunar. Bu bölgede, pla
 ## İlginç Bilgiler
 
 - Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alır.
-- Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
+
 - Sekibaşı Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir.
 - Bu bölgenin tarihi geçmişi, yüzyıllar öncesine dayanır.
 - Sekibaşı Hamamı, ziyaretçilerine birçok gezi ve aktivite seçeneği sunar.

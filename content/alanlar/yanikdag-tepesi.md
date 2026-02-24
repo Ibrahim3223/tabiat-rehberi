@@ -28,7 +28,7 @@ wikidata_id: "Q31386156"
 
 # Yanıkdağ Tepesi
 
-Yanıkdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep ilinde bulunan önemli bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık bir alan kaplar ve bölgenin coğrafi yapısını şekillendiren önemli bir oluşumdur. Yanıkdağ Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliği keşfetmek için davet ediyor. Tepenin eteklerinde ve çevresinde yer alan köyler ve kasabalar, bu bölgenin kültürel zenginliğini gözler önüne seriyor. Yanıkdağ Tepesi, hem doğal güzelliği hem de kültürel önemi ile ziyaretçilerini bekliyor.
+Yanıkdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep ilinde bulunan önemli bir doğal güzelliktir. Yanıkdağ Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliği keşfetmek için davet ediyor. Tepenin eteklerinde ve çevresinde yer alan köyler ve kasabalar, bu bölgenin kültürel zenginliğini gözler önüne seriyor. Yanıkdağ Tepesi, hem doğal güzelliği hem de kültürel önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yanıkdağ Tepesi'nin tarihi geçmişi, bölgenin genel tarihçesi ile paralelli
 
 ## Coğrafya
 
-Yanıkdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alan kaplar ve bölgenin en yüksek noktalarından biridir. Tepenin eteklerinde ve çevresinde yer alan köyler ve kasabalar, bu bölgenin kültürel zenginliğini gözler önüne seriyor. Yanıkdağ Tepesi, bölgenin iklimini de etkileyen bir faktördür. Tepenin yüksekliği, bölgenin hava koşullarını belirliyor ve bu da bölgenin flora ve faunasını etkiliyor. Tepenin etrafındaki araziler, genellikle tarım için kullanılır ve bölgenin ekonomisine önemli katkılar sağlar. Yanıkdağ Tepesi, hem coğrafi konumu hem de iklimi ile bölgenin önemli bir parçasıdır.
+Yanıkdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir oluşumdur. Tepenin eteklerinde ve çevresinde yer alan köyler ve kasabalar, bu bölgenin kültürel zenginliğini gözler önüne seriyor. Yanıkdağ Tepesi, bölgenin iklimini de etkileyen bir faktördür. Tepenin yüksekliği, bölgenin hava koşullarını belirliyor ve bu da bölgenin flora ve faunasını etkiliyor. Tepenin etrafındaki araziler, genellikle tarım için kullanılır ve bölgenin ekonomisine önemli katkılar sağlar. Yanıkdağ Tepesi, hem coğrafi konumu hem de iklimi ile bölgenin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yanıkdağ Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güz
 
 ## İlginç Bilgiler
 
-- Yanıkdağ Tepesi, yaklaşık 140 hektarlık bir alan kaplar.
 - Tepenin etrafında, çeşitli arkeolojik siteler bulunur.
 - Bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her dönemde önemli bir yerleşim ve ticaret merkezi olmuştur.
 - Tepenin yüksekliği, bölgenin hava koşullarını belirliyor ve bu da bölgenin flora ve faunasını etkiliyor.

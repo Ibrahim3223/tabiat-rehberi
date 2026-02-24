@@ -29,7 +29,7 @@ wikidata_id: "Q56438446"
 
 # MKE Sanayi ve Teknoloji Müzesi
 
-MKE Sanayi ve Teknoloji Müzesi, Ankara'nın kalbinde, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini sanayi ve teknoloji tarihine götüren özel bir geçmişe sahiptir. Bu müzede, geçmişten günümüze uzanan bir sanayi ve teknoloji yolculuğuna çıkabilirsiniz. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir keşif alanı sunar. Müzenin hikayesi, Ankara'nın sanayi geçmişine ışık tutar ve ziyaretçilere bu geçmişin zenginliğini gösterir.
+ Bu müzede, geçmişten günümüze uzanan bir sanayi ve teknoloji yolculuğuna çıkabilirsiniz. Müzenin hikayesi, Ankara'nın sanayi geçmişine ışık tutar ve ziyaretçilere bu geçmişin zenginliğini gösterir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ MKE Sanayi ve Teknoloji Müzesi'ni ziyaret etmek, hem sanayi hem de teknoloji ta
 ## İlginç Bilgiler
 
 - MKE Sanayi ve Teknoloji Müzesi, Türkiye'nin en büyük sanayi ve teknoloji müzelerinden biridir.
-- Müze, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Müzenin koleksiyonunda, sanayi ve teknoloji tarihine ait binlerce eser bulunur.
 - Müze, ziyaretçilere sanayi ve teknoloji tarihini öğrenme fırsatı sunar.
 - Müze, aynı zamanda bir kültür ve eğitim merkezi olarak hizmet verir.

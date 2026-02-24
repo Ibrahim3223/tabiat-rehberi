@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki ve hayvan türlerini keşfetme","pikn
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"Mugla-Kemer-Akcay Kızılçam1","caption":"Mugla-Kemer-Akcay Kızılçam1","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Akcay%20K%C4%B1z%C4%B1l%C3%A7am1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227912","tip":"genel"}]
-description: "Muğla'da yer alan doğal güzellik, 140 hektarlık yeşil alan"
+
 keywords: ["Muğla","Kemer","Akcay","Kızılçam","milli park","doğa","yeşil alan","Ege Bölgesi","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227912"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227912"
 
 # Mugla-Kemer-Akcay Kızılçam1
 
-Mugla-Kemer-Akcay Kızılçam1, Muğla'nın güzide bölgelerinden biri olarak karşımıza çıkıyor. 140 hektarlık geniş bir yeşil alanı kapsıyor. Doğal güzelliği ve zengin florası ile dikkat çekiyor. Ziyaretçilerini doğanın kucağına davet ediyor. Burada, şehrin gürültüsünden uzaklaşarak doğanın sesini dinleyebilirsiniz. Yeşilin her tonunu görebileceğiniz bu alan, aynı zamanda birçok bitki ve hayvan türüne ev sahipliği yapıyor.
+Mugla-Kemer-Akcay Kızılçam1, Muğla'nın güzide bölgelerinden biri olarak karşımıza çıkıyor. Doğal güzelliği ve zengin florası ile dikkat çekiyor. Ziyaretçilerini doğanın kucağına davet ediyor. Burada, şehrin gürültüsünden uzaklaşarak doğanın sesini dinleyebilirsiniz. Yeşilin her tonunu görebileceğiniz bu alan, aynı zamanda birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mugla-Kemer-Akcay Kızılçam1'in tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Mugla-Kemer-Akcay Kızılçam1, Muğla'nın coğrafi olarak zajímav bir bölgesinde yer alıyor. Ege Bölgesi'nin doğal güzelliklerini barındıran bu alan, geniş ormanlık araziler ve yeşil alanlarla çevrili. İklimi, Ege Bölgesi'nin karakteristik özelliği olan Akdeniz iklimi. Yaz ayları sıcak ve kuru, kış ayları ılık ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası için al koşullar sağlıyor. Coğrafi yapısı, ziyaretçilere geniş yürüyüş yolları ve doğal güzellikleri keşfetme imkanı sunuyor. 140 hektarlık alan, ziyaretçilerin doğayı keşfetmeleri için yeterli bir büyüklüğe sahip. Bu genişlik, ziyaretçilerin doğa ile iç içe olabilecekleri bir ortam sunuyor.
+Mugla-Kemer-Akcay Kızılçam1, Muğla'nın coğrafi olarak zajímav bir bölgesinde yer alıyor. Ege Bölgesi'nin doğal güzelliklerini barındıran bu alan, geniş ormanlık araziler ve yeşil alanlarla çevrili. İklimi, Ege Bölgesi'nin karakteristik özelliği olan Akdeniz iklimi. Yaz ayları sıcak ve kuru, kış ayları ılık ve yağışlı geçiyor. Bu iklim, bölgenin florası ve faunası için al koşullar sağlıyor. Coğrafi yapısı, ziyaretçilere geniş yürüyüş yolları ve doğal güzellikleri keşfetme imkanı sunuyor. Bu genişlik, ziyaretçilerin doğa ile iç içe olabilecekleri bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mugla-Kemer-Akcay Kızılçam1'i ziyaret etmek, doğa severler için ideal bir g
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Ege Bölgesi'nde yer alıyor
 - Zengin flora ve fauna
 - Mevsimsel değişimlere uygun ekosistem

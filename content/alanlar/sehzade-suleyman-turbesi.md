@@ -30,7 +30,7 @@ wikidata_id: "Q131391284"
 
 # Şehzade Süleyman Türbesi
 
-Şehzade Süleyman Türbesi, Bursa'nın Yenişehir ilçesinde bulunan tarihi bir mekan olarak ziyaretçilerini ağırlıyor. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor ve ziyaretçilere geniş bir yeşil alan sunuyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmeyi başarıyor. Şehzade Süleyman Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Şehzade Süleyman Türbesi, Bursa'nın Yenişehir ilçesinde bulunan tarihi bir mekan olarak ziyaretçilerini ağırlıyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekmeyi başarıyor. Şehzade Süleyman Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391284"
 
 ## Coğrafya
 
-Şehzade Süleyman Türbesi, Bursa'nın Yenişehir ilçesinde yer alıyor. Bu mekan, yaklaşık 140 hektarlık bir yeşil alan içerisinde konumlanmış ve ziyaretçilere geniş bir açık alan sunuyor. Türbenin etrafı, çeşitli ağaçlar ve bitkiler ile çevrili ve ziyaretçilere doğal bir ortam sunuyor. Şehzade Süleyman Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor ve ziyaretçilere bu bölgenin güzelliklerini sunuyor. Türbenin konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanıyor.
+Şehzade Süleyman Türbesi, Bursa'nın Yenişehir ilçesinde yer alıyor. Türbenin etrafı, çeşitli ağaçlar ve bitkiler ile çevrili ve ziyaretçilere doğal bir ortam sunuyor. Şehzade Süleyman Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor ve ziyaretçilere bu bölgenin güzelliklerini sunuyor. Türbenin konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanıyor.
 
 ## Flora ve Fauna
 

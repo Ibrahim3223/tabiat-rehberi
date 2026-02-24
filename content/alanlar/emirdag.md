@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Yaklasirken_emirdag.JPG","alt":"EMİRDAĞ manzarası","credit":"FoPen","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Uzaktan_emirdag.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Uzaktan_emirdag.JPG/1280px-Uzaktan_emirdag.JPG","alt":"EMİRDAĞ - Uzaktan emirdag","credit":"FoPen","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Emirdag_eski_hamam.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Emirdag_eski_hamam.jpg/1280px-Emirdag_eski_hamam.jpg","alt":"EMİRDAĞ - Emirdag eski hamam","credit":"FoPen","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Emirdag_mimarisi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Emirdag_mimarisi.jpg/1280px-Emirdag_mimarisi.jpg","alt":"EMİRDAĞ - Emirdag mimarisi","credit":"FoPen","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Emirdag_002.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Emirdag_002.jpg/1280px-Emirdag_002.jpg","alt":"EMİRDAĞ - Emirdag 002","credit":"FoPen","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Emirdag_erenoglu_sokak.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Emirdag_erenoglu_sokak.jpg/1280px-Emirdag_erenoglu_sokak.jpg","alt":"EMİRDAĞ - Emirdag erenoglu sokak","credit":"FoPen","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/EM%C4%B0RDA%C4%9E","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228615","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini sunan Emir Dağ, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Emir Dağ","İç Anadolu Bölgesi","doğal güzellik","milli park","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228615"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228615"
 
 # EMİRDAĞ
 
- Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Emir Dağ'ın hikayesi, yüzyıllar boyunca şekillenmiş ve doğal güzelliği ile ziyaretçilerini cezbetmiştir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
+ Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Emir Dağ'ın hikayesi, yüzyıllar boyunca şekillenmiş ve doğal güzelliği ile ziyaretçilerini cezbetmiştir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Emir Dağ'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge,
 
 ## Coğrafya
 
-Emir Dağ, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu milli park, coğrafi konumu itibariyle farklı iklim tiplerine ev sahipliği yapmaktadır. Emir Dağ'ın coğrafyası, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Bu bölgenin coğrafi yapısı, yüzyıllar boyunca şekillenmiş ve doğal güzelliği ile dikkat çekmektedir. Emir Dağ, ziyaretçilerine çeşitli coğrafi oluşumları ve doğal güzellikleri sunmaktadır. Bu bölge, coğrafi konumu itibariyle zengin bir flora ve fauna ile kaplıdır.
+Emir Dağ, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu milli park, coğrafi konumu itibariyle farklı iklim tiplerine ev sahipliği yapmaktadır. Emir Dağ'ın coğrafyası, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Bu bölgenin coğrafi yapısı, yüzyıllar boyunca şekillenmiş ve doğal güzelliği ile dikkat çekmektedir. Emir Dağ, ziyaretçilerine çeşitli coğrafi oluşumları ve doğal güzellikleri sunmaktadır. Bu bölge, coğrafi konumu itibariyle zengin bir flora ve fauna ile kaplıdır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Emir Dağ, ziyaretçilerine doğal güzelliği ve zengin fauna ile unutuluz bir 
 
 ## İlginç Bilgiler
 
-- Emir Dağ, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu milli park, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir
 - Emir Dağ'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 - Bu bölge, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır

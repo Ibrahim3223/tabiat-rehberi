@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Kurtgedik Tepesi","caption":"Kurtgedik Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtgedik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558340","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde bulunan Kurtgedik Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kurtgedik Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558340"
@@ -28,7 +28,7 @@ wikidata_id: "Q31558340"
 
 # Kurtgedik Tepesi
 
-Kurtgedik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kurtgedik Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kurtgedik Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q131391652"
 
 # Hatunlar Türbesi
 
-Sinop'un merkezinde yer alan Hatunlar Türbesi, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Türbenin tarihi geçmişi, ziyaretçilerini cezbeden en önemli özelliklerinden biridir. Sinop'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Hatunlar Türbesi, ziyaretçilerine zengin bir deneyim sunar. Türbenin yakınında bulunan plaj, deniz severlerin keyif alacağı bir noktadır. Hatunlar Türbesi, Sinop'un en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir.
+ Türbenin tarihi geçmişi, ziyaretçilerini cezbeden en önemli özelliklerinden biridir. Sinop'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Hatunlar Türbesi, ziyaretçilerine zengin bir deneyim sunar. Türbenin yakınında bulunan plaj, deniz severlerin keyif alacağı bir noktadır. Hatunlar Türbesi, Sinop'un en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hatunlar Türbesi, tarihi geçmişi ile dikkat çeker. Türbenin inşa edildiği
 
 ## Coğrafya
 
-Hatunlar Türbesi, Sinop'un merkezinde yer alır ve Karadeniz Bölgesi'nin en önemli turistik noktalarından biridir. Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur ve yüksek bir konumdadir. Türbenin yakınında bulunan plaj, uzun bir mesafe uzunluğundadır ve deniz severlerin keyif alacağı bir noktadır. Hatunlar Türbesi, Sinop'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir. Türbenin konumu, ziyaretçilerine çeşitli aktivite seçenekleri sunar. Türbe, Sinop'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için vazgeçilmez bir destinasyon olarak kabul edilir. Sinop'un iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzemektedir. İlde, yaz aylarında sıcaklık 25 dereceye, kış aylarında ise 5 dereceye düşmektedir. Bu iklim, Hatunlar Türbesi'nin ziyaretçilerine çeşitli aktiviteler sunar.
+Hatunlar Türbesi, Sinop'un merkezinde yer alır ve Karadeniz Bölgesi'nin en önemli turistik noktalarından biridir. Türbenin yakınında bulunan plaj, uzun bir mesafe uzunluğundadır ve deniz severlerin keyif alacağı bir noktadır. Hatunlar Türbesi, Sinop'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir. Türbenin konumu, ziyaretçilerine çeşitli aktivite seçenekleri sunar. Türbe, Sinop'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için vazgeçilmez bir destinasyon olarak kabul edilir. Sinop'un iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzemektedir. İlde, yaz aylarında sıcaklık 25 dereceye, kış aylarında ise 5 dereceye düşmektedir. Bu iklim, Hatunlar Türbesi'nin ziyaretçilerine çeşitli aktiviteler sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hatunlar Türbesi, Sinop'un merkezi konumunda yer aldığı için ulaşım olduk
 ## İlginç Bilgiler
 
 - Sinop'un en önemli turistik noktalarından biridir
-- Yaklaşık 140 hektarlık bir alan üzerine kurulmuştur
+
 - Türbenin tarihi geçmişi, yüzyıllar boyunca önemli bir merkez olarak kabul edilmiştir
 - Sinop'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir
 - Türbenin yakınında bulunan plaj, deniz severlerin keyif alacağı bir noktadır

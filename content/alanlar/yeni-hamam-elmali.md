@@ -21,7 +21,7 @@ aktiviteler: ["Denize girmek","Güneşlenmek","Doğa yürüyüşü","Yaban hayat
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Yeni Hamam, Elmalı","caption":"Yeni Hamam, Elmalı","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Elmal%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245822","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin en güzel plajlarından biri olan Yeni Hamam, Elmalı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Elmalı","Antalya","Akdeniz Bölgesi","plaj","yeşil alan","deniz","kumsal"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245822"
@@ -37,7 +37,7 @@ Yeni Hamam, Elmalı'nın tarihi geçmişi, bölgenin yerleşim tarihi kadar eski
 
 ## Coğrafya
 
-Yeni Hamam, Elmalı, coğrafi konumu itibariyle, Akdeniz Bölgesi'nin en güzel plajlarından biridir. 140 hektarlık yeşil alan, plajın etrafını çevirmekte ve ziyaretçilere geniş bir alan sunmaktadır. Plaj, kumsalıyla birlikte, uzun bir mesafe uzunluğundadır. Deniz, genellikle sakin ve berrak bir yapıya sahiptir. Plajın etrafındaki tepeler, yaban hayatının yaşadığı bir alan olarak bilinir ve çeşitli bitki türleri burada yetişir. Yeni Hamam, Elmalı, aynı zamanda, bölgenin iklimi nedeniyle, yılın büyük częği güneşli bir havalı geçirir. Bu, plajı, özellikle yaz aylarında, ziyaretçilerin tercih ettiği bir yer haline getirir. Plajın yakınında, çeşitli tesisler ve hizmetler de bulunmaktadır.
+Yeni Hamam, Elmalı, coğrafi konumu itibariyle, Akdeniz Bölgesi'nin en güzel plajlarından biridir. Plaj, kumsalıyla birlikte, uzun bir mesafe uzunluğundadır. Deniz, genellikle sakin ve berrak bir yapıya sahiptir. Plajın etrafındaki tepeler, yaban hayatının yaşadığı bir alan olarak bilinir ve çeşitli bitki türleri burada yetişir. Yeni Hamam, Elmalı, aynı zamanda, bölgenin iklimi nedeniyle, yılın büyük częği güneşli bir havalı geçirir. Bu, plajı, özellikle yaz aylarında, ziyaretçilerin tercih ettiği bir yer haline getirir. Plajın yakınında, çeşitli tesisler ve hizmetler de bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Yeni Hamam, Elmalı, ziyaretçilerini, özellikle yaz aylarında ağırlamaktad�
 
 ## İlginç Bilgiler
 
-- Yeni Hamam, Elmalı, 140 hektarlık yeşil alanına sahiptir.
 - Plajın kumsalı, ince kumla kaplı ve sakin bir denize sahiptir.
 - Yeni Hamam, Elmalı, yaban hayatının yaşadığı bir alandır.
 - Plajın etrafındaki tepeler, çeşitli bitki türlerine ev sahipliği yapar.

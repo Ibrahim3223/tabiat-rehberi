@@ -51,6 +51,6 @@ Servet Seza Kadınefendi Türbesi'ni ziyaret etmek, hem dini hem de kültürel b
 
 - Türbenin inşa edilmesi, Osmanlı dönemine dayanır
 - Türbe, Fatih ilçesinin önemli dini merkezlerinden biridir
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar
+
 - Türbe, sadece dini bir merkez olarak değil, aynı zamanda mimari bir eser olarak da önemlidir
 - Türbenin tarihi geçmişi, ziyaretçilere zengin bir kültürel miras sunar

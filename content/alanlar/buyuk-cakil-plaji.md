@@ -15,7 +15,7 @@ aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşleri","Balık avı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Büyük Çakıl Plajı","caption":"Büyük Çakıl Plajı","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6006166","tip":"genel"}]
-description: "Kaş'ta bulunan Büyük Çakıl Plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Zengin flora ve fauna çeşitliliğiyle dikkat çeker."
+ Zengin flora ve fauna çeşitliliğiyle dikkat çeker."
 keywords: ["Büyük Çakıl Plajı","Kaş","plaj","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6006166"
@@ -42,8 +42,6 @@ Büyük Çakıl Plajı, zengin flora ve fauna çeşitliliğiyle dikkat çeker. P
 Büyük Çakıl Plajı, ziyaretçilere geniş bir açık alan sunar ve doğa severler için ideal bir destinasyondur. Plaja ulaşım, Kaş ilçesinden rahatça sağlanabilir. Büyük Çakıl Plajı, yılın her döneminde ziyaret edilebilir. Yaz aylarında, plajın etrafında çeşitli etkinlikler düzenlenir. Kış aylarında, plajın etrafında çeşitli doğa yürüyüşleri yapılabilir. Büyük Çakıl Plajı, ziyaretçilere geniş bir açık alan sunar ve doğa severler için ideal bir destinasyondur.
 
 ## İlginç Bilgiler
-
-- Büyük Çakıl Plajı, 140 hektarlık yeşil alanına sahiptir.
 
 - Büyük Çakıl Plajı, zengin flora ve fauna çeşitliliğiyle dikkat çeker.
 - Plajın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir.

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Sinop-Ayancik-Cangal Saricam","caption":"Sinop-Ayancik-Cangal Saricam","credit":"Ilgaz Mountain National Park 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Cangal%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227198","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık milli parkta çeşitli bitki türleri ve zengin fauna."
+description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Sinop","Ayancik","Cangal Saricam","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227198"

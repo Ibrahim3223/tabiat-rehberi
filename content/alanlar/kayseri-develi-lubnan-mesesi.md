@@ -43,7 +43,7 @@ Kayseri-Develi-Lubnan Mesesi milli parkını ziyaret etmek, doğa severler için
 ## İlginç Bilgiler
 
 - Kayseri-Develi-Lubnan Mesesi milli parkı, özellikle Lubnan meselesi gibi endemik türlerle dikkat çekiyor.
-- Milli park, 140 hektarlık bir alana yayılıyor.
+
 - Parkta, çeşitli bitki türleri ve ağaçlar, ziyaretçilere doğanın güzelliğini gösteriyor.
 - Milli parkın coğrafi konumu, özellikle Lubnan meseesi gibi endemik türlerin yaşam alanı olarak büyük bir önem taşıyor.
 - Parkta, mevsimsel değişimler, flora ve faunasını etkiliyor.

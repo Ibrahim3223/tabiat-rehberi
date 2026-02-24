@@ -38,7 +38,7 @@ Eshab-ı Kehf Külliyesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu bö
 
 ## Coğrafya
 
-Eshab-ı Kehf Külliyesi, Kahramanmaraş'ın Afşin ilçesinde yer alır ve coğrafi olarak dikkat çekici bir konuma sahiptir. Bu bölge, Akdeniz Bölgesi'nin İç Anadolu Bölgesi'ne geçişinde bulunur ve bu nedenle hem Akdeniz'in hem de İç Anadolu'nun coğrafi özelliklerini taşır. Külliye, yaklaşık 140 hektarlık bir alanı kaplar ve bu alanın büyük bir kısmını tarihi yapılar ve doğal güzellikler oluşturur. İklim olarak, bölge yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı bir Akdeniz iklimine sahiptir. Çevre, tarihi yapıların yanı sıra doğal güzelliklerle dolu olup, ziyaretçilere geniş bir gezi ve keşif alanı sunar.
+Eshab-ı Kehf Külliyesi, Kahramanmaraş'ın Afşin ilçesinde yer alır ve coğrafi olarak dikkat çekici bir konuma sahiptir. Bu bölge, Akdeniz Bölgesi'nin İç Anadolu Bölgesi'ne geçişinde bulunur ve bu nedenle hem Akdeniz'in hem de İç Anadolu'nun coğrafi özelliklerini taşır. İklim olarak, bölge yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı bir Akdeniz iklimine sahiptir. Çevre, tarihi yapıların yanı sıra doğal güzelliklerle dolu olup, ziyaretçilere geniş bir gezi ve keşif alanı sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Eshab-ı Kehf Külliyesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikler
 ## İlginç Bilgiler
 
 - Eshab-ı Kehf'in hikayesi yedi gencin hikayesini anlatır
-- Külliye, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Bölge, Akdeniz Bölgesi'nin İç Anadolu Bölgesi'ne geçişinde bulunur
 - İlkbahar ve sonbahar ayları ziyaret için en iyi mevsimlerdir
 - Ziyaretçilerin, tarihi yapıları gezme ve doğa yürüyüşleri yapmak gibi çeşitli etkinlikleri gerçekleştirebileceği bir alandır

@@ -29,7 +29,7 @@ wikidata_id: "Q131390884"
 
 # Şeyh Halit Türbesi
 
-Şeyh Halit Türbesi, Konya'nın Ilgın ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu mekan, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini tarihi bir yolculuğa çıkarırken aynı zamanda çevrenin doğal güzelliği ile de büyüler. Şeyh Halit Türbesi, özellikle ilginç tarihi geçmişinin yanı sıra, çevresindeki flora ve fauna çeşitliliği ile de dikkat çeker. Bu türbe, hem yerel halk hem de ziyaretçiler için önemli bir kültürel ve doğal miras olarak kabul edilir.
+Şeyh Halit Türbesi, Konya'nın Ilgın ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Şeyh Halit Türbesi, özellikle ilginç tarihi geçmişinin yanı sıra, çevresindeki flora ve fauna çeşitliliği ile de dikkat çeker. Bu türbe, hem yerel halk hem de ziyaretçiler için önemli bir kültürel ve doğal miras olarak kabul edilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131390884"
 ## İlginç Bilgiler
 
 - Şeyh Halit Türbesi, Konya'nın önemli tarihi ve kültürel miraslarından biridir.
-- Türbe, 140 hektarlık bir alanı kaplar.
+
 - Bölge, çeşitli bitki türleri ve fauna ile dikkat çeker.
 - İlkbahar ve yaz aylarında ziyaret etmek en idealdir.
 - Türbe ve çevresi, ziyaretçilere doğa ve tarih hakkında zengin bir deneyim sunar.

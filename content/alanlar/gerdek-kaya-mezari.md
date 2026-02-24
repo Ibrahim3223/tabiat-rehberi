@@ -30,7 +30,7 @@ wikidata_id: "Q134728169"
 
 # Gerdek Kaya Mezarı
 
-Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin Alaca ilçesinde, Çorum'un zengin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu eşsiz mekan, yaklaşık 140 hektarlık bir alanda, tarihi geçmişin derin izlerini taşıyan kaya mezarları ile ziyaretçilerini karşılayacak. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kaya mezarları, bölgenin tarihi ve kültürel değerlerini yansıtan önemli bir turizm noktası olarak dikkat çekiyor. Gerdek Kaya Mezarı, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın güzelliğini sunuyor.
+Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin Alaca ilçesinde, Çorum'un zengin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Gerdek Kaya Mezarı, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın güzelliğini sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gerdek Kaya Mezarı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve 
 
 ## Coğrafya
 
-Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği Alaca ilçesinde, Çorum'un doğal zenginliklerini barındıran bir bölgede yer alıyor. Bu bölge, coğrafi olarak, denize yakın bir konumda bulunması nedeniyle, iklimi ılımandır ve ziyaretçilerine, yeşilin ve mavinin bir araya geldiği bir manzara sunuyor. Kaya mezarlarının bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alan, ziyaretçilere, hem tarihi bir gezi hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Bu coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme olanağı tanıyarak, bir gezi deneyimi sunuyor. Ayrıca, Gerdek Kaya Mezarı'nın bulunduğu bölge, etrafındaki dağlar ve vadiler ile birlikte, bir doğa harikası olarak kabul ediliyor.
+Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği Alaca ilçesinde, Çorum'un doğal zenginliklerini barındıran bir bölgede yer alıyor. Bu bölge, coğrafi olarak, denize yakın bir konumda bulunması nedeniyle, iklimi ılımandır ve ziyaretçilerine, yeşilin ve mavinin bir araya geldiği bir manzara sunuyor. Bu coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme olanağı tanıyarak, bir gezi deneyimi sunuyor. Ayrıca, Gerdek Kaya Mezarı'nın bulunduğu bölge, etrafındaki dağlar ve vadiler ile birlikte, bir doğa harikası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Gerdek Kaya Mezarı, ziyaretçilerine, bir gezi deneyimi sunuyor. Bu mezarları 
 
 - Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin en önemli tarihi mekanlarından birisidir
 - Bu kaya mezarları, bölgenin kültürel mirasının önemli bir parçasıdır
-- Gerdek Kaya Mezarı, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Bölge, zengin bir flora ve fauna çeşitliliği ile dikkat çekiyor
 - Ziyaretçilere, ilkbahar ve sonbahar ayları, en uygun ziyaret zamanı olarak öneriliyor

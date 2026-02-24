@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Adana-Ceyhan Kızılçam","caption":"Adana-Ceyhan Kızılçam","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Ceyhan%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227833","tip":"genel"}]
-description: "Adana'nın doğal güzelliklerini keşfedin. Ceyhan Kızılçam Milli Parkı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+description: "Adana'nın doğal güzelliklerini keşfedin."
 keywords: ["Adana","Ceyhan","Kızılçam","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227833"
@@ -31,7 +31,7 @@ Adana-Ceyhan Kızılçam Milli Parkı, yüzyıllar boyunca bu bölgede yaşayan 
 
 ## Coğrafya
 
-Adana-Ceyhan Kızılçam Milli Parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden birisidir. Park, Ceyhan Nehri'nin kıyısında, yaklaşık 140 hektarlık bir alanı kaplar. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve çeşitli etkinlikler için uygun ortamlar sunar. Parkın iklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilere yılın dört mevsimi boyunca gezilebilecek bir ortam sağlar. Parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilere geniş bir görüş açısı sunar.
+Adana-Ceyhan Kızılçam Milli Parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden birisidir. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve çeşitli etkinlikler için uygun ortamlar sunar. Parkın iklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilere yılın dört mevsimi boyunca gezilebilecek bir ortam sağlar. Parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilere geniş bir görüş açısı sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Adana-Ceyhan Kızılçam Milli Parkı, ziyaretçilerine yılın dört mevsimi bo
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunmakta
 - Parkın iklimi, Akdeniz iklimi özellikleri taşır
 - Parkın çevresi, doğal güzelliklerle dolu

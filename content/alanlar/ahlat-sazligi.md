@@ -43,7 +43,7 @@ Ahlat Sazlığı, doğa severler ve kuş gözlemcileri için gerçek bir destina
 ## İlginç Bilgiler
 
 - Ahlat Sazlığı, bölgenin en önemli ekolojik noktalarından biri
-- Sazlık, 140 hektarlık bir alanı kapsıyor
+
 - Bu bölge, birçok kuş türünün yaşam alanı olarak biliniyor
 - Sazlık, tarihsel olarak önemli bir geçmişe sahip
 - Bölge, coğrafi olarak zengin bir çeşitlilik sunuyor

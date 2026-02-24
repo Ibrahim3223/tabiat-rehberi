@@ -49,7 +49,7 @@ Tavuk Tepe, ziyaretçilerine önemli bir gezi deneyimi sunar. Bu tepe, aynı zam
 ## İlginç Bilgiler
 
 - Tavuk Tepe, Kilis ilinin en önemli doğal alanlarından biridir
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplar
+
 - Tavuk Tepe, önemli bir flora ve fauna çeşitliliğine sahiptir
 - Bu tepe, aynı zamanda önemli bir turizm merkezi olarak da bilinir
 - Tavuk Tepe, ziyaretçilerine önemli bir kültürel deneyim sunar

@@ -29,7 +29,7 @@ wikidata_id: "Q135582383"
 
 # Aksaray Kılıç Arslan Kümbeti
 
-Aksaray Kılıç Arslan Kümbeti, İç Anadolu Bölgesi'nin önemli kültür miraslarından biri olarak karşımıza çıkıyor. Bu tarihi yapı, Aksaray ilinin merkezinde yer alıyor ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 12. yüzyılda inşa edilen bu kümbet, Selçuklu Dönemi'nin mimari özelliklerini taşıyor ve yaklaşık 140 hektarlık bir alan üzerinde bulunuyor.
+Aksaray Kılıç Arslan Kümbeti, İç Anadolu Bölgesi'nin önemli kültür miraslarından biri olarak karşımıza çıkıyor. Bu tarihi yapı, Aksaray ilinin merkezinde yer alıyor ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 12.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aksaray Kılıç Arslan Kümbeti, tarihin sayfalarında önemli bir yer tutuyor.
 
 ## Coğrafya
 
-Aksaray Kılıç Arslan Kümbeti, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir noktasında yer alıyor. Aksaray ilinin merkezinde bulunan bu yapı, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, ziyaretçilere tarihi bir atmosfer sunuyor ve onları tarihin derinliklerine götürüyor. Kümbetin mimarisi, Selçuklu Dönemi'nin karakteristik özelliklerini taşıyor ve bu dönemde inşa edilen diğer yapılardan farklı olarak, daha sade ve anıtsal bir görünümü var. Aksaray'ın coğrafi konumu, bu bölgeyi önemli bir kültür ve ticaret merkezi haline getirmiş ve Kılıç Arslan Kümbeti de bu önemdeki rolü simgeliyor.
+Aksaray Kılıç Arslan Kümbeti, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir noktasında yer alıyor. Bu geniş alan, ziyaretçilere tarihi bir atmosfer sunuyor ve onları tarihin derinliklerine götürüyor. Kümbetin mimarisi, Selçuklu Dönemi'nin karakteristik özelliklerini taşıyor ve bu dönemde inşa edilen diğer yapılardan farklı olarak, daha sade ve anıtsal bir görünümü var. Aksaray'ın coğrafi konumu, bu bölgeyi önemli bir kültür ve ticaret merkezi haline getirmiş ve Kılıç Arslan Kümbeti de bu önemdeki rolü simgeliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Aksaray Kılıç Arslan Kümbeti'ni ziyaret etmek, tarihe ilgi duyanlar için ö
 ## İlginç Bilgiler
 
 - Kılıç Arslan Kümbeti, Selçuklu Dönemi'nin önemli mimari eserlerinden biri olarak biliniyor.
-- Bu kümbet, yaklaşık 140 hektarlık bir alanı kaplıyor ve geniş bir tarihi atmosfer sunuyor.
+
 - Aksaray Kılıç Arslan Kümbeti, tarihin derinliklerine bir yolculuk için ideal bir destinasyon.
 - Ziyaretçiler, kümbetin tarihi ve mimari özelliklerini yakından inceleyebilir.
 - Çevredeki doğal güzellikler, ziyaretçilere geniş bir doğa manzarası sunuyor.

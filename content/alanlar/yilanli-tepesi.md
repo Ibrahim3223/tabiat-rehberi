@@ -48,7 +48,6 @@ Yılanlı Tepesi, ziyaretçilerine keyifli bir gezi deneyimi sunuyor. Tepenin et
 
 ## İlginç Bilgiler
 
-- Yılanlı Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor.
 - Tepenin surroundingsındaki köyler, yerel kültürü yansıtıyor.
 - Yılanlı Tepesi, flora ve fauna açısından zengin bir çeşitlilik sunuyor.

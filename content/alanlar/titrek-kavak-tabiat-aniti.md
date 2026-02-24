@@ -49,7 +49,6 @@ Titrek Kavak Tabiat Anıtı, ziyaretçilere geniş bir doğal güzellik sunuyor.
 
 ## İlginç Bilgiler
 
-- Titrek Kavak Tabiat Anıtı, 140 hektarlık bir alana sahip
 - Bu tabiat anıtının coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor
 - Titrek Kavak Tabiat Anıtı, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahip
 - Bu tabiat anıtının flora ve fauna çeşitliliği, ziyaretçilere geniş bir doğal güzellik yelpazesi sunuyor

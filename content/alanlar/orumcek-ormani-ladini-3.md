@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic","doğayla iç i
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Örümcek Ormani Ladini 3","caption":"Örümcek Ormani Ladini 3","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCmcek%20Ormani%20Ladini%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227174","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Örümcek Ormani Ladini 3, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
+"
 keywords: ["Örümcek Ormani Ladini 3","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227174"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227174"
 
 # Örümcek Ormani Ladini 3
 
-Örümcek Ormani Ladini 3, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Parkın içinde çeşitli bitki türleri ve zengin fauna çeşitliliği ziyaretçileri bekliyor. Örümcek Ormani Ladini 3, hem doğa tutkunları hem de macera arayanlar için ideal bir destinasyon.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna çeşitliliği ziyaretçileri bekliyor. Örümcek Ormani Ladini 3, hem doğa tutkunları hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227174"
 
 ## Coğrafya
 
-Örümcek Ormani Ladini 3, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Park, 140 hektarlık geniş bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Bölge, genellikle karasal iklimin hüküm sürdüğü bir alanda bulunmasına rağmen, parkın kendi mikro iklimi, flora ve faunayı korumak için ideal koşullar sunuyor. Çevre, doğa ile iç içe ve ziyaretçilere, şehir hayatından uzaklaşarak doğayla baş başa kalmak için mükemmel bir fırsat sunuyor. Parkın coğrafi yapısı, ziyaretçilerin keyifli bir gezi deneyimi yaşamalarını sağlıyor.
+Örümcek Ormani Ladini 3, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bölge, genellikle karasal iklimin hüküm sürdüğü bir alanda bulunmasına rağmen, parkın kendi mikro iklimi, flora ve faunayı korumak için ideal koşullar sunuyor. Çevre, doğa ile iç içe ve ziyaretçilere, şehir hayatından uzaklaşarak doğayla baş başa kalmak için mükemmel bir fırsat sunuyor. Parkın coğrafi yapısı, ziyaretçilerin keyifli bir gezi deneyimi yaşamalarını sağlıyor.
 
 ## Flora ve Fauna
 

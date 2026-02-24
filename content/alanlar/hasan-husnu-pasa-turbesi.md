@@ -38,7 +38,7 @@ Hasan Hüsnü Paşa Türbesi, yüzyıllar boyunca İstanbul'un önemli tarihi no
 
 ## Coğrafya
 
-Hasan Hüsnü Paşa Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul Boğazı'na yakın konumuyla dikkat çeker ve ziyaretçilerine şehrin güzel manzarasını sunar. Türbenin etrafı, yeşilin verschiedenen tonlarını barındıran geniş bir yeşil alanla çevrilidir. Bu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerine doğanın güzelliğini sunar. Hasan Hüsnü Paşa Türbesi ve çevresinin coğrafi yapısı, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. İstanbul'un iklimi, genel olarak karasal iklim özellikleri gösterir ve bu bölge de bundan muzdariptir. İlkbahar ve sonbahar ayları, ziyaretçiler için en uygun zamanlardır çünkü bu mevsimlerde hava daha serin ve rahatlatıcıdır.
+Hasan Hüsnü Paşa Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul Boğazı'na yakın konumuyla dikkat çeker ve ziyaretçilerine şehrin güzel manzarasını sunar. Türbenin etrafı, yeşilin verschiedenen tonlarını barındıran geniş bir yeşil alanla çevrilidir. Hasan Hüsnü Paşa Türbesi ve çevresinin coğrafi yapısı, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. İstanbul'un iklimi, genel olarak karasal iklim özellikleri gösterir ve bu bölge de bundan muzdariptir. İlkbahar ve sonbahar ayları, ziyaretçiler için en uygun zamanlardır çünkü bu mevsimlerde hava daha serin ve rahatlatıcıdır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hasan Hüsnü Paşa Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelli
 ## İlginç Bilgiler
 
 - Hasan Hüsnü Paşa Türbesi, İstanbul'un önemli tarihi noktalarından biridir.
-- Türbenin etrafındaki yeşil alan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölge, çeşitli bitki türlerini ve kuş türlerini barındırır.
 - Ziyaretçiler, ilkbahar ve sonbahar aylarında gelmeleri önerilir.
 - Hasan Hüsnü Paşa Türbesi, yüzyıllar boyunca tarihi önemini korumuştur.

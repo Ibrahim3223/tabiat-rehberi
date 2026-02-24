@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarihçe gezisi","bitki gözlemi","fauna g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Gora Bozkyuyuk","caption":"Gora Bozkyuyuk","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Bozkyuyuk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386465","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık Gora Bozkyuyuk"
+
 keywords: ["Gora Bozkyuyuk","İç Anadolu Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386465"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386465"
 
 # Gora Bozkyuyuk
 
-Gora Bozkyuyuk, İç Anadolu Bölgesi'nin merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Gora Bozkyuyuk, ziyaretçilerini doğal güzelliği ve tarihi geçmişi ile çekiyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, bölgenin jeoloji ve ekolojik yapısını gözlemlemek için ideal bir nokta.
+ Gora Bozkyuyuk, ziyaretçilerini doğal güzelliği ve tarihi geçmişi ile çekiyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, bölgenin jeoloji ve ekolojik yapısını gözlemlemek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Gora Bozkyuyuk'u ziyaret etmek, İç Anadolu Bölgesi'nin doğal güzelliği ve 
 ## İlginç Bilgiler
 
 - Gora Bozkyuyuk, İç Anadolu Bölgesi'nin en yüksek noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Gora Bozkyuyuk'un etrafında, çeşitli bitki türleri ve zengin fauna mevcut
 - Bu bölge, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor
 - Gora Bozkyuyuk'u ziyaret etmek, İç Anadolu Bölgesi'nin doğal güzelliği ve tarihi geçmişi ile tanışmak için ideal bir fırsat

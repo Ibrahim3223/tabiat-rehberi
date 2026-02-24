@@ -50,7 +50,7 @@ Yapı Kalıntısı, Akçakeçili, ziyaretçilere benzersiz bir deneyim sunar. Zi
 ## İlginç Bilgiler
 
 - Yapı Kalıntısı, Akçakeçili, İç Anadolu Bölgesi'nde yer alan en önemli tarihi kalıntılardan biridir.
-- Bölge, 140 hektarlık bir alana sahiptir.
+
 - Yapı kalıntıları, yüzyıllar boyunca şekillenmiştir.
 - Bölge, flora ve fauna açısından zengindir.
 - Yapı Kalıntısı, Akçakeçili, turistlerin ilgisini çekmektedir.

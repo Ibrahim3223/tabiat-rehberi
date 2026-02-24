@@ -29,7 +29,7 @@ wikidata_id: "Q6018935"
 
 # Suuçtu Şelalesi
 
-Bursa'nın Marmara Bölgesi'nde yer alan Suuçtu Şelalesi, yaklaşık 140 hektarlık bir alanda doğa severleri büyüleyici güzelliği ile karşılar. Şelalenin güzelliği, sadece görsel bir şölen değil, aynı zamanda ziyaretçilere doğanın sesini dinleme fırsatı sunuyor. Suuçtu Şelalesi, hem yerel halk hem de turistler için önemli bir gezi noktası olarak dikkat çekiyor.
+ Şelalenin güzelliği, sadece görsel bir şölen değil, aynı zamanda ziyaretçilere doğanın sesini dinleme fırsatı sunuyor. Suuçtu Şelalesi, hem yerel halk hem de turistler için önemli bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Suuçtu Şelalesi, ziyaretçilere doğanın güzelliğini sunan bir gezi noktas�
 
 - Suuçtu Şelalesi, Bursa'nın en önemli doğal güzelliği olarak kabul ediliyor.
 - Şelalenin yüksekliği, yaklaşık 10 metre.
-- Suuçtu Şelalesi, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - Şelalenin suyu, bölgedeki akarsular ve derelerden geliyor.
 - Suuçtu Şelalesi, ekolojik açıdan önemli bir bölge olarak kabul ediliyor.

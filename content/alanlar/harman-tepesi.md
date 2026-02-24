@@ -29,7 +29,7 @@ wikidata_id: "Q31388253"
 
 # Harman Tepesi
 
-Harman Tepesi, Kars'ın merkezine yakın bir konumda yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan, doğal güzelliği ve tarihi geçmişiyle dikkat çekici bir destinasyon. Bu tepenin eteklerinde kurulan köyler, bölgenin coğrafi yapısını ve insan yerleşimlerini etkileyen önemli faktörlerden biri. Tepenin zirvesinden bakıldığında, Kars'ın geniş ovası ve çevredeki dağlar görülebilir. Harman Tepesi, hem doğa severler hem de tarihe meraklı olanlar için keyifli bir gezi deneyimi sunuyor.
+ Bu tepenin eteklerinde kurulan köyler, bölgenin coğrafi yapısını ve insan yerleşimlerini etkileyen önemli faktörlerden biri. Tepenin zirvesinden bakıldığında, Kars'ın geniş ovası ve çevredeki dağlar görülebilir. Harman Tepesi, hem doğa severler hem de tarihe meraklı olanlar için keyifli bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Harman Tepesi'nin tarihi geçmişi, bölgenin genel tarihî süreci içinde öne
 
 ## Coğrafya
 
-Harman Tepesi, coğrafi olarak Kars'ın merkezi bölgesinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda bulunuyor. Bu yükseklik, Harman Tepesi'ni, bölgenin en yüksek noktalarından biri yapıyor. Tepenin etekleri, geniş otlaklarla kaplı ve bu otlaklar, bölgenin flora zenginliğini gösteriyor. Tepenin zirvesinden, Kars'ın geniş ovası ve çevredeki dağlar net bir şekilde görülebiliyor. Harman Tepesi, coğrafi olarak önemli bir konumda yer alıyor ve bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biri. Tepenin çevresi, çeşitli bitki türleriyle kaplı ve bu bitkiler, bölgenin fauna zenginliğini de destekliyor.
+ Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda bulunuyor. Bu yükseklik, Harman Tepesi'ni, bölgenin en yüksek noktalarından biri yapıyor. Tepenin etekleri, geniş otlaklarla kaplı ve bu otlaklar, bölgenin flora zenginliğini gösteriyor. Tepenin zirvesinden, Kars'ın geniş ovası ve çevredeki dağlar net bir şekilde görülebiliyor. Harman Tepesi, coğrafi olarak önemli bir konumda yer alıyor ve bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biri. Tepenin çevresi, çeşitli bitki türleriyle kaplı ve bu bitkiler, bölgenin fauna zenginliğini de destekliyor.
 
 ## Flora ve Fauna
 

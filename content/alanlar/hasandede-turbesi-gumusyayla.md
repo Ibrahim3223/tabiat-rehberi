@@ -21,7 +21,7 @@ aktiviteler: ["Tarihi türbe gezi","Doğa yürüyüşü","Fotoğrafçılık","Pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Divers.jpg/960px-Divers.jpg","alt":"Hasandede Türbesi, Gümüşyayla","caption":"Hasandede Türbesi, Gümüşyayla","credit":"Divers","license":"CC SA 1.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasandede%20T%C3%BCrbesi%2C%20G%C3%BCm%C3%BC%C5%9Fyayla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582360","tip":"genel"}]
-description: "Ankara'nın Çubuk ilçesinde bulunan historical bir mekan, 140 hektarlık yeşil alan, doğal güzellikler"
+
 keywords: ["Hasandede Türbesi","Gümüşyayla","Ankara","Çubuk","tarihi mekan","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582360"
@@ -37,7 +37,7 @@ Hasandede Türbesi, Gümüşyayla'nın tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Hasandede Türbesi, Gümüşyayla, Ankara'nın Çubuk ilçesinde yer alır. Bu mekan, coğrafi olarak zengin bir bölge binnenir. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunar. Bölgenin coğrafyası, ziyaretçilere çeşitli manzaralar sunar. Doğal güzellikler, tarihi mekanın etrafını çevirmiş ve ziyaretçilere benzersiz bir atmosfer sunar. Coğrafi olarak, bu mekan, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olabilir. Bölgenin iklimi, ziyaretçilere dört mevsim farklı deneyimler sunar. İlkbahar ve yaz aylarında, yeşil alanlar ve doğal güzellikler ziyaretçilere eşsiz bir görünüm sunar. Sonbahar ve kış aylarında ise, bölgenin manzarası farklı bir güzelliğe bürünür.
+Hasandede Türbesi, Gümüşyayla, Ankara'nın Çubuk ilçesinde yer alır. Bu mekan, coğrafi olarak zengin bir bölge binnenir. Bölgenin coğrafyası, ziyaretçilere çeşitli manzaralar sunar. Doğal güzellikler, tarihi mekanın etrafını çevirmiş ve ziyaretçilere benzersiz bir atmosfer sunar. Coğrafi olarak, bu mekan, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olabilir. Bölgenin iklimi, ziyaretçilere dört mevsim farklı deneyimler sunar. İlkbahar ve yaz aylarında, yeşil alanlar ve doğal güzellikler ziyaretçilere eşsiz bir görünüm sunar. Sonbahar ve kış aylarında ise, bölgenin manzarası farklı bir güzelliğe bürünür.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Hasandede Türbesi, Gümüşyayla'ya ziyaretçiler, çeşitli ulaşım seçenekl
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Tarihi türbe
 - Doğal güzellikler
 - Çeşitli flora ve fauna türleri

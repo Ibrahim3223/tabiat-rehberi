@@ -30,7 +30,7 @@ wikidata_id: "Q131390843"
 
 # Ali Baba ve Hasan Baba Türbesi
 
-Ali Baba ve Hasan Baba Türbesi, Karadeniz Bölgesi'nin güzel illerinden biri olan Karabük'ün Safranbolu ilçesinde yer alan tarihi bir mekândır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve çevresindeki doğal güzelliklerle birlikte ziyaretçilere huzurlu bir atmosfer sunar. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerin doğayla iç içe olması için ideal bir ortam sağlar. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, Karadeniz Bölgesi'ne gelenlerin mutlaka görmesi gereken bir yerdir.
+Ali Baba ve Hasan Baba Türbesi, Karadeniz Bölgesi'nin güzel illerinden biri olan Karabük'ün Safranbolu ilçesinde yer alan tarihi bir mekândır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, Karadeniz Bölgesi'ne gelenlerin mutlaka görmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -52,6 +52,6 @@ Ali Baba ve Hasan Baba Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'ne gelenler
 
 - Türbenin tarihi geçmişi yüzyıllar öncesine dayanır.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
-- Türbenin bulunduğu alan, 140 hektarlık bir arazide kurulmuştur.
+
 - Bölgenin iklimi, genellikle yağışlı ve nemlidir.
 - Türbeye giden yol, ziyaretçilere güzel bir manzara sunar.

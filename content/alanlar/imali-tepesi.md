@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarih gezisi","Çiçek
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"İmalı Tepesi","caption":"İmalı Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mal%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390771","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli hazinesi, Yozgat'ta yer alan İmalı Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["İmalı Tepesi","Yozgat","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390771"

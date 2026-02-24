@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Bitki ve Hayvan İzleme","Fotoğrafçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini","caption":"Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227781","tip":"genel"}]
-description: "Marmara Bölgesi'nin yeşil cenneti, 140 hektarlık alanıyla doğa severleri bekliyor"
+
 keywords: ["Bursa","Mustafakemalpaşa","Paşalar Doğu Kayını","Marmara Bölgesi","Doğa","Milli Park","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227781"
@@ -42,7 +42,6 @@ Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, yıl boyunca birçok ziyaretçi ta
 
 ## İlginç Bilgiler
 
-- Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, 140 hektarlık bir yeşil alandır.
 - Bu bölge, Marmara Bölgesi'nin en önemli doğal alanlarından biridir.
 - Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır.
 - Bu bölge, aynı zamanda bölgenin tarihi ve kültürel geçmişi hakkında da önemli bilgiler sunmaktadır.

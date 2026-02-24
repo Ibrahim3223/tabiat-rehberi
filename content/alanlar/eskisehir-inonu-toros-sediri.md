@@ -30,7 +30,7 @@ Eskişehir-Inonu Toros Sediri milli parkının tarihi geçmişi, bölgenin doğa
 
 ## Coğrafya
 
-Eskişehir-Inonu Toros Sediri milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde bulunur. Bu milli park, 140 hektarlık bir alanı kaplar ve Toros sedirinin büyüleyici güzelliği ile ziyaretçilerini cezbeder. Milli parkın coğrafi konumu, ziyaretçilerine çeşitli doğa yürüyüşleri ve keşif fırsatları sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Milli parkın çevresi, yeşil alanlar ve ormanlık bölgelerle çevrilidir ve bu da ziyaretçilerine doğal bir ortam sunar.
+Eskişehir-Inonu Toros Sediri milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde bulunur. Milli parkın coğrafi konumu, ziyaretçilerine çeşitli doğa yürüyüşleri ve keşif fırsatları sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Milli parkın çevresi, yeşil alanlar ve ormanlık bölgelerle çevrilidir ve bu da ziyaretçilerine doğal bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Eskişehir-Inonu Toros Sediri milli parkını ziyaret etmek, doğa severler içi
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Toros sediri, milli parkın en önemli özelliklerinden biridir
 - Milli parkın flora ve fauna zenginliği, ziyaretçilerine doğal bir dünya sunar
 - Milli parkın mevsimsel değişimleri, ziyaretçilerine farklı doğa güzellikleri sunar

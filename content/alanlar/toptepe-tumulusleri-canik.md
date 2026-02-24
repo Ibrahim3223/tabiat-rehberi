@@ -50,7 +50,7 @@ Toptepe Tümülüsleri'ni ziyaret etmek, tarihi bir yolculuğa çıkmak demek. B
 ## İlginç Bilgiler
 
 - Toptepe Tümülüsleri, Samsun'un önemli kültürel miraslarından biri
-- Bölge, 140 hektarlık bir alana yayılıyor
+
 - Tümülüslerin etrafı, geniş ormanlık alanlarla çevrili
 - Karadeniz Bölgesi'nin karakteristik iklim özelliklerine sahip
 - Zengin flora ve fauna çeşitliliğine sahip

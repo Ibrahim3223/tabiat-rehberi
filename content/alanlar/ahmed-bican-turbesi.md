@@ -51,7 +51,7 @@ Ahmed Bican Türbesi'ni ziyaret etmek, Gelibolu'nun tarihi ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Ahmed Bican Türbesi, Gelibolu'nun en önemli turizm merkezlerinden biridir
-- Bu bölge, 140 hektarlık bir yeşil alana sahiptir
+
 - Ahmed Bican Türbesi, ziyaretçilerine tarihin derinliklerine götürürken, aynı zamanda doğal güzellikleriyle de etkilemektedir
 - Ahmed Bican'ın yaşamı ve eserleri, Türk edebiyatının önemli bir parçasını oluşturmaktadır
 - Ahmed Bican Türbesi, Gelibolu'nun merkezinde yer almaktadır

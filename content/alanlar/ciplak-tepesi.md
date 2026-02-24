@@ -28,7 +28,7 @@ wikidata_id: "Q34829251"
 
 # Çıplak Tepesi
 
-İç Anadolu Bölgesi'nde yer alan Çıplak Tepesi, yaklaşık 140 hektarlık alanıyla dikkat çekici bir doğal güzellik sunuyor. Çıplak Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle sürükleyen bir destinasyon olarak karşılıyor. Tepenin etrafında çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Bu bölge, doğa severler ve tarihi geçmişe meraklı olanlar için kaçırılmayacak bir fırsat sunuyor.
+ Çıplak Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle sürükleyen bir destinasyon olarak karşılıyor. Tepenin etrafında çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Bu bölge, doğa severler ve tarihi geçmişe meraklı olanlar için kaçırılmayacak bir fırsat sunuyor.
 
 ## Tarihçe
 

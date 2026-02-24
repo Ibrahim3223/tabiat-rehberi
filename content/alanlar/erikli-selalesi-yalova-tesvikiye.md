@@ -37,7 +37,7 @@ Erikli Şelalesi, yüzyıllar boyunca insan yerleşimine sahne olmuş bir bölge
 
 ## Coğrafya
 
-Erikli Şelalesi, Marmara Bölgesi'nin kuzeyinde, Yalova ilinin Teşvikiye köyünde yer alıyor. Şelale, 140 hektarlık bir yeşil alanın içinde, yüksek bir konumdan düşerek, muhteşem bir manzara sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve bu su, şelalenin doğal güzelliğini daha da artırıyor. Şelale çevresinde, yürüyüş parkurları ve piknik alanları bulunuyor ve bu alanlar, ziyaretçilerin şelaleyi ve çevresini keşfetmesine olanak sağlıyor. Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir. Ancak, şelalenin en güzel zamanı, ilkbahar ve yaz ayları olarak biliniyor.
+Erikli Şelalesi, Marmara Bölgesi'nin kuzeyinde, Yalova ilinin Teşvikiye köyünde yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve bu su, şelalenin doğal güzelliğini daha da artırıyor. Şelale çevresinde, yürüyüş parkurları ve piknik alanları bulunuyor ve bu alanlar, ziyaretçilerin şelaleyi ve çevresini keşfetmesine olanak sağlıyor. Şelalenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir. Ancak, şelalenin en güzel zamanı, ilkbahar ve yaz ayları olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Erikli Şelalesi, ziyaretçilere, şelaleyi ve çevresini keşfetme fırsatı su
 ## İlginç Bilgiler
 
 - Erikli Şelalesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Şelale, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor.
+
 - Şelalenin suyu, çevre dağlardan doğan derelerden geliyor.
 - Şelale çevresinde, yürüyüş parkurları ve piknik alanları bulunuyor.
 - Şelale, dört mevsim ziyaret edilebilir ancak, en güzel zamanı, ilkbahar ve yaz ayları olarak biliniyor.

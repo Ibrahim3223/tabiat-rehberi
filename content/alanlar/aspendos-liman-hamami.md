@@ -49,8 +49,6 @@ Aspendos Liman Hamamı, ziyaretçilerine çeşitli olanaklar sunar. Bu alan, gen
 
 ## İlginç Bilgiler
 
-- Aspendos Liman Hamamı, 140 hektarlık bir alanı kaplar
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğündedir
 - Aspendos Liman Hamamı, tarihi ve doğal güzellikleriyle dikkat çeker
 - Bu alan, ziyaretçilerine zengin bir deneyim sunar
 - Aspendos Liman Hamamı, bölgenin en önemli tarihi ve turistik mekanlarından biridir

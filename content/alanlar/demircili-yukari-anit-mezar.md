@@ -50,7 +50,7 @@ Demircili Yukarı Anıt Mezar, ziyaretçilerine tarih ve doğanın birleştiği 
 ## İlginç Bilgiler
 
 - Demircili Yukarı Anıt Mezar, Mersin'in Silifke ilçesinde yer alıyor
-- Bu mezar, 140 hektarlık bir alanı kaplıyor
+
 - Demircili Yukarı Anıt Mezar, Akdeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapıyor
 - Bu mezar, ziyaretçilerine tarih ve doğanın birleştiği bir ortam sunuyor
 - Demircili Yukarı Anıt Mezar, Silifke'nin merkezi bölgesine yakın bir konumda yer alıyor

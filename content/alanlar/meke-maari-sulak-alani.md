@@ -30,7 +30,7 @@ Meke Maarı Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin ek
 
 ## Coğrafya
 
-Meke Maarı Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Sulak alan, bölgenin genel coğrafi özelliklerini taşır ve çevresindeki tarım alanları ile birlikte bir bütün olarak değerlendirilir. Meke Maarı, 140 hektarlık alanı ile bölgenin en büyük sulak alanlarından biri olarak bilinir. Sulak alanın coğrafi konumu, bölgenin iklim koşullarını etkiler ve çevresindeki tarım alanları için su kaynağı olarak hizmet verir. Meke Maarı Sulak Alanı, çevresindeki doğal yaşam için önemli bir habitat olarak görev yapar ve bölgenin ekolojik dengesini korumada önemli bir rol oynar. Sulak alanın coğrafi yapısı, çeşitlilik gösteren bir ekosistemin oluşmasına olanak sağlar.
+Meke Maarı Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Sulak alan, bölgenin genel coğrafi özelliklerini taşır ve çevresindeki tarım alanları ile birlikte bir bütün olarak değerlendirilir. Sulak alanın coğrafi konumu, bölgenin iklim koşullarını etkiler ve çevresindeki tarım alanları için su kaynağı olarak hizmet verir. Meke Maarı Sulak Alanı, çevresindeki doğal yaşam için önemli bir habitat olarak görev yapar ve bölgenin ekolojik dengesini korumada önemli bir rol oynar. Sulak alanın coğrafi yapısı, çeşitlilik gösteren bir ekosistemin oluşmasına olanak sağlar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Meke Maarı Sulak Alanı, ziyaretçilerini doğal güzelliği ile karşılar. Su
 
 ## İlginç Bilgiler
 
-- Meke Maarı Sulak Alanı, 140 hektarlık bir alanı kapsar.
 - Sulak alan, bölgenin ekolojik dengesini korumada önemli bir rol oynar.
 - Meke Maarı, çevresindeki tarım alanları için su kaynağı olarak hizmet verir.
 

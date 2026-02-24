@@ -28,7 +28,7 @@ wikidata_id: "Q31555984"
 
 # Serekelike Tepesi
 
-Serekelike Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Serekelike Tepesi, ziyaretçilerini Mardin'in tarihini ve doğal güzelliklerini keşfetmeye davet ediyor. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Serekelike Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Serekelike Tepesi, ziyaretçilerini Mardin'in tarihini ve doğal güzelliklerini keşfetmeye davet ediyor. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

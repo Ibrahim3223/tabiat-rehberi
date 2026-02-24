@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih turu","gözlem","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Biçare Tepesi","caption":"Biçare Tepesi","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bi%C3%A7are%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32140132","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir alana yayılmış olan Biçare Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar."
+"
 keywords: ["Biçare Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32140132"
@@ -48,7 +48,6 @@ Biçare Tepesi, ziyaretçilerini doğanın kucağına davet eder ve onlara doğa
 
 ## İlginç Bilgiler
 
-- Biçare Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin etrafı, çeşitli bitki türleri ile örtülüdür.
 - Biçare Tepesi, bir gözlem noktası olarak kullanılır.
 - Tepenin etrafındaki yerleşim yerleri, tarihi eserler ve kalıntılar bulunur.

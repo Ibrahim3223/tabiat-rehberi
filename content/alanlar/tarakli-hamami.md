@@ -21,7 +21,7 @@ aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","çevre keş
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Taraklı Hamamı","caption":"Taraklı Hamamı","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarakl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738839","tip":"genel"}]
-description: "Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde bulunan doğal bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli turizm noktalarından biridir."
+description: "Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde bulunan doğal bir plajdır."
 keywords: ["Taraklı Hamamı","Sakarya","Taraklı","Marmara Bölgesi","doğal plaj","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738839"
@@ -48,8 +48,6 @@ Taraklı Hamamı, flora ve fauna açısından zengin bir bölgedir. Bu bölge, �
 Taraklı Hamamı, ziyaretçilerin ilgisini çekmektedir. Bu bölge, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir noktadır. Taraklı Hamamı'na ulaşım, Sakarya'nın merkezi ve çevre illerden sağlanmaktadır. Bu bölge, ziyaretçilerin doğa ile iç içe olmasını sağlamaktadır ve çeşitli aktivitelere imkan tanımaktadır. Taraklı Hamamı, ziyaretçilerin keyifli bir gün geçirmesini sağlamaktadır. Bu bölge, özellikle hafta sonları ve tatil günlerinde ziyaretçilerin ilgisini çekmektedir.
 
 ## İlginç Bilgiler
-
-- Taraklı Hamamı, 140 hektarlık bir yeşil alana sahiptir.
 
 - Taraklı Hamamı, Marmara Bölgesi'nin en önemli turizm noktalarından biridir.
 - Bu bölge, doğa severler için bir cennet olarak tanımlanabilir.

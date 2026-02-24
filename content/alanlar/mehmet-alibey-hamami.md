@@ -29,7 +29,7 @@ wikidata_id: "Q131738442"
 
 # Mehmet Alibey Hamamı
 
-Mehmet Alibey Hamamı, Sivas'ın merkezinde yer alan ve tarihi açıdan önemli bir yapıdır. Bu hamam, şehrin kültürel mirasının bir parçasıdır ve ziyaretçilerini tarihin derinliklerine götürür. 140 hektarlık bir alana yayılmayan, ancak tarihi önemi büyük olan bu hamam, Sivas'ın önemli turizm noktalarından biridir. Mehmet Alibey Hamamı, şehrin tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, bu tarihi yapıda geçmişe yolculuk yapabilir ve Sivas'ın zengin kültürel mirasını keşfedebilir.
+Mehmet Alibey Hamamı, Sivas'ın merkezinde yer alan ve tarihi açıdan önemli bir yapıdır. Bu hamam, şehrin kültürel mirasının bir parçasıdır ve ziyaretçilerini tarihin derinliklerine götürür. Mehmet Alibey Hamamı, şehrin tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, bu tarihi yapıda geçmişe yolculuk yapabilir ve Sivas'ın zengin kültürel mirasını keşfedebilir.
 
 ## Tarihçe
 

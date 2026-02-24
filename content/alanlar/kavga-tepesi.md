@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Yaban h
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kavga Tepesi","caption":"Kavga Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavga%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391196","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan Kavga Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kavga Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","çevre","yaban hayatı","eko-turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391196"
@@ -28,7 +28,7 @@ wikidata_id: "Q31391196"
 
 # Kavga Tepesi
 
-Kavga Tepesi, İç Anadolu Bölgesi'nin sakin ve huzurlu bir köşesinde yer alan, yaklaşık 140 hektarlık bir alana yayılmış bir tepe. Kavga Tepesi, özellikle bahar ve yaz aylarında, yeşilin tüm tonlarını sunan bir manzaraya sahip. Ziyaretçiler, bu güzel tepeye tırmanarak, etraflarını saran geniş ovaları ve dağları izleyebilirler. Kavga Tepesi, aynı zamanda bir doğa severin hayalini süsleyecek, yaban hayatı ile iç içe bir world.
+ Kavga Tepesi, özellikle bahar ve yaz aylarında, yeşilin tüm tonlarını sunan bir manzaraya sahip. Ziyaretçiler, bu güzel tepeye tırmanarak, etraflarını saran geniş ovaları ve dağları izleyebilirler. Kavga Tepesi, aynı zamanda bir doğa severin hayalini süsleyecek, yaban hayatı ile iç içe bir world.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kavga Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Kavga Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birini oluşturuyor. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve etrafları geniş ovalar ve dağlarla çevrili. Kavga Tepesi'nin yüksekliği, yüksek bir konumda ve bu reason ile, ziyaretçiler buradan çevredeki manzarayı izleyebilirler. Bölge, özellikle bahar ve yaz aylarında, yeşilin tüm tonlarını sunan bir manzaraya sahip ve bu reason ile, doğa severlerin ziyaret etmeyi en çok istediği yerlerden biri haline geliyor. Kavga Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor.
+Kavga Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birini oluşturuyor. Kavga Tepesi'nin yüksekliği, yüksek bir konumda ve bu reason ile, ziyaretçiler buradan çevredeki manzarayı izleyebilirler. Bölge, özellikle bahar ve yaz aylarında, yeşilin tüm tonlarını sunan bir manzaraya sahip ve bu reason ile, doğa severlerin ziyaret etmeyi en çok istediği yerlerden biri haline geliyor. Kavga Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kavga Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak
 
 ## İlginç Bilgiler
 
-- Kavga Tepesi, 140 hektarlık bir alana yayılmış.
 - Kavga Tepesi, yüksek bir konumda.
 - Kavga Tepesi, flora ve fauna açısından zengin bir alana sahip.
 - Kavga Tepesi, bazı endemik türlerin de yaşadığı bir bölge.

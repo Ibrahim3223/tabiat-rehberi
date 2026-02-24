@@ -20,7 +20,7 @@ aktiviteler: ["trekking","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRABZON-UZUNGOL.jpg/960px-TRABZON-UZUNGOL.jpg","alt":"Polot Tepesi","caption":"Polot Tepesi","credit":"TRABZON-UZUNGOL.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Polot%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386981","tip":"genel"}]
-description: "Trabzon'un doğa harikası Polot Tepesi, yeşilin her tonunu sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Trabzon'un doğa harikası Polot Tepesi, yeşilin her tonunu sunuyor."
 keywords: ["Polot Tepesi","Trabzon","Karadeniz Bölgesi","doğa harikası","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386981"
@@ -49,7 +49,7 @@ Polot Tepesi'ni ziyaret etmek, özellikle doğa severler için bir. Bu bölgeye,
 ## İlginç Bilgiler
 
 - Polot Tepesi, Trabzon'un en yüksek noktalarından biri.
-- Bölge, 140 hektarlık bir yeşil alana sahip.
+
 - Tepenin zirvesinden, Karadeniz'in manzarasını izleyebilirsiniz.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Polot Tepesi, tarihi geçmişiyle de önemli bir nokta.

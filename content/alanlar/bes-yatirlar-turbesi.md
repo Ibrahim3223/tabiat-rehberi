@@ -50,7 +50,7 @@ Beş Yatırlar Türbesi, ziyaretçilerini büyüleyen bir destinasyondur. Burada
 ## İlginç Bilgiler
 
 - Beş Yatırlar Türbesi, Ayvalık'ın doğal güzellikleri arasında yer alan bir plajdır
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Beş Yatırlar Türbesi, historical bir geçmişe sahip olan bir yerdir
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur
 - Ziyaretçiler, bu bölgede, deniz, kum ve güneş üçlüsünü deneyimleyebilir

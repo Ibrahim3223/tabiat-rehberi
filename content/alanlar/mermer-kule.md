@@ -38,7 +38,7 @@ Mermer Kule'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin i
 
 ## Coğrafya
 
-Mermer Kule, Marmara Bölgesi'nin en güzel noktalarından birinde, Fatih ilçesinde yer alır. Bu plaj, yaklaşık 140 hektarlık bir yeşil alana sahiptir. Plajın etrafındaki coğrafya, tarihi yapılar ve doğal güzelliklerle doludur. Mermer Kule'nin iklimi, Marmara Bölgesi'nin ılıman iklimine sahiptir. Bu bölgede, dört mevsim belirgin olarak yaşanır. Plajın etrafındaki çevre, zengin bir fauna ve flora ile doludur. Mermer Kule, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmeyi başarır. Bu plaj, ziyaretçilerine geniş bir yeşil alan sunar ve ziyaretçilerin doğayla iç içe olmasını sağlar.
+Mermer Kule, Marmara Bölgesi'nin en güzel noktalarından birinde, Fatih ilçesinde yer alır. Plajın etrafındaki coğrafya, tarihi yapılar ve doğal güzelliklerle doludur. Mermer Kule'nin iklimi, Marmara Bölgesi'nin ılıman iklimine sahiptir. Bu bölgede, dört mevsim belirgin olarak yaşanır. Plajın etrafındaki çevre, zengin bir fauna ve flora ile doludur. Mermer Kule, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmeyi başarır. Bu plaj, ziyaretçilerine geniş bir yeşil alan sunar ve ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Mermer Kule'yi ziyaret etmek, ziyaretçilere zengin bir deneyim sunar. Bu plaj, 
 ## İlginç Bilgiler
 
 - Mermer Kule, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
-- Bu plaj, yaklaşık 140 hektarlık bir yeşil alana sahiptir.
+
 - Mermer Kule'nin etrafındaki coğrafya, tarihi yapılar ve doğal güzelliklerle doludur.
 - Bu bölgede, dört mevsim belirgin olarak yaşanır.
 - Mermer Kule, ziyaretçilerine geniş bir yeşil alan sunar.

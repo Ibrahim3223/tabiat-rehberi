@@ -51,6 +51,6 @@ Alıncıköyü Türbesi, ziyaret için ideal bir yer. Köy, Kütahya'nın Altın
 
 - Köyünüfusu yaklaşık 500 kişi
 - Türbe, köyün merkezinde yer alıyor
-- Köy, 140 hektarlık bir alan üzerinde kurulu
+
 - Köyde, çeşitli bitki türleri ve fauna bulunmakta
 - Alıncıköyü, yaban hayatı açısından önemli bir bölge

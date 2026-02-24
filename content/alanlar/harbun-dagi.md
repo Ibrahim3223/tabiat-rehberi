@@ -49,7 +49,7 @@ Harbun Dağı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak 
 ## İlginç Bilgiler
 
 - Harbun Dağı, Gaziantep'in güneydoğusunda yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Harbun Dağı, flora ve fauna açısından zengin bir bölge.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur.
 - Harbun Dağı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak isteyenler için ideal bir destinasyon.

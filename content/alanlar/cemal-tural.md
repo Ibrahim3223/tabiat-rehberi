@@ -31,7 +31,7 @@ Cemal Tural milli parkı, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyu
 
 ## Coğrafya
 
-Cemal Tural milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekilleniyor. Parkın konumu, bölgenin iklimini ve bitki örtüsünü etkiliyor. 140 hektarlık alan, çeşitli bitki türleri ve hayvanlar ile dolu. Parkın coğrafi yapısı, ziyaretçilere, yürüyüş parkurları, gözlem noktaları ve diğer aktiviteler için birçok imkan sunuyor. Cemal Tural milli parkı, ziyaretçilere, doğanın güzelliklerini keşfetmek için ideal bir ortam sunuyor. Parkın coğrafi konumu, bölgenin diğer önemli noktalarına da yakın.
+Cemal Tural milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekilleniyor. Parkın konumu, bölgenin iklimini ve bitki örtüsünü etkiliyor. Parkın coğrafi yapısı, ziyaretçilere, yürüyüş parkurları, gözlem noktaları ve diğer aktiviteler için birçok imkan sunuyor. Cemal Tural milli parkı, ziyaretçilere, doğanın güzelliklerini keşfetmek için ideal bir ortam sunuyor. Parkın coğrafi konumu, bölgenin diğer önemli noktalarına da yakın.
 
 ## Flora ve Fauna
 

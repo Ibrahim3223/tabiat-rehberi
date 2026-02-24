@@ -30,7 +30,7 @@ Zamanti Irmagi Kaynagi Dogal Sir Alani'nin tarihi geçmişi, bölgenin en eski y
 
 ## Coğrafya
 
-Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biri. Bu bölge, Zamanti Irmagi'nin kaynağı olarak biliniyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Doğal sığınak, birçok tepe ve vadiden oluşan bir coğrafyaya sahip ve bölgenin en önemli ekosistemlerinden biri. Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin iklimine uygun olarak kura ve soğuk bir iklime sahip. Bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor ve ziyaretçilerini doğal güzellikleri ile karşılıyor.
+Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biri. Doğal sığınak, birçok tepe ve vadiden oluşan bir coğrafyaya sahip ve bölgenin en önemli ekosistemlerinden biri. Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin iklimine uygun olarak kura ve soğuk bir iklime sahip. Bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor ve ziyaretçilerini doğal güzellikleri ile karşılıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Zamanti Irmagi Kaynagi Dogal Sir Alani, ziyaretçilerini doğal güzellikleri il
 ## İlginç Bilgiler
 
 - Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Doğal sığınak, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Zamanti Irmagi'nin kaynağı, bölgenin en önemli su kaynaklarından biri olarak kabul ediliyor.
 - Doğal sığınak, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
 - Zamanti Irmagi Kaynagi Dogal Sir Alani, ziyaretçilerine birçok farklı aktivite sunuyor.

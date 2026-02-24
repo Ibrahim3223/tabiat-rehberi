@@ -30,7 +30,7 @@ wikidata_id: "Q31190853"
 
 # Tomara Şelalesi
 
-Tomara Şelalesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanı kaplayan ormanlık bir bölgede yer alır. Tomara Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini çeken bir yerdir. Şelalenin çevresindeki ormanlık alan, çeşitli ağaç türleriyle dolu ve bu bölgede yapılan yürüyüşler, doğaseverler için gerçek bir keyif kaynağı.
+Tomara Şelalesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde bulunan bir doğa harikasıdır. Tomara Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini çeken bir yerdir. Şelalenin çevresindeki ormanlık alan, çeşitli ağaç türleriyle dolu ve bu bölgede yapılan yürüyüşler, doğaseverler için gerçek bir keyif kaynağı.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Tomara Şelalesi'ni ziyaret etmek, özellikle ilkbahar ve yaz aylarında gerçek
 ## İlginç Bilgiler
 
 - Tomara Şelalesi, Gümüşhane'nin Şiran ilçesinde yer alır.
-- 140 hektarlık bir ormanlık bölgeye sahiptir.
+
 - İlkbahar ve yaz aylarında ziyaretçilerini çeker.
 - Zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Doğaseverler için gerçek bir cennettir.

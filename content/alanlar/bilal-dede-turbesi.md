@@ -50,7 +50,7 @@ Bilal Dede Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylar
 ## İlginç Bilgiler
 
 - Bilal Dede Türbesi, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bilal Dede Türbesi, 140 hektarlık bir alana sahiptir.
+
 - Bilal Dede Türbesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini beklemektedir.
 - Bilal Dede Türbesi, plajın güzelliği ve tarihi önemi ile gelenleri büyülemektedir.
 - Bilal Dede Türbesi, ziyaretçilerine hem tarihi hem de kültürel bir deneyim sunmaktadır.

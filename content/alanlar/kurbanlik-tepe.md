@@ -36,7 +36,7 @@ Kurbanlık Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Kurbanlık Tepe, Karadeniz Bölgesi'nin güzel bir bölümü olan Sinop'ta yer alır. Bu tepe, Sinop'un coğrafi yapısını ve iklimini etkileyen önemli bir faktördür. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Sinop'un diğer bölgelerine göre daha yüksek bir konumdadır. Kurbanlık Tepe'nin coğrafi konumu, bu bölgenin flora ve faunasını etkileyen önemli bir faktördür. Bu tepe, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sağlar. Kurbanlık Tepe, ziyaretçilerine, Sinop'un güzel manzarasını ve doğal güzelliklerini sunar. Bu tepe, Sinop'un coğrafi yapısını ve iklimini anlamak için önemli bir noktadır.
+Kurbanlık Tepe, Karadeniz Bölgesi'nin güzel bir bölümü olan Sinop'ta yer alır. Bu tepe, Sinop'un coğrafi yapısını ve iklimini etkileyen önemli bir faktördür. Kurbanlık Tepe'nin coğrafi konumu, bu bölgenin flora ve faunasını etkileyen önemli bir faktördür. Bu tepe, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sağlar. Kurbanlık Tepe, ziyaretçilerine, Sinop'un güzel manzarasını ve doğal güzelliklerini sunar. Bu tepe, Sinop'un coğrafi yapısını ve iklimini anlamak için önemli bir noktadır.
 
 ## Flora ve Fauna
 

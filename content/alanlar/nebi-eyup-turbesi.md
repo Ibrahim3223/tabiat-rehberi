@@ -50,7 +50,7 @@ Nebi Eyüp Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri den
 ## İlginç Bilgiler
 
 - Nebi Eyüp Türbesi, Mersin'in önemli tarihi ve doğal güzelliklerinden biridir.
-- Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer alır.
+
 - Bölge, Akdeniz ikliminin tüm özelliklerini taşır.
 - Ziyaretçiler, buradaki tarihi yapıları ve doğayı deneyimleyebilir.
 - Nebi Eyüp Türbesi, Mersin'in turizm açısından önemli noktalarından biridir.

@@ -43,7 +43,6 @@ Delikli Kaya Şelalesi'ni ziyaret etmek, doğa severler için ideal bir aktivite
 
 ## İlginç Bilgiler
 
-- Delikli Kaya Şelalesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Şelalenin çevresi, çeşitli bitki türleri ile süslü bir peyzaj sunuyor.
 - Delikli Kaya Şelalesi, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 - Şelaleye ulaşmak için, ziyaretçiler yaklaşık 1 saatlik bir yürüyüş parkurunu takip ediyorlar.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227481"
 
 # Antalya-Gundogmus-Eskibag Karacam
 
-Antalya-Gundogmus-Eskibag Karacam Milli Parkı, 140 hektarlık geniş bir alanı kapsıyor. Parkın konumu, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Parkın hikayesi, yüzyıllar boyunca şekillenerek günümüze ulaştı.
+ Parkın konumu, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Parkın hikayesi, yüzyıllar boyunca şekillenerek günümüze ulaştı.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Antalya-Gundogmus-Eskibag Karacam Milli Parkı, yıl boyunca ziyaret edilebilir.
 
 ## İlginç Bilgiler
 
-- Parkın alanı yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta birçok farklı bitki türü bulunuyor
 - Parkın fauna çeşitliliği, birçok farklı hayvanı barındırıyor
 - Parkın ekolojik dengesi, flora ve fauna çeşitliliğinin bir sonucu olarak ortaya çıkıyor

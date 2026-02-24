@@ -22,7 +22,7 @@ wikidata_id: "Q108227622"
 
 # Mersin-Tarsus-Karabucak Fistikcami
 
- Bu yeşil alan, İç Anadolu Bölgesi'nin kalbinde yer alıyor. parkın konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi değerlerini keşfetme fırsatı sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilere geniş açık alanlar ve doğa yürüyüşleri sunuyor.
+ Bu yeşil alan, İç Anadolu Bölgesi'nin kalbinde yer alıyor. parkın konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi değerlerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

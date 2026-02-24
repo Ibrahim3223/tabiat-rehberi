@@ -30,7 +30,7 @@ wikidata_id: "Q131738508"
 
 # Hacı Hekim Hamamı
 
-Hacı Hekim Hamamı, Ege Bölgesi'nin Bergama/İzmir ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanda bulunan doğal bir güzelliktir. Hacı Hekim Hamamı, Bergama'nın tarihi ve kültürel öneminin yanı sıra, doğal güzelliği ile de dikkat çekmektedir.
+ Hacı Hekim Hamamı, Bergama'nın tarihi ve kültürel öneminin yanı sıra, doğal güzelliği ile de dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hacı Hekim Hamamı'nın tarihi geçmişi, Bergama'nın tarihi ile iç içe geç
 
 ## Coğrafya
 
-Hacı Hekim Hamamı, Ege Bölgesi'nin Bergama/İzmir ilçesinde yer alan bir doğal güzelliktir. Bu bölge, yaklaşık 140 hektarlık bir alanda bulunmaktadır ve Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Hacı Hekim Hamamı, Bergama'nın tarihi merkezine yakın bir konumda yer almakta ve bu nedenle, ziyaretçiler tarafından sıkça ziyaret edilmektedir.
+Hacı Hekim Hamamı, Ege Bölgesi'nin Bergama/İzmir ilçesinde yer alan bir doğal güzelliktir. Hacı Hekim Hamamı, Bergama'nın tarihi merkezine yakın bir konumda yer almakta ve bu nedenle, ziyaretçiler tarafından sıkça ziyaret edilmektedir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hacı Hekim Hamamı, ziyaretçilere Ege Bölgesi'nin doğal güzelliklerini keş
 ## İlginç Bilgiler
 
 - Hacı Hekim Hamamı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanda bulunmaktadır.
+
 - Hacı Hekim Hamamı, Bergama'nın tarihi merkezine yakın bir konumda yer almaktadır.
 
 - Hacı Hekim Hamamı, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve yaz aylarıdır.

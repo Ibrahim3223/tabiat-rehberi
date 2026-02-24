@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotografçılık","piknik","bitki gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Zonguldak-Dirgine- Gölcük Saricam","caption":"Zonguldak-Dirgine- Gölcük Saricam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Dirgine-%20G%C3%B6lc%C3%BCk%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227582","tip":"genel"}]
-description: "Zonguldak'ın doğal güzellikleri arasında yer alan Gölcük Saricam, 140 hektarlık alanda ziyaretçilerini ağırlıyor."
+"
 keywords: ["Zonguldak","Gölcük Saricam","milli park","doğa","gezi","karadeniz","zonguldak gezilecek yerler","gölcük saricam milli parkı","zonguldak milli parklar"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227582"
@@ -41,8 +41,6 @@ Zonguldak-Dirgine- Gölcük Saricam, flora ve fauna açısından çok zengin bir
 Zonguldak-Dirgine- Gölcük Saricam, yıl boyunca ziyaret edilebilen bir bölge. Ancak, en iyi ziyaret dönemi ilkbahar ve yaz ayları olarak kabul ediliyor. Bu dönemlerde, bölgenin flora ve faunası daha da zenginleşiyor. Ziyaretçiler, buraya gelerek doğanın güzelliğini ve sakinliğini bir arada yaşayabilirler. Gölcük Saricam, özellikle doğa severlerin ve fotoğraf tutkunlarının uğrak noktalarından biri haline gelmiş durumda. Ziyaret için en uygun zaman, sabah erken saatler veya öğleden sonra olarak kabul ediliyor. Ziyaretçilerin, buraya gelmeden önce bölgenin hava koşullarını kontrol etmeleri öneriliyor.
 
 ## İlginç Bilgiler
-
-- Zonguldak-Dirgine- Gölcük Saricam, 140 hektarlık bir alana sahip.
 
 - Gölcük Saricam, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlıyor.

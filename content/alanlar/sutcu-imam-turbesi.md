@@ -37,7 +37,7 @@ Sütçü İmam Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak hizm
 
 ## Coğrafya
 
-Sütçü İmam Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bölge, coğrafi olarak çeşitli dağlar ve ovalarla çevrili bir alanda bulunmakta. Sütçü İmam Türbesi, il merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazide kurulmuş ve çevresi yeşilliklerle dolu. Burada, ziyaretçiler hem tarihi bir mekanın atmosferini soluyor hem de doğal güzellikleri keşfedebiliyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, ziyaretçilerin keyifli bir gezi deneyimi yaşaması için her şey mevcut. Sütçü İmam Türbesi, hem coğrafi konumu hem de tarihi ve kültürel önemi ile büyük bir çekim merkezi olarak dikkat çekiyor.
+Sütçü İmam Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bölge, coğrafi olarak çeşitli dağlar ve ovalarla çevrili bir alanda bulunmakta. Sütçü İmam Türbesi, il merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Burada, ziyaretçiler hem tarihi bir mekanın atmosferini soluyor hem de doğal güzellikleri keşfedebiliyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, ziyaretçilerin keyifli bir gezi deneyimi yaşaması için her şey mevcut. Sütçü İmam Türbesi, hem coğrafi konumu hem de tarihi ve kültürel önemi ile büyük bir çekim merkezi olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

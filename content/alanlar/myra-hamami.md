@@ -50,7 +50,7 @@ Myra Hamamı, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Bu plaj,
 ## İlginç Bilgiler
 
 - Myra Hamamı, Likya Uygarlığı'na ait kalıntılara ev sahipliği yapıyor
-- Bu plaj, 140 hektarlık bir alana sahip
+
 - Myra Hamamı, Demre/Antalya'nın en önemli turizm merkezlerinden biri
 - Bu plaj, deniz, kum ve güneşin birleşmesiyle ziyaretçilerine mükemmel bir deneyim sunuyor
 - Myra Hamamı, zengin fauna ve florasıyla dikkat çekiyor

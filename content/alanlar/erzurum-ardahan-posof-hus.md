@@ -42,8 +42,6 @@ Erzurum-Ardahan-Posof Hus'u ziyaret etmek, doğa severler için bir rüya. Bu b�
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - Doğu Anadolu Bölgesi'nin en önemli ekolojik noktalarından biri
 - çeşitli bitki türleri
 - zengin fauna

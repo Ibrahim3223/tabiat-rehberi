@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BCy%C3%BCkada%20Nature%20Park.jpg","alt":"Büyükada Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Buyukada_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Buyukada_Nature_Park.jpg/1280px-Buyukada_Nature_Park.jpg","alt":"Büyükada Tabiat Parkı - Buyukada Nature Park","credit":"Zeynep Ayta","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/17/Buyukada_Nature_Park-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Buyukada_Nature_Park-2.jpg/1280px-Buyukada_Nature_Park-2.jpg","alt":"Büyükada Tabiat Parkı - Buyukada Nature Park-2","credit":"Zeynep Ayta","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Buyukada_Nature_Park-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Buyukada_Nature_Park-1.jpg/1280px-Buyukada_Nature_Park-1.jpg","alt":"Büyükada Tabiat Parkı - Buyukada Nature Park-1","credit":"Zeynep Ayta","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/B%C3%BCy%C3%BCkada_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/B%C3%BCy%C3%BCkada_Nature_Park.jpg/1280px-B%C3%BCy%C3%BCkada_Nature_Park.jpg","alt":"Büyükada Tabiat Parkı - Büyükada Nature Park","credit":"ArdaSeltzer","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/36/B%C3%BCy%C3%BCkada_Ayayorgi_Hill.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/B%C3%BCy%C3%BCkada_Ayayorgi_Hill.jpg/1280px-B%C3%BCy%C3%BCkada_Ayayorgi_Hill.jpg","alt":"Büyükada Tabiat Parkı - Büyükada Ayayorgi Hill","credit":"GoncaRabia","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkada%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623510","tip":"genel"}]
-description: "İstanbul'un Adalar ilçesinde yer alan Büyükada Tabiat Parkı, 140 hektarlık geniş bir alanı kapsar."
+"
 keywords: ["Büyükada","Tabiat Parkı","Adalar","İstanbul","Marmara Bölgesi","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30623510"
@@ -30,7 +30,7 @@ wikidata_id: "Q30623510"
 
 # Büyükada Tabiat Parkı
 
-Büyükada Tabiat Parkı, İstanbul'un Adalar ilçesinde yer alan ve 140 hektarlık geniş bir alanı kapsayan bir doğa harikasıdır. Parkın içinde birçok tarihi yapı, yürüyüş parkurları ve piknik alanları bulunur. Büyükada, İstanbul'un kalabalığından uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyondur.
+ Parkın içinde birçok tarihi yapı, yürüyüş parkurları ve piknik alanları bulunur. Büyükada, İstanbul'un kalabalığından uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

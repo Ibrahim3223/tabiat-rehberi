@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["yürüyüş","doğa","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Ergaki%2C_Massive_granite_and_basalt_rocks_in_stone_run%2C_Sayan_Mountains%2C_Russia.jpg","alt":"Bazalt Kayalıkları manzarası","credit":"Vyacheslav Argenberg","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reynisdrangar_basalt_rocks.jpg/960px-Reynisdrangar_basalt_rocks.jpg","alt":"Bazalt Kayalıkları","caption":"Bazalt Kayalıkları","credit":"Reynisdrangar basalt rocks","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Reynisdrangar_basalt_rocks.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reynisdrangar_basalt_rocks.jpg/1280px-Reynisdrangar_basalt_rocks.jpg","alt":"Bazalt Kayalıkları - Reynisdrangar basalt rocks","credit":"Jakub Fryš","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/Heidenh%C3%A4uschen-gipfel-basaltfelsen.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenh%C3%A4uschen-gipfel-basaltfelsen.jpg/1280px-Heidenh%C3%A4uschen-gipfel-basaltfelsen.jpg","alt":"Bazalt Kayalıkları - Heidenhäuschen-gipfel-basaltfelsen","credit":"Kreuzschnabel","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Basalt_rocks_-_Flickr_-_gailhampshire.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Basalt_rocks_-_Flickr_-_gailhampshire.jpg/1280px-Basalt_rocks_-_Flickr_-_gailhampshire.jpg","alt":"Bazalt Kayalıkları - Basalt rocks - Flickr - gailhampshire","credit":"gailhampshire from Cradley, Malvern, U.K","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Basalt_rocks_near_Ki-a-Kuts_Falls.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Basalt_rocks_near_Ki-a-Kuts_Falls.JPG/1280px-Basalt_rocks_near_Ki-a-Kuts_Falls.JPG","alt":"Bazalt Kayalıkları - Basalt rocks near Ki-a-Kuts Falls","credit":"M.O. Stevens","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Bazalt_Kolonlar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bazalt_Kolonlar.jpg/1280px-Bazalt_Kolonlar.jpg","alt":"Bazalt Kayalıkları - Bazalt Kolonlar","credit":"Memoen","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bazalt%20Kayal%C4%B1klar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228148","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Bazalt Kayalıkları'nın benzersiz yapısını görün"
@@ -44,7 +44,7 @@ Bazalt Kayalıkları'nı ziyaret etmek, doğa severler için bir zorunluluktur. 
 ## İlginç Bilgiler
 
 - Bazalt Kayalıkları, milyonlarca yıl önce oluşan volkanik faaliyetlerin bir sonucu
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Zengin flora ve fauna çeşitliliği
 - İnsan yerleşimlerinin bölgede tarihi, binlerce yıl öncesine kadar uzanıyor
 - Milli park olarak korumaya alınması, doğa koruma çabalarının bir parçası

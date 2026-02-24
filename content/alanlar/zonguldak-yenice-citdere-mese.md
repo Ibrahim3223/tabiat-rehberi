@@ -22,7 +22,7 @@ wikidata_id: "Q108227768"
 
 # Zonguldak-Yenice-Citdere Mese
 
-Zonguldak-Yenice-Citdere Mese, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Mese, zengin flora ve faunayla dolu bir doğa harikası olarak karşımıza çıkıyor. Doğal güzellikleri, yürüyüş parkurları ve çeşitli bitki türleriyle ziyaretçilerini çekiyor. Ayrıca, bu bölgede yapılan araştırmalar, buranın tarihi geçmişi hakkında önemli bilgiler sunuyor. Mese'nin konumu, ziyaretçilerin hem doğayı hem de tarihin zenginliklerini keşfetmesine olanak tanıyor.
+ Mese, zengin flora ve faunayla dolu bir doğa harikası olarak karşımıza çıkıyor. Doğal güzellikleri, yürüyüş parkurları ve çeşitli bitki türleriyle ziyaretçilerini çekiyor. Ayrıca, bu bölgede yapılan araştırmalar, buranın tarihi geçmişi hakkında önemli bilgiler sunuyor. Mese'nin konumu, ziyaretçilerin hem doğayı hem de tarihin zenginliklerini keşfetmesine olanak tanıyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Zonguldak-Yenice-Citdere Mese'yi ziyaret etmek, doğa severler için unutulmaz b
 ## İlginç Bilgiler
 
 - Mese'nin coğrafi yapısı, flora ve faunayı destekleyen bir ekosistemi oluşturuyor.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Mese'nin flora ve faunası, bölgenin coğrafi yapısı ve iklimi tarafından şekillenmiştir.
 - Ziyaretçiler, milli parkın doğal güzelliklerini keşfetmek için yürüyüş parkurlarını kullanabilir.
 - Mese, tarihinin yanı sıra doğal güzellikleri ve fauna çeşitliliğiyle de dikkat çekiyor.

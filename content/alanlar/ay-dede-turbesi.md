@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi yapıları ziyar
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2023-11-04_Choban_beach_near_Ka%C5%9F_3.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_3.jpg","alt":"Ay Dede Türbesi","caption":"Ay Dede Türbesi","credit":"2023-11-04 Choban beach near Kaş 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390730","tip":"genel"}]
-description: "Bursa'nın Osmangazi ilçesinde yer alan Ay Dede Türbesi, tarihin derinliklerinden gelen bir dini merkez. Bu alan, 140 hektarlık yeşil bir alan üzerinde kurulmuştur."
+description: "Bursa'nın Osmangazi ilçesinde yer alan Ay Dede Türbesi, tarihin derinliklerinden gelen bir dini merkez."
 keywords: ["Ay Dede Türbesi","Osmangazi","Bursa","tarih","din","doğa","gezi","türk kültür","mimarlık","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390730"
@@ -37,7 +37,7 @@ Ay Dede Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu tarihse
 
 ## Coğrafya
 
-Ay Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir bölgede bulunmakta. Bu bölge, 140 hektarlık yeşil bir alan üzerinde kurulmuş. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı coğrafi özellik bulunmakta. Ay Dede Türbesi, doğal güzelliği ile dikkat çekiyor. Bu bölgede, birçok farklı bitki ve hayvan türü bulunmakta. Ayrıca, bu bölgenin iklimi de oldukça farklı. Bu bölgede, dört mevsim ayrı ayrı yaşanabiliyor. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı ulaşım aracı ile ulaşma mümkün. Ay Dede Türbesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor.
+Ay Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir bölgede bulunmakta. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı coğrafi özellik bulunmakta. Ay Dede Türbesi, doğal güzelliği ile dikkat çekiyor. Bu bölgede, birçok farklı bitki ve hayvan türü bulunmakta. Ayrıca, bu bölgenin iklimi de oldukça farklı. Bu bölgede, dört mevsim ayrı ayrı yaşanabiliyor. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı ulaşım aracı ile ulaşma mümkün. Ay Dede Türbesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Ay Dede Türbesi, ziyaretçilerin ilgisini çekiyor. Bu bölgede, birçok farkl�
 
 ## İlginç Bilgiler
 
-- Ay Dede Türbesi, 140 hektarlık bir alanı kapsıyor.
 - Ay Dede Türbesi, tarihsel önemi ile dikkat çekiyor.
 - Ay Dede Türbesi, doğal güzelliği ile dikkat çekiyor.
 - Ay Dede Türbesi, birçok farklı bitki ve hayvan türünü barındırıyor.

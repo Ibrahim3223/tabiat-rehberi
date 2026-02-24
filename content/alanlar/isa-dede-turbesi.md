@@ -37,7 +37,7 @@ Kastamonu'nun merkezinde yer alan İsa Dede Türbesi, tarihi ve doğal güzellik
 
 ## Coğrafya
 
-İsa Dede Türbesi, Kastamonu'nun merkezinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, Karadeniz ikliminin özellikleri gösteriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilerin ilgisini çekiyor. İsa Dede Türbesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Bu bölge, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor. Bu büyük alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. İnsanlar burayı ziyaret ederek, doğanın güzelliklerini keşfedebilir ve tarihi geçmişini öğrenebilir.
+İsa Dede Türbesi, Kastamonu'nun merkezinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, Karadeniz ikliminin özellikleri gösteriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilerin ilgisini çekiyor. İsa Dede Türbesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Bu büyük alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. İnsanlar burayı ziyaret ederek, doğanın güzelliklerini keşfedebilir ve tarihi geçmişini öğrenebilir.
 
 ## Flora ve Fauna
 

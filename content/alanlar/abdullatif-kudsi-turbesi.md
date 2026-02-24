@@ -50,8 +50,6 @@ Abdüllatif Kudsi Türbesi ve plajı, yılın her döneminde ziyaret edilebilir.
 
 ## İlginç Bilgiler
 
-- Abdüllatif Kudsi Türbesi, yaklaşık olarak 140 hektarlık bir alanı kapsıyor.
-- Abdüllatif Kudsi Türbesi, 200 futbol sahası büyüklüğünde geniş bir alanı kapsıyor.
 - Abdüllatif Kudsi Türbesi, deniz seviyesinden yaklaşık olarak yüksek bir konumdate yer alıyor.
 - Abdüllatif Kudsi Türbesi ve plajı, çevresindeki doğal güzellikleri ile dikkat çekiyor.
 - Abdüllatif Kudsi Türbesi, aynı zamanda çevresindeki tarihi yapılar ile de önemli bir kültürel miras olarak göze çarpıyor.

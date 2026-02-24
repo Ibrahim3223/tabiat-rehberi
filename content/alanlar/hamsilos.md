@@ -15,8 +15,8 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/HAMSILOS-3.%20SINOP%20-%20panoramio.jpg","alt":"Hamsilos manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/Hamsilos_panorama.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hamsilos_panorama.jpg/1280px-Hamsilos_panorama.jpg","alt":"Hamsilos - Hamsilos panorama","credit":"Cantaha","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/59/Hamsilos_deniz_feneri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hamsilos_deniz_feneri.jpg/1280px-Hamsilos_deniz_feneri.jpg","alt":"Hamsilos - Hamsilos deniz feneri","credit":"Erturkercin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/44/Hamsilos_burnu_ve_kayal%C4%B1klar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hamsilos_burnu_ve_kayal%C4%B1klar.jpg/1280px-Hamsilos_burnu_ve_kayal%C4%B1klar.jpg","alt":"Hamsilos - Hamsilos burnu ve kayalıklar","credit":"Erturkercin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Hamsilos_Fyordu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hamsilos_Fyordu.jpg/1280px-Hamsilos_Fyordu.jpg","alt":"Hamsilos - Hamsilos Fyordu","credit":"Erturkercin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/88/Hamsilos_Ormanlar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hamsilos_Ormanlar%C4%B1.jpg/1280px-Hamsilos_Ormanlar%C4%B1.jpg","alt":"Hamsilos - Hamsilos Ormanları","credit":"Erturkercin","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamsilos","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6039198","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Hamsilos, 140 hektarlık bir alanı kaplar. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğayla baş başa bırakıyor."
-keywords: ["Hamsilos","İç Anadolu Bölgesi","doğa","yeşil alan","futbol sahası","turizm","gezi","yerel","çevre","ekosistem"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q6039198"
 ---
@@ -44,7 +44,6 @@ Hamsilos'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak. Ziy
 ## İlginç Bilgiler
 
 - Hamsilos, İç Anadolu Bölgesi'nin en büyük milli parklarından biri.
-- Bu bölge, 140 hektarlık bir alanı kaplıyor.
 
 - Bu milli park, yerel flora ve faunaya ev sahipliği yapıyor.
 - Hamsilos, turizm açısından önemli bir rol üstleniyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q131391176"
 
 # Halil Efendiler Türbesi
 
-Halil Efendiler Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Fatih ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor. Türbenin çevresi, tarihi yapılar ve yeşillik alanlarla dolu. Halil Efendiler Türbesi, İstanbul'un önemli dini ziyaret noktaları arasında yer alıyor ve her yıl birçok ziyaretçi tarafından ziyaret ediliyor. Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için gelirler. Ayrıca, türbenin çevresinde çeşitli tarihi yapılar ve anıtlar da bulunmakta.
+Halil Efendiler Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Türbenin çevresi, tarihi yapılar ve yeşillik alanlarla dolu. Halil Efendiler Türbesi, İstanbul'un önemli dini ziyaret noktaları arasında yer alıyor ve her yıl birçok ziyaretçi tarafından ziyaret ediliyor. Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için gelirler. Ayrıca, türbenin çevresinde çeşitli tarihi yapılar ve anıtlar da bulunmakta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Halil Efendiler Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanıyo
 
 ## Coğrafya
 
-Halil Efendiler Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alandan oluşuyor. Bu yeşil alan, ziyaretçilere geniş bir gezme alanı sunuyor ve çeşitli tarihi yapılar ile çevrilidir. Türbenin çevresi, yeşillik alanlarla dolu ve ziyaretçilere dinlenmek için uygun bir ortam sağlıyor. Halil Efendiler Türbesi, Marmara Bölgesi'nin önemli bir coğrafi noktasında yer alıyor. Bu bölge, tarihi ve kültürel zenginlikleriyle tanınır. Türbenin bulunduğu Fatih ilçesi, İstanbul'un en eski ve en önemli ilçelerinden biri. İlçe, tarihi yapılar, anıtlar ve müzelerle dolu. Halil Efendiler Türbesi, bu ilçenin önemli bir parçası olarak kabul ediliyor. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
+Halil Efendiler Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu yeşil alan, ziyaretçilere geniş bir gezme alanı sunuyor ve çeşitli tarihi yapılar ile çevrilidir. Türbenin çevresi, yeşillik alanlarla dolu ve ziyaretçilere dinlenmek için uygun bir ortam sağlıyor. Halil Efendiler Türbesi, Marmara Bölgesi'nin önemli bir coğrafi noktasında yer alıyor. Bu bölge, tarihi ve kültürel zenginlikleriyle tanınır. Türbenin bulunduğu Fatih ilçesi, İstanbul'un en eski ve en önemli ilçelerinden biri. İlçe, tarihi yapılar, anıtlar ve müzelerle dolu. Halil Efendiler Türbesi, bu ilçenin önemli bir parçası olarak kabul ediliyor. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

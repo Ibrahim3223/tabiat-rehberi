@@ -49,8 +49,6 @@ Kabak Tepesi, ziyaretçilere, doğa ve coğrafya meraklıları için bir cazibe 
 
 ## İlginç Bilgiler
 
-- Kabak Tepesi, 140 hektarlık bir alanı kaplamaktadır.
-
 - Kabak Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafyasını paylaşmaktadır.
 - Bu bölge, flora ve faunaya ev sahipliği yapmaktadır.
 - Kabak Tepesi, bir doğal sınır olarak da kabul edilebilir.

@@ -50,6 +50,6 @@ Burj al Babas, ziyaretçilerine birçok olanak sunar. Plajda, çeşitli aktivite
 
 - Bolu'nun en güzel plajlarından biri
 - Karadeniz Bölgesi'nin gizli cenneti
-- 140 hektarlık alan
+
 - doğa severler için gerçek bir cennet
 - tarihi ve kültürel önemi

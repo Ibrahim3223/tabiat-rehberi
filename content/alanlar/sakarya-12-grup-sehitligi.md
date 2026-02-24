@@ -29,7 +29,7 @@ wikidata_id: "Q134728256"
 
 # Sakarya 12. Grup Şehitliği
 
-Sakarya 12. Grup Şehitliği, Ankara'nın Polatlı ilçesinde yer alan ve tarihi önem taşıyan bir mekan. Bu özel alan, yaklaşık 140 hektarlık bir arazide kurulmuş ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ve tarihin derinliğiyle karşılayacak bir ortam sunuyor. Şehitliğin kuruluşu ve historiaçıklamaları, ziyaretçilerin bu özel alanı daha iyi anlayabilmesi için önemli bir kaynak teşkil ediyor.
+Sakarya 12. Grup Şehitliği, Ankara'nın Polatlı ilçesinde yer alan ve tarihi önem taşıyan bir mekan. Şehitliğin kuruluşu ve historiaçıklamaları, ziyaretçilerin bu özel alanı daha iyi anlayabilmesi için önemli bir kaynak teşkil ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sakarya 12. Grup Şehitliği, Türkiye'nin tarihi geçmişinde önemli bir yere 
 
 ## Coğrafya
 
-Sakarya 12. Grup Şehitliği, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip. Bu özel alan, Ankara'nın Polatlı ilçesinde yer alıyor ve yaklaşık 140 hektarlık bir arazide kurulmuş. Şehitliğin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini sunuyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu alan, ziyaretçilerine geniş çayır ve ormanlık alanlar sunuyor. Şehitliğin etrafında yer alan dağlar ve ovalar, ziyaretçilere bölgenin coğrafi çeşitliliğini gösteriyor. Bu özel mekan, ziyaretçilere doğanın güzelliği ve tarihin derinliğiyle dolu bir ortam sunuyor.
+Sakarya 12. Grup Şehitliği, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip. Şehitliğin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini sunuyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu alan, ziyaretçilerine geniş çayır ve ormanlık alanlar sunuyor. Şehitliğin etrafında yer alan dağlar ve ovalar, ziyaretçilere bölgenin coğrafi çeşitliliğini gösteriyor. Bu özel mekan, ziyaretçilere doğanın güzelliği ve tarihin derinliğiyle dolu bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sakarya 12. Grup Şehitliği'ni ziyaret etmek, tarih ve doğa severler için öz
 ## İlginç Bilgiler
 
 - Sakarya 12. Grup Şehitliği, Türk milletinin bağımsızlık mücadelesinin önemli bir sembolü olarak kabul ediliyor.
-- Şehitlik, yaklaşık 140 hektarlık bir arazide kurulmuş.
+
 - İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip.
 - Şehitlik, yılın her dönemi ziyaret edilebilir.
 - İlkbahar ve sonbahar ayları, şehitliği ziyaret etmek için en uygun zamanlar.

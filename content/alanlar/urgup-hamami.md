@@ -50,7 +50,6 @@ wikidata_id: "Q131739221"
 
 ## İlginç Bilgiler
 
-- Ürgüp Hamamı, 140 hektarlık bir alana yayılmıştır.
 - Bölge, yüksek kayalıklar ve derin vadiler ile çevrili.
 - Ürgüp Hamamı, ziyaretçilerin doğayı yakından tanımalarına olanak tanır.
 - Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.

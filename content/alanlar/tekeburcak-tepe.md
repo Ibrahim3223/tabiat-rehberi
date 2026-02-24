@@ -49,7 +49,7 @@ Tekeburcak Tepe, ziyaretçilerine çeşitli etkinlikler sunar. Bu tepe, ziyaret�
 ## İlginç Bilgiler
 
 - Tekeburcak Tepe, Antalya'nın önemli turizm noktalarından biri olarak karşımıza çıkar.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Tekeburcak Tepe, coğrafi konumu itibarıyla Akdeniz Bölgesi'nin önemli bir parçasıdır.
 - Bu tepe, tarihi geçmişiyle birlikte önemli bir turizm merkezi haline gelmiştir.
 - Tekeburcak Tepe, flora ve fauna açısından zengin bir bölgedir.

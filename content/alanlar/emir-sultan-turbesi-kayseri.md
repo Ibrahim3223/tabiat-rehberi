@@ -30,7 +30,7 @@ wikidata_id: "Q132134440"
 
 # Emir Sultan Türbesi, Kayseri
 
-Emir Sultan Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan tarihi ve dini bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Emir Sultan Türbesi, Kayseri'nin önemli kültürel ve tarihi mekanlarından biri olarak kabul edilir. Türbenin etrafında, çeşitli tarihi yapılar ve anıtlar bulunur. Bu yapılar, Kayseri'nin zengin tarihi geçmişini yansıtan önemli eserlerdir. Emir Sultan Türbesi, her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Ziyaretçiler, türbenin tarihi ve kültürel önemini keşfetmek için gelirler. Türbe, Kayseri'nin önemli turistik mekanlarından biridir.
+Emir Sultan Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan tarihi ve dini bir yapıdır. Emir Sultan Türbesi, Kayseri'nin önemli kültürel ve tarihi mekanlarından biri olarak kabul edilir. Türbenin etrafında, çeşitli tarihi yapılar ve anıtlar bulunur. Bu yapılar, Kayseri'nin zengin tarihi geçmişini yansıtan önemli eserlerdir. Emir Sultan Türbesi, her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Ziyaretçiler, türbenin tarihi ve kültürel önemini keşfetmek için gelirler. Türbe, Kayseri'nin önemli turistik mekanlarından biridir.
 
 ## Tarihçe
 

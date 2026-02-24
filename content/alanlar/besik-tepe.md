@@ -28,7 +28,7 @@ wikidata_id: "Q31390917"
 
 # Beşik Tepe
 
-Kayseri'nin İç Anadolu Bölgesi'nde yer alan Beşik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Beşik Tepe, hem coğrafi konumu hem de tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı buluyorlar.
+ Beşik Tepe, hem coğrafi konumu hem de tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı buluyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Beşik Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillendi. Bu tepe, tari
 
 ## Coğrafya
 
-Beşik Tepe, Kayseri'nin coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir doğal alan sunuyor. Beşik Tepe'nin coğrafi konumu, ziyaretçilere şehrin panoramik manzarasını izleme fırsatı sunuyor. Bu tepe, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Ziyaretçiler, Beşik Tepe'de çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebiliyorlar.
+Beşik Tepe, Kayseri'nin coğrafi yapısını oluşturan önemli bir tepe. Beşik Tepe'nin coğrafi konumu, ziyaretçilere şehrin panoramik manzarasını izleme fırsatı sunuyor. Bu tepe, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Ziyaretçiler, Beşik Tepe'de çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebiliyorlar.
 
 ## Flora ve Fauna
 
@@ -47,8 +47,6 @@ Beşik Tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. 
 Beşik Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için ideal bir aktivite. Ziyaretçiler, bu tepeye çıkarak, şehrin panoramik manzarasını izleyebiliyorlar. Beşik Tepe'ye ulaşmak için, ziyaretçiler çeşitli ulaşım seçeneklerini kullanabiliyorlar. Ziyaretçiler, aynı zamanda bu tepeye çıkarak, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi keşfedebiliyorlar.
 
 ## İlginç Bilgiler
-
-- Beşik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 
 - Beşik Tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 - Ziyaretçiler, bu tepeye çıkarak, şehrin panoramik manzarasını izleyebiliyorlar.

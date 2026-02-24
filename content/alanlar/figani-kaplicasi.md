@@ -28,7 +28,7 @@ wikidata_id: "Q49741910"
 
 # Figani Kaplıcası
 
-Figani Kaplıcası, Çorum'un zengin doğası içerisinde yer alan bir termal kaynak olarak dikkat çekmektedir. Bu bölge, yaklaşık 140 hektarlık bir alan kaplamakta ve ziyaretçilerini doğanın içlerine davet etmektedir. 200 futbol sahası büyüklüğünde olan bu yeşil alan, hem doğa severler hem de sağlık arayanlar için ideal bir destinasyon olarak görülmektedir. Figani Kaplıcası, özellikle termal sularının sağlığa olan faydaları ile bilinmektedir. Bu suların, cilt ve kas sağlığı üzerinde olumlu etkileri olduğu bilinmektedir.
+Figani Kaplıcası, Çorum'un zengin doğası içerisinde yer alan bir termal kaynak olarak dikkat çekmektedir. Figani Kaplıcası, özellikle termal sularının sağlığa olan faydaları ile bilinmektedir. Bu suların, cilt ve kas sağlığı üzerinde olumlu etkileri olduğu bilinmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Figani Kaplıcası'nın tarihi geçmişi, yüzyıllar boyunca insanların şifa 
 
 ## Coğrafya
 
-Figani Kaplıcası, Karadeniz Bölgesi'nin doğal güzellikleri ile çevrili bir bölgede yer almaktadır. Bu bölge, Çorum'un merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Kaplıca, yaklaşık 140 hektarlık bir alan kaplamakta ve bu alan, çeşitli bitki türleri ile örtülmüş durumdadır. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik özellikleri ile uyumlu olarak yağışlı ve nemlidir. Bu iklim, flora ve fauna için uygun koşullar sağlamaktadır. Figani Kaplıcası'nın çevresi, zengin bir fauna ile doludur ve bu da ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır.
+Figani Kaplıcası, Karadeniz Bölgesi'nin doğal güzellikleri ile çevrili bir bölgede yer almaktadır. Bu bölge, Çorum'un merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik özellikleri ile uyumlu olarak yağışlı ve nemlidir. Bu iklim, flora ve fauna için uygun koşullar sağlamaktadır. Figani Kaplıcası'nın çevresi, zengin bir fauna ile doludur ve bu da ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Figani Kaplıcası'na ziyaretçiler, kolay bir ulaşım imkânı ile gelebilmekt
 ## İlginç Bilgiler
 
 - Figani Kaplıcası, Çorum'un en önemli turizm merkezlerinden biridir
-- Kaplıca, yaklaşık 140 hektarlık bir alanı kaplamaktadır
+
 - Bölge, çeşitli bitki ve hayvan türleri ile doludur
 - Figani Kaplıcası, yılın her mevsiminde ziyaret edilebilir
 - Kaplıcanın termal suları, cilt ve kas sağlığı için faydalıdır

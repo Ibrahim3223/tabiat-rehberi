@@ -30,7 +30,7 @@ Bursa-Mustafakemalpasa-Burhandag Kizilcam'ın tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Bursa-Mustafakemalpasa-Burhandag Kizilcam, coğrafi olarak Marmara Bölgesi'nin önemli noktalarından biri. Mustafakemalpasa ilçesinde yer alan milli park, 140 hektarlık bir alanı kapsıyor. Bölgenin coğrafyası, dağlık ve ormanlık alanların birleşmesiyle oluşuyor. İklimi, Marmara Bölgesi'nin genel iklimi gibi karasal ve nemli. Bahar ve yaz aylarında sıcaklık artarken, kış aylarında soğuk ve yağışlı olabiliyor. Çevre, zengin bir flora ve fauna ile kaplı ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanların yaşamasına elverişli.
+Bursa-Mustafakemalpasa-Burhandag Kizilcam, coğrafi olarak Marmara Bölgesi'nin önemli noktalarından biri. Bölgenin coğrafyası, dağlık ve ormanlık alanların birleşmesiyle oluşuyor. İklimi, Marmara Bölgesi'nin genel iklimi gibi karasal ve nemli. Bahar ve yaz aylarında sıcaklık artarken, kış aylarında soğuk ve yağışlı olabiliyor. Çevre, zengin bir flora ve fauna ile kaplı ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanların yaşamasına elverişli.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bursa-Mustafakemalpasa-Burhandag Kizilcam'ı ziyaret etmek, doğa severler için
 ## İlginç Bilgiler
 
 - Bursa-Mustafakemalpasa-Burhandag Kizilcam, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, çeşitli bitki türleri ve hayvan türlerine ev sahipliği yapıyor.
 - Bahar ve yaz ayları, ziyaret için en uygun zaman.
 - Ziyaretçilerin, milli parkın doğal güzelliklerini keşfetmeden önce, gerekli izinleri almaları ve kurallara uymaları önemli.

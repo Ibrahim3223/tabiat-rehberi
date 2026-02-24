@@ -28,7 +28,7 @@ wikidata_id: "Q31391000"
 
 # Karyağan Tepe
 
-Karyağan Tepe, Kahramanmaraş ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Karyağan Tepe, şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir. Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Karyağan Tepe, aynı zamanda şehrin tarihine de ev sahipliği yapan önemli bir bölgedir.
+ Karyağan Tepe, şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir. Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Karyağan Tepe, aynı zamanda şehrin tarihine de ev sahipliği yapan önemli bir bölgedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karyağan Tepe'nin tarihi geçmişi, şehrin tarihi ile iç içe geçmiş durumd
 
 ## Coğrafya
 
-Karyağan Tepe, Kahramanmaraş il merkezinde yer alan bir tepe olup, Akdeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir yapıya sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehre hakim bir konumda bulunmakta olup, buradan şehir manzarası izlenebilmektedir. Karyağan Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Tepe, aynı zamanda şehrin iklimine de ev sahipliği yapan önemli bir bölgedir. Akdeniz ikliminin hakim olduğu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçmektedir. Karyağan Tepe, bu iklim koşullarına uyum sağlayan çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
+Karyağan Tepe, Kahramanmaraş il merkezinde yer alan bir tepe olup, Akdeniz Bölgesi'nin coğrafi özellikleri ile uyumlu bir yapıya sahiptir. Karyağan Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Tepe, aynı zamanda şehrin iklimine de ev sahipliği yapan önemli bir bölgedir. Akdeniz ikliminin hakim olduğu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçmektedir. Karyağan Tepe, bu iklim koşullarına uyum sağlayan çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 
@@ -44,12 +44,12 @@ Karyağan Tepe, çeşitli flora ve fauna türleri ile kaplı bir alandır. Tepe,
 
 ## Ziyaret Bilgileri
 
-Karyağan Tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmektedir. Bu dönemlerde, tepeye hakim olan bitki türleri, özellikle çam, meşe ve zeytin ağaçlarıdır. Karyağan Tepe, aynı zamanda şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehre hakim bir konumda bulunmakta olup, buradan şehir manzarası izlenebilmektedir. Karyağan Tepe, ziyaretçilerine çeşitli etkinlikler sunmaktadır. Tepe, özellikle doğa yürüyüşü, pikni ve manzara izleme gibi faaliyetler için ideal bir yerdir.
+Karyağan Tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmektedir. Bu dönemlerde, tepeye hakim olan bitki türleri, özellikle çam, meşe ve zeytin ağaçlarıdır. Karyağan Tepe, aynı zamanda şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir. Karyağan Tepe, ziyaretçilerine çeşitli etkinlikler sunmaktadır. Tepe, özellikle doğa yürüyüşü, pikni ve manzara izleme gibi faaliyetler için ideal bir yerdir.
 
 ## İlginç Bilgiler
 
 - Karyağan Tepe, şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehre hakim bir konumda bulunmakta olup, buradan şehir manzarası izlenebilmektedir.
+
 - Karyağan Tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmektedir.
 - Tepe, çeşitli flora ve fauna türleri ile kaplı bir alandır.
 - Karyağan Tepe, ziyaretçilerine çeşitli etkinlikler sunmaktadır.

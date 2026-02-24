@@ -36,7 +36,7 @@ Gölbaşı Tepesi'nin tarihi geçmişi, Kilis ilinin tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Gölbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu tepe, Kilis ilinin güneydoğu kesiminde bulunuyor. Yaklaşık 140 hektarlık bir alanı kapsayan Gölbaşı Tepesi, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor. Gölbaşı Tepesi'nin coğrafi konumu, bölgenin iklimini ve flora/fauna çeşitliliğini etkiliyor. Bu bölge, genellikle kura ve sıcak bir iklime sahip. Ancak, Gölbaşı Tepesi'nin etrafındaki dağlar ve ovalar, iklimi hafifletiyor. Bu tepenin eteklerinde ve çevresinde, çeşitli nehirler ve akarsular yer alıyor. Gölbaşı Tepesi, bölgenin hidrolojik dengesini sağlayan önemli bir kaynak.
+Gölbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu tepe, Kilis ilinin güneydoğu kesiminde bulunuyor. Gölbaşı Tepesi'nin coğrafi konumu, bölgenin iklimini ve flora/fauna çeşitliliğini etkiliyor. Bu bölge, genellikle kura ve sıcak bir iklime sahip. Ancak, Gölbaşı Tepesi'nin etrafındaki dağlar ve ovalar, iklimi hafifletiyor. Bu tepenin eteklerinde ve çevresinde, çeşitli nehirler ve akarsular yer alıyor. Gölbaşı Tepesi, bölgenin hidrolojik dengesini sağlayan önemli bir kaynak.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gölbaşı Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini ve flora/fa
 ## İlginç Bilgiler
 
 - Gölbaşı Tepesi, bölgenin en önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Gölbaşı Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Bu tepe, bölgenin ekolojik dengesini sağlayan önemli bir merkez.
 - Gölbaşı Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini ve flora/fauna çeşitliliğini görmek isteyenler için ideal bir destinasyon.

@@ -30,7 +30,7 @@ wikidata_id: "Q131391232"
 
 # Sultan Alaaddin Türbesi
 
-Sultan Alaaddin Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir tarihi mekan. Bu türbe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Sultan Alaaddin Türbesi, Marmara Bölgesi'nin önemli tarihi noktalarından biri. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Sultan Alaaddin Türbesi, ziyaretçilerini tarihin derin izleriyle karşılıyor.
+Sultan Alaaddin Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir tarihi mekan. Sultan Alaaddin Türbesi, Marmara Bölgesi'nin önemli tarihi noktalarından biri. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Sultan Alaaddin Türbesi, ziyaretçilerini tarihin derin izleriyle karşılıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sultan Alaaddin Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu türbe, yüzy�
 
 ## Coğrafya
 
-Sultan Alaaddin Türbesi, Osmangazi ilçesinde yer alıyor. Bu türbe, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir mekan. Sultan Alaaddin Türbesi, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Sultan Alaaddin Türbesi, ziyaretçilerini coğrafi güzelliklerle karşılıyor. Türbenin konumu, Marmara Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta.
+Sultan Alaaddin Türbesi, Osmangazi ilçesinde yer alıyor. Bu türbe, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir mekan. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Sultan Alaaddin Türbesi, ziyaretçilerini coğrafi güzelliklerle karşılıyor. Türbenin konumu, Marmara Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Sultan Alaaddin Türbesi, ziyaretçilerini tarihin derin izleriyle karşılıyor
 - Türbenin tarihi geçmişi, çeşitli dönemlere ait izler taşıyor.
 - Sultan Alaaddin Türbesi, ziyaretçilerine tarihin derin hikayesini anlatıyor.
 - Türbenin flora ve fauna, Marmara Bölgesi'nin ekolojik yapısını yansıtan bir mekan.
-- Sultan Alaaddin Türbesi, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+

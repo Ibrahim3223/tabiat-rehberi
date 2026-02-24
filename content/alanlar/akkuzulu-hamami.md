@@ -21,7 +21,7 @@ aktiviteler: ["dinlenmek","güneşlenmek","yüzme","doğa yürüyüşü","kuş g
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fethiye_2.JPG/960px-Fethiye_2.JPG","alt":"Akkuzulu Hamamı","caption":"Akkuzulu Hamamı","credit":"Fethiye 2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkuzulu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245716","tip":"genel"}]
-description: "Çubuk/Ankara'da yer alan Akkuzulu Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Akkuzulu Hamamı","Çubuk","Ankara","İç Anadolu Bölgesi","yeşil alan","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245716"
@@ -49,7 +49,6 @@ Akkuzulu Hamamı, özellikle sıcak yaz günlerinde serinleme ve güneşin tadı
 
 ## İlginç Bilgiler
 
-- Akkuzulu Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğundadır
 - Bu plaj, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle kura ve sıcak bir iklime sahiptir
 - Akkuzulu Hamamı, çeşitli bitki türlerine ev sahipliği yapan bir yeşil alandır
 - Bu bölgede, özellikle ağaçlar ve çalılar gibi bitkiler bulunur

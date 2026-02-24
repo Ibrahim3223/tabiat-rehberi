@@ -37,7 +37,7 @@ Kaşıklı Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca zengin bir k�
 
 ## Coğrafya
 
-Kaşıklı Baba Türbesi, Eceabat ilçesinde, Çanakkale ilinin önemli turizm noktalarından biridir. Türbe, deniz kıyısında yer alır ve etrafı yeşil alanlarla çevrilidir. Bu coğrafi konum, ziyaretçilere hem tarihi bir yapıyı keşfetme hem de deniz ve doğanın güzelliğini izleme fırsatı sunar. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösterir ve yaz aylarında sıcak, kış aylarında ılıman bir hava görülür. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan içerisine kuruludur ve bu büyüklük, ziyaretçilere geniş bir açık alan sunar. Çevre, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu doğal güzellik, ziyaretçilere huzurlu bir atmosfer sağlar. Kaşıklı Baba Türbesi'nin coğrafi konumu, hem doğal güzellikleri hem de tarihi önemi nedeniyle ziyaretçilerini cezbeder.
+Kaşıklı Baba Türbesi, Eceabat ilçesinde, Çanakkale ilinin önemli turizm noktalarından biridir. Türbe, deniz kıyısında yer alır ve etrafı yeşil alanlarla çevrilidir. Bu coğrafi konum, ziyaretçilere hem tarihi bir yapıyı keşfetme hem de deniz ve doğanın güzelliğini izleme fırsatı sunar. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösterir ve yaz aylarında sıcak, kış aylarında ılıman bir hava görülür. Çevre, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu doğal güzellik, ziyaretçilere huzurlu bir atmosfer sağlar. Kaşıklı Baba Türbesi'nin coğrafi konumu, hem doğal güzellikleri hem de tarihi önemi nedeniyle ziyaretçilerini cezbeder.
 
 ## Flora ve Fauna
 

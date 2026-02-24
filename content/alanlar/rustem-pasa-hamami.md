@@ -50,7 +50,7 @@ Rüstem Paşa Hamamı, ziyaretçilerine kolay ulaşım imkanı sunar. Ziyaretçi
 ## İlginç Bilgiler
 
 - Rüstem Paşa Hamamı, tarihi hamamlar arasında önemli bir yer tutar.
-- Hamam, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Rüstem Paşa Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir.
 - Hamam, ziyaretçilerine zengin bir flora ve fauna yapısı sunar.
 - Rüstem Paşa Hamamı, yüzyıllar boyunca bölgenin önemli merkezlerinden biri olarak hizmet vermiştir.

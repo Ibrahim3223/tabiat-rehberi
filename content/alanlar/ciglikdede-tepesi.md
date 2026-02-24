@@ -28,7 +28,7 @@ wikidata_id: "Q34819424"
 
 # Çığlıkdede Tepesi
 
-Antalya'nın eşsiz doğasında yer alan Çığlıkdede Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Çığlıkdede Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor ve Antalya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Çığlıkdede Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor ve Antalya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

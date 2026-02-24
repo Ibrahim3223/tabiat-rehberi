@@ -50,7 +50,7 @@ Kalehisar Hamamı, yılın her mevsiminde ziyaret edilebilir. Ancak, en iyi ziya
 ## İlginç Bilgiler
 
 - Kalehisar Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir.
-- Bu plaj, 140 hektarlık bir yeşil alana sahiptir.
+
 - Buradaki deniz suyu, temiz ve serindir.
 - Kalehisar Hamamı, yılın her mevsiminde ziyaret edilebilir.
 - Bu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır.

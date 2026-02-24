@@ -44,7 +44,7 @@ Sarıgazel milli parkını ziyaret etmek, doğa severler ve çevre bilincine sah
 ## İlginç Bilgiler
 
 - Sarıgazel milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- Milli park, 140 hektarlık bir alana sahip.
+
 - Bölge, çeşitli bitki türleri ve hayvanlar tarafından şekillenmiştir.
 - Sarıgazel milli parkı, yılın her dönemi ziyaret edilebilir.
 - Milli parkta, çeşitli etkinlikler gerçekleştirebiliyor.

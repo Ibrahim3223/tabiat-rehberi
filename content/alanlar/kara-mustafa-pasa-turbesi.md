@@ -38,7 +38,7 @@ Kara Mustafa Paşa Türbesi, tarihin önemli figürlerinden biri olan Kara Musta
 
 ## Coğrafya
 
-Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bölge, yüksek bir konumda ve 140 hektarlık bir alanı kaplar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ılıman bir karakterdedir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurudur. Kara Mustafa Paşa Türbesi ve plajı, bu coğrafi özellikler nedeniyle yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, aynı zamanda çeşitli bitki türleri ve fauna için uygun bir ortam sunar.
+Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ılıman bir karakterdedir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurudur. Kara Mustafa Paşa Türbesi ve plajı, bu coğrafi özellikler nedeniyle yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, aynı zamanda çeşitli bitki türleri ve fauna için uygun bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Kara Mustafa Paşa Türbesi ve plajını ziyaret etmek, yılın herhangi bir dö
 - Kara Mustafa Paşa Türbesi, Osmanlı Devleti'nin önemli komutanlarından biri olan Kara Mustafa Paşa'ya adanmıştır.
 - Türbe, Paşa'nın anısına yapılmıştır ve bölgenin tarihi geçmişi hakkında bilgiler içerir.
 - Kara Mustafa Paşa'nın yaşamı ve askeri başarıları, türbede bulunan eserlerde ve kitabelerde görülebilir.
-- Bölge, yüksek bir konumda ve 140 hektarlık bir alanı kaplar.
+
 - Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin önemli turistik noktalarından biridir.

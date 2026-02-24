@@ -38,7 +38,7 @@ Süleyman Çelebi Anıt Mezarı'nın tarihi geçmişi, Bursa'nın zengin kültü
 
 ## Coğrafya
 
-Süleyman Çelebi Anıt Mezarı, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerinin ortasında yer alıyor. Bu bölge, Uludağ gibi önemli dağların eteklerinde kurulmuş ve etrafı ormanlarla çevrili. Anıt mezarın bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve bu genişlik, doğal güzelliklerin sergilendiği geniş bir alan sunuyor. Buranın coğrafi konumu, ziyaretçilerin hem tarihi bir mekanın güzelliğine şahitlik etmesi hem de natuurun güzelliğini keşfetmesi için ideal bir ortam sağlıyor. Süleyman Çelebi Anıt Mezarı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili, bu da burayı doğa severler için önemli bir destinasyon haline getiriyor. Anıt mezarın bulunduğu bölge, Marmara Bölgesi'nin iklimine uygun olarak, four mevsimi yaşayan bir bölge. Bu sayede, ziyaretçiler her mevsim farklı bir güzelliğe şahitlik edebiliyor.
+Süleyman Çelebi Anıt Mezarı, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerinin ortasında yer alıyor. Bu bölge, Uludağ gibi önemli dağların eteklerinde kurulmuş ve etrafı ormanlarla çevrili. Buranın coğrafi konumu, ziyaretçilerin hem tarihi bir mekanın güzelliğine şahitlik etmesi hem de natuurun güzelliğini keşfetmesi için ideal bir ortam sağlıyor. Süleyman Çelebi Anıt Mezarı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili, bu da burayı doğa severler için önemli bir destinasyon haline getiriyor. Anıt mezarın bulunduğu bölge, Marmara Bölgesi'nin iklimine uygun olarak, four mevsimi yaşayan bir bölge. Bu sayede, ziyaretçiler her mevsim farklı bir güzelliğe şahitlik edebiliyor.
 
 ## Flora ve Fauna
 

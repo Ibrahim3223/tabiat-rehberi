@@ -51,6 +51,6 @@ Kurt Çelebi Türbesi, İstanbul'un önemli kültürel miraslarından biri olara
 
 - Kurt Çelebi Türbesi, İstanbul'un önemli kültürel miraslarından biridir.
 - Türbenin mimarisi, Osmanlı dönemi özellikleri taşır.
-- Kurt Çelebi Türbesi, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Türbenin çevresinde, çeşitli tarihi mekanlar ve kültürel etkinlikler bulunur.
 - Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir.

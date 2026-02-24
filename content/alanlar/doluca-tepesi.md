@@ -36,7 +36,7 @@ Doluca Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sa
 
 ## Coğrafya
 
-Doluca Tepesi, Tekirdağ ilinin sınırları içerisinde yer alıyor ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri. Bu tepe, 140 hektarlık geniş bir alana yayılıyor ve bu genişlikte birçok farklı coğrafi özelliğe sahip. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. İklim olarak, Marmara Bölgesi'nin genel iklimini paylaşıyor ve bu nedenle dört mevsimlik bir güzelliğe sahip. Doluca Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve bu manzara, özellikle gün batımında muhteşem bir görünüm sunuyor. Tepenin etrafında, çeşitli yürüyüş yolları ve patikalar bulunuyor ve bu yollar, ziyaretçilere doğayı keşfetme fırsatı sunuyor.
+Doluca Tepesi, Tekirdağ ilinin sınırları içerisinde yer alıyor ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. İklim olarak, Marmara Bölgesi'nin genel iklimini paylaşıyor ve bu nedenle dört mevsimlik bir güzelliğe sahip. Doluca Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve bu manzara, özellikle gün batımında muhteşem bir görünüm sunuyor. Tepenin etrafında, çeşitli yürüyüş yolları ve patikalar bulunuyor ve bu yollar, ziyaretçilere doğayı keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Doluca Tepesi'ni ziyaret etmek, doğa severler için gerçek bir macera. Bu tepe
 
 ## İlginç Bilgiler
 
-- Doluca Tepesi, 140 hektarlık bir alana yayılıyor.
 - Bu tepe, birçok farklı bitki türüne ev sahipliği yapıyor.
 - Doluca Tepesi, ziyaretçilerine geniş bir manzara sunuyor.
 - Bu tepe, birçok hayvan türüne ev sahipliği yapıyor.

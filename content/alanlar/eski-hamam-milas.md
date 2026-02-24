@@ -21,15 +21,15 @@ aktiviteler: ["denize girme","güneşlenme","doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Eski Hamam, Milas","caption":"Eski Hamam, Milas","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Milas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245808","tip":"genel"}]
-description: "Muğla'nın Milas ilçesinde bulunan Eski Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu büyüleyici plaj, ziyaretçilerine sakin ve huzurlu bir atmosfer sunar."
-keywords: ["Eski Hamam","Milas","Muğla","plaj","doğa","yeşil alan","futbol sahası"]
+ Bu büyüleyici plaj, ziyaretçilerine sakin ve huzurlu bir atmosfer sunar."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245808"
 ---
 
 # Eski Hamam, Milas
 
-Eski Hamam, Muğla'nın Milas ilçesinde yer alan 140 hektarlık bir yeşil alandır. Yeşil alanın içinde, ziyaretçilerin dinlenip eğlenebileceği birçok olanak bulunur. Eski Hamam, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar. Bu plaj, doğaseverlerin ve sakin bir tatil geçirmek isteyenlerin gözdesidir. Eski Hamam'ın büyüleyici güzelliği, ziyaretçilerini her yıl tekrar çekmektedir.
+ Yeşil alanın içinde, ziyaretçilerin dinlenip eğlenebileceği birçok olanak bulunur. Eski Hamam, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar. Bu plaj, doğaseverlerin ve sakin bir tatil geçirmek isteyenlerin gözdesidir. Eski Hamam'ın büyüleyici güzelliği, ziyaretçilerini her yıl tekrar çekmektedir.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Eski Hamam, zengin bir flora ve faunaya sahiptir. Bu plaj, ziyaretçilerine çe�
 Eski Hamam, ziyaretçilerine birçok olanak sunar. Bu plaj, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar. Eski Hamam'a gitmek için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu plaj, ziyaretçilerine denize girme, güneşlenme ve doğa yürüyüşü gibi olanaklar sunar. Eski Hamam'a gitmek için, Milas'a gelip buradan Eski Hamam'a giden yoldan ilerlemek gerekir. Eski Hamam, ziyaretçilerine birçok olanak sunar.
 
 ## İlginç Bilgiler
-
-- Eski Hamam, 140 hektarlık bir yeşil alandır.
 
 - Eski Hamam, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar.
 - Eski Hamam, Ege Bölgesi'nin güzelliğini ziyaretçilerine sunar.

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Sessizlik.jpg","alt":"Hacet Deresi manzarası","credit":"Ece Ekşi","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Sakinlik.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sakinlik.jpg/1280px-Sakinlik.jpg","alt":"Hacet Deresi - Sakinlik","credit":"Ece Ekşi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Ta%C5%9Fl%C4%B1_yol.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ta%C5%9Fl%C4%B1_yol.jpg/1280px-Ta%C5%9Fl%C4%B1_yol.jpg","alt":"Hacet Deresi - Taşlı yol","credit":"Ece Ekşi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Renkli_bir_bitki_%C3%B6rt%C3%BCs%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Renkli_bir_bitki_%C3%B6rt%C3%BCs%C3%BC.jpg/1280px-Renkli_bir_bitki_%C3%B6rt%C3%BCs%C3%BC.jpg","alt":"Hacet Deresi - Renkli bir bitki örtüsü","credit":"Ece Ekşi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/92/Sihirli_patika.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sihirli_patika.jpg/1280px-Sihirli_patika.jpg","alt":"Hacet Deresi - Sihirli patika","credit":"Ece Ekşi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Hacet_Deresi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hacet_Deresi.jpg/1280px-Hacet_Deresi.jpg","alt":"Hacet Deresi - Hacet Deresi","credit":"Ece Ekşi","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hacet%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228378","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en güzel milli parklarından biri olan Hacet Deresi, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228378"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228378"
 
 # Hacet Deresi
 
-Hacet Deresi, İç Anadolu Bölgesi'nin kalbinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor. Hacet Deresi, hem doğa severlerin hem de tarihi güzellikleri keşfetmek isteyenlerin ilgisini çekiyor. Bu milli park, ziyaretçilerine hem dinlenme hem de keşif possibilities sunuyor.
+ Hacet Deresi, hem doğa severlerin hem de tarihi güzellikleri keşfetmek isteyenlerin ilgisini çekiyor. Bu milli park, ziyaretçilerine hem dinlenme hem de keşif possibilities sunuyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Hacet Deresi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olabil
 
 ## İlginç Bilgiler
 
-- Hacet Deresi, 140 hektarlık yeşil alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor.
 - Bu milli park, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Hacet Deresi, hem doğa severlerin hem de tarihi güzellikleri keşfetmek isteyenlerin ilgisini çekiyor.
 - Bu milli parkın oluşumu, bölgenin doğal güzelliklerinin korunması ve gelecek nesiller için bir miras olarak saklanması amacını taşıyor.

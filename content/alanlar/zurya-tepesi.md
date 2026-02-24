@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi yapıları gezme
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Zürya Tepesi","caption":"Zürya Tepesi","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Z%C3%BCrya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822883","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Zürya Tepesi, Batman ilinin sınırları içerisinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en yüksek noktalarından biri."
+description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Zürya Tepesi, Batman ilinin sınırları içerisinde yer alıyor."
 keywords: ["Zürya Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34822883"

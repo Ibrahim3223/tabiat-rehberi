@@ -15,14 +15,14 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg","alt":"Türkiye'deki tabiat anıtları listesi manzarası","credit":"Hamdigumus","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20tabiat%20an%C4%B1tlar%C4%B1%20listesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan tabiat anıtı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor."
+ Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["tabiat anıtı","İç Anadolu Bölgesi","doğa","tarih","gezi","yerel","doğal güzellik"]
 schema_type: "TouristAttraction"
 ---
 
 # Türkiye'deki tabiat anıtları listesi
 
-Tabiat anıtı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, piknik yapabilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilirler.
+ Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, piknik yapabilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tabiat anıtının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölg
 
 ## Coğrafya
 
-Tabiat anıtı, İç Anadolu Bölgesi'nde yer alan bir bölgedir. Bu bölge, coğrafi olarak 140 hektarlık yeşil alanı ile dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve ziyaretçiler, mevsimsel değişimleri deneyimleyebilirler. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sağlıyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, piknik yapabilir ve bölgenin doğal güzelliklerini deneyimleyebilirler. Ayrıca, bölgenin coğrafi yapısı, çeşitli su kaynakları ve akarsuları da içeriyor.
+Tabiat anıtı, İç Anadolu Bölgesi'nde yer alan bir bölgedir. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve ziyaretçiler, mevsimsel değişimleri deneyimleyebilirler. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sağlıyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, piknik yapabilir ve bölgenin doğal güzelliklerini deneyimleyebilirler. Ayrıca, bölgenin coğrafi yapısı, çeşitli su kaynakları ve akarsuları da içeriyor.
 
 ## Flora ve Fauna
 

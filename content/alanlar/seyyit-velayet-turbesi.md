@@ -37,7 +37,7 @@ Seyyit Velayet Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktad�
 
 ## Coğrafya
 
-Seyyit Velayet Türbesi, Fatih ilçesinin kıyı şeridinde, Marmara Denizi'ne bakan bir konumda yer almaktadır. Bu bölgenin coğrafyası, deniz kıyısı ve çevresindeki tepe ve vadilerin birleşmesiyle oluşur. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve plaj ile çevrilidir. Bu yeşil alan, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Kışlar ılık, yazlar ise sıcak ve nemlidir. Seyyit Velayet Türbesi ve çevresindeki plaj, ziyaretçilere geniş bir deniz ve yeşil alan sunar, bu da bu bölgenin turizm açısından önemli bir merkez olmasını sağlar.
+Seyyit Velayet Türbesi, Fatih ilçesinin kıyı şeridinde, Marmara Denizi'ne bakan bir konumda yer almaktadır. Bu bölgenin coğrafyası, deniz kıyısı ve çevresindeki tepe ve vadilerin birleşmesiyle oluşur. Bu yeşil alan, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Kışlar ılık, yazlar ise sıcak ve nemlidir. Seyyit Velayet Türbesi ve çevresindeki plaj, ziyaretçilere geniş bir deniz ve yeşil alan sunar, bu da bu bölgenin turizm açısından önemli bir merkez olmasını sağlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Seyyit Velayet Türbesi'ni ziyaret etmek için, en uygun zaman genellikle ilkbah
 ## İlginç Bilgiler
 
 - Seyyit Velayet Türbesi, İstanbul'un en önemli dinî merkezlerinden biridir.
-- Türbenin bulunduğu bölge, 140 hektarlık bir yeşil alan ve plajı kapsar.
+
 - Bu bölgede, çeşitli bitki türleri ve fauna bulunur.
 - Seyyit Velayet Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişi sahiptir.
 - Türbe ve plaj, hem dinî hem de doğal güzelliği bir araya getirmesiyle ziyaretçilerini çekmektedir.

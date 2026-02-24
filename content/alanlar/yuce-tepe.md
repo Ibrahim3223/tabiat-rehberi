@@ -49,7 +49,6 @@ Yüce Tepe'yi ziyaret etmek, doğa ve tarih severler için bir fırsat. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Yüce Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
 - Çevresinde, çeşitli bitki türleri ve zengin fauna encontrando.
 - Yüce Tepe, yılın her dönemi ziyaret edilebilir.

@@ -30,7 +30,7 @@ Akşehir Gölü Sit Alanı, yüzyıllar boyunca doğal güzelliğini korumuş ve
 
 ## Coğrafya
 
-Akşehir Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Göl, 140 hektarlık bir alanı kaplıyor ve çevresinde çeşitli bitki türleri yer alıyor. Bu bölgede, zengin fauna ile karşılaşma mümkün ve özellikle kuş gözlemcileri için önemli bir destinasyon. Gölün suyu, çevresindeki sulak alanlar ile bağlantılı ve bu reason ile ekolojik açıdan önemli. Akşehir Gölü Sit Alanı, coğrafi konumu itibari ile yıl boyunca ziyaret edilebilir, ancak bahar ve yaz ayları en uygun zamanlar. Gölün çevresi, yürüyüş yolları ve noktaları ile ziyaretçilere keyifli bir deneyim sunuyor.
+Akşehir Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu bölgede, zengin fauna ile karşılaşma mümkün ve özellikle kuş gözlemcileri için önemli bir destinasyon. Gölün suyu, çevresindeki sulak alanlar ile bağlantılı ve bu reason ile ekolojik açıdan önemli. Akşehir Gölü Sit Alanı, coğrafi konumu itibari ile yıl boyunca ziyaret edilebilir, ancak bahar ve yaz ayları en uygun zamanlar. Gölün çevresi, yürüyüş yolları ve noktaları ile ziyaretçilere keyifli bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Akşehir Gölü Sit Alanı, yıl boyunca ziyaret edilebilir, ancak bahar ve yaz 
 
 ## İlginç Bilgiler
 
-- Akşehir Gölü Sit Alanı, 140 hektarlık bir alanı kaplıyor.
 - Bu bölge, yüzyıllar boyunca doğal güzelliğini korumuştur.
 - Gölün suyu, çeşitli balık türleri ile dolu.
 - Akşehir Gölü Sit Alanı, coğrafi konumu itibari ile kolayca ulaşılabilir.

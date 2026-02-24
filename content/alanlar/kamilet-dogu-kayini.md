@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Kamilet Doğu Kayını","caption":"Kamilet Doğu Kayını","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamilet%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227375","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Kamilet Doğu Kayını, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunuyor."
+"
 keywords: ["Kamilet Doğu Kayını","İç Anadolu Bölgesi","Doğal Alanlar","Yeşil Alanlar","Milli Parklar","Doğa","Çevre","Ekosistem","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227375"
@@ -41,8 +41,6 @@ Kamilet Doğu Kayını, çeşitli bitki türleri ve hayvanların yaşadığı bi
 Kamilet Doğu Kayını, ziyaretçilerine hem dinlenme hem de eğlenme fırsatı sunuyor. Bu doğal alan, bölge halkının ve ziyaretçilerin keyifli zaman geçirmesine olanak tanıyan çeşitli aktiviteler sunuyor. Kamilet Doğu Kayını, ziyaretçilerine hem flora hem de fauna sunuyor. Bu milli park, ziyaretçilerine zengin bir doğa sunuyor. Kamilet Doğu Kayını, ziyaretçilerine keyifli zaman geçirmesine olanak tanıyan bir yer olarak görülüyor.
 
 ## İlginç Bilgiler
-
-- Kamilet Doğu Kayını, 140 hektarlık bir alana sahip.
 
 - Kamilet Doğu Kayını, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemi barındırıyor.
 - Bu milli park, ziyaretçilerine zengin bir doğa sunuyor.

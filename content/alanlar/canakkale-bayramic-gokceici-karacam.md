@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotograf çekmek","doğayı izlemek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Canakkale-Bayramic-Gokceici Karacam","caption":"Canakkale-Bayramic-Gokceici Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Gokceici%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227939","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Canakkale-Bayramic-Gokceici Karacam","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227939"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227939"
 
 # Canakkale-Bayramic-Gokceici Karacam
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Canakkale-Bayramic-Gokceici Karacam milli parkı, 140 hektarlık geniş bir alanı kapsıyor. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlıyor ve burada geçirilen zaman, unutulmaz anılar bırakıyor. Canakkale-Bayramic-Gokceici Karacam milli parkı, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor.
+ Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlıyor ve burada geçirilen zaman, unutulmaz anılar bırakıyor. Canakkale-Bayramic-Gokceici Karacam milli parkı, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor.
 
 ## Tarihçe
 

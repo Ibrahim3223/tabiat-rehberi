@@ -28,7 +28,7 @@ wikidata_id: "Q31559278"
 
 # Taşliağil Tepesi
 
-Taşliağil Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyon. Taşliağil Tepesi, Ankara'nın merkezine yakın konumu ile kolay ulaşılabilir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Taşliağil Tepesi, doğa yürüyüşleri, panoramik manzaralar ve tarihi kalıntılar ile ziyaretçilerini bekliyor.
+Taşliağil Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Taşliağil Tepesi, Ankara'nın merkezine yakın konumu ile kolay ulaşılabilir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Taşliağil Tepesi, doğa yürüyüşleri, panoramik manzaralar ve tarihi kalıntılar ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

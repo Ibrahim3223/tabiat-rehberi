@@ -37,7 +37,7 @@ Bursa'nın Marmara Bölgesi'nde yer alan Çiftekaya Tepesi, yeşillikler arasın
 
 ## Coğrafya
 
-Çiftekaya Tepesi, Marmara Bölgesi'nde yer alan Bursa ilinin en önemli coğrafi oluşumlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafında çeşitli bitki türleri ve hayvanlar yaşıyor. Çiftekaya Tepesi, doğu-batı doğrultusunda uzanan bir sırt üzerinde bulunuyor ve bu sırt, tepeye özel bir görünüm kazandırıyor. Tepenin etrafında, çeşitli dere ve çaylar akıyor ve bu su kaynakları, tepeye canlılık kazandırıyor. Çiftekaya Tepesi, aynı zamanda bir çok önemli coğrafi oluşuma da ev sahipliği yapıyor ve bu oluşumlar, tepeye özel bir önem kazandırmış.
+Çiftekaya Tepesi, Marmara Bölgesi'nde yer alan Bursa ilinin en önemli coğrafi oluşumlarından biridir. Çiftekaya Tepesi, doğu-batı doğrultusunda uzanan bir sırt üzerinde bulunuyor ve bu sırt, tepeye özel bir görünüm kazandırıyor. Tepenin etrafında, çeşitli dere ve çaylar akıyor ve bu su kaynakları, tepeye canlılık kazandırıyor. Çiftekaya Tepesi, aynı zamanda bir çok önemli coğrafi oluşuma da ev sahipliği yapıyor ve bu oluşumlar, tepeye özel bir önem kazandırmış.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bursa'nın Marmara Bölgesi'nde yer alan Çiftekaya Tepesi, yeşillikler arasın
 ## İlginç Bilgiler
 
 - Çiftekaya Tepesi, Bursa'nın en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Çiftekaya Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir yerdir.
 - Bu tepe, aynı zamanda bir çok önemli coğrafi oluşuma da ev sahipliği yapıyor.
 - Çiftekaya Tepesi, Marmara Bölgesi'nde yer alan bir doğa harikasıdır.

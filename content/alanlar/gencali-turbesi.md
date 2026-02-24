@@ -50,7 +50,7 @@ Gençali Türbesi'ni ziyaret etmek isteyenler, İnegöl'ün merkezinden uzun bir
 ## İlginç Bilgiler
 
 - Gençali Türbesi, İnegöl'ün tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak biliniyor.
-- Bu bölge, 140 hektarlık geniş bir alan kaplıyor.
+
 - İnegöl'ün merkezinden uzun bir mesafe uzaklıkta bulunan bu bölge, kolayca ulaşılabilir.
 - Gençali Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
 - Bu bölgenin flora ve fauna zenginliği, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor.

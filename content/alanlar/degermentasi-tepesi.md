@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","picnic
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Değermentaşı Tepesi","caption":"Değermentaşı Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Fermenta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388182","tip":"genel"}]
-description: "Denizli'nin görkemli doğası, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Değermentaşı Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388182"
@@ -48,7 +48,6 @@ Değermentaşı Tepesi'ni ziyaret etmek, doğa severler için bir rüya. Tepenin
 
 ## İlginç Bilgiler
 
-- Değermentaşı Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Tepenin konumu, ziyaretçilere hem deniz hem de kara güzelliklerini keşfetme fırsatı sunuyor

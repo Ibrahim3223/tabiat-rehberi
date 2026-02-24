@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih k
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Nolca Tepesi","caption":"Nolca Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nolca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552389","tip":"genel"}]
-description: "Mardin'in tarihi güzelliği Nolca Tepesi, 140 hektarlık alana yayılmış bir doğal ve tarihi hazine"
+
 keywords: ["Mardin","Nolca Tepesi","tarihi güzellik","doğal alan","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31552389"
@@ -28,7 +28,7 @@ wikidata_id: "Q31552389"
 
 # Nolca Tepesi
 
-Nolca Tepesi, Mardin'in güzelliğini ve tarihini bir araya getiren 140 hektarlık bir doğal ve tarihi alan olarak karşımıza çıkıyor. Nolca Tepesi, hem Mardin'in tarihi geçmişi hem de bölgenin coğrafi güzelliği hakkında bilgi sahibi olmak isteyenler için önemli bir destinasyon olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor.
+ Nolca Tepesi, hem Mardin'in tarihi geçmişi hem de bölgenin coğrafi güzelliği hakkında bilgi sahibi olmak isteyenler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Nolca Tepesi, Mardin'in güzelliğini ve tarihini bir araya getiren bir destinas
 ## İlginç Bilgiler
 
 - Nolca Tepesi, Mardin'in en önemli tarihi ve coğrafi güzelliklerinden biridir
-- Nolca Tepesi, 140 hektarlık bir alanda yayılmış bir yeşil alandır
+
 - Nolca Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Nolca Tepesi, ziyaretçilerine doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin flora ve fauna zenginliklerini keşfetme fırsatı sunuyor
 - Nolca Tepesi, Mardin'in güzelliğini ve tarihini bir araya getiren bir destinasyon olarak, ziyaretçilerini bölgenin tarihi ve coğrafi güzelliğini keşfetmeye davet ediyor

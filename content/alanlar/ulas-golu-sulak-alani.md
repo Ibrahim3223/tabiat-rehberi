@@ -42,8 +42,6 @@ Ulaş Gölü Sulak Alanı, özellikle ilkbahar ve sonbahar aylarında ziyaretçi
 
 ## İlginç Bilgiler
 
-- Ulaş Gölü Sulak Alanı, 140 hektarlık bir alana sahiptir.
-
 - Ulaş Gölü Sulak Alanı, özellikle su kuşlarının göç yolu üzerinde bulunmaktadır.
 - Bu sulak alan, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Ulaş Gölü Sulak Alanı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.

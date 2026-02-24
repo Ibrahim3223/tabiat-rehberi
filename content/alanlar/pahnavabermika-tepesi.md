@@ -29,7 +29,7 @@ wikidata_id: "Q31552713"
 
 # Pahnavabermika Tepesi
 
-Pahnavabermika Tepesi, İç Anadolu Bölgesi'nin göbeğinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan doğal bir güzellik. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Pahnavabermika Tepesi, doğa severlerin ve macera arayanların uğrak noktası haline gelmeye başlayan bir destinasyon.
+ Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Pahnavabermika Tepesi, doğa severlerin ve macera arayanların uğrak noktası haline gelmeye başlayan bir destinasyon.
 
 ## Tarihçe
 

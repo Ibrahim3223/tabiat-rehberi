@@ -49,7 +49,7 @@ Basık Tepe, ziyaretçilerine çeşitli doğa aktivitelerini deneyimleme fırsat
 ## İlginç Bilgiler
 
 - Basık Tepe, Hatay ilinin en yüksek noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Basık Tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır
 - Bu tepe, çeşitli bitki ve hayvan türleriyle birlikte bir ekosistemi temsil eder
 - Basık Tepe, mevsimsel değişimlere göre flora ve fauna'sı etkilenir

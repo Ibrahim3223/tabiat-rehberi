@@ -30,7 +30,7 @@ Balıkesir-Konakpınar-Kızılçam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Balıkesir-Konakpınar-Kızılçam milli parkı, Marmara Bölgesi'nde yer alan bir bölgedir. Bu bölge, Konakpınar ve Kızılçam ormanları ile çevrilidir ve 140 hektarlık bir alanı kaplamaktadır. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunmaktadır. Ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevrenin güzelliğini keşfedebilirler. Milli parkın iklimi, Marmara Bölgesi'nin iklimine benzemektedir ve ziyaretçilerin yılın her döneminde ziyaret edebileceği bir bölgedir. Milli parkın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Balıkesir-Konakpınar-Kızılçam milli parkı, Marmara Bölgesi'nde yer alan bir bölgedir. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunmaktadır. Ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevrenin güzelliğini keşfedebilirler. Milli parkın iklimi, Marmara Bölgesi'nin iklimine benzemektedir ve ziyaretçilerin yılın her döneminde ziyaret edebileceği bir bölgedir. Milli parkın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Balıkesir-Konakpınar-Kızılçam milli parkını ziyaret etmek, ziyaretçilere
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, Konakpınar ve Kızılçam ormanları ile çevrilidir
 - Milli parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır
 - Milli parkın iklimi, Marmara Bölgesi'nin iklimine benzemektedir

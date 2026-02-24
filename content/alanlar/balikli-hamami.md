@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Bal%C4%B1kl%C4%B1_hamam%C4%B1_%281%29.JPG","alt":"Balıklı Hamamı manzarası","credit":"DieFledermaus","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Bal%C4%B1kl%C4%B1_hamam%C4%B1_kap%C4%B1.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bal%C4%B1kl%C4%B1_hamam%C4%B1_kap%C4%B1.JPG/1280px-Bal%C4%B1kl%C4%B1_hamam%C4%B1_kap%C4%B1.JPG","alt":"Balıklı Hamamı - Balıklı hamamı kapı","credit":"DieFledermaus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Bal%C4%B1kl%C4%B1_hamam%C4%B1_kitabe.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bal%C4%B1kl%C4%B1_hamam%C4%B1_kitabe.JPG/1280px-Bal%C4%B1kl%C4%B1_hamam%C4%B1_kitabe.JPG","alt":"Balıklı Hamamı - Balıklı hamamı kitabe","credit":"DieFledermaus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Bal%C4%B1kl%C4%B1_hamam%C4%B12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bal%C4%B1kl%C4%B1_hamam%C4%B12.jpg/1280px-Bal%C4%B1kl%C4%B1_hamam%C4%B12.jpg","alt":"Balıklı Hamamı - Balıklı hamamı2","credit":"DieFledermaus","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738435","tip":"genel"}]
-description: "Kütahya'nın doğal güzelliklerinden biri olan Balıklı Hamamı, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
+"
 keywords: ["Kütahya","Balıklı Hamamı","doğa","tarih","gezi","turizm","yeşil alan","plaj","Ege Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738435"
@@ -50,7 +50,6 @@ Balıklı Hamamı, Kütahya'nın merkezinde yer aldığı için ulaşımı olduk
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - tarihi geçmişi
 - Ege Bölgesi'nin coğrafi özelliklerini taşıyor
 - zengin flora ve fauna çeşitliliği

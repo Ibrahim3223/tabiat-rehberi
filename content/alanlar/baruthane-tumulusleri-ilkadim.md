@@ -50,7 +50,7 @@ Baruthane Tümülüsleri İlkadım'ı ziyaret etmek, hem tarihi hem de doğal g�
 ## İlginç Bilgiler
 
 - Baruthane Tümülüsleri İlkadım, Samsun'un İlkadım ilçesinde yer alır.
-- Bu bölge, 140 hektarlık bir alana sahiptir.
+
 - Baruthane Tümülüsleri İlkadım, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, bu bölgede doğayı ve tarihi bir arada deneyimleyebilirler.

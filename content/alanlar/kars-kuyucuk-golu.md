@@ -22,7 +22,7 @@ wikidata_id: "Q108228383"
 
 # Kars-Kuyucuk Golu
 
-Kars-Kuyucuk Golu, Doğu Anadolu Bölgesi'nin güzide bir bölgesi olan Kars'ta bulunan, 140 hektarlık alanı kaplayan bir milli parktır. Kars-Kuyucuk Golu, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, özellikle doğa severler ve fotoğraf tutkunları için bir cennettir. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve huzur dolu anlar yaşayabilir.
+ Kars-Kuyucuk Golu, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, özellikle doğa severler ve fotoğraf tutkunları için bir cennettir. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve huzur dolu anlar yaşayabilir.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Kars-Kuyucuk Golu, zengin bir flora ve fauna çeşitliliğine sahiptir. Burada, 
 Kars-Kuyucuk Golu, ziyaretçilerini doğanın güzellikleriyle baş başa bırakır. Burada, çeşitli faaliyetler yapılabilir. Ziyaretçiler, doğa yürüyüşleri yapabilir, fotoğraf çekebilir ve doğanın güzelliklerini keşfedebilir. Kars-Kuyucuk Golu, özellikle doğa severler ve fotoğraf tutkunları için bir cennettir. Ziyaretçiler, burada huzur dolu anlar yaşayabilir ve doğanın güzelliklerini keşfedebilir. Kars-Kuyucuk Golu'na ulaşım, özel araçlarla veya toplu taşıma araçlarıyla yapılabilir. Ziyaretçiler, burada konaklama possibilitiesini değerlendirebilir.
 
 ## İlginç Bilgiler
-
-- Kars-Kuyucuk Golu, 140 hektarlık alanı kaplar.
 
 - Kars-Kuyucuk Golu, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker.
 - Bölge, özellikle doğa severler ve fotoğraf tutkunları için bir cennettir.

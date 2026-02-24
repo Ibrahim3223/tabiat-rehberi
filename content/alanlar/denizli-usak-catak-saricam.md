@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa izleme","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Denizli-Usak-Catak Saricam","caption":"Denizli-Usak-Catak Saricam","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Catak%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227558","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide illerinden Denizli'de yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Denizli","Usak","Catak Saricam","milli park","Ege Bölgesi","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227558"
@@ -30,7 +30,7 @@ Denizli-Usak-Catak Saricam milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Parkın içerisinde yer alan yürüyüş yolları ve doğa izleme noktaları, ziyaretçilerin doğayı yakından tanımasına olanak tanıyor. Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin iklimine uygun olarak, genelde ılıman bir iklimi bulunuyor. Bu iklim, ziyaretçilerin yılın her dönemi milli parkı ziyaret etmesine olanak tanıyor. Milli parkın çevresinde, ziyaretçilerin konaklayabileceği çeşitli tesisler ve dinlenebileceği alanlar da bulunuyor.
+Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Parkın içerisinde yer alan yürüyüş yolları ve doğa izleme noktaları, ziyaretçilerin doğayı yakından tanımasına olanak tanıyor. Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin iklimine uygun olarak, genelde ılıman bir iklimi bulunuyor. Bu iklim, ziyaretçilerin yılın her dönemi milli parkı ziyaret etmesine olanak tanıyor. Milli parkın çevresinde, ziyaretçilerin konaklayabileceği çeşitli tesisler ve dinlenebileceği alanlar da bulunuyor.
 
 ## Flora ve Fauna
 

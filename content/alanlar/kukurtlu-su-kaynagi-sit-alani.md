@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik yapmak"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Kükürtlü Su Kaynağı Sit Alanı","caption":"Kükürtlü Su Kaynağı Sit Alanı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrtl%C3%BC%20Su%20Kayna%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226405","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kükürtlü Su Kaynağı Sit Alanı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["Kükürtlü Su Kaynağı Sit Alanı","İç Anadolu Bölgesi","doğal alan","flora","fauna","ziyaret","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226405"
@@ -30,7 +30,7 @@ Kükürtlü Su Kaynağı Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı nde yer alır. Bu bölge, geniş otlaklar ve ormanlık alanlarla çevrilidir. Kükürtlü Su Kaynağı Sit Alanı'nın coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine olanak tanır. Kükürtlü Su Kaynağı Sit Alanı, yaklaşık 140 hektarlık bir alana yayılmış olup, bu alanın büyük bir kısmı orman ve otlaklardan oluşur.
+Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı nde yer alır. Bu bölge, geniş otlaklar ve ormanlık alanlarla çevrilidir. Kükürtlü Su Kaynağı Sit Alanı'nın coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -41,8 +41,6 @@ Kükürtlü Su Kaynağı Sit Alanı, zengin bir flora ve fauna çeşitliliğine 
 Kükürtlü Su Kaynağı Sit Alanı, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, ilkbahar ve sonbahar aylarıdır. Bu dönemlerde, hava sıcaklığı ziyaretçilerin gezebilmesi için idealdir. Kükürtlü Su Kaynağı Sit Alanı'na ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabilir. Ziyaretçiler, bu bölgeye gelerek, çeşitli etkinlikler yapabilir. Bu etkinlikler arasında, doğa yürüyüşleri, fotoğraf çekimi ve piknik yapmak gibi faaliyetler bulunur.
 
 ## İlginç Bilgiler
-
-- Kükürtlü Su Kaynağı Sit Alanı, 140 hektarlık bir alana yayılmıştır.
 
 - Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Bu bölgede, çeşitli bitki türleri ve fauna çeşitliliği bulunur.

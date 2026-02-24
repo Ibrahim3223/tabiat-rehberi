@@ -29,7 +29,7 @@ wikidata_id: "Q135582179"
 
 # Arslan Bey Türbesi, Tavşanlı
 
-Arslan Bey Türbesi, Tavşanlı'nın merkezinde yer alan tarihi bir yapıdır. Bu türbe, Tavşanlı'nın tarihi ve kültürel mirasının önemli bir parçasıdır. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilerin dinlenebileceği ve tarihi yapıyı izleyebileceği bir ortam sunar. Arslan Bey Türbesi, yaklaşık 140 hektarlık bir alanda yer almaktadır. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerininlerini taşır. Ziyaretçiler, türbeyi gezerken, tarih ve kültürle iç içe bir deneyime sahip olurlar.
+Arslan Bey Türbesi, Tavşanlı'nın merkezinde yer alan tarihi bir yapıdır. Bu türbe, Tavşanlı'nın tarihi ve kültürel mirasının önemli bir parçasıdır. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilerin dinlenebileceği ve tarihi yapıyı izleyebileceği bir ortam sunar. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerininlerini taşır. Ziyaretçiler, türbeyi gezerken, tarih ve kültürle iç içe bir deneyime sahip olurlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Arslan Bey Türbesi, tarihi geçmişiyle dikkat çeker. Bu türbe, yüzyıllar b
 
 ## Coğrafya
 
-Arslan Bey Türbesi, Tavşanlı'nın merkezinde yer alır. Bu türbe, Ege Bölgesi'nin coğrafi özelliklerini taşır. Bölge, yeşillik alanlar ve dağlarla çevrilidir. Türbenin bulunduğu alan, ziyaretçilerin dinlenebileceği ve tarihi yapıyı izleyebileceği bir ortam sunar. Arslan Bey Türbesi, 140 hektarlık bir alanda yer almaktadır. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilerin dinlenebileceği ve tarihi yapıyı izleyebileceği bir ortam sunar. Bölgenin iklimi, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklim gösterir. Bu iklim, ziyaretçiler için uygun bir gezi ortamı sunar.
+Arslan Bey Türbesi, Tavşanlı'nın merkezinde yer alır. Bu türbe, Ege Bölgesi'nin coğrafi özelliklerini taşır. Bölge, yeşillik alanlar ve dağlarla çevrilidir. Türbenin bulunduğu alan, ziyaretçilerin dinlenebileceği ve tarihi yapıyı izleyebileceği bir ortam sunar. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilerin dinlenebileceği ve tarihi yapıyı izleyebileceği bir ortam sunar. Bölgenin iklimi, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklim gösterir. Bu iklim, ziyaretçiler için uygun bir gezi ortamı sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Arslan Bey Türbesi, ziyaretçiler için bir çekim noktasıdır. Türbeye ulaş
 ## İlginç Bilgiler
 
 - Tavşanlı'nın tarihi ve kültürel mirasının önemli bir parçası
-- 140 hektarlık alan
+
 - yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış
 - Selçuklu ve Osmanlı dönemlerininlerini taşır
 - zengin flora ve fauna

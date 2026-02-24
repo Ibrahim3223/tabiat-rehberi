@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Trabzon Vakfikebir-Dogu Ladini","caption":"Trabzon Vakfikebir-Dogu Ladini","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Vakfikebir-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228065","tip":"genel"}]
-description: "Trabzon'un Vakfikebir ilçesinde yer alan milli park, 140 hektarlık alanı ile dikkat çekiyor."
+"
 keywords: ["Trabzon","Vakfikebir","Milli Park","Doğu Ladini","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228065"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228065"
 
 # Trabzon Vakfikebir-Dogu Ladini
 
- Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Doğa severler için ideal bir destinasyon olan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin bir ortam sunuyor.
+ Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Doğa severler için ideal bir destinasyon olan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon Vakfikebir-Dogu Ladini milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Trabzon Vakfikebir-Dogu Ladini milli parkı, coğrafi olarak dikkat çekici bir konuma sahip. Milli park, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özelliklerini taşıyor. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahip. Bu iklim, ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor.
+Trabzon Vakfikebir-Dogu Ladini milli parkı, coğrafi olarak dikkat çekici bir konuma sahip. Milli park, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özelliklerini taşıyor. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahip. Bu iklim, ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

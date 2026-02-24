@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Nall%C4%B1han%2C_Davuto%C4%9Flan_Ku%C5%9F_Cenneti%2C_G%C3%B6l.jpg","alt":"Doğal Sit Alani manzarası","credit":"Candan Özgen Kruşa","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Nall%C4%B1han%2C_Davuto%C4%9Flan_Ku%C5%9F_Cenneti.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nall%C4%B1han%2C_Davuto%C4%9Flan_Ku%C5%9F_Cenneti.jpg/1280px-Nall%C4%B1han%2C_Davuto%C4%9Flan_Ku%C5%9F_Cenneti.jpg","alt":"Doğal Sit Alani - Nallıhan, Davutoğlan Kuş Cenneti","credit":"Candan Özgen Kruşa","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Aigai_Antik_Kenti_00.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Aigai_Antik_Kenti_00.jpg/1280px-Aigai_Antik_Kenti_00.jpg","alt":"Doğal Sit Alani - Aigai Antik Kenti 00","credit":"Ferit BAYCUMAN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_01.jpg/1280px-Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_01.jpg","alt":"Doğal Sit Alani - Tisna Antik Kenti, Koca Kale Tepe 01","credit":"Ferit BAYCUMAN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e5/20231009001845_IMG_2219-01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/20231009001845_IMG_2219-01.jpg/1280px-20231009001845_IMG_2219-01.jpg","alt":"Doğal Sit Alani - 20231009001845 IMG 2219-01","credit":"Gamzee66","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ed/K%C4%B1z_tepeleri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/K%C4%B1z_tepeleri.jpg/1280px-K%C4%B1z_tepeleri.jpg","alt":"Doğal Sit Alani - Kız tepeleri","credit":"Gamzee66","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fal%20Sit%20Alani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228951","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide doğal sit alanı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Doğal Sit Alani","İç Anadolu Bölgesi","yeşil alan","tabiat","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228951"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228951"
 
 # Doğal Sit Alani
 
- Bu muhteşem alan, ziyaretçilerini güneşin ışığını yaprakların arasında izlemeye, çiçeklerin renklerini ve kokularını keşfetmeye davet ediyor. Doğal Sit Alani, doğa severlerin ve fotoğraf tutkunlarının buluşma noktası olarak bilinir. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkündür. 140 hektarlık bu yeşil alan, aynı zamanda birçok bitki ve hayvan türünün yaşam alanı olarak hizmet vermektedir.
+ Bu muhteşem alan, ziyaretçilerini güneşin ışığını yaprakların arasında izlemeye, çiçeklerin renklerini ve kokularını keşfetmeye davet ediyor. Doğal Sit Alani, doğa severlerin ve fotoğraf tutkunlarının buluşma noktası olarak bilinir. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkündür.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Doğal Sit Alani, zengin bir flora ve fauna çeşitliliğine sahiptir. Burada, �
 Doğal Sit Alani'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olacaktır. Ziyaretçiler, bu doğal sit alanını gezerek, doğanın güzelliğini ve çeşitliliğini yakından keşfedebilirler. Doğal Sit Alani'ne ulaşım, çeşitli ulaşım araçları ile sağlanabilmektedir. Ziyaretçiler, doğal sit alanının içindeki patikaları takip ederek, farklı bölgelerini keşfetebilirler. Ayrıca, rehberli turlar da düzenlenmektedir. Bu turlar, ziyaretçilerin doğal sit alanını daha iyi keşfetmelerine yardımcı olmakta olup, aynı zamanda doğa hakkında daha fazla bilgi edinmelerine de olanak tanımaktadır.
 
 ## İlginç Bilgiler
-
-- Doğal Sit Alani, 140 hektarlık bir alana sahiptir.
 
 - Doğal Sit Alani, birçok bitki ve hayvan türünün yaşam alanıdır.
 - Doğal Sit Alani, İç Anadolu Bölgesi'nin kalbinde yer almaktadır.

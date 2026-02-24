@@ -30,7 +30,7 @@ wikidata_id: "Q118402800"
 
 # Karagümrük Gül Baba Türbesi
 
-Karagümrük Gül Baba Türbesi, İç Anadolu Bölgesi'nin kalbinde, Fatih ilçesinin Karagümrük mahallesinde yer alan tarihi bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplayan bir bölge içinde bulunmaktadır. Türbenin bulunduğu bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Karagümrük Gül Baba Türbesi, yerli ve yabancı ziyaretçilerin ilgisini çekmektedir. Türbenin tarihi ve mimari özellikleri, ziyaretçilere zengin bir deneyim sunar.
+Karagümrük Gül Baba Türbesi, İç Anadolu Bölgesi'nin kalbinde, Fatih ilçesinin Karagümrük mahallesinde yer alan tarihi bir türbedir. Türbenin bulunduğu bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Karagümrük Gül Baba Türbesi, yerli ve yabancı ziyaretçilerin ilgisini çekmektedir. Türbenin tarihi ve mimari özellikleri, ziyaretçilere zengin bir deneyim sunar.
 
 ## Tarihçe
 

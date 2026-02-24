@@ -14,7 +14,7 @@ aktiviteler: ["Plaj","Doğa yürüyüşü","Su sporları"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Mugla-Dalaman-Bahtiyar Sedir","caption":"Mugla-Dalaman-Bahtiyar Sedir","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Dalaman-Bahtiyar%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227219","tip":"genel"}]
-description: "Muğla'nın gizli cenneti, 140 hektarlık Sedir Adası"
+
 keywords: ["Sedir Adası","Muğla","Dalaman","Bahtiyar","milli park","doğa","plaj","tatil","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227219"
@@ -42,8 +42,6 @@ Sedir Adası, ziyaretçilere yıl boyunca güzel bir hava sunuyor. Ada, ılıman
 
 ## İlginç Bilgiler
 
-- Sedir Adası, 140 hektarlık bir alana sahip
-- Ada, yaklaşık 200 futbol sahası büyüklüğünde
 - Ada, Ege Bölgesi'nin en önemli turistik noktalarından biri
 - Ada, çeşitli flora ve fauna türlerine ev sahipliği yapıyor
 - Ada, önemli bir ekolojik konuma sahip

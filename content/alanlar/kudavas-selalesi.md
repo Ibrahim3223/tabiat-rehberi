@@ -22,7 +22,7 @@ wikidata_id: "Q130367228"
 
 # Kudavas Şelalesi
 
-Karadeniz Bölgesi'nin güzide illerinden Trabzon'da yer alan Kudavas Şelalesi, hem yerli hem yabancı turistlerin ilgisini çeken bir doğa harikası. Bu şelale, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Kudavas Şelalesi, Trabzon'un doğal güzellikleri arasında önemli bir yer tutar. Şelalenin etrafı, yeşilin çeşitli tonlarıyla bezeli olan ormanlarla çevrilidir. Bu doğa cenneti, ziyaretçilerine huzurlu ve dinlendirici bir ortam sunar.
+Karadeniz Bölgesi'nin güzide illerinden Trabzon'da yer alan Kudavas Şelalesi, hem yerli hem yabancı turistlerin ilgisini çeken bir doğa harikası. Kudavas Şelalesi, Trabzon'un doğal güzellikleri arasında önemli bir yer tutar. Şelalenin etrafı, yeşilin çeşitli tonlarıyla bezeli olan ormanlarla çevrilidir. Bu doğa cenneti, ziyaretçilerine huzurlu ve dinlendirici bir ortam sunar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q35731457"
 
 # Büyükyar Tepesi
 
-Büyükyar Tepesi, Çorum'un önemli doğal güzelliklerinden biridir. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Büyükyar Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Doğa severler için Büyükyar Tepesi, gezi ve keşif için ideal bir yerdir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gösterir.
+Büyükyar Tepesi, Çorum'un önemli doğal güzelliklerinden biridir. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Doğa severler için Büyükyar Tepesi, gezi ve keşif için ideal bir yerdir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gösterir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Büyükyar Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir
 
 ## Coğrafya
 
-Büyükyar Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Bu tepe, Çorum'un önemli doğal güzelliklerinden biridir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gösterir. Büyükyar Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği, bölgenin coğrafi yapısını gösterir. Büyükyar Tepesi, Karadeniz Bölgesi'nin iklimini yansıtan bir yerdir. Bölgenin iklimi, genellikle ılımandır. Tepenin etrafındaki flora ve fauna, Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Bu bölge, çeşitli bitki ve hayvan türlerinin yaşadığı bir yerdir.
+Büyükyar Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Bu tepe, Çorum'un önemli doğal güzelliklerinden biridir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gösterir. Tepenin yüksekliği, bölgenin coğrafi yapısını gösterir. Büyükyar Tepesi, Karadeniz Bölgesi'nin iklimini yansıtan bir yerdir. Bölgenin iklimi, genellikle ılımandır. Tepenin etrafındaki flora ve fauna, Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Bu bölge, çeşitli bitki ve hayvan türlerinin yaşadığı bir yerdir.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Büyükyar Tepesi, gezi ve keşif için ideal bir yerdir. Tepenin etrafındaki m
 
 - Büyükyar Tepesi, Çorum'un önemli doğal güzelliklerinden biridir
 - Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gösterir
-- Büyükyar Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Tepenin etrafındaki flora ve fauna, Karadeniz Bölgesi'nin doğal güzelliklerini sunar
 - Büyükyar Tepesi, mevsimsel değişimlere göre farklı bir güzellik sunar

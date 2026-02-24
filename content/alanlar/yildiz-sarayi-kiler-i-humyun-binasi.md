@@ -37,7 +37,7 @@ Yıldız Sarayı Kiler-i Hümâyun Binası, tarih boyunca önemli bir.role üstl
 
 ## Coğrafya
 
-Yıldız Sarayı Kiler-i Hümâyun Binası, İstanbul'un Beşiktaş ilçesinde yer alıyor ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak biliniyor. Bu bölge, Boğaziçi'nin güzide yerlerinden biri olarak kabul ediliyor ve tarihi değerlerine ek olarak doğal güzellikleriyle de dikkat çekiyor. Yıldız Sarayı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve bu alanı, tarihi binalar, bahçeler ve yeşil alanlar kaplıyor. Sarayın coğrafi konumu, ziyaretçilerine Boğaziçi'nin muhteşem manzarasını sunuyor ve bir yandan da tarihi bir atmosferde bulunma fırsatı veriyor. Yıldız Sarayı Kiler-i Hümâyun Binası, İstanbul'un coğrafi güzelliği ve tarihi değerinin birleştiği bir nokta olarak biliniyor.
+Yıldız Sarayı Kiler-i Hümâyun Binası, İstanbul'un Beşiktaş ilçesinde yer alıyor ve Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak biliniyor. Bu bölge, Boğaziçi'nin güzide yerlerinden biri olarak kabul ediliyor ve tarihi değerlerine ek olarak doğal güzellikleriyle de dikkat çekiyor. Sarayın coğrafi konumu, ziyaretçilerine Boğaziçi'nin muhteşem manzarasını sunuyor ve bir yandan da tarihi bir atmosferde bulunma fırsatı veriyor. Yıldız Sarayı Kiler-i Hümâyun Binası, İstanbul'un coğrafi güzelliği ve tarihi değerinin birleştiği bir nokta olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yıldız Sarayı Kiler-i Hümâyun Binası'nı ziyaret etmek, tarihi bir yolculu
 ## İlginç Bilgiler
 
 - Yıldız Sarayı Kiler-i Hümâyun Binası, Osmanlı İmparatorluğu'nun önemli yapılarından biri.
-- Saray, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Yıldız Sarayı, tarihi olaylara tanıklık etmiş bir mekan.
 - Kiler-i Hümâyun Binası, sarayın bir parçasıdır.
 - Yıldız Sarayı, Marmara Bölgesi'nin güzide yerlerinden biri.

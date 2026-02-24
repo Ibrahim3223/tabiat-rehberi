@@ -29,7 +29,7 @@ wikidata_id: "Q131390955"
 
 # Ahi Evren Dede Türbesi
 
-Ahi Evren Dede Türbesi, Trabzon'un Ortahisar ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Bu özel yer, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini Karadeniz Bölgesi'nin doğal güzelliklerine davet ediyor. Ahi Evren Dede Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve onları bu özel mekanın hikayesini keşfetmeye davet etmektedir.
+Ahi Evren Dede Türbesi, Trabzon'un Ortahisar ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Ahi Evren Dede Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve onları bu özel mekanın hikayesini keşfetmeye davet etmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi Evren Dede Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilg
 
 ## Coğrafya
 
-Ahi Evren Dede Türbesi, Trabzon'un Ortahisar ilçesinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerine sahip bir mekan. Bu özel yer, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini geniş bir yeşil alan ile karşılıyor. Ahi Evren Dede Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin iklimine uygun şekilde diseñ edilmiştir ve ziyaretçilere bu bölge hakkında derinlemesine bilgi vermektedir. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili ve ziyaretçilere doğanın güzelliklerini sunuyor. Ahi Evren Dede Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmelerine yardımcı olmakta ve onları bu özel yerin güzelliklerini keşfetmeye davet etmektedir. Karadeniz Bölgesi'nin doğal güzellikleri, Ahi Evren Dede Türbesi'nin etrafında yer almakta ve ziyaretçilere geniş bir yeşil alan sunuyor.
+Ahi Evren Dede Türbesi, Trabzon'un Ortahisar ilçesinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerine sahip bir mekan. Ahi Evren Dede Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin iklimine uygun şekilde diseñ edilmiştir ve ziyaretçilere bu bölge hakkında derinlemesine bilgi vermektedir. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili ve ziyaretçilere doğanın güzelliklerini sunuyor. Ahi Evren Dede Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmelerine yardımcı olmakta ve onları bu özel yerin güzelliklerini keşfetmeye davet etmektedir. Karadeniz Bölgesi'nin doğal güzellikleri, Ahi Evren Dede Türbesi'nin etrafında yer almakta ve ziyaretçilere geniş bir yeşil alan sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Ahi Evren Dede Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna il
 
 ## Ziyaret Bilgileri
 
-Ahi Evren Dede Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir seçenektir. Bu özel yer, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini geniş bir yeşil alan ile karşılıyor. Ahi Evren Dede Türbesi'ni ziyaret etmek için, Trabzon'un Ortahisar ilçesine gelmek आवशdır. Ziyaretçiler, bu özel yeri ziyaret ederek Karadeniz Bölgesi'nin doğal güzelliklerini keşfedebilir ve bu bölge hakkında derinlemesine bilgi edinebilir.
+Ahi Evren Dede Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir seçenektir. Ahi Evren Dede Türbesi'ni ziyaret etmek için, Trabzon'un Ortahisar ilçesine gelmek आवशdır. Ziyaretçiler, bu özel yeri ziyaret ederek Karadeniz Bölgesi'nin doğal güzelliklerini keşfedebilir ve bu bölge hakkında derinlemesine bilgi edinebilir.
 
 ## İlginç Bilgiler
 
 - Ahi Evren Dede Türbesi, Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir.
-- Bu özel yer, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini geniş bir yeşil alan ile karşılıyor.
+
 - Ahi Evren Dede Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve onları bu özel mekanın hikayesini keşfetmeye davet etmektedir.
 - Ahi Evren Dede Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili.
 - Bu özel yer, Karadeniz Bölgesi'nin doğal güzelliklerine sahip ve ziyaretçilere geniş bir yeşil alan sunuyor.

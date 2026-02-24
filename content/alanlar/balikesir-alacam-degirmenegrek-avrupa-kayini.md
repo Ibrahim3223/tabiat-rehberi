@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","bitki gözlemi",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Balikesir-Alacam-Degirmenegrek-Avrupa Kayini","caption":"Balikesir-Alacam-Degirmenegrek-Avrupa Kayini","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Alacam-Degirmenegrek-Avrupa%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228569","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Balikesir","Alacam","Degirmenegrek","Avrupa Kayini","milli park","doğa","gezi","turizm","iç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228569"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228569"
 
 # Balikesir-Alacam-Degirmenegrek-Avrupa Kayini
 
- Bu doğal güzellik, İç Anadolu Bölgesi'nin gizli cenneti olarak biliniyor. Burada yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 200 futbol sahası büyüklüğündeki bu alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+ Bu doğal güzellik, İç Anadolu Bölgesi'nin gizli cenneti olarak biliniyor. Burada yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkını ziyaret etmek, doğ
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nin gizli cenneti
 - Çeşitli bitki türleri ve zengin fauna
 - Tarihi geçmişi, yüzyıllar boyunca şekillenmiş

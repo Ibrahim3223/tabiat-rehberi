@@ -29,7 +29,7 @@ wikidata_id: "Q31387593"
 
 # Dua Tepe
 
-İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan Dua Tepe, yaklaşık 140 hektarlık bir alanı kaplar. Dua Tepe, bir doğa severin hayalini süsleyecek bir yerdir. Burada, doğanın güzelliğini ve canlılığını gözlemleme mümkündür. Dua Tepe, aynı zamanda zengin bir tarihe sahiptir. Yüzyıllar boyunca, bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor.
+ Dua Tepe, bir doğa severin hayalini süsleyecek bir yerdir. Burada, doğanın güzelliğini ve canlılığını gözlemleme mümkündür. Dua Tepe, aynı zamanda zengin bir tarihe sahiptir. Yüzyıllar boyunca, bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dua Tepe'nin tarihi geçmişi, farklı kültürlerin birleştiği bir noktada ye
 
 ## Coğrafya
 
-Dua Tepe, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölümünde yer alır. Bu bölge, geniş ovalar, dağlar ve tepe gibi coğrafi oluşumların birleştiği bir noktada bulunmaktadır. Dua Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile kaplıdır. Bölgenin iklimi, karasal iklim özellikleri taşır ve dört mevsim, Dua Tepe'de farklı güzellikler sunar. İlkbahar, baharın renkleri ile; yaz, sıcak günleri ile; sonbahar, sarı, kırmızı ve turuncu renklerle; kış, karlı manzaralar ile ziyaretçilerini karşılar. Dua Tepe, coğrafi çeşitliliği ile ziyaretçilerine, her mevsim farklı bir güzellik sunar.
+Dua Tepe, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölümünde yer alır. Bu bölge, geniş ovalar, dağlar ve tepe gibi coğrafi oluşumların birleştiği bir noktada bulunmaktadır. Bölgenin iklimi, karasal iklim özellikleri taşır ve dört mevsim, Dua Tepe'de farklı güzellikler sunar. İlkbahar, baharın renkleri ile; yaz, sıcak günleri ile; sonbahar, sarı, kırmızı ve turuncu renklerle; kış, karlı manzaralar ile ziyaretçilerini karşılar. Dua Tepe, coğrafi çeşitliliği ile ziyaretçilerine, her mevsim farklı bir güzellik sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Dua Tepe'yi ziyaret etmek, doğa severler için bir rüya gibi olabilir. Bu böl
 
 ## İlginç Bilgiler
 
-- Dua Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 - Dua Tepe, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölümünde yer alır.
 - Dua Tepe, zengin bir flora ve fauna ile ziyaretçilerini karşılar.
 - Dua Tepe, aynı zamanda, bir doğa yürüyüşü veya trekking deneyimi sunar.

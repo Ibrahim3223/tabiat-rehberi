@@ -49,7 +49,5 @@ Markia Anıt Mezarı'na ziyaretçiler, kolayca ulaşım sağlayabiliyor. Ziyaret
 
 ## İlginç Bilgiler
 
-- Markia Anıt Mezarı, 140 hektarlık bir alanı kapsıyor
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Markia Anıt Mezarı, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip
 - Ziyaretçiler, bu tarihi alanın hikayesini keşfetme fırsatı buluyor

@@ -28,7 +28,7 @@ wikidata_id: "Q31530754"
 
 # Baldıran Tepesi
 
-Baldıran Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve çevresindeki manzarasıyla dikkat çekiyor. 200 futbol sahası büyüklüğünde bir alan olarak düşünülmesi, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin yüksekliği ve çevresi, ziyaretçilere eşsiz bir deneyim sunuyor. Burada, hem doğanın güzelliğini keşfedebilir hem de bölgenin tarihi ve kültürel zenginliklerini öğrenebilirsiniz. Baldıran Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermesi açısından önemli bir nokta.
+Baldıran Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Tepenin yüksekliği ve çevresi, ziyaretçilere eşsiz bir deneyim sunuyor. Burada, hem doğanın güzelliğini keşfedebilir hem de bölgenin tarihi ve kültürel zenginliklerini öğrenebilirsiniz. Baldıran Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermesi açısından önemli bir nokta.
 
 ## Tarihçe
 

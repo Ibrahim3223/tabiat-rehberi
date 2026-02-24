@@ -22,7 +22,7 @@ wikidata_id: "Q108228878"
 
 # Sarısu Ovası Sulak Alanı
 
-Sarısu Ovası Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir sulak alan olarak tanımlanabilir. Sarısu Ovası Sulak Alanı, doğa severler ve bilim insanları için önemli bir destinasyon olarak dikkat çekiyor. Bu alan, zengin fauna ve flora çeşitliliği ile dikkat çekerek, ziyaretçilerini doğal güzellikleri ile baş başa bırakıyor.
+Sarısu Ovası Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. Sarısu Ovası Sulak Alanı, doğa severler ve bilim insanları için önemli bir destinasyon olarak dikkat çekiyor. Bu alan, zengin fauna ve flora çeşitliliği ile dikkat çekerek, ziyaretçilerini doğal güzellikleri ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Sarısu Ovası Sulak Alanı, flora ve fauna çeşitliliği ile dikkat çekiyor. 
 Sarısu Ovası Sulak Alanı, ziyaretçileri için çeşitli olanaklar sunuyor. Bu alan, özellikle doğa severler ve bilim insanları için önemli bir destinasyon olarak kabul ediliyor. Sarısu Ovası Sulak Alanı, ziyaretçilerini doğal güzellikleri ile baş başa bırakıyor. Bu alan, yürüyüş ve gözlem için uygun bir ortam sunuyor. Sarısu Ovası Sulak Alanı, ziyaretçilerin çeşitli fauna ve flora türleri ile karşılaşabileceği bir ortam olarak dikkat çekiyor.
 
 ## İlginç Bilgiler
-
-- Sarısu Ovası Sulak Alanı, 140 hektarlık bir alanı kaplar.
 
 - Sarısu Ovası Sulak Alanı, flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Bu alan, özellikle kuş türleri için önemli bir üreme ve göç alanı olarak kabul ediliyor.

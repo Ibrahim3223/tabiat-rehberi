@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenmek","tarihi yapıları ziyaret etmek","doğa yürüyüşleri yapmak","deniz sporları"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Cesme-streets.JPG","alt":"Alaçatı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ala%C3%A7at%C4%B1_2016.jpg/960px-Ala%C3%A7at%C4%B1_2016.jpg","alt":"Alaçatı","caption":"Alaçatı","credit":"Alaçatı 2016","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl.jpg/1280px-Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl.jpg","alt":"Alaçatı - Alaçatı 2024 Eylül","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_6.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_6.jpg/1280px-Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_6.jpg","alt":"Alaçatı - Alaçatı 2024 Eylül 6","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/19/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_8.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_8.jpg/1280px-Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_8.jpg","alt":"Alaçatı - Alaçatı 2024 Eylül 8","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_9.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_9.jpg/1280px-Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_9.jpg","alt":"Alaçatı - Alaçatı 2024 Eylül 9","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_13.jpg/1280px-Ala%C3%A7at%C4%B1_2024_Eyl%C3%BCl_13.jpg","alt":"Alaçatı - Alaçatı 2024 Eylül 13","credit":"Satirdan kahraman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%C3%A7at%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q941328","tip":"genel"}]
-description: "İzmir'in Çeşme ilçesinde yer alan Alaçatı, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
+"
 keywords: ["Alaçatı","Çeşme","İzmir","Ege Bölgesi","plaj","tarih","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q941328"
@@ -50,7 +50,6 @@ Alaçatı, yıl boyunca ziyaret edilebilir bir yer olup, ziyaretçilere unutulma
 
 ## İlginç Bilgiler
 
-- Alaçatı, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Bu bölge, yüzyıllar boyunca farklı kültürlerin etkisi altında kalmıştır.
 - Alaçatı, zengin flora ve fauna çeşitliliği ile birlikte turistik bir cazibe merkezi haline gelmiştir.
 - Bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor.

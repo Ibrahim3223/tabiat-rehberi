@@ -30,7 +30,7 @@ wikidata_id: "Q131391267"
 
 # Beylerbeyi Türbesi
 
-Beylerbeyi Türbesi, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tarihi yapı, yaklaşık 140 hektarlık alan üzerinde kurulmuş ve ziyaretçilerini tarihin derin sayfalarına götürmeyi vaat ediyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş ve ferah bir ortam sunuyor. Beylerbeyi Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin önemli simgelerinden biri olarak kabul ediliyor. Türbenin mimarisi, Osmanlı dönemi özellikleri taşıyor ve ziyaretçiler tarafından büyük ilgi görmekte.
+Beylerbeyi Türbesi, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Beylerbeyi Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin önemli simgelerinden biri olarak kabul ediliyor. Türbenin mimarisi, Osmanlı dönemi özellikleri taşıyor ve ziyaretçiler tarafından büyük ilgi görmekte.
 
 ## Tarihçe
 

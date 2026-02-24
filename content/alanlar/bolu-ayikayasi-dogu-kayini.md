@@ -42,7 +42,6 @@ Bolu-Ayikayasi Dogu Kayini milli parkını ziyaret etmek, doğanın güzelliğin
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - Milli parkın iklimi, Karadeniz ikliminin özelliklerini taşımaktadır
 - Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor

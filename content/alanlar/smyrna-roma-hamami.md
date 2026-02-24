@@ -38,7 +38,7 @@ Smyrna Roma Hamamı, tarihin derinliklerinde gizli tarihi bir geçmişe sahiptir
 
 ## Coğrafya
 
-Smyrna Roma Hamamı, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, Akdeniz ikliminin etkisi altındadır ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar yaşanır. Smyrna Roma Hamamının coğrafi konumu, ziyaretçiler için önemli bir avantajdır. Ziyaretçiler, bu bölgede tarihi yapıları gezerken aynı zamanda Ege Bölgesi'nin doğal güzelliğini de keşfedebilirler. Smyrna Roma Hamamının etrafı, yeşilliklerle çevrilidir ve ziyaretçiler, bu bölgede doğanın güzelliğini keşfedebilirler. 140 hektarlık bu yeşil alan, birçok tarihi yapıyı barındırır ve ziyaretçiler, bu bölgede tarihi ve doğal güzelliği bir arada keşfedebilirler.
+Smyrna Roma Hamamı, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, Akdeniz ikliminin etkisi altındadır ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar yaşanır. Smyrna Roma Hamamının coğrafi konumu, ziyaretçiler için önemli bir avantajdır. Ziyaretçiler, bu bölgede tarihi yapıları gezerken aynı zamanda Ege Bölgesi'nin doğal güzelliğini de keşfedebilirler. Smyrna Roma Hamamının etrafı, yeşilliklerle çevrilidir ve ziyaretçiler, bu bölgede doğanın güzelliğini keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Smyrna Roma Hamamını ziyaret etmek, İzmir'in tarihi ve doğal güzelliklerini
 
 - Smyrna Roma Hamamı, Roma İmparatorluğu döneminde inşa edilmiştir.
 - Bu bölge, Ege Bölgesi'nin en önemli turistik noktalarından biridir.
-- Smyrna Roma Hamamı, 140 hektarlık bir yeşil alana sahiptir.
+
 - Ziyaretçiler, bu bölgede birçok tarihi yapıyı görebilirler.
 - Smyrna Roma Hamamı, İzmir'in Konak ilçesinde yer alır.

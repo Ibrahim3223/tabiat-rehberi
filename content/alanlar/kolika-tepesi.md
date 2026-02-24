@@ -28,7 +28,7 @@ wikidata_id: "Q31549022"
 
 # Kolıka Tepesi
 
-Kolıka Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir doğa harikası. Bu 200 futbol sahası büyüklüğünde bir alana sahip olan tepe, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplıyor. Kolıka Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sesine kula vermeye davet ediyor. Tepenin manzarası, özellikle gün batımında eşsiz bir güzelliğe sahip. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
+Kolıka Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir doğa harikası. Kolıka Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sesine kula vermeye davet ediyor. Tepenin manzarası, özellikle gün batımında eşsiz bir güzelliğe sahip. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -14,8 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki ve hayv
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Artvin-Borcka-Balci-Ihlamur","caption":"Artvin-Borcka-Balci-Ihlamur","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Balci-Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228553","tip":"genel"}]
-description: "Artvin'de yer alan Borcka-Balci-Ihlamur Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Artvin","Borcka-Balci-Ihlamur","Milli Park","Karadeniz Bölgesi","Doğa","Turizm","Yeşil Alan","Futbol Sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228553"
 ---

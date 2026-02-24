@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","yerel kültürü tanımak"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Süphandağı Tepesi","caption":"Süphandağı Tepesi","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCphanda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811327","tip":"genel"}]
-description: "Kars'ta yer alan Süphandağı Tepesi, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor"
+
 keywords: ["Kars","Doğu Anadolu Bölgesi","Süphandağı Tepesi","tepe","doğa","tarih","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34811327"
@@ -28,7 +28,7 @@ wikidata_id: "Q34811327"
 
 # Süphandağı Tepesi
 
-Süphandağı Tepesi, Kars ilinin sınırları içerisinde yer alan ve 140 hektarlık yeşil alanı ile dikkat çekici bir doğal güzelliktir. Süphandağı Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile cezbeder. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Süphandağı Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur.
+ Süphandağı Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile cezbeder. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Süphandağı Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Süphandağı Tepesi, tarihi geçmişiyle dikkat çekmektedir. Tepenin tarihi ha
 
 ## Coğrafya
 
-Süphandağı Tepesi, Kars ilinin sınırları içerisinde yer alan bir doğal güzelliktir. Tepenin coğrafi yapısı, 140 hektarlık yeşil alanı ve çeşitli bitki türlerini barındırmaktadır. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Süphandağı Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunar. Süphandağı Tepesi, Kars ilinin en önemli doğal güzelliklerinden biridir.
+Süphandağı Tepesi, Kars ilinin sınırları içerisinde yer alan bir doğal güzelliktir. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Süphandağı Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunar. Süphandağı Tepesi, Kars ilinin en önemli doğal güzelliklerinden biridir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Süphandağı Tepesi, ziyaretçilerine çeşitli etkinlikler sunar. Tepenin etek
 
 ## İlginç Bilgiler
 
-- Süphandağı Tepesi, 140 hektarlık yeşil alanı sunar
 - Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar
 - Süphandağı Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur
 - Tepenin fauna yapısı, çeşitli hayvan türlerini barındırmaktadır

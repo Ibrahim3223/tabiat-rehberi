@@ -36,7 +36,7 @@ Tavla Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye hakim olan meden
 
 ## Coğrafya
 
-Tavla Tepesi, Bingöl ilinin coğrafi yapısının önemli bir parçasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgeye hakim olan dağlık yapıya uygun bir şekilde yükseliyor. Tavla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin zirvesinden, bölgenin manzarası izlenebiliyor ve özellikle bahar aylarında, Tavla Tepesi'nin güzelliği ziyaretçilerini etkiliyor. Tavla Tepesi, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava alıyor. Bu durum, Tavla Tepesi'nin flora ve faunasını etkiliyor ve çeşitli mevsimsel değişimlere neden oluyor.
+Tavla Tepesi, Bingöl ilinin coğrafi yapısının önemli bir parçasıdır. Tavla Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin zirvesinden, bölgenin manzarası izlenebiliyor ve özellikle bahar aylarında, Tavla Tepesi'nin güzelliği ziyaretçilerini etkiliyor. Tavla Tepesi, bölgenin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava alıyor. Bu durum, Tavla Tepesi'nin flora ve faunasını etkiliyor ve çeşitli mevsimsel değişimlere neden oluyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Tavla Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olabil
 
 ## İlginç Bilgiler
 
-- Tavla Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tavla Tepesi, Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri.
 - Tavla Tepesi, özellikle bahar aylarında ziyaretçilerini etkileyen bir güzelliğe sahip.
 - Tavla Tepesi, yüzyıllar boyunca bölgede yaşayan halkın yaşamına tanıklık etmiş.

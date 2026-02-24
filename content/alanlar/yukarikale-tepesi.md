@@ -20,7 +20,7 @@ aktiviteler: ["Tepenin üst kısmına çıkarak şehrin panoramik manzarasını 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Yukarıkale Tepesi","caption":"Yukarıkale Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yukar%C4%B1kale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390521","tip":"genel"}]
-description: "Konya'nın tarihi değerleri arasında yer alan Yukarıkale Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Yukarıkale Tepesi","Konya","İç Anadolu Bölgesi","Tarih","Coğrafya","Doğa","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390521"
@@ -49,7 +49,7 @@ Yukarıkale Tepesi, ziyaretçiler için önemli bir destinasyondur. Tepenin tari
 ## İlginç Bilgiler
 
 - Yukarıkale Tepesi, Konya'nın tarihi değerleri arasında yer alan bir tepe
-- Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Tepenin üst kısmında yer alan tarihi kale, bölgenin stratejik önemini vurgulamaktadır
 - Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişini yansıtmaktadır
 - Tepenin çevresindeki ekosistem, Konya'nın doğal güzelliğini ortaya koymaktadır

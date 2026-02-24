@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","kuş gözlemciliği","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Dikilice Tepesi","caption":"Dikilice Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikilice%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388878","tip":"genel"}]
-description: "Kırklareli'nin doğal güzelliği, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kırklareli","Marmara Bölgesi","Dikilice Tepesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388878"
@@ -48,7 +48,6 @@ Dikilice Tepesi'ni ziyaret etmek, bölgenin doğal güzelliğini ve tarihi önem
 
 ## İlginç Bilgiler
 
-- Dikilice Tepesi, yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin zirvesi, yüksek bir konumda
 - Bölgede, çeşitli akarsular ve dereler bulunuyor
 - Dikilice Tepesi, zengin bir flora ve fauna çeşitliliğine sahip

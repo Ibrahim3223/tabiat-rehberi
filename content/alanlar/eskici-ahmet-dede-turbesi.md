@@ -49,8 +49,6 @@ Eskici Ahmet Dede Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini de
 
 ## İlginç Bilgiler
 
-- Eskici Ahmet Dede Türbesi, 140 hektarlık bir alana yayılmış
-- Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde
 - Eskici Ahmet Dede Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor
 - Bu mekan, ziyaretçilerine geniş bir perspektif sunuyor
 - Eskici Ahmet Dede Türbesi, coğrafi açıdan önemli bir konumda yer alıyor

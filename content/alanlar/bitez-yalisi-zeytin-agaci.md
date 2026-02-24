@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","zeytin ağacı gezisi","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Bitez Yalisi Zeytin Agaci","caption":"Bitez Yalisi Zeytin Agaci","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bitez%20Yalisi%20Zeytin%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227170","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzel bir köşesinde yer alan Bitez Yalisi Zeytin Agaci, yaklaşık 140 hektarlık bir alanı kaplıyor."
+"
 keywords: ["Bitez Yalisi Zeytin Agaci","İç Anadolu Bölgesi","doğa","zeytin ağacı","milli park","turizm","gezi","doğal güzellik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227170"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227170"
 
 # Bitez Yalisi Zeytin Agaci
 
-Bitez Yalisi Zeytin Agaci, İç Anadolu Bölgesi'nin güzide bir bölgesinde, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerini büyüleyici bir doğa ortamına davet ediyor. Bitez Yalisi Zeytin Agaci, özellikle zeytin ağaçları ile ünlü ve bu ağaçların güzelliği, ziyaretçilerin dikkatini çekmeyi başarıyor. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklar ile Bitez Yalisi Zeytin Agaci, her yıl birçok turisti ağırlayan önemli bir turizm merkezi haline geliyor.
+ Bitez Yalisi Zeytin Agaci, özellikle zeytin ağaçları ile ünlü ve bu ağaçların güzelliği, ziyaretçilerin dikkatini çekmeyi başarıyor. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklar ile Bitez Yalisi Zeytin Agaci, her yıl birçok turisti ağırlayan önemli bir turizm merkezi haline geliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bitez Yalisi Zeytin Agaci'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Bitez Yalisi Zeytin Agaci, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumda yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak çeşitlilik gösteren bir yapıya sahip. Zeytin ağaçları, bu bölgenin en önemli özelliklerinden biri ve ziyaretçilerin ilgisini çekiyor. Coğrafi olarak, Bitez Yalisi Zeytin Agaci, etrafındaki dağlar, vadiler ve nehirler ile birlikte, bir bütün olarak düşünülüyor. Bu coğrafi çeşitlilik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor ve bölgenin doğal zenginliklerini ortaya koyuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri görülüyor ve bu, bölgenin flora ve faunasını etkiliyor.
+Bitez Yalisi Zeytin Agaci, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumda yer alıyor. Zeytin ağaçları, bu bölgenin en önemli özelliklerinden biri ve ziyaretçilerin ilgisini çekiyor. Coğrafi olarak, Bitez Yalisi Zeytin Agaci, etrafındaki dağlar, vadiler ve nehirler ile birlikte, bir bütün olarak düşünülüyor. Bu coğrafi çeşitlilik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor ve bölgenin doğal zenginliklerini ortaya koyuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri görülüyor ve bu, bölgenin flora ve faunasını etkiliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bitez Yalisi Zeytin Agaci, ziyaretçilere, doğanın güzelliğini keşfetme fı
 
 ## İlginç Bilgiler
 
-- Bitez Yalisi Zeytin Agaci, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Zeytin ağacı geleneği, bu bölgede uzun yıllardır sürüyor.
 - Bitez Yalisi Zeytin Agaci, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alıyor.
 - Bölge, tarihi geçmişi ve kültürel mirası ile ön plana çıkıyor.

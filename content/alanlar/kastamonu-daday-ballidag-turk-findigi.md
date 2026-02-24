@@ -14,7 +14,7 @@ aktiviteler: ["Trekking","Kamp","Doğa yürüyüşü","Kuş gözlemciliği","Fot
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Kastamonu-Daday-Ballıdağ Turk Findigi","caption":"Kastamonu-Daday-Ballıdağ Turk Findigi","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Ball%C4%B1da%C4%9F%20Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228592","tip":"genel"}]
-description: "Kastamonu ilinde yer alan milli park, doğa severlerin gözdesi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu ilinde yer alan milli park, doğa severlerin gözdesi."
 keywords: ["Kastamonu","Daday","Ballıdağ","Turk Findigi","Milli Park","Doğa","Kastamonu Milli Parkı","Turk Findigi Milli Parkı","Kastamonu Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228592"
@@ -42,7 +42,6 @@ Kastamonu-Daday-Ballıdağ Turk Findigi milli parkını ziyaret etmek, özellikl
 
 ## İlginç Bilgiler
 
-- Milli parkta, yaklaşık 140 hektarlık bir alan bulunmaktadır.
 - Milli park, Kastamonu ilinin en önemli doğal güzelliklerinden biridir.
 - Milli parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Milli park, trekking, kamp ve doğa yürüyüşü gibi aktiviteler için idealdir.

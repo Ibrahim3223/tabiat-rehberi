@@ -48,7 +48,6 @@ Küçükkaya Tepesi, ziyaretçilerini bekliyor. Tepenin doğal güzellikleri ve 
 
 ## İlginç Bilgiler
 
-- Küçükkaya Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin yüksekliği, çevreyi panoramik olarak görmeye olanak tanır.
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur.
 - Tepede yaşayan hayvanlar, bu bölgenin fauna açısından zenginliğini gösterir.

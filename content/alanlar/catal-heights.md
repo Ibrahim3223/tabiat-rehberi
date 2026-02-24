@@ -37,7 +37,7 @@ wikidata_id: "Q49395666"
 
 ## Coğrafya
 
-Çatal Heights, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Kırşehir ilinin sınırları içerisinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Çatal Heights'in coğrafi konumu, ziyaretçilerine geniş bir manzara sunar. Bu tepe, etrafındaki doğal güzellikler ve coğrafi oluşumlarla birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilerini büyüleyici bir deneyim beklemektedir. Çatal Heights'in iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri gösterir. Bu tepe, dört mevsim boyunca farklı hava koşullarına sahiptir.
+Çatal Heights, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Çatal Heights'in coğrafi konumu, ziyaretçilerine geniş bir manzara sunar. Bu tepe, etrafındaki doğal güzellikler ve coğrafi oluşumlarla birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilerini büyüleyici bir deneyim beklemektedir. Çatal Heights'in iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri gösterir. Bu tepe, dört mevsim boyunca farklı hava koşullarına sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q49395666"
 ## İlginç Bilgiler
 
 - Çatal Heights, İç Anadolu Bölgesi'nin en yüksek tepelerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Çatal Heights, ziyaretçilerine geniş bir manzara sunar.
 - Bu tepe, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Çatal Heights, İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir.

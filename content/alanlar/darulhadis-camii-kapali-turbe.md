@@ -29,7 +29,7 @@ wikidata_id: "Q131391253"
 
 # Darülhadis Camii Kapalı Türbe
 
-Darülhadis Camii Kapalı Türbe, Edirne'nin tarihi dokusu içinde önemli bir yer tutuyor. Marmara Bölgesi'nin kalbinde, Edirne'nin merkezi noktalarından biri olarak kabul ediliyor. Bu yapı, hem dini hem de kültürel açıdan ziyaretçilerini çekiyor. 140 hektarlık bir alanda yer almayan bu türbe, yaklaşık olarak bir futbol sahası büyüklüğünde bir alanı kaplıyor. Bu küçük ama önemli alan, ziyaretçilerine derin bir tarih ve kültürel zenginlik sunuyor.
+Darülhadis Camii Kapalı Türbe, Edirne'nin tarihi dokusu içinde önemli bir yer tutuyor. Marmara Bölgesi'nin kalbinde, Edirne'nin merkezi noktalarından biri olarak kabul ediliyor. Bu yapı, hem dini hem de kültürel açıdan ziyaretçilerini çekiyor. Bu küçük ama önemli alan, ziyaretçilerine derin bir tarih ve kültürel zenginlik sunuyor.
 
 ## Tarihçe
 

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"Zonguldak-Eregli-Kocaman Ihlamur","caption":"Zonguldak-Eregli-Kocaman Ihlamur","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Eregli-Kocaman%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227747","tip":"genel"}]
-description: "Zonguldak'ta bulunan Kocaman Ihlamur, 140 hektarlık alanıyla doğaseverler için bir cennet"
+
 keywords: ["Zonguldak","Kocaman Ihlamur","milli park","doğa","turizm","gezi","karadeniz","ergeli","zonguldak milli parkı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227747"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227747"
 
 # Zonguldak-Eregli-Kocaman Ihlamur
 
-Zonguldak ilinin Eregli ilçesinde yer alan Kocaman Ihlamur Milli Parkı, 140 hektarlık geniş bir alana sahiptir. Milli parkın etrafı, yemyeşil ormanlarla çevrili ve bu ormanlar, çeşitli bitki türleriyle zengin bir flora sunar. Ziyaretçiler, bu doğal güzelliğin içinde huzur bulabilir ve doğayla iç içe olabilirler. Kocaman Ihlamur, aynı zamanda bir doğa koruma alanı olarak da önemlidir ve bu nedenle, buradaki ekosistemin korunmasına dikkat edilir. Milli parkın girişinde, ziyaretçilere bilgi veren tabelalar ve rehberler bulunur, bu sayede ziyaretçiler, alanı daha iyi keşfedebilir ve hakkında bilgi edinebilirler.
+ Milli parkın etrafı, yemyeşil ormanlarla çevrili ve bu ormanlar, çeşitli bitki türleriyle zengin bir flora sunar. Ziyaretçiler, bu doğal güzelliğin içinde huzur bulabilir ve doğayla iç içe olabilirler. Kocaman Ihlamur, aynı zamanda bir doğa koruma alanı olarak da önemlidir ve bu nedenle, buradaki ekosistemin korunmasına dikkat edilir. Milli parkın girişinde, ziyaretçilere bilgi veren tabelalar ve rehberler bulunur, bu sayede ziyaretçiler, alanı daha iyi keşfedebilir ve hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kocaman Ihlamur Milli Parkı, yılın her döneminde ziyaret edilebilir, ancak e
 
 ## İlginç Bilgiler
 
-- Kocaman Ihlamur Milli Parkı, 140 hektarlık bir alana sahiptir.
 - Milli parkın etrafı, yemyeşil ormanlarla çevrilidir.
 - Kocaman Ihlamur, aynı zamanda, bir doğa koruma alanı olarak da önemlidir.
 - Milli parkın içinde, yürüyüş yolları, piknik alanları ve gözlem noktaları bulunur.

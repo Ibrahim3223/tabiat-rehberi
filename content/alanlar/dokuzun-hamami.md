@@ -21,7 +21,7 @@ aktiviteler: ["Denize girmek","Güneşlenmek","Doğa yürüyüşleri","Deniz spo
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Dokuzun Hamamı","caption":"Dokuzun Hamamı","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dokuzun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738931","tip":"genel"}]
-description: "Aydın'ın Nazilli ilçesinde bulunan Dokuzun Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir plajdır. Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir."
+ Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir."
 keywords: ["Dokuzun Hamamı","Nazilli","Aydın","Ege Bölgesi","plaj","deniz","kumsal"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738931"

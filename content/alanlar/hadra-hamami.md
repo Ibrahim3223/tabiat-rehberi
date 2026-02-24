@@ -37,7 +37,7 @@ Hadra Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Hadra Hamamı, Mersin'in Akdeniz kıyılarında yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alana sahiptir ve bu özelliği ile ziyaretçilerini etkilemektedir. Hadra Hamamı, especially yaz aylarında sıcaktan bunalanların serinlemek için tercih ettiği bir yerdir. Bu bölgenin coğrafi konumu, Mersin'in turizm açısından önemli bir merkezi olarak bilinmesine katkıda bulunmuştur. Hadra Hamamı, deniz suyu ve kumsalın birleştiği noktada, ziyaretçilerine birçok olanak sunmaktadır. Ayrıca, bu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır.
+Hadra Hamamı, Mersin'in Akdeniz kıyılarında yer alan bir plajdır. Hadra Hamamı, especially yaz aylarında sıcaktan bunalanların serinlemek için tercih ettiği bir yerdir. Bu bölgenin coğrafi konumu, Mersin'in turizm açısından önemli bir merkezi olarak bilinmesine katkıda bulunmuştur. Hadra Hamamı, deniz suyu ve kumsalın birleştiği noktada, ziyaretçilerine birçok olanak sunmaktadır. Ayrıca, bu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Hadra Hamamı, ziyaretçilerine birçok olanak sunmaktadır. Bu bölgede, özell
 
 - Hadra Hamamı, Mersin'in en güzel plajlarından biri olarak bilinmektedir.
 - Hadra Hamamı, özellikle yaz aylarında sıcaktan bunalanların serinlemek için tercih ettiği bir yerdir.
-- Hadra Hamamı, yaklaşık 140 hektarlık bir alana sahiptir.
+
 - Hadra Hamamı, Mersin'in turizm açısından önemli bir merkezi olarak kabul edilmektedir.
 - Hadra Hamamı, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir.

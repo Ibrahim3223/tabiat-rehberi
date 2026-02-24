@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 13, ziyaretçilere çeşitli gezi seçenekleri sunuyor.
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 13, tarihin derinliklerine uzanan bir geçmişe sahip.
-- Bu tümülüslerin bulunduğu alan, 140 hektarlık bir genişliği kapsıyor.
+
 - Tümülüsler, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Bin Tepeler Tümülüsü 13, zengin bir flora ve fauna çeşitliliğine sahip.
 - Ziyaretçiler, tümülüsleri gezerken, tarihi ve kültürel zenginliği hakkında bilgi sahibi olabilir.

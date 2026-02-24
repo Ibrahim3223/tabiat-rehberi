@@ -48,7 +48,6 @@ Subaşı Tepesi'ne ziyaretçiler, çeşitli ulaşım seçenekleriyle ulaşabilir
 
 ## İlginç Bilgiler
 
-- Subaşı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 300 metre yukarıda
 - Subaşı Tepesi, çeşitli bitki türleri ve zengin fauna çeşitliliğine sahip
 - Tepenin yakınında bulunan yollar, ziyaretçilerin kolayca ulaşmasını sağlıyor

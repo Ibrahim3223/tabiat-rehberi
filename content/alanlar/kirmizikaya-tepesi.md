@@ -28,7 +28,7 @@ wikidata_id: "Q31388523"
 
 # Kırmızıkaya Tepesi
 
-Kırmızıkaya Tepesi, Rize ilinin güzide bir noktası olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve büyüklüğü ile dikkat çekiyor. Doğal güzelliği ve tarihi geçmişi ile birlikte, bu tepe ziyaretçilerini bekliyor.
+Kırmızıkaya Tepesi, Rize ilinin güzide bir noktası olarak karşımıza çıkıyor. Doğal güzelliği ve tarihi geçmişi ile birlikte, bu tepe ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Kırmızıkaya Tepesi'ni ziyaret etmek, bir doğa sever için büyük bir fırsa
 
 - Kırmızıkaya Tepesi, Rize ilinin önemli bir turizm noktası olarak görülüyor.
 - Bu tepe, doğal güzelliği ve tarihi geçmişi ile birlikte ziyaretçilerini bekliyor.
-- Kırmızıkaya Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bu bölgenin fauna zenginliği, farklı hayvan türlerini barındırması ile dikkat çekiyor.
 - Kırmızıkaya Tepesi'ni ziyaret etmek, bir doğa sever için büyük bir fırsat olarak görülüyor.

@@ -36,7 +36,7 @@ Fik Tepe'nin tarihi geçmişi, Şanlıurfa'nın tarihinde önemli bir yer tutar.
 
 ## Coğrafya
 
-Fik Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çeker. Bu tepe, Şanlıurfa'nın merkezine yakın bir konumda bulunmakta ve yaklaşık 140 hektarlık bir alanı kaplamaktadır. Fik Tepe'nin coğrafi yapısı, bölgenin iklimine uygun olarak şekillenmiştir. Bu tepe, ziyaretçilere bölgeye özgü flora ve fauna sunar. Fik Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitkiler, bölgenin iklimine uyum sağlamışlardır. Ayrıca, Fik Tepe'de farklı mevsimlerde değişen bir doğa manzarası ziyaretçileri beklemektedir. Kış aylarında karla kaplanan tepe, yaz aylarında yeşilin tonlarıyla ziyaretçilerini ağırlar.
+Fik Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çeker. Fik Tepe'nin coğrafi yapısı, bölgenin iklimine uygun olarak şekillenmiştir. Bu tepe, ziyaretçilere bölgeye özgü flora ve fauna sunar. Fik Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitkiler, bölgenin iklimine uyum sağlamışlardır. Ayrıca, Fik Tepe'de farklı mevsimlerde değişen bir doğa manzarası ziyaretçileri beklemektedir. Kış aylarında karla kaplanan tepe, yaz aylarında yeşilin tonlarıyla ziyaretçilerini ağırlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Fik Tepe'yi ziyaret etmek için, Şanlıurfa merkezinden tepeye giden yolu takip
 ## İlginç Bilgiler
 
 - Fik Tepe, Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunar.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Fik Tepe, ziyaretçilere bölgeye özgü flora ve fauna sunar.
 - Bu tepe, yılın her dönemi ziyaret edilebilir.
 - Fik Tepe'de, ziyaretçilere sunulan ativiteler arasında doğa yürüyüşü, fotoğrafçılık ve tarihin keşfedilmesi bulunur.

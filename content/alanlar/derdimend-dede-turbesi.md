@@ -29,7 +29,7 @@ wikidata_id: "Q131390842"
 
 # Derdimend Dede Türbesi
 
-Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan tarihi ve doğal güzelliklere sahip bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak dikkat çekiyor. Derdimend Dede Türbesi'nin bulunduğu bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Tarihi yapılar, yeşillikler ve geniş açık alanlar, bu bölgenin önemli özelliklerinden bazıları olarak sayılabilir.
+Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan tarihi ve doğal güzelliklere sahip bir alandır. Derdimend Dede Türbesi'nin bulunduğu bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Tarihi yapılar, yeşillikler ve geniş açık alanlar, bu bölgenin önemli özelliklerinden bazıları olarak sayılabilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Derdimend Dede Türbesi'ni ziyaret etmek, özellikle tarih ve doğa severler iç
 ## İlginç Bilgiler
 
 - Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alıyor
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Derdimend Dede Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor
 - Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor
 - Derdimend Dede Türbesi'ne ziyaretçiler, özellikle ilkbahar ve yaz aylarında gidebilir

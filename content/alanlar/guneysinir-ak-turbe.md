@@ -21,7 +21,7 @@ aktiviteler: ["Güneşin batışını izlemek","Doğayı keşfetmek","Çeşitli 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667202636%29.jpg/960px-thumbnail.jpg","alt":"Güneysınır Ak Türbe","caption":"Güneysınır Ak Türbe","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667202636)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneys%C4%B1n%C4%B1r%20Ak%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582350","tip":"genel"}]
-description: "Güneysınır'da yer alan Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde bulunan bir plajdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir."
+description: "Güneysınır'da yer alan Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde bulunan bir plajdır."
 keywords: ["Güneysınır","Ak Türbe","Konya","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582350"

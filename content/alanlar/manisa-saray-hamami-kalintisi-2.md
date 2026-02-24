@@ -21,7 +21,7 @@ aktiviteler: ["tarihçe araştırma","doğa yürüyüşü","fotograf çekme","ek
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff/lossy-page1-900px-Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff.jpg","alt":"Manisa Saray Hamamı Kalıntısı (2)","caption":"Manisa Saray Hamamı Kalıntısı (2)","credit":"Sea of Marmara - Admiralty Chart No 2836 Mediterranean Archipelago, Published 1863, Corrections to 1918 (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa%20Saray%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%20(2)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738745","tip":"genel"}]
-description: "Manisa'da tarihi bir yer olan Saray Hamamı Kalıntısı, 140 hektarlık bir alana yayılmaktadır."
+"
 keywords: ["Manisa","Saray Hamamı","tarih","kültür","gezi","Ege Bölgesi","Şehzadeler","historik yerler","turizm","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738745"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738745"
 
 # Manisa Saray Hamamı Kalıntısı (2)
 
-Manisa Saray Hamamı Kalıntısı (2), Şehzadeler ilçesinde bulunuyor ve 140 hektarlık bir alanı kaplıyor. Manisa'nın tarihi geçmişi, bu gibi yerlerle ortaya çıkıyor. Saray Hamamı Kalıntısı, geçmişin izlerini taşıyor ve ziyaretçilerine bu izleri keşfetme fırsatı sunuyor. Bu tarihi yer, Manisa'nın turizm değerlerini ortaya koyuyor.
+ Manisa'nın tarihi geçmişi, bu gibi yerlerle ortaya çıkıyor. Saray Hamamı Kalıntısı, geçmişin izlerini taşıyor ve ziyaretçilerine bu izleri keşfetme fırsatı sunuyor. Bu tarihi yer, Manisa'nın turizm değerlerini ortaya koyuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Manisa Saray Hamamı Kalıntısı (2), tarihin derinliklerinden gelen bir geçmi
 
 ## Coğrafya
 
-Manisa Saray Hamamı Kalıntısı (2), Şehzadeler ilçesinde yer alıyor. 140 hektarlık bir alanı kaplayan bu tarihi alan, Ege Bölgesi'nin coğrafi özellikleri ile çevrili. Saray Hamamı Kalıntısı, Manisa'nın coğrafi yapısını yansıtan bir bölge içinde bulunuyor. Bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, flora ve fauna açısından zengin bir bölge olan Ege Bölgesi, Saray Hamamı Kalıntısı gibi tarihi yerleri de barındırıyor. Bu bölge, ziyaretçilerine doğanın güzelliklerini ve tarihin değerlerini sunuyor.
+Manisa Saray Hamamı Kalıntısı (2), Şehzadeler ilçesinde yer alıyor. Saray Hamamı Kalıntısı, Manisa'nın coğrafi yapısını yansıtan bir bölge içinde bulunuyor. Bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, flora ve fauna açısından zengin bir bölge olan Ege Bölgesi, Saray Hamamı Kalıntısı gibi tarihi yerleri de barındırıyor. Bu bölge, ziyaretçilerine doğanın güzelliklerini ve tarihin değerlerini sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Manisa Saray Hamamı Kalıntısı (2), ziyaretçilerine çeşitli olanaklar sunu
 
 ## İlginç Bilgiler
 
-- Manisa Saray Hamamı Kalıntısı (2), 140 hektarlık bir alanı kaplıyor.
 - Saray Hamamı Kalıntısı, Şehzadeler ilçesinde bulunuyor.
 - Bu tarihi yer, Ege Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Saray Hamamı Kalıntısı, ziyaretçilerine geçmişin izlerini keşfetme fırsatı sunuyor.

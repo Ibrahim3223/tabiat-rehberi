@@ -37,7 +37,7 @@ Ahmet Pir Edirnevi Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu döne
 
 ## Coğrafya
 
-Ahmet Pir Edirnevi Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nde yer alır. Türbe, şehrin merkezi bölgesine yakındır ve ulaşımı kolaydır. Çevre, tarihi ve kültürel yapılar ile dolu olup, ziyaretçiler için önemli bir gezi alanıdır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir, bu da ziyaretçilere geniş bir açık alan sunar. İklim, Marmara Bölgesi'nin tipik iklimine uygun olarak, ılıman ve nemlidir. Çevre, çeşitli bitki türleri ile dolu olup, ziyaretçiler için güzel bir manzara sunar. Türbe, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Ahmet Pir Edirnevi Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nde yer alır. Türbe, şehrin merkezi bölgesine yakındır ve ulaşımı kolaydır. Çevre, tarihi ve kültürel yapılar ile dolu olup, ziyaretçiler için önemli bir gezi alanıdır. İklim, Marmara Bölgesi'nin tipik iklimine uygun olarak, ılıman ve nemlidir. Çevre, çeşitli bitki türleri ile dolu olup, ziyaretçiler için güzel bir manzara sunar. Türbe, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ahmet Pir Edirnevi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel 
 ## İlginç Bilgiler
 
 - Ahmet Pir Edirnevi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Ahmed Pir Edirnevi, dini ve kültürel alanda önemli bir figür olarak tanınmıştır.
 - Türbenin kuruluş tarihi tam olarak bilinmese de, yüzyıllar boyunca birçok önemli olaya tanıklık ettiği bilinmektedir.
 - Türbe, zaman içinde restore edilmiş ve günümüzde ziyaretçilere açıktır.

@@ -42,8 +42,6 @@ Hersek Lagünü Sulak Alanı, doğa severler ve kuş gözlemcileri için keyifli
 
 ## İlginç Bilgiler
 
-- Hersek Lagünü Sulak Alanı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
-
 - Lagün, çeşitli kuş türlerinin yaşam alanı olarak bilinir.
 - Hersek Lagünü Sulak Alanı, doğal güzelliği ve fauna çeşitliliği ile birlikte önemli bir turizm destinasyonu olarak tanınmaktadır.
 - Bu sulak alan, uzun yıllar boyunca doğal yaşamın korunması için önemli bir rol oynamıştır.

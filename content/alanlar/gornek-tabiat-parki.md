@@ -14,8 +14,8 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kuş gözlemc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Görnek Tabiat Parkı","caption":"Görnek Tabiat Parkı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6rnek%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228155","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Görnek Tabiat Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
-keywords: ["Görnek Tabiat Parkı","İç Anadolu Bölgesi","Doğa Parkı","Yeşil Alan","Futbol Sahası","Tabiat Parkı","Doğa Harikası","Yeşil Doğa","İç Anadolu"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228155"
 ---

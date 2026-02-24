@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi","Picnic"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Bursa-Inegol-Bogazova Dogu Kayini","caption":"Bursa-Inegol-Bogazova Dogu Kayini","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Inegol-Bogazova%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228595","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide illerinden Bursa'da yer alan Bursa-Inegol-Bogazova Dogu Kayini, 140 hektarlık yeşil alanıyla doğa severlerin gözdesi"
+
 keywords: ["Bursa","Inegol","Bogazova Dogu Kayini","Marmara Bölgesi","Doğa","Yeşil Alan","Milli Park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228595"
@@ -30,7 +30,7 @@ Bursa-Inegol-Bogazova Dogu Kayini'nin tarihi geçmişi, bölgenin jeolojik oluş
 
 ## Coğrafya
 
-Bursa-Inegol-Bogazova Dogu Kayini, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, geniş ormanlık alanlarla kaplıdır. 140 hektarlık yeşil alanı, çeşitli ağaç türleriyle dolu olan bu ormanlık alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Bölgenin coğrafi yapısı, Marmara Bölgesi'nin genel coğrafi yapısına benzer. Dağlık ve engebeli bir araziye sahip olan Bursa-Inegol-Bogazova Dogu Kayini, aynı zamanda çeşitli akarsularla da çevrilidir. Bu akarsular, bölgenin doğal güzelliğini artırır ve ziyaretçilere doğanın seslerini dinleme fırsatı sunar. Bursa-Inegol-Bogazova Dogu Kayini'nin coğrafi konumu, Marmara Bölgesi'nin iklimine de uygun olarak, ılıman bir iklimi vardır. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Bu iklim, bölgenin doğal güzelliğini daha da artırır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+Bursa-Inegol-Bogazova Dogu Kayini, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, geniş ormanlık alanlarla kaplıdır. Bölgenin coğrafi yapısı, Marmara Bölgesi'nin genel coğrafi yapısına benzer. Dağlık ve engebeli bir araziye sahip olan Bursa-Inegol-Bogazova Dogu Kayini, aynı zamanda çeşitli akarsularla da çevrilidir. Bu akarsular, bölgenin doğal güzelliğini artırır ve ziyaretçilere doğanın seslerini dinleme fırsatı sunar. Bursa-Inegol-Bogazova Dogu Kayini'nin coğrafi konumu, Marmara Bölgesi'nin iklimine de uygun olarak, ılıman bir iklimi vardır. Bölge, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklimi sahiptir. Bu iklim, bölgenin doğal güzelliğini daha da artırır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bursa-Inegol-Bogazova Dogu Kayini, ziyaretçilere dört mevsim boyunca açık ol
 
 ## İlginç Bilgiler
 
-- Bursa-Inegol-Bogazova Dogu Kayini, 140 hektarlık bir alana sahiptir.
 - Bölge, Marmara Bölgesi'nin en önemli doğal varlıklarından biridir.
 - Bursa-Inegol-Bogazova Dogu Kayini, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmıştır.
 - Bölge, çeşitli medeniyetlerin yaşadığı bir bölge olmuştur.

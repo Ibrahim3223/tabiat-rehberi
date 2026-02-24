@@ -28,7 +28,7 @@ wikidata_id: "Q31549904"
 
 # Beyaztoprak Tepesi
 
-Beyaztoprak Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak düşünülebilir. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de tarihi ve coğrafi özellikleri keşfetme imkanı sunar. Ziyaretçiler, bu tepede hem tarihi geçmişi hem de doğal güzelliği ile karşılaşır.
+Beyaztoprak Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de tarihi ve coğrafi özellikleri keşfetme imkanı sunar. Ziyaretçiler, bu tepede hem tarihi geçmişi hem de doğal güzelliği ile karşılaşır.
 
 ## Tarihçe
 

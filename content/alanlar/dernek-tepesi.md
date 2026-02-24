@@ -48,7 +48,6 @@ Dernek Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunar. Tepe
 
 ## İlginç Bilgiler
 
-- Dernek Tepesi, 140 hektarlık bir alana sahiptir.
 - Tepenin etrafında, çeşitli bitki türleri bulunur.
 - Bu bölge, yaban hayatının zengin çeşitliliğini sunar.
 - Dernek Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir.

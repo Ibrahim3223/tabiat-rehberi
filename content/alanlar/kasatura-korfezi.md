@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğayı gözlemlemek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Kasatura Korfezi","caption":"Kasatura Korfezi","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasatura%20Korfezi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227067","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
+
 keywords: ["Kasatura Korfezi","İç Anadolu Bölgesi","doğa","gezi","milli park","korfez","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227067"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227067"
 
 # Kasatura Korfezi
 
-Kasatura Korfezi, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir doğa harikasıdır. Bu büyüleyici korfez, 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Korfezin büyüklüğü ve güzelliği, onu bölgenin en önemli turizm merkezlerinden biri haline getirir. Ziyaretçiler, burada huzurlu bir atmosferin yanı sıra, çeşitli bitki ve hayvan türleriyle karşılaşabilirler.
+ Korfezin büyüklüğü ve güzelliği, onu bölgenin en önemli turizm merkezlerinden biri haline getirir. Ziyaretçiler, burada huzurlu bir atmosferin yanı sıra, çeşitli bitki ve hayvan türleriyle karşılaşabilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kasatura Korfezi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Kasatura Korfezi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu korfez, yaklaşık 140 hektarlık bir alanı kaplar ve bir doğa harikası olarak kabul edilir. Korfezin coğrafi yapısı, dağlar, vadiler ve ovalardan oluşur. Bu bölgenin iklimi, karasal iklim özellikleri gösterir ve ziyaretçiler, burada, dört mevsimi yaşayabilirler. Korfezin çevresinde, çeşitli bitki türleri bulunur ve bu bölge, birçok hayvan türünün yaşam alanı olarak kabul edilir. Korfezin coğrafi konumu, onu bir ekosistem olarak önemli kılar ve ziyaretçiler, burada, doğanın güzelliğini ve zenginliğini görebilirler. Korfez, bir bütün olarak, doğanın güzelliğini ve çeşitliliğini sunar ve ziyaretçilere, unutulmaz bir deneyim sağlar.
+Kasatura Korfezi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Korfezin coğrafi yapısı, dağlar, vadiler ve ovalardan oluşur. Bu bölgenin iklimi, karasal iklim özellikleri gösterir ve ziyaretçiler, burada, dört mevsimi yaşayabilirler. Korfezin çevresinde, çeşitli bitki türleri bulunur ve bu bölge, birçok hayvan türünün yaşam alanı olarak kabul edilir. Korfezin coğrafi konumu, onu bir ekosistem olarak önemli kılar ve ziyaretçiler, burada, doğanın güzelliğini ve zenginliğini görebilirler. Korfez, bir bütün olarak, doğanın güzelliğini ve çeşitliliğini sunar ve ziyaretçilere, unutulmaz bir deneyim sağlar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kasatura Korfezi'ni ziyaret etmek, ziyaretçilere, doğanın güzelliği ve zeng
 ## İlginç Bilgiler
 
 - Kasatura Korfezi, bir milli park olarak korunmaktadır
-- Korfez, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Korfez, çeşitli bitki ve hayvan türleriyle zengin bir ekosisteme sahiptir
 - Korfez, bir doğa harikası olarak kabul edilir
 - Korfez, yüzyıllar boyunca şekillenmiştir

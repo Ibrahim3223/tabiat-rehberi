@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/South_room%2C_second_floor._View_looking_west._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-18.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kesedağ Tepesi","caption":"Kesedağ Tepesi","credit":"South room, second floor. View looking west. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-18","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keseda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388219","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Kesedağ Tepesi, Kars ilinin sınırları içerisinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar."
+"
 keywords: ["Kesedağ Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388219"
@@ -28,7 +28,7 @@ wikidata_id: "Q31388219"
 
 # Kesedağ Tepesi
 
-Kesedağ Tepesi, Kars ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan görkemli bir doğa harikasıdır. Bu tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir. Kesedağ Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğüyle baş başa bırakmak için ideal bir mekândır. Tepenin yüksekliği ve genişliği, ziyaretçilere hem manzara hem de doğayla iç içe olma fırsatı sunar.
+ Bu tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir. Kesedağ Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğüyle baş başa bırakmak için ideal bir mekândır. Tepenin yüksekliği ve genişliği, ziyaretçilere hem manzara hem de doğayla iç içe olma fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kesedağ Tepesi, binlerce yıldır var olan ve bölgenin coğrafi yapısını ş
 
 ## Coğrafya
 
-Kesedağ Tepesi, Doğu Anadolu Bölgesi'nin Kars ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir. Kesedağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve tepenin yüksekliği, ziyaretçilere hem manzara hem de doğayla iç içe olma fırsatı sunar. Tepenin coğrafi yapısı, bölgenin jeolojik yapısını ve coğrafi özelliklerini şekillendiren önemli bir faktör olarak kabul edilir. Kesedağ Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğüyle baş başa bırakmak için ideal bir mekândır. Tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir. Bölgenin iklimi, tepenin coğrafi yapısını ve bitki örtüsünü şekillendiren önemli bir faktör olarak kabul edilir.
+Kesedağ Tepesi, Doğu Anadolu Bölgesi'nin Kars ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir. Tepenin coğrafi yapısı, bölgenin jeolojik yapısını ve coğrafi özelliklerini şekillendiren önemli bir faktör olarak kabul edilir. Kesedağ Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğüyle baş başa bırakmak için ideal bir mekândır. Tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir. Bölgenin iklimi, tepenin coğrafi yapısını ve bitki örtüsünü şekillendiren önemli bir faktör olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kesedağ Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğüyle ba�
 
 ## İlginç Bilgiler
 
-- Kesedağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
 - Tepenin etrafında yer alan diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını şekillendiren önemli bir parça olarak kabul edilir
 - Kesedağ Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzelliği ve büyüklüğüyle baş başa bırakmak için ideal bir mekândır
 - Tepenin coğrafi yapısı, bölgenin jeolojik yapısını ve coğrafi özelliklerini şekillendiren önemli bir faktör olarak kabul edilir

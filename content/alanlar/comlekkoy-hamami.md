@@ -50,7 +50,6 @@ wikidata_id: "Q131739239"
 ## İlginç Bilgiler
 
 - Lalapaşa'nın en önemli doğal güzelliklerinden biridir
-- 140 hektarlık bir alanı kaplar
-- 200 futbol sahası büyüklüğündedir
+
 - tarihi geçmişi yüzyıllar öncesine dayanır
 - çeşitli bitki türleri ve zengin fauna bulunmaktadır

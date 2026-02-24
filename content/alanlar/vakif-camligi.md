@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","kamp"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Vakif Çamligi","caption":"Vakif Çamligi","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vakif%20%C3%87amligi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227055","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Vakif Çamligi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
+"
 keywords: ["Vakif Çamligi","İç Anadolu Bölgesi","yeşil alan","zengin fauna","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227055"
@@ -42,7 +42,6 @@ Vakif Çamligi'ni ziyaret etmek, doğa severler için bir rüya gibi olabilir. B
 
 ## İlginç Bilgiler
 
-- Vakif Çamligi, 140 hektarlık bir yeşil alanı kapsar.
 - Bölge, çoğunlukla çam ağaçlarından oluşan ormanlık bir alandır.
 - Vakif Çamligi, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Bu bölge, doğa severler için bir cennet olarak görülür.

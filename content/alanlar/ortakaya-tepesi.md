@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Ortakaya Tepesi","caption":"Ortakaya Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391144","tip":"genel"}]
-description: "Sivas'ın doğal güzellikleri arasında yer alan Ortakaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini büyüleyici manzaralarıyla karşılar"
+
 keywords: ["Sivas","İç Anadolu Bölgesi","Ortakaya Tepesi","doğal güzellik","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391144"
@@ -28,7 +28,7 @@ wikidata_id: "Q31391144"
 
 # Ortakaya Tepesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Ortakaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ilgisini çeker. Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ortakaya Tepesi, Sivas'ın coğrafi özelliklerini ve doğal güzelliklerini deneyimlemek için ziyaret edilebilir.
+ Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ortakaya Tepesi, Sivas'ın coğrafi özelliklerini ve doğal güzelliklerini deneyimlemek için ziyaret edilebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ortakaya Tepesi, Sivas'ın tarihsel geçmişine ışık tutan önemli bir noktad
 
 ## Coğrafya
 
-Ortakaya Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak ilin önemli noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Sivas'ın doğal güzelliklerini sergiler. Sivas, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve Ortakaya Tepesi, bu bölgenin doğal güzelliklerini yansıtan bir alandır. Sivas'ın iklimi, karasal iklim özellikleri gösterir ve Ortakaya Tepesi, bu iklimin etkilerini taşır. Bu tepe, Sivas'ın coğrafi ve iklimsel özelliklerini deneyimlemek için ideal bir destinasyondur.
+Ortakaya Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak ilin önemli noktalarından biridir. Sivas, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve Ortakaya Tepesi, bu bölgenin doğal güzelliklerini yansıtan bir alandır. Sivas'ın iklimi, karasal iklim özellikleri gösterir ve Ortakaya Tepesi, bu iklimin etkilerini taşır. Bu tepe, Sivas'ın coğrafi ve iklimsel özelliklerini deneyimlemek için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ortakaya Tepesi, Sivas'ın doğal güzelliklerini deneyimlemek isteyenler için 
 ## İlginç Bilgiler
 
 - Ortakaya Tepesi, Sivas'ın doğal güzelliklerini sergileyen bir alandır
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Sivas, İç Anadolu Bölgesi'nde yer alır
 - Ortakaya Tepesi, Sivas'ın tarihsel geçmişine ışık tutan önemli bir noktadır
 - Bu tepe, Sivas'ın coğrafi özelliklerini ve doğal güzelliklerini deneyimlemek için ziyaret edilebilir

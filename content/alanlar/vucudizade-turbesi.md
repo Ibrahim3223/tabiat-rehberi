@@ -37,7 +37,7 @@ Vucudizade Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanıyor. 
 
 ## Coğrafya
 
-Vucudizade Türbesi, Marmara Denizi'nin kıyısında, Fatih ilçesinde yer alıyor. Türbe, 140 hektarlık bir yeşil alan içinde bulunuyor ve etrafı, çeşitli bitki türleri ile çevrili. Plaj, denizin ve güneşin keyfini çıkarmak için ideal bir mekan sunuyor. İstanbul'un merkezi konumunda olması, ulaşımı kolaylaştırıyor. Türbenin ve plajın coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Ayrıca, çevresindeki yapılar ve tarihi eserler, bölgenin zengin kültürel mirasını gözler önüne seriyor.
+Vucudizade Türbesi, Marmara Denizi'nin kıyısında, Fatih ilçesinde yer alıyor. Plaj, denizin ve güneşin keyfini çıkarmak için ideal bir mekan sunuyor. İstanbul'un merkezi konumunda olması, ulaşımı kolaylaştırıyor. Türbenin ve plajın coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Ayrıca, çevresindeki yapılar ve tarihi eserler, bölgenin zengin kültürel mirasını gözler önüne seriyor.
 
 ## Flora ve Fauna
 

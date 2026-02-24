@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Bitki ve hayvan gözl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Alanya Gazipaşa Sit Alanı","caption":"Alanya Gazipaşa Sit Alanı","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Gazipa%C5%9Fa%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226638","tip":"genel"}]
-description: "Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğal alan. Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor."
+ Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor."
 keywords: ["Alanya Gazipaşa","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226638"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226638"
 
 # Alanya Gazipaşa Sit Alanı
 
-Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğal alan. Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor. Burada, doğanın güzelliği ve zengin fauna ile flora çeşitliliği bir arada bulunuyor. Bu doğal alan, hem doğa severlerin hem de bilim insanlarının ilgisini çekmektedir.
+ Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor. Burada, doğanın güzelliği ve zengin fauna ile flora çeşitliliği bir arada bulunuyor. Bu doğal alan, hem doğa severlerin hem de bilim insanlarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Alanya Gazipaşa Sit Alanı, ziyaretçilere birçok olanak sunuyor. Bu bölgeye,
 
 ## İlginç Bilgiler
 
-- Alanya Gazipaşa Sit Alanı, 140 hektarlık bir doğal alandır.
 - Bu bölgenin coğrafi özellikleri, flora ve fauna çeşitliliğini etkileyen önemli faktörler.
 - Ziyaretçiler, bu doğal alanı gezerken, flora ve fauna çeşitliliğini gözlemleyebilir.
 - Bu bölgede, doğa yürüyüşleri ve fotoğrafçılık gibi etkinlikler yapılabiliyor.

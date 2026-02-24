@@ -37,7 +37,7 @@ Cemalettin Efendi Türbesi, Kastamonu'nun tarihine ışık tutan önemli bir tar
 
 ## Coğrafya
 
-Cemalettin Efendi Türbesi, Kastamonu'nun merkezinde yer alır ve şehrin coğrafi yapısını etkileyen önemli bir noktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, şehrin en önemli yeşil alanlarından biridir. Cemalettin Efendi Türbesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır ve bölgenin iklimi, türbenin etrafındaki bitki örtüsünü etkilemiştir. Türbenin bulunduğu alan, şehrin önemli ulaşım arterlerinden uzakta değildir ve ziyaretçiler, kolayca ulaşabilirler. Cemalettin Efendi Türbesi, Kastamonu'nun coğrafi yapısını ve şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Cemalettin Efendi Türbesi, Kastamonu'nun merkezinde yer alır ve şehrin coğrafi yapısını etkileyen önemli bir noktadır. Cemalettin Efendi Türbesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır ve bölgenin iklimi, türbenin etrafındaki bitki örtüsünü etkilemiştir. Türbenin bulunduğu alan, şehrin önemli ulaşım arterlerinden uzakta değildir ve ziyaretçiler, kolayca ulaşabilirler. Cemalettin Efendi Türbesi, Kastamonu'nun coğrafi yapısını ve şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

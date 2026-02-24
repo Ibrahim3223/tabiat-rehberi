@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","bitki ve hayvan 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Yalniz Ardic","caption":"Yalniz Ardic","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yalniz%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227364","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Yalniz Ardic milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Yalniz Ardic","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227364"
@@ -30,7 +30,7 @@ Yalniz Ardic milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Yalniz Ardic milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlar ile çevrilidir. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile süslü, ziyaretçilere geniş bir doğa alanı sunuyor. Bu park, doğanın güzelliğini sunarken, aynı zamanda ziyaretçilere doğa yürüyüşü, pikni ve diğer aktiviteler için de uygun bir alan sunuyor. Yalniz Ardic milli parkının coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunarken, aynı zamanda bölgenin kültürel ve tarihi zenginliğini de keşfetme imkanı sağlıyor.
+Yalniz Ardic milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlar ile çevrilidir. Bu park, doğanın güzelliğini sunarken, aynı zamanda ziyaretçilere doğa yürüyüşü, pikni ve diğer aktiviteler için de uygun bir alan sunuyor. Yalniz Ardic milli parkının coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunarken, aynı zamanda bölgenin kültürel ve tarihi zenginliğini de keşfetme imkanı sağlıyor.
 
 ## Flora ve Fauna
 

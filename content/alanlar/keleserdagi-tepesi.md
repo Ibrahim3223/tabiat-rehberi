@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Tarihi kalıntıları gezmek","Fotoğraf ç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Keleserdağı Tepesi","caption":"Keleserdağı Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keleserda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388052","tip":"genel"}]
-description: "Muş'un doğal güzelliklerinden biri olan Keleserdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Muş'un doğal güzelliklerinden biri olan Keleserdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alır."
 keywords: ["Keleserdağı Tepesi","Muş","Doğu Anadolu Bölgesi","Doğal güzellik","Yeşil alan","Tepeler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388052"
@@ -48,7 +48,6 @@ Keleserdağı Tepesi'ni ziyaret etmek, doğa severler için bir rüya harika bir
 
 ## İlginç Bilgiler
 
-- Keleserdağı Tepesi, 140 hektarlık bir yeşil alana sahiptir.
 - Tepenin etrafında yer alan tarihi kalıntılar ve eserler, geçmişin zenginliğini günümüze taşıyor.
 - Bu bölge, birçok hayvan türünün yaşam alanı olarak kabul ediliyor.
 - Keleserdağı Tepesi, hem doğal güzelliği hem de tarihi önemi ile önemli bir kültürel miras olarak kabul ediliyor.

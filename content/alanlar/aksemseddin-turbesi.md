@@ -51,7 +51,7 @@ Akşemseddin Türbesi'ni ziyaret etmek için, Bolu'nun Göynük ilçesine gitmek
 ## İlginç Bilgiler
 
 - Akşemseddin Türbesi, tarihi bir figür olan Akşemseddin'in mezarının bulunduğu yerdir.
-- Türbe, 140 hektarlık bir yeşil alan üzerine kuruludur.
+
 - Bölge, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Akşemseddin Türbesi, yıl boyunca ziyaret edilebilir.
 - Bölge, doğa severler için ideal bir destinasyondur.

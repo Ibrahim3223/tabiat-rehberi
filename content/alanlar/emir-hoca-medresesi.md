@@ -30,7 +30,7 @@ wikidata_id: "Q131391644"
 
 # Emir Hoca Medresesi
 
-Emir Hoca Medresesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Fatih ilçesinde bulunan bu önemli mekan, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Emir Hoca Medresesi, İstanbul'un tarihi geçmişi hakkında bilgiler sunan önemli bir kültürel merkez. Ziyaretçiler, bu medrese hakkında detaylı bilgiler edinebilir ve İstanbul'un tarihi dokusunu keşfedebilir.
+Emir Hoca Medresesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Emir Hoca Medresesi, İstanbul'un tarihi geçmişi hakkında bilgiler sunan önemli bir kültürel merkez. Ziyaretçiler, bu medrese hakkında detaylı bilgiler edinebilir ve İstanbul'un tarihi dokusunu keşfedebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Hoca Medresesi, yüzyıllar boyunca İstanbul'un kültürel ve eğitim haya
 
 ## Coğrafya
 
-Emir Hoca Medresesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu ilçenin coğrafi konumu, Marmara Bölgesi'nin merkezi bir noktasında bulunması nedeniyle, ziyaretçilere geniş bir coğrafi perspektif sunuyor. Medrese, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde tarihi yapılar, parklar ve diğer kültürel merkezler bulunuyor. Bu coğrafi konum, ziyaretçilerin İstanbul'un tarihi ve kültürel zenginliklerini keşfetmeleri için ideal bir başlangıç noktası sunuyor. Emir Hoca Medresesi'nin coğrafi konumu, ayrıca İstanbul'un iklimi hakkında da bilgiler sunuyor. İlçe, Marmara Bölgesi'nin ılıman ikliminin etkisi altında bulunmakta ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
+Emir Hoca Medresesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu ilçenin coğrafi konumu, Marmara Bölgesi'nin merkezi bir noktasında bulunması nedeniyle, ziyaretçilere geniş bir coğrafi perspektif sunuyor. Bu coğrafi konum, ziyaretçilerin İstanbul'un tarihi ve kültürel zenginliklerini keşfetmeleri için ideal bir başlangıç noktası sunuyor. Emir Hoca Medresesi'nin coğrafi konumu, ayrıca İstanbul'un iklimi hakkında da bilgiler sunuyor. İlçe, Marmara Bölgesi'nin ılıman ikliminin etkisi altında bulunmakta ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Emir Hoca Medresesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginli
 ## İlginç Bilgiler
 
 - Emir Hoca Medresesi, yüzyıllar boyunca önemli bir eğitim ve kültür merkezi olarak hizmet vermiştir
-- Medrese, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur
+
 - Emir Hoca Medresesi, İstanbul'un tarihi geçmişi hakkında detaylı bilgiler sunuyor
 - Medrese çevresindeki parklar ve yeşil alanlar, ziyaretçilere doğayı keşfetme fırsatı sunuyor
 - Emir Hoca Medresesi, İstanbul'un flora ve faunası hakkında detaylı bilgiler sunuyor

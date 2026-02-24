@@ -52,6 +52,6 @@ Alâeddin Tepesi, gezi ve turizm amaçlı ziyaretler için uygun. Tepenin coğra
 
 - Alâeddin Tepesi, Konya'nın Selçuklu ilçesinde yer alıyor.
 - Tepenin tarihi geçmişi, Selçuklu Devleti'nin kuruluşuna kadar uzanıyor.
-- Alâeddin Tepesi, yaklaşık 140 hektarlık bir alana yayılıyor.
+
 - Tepenin coğrafi konumu, şehrin merkezi bir noktasında yer alması nedeniyle önemli.
 - Alâeddin Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.

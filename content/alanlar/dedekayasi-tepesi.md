@@ -48,7 +48,5 @@ Dedekayası Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. Bu tep
 
 ## İlginç Bilgiler
 
-- Dedekayası Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Dedekayası Tepesi, tarihi geçmişi olan bir bölge
 - Bu tepe, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılmış

@@ -38,7 +38,7 @@ Büklükale'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, t
 
 ## Coğrafya
 
-Büklükale, Kırıkkale'nin Karakeçili ilçesinde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu tepe, İç Anadolu Bölgesi'nin merkezinde yer alıyor ve bölgenin jeolojik yapısını etkileyen önemli bir nokta. Büklükale, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Bu bölge, coğrafi açıdan önemli bir nokta olarak biliniyor ve doğa severler için ziyaret edilmesi gereken bir yer olarak kabul ediliyor. Ayrıca, bu tepe ve çevresinde yer alan diğer doğal güzellikler, bölgenin turizm potansiyelini artıran önemli faktörler olarak görülüyor.
+Büklükale, Kırıkkale'nin Karakeçili ilçesinde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu tepe, İç Anadolu Bölgesi'nin merkezinde yer alıyor ve bölgenin jeolojik yapısını etkileyen önemli bir nokta. Bu bölge, coğrafi açıdan önemli bir nokta olarak biliniyor ve doğa severler için ziyaret edilmesi gereken bir yer olarak kabul ediliyor. Ayrıca, bu tepe ve çevresinde yer alan diğer doğal güzellikler, bölgenin turizm potansiyelini artıran önemli faktörler olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Büklükale, ziyaret edilmesi gereken bir yer olarak kabul ediliyor. Bu tepe ve 
 
 ## İlginç Bilgiler
 
-- Büklükale, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, İç Anadolu Bölgesi'nin merkezinde yer alıyor.
 - Büklükale, tarihi boyunca önemli bir yerleşim merkezi olarak görev yapmış.
 - Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.

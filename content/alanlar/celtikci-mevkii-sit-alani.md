@@ -42,7 +42,5 @@ wikidata_id: "Q108226687"
 
 ## İlginç Bilgiler
 
-- Çeltikçi Mevkii Sit Alanı, 140 hektarlık bir alanı kapsamaktadır.
-
 - Bu alan, doğa severler için bir cennet olarak kabul edilebilir.
 - Çeltikçi Mevkii Sit Alanı, ziyaretçilere doğanın güzelliğini ve zenginliğini göstermektedir.

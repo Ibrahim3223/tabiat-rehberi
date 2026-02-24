@@ -36,7 +36,7 @@ Bekçi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tep
 
 ## Coğrafya
 
-Bekçi Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Kırklareli ilinin sınırları içerisinde bulunuyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Bekçi Tepesi, etrafındaki diğer tepelerle birlikte, bir dağ silsilesi oluşturuyor. Bu dağ silsilesi, Marmara Bölgesi'nin coğrafi yapısını şekillendiren önemli bir faktör. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bekçi Tepesi, ziyaretçilerini, güneşin batışını izleyerek, doğanın güzelliğini keşfetmeye davet ediyor. Bu tepe, Marmara Bölgesi'nin güzide noktalarından biri olarak, ziyaretçilerini bekliyor.
+Bekçi Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Bekçi Tepesi, etrafındaki diğer tepelerle birlikte, bir dağ silsilesi oluşturuyor. Bu dağ silsilesi, Marmara Bölgesi'nin coğrafi yapısını şekillendiren önemli bir faktör. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bekçi Tepesi, ziyaretçilerini, güneşin batışını izleyerek, doğanın güzelliğini keşfetmeye davet ediyor. Bu tepe, Marmara Bölgesi'nin güzide noktalarından biri olarak, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

@@ -49,7 +49,6 @@ Gelin Tepesi'ni ziyaret etmek, doğa severler için bir gerçek keşiftir. Bu b�
 
 ## İlginç Bilgiler
 
-- Gelin Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir
 - Tepenin eteklerinde, birçok bitki türü yetişir
 - Gelin Tepesi, ilkbahar mevsiminde güzel bir manzara oluşur
 - Bu bölgede, birçok hayvan türü yaşar

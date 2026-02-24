@@ -29,7 +29,7 @@ wikidata_id: "Q131390893"
 
 # Hacı Memiş Türbesi
 
-Hacı Memiş Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve hem tarihi hem de doğal güzelliklerle dolu bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Tarihi ve doğal güzelliklerinin birleşimi, bu alanı Konya'nın önemli turistik noktalarından biri haline getirir. Ziyaretçiler, hem tarihi yapıları inceleyebilir hem de geniş yeşil alanlarda doğanın güzelliklerini keşfedebilir.
+Hacı Memiş Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve hem tarihi hem de doğal güzelliklerle dolu bir alandır. Tarihi ve doğal güzelliklerinin birleşimi, bu alanı Konya'nın önemli turistik noktalarından biri haline getirir. Ziyaretçiler, hem tarihi yapıları inceleyebilir hem de geniş yeşil alanlarda doğanın güzelliklerini keşfedebilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Hacı Memiş Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri k
 ## İlginç Bilgiler
 
 - Hacı Memiş Türbesi, Konya'nın önemli turistik noktalarından biridir
-- Bölge, yaklaşık 140 hektarlık bir yeşil alanı kapsar
+
 - Türbenin tarihi hakkında ayrıntılı bilgiler bulunmasa da, bölgenin genel tarihi geçmişi önemlidir
 - İç Anadolu Bölgesi'nin karakteristik flora ve faunasını taşır
 - Ziyaretçiler, tarihi yapıları inceleyere ve doğal güzellikleri keşfederek keyifli bir gün geçirebilirler

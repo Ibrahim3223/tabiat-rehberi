@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Azizpaşa-Fatih","caption":"Azizpaşa-Fatih","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azizpa%C5%9Fa-Fatih","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227885","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık milli park"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","ekosistem","çevre","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227885"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227885"
 
 # Azizpaşa-Fatih
 
-Azizpaşa-Fatih milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Park, ziyaretçilerine geniş çayırları, ormanları ve su kaynakları ile bir doğa cenneti sunuyor. Burada, doğanın güzelliğini ve yaban hayatının çeşitliliğini keşfetme mümkün. Azizpaşa-Fatih, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak tanımlanabilir. Parkın sunduğu bu eşsiz ortam, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+ Park, ziyaretçilerine geniş çayırları, ormanları ve su kaynakları ile bir doğa cenneti sunuyor. Burada, doğanın güzelliğini ve yaban hayatının çeşitliliğini keşfetme mümkün. Azizpaşa-Fatih, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak tanımlanabilir. Parkın sunduğu bu eşsiz ortam, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Tarihçe
 

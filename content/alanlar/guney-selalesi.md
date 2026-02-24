@@ -29,7 +29,7 @@ wikidata_id: "Q27876674"
 
 # Güney Şelalesi
 
-Güney Şelalesi, Denizli'nin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Güney Şelalesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktasıdır. Şelalenin güzelliği, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Güney Şelalesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktasıdır. Şelalenin güzelliği, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Güney Şelalesi, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu bölge
 Güney Şelalesi'ni ziyaret etmek, doğa severler için ideal bir aktivitedir. Ziyaretçiler, şelaleye ulaşmak için çeşitli ulaşım seçeneklerini kullanabilirler. Güney Şelalesi'ne en iyi ziyaret mevsimi, ilkbahar ve yaz aylarıdır. Bu mevsimlerde, doğanın güzelliği ve yeşilliği en üst düzeydedir. Ziyaretçilerin, şelaleyi ziyaret ederken, doğaya saygılı olma ve çevreyi korumak için necessary önlemleri almaları önemlidir. Güney Şelalesi, ziyaretçilere unutulmaz bir deneyim sunmak için bekliyor.
 
 ## İlginç Bilgiler
-
-- Güney Şelalesi, 140 hektarlık bir alanı kapsar.
 
 - Şelale, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere doğanın güzelliğini gösterir.
 - Güney Şelalesi, ziyaretçilere doğanın güzelliğini ve canlıların çeşitliliğini gösterir.

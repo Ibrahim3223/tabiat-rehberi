@@ -49,7 +49,7 @@ Rize'nin muhteşem doğası içerisinde yer alan Çarkıruba Şelalesi, ziyaret�
 ## İlginç Bilgiler
 
 - Çarkıruba Şelalesi, Rize'nin en önemli turizm noktalarından biri
-- Bölge, 140 hektarlık bir yeşil alan üzerine kurulu
+
 - Şelalenin yüksekliği, yaklaşık 10 metre
 - Bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor
 - Çarkıruba Şelalesi, ziyaretçilerine unutulmaz bir deneyimi sunuyor

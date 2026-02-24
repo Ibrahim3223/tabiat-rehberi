@@ -22,7 +22,7 @@ wikidata_id: "Q108226186"
 
 # Gençağa Kalesi Sit Alanı
 
-Gençağa Kalesi Sit Alanı, İç Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir destinasyon. 200 futbol sahası büyüklüğünde olan bu sit alanı, aynı zamanda doğa severler için de önemli bir çekim merkezi.
+Gençağa Kalesi Sit Alanı, İç Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir destinasyon.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Gençağa Kalesi Sit Alanı, ziyaretçilere zengin bir deneyim sunuyor. Bu alana
 
 ## İlginç Bilgiler
 
-- Gençağa Kalesi Sit Alanı, yaklaşık 140 hektarlık bir büyüklüğe sahip
 - Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor
 - Sit alanı, tarihi kaleler ve doğal güzellikleri ile ziyaretçilerini çekiyor
 - Bölgede, çeşitli bitki ve hayvan türleri bulunur

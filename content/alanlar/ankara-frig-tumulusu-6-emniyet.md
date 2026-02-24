@@ -21,7 +21,7 @@ aktiviteler: ["Tarihî yapıları keşfetmek","Doğal güzellikleri görmek","Bi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Ankara Frig Tümülüsü 6, Emniyet","caption":"Ankara Frig Tümülüsü 6, Emniyet","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%206%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728286","tip":"genel"}]
-description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık bir alan üzerinde kurulmuş bu önemli tümülüs, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunuyor."
+description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Ankara","Frig","Tümülüs","Emniyet","Tarih","Doğa","Yenimahalle","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728286"
@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 6, Emniyet'in tarihi geçmişi, Frig uygarlığına kad
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. 140 hektarlık geniş bir alana yayılan bu tümülüs, bölgenin doğal güzelliklerini sunmaktadır. Tümülüsün çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, tümülüsün geniş alanında dolaşarak, çevreyi keşfedebilir ve doğanın güzelliklerini görebilirler. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tümülüsün çevresi ve doğal güzellikleri hakkında bilgi edinmek için ziyaretçilere uygun bir ortam sağlar.
+Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Tümülüsün çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, tümülüsün geniş alanında dolaşarak, çevreyi keşfedebilir ve doğanın güzelliklerini görebilirler. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, tümülüsün çevresi ve doğal güzellikleri hakkında bilgi edinmek için ziyaretçilere uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Ankara Frig Tümülüsü 6, Emniyet'i ziyaret etmek, tarih ve doğa severler iç
 
 - Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin önemli bir turizm merkezi
 - Tümülüs, Frig uygarlığının kalıntılarından biri
-- 140 hektarlık geniş bir alana yayılmış
+
 - Çeşitli bitki türleri ve hayvanlar yaşamaktadır
 - İlkbahar ve sonbahar ayları ziyaret için en uygun zaman

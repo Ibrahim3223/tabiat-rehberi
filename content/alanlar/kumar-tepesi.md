@@ -37,7 +37,7 @@ Kumar Tepesi'nin tarihi geçmişi, Burdur'un antik dönemlerine kadar uzanıyor.
 
 ## Coğrafya
 
-Kumar Tepesi, Burdur'un coğrafi güzelliklerinin odak noktası. Tepenin konumu, ziyaretçilerine Akdeniz Bölgesi'nin eşsiz manzaralarını sunuyor. Kumar Tepesi, yaklaşık 140 hektarlık bir alana yayılmış ve bu alanda çeşitli bitki türleri yer alıyor. Tepenin eteklerinde, Burdur'un ovası uzanıyor ve bu ovada tarımsal faaliyetler yürütülüyor. Kumar Tepesi, Burdur'un ikliminin de bir göstergesi. Tepenin yüksekliği, buranın mikro iklimini etkiliyor ve bu da çeşitli bitki türlerinin yetişmesine olanak tanıyor. Kumar Tepesi, coğrafi açıdan zengin bir bölge ve buranın güzelliği, ziyaretçilerini cezbediyor.
+Kumar Tepesi, Burdur'un coğrafi güzelliklerinin odak noktası. Tepenin konumu, ziyaretçilerine Akdeniz Bölgesi'nin eşsiz manzaralarını sunuyor. Tepenin eteklerinde, Burdur'un ovası uzanıyor ve bu ovada tarımsal faaliyetler yürütülüyor. Kumar Tepesi, Burdur'un ikliminin de bir göstergesi. Tepenin yüksekliği, buranın mikro iklimini etkiliyor ve bu da çeşitli bitki türlerinin yetişmesine olanak tanıyor. Kumar Tepesi, coğrafi açıdan zengin bir bölge ve buranın güzelliği, ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

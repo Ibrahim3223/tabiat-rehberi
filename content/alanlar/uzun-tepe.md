@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Sun%2C_Moon_and_Telescopes_above_the_Desert_%28ESO%29.jpg","alt":"Uzun Tepe manzarası","credit":"ESO/S. Brunier","license":"cc-by-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Potw1218a_Sun%2C_Moon_and_Telescopes_above_the_Desert.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Potw1218a_Sun%2C_Moon_and_Telescopes_above_the_Desert.jpg/1280px-Potw1218a_Sun%2C_Moon_and_Telescopes_above_the_Desert.jpg","alt":"Uzun Tepe - Potw1218a Sun, Moon and Telescopes above the Desert","credit":"ESO/S. Brunier\nDerivative work including grading, noise reduction, downsampling, sharpening and minor adjustments: Julian Herzog","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Turkey_PVOUT_Photovoltaic-power-potential-map_lang-TR_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Turkey_PVOUT_Photovoltaic-power-potential-map_lang-TR_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png/1280px-Turkey_PVOUT_Photovoltaic-power-potential-map_lang-TR_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png","alt":"Uzun Tepe - Turkey PVOUT Photovoltaic-power-potential-map lang-TR GlobalSolarAtlas World-Bank-Esmap-Solargis","credit":"Solargis","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzun%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387857","tip":"genel"}]
-description: "İzmir'in doğal güzelliklerinden biri olan Uzun Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Uzun Tepe","İzmir","Ege Bölgesi","doğal güzellik","tepe","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387857"
@@ -49,7 +49,6 @@ Uzun Tepe'yi ziyaret etmek, doğayı keşfetme ve eğlenmek isteyenler için ide
 
 ## İlginç Bilgiler
 
-- Uzun Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir
 - Uzun Tepe, ziyaretçilere yılın dört mevsiminde farklı güzellikleri sunmaktadır
 - Bu tepe, ayrıca, birçok kuş türünün yaşadığı bir habitat olarak dikkat çekmektedir

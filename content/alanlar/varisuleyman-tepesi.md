@@ -48,8 +48,6 @@ Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir ç
 
 ## İlginç Bilgiler
 
-- Varisuleyman Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor.
-
 - Varisuleyman Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Bu tepenin yüksekliği ve konumu, bölgenin coğrafyasını şekillendiriyor.
 - Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir çekim merkezi olarak dikkat çekiyor.

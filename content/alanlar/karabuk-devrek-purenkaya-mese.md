@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","kuş gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Karabük-Devrek-Purenkaya Mese","caption":"Karabük-Devrek-Purenkaya Mese","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karab%C3%BCk-Devrek-Purenkaya%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227708","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Karabük","Devrek","Purenkaya Mese","milli park","Karadeniz Bölgesi","yeşil alan","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227708"

@@ -28,7 +28,7 @@ wikidata_id: "Q31386954"
 
 # Kocataş Tepesi
 
-Kocataş Tepesi, Kırklareli ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kocataş Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir nokta. Burada, hem doğa yürüyüşü yapabilir hem de çevrenin güzelliğini izleyebilirsiniz. Kocataş Tepesi, özellikle yerel hal ve doğa severler arasında popüler bir destinasyon.
+Kocataş Tepesi, Kırklareli ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Kocataş Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir nokta. Burada, hem doğa yürüyüşü yapabilir hem de çevrenin güzelliğini izleyebilirsiniz. Kocataş Tepesi, özellikle yerel hal ve doğa severler arasında popüler bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocataş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kocataş Tepesi, Marmara Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Bu tepe, Kırklareli ilinin sınırları içerisinde yer alıyor ve il merkezine yakınlığı ile dikkat çekiyor. Tepenin coğrafi konumu, visitörlerin kolayca ulaşabileceği bir noktada. Kocataş Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepenin yüksekliği, manzarayı izlemek için ideal bir nokta sunuyor. Çevredeki doğal güzellikler, Kocataş Tepesi'ni ziyaret etmek için daha da çekici kılıyor. özellikle ilkbahar ve sonbahar mevsimlerinde, tepe ve çevresi, ziyaretçileri için bir doğa cenneti haline geliyor.
+Kocataş Tepesi, Marmara Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Bu tepe, Kırklareli ilinin sınırları içerisinde yer alıyor ve il merkezine yakınlığı ile dikkat çekiyor. Tepenin coğrafi konumu, visitörlerin kolayca ulaşabileceği bir noktada. Bu alan, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepenin yüksekliği, manzarayı izlemek için ideal bir nokta sunuyor. Çevredeki doğal güzellikler, Kocataş Tepesi'ni ziyaret etmek için daha da çekici kılıyor. özellikle ilkbahar ve sonbahar mevsimlerinde, tepe ve çevresi, ziyaretçileri için bir doğa cenneti haline geliyor.
 
 ## Flora ve Fauna
 

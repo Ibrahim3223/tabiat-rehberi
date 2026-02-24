@@ -51,7 +51,7 @@ Tahtakale Hamamı'na ziyaretçiler, yılın her dönemi gelebiliyor. Ancak, en u
 ## İlginç Bilgiler
 
 - Tahtakale Hamamı, Edirne'nin en önemli tarihi mekanlarından biri.
-- Hamam, 140 hektarlık bir alanı kaplıyor.
+
 - Tahtakale Hamamı, Marmara Bölgesi'nin önemli turizm noktalarından biri.
 - Bu mekan, tarihi ve kültürel bir deneyim sunuyor.
 - Tahtakale Hamamı'nın etrafı, çeşitli bitki türleriyle dolu olan geniş bir yeşil alanla çevrili.

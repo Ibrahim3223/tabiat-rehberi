@@ -49,7 +49,7 @@ Karasivri Tepe'yi ziyaret etmek, hem tarihi hem de coğrafi açıdan önemli bir
 ## İlginç Bilgiler
 
 - Karasivri Tepe, tarihi ve coğrafi açıdan önemli bir nokta
-- 140 hektarlık bir alanı kaplıyor
+
 - yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - doğa severler için önemli bir destinasyon

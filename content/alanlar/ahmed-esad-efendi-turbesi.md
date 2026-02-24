@@ -30,7 +30,7 @@ wikidata_id: "Q111461860"
 
 # Ahmed Esad Efendi Türbesi
 
-Ahmed Esad Efendi Türbesi, İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliklerini sunan bir tarihi ve doğal mekândır. Konum olarak İstanbul'un merkezinde yer alan bu türbe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar. Ahmed Esad Efendi Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu muhteşem mekan, ziyaretçilerine hem tarihi bilgiler hem de doğal güzellikleri sunar. Ahmed Esad Efendi Türbesi, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biridir.
+Ahmed Esad Efendi Türbesi, İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliklerini sunan bir tarihi ve doğal mekândır. Ahmed Esad Efendi Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu muhteşem mekan, ziyaretçilerine hem tarihi bilgiler hem de doğal güzellikleri sunar. Ahmed Esad Efendi Türbesi, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biridir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ahmed Esad Efendi Türbesi, tarihi geçmişiyle ziyaretçilerini cezbeden bir ye
 
 ## Coğrafya
 
-Ahmed Esad Efendi Türbesi, coğrafi konumu itibariyle ziyaretçilerini cezbeden bir yerdir. Bu mekan, Marmara Bölgesi'nin güzelliklerini sunar. Ahmed Esad Efendi Türbesi, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu türbe, İstanbul'un merkezinde yer alır ve ziyaretçilerine kolay ulaşım sağlar. Ahmed Esad Efendi Türbesi, coğrafi konumu itibariyle önemli bir yerdir. Bu mekan, doğal güzellikleriyle ziyaretçilerini büyüler. Ahmed Esad Efendi Türbesi, coğrafi konumu itibariyle ziyaretçilerine çeşitli olanaklar sunar. Bu türbe, İstanbul'un en önemli coğrafi mekanlarından biridir. Ahmed Esad Efendi Türbesi, coğrafi güzellikleriyle ziyaretçilerini karşılar.
+Ahmed Esad Efendi Türbesi, coğrafi konumu itibariyle ziyaretçilerini cezbeden bir yerdir. Bu mekan, Marmara Bölgesi'nin güzelliklerini sunar. Bu türbe, İstanbul'un merkezinde yer alır ve ziyaretçilerine kolay ulaşım sağlar. Ahmed Esad Efendi Türbesi, coğrafi konumu itibariyle önemli bir yerdir. Bu mekan, doğal güzellikleriyle ziyaretçilerini büyüler. Ahmed Esad Efendi Türbesi, coğrafi konumu itibariyle ziyaretçilerine çeşitli olanaklar sunar. Bu türbe, İstanbul'un en önemli coğrafi mekanlarından biridir. Ahmed Esad Efendi Türbesi, coğrafi güzellikleriyle ziyaretçilerini karşılar.
 
 ## Flora ve Fauna
 

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotografcılık","Bilimsel 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Karakoç Deresi Sulak Alanı","caption":"Karakoç Deresi Sulak Alanı","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karako%C3%A7%20Deresi%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228873","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Karakoç Deresi","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228873"
@@ -41,8 +41,6 @@ Karakoç Deresi Sulak Alanı, zengin bir flora ve fauna ile dikkat çekmektedir.
 Karakoç Deresi Sulak Alanı, doğa severler ve bilim insanları için önemli bir destinasyon olarak hizmet vermektedir. Ziyaretçiler, sulak alanın doğal güzellikleri ve zengin flora ve faunasını gözlemleyebilirler. Sulak alan, yıl boyunca ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve sonbahar aylarıdır. Ziyaretçiler, sulak alanın etrafında yürüyüş yapabilir, kuşları ve diğer canlıları gözlemleyebilir ve bölgenin doğal güzelliklerini keşfedebilirler. Karakoç Deresi Sulak Alanı, doğa turizmi için önemli bir nokta olarak hizmet vermektedir.
 
 ## İlginç Bilgiler
-
-- Karakoç Deresi Sulak Alanı, 140 hektarlık bir alanı kaplamaktadır.
 
 - Karakoç Deresi Sulak Alanı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Sulak alan, yıl boyunca ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve sonbahar aylarıdır.

@@ -42,8 +42,6 @@ Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, ziyaretçile
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanda kurulmuş.
-
 - Milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
 - Milli park, tarihi geçmişiyle dikkat çekiyor.
 - Milli park, ziyaretçilerine önemli bir kültür ve tarih deneyimi sunuyor.

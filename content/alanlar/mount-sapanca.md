@@ -48,7 +48,6 @@ Mount Sapanca'yı ziyaret etmek isteyenler, Sakarya iline ulaştıktan sonra bur
 
 ## İlginç Bilgiler
 
-- Mount Sapanca, 140 hektarlık bir alanı kaplıyor.
 - Bu bölge, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri.
 - Mount Sapanca, ziyaretçilerine doğal güzellikleri ve tarihi zenginlikleri sunuyor.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış.

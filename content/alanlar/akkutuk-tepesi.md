@@ -28,7 +28,7 @@ wikidata_id: "Q32126747"
 
 # Akkütük Tepesi
 
-Akkütük Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Erzurum'un merkezinde yer alıyor. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilere şehir manzarasını izleme imkanı sunuyor. Akkütük Tepesi, hem yerel halk hem de turistler için popüler bir gezi noktası olarak dikkat çekiyor. Bu tepenin etrafındaki peyzaj, zengin bir flora ve fauna çeşitliliğine sahip ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı veriyor.
+Akkütük Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Erzurum'un merkezinde yer alıyor. Akkütük Tepesi, hem yerel halk hem de turistler için popüler bir gezi noktası olarak dikkat çekiyor. Bu tepenin etrafındaki peyzaj, zengin bir flora ve fauna çeşitliliğine sahip ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı veriyor.
 
 ## Tarihçe
 

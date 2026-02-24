@@ -14,7 +14,7 @@ aktiviteler: ["Doğal Güzelliklerini Keşfetmek","Flora ve Fauna Özelliklerini
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg","alt":"HATİPKÖY","caption":"HATİPKÖY","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546845911)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HAT%C4%B0PK%C3%96Y","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228634","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık Hatıköy milli parkı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Hatıköy","Milli Park","İç Anadolu Bölgesi","Doğal Güzellikler","Yeşil Alan","Futbol Saha","Gezi","Tarihçe","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228634"

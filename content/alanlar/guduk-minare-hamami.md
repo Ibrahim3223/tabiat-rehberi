@@ -49,8 +49,6 @@ Güdük Minare Hamamı, ziyaretçilere birçok olanak sunar. Bu bölgede, denizi
 
 ## İlginç Bilgiler
 
-- Güdük Minare Hamamı, 140 hektarlık bir alana yayılır
-- Bu bölgede, yaklaşık 200 futbol sahası büyüklüğünde bir alan bulunur
 - Güdük Minare Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini sunar
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur
 - Güdük Minare Hamamı, ziyaretçilere birçok olanak sunar

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Çamgölü","caption":"Çamgölü","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amg%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227798","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan Çamgölü, ziyaretçilerini doğal güzelliği ile bekliyor."
+"
 keywords: ["Çamgölü","İç Anadolu Bölgesi","doğa","göl","orman","flora","fauna","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227798"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227798"
 
 # Çamgölü
 
-İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Çamgölü, 140 hektarlık bir alanı kaplıyor. Çamgölü, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor. Göz alıcı manzarasıyla ve zengin flora ve fauna çeşitliliğiyle, ziyaretçilerini büyüleyen bir yer. Çamgölü, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Burada, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Çamgölü, ayrıca, bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
+ Çamgölü, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor. Göz alıcı manzarasıyla ve zengin flora ve fauna çeşitliliğiyle, ziyaretçilerini büyüleyen bir yer. Çamgölü, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Burada, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Çamgölü, ayrıca, bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ wikidata_id: "Q108227798"
 Çamgölü, ziyaretçilerine, yılın her dönemi, çeşitli aktiviteler sunuyor. Burada, doğa yürüyüşleri, fotoğraf çekimi ve piknik gibi etkinlikler yapabiliyorsunuz. Çamgölü, ayrıca, bölgenin kültürel zenginliği hakkında da önemli bilgiler sunuyor. Bu bölge, ziyaretçilerine, tarihsel önemi ve doğal güzelliği hakkında önemli ipuçları sunuyor. Çamgölü, genellikle, ilkbahar ve yaz aylarında ziyaret ediliyor. Ancak, burası, her mevsim, farklı bir güzelliğe sahip.
 
 ## İlginç Bilgiler
-
-- Çamgölü, 140 hektarlık bir alanı kaplıyor.
 
 - Çamgölü, İç Anadolu Bölgesi'nde yer alıyor.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.

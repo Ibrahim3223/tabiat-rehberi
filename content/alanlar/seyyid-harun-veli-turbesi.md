@@ -37,7 +37,7 @@ Seyyid Harun Veli Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve tarihs
 
 ## Coğrafya
 
-Seyyid Harun Veli Türbesi, Konya'nın Seydişehir ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu bölge, geniş otlak alanları ve doğal güzellikleriyle ünlü. Türbenin bulunduğu alan, 140 hektarlık bir araziyi kapsıyor ve bu alanda çeşitli bitki türleri ve zengin fauna gefunden. Coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu türbe, aynı zamanda bir ekosistem olarak da değerlendiriliyor. Bölgenin iklimi, karasal iklim özellikleri taşıyor ve bu, flora ve fauna üzerinde önemli bir etkiye sahip. Ziyaretçiler, bu türbeyi ziyaret ederek hem coğrafi güzellikleri keşfederek hem de bölgenin doğal zenginliklerini deneyimleyebilirler.
+Seyyid Harun Veli Türbesi, Konya'nın Seydişehir ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu bölge, geniş otlak alanları ve doğal güzellikleriyle ünlü. Coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu türbe, aynı zamanda bir ekosistem olarak da değerlendiriliyor. Bölgenin iklimi, karasal iklim özellikleri taşıyor ve bu, flora ve fauna üzerinde önemli bir etkiye sahip. Ziyaretçiler, bu türbeyi ziyaret ederek hem coğrafi güzellikleri keşfederek hem de bölgenin doğal zenginliklerini deneyimleyebilirler.
 
 ## Flora ve Fauna
 

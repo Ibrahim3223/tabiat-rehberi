@@ -53,4 +53,4 @@ wikidata_id: "Q131738478"
 - Bölgede, yüzyıllar önce yaşamış medeniyetlerin izleri bulunabilir.
 - Şahmaran Hamamı, aynı zamanda bir efsaneye konu olmuştur.
 - Bölge, Mersin ilinin Tarsus ilçesinde yer alır.
-- Şahmaran Hamamı, 140 hektarlık bir alanı kaplar.
+

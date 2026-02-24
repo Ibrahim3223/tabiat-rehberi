@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 16, Emek'in tarihi geçmişi, Frigler dönemine kadar u
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 16, Emek, İç Anadolu Bölgesi'nin coğrafi özelliğini yansıtan bir bölgedir. Bu bölge, Çankaya ilçesinde yer almaktadır ve İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri ile örtüşmektedir. Bu bölgenin coğrafyası, genellikle bozkırlar ve ovalar ile karakterizedir. Ankara Frig Tümülüsü 16, Emek'in coğrafyası, ziyaretçilere geniş ve açık bir alanı sunar. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitkiler ve ağaçlar ile kaplıdır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzerlik gösterir ve genellikle karasal iklim özellikleri taşır. Bu bölgede, kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur.
+Ankara Frig Tümülüsü 16, Emek, İç Anadolu Bölgesi'nin coğrafi özelliğini yansıtan bir bölgedir. Bu bölge, Çankaya ilçesinde yer almaktadır ve İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri ile örtüşmektedir. Bu bölgenin coğrafyası, genellikle bozkırlar ve ovalar ile karakterizedir. Ankara Frig Tümülüsü 16, Emek'in coğrafyası, ziyaretçilere geniş ve açık bir alanı sunar. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzerlik gösterir ve genellikle karasal iklim özellikleri taşır. Bu bölgede, kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ankara Frig Tümülüsü 16, Emek, ziyaretçilere çeşitli gezi olanakları sun
 ## İlginç Bilgiler
 
 - Ankara Frig Tümülüsü 16, Emek, İç Anadolu Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Ankara Frig Tümülüsü 16, Emek, yıl boyunca ziyaret edilebilir.
 - Bu bölgenin tarihi, Frigler dönemine kadar uzanır.
 - Bu bölge, çeşitli bitkiler ve hayvanlar ile zengin bir flora ve fauna yapısına sahiptir.

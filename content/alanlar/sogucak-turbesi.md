@@ -50,7 +50,7 @@ Soğucak Türbesi, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziyaret zaman�
 ## İlginç Bilgiler
 
 - Soğucak Türbesi, Kuşadası'nın en çok ziyaret edilen yerlerinden biridir
-- Bu bölge, 140 hektarlık bir yeşil alanı kaplar
+
 - Soğucak Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişi sahiptir
 - Bu türbe, birçok tarihi olaya tanıklık etmiş ve bölgenin kültürel mirasının önemli bir parçasıdır
 - Soğucak Türbesi, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüzde de önemli bir turizm merkezi olarak hizmet vermeye devam etmektedir

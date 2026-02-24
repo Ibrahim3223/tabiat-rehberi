@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı'nın tarihi geçmiş
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölge, kızılçam ormanları ile kaplıdır ve bölgenin iklimi, ılıman ve nemli karakterdedir. Milli park, çevresindeki dağlar ve vadiler ile birlikte, çeşitli coğrafi oluşumları içerir. Bu coğrafi çeşitlilik, bölgenin biyolojik zenginliğini artırır ve farklı türlerin yaşamına olanak sağlar. Milli parkın coğrafi yapısı, ziyaretçiler için çeşitli aktivite olanakları sunar ve bu alanda yapılan çalışmalar, bölgenin doğal güzelliğinin korunmasına odaklanmıştır. 140 hektarlık bu alanda, çeşitli yürüyüş parkurları ve noktaları bulunmaktadır. Bu milli park, Marmara Bölgesi'nin doğal güzelliğini koruma ve gelecek nesiller için bo tn etmek amacıyla önemli bir rol oynamaktadır.
+Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölge, kızılçam ormanları ile kaplıdır ve bölgenin iklimi, ılıman ve nemli karakterdedir. Milli park, çevresindeki dağlar ve vadiler ile birlikte, çeşitli coğrafi oluşumları içerir. Bu coğrafi çeşitlilik, bölgenin biyolojik zenginliğini artırır ve farklı türlerin yaşamına olanak sağlar. Milli parkın coğrafi yapısı, ziyaretçiler için çeşitli aktivite olanakları sunar ve bu alanda yapılan çalışmalar, bölgenin doğal güzelliğinin korunmasına odaklanmıştır. Bu milli park, Marmara Bölgesi'nin doğal güzelliğini koruma ve gelecek nesiller için bo tn etmek amacıyla önemli bir rol oynamaktadır.
 
 ## Flora ve Fauna
 

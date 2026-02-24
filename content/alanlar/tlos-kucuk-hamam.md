@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Arched%20ruins%20of%20the%20ancient%20city%20of%20Tlos.jpg","alt":"Tlos Küçük Hamam manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tlos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739135","tip":"genel"}]
-description: "Seydikemer'in gizli cenneti Tlos Küçük Hamam, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
+"
 keywords: ["Tlos Küçük Hamam","Seydikemer","Muğla","Ege Bölgesi","doğaseverler","yeşil alan","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739135"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739135"
 
 # Tlos Küçük Hamam
 
-Tlos Küçük Hamam, Muğla'nın Seydikemer ilçesinde yer alan 140 hektarlık yeşil bir cennet. Tlos Küçük Hamam, ziyaretçilerini Ege Bölgesi'nin güzelliği ile baş başa bırakarak, doğayla iç içe bir deneyime davet ediyor. Burada, doğanın seslerini dinleyerek, stresinizden arınabilir ve ruhunuzu dinlendirebilirsiniz. Tlos Küçük Hamam, aynı zamanda bir plaj olarak da hizmet vermekte ve denize girerek serinleyebilmenize olanak tanıyor.
+ Tlos Küçük Hamam, ziyaretçilerini Ege Bölgesi'nin güzelliği ile baş başa bırakarak, doğayla iç içe bir deneyime davet ediyor. Burada, doğanın seslerini dinleyerek, stresinizden arınabilir ve ruhunuzu dinlendirebilirsiniz. Tlos Küçük Hamam, aynı zamanda bir plaj olarak da hizmet vermekte ve denize girerek serinleyebilmenize olanak tanıyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Tlos Küçük Hamam, Muğla'nın Seydikemer ilçesinde yer alıyor ve buraya ula
 
 ## İlginç Bilgiler
 
-- Tlos Küçük Hamam, 140 hektarlık yeşil bir alan
 - Tlos Küçük Hamam, Ege Bölgesi'nin güzelliğini sunuyor
 - Tlos Küçük Hamam, bir plaj olarak hizmet vermekte
 - Tlos Küçük Hamam, zengin bir flora ve fauna çeşitliliğine sahip

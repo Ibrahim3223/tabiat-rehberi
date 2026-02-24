@@ -30,7 +30,7 @@ Bentler Sahil Cami'nin tarihi geçmişi, İstanbul'un zengin kültürel mirasın
 
 ## Coğrafya
 
-Bentler Sahil Cami, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Cami, denize yakın bir konumda bulunuyor ve etrafı yeşilliklerle çevrili. Bölgenin coğrafi yapısı, ziyaretçilere geniş yeşil alanlar, yürüyüş yolları ve deniz manzaraları sunuyor. Bentler Sahil Cami'nin bulunduğu alan, 140 hektarlık bir yeşil alana sahip ve bu da ziyaretçilere geniş bir açık alan sağlayarak, doğayla iç içe bir deneyim sunuyor. Caminin çevresinde, çeşitli bitki türleri ve ağaçlar encontruluyor ve bu da bölgenin ekolojik zenginliğini gösteriyor. Bentler Sahil Cami, coğrafi konumu itibariyle, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri bir araya getiren bir gezi deneyimi sunuyor.
+Bentler Sahil Cami, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Cami, denize yakın bir konumda bulunuyor ve etrafı yeşilliklerle çevrili. Bölgenin coğrafi yapısı, ziyaretçilere geniş yeşil alanlar, yürüyüş yolları ve deniz manzaraları sunuyor. Caminin çevresinde, çeşitli bitki türleri ve ağaçlar encontruluyor ve bu da bölgenin ekolojik zenginliğini gösteriyor. Bentler Sahil Cami, coğrafi konumu itibariyle, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri bir araya getiren bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

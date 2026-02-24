@@ -49,7 +49,6 @@ Atburnu Tepesi, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak 
 ## İlginç Bilgiler
 
 - Atburnu Tepesi, Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çeker.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapar.
 - Atburnu Tepesi, doğayla iç içe vakit geçirmek için ideal bir destinasyon olarak öne çıkar.

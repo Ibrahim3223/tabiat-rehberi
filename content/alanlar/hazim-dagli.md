@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/WhatsApp_G%C3%B6rsel_2024-06-20_saat_11.10.08_16eb6145.jpg","alt":"Hazım Dagli manzarası","credit":"JeanForSted","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haz%C4%B1m%20Dagli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228138","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Hazım Dagli, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Hazım Dagli","İç Anadolu Bölgesi","doğal alan","milli park","flora","fauna","coğrafya","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228138"
@@ -31,7 +31,7 @@ Hazım Dagli'nin tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kültürel m
 
 ## Coğrafya
 
-Hazım Dagli, İç Anadolu Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini yansıtan bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve coğrafi olarak oldukça çeşitli bir yapıya sahiptir. İç Anadolu Bölgesi'nin coğrafi özellikleri, Hazım Dagli'nin doğal güzelliklerini şekillendirmiştir. Bu milli park, ziyaretçilerine bölgenin coğrafi zenginliklerini keşfetme fırsatı sunar. Coğrafi olarak çeşitli bir yapıya sahip olan Hazım Dagli, ziyaretçilerine farklı coğrafi oluşumları keşfetme fırsatı sunar. Bu region, coğrafi olarak oldukça zengin ve çeşitli bir yapıya sahiptir.
+Hazım Dagli, İç Anadolu Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini yansıtan bir alandır. İç Anadolu Bölgesi'nin coğrafi özellikleri, Hazım Dagli'nin doğal güzelliklerini şekillendirmiştir. Bu milli park, ziyaretçilerine bölgenin coğrafi zenginliklerini keşfetme fırsatı sunar. Coğrafi olarak çeşitli bir yapıya sahip olan Hazım Dagli, ziyaretçilerine farklı coğrafi oluşumları keşfetme fırsatı sunar. Bu region, coğrafi olarak oldukça zengin ve çeşitli bir yapıya sahiptir.
 
 ## Flora ve Fauna
 

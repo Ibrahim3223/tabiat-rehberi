@@ -21,7 +21,7 @@ aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotoğraf �
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/1%2C000_shades_of_the_sea.jpg/960px-1%2C000_shades_of_the_sea.jpg","alt":"Turgutlar Hamamı","caption":"Turgutlar Hamamı","credit":"1,000 shades of the sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turgutlar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738695","tip":"genel"}]
-description: "Sinop'un gizli cenneti Turgutlar Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Sinop","Turgutlar Hamamı","Karadeniz Bölgesi","yeşil alan","plaj","deniz","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738695"
@@ -37,7 +37,7 @@ Turgutlar Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Turgutlar Hamamı, Karadeniz Bölgesi'nin en güzel noktalarından biridir. Bu plaj, Sinop ilinin merkezine yakın bir konumda yer alır. Turgutlar Hamamı, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Bu geniş alan, ziyaretçilerine geniş ve ferah bir ortam sunar. Turgutlar Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli olanaklar sağlar. Burada, deniz ve doğanın güzelliği bir araya gelir ve ziyaretçilere unutulmaz anlar yaşatır. Turgutlar Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, ziyaretçilerine huzurlu ve sakin bir ortam sunar. Turgutlar Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sağlar.
+Turgutlar Hamamı, Karadeniz Bölgesi'nin en güzel noktalarından biridir. Bu plaj, Sinop ilinin merkezine yakın bir konumda yer alır. Bu geniş alan, ziyaretçilerine geniş ve ferah bir ortam sunar. Turgutlar Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli olanaklar sağlar. Burada, deniz ve doğanın güzelliği bir araya gelir ve ziyaretçilere unutulmaz anlar yaşatır. Turgutlar Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, ziyaretçilerine huzurlu ve sakin bir ortam sunar. Turgutlar Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sağlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Turgutlar Hamamı, ziyaretçilerine çeşitli olanaklar sunar. Bu plaj, Sinop il
 
 ## İlginç Bilgiler
 
-- Turgutlar Hamamı, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
 - Bu plaj, Sinop ilinin merkezine yakın bir konumda yer alır.
 - Turgutlar Hamamı, ziyaretçilerine huzurlu ve sakin bir ortam sunar.
 - Bu plaj, yılın her dönemi ziyaret edilebilir.

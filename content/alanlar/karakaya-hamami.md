@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotografcılık","bitki ve hayva
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Karakaya Hamamı","caption":"Karakaya Hamamı","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakaya%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739202","tip":"genel"}]
-description: "Ayaş'ta yer alan Karakaya Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Karakaya Hamamı","Ayaş","Ankara","doğa","yeşil alan","gezi","turizm","plaj","iç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739202"
@@ -37,7 +37,7 @@ Karakaya Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Karakaya Hamamı, Ayaş'ta yer alan ve İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu bölge, 140 hektarlık geniş bir yeşil alan olarak dikkat çekmektedir. Geniş ve ferah bir ortam sunan Karakaya Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve kar yağışlı bir iklimi vardır. Bu bölge, geniş yeşil alanları ve ferah ortamı ile ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır.
+Karakaya Hamamı, Ayaş'ta yer alan ve İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Geniş ve ferah bir ortam sunan Karakaya Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve kar yağışlı bir iklimi vardır. Bu bölge, geniş yeşil alanları ve ferah ortamı ile ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Karakaya Hamamı, ziyaretçilerine birçok olanak sunmaktadır. Bu bölgede, do�
 
 ## İlginç Bilgiler
 
-- Karakaya Hamamı, 140 hektarlık bir yeşil alan olarak dikkat çekmektedir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır.
 - Karakaya Hamamı, geniş ve ferah bir ortam sunmaktadır.
 - Bu bölge, doğa severler için bir cennet olarak görülebilir.

@@ -50,6 +50,6 @@ Raşik Tepesi, ziyaretçilere doğa ile iç içe bir deneyim sunmakta. Bu bölge
 
 - Raşik Tepesi, Diyarbakır'ın merkezinde yer alıyor
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta
-- Raşik Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Tepenin coğrafi konumu, ziyaretçilere şehrin etrafındaki doğal güzellikleri gözlemleme fırsatı sunmakta
 - Raşik Tepesi, aynı zamanda bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip

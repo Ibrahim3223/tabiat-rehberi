@@ -50,7 +50,7 @@ Yüzbaşi Agah Efendi Şehitliği'ni ziyaret etmek, ziyaretçiler için keyifli 
 ## İlginç Bilgiler
 
 - Yüzbaşi Agah Efendi Şehitliği, Afyonkarahisar ilinin en önemli tarihi mekanlarından biridir.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Yüzbaşi Agah Efendi Şehitliği, Ege Bölgesi'nin karakteristik iklimini taşımaktadır.
 - Plajın etrafında bulunan ormanlar ve bitkiler, ziyaretçilere doğal güzellikler sunmaktadır.
 - Yüzbaşi Agah Efendi Şehitliği, mevsimsel değişimlere göre farklı türde bitkiler ve hayvanlar barındırmaktadır.

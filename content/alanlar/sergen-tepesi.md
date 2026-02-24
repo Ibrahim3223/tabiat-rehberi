@@ -49,7 +49,7 @@ Sergen Tepesi'ni ziyaret etmek, doğa severler ve coğrafya meraklıları için 
 ## İlginç Bilgiler
 
 - Sergen Tepesi, Muş ilinin coğrafi güzelliklerinin önemli bir parçasını oluşturuyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Sergen Tepesi, visitorlerin manzaralarının keyfini çıkarmalarına olanak tanıyan, yükse ve geniş bir alana sahip.
 - Sergen Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu tepe, doğa severlerin ve coğrafya meraklılarının ilgisini çekiyor.

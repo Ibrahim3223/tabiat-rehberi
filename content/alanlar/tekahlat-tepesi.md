@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara seyri","flora ve fauna gözlemi","f
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Tekahlat Tepesi","caption":"Tekahlat Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekahlat%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390073","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinin başında gelen Tekahlat Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Tekahlat Tepesi","doğa","gezi","turizm","çevre","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390073"

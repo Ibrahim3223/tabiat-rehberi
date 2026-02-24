@@ -49,7 +49,7 @@ Koz Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak içi
 ## İlginç Bilgiler
 
 - Koz Tepesi, Çorum'un doğusunda yer alıyor
-- Koz Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Koz Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor
 - Koz Tepesi, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon
 - Koz Tepesi'ne ulaşmak için, Çorum'dan doğuya doğru ilerlemek yeterli

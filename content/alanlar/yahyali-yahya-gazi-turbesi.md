@@ -37,7 +37,7 @@ Yahyalı Yahya Gazi Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türb
 
 ## Coğrafya
 
-Yahyalı Yahya Gazi Türbesi, Kayseri'nin Yahyalı ilçesinde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Türbenin etrafında, yaklaşık 140 hektarlık bir alan bulunur ve bu alan, çeşitli coğrafi özelliklere sahiptir. Bu bölgede, yüksekli ve alçaklık gibi coğrafi özellikler bulunur. Yahyalı Yahya Gazi Türbesi, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, iklim, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösterir. Yahyalı Yahya Gazi Türbesi, coğrafi konumu ve natural güzelliği ile birlikte, ziyaretçilerin ilgisini çekmektedir. Bu bölge, coğrafi olarak, birçok farklı bitki türü ve hayvan türüne ev sahipliği yapar. Yahyalı Yahya Gazi Türbesi, coğrafi konumu ve tarihi önemi ile birlikte, önemli bir turizm noktası olarak kabul edilir.
+Yahyalı Yahya Gazi Türbesi, Kayseri'nin Yahyalı ilçesinde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölgede, yüksekli ve alçaklık gibi coğrafi özellikler bulunur. Yahyalı Yahya Gazi Türbesi, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, iklim, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösterir. Yahyalı Yahya Gazi Türbesi, coğrafi konumu ve natural güzelliği ile birlikte, ziyaretçilerin ilgisini çekmektedir. Bu bölge, coğrafi olarak, birçok farklı bitki türü ve hayvan türüne ev sahipliği yapar. Yahyalı Yahya Gazi Türbesi, coğrafi konumu ve tarihi önemi ile birlikte, önemli bir turizm noktası olarak kabul edilir.
 
 ## Flora ve Fauna
 

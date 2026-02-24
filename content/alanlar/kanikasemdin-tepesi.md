@@ -49,7 +49,7 @@ Kanıkaşemdın Tepesi, ziyaretçilere doğal güzellikleri ve tarihi zenginlikl
 ## İlginç Bilgiler
 
 - Kanıkaşemdın Tepesi, Batman ilinin önemli bir doğal ve kültürel mirası olarak kabul ediliyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Kanıkaşemdın Tepesi, farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı bir güzellik sunuyor.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşıyor.
 - Kanıkaşemdın Tepesi, ziyaretçilere trekking, doğa yürüyüşü gibi aktiviteleri yapma fırsatı sunuyor.

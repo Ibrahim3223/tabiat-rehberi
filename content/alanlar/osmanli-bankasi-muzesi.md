@@ -51,7 +51,7 @@ Osmanlı Bankası Müzesi'ni ziyaret etmek, özellikle bankacılık ve ekonomi t
 ## İlginç Bilgiler
 
 - Osmanlı Bankası Müzesi, 1892 yılında inşa edilen tarihi binasında yer alır.
-- Müze, 140 hektarlık alanın parçası olan Bankalar Caddesi'nde bulunur.
+
 - Osmanlı Bankası, 1856 yılında kurulmuştur.
 - Müze, bankanın kuruluşundan günümüze kadar olan serencamını anlatır.
 - Müzenin sergi salonlarında, bankacılık tarihine ait çeşitli eserler ve belgeler sergilenmektedir.

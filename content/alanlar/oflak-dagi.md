@@ -49,7 +49,7 @@ Oflak Dağı, ziyaretçiler için çeşitli aktiviteler sunuyor. Burada, doğa y
 ## İlginç Bilgiler
 
 - Oflak Dağı, Sakarya'nın Marmara Bölgesi'nde yer alıyor
-- Oflak Dağı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alana sahip
+
 - Oflak Dağı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor
 - Oflak Dağı, mevsimsel değişimlere dikkat çekiyor
 - Oflak Dağı, ekolojik dengesi ile dikkat çekiyor

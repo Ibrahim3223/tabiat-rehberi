@@ -51,7 +51,7 @@ Tarihi Karataş Hamamı ve plaj alanını ziyaret etmek, ziyaretçilere benzersi
 ## İlginç Bilgiler
 
 - Tarihi Karataş Hamamı, İzmir'in en önemli turizm merkezlerinden biridir.
-- Hamam ve plaj alanı, 140 hektarlık bir yeşil alana sahiptir.
+
 - Karataş Hamamı, yüzyıllar öncesine dayanan bir tarihe sahiptir.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Hamam ve plaj alanı, İzmir'in merkezine yakındır ve ulaşım kolaydır.

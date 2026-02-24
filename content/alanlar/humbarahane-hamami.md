@@ -21,7 +21,7 @@ aktiviteler: ["Hamamın tarihi odalarını gezmek","Çevresinin doğal güzelli�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Humbarahane Hamamı","caption":"Humbarahane Hamamı","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Humbarahane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739130","tip":"genel"}]
-description: "İstanbul'un tarihi hamamlarından biri olan Humbarahane Hamamı, Beyoğlu'nda yer alır ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Humbarahane Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","Tarihi Hamam","Doğal Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739130"
@@ -37,7 +37,7 @@ Humbarahane Hamamı, yüzyıllar boyunca İstanbul'un önemli kültür merkezler
 
 ## Coğrafya
 
-Humbarahane Hamamı, Beyoğlu'nda, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul'un en önemli turizm merkezlerinden biridir. Hamamın çevresi, çeşitli bitki türleriyle dolu ve ziyaretçiler, hamamın tarihi atmosferini ve çevresinin doğal güzelliğini deneyimleyebilirler. Hamamın konumu, ziyaretçiler için kolay ulaşılabilir ve çevresinde birçok turistik nokta bulunmaktadır. Ayrıca, hamamın yakınında, Marmara Denizi'ne açılan bir sahil bulunur ve ziyaretçiler, denizin güzelliğini de seyretme şansı bulabilirler. Hamamın coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini bir arada sunar. 140 hektarlık alan, ziyaretçilere geniş bir keşif alanı sağlar ve hamamın tarihi atmosferi, ziyaretçileri geçmişe götürür.
+Humbarahane Hamamı, Beyoğlu'nda, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul'un en önemli turizm merkezlerinden biridir. Hamamın çevresi, çeşitli bitki türleriyle dolu ve ziyaretçiler, hamamın tarihi atmosferini ve çevresinin doğal güzelliğini deneyimleyebilirler. Hamamın konumu, ziyaretçiler için kolay ulaşılabilir ve çevresinde birçok turistik nokta bulunmaktadır. Ayrıca, hamamın yakınında, Marmara Denizi'ne açılan bir sahil bulunur ve ziyaretçiler, denizin güzelliğini de seyretme şansı bulabilirler. Hamamın coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini bir arada sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Humbarahane Hamamı'na ziyaretçiler, kolayca ulaşabilirler. Hamam, Beyoğlu'nd
 
 ## İlginç Bilgiler
 
-- Humbarahane Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Hamam, yüzyıllar boyunca İstanbul'un önemli kültür merkezlerinden biri olarak hizmet verdi
 - Hamamın tarihi geçmişi, Osmanlı İmparatorluğu döneminde başladı
 - Hamamın çevresi, çeşitli bitki türleriyle dolu

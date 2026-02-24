@@ -37,7 +37,7 @@ Piramit Mezar-Turgut'un tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Piramit Mezar-Turgut, Marmaris'in Turgut mevkiinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bu bölge, 140 hektarlık bir alanı kaplar ve deniz ile iç içe bir konumda bulunur. Plajın etrafında, yeşilin çeşitli tonlarını görme mümkün. Bölgenin coğrafi yapısı, ziyaretçilere doğal bir güzellik sunar. Denizin ve güneşin bir araya geldiği bu noktada, ziyaretçiler doğa ile baş başa kalabilirler. Marmaris'in iklimi, bu bölgeyi yıl boyunca ziyaret edilebilir kılar.
+Piramit Mezar-Turgut, Marmaris'in Turgut mevkiinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Plajın etrafında, yeşilin çeşitli tonlarını görme mümkün. Bölgenin coğrafi yapısı, ziyaretçilere doğal bir güzellik sunar. Denizin ve güneşin bir araya geldiği bu noktada, ziyaretçiler doğa ile baş başa kalabilirler. Marmaris'in iklimi, bu bölgeyi yıl boyunca ziyaret edilebilir kılar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Piramit Mezar-Turgut'u ziyaret etmek, Marmaris'in en güzel deneyimlerinden biri
 ## İlginç Bilgiler
 
 - Piramit Mezar-Turgut, Marmaris'in en özel noktalarından biri.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Piramit Mezar-Turgut, Ege Bölgesi'nin coğrafi güzelliklerini sunar.
 - Bu bölge, deniz ile iç içe bir konumda bulunur.
 - Piramit Mezar-Turgut'un flora ve faunası, Ege Bölgesi'nin zengin doğal çeşitliliğini yansıtır.

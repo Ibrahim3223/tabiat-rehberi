@@ -53,5 +53,5 @@ Gülnuş Emetullah Valide Sultan Türbesi'ni ziyaret etmek, tarihe ve doğaya il
 - Gülnuş Emetullah Valide Sultan, IV. Mehmet'in annesi ve II. Mustafa ile III. Ahmet'in validesidir.
 - Türbe, 1700'lerin başlarında inşa edilmiştir.
 - Üsküdar, İstanbul'un en eski ve önemli ilçelerinden biridir.
-- Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde
+
 - Çevrede, çeşitli bitki türleri ve ağaçlar bulunmaktadır.

@@ -29,7 +29,7 @@ wikidata_id: "Q5626513"
 
 # Çır Şelalesi
 
-Çır Şelalesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan, yaklaşık 140 hektarlık bir alan üzerinde konumlanan doğa harikası bir şelaledir. Bu şelale, 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevresindeki yeşil alanlarla birlikte büyük bir doğal güzelliği oluşturur. Şelalenin yüksekliği ve suyun hızı, ziyaretçilere büyüleyici bir manzara sunar. Çır Şelalesi, hem yerel halk hem de turistik ziyaretçiler için önemli bir çekim merkezi olup, doğa severlerin ilgisini çekmektedir.
+ Şelalenin yüksekliği ve suyun hızı, ziyaretçilere büyüleyici bir manzara sunar. Çır Şelalesi, hem yerel halk hem de turistik ziyaretçiler için önemli bir çekim merkezi olup, doğa severlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q5626513"
 ## İlginç Bilgiler
 
 - Şelalenin yüksekliği 10 metreden fazladır
-- Çevresindeki yeşil alanlar, 200 futbol sahası büyüklüğündedir
+
 - Şelale, yaban hayatı için önemli bir yaşam alanıdır
 - Bölge, çeşitli bitki türleri ile kaplıdır
 - Şelale, su kaynaklarını destekler

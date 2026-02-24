@@ -37,7 +37,7 @@ Külhancı Baba Türbesi'nin tarihi geçmişi, Erzurum'un zengin kültürel mira
 
 ## Coğrafya
 
-Külhancı Baba Türbesi, Erzurum'un Yakutiye ilçesinde, şehrin merkezi bölgesine yakın bir konumda yer alıyor. Türbe, 140 hektarlık bir yeşil alan üzerine inşa edilmiş ve etrafı çeşitli bitki türleri ile çevrili. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunuyor. Bölgenin coğrafi yapısı, genel olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yüksek bir rakıma sahip olan Erzurum, karasal iklimin hakim olduğu bir bölgede bulunuyor. Külhancı Baba Türbesi'nin bulunduğu alan, özellikle ilkbahar ve yaz aylarında yeşillenen çayırları ve çeşitli çiçek türleri ile güzelleşiyor. Ziyaretçiler, bu doğal güzellikleri keşfederek, Erzurum'un coğrafi çeşitliliğini deneyimleyebilir.
+Külhancı Baba Türbesi, Erzurum'un Yakutiye ilçesinde, şehrin merkezi bölgesine yakın bir konumda yer alıyor. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunuyor. Bölgenin coğrafi yapısı, genel olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yüksek bir rakıma sahip olan Erzurum, karasal iklimin hakim olduğu bir bölgede bulunuyor. Külhancı Baba Türbesi'nin bulunduğu alan, özellikle ilkbahar ve yaz aylarında yeşillenen çayırları ve çeşitli çiçek türleri ile güzelleşiyor. Ziyaretçiler, bu doğal güzellikleri keşfederek, Erzurum'un coğrafi çeşitliliğini deneyimleyebilir.
 
 ## Flora ve Fauna
 

@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Patara%20Beach%20%286877323636%29.jpg","alt":"Patara Plajı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Patara_Plaj%C4%B1..._-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Patara_Plaj%C4%B1..._-_panoramio.jpg/1280px-Patara_Plaj%C4%B1..._-_panoramio.jpg","alt":"Patara Plajı - Patara Plajı... - panoramio","credit":"Sinan Şahin","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/Patara_Plaj%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Patara_Plaj%C4%B1.jpg/1280px-Patara_Plaj%C4%B1.jpg","alt":"Patara Plajı - Patara Plajı","credit":"Esginmurat","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Patara_beach_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Patara_beach_-_panoramio.jpg/1280px-Patara_beach_-_panoramio.jpg","alt":"Patara Plajı - Patara beach - panoramio","credit":"Angela Stefanoni","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/Patara_Plaj%C4%B1_%28cropped%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Patara_Plaj%C4%B1_%28cropped%29.jpg/1280px-Patara_Plaj%C4%B1_%28cropped%29.jpg","alt":"Patara Plajı - Patara Plajı (cropped)","credit":"Esginmurat","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Patara_D%C3%BCnen.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Patara_D%C3%BCnen.jpg/1280px-Patara_D%C3%BCnen.jpg","alt":"Patara Plajı - Patara Dünen","credit":"Hauseltr at German Wikipedia","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Patara%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6978175","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı olan Patara Plajı, 140 hektarlık yeşil alanı ve geniş kumsallarıyla bilinir."
+"
 keywords: ["Patara Plajı","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","kumsal","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6978175"
@@ -37,7 +37,7 @@ Patara Plajı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölg
 
 ## Coğrafya
 
-Patara Plajı, İç Anadolu Bölgesi'nin coğrafi olarak önemli birindedir. Plaj, geniş kumsalları ve 140 hektarlık yeşil alanı ile dikkat çeker. Bölge, deniz seviyesinden yaklaşık 100 metre hooglükte bulunur ve etrafı dağlarla çevrilidir. Patara Plajı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve yağışlı bir iklime sahiptir. Patara Plajı, aynı zamanda bir nehrin ağzında bulunur ve bu nehir, plajın suyundan sorumludur. Nehir, bölgenin ekolojisini destekler ve çeşitli bitki türlerinin yetişmesine katkıda bulunur. Patara Plajı'nın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını ve çeşitli aktivitelere katılmasını sağlar.
+Patara Plajı, İç Anadolu Bölgesi'nin coğrafi olarak önemli birindedir. Bölge, deniz seviyesinden yaklaşık 100 metre hooglükte bulunur ve etrafı dağlarla çevrilidir. Patara Plajı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve yağışlı bir iklime sahiptir. Patara Plajı, aynı zamanda bir nehrin ağzında bulunur ve bu nehir, plajın suyundan sorumludur. Nehir, bölgenin ekolojisini destekler ve çeşitli bitki türlerinin yetişmesine katkıda bulunur. Patara Plajı'nın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını ve çeşitli aktivitelere katılmasını sağlar.
 
 ## Flora ve Fauna
 
@@ -45,11 +45,9 @@ Patara Plajı, zengin bir flora ve faunaya sahiptir. Bölge, çeşitli bitki tü
 
 ## Ziyaret Bilgileri
 
-Patara Plajı, ziyaretçilere çeşitli aktivitelere katılma imkanı sunar. Plaj, geniş kumsalları ve 140 hektarlık yeşil alanı ile ideal bir yerdir. Ziyaretçiler, güneşlenmek, denize girmek, yürüyüş yapma ve doğayla iç içe olmak için Patara Plajı'nı tercih edebilir. Patara Plajı, aynı zamanda bir doğa koruma alanı olarak da önemlidir ve ziyaretçiler, bölge hakkında daha fazla bilgi edinmek için rehberli turlara katılabilir. Patara Plajı'na ulaşım, özel araç veya toplu taşıma araçları ile mümkündür. Plaj, bölgenin önemli turizm merkezlerine yakın bir konumda bulunur ve ziyaretçiler, kolayca ulaşabilir.
+Patara Plajı, ziyaretçilere çeşitli aktivitelere katılma imkanı sunar. Ziyaretçiler, güneşlenmek, denize girmek, yürüyüş yapma ve doğayla iç içe olmak için Patara Plajı'nı tercih edebilir. Patara Plajı, aynı zamanda bir doğa koruma alanı olarak da önemlidir ve ziyaretçiler, bölge hakkında daha fazla bilgi edinmek için rehberli turlara katılabilir. Patara Plajı'na ulaşım, özel araç veya toplu taşıma araçları ile mümkündür. Plaj, bölgenin önemli turizm merkezlerine yakın bir konumda bulunur ve ziyaretçiler, kolayca ulaşabilir.
 
 ## İlginç Bilgiler
-
-- Patara Plajı, 140 hektarlık bir alanı kaplar.
 
 - Patara Plajı, geniş kumsalları ile ünlüdür.
 - Bölge, tarihi kalıntılar ve antik yapılar içerir.

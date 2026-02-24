@@ -49,8 +49,6 @@ Yeni Hamam, Beçin, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyare
 
 ## İlginç Bilgiler
 
-- Yeni Hamam, Beçin, 140 hektarlık bir alanı kaplar.
-- Plaj, 200 futbol sahası büyüklüğünde bir alanı kapsar.
 - Yeni Hamam, Beçin, Ege Bölgesi'nin en güzel plajlarından biridir.
 - Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Yeni Hamam, Beçin, yüzyıllar boyunca insanların dinlenme ve eğlenme yeri olarak kullanılmıştır.

@@ -37,7 +37,7 @@ Karabey Hamamı'nın tarihi geçmişi, yüzyıllar boyunca insanların bu bölge
 
 ## Coğrafya
 
-Karabey Hamamı, Isparta'nın Uluborlu ilçesinde, Akdeniz Bölgesi'nin kıyı şeridinde yer alır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklükteki alan, ziyaretçilere geniş bir açık alan sunar. Karabey Hamamı, sığ ve temiz denizi ile birlikte, çevresi ağaçlık ve yeşilliklerle dolu bir bölge olarak bilinir. Bu plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir. Karabey Hamamı'nın coğrafi konumu, ziyaretçilerin diğer doğal güzelliklere ve tarihi yerlere kolayca ulaşmalarını sağlar. Bu plaj, çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülerek, ziyaretçilere geniş bir gezi ve keşif alanı sunar. Karabey Hamamı, Isparta'nın Uluborlu ilçesinin en önemli turizm merkezlerinden biri olarak bilinir.
+Karabey Hamamı, Isparta'nın Uluborlu ilçesinde, Akdeniz Bölgesi'nin kıyı şeridinde yer alır. Karabey Hamamı, sığ ve temiz denizi ile birlikte, çevresi ağaçlık ve yeşilliklerle dolu bir bölge olarak bilinir. Bu plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir. Karabey Hamamı'nın coğrafi konumu, ziyaretçilerin diğer doğal güzelliklere ve tarihi yerlere kolayca ulaşmalarını sağlar. Bu plaj, çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülerek, ziyaretçilere geniş bir gezi ve keşif alanı sunar. Karabey Hamamı, Isparta'nın Uluborlu ilçesinin en önemli turizm merkezlerinden biri olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Karabey Hamamı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir ye
 ## İlginç Bilgiler
 
 - Karabey Hamamı, Isparta'nın Uluborlu ilçesinde yer alır.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Karabey Hamamı, sığ ve temiz denizi ile birlikte, çevresi ağaçlık ve yeşilliklerle dolu bir bölge olarak bilinir.
 - Bu plaj, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir.
 - Karabey Hamamı, doğal güzelliği ve zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyüler.

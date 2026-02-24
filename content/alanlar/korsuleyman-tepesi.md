@@ -28,7 +28,7 @@ wikidata_id: "Q32210339"
 
 # Körsüleyman Tepesi
 
-Körsüleyman Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Körsüleyman Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgenin tarihi geçmişi hakkında bilgi verir. Körsüleyman Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
+Körsüleyman Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır. Körsüleyman Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgenin tarihi geçmişi hakkında bilgi verir. Körsüleyman Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Körsüleyman Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bö
 ## İlginç Bilgiler
 
 - Körsüleyman Tepesi, Kayseri'nin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Körsüleyman Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır.
 - Bu tepe, çeşitli bitki türlerini ve hayvanları barındırır.
 - Körsüleyman Tepesi, mevsimsel değişimlere göre farklı bir görünüm sunar.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227964"
 
 # Zonguldak-Karabuk-Eflani Fidanligi Karacam
 
-Karadeniz Bölgesi'nin doğusunda yer alan Zonguldak-Karabuk-Eflani Fidanligi Karacam, yaklaşık 140 hektarlık bir alanı kaplayan ve bu bölgenin doğal güzelliklerinden biri olan bir milli parktır. Bu milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı sunuyor hem de burada çeşitli bitki türleri ve zengin fauna ile karşılaşma imkanı sağlıyor.
+ Bu milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı sunuyor hem de burada çeşitli bitki türleri ve zengin fauna ile karşılaşma imkanı sağlıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Zonguldak-Karabuk-Eflani Fidanligi Karacam, ziyaretçilerine birçok imkan sunuy
 
 ## İlginç Bilgiler
 
-- Zonguldak-Karabuk-Eflani Fidanligi Karacam, 140 hektarlık bir alanı kaplar.
 - Bu milli park, Karadeniz Bölgesi'nin doğal güzelliklerinden biridir.
 - Ziyaretçilerin, milli parka gitmeden önce, burayı ziyaret etmek için en uygun zamanı belirlemeleri önerilir.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.

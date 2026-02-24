@@ -49,7 +49,7 @@ Kalebero Tepesi'ni ziyaret etmek, tarihe ve doğaya ilgi duyanlar için unutulma
 ## İlginç Bilgiler
 
 - Kalebero Tepesi, tarihî ve doğal güzellikleri ile dikkat çekiyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Tepenin eteklerinde ve çevresinde yer alan tarihi kalıntılar, bu bölgenin tarihsel önemini vurguluyor.
 - Kalebero Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Bu bölgede, mevsimsel değişimlere göre farklı bitki türleri ortaya çıkıyor.

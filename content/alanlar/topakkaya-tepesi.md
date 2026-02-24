@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","bisiklet","doğa yürüyüşü","fotoğrafçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Topakkaya Tepesi","caption":"Topakkaya Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topakkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557539","tip":"genel"}]
-description: "Ankara'nın içlerinde bulunan Topakkaya Tepesi, yaklaşık 140 hektarlık büyüklüğüyle dikkat çekiyor."
+"
 keywords: ["Topakkaya Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557539"
@@ -28,7 +28,7 @@ wikidata_id: "Q31557539"
 
 # Topakkaya Tepesi
 
-Topakkaya Tepesi, Ankara'nın merkezinde yer alan ve yaklaşık 140 hektarlık büyüklüğüyle dikkat çeken bir doğa alanıdır. Topakkaya Tepesi, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak kabul ediliyor. Tepenin eteklerinde bulunan yerleşim yerleri, ziyaretçilere konaklama ve yeme içme olanakları sağlıyor.
+ Topakkaya Tepesi, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak kabul ediliyor. Tepenin eteklerinde bulunan yerleşim yerleri, ziyaretçilere konaklama ve yeme içme olanakları sağlıyor.
 
 ## Tarihçe
 

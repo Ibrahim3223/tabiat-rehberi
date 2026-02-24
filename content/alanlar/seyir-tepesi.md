@@ -43,8 +43,6 @@ SEYİR TEPESİ, ziyaretçilere doğa yürüyüşleri, kamp ve diğer outdoor etk
 
 ## İlginç Bilgiler
 
-- SEYİR TEPESİ, 140 hektarlık bir yeşil alanı kapsar
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - SEYİR TEPESİ, ziyaretçilerine geniş çayırları, ormanlık alanları ve çeşitli bitki türleriyle birlikte zengin bir fauna sunmaktadır
 - SEYİR TEPESİ, bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir milli parktır
 - Bu alanın korunması, gelecek nesiller için önemli bir doğal mirasın korunması anlamına gelmektedir

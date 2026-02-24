@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_20.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_20.jpg","alt":"Eskipaşa Hamamı","caption":"Eskipaşa Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 20","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskipa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738439","tip":"genel"}]
-description: "Sivas'ta bulunan doğal bir güzellik olan Eskipaşa Hamamı, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri olarak biliniyor."
+ Bu alan, İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri olarak biliniyor."
 keywords: ["Sivas","Eskipaşa Hamamı","doğal güzellik","İç Anadolu Bölgesi","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738439"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738439"
 
 # Eskipaşa Hamamı
 
-Sivas'ın merkezinde yer alan Eskipaşa Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıyor ve doğanın kucağına davet ediyor. Eskipaşa Hamamı, Sivas ili sınırları içinde yer alan ve İç Anadolu Bölgesi'nin önemli turizm noktalarından biri olarak biliniyor. Bu doğal güzellik, yerli ve yabancı turistlerin ilgisini çekiyor ve Sivas'ın turizm potansiyeline önemli katkılar sağlıyor.
+ Bu geniş alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıyor ve doğanın kucağına davet ediyor. Eskipaşa Hamamı, Sivas ili sınırları içinde yer alan ve İç Anadolu Bölgesi'nin önemli turizm noktalarından biri olarak biliniyor. Bu doğal güzellik, yerli ve yabancı turistlerin ilgisini çekiyor ve Sivas'ın turizm potansiyeline önemli katkılar sağlıyor.
 
 ## Tarihçe
 

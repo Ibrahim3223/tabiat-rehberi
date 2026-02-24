@@ -30,7 +30,7 @@ wikidata_id: "Q131391255"
 
 # Karakurt Türbesi
 
-Karakurt Türbesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilinin merkezinde bulunan tarihi bir mekândır. Kırşehir'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan Karakurt Türbesi, yaklaşık 140 hektarlık bir alanı kaplar. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Karakurt Türbesi, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
+Karakurt Türbesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilinin merkezinde bulunan tarihi bir mekândır. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Karakurt Türbesi, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 
@@ -54,4 +54,3 @@ Karakurt Türbesi'ni ziyaret etmek, birçok ziyaretçiçin önemli bir deneyimdi
 - Karakurt Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak görev yapmıştır.
 - Karakurt Türbesi, Türklerin Anadolu'ya yerleşmesi ve bu bölgede devlet kurmalarının ardından ortaya çıkmıştır.
 
-- Karakurt Türbesi, yaklaşık 140 hektarlık bir alanı kaplar.

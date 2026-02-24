@@ -48,7 +48,6 @@ Soput Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşıl
 
 ## İlginç Bilgiler
 
-- Soput Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Tepenin etrafında ve eteklerinde çeşitli bitki türleri bulunmakta ve bu bölgede yaban hayatı da oldukça zengin olarak görülmektedir.
 - Soput Tepesi, doğal güzellikleri ve coğrafi özellikleri ile önemli bir turizm merkezi olarak dikkat çekmektedir.
 - Tepenin yüksekliği ve coğrafi konumu, bu bölgenin iklimini ve doğal yaşamını etkilemektedir.

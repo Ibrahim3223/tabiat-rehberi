@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotoğrafçılık","Tarih ke
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Büyükalamet Tepesi","caption":"Büyükalamet Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkalamet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199611","tip":"genel"}]
-description: "Kars'ın eşsiz doğal güzelliklerinden biri, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kars","Doğu Anadolu Bölgesi","Büyükalamet Tepesi","Doğal Alan","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q21199611"
@@ -28,7 +28,7 @@ wikidata_id: "Q21199611"
 
 # Büyükalamet Tepesi
 
-Büyükalamet Tepesi, Kars ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak dikkat çekmektedir. Tepenini, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Büyükalamet Tepesi, hem coğrafi konumu hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Tepenin eteklerinde ve çevresinde, tarihi ve kültürel açıdan önemli birçok nokta bulunmaktadır. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
+ Tepenini, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Büyükalamet Tepesi, hem coğrafi konumu hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Tepenin eteklerinde ve çevresinde, tarihi ve kültürel açıdan önemli birçok nokta bulunmaktadır. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Büyükalamet Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları iç
 
 ## İlginç Bilgiler
 
-- Büyükalamet Tepesi, 140 hektarlık bir alanı kaplamaktadır.
 - Tepenin yüksekliği, Kars ilinin coğrafi yapısına uygun olarak değişmektedir.
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Tepenin eteklerinde ve çevresinde, tarihi ve kültürel açıdan önemli birçok nokta bulunmaktadır.

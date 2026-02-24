@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Anıtkabir Mozole'yi gezmek","Atatürk Müzesi'ni ziyaret etmek","Anıtkabir Mozole'nin etrafındaki parkı gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg","alt":"Anıtkabir Mozole manzarası","credit":"William Neuheisel from DC, US","license":"cc-by-2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/960px-Ataturk%27s_Mausoleum_%286225341313%29.jpg","alt":"Anıtkabir Mozole","caption":"Anıtkabir Mozole","credit":"Ataturk's Mausoleum (6225341313)","license":"CC BY 2.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/86/Mozole.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/86/Mozole.jpg","alt":"Anıtkabir Mozole - Mozole","credit":"Bilgitarayan","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/An%C4%B1tkabir%20Mozole","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728100","tip":"genel"}]
 description: "Ankara'nın kalbinde, tarihin izlerini taşıyan bir abide: Anıtkabir Mozole"
@@ -49,8 +49,6 @@ Anıtkabir Mozole, Ankara'nın şehir merkezinde yer alan bir alanda inşa edilm
 Anıtkabir Mozole, Ankara'nın en önemli tarihi mekanlarından biri olarak görülmektedir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Anıtkabir Mozole, Ankara'nın şehir merkezine yakındır ve ulaşım açısından kolay bir konuma sahiptir. Anıtkabir Mozole, Türk milletinin bağımsızlık mücadelesinin sembolü olarak görülmektedir ve Türk milletinin tarihinde önemli bir yer tutmaktadır. Anıtkabir Mozole, Ankara'nın iklimine göre inşa edilmiştir ve Ankara'nın yıllık ortalama sıcaklığına uygun bir şekilde tasarlanmıştır. Anıtkabir Mozole, Ankara'nın coğrafi özelliklerine göre inşa edilmiş ve Ankara'nın şehir siluetine uygun bir şekilde tasarlanmıştır. Anıtkabir Mozole, Ankara'nın flora ve faunasına uygun bir şekilde tasarlanmıştır ve Ankara'nın yıllık ortalama sıcaklığına uygun bir şekilde inşa edilmiştir. Anıtkabir Mozole'yi ziyaret etmek, Türk milletinin bağımsızlık mücadelesinin önemli bir parçasını görmek için önemli bir fırsattır.
 
 ## İlginç Bilgiler
-
-- Anıtkabir Mozole, 140 hektarlık bir alanda inşa edilmiştir.
 
 - Anıtkabir Mozole, Ankara'nın en önemli tarihi mekanlarından biridir.
 - Anıtkabir Mozole, Türk milletinin bağımsızlık mücadelesinin sembolü olarak görülmektedir.

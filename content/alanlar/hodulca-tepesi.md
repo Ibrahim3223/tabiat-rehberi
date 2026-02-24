@@ -48,7 +48,6 @@ Hodulca Tepesi'ni ziyaret etmek, Karadeniz Bölgesi'nin güzelliklerini keşfetm
 
 ## İlginç Bilgiler
 
-- Hodulca Tepesi, 140 hektarlık bir alana yayılmaktadır
 - Tepenin yüksekliği, Karadeniz Bölgesi'nin diğer tepelerine göre dikkat çekmektedir
 - Hodulca Tepesi, zengin flora ve faunaya ev sahipliği yapmaktadır
 - Tepenin manzarası, Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve ziyaretçilere unutulmaz anlar yaşatmaktadır

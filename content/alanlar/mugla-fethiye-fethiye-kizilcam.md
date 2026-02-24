@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Mugla-Fethiye-Fethiye- Kızılçam","caption":"Mugla-Fethiye-Fethiye- Kızılçam","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Fethiye-%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228429","tip":"genel"}]
-description: "Muğla'nın doğal güzellikleri arasında yer alan Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kızılçam Milli Parkı","Muğla","Doğa","Milli Park","Kızılçam","Turizm","Ege Bölgesi","Fethiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228429"
@@ -42,7 +42,6 @@ Kızılçam Milli Parkı, ziyaretçilere doğanın güzelliklerini keşfetme fı
 
 ## İlginç Bilgiler
 
-- Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor
 - Kızılçam Milli Parkı, Muğla'nın doğal güzellikleri arasında önemli bir yer tutuyor
 - Parkın flora ve faunası, bölgeye özgü türlerden oluşuyor

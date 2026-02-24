@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Depel Tepesi","caption":"Depel Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Depel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538229","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Depel Tepesi, Hatay'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Depel Tepesi, Hatay'da yer alıyor."
 keywords: ["Depel Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31538229"
@@ -47,8 +47,6 @@ Depel Tepesi, zengin bir flora ve fauna sunuyor. Bu bölge, çeşitli bitkiler, 
 Depel Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu bölge, özellikle bahar ve yaz aylarında ziyaret ediliyor. Ancak, Depel Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak kabul ediliyor. Bu dönemde, hava sıcaklığı uygun ve doğa, en güzel haliyle ziyaretçilerini karşılıyor. Depel Tepesi'ne ulaşmak için, Hatay il merkezinden hareket eden toplu taşıma araçlarını kullanma mümkün. Ayrıca, özel araçlarla da Depel Tepesi'ne ulaşma mümkün. Depel Tepesi, ziyaretçilerine zengin bir doğa deneyimi sunuyor. Burada, çeşitli bitkiler, ağaçlar ve çiçekler ile dolu bir yeşil alan bulunuyor.
 
 ## İlginç Bilgiler
-
-- Depel Tepesi, 140 hektarlık bir yeşil alan üzerinde bulunuyor.
 
 - Depel Tepesi, ziyaretçilerine zengin bir flora ve fauna sunuyor.
 - Bu bölge, özellikle bahar ve yaz aylarında ziyaret ediliyor.

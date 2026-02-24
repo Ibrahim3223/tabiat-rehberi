@@ -29,7 +29,7 @@ wikidata_id: "Q132134423"
 
 # Yunus Emre Camii ve Türbesi
 
-Yunus Emre Camii ve Türbesi, Karaman ilinin merkezinde yer alan ve tarihi öneme sahip bir dini mekândır. 13. yüzyılda yaşamış olan Yunus Emre'nin türbesi ve camii, Karaman'ın önemli dini ve turistik merkezlerinden biridir. Camii ve türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Mekânın mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Camii ve türbenin yapımında kullanılan malzemeler, bölgenin geleneksel taş işçiliği ve ahşap oyma sanatını yansıtır.
+Yunus Emre Camii ve Türbesi, Karaman ilinin merkezinde yer alan ve tarihi öneme sahip bir dini mekândır. 13. yüzyılda yaşamış olan Yunus Emre'nin türbesi ve camii, Karaman'ın önemli dini ve turistik merkezlerinden biridir. Mekânın mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Camii ve türbenin yapımında kullanılan malzemeler, bölgenin geleneksel taş işçiliği ve ahşap oyma sanatını yansıtır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yunus Emre Camii ve Türbesi, 13. yüzyılda yaşamış olan Yunus Emre'nin vefa
 
 ## Coğrafya
 
-Yunus Emre Camii ve Türbesi, Karaman ilinin merkezinde yer alır. Mekân, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir. Camii ve türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır. Bu bitkiler, bölgenin iklimine uygun olarak seçilmiştir. Mekânın mimarisi, bölgenin coğrafi koşullarına göre tasarlanmıştır. Camii ve türbenin constructionunda kullanılan malzemeler, bölgenin geleneksel taş işçiliği ve ahşap oyma sanatını yansıtır. Mekân, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, çeşitli peyzaj özelliklerine sahiptir. Ziyaretçiler, camii ve türbenin etrafında gezerek, bölgenin doğal güzelliklerini keşfedebilir.
+Yunus Emre Camii ve Türbesi, Karaman ilinin merkezinde yer alır. Mekân, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir. Camii ve türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır. Bu bitkiler, bölgenin iklimine uygun olarak seçilmiştir. Mekânın mimarisi, bölgenin coğrafi koşullarına göre tasarlanmıştır. Camii ve türbenin constructionunda kullanılan malzemeler, bölgenin geleneksel taş işçiliği ve ahşap oyma sanatını yansıtır. Bu alan, çeşitli peyzaj özelliklerine sahiptir. Ziyaretçiler, camii ve türbenin etrafında gezerek, bölgenin doğal güzelliklerini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Yunus Emre Camii ve Türbesi, yıl boyunca ziyaret edilebilir. Mekân, Karaman i
 - Camii ve türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır
 - Mekân, yüzyıllar boyunca çeşitli onarımlar ve restorasyonlar geçirmiştir
 - Yunus Emre'nin hayatını ve eserlerini yansıtan çeşitli eserler, camii ve türbede sergilenmektedir
-- Mekân, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur
+

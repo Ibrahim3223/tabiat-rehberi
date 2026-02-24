@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/Nameless_tomb_near_alamgir_gate.JPG","alt":"İsimsiz Türbe manzarası","credit":"Sayantan07","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0simsiz%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390574","tip":"genel"}]
-description: "Ayvalık'ın gizli kumsallarından biri olan İsimsiz Türbe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Ayvalık","Balıkesir","Marmara Bölgesi","plaj","kumsal","doğa","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390574"
@@ -50,8 +50,6 @@ wikidata_id: "Q131390574"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - Marmara Bölgesi'nin en güzel noktalarından biri
 - zengin flora ve fauna
 - ekolojik açıdan önemli bir bölge

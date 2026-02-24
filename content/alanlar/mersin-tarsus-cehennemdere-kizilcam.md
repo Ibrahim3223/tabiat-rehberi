@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Tarihî keşifler","Fotoğrafçıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kad%C4%B1nc%C4%B1k_Valley_17.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_17.jpg","alt":"Mersin-Tarsus-Cehennemdere Kızılçam","caption":"Mersin-Tarsus-Cehennemdere Kızılçam","credit":"Kadıncık Valley 17.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Cehennemdere%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227662","tip":"genel"}]
-description: "Mersin'in Tarsus ilçesinde bulunan Cehennemdere Kızılçam Milli Parkı, 140 hektarlık bir alanı kapsar."
+"
 keywords: ["Mersin","Tarsus","Cehennemdere","Kızılçam","Milli Park","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227662"
@@ -30,7 +30,7 @@ Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, yüzyıllar boyunca çeşit
 
 ## Coğrafya
 
-Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Akdeniz Bölgesi'nde yer alan Mersin ilinin Tarsus ilçesinde bulunur. Bu park, 140 hektarlık bir alanı kapsar ve Cehennemdere adlı derenin de içerisinde yer aldığı bir doğa bölgesidir. Parkın coğrafi yapısı, kızılçam ormanlarıyla kaplıdır ve bu ormanlar, bölgenin ekolojik dengesini korumada önemli bir rol oynar. İklim, tipik Akdeniz iklimi özellikleri gösterir; yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının çeşitliliğini etkiler. Milli parkın yer aldığı bölge, aynı zamanda tarihî ve kültürel açıdan da zengin bir geçmişe sahiptir.
+Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Akdeniz Bölgesi'nde yer alan Mersin ilinin Tarsus ilçesinde bulunur. Parkın coğrafi yapısı, kızılçam ormanlarıyla kaplıdır ve bu ormanlar, bölgenin ekolojik dengesini korumada önemli bir rol oynar. İklim, tipik Akdeniz iklimi özellikleri gösterir; yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının çeşitliliğini etkiler. Milli parkın yer aldığı bölge, aynı zamanda tarihî ve kültürel açıdan da zengin bir geçmişe sahiptir.
 
 ## Flora ve Fauna
 

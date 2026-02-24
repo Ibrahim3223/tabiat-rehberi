@@ -28,7 +28,7 @@ wikidata_id: "Q31538136"
 
 # Karayuca Tepesi
 
-Hatay ilinin güzide bir bölgesinde yer alan Karayuca Tepesi, 140 hektarlık geniş bir alanı kapsar. Karayuca Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte büyüleyici bir deneyim sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe olmasını sağlar.
+ Karayuca Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte büyüleyici bir deneyim sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Tarihçe
 

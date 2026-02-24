@@ -23,7 +23,7 @@ wikidata_id: "Q108227071"
 
 # Kazdagi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kazdağı, yaklaşık 140 hektarlık bir alanı kapsıyor. Kazdağı, özellikle bahar ve yaz aylarında ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Bölgenin flora ve faunası oldukça zengin ve çeşitli bitki türleri ile farklı hayvan türlerini barındırıyor.
+ Kazdağı, özellikle bahar ve yaz aylarında ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Bölgenin flora ve faunası oldukça zengin ve çeşitli bitki türleri ile farklı hayvan türlerini barındırıyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Kazdağı, ziyaretçilerine birçok farklı aktivite sunuyor. Ziyaretçiler, bö
 
 ## İlginç Bilgiler
 
-- Kazdağı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor.
 
 - Bölge, birçok farklı mevsimde ziyaret edilebilir.

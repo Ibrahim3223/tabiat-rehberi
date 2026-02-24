@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Bitki ve Hayvan İzleme
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Mugla-Koycegiz-Agla Kızılçam","caption":"Mugla-Koycegiz-Agla Kızılçam","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Agla%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227442","tip":"genel"}]
-description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Muğla'da yer alan Agla Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Muğla","Köyceğiz","Agla Kızılçam","Milli Park","Ege Bölgesi","Doğa","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227442"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227442"
 
 # Mugla-Koycegiz-Agla Kızılçam
 
-Muğla'nın Köyceğiz ilçesinde yer alan Agla Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini doğal güzelliklerle karşılıyor. Milli Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, hem doğa severlerin hem de turizm açısından önemli bir merkez olarak öne çıkıyor.
+ Milli Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, hem doğa severlerin hem de turizm açısından önemli bir merkez olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Agla Kızılçam Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca sürege
 
 ## Coğrafya
 
-Agla Kızılçam Milli Parkı, Muğla'nın Köyceğiz ilçesinde, Ege Bölgesi'nin güneyinde yer alıyor. Bu bölge, Akdeniz ikliminin etkisinde kalıyor ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülüyor. Milli Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Milli Parkın coğrafi konumu, turizm açısından önemli bir merkezi oluşturuyor.
+Agla Kızılçam Milli Parkı, Muğla'nın Köyceğiz ilçesinde, Ege Bölgesi'nin güneyinde yer alıyor. Bu bölge, Akdeniz ikliminin etkisinde kalıyor ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar görülüyor. Milli Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli Parkın coğrafi konumu, turizm açısından önemli bir merkezi oluşturuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Agla Kızılçam Milli Parkı, yıl boyunca ziyaret edilebilir. Ancak, en iyi zi
 
 ## İlginç Bilgiler
 
-- Agla Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplıyor.
 - Milli Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor.
 - Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Milli Parkın coğrafi konumu, turizm açısından önemli bir merkezi oluşturuyor.

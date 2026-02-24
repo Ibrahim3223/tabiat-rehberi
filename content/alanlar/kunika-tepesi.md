@@ -28,7 +28,7 @@ wikidata_id: "Q32210795"
 
 # Künika Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Künika Tepesi, Batman şehrinde yer almaktadır. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplamaktadır. Künika Tepesi, coğrafi konumu itibariyle, ziyaretçilerine eşsiz bir manzara sunmaktadır. Bu tepe, özellikle doğa severlerin ve trekking yapanların ilgisini çekmektedir.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Künika Tepesi, Batman şehrinde yer almaktadır. Künika Tepesi, coğrafi konumu itibariyle, ziyaretçilerine eşsiz bir manzara sunmaktadır. Bu tepe, özellikle doğa severlerin ve trekking yapanların ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Künika Tepesi'nin tarihi geçmişi, bölgenin tarihini anlamak için önemli bi
 
 ## Coğrafya
 
-Künika Tepesi, coğrafi konumu itibariyle, oldukça önemli bir bölgede yer almaktadır. Batman şehrinde bulunan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplamaktadır. Künika Tepesi, coğrafi konumu itibariyle, ziyaretçilerine eşsiz bir manzara sunmaktadır. Bu tepe, özellikle doğa severlerin ve trekking yapanların ilgisini çekmektedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Künika Tepesi, bölgenin iklimi ve coğrafi yapısı itibariyle, yıl boyunca ziyaret edilebilir bir destinasyondur.
+Künika Tepesi, coğrafi konumu itibariyle, oldukça önemli bir bölgede yer almaktadır. Künika Tepesi, coğrafi konumu itibariyle, ziyaretçilerine eşsiz bir manzara sunmaktadır. Bu tepe, özellikle doğa severlerin ve trekking yapanların ilgisini çekmektedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Künika Tepesi, bölgenin iklimi ve coğrafi yapısı itibariyle, yıl boyunca ziyaret edilebilir bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Künika Tepesi, yıl boyunca ziyaret edilebilir bir destinasyondur. Ziyaretçile
 ## İlginç Bilgiler
 
 - Künika Tepesi, Batman şehrinin önemli bir simgesi haline gelmiştir.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplamaktadır.
+
 - Künika Tepesi, coğrafi konumu itibariyle, ziyaretçilerine eşsiz bir manzara sunmaktadır.
 - Bu tepe, özellikle doğa severlerin ve trekking yapanların ilgisini çekmektedir.
 - Künika Tepesi, flora ve fauna açısından, koruma altına alınması gereken bir bölge olarak görülmektedir.

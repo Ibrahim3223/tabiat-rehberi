@@ -43,7 +43,7 @@ Kastamonu-Duragan-Adadagi-Kızılcam3 milli parkına ziyaretçiler, Kastamonu il
 ## İlginç Bilgiler
 
 - Kastamonu ilinin en büyük milli parkı
-- 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
+
 - Karadeniz Bölgesi'nin yeşil örtüsü ile çevrili
 - zengin flora ve fauna ile dikkat çekiyor
 - mevsimsel değişimler ile her mevsim farklı güzellikler sunuyor

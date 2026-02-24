@@ -29,7 +29,7 @@ wikidata_id: "Q135582803"
 
 # Elti Hatun Türbesi, Mazgirt
 
-Elti Hatun Türbesi, Doğu Anadolu Bölgesi'nin Tunceli ilinin Mazgirt ilçesinde yer alan bir tarihi yapıdır. Bu yapı, yaklaşık 140 hektarlık bir alan içerisinde bulunmakta ve ziyaretçiler için önemli bir kültürel merkez olarak hizmet vermektedir. Elti Hatun Türbesi, bölgenin tarihi geçmişine ışık tutan önemli bir eser olarak kabul edilmektedir. Yapının mimarisi, bölgenin geleneksel tarzını yansıtmakta ve ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
+Elti Hatun Türbesi, Doğu Anadolu Bölgesi'nin Tunceli ilinin Mazgirt ilçesinde yer alan bir tarihi yapıdır. Elti Hatun Türbesi, bölgenin tarihi geçmişine ışık tutan önemli bir eser olarak kabul edilmektedir. Yapının mimarisi, bölgenin geleneksel tarzını yansıtmakta ve ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Elti Hatun Türbesi'nin tarihi geçmişi, bölgeye hakim olan çeşitli medeniye
 
 ## Coğrafya
 
-Elti Hatun Türbesi, Tunceli ilinin Mazgirt ilçesinde, yaklaşık 140 hektarlık bir alan içerisinde yer almaktadır. Bu alan, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Türbe, çevresindeki dağların ve ovaların manzarasına karşı, ziyaretçilere güzel bir görünüm sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri taşımakta ve dört mevsim ayrı bit yaşanmaktadır. Elti Hatun Türbesi'nin bulunduğu, bölgenin flora ve faunasına ev sahipliği yapmakta ve çeşitli bitki ve hayvan türlerine yaşam alanı sunmaktadır.
+ Bu alan, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Türbe, çevresindeki dağların ve ovaların manzarasına karşı, ziyaretçilere güzel bir görünüm sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri taşımakta ve dört mevsim ayrı bit yaşanmaktadır. Elti Hatun Türbesi'nin bulunduğu, bölgenin flora ve faunasına ev sahipliği yapmakta ve çeşitli bitki ve hayvan türlerine yaşam alanı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,4 @@ Elti Hatun Türbesi'ni ziyaret etmek, Tunceli ilinin Mazgirt ilçesine gelmek is
 - Elti Hatun Türbesi, bölgenin tarihi geçmişine ışık tutan önemli bir eser olarak kabul edilmektedir.
 - Türbenin mimarisi, bölgenin geleneksel tarzını yansıtmakta ve ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
-- Elti Hatun Türbesi, yaklaşık 140 hektarlık bir alan içerisinde bulunmakta ve ziyaretçiler için önemli bir kültürel merkez olarak hizmet vermektedir.
 

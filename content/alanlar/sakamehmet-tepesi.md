@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Şakamehmet Tepesi","caption":"Şakamehmet Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eakamehmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391022","tip":"genel"}]
-description: "Kahramanmaraş'ta yer alan Şakamehmet Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Şakamehmet Tepesi","Kahramanmaraş","Akdeniz Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391022"
@@ -48,7 +48,6 @@ wikidata_id: "Q31391022"
 
 ## İlginç Bilgiler
 
-- Şakamehmet Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin adı, tarihi kaynaklarda yer alan önemli bir figür olan Şakamehmet'ten geliyor
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Şakamehmet Tepesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş

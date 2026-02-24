@@ -49,8 +49,6 @@ Demokrasi ve Özgürlükler Adası Müze Kompleksi, yıl boyunca ziyaretçilere 
 
 ## İlginç Bilgiler
 
-- Demokrasi ve Özgürlükler Adası Müze Kompleksi, yaklaşık 140 hektarlık bir alanı kaplıyor.
-
 - Ada, doğal güzellikleri ile de dikkat çekiyor.
 - Ada, çeşitli bitki türleri ile dolu.
 - Ada, çeşitli hayvan türleri ile dikkat çekiyor.

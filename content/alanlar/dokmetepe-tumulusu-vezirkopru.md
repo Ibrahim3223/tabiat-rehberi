@@ -49,8 +49,6 @@ Dökmetepe Tümülüsü, ziyaretçilerini tarihi ve doğal güzelliği ile etkil
 
 ## İlginç Bilgiler
 
-- Dökmetepe Tümülüsü, 140 hektarlık bir alanı kaplıyor.
-
 - Dökmetepe Tümülüsü, Karadeniz Bölgesi'nin önemli tarihi yerlerinden biri olarak kabul ediliyor.
 - Bu tümülüs, Samsun'un önemli turistik yerlerinden biri olarak bilinir.
 - Dökmetepe Tümülüsü, flora ve fauna açısından zengin bir yerdir.

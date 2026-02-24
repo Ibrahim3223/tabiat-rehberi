@@ -36,7 +36,7 @@ Kuzalan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölg
 
 ## Coğrafya
 
-Kuzalan Tepesi, Denizli'nin Ege Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Kuzalan Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor. Bu nedenle, tepe üzerinden, çevre vùnglerin güzelliğini seyretme mümkün. Tepenin iklimi, Ege Bölgesi'nin genel iklimine benzer. Kuzalan Tepesi, aynı zamanda yerel halkın ve turistlerin ziyaret ettiği bir yer. Tepenin bulunduğu alan, tarihi ve kültürel açıdan önemli bir bölge.
+Kuzalan Tepesi, Denizli'nin Ege Bölgesi'nde yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Kuzalan Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor. Bu nedenle, tepe üzerinden, çevre vùnglerin güzelliğini seyretme mümkün. Tepenin iklimi, Ege Bölgesi'nin genel iklimine benzer. Kuzalan Tepesi, aynı zamanda yerel halkın ve turistlerin ziyaret ettiği bir yer. Tepenin bulunduğu alan, tarihi ve kültürel açıdan önemli bir bölge.
 
 ## Flora ve Fauna
 

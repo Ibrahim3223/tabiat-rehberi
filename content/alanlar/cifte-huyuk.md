@@ -49,7 +49,7 @@ Hatay ilinin zengin tarihi ve doğal güzelliklerini bir araya getiren Çifte H�
 ## İlginç Bilgiler
 
 - Çifte Hüyük, Hatay ilinin önemli tarihi ve doğal güzelliklerinden biri.
-- Bu destinasyon, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Çifte Hüyük'ün coğrafi konumu, ziyaretçilerine geniş bir perspektif sunuyor.
 - Bu alan, çeşitli bitki türleri ve hayvanlar ile dolu.
 - Çifte Hüyük'ü ziyaret etmek, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim olacak.

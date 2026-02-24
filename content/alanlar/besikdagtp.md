@@ -42,7 +42,6 @@ BESİKDAG_TP'yi ziyaret etmek, doğa severler için unutulmaz bir deneyimdir. Bu
 
 ## İlginç Bilgiler
 
-- BESİKDAG_TP, 140 hektarlık bir alana sahiptir
 - Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunmakta olup, ziyaretçilerin ilgi odağı olmaktadır
 - BESİKDAG_TP, İç Anadolu Bölgesi'nde yer alan bir milli parktır
 - Bu bölgenin coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşmaktadır

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080326944%29.jpg","alt":"Mira Tepesi manzarası","credit":"SALTOnline from Istanbul, Turkey","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/60/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080019885%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080019885%29.jpg/1280px-Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080019885%29.jpg","alt":"Mira Tepesi - Zeyrek, Fatih, İstanbul (13080019885)","credit":"SALTOnline from Istanbul, Turkey","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080014635%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080014635%29.jpg","alt":"Mira Tepesi - Zeyrek, Fatih, İstanbul (13080014635)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/36/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080015375%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/36/Zeyrek%2C_Fatih%2C_%C4%B0stanbul_%2813080015375%29.jpg","alt":"Mira Tepesi - Zeyrek, Fatih, İstanbul (13080015375)","credit":"SALTOnline from Istanbul, Turkey","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mira%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548220","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden Siirt'te bulunan Mira Tepesi, 140 hektarlık bir alanı kaplıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğal güzelliği ile mest ediyor."
+"
 keywords: ["Mira Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","Doğa","Tepeler","Yeşil Alanlar"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31548220"
@@ -48,8 +48,6 @@ Mira Tepesi, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor. Bu b�
 Mira Tepesi'ni ziyaret etmek, doğa severler ve tarihi geçmişe ilgi duyanlar için büyük bir fırsat. Bu tepeye ulaşmak için, Siirt iline gelerek buradan gerekli ulaşım araçlarını kullanma mümkün. Mira Tepesi'ni ziyaret edecekler,especially ilkbahar ve sonbahar mevsimlerinde gelmeleri tavsiye edilir. Bu mevsimlerde, hava koşulları daha uygun ve doğa daha yeşil. Ziyaretçiler, Mira Tepesi'nde doğa yürüyüşü, fotoğrafçılık ve piknik gibi aktiviteler yapabilirler.
 
 ## İlginç Bilgiler
-
-- Mira Tepesi, 140 hektarlık bir alanı kaplıyor.
 
 - Mira Tepesi, Siirt ilinin sınırları içinde yer alıyor.
 - Bu tepe, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri.

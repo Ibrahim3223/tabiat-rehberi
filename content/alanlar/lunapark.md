@@ -51,7 +51,7 @@ Lunapark, yıl boyunca ziyaret edilebilir bir destinasyondur. Ziyaretçiler, Lun
 ## İlginç Bilgiler
 
 - Lunapark, İzmir'in en önemli turizm merkezlerinden biridir
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Lunapark, Ege Bölgesi'nin zengin flora ve faunasına ev sahipliği yapar
 - Lunapark'ta, plajda güneşlenmek, yeşil alanlarda piknik yapmak gibi birçok aktivite seçeneği vardır
 - Lunapark, yıl boyunca ziyaret edilebilir bir destinasyondur

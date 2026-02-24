@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/G%C3%B6ky%C3%BCz%C3%BCnden_Gebze_manzaras%C4%B1.jpg","alt":"GEBZE manzarası","credit":"Erişim","license":"cc0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Gebze_Merkez_%2820221116%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gebze_Merkez_%2820221116%29.jpg/1280px-Gebze_Merkez_%2820221116%29.jpg","alt":"GEBZE - Gebze Merkez (20221116)","credit":"Kadı Kadı","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Marmaray_Gebze_Dura%C4%9F%C4%B1_%28Gebze_YHT%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marmaray_Gebze_Dura%C4%9F%C4%B1_%28Gebze_YHT%29.jpg/1280px-Marmaray_Gebze_Dura%C4%9F%C4%B1_%28Gebze_YHT%29.jpg","alt":"GEBZE - Marmaray Gebze Durağı (Gebze YHT)","credit":"Sezenkerem","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5f/41_Arc-Gebze_Street_2017.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/41_Arc-Gebze_Street_2017.jpg/1280px-41_Arc-Gebze_Street_2017.jpg","alt":"GEBZE - 41 Arc-Gebze Street 2017","credit":"Türkali","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/64/41_Arc-Gebze_Street_Rain.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/41_Arc-Gebze_Street_Rain.jpg/1280px-41_Arc-Gebze_Street_Rain.jpg","alt":"GEBZE - 41 Arc-Gebze Street Rain","credit":"Türkali","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/41_Arc-Gebze_Street_G%C3%B6k.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/41_Arc-Gebze_Street_G%C3%B6k.jpg/1280px-41_Arc-Gebze_Street_G%C3%B6k.jpg","alt":"GEBZE - 41 Arc-Gebze Street Gök","credit":"Türkali","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GEBZE","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228762","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli milli parklarından biri olan Gebze, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna","gezinti"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228762"
@@ -43,7 +43,6 @@ Gebze milli parkını ziyaret etmek, doğa severler ve tarih meraklıları için
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nin önemli milli parklarından biri
 - zengin flora ve fauna yapısı
 - tarihi önemiı

@@ -28,7 +28,7 @@ wikidata_id: "Q31391120"
 
 # Karageh Tepesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Karageh Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Karageh Tepesi, Sivas'ın tarihi ve coğrafi açıdan önemli noktalarından biri olarak kabul ediliyor. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Karageh Tepesi, Sivas'ın tarihi ve coğrafi açıdan önemli noktalarından biri olarak kabul ediliyor. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karageh Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyun
 
 ## Coğrafya
 
-Karageh Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, bölgenin coğrafi özellikleri ile uyumlu bir şekilde diseñilmiş ve ziyaretçilere geniş bir görüş açısı sunuyor. Karageh Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu geniş alan, çeşitli bitki türleri ve hayvanları barındırıyor. Bu tepe, bölgenin iklimi ve coğrafi özellikleri nedeniyle, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Karageh Tepesi, Sivas'ın coğrafi açıdan önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilere bölgenin güzelliklerini keşfetme fırsatı sunuyor.
+Karageh Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, bölgenin coğrafi özellikleri ile uyumlu bir şekilde diseñilmiş ve ziyaretçilere geniş bir görüş açısı sunuyor. Bu tepe, bölgenin iklimi ve coğrafi özellikleri nedeniyle, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Karageh Tepesi, Sivas'ın coğrafi açıdan önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilere bölgenin güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,6 +49,6 @@ Karageh Tepesi, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor.
 ## İlginç Bilgiler
 
 - Karageh Tepesi, Sivas'ın tarihi ve coğrafi açıdan önemli noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Karageh Tepesi, çeşitli bitki türleri ve hayvanları barındırıyor
 - Bu tepe, bölgenin iklimi ve coğrafi özellikleri nedeniyle, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor

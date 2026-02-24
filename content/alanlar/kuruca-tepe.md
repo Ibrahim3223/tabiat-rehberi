@@ -36,7 +36,7 @@ Kuruca Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin
 
 ## Coğrafya
 
-Kuruca Tepe, Antalya'nın Akdeniz Bölgesi'nde, deniz seviyesinden yüksek bir konumda yer alıyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresinde, çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, Akdeniz iklimi olarak kabul ediliyor ve yazları sıcak, kışları ılıman geçiyor. Kuruca Tepe'nin coğrafi yapısı, ziyaretçilerin, tepeye tırmanırken, manzaranın güzelliği ve bölgenin doğal güzelliklerini keşfetmelerine olanak tanıyor. Ayrıca, tepeye yakın olan köyler ve kasabalar, ziyaretçilerin, bölgenin kültürel mirasını keşfetmelerine yardımcı oluyor.
+Kuruca Tepe, Antalya'nın Akdeniz Bölgesi'nde, deniz seviyesinden yüksek bir konumda yer alıyor. Bölgenin iklimi, Akdeniz iklimi olarak kabul ediliyor ve yazları sıcak, kışları ılıman geçiyor. Kuruca Tepe'nin coğrafi yapısı, ziyaretçilerin, tepeye tırmanırken, manzaranın güzelliği ve bölgenin doğal güzelliklerini keşfetmelerine olanak tanıyor. Ayrıca, tepeye yakın olan köyler ve kasabalar, ziyaretçilerin, bölgenin kültürel mirasını keşfetmelerine yardımcı oluyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kuruca Tepe, ziyaretçilerin, tepeye tırmanarak, manzaranın güzelliği ve bö
 
 ## İlginç Bilgiler
 
-- Kuruca Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepe, deniz seviyesinden yüksek bir konumda yer alıyor.
 - Bölgenin iklimi, Akdeniz iklimi olarak kabul ediliyor.
 - Kuruca Tepe, çeşitli bitki türleri ve zengin fauna ile ünlü bir bölgedir.

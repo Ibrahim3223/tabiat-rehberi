@@ -30,7 +30,7 @@ Artvin-Goktas-Baskoy Dogu Kayini milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Artvin-Goktas-Baskoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nin kuzeydoğusunda yer alır. Milli park, yüksek bir konumda ve 140 hektarlık bir alanı kaplar. Milli parkın coğrafyası, dağlık ve engebeli arazilerden oluşur. Bölge, Karadeniz ikliminin etkisinde olup, yağışlı ve nemli bir hava sahiptir. Milli parkın etrafında, tarihi yapılar ve geleneksel köyler bulunmaktadır. Milli parkın coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunar. Dağlar, ormanlar ve nehirler, milli parkın coğrafyasının önemli bileşenleridir. Milli parkın coğrafyası, ziyaretçileri tarafından büyük ilgi görmektedir.
+Artvin-Goktas-Baskoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nin kuzeydoğusunda yer alır. Milli parkın coğrafyası, dağlık ve engebeli arazilerden oluşur. Bölge, Karadeniz ikliminin etkisinde olup, yağışlı ve nemli bir hava sahiptir. Milli parkın etrafında, tarihi yapılar ve geleneksel köyler bulunmaktadır. Milli parkın coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunar. Dağlar, ormanlar ve nehirler, milli parkın coğrafyasının önemli bileşenleridir. Milli parkın coğrafyası, ziyaretçileri tarafından büyük ilgi görmektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Artvin-Goktas-Baskoy Dogu Kayini milli parkına ziyaret, yılın her dönemi mü
 
 ## İlginç Bilgiler
 
-- Milli parkın, 140 hektarlık bir alanı kaplar
 - Milli park, yüksek bir konumda
 - Milli parkın coğrafyası, dağlık ve engebeli arazilerden oluşur
 - Milli park, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/French_Service_g%C3%A9ographique_de_l%27arm%C3%A9e%2C_Amouk_%28FL147439329_4083514%29.jpg","alt":"Amik Gölü manzarası","credit":"Service géographique de l'armée","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/French_Service_g%C3%A9ographique_de_l%27arm%C3%A9e%2C_Amouk_%28FL147439329_4083514%29.jpg/960px-French_Service_g%C3%A9ographique_de_l%27arm%C3%A9e%2C_Amouk_%28FL147439329_4083514%29.jpg","alt":"Amik Gölü","caption":"Amik Gölü","credit":"French Service géographique de l'armée, Amouk (FL147439329 4083514)","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amik%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q3656281","tip":"genel"}]
 description: "Hatay'da bulunan Amik Gölü, 1200 hektarlık bir alanı kaplıyor ve önemli bir sulak alan olarak biliniyor."

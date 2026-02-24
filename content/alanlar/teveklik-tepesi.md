@@ -36,7 +36,7 @@ Teveklik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Teveklik Tepesi, Karadeniz Bölgesi'nin dağlık bölgesinde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu tepe, Ordu'nun kuzeyinde yer alan dağlık bir bölgede bulunmaktadır ve yaklaşık 140 hektarlık bir alanı kaplar. Teveklik Tepesi, deniz seviyesinden yüksek bir konumda yer alır ve bu nedenle, ziyaretçilerine muhteşem bir manzara sunar. Bu bölge, aynı zamanda zengin fauna ve flora çeşitliliğine sahip olup, birçok bitki ve hayvan türünün yaşadığı bir alandır. Teveklik Tepesi, coğrafi olarak önemli bir bölgede yer alır ve ziyaretçilerine hem doğal güzelliğini hem de coğrafi konumunu sunar. Bu tepe, aynı zamanda önemli bir su kaynaklarına sahiptir ve bölgenin ekolojik dengesini sağlar.
+Teveklik Tepesi, Karadeniz Bölgesi'nin dağlık bölgesinde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Teveklik Tepesi, deniz seviyesinden yüksek bir konumda yer alır ve bu nedenle, ziyaretçilerine muhteşem bir manzara sunar. Bu bölge, aynı zamanda zengin fauna ve flora çeşitliliğine sahip olup, birçok bitki ve hayvan türünün yaşadığı bir alandır. Teveklik Tepesi, coğrafi olarak önemli bir bölgede yer alır ve ziyaretçilerine hem doğal güzelliğini hem de coğrafi konumunu sunar. Bu tepe, aynı zamanda önemli bir su kaynaklarına sahiptir ve bölgenin ekolojik dengesini sağlar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Teveklik Tepesi, ziyaretçilerine hem doğal güzelliğini hem de coğrafi konum
 
 ## İlginç Bilgiler
 
-- Teveklik Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, deniz seviyesinden yüksek bir konumda yer alır.
 - Teveklik Tepesi, birçok bitki ve hayvan türünün yaşadığı bir alandır.
 - Bu tepe, aynı zamanda önemli bir su kaynaklarına sahiptir.

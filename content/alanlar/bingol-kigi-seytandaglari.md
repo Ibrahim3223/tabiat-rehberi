@@ -30,7 +30,7 @@ Bingol-Kigi Seytandaglari milli parkı, yüzyıllar boyunca doğal güzellikleri
 
 ## Coğrafya
 
-Bingol-Kigi Seytandaglari milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden biri. Parkın coğrafyası, dağlar, ormanlar ve çaylarla kaplı. 140 hektarlık bu alan, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor. Parkın zirvesine çıktığınızda, manzaranın güzelliği size çeşitli duygular yaşatacak. Doğal güzelliklerin korunmasına yönelik çalışmalara rağmen, parkın bazı bölgeleri ziyaretçilere kapalı tutuluyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim ayrımları net bir şekilde hissediliyor. Parkın giriş bölümünde, ziyaretçilere parkın coğrafi özelliklerini anlatan panolar bulunmakta.
+Bingol-Kigi Seytandaglari milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden biri. Parkın coğrafyası, dağlar, ormanlar ve çaylarla kaplı. Parkın zirvesine çıktığınızda, manzaranın güzelliği size çeşitli duygular yaşatacak. Doğal güzelliklerin korunmasına yönelik çalışmalara rağmen, parkın bazı bölgeleri ziyaretçilere kapalı tutuluyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim ayrımları net bir şekilde hissediliyor. Parkın giriş bölümünde, ziyaretçilere parkın coğrafi özelliklerini anlatan panolar bulunmakta.
 
 ## Flora ve Fauna
 

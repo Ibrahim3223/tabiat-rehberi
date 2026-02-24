@@ -49,7 +49,6 @@ Perşembe Hamamı, ziyaretçilere her mevsim farklı bir güzellik sunuyor. Bu p
 
 ## İlginç Bilgiler
 
-- Perşembe Hamamı, 140 hektarlık bir yeşil alanı kaplıyor.
 - Bu plaj, Marmara Bölgesi'nin en önemli plajlarından biri olarak biliniyor.
 - Perşembe Hamamı, tarihi değerleri ve doğal güzelliği ile ziyaretçilerini çekmeyi başarıyor.
 - Bu plaj, yerel hal ve yabancı ziyaretçiler tarafından sıkça ziyaret ediliyor.

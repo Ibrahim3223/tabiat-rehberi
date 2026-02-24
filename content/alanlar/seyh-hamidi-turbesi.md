@@ -37,7 +37,7 @@ Mardin'in Artuklu ilçesinde yer alan Şeyh Hamidi Türbesi, bölgenin tarihi ve
 
 ## Coğrafya
 
-Şeyh Hamidi Türbesi, Mardin'in Artuklu ilçesinde yer alır ve bölgenin coğrafi yapısını yansıtan bir konuma sahiptir. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur ve çevresi historical yapılarla çevrilidir. Bölgenin coğrafi özellikleri, türbenin inşa edildiği dönemde de önemli bir rol oynamıştır. Şeyh Hamidi Türbesi, bölgenin iklimine uygun bir şekilde tasarlanmış ve inşası sırasında coğrafi koşullar dikkate alınmıştır. Türbenin çevresi, Mardin'in tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Şeyh Hamidi Türbesi, bölgenin coğrafi ve tarihi zenginliğini bir araya getiren önemli bir mekandır.
+Şeyh Hamidi Türbesi, Mardin'in Artuklu ilçesinde yer alır ve bölgenin coğrafi yapısını yansıtan bir konuma sahiptir. Bölgenin coğrafi özellikleri, türbenin inşa edildiği dönemde de önemli bir rol oynamıştır. Şeyh Hamidi Türbesi, bölgenin iklimine uygun bir şekilde tasarlanmış ve inşası sırasında coğrafi koşullar dikkate alınmıştır. Türbenin çevresi, Mardin'in tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Şeyh Hamidi Türbesi, bölgenin coğrafi ve tarihi zenginliğini bir araya getiren önemli bir mekandır.
 
 ## Flora ve Fauna
 

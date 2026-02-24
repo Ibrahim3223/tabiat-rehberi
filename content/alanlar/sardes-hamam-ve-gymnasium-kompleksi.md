@@ -51,6 +51,5 @@ Sardes Hamam ve Gymnasium Kompleksi, ziyaretçilerine tarihi ve kültürel açı
 
 - Sardes Hamam ve Gymnasium Kompleksi, antik dönemden kalan önemli bir yapıdır.
 - Bu kompleks, Lidya Krallığı döneminde inşa edilmiştir.
-- Sardes Hamam ve Gymnasium Kompleksi, 140 hektarlık bir alana yayılmıştır.
 
 - Sardes Hamam ve Gymnasium Kompleksi, tarihi ve kültürel açıdan büyük önem taşımaktadır.

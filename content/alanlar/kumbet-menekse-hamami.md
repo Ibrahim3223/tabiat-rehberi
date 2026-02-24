@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","bitki gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg","alt":"Kümbet Menekşe Hamamı","caption":"Kümbet Menekşe Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCmbet%20Menek%C5%9Fe%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738437","tip":"genel"}]
-description: "Sivas'ın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Sivas'ın doğal güzelliklerini keşfedin."
 keywords: ["Sivas","doğal güzellik","Kümbet Menekşe Hamamı","plaj","İç Anadolu Bölgesi","turizm","gezi","yazılık"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738437"
@@ -37,7 +37,7 @@ Kümbet Menekşe Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor
 
 ## Coğrafya
 
-Kümbet Menekşe Hamamı, Sivas'ın merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu doğal güzelliğin coğrafi yapısı, genellikle düzlük ve hafif eğimli arazilerden oluşuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak passing. Bu bölgede, çeşitli bitki türleri ve zengin fauna found. Özellikle ilkbahar ve sonbahar aylarında, bölgenin doğal güzelliği daha da artıyor.
+ Bu doğal güzelliğin coğrafi yapısı, genellikle düzlük ve hafif eğimli arazilerden oluşuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak passing. Bu bölgede, çeşitli bitki türleri ve zengin fauna found. Özellikle ilkbahar ve sonbahar aylarında, bölgenin doğal güzelliği daha da artıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kümbet Menekşe Hamamı'na ulaşım, Sivas şehir merkezinden oldukça kolay. �
 
 ## İlginç Bilgiler
 
-- Kümbet Menekşe Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bölge, İç Anadolu Bölgesi'nin karasal iklim özellikleri gösteriyor.
 - İlkbahar aylarında, menekşe çiçeklerinin açması, burayı bir cennete dönüştürüyor.
 - Bölgede, çeşitli bitki türleri ve zengin fauna found.

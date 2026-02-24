@@ -14,8 +14,8 @@ aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"TAŞYARAN_TP","caption":"TAŞYARAN_TP","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TA%C5%9EYARAN_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228779","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Taşyaran Tabiat Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Taşyaran Tabiat Parkı","İç Anadolu Bölgesi","Tabiat Parkı","Yeşil Alan","Futbol Sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228779"
 ---
@@ -30,7 +30,7 @@ Taşyaran Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bu bölgeye y
 
 ## Coğrafya
 
-Taşyaran Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı türde manzaralar sunuyor. Parkın içinde, çeşitli yükseklikte tepeler ve vadiler bulunmakta, bu da ziyaretçilere parkın güzelliğini keşfetme fırsatı veriyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Parkın coğrafi konumu, ziyaretçilere bölgenin diğer güzide mekanlarına ulaşma fırsatı da veriyor.
+Taşyaran Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Parkın coğrafi yapısı, ziyaretçilere farklı türde manzaralar sunuyor. Parkın içinde, çeşitli yükseklikte tepeler ve vadiler bulunmakta, bu da ziyaretçilere parkın güzelliğini keşfetme fırsatı veriyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, yazları sıcak ve kurak, kışları soğuk ve karlı geçer. Parkın coğrafi konumu, ziyaretçilere bölgenin diğer güzide mekanlarına ulaşma fırsatı da veriyor.
 
 ## Flora ve Fauna
 

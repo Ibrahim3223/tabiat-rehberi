@@ -29,7 +29,7 @@ wikidata_id: "Q131390499"
 
 # Mukaddem Dede Türbesi
 
-Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyon. Bu özel alan, ziyaretçilerini både geçmişin izlerini taşıyan bir türbe ile çevreyi sarıp sarmalayan yeşilin dansı arasında bir yolculuğa çıkarıyor. Mukaddem Dede Türbesi, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerine geniş bir yeşil alan sunuyor.
+Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyon. Bu özel alan, ziyaretçilerini både geçmişin izlerini taşıyan bir türbe ile çevreyi sarıp sarmalayan yeşilin dansı arasında bir yolculuğa çıkarıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mukaddem Dede Türbesi, yüzyılların geçtiği ve tarihi olayların yaşandı�
 
 ## Coğrafya
 
-Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alıyor ve Akdeniz Bölgesi'nin doğal güzelliklerine sahip bir bölgede bulunuyor. Bu bölge, yeşilin her tonunu sunan ormanlarla çevrili ve ziyaretçilerini doğanın kucaklayışına davet ediyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Mukaddem Dede Türbesi'nin bulunduğu Silifke ilçesi, coğrafi olarak deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle ziyaretçilerine geniş bir manzara sunuyor. Türbe ve çevresi, doğanın güzelliğini ve bölgenin coğrafi özelliklerini gözler önüne sererek ziyaretçilerini büyülüyor. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve doğanın dansını izleme fırsatı veriyor.
+Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alıyor ve Akdeniz Bölgesi'nin doğal güzelliklerine sahip bir bölgede bulunuyor. Bu bölge, yeşilin her tonunu sunan ormanlarla çevrili ve ziyaretçilerini doğanın kucaklayışına davet ediyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Mukaddem Dede Türbesi'nin bulunduğu Silifke ilçesi, coğrafi olarak deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle ziyaretçilerine geniş bir manzara sunuyor. Türbe ve çevresi, doğanın güzelliğini ve bölgenin coğrafi özelliklerini gözler önüne sererek ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

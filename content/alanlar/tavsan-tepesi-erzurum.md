@@ -37,7 +37,7 @@ Tavşan Tepesi, yüzyıllar boyunca bölgenin önemli bir parçası olmuştur. T
 
 ## Coğrafya
 
-Tavşan Tepesi, Erzurum'un coğrafi yapısını ve doğal güzelliklerini eder. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve şehrin merkezine yakın bir konumda yer alır. Tavşan Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın kucağına davet eder. Tepenin coğrafi yapısı, ziyaretçilerin yürüyüş yapmasına, doğayı keşfetmesine ve güneşin batışını izlemesine olanak tanır. Tavşan Tepesi, Erzurum'un coğrafi güzelliklerini ve doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, aynı zamanda şehrin panoramik manzarasını sunar ve ziyaretçilerin Erzurum'un güzelliğini keşfetmesine olanak tanır.
+Tavşan Tepesi, Erzurum'un coğrafi yapısını ve doğal güzelliklerini eder. Tavşan Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın kucağına davet eder. Tepenin coğrafi yapısı, ziyaretçilerin yürüyüş yapmasına, doğayı keşfetmesine ve güneşin batışını izlemesine olanak tanır. Tavşan Tepesi, Erzurum'un coğrafi güzelliklerini ve doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, aynı zamanda şehrin panoramik manzarasını sunar ve ziyaretçilerin Erzurum'un güzelliğini keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Tavşan Tepesi, ziyaretçilerini doğanın kucağına davet eder ve Erzurum'un t
 ## İlginç Bilgiler
 
 - Tavşan Tepesi, Erzurum'un merkezine yakın bir konumda yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Tavşan Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın kucağına davet eder.
 - Bu tepe, Erzurum'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir destinasyondur.
 - Tavşan Tepesi, ziyaretçilerin yürüyüş yapmasına, doğayı keşfetmesine ve güneşin batışını izlemesine olanak tanır.

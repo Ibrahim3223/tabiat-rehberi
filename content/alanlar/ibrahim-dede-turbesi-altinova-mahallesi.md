@@ -29,7 +29,7 @@ wikidata_id: "Q131390571"
 
 # İbrahim Dede Türbesi (Altınova Mahallesi)
 
-İbrahim Dede Türbesi, Ayvalık'ın Altınova Mahallesi'nde yer alan ve 14. yüzyılda inşa edilmiş bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alanın içinde yer alır ve tarihi geçmişi ile dikkat çekmektedir. İbrahim Dede Türbesi, ziyaretçilerini geçmişe götürerek, tarihin derinliklerine inme fırsatı sunar. Türbenin mimarisi, o dönemin özelliklerini yansıtan bir yapıdır ve tarih meraklıları için önemli bir gezi noktasıdır. Ayvalık'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler, İbrahim Dede Türbesi'ni ziyaret etmeden geçmemelidir.
+İbrahim Dede Türbesi, Ayvalık'ın Altınova Mahallesi'nde yer alan ve 14. yüzyılda inşa edilmiş bir tarihi yapıdır. İbrahim Dede Türbesi, ziyaretçilerini geçmişe götürerek, tarihin derinliklerine inme fırsatı sunar. Türbenin mimarisi, o dönemin özelliklerini yansıtan bir yapıdır ve tarih meraklıları için önemli bir gezi noktasıdır. Ayvalık'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler, İbrahim Dede Türbesi'ni ziyaret etmeden geçmemelidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390571"
 
 ## Coğrafya
 
-İbrahim Dede Türbesi, Ayvalık'ın Altınova Mahallesi'nde yer alır ve yaklaşık 140 hektarlık bir alanın içinde bulunur. Türbe, deniz seviyesinden yüksek bir konumda yer alır ve çevresi, yeşilliklerle kaplı bir alandan oluşur. İbrahim Dede Türbesi, Ayvalık'ın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı kolaydır. Türbenin çevresinde, çeşitli tarihi yapılar ve doğal güzellikler bulunur ve ziyaretçiler, bu alanları keşfetme fırsatı sunar. Ayvalık'ın iklimi, ılıman bir iklimdir ve ziyaretçiler, yılın her döneminde İbrahim Dede Türbesi'ni ziyaret edebilir. Türbenin konumu, ziyaretçilere, tarihin zenginliklerini keşfetme fırsatı sunar ve Ayvalık'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler, İbrahim Dede Türbesi'ni ziyaret etmeden geçmemelidir.
+ Türbe, deniz seviyesinden yüksek bir konumda yer alır ve çevresi, yeşilliklerle kaplı bir alandan oluşur. İbrahim Dede Türbesi, Ayvalık'ın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı kolaydır. Türbenin çevresinde, çeşitli tarihi yapılar ve doğal güzellikler bulunur ve ziyaretçiler, bu alanları keşfetme fırsatı sunar. Ayvalık'ın iklimi, ılıman bir iklimdir ve ziyaretçiler, yılın her döneminde İbrahim Dede Türbesi'ni ziyaret edebilir. Türbenin konumu, ziyaretçilere, tarihin zenginliklerini keşfetme fırsatı sunar ve Ayvalık'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler, İbrahim Dede Türbesi'ni ziyaret etmeden geçmemelidir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ wikidata_id: "Q131390571"
 
 - İbrahim Dede Türbesi, 14. yüzyılda inşa edilmiştir.
 - Türbe, Ayvalık'ın Altınova Mahallesi'nde yer alır.
-- İbrahim Dede Türbesi, yaklaşık 140 hektarlık bir alanın içinde bulunur.
+
 - Türbe, deniz seviyesinden yüksek bir konumda yer alır.
 - İbrahim Dede Türbesi, yılın her döneminde ziyaret edilebilir.

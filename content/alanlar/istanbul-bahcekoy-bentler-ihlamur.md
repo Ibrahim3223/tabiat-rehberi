@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","çocuk oyunları","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Istanbul-Bahcekoy-Bentler Ihlamur","caption":"Istanbul-Bahcekoy-Bentler Ihlamur","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Bahcekoy-Bentler%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227746","tip":"genel"}]
-description: "İstanbul'un Bahçeköy bölgesinde bulunan Bentler Ihlamur milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlıyor."
+"
 keywords: ["milli park","Ihlamur","Bahçeköy","İstanbul","doğa","yeşil alan","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227746"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227746"
 
 # Istanbul-Bahcekoy-Bentler Ihlamur
 
-İstanbul'un Bahçeköy bölgesinde bulunan Bentler Ihlamur milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir doğa harikası. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunuyor. Bentler Ihlamur milli parkı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için mükemmel bir seçim.
+ Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunuyor. Bentler Ihlamur milli parkı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için mükemmel bir seçim.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bentler Ihlamur milli parkının tarihi geçmişi, İstanbul'un doğal güzellik
 
 ## Coğrafya
 
-Bentler Ihlamur milli parkı, İstanbul'un Bahçeköy bölgesinde yer alıyor ve 140 hektarlık geniş bir alanı kapsıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir habitat sunuyor. Bentler Ihlamur'un coğrafyası, ziyaretçilerine geniş açık alanlar, ormanlık bölgeler ve yürüyüş yolları sunuyor. Parkın iklimi, İstanbul'un genel iklimine benzer ve dört mevsim ziyaret edilebilir. Bentler Ihlamur milli parkı, şehrin merkezinden uzakta, doğayla iç içe bir ortam sunuyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Parkın topoğrafyası, çeşitli yüksekliklere sahip ve bu durum, ziyaretçilere farklı manzaralar sunuyor.
+ Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir habitat sunuyor. Bentler Ihlamur'un coğrafyası, ziyaretçilerine geniş açık alanlar, ormanlık bölgeler ve yürüyüş yolları sunuyor. Parkın iklimi, İstanbul'un genel iklimine benzer ve dört mevsim ziyaret edilebilir. Bentler Ihlamur milli parkı, şehrin merkezinden uzakta, doğayla iç içe bir ortam sunuyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Parkın topoğrafyası, çeşitli yüksekliklere sahip ve bu durum, ziyaretçilere farklı manzaralar sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bentler Ihlamur milli parkını ziyaret etmek, doğa severler ve aileler için h
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - yürüyüş yolları
 - piknik alanları
 - çocuk oyun alanları

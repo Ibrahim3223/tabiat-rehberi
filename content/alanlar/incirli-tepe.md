@@ -36,7 +36,7 @@ wikidata_id: "Q31390238"
 
 ## Coğrafya
 
-İncirli Tepe, Osmaniye'nin merkezinde yer alıyor ve şehrin coğrafi yapısını belirliyor. Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve şehrin en yüksek noktalarından biri. İncirli Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa yürüyüşleri ve trekking için ideal bir yer. İncirli Tepe'nin coğrafi konumu, ziyaretçilerine Osmaniye'nin doğal güzelliğini keşfetme fırsatı sunuyor. Tepe ve çevresindeki doğal güzellikler, ziyaretçileri doğanın içine çekiyor.
+İncirli Tepe, Osmaniye'nin merkezinde yer alıyor ve şehrin coğrafi yapısını belirliyor. İncirli Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa yürüyüşleri ve trekking için ideal bir yer. İncirli Tepe'nin coğrafi konumu, ziyaretçilerine Osmaniye'nin doğal güzelliğini keşfetme fırsatı sunuyor. Tepe ve çevresindeki doğal güzellikler, ziyaretçileri doğanın içine çekiyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31390238"
 ## İlginç Bilgiler
 
 - İncirli Tepe, Osmaniye'nin en yüksek noktalarından biri.
-- İncirli Tepe, 140 hektarlık bir alanı kapsıyor.
+
 - İncirli Tepe, zengin flora ve faunaya sahip.
 - İncirli Tepe, doğa severler için bir cennet.
 - İncirli Tepe, Osmaniye'nin önemli turizm noktalarından biri.

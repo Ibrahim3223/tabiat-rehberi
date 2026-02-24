@@ -14,7 +14,7 @@ aktiviteler: ["Gezi","Doğa yürüyüşü","Kuş gözlemi","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Hazar Gölü Sulak Alanı","caption":"Hazar Gölü Sulak Alanı","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228458","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Hazar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Gezi","Tarihçe","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228458"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228458"
 
 # Hazar Gölü Sulak Alanı
 
-Hazar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Göl ve çevresinin doğal güzelliği, ziyaretçilerini büyülerken, aynı zamanda çeşitli canlılara ev sahipliği yapmaktadır. Hazar Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul edilmektedir.
+ Göl ve çevresinin doğal güzelliği, ziyaretçilerini büyülerken, aynı zamanda çeşitli canlılara ev sahipliği yapmaktadır. Hazar Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Hazar Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Hazar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. 140 hektarlık sulak alan, göl ve çevresindeki toprakların birleşmesiyle oluşmuş ve bölgenin jeolojik yapısı, sulak alanın oluşumunda önemli bir rol oynamıştır. Gölün suyu, çevresindeki dağlardan gelen akarsularla beslenmektedir ve sulak alan, bölgenin su dengesini korumakta önemli bir görev üstlenmektedir. Hazar Gölü Sulak Alanı'nın coğrafi konumu, çeşitli bitki ve hayvan türlerinin yaşamına uygun koşullar sunmaktadır ve bu nedenle, sulak alan, bölge için önemli bir ekolojik alan olarak kabul edilmektedir.
+Hazar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Gölün suyu, çevresindeki dağlardan gelen akarsularla beslenmektedir ve sulak alan, bölgenin su dengesini korumakta önemli bir görev üstlenmektedir. Hazar Gölü Sulak Alanı'nın coğrafi konumu, çeşitli bitki ve hayvan türlerinin yaşamına uygun koşullar sunmaktadır ve bu nedenle, sulak alan, bölge için önemli bir ekolojik alan olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -41,8 +41,6 @@ Hazar Gölü Sulak Alanı, zengin bir flora ve fauna çeşitliliğine sahiptir. 
 Hazar Gölü Sulak Alanı, ziyaretçilerini doğanın güzelliği ile büyülemektedir. Sulak alan, gezi ve doğa yürüyüşleri için ideal bir yer olup, ziyaretçiler, gölün ve çevresinin doğal güzelliğini keşfedebilirler. Bölgeye, özel araçlarla veya toplu taşıma araçlarıyla ulaşılabilir ve sulak alan, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır, çünkü bu aylarda, bölge daha serin ve ziyaretçilere daha uygun koşullar sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Hazar Gölü Sulak Alanı, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Göl, çevresindeki dağlardan gelen akarsularla beslenmektedir.

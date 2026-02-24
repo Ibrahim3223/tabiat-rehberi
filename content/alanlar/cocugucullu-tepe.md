@@ -48,7 +48,6 @@ wikidata_id: "Q34829517"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Nevşehir'in önemli turizm merkezi
 - tarihi yapılar
 - doğal güzellikler

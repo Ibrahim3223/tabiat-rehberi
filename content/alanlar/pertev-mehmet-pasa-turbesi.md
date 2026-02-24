@@ -37,7 +37,7 @@ Pertev Mehmet Paşa Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu dön
 
 ## Coğrafya
 
-Pertev Mehmet Paşa Türbesi, Eyüpsultan'da bulunmaktadır. Bu bölge, İstanbul'un en önemli tarihi bölgelerinden biri olarak kabul edilmektedir. Türbenin etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır. Pertev Mehmet Paşa Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin iklimi, Marmara Bölgesi'nin karakteristik iklimine sahiptir. Bu iklim, ılıman ve nemlidir. Pertev Mehmet Paşa Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.
+Pertev Mehmet Paşa Türbesi, Eyüpsultan'da bulunmaktadır. Bu bölge, İstanbul'un en önemli tarihi bölgelerinden biri olarak kabul edilmektedir. Türbenin etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır. Türbenin iklimi, Marmara Bölgesi'nin karakteristik iklimine sahiptir. Bu iklim, ılıman ve nemlidir. Pertev Mehmet Paşa Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Pertev Mehmet Paşa Türbesi'ni ziyaret etmek, İstanbul'un tarihi mekanlarını
 
 - Pertev Mehmet Paşa Türbesi, İstanbul'un en önemli tarihi noktalarından biri olarak kabul edilmektedir.
 - Türbenin etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır.
-- Pertev Mehmet Paşa Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Türbenin iklimi, Marmara Bölgesi'nin karakteristik iklimine sahiptir.
 - Pertev Mehmet Paşa Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.

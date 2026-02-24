@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/dd/CYCLAMEN.jpg","alt":"Çiçekli Tabiat Parkı manzarası","credit":"Utku Kalaycıoğlu","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/%C3%87i%C3%A7ekli_K%C3%B6y%C3%BC%27nde_K%C4%B1%C5%9F.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%C3%87i%C3%A7ekli_K%C3%B6y%C3%BC%27nde_K%C4%B1%C5%9F.jpg/1280px-%C3%87i%C3%A7ekli_K%C3%B6y%C3%BC%27nde_K%C4%B1%C5%9F.jpg","alt":"Çiçekli Tabiat Parkı - Çiçekli Köyü'nde Kış","credit":"RIFAT AĞAR","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Cercis_siliquastrum_-_Judas_Tree_05.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cercis_siliquastrum_-_Judas_Tree_05.JPG/1280px-Cercis_siliquastrum_-_Judas_Tree_05.JPG","alt":"Çiçekli Tabiat Parkı - Cercis siliquastrum - Judas Tree 05","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/%C3%87i%C3%A7ekli_Yaylas%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%C3%87i%C3%A7ekli_Yaylas%C4%B1.jpg/1280px-%C3%87i%C3%A7ekli_Yaylas%C4%B1.jpg","alt":"Çiçekli Tabiat Parkı - Çiçekli Yaylası","credit":"Turreis10700","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Cercis_siliquastrum_-_Judas_Tree_03.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cercis_siliquastrum_-_Judas_Tree_03.JPG/1280px-Cercis_siliquastrum_-_Judas_Tree_03.JPG","alt":"Çiçekli Tabiat Parkı - Cercis siliquastrum - Judas Tree 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Cercis_siliquastrum_-_Judas_Tree_02.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cercis_siliquastrum_-_Judas_Tree_02.JPG/1280px-Cercis_siliquastrum_-_Judas_Tree_02.JPG","alt":"Çiçekli Tabiat Parkı - Cercis siliquastrum - Judas Tree 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C3%A7ekli%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228223","tip":"genel"}]
-description: "İzmir'in Bornova ilçesinde yer alan 140 hektarlık Çiçekli Tabiat Parkı, doğal güzellikleri ve zengin flora ile ziyaretçilerini bekliyor."
+"
 keywords: ["Çiçekli Tabiat Parkı","Bornova","İzmir","tabiat parkı","doğa","flora","fauna","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228223"
@@ -50,7 +50,6 @@ wikidata_id: "Q108228223"
 
 ## İlginç Bilgiler
 
-- Parkta, yaklaşık 200 futbol sahası büyüklüğünde bir alan bulunmakta
 - Park, flora ve fauna açısından oldukça zengin
 - Parkta, çeşitli su kaynakları bulunmakta
 - Park, İzmir'in önemli turizm merkezlerinden biri

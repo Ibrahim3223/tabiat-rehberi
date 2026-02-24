@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Balıkesir-Kalkim Karacam","caption":"Balıkesir-Kalkim Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Kalkim%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227675","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, doğa severler için bir hazine. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin gizli cenneti, doğa severler için bir hazine."
 keywords: ["Balıkesir","Kalkim Karacam","milli park","doğa","gezi","turizm","iç anadolu","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227675"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227675"
 
 # Balıkesir-Kalkim Karacam
 
-İç Anadolu Bölgesi'nin kalbinde, Balıkesir'in Kalkim ilçesinde yer alan Karacam milli parkı, 140 hektarlık geniş bir alanı kapsıyor. Doğa severler için gerçek bir cennet olan bu bölge, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbediyor. Karacam milli parkı, hem doğa tutkunları hem de tatil arayanlar için ideal bir destinasyon.
+ Doğa severler için gerçek bir cennet olan bu bölge, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbediyor. Karacam milli parkı, hem doğa tutkunları hem de tatil arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve 
 
 ## Coğrafya
 
-Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bölgenin coğrafi yapısı, ziyaretçilere geniş açıklıkta manzaralar sunuyor. İklim, İç Anadolu'nun karasal iklimine uygun olarak, kışın soğu ve yazın sıcak geçiyor. Çevre, doğal güzellikler ve canlılarla dolu. Parkın coğrafi konumu, ziyaretçilere geniş bir perspektif sunuyor ve doğanın güzelliğini tüm yönleriyle keşfetme imkanı sağlıyor.
+Karacam milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş açıklıkta manzaralar sunuyor. İklim, İç Anadolu'nun karasal iklimine uygun olarak, kışın soğu ve yazın sıcak geçiyor. Çevre, doğal güzellikler ve canlılarla dolu. Parkın coğrafi konumu, ziyaretçilere geniş bir perspektif sunuyor ve doğanın güzelliğini tüm yönleriyle keşfetme imkanı sağlıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Karacam milli parkına gitmek, doğa severler için gerçek bir macera. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Karacam milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Park, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Ziyaretçiler, parkta doğa yürüyüşleri, pikni ve fotoğrafçılık gibi aktivitelerle zaman geçirebilir.

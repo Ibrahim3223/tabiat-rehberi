@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik","bitki gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Kastamonu-Taşkörü-Çatalçam Karaçam","caption":"Kastamonu-Taşkörü-Çatalçam Karaçam","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Ta%C5%9Fk%C3%B6r%C3%BC-%C3%87atal%C3%A7am%20Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227951","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin. 140 hektarlık milli park, yeşilin ve doğanın tadını çıkarın."
+description: "Kastamonu'nun doğal güzelliklerini keşfedin."
 keywords: ["Kastamonu","milli park","doğa","yeşil","Karaçam","çevre","ekoloji","gezi","turizm","Karadeniz Bölgesi","çevre duyarlılığı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227951"
@@ -43,7 +43,7 @@ Kastamonu-Taşkörü-Çatalçam Karaçam milli parkını ziyaret etmek, doğa se
 ## İlginç Bilgiler
 
 - Kastamonu-Taşkörü-Çatalçam Karaçam milli parkı, Türkiye'nin önemli doğa alanlarından biridir.
-- Park, 140 hektarlık bir alanı kapsar.
+
 - Karaçam ağaçları, parkın karakteristik ağaç türleridir.
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Parkın ekolojik dengesi, flora ve faunanın uyum içinde yaşamasını sağlar.

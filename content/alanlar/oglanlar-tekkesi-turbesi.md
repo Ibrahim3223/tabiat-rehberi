@@ -29,7 +29,7 @@ wikidata_id: "Q131391463"
 
 # Oğlanlar Tekkesi Türbesi
 
-Oğlanlar Tekkesi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir mekan. Bu mekan, yaklaşık 140 hektarlık alanıyla, geniş bir yeşil alanı kapsar. Oğlanlar Tekkesi Türbesi, İstanbul'un tarihi geçmişini yansıtan önemli bir nokta. Burada, geçmişin izlerini sürerken, aynı zamanda İstanbul'un kültür ve tarihini keşfetme fırsatı bulacaksınız. Oğlanlar Tekkesi Türbesi, özelliklehistorya meraklıları ve kültürel zenginliklere ilgi duyan ziyaretçiler için ideal bir destinasyon.
+Oğlanlar Tekkesi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir mekan. Oğlanlar Tekkesi Türbesi, İstanbul'un tarihi geçmişini yansıtan önemli bir nokta. Burada, geçmişin izlerini sürerken, aynı zamanda İstanbul'un kültür ve tarihini keşfetme fırsatı bulacaksınız. Oğlanlar Tekkesi Türbesi, özelliklehistorya meraklıları ve kültürel zenginliklere ilgi duyan ziyaretçiler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Oğlanlar Tekkesi Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzan
 
 ## Coğrafya
 
-Oğlanlar Tekkesi Türbesi, Fatih ilçesinin merkezi bir konumunda yer alıyor. Bu mekan, İstanbul'un Marmara Bölgesi'ndeki coğrafi konumu itibariyle, şehrin kalbinde bulunan bir nokta. Oğlanlar Tekkesi Türbesi, yaklaşık 140 hektarlık geniş bir alanı kaplıyor. Bu geniş alan, ziyaretçilere geniş yeşil alanlar, tarihi yapılar ve kültür merkezleri sunuyor. Mekan, İstanbul'un iklimine uygun olarak, dört mevsim ziyaret edilebilir. Her mevsim, Oğlanlar Tekkesi Türbesi'ne farklı bir güzellik katıyor. İlkbahar ve sonbahar aylarında, mekanın yeşil alanları ziyaretçilere huzur verici bir atmosfer sunarken, kış aylarında tarihi yapıların güzelliği daha da belirginleşiyor. Yaz aylarında, ziyaretçiler bu tarihi mekanın serin atmosferinde dinlenebiliyorlar. Oğlanlar Tekkesi Türbesi, coğrafi konumu itibariyle, İstanbul'un önemli bir kültür ve tarih merkezini oluşturuyor.
+Oğlanlar Tekkesi Türbesi, Fatih ilçesinin merkezi bir konumunda yer alıyor. Bu mekan, İstanbul'un Marmara Bölgesi'ndeki coğrafi konumu itibariyle, şehrin kalbinde bulunan bir nokta. Bu geniş alan, ziyaretçilere geniş yeşil alanlar, tarihi yapılar ve kültür merkezleri sunuyor. Mekan, İstanbul'un iklimine uygun olarak, dört mevsim ziyaret edilebilir. Her mevsim, Oğlanlar Tekkesi Türbesi'ne farklı bir güzellik katıyor. İlkbahar ve sonbahar aylarında, mekanın yeşil alanları ziyaretçilere huzur verici bir atmosfer sunarken, kış aylarında tarihi yapıların güzelliği daha da belirginleşiyor. Yaz aylarında, ziyaretçiler bu tarihi mekanın serin atmosferinde dinlenebiliyorlar. Oğlanlar Tekkesi Türbesi, coğrafi konumu itibariyle, İstanbul'un önemli bir kültür ve tarih merkezini oluşturuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Oğlanlar Tekkesi Türbesi'ni ziyaret etmek, özellikle historya meraklıları v
 - Oğlanlar Tekkesi Türbesi, İstanbul'un en eski tarihi mekanlarından birisidir.
 - Mekan, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır.
 - Oğlanlar Tekkesi Türbesi, özellikle Osmanlı Dönemi'nde önemli bir kültür ve eğitim merkezi olarak görev yapmıştır.
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Oğlanlar Tekkesi Türbesi, İstanbul'un Marmara Bölgesi'ndeki coğrafi konumu itibariyle, şehrin kalbinde bulunan bir noktadır.

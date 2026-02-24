@@ -51,7 +51,7 @@ Germiyanoğlu Süleyman Şah Türbesi'ni ziyaret etmek, tarihi ve doğal güzell
 ## İlginç Bilgiler
 
 - Germiyanoğlu Süleyman Şah Türbesi, Manisa'nın önemli tarihi yapılarından biri.
-- Bölge, 140 hektarlık bir yeşil alan sunuyor.
+
 - Türbe, Germiyanoğlu Süleyman Şah'ın anısına inşa edilmiş.
 - Bölgede, çeşitli bitki türleri ve hayvanlar yer alıyor.
 - İlkbahar ve yaz ayları, ziyaret için en uygun dönem.

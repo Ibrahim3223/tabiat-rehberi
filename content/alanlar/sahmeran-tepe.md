@@ -28,7 +28,7 @@ wikidata_id: "Q31385496"
 
 # Şahmeran Tepe
 
-Şahmeran Tepe, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Gaziantep'in merkezine yakın bir konumda yer alıyor. Şahmeran Tepe'nin yüksekliği ve genişliği, ziyaretçilere bölgenin panoramik manzarasını sunuyor. Tepe, bölgenin flora ve faunasına ev sahipliği yapıyor ve çeşitli bitki türleri ile hayvanları barındırıyor. Şahmeran Tepe, aynı zamanda tarihsel açıdan da önemli bir noktada bulunuyor ve bölgede yapılan kazılar, tarihi geçmişi hakkında bilgi veriyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir açık alan sunuyor.
+Şahmeran Tepe, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Şahmeran Tepe'nin yüksekliği ve genişliği, ziyaretçilere bölgenin panoramik manzarasını sunuyor. Tepe, bölgenin flora ve faunasına ev sahipliği yapıyor ve çeşitli bitki türleri ile hayvanları barındırıyor. Şahmeran Tepe, aynı zamanda tarihsel açıdan da önemli bir noktada bulunuyor ve bölgede yapılan kazılar, tarihi geçmişi hakkında bilgi veriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31385496"
 
 ## Coğrafya
 
-Şahmeran Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, bölgenin karakteristik coğrafi yapısını yansıtıyor ve ziyaretçilere geniş bir manzara sunuyor. Şahmeran Tepe'nin coğrafi konumu, bölgenin iklimini de şekillendiriyor. Bölge, genellikle sıcak ve kurak bir iklim karakteristiğine sahip olsa da, tepe ve çevresinin yüksekliği, iklimi hafifletiyor. Şahmeran Tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor ve çevresindeki vadiler, bölgenin tarım faaliyetlerine katkıda bulunuyor. Tepe ve çevresinin coğrafi özellikleri, bölgenin flora ve faunasına da katkıda bulunuyor ve çeşitli bitki türleri ile hayvanları barındırıyor. 200 futbol sahası büyüklüğündeki bu alan, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilere geniş bir açık alan sunuyor.
+Şahmeran Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, bölgenin karakteristik coğrafi yapısını yansıtıyor ve ziyaretçilere geniş bir manzara sunuyor. Şahmeran Tepe'nin coğrafi konumu, bölgenin iklimini de şekillendiriyor. Bölge, genellikle sıcak ve kurak bir iklim karakteristiğine sahip olsa da, tepe ve çevresinin yüksekliği, iklimi hafifletiyor. Şahmeran Tepe, aynı zamanda bölgenin su kaynaklarına da ev sahipliği yapıyor ve çevresindeki vadiler, bölgenin tarım faaliyetlerine katkıda bulunuyor. Tepe ve çevresinin coğrafi özellikleri, bölgenin flora ve faunasına da katkıda bulunuyor ve çeşitli bitki türleri ile hayvanları barındırıyor.
 
 ## Flora ve Fauna
 
@@ -44,12 +44,10 @@ wikidata_id: "Q31385496"
 
 ## Ziyaret Bilgileri
 
-Şahmeran Tepe, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepe, Gaziantep'in merkezine yakın bir konumda yer alıyor ve ulaşımı kolay. Şahmeran Tepe, yılın her döneminde ziyaret edilebilir, ancak en iyi ziyaret zamanı, bölgenin iklimine göre değişiyor. Ziyaretçiler, tepe ve çevresini gezerken, bölgenin flora ve faunasını keşfedebilir ve tarihsel değerleri hakkında bilgi edinebilir. Şahmeran Tepe, ziyaretçilere geniş bir açık alan sunuyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ziyaretçilerin, tepe ve çevresini keşfetmesi yaklaşık 2-3 saat sürüyor.
+Şahmeran Tepe, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepe, Gaziantep'in merkezine yakın bir konumda yer alıyor ve ulaşımı kolay. Şahmeran Tepe, yılın her döneminde ziyaret edilebilir, ancak en iyi ziyaret zamanı, bölgenin iklimine göre değişiyor. Ziyaretçiler, tepe ve çevresini gezerken, bölgenin flora ve faunasını keşfedebilir ve tarihsel değerleri hakkında bilgi edinebilir. Ziyaretçilerin, tepe ve çevresini keşfetmesi yaklaşık 2-3 saat sürüyor.
 
 ## İlginç Bilgiler
 
-- Şahmeran Tepe, 140 hektarlık bir alanı kapsıyor.
-- Tepe, 200 futbol sahası büyüklüğünde.
 - Şahmeran Tepe, Gaziantep'in merkezine yakın bir konumda yer alıyor.
 - Tepe, bölgenin flora ve faunasına ev sahipliği yapıyor.
 - Şahmeran Tepe, tarihsel açıdan da önemli bir noktada bulunuyor.

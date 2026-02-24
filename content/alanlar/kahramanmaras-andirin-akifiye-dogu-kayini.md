@@ -22,7 +22,7 @@ wikidata_id: "Q108228485"
 
 # Kahramanmaras-Andirin-Akifiye Dogu Kayini
 
-Kahramanmaras-Andirin-Akifiye Dogu Kayini, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Parkın etrafı, farklı türde ağaçlarla çevrili ve bu yeşil alan, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve doğayı deneyimleme noktası olarak hizmet ediyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekmeyi başarıyor. Bu milli park, sadece doğal güzellikleri ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilere hem doğayı hem de kültürel değerleri deneyimleme fırsatı sunuyor.
+ Parkın etrafı, farklı türde ağaçlarla çevrili ve bu yeşil alan, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve doğayı deneyimleme noktası olarak hizmet ediyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekmeyi başarıyor. Bu milli park, sadece doğal güzellikleri ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilere hem doğayı hem de kültürel değerleri deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 

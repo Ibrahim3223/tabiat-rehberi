@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Canakkale-Yenice-Asar Kayin","caption":"Canakkale-Yenice-Asar Kayin","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice-Asar%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227255","tip":"genel"}]
-description: "Marmara Bölgesi'nde yer alan Canakkale-Yenice-Asar Kayin milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Çanakkale","Marmara Bölgesi","milli park","Asar Kayin","Yenice","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227255"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227255"
 
 # Canakkale-Yenice-Asar Kayin
 
-Çanakkale-Yenice-Asar Kayin milli parkı, Marmara Bölgesi'nin güzelliklerini bir araya getiren 140 hektarlık bir yeşil alana sahip. Milli park, Çanakkale'nin Yenice ilçesinde yer alıyor ve Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor. Ziyaretçiler, bu güzel parkta hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
+ Milli park, Çanakkale'nin Yenice ilçesinde yer alıyor ve Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor. Ziyaretçiler, bu güzel parkta hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Canakkale-Yenice-Asar Kayin milli parkını ziyaret etmek, doğa severler için 
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık bir alanı bulunuyor
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Çanakkale'nin Yenice ilçesinde yer alıyor
 - Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor
 - Ziyaretçiler, bu parkta çeşitli bitki ve hayvan türleri ile karşılaşabilir

@@ -37,7 +37,7 @@ Mezar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Mezar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir tepe. Bu tepe, 140 hektarlık alanı ile oldukça geniş bir doğal alanı kapsıyor. Tepenin eteklerinde, yerleşim yerleri ve tarım alanları bulunuyor. Mezar Tepesi'nin coğrafi konumu, visitörlerine bölgeyi keşfetme fırsatı sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrımları net bir şekilde yaşanıyor. Mezar Tepesi'nin coğrafi yapısı, ziyaretçilerine hem kışın karları hem de yazın yeşilliği ile birlikte, her mevsim farklı bir güzellik sunuyor. Bu tepenin çevresi, çeşitli bitki türleri ile kaplı ve bu bitkiler, Mezar Tepesi'nin doğal güzelliğine katkıda bulunuyor.
+Mezar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden bir tepe. Tepenin eteklerinde, yerleşim yerleri ve tarım alanları bulunuyor. Mezar Tepesi'nin coğrafi konumu, visitörlerine bölgeyi keşfetme fırsatı sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrımları net bir şekilde yaşanıyor. Mezar Tepesi'nin coğrafi yapısı, ziyaretçilerine hem kışın karları hem de yazın yeşilliği ile birlikte, her mevsim farklı bir güzellik sunuyor. Bu tepenin çevresi, çeşitli bitki türleri ile kaplı ve bu bitkiler, Mezar Tepesi'nin doğal güzelliğine katkıda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Mezar Tepesi, zengin bir flora ve fauna sunuyor. Bu tepe, çeşitli bitki türle
 Mezar Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi zenginliği keşfetmek isteyenler için ideal bir gezi noktası. Bu tepeye ulaşım, Erzurum'un merkezinden kolayca sağlanabiliyor. Mezar Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları. Bu dönemde, tepe ve çevresindeki doğa, en güzel hali ile ziyaretçilerini karşılıyor. Ziyaretçiler, Mezar Tepesi'ne çıkarak, bölgenin manzarasını izleyebilir ve tarihi tentanglarını keşfedebilir. Mezar Tepesi, ziyaretçilerine hem doğa yürüyüşü hem de tarihi keşif fırsatı sunuyor.
 
 ## İlginç Bilgiler
-
-- Mezar Tepesi, 140 hektarlık bir alanı kapsıyor.
 
 - Mezar Tepesi, Erzurum'un sınırları içerisinde yer alıyor.
 - Tepenin eteklerinde, yerleşim yerleri ve tarım alanları bulunuyor.

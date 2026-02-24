@@ -37,7 +37,7 @@ Reyhan Paşa Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu hamam, yüzyılla
 
 ## Coğrafya
 
-Reyhan Paşa Hamamı, Osmangazi, Bursa'da yer alıyor. Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Hamam, deniz kıyısında yer alıyor ve ziyaretçilere güzel bir manzara sunuyor. Bölgenin iklimi, genel olarak ılıman ve yağışlı. Kış ayları soğuktur, ancak hamamın sıcak suyu, ziyaretçilere yılın her döneminde konforlu bir deneyim sunuyor. Hamamın etrafı, yeşilliklerle çevrili ve ziyaretçilere dinlenme imkânı sunuyor. 140 hektarlık alan, hem hamam hem de plaj olarak kullanılıyor ve ziyaretçilere geniş bir alan sunuyor.
+Reyhan Paşa Hamamı, Osmangazi, Bursa'da yer alıyor. Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Hamam, deniz kıyısında yer alıyor ve ziyaretçilere güzel bir manzara sunuyor. Bölgenin iklimi, genel olarak ılıman ve yağışlı. Kış ayları soğuktur, ancak hamamın sıcak suyu, ziyaretçilere yılın her döneminde konforlu bir deneyim sunuyor. Hamamın etrafı, yeşilliklerle çevrili ve ziyaretçilere dinlenme imkânı sunuyor.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Reyhan Paşa Hamamı ve plajını ziyaret etmek, bir doğa ve tarih deneyimi sun
 - Hamam, deniz kıyısında yer alıyor
 - Bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir
 - Hamamın etrafı, yeşilliklerle çevrili
-- 140 hektarlık alan, hem hamam hem de plaj olarak kullanılıyor
+

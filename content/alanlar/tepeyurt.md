@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Tepeyurt","caption":"Tepeyurt","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepeyurt","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387357","tip":"genel"}]
-description: "Samsun'un doğal güzelliklerini keşfedin. Karadeniz Bölgesi'nde yer alan Tepeyurt, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Samsun'un doğal güzelliklerini keşfedin."
 keywords: ["Samsun","Karadeniz Bölgesi","Doğa","Tepeyurt","Yeşil Alan","Fiziksel Veriler","Hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387357"
@@ -28,7 +28,7 @@ wikidata_id: "Q31387357"
 
 # Tepeyurt
 
-Tepeyurt, Samsun'un güzide bir bölgesinde yer alan, 140 hektarlık bir yeşil alandır. Tepeyurt'un coğrafi konumu, ziyaretçilerine zengin bir flora ve fauna sunar. Bu bölge, hem doğa severler hem de tarihi geçmişi keşfetmek isteyenler için önemli bir merkezdir. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Tepeyurt, ziyaretçilerini bekleyen bir hazine gibidir.
+ Tepeyurt'un coğrafi konumu, ziyaretçilerine zengin bir flora ve fauna sunar. Bu bölge, hem doğa severler hem de tarihi geçmişi keşfetmek isteyenler için önemli bir merkezdir. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Tepeyurt, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 

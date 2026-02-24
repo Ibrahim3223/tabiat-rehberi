@@ -22,7 +22,7 @@ wikidata_id: "Q108228350"
 
 # Şehit Şerifebacı
 
-Şehit Şerifebacı Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alır ve 140 hektarlık bir alanı kaplar. Parkın konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Şehit Şerifebacı Milli Parkı, doğa severler ve macera arayanlar için ideal bir destinasyondur.
+ Parkın konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Şehit Şerifebacı Milli Parkı, doğa severler ve macera arayanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228350"
 
 ## Coğrafya
 
-Şehit Şerifebacı Milli Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. 140 hektarlık alan, çeşitli bitki türleri ve fauna ile kaplıdır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kura ve soğuk geçer. Parkın çevresinde, çeşitli doğal oluşumlar ve manzaralar bulunur. Şehit Şerifebacı Milli Parkı, ziyaretçilere geniş bir doğal ortam sunar ve bölgenin coğrafi yapısını keşfetme fırsatı verir. Parkın coğrafi konumu, doğa severler ve macera arayanlar için ideal bir destinasyondur.
+Şehit Şerifebacı Milli Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kura ve soğuk geçer. Parkın çevresinde, çeşitli doğal oluşumlar ve manzaralar bulunur. Şehit Şerifebacı Milli Parkı, ziyaretçilere geniş bir doğal ortam sunar ve bölgenin coğrafi yapısını keşfetme fırsatı verir. Parkın coğrafi konumu, doğa severler ve macera arayanlar için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108228350"
 
 ## İlginç Bilgiler
 
-- Şehit Şerifebacı Milli Parkı, 140 hektarlık bir alanı kaplar.
 - Park, çeşitli bitki türleri ve fauna ile kaplıdır.
 - Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kura ve soğuk geçer.
 - Parkın çevresinde, çeşitli doğal oluşumlar ve manzaralar bulunur.

@@ -38,7 +38,7 @@ Tarım ve Biyoçeşitlilik Müzesi, yüzyıllar boyunca tarım ve doğa arasınd
 
 ## Coğrafya
 
-Tarım ve Biyoçeşitlilik Müzesi, Ankara'nın kalbinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir konumda yer alıyor. Müze, 140 hektarlık bir alana yayılmış ve ziyaretçilere geniş açık alanlar, sergi salonları ve interaktif etkinlik alanları sunuyor. Müzenin coğrafi konumu, ziyaretçilerin tarım ve doğa arasındaki bağlantıyı anlamalarına yardımcı oluyor. Ayrıca, müze çevresinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere biyoçeşitliliğin zenginliğini gösteriyor. Müzenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere mevsimsel değişimlerin nasıl tarım ve doğayı etkilediğini deneyimleme fırsatı sunar.
+Tarım ve Biyoçeşitlilik Müzesi, Ankara'nın kalbinde, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir konumda yer alıyor. Müzenin coğrafi konumu, ziyaretçilerin tarım ve doğa arasındaki bağlantıyı anlamalarına yardımcı oluyor. Ayrıca, müze çevresinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere biyoçeşitliliğin zenginliğini gösteriyor. Müzenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere mevsimsel değişimlerin nasıl tarım ve doğayı etkilediğini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

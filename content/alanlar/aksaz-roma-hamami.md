@@ -29,7 +29,7 @@ wikidata_id: "Q133245765"
 
 # Aksaz Roma Hamamı
 
-Aksaz Roma Hamamı, Ulubey'in sakin ve tarihi bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanın içinde saklı bir hazine. Aksaz Roma Hamamı, Ege Bölgesi'nin gizli cevherlerinden biri olarak biliniyor ve tarihi geçmişi ile dikkat çekiyor. Bu özel mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
+ Aksaz Roma Hamamı, Ege Bölgesi'nin gizli cevherlerinden biri olarak biliniyor ve tarihi geçmişi ile dikkat çekiyor. Bu özel mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
 
 ## Tarihçe
 

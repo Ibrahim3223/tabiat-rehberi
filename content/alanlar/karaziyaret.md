@@ -48,8 +48,6 @@ Karaziyaret'i ziyaret etmek, doğa severler için ideal bir aktivite. Bu bölged
 
 ## İlginç Bilgiler
 
-- Karaziyaret, 140 hektarlık bir alana yayılmış.
-
 - Karaziyaret'te, çeşitli bitkiler ve zengin fauna ile karşılaşma mümkün.
 - Bu bölge, doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi aktiviteleri için ideal.
 - Karaziyaret, Gaziantep'in güneydoğu bölgesinde yer alıyor.

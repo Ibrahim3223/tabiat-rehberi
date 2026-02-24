@@ -28,7 +28,7 @@ wikidata_id: "Q31547581"
 
 # Hanımeli Tepesi
 
-Hanımeli Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Hanımeli Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi geçmişi ile eşsiz bir deneyim sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta ve bu bitki türleri, bölgenin ekolojisine önemli katkılar sağlıyor.
+Hanımeli Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Hanımeli Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi geçmişi ile eşsiz bir deneyim sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta ve bu bitki türleri, bölgenin ekolojisine önemli katkılar sağlıyor.
 
 ## Tarihçe
 

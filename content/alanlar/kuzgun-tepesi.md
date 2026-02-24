@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna gözlemi","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Kuzgun Tepesi","caption":"Kuzgun Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzgun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389336","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Kuzgun Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunar"
+
 keywords: ["Mersin","Akdeniz Bölgesi","Kuzgun Tepesi","doğa","tepe","gezi","turizm","Mersin turizm","Akdeniz Bölgesi turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389336"

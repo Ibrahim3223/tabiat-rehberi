@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 7'nin tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 7, coğrafi açıdan oldukça zengin bir bölge. Bölgenin 140 hektarlık alanı, ziyaretçilere geniş bir coğrafi çeşitlilik sunuyor. Bölgenin coğrafi yapısı, tepe ve vadilerden oluşuyor ve bu tepe ve vadiler, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimi ve bu iklim, ziyaretçilere yılın dört mevsiminde farklı güzellikleri keşfetme fırsatı sunuyor. Bin Tepeler Tümülüsü 7'nin coğrafi konumu, ziyaretçilere çevre bölgeleri keşfetme fırsatı da sunuyor. Bölge, diğer tarihi ve doğal güzelliklere yakın mesafede yer alıyor ve bu sayede, ziyaretçiler birden fazla yeri ziyaret etme fırsatı buluyor.
+Bin Tepeler Tümülüsü 7, coğrafi açıdan oldukça zengin bir bölge. Bölgenin coğrafi yapısı, tepe ve vadilerden oluşuyor ve bu tepe ve vadiler, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimi ve bu iklim, ziyaretçilere yılın dört mevsiminde farklı güzellikleri keşfetme fırsatı sunuyor. Bin Tepeler Tümülüsü 7'nin coğrafi konumu, ziyaretçilere çevre bölgeleri keşfetme fırsatı da sunuyor. Bölge, diğer tarihi ve doğal güzelliklere yakın mesafede yer alıyor ve bu sayede, ziyaretçiler birden fazla yeri ziyaret etme fırsatı buluyor.
 
 ## Flora ve Fauna
 

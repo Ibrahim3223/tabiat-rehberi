@@ -28,7 +28,7 @@ wikidata_id: "Q31581144"
 
 # Yapracık Tepesi
 
-Yapracık Tepesi, Çorum'un önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin keyifli zaman geçirmesine imkân sağlar. Yapracık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çeker. Ziyaretçiler, bu tepeye çıktıklarında, Karadeniz Bölgesi'nin güzel manzarasını seyretme fırsatı bulurlar.
+Yapracık Tepesi, Çorum'un önemli doğal güzelliklerinden biridir. Yapracık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çeker. Ziyaretçiler, bu tepeye çıktıklarında, Karadeniz Bölgesi'nin güzel manzarasını seyretme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Yapracık Tepesi, ziyaretçilerine keyifli bir gezi deneyimi sunar. Bu tepeye, �
 ## İlginç Bilgiler
 
 - Yapracık Tepesi, Çorum'un önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Yapracık Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliğini temsil eder.
 - Bu tepe, çeşitli bitki türleri ile ziyaretçilerini karşılar.
 - Yapracık Tepesi, zengin fauna yapısına sahiptir.

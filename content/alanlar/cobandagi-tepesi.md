@@ -48,7 +48,6 @@ wikidata_id: "Q34829480"
 
 ## İlginç Bilgiler
 
-- Çobandağı Tepesi, 140 hektarlık bir alanı kaplıyor
 - Bu tepe, Ege Bölgesi'nin önemli doğal güzelliklerinden biri
 - Çobandağı Tepesi, çeşitli bitki türleri ve ağaçlara ev sahipliği yapıyor
 - Bu tepe, birçok hayvan türüne de ev sahipliği yapıyor

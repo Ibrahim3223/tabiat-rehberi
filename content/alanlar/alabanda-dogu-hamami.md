@@ -50,7 +50,7 @@ Alabanda Doğu Hamamı'nı ziyaret etmek, Ege Bölgesi'nin güzelliklerini ve ta
 ## İlginç Bilgiler
 
 - Alabanda Doğu Hamamı, Ege Bölgesi'nin önemli bir kültürel mirası
-- 140 hektarlık bir alana sahip
+
 - yüzyıllar boyunca şekillenmiş bir tarihi geçmişi var
 - zengin flora ve fauna çeşitliliği
 - her mevsim farklı güzellikler sunuyor

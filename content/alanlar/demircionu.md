@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Demircionu","caption":"Demircionu","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demircionu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227188","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Demircionu milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Demircionu","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227188"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227188"
 
 # Demircionu
 
-Demircionu milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Parkın fiziksel verileri, ziyaretçilerin doğayla iç içe olmasını sağlar. 70 metrelik yükseklikteki ağaçlar, ziyaretçilere gölge ve serinlik sunarken, 20 metrelik genişlikteki yürüyüş yolları, ziyaretçilerin rahatça dolaşmasına olanak tanır.
+ Parkın fiziksel verileri, ziyaretçilerin doğayla iç içe olmasını sağlar. 70 metrelik yükseklikteki ağaçlar, ziyaretçilere gölge ve serinlik sunarken, 20 metrelik genişlikteki yürüyüş yolları, ziyaretçilerin rahatça dolaşmasına olanak tanır.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Demircionu milli parkını ziyaret etmek, ziyaretçilere doğal güzellikler sun
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- 200 futbol sahası büyüklüğünde
 - 70 metrelik yükseklikteki ağaçlar
 - 20 metrelik genişlikteki yürüyüş yolları
 - zengin flora ve fauna

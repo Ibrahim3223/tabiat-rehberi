@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Kaya Mezarı 5 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 5 (Delikkaya Mahallesi), Altınordu","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%205%20(Delikkaya%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728218","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan ve tarihi değerler"
+
 keywords: ["Kaya Mezarı","Delikkaya Mahallesi","Altınordu","Ordu","Karadeniz Bölgesi","tarih","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728218"

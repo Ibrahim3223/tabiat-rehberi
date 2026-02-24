@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğraf çekimi","Rehberl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Aygır Gölü Sulak Alanı","caption":"Aygır Gölü Sulak Alanı","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayg%C4%B1r%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228829","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin değerli sulak alanlarından biri olan Aygır Gölü, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Aygır Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Sulak Alan Ekosistemi","Korunan Alan","Doğa Turizmi","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228829"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228829"
 
 # Aygır Gölü Sulak Alanı
 
-Aygır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin merkezinde yer alan 140 hektarlık bir sulak alan olarak bilinir. Göl ve çevresindeki sulak alanlar, su kuşları ve diğer canlılar için önemli bir yaşam alanı sunar. Aygır Gölü Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
+ Göl ve çevresindeki sulak alanlar, su kuşları ve diğer canlılar için önemli bir yaşam alanı sunar. Aygır Gölü Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Aygır Gölü Sulak Alanı, zengin bir flora ve fauna ile karakterizedir. Bu sul
 Aygır Gölü Sulak Alanı, doğa severler ve çevre bilincine sahip individuals için önemli bir destinasyon olarak karşımıza çıkar. Bu sulak alan, çeşitli bitki ve hayvan türleri için yaşam alanı sunar ve bölgenin ekolojik dengesini korur. Ziyaretçiler, Aygır Gölü Sulak Alanı'nı gezerek, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini deneyimleyebilir. Aygır Gölü, doğa yürüyüşleri, kuş gözlemi ve fotoğraf çekimi için ideal bir destinasyon olarak kabul edilir. Ziyaretçiler, sulak alanın önemini ve koruma effortsını anlamak için rehberli turlara katılabilir.
 
 ## İlginç Bilgiler
-
-- Aygır Gölü Sulak Alanı, 140 hektarlık bir alanı kaplar.
 
 - Sulak alan ekosistemleri için önemli bir yaşam alanı sunar.
 - Variası bitki ve hayvan türleri için habitat görevi görür.

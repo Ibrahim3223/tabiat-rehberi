@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna keşfi","manzara seyri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Kabaardic","caption":"Kabaardic","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabaardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228046","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği Kabaardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["doğa","gezi","İç Anadolu Bölgesi","kabaardic","milli park","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228046"
@@ -42,7 +42,6 @@ Kabaardic'i ziyaret etmek, doğa severlerin ve macera tutkunlarının buluşma n
 
 ## İlginç Bilgiler
 
-- Kabaardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Kabaardic, flora ve faunayı destekleyen bir ortam sunmakta
 - Kabaardic'in coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunmakta
 - Kabaardic, ilkbahar ve sonbahar aylarında en güzel haliyle ziyaretçilerini karşılıyor

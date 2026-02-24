@@ -36,7 +36,7 @@ Kayalısırt Tepesi, tarihi geçmişiyle de dikkat çekiyor. Bu tepenin tarihi h
 
 ## Coğrafya
 
-Kayalısırt Tepesi, coğrafi olarak Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin yüksekliği ve konumu, bölgede yaşayan halk için önemli bir referans noktası oluşturuyor. Kayalısırt Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve eteklerinde bulunan köyler, bu bölgenin ekonomi ve sosyal yaşamına katkı sağlıyor. Tepenin coğrafi yapısı, aynı zamanda çeşitli bitki ve hayvan türleri için bir yaşam alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçiyor. Kayalısırt Tepesi, aynı zamanda Ankara'nın merkezine yakınlığıyla dikkat çekiyor ve şehirden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin manzarası, özellikle gün batımı saatlerinde ziyaretçilere unutulmaz bir deneyim sunuyor.
+Kayalısırt Tepesi, coğrafi olarak Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin yüksekliği ve konumu, bölgede yaşayan halk için önemli bir referans noktası oluşturuyor. Tepenin coğrafi yapısı, aynı zamanda çeşitli bitki ve hayvan türleri için bir yaşam alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçiyor. Kayalısırt Tepesi, aynı zamanda Ankara'nın merkezine yakınlığıyla dikkat çekiyor ve şehirden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin manzarası, özellikle gün batımı saatlerinde ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Kayalısırt Tepesi, ziyaretçilere birçok aktivite ve deneyim sunuyor. Tepenin
 
 - Kayalısırt Tepesi, Ankara'nın merkezine 20 km uzaklıkta bulunuyor.
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre.
-- Kayalısırt Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Tepenin eteklerinde bulunan köyler, geleneksel yaşam tarzını sürdürüyor.
 - Kayalısırt Tepesi, çeşitli bitki ve hayvan türleri için bir yaşam alanı sunuyor.

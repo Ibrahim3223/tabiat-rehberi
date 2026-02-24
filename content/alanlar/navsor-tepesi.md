@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Manzara izleme
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Navşor Tepesi","caption":"Navşor Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nav%C5%9For%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387482","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin Van şehrinde bulunan Navşor Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Navşor Tepesi","Van","Doğu Anadolu Bölgesi","tepe","coğrafya","doğa","gezi","tarihçe","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387482"

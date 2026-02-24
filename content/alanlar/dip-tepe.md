@@ -37,7 +37,7 @@ Dip Tepe'nin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtmaktad�
 
 ## Coğrafya
 
-Dip Tepe, coğrafi konumu itibariyle dikkat çekmektedir. Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinde yer alan tepe, 140 hektarlık bir alana sahiptir. Dip Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatına ev sahipliği yapmaktadır. Tepe, ziyaretçilere bölge hakkında bilgi edinme ve doğal güzellikleri keşfetme fırsatı sunar. Bölgenin iklimi, flora ve fauna çeşitliliği, ziyaretçilerin ilgisini çekmektedir. Dip Tepe, coğrafi konumu itibariyle önemli bir nokta olarak kabul edilmektedir.
+Dip Tepe, coğrafi konumu itibariyle dikkat çekmektedir. Dip Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatına ev sahipliği yapmaktadır. Tepe, ziyaretçilere bölge hakkında bilgi edinme ve doğal güzellikleri keşfetme fırsatı sunar. Bölgenin iklimi, flora ve fauna çeşitliliği, ziyaretçilerin ilgisini çekmektedir. Dip Tepe, coğrafi konumu itibariyle önemli bir nokta olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Dip Tepe, flora ve fauna açısından zengin bir alana sahiptir. Tepe, çeşitli
 Dip Tepe, ziyaretçilere bölge hakkında bilgi edinme ve doğal güzellikleri keşfetme fırsatı sunar. Tepe, coğrafi konumu itibariyle önemli bir nokta olarak kabul edilmektedir. Ziyaretçiler, tepeye ulaşmak için çeşitli ulaşım seçeneklerini kullanabilirler. Dip Tepe, ziyaretçilere bölge hakkında bilgi edinme ve tarihi geçmişi keşfetme fırsatı sunar. Tepe, flora ve fauna açısından zengin bir alana sahiptir.
 
 ## İlginç Bilgiler
-
-- Dip Tepe, 140 hektarlık bir alana sahiptir.
 
 - Dip Tepe, çeşitli bitki türleri ve yaban hayatına ev sahipliği yapmaktadır.
 - Tepe, coğrafi konumu itibariyle önemli bir nokta olarak kabul edilmektedir.

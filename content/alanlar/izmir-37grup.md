@@ -22,7 +22,7 @@ wikidata_id: "Q108225920"
 
 # Izmir 37.Grup
 
-İç Anadolu Bölgesi'nin kalbinde yer alan İzmir 37. Grup milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli parkın girişinde, misafirleri karşılayan yüksek ağaçlar ve çeşitli bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Milli park, özellikle hafta sonları ve tatil günlerinde, doğa severlerin ve ailecek gezi yapanların uğrak noktası haline geliyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan İzmir 37. Milli parkın girişinde, misafirleri karşılayan yüksek ağaçlar ve çeşitli bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Milli park, özellikle hafta sonları ve tatil günlerinde, doğa severlerin ve ailecek gezi yapanların uğrak noktası haline geliyor.
 
 ## Tarihçe
 

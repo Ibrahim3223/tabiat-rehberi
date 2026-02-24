@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","doğa gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Ankara-Nallihan-Erenler-Turk Findigi","caption":"Ankara-Nallihan-Erenler-Turk Findigi","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Nallihan-Erenler-Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228570","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Ankara'nın Nallihan ilçesinde bulunan milli park, 140 hektarlık yeşil alanı ile dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Ankara","Nallihan","Erenler","Turk Findigi","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228570"
@@ -34,7 +34,7 @@ Ankara-Nallihan-Erenler-Turk Findigi milli parkı, İç Anadolu Bölgesi'nin co�
 
 ## Flora ve Fauna
 
-Ankara-Nallihan-Erenler-Turk Findigi milli parkı, zengin bir flora ve fauna sunuyor. Milli parkın 140 hektarlık alanı, çeşitli bitki türleri ve hayvanları barındırıyor. Ziyaretçiler, burada doğa yürüyüşleri yapabilir ve çeşitli bitkileri ve hayvanları keşfedebilir. Milli parkın flora ve fauna, mevsimsel değişimlere göre farklılık gösteriyor. Ziyaretçiler, burada çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebilir. Milli parkın ekosistemi, doğal dengenin korunması açısından önemli bir rol oynuyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve doğanın önemini anlayabilir.
+Ankara-Nallihan-Erenler-Turk Findigi milli parkı, zengin bir flora ve fauna sunuyor. Ziyaretçiler, burada doğa yürüyüşleri yapabilir ve çeşitli bitkileri ve hayvanları keşfedebilir. Milli parkın flora ve fauna, mevsimsel değişimlere göre farklılık gösteriyor. Ziyaretçiler, burada çeşitli mevsimlerde farklı doğa güzelliklerini keşfedebilir. Milli parkın ekosistemi, doğal dengenin korunması açısından önemli bir rol oynuyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve doğanın önemini anlayabilir.
 
 ## Ziyaret Bilgileri
 

@@ -51,6 +51,6 @@ Tacü’n-Nisa Sultan Hatun Türbesi'ni ziyaret etmek, İnegöl'ün tarihi ve k�
 
 - Türbenin inşası, 15. yüzyılda gerçekleşti.
 - Türbe, İnegöl'ün merkezinde yer alıyor.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip.
+
 - Türbe, Osmanlı Dönemi'nin karakteristik özellikleri taşıyor.
 - İnegöl'ün tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.

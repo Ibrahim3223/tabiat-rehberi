@@ -21,8 +21,8 @@ aktiviteler: ["plajda vakit geçirmek","tarih hakkında bilgi edinmek","doğa y�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Göveren Türbesi","caption":"Göveren Türbesi","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6veren%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390847","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin en güzel plajlarından biri olan Göveren Türbesi, Safranbolu'nun Karabük ilçesinde yer almaktadır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Göveren Türbesi","Safranbolu","Karabük","Karadeniz Bölgesi","plaj","yeşil alan","futbol sahası"]
+description: "Karadeniz Bölgesi'nin en güzel plajlarından biri olan Göveren Türbesi, Safranbolu'nun Karabük ilçesinde yer almaktadır."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390847"
 ---
@@ -50,7 +50,7 @@ Göveren Türbesi'ne ziyaretçiler, plajın güzelliği ve tarihi önemi hakkın
 ## İlginç Bilgiler
 
 - Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biridir.
-- Göveren Türbesi, 140 hektarlık yeşil alana sahiptir.
+
 - Göveren Türbesi, Safranbolu'nun Karabük ilçesinde yer almaktadır.
 - Göveren Türbesi, Karadeniz Bölgesi'nin en önemli turistik merkezlerinden biridir.
 - Göveren Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.

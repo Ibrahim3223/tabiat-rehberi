@@ -28,7 +28,7 @@ wikidata_id: "Q31544489"
 
 # Mahsali Tepesi
 
-Mahsali Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, Batman şehrine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Mahsali Tepesi, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekmektedir. Bu tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunur. Mahsali Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir.
+Mahsali Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Mahsali Tepesi, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekmektedir. Bu tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunur. Mahsali Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mahsali Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak şe
 
 ## Coğrafya
 
-Mahsali Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık bir arazide yer alır. Bu tepe, Batman şehrinin kuzeyinde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Mahsali Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı için uygun bir ortam sunar. Bu tepenin etrafında, çeşitli akarsular ve göller bulunur. Mahsali Tepesi, bölgenin iklimine uygun olarak, yazları sıcak ve kışları soğuk bir hava durumuna sahiptir. Bu tepe, bölgenin coğrafi yapısı ve iklimi nedeniyle, önemli bir ekosistem olarak kabul edilir. Mahsali Tepesi, bölgenin coğrafi çeşitliliği ve doğal güzellikleri nedeniyle, önemli bir turizm destinasyonu olarak kabul edilir.
+Mahsali Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık bir arazide yer alır. Mahsali Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı için uygun bir ortam sunar. Bu tepenin etrafında, çeşitli akarsular ve göller bulunur. Mahsali Tepesi, bölgenin iklimine uygun olarak, yazları sıcak ve kışları soğuk bir hava durumuna sahiptir. Bu tepe, bölgenin coğrafi yapısı ve iklimi nedeniyle, önemli bir ekosistem olarak kabul edilir. Mahsali Tepesi, bölgenin coğrafi çeşitliliği ve doğal güzellikleri nedeniyle, önemli bir turizm destinasyonu olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Mahsali Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir
 
 - Mahsali Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir.
 - Bu tepe, Batman şehrine yakın bir konumda yer alır.
-- Mahsali Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bu tepe, çeşitli bitki türleri ve yaban hayatı için uygun bir ortam sunar.
 - Mahsali Tepesi, bölgenin ekolojik dengesi için önemli bir role sahiptir.

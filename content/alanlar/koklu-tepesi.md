@@ -28,7 +28,7 @@ wikidata_id: "Q32210156"
 
 # Köklü Tepesi
 
-Köklü Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliğimiz. Köklü Tepesi, ziyaretçilerini yemyeşil ormanları, çiçek dolu çayırları ve eşsiz manzaralarıyla karşılar. Geçmişten günümüze, bu tepe, yerel halkın ve ziyaretçilerin keyifle zaman geçirdiği bir mekan olarak bilinir.
+ Köklü Tepesi, ziyaretçilerini yemyeşil ormanları, çiçek dolu çayırları ve eşsiz manzaralarıyla karşılar. Geçmişten günümüze, bu tepe, yerel halkın ve ziyaretçilerin keyifle zaman geçirdiği bir mekan olarak bilinir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Köklü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Köklü Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu bölge, yemyeşil ormanlarla kaplıdır ve çeşitli bitki türleri burada bulunur. Tepenin etrafında, şehrin panoramik manzarasına olanak tanıyan yüksek noktalara ulaşma mümkündür. Köklü Tepesi'nin coğrafi konumu, Karadeniz Bölgesi'nin ikliminin etkilerini taşır. Bölge, genellikle ılıman ve nemli bir iklime sahiptir. Köklü Tepesi, ziyaretçilerine, hem şehrin güzelliklerini hem de Karadeniz Bölgesi'nin doğasını keşfetme fırsatı sunar. Bu tepe, yaklaşık 140 hektarlık alanı ile, ziyaretçilerine geniş bir alan sunar ve çeşitli faaliyetler için uygun bir ortam sağlar.
+Köklü Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu bölge, yemyeşil ormanlarla kaplıdır ve çeşitli bitki türleri burada bulunur. Tepenin etrafında, şehrin panoramik manzarasına olanak tanıyan yüksek noktalara ulaşma mümkündür. Köklü Tepesi'nin coğrafi konumu, Karadeniz Bölgesi'nin ikliminin etkilerini taşır. Bölge, genellikle ılıman ve nemli bir iklime sahiptir. Köklü Tepesi, ziyaretçilerine, hem şehrin güzelliklerini hem de Karadeniz Bölgesi'nin doğasını keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Köklü Tepesi'ni ziyaret etmek, Samsun'un doğal güzelliklerini keşfetmek ist
 ## İlginç Bilgiler
 
 - Köklü Tepesi, Samsun'un önemli bir doğal güzelliğidir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Köklü Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Bu tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Köklü Tepesi, ziyaretçilerine, doğanın güzelliklerini keşfetme fırsatı sunar.

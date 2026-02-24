@@ -28,7 +28,7 @@ wikidata_id: "Q34819790"
 
 # Çuhara Tepesi
 
-Çuhara Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Batman şehrinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Çuhara Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu tepe, doğal güzelliği ve coğrafi konumuyla dikkat çeker.
+Çuhara Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Çuhara Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu tepe, doğal güzelliği ve coğrafi konumuyla dikkat çeker.
 
 ## Tarihçe
 

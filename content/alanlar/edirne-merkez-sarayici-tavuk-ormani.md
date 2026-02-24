@@ -22,7 +22,7 @@ wikidata_id: "Q108228935"
 
 # EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI
 
-Edirne Merkez Sarayıçı Tavuk Ormanı, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Ormanın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyimi vaat ediyor.
+ Ormanın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyimi vaat ediyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Edirne Merkez Sarayıçı Tavuk Ormanı, ziyaretçilerine, doğayla iç içe bir
 
 ## İlginç Bilgiler
 
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nde yer alıyor
 - Çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Mevsimsel değişimlere bağlı olarak flora ve fauna değişiyor

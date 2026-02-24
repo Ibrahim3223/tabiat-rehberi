@@ -29,7 +29,7 @@ wikidata_id: "Q131391304"
 
 # Süt Evliyası Türbesi
 
-Süt Evliyası Türbesi, Sivas ilinin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir dini yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Sivas'ın önemli ziyaret noktalarından biri haline gelmiştir. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir görünüm sunmaktadır. Süt Evliyası Türbesi, Sivas'ın tarihi ve kültürel değerlerini yansıtan önemli bir noktadır. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin etkilerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek, tarihi detayları keşfedebilirler.
+Süt Evliyası Türbesi, Sivas ilinin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir dini yapıdır. Süt Evliyası Türbesi, Sivas'ın tarihi ve kültürel değerlerini yansıtan önemli bir noktadır. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin etkilerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek, tarihi detayları keşfedebilirler.
 
 ## Tarihçe
 

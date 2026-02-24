@@ -38,7 +38,7 @@ Manisa'nın Şehzadeler ilçesinde bulunan İshak Çelebi Türbesi, Ege Bölgesi
 
 ## Coğrafya
 
-İshak Çelebi Türbesi, Manisa'nın Şehzadeler ilçesinde yer almaktadır. Türbe, Ege Bölgesi'nin coğrafi yapısına uygun olarak, yeşillik bir alanda kurulmuştur. Çevresinde bulunan dağlar ve ovalar, türbeye güzel bir manzara sunmaktadır. İklimi, Ege Bölgesi'nin genel iklimine benzer olarak ılımandır. Kış ayları ılık ve yağışlı, yaz ayları ise sıcak ve kurudur. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazide kurulmuştur. Bu alan, yeşillik alanlar, tarihi yapılar ve türbe ile birlikte ziyaretçilere güzel bir atmosfer sunmaktadır. İshak Çelebi Türbesi, coğrafi konumu ve tarihi yapısı ile birlikte, Manisa'nın önemli gezilecek yerlerinden biridir.
+İshak Çelebi Türbesi, Manisa'nın Şehzadeler ilçesinde yer almaktadır. Türbe, Ege Bölgesi'nin coğrafi yapısına uygun olarak, yeşillik bir alanda kurulmuştur. Çevresinde bulunan dağlar ve ovalar, türbeye güzel bir manzara sunmaktadır. İklimi, Ege Bölgesi'nin genel iklimine benzer olarak ılımandır. Kış ayları ılık ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu alan, yeşillik alanlar, tarihi yapılar ve türbe ile birlikte ziyaretçilere güzel bir atmosfer sunmaktadır. İshak Çelebi Türbesi, coğrafi konumu ve tarihi yapısı ile birlikte, Manisa'nın önemli gezilecek yerlerinden biridir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Manisa'nın Şehzadeler ilçesinde bulunan İshak Çelebi Türbesi, Ege Bölgesi
 ## İlginç Bilgiler
 
 - İshak Çelebi Türbesi, Manisa'nın önemli tarihi mekanlarından biridir
-- Türbe, 140 hektarlık bir alanın içinde yer almaktadır
+
 - İshak Çelebi, Osmanlı Devleti'nin önemli simalarından biridir
 - Türbe, yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak görev yapmıştır
 - İshak Çelebi Türbesi, Ege Bölgesi'nin coğrafi yapısına uygun olarak, yeşillik bir alanda kurulmuştur

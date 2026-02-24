@@ -29,7 +29,7 @@ wikidata_id: "Q31386292"
 
 # Naletleme Tepesi
 
-Naletleme Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir tepe olarak bilinir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Naletleme Tepesi, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alan, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak düşünülebilir. Naletleme Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte önemli bir deneyim sunar.
+Naletleme Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir tepe olarak bilinir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu alan, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak düşünülebilir. Naletleme Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte önemli bir deneyim sunar.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Naletleme Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için �
 
 - Naletleme Tepesi, Kilis ilinin önemli doğal alanlarından biridir.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
-- Naletleme Tepesi, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Tepenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak dikkat çeker.
 - Naletleme Tepesi, bölgenin coğrafi konumuna uygun olarak, çeşitli bitki türleri ve hayvanlarla dolu bir bölge olarak dikkat çeker.

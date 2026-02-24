@@ -50,7 +50,7 @@ Paulina Kaya Mezarı, ziyaretçilerini tarihi geçmişi ve doğal güzellikleriy
 ## İlginç Bilgiler
 
 - Paulina Kaya Mezarı, Marmara Bölgesi'nin gizli kaya mezarlarından biridir.
-- Mezar, 140 hektarlık bir alanı kaplar.
+
 - Mezarın bulunduğu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Mezar, yılın her dönemi ziyaret edilebilir.
 - Mezarın etrafı, çeşitli restoran ve kafelerle dolu bir bölgedir.

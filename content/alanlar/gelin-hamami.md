@@ -37,7 +37,7 @@ Gelin Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge
 
 ## Coğrafya
 
-Gelin Hamamı, Çarşamba, Samsun'da yer alıyor ve Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Bu bölge, Karadeniz'in güzel kumsallarına sahip ve 140 hektarlık bir yeşil alan sunuyor. Gelin Hamamı, deniz seviyesinde yer alıyor ve Karadeniz'in güzel manzaralarına sahip. Bu bölgenin iklimi, Karadeniz iklimi olaraknıyor ve genellikle ılıman ve yağışlı geçiyor. Gelin Hamamı, çevre olarak da zengin bir bölge olarak kabul ediliyor. Bu bölgede, çeşitli bitki türleri ve fauna yer alıyor. Gelin Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor ve ziyaretçilerini cezbediyor.
+Gelin Hamamı, Çarşamba, Samsun'da yer alıyor ve Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Gelin Hamamı, deniz seviyesinde yer alıyor ve Karadeniz'in güzel manzaralarına sahip. Bu bölgenin iklimi, Karadeniz iklimi olaraknıyor ve genellikle ılıman ve yağışlı geçiyor. Gelin Hamamı, çevre olarak da zengin bir bölge olarak kabul ediliyor. Bu bölgede, çeşitli bitki türleri ve fauna yer alıyor. Gelin Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor ve ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Gelin Hamamı, ziyaretçilerine çeşitli olanaklar sunuyor. Bu bölge, Karadeni
 ## İlginç Bilgiler
 
 - Gelin Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak biliniyor.
-- Bu bölge, 140 hektarlık bir yeşil alan sunuyor.
+
 - Gelin Hamamı, Karadeniz'in güzel kumsallarına sahip.
 - Bu bölge, tarihi geçmişi ile de dikkat çekiyor.
 - Gelin Hamamı, Karadeniz Bölgesi'nin önemli bir turizm merkezi olarak kabul ediliyor.

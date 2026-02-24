@@ -12,9 +12,9 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Ana Ardıç Tabiat Anıtı","caption":"Ana Ardıç Tabiat Anıtı","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19.JPG","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Ana_Ard%C4%B1%C3%A7_Foto%C4%9Fraf%C4%B1.jpg","alt":"Ana Ardıç Tabiat Anıtı","caption":"Ana Ardıç Tabiat Anıtı","credit":"Ana Ardıç Fotoğrafı","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ana%20Ard%C4%B1%C3%A7%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severleri bekliyor."
+"
 keywords: ["Ana Ardıç Tabiat Anıtı","İç Anadolu Bölgesi","doğa","tabiat anıtı","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 ---

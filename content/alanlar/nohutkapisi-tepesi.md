@@ -36,7 +36,7 @@ Nohutkapısı Tepesi'nin tarihi geçmişi, bölgenin coğrafi ve kültürel öze
 
 ## Coğrafya
 
-Nohutkapısı Tepesi, Şırnak ilinin coğrafi yapısını yansıtan önemli bir nokta olarak görülüyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve bölgenin doğal güzelliklerini sergiliyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve fauna ile dolu. Bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip ve bu nedenle birçok doğal güzelliğe ev sahipliği yapıyor. Nohutkapısı Tepesi, bu coğrafi yapı içinde yer alıyor ve ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepe, bölgenin iklimi ve coğrafi yapısı hakkında bilgi edinmek isteyenler için önemli bir destinasyon olarak görülüyor.
+Nohutkapısı Tepesi, Şırnak ilinin coğrafi yapısını yansıtan önemli bir nokta olarak görülüyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve bölgenin doğal güzelliklerini sergiliyor. Bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip ve bu nedenle birçok doğal güzelliğe ev sahipliği yapıyor. Nohutkapısı Tepesi, bu coğrafi yapı içinde yer alıyor ve ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepe, bölgenin iklimi ve coğrafi yapısı hakkında bilgi edinmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Nohutkapısı Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal g
 ## İlginç Bilgiler
 
 - Nohutkapısı Tepesi, Şırnak ilinin en yüksek noktalarından biri olarak görülüyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Nohutkapısı Tepesi, bölgenin coğrafi yapısını yansıtan önemli bir nokta olarak görülüyor.
 - Tepe, çeşitli bitki türleri ve fauna ile dolu bir bölge olarak dikkat çekiyor.
 - Nohutkapısı Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliklerini keşfetmek için cezbediyor.

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Göldağı","caption":"Göldağı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228157","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Göldağı Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Göldağı","Milli Park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228157"
@@ -42,7 +42,6 @@ Göldağı Milli Parkı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Pa
 
 ## İlginç Bilgiler
 
-- Göldağı Milli Parkı, 140 hektarlık bir alana sahiptir.
 - Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Göldağı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Park, tüm mevsimlerde ziyaret edilebilecek bir yerdir.

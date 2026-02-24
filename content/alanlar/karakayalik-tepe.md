@@ -28,7 +28,7 @@ wikidata_id: "Q31388876"
 
 # Karakayalık Tepe
 
-Karakayalık Tepe, Marmara Bölgesi'nin güzide illerinden biri olan Kırklareli'de yer alan bir doğa harikasıdır. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alana sahiptir. Doğa severlerin ve yürüyüş tutkunlarının keyifle gezebileceği bu tepe, ziyaretçilerine doğanın güzelliklerini sunmaktadır. Karakayalık Tepe, Kırklareli'nin merkezine yakın bir konumda bulunmaktadır ve ulaşımı oldukça kolaydır. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyondur.
+Karakayalık Tepe, Marmara Bölgesi'nin güzide illerinden biri olan Kırklareli'de yer alan bir doğa harikasıdır. Doğa severlerin ve yürüyüş tutkunlarının keyifle gezebileceği bu tepe, ziyaretçilerine doğanın güzelliklerini sunmaktadır. Karakayalık Tepe, Kırklareli'nin merkezine yakın bir konumda bulunmaktadır ve ulaşımı oldukça kolaydır. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -48,8 +48,6 @@ Karakayalık Tepe, ziyaretçilerini bekliyor. Bu tepe, Kırklareli'nin merkezine
 
 ## İlginç Bilgiler
 
-- Karakayalık Tepe, 140 hektarlık bir yeşil alana sahiptir.
-- Tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
 - Karakayalık Tepe, Kırklareli'nin merkezine yakın bir konumda bulunmaktadır.
 - Tepe, doğa severlerin ve yürüyüş tutkunlarının keyifle gezebileceği bir destinasyondur.
 - Karakayalık Tepe, ziyaretçilerine doğanın güzelliklerini ve tarihi zenginlikleri sunmaktadır.

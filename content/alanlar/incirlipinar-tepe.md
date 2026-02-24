@@ -36,7 +36,7 @@ wikidata_id: "Q31389491"
 
 ## Coğrafya
 
-İncirlipınar Tepe, Akdeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekmekte. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve çeşitli bitki türleri ile zengin fauna ile dikkat çekmekte. İncirlipınar Tepe, bölgenin iklimi itibariyle kura ve sıcak bir bölgede yer almakta. Bu tepe, aynı zamanda bölgenin coğrafi konumu itibariyle önemli bir stratejik nokta olarak da kullanılmış. İncirlipınar Tepe, ziyaretçilerini doğanın güzellikleriyle baş başa bırakacak bir doğal alan. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini ortaya koymakta. İncirlipınar Tepe, Kahramanmaraş ilinin merkezinde yer almakta ve ulaşımı kolay bir bölgede.
+İncirlipınar Tepe, Akdeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekmekte. İncirlipınar Tepe, bölgenin iklimi itibariyle kura ve sıcak bir bölgede yer almakta. Bu tepe, aynı zamanda bölgenin coğrafi konumu itibariyle önemli bir stratejik nokta olarak da kullanılmış. İncirlipınar Tepe, ziyaretçilerini doğanın güzellikleriyle baş başa bırakacak bir doğal alan. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini ortaya koymakta. İncirlipınar Tepe, Kahramanmaraş ilinin merkezinde yer almakta ve ulaşımı kolay bir bölgede.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q31389491"
 
 ## İlginç Bilgiler
 
-- İncirlipınar Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta
 - Bu tepe, çeşitli bitki türleri ile dikkat çekmekte
 - İncirlipınar Tepe, aynı zamanda zengin fauna ile dikkat çekmekte
 - Bu tepe, bölgenin tarihi geçmişine de ışık tutmakta

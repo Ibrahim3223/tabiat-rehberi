@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Karag%C3%B6l_sar%C4%B1%C3%A7am1.jpg","alt":"Karagöl Yaylası Sarıçamı manzarası","credit":"Acar54","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg/1280px-Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg","alt":"Karagöl Yaylası Sarıçamı - Karagöl sarıçam Pinus sylvestris","credit":"Acar54","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%B6l%20Yaylas%C4%B1%20Sar%C4%B1%C3%A7am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85971875","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Karagöl Yaylası Sarıçamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Karagöl Yaylası","Sarıçamı","İç Anadolu Bölgesi","doğa","yaylalar","ormanlar","gezi","turizm","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q85971875"
@@ -31,7 +31,7 @@ Karagöl Yaylası Sarıçamı'nın tarihi geçmişi, yüzyıllar boyunca çeşit
 
 ## Coğrafya
 
-Karagöl Yaylası Sarıçamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Yayla, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini geniş orman alanlarına ve doğal güzelliklere davet ediyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünüyor. Kış aylarında karla örtülü olan yayla, ilkbahar ve yaz aylarında ise yeşilin her tonuna şahit olunabilecek bir doğa harikası haline geliyor. Coğrafi konumu ve doğal güzellikleri, Karagöl Yaylası Sarıçamı'nı benzersiz bir gezi noktası haline getiriyor.
+Karagöl Yaylası Sarıçamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünüyor. Kış aylarında karla örtülü olan yayla, ilkbahar ve yaz aylarında ise yeşilin her tonuna şahit olunabilecek bir doğa harikası haline geliyor. Coğrafi konumu ve doğal güzellikleri, Karagöl Yaylası Sarıçamı'nı benzersiz bir gezi noktası haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Karagöl Yaylası Sarıçamı, yılın her dönemi ziyaret edilebilir ancak ilkb
 
 ## İlginç Bilgiler
 
-- Karagöl Yaylası Sarıçamı, 140 hektarlık bir alanı kaplar
 - Yayla, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir
 - Karagöl Yaylası Sarıçamı, yılın her dönemi ziyaret edilebilir

@@ -37,7 +37,7 @@ wikidata_id: "Q135582835"
 
 ## Coğrafya
 
-Şeyh Necmettin Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi güzellikleri ile çevrili bir bölgede yer almaktadır. Bu kümbet, Ahlat ilçesinin merkezinde yer almakta ve 140 hektarlık bir alana yayılmaktadır. Şeyh Necmettin Kümbeti, doğal güzellikleri ile dikkat çeken bir bölgede yer almaktadır. Bu bölge, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir. Şeyh Necmettin Kümbeti, ziyaretçilerini doğal güzellikleri ile çevrili bir ortamda ağırlamaktadır. Bu kümbet, coğrafi güzellikleri ile dikkat çeken bir bölgede yer almakta ve ziyaretçilerini bu güzellikleri keşfetmeye davet etmektedir.
+Şeyh Necmettin Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi güzellikleri ile çevrili bir bölgede yer almaktadır. Şeyh Necmettin Kümbeti, doğal güzellikleri ile dikkat çeken bir bölgede yer almaktadır. Bu bölge, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir. Şeyh Necmettin Kümbeti, ziyaretçilerini doğal güzellikleri ile çevrili bir ortamda ağırlamaktadır. Bu kümbet, coğrafi güzellikleri ile dikkat çeken bir bölgede yer almakta ve ziyaretçilerini bu güzellikleri keşfetmeye davet etmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q135582835"
 
 ## İlginç Bilgiler
 
-- Şeyh Necmettin Kümbeti, 140 hektarlık bir alana yayılmaktadır.
 - Bu kümbet, Ahlat ilçesinin merkezinde yer almaktadır.
 - Şeyh Necmettin Kümbeti, tarihi ve doğal güzelliklerinin bir arada olduğu bir ortamda ziyaretçilerini ağırlamaktadır.
 - Bu kümbet, çeşitli bitki ve hayvan türleri ile zengin bir ekosisteme sahiptir.

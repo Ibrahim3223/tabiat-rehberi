@@ -28,7 +28,7 @@ wikidata_id: "Q31387452"
 
 # Didanist Tepesi
 
-Didanist Tepesi, Van'ın gökyüzüne doğru yükselen bir tepe olarak, şehrin görkemli doğasını ve tarihi geçmişiyle ziyaretçilerini etkiliyor. Bu 200 futbol sahası büyüklüğünde alan, Van'ın coğrafi güzelliğinin bir parçası olarak, doğa severleri ve tarih meraklılarını çekiyor. Didanist Tepesi, Van'ın merkezine yakın bir konumda yer alıyor ve kolayca ulaşılabilen bir nokta olarak, ziyaretçilerini bekliyor.
+Didanist Tepesi, Van'ın gökyüzüne doğru yükselen bir tepe olarak, şehrin görkemli doğasını ve tarihi geçmişiyle ziyaretçilerini etkiliyor. Didanist Tepesi, Van'ın merkezine yakın bir konumda yer alıyor ve kolayca ulaşılabilen bir nokta olarak, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

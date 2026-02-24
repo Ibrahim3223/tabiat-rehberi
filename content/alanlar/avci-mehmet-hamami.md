@@ -21,15 +21,14 @@ aktiviteler: ["yürüyüş","piknik","doğa keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Avcı Mehmet Hamamı","caption":"Avcı Mehmet Hamamı","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avc%C4%B1%20Mehmet%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738590","tip":"genel"}]
-description: "Sarıyer'de bulunan Avcı Mehmet Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Sarıyer","İstanbul","Marmara Bölgesi","yeşil alan","futbol sahası","gezi","doğa"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738590"
 ---
 
 # Avcı Mehmet Hamamı
 
-Avcı Mehmet Hamamı, Sarıyer'de bulunan 140 hektarlık bir yeşil alandır. Avcı Mehmet Hamamı'nın etrafı, çeşitli ağaç türleriyle çevrilidir. Bu ağaçlar, ziyaretçilere hem gölgelik hem de temiz hava sağlar. Avcı Mehmet Hamamı, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görünmektedir.
+ Avcı Mehmet Hamamı'nın etrafı, çeşitli ağaç türleriyle çevrilidir. Bu ağaçlar, ziyaretçilere hem gölgelik hem de temiz hava sağlar. Avcı Mehmet Hamamı, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görünmektedir.
 
 ## Tarihçe
 
@@ -49,7 +48,6 @@ Avcı Mehmet Hamamı, ziyaretçilere doğayla baş başa kalma olanağı sunmakt
 
 ## İlginç Bilgiler
 
-- Avcı Mehmet Hamamı, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir
 - Avcı Mehmet Hamamı, Sarıyer'de bulunmaktadır
 - Avcı Mehmet Hamamı, çeşitli bitki türlerine ev sahipliği yapmaktadır
 - Avcı Mehmet Hamamı, aynı zamanda çeşitli yaban hayvanlarına da ev sahipliği yapmaktadır

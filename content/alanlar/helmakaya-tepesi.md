@@ -36,7 +36,7 @@ Helmakaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bö
 
 ## Coğrafya
 
-Helmakaya Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık bir alanı kapsıyor ve doğal güzellikleri ile dikkat çekiyor. Helmakaya Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrili. Tepe, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Helmakaya Tepesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanır. Tepe, çevresindeki diğer doğal güzelliklerle birlikte, önemli bir coğrafi oluşum olarak kabul ediliyor. Helmakaya Tepesi'nin coğrafyası, ziyaretçilerine bölge hakkında bilgi sahibi olma fırsatı sunuyor.
+Helmakaya Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Helmakaya Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrili. Tepe, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Helmakaya Tepesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanır. Tepe, çevresindeki diğer doğal güzelliklerle birlikte, önemli bir coğrafi oluşum olarak kabul ediliyor. Helmakaya Tepesi'nin coğrafyası, ziyaretçilerine bölge hakkında bilgi sahibi olma fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Helmakaya Tepesi'ni ziyaret etmek, doğal güzellikleri ve tarihi geçmişi hakk
 
 ## İlginç Bilgiler
 
-- Helmakaya Tepesi, 140 hektarlık bir alanı kapsıyor
 - tepe, çeşitli bitki türleri ve zengin fauna ile çevrili
 - Helmakaya Tepesi, tarihi geçmişiyle birlikte, önemli bir kültür mirası olarak kabul ediliyor
 - tepe, ziyaretçilerine benzersiz bir deneyim sunuyor

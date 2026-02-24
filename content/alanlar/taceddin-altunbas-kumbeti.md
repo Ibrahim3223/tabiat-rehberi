@@ -21,8 +21,7 @@ aktiviteler: ["tarihi mekanları gezmek","doğal güzelliği deneyimlemek","foto
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Taceddin Altunbaş Kümbeti","caption":"Taceddin Altunbaş Kümbeti","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Taceddin%20Altunba%C5%9F%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582719","tip":"genel"}]
-description: "Amasya'da tarihi ve doğal güzelliklerin birleştiği Taceddin Altunbaş Kümbeti, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Amasya","Karadeniz Bölgesi","Taceddin Altunbaş Kümbeti","tarihi mekan","doğal güzellik","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582719"
 ---
@@ -49,8 +48,7 @@ Taceddin Altunbaş Kümbeti'ni ziyaret etmek, hem tarihsel hem de doğal güzell
 
 ## İlginç Bilgiler
 
-- Taceddin Altunbaş Kümbeti, 140 hektarlık bir yeşil alana sahip
 - Taceddin Altunbaş Kümbeti, Karadeniz Bölgesi'nin tarihi mirasının önemli bir parçası
-- Taceddin Altunbaş Kümbeti, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Taceddin Altunbaş Kümbeti, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor
 - Taceddin Altunbaş Kümbeti, mevsimsel değişimlere göre farklı bir güzelliğe sahip

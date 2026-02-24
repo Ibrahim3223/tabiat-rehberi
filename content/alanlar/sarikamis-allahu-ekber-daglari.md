@@ -43,7 +43,6 @@ Sarikamis Allahu Ekber Daglari milli parkını ziyaret etmek, doğa severler iç
 
 ## İlginç Bilgiler
 
-- Sarikamis Allahu Ekber Daglari milli parkı, 140 hektarlık bir alanı kaplar.
 - Sarikamis Allahu Ekber Daglari milli parkı, deniz seviyesinden yüksek bir konumda bulunur.
 - Sarikamis Allahu Ekber Daglari milli parkı, dört mevsim boyunca ziyaretçilere çeşitli aktiviteler sunar.
 - Sarikamis Allahu Ekber Daglari milli parkı, zengin bir flora ve fauna çeşitliliğine sahiptir.

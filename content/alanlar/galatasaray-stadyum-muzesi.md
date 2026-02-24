@@ -29,7 +29,7 @@ wikidata_id: "Q132949324"
 
 # Galatasaray Stadyum Müzesi
 
-Galatasaray Stadyum Müzesi, İstanbul'un kalbinde yer alan ve Galatasaray'ın zengin spor tarihini yansıtan özel bir mekan. Bu müze, yaklaşık 140 hektarlık bir alanı kapsayan Galatasaray Spor Kompleksi içinde bulunmakta ve ziyaretçilere takımın tarihini, başarılarını ve önemli anlarını gözler önüne sermektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kompleks, sporseverler için önemli bir çekim merkezi. Galatasaray Stadyum Müzesi, yalnızca bir müze değil, aynı zamanda bir spor kompleksi ve bir kültür merkezi olarak hizmet vermekte.
+Galatasaray Stadyum Müzesi, İstanbul'un kalbinde yer alan ve Galatasaray'ın zengin spor tarihini yansıtan özel bir mekan. Galatasaray Stadyum Müzesi, yalnızca bir müze değil, aynı zamanda bir spor kompleksi ve bir kültür merkezi olarak hizmet vermekte.
 
 ## Tarihçe
 

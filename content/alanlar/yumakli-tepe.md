@@ -48,8 +48,6 @@ Yumaklı Tepe, ziyaretçilere önemli bir doğal güzellik sunar. Bu tepe, bölg
 
 ## İlginç Bilgiler
 
-- Yumaklı Tepe, 140 hektarlık bir alana sahiptir
-- Bu tepe, 200 futbol sahası büyüklüğüne eşittir
 - Yumaklı Tepe, bölgenin coğrafi yapısını ve jeolojik oluşumunu anlamak için önemli bir noktadır
 - Bu tepe, çeşitli bitki türleri ve hayvanlar için önemli bir habitat teşkil eder
 - Yumaklı Tepe, bölgede yer alan diğer doğal güzelliklerle birlikte önemli bir ekolojik bölgedir

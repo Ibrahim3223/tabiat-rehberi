@@ -52,5 +52,5 @@ Rabia Ana Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keş
 - Rabia Ana Türbesi, yüzyıllar öncesine dayanan bir geçmişe sahiptir
 - Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir
 - Yakutiye ilçesinde bulunmaktadır
-- 140 hektarlık bir alanı kapsar
+
 - Tarihi yapıların restore edilmesi, ziyaretçilere zengin bir geçmiş sunmaktadır

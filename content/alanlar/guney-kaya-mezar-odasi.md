@@ -29,7 +29,7 @@ wikidata_id: "Q134728171"
 
 # Güney Kaya Mezar Odası
 
-Güney Kaya Mezar Odası, Malatya'nın Akçadağ ilçesinde, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsayan geniş bir arazide, tarihi ve doğal güzelliklerini bir araya getirerek ziyaretçilerini ağırlıyor. Tarihi ve kültürel açıdan zengin bir geçmişe sahip olan bu mekan, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
+Güney Kaya Mezar Odası, Malatya'nın Akçadağ ilçesinde, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Tarihi ve kültürel açıdan zengin bir geçmişe sahip olan bu mekan, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güney Kaya Mezar Odası'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Güney Kaya Mezar Odası, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsayan geniş bir arazide, doğal güzelliklerini ziyaretçilerine sunuyor. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşuyor. Güney Kaya Mezar Odası, bu coğrafi yapının içinde, ziyaretçilerine doğal güzelliklerini ve tarihi yerlerini keşfetme fırsatı sunuyor. Bölgenin iklimi, genellikle karasal iklim özellikleri gösteriyor ve ziyaretçilerine dört mevsimi yaşama fırsatı sunuyor. Güney Kaya Mezar Odası, coğrafi açıdan zengin bir bölgede yer alıyor ve ziyaretçilerine doğal güzelliklerini keşfetme fırsatı sunuyor.
+Güney Kaya Mezar Odası, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Bölgenin coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşuyor. Güney Kaya Mezar Odası, bu coğrafi yapının içinde, ziyaretçilerine doğal güzelliklerini ve tarihi yerlerini keşfetme fırsatı sunuyor. Bölgenin iklimi, genellikle karasal iklim özellikleri gösteriyor ve ziyaretçilerine dört mevsimi yaşama fırsatı sunuyor. Güney Kaya Mezar Odası, coğrafi açıdan zengin bir bölgede yer alıyor ve ziyaretçilerine doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Güney Kaya Mezar Odası, ziyaretçilerine çeşitli faaliyetler sunuyor. Ziyare
 
 ## İlginç Bilgiler
 
-- Güney Kaya Mezar Odası, 140 hektarlık bir alanı kapsıyor.
 - Bölge, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor.
 - Güney Kaya Mezar Odası, tarihi ve doğal güzellikleriyle dikkat çekiyor.
 - Bölge, flora ve fauna zenginliği ile bilinir.

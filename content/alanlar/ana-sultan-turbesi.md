@@ -51,7 +51,7 @@ Ana Sultan Türbesi'ni ziyaret etmek, birçok gezi sever için unutulmaz bir den
 ## İlginç Bilgiler
 
 - Bölgenin tarihi geçmişi yüzyıllar öncesine dayanıyor
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, zengin fauna ve florası ile dikkat çekiyor
 - İlkbahar ve yaz aylarında, bölge daha yeşil ve canlı oluyor
 - Bölge, dört mevsim ziyaret edilebilir

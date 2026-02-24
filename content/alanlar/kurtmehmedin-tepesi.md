@@ -28,7 +28,7 @@ wikidata_id: "Q31562870"
 
 # Kurtmehmedin Tepesi
 
-Kurtmehmedin Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir doğal ve tarihi değer taşıyor. Kurtmehmedin Tepesi, Yozgat'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin doğa severler için önemli bir destinasyon noktası. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Kurtmehmedin Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içinde yer alan bir tepe. Kurtmehmedin Tepesi, Yozgat'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin doğa severler için önemli bir destinasyon noktası. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

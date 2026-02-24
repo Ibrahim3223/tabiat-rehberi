@@ -29,7 +29,7 @@ wikidata_id: "Q135582878"
 
 # Murat Bey Kümbeti, Eğil
 
-Murat Bey Kümbeti, Eğil, Güneydoğu Anadolu Bölgesi'nin Diyarbakır iline bağlı bir ilçede yer alan tarihi bir yapıdır. Bu kümbet, yaklaşık 140 hektarlık bir alan içinde, tarihi geçmişi ile dikkat çekmektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu yapı, bölgenin önemli kültürel miraslarından biridir. Murat Bey Kümbeti, ziyaretçiler için bir gezi noktası olarak hizmet vermektedir.
+Murat Bey Kümbeti, Eğil, Güneydoğu Anadolu Bölgesi'nin Diyarbakır iline bağlı bir ilçede yer alan tarihi bir yapıdır. Murat Bey Kümbeti, ziyaretçiler için bir gezi noktası olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Murat Bey Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu
 
 ## Coğrafya
 
-Murat Bey Kümbeti, Eğilçesinde yer almaktadır. Bu ilçe, Güneydoğu Anadolu Bölgesi'nin Diyarbakır iline bağlıdır. Murat Bey Kümbeti, 140 hektarlık bir alan içinde yer almaktadır. Bu kümbet, bölgenin önemli coğrafi oluşumlarından biridir. Murat Bey Kümbeti, bölgenin iklimi ve çevresi hakkında bilgi vermektedir. Bu kümbet, bölgenin flora ve faunası hakkında da bilgi vermektedir.
+Murat Bey Kümbeti, Eğilçesinde yer almaktadır. Bu ilçe, Güneydoğu Anadolu Bölgesi'nin Diyarbakır iline bağlıdır. Bu kümbet, bölgenin önemli coğrafi oluşumlarından biridir. Murat Bey Kümbeti, bölgenin iklimi ve çevresi hakkında bilgi vermektedir. Bu kümbet, bölgenin flora ve faunası hakkında da bilgi vermektedir.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728327"
 
 # Bin Tepeler Tümülüsü 41
 
-Bin Tepeler Tümülüsü 41, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için bir hazine. Manisa'nın Salihli ilçesinde yer alan bu tarihi alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bin Tepeler Tümülüsü 41, geçmişin gizemini ve ihtişamını keşfetmek isteyenler için ideal bir destinasyon.
+Bin Tepeler Tümülüsü 41, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için bir hazine. Bin Tepeler Tümülüsü 41, geçmişin gizemini ve ihtişamını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

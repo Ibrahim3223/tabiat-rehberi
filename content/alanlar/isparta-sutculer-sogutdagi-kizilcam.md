@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Isparta-Sutculer-Sogutdagi Kızılçam","caption":"Isparta-Sutculer-Sogutdagi Kızılçam","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Sogutdagi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227422","tip":"genel"}]
-description: "Isparta'nın Sutculer ilçesinde bulunan Söğüt Dağı Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini çekiyor."
+ Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini çekiyor."
 keywords: ["Isparta","Sutculer","Söğüt Dağı","Kızılçam","Milli Park","doğa","ekosistem","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227422"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227422"
 
 # Isparta-Sutculer-Sogutdagi Kızılçam
 
-Isparta-Sutculer-Sogutdagi Kızılçam Milli Parkı, Isparta'nın Sutculer ilçesinde yer alıyor. 140 hektarlık bir alanı kaplayan milli park, Söğüt Dağı'nın eteklerinde kurulmuş. Milli park, zengin doğal güzellikleri ve çeşitli bitki türleriyle dikkat çekiyor. Ziyaretçiler, milli parkın sunduğu yürüyüş parkurlarını kullanarak doğayı keşfedebilir. Ayrıca, milli parkta çeşitli fauna türleri de yaşamını sürdürüyor.
+Isparta-Sutculer-Sogutdagi Kızılçam Milli Parkı, Isparta'nın Sutculer ilçesinde yer alıyor. Milli park, zengin doğal güzellikleri ve çeşitli bitki türleriyle dikkat çekiyor. Ziyaretçiler, milli parkın sunduğu yürüyüş parkurlarını kullanarak doğayı keşfedebilir. Ayrıca, milli parkta çeşitli fauna türleri de yaşamını sürdürüyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Isparta-Sutculer-Sogutdagi Kızılçam Milli Parkı, ziyaretçilere, çeşitli i
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kaplıyor.
 - Milli parkta, çeşitli bitki türleri yaşamını sürdürüyor.
 - Milli park, Söğüt Dağı'nın eteklerinde kurulmuş.
 - Milli parkta, çeşitli fauna türleri de yaşamını sürdürüyor.

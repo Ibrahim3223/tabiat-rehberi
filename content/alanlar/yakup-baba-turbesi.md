@@ -21,7 +21,7 @@ aktiviteler: ["Tarihçe öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek","M
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Yakup Baba Türbesi","caption":"Yakup Baba Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakup%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390927","tip":"genel"}]
-description: "Marmaris'te tarihi ve doğal güzelliklerin birleştiği bir nokta olan Yakup Baba Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Marmaris","Muğla","Ege Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390927"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390927"
 
 # Yakup Baba Türbesi
 
-Marmaris'te, Muğla'nın Ege Bölgesi'nde yer alan Yakup Baba Türbesi, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini natuur ve tarihle buluşturuyor. Bu mekan, Marmaris'in önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Yakup Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da ziyaretçilere doğanın güzelliğini gösteren bir alan sunuyor.
+ Bu mekan, Marmaris'in önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Yakup Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da ziyaretçilere doğanın güzelliğini gösteren bir alan sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yakup Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetl
 
 ## Coğrafya
 
-Yakup Baba Türbesi, Marmaris'in coğrafi olarak önemli bir konumunda yer alıyor. Bu türbe, Ege Bölgesi'nin en güzel kıyı şeridinin bir parçası olan Marmaris'in merkezinde bulunuyor. Yakup Baba Türbesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Bu bölge, denizin ve doğanın birleştiği noktada yer alıyor ve ziyaretçilere muhteşem manzaralar sunuyor. Yakup Baba Türbesi, coğrafi konumu itibariyle hem deniz hem de kara yoluyla ulaşımı kolay bir noktada bulunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulmuş ve bu alan, ziyaretçilere geniş bir açık alan sunuyor. Bu bölge, coğrafi olarak önemli bir nokta olarak kabul ediliyor ve ziyaretçilere Marmaris'in doğal güzelliklerini keşfetme imkanı sunuyor.
+Yakup Baba Türbesi, Marmaris'in coğrafi olarak önemli bir konumunda yer alıyor. Bu türbe, Ege Bölgesi'nin en güzel kıyı şeridinin bir parçası olan Marmaris'in merkezinde bulunuyor. Yakup Baba Türbesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Bu bölge, denizin ve doğanın birleştiği noktada yer alıyor ve ziyaretçilere muhteşem manzaralar sunuyor. Yakup Baba Türbesi, coğrafi konumu itibariyle hem deniz hem de kara yoluyla ulaşımı kolay bir noktada bulunuyor. Bu bölge, coğrafi olarak önemli bir nokta olarak kabul ediliyor ve ziyaretçilere Marmaris'in doğal güzelliklerini keşfetme imkanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yakup Baba Türbesi'ni ziyaret etmek, Marmaris'in tarihi ve doğal güzellikleri
 ## İlginç Bilgiler
 
 - Yakup Baba Türbesi, Marmaris'in en önemli tarihi noktalarından biri
-- Türbenin etrafı 140 hektarlık yeşil alanla çevrili
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Yakup Baba Türbesi, yüzyıllar boyunca farklı medeniyetlerin izlerini taşıyor
 - Türbenin tarihi geçmişi, Marmaris'in kültürel mirasının önemli bir parçası

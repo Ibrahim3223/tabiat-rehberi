@@ -49,7 +49,7 @@ wikidata_id: "Q34827987"
 ## İlginç Bilgiler
 
 - Çalboğazı Tepesi, Sinop ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Çalboğazı Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini sunar.
 - Bu tepe, bölgenin bitki örtüsünü temsil eder ve çeşitli bitki türlerini barındırır.
 - Çalboğazı Tepesi, bölgenin fauna yapısını da temsil eder ve çeşitli hayvan türlerini barındırır.

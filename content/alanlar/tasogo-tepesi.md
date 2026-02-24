@@ -36,7 +36,7 @@ Tasogo Tepesi'nin tarihi geçmişi, Mardin'in zengin tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Tasogo Tepesi, coğrafi konumu itibariyle Mardin şehrinin önemli bir bölümünü kapsıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve bu geniş alan, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Tepenin yüksekliği, bölgenin genel yüksekliğine göre biraz daha yükse ve bu, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin eteklerinde, Mardin'in tarihi mimarisine örnek olan çeşitli yapılar bulunmakta. Tasogo Tepesi, Mardin'in coğrafi özelliklerini ve doğal güzelliklerini keşfetmek için ideal bir nokta olarak kabul ediliyor.
+Tasogo Tepesi, coğrafi konumu itibariyle Mardin şehrinin önemli bir bölümünü kapsıyor. Tepenin yüksekliği, bölgenin genel yüksekliğine göre biraz daha yükse ve bu, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin eteklerinde, Mardin'in tarihi mimarisine örnek olan çeşitli yapılar bulunmakta. Tasogo Tepesi, Mardin'in coğrafi özelliklerini ve doğal güzelliklerini keşfetmek için ideal bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

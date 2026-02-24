@@ -51,7 +51,7 @@ Roma Dönemi İzmir Liman Hamamı, ziyaretçiler için önemli bir destinasyon o
 ## İlginç Bilgiler
 
 - Roma Dönemi İzmir Liman Hamamı, Roma Dönemi'nde inşa edilen bir hamamdır.
-- Bu hamam, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - İzmir Liman Hamamı, Ege Bölgesi'nin önemli turistik noktalarından biridir.
 - Bu hamam, Roma Dönemi'nin mimari özelliklerini taşıyan bir yapı olarak dikkat çeker.
 - Ziyaretçiler, bu tarihi güzelliği keşfetmek için çeşitli mevsimlerde gelebilir.

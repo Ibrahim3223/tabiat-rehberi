@@ -38,7 +38,7 @@ Pars Bey Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin tam tarihi
 
 ## Coğrafya
 
-Pars Bey Türbesi, Marmara Bölgesi'nde bulunan Bursa ilinin merkezinde yer alıyor. Bu türbe, şehir merkezine yakın bir konumda ve ulaşımı kolay. Pars Bey Türbesi, yaklaşık 140 hektarlık bir yeşil alana yayılmış durumda ve ziyaretçilerine geniş bir açık alan sunuyor. Bu alan, çeşitli bitki türleri ile kaplı ve ziyaretçilerin doğayla iç içe olmasını sağlıyor. Pars Bey Türbesi'nin etrafı, zengin fauna ile çevrili ve ziyaretçilere güzel bir manzara sunuyor. Bu türbenin bulunduğu bölgede, iklim genellikle ılıman ve ziyaretçilerin gezebilmeleri için ideal. Pars Bey Türbesi, hem şehir merkezine yakınlığı hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini bekliyor.
+Pars Bey Türbesi, Marmara Bölgesi'nde bulunan Bursa ilinin merkezinde yer alıyor. Bu türbe, şehir merkezine yakın bir konumda ve ulaşımı kolay. Bu alan, çeşitli bitki türleri ile kaplı ve ziyaretçilerin doğayla iç içe olmasını sağlıyor. Pars Bey Türbesi'nin etrafı, zengin fauna ile çevrili ve ziyaretçilere güzel bir manzara sunuyor. Bu türbenin bulunduğu bölgede, iklim genellikle ılıman ve ziyaretçilerin gezebilmeleri için ideal. Pars Bey Türbesi, hem şehir merkezine yakınlığı hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Pars Bey Türbesi'ni ziyaret etmek için, ziyaretçiler Bursa ilinin merkezine g
 ## İlginç Bilgiler
 
 - Pars Bey Türbesi, Bursa'nın tarihi ve kültürel zenginliklerini sunan önemli bir destinasyon.
-- Bu türbe, yaklaşık 140 hektarlık bir yeşil alana yayılmış durumda.
+
 - Pars Bey Türbesi, Marmara Bölgesi'nde bulunan Bursa ilinin merkezinde yer alıyor.
 - Bu türbenin mimarisi, Osmanlı mimari tarzının güzel bir örneği.
 - Pars Bey Türbesi, Bursa'nın tarihi ve kültürel mirasının önemli bir parçası.

@@ -50,7 +50,7 @@ Laletepe Tümülüsünü ziyaret etmek, ziyaretçilere tarihi ve doğal güzelli
 ## İlginç Bilgiler
 
 - Laletepe Tümülüsü, Ege Bölgesi'nin önemli tarihi noktalarından biri.
-- Laletepe Tümülüsü, 140 hektarlık bir yeşil alan.
+
 - Laletepe Tümülüsü, çeşitli bitki türleri ve hayvanlar ile dolu.
 - Laletepe Tümülüsünü ziyaret etmek, ziyaretçilere benzersiz bir gezi deneyimi sunuyor.
 - Laletepe Tümülüsünü ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar ayları.

@@ -50,7 +50,7 @@ Cihanoğlu Kulesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği deneyim
 ## İlginç Bilgiler
 
 - Cihanoğlu Kulesi, tarihi geçmişi ile dikkat çekiyor.
-- Bu plaj, 140 hektarlık bir alan sunuyor.
+
 - Cihanoğlu Kulesi, özellikle deniz kuşlarının habitatı olarak biliniyor.
 - Bu bölge, yılın her döneminde ziyaret edilebilir.
 - Cihanoğlu Kulesi'ne ulaşım, özel araç veya toplu taşıma araçları ile kolayca sağlanabilir.

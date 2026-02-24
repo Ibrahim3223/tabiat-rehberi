@@ -51,7 +51,7 @@ Güdük Minare, Sivas ilinin merkezinde yer alan bir plajdır. Bu plaj, her yıl
 ## İlginç Bilgiler
 
 - Güdük Minare, Sivas ilinin en önemli turizm noktalarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Güdük Minare, yüzyıllar boyunca çeşitli medeniyetlerin hüküm sürdüğü bir bölgede yer alır.
 - Plajda, çeşitli tarihi eserler ve kalıntılar vardır.
 - Güdük Minare, zengin bir flora ve fauna ile dolu bir alandır.

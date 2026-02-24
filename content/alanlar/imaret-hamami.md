@@ -29,7 +29,7 @@ wikidata_id: "Q131738682"
 
 # İmaret Hamamı
 
-Afyonkarahisar ilinin merkezinde bulunan İmaret Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. İmaret Hamamı, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Bu mekan, Afyonkarahisar'ın zengin tarihinin bir parçası olarak kabul edilir. İmaret Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden bir yerdir.
+ İmaret Hamamı, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Bu mekan, Afyonkarahisar'ın zengin tarihinin bir parçası olarak kabul edilir. İmaret Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Afyonkarahisar ilinin merkezinde bulunan İmaret Hamamı, yaklaşık 140 hektarl
 
 ## Coğrafya
 
-İmaret Hamamı, Afyonkarahisar ilinin merkezinde, Ege Bölgesi'nde bulunmaktadır. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. İmaret Hamamı'nın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir. İmaret Hamamı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu mekan, doğal güzellikleri ve tarihi önemi ile dikkat çekmektedir. İmaret Hamamı, Afyonkarahisar'ın önemli bir turizm merkezi olarak kabul edilmektedir. Bu mekan, ziyaretçilerini cezbeden bir yerdir.
+İmaret Hamamı, Afyonkarahisar ilinin merkezinde, Ege Bölgesi'nde bulunmaktadır. İmaret Hamamı'nın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir. İmaret Hamamı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu mekan, doğal güzellikleri ve tarihi önemi ile dikkat çekmektedir. İmaret Hamamı, Afyonkarahisar'ın önemli bir turizm merkezi olarak kabul edilmektedir. Bu mekan, ziyaretçilerini cezbeden bir yerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Afyonkarahisar ilinin merkezinde bulunan İmaret Hamamı, yaklaşık 140 hektarl
 
 ## İlginç Bilgiler
 
-- İmaret Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
 - İmaret Hamamı, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir.
 - İmaret Hamamı, yüzyıllar boyunca önemli bir merkez olarak kabul edilmiştir.
 - İmaret Hamamı, doğal güzellikleriyle dikkat çekmektedir.

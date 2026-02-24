@@ -29,7 +29,7 @@ wikidata_id: "Q134728299"
 
 # Bin Tepeler Tümülüsü 65
 
-Ahmetli'nin kalbinde, Ege Bölgesi'nin tarihi zenginliğini yansıtan bir mekan olarak karşımıza çıkan Bin Tepeler Tümülüsü 65, yaklaşık 140 hektarlık bir alanı kaplıyor. Bin Tepeler Tümülüsü 65, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin tarihi ve kültürel zenginliğini keşfetme fırsatı sunuyor.
+ Bin Tepeler Tümülüsü 65, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin tarihi ve kültürel zenginliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 65'in tarihi geçmişi, Ege Bölgesi'nin antik dönemle
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 65, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan olarak Ahmetli'de yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir gezi alanı sunuyor. Coğrafi olarak, tümülüs ve çevresindeki alanlar, Ege Bölgesi'nin tipik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşayan Akdeniz ikliminin etkisindedir. Bin Tepeler Tümülüsü 65'in coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 65, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan olarak Ahmetli'de yer alıyor. Coğrafi olarak, tümülüs ve çevresindeki alanlar, Ege Bölgesi'nin tipik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşayan Akdeniz ikliminin etkisindedir. Bin Tepeler Tümülüsü 65'in coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 65'i ziyaret etmek, Ege Bölgesi'nin tarihi ve kültür
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 65, Ege Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul ediliyor.
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bölge, çeşitli bitki ve hayvan türleri ile zengin bir flora ve fauna sunuyor.
 - Ziyaretçiler, tümülüse ulaşmak için Ahmetli'ye gelirler.
 - Bin Tepeler Tümülüsü 65, Ege Bölgesi'nin tarihi ve kültürel zenginliğini keşfetmek için ideal bir mekan olarak kabul ediliyor.

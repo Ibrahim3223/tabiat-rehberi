@@ -36,7 +36,7 @@ wikidata_id: "Q31386174"
 
 ## Coğrafya
 
-Şehbilcan Dağı, Gaziantep'in merkezi bir konumunda yer alıyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliklerini oluşturuyor. Şehbilcan Dağı'nın coğrafi yapısı, genellikle tepelik bir araziye sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin en önemli doğal varlıklarından biri. Şehbilcan Dağı'nın iklimi, genellikle Güneydoğu Anadolu Bölgesi'nin iklimine benzer. Bu tepe, ziyaretçilerine dört mevsim boyunca farklı bir güzellik sunuyor. Kışın karla kaplanan tepe, ilkbaharda yeşilleniyor ve yazın sıcakk günlerine sahne oluyor. Şehbilcan Dağı, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip. Bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Şehbilcan Dağı, Gaziantep'in merkezi bir konumunda yer alıyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin doğal güzelliklerini oluşturuyor. Şehbilcan Dağı'nın coğrafi yapısı, genellikle tepelik bir araziye sahip. Şehbilcan Dağı'nın iklimi, genellikle Güneydoğu Anadolu Bölgesi'nin iklimine benzer. Bu tepe, ziyaretçilerine dört mevsim boyunca farklı bir güzellik sunuyor. Kışın karla kaplanan tepe, ilkbaharda yeşilleniyor ve yazın sıcakk günlerine sahne oluyor. Şehbilcan Dağı, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip. Bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31386174"
 ## İlginç Bilgiler
 
 - Şehbilcan Dağı, Gaziantep'in doğal güzellikleriyle dikkat çekiyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Şehbilcan Dağı, flora ve fauna açısından zengin bir çeşitliliğe sahip.
 - Bu tepe, özellikle doğa severler ve kuş gözlemcileri için önemli bir çekim noktası.
 - Şehbilcan Dağı, aynı zamanda bölgenin tarihsel geçmişi hakkında bilgi edinmek için önemli bir kaynak.

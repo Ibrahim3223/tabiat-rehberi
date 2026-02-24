@@ -36,7 +36,7 @@ wikidata_id: "Q34810527"
 
 ## Coğrafya
 
-İtkiranhöyüğü Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alır ve bu bölgenin karakteristik özelliklerini taşır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitki türleri ile kaplıdır. İtkiranhöyüğü Tepesi'nin coğrafyası, ziyaretçilere hem doğal güzellikleri hem de tarihi kalıntıları keşfetme fırsatı sunar. Bu tepe, bölgenin iklimi ve coğrafi yapısı dikkate alınarak, çeşitli mevsimlerde ziyaret edilebilir. İtkiranhöyüğü Tepesi'nin çevresi, zengin fauna ve flora ile dolu olup, ziyaretçilere doğa ile iç içe bir deneyim sunar.
+İtkiranhöyüğü Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alır ve bu bölgenin karakteristik özelliklerini taşır. İtkiranhöyüğü Tepesi'nin coğrafyası, ziyaretçilere hem doğal güzellikleri hem de tarihi kalıntıları keşfetme fırsatı sunar. Bu tepe, bölgenin iklimi ve coğrafi yapısı dikkate alınarak, çeşitli mevsimlerde ziyaret edilebilir. İtkiranhöyüğü Tepesi'nin çevresi, zengin fauna ve flora ile dolu olup, ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -47,8 +47,6 @@ wikidata_id: "Q34810527"
 İtkiranhöyüğü Tepesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için ideal bir seçenektir. Bu tepe, çeşitli mevsimlerde ziyaret edilebilir ve ziyaretçilere, doğa ile iç içe bir deneyim sunar. İtkiranhöyüğü Tepesi'ne ulaşmak için, Kahramanmaraş iline gelerek, buradan tepeye giden yolları takip etmek gerekir. Bu tepe, ziyaretçilere, hem tarihi kalıntıları inceleyerek hem de doğal güzelliklerin keyfini çıkararak, güzel bir gün geçirmelerine olanak tanır.
 
 ## İlginç Bilgiler
-
-- İtkiranhöyüğü Tepesi, 140 hektarlık bir alanı kapsar.
 
 - İtkiranhöyüğü Tepesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker.
 - Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul edilir.

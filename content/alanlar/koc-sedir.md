@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Koç Sedir","caption":"Koç Sedir","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227157","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Koç Sedir, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["milli park","doğa","eko-turizm","İç Anadolu Bölgesi","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227157"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227157"
 
 # Koç Sedir
 
-Koç Sedir milli parkı, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan sunuyor. Burada, yaban hayatı ve flora ile iç içe bir deneyimi yaşama mümkün. Koç Sedir, eko-turizm severlerin ve doğaşığıların yeni durağı olarak dikkat çekiyor.
+ Burada, yaban hayatı ve flora ile iç içe bir deneyimi yaşama mümkün. Koç Sedir, eko-turizm severlerin ve doğaşığıların yeni durağı olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Koç Sedir milli parkını ziyaret etmek, doğa severler ve eko-turizm tutkunlar
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nde yer alıyor
 - Flora ve fauna açısından zengin
 - Mevsimsel değişimler

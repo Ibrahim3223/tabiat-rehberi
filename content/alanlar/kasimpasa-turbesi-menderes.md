@@ -50,7 +50,7 @@ Kasımpaşa Türbesi'ni ziyaret etmek, Menderes'in tarihi ve doğal güzellikler
 ## İlginç Bilgiler
 
 - Kasımpaşa Türbesi, Menderes'in en önemli tarihi mekanlarından biri.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Çevresinde çeşitli bitki türleri ve zengin fauna encontr değil, bulunur.
 - Menderes'in iklimi, ziyaretçilerin yıl boyunca bölgeyi ziyaret etmesine olanak tanıyor.
 - Kasımpaşa Türbesi, çevresindeki diğer tarihi ve doğal güzelliklere yakın mesafede yer alıyor.

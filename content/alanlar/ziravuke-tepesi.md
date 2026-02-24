@@ -28,7 +28,7 @@ wikidata_id: "Q31552328"
 
 # Ziravuke Tepesi
 
-Mardin'in eşsiz manzarasına sahip Ziravuke Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Ziravuke Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Burada, hem tarihi değerleri hem de doğal güzellikleri keşfedebilirsiniz. Ziravuke Tepesi, Mardin'in önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu tepe, Mardin'in zengin tarihini ve kültürünü yansıtan önemli bir nokta.
+ Ziravuke Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Burada, hem tarihi değerleri hem de doğal güzellikleri keşfedebilirsiniz. Ziravuke Tepesi, Mardin'in önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu tepe, Mardin'in zengin tarihini ve kültürünü yansıtan önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ziravuke Tepesi, Mardin'in tarih boyunca önemli bir yerleşim yeri olarak kulla
 
 ## Coğrafya
 
-Ziravuke Tepesi, Mardin'in merkezinde yer alan bir tepe. Bu tepe, Mardin'in coğrafi yapısını oluşturan önemli bir nokta. Ziravuke Tepesi, yaklaşık 140 hektarlık alanı ile Mardin'in önemli bir bölümünü kaplıyor. Bu tepenin yüksekliği, Mardin'in merkezi ile benzerlik gösteriyor. Ziravuke Tepesi, Mardin'in iklimini etkileyen önemli bir faktör. Bu tepe, Mardin'in yağış düzenini ve sıcaklık değerlerini etkiliyor. Ziravuke Tepesi, Mardin'in doğal güzelliklerini oluşturan önemli bir nokta. Bu tepe, Mardin'in flora ve faunasını destekleyen önemli bir alan. Ziravuke Tepesi, Mardin'in çevresi ile birlikte düşünüldüğünde, önemli bir ekosistem olarak görülüyor.
+Ziravuke Tepesi, Mardin'in merkezinde yer alan bir tepe. Bu tepe, Mardin'in coğrafi yapısını oluşturan önemli bir nokta. Bu tepenin yüksekliği, Mardin'in merkezi ile benzerlik gösteriyor. Ziravuke Tepesi, Mardin'in iklimini etkileyen önemli bir faktör. Bu tepe, Mardin'in yağış düzenini ve sıcaklık değerlerini etkiliyor. Ziravuke Tepesi, Mardin'in doğal güzelliklerini oluşturan önemli bir nokta. Bu tepe, Mardin'in flora ve faunasını destekleyen önemli bir alan. Ziravuke Tepesi, Mardin'in çevresi ile birlikte düşünüldüğünde, önemli bir ekosistem olarak görülüyor.
 
 ## Flora ve Fauna
 

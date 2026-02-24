@@ -22,7 +22,7 @@ wikidata_id: "Q108229021"
 
 # ŞANLIURFA BİRECİK BOZKIRLARI
 
-Şanlıurfa'nın güneydoğusunda yer alan Birecik Bozkırları, yaklaşık 140 hektarlık bir alanı kaplar. Bu bozkır, 200 futbol sahası büyüklüğünde bir alanı kapladığından, ziyaretçilere geniş bir açık alan sunar. Şanlıurfa'nın coğrafi konumunun özel olması, bu bölgenin flora ve fauna çeşitliliğini artırır. Ziyaretçiler, bu geniş ve yeşil alanın keyfini çıkarırken, aynı zamanda bölgenin zengin fauna çeşitliliğini de keşfedebilir.
+ Şanlıurfa'nın coğrafi konumunun özel olması, bu bölgenin flora ve fauna çeşitliliğini artırır. Ziyaretçiler, bu geniş ve yeşil alanın keyfini çıkarırken, aynı zamanda bölgenin zengin fauna çeşitliliğini de keşfedebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Birecik Bozkırları, tarihsel olarak önemli bir bölgedir. Bu bölge, yüzyıl
 
 ## Coğrafya
 
-Birecik Bozkırları, Şanlıurfa'nın güneydoğusunda yer alır. Bu bölge, coğrafi olarak özel bir konumda bulunur. Bozkırın genişliği, 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere açık ve geniş bir mekan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk, yazlar sıcak ve kurak geçer. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler. Ziyaretçiler, bu özel coğrafyanın keyfini çıkarırken, aynı zamanda bölgenin ikliminin güzelliğini keşfedebilir.
+Birecik Bozkırları, Şanlıurfa'nın güneydoğusunda yer alır. Bu bölge, coğrafi olarak özel bir konumda bulunur. Bu geniş alan, ziyaretçilere açık ve geniş bir mekan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk, yazlar sıcak ve kurak geçer. Bu iklim, bölgenin flora ve fauna çeşitliliğini etkiler. Ziyaretçiler, bu özel coğrafyanın keyfini çıkarırken, aynı zamanda bölgenin ikliminin güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Birecik Bozkırları, ziyaretçilere çeşitli aktivite olanakları sunar. Ziyar
 
 ## İlginç Bilgiler
 
-- Birecik Bozkırları, 140 hektarlık bir alanı kaplar.
-- Bu bozkır, 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Bölge, flora ve fauna açısından zengin bir bölgedir.
 - İlkbahar ve yaz ayları, ziyaret için en uygun zamanlardır.
 - Ziyaretçiler, bu özel coğrafyanın keyfini çıkarması için, çeşitli olanaklar sunulur.

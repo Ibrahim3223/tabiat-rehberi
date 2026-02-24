@@ -14,8 +14,8 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Çevre gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Giresun-Tirebolu-Gorele-Kizilagac","caption":"Giresun-Tirebolu-Gorele-Kizilagac","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Tirebolu-Gorele-Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228505","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. Giresun-Tirebolu-Gorele-Kizilagac milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Giresun","Tirebolu","Gorele","Kizilagac","milli park","Karadeniz Bölgesi","doğal güzellik","yeşil alan","futbol sahası"]
+description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228505"
 ---

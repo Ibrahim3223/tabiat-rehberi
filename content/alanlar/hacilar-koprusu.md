@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","tarih gezisi","dinlenme"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Hacılar Köprüsü","caption":"Hacılar Köprüsü","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20K%C3%B6pr%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123651934","tip":"genel"}]
-description: "Ankara'nın Beypazarı ilçesinde yer alan Hacılar Köprüsü, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzelliği ve tarihi geçmişi ile dikkat çeker."
+ Doğal güzelliği ve tarihi geçmişi ile dikkat çeker."
 keywords: ["Hacılar Köprüsü","Beypazarı","Ankara","doğa","tarih","gezi","turizm","köprü","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q123651934"
@@ -29,7 +29,7 @@ wikidata_id: "Q123651934"
 
 # Hacılar Köprüsü
 
-Hacılar Köprüsü, Ankara'nın Beypazarı ilçesinde yer alan 140 hektarlık bir alandır. Hacılar Köprüsü, ziyaretçilerini doğanın güzelliği ve tarihi eserlerin zenginliği ile karşılar. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olarak ortaya çıkar. Hacılar Köprüsü'nün sunduğu geniş açıklık ve tarihi yapılar, ziyaretçilere unutulmaz anlar yaşatır.
+ Hacılar Köprüsü, ziyaretçilerini doğanın güzelliği ve tarihi eserlerin zenginliği ile karşılar. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olarak ortaya çıkar. Hacılar Köprüsü'nün sunduğu geniş açıklık ve tarihi yapılar, ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacılar Köprüsü'nün tarihi geçmişi, yüzyıllar boyunca birçok medeniyet
 
 ## Coğrafya
 
-Hacılar Köprüsü, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve açık bir alanı kaplar. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir ova üzerine kuruludur. Köprü ve çevresinin coğrafi yapısı, ziyaretçilere geniş bir açıklık sunar ve onları doğanın güzelliği ile baş başa bırakır. Hacılar Köprüsü'nün coğrafi konumu, Ankara'nın Beypazarı ilçesinde yer alması nedeniyle, ulaşımın kolay olduğu ve çevresindeki diğer turistik noktalarına yakınlığı ile dikkat çeker. Bu bölge, coğrafi güzelliği ve ulaşım kolaylığı ile ziyaretçilere ideal bir gezi noktası sunar.
+Hacılar Köprüsü, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve açık bir alanı kaplar. Köprü ve çevresinin coğrafi yapısı, ziyaretçilere geniş bir açıklık sunar ve onları doğanın güzelliği ile baş başa bırakır. Hacılar Köprüsü'nün coğrafi konumu, Ankara'nın Beypazarı ilçesinde yer alması nedeniyle, ulaşımın kolay olduğu ve çevresindeki diğer turistik noktalarına yakınlığı ile dikkat çeker. Bu bölge, coğrafi güzelliği ve ulaşım kolaylığı ile ziyaretçilere ideal bir gezi noktası sunar.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Hacılar Köprüsü, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak,
 Hacılar Köprüsü, ziyaretçilere ulaşımın kolay olduğu ve çevresindeki diğer turistik noktalarına yakınlığı ile dikkat çeker. Bu bölge, doğa severler ve tarih meraklıları için ideal bir destinasyon olarak ortaya çıkar. Ziyaretçiler, Hacılar Köprüsü'nü ziyaret ederken, köprünün ve çevrenin güzelliğini keşfedebilirler. Bu bölge, ziyaretçilere unutulmaz anlar yaşatır ve onları doğanın güzelliği ile baş başa bırakır.
 
 ## İlginç Bilgiler
-
-- Hacılar Köprüsü, 140 hektarlık bir alanı kaplar.
 
 - Hacılar Köprüsü, doğal güzelliği ve tarihi geçmişi ile dikkat çeker.
 - Bu bölge, doğa severler ve tarih meraklıları için ideal bir destinasyon olarak ortaya çıkar.

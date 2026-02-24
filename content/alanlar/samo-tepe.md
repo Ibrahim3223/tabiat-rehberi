@@ -49,7 +49,7 @@ Samo Tepe, ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Bu
 ## İlginç Bilgiler
 
 - Samo Tepe, Mardin'in en önemli tarihi ve turistik mekanlarından biri olarak kabul ediliyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Samo Tepe, Mardin'in coğrafi yapısını yansıtan bir bölgedir.
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Samo Tepe, fauna açısından da zengin bir bölgedir.

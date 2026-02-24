@@ -28,7 +28,7 @@ wikidata_id: "Q31388337"
 
 # Kızmezarı Tepesi
 
-Aydın ilinin güzide bir bölgesinde yer alan Kızmezarı Tepesi, yaklaşık 140 hektarlık bir alanı kaplayarak, Ege Bölgesi'nin önemli doğal güzelliklerinden birini oluşturur. Bu tepe, çevresindeki diğer coğrafi oluşumlar ile birlikte, bölgenin benzersiz bir coğrafi yapısına katkıda bulunur. Ayrıca, tepe ve etrafındaki alanlar, çeşitli bitki türleri ile zengin bir flora sunar. Bu zenginlik, ziyaretçilere hem görsel bir şölen hem de doğal bir deneyim sağlar.
+ Bu tepe, çevresindeki diğer coğrafi oluşumlar ile birlikte, bölgenin benzersiz bir coğrafi yapısına katkıda bulunur. Ayrıca, tepe ve etrafındaki alanlar, çeşitli bitki türleri ile zengin bir flora sunar. Bu zenginlik, ziyaretçilere hem görsel bir şölen hem de doğal bir deneyim sağlar.
 
 ## Tarihçe
 

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"," piknik"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Çadıryazısı Tepesi","caption":"Çadıryazısı Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ad%C4%B1ryaz%C4%B1s%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827782","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerinin başında gelen Çadıryazısı Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Kastamonu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34827782"
@@ -28,7 +28,7 @@ wikidata_id: "Q34827782"
 
 # Çadıryazısı Tepesi
 
-Kastamonu'nun muhteşem manzarasına ev sahipliği yapan Çadıryazısı Tepesi, ziyaretçilerini 140 hektarlık yeşil alanıyla karşılar. Çadıryazısı Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olup, her yıl birçok ziyaretçiyi ağırlamaktadır.
+ Çadıryazısı Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olup, her yıl birçok ziyaretçiyi ağırlamaktadır.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kastamonu'nun muhteşem manzarasına ev sahipliği yapan Çadıryazısı Tepesi,
 
 ## Ziyaret Bilgileri
 
-Çadıryazısı Tepesi'ni ziyaret etmek, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir fırsat sunar. Tepenin 140 hektarlık alanı, ziyaretçilerine geniş bir açık hava deneyimi sunar ve bu reasonla, ziyaretçiler, tepe ve çevresini keyifle keşfedebilirler. Çadıryazısı Tepesi'ni ziyaret etmek için, Kastamonu'nun şehir merkezinden tepeye giden yoldan yararlanabilirsiniz. Tepenin çevresinde, ziyaretçilere hizmet veren birçok tesis bulunur ve bu tesisler, ziyaretçilere konaklama ve yemek hizmeti sunar.
+Çadıryazısı Tepesi'ni ziyaret etmek, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir fırsat sunar. Çadıryazısı Tepesi'ni ziyaret etmek için, Kastamonu'nun şehir merkezinden tepeye giden yoldan yararlanabilirsiniz. Tepenin çevresinde, ziyaretçilere hizmet veren birçok tesis bulunur ve bu tesisler, ziyaretçilere konaklama ve yemek hizmeti sunar.
 
 ## İlginç Bilgiler
 

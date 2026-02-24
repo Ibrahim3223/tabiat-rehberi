@@ -51,7 +51,7 @@ Prank of Bardakçı Baba'ya ziyaretçiler, toplu taşıma araçlarını kullanar
 ## İlginç Bilgiler
 
 - Prank of Bardakçı Baba, Şişli'de yer alan bir plajdır
-- Bu doğal alan, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Prank of Bardakçı Baba, Marmara Bölgesi'nin önemli doğal alanlarından biridir
 - Buraya, toplu taşıma araçlarını kullanarak ulaşılabilir
 - Prank of Bardakçı Baba, özellikle ilkbahar ve yaz aylarında ziyaretçilerin akınına uğrar

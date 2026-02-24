@@ -29,7 +29,7 @@ wikidata_id: "Q131390541"
 
 # Safvan Bin Muattal Türbesi
 
-Safvan Bin Muattal Türbesi, Güneydoğu Anadolu Bölgesi'nin Adıyaman iline bağlı Samsat ilçesinde yer alıyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Safvan Bin Muattal Türbesi, bölgenin önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor. Tarihi değerlerinin yanı sıra, çevresindeki doğal güzelliklerle de dikkat çekiyor. Türbenin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Safvan Bin Muattal Türbesi, Güneydoğu Anadolu Bölgesi'nin Adıyaman iline bağlı Samsat ilçesinde yer alıyor. Safvan Bin Muattal Türbesi, bölgenin önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor. Tarihi değerlerinin yanı sıra, çevresindeki doğal güzelliklerle de dikkat çekiyor. Türbenin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Safvan Bin Muattal Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Safvan Bin Muattal Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Türbe, Samsat ilçesinin merkezinde, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Coğrafi olarak, Safvan Bin Muattal Türbesi, bölgenin önemli nehirlerinden olan Fırat Nehri'ne yakın bir konumda bulunuyor. Fırat Nehri, bölgenin su kaynaklarını sağlıyor ve çevrenin ekolojik dengesini koruyor. Safvan Bin Muattal Türbesi'nin bulunduğu bölge, iklim açısından da dikkat çekiyor. Bölge, genel olarak ılıman bir iklime sahip olmakla birlikte, mevsimsel değişimler yaşanıyor. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, bölgenin doğal güzelliklerini daha da zenginleştiriyor.
+Safvan Bin Muattal Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Coğrafi olarak, Safvan Bin Muattal Türbesi, bölgenin önemli nehirlerinden olan Fırat Nehri'ne yakın bir konumda bulunuyor. Fırat Nehri, bölgenin su kaynaklarını sağlıyor ve çevrenin ekolojik dengesini koruyor. Safvan Bin Muattal Türbesi'nin bulunduğu bölge, iklim açısından da dikkat çekiyor. Bölge, genel olarak ılıman bir iklime sahip olmakla birlikte, mevsimsel değişimler yaşanıyor. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu mevsimsel değişimler, bölgenin doğal güzelliklerini daha da zenginleştiriyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Safvan Bin Muattal Türbesi'ni ziyaret etmek, bölgenin tarihi ve doğal güzell
 ## İlginç Bilgiler
 
 - Safvan Bin Muattal Türbesi, bölgenin önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Safvan Bin Muattal Türbesi, çevresindeki doğal güzelliklerle de dikkat çekiyor.
 - Türbenin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Safvan Bin Muattal Türbesi, yılın her dönemi ziyaret edilebilir.

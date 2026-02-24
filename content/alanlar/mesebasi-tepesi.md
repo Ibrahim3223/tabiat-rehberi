@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Meşebaşı Tepesi","caption":"Meşebaşı Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Feba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388460","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin gözde mekanlarından biri olan Meşebaşı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Doğu Anadolu Bölgesi","Meşebaşı Tepesi","Erzurum","tepe","doğal alan","gezilecek yerler","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388460"
@@ -48,7 +48,6 @@ Meşebaşı Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylar�
 
 ## İlginç Bilgiler
 
-- Meşebaşı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Meşebaşı Tepesi, Doğu Anadolu Bölgesi'nin gözde mekanlarından biri
 - Meşebaşı Tepesi, tarihin izlerini taşıyan önemli bir kültürel mirastır
 - Meşebaşı Tepesi, doğa severler için önemli bir destinasyondur

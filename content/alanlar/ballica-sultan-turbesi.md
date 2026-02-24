@@ -29,7 +29,7 @@ wikidata_id: "Q131391818"
 
 # Ballıca Sultan Türbesi
 
-Ballıca Sultan Türbesi, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olan Balıkesir'de yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerine geniş bir yeşil alan sunuyor. Tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem tarihin izlerini sürerken hem de doğanın güzelliğini keşfedebiliyorlar.
+Ballıca Sultan Türbesi, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olan Balıkesir'de yer alıyor. Tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem tarihin izlerini sürerken hem de doğanın güzelliğini keşfedebiliyorlar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Ballıca Sultan Türbesi'ni ziyaret etmek için, Balıkesir il merkezine ulaşı
 ## İlginç Bilgiler
 
 - Ballıca Sultan Türbesi, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri.
-- 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Tarihi geçmişi Osmanlı dönemine kadar uzanır.
 - Çevresindeki doğal güzellikler arasında ormanlar, nehirler ve dağlar bulunur.
 - Zengin bir flora ve fauna çeşitliliğine sahiptir.

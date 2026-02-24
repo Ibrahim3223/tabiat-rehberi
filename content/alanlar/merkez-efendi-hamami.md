@@ -51,7 +51,7 @@ Merkez Efendi Hamamı'na ziyaretçiler, toplu taşıma araçlarını kullanarak 
 ## İlginç Bilgiler
 
 - Merkez Efendi Hamamı, Zeytinburnu'nun en güzel plajlarından biri olarak bilinir.
-- Bu plaj, 140 hektarlık bir alana sahiptir.
+
 - Plajın çevresinde, çeşitli tarihi yapılar bulunur.
 - Merkez Efendi Hamamı, zengin bir ekosisteme sahiptir.
 - Ziyaretçiler, bu bölgede çeşitli hayvan türlerini görebilir.

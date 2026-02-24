@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Historical_Turkish_bath_in_Su%C5%9Fehri.jpg","alt":"Hasan Gedik Hamamı manzarası","credit":"Maurice Flesier","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Gedik%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738519","tip":"genel"}]
-description: "Suşehri'nin doğal güzellikleri arasında yer alan Hasan Gedik Hamamı, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
+"
 keywords: ["Hasan Gedik Hamamı","Suşehri","Sivas","İç Anadolu Bölgesi","doğal güzellikler","tarihi geçmişi","yeşil alan","turizm","gezi","seyahat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738519"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738519"
 
 # Hasan Gedik Hamamı
 
-Hasan Gedik Hamamı, Sivas'ın Suşehri ilçesinde bulunan ve 140 hektarlık yeşil alanı ile dikkat çekici bir doğal güzelliğimizdir. Hasan Gedik Hamamı, hem tarihi geçmişi hem de doğal güzellikleri ile Suşehri'nin önemli turizm noktalarından biri olarak biliniyor.
+ Hasan Gedik Hamamı, hem tarihi geçmişi hem de doğal güzellikleri ile Suşehri'nin önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hasan Gedik Hamamı'nın tarihi geçmişi, yüzyılların gerisine uzanıyor. Bu
 
 ## Coğrafya
 
-Hasan Gedik Hamamı, Sivas'ın Suşehri ilçesinde yer alıyor. Bu bölgede, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri görülüyor. Hasan Gedik Hamamı, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sahip. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir özellik gösteriyor. Hasan Gedik Hamamı'nın etrafı, yemyeşil dağlar ve tepelerle çevrili. Bu coğrafi özellikler, Hasan Gedik Hamamı'nı ziyaret edenleri büyülüyor. Hamamın etrafındaki dağlarda ve tepelerde, çeşitli fauna türleri yaşadığı biliniyor. Bu fauna çeşitliliği, Hasan Gedik Hamamı'nı ziyaret edenler için önemli bir çekim merkezi.
+Hasan Gedik Hamamı, Sivas'ın Suşehri ilçesinde yer alıyor. Bu bölgede, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri görülüyor. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sahip. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir özellik gösteriyor. Hasan Gedik Hamamı'nın etrafı, yemyeşil dağlar ve tepelerle çevrili. Bu coğrafi özellikler, Hasan Gedik Hamamı'nı ziyaret edenleri büyülüyor. Hamamın etrafındaki dağlarda ve tepelerde, çeşitli fauna türleri yaşadığı biliniyor. Bu fauna çeşitliliği, Hasan Gedik Hamamı'nı ziyaret edenler için önemli bir çekim merkezi.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Hasan Gedik Hamamı'nı ziyaret etmek, Suşehri'nin doğal güzelliklerini keşf
 
 ## İlginç Bilgiler
 
-- Hasan Gedik Hamamı, 140 hektarlık yeşil alanı ile dikkat çekiyor.
 - Bu hamam, Suşehri'nin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak kabul ediliyor.
 - Hasan Gedik Hamamı'nın etrafı, yemyeşil dağlar ve tepelerle çevrili.
 - Bölgede, çeşitli fauna türleri yaşadığı biliniyor.

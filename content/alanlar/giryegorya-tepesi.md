@@ -36,7 +36,7 @@ Giryegorya Tepesi, tarihsel olarak zengin bir geçmişe sahip. Bu bölge, yüzy�
 
 ## Coğrafya
 
-Giryegorya Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafyası içerisinde önemli bir yere sahip. Bu tepe, Batman şehrinin yakınlarında yer alıyor ve bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü şekillendirmiş. Giryegorya Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve fauna ile kaplı. Tepenin yüksekliği ve eğimli yapısı, bölgenin hava sirkülasyonunu etkiliyor ve bu nedenle, Giryegorya Tepesi'nin eteklerinde çeşitli tarım faaliyetleri yürütülüyor. Tepenin coğrafi yapısı, aynı zamanda bölgenin su kaynaklarının oluşumunu da etkiliyor. Giryegorya Tepesi, bölgenin su ihtiyacını karşılayan önemli bir su kaynağı olarak görülüyor. Coğrafi konumu ve yapısı, Giryegorya Tepesi'ni bölgenin önemli bir coğrafi noktası haline getiriyor.
+Giryegorya Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafyası içerisinde önemli bir yere sahip. Bu tepe, Batman şehrinin yakınlarında yer alıyor ve bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü şekillendirmiş. Tepenin yüksekliği ve eğimli yapısı, bölgenin hava sirkülasyonunu etkiliyor ve bu nedenle, Giryegorya Tepesi'nin eteklerinde çeşitli tarım faaliyetleri yürütülüyor. Tepenin coğrafi yapısı, aynı zamanda bölgenin su kaynaklarının oluşumunu da etkiliyor. Giryegorya Tepesi, bölgenin su ihtiyacını karşılayan önemli bir su kaynağı olarak görülüyor. Coğrafi konumu ve yapısı, Giryegorya Tepesi'ni bölgenin önemli bir coğrafi noktası haline getiriyor.
 
 ## Flora ve Fauna
 

@@ -49,7 +49,6 @@ Tura Tepe'yi ziyaret etmek, hem doğayı hem de tarihin derin sayfalarını keş
 
 ## İlginç Bilgiler
 
-- Tura Tepe, 140 hektarlık bir alana sahip
 - Tura Tepe'nin etrafı, çeşitli bitki türleriyle dolu
 - Tura Tepe, Batman ilinin en önemli doğal ve tarihi noktalarından biri
 - Tura Tepe, yüzyıllar boyunca şekillenmiş bir tarihi geçmişi var

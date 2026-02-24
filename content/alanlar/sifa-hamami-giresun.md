@@ -30,7 +30,7 @@ wikidata_id: "Q131738721"
 
 # Şifa Hamamı, Giresun
 
-Giresun'un merkezinde, Karadeniz Bölgesi'nin en güzel plajlarından biri olan Şifa Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor. Şifa Hamamı, Giresun'un en çok ziyaret edilen yerlerinden biri ve her yıl binlerce turisti ağırlıyor. Şifa Hamamı'nın güzelliği, sadece geniş ve temiz plajıyla değil, aynı zamanda çevredeki yeşilli ve doğal güzelliklerle de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrar.
+ Şifa Hamamı, Giresun'un en çok ziyaret edilen yerlerinden biri ve her yıl binlerce turisti ağırlıyor. Şifa Hamamı'nın güzelliği, sadece geniş ve temiz plajıyla değil, aynı zamanda çevredeki yeşilli ve doğal güzelliklerle de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrar.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Giresun'un merkezinde, Karadeniz Bölgesi'nin en güzel plajlarından biri olan 
 ## İlginç Bilgiler
 
 - Şifa Hamamı, Giresun'un en çok ziyaret edilen destinasyonlarından biri.
-- Şifa Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Şifa Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri.
 - Şifa Hamamı, zengin bir flora ve fauna çeşitliliğine sahip.
 - Şifa Hamamı, yılın her dönemi ziyaret edilebilir.

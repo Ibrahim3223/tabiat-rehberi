@@ -38,7 +38,7 @@ Hamam, Çandarlı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin
 
 ## Coğrafya
 
-Hamam, Çandarlı, Dikili'nin en güzel ve sakin plajlarından biri olarak Ege Bölgesi'nde yer alıyor. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve geniş bir kumsala sahip. Plajın kumsalı, ince kumdan oluşuyor ve deniz, genellikle sakin ve berrak. Hamam, Çandarlı, özellikle yaz aylarında ziyaretçilerin preference ettiği bir destinasyon olarak ön plana çıkıyor. Plajın etrafında, çeşitli restoranlar, kafeler ve alışveriş olanakları bulunuyor. Ayrıca, plajın yakınında bulunan tarihi kalıntılar, ziyaretçilere bu bölgenin geçmişini keşfetme fırsatı sunuyor. Hamam, Çandarlı'nın coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliğini ve tarihi değerlerini keşfetme fırsatı sunuyor.
+Hamam, Çandarlı, Dikili'nin en güzel ve sakin plajlarından biri olarak Ege Bölgesi'nde yer alıyor. Plajın kumsalı, ince kumdan oluşuyor ve deniz, genellikle sakin ve berrak. Hamam, Çandarlı, özellikle yaz aylarında ziyaretçilerin preference ettiği bir destinasyon olarak ön plana çıkıyor. Plajın etrafında, çeşitli restoranlar, kafeler ve alışveriş olanakları bulunuyor. Ayrıca, plajın yakınında bulunan tarihi kalıntılar, ziyaretçilere bu bölgenin geçmişini keşfetme fırsatı sunuyor. Hamam, Çandarlı'nın coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliğini ve tarihi değerlerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hamam, Çandarlı, özellikle yaz aylarında ziyaretçilerin preference ettiği 
 ## İlginç Bilgiler
 
 - Hamam, Çandarlı, Ege Bölgesi'nin en güzel plajlarından biri.
-- Plaj, khong 200 futbol sahası büyüklüğünde.
+
 - Hamam, Çandarlı, özellikle yaz aylarında ziyaretçilerin preference ettiği bir destinasyon.
 - Plajın yakınında bulunan tarihi kalıntılar, ziyaretçilere bu bölgenin geçmişini keşfetme fırsatı sunuyor.
 - Hamam, Çandarlı, zengin bir flora ve fauna'ya sahip.

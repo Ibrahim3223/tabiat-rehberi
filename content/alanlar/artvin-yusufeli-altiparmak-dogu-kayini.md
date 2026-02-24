@@ -43,7 +43,7 @@ Artvin-Yusufeli-Altiparmak Dogu Kayini'ni ziyaret etmek, doğa severler için bi
 ## İlginç Bilgiler
 
 - Artvin-Yusufeli-Altiparmak Dogu Kayini, Karadeniz Bölgesi'nin en büyük milli parklarından biri.
-- Bu milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Artvin-Yusufeli-Altiparmak Dogu Kayini, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Bu bölge, yaban hayatı bakımından oldukça zengin.
 - Milli parka, özel araçla veya toplu taşıma araçlarıyla ulaşma mümkün.

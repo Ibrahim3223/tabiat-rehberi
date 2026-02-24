@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 18'in tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 18, Ege Bölgesi'nin coğrafyası içinde özel bir yere sahiptir. Bu bölge, Salihli, Manisa'nın doğal güzelliklerine ev sahipliği yapan bir alan olup, çevresindeki tepe gibi yükselen tümülüslerle birlikte doğal bir güzelliğe sahiptir. 140 hektarlık bu alan, ziyaretçilerine geniş ve yeşil bir ortam sunar. Bölge, iklim bakımından ılıman bir yapıya sahiptir ve ziyaretçileri, mevsimsel değişimlere tanık olmaya davet eder. Çevre, yeşilin ve mavinin tonlarını bir araya getiren bir manzaraya sahiptir ve ziyaretçileri, doğanın güzelliğine davet eder.
+Bin Tepeler Tümülüsü 18, Ege Bölgesi'nin coğrafyası içinde özel bir yere sahiptir. Bu bölge, Salihli, Manisa'nın doğal güzelliklerine ev sahipliği yapan bir alan olup, çevresindeki tepe gibi yükselen tümülüslerle birlikte doğal bir güzelliğe sahiptir. Bölge, iklim bakımından ılıman bir yapıya sahiptir ve ziyaretçileri, mevsimsel değişimlere tanık olmaya davet eder. Çevre, yeşilin ve mavinin tonlarını bir araya getiren bir manzaraya sahiptir ve ziyaretçileri, doğanın güzelliğine davet eder.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 18'i ziyaret etmek, tarihin ve doğanın güzelliğini 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 18, Ege Bölgesi'nin en önemli tarihi yapılarından biridir
-- Bölge, 140 hektarlık bir alana sahiptir
+
 - Tümülüsler, tarihin derinliklerine ulaşmak için önemli birer kapıdır
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar
 - Ekoloji, Bu bölgede önemli bir rol oynar

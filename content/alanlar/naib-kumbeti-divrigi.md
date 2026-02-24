@@ -50,7 +50,6 @@ Naib Kümbeti, Sivas'ın Divriği ilçesinde bulunur ve ziyaretçilerin ulaşım
 ## İlginç Bilgiler
 
 - Naib Kümbeti, tarihi geçmişi ile dikkat çeker
-- Bu yapı, 140 hektarlık bir alan üzerinde kurulmuştur
-- Naib Kümbeti, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Naib Kümbeti, Divriği'nin merkezi konumunda bulunur
 - Bu yapı, yıl boyunca ziyaret edilebilir

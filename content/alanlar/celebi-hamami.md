@@ -30,7 +30,7 @@ wikidata_id: "Q133245707"
 
 # Çelebi Hamamı
 
-Çelebi Hamamı, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alan bir hamamdır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresindeki diğer tarihi binalarla birlikte bir bütünü oluşturmaktadır. Çelebi Hamamı, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul edilir. Bu hamam, yüzyıllar boyunca insanların temizli ve sosyal aktiviteler için toplandığı bir yer olarak hizmet vermiştir. Çelebi Hamamı, tarihi geçmişi ve kültürel önemi ile ziyaretçilerini çekmektedir.
+Çelebi Hamamı, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alan bir hamamdır. Çelebi Hamamı, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul edilir. Bu hamam, yüzyıllar boyunca insanların temizli ve sosyal aktiviteler için toplandığı bir yer olarak hizmet vermiştir. Çelebi Hamamı, tarihi geçmişi ve kültürel önemi ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q133245707"
 
 ## Coğrafya
 
-Çelebi Hamamı, Fatih ilçesinin merkezinde yer alır ve çevresinde çeşitli tarihi binalar ve yapılar bulunmaktadır. Bu hamam, Marmara Bölgesi'nin coğrafi özellikleri nedeniyle, nemli ve ılıman bir iklimde yer almaktadır. Çelebi Hamamı'nın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli tarihi yapılar ve yeşil alanlarla birlikte bir bütünü oluşturmaktadır. Çelebi Hamamı, İstanbul'un tarihi merkezi olan Sultanahmet Meydanı'na yakın bir mesafede yer alır. Bu hamam, çevresindeki diğer tarihi yapılar ile birlikte, İstanbul'un tarihi ve kültürel kimliğinin önemli bir parçasını oluşturmaktadır. Çelebi Hamamı'nın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir.
+Çelebi Hamamı, Fatih ilçesinin merkezinde yer alır ve çevresinde çeşitli tarihi binalar ve yapılar bulunmaktadır. Bu hamam, Marmara Bölgesi'nin coğrafi özellikleri nedeniyle, nemli ve ılıman bir iklimde yer almaktadır. Çelebi Hamamı, İstanbul'un tarihi merkezi olan Sultanahmet Meydanı'na yakın bir mesafede yer alır. Bu hamam, çevresindeki diğer tarihi yapılar ile birlikte, İstanbul'un tarihi ve kültürel kimliğinin önemli bir parçasını oluşturmaktadır. Çelebi Hamamı'nın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir.
 
 ## Flora ve Fauna
 

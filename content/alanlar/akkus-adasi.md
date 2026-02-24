@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Akdamar_Adas%C4%B1.jpg","alt":"Akkuş Adası manzarası","credit":"Gözde Akkuş","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Van_Akdamar_Adas%C4%B1.jpg/960px-Van_Akdamar_Adas%C4%B1.jpg","alt":"Akkuş Adası","caption":"Akkuş Adası","credit":"Van Akdamar Adası","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Van_Akdamar_Adas%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Van_Akdamar_Adas%C4%B1.jpg/1228px-Van_Akdamar_Adas%C4%B1.jpg","alt":"Akkuş Adası - Van Akdamar Adası","credit":"Gözde Akkuş","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akku%C5%9F%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631510","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Akkuş Adası, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

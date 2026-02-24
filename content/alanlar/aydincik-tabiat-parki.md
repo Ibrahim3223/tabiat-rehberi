@@ -18,10 +18,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa keşfi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Aydincik%20Incekum.jpg","alt":"Aydıncık Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sunset_Ayd%C4%B1nc%C4%B1k.jpg/960px-Sunset_Ayd%C4%B1nc%C4%B1k.jpg","alt":"Aydıncık Tabiat Parkı","caption":"Aydıncık Tabiat Parkı","credit":"Sunset Aydıncık","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/1280px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Aydıncık Tabiat Parkı - Aydıncık Cave","credit":"Nedim Ardoğa","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Sunset_Ayd%C4%B1nc%C4%B1k.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sunset_Ayd%C4%B1nc%C4%B1k.jpg/1280px-Sunset_Ayd%C4%B1nc%C4%B1k.jpg","alt":"Aydıncık Tabiat Parkı - Sunset Aydıncık","credit":"Ayşe Şura Köse","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Aydincik_Incekum.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aydincik_Incekum.jpg/1280px-Aydincik_Incekum.jpg","alt":"Aydıncık Tabiat Parkı - Aydincik Incekum","credit":"Gukkumavuk","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/AYDINCIK.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ee/AYDINCIK.jpg","alt":"Aydıncık Tabiat Parkı - AYDINCIK","credit":"Muratbozkurt1978","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1nc%C4%B1k%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48791812","tip":"genel"}]
-description: "Mersin'in doğal güzelliği, Aydıncık Tabiat Parkı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Aydıncık","Tabiat Parkı","Mersin","Doğa","Yeşil Alan","Gezi","Turizm","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q48791812"
@@ -29,7 +29,7 @@ wikidata_id: "Q48791812"
 
 # Aydıncık Tabiat Parkı
 
-Aydıncık Tabiat Parkı, Mersin'in bir ilçesi olan Aydıncık'ta yer alan, 140 hektarlık geniş bir yeşil alana sahip doğa harikası bir bölgedir. Aydıncık Tabiat Parkı, özellikle doğa severlerin ve piknik yapmak isteyenlerin tercih ettiği bir yerdir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, parkın çevresi, ziyaretçilere geniş ve ferah bir ortam sunar.
+ Aydıncık Tabiat Parkı, özellikle doğa severlerin ve piknik yapmak isteyenlerin tercih ettiği bir yerdir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, parkın çevresi, ziyaretçilere geniş ve ferah bir ortam sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aydıncık Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin do
 
 ## Coğrafya
 
-Aydıncık Tabiat Parkı, Mersin'in Aydıncık ilçesinde yer alır ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Park, 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir yeşil alan sunar. Aydıncık Tabiat Parkı, coğrafi olarak, deniz seviyesinden yüksek bir bölgede yer alır ve bu nedenle, ziyaretçilere geniş bir manzara sunar. Parkın çevresi, genellikle ormanlık ve dağlık arazilerle çevrilidir ve bu nedenle, ziyaretçilere doğal bir ortam sunar. Aydıncık Tabiat Parkı, iklim olarak, Akdeniz ikliminin özellikleri gösterir ve bu nedenle, ziyaretçilere sıcak ve güneşli bir hava sunar. Parkın suyu, genellikle yeraltı suyundan elde edilir ve bu nedenle, ziyaretçilere temiz ve soğuk su sunar.
+Aydıncık Tabiat Parkı, Mersin'in Aydıncık ilçesinde yer alır ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Aydıncık Tabiat Parkı, coğrafi olarak, deniz seviyesinden yüksek bir bölgede yer alır ve bu nedenle, ziyaretçilere geniş bir manzara sunar. Parkın çevresi, genellikle ormanlık ve dağlık arazilerle çevrilidir ve bu nedenle, ziyaretçilere doğal bir ortam sunar. Aydıncık Tabiat Parkı, iklim olarak, Akdeniz ikliminin özellikleri gösterir ve bu nedenle, ziyaretçilere sıcak ve güneşli bir hava sunar. Parkın suyu, genellikle yeraltı suyundan elde edilir ve bu nedenle, ziyaretçilere temiz ve soğuk su sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Aydıncık Tabiat Parkı, ziyaretçilere, çeşitli aktiviteleri sunar. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Aydıncık Tabiat Parkı, 140 hektarlık bir alanı kaplar.
 - Parkın içinde, çeşitli bitki türleri bulunur.
 - Aydıncık Tabiat Parkı, birçok hayvan türüne ev sahipliği yapar.
 - Parkın çevresi, genellikle ormanlık ve dağlık arazilerle çevrilidir.

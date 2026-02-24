@@ -50,7 +50,7 @@ Hacım Sultan Türbesi ve çevresindeki plaj, ziyaretçilere çeşitli olanaklar
 ## İlginç Bilgiler
 
 - Hacım Sultan Türbesi, Uşak'ın Sivaslı ilçesinde yer alır.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Turbe, önemli bir dinî figür olan Hacım Sultan'a adanmıştır.
 - Hacım Sultan Türbesi, yüzyıllar boyunca önemli bir dinî merkez olarak kabul edilmiştir.
 - Bölge, Ege Denizi'nin kıyısında yer alır.

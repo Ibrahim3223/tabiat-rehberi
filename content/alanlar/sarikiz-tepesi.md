@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Kazdaglar%C4%B1_%288%29.jpg","alt":"Sarıkız Tepesi manzarası","credit":"Alfinkedisi","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Sar%C4%B1k%C4%B1z_%281%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sar%C4%B1k%C4%B1z_%281%29.jpg/1280px-Sar%C4%B1k%C4%B1z_%281%29.jpg","alt":"Sarıkız Tepesi - Sarıkız (1)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Sar%C4%B1k%C4%B1z_%283%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sar%C4%B1k%C4%B1z_%283%29.jpg/1280px-Sar%C4%B1k%C4%B1z_%283%29.jpg","alt":"Sarıkız Tepesi - Sarıkız (3)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Sar%C4%B1k%C4%B1z_%2810%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sar%C4%B1k%C4%B1z_%2810%29.jpg/1280px-Sar%C4%B1k%C4%B1z_%2810%29.jpg","alt":"Sarıkız Tepesi - Sarıkız (10)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Sar%C4%B1k%C4%B1z_%289%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sar%C4%B1k%C4%B1z_%289%29.jpg/1280px-Sar%C4%B1k%C4%B1z_%289%29.jpg","alt":"Sarıkız Tepesi - Sarıkız (9)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Sar%C4%B1k%C4%B1z_%2812%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sar%C4%B1k%C4%B1z_%2812%29.jpg/1280px-Sar%C4%B1k%C4%B1z_%2812%29.jpg","alt":"Sarıkız Tepesi - Sarıkız (12)","credit":"Alfinkedisi","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1k%C4%B1z%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388334","tip":"genel"}]
-description: "Aydın'ın doğal güzelliklerinden biri olan Sarıkız Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Sarıkız Tepesi","Aydın","Ege Bölgesi","doğa","tepe","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388334"
@@ -49,7 +49,6 @@ Sarıkız Tepesi, ziyaretçilerini bekliyor ve bu bölgeyi gezmek oldukça keyif
 
 ## İlginç Bilgiler
 
-- Sarıkız Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepenin yüksekliği, yüksek bir konumda
 - Tepenin etrafında, çeşitli akarsular ve dereler yer alıyor
 - Sarıkız Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor

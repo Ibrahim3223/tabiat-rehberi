@@ -30,7 +30,7 @@ wikidata_id: "Q131391503"
 
 # Şekmeti Mehmet Efendi Türbesi
 
-Şekmeti Mehmet Efendi Türbesi, Edirne'nin merkezinde yer alan ve Marmara Bölgesi'nin önemli dini ziyaret noktalarından biri olan tarihi bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer almakta ve ziyaretçilerini tarihi atmosferi ile karşılamaktadır. Şehrin kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Şekmeti Mehmet Efendi Türbesi, aynı zamanda şehrin tarihini ve kültürünü keşfetmek isteyenler için de önemli bir destinasyon.
+Şekmeti Mehmet Efendi Türbesi, Edirne'nin merkezinde yer alan ve Marmara Bölgesi'nin önemli dini ziyaret noktalarından biri olan tarihi bir mekan. Şehrin kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Şekmeti Mehmet Efendi Türbesi, aynı zamanda şehrin tarihini ve kültürünü keşfetmek isteyenler için de önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391503"
 
 ## Coğrafya
 
-Şekmeti Mehmet Efendi Türbesi, Edirne'nin merkezinde yer alan bir bölge içerisinde bulunmaktadır. Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer almakta ve ziyaretçilerini tarihi atmosferi ile karşılamaktadır. Çevre, çeşitli tarihi yapılar ve yeşillik alanlarla çevrilidir. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçiler, her mevsim türbeyi ziyaret edebilir. Bölge, aynı zamanda çeşitli flora ve fauna türlerine ev sahipliği yapmakta ve bu nedenle doğa severler için de önemli bir destinasyon.
+Şekmeti Mehmet Efendi Türbesi, Edirne'nin merkezinde yer alan bir bölge içerisinde bulunmaktadır. Çevre, çeşitli tarihi yapılar ve yeşillik alanlarla çevrilidir. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçiler, her mevsim türbeyi ziyaret edebilir. Bölge, aynı zamanda çeşitli flora ve fauna türlerine ev sahipliği yapmakta ve bu nedenle doğa severler için de önemli bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131391503"
 ## İlginç Bilgiler
 
 - Şekmeti Mehmet Efendi Türbesi, Edirne'nin en önemli dini ziyaret noktalarından biri.
-- Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer almakta.
+
 - Bölge, çeşitli flora ve fauna türlerine ev sahipliği yapmakta.
 - Türbe ve çevresindeki yapılar, zaman içinde çeşitli restorasyonlar ve yenilemelerden geçmiş.
 - Şekmeti Mehmet Efendi, bölgeye önemli katkıları olan bir din alimi olarak bilinmekte.

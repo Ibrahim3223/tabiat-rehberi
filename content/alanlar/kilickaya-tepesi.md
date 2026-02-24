@@ -48,7 +48,6 @@ Kılıçkaya Tepesi'ni ziyaret etmek, ziyaretçilere doğa ile iç içe bir dene
 
 ## İlginç Bilgiler
 
-- Kılıçkaya Tepesi, 140 hektarlık bir alana sahip.
 - Tepenin yüksekliği, ziyaretçilere geniş bir görüş açısı sunuyor.
 - Bölge, çeşitli bitki türleri ve zengin fauna çeşitliliğine sahip.
 - Kılıçkaya Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir gezi noktası.

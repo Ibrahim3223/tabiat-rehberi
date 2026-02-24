@@ -38,7 +38,7 @@ Selçuk Hamamı'nın tarihi geçmişi, Selçuklu döneminde başlar. Bu dönemde
 
 ## Coğrafya
 
-Selçuk Hamamı, İzmir'in Selçuk ilçesinde, Ege Bölgesi'nde yer alır. Plaj, denize sıfır bir konumda bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Plajın kumları trng ve ince, denizi ise berra ve sıcaktır. Selçuk Hamamı'nın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Plaj, güneşin ve denizin keyfini çıkarabileceğiniz, aynı zamanda doğanın güzelliğini keşfedebileceğiniz bir yer. Selçuk Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Plajın coğrafi konumu, onu bir turizm merkezi haline getirmiştir. Selçuk Hamamı, her yıl binlerce turisti kendisine çekmektedir.
+Selçuk Hamamı, İzmir'in Selçuk ilçesinde, Ege Bölgesi'nde yer alır. Plajın kumları trng ve ince, denizi ise berra ve sıcaktır. Selçuk Hamamı'nın etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Plaj, güneşin ve denizin keyfini çıkarabileceğiniz, aynı zamanda doğanın güzelliğini keşfedebileceğiniz bir yer. Selçuk Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Plajın coğrafi konumu, onu bir turizm merkezi haline getirmiştir. Selçuk Hamamı, her yıl binlerce turisti kendisine çekmektedir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Selçuk Hamamı, her yıl binlerce turisti kendisine çekmektedir. Plaj, güneş
 ## İlginç Bilgiler
 
 - Selçuk Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Selçuk Hamamı, güneşin ve denizin keyfini çıkarabileceğiniz, aynı zamanda doğanın güzelliğini keşfedebileceğiniz bir yer.
 - Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunur.
 - Selçuk Hamamı, her yıl binlerce turisti kendisine çekmektedir.

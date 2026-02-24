@@ -42,7 +42,6 @@ Gorkemli Mese, doğa severler için bir keşif alanıdır. Milli parka ulaşım,
 
 ## İlginç Bilgiler
 
-- Gorkemli Mese, 140 hektarlık bir milli parktır
 - Milli park, çeşitli bitki türleri ile kaplıdır
 - Gorkemli Mese, yaban hayvanlarına ev sahipliği yapmaktadır
 - Milli parkın coğrafi yapısı, geniş otlak alanları ve ormanlık bölgelerden oluşmaktadır

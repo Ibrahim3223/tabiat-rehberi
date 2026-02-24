@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemleme","fotografçılı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Konya-Hadim-Karacam 1","caption":"Konya-Hadim-Karacam 1","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Hadim-Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228107","tip":"genel"}]
-description: "Konya ilinin Hadim ilçesinde yer alan milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Konya","Hadim","Karacam","milli park","doğa","çevre","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228107"
@@ -42,7 +42,6 @@ Konya-Hadim-Karacam 1 milli parkına ziyarette bulunmak, ziyaretçilere geniş b
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türlerine ev sahipliği yapıyor
 - Milli parkın faunaı, çeşitli yaban hayvanlarını içeriyor
 - Milli park, ziyaretçilere geniş bir doğa alanı sunuyor

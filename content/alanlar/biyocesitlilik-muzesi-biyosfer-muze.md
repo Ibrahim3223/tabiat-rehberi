@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Eğitim 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Biyoçeşitlilik Müzesi (Biyosfer Müze)","caption":"Biyoçeşitlilik Müzesi (Biyosfer Müze)","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Biyo%C3%A7e%C5%9Fitlilik%20M%C3%BCzesi%20(Biyosfer%20M%C3%BCze)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950204","tip":"genel"}]
-description: "Ankara'nın kalbinde yer alan Biyoçeşitlilik Müzesi, 140 hektarlık bir alanda, doğa ve canlıları korumak için kurulmuştur."
+"
 keywords: ["biyoçeşitlilik","müze","Ankara","doğa","canlılar","koruma","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132950204"
@@ -48,8 +48,6 @@ Biyoçeşitlilik Müzesi, çeşitli bitki türleri ve hayvanlarla dolu bir ekosi
 Biyoçeşitlilik Müzesi, Ankara'nın merkezinde yer alan bir doğa koruma alanı olarak, ziyaretçiler için kolay ulaşılabilir bir konumdadır. Müze, dört mevsim boyunca açık olmakta ve ziyaretçilerin doğayı yakından gözlemlemelerine olanak tanımaktadır. Biyoçeşitlilik Müzesi'ni ziyaret etmek için, ziyaretçiler müzenin resmi internet sitesinden veya müzenin gişesinden bilet alabilirler. Müzenin gişesi, hafta içi ve hafta sonu açık olmakta ve ziyaretçilerin kolayca bilet alabilecekleri bir sistem sunmaktadır. Biyoçeşitlilik Müzesi, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanımaktadır.
 
 ## İlginç Bilgiler
-
-- Biyoçeşitlilik Müzesi, 140 hektarlık bir alanı kaplamaktadır.
 
 - Biyoçeşitlilik Müzesi, Ankara'nın önemli bir doğa koruma alanı olarak kabul edilmektedir.
 - Müze, dört mevsim boyunca açık olmakta ve ziyaretçilerin doğayı yakından gözlemlemelerine olanak tanımaktadır.

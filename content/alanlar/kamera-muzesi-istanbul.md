@@ -21,7 +21,7 @@ aktiviteler: ["deniz kenarında yürüyüş","bitki ve ağaçları incelemek","m
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Kamera Müzesi, İstanbul","caption":"Kamera Müzesi, İstanbul","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamera%20M%C3%BCzesi%2C%20%C4%B0stanbul","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61852762","tip":"genel"}]
-description: "İstanbul'un en büyük plajlarından biri olan Kamera Müzesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Kamera Müzesi","İstanbul","plaj","Marmara Bölgesi","Bakırköy","yeşil alan","deniz"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q61852762"
@@ -45,11 +45,10 @@ Kamera Müzesi'nin bulunduğu bölgede, çeşitli bitkiler ve ağaçlar bulunuyo
 
 ## Ziyaret Bilgileri
 
-Kamera Müzesi'ni ziyaret etmek, oldukça keyifli bir deneyim olabilir. Bu müze, Marmara Bölgesi'nde, Bakırköy ilçesinde yer alıyor ve İstanbul'un merkezine yakın bir mesafede bulunuyor. Ziyaretçiler, toplu taşıma araçlarını kullanara veya özel araçlarıyla bu bölgeye ulaşabilirler. Müzenin bulunduğu 140 hektarlık yeşil alan, ziyaretçilerin rahatlıkla gezebileceği bir ortam sunuyor ve çeşitli bitkiler ve ağaçlar, ziyaretçilere doğal bir ortam sunuyor. Kamera Müzesi'ni ziyaret etmek için en iyi mevsim, ilkbahar ve yaz ayları olarak biliniyor.
+Kamera Müzesi'ni ziyaret etmek, oldukça keyifli bir deneyim olabilir. Bu müze, Marmara Bölgesi'nde, Bakırköy ilçesinde yer alıyor ve İstanbul'un merkezine yakın bir mesafede bulunuyor. Ziyaretçiler, toplu taşıma araçlarını kullanara veya özel araçlarıyla bu bölgeye ulaşabilirler. Kamera Müzesi'ni ziyaret etmek için en iyi mevsim, ilkbahar ve yaz ayları olarak biliniyor.
 
 ## İlginç Bilgiler
 
-- Kamera Müzesi, 140 hektarlık bir yeşil alanı kapsıyor.
 - Marmara Bölgesi'nde, Bakırköy ilçesinde yer alıyor.
 - İstanbul'un merkezine yakın bir mesafede bulunuyor.
 - İlkbahar ve yaz ayları, ziyaret için en iyi mevsimler.

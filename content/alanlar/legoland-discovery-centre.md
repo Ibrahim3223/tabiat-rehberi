@@ -31,7 +31,7 @@ Legoland Discovery Centre'nin tarihi geçmişi, çocukların hayal dünyasını 
 
 ## Coğrafya
 
-İç Anadolu Bölgesi'nde yer alan Legoland Discovery Centre, 140 hektarlık bir alana kurulmuştur. Legoland Discovery Centre'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezi bir yerinde yer alır ve bu bölgeye gelen aileler için keyifli bir gün geçirmelerine olanak tanır. Merkezin etrafında, çocukların doğayı keşfetmesine olanak tanıyan yeşil alanlar ve parklar bulunur. Bu alanlar, çocukların doğayla iç içe olmasını sağlar ve onların yaratıcılıklarını geliştirmelerine yardımcı olur. Legoland Discovery Centre'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bu bölgeye gelen aileler, bu merkezde keyifli bir gün geçirmelerine olanak tanır.
+ Legoland Discovery Centre'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezi bir yerinde yer alır ve bu bölgeye gelen aileler için keyifli bir gün geçirmelerine olanak tanır. Merkezin etrafında, çocukların doğayı keşfetmesine olanak tanıyan yeşil alanlar ve parklar bulunur. Bu alanlar, çocukların doğayla iç içe olmasını sağlar ve onların yaratıcılıklarını geliştirmelerine yardımcı olur. Legoland Discovery Centre'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bu bölgeye gelen aileler, bu merkezde keyifli bir gün geçirmelerine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Legoland Discovery Centre'nin etrafında, çocukların doğayı keşfetmesine ol
 Legoland Discovery Centre'yi ziyaret etmek, aileler için keyifli bir gün geçirmelerine olanak tanır. Merkeze gitmek için, İç Anadolu Bölgesi'ne gelen aileler, bu merkezden yararlanabilir. Legoland Discovery Centre, çocukların hayal dünyasını süsleyen bir eğlence merkezi olarak tasarlanmış ve bu amaca yönelik olarak inşa edilmiştir. Aileler, bu merkezde keyifli bir gün geçirmelerine olanak tanır ve çocukların yaratıcılıklarını geliştirmelerine yardımcı olur. Ziyaretçiler, Legoland Discovery Centre'nin etrafındaki yeşil alanları ve parkları da keşfedebilir ve doğayla iç içe olmanın keyfini çıkarabilir.
 
 ## İlginç Bilgiler
-
-- Legoland Discovery Centre, 140 hektarlık bir alana kurulmuştur.
 
 - Legoland Discovery Centre, çocukların lego oyuncaklarla dolu bir dünya keşfetmesine olanak tanır.
 - Merkezin etrafında, çocukların doğayı keşfetmesine olanak tanıyan yeşil alanlar ve parklar bulunur.

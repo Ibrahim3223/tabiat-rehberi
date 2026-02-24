@@ -37,7 +37,7 @@ Esen Bey Türbesi, Niğde'nin tarihinde önemli bir yere sahip tarihi bir yapıd
 
 ## Coğrafya
 
-Esen Bey Türbesi, Niğde'nin merkezinde yer alıyor. Bu türkbenin etrafındaki 140 hektarlık alan, şehrin önemli yeşil alanlarından biridir. Türbenin konumu, ziyaretçilere hem tarihi bir yapıyı keşfetme hem de güzel bir doğa yürüyüşü yapma imkanı sunuyor. Esen Bey Türbesi, Niğde'nin coğrafi özelliklerini de yansıtıyor. Bölgenin iklimi, türbenin mimarisini ve çevresindeki bitki örtüsünü etkiliyor. Türbenin etrafındaki yeşil alan, çeşitli bitki türleri ile zengin bir flora sunuyor. Esen Bey Türbesi, Niğde'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Esen Bey Türbesi, Niğde'nin merkezinde yer alıyor. Türbenin konumu, ziyaretçilere hem tarihi bir yapıyı keşfetme hem de güzel bir doğa yürüyüşü yapma imkanı sunuyor. Esen Bey Türbesi, Niğde'nin coğrafi özelliklerini de yansıtıyor. Bölgenin iklimi, türbenin mimarisini ve çevresindeki bitki örtüsünü etkiliyor. Türbenin etrafındaki yeşil alan, çeşitli bitki türleri ile zengin bir flora sunuyor. Esen Bey Türbesi, Niğde'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

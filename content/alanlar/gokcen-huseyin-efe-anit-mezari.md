@@ -51,6 +51,6 @@ Gökçen Hüseyin Efe Anıt Mezarı, ziyaretçilere tarih ve kültür hakkında 
 
 - Gökçen Hüseyin Efe, Türk Kurtuluş Savaşı'nda önemli rollerplayed
 - Ödemiş'in özgürlüğü için mücadele etti
-- Anıt mezar, 140 hektarlık bir alanı kaplıyor
+
 - Gökçen Hüseyin Efe Anıt Mezarı, Ege Bölgesi'nin önemli coğrafi noktalarından biri
 - Anıt mezarın etrafında, çeşitli ağaçlar ve bitkiler yer alıyor

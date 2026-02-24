@@ -38,7 +38,7 @@ Emir Nureddin Türbesi, tarihi geçmişiyle dikkat çekiyor. Yüzyıllar boyunca
 
 ## Coğrafya
 
-Emir Nureddin Türbesi, Konya'nın Meram ilçesinde yer alıyor. Bu ilçe, İç Anadolu Bölgesi'nde bulunuyor ve coğrafi konumuyla dikkat çekiyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerin farklı mevsimlerde ziyaret etmelerine olanak sağlıyor. Emir Nureddin Türbesi, coğrafi konumu ve doğal güzellikleriyle ziyaretçilerini cezbediyor. 140 hektarlık alan, ziyaretçilere geniş bir alan sunuyor ve tarihi geçmişi hakkında bilgi sahibi olmalarına olanak sağlıyor.
+Emir Nureddin Türbesi, Konya'nın Meram ilçesinde yer alıyor. Bu ilçe, İç Anadolu Bölgesi'nde bulunuyor ve coğrafi konumuyla dikkat çekiyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerin farklı mevsimlerde ziyaret etmelerine olanak sağlıyor. Emir Nureddin Türbesi, coğrafi konumu ve doğal güzellikleriyle ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

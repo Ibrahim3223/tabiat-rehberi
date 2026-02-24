@@ -29,7 +29,7 @@ wikidata_id: "Q131390823"
 
 # Gözükızıl Mehmet Baba Türbesi
 
-Gözükızıl Mehmet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Şahinbey/Gaziantep'te yer alan tarihi bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak ziyaretçilerini karşılar. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu bölge, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Türbe, yüzyıllar boyunca birçok kişinin ziyaret ettiği kutsal bir yer olarak bilinir. Gözükızıl Mehmet Baba Türbesi, aynı zamanda bölgenin kültürel mirasının önemli bir parçası olarak kabul edilir.
+Gözükızıl Mehmet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Şahinbey/Gaziantep'te yer alan tarihi bir türbedir. Türbe, yüzyıllar boyunca birçok kişinin ziyaret ettiği kutsal bir yer olarak bilinir. Gözükızıl Mehmet Baba Türbesi, aynı zamanda bölgenin kültürel mirasının önemli bir parçası olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Gözükızıl Mehmet Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine k
 
 ## Coğrafya
 
-Gözükızıl Mehmet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak ziyaretçilerini karşılar. Bu bölge, aynı zamanda zengin fauna sahip bir alandır. Türbenin bulunduğu yer, Gaziantep'in Şahinbey ilçesinde, şehrin merkezine yakın bir konumda yer alır. Gözükızıl Mehmet Baba Türbesi, coğrafi olarak önemli bir konuma sahiptir. Bu geniş alan, ziyaretçilere hem tarihi bir türbe hem de doğal güzellik sunar. Gözükızıl Mehmet Baba Türbesi, coğrafi konumu itibariyle ziyaretçilerine birçok olanak sunar.
+Gözükızıl Mehmet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, aynı zamanda zengin fauna sahip bir alandır. Türbenin bulunduğu yer, Gaziantep'in Şahinbey ilçesinde, şehrin merkezine yakın bir konumda yer alır. Gözükızıl Mehmet Baba Türbesi, coğrafi olarak önemli bir konuma sahiptir. Bu geniş alan, ziyaretçilere hem tarihi bir türbe hem de doğal güzellik sunar. Gözükızıl Mehmet Baba Türbesi, coğrafi konumu itibariyle ziyaretçilerine birçok olanak sunar.
 
 ## Flora ve Fauna
 
-Gözükızıl Mehmet Baba Türbesi, flora ve fauna açısından zengin bir bölgede yer alır. Türbenin bulunduğu 140 hektarlık alan, çeşitli bitki türleriyle çevrili olarak ziyaretçilerini karşılar. Bu bölge, aynı zamanda zengin fauna sahip bir alandır. Mevsimsel değişimler, bu bölgede birçok farklı bitki ve hayvan türünün yaşamına olanak tanır. Gözükızıl Mehmet Baba Türbesi'nin bulunduğu yer, ekolojik olarak önemli bir bölgedir. Bu bölgede, birçok farklı türün yaşaması, burayı özel kılar. Türbe, flora ve fauna açısından zengin bir bölge olarak bilinir. Gözükızıl Mehmet Baba Türbesi, ziyaretçilerine hem tarihi bir deneyim sunarken hem de doğal güzelliği ve zengin fauna ile dikkat çeker.
+Gözükızıl Mehmet Baba Türbesi, flora ve fauna açısından zengin bir bölgede yer alır. Bu bölge, aynı zamanda zengin fauna sahip bir alandır. Mevsimsel değişimler, bu bölgede birçok farklı bitki ve hayvan türünün yaşamına olanak tanır. Gözükızıl Mehmet Baba Türbesi'nin bulunduğu yer, ekolojik olarak önemli bir bölgedir. Bu bölgede, birçok farklı türün yaşaması, burayı özel kılar. Türbe, flora ve fauna açısından zengin bir bölge olarak bilinir. Gözükızıl Mehmet Baba Türbesi, ziyaretçilerine hem tarihi bir deneyim sunarken hem de doğal güzelliği ve zengin fauna ile dikkat çeker.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Gözükızıl Mehmet Baba Türbesi'ni ziyaret etmek, hem tarihi bir deneyim hem 
 ## İlginç Bilgiler
 
 - Gözükızıl Mehmet Baba Türbesi, yüzyıllar önce kurulmuştur.
-- Türbe, 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak ziyaretçilerini karşılar.
+
 - Gözükızıl Mehmet Baba Türbesi, flora ve fauna açısından zengin bir bölgede yer alır.
 - Türbe, ziyaretçilerine hem tarihi bir deneyim sunarken hem de doğal güzelliği ve zengin fauna ile dikkat çeker.
 - Gözükızıl Mehmet Baba Türbesi, Gaziantep'in Şahinbey ilçesinde, şehrin merkezine yakın bir konumda yer alır.

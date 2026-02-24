@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih turu","manzara izleme","fotografcıl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Kocahöyük Tepesi","caption":"Kocahöyük Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocah%C3%B6y%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32197783","tip":"genel"}]
-description: "Edirne'nin tarihi ve doğal güzelliklerini bir araya getiren Kocahöyük Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Edirne","Marmara Bölgesi","Kocahöyük Tepesi","tarih","doğa","gezi","turizm","tepe","Marmara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32197783"
@@ -48,7 +48,6 @@ Kocahöyük Tepesi'ni ziyaret etmek, hem tarih severler hem de doğa tutkunları
 
 ## İlginç Bilgiler
 
-- Kocahöyük Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin eteklerinde yer alan köyler, bölgenin tarihini ve kültürünü yansıtan önemli yerleşim merkezleri
 - Kocahöyük Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor
 - Tepenin flora ve faunası, bölgenin iklimi ve coğrafi özellikleri ile şekilleniyor

@@ -37,7 +37,7 @@ Esiri Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Esiri Baba Türbesi, Malatya'nın Hekimhan ilçesinde yer alıyor ve Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunuyor. Bölge, dağlar, ormanlar ve nehirler ile çevrili ve ziyaretçilere doğanın tüm renklerini gösteriyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplı ve ziyaretçilere geniş bir açık alan sunuyor. Esiri Baba Türbesi'nin coğrafi konumu, ziyaretçilere doğa yürüyüşleri, trekking ve diğer açık hava aktiviteleri için ideal bir ortam sağlıyor. Bölgenin iklimi, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı olarak karakterize edilebilir.
+Esiri Baba Türbesi, Malatya'nın Hekimhan ilçesinde yer alıyor ve Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunuyor. Bölge, dağlar, ormanlar ve nehirler ile çevrili ve ziyaretçilere doğanın tüm renklerini gösteriyor. Esiri Baba Türbesi'nin coğrafi konumu, ziyaretçilere doğa yürüyüşleri, trekking ve diğer açık hava aktiviteleri için ideal bir ortam sağlıyor. Bölgenin iklimi, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı olarak karakterize edilebilir.
 
 ## Flora ve Fauna
 

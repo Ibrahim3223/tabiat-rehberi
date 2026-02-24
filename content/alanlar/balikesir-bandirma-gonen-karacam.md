@@ -22,7 +22,7 @@ wikidata_id: "Q108227929"
 
 # Balikesir-Bandirma-Gonen Karacam
 
-Balikesir-Bandirma-Gonen Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli parkın konumu, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini yansıtıyor. Ziyaretçiler, milli parkın sunduğu olanaklar ve güzelliklerle birlikte, doğa ile baş başa kalmanın keyfini çıkarabiliyorlar.
+ Milli parkın konumu, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini yansıtıyor. Ziyaretçiler, milli parkın sunduğu olanaklar ve güzelliklerle birlikte, doğa ile baş başa kalmanın keyfini çıkarabiliyorlar.
 
 ## Tarihçe
 

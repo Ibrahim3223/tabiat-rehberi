@@ -37,7 +37,7 @@ wikidata_id: "Q131391780"
 
 ## Coğrafya
 
-Şıh İbrahim El Hekim Türbesi, Mersin'in coğrafi güzellikleri içerisinde yer alır. Akdeniz Bölgesi'nin karakteristik iklimi, bu bölgede de hissedilir ve návštěvníkům yıl boyunca ziyaret edebileceği bir ortam sunar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahip ve bu genişlik, ziyaretçilere geniş bir alan sunar. Coğrafi konumu itibariyle, Şıh İbrahim El Hekim Türbesi, Mersin'in diğer turistik noktalarına da yakınlık gösterir. Burada, ziyaretçiler hem doğal güzellikleri hem de tarihi mekanları keşfedebilir. Akdeniz'in karakteristik bitki örtüsü, bu bölgede de görülür ve ziyaretçilere güzel bir manzara sunar.
+Şıh İbrahim El Hekim Türbesi, Mersin'in coğrafi güzellikleri içerisinde yer alır. Akdeniz Bölgesi'nin karakteristik iklimi, bu bölgede de hissedilir ve návštěvníkům yıl boyunca ziyaret edebileceği bir ortam sunar. Coğrafi konumu itibariyle, Şıh İbrahim El Hekim Türbesi, Mersin'in diğer turistik noktalarına da yakınlık gösterir. Burada, ziyaretçiler hem doğal güzellikleri hem de tarihi mekanları keşfedebilir. Akdeniz'in karakteristik bitki örtüsü, bu bölgede de görülür ve ziyaretçilere güzel bir manzara sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391780"
 ## İlginç Bilgiler
 
 - Şıh İbrahim El Hekim Türbesi, Mersin'in en önemli dini merkezlerinden biri.
-- Türbenin bulunduğu alan, 140 hektarlık bir genişliğe sahip.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Ziyaretçiler, buraya yıl boyunca gelebilir.
 - Şıh İbrahim El Hekim Türbesi, Mersin'in turistik noktalarına yakınlık gösterir.

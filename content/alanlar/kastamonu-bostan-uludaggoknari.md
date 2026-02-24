@@ -42,7 +42,6 @@ Kastamonu-Bostan-Uludaggoknari, ziyaretçilerine doğanın güzelliklerini sunar
 
 ## İlginç Bilgiler
 
-- Kastamonu-Bostan-Uludaggoknari, 140 hektarlık bir alana sahiptir.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Kastamonu-Bostan-Uludaggoknari, ziyaretçilerine doğanın güzelliklerini sunarken, aynı zamanda tarihi ve kültürel zenginliklerin de birleştiği bir noktada bulunmaktadır.
 - Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir.

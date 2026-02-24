@@ -30,7 +30,7 @@ wikidata_id: "Q108228809"
 
 ## Coğrafya
 
-İzmir-Bayındır-Gölcük-Karacam milli parkı, Ege Bölgesi'nin coğrafi olarak en güzel bölgelerinden biridir. 140 hektarlık alan, çeşitli coğrafi özellikler sunuyor. Gölcük ve Karacam gölleri, milli parkın en önemli coğrafi özellikleridir. Bu göller, hem doğal güzellikleri hem de ekolojik önemleri ile dikkat çekiyorlar. Milli parkın coğrafi yapısı, ziyaretçilere geniş bir alan sunuyor. Bayındır'ın tarihi merkezi de, coğrafi olarak önemli bir konumda yer alıyor. Milli parkın iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca güzel bir deneyim sunuyor. Çevre, zengin bitki türleri ve fauna ile dolu ve doğa severler için bir cennet.
+İzmir-Bayındır-Gölcük-Karacam milli parkı, Ege Bölgesi'nin coğrafi olarak en güzel bölgelerinden biridir. Gölcük ve Karacam gölleri, milli parkın en önemli coğrafi özellikleridir. Bu göller, hem doğal güzellikleri hem de ekolojik önemleri ile dikkat çekiyorlar. Milli parkın coğrafi yapısı, ziyaretçilere geniş bir alan sunuyor. Bayındır'ın tarihi merkezi de, coğrafi olarak önemli bir konumda yer alıyor. Milli parkın iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca güzel bir deneyim sunuyor. Çevre, zengin bitki türleri ve fauna ile dolu ve doğa severler için bir cennet.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108228809"
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana sahiptir.
 - Gölcük ve Karacam gölleri, milli parkın en önemli coğrafi özellikleridir.
 - Milli park, zengin bir flora ve fauna sunuyor.
 - Bayındır'ın tarihi merkezi, milli parkın içinde yer alır.

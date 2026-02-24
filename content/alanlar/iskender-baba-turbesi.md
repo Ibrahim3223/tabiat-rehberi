@@ -51,7 +51,7 @@ wikidata_id: "Q131390977"
 ## İlginç Bilgiler
 
 - İskender Baba Türbesi, Üsküdar'ın en önemli dini ziyaret noktalarından biri.
-- İskender Baba Türbesi, yaklaşık 140 hektarlık bir yeşil alan içinde yer alıyor.
+
 - İskender Baba Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip.
 - İskender Baba Türbesi, İstanbul'un kültürel mirasının bir parçası olarak kabul ediliyor.
 - İskender Baba Türbesi, çeşitli bitki türleri ve zengin fauna ile dolu.

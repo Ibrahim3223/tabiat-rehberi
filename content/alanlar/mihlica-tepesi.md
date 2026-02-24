@@ -28,7 +28,7 @@ wikidata_id: "Q31390328"
 
 # Mıhlıca Tepesi
 
-Mıhlıca Tepesi, Afyonkarahisar'ın merkezine yakın bir konumda bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. Mıhlıca Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi alanı sunuyor.
+Mıhlıca Tepesi, Afyonkarahisar'ın merkezine yakın bir konumda bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Mıhlıca Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi alanı sunuyor.
 
 ## Tarihçe
 

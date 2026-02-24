@@ -36,11 +36,11 @@ Kalkanlı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Kalkanlı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde, dağlık bir araziye sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve etrafı, çeşitli bitki türleriyle çevrilidir. Tepe, yılın dört mevsiminde ziyaret edilebilir ve her mevsim, farklı bir güzelliğe sahip. Kışın karlarla kaplı, ilkbaharda yeşillenen, yazın sıcak ve güneşli, sonbaharda renkli bir manzaraya sahip. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginlikleriyle beraber, unutulmaz bir gezi deneyimi sunar. Kalkanlı Tepesi, coğrafi konumu itibariyle, birçok farklı bitki ve hayvan türüne ev sahipliği yapar.
+Kalkanlı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde, dağlık bir araziye sahiptir. Tepe, yılın dört mevsiminde ziyaret edilebilir ve her mevsim, farklı bir güzelliğe sahip. Kışın karlarla kaplı, ilkbaharda yeşillenen, yazın sıcak ve güneşli, sonbaharda renkli bir manzaraya sahip. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginlikleriyle beraber, unutulmaz bir gezi deneyimi sunar. Kalkanlı Tepesi, coğrafi konumu itibariyle, birçok farklı bitki ve hayvan türüne ev sahipliği yapar.
 
 ## Flora ve Fauna
 
-Kalkanlı Tepesi, zengin flora ve fauna çeşitliliğine sahip bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve etrafı, çeşitli bitki türleriyle çevrilidir. Tepe, birçok farklı ağaç türüne ev sahipliği yapar ve bu ağaçlar, yılın dört mevsiminde ziyaret edilebilir. Ayrıca, tepe, birçok farklı hayvan türüne de ev sahipliği yapar. Bu hayvanlar, tepeye özgü birçok farklı türden oluşur. Kalkanlı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de flora ve fauna zenginlikleriyle beraber, unutulmaz bir gezi deneyimi sunar.
+Kalkanlı Tepesi, zengin flora ve fauna çeşitliliğine sahip bir bölgedir. Tepe, birçok farklı ağaç türüne ev sahipliği yapar ve bu ağaçlar, yılın dört mevsiminde ziyaret edilebilir. Ayrıca, tepe, birçok farklı hayvan türüne de ev sahipliği yapar. Bu hayvanlar, tepeye özgü birçok farklı türden oluşur. Kalkanlı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de flora ve fauna zenginlikleriyle beraber, unutulmaz bir gezi deneyimi sunar.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Kalkanlı Tepesi'ne ziyaretçiler, yılın dört mevsiminde gelebilir. Tepe, her
 
 ## İlginç Bilgiler
 
-- Kalkanlı Tepesi, yaklaşık 140 hektarlık bir alanı kapsar
 - Tepe, birçok farklı bitki ve hayvan türüne ev sahipliği yapar
 - Kalkanlı Tepesi'ne, yılın dört mevsiminde ziyaret edilebilir
 - Tepe, birçok farklı yürüyüş yolu ve parkurlara sahiptir

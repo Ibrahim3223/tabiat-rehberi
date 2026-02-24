@@ -37,7 +37,7 @@ Fatih İbrahim Bey Hamamı, tarihi geçmişine bakıldığında, yüzyıllar boy
 
 ## Coğrafya
 
-Fatih İbrahim Bey Hamamı, İzmir'in Urla ilçesinde, Ege Denizi'nin kıyısında yer alıyor. Bu konum, hamamın ve plajın doğal güzelliğini artırıyor. Alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu genişlik, ziyaretçilere yeterli alan sunuyor. Hamam ve plaj, doğal güzellikleri ile ziyaretçilerini cezbediyor. Ege Bölgesi'nin iklimi, bu bölgede de kendini gösteriyor; yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Bu iklim, plajın ve hamamın yıl boyunca ziyaret edilebilir olmasını sağlıyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunarken, fauna da aynı şekilde çeşitlilik gösteriyor. Hamamın ve plajın bulunduğu bölge, doğal güzellikleri ve tarihi önemi ile önemli bir turizm merkezi haline geliyor.
+Fatih İbrahim Bey Hamamı, İzmir'in Urla ilçesinde, Ege Denizi'nin kıyısında yer alıyor. Bu konum, hamamın ve plajın doğal güzelliğini artırıyor. Hamam ve plaj, doğal güzellikleri ile ziyaretçilerini cezbediyor. Ege Bölgesi'nin iklimi, bu bölgede de kendini gösteriyor; yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçiyor. Bu iklim, plajın ve hamamın yıl boyunca ziyaret edilebilir olmasını sağlıyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunarken, fauna da aynı şekilde çeşitlilik gösteriyor. Hamamın ve plajın bulunduğu bölge, doğal güzellikleri ve tarihi önemi ile önemli bir turizm merkezi haline geliyor.
 
 ## Flora ve Fauna
 

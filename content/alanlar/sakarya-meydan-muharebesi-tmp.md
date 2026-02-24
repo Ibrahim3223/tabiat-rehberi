@@ -31,7 +31,7 @@ Sakarya Meydan Muharebesi TMP'nin tarihi geçmişi, Türk milletinin bağımsız
 
 ## Coğrafya
 
-Sakarya Meydan Muharebesi TMP, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşur. Milli park, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir yeşil alan sunar. Bu bölgenin iklimi, karasal iklim özellikleri taşır ve ziyaretçilerine dört mevsimi ayrı ayrı yaşamak imkanı sağlar. Sakarya Meydan Muharebesi TMP, aynı zamanda zengin bir flora ve fauna çeşitliliğine sahiptir. Burada, çeşitli ağaç türleri, çiçekler ve yaban hayatını görme mümkün. Milli park, doğa severler için bir cennet olarak kabul edilebilir. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, tarihin derin sayfalarını keşfedebilir ve Türk milletinin bağımsızlık mücadelesinin önemli bir kısmını öğrenebilir.
+Sakarya Meydan Muharebesi TMP, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafyası, geniş otlaklar ve ormanlık alanlardan oluşur. Bu bölgenin iklimi, karasal iklim özellikleri taşır ve ziyaretçilerine dört mevsimi ayrı ayrı yaşamak imkanı sağlar. Sakarya Meydan Muharebesi TMP, aynı zamanda zengin bir flora ve fauna çeşitliliğine sahiptir. Burada, çeşitli ağaç türleri, çiçekler ve yaban hayatını görme mümkün. Milli park, doğa severler için bir cennet olarak kabul edilebilir. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, tarihin derin sayfalarını keşfedebilir ve Türk milletinin bağımsızlık mücadelesinin önemli bir kısmını öğrenebilir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Sakarya Meydan Muharebesi TMP, ziyaretçilerine birçok aktivite imkanı sunar. 
 ## İlginç Bilgiler
 
 - Sakarya Meydan Muharebesi TMP, tarihin derin sayfalarını taşıyan bir milli parktır.
-- Milli park, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bu bölgenin iklimi, karasal iklim özellikleri taşır.
 - Sakarya Meydan Muharebesi TMP, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Milli park, doğa severler ve tarih meraklıları için bir destinasyon olarak kabul edilebilir.

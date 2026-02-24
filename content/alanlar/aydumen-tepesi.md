@@ -48,8 +48,6 @@ Aydümen Tepesi'ni ziyaret etmek, oldukça kolay. Buraya, Bolu merkezinden taksi
 
 ## İlginç Bilgiler
 
-- Aydümen Tepesi, 140 hektarlık bir alana sahip
-- Aydümen Tepesi, yaklaşık 200 futbol sahası büyüklüğünde
 - Aydümen Tepesi, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri
 - Aydümen Tepesi, çeşitli bitki türleri ve ağaçlarla kaplı
 - Aydümen Tepesi, bir gözlem noktası olarak kullanılıyor

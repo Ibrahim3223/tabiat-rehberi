@@ -29,7 +29,7 @@ wikidata_id: "Q131738950"
 
 # Altuntaş Hamamı
 
-Amasya ilinin güzide bir bölgesinde yer alan Altuntaş Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri ile dikkat çeken bu bölge, hem yerel halk hem de turistlerin ilgisini çekiyor. Altuntaş Hamamı'nın büyüleyici atmosferi, ziyaretçilerini doğanın güzelliğine götürüyor.
+ Doğal güzellikleri ile dikkat çeken bu bölge, hem yerel halk hem de turistlerin ilgisini çekiyor. Altuntaş Hamamı'nın büyüleyici atmosferi, ziyaretçilerini doğanın güzelliğine götürüyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Altuntaş Hamamı, ziyaretçilerine birçok olanak sunuyor. Ziyaretçiler, bu b�
 ## İlginç Bilgiler
 
 - Altuntaş Hamamı, Amasya ilinin önemli turistik noktalarından biri
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Altuntaş Hamamı, Karadeniz Bölgesi'nde yer alıyor
 - Bu bölge, zengin bir flora ve fauna ile dikkat çekiyor
 - Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabilir veya piknik alanlarında yemek yiyebilir

@@ -37,7 +37,7 @@ Keyvanbey Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Keyvanbey Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Bu bölgenin coğrafyası, dağlar, ovalar ve nehirler gibi çeşitli doğal oluşumları içeriyor. Keyvanbey Hamamı, bu coğrafi çeşitlilik içinde, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzelliklerine davet ediyor. Keyvanbey Hamamı'nın coğrafyası, ziyaretçilerine hem tarihi yapıları keşfetme hem de doğanın güzelliklerini izleme fırsatı sunuyor. Bu mekan, coğrafi konumu itibariyle, ziyaretçilerine çeşitli etkinlikler ve aktiviteler sunma imkanı sağlıyor.
+Keyvanbey Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Bu bölgenin coğrafyası, dağlar, ovalar ve nehirler gibi çeşitli doğal oluşumları içeriyor. Keyvanbey Hamamı, bu coğrafi çeşitlilik içinde, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Keyvanbey Hamamı'nın coğrafyası, ziyaretçilerine hem tarihi yapıları keşfetme hem de doğanın güzelliklerini izleme fırsatı sunuyor. Bu mekan, coğrafi konumu itibariyle, ziyaretçilerine çeşitli etkinlikler ve aktiviteler sunma imkanı sağlıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Keyvanbey Hamamı, ziyaretçilerine tarihin ve doğanın güzelliklerini keşfet
 
 ## İlginç Bilgiler
 
-- Keyvanbey Hamamı, 140 hektarlık bir alana yayılmıştır.
 - Bu mekan, tarihin ve doğanın güzelliklerini keşfetme fırsatı sunuyor.
 - Keyvanbey Hamamı, Gaziantep'in tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna yaşadığı için, ziyaretçilerine doğanın güzelliklerini izleme fırsatı sunuyor.

@@ -38,7 +38,7 @@ Ahi Şerafettin Türbesi, tarihsel olarak önemli bir mekan. Geçmişte, bu böl
 
 ## Coğrafya
 
-Ahi Şerafettin Türbesi, coğrafi olarak önemli bir konumda bulunuyor. Ankara'nın Altındağ ilçesinde yer alan bu mekan, şehrin merkezine yakın. Ahi Şerafettin Türbesi, çevresindeki doğal güzellikleriyle de dikkat çekiyor. Burada, ziyaretçiler yeşilli ve flora ile çevrili bir atmosferde bulunabilir. Ahi Şerafettin Türbesi, aynı zamanda Ankara'nın iklimine de uyum sağlıyor. Bu mekan, şehrin iklimine göre tasarlanmış ve ziyaretçilere konforlu bir ortam sunuyor. Ahi Şerafettin Türbesi, coğrafi konumu ve doğal güzellikleri ile Ankara'nın önemli bir destinasyonu olarak kabul ediliyor. 140 hektarlık alan, ziyaretçilere geniş bir açık alan sunuyor. Burada, çeşitli flora ve fauna türleri bulunuyor. Ahi Şerafettin Türbesi, aynı zamanda Ankara'nın su kaynaklarına da yakın. Burada, ziyaretçiler şehrin su kaynaklarını da görebiliyor.
+Ahi Şerafettin Türbesi, coğrafi olarak önemli bir konumda bulunuyor. Ankara'nın Altındağ ilçesinde yer alan bu mekan, şehrin merkezine yakın. Ahi Şerafettin Türbesi, çevresindeki doğal güzellikleriyle de dikkat çekiyor. Burada, ziyaretçiler yeşilli ve flora ile çevrili bir atmosferde bulunabilir. Ahi Şerafettin Türbesi, aynı zamanda Ankara'nın iklimine de uyum sağlıyor. Bu mekan, şehrin iklimine göre tasarlanmış ve ziyaretçilere konforlu bir ortam sunuyor. Ahi Şerafettin Türbesi, coğrafi konumu ve doğal güzellikleri ile Ankara'nın önemli bir destinasyonu olarak kabul ediliyor. Burada, çeşitli flora ve fauna türleri bulunuyor. Ahi Şerafettin Türbesi, aynı zamanda Ankara'nın su kaynaklarına da yakın. Burada, ziyaretçiler şehrin su kaynaklarını da görebiliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ahi Şerafettin Türbesi, ziyaretçiler için çeşitli olanaklar sunuyor. Burad
 ## İlginç Bilgiler
 
 - Ahi Şerafettin Türbesi, Ankara'nın en önemli tarihi mekanlarından biri.
-- Ahi Şerafettin Türbesi, 140 hektarlık bir alana sahip.
+
 - Ahi Şerafettin Türbesi, çeşitli flora ve fauna türleri barındırıyor.
 - Ahi Şerafettin Türbesi, Ankara'nın kültürel yaşamına önemli katkılar sağlıyor.
 - Ahi Şerafettin Türbesi, ziyaretçilere konforlu bir ortam sunuyor.

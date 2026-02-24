@@ -28,7 +28,7 @@ wikidata_id: "Q31386199"
 
 # Tılhacer Dağı
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Tılhacer Dağı, Gaziantep'in sınırları içerisinde yer alıyor. Bu dağ, yaklaşık 140 hektarlık alanı kaplıyor ve geniş yeşil alanları ile ziyaretçilerini cezbediyor. 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin keyifle gezebileceği bir yer sunuyor. Tılhacer Dağı, bölgenin coğrafi yapısını ve iklimini etkileyen önemli bir faktör olarak görülüyor.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Tılhacer Dağı, Gaziantep'in sınırları içerisinde yer alıyor. Tılhacer Dağı, bölgenin coğrafi yapısını ve iklimini etkileyen önemli bir faktör olarak görülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tılhacer Dağı'nın tarihi geçmişi, bölgenin yerleşim tarihi ile paralel o
 
 ## Coğrafya
 
-Tılhacer Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını etkileyen önemli bir faktör olarak görülüyor. Bu dağ, yaklaşık 140 hektarlık alanı kaplıyor ve geniş yeşil alanları ile ziyaretçilerini cezbediyor. Dağın yüksekliği ve eğimleri, bölgenin iklimini ve bitki örtüsünü etkiliyor. Tılhacer Dağı'nın eteklerinde ve çevresinde bulunan çeşitli bitki türleri, bölgenin flora zenginliğini gösteriyor. Dağın çevresinde, çeşitli fauna türleri de yaşadığı için, fauna çeşitliliği açısından önemli bir bölge olarak kabul ediliyor. Tılhacer Dağı, Gaziantep'in önemli doğal güzelliklerinden biri olarak görülüyor ve bölgenin turizm potansiyelini artırıyor.
+Tılhacer Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını etkileyen önemli bir faktör olarak görülüyor. Dağın yüksekliği ve eğimleri, bölgenin iklimini ve bitki örtüsünü etkiliyor. Tılhacer Dağı'nın eteklerinde ve çevresinde bulunan çeşitli bitki türleri, bölgenin flora zenginliğini gösteriyor. Dağın çevresinde, çeşitli fauna türleri de yaşadığı için, fauna çeşitliliği açısından önemli bir bölge olarak kabul ediliyor. Tılhacer Dağı, Gaziantep'in önemli doğal güzelliklerinden biri olarak görülüyor ve bölgenin turizm potansiyelini artırıyor.
 
 ## Flora ve Fauna
 

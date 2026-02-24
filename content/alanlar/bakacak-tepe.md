@@ -36,7 +36,7 @@ Bakacak Tepe'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin etkil
 
 ## Coğrafya
 
-Bakacak Tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta olarak dikkat çekiyor. Bu tepe, Samsun'un merkezi bir konumunda yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayan bir doğa harikası. Bu bölgede, Karadeniz Bölgesi'nin karakteristik iklimi hakim ve ziyaretçiler, bu bölgenin coğrafi özelliklerini deneyimleyerek, Samsun'un doğal güzelliklerini keşfediyor. Bakacak Tepe, Samsun'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak karşımıza çıkıyor.
+Bakacak Tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta olarak dikkat çekiyor. Bu tepe, Samsun'un merkezi bir konumunda yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. Bu bölgede, Karadeniz Bölgesi'nin karakteristik iklimi hakim ve ziyaretçiler, bu bölgenin coğrafi özelliklerini deneyimleyerek, Samsun'un doğal güzelliklerini keşfediyor. Bakacak Tepe, Samsun'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 

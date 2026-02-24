@@ -21,7 +21,7 @@ aktiviteler: ["trekking","manzara izleme","fotoğrafçılık","kamp yapma","yür
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Gümüşgölü Tepesi","caption":"Gümüşgölü Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fg%C3%B6l%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873158","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Gümüşgölü Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık bir alanı kapsayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nde yer alan Gümüşgölü Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Gümüşgölü Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34873158"
@@ -49,7 +49,6 @@ Gümüşgölü Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor
 
 ## İlginç Bilgiler
 
-- Gümüşgölü Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin zirvesine çıkıldığında, bölgenin panoramik manzarası izlenebiliyor.
 - Gümüşgölü Tepesi, yılın her dönemi ziyaret edilebiliyor.
 - Bölgenin iklimi, karasal iklim özellikleri gösteriyor.

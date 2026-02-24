@@ -37,7 +37,7 @@ Yıldız Sarayı Hünkâr Dairesi'nin tarihi, 19. yüzyıla kadar uzanıyor. Bu 
 
 ## Coğrafya
 
-Yıldız Sarayı Hünkâr Dairesi, Beşiktaş ilçesinde, Boğaziçi'nin güzide noktalarından biri olarak yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir destinasyon olarak biliniyor. Sarayın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, ziyaretçilerine geniş ve ferah bir ortam sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanıyor. Sarayın yakınında bulunan Boğaziçi, ziyaretçilere eşsiz bir manzara sunuyor. Ayrıca, sarayın bulunduğu bölge, birçok önemli turistik yere de yakınlık gösteriyor. Bu reason, ziyaretçilerin İstanbul'un diğer güzelliklerini de keşfetmesine olanak tanıyor. Sarayın coğrafi konumu, ziyaretçilere birçok farklı deneyimi bir arada sunuyor.
+Yıldız Sarayı Hünkâr Dairesi, Beşiktaş ilçesinde, Boğaziçi'nin güzide noktalarından biri olarak yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir destinasyon olarak biliniyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanıyor. Sarayın yakınında bulunan Boğaziçi, ziyaretçilere eşsiz bir manzara sunuyor. Ayrıca, sarayın bulunduğu bölge, birçok önemli turistik yere de yakınlık gösteriyor. Bu reason, ziyaretçilerin İstanbul'un diğer güzelliklerini de keşfetmesine olanak tanıyor. Sarayın coğrafi konumu, ziyaretçilere birçok farklı deneyimi bir arada sunuyor.
 
 ## Flora ve Fauna
 

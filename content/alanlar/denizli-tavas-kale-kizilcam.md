@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çevre keşfi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cilingoz_National_Park_Beach.jpg/960px-Cilingoz_National_Park_Beach.jpg","alt":"Denizli-Tavas-Kale Kızılçam","caption":"Denizli-Tavas-Kale Kızılçam","credit":"Cilingoz National Park Beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Tavas-Kale%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227416","tip":"genel"}]
-description: "Ege Bölgesi'nin doğa harikalarından biri olan Denizli-Tavas-Kale Kızılçam milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Denizli","Tavas","Kale Kızılçam","milli park","Ege Bölgesi","doğa harikası","kızılçam","orman","doğa yürüyüşü"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227416"
@@ -42,7 +42,6 @@ Denizli-Tavas-Kale Kızılçam milli parkını ziyaret etmek, doğa severler ve 
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Kızılçam ağaçları, milli parkın en önemli doğal özelliklerinden biri
 - Milli park, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor
 - Ziyaretçiler, milli parkta, çeşitli bitki türleri ve hayvanları yakından deneyimleyebilir

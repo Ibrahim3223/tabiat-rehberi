@@ -37,7 +37,7 @@ Gazitepe Anıtı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Gazitepe Anıtı, İç Anadolu Bölgesi'nin coğrafi güzelliğinin bir parçası olarak dikkat çekiyor. Bu bölge, coğrafi olarak çeşitli özellikler gösteriyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi özellikler, Gazitepe Anıtı'nın ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Anıtın bulunduğu yer, doğal güzelliği ve tarihi ile ziyaretçilerini cezbediyor. 140 hektarlık alan, ziyaretçilere geniş bir gezi alanı sunuyor ve bu alanın her bir köşesinde tarihin ve doğanın birleştiği noktaları keşfetme mümkün.
+Gazitepe Anıtı, İç Anadolu Bölgesi'nin coğrafi güzelliğinin bir parçası olarak dikkat çekiyor. Bu bölge, coğrafi olarak çeşitli özellikler gösteriyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal özellik gösteriyor. Yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi özellikler, Gazitepe Anıtı'nın ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Anıtın bulunduğu yer, doğal güzelliği ve tarihi ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

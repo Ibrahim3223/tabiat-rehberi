@@ -38,7 +38,7 @@ Aziz Mahmud Hüdai Türbesi'nin tarihi geçmişi, 17. yüzyıla kadar uzanıyor.
 
 ## Coğrafya
 
-Aziz Mahmud Hüdai Türbesi, Üsküdar'ın merkezi bölgesinde yer alıyor. Türbe ve çevresi, 140 hektarlık yeşil bir alan içinde konumlanmış ve bu geniş alan, ziyaretçilere genişçe bir gezi alanı sunuyor. Türbenin bulunduğu bölge, İstanbul Boğazı'na yakın bir konumda ve bu konum, ziyaretçilere şehrin güzel manzarasını sunuyor. Bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor. İklim, Marmara Bölgesi'nin karakteristik özellikleri ile uyumlu ve ziyaretçiler, dört mevsim boyunca türbeyi ziyaret edebilir. Çevre, tarihi ve kültürel öneme sahip birçok yapı ile dolu ve bu yapılar, İstanbul'un zengin kültürel mirasını yansıtıyor.
+Aziz Mahmud Hüdai Türbesi, Üsküdar'ın merkezi bölgesinde yer alıyor. Türbenin bulunduğu bölge, İstanbul Boğazı'na yakın bir konumda ve bu konum, ziyaretçilere şehrin güzel manzarasını sunuyor. Bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor. İklim, Marmara Bölgesi'nin karakteristik özellikleri ile uyumlu ve ziyaretçiler, dört mevsim boyunca türbeyi ziyaret edebilir. Çevre, tarihi ve kültürel öneme sahip birçok yapı ile dolu ve bu yapılar, İstanbul'un zengin kültürel mirasını yansıtıyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Aziz Mahmud Hüdai Türbesi'ni ziyaret etmek, bir dini ve kültürel deneyim sun
 ## İlginç Bilgiler
 
 - Türbenin tarihi geçmişi 17. yüzyıla kadar uzanıyor
-- 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Türbe, Üsküdar'ın önemli kültürel miraslarından biri olarak kabul ediliyor
 - Ziyaretçiler, dört mevsim boyunca türbeyi ziyaret edebilir

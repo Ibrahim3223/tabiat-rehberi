@@ -42,7 +42,6 @@ Trabzon-Surmene-Saricam Dogu Karadeniz Goknari, ziyaretçilere, doğa ile iç i�
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana yayılmış.
 - Bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşıyor.
 - Bölgede, mevsimsel değişimler, canlıları ve ekosistemi etkiliyor.

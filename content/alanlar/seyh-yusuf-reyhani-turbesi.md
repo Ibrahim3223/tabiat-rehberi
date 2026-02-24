@@ -37,7 +37,7 @@ Mersin'in zengin tarihi ve doğal güzelliklerinin birleştiği noktada yer alan
 
 ## Coğrafya
 
-Şeyh Yusuf Reyhani Türbesi, Mersin'in Akdeniz sahil şeridinde yer alır. Bu bölge, Akdeniz ikliminin etkisinde olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Türbe, yüksek bir konumda ve 140 hektarlık bir alana yayılır. Bu alan, çeşitli bitkiler ve ağaçlar ile kaplıdır ve doğa severler için bir cennet olarak kabul edilebilir. Akdeniz'in güzel plajlarına yakınlığı, türbeyi ziyaret edenlerin aynı zamanda deniz ve güneşin tadını çıkarmalarına olanak sağlar. Şeyh Yusuf Reyhani Türbesi, Mersin'in coğrafi güzelliklerinin birleştiği noktada yer alır ve ziyaretçilerini bu güzelliklerle baş başa bırakır.
+Şeyh Yusuf Reyhani Türbesi, Mersin'in Akdeniz sahil şeridinde yer alır. Bu bölge, Akdeniz ikliminin etkisinde olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Bu alan, çeşitli bitkiler ve ağaçlar ile kaplıdır ve doğa severler için bir cennet olarak kabul edilebilir. Akdeniz'in güzel plajlarına yakınlığı, türbeyi ziyaret edenlerin aynı zamanda deniz ve güneşin tadını çıkarmalarına olanak sağlar. Şeyh Yusuf Reyhani Türbesi, Mersin'in coğrafi güzelliklerinin birleştiği noktada yer alır ve ziyaretçilerini bu güzelliklerle baş başa bırakır.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Mersin'in zengin tarihi ve doğal güzelliklerinin birleştiği noktada yer alan
 
 ## Ziyaret Bilgileri
 
-Şeyh Yusuf Reyhani Türbesi'ni ziyaret etmek, Mersin'in tarihi ve kültürel kimliğini yakından tanımak için önemli bir fırsat sunar. Türbeye ulaşım, Mersin'in merkezi bölgelerinden fácilce sağlanabilir. Ziyaretçiler, türbenin tarihi ve dini önemini öğrenerek, aynı zamanda doğal güzelliklerinin tadını çıkarabilirler. Şeyh Yusuf Reyhani Türbesi, yılın her döneminde ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.
+Şeyh Yusuf Reyhani Türbesi'ni ziyaret etmek, Mersin'in tarihi ve kültürel kimliğini yakından tanımak için önemli bir fırsat sunar. Türbeye ulaşım, Mersin'in merkezi bölgelerinden kolayce sağlanabilir. Ziyaretçiler, türbenin tarihi ve dini önemini öğrenerek, aynı zamanda doğal güzelliklerinin tadını çıkarabilirler. Şeyh Yusuf Reyhani Türbesi, yılın her döneminde ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.
 
 ## İlginç Bilgiler
 
 - Şeyh Yusuf Reyhani Türbesi, Mersin'in en önemli tarihi mekanlarından biridir.
-- Türbe, 140 hektarlık bir alana yayılır.
+
 - Bölgede, çeşitli bitkiler ve ağaçlar bulunur.
 - Türbe, Akdeniz sahil şeridinde yer alır.
 - Şeyh Yusuf Reyhani, bölgenin önemli dini figürlerinden biridir.

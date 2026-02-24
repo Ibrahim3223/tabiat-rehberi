@@ -51,6 +51,6 @@ wikidata_id: "Q131738956"
 
 - Bergama'nın tarihi ve kültürel zenginlikleri
 - Ege Bölgesi'nin en güzel noktalarından biri
-- 140 hektarlık alan
+
 - deniz kenarında güneşlenme ve yüzme imkanı
 - çeşitli bitki ve hayvan türleri

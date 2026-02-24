@@ -49,7 +49,7 @@ Akbelen Tepe'yi ziyaret etmek, Antalya'nın tarihi ve doğal güzelliklerini ke�
 ## İlginç Bilgiler
 
 - Akbelen Tepe, Antalya'nın en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Akbelen Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Akbelen Tepe'yi ziyaret etmek, Antalya'nın tarihi ve doğal güzelliklerini keşfetmek için ideal bir fırsat sunuyor.

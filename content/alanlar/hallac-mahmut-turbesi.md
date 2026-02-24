@@ -37,7 +37,7 @@ Hallac Mahmut Türbesi'nin tarihi geçmişi, Ankara'nın zengin kültürel miras
 
 ## Coğrafya
 
-Hallac Mahmut Türbesi, Ankara'nın coğrafi yapısı içinde önemli bir yere sahiptir. Altındağ ilçesinde bulunan türbe, şehrin merkezine yakın bir konumda yer alır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan sunar. Bu geniş yeşil alan, ziyaretçilere doğayı ve tarihi bir arada deneyimleme fırsatı tanır. Hallac Mahmut Türbesi'nin coğrafi konumu, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir başlangıç noktası olarak düşünülebilir. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur. Bu bitkiler, ziyaretçilere serin ve rahat bir ortam sunar. Hallac Mahmut Türbesi, Ankara'nın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Hallac Mahmut Türbesi, Ankara'nın coğrafi yapısı içinde önemli bir yere sahiptir. Altındağ ilçesinde bulunan türbe, şehrin merkezine yakın bir konumda yer alır. Bu geniş yeşil alan, ziyaretçilere doğayı ve tarihi bir arada deneyimleme fırsatı tanır. Hallac Mahmut Türbesi'nin coğrafi konumu, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir başlangıç noktası olarak düşünülebilir. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur. Bu bitkiler, ziyaretçilere serin ve rahat bir ortam sunar. Hallac Mahmut Türbesi, Ankara'nın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hallac Mahmut Türbesi'ni ziyaret etmek, Ankara'nın tarihi ve kültürel zengin
 ## İlginç Bilgiler
 
 - Hallac Mahmut Türbesi, Ankara'nın en önemli tarihi yapılarından biridir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı sunar.
+
 - Hallac Mahmut Türbesi, yüzyıllar boyunca önemli bir dini ve kültürel merkez olarak hizmet etmiştir.
 - Türbe, Hallac Mahmut adlı önemli bir dini figürün anısına inşa edilmiştir.
 - Hallac Mahmut Türbesi, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.

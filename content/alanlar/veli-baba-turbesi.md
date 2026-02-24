@@ -51,7 +51,7 @@ Veli Baba Türbesi'ni ziyaret etmek için, Pendik'e ulaşmanız gerekir. Pendik,
 ## İlginç Bilgiler
 
 - Veli Baba Türbesi, Pendik'in en önemli plajlarından biridir.
-- Veli Baba Türbesi, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Veli Baba Türbesi, Marmara Bölgesi'nin Pendik ilçesinde yer alır.
 - Veli Baba Türbesi, doğal güzelliği ve tarihi önemi ile bilinir.
 - Veli Baba Türbesi, her yıl çok sayıda ziyaretçi tarafından tercih edilir.

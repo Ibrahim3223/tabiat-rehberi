@@ -43,7 +43,7 @@ Turkmenbaba Milli Parkı, ziyaretçilerine birçok imkan sunuyor. Ziyaretçiler,
 ## İlginç Bilgiler
 
 - Turkmenbaba Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri.
-- Park, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Parkın flora ve faunası, mevsimsel değişimlere göre şekil değiştiriyor.
 - Park, yaban hayatının çeşitliliği ile dikkat çekiyor.
 - Ziyaretçiler, Parkı gezebilir, yaban hayatı ile karşılaşabilir ve doğanın güzelliğini deneyimleyebilir.

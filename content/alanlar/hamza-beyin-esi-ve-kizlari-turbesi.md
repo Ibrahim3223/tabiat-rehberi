@@ -51,6 +51,6 @@ Hamza Bey’in Eşi ve Kızları Türbesi'ni ziyaret etmek, tarihin ve doğanın
 
 - Hamza Bey’in Eşi ve Kızları Türbesi, Marmara Bölgesi'nin önemli noktalarından biridir.
 - Bu türbe, tarihin ve doğanın birleştiği özel bir noktadır.
-- Hamza Bey’in Eşi ve Kızları Türbesi, 140 hektarlık bir alanı kaplamaktadır.
+
 - Bu mekan, tarihin izlerini ve doğanın güzelliklerini sunmaktadır.
 - Hamza Bey’in Eşi ve Kızları Türbesi, ziyaretçilerine huzurlu bir atmosfer sunmaktadır.

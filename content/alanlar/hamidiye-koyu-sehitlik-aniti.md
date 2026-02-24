@@ -37,7 +37,7 @@ Hamidiye Köyü Şehitlik Anıtı'nın tarihi geçmişi, bu bölgenin strategic 
 
 ## Coğrafya
 
-Hamidiye Köyü Şehitlik Anıtı, Karadeniz Bölgesi'nin coğrafi güzellikleri içerisinde yer alıyor. Bu bölge, yeşilin her tonunu barındıran ormanlar, dağlar ve platolarla çevrili. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor ve bu bölgede çeşitli bitki türleri yetişiyor. Ayrıca, bu bölgede yer alan plaj, Karadeniz'in temiz ve serin sularına sahip. Ziyaretçiler, bu bölgede hem doğal güzellikleri keşfedebiliyor hem de tarihin izlerini sürdürebiliyor. Anıtın etrafındaki coğrafi yapı, ziyaretçilere geniş veengin bir manzara sunuyor.
+Hamidiye Köyü Şehitlik Anıtı, Karadeniz Bölgesi'nin coğrafi güzellikleri içerisinde yer alıyor. Bu bölge, yeşilin her tonunu barındıran ormanlar, dağlar ve platolarla çevrili. Ayrıca, bu bölgede yer alan plaj, Karadeniz'in temiz ve serin sularına sahip. Ziyaretçiler, bu bölgede hem doğal güzellikleri keşfedebiliyor hem de tarihin izlerini sürdürebiliyor. Anıtın etrafındaki coğrafi yapı, ziyaretçilere geniş veengin bir manzara sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hamidiye Köyü Şehitlik Anıtı'na ulaşım, Kastamonu il merkezinden Çatalze
 ## İlginç Bilgiler
 
 - Hamidiye Köyü Şehitlik Anıtı, Karadeniz Bölgesi'nin önemli tarihi mekanlarından birisidir.
-- Bu anıt, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Anıtın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Ziyaretçiler, bu bölgede doğa yürüyüşü yaparak flora ve fauna hakkında daha fazla bilgi edinebiliyor.
 - Anıtın etrafındaki coğrafi yapı, ziyaretçilere geniş veengin bir manzara sunuyor.

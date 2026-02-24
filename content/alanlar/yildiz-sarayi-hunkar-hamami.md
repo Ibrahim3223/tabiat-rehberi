@@ -52,5 +52,5 @@ Yıldız Sarayı Hünkar Hamamı, yıl boyunca ziyaret edilebilen bir mekan. Ziy
 - Marmara Bölgesi'nin önemli turizm merkezlerinden biri
 - yüzyıllar boyunca tarihi merkez olarak varlığını sürdürmüş
 - Osmanlı İmparatorluğu döneminde inşa edilen Yıldız Sarayı'nın bir parçası
-- 140 hektarlık yeşil alan üzerine kurulmuş
+
 - çeşitli bitki türleri ve zengin fauna sunuyor

@@ -22,7 +22,7 @@ wikidata_id: "Q108228818"
 
 # Kuş Gölü (Manyas) Sulak Alanı
 
-Kuş Gölü (Manyas) Sulak Alanı, yaklaşık 140 hektarlık bir alanı kaplar. Sulak Alanın etrafında yer alan dağlar ve ovalar, bu bölgeyi benzersiz bir ekosisteme dönüştürür. Kuş Gölü, birçok canlı türünün yaşadığı önemli bir sulak alan olup, aynı zamanda önemli bir göç yolu üzerinde yer alır. Bu sulak alan, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar.
+ Sulak Alanın etrafında yer alan dağlar ve ovalar, bu bölgeyi benzersiz bir ekosisteme dönüştürür. Kuş Gölü, birçok canlı türünün yaşadığı önemli bir sulak alan olup, aynı zamanda önemli bir göç yolu üzerinde yer alır. Bu sulak alan, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kuş Gölü (Manyas) Sulak Alanı, tarihi geçmişi ile dikkat çeker. Bu sulak 
 
 ## Coğrafya
 
-Kuş Gölü (Manyas) Sulak Alanı, İç Anadolu Bölgesi'nde yer alır. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kaplar ve dağlar ile ovalarla çevrilidir. Sulak Alanın etrafında yer alan dağlar, bu bölgeyi benzersiz bir ekosisteme dönüştürür. Kuş Gölü, birçok canlı türünün yaşadığı önemli bir sulak alan olup, aynı zamanda önemli bir göç yolu üzerinde yer alır. Bu sulak alan, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar. Sulak Alanın iklimi, karasal iklim özelliklerini taşır ve kışları soğuk, yazları sıcak geçer. Bu sulak alan, zengin flora ve fauna çeşitliliği ile dikkat çeker.
+Kuş Gölü (Manyas) Sulak Alanı, İç Anadolu Bölgesi'nde yer alır. Sulak Alanın etrafında yer alan dağlar, bu bölgeyi benzersiz bir ekosisteme dönüştürür. Kuş Gölü, birçok canlı türünün yaşadığı önemli bir sulak alan olup, aynı zamanda önemli bir göç yolu üzerinde yer alır. Bu sulak alan, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar. Sulak Alanın iklimi, karasal iklim özelliklerini taşır ve kışları soğuk, yazları sıcak geçer. Bu sulak alan, zengin flora ve fauna çeşitliliği ile dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kuş Gölü (Manyas) Sulak Alanı, birçok ziyaretçiye ev sahipliği yapar. Bu 
 
 ## İlginç Bilgiler
 
-- Kuş Gölü (Manyas) Sulak Alanı, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu sulak alan, birçok canlı türünün yaşadığı önemli bir ekosistem olarak görev yapar.
 - Kuş Gölü, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar.
 - Sulak Alanın etrafında yer alan dağlar, bu bölgeyi benzersiz bir ekosisteme dönüştürür.

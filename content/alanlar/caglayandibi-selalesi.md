@@ -23,7 +23,7 @@ wikidata_id: "Q97209363"
 
 # Çağlayandibi Şelalesi
 
-Gümüşhane ilinin merkezinde yer alan Çağlayandibi Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan içinde yer alır. Şelalenin etrafında bulunan ağaçlar ve bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunar. Çağlayandibi Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+ Şelalenin etrafında bulunan ağaçlar ve bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunar. Çağlayandibi Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Gümüşhane ilinin merkezinde yer alan Çağlayandibi Şelalesi, yaklaşık 140
 
 ## Coğrafya
 
-Çağlayandibi Şelalesi, Gümüşhane ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Şelale, yaklaşık 140 hektarlık bir yeşil alan içinde yer alır ve etrafında çeşitli bitki türleri bulunur. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve yıl boyunca yüksek nem ve yağış görülür. Şelalenin yüksekliği ve genişliği, ziyaretçilere etkileyici bir manzara sunar. Çağlayandibi Şelalesi, coğrafi konumu ve doğal güzelliği ile birlikte, önemli bir turizm merkezi olarak kabul edilir. Şelaleye ulaşım, Gümüşhane il merkezinden kolayca sağlanabilir ve ziyaretçiler, şelaleye yürüyere veya araçla ulaşabilir.
+Çağlayandibi Şelalesi, Gümüşhane ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve yıl boyunca yüksek nem ve yağış görülür. Şelalenin yüksekliği ve genişliği, ziyaretçilere etkileyici bir manzara sunar. Çağlayandibi Şelalesi, coğrafi konumu ve doğal güzelliği ile birlikte, önemli bir turizm merkezi olarak kabul edilir. Şelaleye ulaşım, Gümüşhane il merkezinden kolayca sağlanabilir ve ziyaretçiler, şelaleye yürüyere veya araçla ulaşabilir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Gümüşhane ilinin merkezinde yer alan Çağlayandibi Şelalesi, yaklaşık 140
 ## İlginç Bilgiler
 
 - Çağlayandibi Şelalesi, Gümüşhane ilinin en önemli doğal güzelliklerinden biridir.
-- Şelale, yaklaşık 140 hektarlık bir yeşil alan içinde yer alır.
+
 - Çağlayandibi Şelalesi, yüzyıllar öncesine dayanan bir tarihi geçmişi vardır.
 - Şelale, yıl boyunca yüksek nem ve yağış görülür.
 - Çağlayandibi Şelalesi, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir flora ve fauna sunar.

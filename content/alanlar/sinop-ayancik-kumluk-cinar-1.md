@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","piknik","tarih ve kül
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Sinop-Ayancik-Kumluk Cinar 1","caption":"Sinop-Ayancik-Kumluk Cinar 1","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Kumluk%20Cinar%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227724","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık milli park"
+
 keywords: ["Sinop","Ayancik","Kumluk Cinar","milli park","Karadeniz Bölgesi","doğa","turizm","gezi","yerel flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227724"

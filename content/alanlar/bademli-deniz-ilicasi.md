@@ -37,7 +37,7 @@ Bademli Deniz Ilıcası, yüzyıllar boyunca insanların ilgi odağı olmuş bir
 
 ## Coğrafya
 
-Bademli Deniz Ilıcası, Ege Bölgesi'nin en güzel kıyı şeridinde yer alıyor. Bu bölge, 140 hektarlık yeşil alanı ile misafirlerine geniş bir alan sunuyor. Bademli'nin coğrafi yapısı, ziyaretçilerine çeşitli faaliyetler için uygun bir ortam sağlıyor. Bölgenin iklimi,de ılıman ve ziyaretçilere uygun. Bademli'nin çevresi, zengin flora ve fauna çeşitliliği ile dolu. Bu bölge, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Bölgenin deniz kıyısı, ziyaretçilerine güzel bir manzara sunuyor ve çeşitli su sporları için uygun.
+Bademli Deniz Ilıcası, Ege Bölgesi'nin en güzel kıyı şeridinde yer alıyor. Bademli'nin coğrafi yapısı, ziyaretçilerine çeşitli faaliyetler için uygun bir ortam sağlıyor. Bölgenin iklimi,de ılıman ve ziyaretçilere uygun. Bademli'nin çevresi, zengin flora ve fauna çeşitliliği ile dolu. Bu bölge, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Bölgenin deniz kıyısı, ziyaretçilerine güzel bir manzara sunuyor ve çeşitli su sporları için uygun.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bademli Deniz Ilıcası, ziyaretçilerine çeşitli faaliyetler için uygun bir 
 ## İlginç Bilgiler
 
 - Bademli Deniz Ilıcası, Ege Bölgesi'nin en önemli turizm noktalarından biri.
-- Bölge, 140 hektarlık yeşil alanı ile misafirlerine geniş bir alan sunuyor.
+
 - Bademli'nin tarihi geçmişi, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbediyor.
 - Bölge, antik dönemlerden beri insanların yerleşim ve dinlenme alanı olarak kullanılmış.
 - Ziyaretçiler, bu bölgede geçmişin izlerini keşfedebilir ve tarihi güzellikleri görebilir.

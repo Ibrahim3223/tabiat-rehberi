@@ -29,7 +29,7 @@ wikidata_id: "Q131739008"
 
 # Tralleis Hamam Gymnasium Yapıları
 
-Tralleis Hamam Gymnasium Yapıları, Aydın'ın Efeler ilçesinde, Ege Bölgesi'nin kalbinde yer alan bir tarihî güzelliğimizdir. Bu yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu antik yapı, gymnasion ve hamam kompleksini içerir. Tralleis, antik çağda önemli bir yerleşim merkeziydi ve bu yapılar, o dönemin kültürel ve sportif yaşantısını yansıtır. Tralleis Hamam Gymnasium Yapıları, mimarisi ve tarihi geçmişiyle ziyaretçilerini büyülemektedir.
+Tralleis Hamam Gymnasium Yapıları, Aydın'ın Efeler ilçesinde, Ege Bölgesi'nin kalbinde yer alan bir tarihî güzelliğimizdir. Bu antik yapı, gymnasion ve hamam kompleksini içerir. Tralleis, antik çağda önemli bir yerleşim merkeziydi ve bu yapılar, o dönemin kültürel ve sportif yaşantısını yansıtır. Tralleis Hamam Gymnasium Yapıları, mimarisi ve tarihi geçmişiyle ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 

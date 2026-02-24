@@ -52,6 +52,6 @@ Mevlana Müzesi, yıl boyunca ziyaret edilebilen bir yer. Ancak, en iyi ziyaret 
 
 - Mevlana Müzesi, Türkiye'nin en önemli kültürel merkezlerinden biri
 - Mevlana Celaleddin Rumi, 13. yüzyılda yaşamış bir sufizm lideri
-- Mevlana Müzesi, 140 hektarlık bir alana kurulmuş
+
 - Müzenin koleksiyonunda, Mevlana'nın yaşamına ait eşyalar ve el yazmaları bulunuyor
 - Mevlana Müzesi, her yıl binlerce ziyaretçi tarafından ziyaret ediliyor

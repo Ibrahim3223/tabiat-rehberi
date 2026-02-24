@@ -29,7 +29,7 @@ wikidata_id: "Q117008362"
 
 # Çifte Kümbet
 
-İç Anadolu Bölgesi, doğal güzellikleriyle ziyaretçilerini büyüleyen bir bölge. Bu bölgede yer alan Çifte Kümbet, yaklaşık olarak 140 hektarlık bir alanı kapsıyor. İnsanlar, bu bölgede doğanın güzelliklerini keşfetme ve yaban hayatını pozorlemek için geliyor. Çifte Kümbet, ziyaretçilerine huzurlu ve sakin bir ortam sunuyor.
+İç Anadolu Bölgesi, doğal güzellikleriyle ziyaretçilerini büyüleyen bir bölge. İnsanlar, bu bölgede doğanın güzelliklerini keşfetme ve yaban hayatını pozorlemek için geliyor. Çifte Kümbet, ziyaretçilerine huzurlu ve sakin bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ wikidata_id: "Q117008362"
 
 ## İlginç Bilgiler
 
-- Çifte Kümbet, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Bu bölge, farklı coğrafi oluşumları barındırıyor
 - Çifte Kümbet'in flora ve fauna yapısı zengin
 - Bu bölge, ekolojik dengenin korunması açısından önemli

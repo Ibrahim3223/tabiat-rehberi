@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","p
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Canakkale-Ayvacik-Baharlar Kızılçam 2","caption":"Canakkale-Ayvacik-Baharlar Kızılçam 2","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Ayvacik-Baharlar%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227325","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide mekanlarından biri olan milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","Marmara Bölgesi","çevre","doğa","gezi","çanakkale","ayvacık","baharlar","kızılçam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227325"
@@ -42,7 +42,6 @@ Canakkale-Ayvacik-Baharlar Kızılçam 2 milli parkını ziyaret etmek, doğa se
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, tarihin çeşitli dönemlerinde önemli bir yerleşim ve geçit yeri olarak kullanılmış
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerinin korunması amacıyla yapılmış
 - Parkın içinde, çeşitli bitki türleri ve yaban hayatının çeşitliliği dikkat çekiyor

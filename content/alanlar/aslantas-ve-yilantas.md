@@ -38,7 +38,7 @@ Aslantaş ve Yılantaş'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu
 
 ## Coğrafya
 
-Aslantaş ve Yılantaş, İhsaniye, Afyonkarahisar'da yer alır ve coğrafi olarak Ege Bölgesi'nin önemli noktalarından birisidir. Bu bölge, 140 hektarlık geniş bir alana sahiptir ve coğrafi olarak çeşitlilik gösterir. Aslantaş ve Yılantaş, doğal güzelliği ile dikkat çeker. Bölge, zengin flora ve fauna çeşitliliğine sahiptir. İklim olarak, bölgenin coğrafi konumu ve yüksekliği, mevsimsel değişimlere etki eder. Aslantaş ve Yılantaş, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkiler ve onları doğanın içine davet eder. Bu bölge, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunar.
+Aslantaş ve Yılantaş, İhsaniye, Afyonkarahisar'da yer alır ve coğrafi olarak Ege Bölgesi'nin önemli noktalarından birisidir. Aslantaş ve Yılantaş, doğal güzelliği ile dikkat çeker. Bölge, zengin flora ve fauna çeşitliliğine sahiptir. İklim olarak, bölgenin coğrafi konumu ve yüksekliği, mevsimsel değişimlere etki eder. Aslantaş ve Yılantaş, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkiler ve onları doğanın içine davet eder. Bu bölge, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunar.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Hüdâvent Hatun Türbesi'nin etrafı, çeşitli bitki türleri ile dolu olan bi
 
 ## Ziyaret Bilgileri
 
-Hüdâvent Hatun Türbesi'ni ziyaret etmek, tarihi bir atmosferde dolaşmak isteyenler için ideal bir destinasyondur. Türbeye, Niğde'nin merkezinden fácilce ulaşılabilir. Türbenin etrafındaki bölge, tarihi yapılarla dolu olan bir alandır. Ziyaretçiler, türbenin mimarisi ve tarihi önemi hakkında bilgi edinebilirler. Ayrıca, bölgede bulunan diğer tarihi yapıları da ziyaret edebilirler. Hüdâvent Hatun Türbesi, ziyaretçilerine geçmişe götürmeyi başarır.
+Hüdâvent Hatun Türbesi'ni ziyaret etmek, tarihi bir atmosferde dolaşmak isteyenler için ideal bir destinasyondur. Türbeye, Niğde'nin merkezinden kolayce ulaşılabilir. Türbenin etrafındaki bölge, tarihi yapılarla dolu olan bir alandır. Ziyaretçiler, türbenin mimarisi ve tarihi önemi hakkında bilgi edinebilirler. Ayrıca, bölgede bulunan diğer tarihi yapıları da ziyaret edebilirler. Hüdâvent Hatun Türbesi, ziyaretçilerine geçmişe götürmeyi başarır.
 
 ## İlginç Bilgiler
 

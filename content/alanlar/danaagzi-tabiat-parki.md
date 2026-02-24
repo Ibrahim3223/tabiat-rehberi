@@ -44,7 +44,7 @@ Danaağzı Tabiat Parkı, ziyaretçilere keyifli bir gezi deneyimi sunar. Parka 
 ## İlginç Bilgiler
 
 - Danaağzı Tabiat Parkı, Zonguldak ilinin en önemli doğal güzelliklerinden biridir.
-- Park, 140 hektarlık bir alana sahiptir.
+
 - Parkın flora ve faunası, bölgenin iklimine ve coğrafi yapısına uyum sağlamışlardır.
 - Park, ziyaretçilere keyifli bir gezi deneyimi sunar.
 - Parkın en iyi ziyaret zamanı, ilkbahar ve yaz aylarıdır.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","çiçek izleme","kuş gözlemciliği","fo
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Antalya-Antalya-Antalya-Kızılçam 1","caption":"Antalya-Antalya-Antalya-Kızılçam 1","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Antalya-Antalya-K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228440","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin gözde milli parkı, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
+"
 keywords: ["Antalya","milli park","Kızılçam","Akdeniz Bölgesi","doğa","yeşil alan","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228440"
@@ -42,7 +42,6 @@ Antalya-Antalya-Antalya-Kızılçam 1 milli parkını ziyaret etmek, doğa sever
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunur
 - Parkın coğrafi konumu, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir
 - Parkın tarihi geçmişi, yüzyıllar boyunca süregelmiştir

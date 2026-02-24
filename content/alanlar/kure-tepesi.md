@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi keşif"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Küre Tepesi","caption":"Küre Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCre%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210818","tip":"genel"}]
-description: "Kilis'in doğal güzelliklerini keşfedin, 140 hektarlık alan yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kilis","Küre Tepesi","doğal güzellikler","gezi","tarihçe","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32210818"
@@ -28,7 +28,7 @@ wikidata_id: "Q32210818"
 
 # Küre Tepesi
 
- Bu bölge, ziyaretçilerini doğal güzellikleriyle karşılar. Coğrafi olarak güneydoğu ankrajında yer alan bu tepe, Kilis'in önemli bir parçasıdır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çeker. 140 hektarlık bu yeşil alan, ziyaretçilerine geniş bir hareket alanı sunar.
+ Bu bölge, ziyaretçilerini doğal güzellikleriyle karşılar. Coğrafi olarak güneydoğu ankrajında yer alan bu tepe, Kilis'in önemli bir parçasıdır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çeker.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Küre Tepesi'ni ziyaret etmek, Kilis'in doğal güzelliklerini keşfetmek isteye
 ## İlginç Bilgiler
 
 - Kilis'in doğal güzelliklerini keşfetmek için önemli bir merkez
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - flora ve fauna çeşitliliği
 - coğrafi konumu
 - tarihi geçmişi

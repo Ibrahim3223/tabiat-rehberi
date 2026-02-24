@@ -28,7 +28,7 @@ wikidata_id: "Q31386566"
 
 # Siyahtaş Tepesi
 
-Siyahtaş Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepenin etrafı, çeşitli bitki türleriyle dolu. Siyahtaş Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafındaki köyler ve şehirler, tarihi ve coğrafi açıdan önemli.
+Siyahtaş Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepenin etrafı, çeşitli bitki türleriyle dolu. Siyahtaş Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafındaki köyler ve şehirler, tarihi ve coğrafi açıdan önemli.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Siyahtaş Tepesi, ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafındak
 
 ## İlginç Bilgiler
 
-- Siyahtaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafı, çeşitli bitki türleriyle dolu.
 - Siyahtaş Tepesi, ziyaretçilerine geniş bir manzara sunuyor.
 - Tepenin yakınında, tarihi eserler ve kalıntılar bulunmakta.

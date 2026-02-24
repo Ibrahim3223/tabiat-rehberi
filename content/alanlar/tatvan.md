@@ -43,7 +43,6 @@ Tatvan, doğa severler ve tarihi geçmişi keşfetmek isteyenler için ideal bir
 
 ## İlginç Bilgiler
 
-- Tatvan, 140 hektarlık bir alana sahiptir.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Tatvan, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir.
 - Milli park, doğa severler ve yaban hayatı ile ilgilenenler için ideal bir destinasyondur.

@@ -49,7 +49,7 @@ Tilkikale Tepesi, Mardin'i keşfetmek isteyenler için önemli bir durak noktas�
 ## İlginç Bilgiler
 
 - Tilkikale Tepesi, Mardin'in tarihi ve doğal güzelliklerini sunuyor
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Mardin'in merkezi ile çevresi arasındaki yeşil bir cennet
 - Tilkikale Tepesi, Mardin'in tarihini ve kültürel mirasını koruma ve tanıtmak için önemli bir rol oynuyor
 - Tilkikale Tepesi, Mardin'in flora ve faunasını öğrenmek isteyenler için önemli bir kaynak sunuyor

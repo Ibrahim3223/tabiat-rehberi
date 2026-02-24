@@ -43,7 +43,6 @@ wikidata_id: "Q119442756"
 
 ## İlginç Bilgiler
 
-- Bu saha, yaklaşık 140 hektarlık bir alana sahiptir.
 - Ziyaretçiler, bu saha içerisinde çeşitli bitki ve hayvan türleriyle karşılaşabilir.
 - Bu saha, coğrafi olarak çeşitli dağlar, ormanlar ve nehirlerle çevrilidir.
 - İlkbahar ve sonbahar mevsimlerinde, saha en güzel haliyle ziyaretçilerini karşılar.

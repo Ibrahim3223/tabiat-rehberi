@@ -21,7 +21,7 @@ aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Katır Tepesi","caption":"Katır Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kat%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516654","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan Katır Tepesi, 140 hektarlık bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan."
+"
 keywords: ["Katır Tepesi","İç Anadolu Bölgesi","doğal alan","tepe","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31516654"

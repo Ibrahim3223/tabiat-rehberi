@@ -29,7 +29,7 @@ wikidata_id: "Q133684788"
 
 # Cariyeler ve Kadın Kalfalar Dairesi, Yıldız
 
-İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, tarihin derinliklerinden gelen bir hikayeyi anlatır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alan içinde yer alır ve İstanbul'un önemli kültürel miraslarından biridir. Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'da, ziyaretçilerini tarihin sayfalarına götürmeye hazırdır. 200 futbol sahası büyüklüğünde bir alan kaplayan bu bölge, ziyaretçilere geniş bir tarihi ve kültürel birikimin kapılarını aralar.
+İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, tarihin derinliklerinden gelen bir hikayeyi anlatır. Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'da, ziyaretçilerini tarihin sayfalarına götürmeye hazırdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'ın tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, Marmara Bölgesi'nin kalbinde, İstanbul'un Beşiktaş ilçesinde yer alır. Bu bölge, coğrafi olarak İstanbul'un önemli noktalarından biridir. Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, yaklaşık 140 hektarlık bir alan kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Bu tarihi yapı, çevresi ile birlikte bir bütün olarak düşünülür ve Marmara Bölgesi'nin coğrafi özelliklerini yansıtır. Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'da, ziyaretçilere tarihin ve coğrafyanın birleştiği bir noktayı keşfetme fırsatı sunar. Bu bölgede, ziyaretçiler tarihin izlerini takip ederken, aynı zamanda coğrafi güzelliği de keşfedebilir.
+Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, Marmara Bölgesi'nin kalbinde, İstanbul'un Beşiktaş ilçesinde yer alır. Bu bölge, coğrafi olarak İstanbul'un önemli noktalarından biridir. Bu tarihi yapı, çevresi ile birlikte bir bütün olarak düşünülür ve Marmara Bölgesi'nin coğrafi özelliklerini yansıtır. Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'da, ziyaretçilere tarihin ve coğrafyanın birleştiği bir noktayı keşfetme fırsatı sunar. Bu bölgede, ziyaretçiler tarihin izlerini takip ederken, aynı zamanda coğrafi güzelliği de keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'a ziyaret etmek için, İstanbul'
 
 ## İlginç Bilgiler
 
-- Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, 200 futbol sahası büyüklüğünde bir alan kaplar.
 - Bu tarihi yapı, Osmanlı İmparatorluğu döneminde inşa edilmiştir.
 - Cariyeler ve Kadın Kalfalar Dairesi, Yıldız, Marmara Bölgesi'nin kalbinde yer alır.
 - Ziyaretçiler, Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'da, tarihin ve doğanın birleştiği bir noktayı keşfedebilir.

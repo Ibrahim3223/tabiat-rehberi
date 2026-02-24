@@ -41,8 +41,6 @@ Erdemli Çamlığı, ziyaretçilerini doğanın kucağına davet etmektedir. Bu 
 
 ## İlginç Bilgiler
 
-- Erdemli Çamlığı, 140 hektarlık bir alana yayılmıştır.
-
 - Erdemli Çamlığı, Karadeniz Bölgesi'nin en önemli tabiat parklarından biridir.
 - Bu alan, çam ormanlarıyla kaplı bir bölge olarak bilinmektedir.
 - Erdemli Çamlığı, ziyaretçilerini doğanın kucağına davet etmektedir.

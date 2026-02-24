@@ -30,7 +30,7 @@ wikidata_id: "Q131391271"
 
 # Hasan Sezai Gülşeni Türbesi
 
-Hasan Sezai Gülşeni Türbesi, Edirne'nin tarihi ve kültürel zenginliklerinin önemli bir parçası olarak karşımıza çıkıyor. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor ve ziyaretçilerini tarihi bir atmosfere davet ediyor. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi güzelliklerini sunuyor ve ziyaretçilere geniş bir manzara sunuyor. Hasan Sezai Gülşeni Türbesi'ni ziyaret etmek, hem tarihe hem de doğaya ilgi duyanların keyif alacağı bir deneyim olacak.
+Hasan Sezai Gülşeni Türbesi, Edirne'nin tarihi ve kültürel zenginliklerinin önemli bir parçası olarak karşımıza çıkıyor. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi güzelliklerini sunuyor ve ziyaretçilere geniş bir manzara sunuyor. Hasan Sezai Gülşeni Türbesi'ni ziyaret etmek, hem tarihe hem de doğaya ilgi duyanların keyif alacağı bir deneyim olacak.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hasan Sezai Gülşeni Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Hasan Sezai Gülşeni Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kurulmuş ve ziyaretçilerine geniş bir manzara sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerin doğayı keşfetmelerine olanak tanır. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Hasan Sezai Gülşeni Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak şekillenmiştir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+Hasan Sezai Gülşeni Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerin doğayı keşfetmelerine olanak tanır. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Hasan Sezai Gülşeni Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak şekillenmiştir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

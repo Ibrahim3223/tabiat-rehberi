@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["güneşlenmek","denizde yüzmek","doğa yürüyüşleri yapmak","kuş gözlemciliği yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/31/Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_03.jpg","alt":"Bağırganlı Plajı manzarası","credit":"Kocaeligönüllüsü","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_03.jpg/960px-Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_03.jpg","alt":"Bağırganlı Plajı","caption":"Bağırganlı Plajı","credit":"Bağırganlı Halk Plajı 03","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_02.jpg/1280px-Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_02.jpg","alt":"Bağırganlı Plajı - Bağırganlı Halk Plajı 02","credit":"Kocaeligönüllüsü","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_01.jpg/1280px-Ba%C4%9F%C4%B1rganl%C4%B1_Halk_Plaj%C4%B1_01.jpg","alt":"Bağırganlı Plajı - Bağırganlı Halk Plajı 01","credit":"Kocaeligönüllüsü","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9F%C4%B1rganl%C4%B1%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q106889431","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Bağırganlı Plajı, Kocaeli'de yer alıyor"
@@ -29,7 +29,7 @@ wikidata_id: "Q106889431"
 
 # Bağırganlı Plajı
 
-Bağırganlı Plajı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Kocaeli ilinde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor. Plajın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu doğal güzelliği ile ziyaretçilerini cezbeden Bağırganlı Plajı, özellikle yaz aylarında çok sayıda insanın ziyaret ettiği bir destinasyon haline geliyor.
+Bağırganlı Plajı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Plajın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu doğal güzelliği ile ziyaretçilerini cezbeden Bağırganlı Plajı, özellikle yaz aylarında çok sayıda insanın ziyaret ettiği bir destinasyon haline geliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bağırganlı Plajı'nın tarihi geçmişi hakkında net bilgiler bulunmuyor. An
 
 ## Coğrafya
 
-Bağırganlı Plajı, Marmara Bölgesi'nin Kocaeli ilinde yer alıyor. Plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve geniş bir kumsala sahip. Kumsalın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu ormanlık alanlar, plaja gelen ziyaretçilere gölge ve serinlik sağlıyor. Plajın denizi ise genellikle sakin ve berrak olan bir yapıya sahip. Bağırganlı Plajı, coğrafi konumu itibariyle çeşitli iklim koşullarına maruz kalıyor. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcak ve güneşli bir iklim görülüyor. Bu nedenle plaj, genellikle yaz aylarında ziyaret ediliyor. Bağırganlı Plajı'nın coğrafi konumu ve doğal güzelliği, burayı önemli bir turizm merkezi haline getiriyor.
+Bağırganlı Plajı, Marmara Bölgesi'nin Kocaeli ilinde yer alıyor. Kumsalın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu ormanlık alanlar, plaja gelen ziyaretçilere gölge ve serinlik sağlıyor. Plajın denizi ise genellikle sakin ve berrak olan bir yapıya sahip. Bağırganlı Plajı, coğrafi konumu itibariyle çeşitli iklim koşullarına maruz kalıyor. Kış aylarında soğuk ve yağışlı bir hava hakimken, yaz aylarında sıcak ve güneşli bir iklim görülüyor. Bu nedenle plaj, genellikle yaz aylarında ziyaret ediliyor. Bağırganlı Plajı'nın coğrafi konumu ve doğal güzelliği, burayı önemli bir turizm merkezi haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Bağırganlı Plajı, genellikle yaz aylarında ziyaret ediliyor. Plaja gitmek i
 
 ## İlginç Bilgiler
 
-- Bağırganlı Plajı, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Plajın etrafındaki ormanlık alanlar, çeşitli ağaç türleri ve bitki örtüsüne ev sahipliği yapıyor
 - Bağırganlı Plajı, coğrafi konumu itibariyle çeşitli iklim koşullarına maruz kalıyor
 - Plajın denizi genellikle sakin ve berrak olan bir yapıya sahip

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Isparta-Bucak-Pamucak Kızılçam","caption":"Isparta-Bucak-Pamucak Kızılçam","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak-Pamucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227419","tip":"genel"}]
-description: "Isparta'nın doğal güzellikleri arasında yer alan Isparta-Bucak-Pamucak Kızılçam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Isparta","Bucak","Pamucak","Kızılçam","milli park","doğa","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227419"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227419"
 
 # Isparta-Bucak-Pamucak Kızılçam
 
- Bu milli park, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak kızılçam ağaçları ile kaplıdır. Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin ekolojik dengesini korumakta önemli bir rol oynamaktadır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir doğal ortam sunarken, aynı zamanda bölgeye özgü flora ve faunayı keşfetme fırsatı sunmaktadır.
+ Bu milli park, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak kızılçam ağaçları ile kaplıdır. Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin ekolojik dengesini korumakta önemli bir rol oynamaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine bölgenin doğa
 
 ## Ziyaret Bilgileri
 
-Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Ziyaretçiler, milli parkın 140 hektarlık alanını keşfedebilir ve bölgenin flora ve faunasını gözlemleyebilir. Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin iklimsel özellikleri hakkında bilgi edinme fırsatı sunmaktadır. Ziyaretçiler, milli parkı ziyaret ederken, bölgenin doğal güzelliklerini korumakta önemli bir rol oynamaktadır. Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunmaktadır.
+Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin iklimsel özellikleri hakkında bilgi edinme fırsatı sunmaktadır. Ziyaretçiler, milli parkı ziyaret ederken, bölgenin doğal güzelliklerini korumakta önemli bir rol oynamaktadır. Isparta-Bucak-Pamucak Kızılçam milli parkı, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunmaktadır.
 
 ## İlginç Bilgiler
 

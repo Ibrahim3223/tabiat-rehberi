@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğayı keşfetme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Attepe","caption":"Attepe","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Attepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390900","tip":"genel"}]
-description: "Yozgat'ın güzide noktalarından biri olan Attepe, ziyaretçilerini bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Yozgat'ın güzide noktalarından biri olan Attepe, ziyaretçilerini bekliyor."
 keywords: ["Yozgat","Attepe","tepe","doğa","gezi","türkiye","iç anadolu","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390900"
@@ -47,8 +47,6 @@ Attepe, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölge, çe
 Attepe'yi ziyaret etmek, doğanın güzelliği ile baş başa kalmak isteyenler için ideal bir fırsat sunuyor. Bu bölgeye ulaşmak için, Yozgat merkezinden hareket eden toplu taşıma araçlarını veya özel araçları kullanabilirsiniz. Attepe, ziyaretçilerini dört mevsim farklı güzelliği ile karşılayacak şekilde şekillenmiştir. İlkbahar ve yaz aylarında yeşilin çeşitli tonlarına bürünen Attepe, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor. Ziyaretçiler, Attepe'de doğa yürüyüşü, fotoğrafçılık ve doğayı keşfetme gibi etkinliklerle zaman geçirebilirler.
 
 ## İlginç Bilgiler
-
-- Attepe, 140 hektarlık bir alana sahiptir.
 
 - Attepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker.

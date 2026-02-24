@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 15'in tarihi geçmişi, Ege Bölgesi'nin antik dönemle
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 15, Salihli, Manisa'da yer alan ve Ege Bölgesi'nin coğrafi özellikleri ile çevrili bir alandır. Bu tümülüs, yaklaşık 140 hektarlık bir alanda yayılmış ve çevresinde çeşitli bitki türleri ile zengin bir fauna bulunmaktadır. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşımakta ve ziyaretçiler, buraya gelerek Ege Bölgesi'nin güzel doğasını ve coğrafi güzelliklerini keşfedebilirler. Tümülüsün konumu, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunmakta ve Ege Bölgesi'nin güzel manzaralarını seyretme imkanı sağlamaktadır.
+Bin Tepeler Tümülüsü 15, Salihli, Manisa'da yer alan ve Ege Bölgesi'nin coğrafi özellikleri ile çevrili bir alandır. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşımakta ve ziyaretçiler, buraya gelerek Ege Bölgesi'nin güzel doğasını ve coğrafi güzelliklerini keşfedebilirler. Tümülüsün konumu, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunmakta ve Ege Bölgesi'nin güzel manzaralarını seyretme imkanı sağlamaktadır.
 
 ## Flora ve Fauna
 

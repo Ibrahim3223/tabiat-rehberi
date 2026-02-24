@@ -49,7 +49,6 @@ Tarihi Çarşı Hamamı, ziyaretçilere, çeşitli etkinlikler sunuyor. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Tarihi Çarşı Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor
 - Tarihi Çarşı Hamamı, doğa severler için, benzersiz bir deneyim sunuyor
 - Plajın etrafında, çeşitli bitki türleri ve zengin fauna encontrável

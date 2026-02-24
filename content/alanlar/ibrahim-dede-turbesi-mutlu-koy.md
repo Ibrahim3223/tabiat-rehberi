@@ -50,7 +50,7 @@ Mutlu Köyü ve İbrahim Dede Türbesi'nin etrafı, çeşitli bitki türleri ve 
 ## İlginç Bilgiler
 
 - İbrahim Dede Türbesi, Mutlu Köyü'nün merkezinde yer alıyor.
-- Köy, 140 hektarlık bir yeşil alan sunuyor.
+
 - Mutlu Köyü, Ayvalık'ın en güzel köylerinden biri olarak kabul ediliyor.
 - İbrahim Dede Türbesi, köyün önemli bir kültürel mirasını oluşturuyor.
 - Köyün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.

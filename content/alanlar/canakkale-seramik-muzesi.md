@@ -30,7 +30,7 @@ wikidata_id: "Q131738785"
 
 # Çanakkale Seramik Müzesi
 
-Çanakkale Seramik Müzesi, Çanakkale ilinin merkezinde yer alan vehistorik değer taşıyan bir kültür merkezi. Bu müze, yaklaşık 140 hektarlık bir alanda kurulmuş ve ziyaretçilerine geniş bir sanat ve tarih yelpazesi sunuyor. Çanakkale'nin coğrafi konumunun sağladığı avantajla, Ege Bölgesi'nin önemli kültür merkezlerinden biri olarak kabul ediliyor. Müzenin içerisinde, seramik sanatının örneklerinin yanı sıra, bölgenin tarihine ışık tutan eserler de sergileniyor.
+Çanakkale Seramik Müzesi, Çanakkale ilinin merkezinde yer alan vehistorik değer taşıyan bir kültür merkezi. Çanakkale'nin coğrafi konumunun sağladığı avantajla, Ege Bölgesi'nin önemli kültür merkezlerinden biri olarak kabul ediliyor. Müzenin içerisinde, seramik sanatının örneklerinin yanı sıra, bölgenin tarihine ışık tutan eserler de sergileniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131738785"
 
 ## Coğrafya
 
-Çanakkale Seramik Müzesi, Çanakkale ilinin merkezinde yer alıyor. Bu bölge, coğrafi konumu itibariyle, Ege Bölgesi'nin önemli kültür merkezlerinden biri. Müze, yaklaşık 140 hektarlık bir alanda kurulmuş ve geniş bir yeşil alan sunuyor. Çevresinde, çeşitli bitki türleri ve ağaçlar bulunuyor. İklimi, Ege Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, müzenin ziyaretçilerine doğal bir ortam sunuyor. Müzenin yapısı, tarihi ve kültürel değerlerin sergilendiği bir mimariyle tasarlanmış.
+Çanakkale Seramik Müzesi, Çanakkale ilinin merkezinde yer alıyor. Bu bölge, coğrafi konumu itibariyle, Ege Bölgesi'nin önemli kültür merkezlerinden biri. Çevresinde, çeşitli bitki türleri ve ağaçlar bulunuyor. İklimi, Ege Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Bu coğrafi konum, müzenin ziyaretçilerine doğal bir ortam sunuyor. Müzenin yapısı, tarihi ve kültürel değerlerin sergilendiği bir mimariyle tasarlanmış.
 
 ## Flora ve Fauna
 

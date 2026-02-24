@@ -22,7 +22,7 @@ wikidata_id: "Q108226220"
 
 # Acıgöl Sit Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Acıgöl Sit Alanı, 140 hektarlık geniş bir alana yayılmaktadır. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Gölün suyu, çevreyi süsleyen çam ağaçları ve çeşitlilik gösteren flora, bu alanı ziyaret edenler için bir doğa harikası sunar. Acıgöl Sit Alanı, aynı zamanda bir doğa koruma alanı olarak kabul edilir ve bu nedenle buradaki flora ve fauna, koruma altına alınmıştır.
+ Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Gölün suyu, çevreyi süsleyen çam ağaçları ve çeşitlilik gösteren flora, bu alanı ziyaret edenler için bir doğa harikası sunar. Acıgöl Sit Alanı, aynı zamanda bir doğa koruma alanı olarak kabul edilir ve bu nedenle buradaki flora ve fauna, koruma altına alınmıştır.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Acıgöl Sit Alanı, çeşitlilik gösteren flora ve fauna ile ziyaretçilerini 
 Acıgöl Sit Alanı, ziyaretçilerini doğanın güzelliği ve zenginliği ile karşılar. Burada, çeşitli etkinlikler düzenlenebilir. Gölün suyu, çevreyi süsleyen çam ağaçları ve çeşitlilik gösteren flora, bu alanı ziyaret edenler için bir doğa harikası sunar. Ziyaretçiler, burayı gezmek için bahar ve sonbahar mevsimlerini tercih edebilirler. Bu mevsimlerde, doğanın güzelliği ve zenginliği, en güzel şekilde kendini gösterir. Acıgöl Sit Alanı'na ulaşım, İç Anadolu Bölgesi'nin merkezi konumundan dolayı, oldukça kolaydır. Ziyaretçiler, buraya kendi araçları ile veya toplu taşıma araçları ile ulaşabilirler.
 
 ## İlginç Bilgiler
-
-- Acıgöl Sit Alanı, 140 hektarlık bir alana yayılmaktadır.
 
 - Göl, çevreye hayat veren bir kaynak olarak kabul edilir.
 - Bu bölgede, çeşitli bitki ve hayvan türleri bulunur.

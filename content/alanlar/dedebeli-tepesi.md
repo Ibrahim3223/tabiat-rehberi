@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Dedebeli Tepesi","caption":"Dedebeli Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedebeli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557507","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde bulunan Dedebeli Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Dedebeli Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557507"

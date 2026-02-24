@@ -37,7 +37,7 @@ Arabacılar Hamamı Ayvansaray'ın tarihi geçmişi, yüzyıllar boyunca çeşit
 
 ## Coğrafya
 
-Arabacılar Hamamı Ayvansaray, coğrafi olarak Marmara Bölgesi'nin kalbinde yer alan Fatih ilçesinde bulunmaktadır. Bu bölgenin coğrafi özellikleri, İstanbul'un genel coğrafyasına benzerlik göstermektedir. Arabacılar Hamamı Ayvansaray'ın 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Marmara Bölgesi'nin tipik iklimine uygun olarak ılıman ve nemlidir. Kış aylarında yağışlı, yaz aylarında ise sıcak ve dry bir hava hakimdir. Ayvansaray, çevresi ile birlikte bir bütün olarak ele alındığında, İstanbul'un doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir bölgedir.
+Arabacılar Hamamı Ayvansaray, coğrafi olarak Marmara Bölgesi'nin kalbinde yer alan Fatih ilçesinde bulunmaktadır. Bu bölgenin coğrafi özellikleri, İstanbul'un genel coğrafyasına benzerlik göstermektedir. Bölgenin iklimi, Marmara Bölgesi'nin tipik iklimine uygun olarak ılıman ve nemlidir. Kış aylarında yağışlı, yaz aylarında ise sıcak ve dry bir hava hakimdir. Ayvansaray, çevresi ile birlikte bir bütün olarak ele alındığında, İstanbul'un doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir bölgedir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkının tarihi geçmişi, bölgeni
 
 ## Coğrafya
 
-Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden birinde bulunur. Park, 140 hektarlık bir alanı kaplar ve bu alanda çeşitli bitki türleri ve hayvanlar bulunur. Bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterizedir. İklim, Karadeniz Bölgesi'nin ılıman ve yağışlı iklimine uygun olarak şekillenir. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkı, coğrafi olarak zengin bir biodiversityye sahiptir ve bu nedenle doğa bilimcilerin ve doğa severlerin ilgisini çeker. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa aktiviteleri sunar ve bu nedenle bölgenin turizm potansiyelini artırır.
+Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden birinde bulunur. Bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterizedir. İklim, Karadeniz Bölgesi'nin ılıman ve yağışlı iklimine uygun olarak şekillenir. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkı, coğrafi olarak zengin bir biodiversityye sahiptir ve bu nedenle doğa bilimcilerin ve doğa severlerin ilgisini çeker. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa aktiviteleri sunar ve bu nedenle bölgenin turizm potansiyelini artırır.
 
 ## Flora ve Fauna
 

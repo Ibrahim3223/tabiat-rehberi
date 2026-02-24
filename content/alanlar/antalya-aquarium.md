@@ -18,10 +18,10 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["deniz sporları","plaj","su parkı","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Antalya%20Aquarium.jpg","alt":"Antalya Aquarium manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Antalya_Aquarium.jpg/960px-Antalya_Aquarium.jpg","alt":"Antalya Aquarium","caption":"Antalya Aquarium","credit":"Antalya Aquarium","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/2014_Antalya_Aquarium_059.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2014_Antalya_Aquarium_059.jpg/1280px-2014_Antalya_Aquarium_059.jpg","alt":"Antalya Aquarium - 2014 Antalya Aquarium 059","credit":"Andreas Wolf 01","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Aquarium_in_Antalya_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aquarium_in_Antalya_03.jpg/1280px-Aquarium_in_Antalya_03.jpg","alt":"Antalya Aquarium - Aquarium in Antalya 03","credit":"Хомелка","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Aquarium_in_Antalya_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Aquarium_in_Antalya_04.jpg/1280px-Aquarium_in_Antalya_04.jpg","alt":"Antalya Aquarium - Aquarium in Antalya 04","credit":"Хомелка","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Aquarium_in_Antalya_05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aquarium_in_Antalya_05.jpg/1280px-Aquarium_in_Antalya_05.jpg","alt":"Antalya Aquarium - Aquarium in Antalya 05","credit":"Хомелка","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/67/Aquarium_in_Antalya_06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aquarium_in_Antalya_06.jpg/1280px-Aquarium_in_Antalya_06.jpg","alt":"Antalya Aquarium - Aquarium in Antalya 06","credit":"Хомелка","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Aquarium","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20470397","tip":"genel"}]
-description: "Akdeniz'in kalbinde, Antalya'da yer alan Antalya Aquarium, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Antalya","Akdeniz","Aquarium","plaj","deniz","turizm","gezi","tatil","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q20470397"
@@ -49,8 +49,6 @@ Antalya Aquarium'u ziyaret etmek, ziyaretçiler için bir hayli keyifli bir dene
 
 ## İlginç Bilgiler
 
-- Antalya Aquarium, 140 hektarlık bir alana yayılmış
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Antalya Aquarium, çeşitli su sporları ve aktivitelere ev sahipliği yapıyor
 - Bu bölge, hem deniz hem de doğa severler için ideal bir destinasyon olarak kabul ediliyor
 - Antalya Aquarium'un tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış

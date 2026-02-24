@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","kuş gözlemciliği","b
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"GÜMÜŞHANE_KARŞIYAKA_TP","caption":"GÜMÜŞHANE_KARŞIYAKA_TP","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%9CM%C3%9C%C5%9EHANE_KAR%C5%9EIYAKA_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228767","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık bir alan, doğa severler için bir sığınak."
+"
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Gümüşhane","Karşıyaka"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228767"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228767"
 
 # GÜMÜŞHANE_KARŞIYAKA_TP
 
-Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık bir alan olarak doğa severler için bir sığınak görevi görüyor. Gümüşhane'nin coğrafi yapısına uygun olarak, Karşıyaka TP'nin de coğrafyası oldukça çeşitli ve zengin. Burada gezerken, birçok farklı bitki türüyle karşılaşma mümkün ve bu, bölgeyi doğa meraklıları için ideal bir destinasyon haline getiriyor.
+ Gümüşhane'nin coğrafi yapısına uygun olarak, Karşıyaka TP'nin de coğrafyası oldukça çeşitli ve zengin. Burada gezerken, birçok farklı bitki türüyle karşılaşma mümkün ve bu, bölgeyi doğa meraklıları için ideal bir destinasyon haline getiriyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gümüşhane Karşıyaka TP'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tari
 
 ## Coğrafya
 
-Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. 140 hektarlık bir alanı kaplayan milli park, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşuyor ve bu, birçok farklı habitatın oluşmasına olanak tanıyor. Karşıyaka TP, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve faunasını şekillendirmiş ve birçok farklı türün yaşamasına olanak tanıyor. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı manzara sunuyor ve bu, bölgeyi doğa fotoğrafçıları için de ideal bir destinasyon haline getiriyor.
+Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. Bölgenin coğrafyası, dağlık ve engebeli arazilerden oluşuyor ve bu, birçok farklı habitatın oluşmasına olanak tanıyor. Karşıyaka TP, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve faunasını şekillendirmiş ve birçok farklı türün yaşamasına olanak tanıyor. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı manzara sunuyor ve bu, bölgeyi doğa fotoğrafçıları için de ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Gümüşhane Karşıyaka TP, doğa severler ve tarih meraklıları için ideal b
 
 ## İlginç Bilgiler
 
-- Gümüşhane Karşıyaka TP, 140 hektarlık bir alanı kaplıyor.
 - Milli parkta birçok farklı bitki türü yaşuyor.
 - Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Karşıyaka TP, doğa severler ve tarih meraklıları için ideal bir destinasyon.

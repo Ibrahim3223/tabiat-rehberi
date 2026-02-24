@@ -48,7 +48,6 @@ Kaleninbaşı Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölge
 
 ## İlginç Bilgiler
 
-- Kaleninbaşı Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre
 - Kaleninbaşı Tepesi, Gaziantep'in güzide noktalarından biri
 - Tepenin adı, tarihi kale kalıntılarından gelmektedir

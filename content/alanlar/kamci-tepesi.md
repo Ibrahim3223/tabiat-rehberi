@@ -49,7 +49,7 @@ Kamçı Tepesi, ziyaretçiler için önemli bir destinasyondur. Bu tepe, bölgen
 ## İlginç Bilgiler
 
 - Kamçı Tepesi, Siirt'in önemli coğrafi noktalarından biridir
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Kamçı Tepesi, bölgenin flora ve faunasını keşfetmek isteyenler için ideal bir noktadır
 - Tepenin yüksekliği ve manzarası, ziyaretçilere bölgenin eşsiz güzelliğini sunar
 - Kamçı Tepesi, bölgenin kültürel ve tarihi zenginliğini keşfetmek isteyenler için önemli bir alandır

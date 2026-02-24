@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 70'i ziyaret etmek, ziyaretçilere birçok imkan sunuyo
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 70, Ege Bölgesi'nin önemli bir tarihi ve doğal güzelliği
-- Bu bölge, 140 hektarlık bir alanı kapsıyor
+
 - Bin Tepeler Tümülüsü 70, yüzyıllar öncesine dayanan bir tarihi geçmişi sahip
 - Bu bölgede, çeşitli uygarlıkların izlerini görme mümkün
 - Bin Tepeler Tümülüsü 70, flora ve fauna bakımından zengin bir bölge

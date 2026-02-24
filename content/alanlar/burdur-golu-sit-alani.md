@@ -14,7 +14,7 @@ aktiviteler: ["piknik yapmak","balık avı","yürüyüş yapmak","fotograf çeke
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Burdur Gölü Sit Alanı","caption":"Burdur Gölü Sit Alanı","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226680","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Burdur Gölü Sit Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Burdur Gölü","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","korunan alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226680"
@@ -42,7 +42,6 @@ Burdur Gölü Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor
 
 ## İlginç Bilgiler
 
-- Burdur Gölü Sit Alanı, 140 hektarlık bir alana sahip
 - Gölün suyunda, çeşitli balık türleri bulunuyor
 - Bölge, özellikle göçmen kuşların uğrak noktası olarak biliniyor
 - Gölün etrafındaki yeşil alanlar, çeşitli bitki türleriyle kaplı

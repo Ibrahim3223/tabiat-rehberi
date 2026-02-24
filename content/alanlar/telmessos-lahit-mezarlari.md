@@ -37,7 +37,7 @@ Telmessos Lahit Mezarları, tarihin sayfalarında önemli bir yer tutar. Bu meza
 
 ## Coğrafya
 
-Telmessos Lahit Mezarları, Muğla'nın coğrafi olarak önemli bir bölgesinde bulunur. Bu mezarlar, Ege Bölgesi'nin güzel ve verimli topraklarında, 140 hektarlık bir alan üzerinde yer alır. Telmessos Lahit Mezarları, coğrafi olarak önemli bir konuma sahiptir. Bu mezarlar, Ege Denizi'ne yakın bir mesafede yer alır ve ziyaretçilere deniz manzarası sunar. Ayrıca, bu bölge, doğal güzellikleri ile de dikkat çeker. Telmessos Lahit Mezarları, ziyaretçilerine güzel bir doğa manzarası sunar ve Ege Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı verir. Bu mezarların bulunduğu bölge, iklim olarak ılıman bir bölge olarak kabul edilir. Bu bölgenin iklimi, ziyaretçilere konforlu bir gezi deneyimi sunar.
+Telmessos Lahit Mezarları, Muğla'nın coğrafi olarak önemli bir bölgesinde bulunur. Telmessos Lahit Mezarları, coğrafi olarak önemli bir konuma sahiptir. Bu mezarlar, Ege Denizi'ne yakın bir mesafede yer alır ve ziyaretçilere deniz manzarası sunar. Ayrıca, bu bölge, doğal güzellikleri ile de dikkat çeker. Telmessos Lahit Mezarları, ziyaretçilerine güzel bir doğa manzarası sunar ve Ege Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı verir. Bu mezarların bulunduğu bölge, iklim olarak ılıman bir bölge olarak kabul edilir. Bu bölgenin iklimi, ziyaretçilere konforlu bir gezi deneyimi sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Telmessos Lahit Mezarları, ziyaretçilere yılın her dönemi açık bir turist
 ## İlginç Bilgiler
 
 - Telmessos Lahit Mezarları, Ege Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul edilir.
-- Bu mezarlar, yaklaşık 140 hektarlık bir alan üzerinde yer alır.
+
 - Telmessos Lahit Mezarları, yüzyıllar boyunca birçok medeniyetin izlerini taşır.
 - Bu mezarlar, ziyaretçilerine tarihin derinliklerine bir yolculuk sunar.
 - Telmessos Lahit Mezarları, Ege Bölgesi'nin coğrafi güzelliklerini keşfetme fırsatı verir.

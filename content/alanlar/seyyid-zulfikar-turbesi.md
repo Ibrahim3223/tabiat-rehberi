@@ -50,7 +50,7 @@ Seyyid Zülfikar Türbesi'ni ziyaret etmek için, Kastamonu'nun Seydiler ilçesi
 ## İlginç Bilgiler
 
 - Seyyid Zülfikar Türbesi, Kastamonu'nun Seydiler ilçesinde yer alan bir tarihi turbe
-- Bölge, 140 hektarlık geniş bir alan üzerinde kurulmuş
+
 - Seyyid Zülfikar Türbesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biri
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Seyyid Zülfikar Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları

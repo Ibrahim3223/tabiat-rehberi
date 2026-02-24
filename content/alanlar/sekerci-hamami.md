@@ -51,6 +51,6 @@ wikidata_id: "Q131738980"
 
 - Şekerci Hamamı, Çeşme'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Bu bölgede, yüzyıllar boyunca insanların yaşadığı ve denizin keyfini çıkardığı biliniyor.
-- Şekerci Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Şekerci Hamamı, ilkbahar ve yaz aylarında people tarafından ziyaret ediliyor.

@@ -52,6 +52,6 @@ wikidata_id: "Q131391273"
 
 - Şeyh Hüseyin Efendi Türbesi, Hatay'ın önemli turistik noktalarından biri.
 - Bölge, tarihi ve doğal güzelliklerinin yanı sıra, manevi değerleri de barındırıyor.
-- Şeyh Hüseyin Efendi Türbesi, 140 hektarlık yeşil alan üzerine kurulmuş.
+
 - Bölge, Akdeniz ikliminin característicasını taşıyor.
 - Ziyaretçiler, burada çeşitli bitki ve hayvan türleri görebilir.

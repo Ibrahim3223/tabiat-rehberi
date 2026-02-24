@@ -37,7 +37,7 @@ Yesari Baba Türbesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapm�
 
 ## Coğrafya
 
-Yesari Baba Türbesi, Sinop'un merkezi bir noktasında yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölgenin coğrafyası, dağlar, ormanlar ve sahillerin birleşmesiyle oluşuyor. Yesari Baba Türbesi, ziyaretçilerine bu coğrafi güzellikleri keşfetme fırsatı sunuyor. Mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Coğrafi konumu itibariyle, Yesari Baba Türbesi, Karadeniz Bölgesi'nin en güzel noktalarından biridir.
+Yesari Baba Türbesi, Sinop'un merkezi bir noktasında yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölgenin coğrafyası, dağlar, ormanlar ve sahillerin birleşmesiyle oluşuyor. Yesari Baba Türbesi, ziyaretçilerine bu coğrafi güzellikleri keşfetme fırsatı sunuyor. Coğrafi konumu itibariyle, Yesari Baba Türbesi, Karadeniz Bölgesi'nin en güzel noktalarından biridir.
 
 ## Flora ve Fauna
 

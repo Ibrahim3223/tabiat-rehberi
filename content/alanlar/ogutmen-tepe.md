@@ -49,7 +49,7 @@ wikidata_id: "Q34829903"
 ## İlginç Bilgiler
 
 - Öğütmen Tepe, Ege Bölgesi'nin en önemli noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Öğütmen Tepe, çeşitli bitki türlerine ev sahipliği yapıyor
 - Bu tepe, Ege Bölgesi'nin fauna çeşitliliğini yansıtıyor
 - Öğütmen Tepe, ziyaretçiler için bir cazibe merkezi

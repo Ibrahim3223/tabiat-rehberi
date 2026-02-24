@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","trekking","kuş gözlemciliği","çiçek izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Karanlıkarka Tepesi","caption":"Karanlıkarka Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karanl%C4%B1karka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558644","tip":"genel"}]
-description: "Ankara'nın güzide noktalarından biri olan Karanlıkarka Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558644"
@@ -28,7 +28,7 @@ wikidata_id: "Q31558644"
 
 # Karanlıkarka Tepesi
 
-Karanlıkarka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölge, doğa severler için bir cennet. Karanlıkarka Tepesi, aynı zamanda tarihsel açıdan da önemli bir noktada yer alır ve civarında çeşitli tarihi kalıntılar bulunur.
+ Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölge, doğa severler için bir cennet. Karanlıkarka Tepesi, aynı zamanda tarihsel açıdan da önemli bir noktada yer alır ve civarında çeşitli tarihi kalıntılar bulunur.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Karanlıkarka Tepesi, ziyaretçilerini dört mevsim boyunca ağırlıyor. Tepede
 
 ## İlginç Bilgiler
 
-- Karanlıkarka Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
 - Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur
 - Karanlıkarka Tepesi, fauna açısından da zengin bir bölge
 - Tepede, birçok yürüyüş ve trekking rotası bulunur

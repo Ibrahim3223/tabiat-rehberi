@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 20'yi ziyaret etmek, hem tarihi bir yolculuk hem de do�
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 20, Ege Bölgesi'nin en önemli tarihi noktalarından biri olarak kabul ediliyor.
-- Bu bölge, 140 hektarlık geniş bir alanı kaplıyor.
+
 - Bin Tepeler Tümülüsü 20, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyor.
 - Ziyaretçiler, bu bölgede, çeşitli bitki türleri ve hayvanlarla karşılaşabiliyor.
 - Bin Tepeler Tümülüsü 20, tarihin ve doğanın birleştiği eşsiz bir noktada, bilgi ve huzur dolu bir gün geçirebilmeleri için ideal bir destinasyon sunuyor.

@@ -36,7 +36,7 @@ Kaşka Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Doğu Anadolu Bölgesi'nde yer alan Van ilinin coğrafi yapısı, Kaşka Tepesi'nin doğal güzelliğini daha da artırıyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve çevresindeki dağlarla birlikte, ziyaretçilerine muhteşem bir manzara sunuyor. Kaşka Tepesi'nin iklimi, Van ilinin genel iklimine benzer şekilde, karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu iklim, Kaşka Tepesi'nin doğal güzelliğini her mevsim farklı bir şekilde ziyaretçilere sunuyor. Çevresindeki flora, çeşitli bitki türleriyle ziyaretçileri karşılarken, fauna da zengin bir çeşitlilik sunuyor.
+Doğu Anadolu Bölgesi'nde yer alan Van ilinin coğrafi yapısı, Kaşka Tepesi'nin doğal güzelliğini daha da artırıyor. Kaşka Tepesi'nin iklimi, Van ilinin genel iklimine benzer şekilde, karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu iklim, Kaşka Tepesi'nin doğal güzelliğini her mevsim farklı bir şekilde ziyaretçilere sunuyor. Çevresindeki flora, çeşitli bitki türleriyle ziyaretçileri karşılarken, fauna da zengin bir çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kaşka Tepesi'ni ziyaret etmek isteyenler, Van iline ulaştıktan sonra, buraya 
 ## İlginç Bilgiler
 
 - Kaşka Tepesi, Van ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alan kaplar.
+
 - Kaşka Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 - Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı bir bölge olarak bilinir.
 - Kaşka Tepesi'ni ziyaret etmek için en iyi mevsim, ilkbahar ve yaz aylarıdır.

@@ -43,7 +43,7 @@ Amasya-Erbaaga-Catalan Sedir milli parkı, ziyaretçilere çeşitli olanaklar su
 ## İlginç Bilgiler
 
 - Amasya-Erbaaga-Catalan Sedir milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir.
-- Park, 140 hektarlık bir alana sahiptir.
+
 - Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş rotaları sunuyor.
 - Park, farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere çeşitli bitki türleri ve hayvanları sunuyor.
 - Parkın ekolojik dengesi, ziyaretçilere bölgenin güzelliğini ve önemini gösteriyor.

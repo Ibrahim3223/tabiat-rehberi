@@ -43,7 +43,7 @@ Zonguldak-Karabuk-Saricicek Uludag Goknari milli parkını ziyaret etmek, doğa 
 ## İlginç Bilgiler
 
 - Milli parkın kuruluş amacı, doğanın korunması ve gelecek nesiller için saklanmasıdır.
-- Park, 140 hektarlık bir alanı kaplıyor.
+
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Parkın coğrafyası, dağlar, ormanlar ve nehirler ile karakterizedir.
 - Ziyaretçiler, parkın sunduğu doğa güzelliklerini keşfedebilir ve çeşitli etkinlikler yapabilir.

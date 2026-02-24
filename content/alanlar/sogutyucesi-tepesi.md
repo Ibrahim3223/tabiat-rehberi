@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","trekking","kamp","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Söğütyücesi Tepesi","caption":"Söğütyücesi Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCty%C3%BCcesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811107","tip":"genel"}]
-description: "Hatay ilinin güzide noktalarından biri olan Söğütyücesi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Söğütyücesi Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34811107"

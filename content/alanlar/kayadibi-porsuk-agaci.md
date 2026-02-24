@@ -43,7 +43,7 @@ Kayadibi Porsuk Ağacı'nı ziyaret etmek, doğa severler ve tarihisevenler içi
 ## İlginç Bilgiler
 
 - Kayadibi Porsuk Ağacı, 1500 yıllık bir geçmişi olan bir ağacıdır.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Kayadibi Porsuk Ağacı, İç Anadolu Bölgesi'nin en önemli doğal varlıklarından biri olarak kabul ediliyor.
 - Bölge, zengin fauna ve florası ile dikkat çekiyor.
 - Kayadibi Porsuk Ağacı, tarihi önemi ile de dikkat çekiyor.

@@ -21,7 +21,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğraf Çekimi","Piknik","Doğa Gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pirlanta_beach_%40_october_2009_01_-_panoramio.jpg/960px-Pirlanta_beach_%40_october_2009_01_-_panoramio.jpg","alt":"Tripolis Büyük Hamam","caption":"Tripolis Büyük Hamam","credit":"Pirlanta beach @ october 2009 01 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tripolis%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739010","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli cenneti, Buldan'da bulunan Tripolis Büyük Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tripolis","Büyük Hamam","Buldan","Denizli","Ege Bölgesi","Yeşil Alan","Doğa","Gezi","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739010"
@@ -37,7 +37,7 @@ Tripolis Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca devam etmiştir
 
 ## Coğrafya
 
-Tripolis Büyük Hamam, Buldan'da bulunan 140 hektarlık bir yeşil alandır. Bu bölge, Ege Bölgesi'nin coğrafyasını temsil etmektedir. Tripolis Büyük Hamam'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, Ege Bölgesi'nin iklimine benzer ve ziyaretçilerine uygun koşullar sunmaktadır. Bu bölge, ziyaretçilerine geniş bir yeşil alan sunuyor. Tripolis Büyük Hamam, coğrafi özellikleri ile ziyaretçilerini büyülemektedir.
+ Bu bölge, Ege Bölgesi'nin coğrafyasını temsil etmektedir. Tripolis Büyük Hamam'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, Ege Bölgesi'nin iklimine benzer ve ziyaretçilerine uygun koşullar sunmaktadır. Bu bölge, ziyaretçilerine geniş bir yeşil alan sunuyor. Tripolis Büyük Hamam, coğrafi özellikleri ile ziyaretçilerini büyülemektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Tripolis Büyük Hamam, ziyaretçilerine kolay ulaşım imkânı sunuyor. Bu bö
 
 ## İlginç Bilgiler
 
-- Tripolis Büyük Hamam, 140 hektarlık bir yeşil alandır.
 - Bu bölge, Ege Bölgesi'nin coğrafyasını temsil etmektedir.
 - Tripolis Büyük Hamam, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Bu bölge, mevsimsel değişimlere göre farklı canlıları barındırmaktadır.

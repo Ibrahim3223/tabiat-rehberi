@@ -49,7 +49,7 @@ Oyuk Tepe, ziyaretçilere geniş bir manzara sunan bir tepe olup, Ege Bölgesi'n
 ## İlginç Bilgiler
 
 - Oyuk Tepe, Ege Bölgesi'nin önemli doğal alanlarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Oyuk Tepe, doğa severler ve yürüyüşçüler için bir cennettir.
 - Bu tepe, Ege Bölgesi'nin iklimini ve coğrafi özelliklerini yansıtan bir alandır.
 - Oyuk Tepe, çeşitli bitkiler ve hayvanlar barındıran bir ekosisteme sahiptir.

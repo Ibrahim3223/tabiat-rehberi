@@ -48,8 +48,6 @@ Delikli Tepe, ziyaretçiler için önemli bir doğal güzellik oluşturuyor. Bu 
 
 ## İlginç Bilgiler
 
-- Delikli Tepe, 140 hektarlık bir alanı kaplıyor
-- Tepe, 200 futbol sahası büyüklüğünde bir alanı temsil ediyor
 - Delikli Tepe, flora ve fauna açısından zengin bir doğal güzellik olarak dikkat çekiyor
 - Tepe, yıl boyunca ziyaret edilebiliyor
 - Delikli Tepe, Kahramanmaraş ilinin önemli bir doğal güzelliklerinden biri

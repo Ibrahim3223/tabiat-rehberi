@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","tepe tırmanışı","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Meşindağı Tepesi","caption":"Meşindağı Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Finda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386552","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan Meşindağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve çeşitli bitki türleriyle zengin fauna sahiptir."
+"
 keywords: ["Meşindağı Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","tepe","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386552"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386552"
 
 # Meşindağı Tepesi
 
-Meşindağı Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe olarak dikkat çekmektedir. Meşindağı Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgeye özgü türleri keşfetme fırsatı sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma ve geleneksel yaşamı deneyimleme olanağı sağlar.
+ Meşindağı Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgeye özgü türleri keşfetme fırsatı sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma ve geleneksel yaşamı deneyimleme olanağı sağlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Meşindağı Tepesi, tarihi geçmişiyle birlikte yüzyıllar boyunca önemli bi
 
 ## Coğrafya
 
-Meşindağı Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alır ve yaklaşık 140 hektarlık bir alanı kapsar. Tepenin yüksekliği ve çevresindeki coğrafi yapı, bölgenin iklimini etkileyen önemli faktörler arasında yer alır. Meşindağı Tepesi, çeşitli bitki türleriyle zengin fauna sahip olup, bu doğal güzellikleri ziyaretçilere sunar. Tepenin eteklerinde yer alan köyler, yerel halkın geleneksel yaşam tarzını yansıtmakta ve ziyaretçilere bu kültürü deneyimleme fırsatı sunmaktadır. Meşindağı Tepesi, coğrafi konumu itibariyle çeşitli hayvan türlerinin yaşam alanı olarak da dikkat çekmektedir. Tepenin etrafındaki akarsular ve göller, bölgenin su kaynaklarını oluşturmakta ve doğal yaşamı desteklemektedir.
+ Tepenin yüksekliği ve çevresindeki coğrafi yapı, bölgenin iklimini etkileyen önemli faktörler arasında yer alır. Meşindağı Tepesi, çeşitli bitki türleriyle zengin fauna sahip olup, bu doğal güzellikleri ziyaretçilere sunar. Tepenin eteklerinde yer alan köyler, yerel halkın geleneksel yaşam tarzını yansıtmakta ve ziyaretçilere bu kültürü deneyimleme fırsatı sunmaktadır. Meşindağı Tepesi, coğrafi konumu itibariyle çeşitli hayvan türlerinin yaşam alanı olarak da dikkat çekmektedir. Tepenin etrafındaki akarsular ve göller, bölgenin su kaynaklarını oluşturmakta ve doğal yaşamı desteklemektedir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Meşindağı Tepesi'ni ziyaret etmek, doğa severler ve macera tutkunları için
 
 ## İlginç Bilgiler
 
-- Meşindağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
 - Tepenin etrafındaki köyler, yerel kültürü deneyimleme fırsatı sunar.
 - Meşindağı Tepesi, çeşitli bitki türleriyle zengin fauna sahip olup, bu doğal güzellikleri ziyaretçilere sunar.
 - Tepenin yüksekliği ve çevresindeki coğrafi yapı, bölgenin iklimini etkileyen önemli faktörler arasında yer alır.

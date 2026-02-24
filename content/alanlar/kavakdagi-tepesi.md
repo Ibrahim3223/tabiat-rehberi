@@ -36,7 +36,7 @@ Kavakdağı Tepesi'nin tarihi geçmişi, Iğdır ilinin tarihi ile yakından ba�
 
 ## Coğrafya
 
-Kavakdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Iğdır ilinin sınırları içerisinde bulunuyor. Bu tepe, coğrafi konumu itibariyle, ziyaretçilerine benzersiz bir doğa güzelliği sunuyor. Kavakdağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi barındırıyor. Tepenin coğrafi yapısı, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin jeolojik özelliklerini keşfetme fırsatı sunuyor. Iğdır'ın iklimi, Kavakdağı Tepesi'nin doğal güzelliğini daha da belirginleştiriyor ve ziyaretçilerine dört mevsim boyunca farklı bir doğa deneyimi sunuyor.
+Kavakdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Iğdır ilinin sınırları içerisinde bulunuyor. Bu tepe, coğrafi konumu itibariyle, ziyaretçilerine benzersiz bir doğa güzelliği sunuyor. Tepenin coğrafi yapısı, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin jeolojik özelliklerini keşfetme fırsatı sunuyor. Iğdır'ın iklimi, Kavakdağı Tepesi'nin doğal güzelliğini daha da belirginleştiriyor ve ziyaretçilerine dört mevsim boyunca farklı bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 

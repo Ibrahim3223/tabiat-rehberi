@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara seyri","fotografcılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Yüzbaşıziyareti Tepesi","caption":"Yüzbaşıziyareti Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCzba%C5%9F%C4%B1ziyareti%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196271","tip":"genel"}]
-description: "Erzurum'un doğal güzelliklerini keşfedin, 140 hektarlık alan yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","Yüzbaşıziyareti Tepesi","doğal güzellik","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32196271"

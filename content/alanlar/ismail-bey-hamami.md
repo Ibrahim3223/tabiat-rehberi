@@ -30,7 +30,7 @@ wikidata_id: "Q131738630"
 
 # İsmail Bey Hamamı
 
-İznik, Bursa'nın tarihi ve kültürel zenginlikleriyle bilinen bir ilçesidir. 140 hektarlık bir alanda yer alan İsmail Bey Hamamı, İznik'in en önemli tarihi ve doğal güzelliklerinden biridir. İsmail Bey Hamamı, tarihi geçmişi ve doğal güzelliği ile birlikte, İznik'in önemli bir turistik merkezi haline gelmiştir. Burada, tarihi yapılar, doğa alanları ve turistik mekanlar bir arada bulunmakta ve ziyaretçilere zengin bir deneyimi sunmaktadır.
+İznik, Bursa'nın tarihi ve kültürel zenginlikleriyle bilinen bir ilçesidir. İsmail Bey Hamamı, tarihi geçmişi ve doğal güzelliği ile birlikte, İznik'in önemli bir turistik merkezi haline gelmiştir. Burada, tarihi yapılar, doğa alanları ve turistik mekanlar bir arada bulunmakta ve ziyaretçilere zengin bir deneyimi sunmaktadır.
 
 ## Tarihçe
 

@@ -50,7 +50,7 @@ Arap Tepe, ziyaretçilerini beklemektedir. Bu tepe, Diyarbakır'ın tarihi ve co
 ## İlginç Bilgiler
 
 - Arap Tepe, Diyarbakır'ın tarihi ve coğrafi güzelliklerini bir araya getiren önemli bir noktadır
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Arap Tepe, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiştir
 - Bu tepe, mevsimsel değişimlere göre farklı güzellikler sunmaktadır
 - Arap Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyondur

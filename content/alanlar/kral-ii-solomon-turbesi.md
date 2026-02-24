@@ -50,7 +50,7 @@ Kral II. Solomon Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz
 ## İlginç Bilgiler
 
 - Kral II. Solomon Türbesi, Karadeniz Bölgesi'nin güzide illerinden biri olan Trabzon'un doğal ve tarihi güzelliklerini bir araya getiriyor.
-- Bu mekan, 140 hektarlık bir yeşil alan sunuyor.
+
 - Kral II. Solomon Türbesi, yüzyıllar boyunca önemli olaylara sahne olmuş.
 - Bu mekan, ziyaretçilerine geniş bir gezi alanı sunuyor.
 - Kral II. Solomon Türbesi, doğa severler ve tarih meraklıları için idealdiğer bir destinasyon.

@@ -50,7 +50,6 @@ Akbaba Türbesi'ni ziyaret etmek, ziyaretçilere hem tarihi bir yolculuk hem de 
 ## İlginç Bilgiler
 
 - Akbaba Türbesi, İstanbul'un en önemli tarihi mekanlarından biridir.
-- Türbe, 140 hektarlık bir alanı kaplar.
 
 - Türbe, İstanbul'un coğrafi çeşitliliğini temsil eder.
 - Akbaba Türbesi, ziyaretçilerine güzel bir manzara sunar.

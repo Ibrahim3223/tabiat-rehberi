@@ -22,7 +22,7 @@ wikidata_id: "Q108227372"
 
 # Kapideresi Toros Sediri 3
 
-Kapideresi Toros Sediri 3 milli parkı, İç Anadolu Bölgesi'nin merkezinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Parkın establishment tarihi bilinmese de, tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor. Milli park, özellikle doğa severler ve çevre dostları için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+ Parkın establishment tarihi bilinmese de, tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor. Milli park, özellikle doğa severler ve çevre dostları için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kapideresi Toros Sediri 3 milli parkını ziyaret etmek, özellikle doğa severl
 
 ## İlginç Bilgiler
 
-- Milli park, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Parkta, özellikle toros sediri gibi bölgeye özgü ağaç türleri ile karşılaşma mümkün.
 - Milli park, aynı zamanda mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Parkın coğrafi konumu, bölgeye özgü iklim koşulları ve toprak yapısı, burada yaşayan canlılar için uygun bir yaşam alanı sağlıyor.

@@ -49,7 +49,7 @@ Seket Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini ve bölgen
 ## İlginç Bilgiler
 
 - Seket Tepesi, Diyarbakır ilinin güneybatısında yer alıyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Tepenin yüksekliği, yüksek bir konumda
 - Seket Tepesi, flora ve fauna açısından önemli bir bölge
 - Bu tepe, yılın her döneminde ziyaret edilebilir

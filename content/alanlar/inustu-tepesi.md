@@ -28,7 +28,7 @@ wikidata_id: "Q34810520"
 
 # İnüstü Tepesi
 
-İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. İnüstü Tepesi, Kayseri ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir ortam sunuyor. İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe. İnüstü Tepesi, Kayseri ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir ortam sunuyor. İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34810520"
 
 ## Coğrafya
 
-İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, kayseri ilinin coğrafi yapısını oluşturan önemli bir parça. İnüstü Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, çeşitli bitki türleri ile kaplı. İnüstü Tepesi, kayseri'nin coğrafi yapısını oluşturan dağlar, ovalar ve platolar ile çevrili. Bu tepe, kayseri'nin iklimini şekillendiren önemli bir faktör. İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda coğrafi yapısı ile de ziyaretçilerini etkiliyor. İnüstü Tepesi, çeşitli mevsimlerde ziyaret edilebiliyor. Bu tepe, ilkbahar ve yaz aylarında yeşilin çeşitli tonlarını sunarken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
+İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, kayseri ilinin coğrafi yapısını oluşturan önemli bir parça. Bu alan, çeşitli bitki türleri ile kaplı. İnüstü Tepesi, kayseri'nin coğrafi yapısını oluşturan dağlar, ovalar ve platolar ile çevrili. Bu tepe, kayseri'nin iklimini şekillendiren önemli bir faktör. İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda coğrafi yapısı ile de ziyaretçilerini etkiliyor. İnüstü Tepesi, çeşitli mevsimlerde ziyaret edilebiliyor. Bu tepe, ilkbahar ve yaz aylarında yeşilin çeşitli tonlarını sunarken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34810520"
 ## İlginç Bilgiler
 
 - İnüstü Tepesi, kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - İnüstü Tepesi, çeşitli bitki türleri ile kaplı
 - Bu tepe, kayseri'nin coğrafi yapısını oluşturan önemli bir parça
 - İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda coğrafi yapısı ile de ziyaretçilerini etkiliyor

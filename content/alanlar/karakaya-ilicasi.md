@@ -20,7 +20,7 @@ aktiviteler: ["piknik yapma","yürüyüş yapma","ilica suyunu kullanma","sağl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg/960px-The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg","alt":"Karakaya Ilıcası","caption":"Karakaya Ilıcası","credit":"The travertines from a distance- the people look like ants! (16124352159)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakaya%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741940","tip":"genel"}]
-description: "Ankara'nın gizli cenneti Karakaya Ilıcası, 140 hektarlık bir alanı kaplayan termal bir kaynak"
+
 keywords: ["Karakaya Ilıcası","Ankara","termal kaynak","İç Anadolu Bölgesi","doğal güzellik","turizm","sağlık turizmi","kaplıca","ılıca"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49741940"
@@ -28,7 +28,7 @@ wikidata_id: "Q49741940"
 
 # Karakaya Ilıcası
 
-Ankara'nın merkezine uzun bir mesafe uzaklıkta bulunan Karakaya Ilıcası, 140 hektarlık bir alanı kaplayan termal bir kaynaktır. Karakaya Ilıcası, sağlık turizminin önemli merkezlerinden biri olarak bilinir. Sıcak su kaynaklarının yanı sıra, çevre düzenlemesi ile ziyaretçilerine keyifli bir deneyim sunar. İlkbahar ve yaz aylarında, ilica çevresindeki flora zenginleşir ve ziyaretçilere renkli bir manzara sunar.
+ Karakaya Ilıcası, sağlık turizminin önemli merkezlerinden biri olarak bilinir. Sıcak su kaynaklarının yanı sıra, çevre düzenlemesi ile ziyaretçilerine keyifli bir deneyim sunar. İlkbahar ve yaz aylarında, ilica çevresindeki flora zenginleşir ve ziyaretçilere renkli bir manzara sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karakaya Ilıcası, yüzyıllar boyunca insanların ziyaret ettiği bir sağlık
 
 ## Coğrafya
 
-Karakaya Ilıcası, İç Anadolu Bölgesi'nde, Ankara ilinin sınırları içerisinde yer almaktadır. İlcanın bulunduğu bölge, coğrafi olarak, yüksek bir konumda ve geniş bir ova üzerindedir. İlcanın suyunun sıcaklığı, yaklaşık 40 derece civarındadır ve bu su, cilt hastalıkları, romatizma ve diğer bazı rahatsızlıkların tedavisinde kullanılır. İlcanın etrafı, yaklaşık 140 hektarlık bir yeşil alan ile çevrilidir ve bu alan, ziyaretçilere, ilica suyunun yanı sıra, piknik alanı, yürüyüş parkurları ve diğer sosyal tesisleri sunar. Karakaya Ilıcası, Ankara'nın merkezine uzun bir mesafe uzaklıkta olup, ulaşım açısından kolay bir konumdadır.
+Karakaya Ilıcası, İç Anadolu Bölgesi'nde, Ankara ilinin sınırları içerisinde yer almaktadır. İlcanın bulunduğu bölge, coğrafi olarak, yüksek bir konumda ve geniş bir ova üzerindedir. İlcanın suyunun sıcaklığı, yaklaşık 40 derece civarındadır ve bu su, cilt hastalıkları, romatizma ve diğer bazı rahatsızlıkların tedavisinde kullanılır. Karakaya Ilıcası, Ankara'nın merkezine uzun bir mesafe uzaklıkta olup, ulaşım açısından kolay bir konumdadır.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Karakaya Ilıcası, ziyaretçilerine, ilica suyunun yanı sıra, çeşitli sosya
 
 - Karakaya Ilıcası, yüzyıllar boyunca insanların ziyaret ettiği bir sağlık merkezi olarak bilinir
 - İlcanın suyunun sıcaklığı, yaklaşık 40 derece civarındadır
-- İlcanın etrafındaki yeşil alan, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Karakaya Ilıcası, sağlık turizminin önemli merkezlerinden biri olarak bilinir
 - İlcanın suyunun şifalı olduğu keşfedilmiştir

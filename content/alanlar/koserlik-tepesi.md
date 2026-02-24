@@ -48,7 +48,6 @@ Köserlik Tepesi'ni ziyaret etmek, doğa ile iç içe bir deneyim sunuyor. Buray
 
 ## İlginç Bilgiler
 
-- Köserlik Tepesi, 140 hektarlık bir alana sahip
 - Tepenin yüksekliği, Akdeniz Bölgesi'nin önemli gözlem noktalarından biri yapıyor
 - Burada, çeşitli bitki türleri ve yaban hayatı bulunuyor
 - Köserlik Tepesi, trekking ve doğa yürüyüşü için ideal bir yer

@@ -50,7 +50,7 @@ wikidata_id: "Q131391402"
 ## İlginç Bilgiler
 
 - İvaz Paşa Türbesi, Manisa'nın tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
-- Türbe, 140 hektarlık bir alanın içinde yer alır.
+
 - İvaz Paşa Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile çevrilidir.
 - Türbe, İvaz Paşa'nın anısına inşa edilmiştir.
 - İvaz Paşa Türbesi, tarihin önemli sayfalarında yer alır.

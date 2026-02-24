@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","trekking","manzara izleme","doğa fotoğrafçılı�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Pendik Tepesi","caption":"Pendik Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pendik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562057","tip":"genel"}]
-description: "Kırklareli'nin doğal güzelliklerinden biri olan Pendik Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Pendik Tepesi","Kırklareli","Marmara Bölgesi","doğa","tepe","gezi","turizm","yayla"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31562057"
@@ -36,7 +36,7 @@ Pendik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Pendik Tepesi, coğrafi olarak Marmara Bölgesi'nin kuzeydoğu kısmında, Kırklareli ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 500 metre yüksekliğe sahip. Tepenin coğrafi yapısı, genellikle ormanlık ve dağlık arazilerden oluşuyor. Pendik Tepesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitkiler mevsimsel olarak değişim gösteriyor. Tepenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılıman ve karasal iklim özelliklerini taşıyor. Bölge, yazları sıcak ve nemli, kışları ise soğuk ve yağışlı geçiyor. Pendik Tepesi, bu coğrafi ve iklimsel koşullar nedeniyle, flora ve fauna açısından zengin bir bölge olarak ortaya çıkıyor.
+Pendik Tepesi, coğrafi olarak Marmara Bölgesi'nin kuzeydoğu kısmında, Kırklareli ilinde yer alıyor. Tepenin coğrafi yapısı, genellikle ormanlık ve dağlık arazilerden oluşuyor. Pendik Tepesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitkiler mevsimsel olarak değişim gösteriyor. Tepenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılıman ve karasal iklim özelliklerini taşıyor. Bölge, yazları sıcak ve nemli, kışları ise soğuk ve yağışlı geçiyor. Pendik Tepesi, bu coğrafi ve iklimsel koşullar nedeniyle, flora ve fauna açısından zengin bir bölge olarak ortaya çıkıyor.
 
 ## Flora ve Fauna
 

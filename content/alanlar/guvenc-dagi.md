@@ -28,7 +28,7 @@ wikidata_id: "Q32139691"
 
 # Güvenç Dağı
 
-Güvenç Dağı, Muğla'nın Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alan kaplayan bir doğa harikasıdır. Bu büyüleyici tepe, 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini güzellikleriyle selamlıyor. Güvenç Dağı, Muğla'nın turizm açısından önemli bir noktasıdır ve her yıl birçok ziyaretçi tarafından keşfediliyor. Doğal güzellikleri, yürüyüş parkurları ve panoramik manzaralarıyla Güvenç Dağı, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir.
+ Güvenç Dağı, Muğla'nın turizm açısından önemli bir noktasıdır ve her yıl birçok ziyaretçi tarafından keşfediliyor. Doğal güzellikleri, yürüyüş parkurları ve panoramik manzaralarıyla Güvenç Dağı, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Güvenç Dağı, ziyaretçilere çeşitli olanaklar sunuyor. Bu tepe, yürüyü�
 ## İlginç Bilgiler
 
 - Güvenç Dağı, Muğla'nın en yüksek noktalarından biri.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Güvenç Dağı, flora ve fauna açısından zengin bir bölge.
 - Bu tepe, ziyaretçilere doğal bir atmosfer sunuyor.
 - Güvenç Dağı, panoramik manzaralar sunuyor.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","kampçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"AYMAÇ_TP","caption":"AYMAÇ_TP","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AYMA%C3%87_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228789","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti AYMAÇ_TP, 140 hektarlık geniş alanında ziyaretçilerini bekliyor."
+"
 keywords: ["İç Anadolu Bölgesi","AYMAÇ_TP","doğa","gezi","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228789"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228789"
 
 # AYMAÇ_TP
 
-AYMAÇ_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. AYMAÇ_TP, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın seslerine kula vermeye davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri için unutulmaz bir deneyim sunuyor.
+ AYMAÇ_TP, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın seslerine kula vermeye davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ AYMAÇ_TP'yi ziyaret etmek, doğayla iç içe olmak isteyenler için bir fırsat
 
 ## İlginç Bilgiler
 
-- AYMAÇ_TP, 140 hektarlık bir alana sahiptir.
 - AYMAÇ_TP, İç Anadolu Bölgesi'nde yer alır.
 - AYMAÇ_TP, zengin bir flora ve faunaya sahiptir.
 - AYMAÇ_TP, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösteren bir gezi alanı sunuyor.

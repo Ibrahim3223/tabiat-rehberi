@@ -30,7 +30,7 @@ Mersin-Anamur-Abanoz Sedir 1 milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Mersin-Anamur-Abanoz Sedir 1 milli parkı, Akdeniz Bölgesi'nde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, Akdeniz iklimi özellikleri gösterir ve ziyaretçilerine uygun koşullar sunar. Parkın yapısı, ziyaretçilerin doğayı keşfetmeleri için uygun bir ortam sağlar. Parkın çevresinde, çeşitli doğal güzellikler ve tarihi yapılar bulunur. Bu milli park, coğrafi olarak önemli bir konumda yer alır ve ziyaretçilerine geniş bir açık alan sunar. Parkın 140 hektarlık alanı, ziyaretçilerin doğayı keşfetmeleri için ideal bir alan sağlar.
+Mersin-Anamur-Abanoz Sedir 1 milli parkı, Akdeniz Bölgesi'nde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, Akdeniz iklimi özellikleri gösterir ve ziyaretçilerine uygun koşullar sunar. Parkın yapısı, ziyaretçilerin doğayı keşfetmeleri için uygun bir ortam sağlar. Parkın çevresinde, çeşitli doğal güzellikler ve tarihi yapılar bulunur. Bu milli park, coğrafi olarak önemli bir konumda yer alır ve ziyaretçilerine geniş bir açık alan sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Anamur-Abanoz Sedir 1 milli parkını ziyaret etmek, doğa severler ve ta
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir
 - Parkın iklimi, Akdeniz iklimi özellikleri gösterir
 - Parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır

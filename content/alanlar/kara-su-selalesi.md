@@ -29,7 +29,7 @@ wikidata_id: "Q96623212"
 
 # Kara su şelalesi
 
-Kara su şelalesi, Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanda yer alır ve ziyaretçilerini doğal güzelliği ile büyüler. 200 futbol sahası büyüklüğünde bir alan kaplayan Kara su şelalesi, bölgenin en önemli turizm merkezlerinden biridir. Şelalenin yüksekliği ve suyu, ziyaretçilere unutulmaz bir deneyim sunar. Kars şehrinin doğal güzellikleri arasında yer alan Kara su şelalesi, yıl boyunca birçok ziyaretçi tarafından ziyaret edilir.
+Kara su şelalesi, Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan bir doğa harikasıdır. Şelalenin yüksekliği ve suyu, ziyaretçilere unutulmaz bir deneyim sunar. Kars şehrinin doğal güzellikleri arasında yer alan Kara su şelalesi, yıl boyunca birçok ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kara su şelalesi, yüzyıllar boyunca bölgenin en önemli doğal güzellikleri
 
 ## Coğrafya
 
-Kara su şelalesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alır. Şelale, bölgenin coğrafi yapısı itibariyle, yüksek dağlar ve vadiler arasında yer alır. Şelalenin suyu, bölgedeki dağlardan kaynaklanır ve şelaleye ulaşır. Kara su şelalesi, yaklaşık 140 hektarlık bir alanda yer alır ve ziyaretçilerini doğal güzelliği ile büyüler. Şelalenin yüksekliği, ziyaretçilere unutulmaz bir manzara sunar. Bölgenin iklimi, şelalenin suyu ve yüksekliği ile yakından ilgilidir. Kara su şelalesi, yıl boyunca ziyaretçilere farklı bir deneyim sunar. İlkbahar ve yaz aylarında, şelalenin suyu daha fazla olur ve ziyaretçilere daha canlı bir görünüm sunar. Sonbahar ve kış aylarında, şelalenin suyu daha az olur ve ziyaretçilere daha sakin bir görünüm sunar. Kara su şelalesi, ziyaretçilerine her mevsim farklı bir deneyim sunar.
+Kara su şelalesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alır. Şelale, bölgenin coğrafi yapısı itibariyle, yüksek dağlar ve vadiler arasında yer alır. Şelalenin suyu, bölgedeki dağlardan kaynaklanır ve şelaleye ulaşır. Şelalenin yüksekliği, ziyaretçilere unutulmaz bir manzara sunar. Bölgenin iklimi, şelalenin suyu ve yüksekliği ile yakından ilgilidir. Kara su şelalesi, yıl boyunca ziyaretçilere farklı bir deneyim sunar. İlkbahar ve yaz aylarında, şelalenin suyu daha fazla olur ve ziyaretçilere daha canlı bir görünüm sunar. Sonbahar ve kış aylarında, şelalenin suyu daha az olur ve ziyaretçilere daha sakin bir görünüm sunar. Kara su şelalesi, ziyaretçilerine her mevsim farklı bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kara su şelalesi, yıl boyunca birçok ziyaretçi tarafından ziyaret edilir. �
 
 ## İlginç Bilgiler
 
-- Kara su şelalesi, yaklaşık 140 hektarlık bir alanda yer alır
 - Şelalenin suyu, bölgedeki dağlardan kaynaklanır
 - Kara su şelalesi, yüzyıllar boyunca bölgenin en önemli doğal güzelliklerinden biri olarak bilinir
 - Şelale, ziyaretçilerine hem doğal güzelliği hem de tarihi ve kültürel önemi ile unutulmaz bir deneyim sunar

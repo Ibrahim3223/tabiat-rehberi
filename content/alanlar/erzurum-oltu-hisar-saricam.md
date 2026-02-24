@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki ve hayvan gözlemi","f
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Erzurum-Oltu-Hisar Saricam","caption":"Erzurum-Oltu-Hisar Saricam","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Oltu-Hisar%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227691","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin en büyük milli parklarından biri olan Erzurum-Oltu-Hisar Saricam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Erzurum","Oltu","Hisar Saricam","Doğu Anadolu Bölgesi","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227691"
@@ -42,7 +42,6 @@ Erzurum-Oltu-Hisar Saricam milli parkını ziyaret etmek, doğa severler ve tari
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Doğu Anadolu Bölgesi'nin en büyük milli parklarından biri
 - Zengin flora ve fauna sunar
 - Tarihi değerleri ve doğal güzelliği ile birlikte, önemli bir turizm merkezidir

@@ -38,7 +38,7 @@ Saray Hamamı'nın tarihi geçmişi, Ünye'nin tarihi ile iç içe geçmiştir. 
 
 ## Coğrafya
 
-Saray Hamamı, Ünye'nin merkezine uzun bir mesafe uzaklıkta yer alır ve Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, geniş kumsalları, berra ve temiz denizi ile ziyaretçilerini cezbeder. Saray Hamamı'nın coğrafi konumu, Ünye'nin coğrafyası ile bağlantılıdır ve bu plaj, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir. Saray Hamamı, yaklaşık 140 hektarlık bir alanda yer alır ve bu genişlikte birçok insanı ağırlayabilecek kapasiteye sahiptir. Bu plaj, Ünye'nin merkezine yakın olmasına rağmen, a güzelliği ve sakinliği ile dikkat çeker. Saray Hamamı, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve birçok insan bu güzel plajda güneşlenmek, denize girme ve doğanın güzelliğini hissetmek için gelir. Saray Hamamı'nın coğrafi konumu, Ünye'nin coğrafyası ile bağlantılıdır ve bu plaj, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir.
+Saray Hamamı, Ünye'nin merkezine uzun bir mesafe uzaklıkta yer alır ve Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, geniş kumsalları, berra ve temiz denizi ile ziyaretçilerini cezbeder. Saray Hamamı'nın coğrafi konumu, Ünye'nin coğrafyası ile bağlantılıdır ve bu plaj, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir. Bu plaj, Ünye'nin merkezine yakın olmasına rağmen, a güzelliği ve sakinliği ile dikkat çeker. Saray Hamamı, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve birçok insan bu güzel plajda güneşlenmek, denize girme ve doğanın güzelliğini hissetmek için gelir. Saray Hamamı'nın coğrafi konumu, Ünye'nin coğrafyası ile bağlantılıdır ve bu plaj, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Saray Hamamı, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve bir�
 ## İlginç Bilgiler
 
 - Saray Hamamı, Ünye'nin en önemli turizm noktalarından biridir.
-- Saray Hamamı, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Saray Hamamı, geniş kumsalları ve berrak denizi ile dikkat çeker.
 - Saray Hamamı, özellikle yaz aylarında tatilcilere ev sahipliği yapar.
 - Saray Hamamı, Ünye'nin merkezine uzun bir mesafe uzaklıkta yer alır.

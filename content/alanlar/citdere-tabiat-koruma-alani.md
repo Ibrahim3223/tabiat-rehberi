@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çiçek izleme","fauna gözlemi","fotograf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Çitdere Tabiat Koruma Alanı","caption":"Çitdere Tabiat Koruma Alanı","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87itdere%20Tabiat%20Koruma%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227065","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık bir yeşil alan"
+
 keywords: ["Çitdere Tabiat Koruma Alanı","İç Anadolu Bölgesi","doğa","çevre","koruma alanı","yeşil alan","fiziksel veriler","hikaye","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227065"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227065"
 
 # Çitdere Tabiat Koruma Alanı
 
- Bu alan, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. İnsanlar, doğanın güzelliğini keşfetme ve dinlenmek için burayı tercih ediyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Doğa severler için bir cennet olan Çitdere Tabiat Koruma Alanı, ziyaretçilerini bekliyor.
+ Bu alan, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. İnsanlar, doğanın güzelliğini keşfetme ve dinlenmek için burayı tercih ediyor. Doğa severler için bir cennet olan Çitdere Tabiat Koruma Alanı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227065"
 
 ## İlginç Bilgiler
 
-- Çitdere Tabiat Koruma Alanı, 140 hektarlık bir yeşil alan
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dolu
 - İlkbahar aylarında, bölgeye özgü çiçekler açıyor
 - Kış aylarında, bölgenin fauna, soğuk hava koşullarına uyum sağlıyor

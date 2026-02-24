@@ -21,7 +21,7 @@ aktiviteler: ["güneşlenmek","denizde yüzmek","su sporları yapmak","doğa yü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"Hamam, Aspat","caption":"Hamam, Aspat","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Aspat","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245840","tip":"genel"}]
-description: "Ege Bölgesi'nin en güzel plajlarından biri olan Hamam, Aspat, 140 hektarlık bir yeşil alan üzerinde kurulmuştur"
+
 keywords: ["Hamam Aspat","Bodrum","Muğla","Ege Bölgesi","plaj","deniz","kumsal","yeşil alan","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245840"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245840"
 
 # Hamam, Aspat
 
-Hamam, Aspat, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Hamam, Aspat Plajı, Bodrum'un en popüler plajlarından biri olarak kabul edilir. Bu plajın güzelliği, berrak denizi, geniş kumsalı ve çevredeki yeşil alanlarıyla dikkat çeker. Ziyaretçiler, plajda güneşlenmek, denizde yüzmek, su sporları yapmak gibi çeşitli etkinlikler yapabilirler.
+Hamam, Aspat, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Hamam, Aspat Plajı, Bodrum'un en popüler plajlarından biri olarak kabul edilir. Bu plajın güzelliği, berrak denizi, geniş kumsalı ve çevredeki yeşil alanlarıyla dikkat çeker. Ziyaretçiler, plajda güneşlenmek, denizde yüzmek, su sporları yapmak gibi çeşitli etkinlikler yapabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam, Aspat Plajı, yüzyıllar boyunca insanların ziyaret ettiği bir yer olm
 
 ## Coğrafya
 
-Hamam, Aspat Plajı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Bodrum'un batı kıyısında, Muğla ilinin sınırları içerisinde yer almaktadır. Plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Plajın çevresi, çam ağaçları ve diğer çeşitli bitkilerle kaplıdır. Denizin suyu, berra ve temizdir. Kumsal, geniş ve kumlu olup, ziyaretçilerin rahatça güneşlenmesine ve denizde yüzmelerine olanak tanır. Hamam, Aspat Plajı, Ege Bölgesi'nin en güzel doğa alanlarından biri olarak kabul edilir.
+Hamam, Aspat Plajı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Bodrum'un batı kıyısında, Muğla ilinin sınırları içerisinde yer almaktadır. Plajın çevresi, çam ağaçları ve diğer çeşitli bitkilerle kaplıdır. Denizin suyu, berra ve temizdir. Kumsal, geniş ve kumlu olup, ziyaretçilerin rahatça güneşlenmesine ve denizde yüzmelerine olanak tanır. Hamam, Aspat Plajı, Ege Bölgesi'nin en güzel doğa alanlarından biri olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Hamam, Aspat Plajı, ziyaretçilerine çeşitli olanaklar sunar. Ziyaretçiler, 
 
 ## İlginç Bilgiler
 
-- Hamam, Aspat Plajı, 140 hektarlık bir yeşil alan üzerinde kurulmuştur
 - Plajın çevresi, çam ağaçları ve diğer çeşitli bitkilerle kaplıdır
 - Denizin suyu, berra ve temizdir
 - Kumsal, geniş ve kumlu olup, ziyaretçilerin rahatça güneşlenmesine ve denizde yüzmelerine olanak tanır

@@ -21,7 +21,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","çevre gez
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Sitti Zeynep Kümbeti","caption":"Sitti Zeynep Kümbeti","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sitti%20Zeynep%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582843","tip":"genel"}]
-description: "Doğu Anadolu'nun tarihi ve doğal güzelliklerini bir arada sunan Sitti Zeynep Kümbeti, 140 hektarlık büyüklüğüyle dikkat çekiyor."
+"
 keywords: ["Sitti Zeynep Kümbeti","Battalgazi","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","gezi","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582843"
@@ -48,8 +48,6 @@ Sitti Zeynep Kümbeti, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu b
 Sitti Zeynep Kümbeti'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek için ideal bir gezi olacaktır. Ziyaretçiler, bu bölgeye ulaşmak için çeşitli ulaşım seçeneklerini kullanabilirler. Sitti Zeynep Kümbeti, Malatya'nın Battalgazi ilçesinde yer aldığı için, ulaşım seçenekleri oldukça çeşitlidir. Ziyaretçilerin, Sitti Zeynep Kümbeti'ni ziyaret etmeden önce, bu bölge hakkında derin bir anlayış kazanmaları önerilir.
 
 ## İlginç Bilgiler
-
-- Sitti Zeynep Kümbeti, 140 hektarlık bir alana kurulmuştur.
 
 - Sitti Zeynep Kümbeti, tarihsel olarak önemli bir geçmişe sahiptir.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye has bir iz bırakmıştır.

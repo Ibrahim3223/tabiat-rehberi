@@ -30,7 +30,7 @@ wikidata_id: "Q123683184"
 
 # Gökkuşağı Merdivenleri
 
-Gökkuşağı Merdivenleri, İstanbul'un Marmara Bölgesi'nde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder. Plajın çevresi, çeşitli ağaçlar ve bitkiler ile süslenmiştir ve ziyaretçilere huzurlu bir ortam sunar. Gökkuşağı Merdivenleri, özellikle yaz aylarında ziyaretçilerini ağırlar ve güneşin ve denizin keyfini çıkarmaya olanak tanır.
+Gökkuşağı Merdivenleri, İstanbul'un Marmara Bölgesi'nde yer alan bir plajdır. Plajın çevresi, çeşitli ağaçlar ve bitkiler ile süslenmiştir ve ziyaretçilere huzurlu bir ortam sunar. Gökkuşağı Merdivenleri, özellikle yaz aylarında ziyaretçilerini ağırlar ve güneşin ve denizin keyfini çıkarmaya olanak tanır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gökkuşağı Merdivenleri'nin tarihi geçmişi, İstanbul'un tarihi ile iç iç
 
 ## Coğrafya
 
-Gökkuşağı Merdivenleri, İstanbul'un Marmara Bölgesi'nde yer alan bir plajdır. Bu plaj, Marmara Denizi'nin kıyısında yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Gökkuşağı Merdivenleri'nin coğrafi konumu, ziyaretçilerine çeşitli avantajlar sağlar. Plaj, geniş kumsalı ile ziyaretçilerini cezbeder ve güneşin ve denizin keyfini çıkarmaya olanak tanır. Gökkuşağı Merdivenleri'nin çevresi, çeşitli ağaçlar ve bitkiler ile süslenmiştir ve ziyaretçilere huzurlu bir ortam sunar. Plaj, özellikle yaz aylarında ziyaretçilerini ağırlar ve güneşin ve denizin keyfini çıkarmaya olanak tanır. Gökkuşağı Merdivenleri, İstanbul'un önemli turizm merkezlerinden biri olarak kabul ediliyor ve ziyaretçilerini bekliyor. Plajın coğrafi konumu, çeşitli haritalar ve kaynaklar ile desteklenmektedir ve ziyaretçiler, plajın coğrafi konumu hakkında detaylı bilgi edinebilirler.
+Gökkuşağı Merdivenleri, İstanbul'un Marmara Bölgesi'nde yer alan bir plajdır. Gökkuşağı Merdivenleri'nin coğrafi konumu, ziyaretçilerine çeşitli avantajlar sağlar. Plaj, geniş kumsalı ile ziyaretçilerini cezbeder ve güneşin ve denizin keyfini çıkarmaya olanak tanır. Gökkuşağı Merdivenleri'nin çevresi, çeşitli ağaçlar ve bitkiler ile süslenmiştir ve ziyaretçilere huzurlu bir ortam sunar. Plaj, özellikle yaz aylarında ziyaretçilerini ağırlar ve güneşin ve denizin keyfini çıkarmaya olanak tanır. Gökkuşağı Merdivenleri, İstanbul'un önemli turizm merkezlerinden biri olarak kabul ediliyor ve ziyaretçilerini bekliyor. Plajın coğrafi konumu, çeşitli haritalar ve kaynaklar ile desteklenmektedir ve ziyaretçiler, plajın coğrafi konumu hakkında detaylı bilgi edinebilirler.
 
 ## Flora ve Fauna
 

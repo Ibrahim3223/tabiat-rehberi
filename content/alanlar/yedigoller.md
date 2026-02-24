@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/TR_Yedig%C3%B6ller_asv2021-10_img02.jpg","alt":"Yedigoller manzarası","credit":"A.Savin","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/TR_Yedig%C3%B6ller_asv2021-10_img16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TR_Yedig%C3%B6ller_asv2021-10_img16.jpg/1280px-TR_Yedig%C3%B6ller_asv2021-10_img16.jpg","alt":"Yedigoller - TR Yedigöller asv2021-10 img16","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Moss_of_Yedig%C3%B6ller_National_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Moss_of_Yedig%C3%B6ller_National_Park.jpg/1280px-Moss_of_Yedig%C3%B6ller_National_Park.jpg","alt":"Yedigoller - Moss of Yedigöller National Park","credit":"Gelisimuniversitesi ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/Yedig%C3%B6ller_Deresi_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Yedig%C3%B6ller_Deresi_2.jpg/1280px-Yedig%C3%B6ller_Deresi_2.jpg","alt":"Yedigoller - Yedigöller Deresi 2","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Yedig%C3%B6ller_Deresi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Yedig%C3%B6ller_Deresi.jpg/1280px-Yedig%C3%B6ller_Deresi.jpg","alt":"Yedigoller - Yedigöller Deresi","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/36/Sonbaharda_Yedig%C3%B6ller_A%C4%9Fa%C3%A7lar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sonbaharda_Yedig%C3%B6ller_A%C4%9Fa%C3%A7lar%C4%B1.jpg/1280px-Sonbaharda_Yedig%C3%B6ller_A%C4%9Fa%C3%A7lar%C4%B1.jpg","alt":"Yedigoller - Sonbaharda Yedigöller Ağaçları","credit":"Hamdigumus","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yedigoller","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227042","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yedigoller, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Yedigoller","İç Anadolu Bölgesi","doğal güzellik","göller","milli park","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227042"
@@ -31,7 +31,7 @@ Yedigoller'in tarihi geçmişi, bölgenin jeolojik oluşumuna dayanmaktadır. Bu
 
 ## Coğrafya
 
-Yedigoller, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bir yüksekli ve vadi sistemi içindedir. Bölge, 140 hektarlık bir alana yayılmış ve göller, ormanlar ve çayırlardan oluşmaktadır. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak iken, kış ayları soğuk ve kar yağışlı geçmektedir. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Yedigoller'in coğrafi konumu, burada çeşitli bitki türlerinin ve zengin fauna çeşitliliğinin oluşmasına olanak sağlamıştır. Bölge, aynı zamanda farklı jeolojik yapılar ve toprak türleri ile de dikkat çekmektedir. Yedigoller'in coğrafyası, ziyaretçilere hem doğal güzellikler hem de bilimsel açıdan ilgi çekici bir ortam sunmaktadır.
+Yedigoller, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bir yüksekli ve vadi sistemi içindedir. İklim, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak iken, kış ayları soğuk ve kar yağışlı geçmektedir. Bahar ve sonbahar mevsimlerinde ise ılıman bir hava hakimdir. Yedigoller'in coğrafi konumu, burada çeşitli bitki türlerinin ve zengin fauna çeşitliliğinin oluşmasına olanak sağlamıştır. Bölge, aynı zamanda farklı jeolojik yapılar ve toprak türleri ile de dikkat çekmektedir. Yedigoller'in coğrafyası, ziyaretçilere hem doğal güzellikler hem de bilimsel açıdan ilgi çekici bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Yedigoller'i ziyaret etmek, doğa severler ve fotoğraf tutkunları için unutul
 
 ## İlginç Bilgiler
 
-- Yedigoller, 140 hektarlık bir alana yayılmıştır.
 - Bölgede, farklı mevsimlerde farklı bitki türleri ve renkler görülebilir.
 - Yedigoller, zengin bir yaban hayatı ve çeşitli kuş türlerine ev sahipliği yapmaktadır.
 - Bölge, jeolojik oluşumu itibariyle önemli bir doğal mirastır.

@@ -36,7 +36,7 @@ Karto Tepesi'nin tarihi geçmişi, Ankara'nın tarihiyle iç içe geçmiş. Bu b
 
 ## Coğrafya
 
-Karto Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ikliminin hakim olduğu bir bölgede yer alıyor. Karto Tepesi'nin çevresi, genellikle bozkır bitkileriyle kaplı. Bu tepe, Ankara'nın şehir merkezine yakınlığıyla dikkat çekiyor. Karto Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. Bu tepe, özellikle gün batımı saatlerinde ziyaret edilebilecek bir nokta. Karto Tepesi'nin etrafı, genellikle tarım arazileriyle çevrilidir. Bu tepe, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Karto Tepesi, ziyaretçilerini şehrin güzellikleriyle baş başa bırakıyor ve onlara unutulmaz anlar yaşatıyor. Karto Tepesi, Ankara'nın turizm potansiyelini artırmaya katkıda bulunuyor.
+Karto Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ikliminin hakim olduğu bir bölgede yer alıyor. Karto Tepesi'nin çevresi, genellikle bozkır bitkileriyle kaplı. Bu tepe, Ankara'nın şehir merkezine yakınlığıyla dikkat çekiyor. Bu tepe, özellikle gün batımı saatlerinde ziyaret edilebilecek bir nokta. Karto Tepesi'nin etrafı, genellikle tarım arazileriyle çevrilidir. Bu tepe, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Karto Tepesi, ziyaretçilerini şehrin güzellikleriyle baş başa bırakıyor ve onlara unutulmaz anlar yaşatıyor. Karto Tepesi, Ankara'nın turizm potansiyelini artırmaya katkıda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Karto Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekiyor. Bu tepe, �
 ## İlginç Bilgiler
 
 - Karto Tepesi, Ankara'nın doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Karto Tepesi, özellikle gün batımı saatlerinde ziyaret edilebilecek bir nokta.
 - Bu tepe, Ankara'nın turizm potansiyelini artırmaya katkıda bulunuyor.
 - Karto Tepesi, ziyaretçilerine geniş bir görüş açısı sunuyor.

@@ -50,7 +50,6 @@ YTÜ Mimarlık Fakültesi Çeşmesi, İstanbulluların yaz tatili için tercih e
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Marmara Bölgesi'nin en güzel plajlarından biri
 - Beşiktaş ilçesinde yer alıyor
 - İstanbulluların yaz tatili için tercih ettiği bir plaj

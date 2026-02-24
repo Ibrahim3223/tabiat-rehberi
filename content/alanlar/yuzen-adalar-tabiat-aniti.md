@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Bing%C3%B6l_Y%C3%BCzen_Adalar.jpg","alt":"Yüzen Adalar Tabiat Anıtı manzarası","credit":"Iskan21","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Y%C3%BCzen_adalar_ve_yolcu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Y%C3%BCzen_adalar_ve_yolcu.jpg/1280px-Y%C3%BCzen_adalar_ve_yolcu.jpg","alt":"Yüzen Adalar Tabiat Anıtı - Yüzen adalar ve yolcu","credit":"Fatih YILMAZ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Y%C3%BCzen_adalar_ve_yolcular.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Y%C3%BCzen_adalar_ve_yolcular.jpg/1280px-Y%C3%BCzen_adalar_ve_yolcular.jpg","alt":"Yüzen Adalar Tabiat Anıtı - Yüzen adalar ve yolcular","credit":"Fatih YILMAZ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Y%C3%BCzen_Ada.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Y%C3%BCzen_Ada.jpg/1280px-Y%C3%BCzen_Ada.jpg","alt":"Yüzen Adalar Tabiat Anıtı - Yüzen Ada","credit":"Alizll0421","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/Y%C3%BCzen_Adalar_-_Bing%C3%B6l.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Y%C3%BCzen_Adalar_-_Bing%C3%B6l.jpg/1280px-Y%C3%BCzen_Adalar_-_Bing%C3%B6l.jpg","alt":"Yüzen Adalar Tabiat Anıtı - Yüzen Adalar - Bingöl","credit":"Adem Said Kocadag","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Y%C3%BCzen_adalar_ve_bulut.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Y%C3%BCzen_adalar_ve_bulut.jpg/1280px-Y%C3%BCzen_adalar_ve_bulut.jpg","alt":"Yüzen Adalar Tabiat Anıtı - Yüzen adalar ve bulut","credit":"Fatih YILMAZ","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCzen%20Adalar%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Doğu Anadolu Bölgesi","Bingöl","Tabiat Anıtı","Yüzen Adalar","Yeşil Alan","Doğa","Gezi"]
 schema_type: "TouristAttraction"
 ---
@@ -42,8 +42,6 @@ Yüzen Adalar Tabiat Anıtı, ziyaretçilerine doğanın güzelliğini keşfetme
 
 ## İlginç Bilgiler
 
-- Yüzen Adalar Tabiat Anıtı, 140 hektarlık bir alanı kapsıyor
-- Bu tabiat anıtı, yaklaşık 200 futbol sahası büyüklüğünde
 - Yüzen Adalar Tabiat Anıtı, doğa severlerin gözdesi
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu
 - Yüzen Adalar Tabiat Anıtı, doğanın güzelliğini keşfetme fırsatı sunuyor

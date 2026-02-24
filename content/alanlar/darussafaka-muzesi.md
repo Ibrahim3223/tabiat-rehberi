@@ -50,7 +50,7 @@ Darüşşafaka Müzesi'ni ziyaret etmek için, ziyaretçiler İstanbul'un tarihi
 ## İlginç Bilgiler
 
 - Darüşşafaka Müzesi, İstanbul'un tarihi mekanlarından biri.
-- Müzenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan.
+
 - Müze, tarihi ve kültürle ilgili eserlere ev sahipliği yapıyor.
 - Ziyaretçiler, müzenin sunduğu deneyimle, hem doğayı hem de tarihin zenginliğini keşfedebilirler.
 - Müzenin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar bulunuyor.

@@ -14,7 +14,7 @@ aktiviteler: ["trekking","kamp","doğa yürüyüşü","rehberli turlar"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Kastamonu-Daday-Camlibel-Karacam","caption":"Kastamonu-Daday-Camlibel-Karacam","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Camlibel-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227681","tip":"genel"}]
-description: "Kastamonu'nun doğal güzellikleri arasında yer alan milli park, 140 hektarlık alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Kastamonu","milli park","doğa","gezi","turizm","Karadeniz","Kastamonu-Daday-Camlibel-Karacam","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227681"
@@ -30,11 +30,11 @@ Kastamonu-Daday-Camlibel-Karacam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Kastamonu-Daday-Camlibel-Karacam milli parkı, Karadeniz Bölgesi'nin kuzeyinde yer alan Kastamonu ilinde bulunmaktadır. Parkın coğrafi konumu, ziyaretçilere farklı bir deneyim sunuyor. 140 hektarlık alanı, çeşitli bitki türleri ve yaban hayatının zenginliği ile dolu. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Yağışların fazla olduğu ve nemli bir iklimin hakim olduğu bu bölgede, ziyaretçiler, her mevsim farklı güzelliği ile karşılaşabiliyor. Parkın coğrafi yapısı, ziyaretçilere trekking, kamp ve doğa yürüyüşü gibi aktiviteler için uygun bir ortam sunuyor. Ayrıca, parkın yakınında bulunan köyler ve kasabalar, ziyaretçilere bölgenin kültürel zenginliği hakkında bilgi sahibi olma fırsatı sunuyor. Milli parkın coğrafi konumu ve doğal güzellikleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Kastamonu-Daday-Camlibel-Karacam milli parkı, Karadeniz Bölgesi'nin kuzeyinde yer alan Kastamonu ilinde bulunmaktadır. Parkın coğrafi konumu, ziyaretçilere farklı bir deneyim sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Yağışların fazla olduğu ve nemli bir iklimin hakim olduğu bu bölgede, ziyaretçiler, her mevsim farklı güzelliği ile karşılaşabiliyor. Parkın coğrafi yapısı, ziyaretçilere trekking, kamp ve doğa yürüyüşü gibi aktiviteler için uygun bir ortam sunuyor. Ayrıca, parkın yakınında bulunan köyler ve kasabalar, ziyaretçilere bölgenin kültürel zenginliği hakkında bilgi sahibi olma fırsatı sunuyor. Milli parkın coğrafi konumu ve doğal güzellikleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
-Kastamonu-Daday-Camlibel-Karacam milli parkı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Parkın 140 hektarlık alanı, çeşitli bitki türleri ile dolu. Mevsimsel değişimler, parkın güzelliğini artırıyor. Bahar aylarında, parkın flora çeşitliliği, ziyaretçilere renkli bir manzara sunuyor. Yaz aylarında, parkın fauna çeşitliliği, ziyaretçilere farklı bir deneyim sunuyor. Kış aylarında, parkın karla kaplı olması, ziyaretçilere bir masal diyarı gibi görünüyor. Parkın ekosistemi, ziyaretçilere doğanın güzelliğini gösteriyor. Çeşitli hayvan türleri, parkın fauna çeşitliliğini artırıyor. Ziyaretçiler, parkın flora ve fauna çeşitliliği hakkında bilgi sahibi olmak için, rehberli turlara katılabilir veya parkın bilgi merkezlerini ziyaret edebilir.
+Kastamonu-Daday-Camlibel-Karacam milli parkı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Mevsimsel değişimler, parkın güzelliğini artırıyor. Bahar aylarında, parkın flora çeşitliliği, ziyaretçilere renkli bir manzara sunuyor. Yaz aylarında, parkın fauna çeşitliliği, ziyaretçilere farklı bir deneyim sunuyor. Kış aylarında, parkın karla kaplı olması, ziyaretçilere bir masal diyarı gibi görünüyor. Parkın ekosistemi, ziyaretçilere doğanın güzelliğini gösteriyor. Çeşitli hayvan türleri, parkın fauna çeşitliliğini artırıyor. Ziyaretçiler, parkın flora ve fauna çeşitliliği hakkında bilgi sahibi olmak için, rehberli turlara katılabilir veya parkın bilgi merkezlerini ziyaret edebilir.
 
 ## Ziyaret Bilgileri
 

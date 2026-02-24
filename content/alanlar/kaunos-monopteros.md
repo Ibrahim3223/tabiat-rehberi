@@ -50,7 +50,6 @@ Kaunos Monopteros'u ziyaret etmek, ziyaretçilere unutulmaz anlar yaşatır. Bu 
 
 ## İlginç Bilgiler
 
-- Kaunos Monopteros, 140 hektarlık bir alana yayılmıştır
 - Kaunos Monopteros, Ege Bölgesi'nin en güzel noktalarından biridir
 - Kaunos Monopteros, tarihi ve doğal güzellikleri bir araya getiren özel bir plajdır
 - Kaunos Monopteros, ziyaretçilerine hem tarihi hem de doğal güzellikleri birlikte deneyimleme fırsatı sunar

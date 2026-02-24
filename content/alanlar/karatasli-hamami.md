@@ -50,7 +50,7 @@ Karataşlı Hamamı, ziyaretçilerine birçok imkan sunar. Buraya ulaşım, gene
 ## İlginç Bilgiler
 
 - Karadeniz Bölgesi'nin en güzel plajlarından biri
-- 140 hektarlık geniş kumsal
+
 - Zengin fauna ve flora çeşitliliği
 - Tarihi geçmişi
 - Kültürel zenginliği

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Bart%C4%B1n_5.JPG","alt":"Bartın manzarası","credit":"Vikiçizer","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bart%C4%B1n_5.JPG/960px-Bart%C4%B1n_5.JPG","alt":"Bartın","caption":"Bartın","credit":"Bartın 5","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Bart%C4%B1n_6.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bart%C4%B1n_6.JPG/1280px-Bart%C4%B1n_6.JPG","alt":"Bartın - Bartın 6","credit":"Vikiçizer","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Bart%C4%B1n_24.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bart%C4%B1n_24.JPG/1280px-Bart%C4%B1n_24.JPG","alt":"Bartın - Bartın 24","credit":"Vikiçizer","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/03/Bart%C4%B1n_38.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bart%C4%B1n_38.JPG/1280px-Bart%C4%B1n_38.JPG","alt":"Bartın - Bartın 38","credit":"Vikiçizer","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Bart%C4%B1n_45.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bart%C4%B1n_45.JPG/1280px-Bart%C4%B1n_45.JPG","alt":"Bartın - Bartın 45","credit":"Vikiçizer","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Bart%C4%B1n_57.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bart%C4%B1n_57.JPG/1280px-Bart%C4%B1n_57.JPG","alt":"Bartın - Bartın 57","credit":"Vikiçizer","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bart%C4%B1n","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228689","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden biri olan Bartın, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
@@ -23,7 +23,7 @@ wikidata_id: "Q108228689"
 
 # Bartın
 
-Bartın milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini karşılamaktadır. Parkın girişinde, ziyaretçileri Karadeniz Bölgesi'nin kendine özgü florası karşılar. Bu bölgede, çeşitli ağaç türleri ve bitki örtüsünün zenginliği, ziyaretçilerin dikkatini çeker. Bartın milli parkı, sadece doğa güzelliği ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekmektedir. Bu bölgede, yüzyıllar boyunca farklı uygarlıkların izlerini görme mümkün.
+ Parkın girişinde, ziyaretçileri Karadeniz Bölgesi'nin kendine özgü florası karşılar. Bu bölgede, çeşitli ağaç türleri ve bitki örtüsünün zenginliği, ziyaretçilerin dikkatini çeker. Bartın milli parkı, sadece doğa güzelliği ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekmektedir. Bu bölgede, yüzyıllar boyunca farklı uygarlıkların izlerini görme mümkün.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bartın milli parkının tarihi geçmişi, rt eskilere dayanmaktadır. Bu bölge
 
 ## Coğrafya
 
-Bartın milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölgede, dağlar, ormanlar ve nehirler bulunmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir ortamda bulunmasına olanak sağlar. Bartın milli parkı, yaklaşık 140 hektarlık alanı ile, ziyaretçilerin keyifle dolaşabileceği bir ortam sunar. Bu geniş yeşil alan, çeşitli bitki türleri ve hayvanlar ile dolu olup, ziyaretçilerin doğa güzelliğini keşfetmesine olanak sağlar. Parkın içinde, birçok nehir ve dere bulunmaktadır. Bu nehirler, parkın güzelliğini artırmakta ve ziyaretçilerin keyifli bir gezi yapmasına olanak sağlamaktadır.
+Bartın milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölgede, dağlar, ormanlar ve nehirler bulunmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir ortamda bulunmasına olanak sağlar. Bu geniş yeşil alan, çeşitli bitki türleri ve hayvanlar ile dolu olup, ziyaretçilerin doğa güzelliğini keşfetmesine olanak sağlar. Parkın içinde, birçok nehir ve dere bulunmaktadır. Bu nehirler, parkın güzelliğini artırmakta ve ziyaretçilerin keyifli bir gezi yapmasına olanak sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Bartın milli parkını ziyaret etmek, doğa severler için bir hayal gibi geleb
 
 ## İlginç Bilgiler
 
-- Bartın milli parkı, yaklaşık 140 hektarlık alanı ile, ziyaretçilerin keyifle dolaşabileceği bir ortam sunar.
 - Parkın girişinde, ziyaretçileri Karadeniz Bölgesi'nin kendine özgü florası karşılar.
 - Bartın milli parkı, tarihi geçmişi ile de dikkat çekmektedir.
 - Parkın içinde, birçok nehir ve dere bulunmaktadır.

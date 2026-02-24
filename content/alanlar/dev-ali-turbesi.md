@@ -38,7 +38,7 @@ Dev Ali Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Dev Ali Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Develi ilçesinde yer almaktadır. Bu mekan, 140 hektarlık bir alanı kaplamaktadır. Dev Ali Türbesi, Develi'nin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mekan, doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Dev Ali Türbesi, ziyaretçilerine hem tarihi bir yolculuk hem de doğal bir ortam sunmaktadır. Bu mekan, coğrafi konumu itibariyle, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Dev Ali Türbesi, ziyaretçilerini bekleyen bir destinasyon.
+Dev Ali Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Develi ilçesinde yer almaktadır. Dev Ali Türbesi, Develi'nin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mekan, doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Dev Ali Türbesi, ziyaretçilerine hem tarihi bir yolculuk hem de doğal bir ortam sunmaktadır. Bu mekan, coğrafi konumu itibariyle, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Dev Ali Türbesi, ziyaretçilerini bekleyen bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Dev Ali Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyim olacaktır. 
 
 ## İlginç Bilgiler
 
-- Dev Ali Türbesi, 140 hektarlık bir alanı kaplamaktadır.
 - Bu mekan, Develi'nin merkezine uzun bir mesafe uzaklıkta yer almaktadır.
 - Dev Ali Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu mekan, ekolojik açıdan önemli bir bölge olarak kabul edilmektedir.

@@ -49,7 +49,6 @@ Ankara Frig Tümülüsü 8, Emniyet'i ziyaret etmek, ziyaretçiler için keyifli
 
 ## İlginç Bilgiler
 
-- Ankara Frig Tümülüsü 8, Emniyet, yaklaşık 140 hektarlık bir alanı kapsar.
 - Bu alan, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Ziyaretçiler, bu alanda, mevsimsel değişimlere göre farklı bir güzelli ile karşılaşabilirler.

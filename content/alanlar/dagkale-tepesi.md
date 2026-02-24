@@ -28,7 +28,7 @@ wikidata_id: "Q31389049"
 
 # Dağkale Tepesi
 
-Dağkale Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafyasıdır. Erzurum ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık alanı kaplamaktadır. Dağkale Tepesi, bölgenin en önemli doğal güzelliklerinden biridir. Tepenin eteklerinde yer alan köyler, ziyaretçilere sıcak bir şekildelemektedir. Dağkale Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir.
+Dağkale Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafyasıdır. Dağkale Tepesi, bölgenin en önemli doğal güzelliklerinden biridir. Tepenin eteklerinde yer alan köyler, ziyaretçilere sıcak bir şekildelemektedir. Dağkale Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Dağkale Tepesi'ni ziyaret etmek, doğa severlerin ve tarih meraklılarının il
 
 ## İlginç Bilgiler
 
-- Dağkale Tepesi, yaklaşık 140 hektarlık alanı kaplamaktadır.
 - Tepenin zirvesinden, bölgenin diğer tepeleri ve vadileri görülebilmektedir.
 - Dağkale Tepesi, bölgenin en önemli coğrafyasıdır.
 - Tepenin flora ve faunası, mevsimsel değişimlere göre şekillenmektedir.

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","piknik","flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Isparta-Bucak Kızılçam","caption":"Isparta-Bucak Kızılçam","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227417","tip":"genel"}]
-description: "Isparta ilinin doğal güzelliklerini keşfedin, 140 hektarlık alanıyla Isparta-Bucak Kızılçam"
+
 keywords: ["Isparta","Bucak","Kızılçam","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227417"
@@ -42,7 +42,6 @@ Isparta-Bucak Kızılçam milli parkına ziyaretçiler, yılın her döneminde g
 
 ## İlginç Bilgiler
 
-- Isparta-Bucak Kızılçam, 140 hektarlık bir alanı kaplar
 - Milli park, kızılçam ağaçları ile meşhurdur
 - Isparta-Bucak Kızılçam, çeşitli bitki ve hayvan türlerine ev sahipliği yapar
 - Milli park, doğa severlerin ve biyologların araştırma ve gözlem için ideal bir yerdir

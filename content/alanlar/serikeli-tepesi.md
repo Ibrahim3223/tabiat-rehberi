@@ -28,7 +28,7 @@ wikidata_id: "Q31545038"
 
 # Serikeli Tepesi
 
-Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Batman ilinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Doğa severler ve gezi tutkunları için ideal bir destinasyon olan Serikeli Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için mükemmel bir seçim.
+Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Doğa severler ve gezi tutkunları için ideal bir destinasyon olan Serikeli Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için mükemmel bir seçim.
 
 ## Tarihçe
 
@@ -47,8 +47,6 @@ Serikeli Tepesi, zengin bir flora ve fauna ile dikkat çekiyor. Bu tepe, çeşit
 Serikeli Tepesi, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu tepeye gitmek için, Batman iline ulaşmak gerekiyor. Batman'a ulaştıktan sonra, çeşitli ulaşım araçları ile Serikeli Tepesi'ne ulaşılabilir. Bu tepe, gezi tutkunları ve doğa severler için ideal bir destinasyon. Ziyaretçiler, bu tepeye çıkarak, bölgenin doğal güzelliklerini keşfedebilir. Ayrıca, bu tepe, trekking ve yürüyüş için de ideal bir alan sunuyor. Ziyaretçiler, bu tepeyi ziyaret ederek, bölgenin güzelliklerini keşfedebilir.
 
 ## İlginç Bilgiler
-
-- Serikeli Tepesi, 140 hektarlık bir alanı kaplar.
 
 - Serikeli Tepesi, çeşitli bitki türleri ile kaplı bir alandır.
 - Bu tepe, zengin bir fauna ile dikkat çekiyor.

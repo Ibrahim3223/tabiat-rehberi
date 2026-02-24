@@ -50,7 +50,7 @@ Abdal Musa Tekkesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keş
 ## İlginç Bilgiler
 
 - Tarihi geçmişi yüzyıllar öncesine uzanır
-- 140 hektarlık bir alanı kapsar
+
 - Akdeniz Bölgesi'nin önemli kültürel merkezlerinden biri
 - Zengin flora ve fauna sunar
 - Elmalı merkezine yakındır

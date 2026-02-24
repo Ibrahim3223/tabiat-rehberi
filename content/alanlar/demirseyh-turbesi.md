@@ -50,7 +50,7 @@ Demirşeyh Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin doğal güzellikler
 ## İlginç Bilgiler
 
 - Demirşeyh Türbesi, Karadeniz Bölgesi'nin önemli tarihi merkezlerinden biri olarak kabul edilir
-- Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur
+
 - Demirşeyh Türbesi, Karadeniz Bölgesi'nin flora ve fauna açısından önemli bir noktasında yer almaktadır
 - Ziyaretçiler, Demirşeyh Türbesi'ni ziyaret ederek, hem doğal güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler
 - Demirşeyh Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir

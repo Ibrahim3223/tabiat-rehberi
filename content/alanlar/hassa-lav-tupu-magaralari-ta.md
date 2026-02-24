@@ -14,7 +14,7 @@ aktiviteler: ["mağara gezi","doğa yürüyüşü","jeoloji incelemesi","fotogra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"HASSA LAV TÜPÜ MAĞARALARI TA","caption":"HASSA LAV TÜPÜ MAĞARALARI TA","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HASSA%20LAV%20T%C3%9CP%C3%9C%20MA%C4%9EARALARI%20TA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228993","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli hazinevi, 140 hektarlık alanıyla büyüleyici bir doğa deneyimi sunar."
+"
 keywords: ["Hassa Lav Tüpü Mağaraları","İç Anadolu Bölgesi","doğa","mağara","lav tüpü","gezi","turizm","macera"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228993"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228993"
 
 # HASSA LAV TÜPÜ MAĞARALARI TA
 
-Hassa Lav Tüpü Mağaraları TA, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alana sahiptir. Mağaraların oluşumu, binlerce yıl önce volkanik faaliyetler sonucu lav tüpü oluşumlarından kaynaklanır. Bu oluşumlar, zamanla çeşitli jeolojik süreçlerle şekillenerek günümüzdeki mağara sistemini oluşturmuşlardır. Mağaraların içinde, birbirinden farklı oluşumlar ve jeolojik yapılar bulunur. Bunlar, hem doğa bilimcilerin hem de gezi severlerin ilgisini çeker.
+ Mağaraların oluşumu, binlerce yıl önce volkanik faaliyetler sonucu lav tüpü oluşumlarından kaynaklanır. Bu oluşumlar, zamanla çeşitli jeolojik süreçlerle şekillenerek günümüzdeki mağara sistemini oluşturmuşlardır. Mağaraların içinde, birbirinden farklı oluşumlar ve jeolojik yapılar bulunur. Bunlar, hem doğa bilimcilerin hem de gezi severlerin ilgisini çeker.
 
 ## Tarihçe
 

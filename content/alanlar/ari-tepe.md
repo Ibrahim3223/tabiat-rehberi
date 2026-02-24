@@ -29,7 +29,7 @@ wikidata_id: "Q31386377"
 
 # Arı Tepe
 
-Kilis'in zengin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Arı Tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Arı Tepe, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Tarihi geçmişi, bölgenin önemli bir kültür merkezi olduğunu gösteriyor.
+ Arı Tepe, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Tarihi geçmişi, bölgenin önemli bir kültür merkezi olduğunu gösteriyor.
 
 ## Tarihçe
 

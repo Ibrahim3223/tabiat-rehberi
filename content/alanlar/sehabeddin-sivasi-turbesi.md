@@ -30,7 +30,7 @@ wikidata_id: "Q131391558"
 
 # Şehabeddin Sivasi Türbesi
 
-Şehabeddin Sivasi Türbesi, İzmir'in Selçuk ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor ve çevresindeki yeşilli ile gökyüzünün mavi tonları arasında harika bir uyum sergiliyor. 200 futbol sahası büyüklüğünde bir alana sahip olan bu bölge, ziyaretçilerini hem tarihi hem de doğal güzelliklerle buluşturuyor. Şehabeddin Sivasi Türbesi, özellikle tarih ve doğa severlerin ilgisini çekmekte ve ziyaretçilerine özel anlar yaşatmakta.
+Şehabeddin Sivasi Türbesi, İzmir'in Selçuk ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Şehabeddin Sivasi Türbesi, özellikle tarih ve doğa severlerin ilgisini çekmekte ve ziyaretçilerine özel anlar yaşatmakta.
 
 ## Tarihçe
 

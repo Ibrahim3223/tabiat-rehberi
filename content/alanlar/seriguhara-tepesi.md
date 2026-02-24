@@ -49,7 +49,7 @@ Seriguhara Tepesi, ziyaretçiler için önemli bir destinasyon. Ziyaretçiler, b
 ## İlginç Bilgiler
 
 - Seriguhara Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir arada sunuyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Seriguhara Tepesi, flora ve fauna çeşitliliğinin zengin olduğu bir bölge.
 - Ziyaretçiler, bu tepede doğa yürüyüşü yapabilir, tarihi kalıntıları inceleyebilir ve bölgenin kültürel zenginliklerini keşfedebilir.
 - Bu tepe, Mardin'in coğrafi yapısını ve iklimini yansıtan önemli bir bölge.

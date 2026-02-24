@@ -37,7 +37,7 @@ Ahmet Karahisari Türbesi, yüzyıllar boyunca önemli bir dini ve kültürel me
 
 ## Coğrafya
 
-Ahmet Karahisari Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor. Türbenin etrafında bulunan coğrafi yapı, ziyaretçilere doğal güzellikler sunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuş ve ziyaretçilere geniş bir açık alan sunuyor. Ayrıca, türbenin yakınında bulunan dağlar ve ormanlar, ziyaretçilere doğayı seyretme imkanı sunuyor. Coğrafi konumu itibariyle, Ahmet Karahisari Türbesi, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunuyor. Türbenin bulunduğu il, Afyonkarahisar, Ege Bölgesi'nin önemli şehirlerinden biri olarak biliniyor. Bu bölge, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekiyor.
+Ahmet Karahisari Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor. Türbenin etrafında bulunan coğrafi yapı, ziyaretçilere doğal güzellikler sunuyor. Ayrıca, türbenin yakınında bulunan dağlar ve ormanlar, ziyaretçilere doğayı seyretme imkanı sunuyor. Coğrafi konumu itibariyle, Ahmet Karahisari Türbesi, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunuyor. Türbenin bulunduğu il, Afyonkarahisar, Ege Bölgesi'nin önemli şehirlerinden biri olarak biliniyor. Bu bölge, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekiyor.
 
 ## Flora ve Fauna
 

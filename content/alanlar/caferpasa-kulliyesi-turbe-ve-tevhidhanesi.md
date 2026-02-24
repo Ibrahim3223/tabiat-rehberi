@@ -29,7 +29,7 @@ wikidata_id: "Q131391044"
 
 # Caferpaşa Külliyesi Türbe ve Tevhidhanesi
 
-Caferpaşa Külliyesi Türbe ve Tevhidhanesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir külliye. Bu külliye, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve İstanbul'un kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir tarihi ve kültürel deneyimi sunuyor. Caferpaşa Külliyesi Türbe ve Tevhidhanesi, İstanbul'un tarihi dokusunu koruma ve gelecek nesillere aktarmak amacıyla restore edilmiş ve günümüzde önemli bir turistik merkez olarak hizmet veriyor.
+Caferpaşa Külliyesi Türbe ve Tevhidhanesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir külliye. Caferpaşa Külliyesi Türbe ve Tevhidhanesi, İstanbul'un tarihi dokusunu koruma ve gelecek nesillere aktarmak amacıyla restore edilmiş ve günümüzde önemli bir turistik merkez olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Caferpaşa Külliyesi Türbe ve Tevhidhanesi'ni ziyaret etmek, İstanbul'un tari
 ## İlginç Bilgiler
 
 - Caferpaşa Külliyesi Türbe ve Tevhidhanesi, İstanbul'un en önemli kültürel miraslarından biri
-- Külliye, 140 hektarlık bir alan üzerinde kurulmuş
+
 - Caferpaşa Külliyesi Türbe ve Tevhidhanesi, restore edilmiş ve günümüzde önemli bir turistik merkez olarak hizmet veriyor
 - Külliyenin tarihi geçmişi, İstanbul'un farklı dönemlerinde yaşayanin kültürel ve dini yaşantısını yansıtan önemli bir kaynak
 - Caferpaşa Külliyesi Türbe ve Tevhidhanesi, yılın her döneminde ziyaret edilebilir

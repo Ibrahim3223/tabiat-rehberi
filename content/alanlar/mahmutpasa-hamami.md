@@ -50,7 +50,7 @@ Mahmutpaşa Hamamı, İstanbul'un tarihi ve kültürel mirasını keşfetmek ist
 ## İlginç Bilgiler
 
 - Mahmutpaşa Hamamı, 15. yüzyılın başlarında inşa edilmiştir.
-- Hamam, 140 hektarlık bir alan üzerinde yer alır.
+
 - Hamamın bulunduğu alan, tarihi ve kültürel öneme sahiptir.
 - Hamam, Marmara Bölgesi'nin önemli bir kültürel varlığı olarak kabul edilir.
 - Hamamın flora ve fauna, birçok önemli bitki ve hayvan türünü içerir.

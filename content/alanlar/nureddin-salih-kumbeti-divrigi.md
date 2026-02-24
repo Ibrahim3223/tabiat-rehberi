@@ -50,7 +50,7 @@ Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinde yer alan bir yapıdır. B
 ## İlginç Bilgiler
 
 - Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinde yer alan bir yapıdır.
-- 140 hektarlık bir arazide kurulmuştur.
+
 - İç Anadolu Bölgesi'nin kültürel mirasını yansıtmaktadır.
 - Yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır.
 - Restorasyon çalışmaları ile korunmuştur.

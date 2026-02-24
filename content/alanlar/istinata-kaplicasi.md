@@ -49,7 +49,6 @@ wikidata_id: "Q49742036"
 
 ## İlginç Bilgiler
 
-- İstınata Kaplıcası, yaklaşık 140 hektarlık bir alanı kaplar
 - Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır
 - İstınata Kaplıcası, Türk sağlık turizminin önemli merkezlerinden biridir
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir

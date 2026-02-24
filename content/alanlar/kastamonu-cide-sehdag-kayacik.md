@@ -22,7 +22,7 @@ wikidata_id: "Q108227713"
 
 # Kastamonu-Cide-Sehdag Kayacik
 
-Kastamonu ilinin doğal güzellikleri arasında yer alan Kastamonu-Cide-Sehdag Kayacik milli parkı, 140 hektarlık bir alan üzerinde kurulmuştur. Milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Kastamonu ilinin Cide ilçesinde bulunan milli park, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır. Milli parkın içerisinde, çeşitli doğa güzellikleri ve yürüyüş parkurları bulunmaktadır. Ziyaretçiler, milli parkın içerisinde doğa yürüyüşleri yapabilir, piknik yapabilir veya simply doğayı seyrederek dinlenebilir.
+ Milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Kastamonu ilinin Cide ilçesinde bulunan milli park, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır. Milli parkın içerisinde, çeşitli doğa güzellikleri ve yürüyüş parkurları bulunmaktadır. Ziyaretçiler, milli parkın içerisinde doğa yürüyüşleri yapabilir, piknik yapabilir veya simply doğayı seyrederek dinlenebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Cide-Sehdag Kayacik milli parkının tarihi geçmişi, yüzyıllar ön
 
 ## Coğrafya
 
-Kastamonu-Cide-Sehdag Kayacik milli parkı, Karadeniz Bölgesi'nin kuzeyinde, Kastamonu ilinin Cide ilçesinde bulunmaktadır. Milli park, 140 hektarlık bir alan üzerinde kurulmuştur. Milli parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. Milli parkın içerisinde, ormanlar, çayır ve meralar bulunmaktadır. Milli parkın iklimi, Karadeniz ikliminin característicasını taşımaktadır. Milli parkın yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunmaktadır. Milli parkın içerisinde, çeşitli doğa güzellikleri ve yürüyüş parkurları bulunmaktadır. Milli park, Kastamonu ilinin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
+Kastamonu-Cide-Sehdag Kayacik milli parkı, Karadeniz Bölgesi'nin kuzeyinde, Kastamonu ilinin Cide ilçesinde bulunmaktadır. Milli parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. Milli parkın içerisinde, ormanlar, çayır ve meralar bulunmaktadır. Milli parkın iklimi, Karadeniz ikliminin característicasını taşımaktadır. Milli parkın yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunmaktadır. Milli parkın içerisinde, çeşitli doğa güzellikleri ve yürüyüş parkurları bulunmaktadır. Milli park, Kastamonu ilinin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

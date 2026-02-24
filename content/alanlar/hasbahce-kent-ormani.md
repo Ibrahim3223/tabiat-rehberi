@@ -14,8 +14,8 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"HASBAHCE KENT ORMANI","caption":"HASBAHCE KENT ORMANI","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HASBAHCE%20KENT%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228611","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Hasbahçe Kent Ormanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
-keywords: ["Hasbahçe Kent Ormanı","İç Anadolu Bölgesi","doğa harikası","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228611"
 ---
@@ -42,8 +42,6 @@ Hasbahçe Kent Ormanı, ziyaretçilere çeşitli aktivite olanakları sunar. Ziy
 
 ## İlginç Bilgiler
 
-- Hasbahçe Kent Ormanı, 140 hektarlık bir alanı kaplar
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır
 - Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir peyzaj içerir
 - Orman, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar
 - Hasbahçe Kent Ormanı, ziyaretçilerin doğanın güzelliğine şahit olmak için ideal bir yerdir

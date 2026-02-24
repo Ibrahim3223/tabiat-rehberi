@@ -29,7 +29,7 @@ wikidata_id: "Q134728366"
 
 # Bin Tepeler Tümülüsü 9
 
-Bin Tepeler Tümülüsü 9, Ege Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Salihli, Manisa'da bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bin Tepeler Tümülüsü 9, hem doğa severler hem de tarih meraklıları için bir hazine. Bu bölgede, yüzyıllar boyunca oluşan doğal ve kültürel miras, ziyaretçilere benzersiz bir deneyim sunuyor.
+Bin Tepeler Tümülüsü 9, Ege Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Bin Tepeler Tümülüsü 9, hem doğa severler hem de tarih meraklıları için bir hazine. Bu bölgede, yüzyıllar boyunca oluşan doğal ve kültürel miras, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 9'u ziyaret etmek, hem doğa severler hem de tarih mera
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 9, Ege Bölgesi'nin en önemli tarihi noktalarından biri.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bin Tepeler Tümülüsü 9, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.
 - Bu bölge, Ege Bölgesi'nin iklimine uygun olarak, Akdeniz ikliminin özelliklerini taşıyor.
 - Bin Tepeler Tümülüsü 9'u ziyaret etmek, hem doğa severler hem de tarih meraklıları için bir hazine.

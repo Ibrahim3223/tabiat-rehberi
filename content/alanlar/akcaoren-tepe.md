@@ -36,7 +36,7 @@ Akçaören Tepe'nin tarihi geçmişi, Ege Bölgesi'nin tarihini yansıtması bak
 
 ## Coğrafya
 
-Akçaören Tepe, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık bu alan, Ege Bölgesi'nin karakteristik yapısına uygun olarak, tepeler, vadiler ve ovalardan oluşuyor. Bu tepe, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve ağaçlarla kaplı. Akçaören Tepe'nin coğrafi yapısı, aynı zamanda bölgenin fauna çeşitliliğini de desteklıyor. Bu tepe, çeşitli hayvan türlerinin yaşadığı bir alan olarak dikkat çekiyor. Coğrafi yapısı ve doğal güzelliği, Akçaören Tepe'yi ziyaretçiler için çekici bir yer haline getiriyor. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini de yansıtan önemli bir nokta.
+Akçaören Tepe, coğrafi olarak oldukça zengin bir yapıya sahip. Bu tepe, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve ağaçlarla kaplı. Akçaören Tepe'nin coğrafi yapısı, aynı zamanda bölgenin fauna çeşitliliğini de desteklıyor. Bu tepe, çeşitli hayvan türlerinin yaşadığı bir alan olarak dikkat çekiyor. Coğrafi yapısı ve doğal güzelliği, Akçaören Tepe'yi ziyaretçiler için çekici bir yer haline getiriyor. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini de yansıtan önemli bir nokta.
 
 ## Flora ve Fauna
 

@@ -50,7 +50,7 @@ Bauchop's Hill'i ziyaret etmek, doğa ve tarih meraklıları için benzersiz bir
 ## İlginç Bilgiler
 
 - Bauchop's Hill, İç Anadolu Bölgesi'nin önemli bir turizm merkezi olma potansiyelini taşıyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Bauchop's Hill, ziyaretçilerine hem doğal güzellikler hem de tarihi zenginlikler sunuyor
 - Bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe sahip oluyor
 - Bauchop's Hill, doğa ve tarih meraklıları için benzersiz bir deneyim sunuyor

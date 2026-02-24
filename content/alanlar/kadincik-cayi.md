@@ -15,8 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Kad%C4%B1nc%C4%B1k_1_HES%2C_%C3%87aml%C4%B1yayla.jpg","alt":"Kadincik Cayı manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadincik%20Cay%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227881","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kadincik Cayı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Kadincik Cayı","İç Anadolu Bölgesi","doğa","yeşil alan","futbol sahası"," milli park","turizm","gezi"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227881"
 ---
@@ -43,7 +42,6 @@ Kadincik Cayı, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Burada, y�
 
 ## İlginç Bilgiler
 
-- Kadincik Cayı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor
 - Kadincik Cayı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - İlkbahar ve sonbahar mevsimleri, ziyaretçilerin doğayı en güzel haliyle görebileceği en uygun zamanlar

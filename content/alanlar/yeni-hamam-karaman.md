@@ -21,7 +21,7 @@ aktiviteler: ["tarihî ve kültürel geziler","doğa yürüyüşleri","fotograf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Yeni Hamam, Karaman","caption":"Yeni Hamam, Karaman","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Karaman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245695","tip":"genel"}]
-description: "Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. 140 hektarlık bir alan üzerinde kurulmuştur."
+description: "Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir."
 keywords: ["Karaman","Yeni Hamam","tarih","kültür","gezi","turizm","iç anadolu","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245695"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245695"
 
 # Yeni Hamam, Karaman
 
-Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. 140 hektarlık bir alan üzerinde kurulmuştur. Yeni Hamam, tarihi ve kültürel değerleri bir araya getiren önemli bir destinasyondur. Şehir merkezinde yer alması nedeniyle, ziyaretçiler için ulaşım oldukça kolaydır. Bu özelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. Yeni Hamam, tarihi ve kültürel değerleri bir araya getiren önemli bir destinasyondur. Şehir merkezinde yer alması nedeniyle, ziyaretçiler için ulaşım oldukça kolaydır. Bu özelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeni Hamam, Karaman'ın tarihi geçmişi ile önemli bir yere sahiptir. Tarihi b
 
 ## Coğrafya
 
-Yeni Hamam, Karaman şehrinin merkezi bölgesinde yer almaktadır. Şehrin coğrafi yapısı, İç Anadolu Bölgesi'nin genel özelliklerini taşımaktadır. Bu bölge, genellikle step ve bozkır ekosistemleri ile karakterizedir. Hamamın bulunduğu alan, 140 hektarlık bir arazide kurulmuştur. Bu alanın coğrafi özellikleri, şehrin genel yapısına uygun olarak, genellikle düzlüklerden oluşmaktadır. Yeni Hamam'ın bulunduğu bölge, şehrin ulaşım ağının merkezinde yer alması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir konuma sahiptir. Ayrıca, hamamın etrafında çeşitli sosyal ve kültürel tesisler bulunmaktadır.
+Yeni Hamam, Karaman şehrinin merkezi bölgesinde yer almaktadır. Şehrin coğrafi yapısı, İç Anadolu Bölgesi'nin genel özelliklerini taşımaktadır. Bu bölge, genellikle step ve bozkır ekosistemleri ile karakterizedir. Bu alanın coğrafi özellikleri, şehrin genel yapısına uygun olarak, genellikle düzlüklerden oluşmaktadır. Yeni Hamam'ın bulunduğu bölge, şehrin ulaşım ağının merkezinde yer alması nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir konuma sahiptir. Ayrıca, hamamın etrafında çeşitli sosyal ve kültürel tesisler bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yeni Hamam, Karaman şehrinin merkezi bölgesinde yer alması nedeniyle, ziyaret
 ## İlginç Bilgiler
 
 - Yeni Hamam, Karaman'ın en önemli tarihi ve kültürel varlıklarından birisidir.
-- Hamam, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Yeni Hamam, şehrin merkezi konumunda yer almaktadır.
 - Hamamın tarihi hakkında detaylı bilgiler bulunmasa da, şehrin kültürel mirasının önemli bir parçası olduğu bilinmektedir.
 - Yeni Hamam, Karaman'ın kültürel ve tarihi değerlerini koruyarak, gelecek nesillere aktarmakta önemli bir rol oynamaktadır.

@@ -38,7 +38,7 @@ Gülhane Parkı'nın tarihi geçmişi, Fatih Sultan Mehmet dönemine kadar uzan�
 
 ## Coğrafya
 
-Gülhane Parkı, İstanbul'un Fatih ilçesinde, Topkapı Sarayı'nın immediate yakınında yer alır. Parkın coğrafi konumu, Marmara Denizi'ne yakın olmasından dolayı, iklimi ılımandır. Parkın yapısı, çeşitli ağaç türleri, çimleri ve çiçeklerle dolu geniş alanlardan oluşur. Ayrıca, parkta birçok tarihi çeşme ve anıt bulunur. Parkın çevresi, tarihi binalar ve müzelerle çevrilidir. Parkın coğrafi yapısı, ziyaretçilere hem doğal güzellikleri hem de tarihi eserleri keşfetme fırsatı sunar. Parkın 140 hektarlık alanı, ziyaretçilere geniş bir alan sunar ve çeşitli etkinlikler için ideal bir mekan olarak kullanılıyor.
+Gülhane Parkı, İstanbul'un Fatih ilçesinde, Topkapı Sarayı'nın immediate yakınında yer alır. Parkın coğrafi konumu, Marmara Denizi'ne yakın olmasından dolayı, iklimi ılımandır. Parkın yapısı, çeşitli ağaç türleri, çimleri ve çiçeklerle dolu geniş alanlardan oluşur. Ayrıca, parkta birçok tarihi çeşme ve anıt bulunur. Parkın çevresi, tarihi binalar ve müzelerle çevrilidir. Parkın coğrafi yapısı, ziyaretçilere hem doğal güzellikleri hem de tarihi eserleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

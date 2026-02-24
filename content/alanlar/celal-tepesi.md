@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Celal Tepesi","caption":"Celal Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Celal%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34837560","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Celal Tepesi, Van'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Celal Tepesi, Van'da yer alıyor."
 keywords: ["Celal Tepesi","Van","Doğu Anadolu Bölgesi","Doğa","Yeşil Alan","Fiziksel Veriler","Tarihçe","Coğrafya","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34837560"
@@ -48,7 +48,6 @@ Celal Tepesi'ni ziyaret etmek, doğa severler için bir rüya harika bir deneyim
 
 ## İlginç Bilgiler
 
-- Celal Tepesi, 140 hektarlık bir yeşil alana sahip.
 - Tepenin yakınında, Van Gölü bulunuyor.
 - Celal Tepesi, Van'ın şehir merkezi yakınlarında yer alıyor.
 - Tepede, çeşitli bitki türleri ve zengin fauna bulunuyor.

@@ -50,7 +50,7 @@ Yağlıoğlu Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri k
 ## İlginç Bilgiler
 
 - Yağlıoğlu Türbesi, İzmir'in Tire ilçesinde bulunmakta
-- Bölge, 140 hektarlık bir alana yayılmış durumda
+
 - Tire, Ege Bölgesi'nin önemli bir kültürel merkezi
 - Yağlıoğlu Türbesi, tarihi ve doğal güzelliği bir arada sunuyor
 - Bölge, zengin flora ve fauna ile dikkat çekiyor

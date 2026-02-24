@@ -28,7 +28,7 @@ wikidata_id: "Q32210281"
 
 # Körikyolu Tepesi
 
-Körikyolu Tepesi, Batman ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Körikyolu Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Tepenin etrafında çeşitli bitki türleri yer alıyor. Bu bölge, yüzyıllar boyunca insanların yaşadığı ve yerleştiği bir yer olarak biliniyor.
+Körikyolu Tepesi, Batman ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Körikyolu Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Tepenin etrafında çeşitli bitki türleri yer alıyor. Bu bölge, yüzyıllar boyunca insanların yaşadığı ve yerleştiği bir yer olarak biliniyor.
 
 ## Tarihçe
 

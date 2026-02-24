@@ -50,7 +50,7 @@ Hacip Çavlı Kümbeti, ziyaretçilere çeşitli deneyimler sunmaktadır. Bu bö
 ## İlginç Bilgiler
 
 - Hacip Çavlı Kümbeti, tarihi bir kümbettir
-- Bu bölge, 140 hektarlık bir alana sahiptir
+
 - Hacip Çavlı Kümbeti, Kayseri'nin önemli tarihi yapıtlarından biridir
 - Bu bölge, doğayla iç içe bir deneyim sunmaktadır
 - Hacip Çavlı Kümbeti, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır

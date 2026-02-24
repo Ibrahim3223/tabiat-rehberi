@@ -36,7 +36,7 @@ Pendekli Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölg
 
 ## Coğrafya
 
-Pendekli Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor. Bu tepe, 140 hektarlık bir alanı kaplayan büyük bir yeşil alan olarak dikkat çekiyor. Pendekli Tepesi'nin coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı sunuyor. Bu bölge, yüksek dağlar, derin vadiler ve geniş ormanlarla çevrili olarak doğa severlerin ilgisini çekiyor. Pendekli Tepesi'ne çıkarak, Karadeniz Bölgesi'nin güzelliğini keşfedece ve eşsiz manzarasını izleyeceksiniz. Pendekli Tepesi, aynı zamanda birçok nehrin ve derenin kaynaki olarak da bilinir. Bu nehirler ve dereler, Pendekli Tepesi'ni ziyaret edenlerin ilgisini çekiyor ve bölge hakkında daha fazla bilgi edinmelerine olanak sağlıyor.
+Pendekli Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor. Pendekli Tepesi'nin coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı sunuyor. Bu bölge, yüksek dağlar, derin vadiler ve geniş ormanlarla çevrili olarak doğa severlerin ilgisini çekiyor. Pendekli Tepesi'ne çıkarak, Karadeniz Bölgesi'nin güzelliğini keşfedece ve eşsiz manzarasını izleyeceksiniz. Pendekli Tepesi, aynı zamanda birçok nehrin ve derenin kaynaki olarak da bilinir. Bu nehirler ve dereler, Pendekli Tepesi'ni ziyaret edenlerin ilgisini çekiyor ve bölge hakkında daha fazla bilgi edinmelerine olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Pendekli Tepesi'ni ziyaret etmek, doğa severler için eşsiz bir deneyim sunuyo
 
 ## İlginç Bilgiler
 
-- Pendekli Tepesi, 140 hektarlık bir alanı kaplayan büyük bir yeşil alan olarak dikkat çekiyor.
 - Pendekli Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak kabul ediliyor.
 - Pendekli Tepesi, zengin flora ve faunaya sahip olarak dikkat çekiyor.
 - Pendekli Tepesi, birçok efsaneye de ev sahipliği yapıyor.

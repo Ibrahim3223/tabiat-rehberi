@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Mangadağı Tepesi","caption":"Mangadağı Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mangada%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31579215","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Mangadağı Tepesi, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir."
+ Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Mangadağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğal alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31579215"
@@ -48,8 +48,6 @@ Mangadağı Tepesi'ni ziyaret etmek, doğa ve tarihle iç içe bir deneyim sunma
 
 ## İlginç Bilgiler
 
-- Mangadağı Tepesi, 140 hektarlık bir alana sahiptir
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir
 - Mangadağı Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapmakta ve zengin fauna yapısına sahiptir
 - Mangadağı Tepesi, Erzurum'un önemli turizm noktalarından biridir

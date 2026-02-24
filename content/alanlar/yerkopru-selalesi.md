@@ -50,7 +50,6 @@ Yerköprü Şelalesi'ni ziyaret etmek için, Konya'nın Hadim ilçesine gitmek g
 
 ## İlginç Bilgiler
 
-- Yerköprü Şelalesi, 140 hektarlık bir alanı kapsar
 - Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alır
 - Yerköprü Şelalesi, İç Anadolu Bölgesi'nin önemli coğrafi özelliklerinden biridir
 - Yerköprü Şelalesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaya hazırdır

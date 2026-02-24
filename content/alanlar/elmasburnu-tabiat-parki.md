@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5e/G%C3%BCn_bat%C4%B1m%C4%B1_huzuru.jpg","alt":"Elmasburnu Tabiat Parkı manzarası","credit":"Catfishttuana","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Elmasburnu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Elmasburnu.jpg","alt":"Elmasburnu Tabiat Parkı - Elmasburnu","credit":"Gulsum67","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Elmasburnu2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Elmasburnu2.jpg","alt":"Elmasburnu Tabiat Parkı - Elmasburnu2","credit":"Gulsum67","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmasburnu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623519","tip":"genel"}]
-description: "İstanbul'un doğal güzelliklerinden biri olan Elmasburnu Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Elmasburnu","Tabiat Parkı","İstanbul","Marmara Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30623519"
@@ -30,7 +30,7 @@ wikidata_id: "Q30623519"
 
 # Elmasburnu Tabiat Parkı
 
- Bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Elmasburnu Tabiat Parkı, aynı zamanda İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası sunuyor. 140 hektarlık bu alan, ziyaretçilerini şehrin kalbinde doğanın güzelliklerine davet ediyor.
+ Bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Elmasburnu Tabiat Parkı, aynı zamanda İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Elmasburnu Tabiat Parkı, ziyaretçilere yılın her dönemi açık. Parkı ziya
 
 ## İlginç Bilgiler
 
-- Elmasburnu Tabiat Parkı, 140 hektarlık bir alanı kapsıyor
 - Parkın içinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor
 - Park, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası
 - Elmasburnu Tabiat Parkı, yılın her dönemi ziyaretçilere açık

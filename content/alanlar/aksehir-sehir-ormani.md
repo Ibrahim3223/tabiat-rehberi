@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Doğa fotoğrafçılığı","Yaban
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"AKŞEHİR ŞEHİR ORMANI","caption":"AKŞEHİR ŞEHİR ORMANI","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AK%C5%9EEH%C4%B0R%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228692","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşillendirilmiş cenneti, Akşehir Şehir Ormanı, 140 hektarlık alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Akşehir Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","doğa alanı","yeşillendirme","turizm","gezi","doğa yürüyüşü"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228692"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228692"
 
 # AKŞEHİR ŞEHİR ORMANI
 
-Akşehir Şehir Ormanı, yaklaşık 140 hektarlık alanı ile İç Anadolu Bölgesi'nin en önemli yeşil alanlarından biri. Orman, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet veriyor. Ziyaretçiler, doğa yürüyüşü yaparak, piknik alanlarında dinlenere veya sadece doğanın güzelliğini seyrederek zaman geçirebiliyorlar. Orman, ayrıca çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahip.
+ Orman, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet veriyor. Ziyaretçiler, doğa yürüyüşü yaparak, piknik alanlarında dinlenere veya sadece doğanın güzelliğini seyrederek zaman geçirebiliyorlar. Orman, ayrıca çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahip.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Akşehir Şehir Ormanı'nın tarihi geçmişi, bölgenin yerleşim tarihi ile ba
 
 ## Coğrafya
 
-Akşehir Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve orman ekosistemlerinin bir bileşimi olarak karşımıza çıkıyor. Orman, 140 hektarlık alanı ile oldukça geniş bir yeşillik alanı sunuyor. Bu alan, khong 200 futbol sahası büyüklüğünde ve bölgenin en büyük yeşil alanlarından biri. Ormanın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin doğal güzelliğini keşfetme imkanı tanıyor. Ormanın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu, ormanın florası ve faunası üzerinde önemli bir etkiye sahip.
+Akşehir Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve orman ekosistemlerinin bir bileşimi olarak karşımıza çıkıyor. Ormanın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin doğal güzelliğini keşfetme imkanı tanıyor. Ormanın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu, ormanın florası ve faunası üzerinde önemli bir etkiye sahip.
 
 ## Flora ve Fauna
 

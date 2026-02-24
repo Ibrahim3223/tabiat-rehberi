@@ -49,8 +49,6 @@ Alabanda Kuzey Hamamı, ziyaretçiler için bir çok farklı aktivite ve deneyim
 
 ## İlginç Bilgiler
 
-- Alabanda Kuzey Hamamı, 140 hektarlık bir alanı kaplıyor
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Alabanda Kuzey Hamamı, Ege Denizi'ne kıyısı bulunuyor
 - Bu bölge, bir çok farklı bitki ve hayvan türünün yaşadığı bir yer
 - Alabanda Kuzey Hamamı, ziyaretçilerine hem deniz hem de doğanın güzelliğini sunuyor

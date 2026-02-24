@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Kayabaşı Tabiat Parkı manzarası","credit":"ByAktas","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Kayaba%C5%9F%C4%B1_yaylakent.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kayaba%C5%9F%C4%B1_yaylakent.jpg/1280px-Kayaba%C5%9F%C4%B1_yaylakent.jpg","alt":"Kayabaşı Tabiat Parkı - Kayabaşı yaylakent","credit":"Erkut Meral","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayaba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228179","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık tabiat parkı"
+
 keywords: ["Kayabaşı Tabiat Parkı","İç Anadolu Bölgesi","tabiat parkı","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228179"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228179"
 
 # Kayabaşı Tabiat Parkı
 
-Kayabaşı Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Kayabaşı Tabiat Parkı, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor.
+ Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Kayabaşı Tabiat Parkı, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kayabaşı Tabiat Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor
 
 ## Coğrafya
 
-Kayabaşı Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. 140 hektarlık geniş alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz park, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Bu, ziyaretçilere dört mevsimin tüm güzelliklerini deneyimleme fırsatı sunuyor. Çevre ile uyum içinde olan park, aynı zamanda ekolojik bir dengenin de önemli bir parçasıdır. Bu nedenle, Kayabaşı Tabiat Parkı, sadece bir gezi değil, aynı zamanda bir doğa eğitim merkezi olarak da düşünülebilir.
+Kayabaşı Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz park, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Bu, ziyaretçilere dört mevsimin tüm güzelliklerini deneyimleme fırsatı sunuyor. Çevre ile uyum içinde olan park, aynı zamanda ekolojik bir dengenin de önemli bir parçasıdır. Bu nedenle, Kayabaşı Tabiat Parkı, sadece bir gezi değil, aynı zamanda bir doğa eğitim merkezi olarak da düşünülebilir.
 
 ## Flora ve Fauna
 

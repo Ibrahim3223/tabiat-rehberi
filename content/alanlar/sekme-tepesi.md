@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","trekking","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Sekme Tepesi","caption":"Sekme Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekme%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389696","tip":"genel"}]
-description: "Kastamonu'nun gizli cenneti Sekme Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kastamonu","Sekme Tepesi","Karadeniz Bölgesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389696"
@@ -49,7 +49,7 @@ Sekme Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları için bir
 ## İlginç Bilgiler
 
 - Sekme Tepesi, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak kabul ediliyor
-- Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde
+
 - Sekme Tepesi, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne sahip
 - Bu tepe, çeşitli bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor
 - Sekme Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları için bir hayal gibi

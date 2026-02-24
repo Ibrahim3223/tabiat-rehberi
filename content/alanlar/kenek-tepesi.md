@@ -28,7 +28,7 @@ wikidata_id: "Q31388048"
 
 # Kenek Tepesi
 
-Kenek Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir doğal ve tarihi alan olarak dikkat çekiyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş ve yeşil bir mekan sunuyor. Kenek Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar ve onlar için unutulmaz bir gezi deneyimi sunar.
+Kenek Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Kenek Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar ve onlar için unutulmaz bir gezi deneyimi sunar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kenek Tepesi'ni ziyaret etmek, ziyaretçilere önemli bir gezi deneyimi sunuyor.
 ## İlginç Bilgiler
 
 - Kenek Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir alan
+
 - Kenek Tepesi, ziyaretçilerine tarihi ve doğal güzelliklerini sunuyor
 - Doğu Anadolu Bölgesi, çeşitli uygarlıklara ev sahipliği yapmış bir bölge
 - Kenek Tepesi, mevsimsel değişimlere göre farklı bitki türleri yetişir

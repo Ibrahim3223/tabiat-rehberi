@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","piknik","spor aktivite
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Lale Tepesi","caption":"Lale Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388586","tip":"genel"}]
-description: "Erzurum'un doğal güzelliklerinden Lale Tepesi, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor"
+
 keywords: ["Lale Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388586"
@@ -28,7 +28,7 @@ wikidata_id: "Q31388586"
 
 # Lale Tepesi
 
-Erzurum'un doğal güzelliklerinden biri olan Lale Tepesi, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor. Lale Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon. Burada, şehrin panoramik manzarasını izleyebilir, doğanın güzelliğini keşfedebilir ve çeşitli etkinlikler yapabilirsiniz. Lale Tepesi, Erzurum'un kalbinde yer alıyor ve ulaşımı oldukça kolay.
+ Lale Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon. Burada, şehrin panoramik manzarasını izleyebilir, doğanın güzelliğini keşfedebilir ve çeşitli etkinlikler yapabilirsiniz. Lale Tepesi, Erzurum'un kalbinde yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Lale Tepesi, ziyaretçilerine çeşitli aktivite imkanları sunuyor. Burada, yü
 
 ## İlginç Bilgiler
 
-- Lale Tepesi, 140 hektarlık geniş alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Lale Tepesi, Erzurum'un kalbinde yer alıyor
 - Lale Tepesi, bir çok bitki ve hayvan türüne ev sahipliği yapıyor
 - Lale Tepesi, ekolojik önemini vurguluyor

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Bitki ve hayvan gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Canakkale Can-Kazdagigoknari","caption":"Canakkale Can-Kazdagigoknari","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale%20Can-Kazdagigoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228096","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Canakkale Can-Kazdagigoknari milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Canakkale","Can-Kazdagigoknari","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228096"

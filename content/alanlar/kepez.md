@@ -31,7 +31,7 @@ Kepez milli parkı, yüzyıllar boyunca bölgenin doğal güzelliğini korumuşt
 
 ## Coğrafya
 
-Kepez milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Park, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Parkın coğrafi yapısı, ziyaretçilere, bölgenin jeolojik oluşumunu ve doğal güzelliğini deneyimleme fırsatı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, kışları soğuk ve yazları sıcak geçer. Bu iklim, parkın flora ve faunasının çeşitliliğini etkiler ve ziyaretçilere, mevsimsel değişimlerin güzelliğini deneyimleme fırsatı sunar. Parkın coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliğini ve kültürel mirasını keşfetme fırsatı sunar. Parkın çevresi, çeşitli köyler ve kasabalarla çevrilidir ve bu yerleşim yerleri, ziyaretçilere, bölgenin kültürel ve doğal mirasını tanıma fırsatı sunar.
+Kepez milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın coğrafi yapısı, ziyaretçilere, bölgenin jeolojik oluşumunu ve doğal güzelliğini deneyimleme fırsatı sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, kışları soğuk ve yazları sıcak geçer. Bu iklim, parkın flora ve faunasının çeşitliliğini etkiler ve ziyaretçilere, mevsimsel değişimlerin güzelliğini deneyimleme fırsatı sunar. Parkın coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliğini ve kültürel mirasını keşfetme fırsatı sunar. Parkın çevresi, çeşitli köyler ve kasabalarla çevrilidir ve bu yerleşim yerleri, ziyaretçilere, bölgenin kültürel ve doğal mirasını tanıma fırsatı sunar.
 
 ## Flora ve Fauna
 

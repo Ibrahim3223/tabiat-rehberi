@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Sittiyeharic Tepesi","caption":"Sittiyeharic Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sittiyeharic%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555889","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Batman'da bulunan Sittiyeharic Tepesi, 140 hektarlık geniş bir alanı kaplıyor."
+"
 keywords: ["Sittiyeharic Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31555889"
@@ -47,8 +47,6 @@ Sittiyeharic Tepesi, flora ve fauna açısından zengin bir bölge. Bu tepe, çe
 Sittiyeharic Tepesi'ni ziyaret etmek için, Batman'a ulaşmanız gerekiyor. Batman'a ulaştıktan sonra, Sittiyeharic Tepesi'ne giden yolu takip edebilirsiniz. Sittiyeharic Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, tepe daha güzelleşiyor ve ziyaretçilerine doğal güzelliğini gösteriyor.
 
 ## İlginç Bilgiler
-
-- Sittiyeharic Tepesi, 140 hektarlık bir alanı kaplıyor.
 
 - Sittiyeharic Tepesi, 70-yüksek bir konumdate.
 - Bu tepe, flora ve fauna açısından zengin.

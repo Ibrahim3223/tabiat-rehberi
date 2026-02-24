@@ -15,14 +15,14 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_08.jpg","alt":"Karagöl (Borçka) manzarası","credit":"Valen1988","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_07.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_07.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_07.jpg","alt":"Karagöl (Borçka) - Borçka-Karagöl Nature Park 07","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_10.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_10.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_10.jpg","alt":"Karagöl (Borçka) - Borçka-Karagöl Nature Park 10","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_14.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_14.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_14.jpg","alt":"Karagöl (Borçka) - Borçka-Karagöl Nature Park 14","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_15.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_15.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_15.jpg","alt":"Karagöl (Borçka) - Borçka-Karagöl Nature Park 15","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/44/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_16.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_16.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_16.jpg","alt":"Karagöl (Borçka) - Borçka-Karagöl Nature Park 16","credit":"Valen1988","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%B6l%20(Bor%C3%A7ka)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Artvin'de yer alan Karagöl, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ile dikkat çeken bu alan, ziyaretçilerini büyülüyor."
+ Doğal güzelliği ile dikkat çeken bu alan, ziyaretçilerini büyülüyor."
 keywords: ["Karagöl","Borçka","Artvin","Karadeniz Bölgesi","Tabiat Parkı","Doğal Güzellik","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 ---
 
 # Karagöl (Borçka)
 
- Bu doğal göl, çevresi boyunca yer alan ormanlarla birlikte 140 hektarlık bir alanı kapsıyor. Gölüninde yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karagöl'ün etrafında yer alan walking yolları, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
+ Gölüninde yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karagöl'ün etrafında yer alan walking yolları, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Mut_Karaek%C5%9Fi.png","alt":"Karaekşi Tabiat Parkı manzarası","credit":"Musa Ufuk Çiftçioğlu","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Karaek%C5%9Fi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/04/Karaek%C5%9Fi.jpg","alt":"Karaekşi Tabiat Parkı - Karaekşi","credit":"Özdenozdemir","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaek%C5%9Fi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q39091388","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Karaekşi Tabiat Parkı","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","bitki türleri","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q39091388"
@@ -29,7 +29,7 @@ wikidata_id: "Q39091388"
 
 # Karaekşi Tabiat Parkı
 
-Karaekşi Tabiat Parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, onu doğa severler için bir cennet haline getiriyor. Parkın tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan toplulukların izlerini taşıyor. Karaekşi Tabiat Parkı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini bekliyor.
+ Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, onu doğa severler için bir cennet haline getiriyor. Parkın tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan toplulukların izlerini taşıyor. Karaekşi Tabiat Parkı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Karaekşi Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgede yaş
 
 ## Coğrafya
 
-Karaekşi Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ve iklim koşulları ile yakından ilgili. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna, bölgenin coğrafi ve iklimsel koşullarının bir sonucu olarak oluşmuş. Parkın coğrafi konumu, bölgenin diğer doğal güzelliklerine ve tarihi zenginliklerine yakın olması, onu ziyaretçilerin ilgisini çeken bir destinasyon haline getiriyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip. Parkın coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri, pikni ve diğer açık hava etkinlikleri yapmalarına uygun bir ortam sunuyor. Karaekşi Tabiat Parkı, coğrafi güzelliği, iklimi ve doğal zenginlikleri ile ziyaretçilerini bekliyor.
+Karaekşi Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ve iklim koşulları ile yakından ilgili. Parkın coğrafi konumu, bölgenin diğer doğal güzelliklerine ve tarihi zenginliklerine yakın olması, onu ziyaretçilerin ilgisini çeken bir destinasyon haline getiriyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip. Parkın coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri, pikni ve diğer açık hava etkinlikleri yapmalarına uygun bir ortam sunuyor. Karaekşi Tabiat Parkı, coğrafi güzelliği, iklimi ve doğal zenginlikleri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
-Karaekşi Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parkın 140 hektarlık yeşil alanı, bölgenin coğrafi ve iklimsel koşullarının bir sonucu olarak oluşmuş. Parkta, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar bulunabiliyor. Parkın flora ve faunası, bölgenin doğal güzelliklerini ve zenginliklerini korumak açısından önemli. Parkta, doğa yürüyüşleri ve diğer açık hava etkinlikleri yaparken, ziyaretçiler parkın flora ve faunasını yakından görebiliyorlar. Karaekşi Tabiat Parkı, flora ve faunası ile ziyaretçilerini bekliyor.
+Karaekşi Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parkta, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar bulunabiliyor. Parkın flora ve faunası, bölgenin doğal güzelliklerini ve zenginliklerini korumak açısından önemli. Parkta, doğa yürüyüşleri ve diğer açık hava etkinlikleri yaparken, ziyaretçiler parkın flora ve faunasını yakından görebiliyorlar. Karaekşi Tabiat Parkı, flora ve faunası ile ziyaretçilerini bekliyor.
 
 ## Ziyaret Bilgileri
 

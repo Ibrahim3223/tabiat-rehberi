@@ -37,7 +37,7 @@ Hasbey Hamamı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kültüre
 
 ## Coğrafya
 
-Hasbey Hamamı, Meram, Konya'da yer almaktadır ve İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, genellikle step ve ova olarak tanımlanmaktadır. Hasbey Hamamı'nın bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır ve bu geniş alan, ziyaretçilere geniş bir faaliyet alanı sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçmektedir. Hamam ve plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Hasbey Hamamı, Meram, Konya'da yer almaktadır ve İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, genellikle step ve ova olarak tanımlanmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçmektedir. Hamam ve plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hasbey Hamamı ve plajını ziyaret etmek, İç Anadolu Bölgesi'nin tarihi ve d
 ## İlginç Bilgiler
 
 - Hasbey Hamamı, tarihi öneme sahip bir hamam ve plaj alanıdır
-- 140 hektarlık bir alanı kaplamaktadır
+
 - İç Anadolu Bölgesi'nin en önemli turizm noktalarından birisidir
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir
 - Ziyaretçiler, bölgenin doğal güzelliklerini keşfedebilirler

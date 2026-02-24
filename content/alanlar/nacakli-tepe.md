@@ -36,7 +36,7 @@ Nacaklı Tepe'nin tarihi geçmişi, Sivas'ın tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Nacaklı Tepe, Sivas'ın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayarak, Sivas'ın coğrafi zenginliklerine önemli bir katkı sağlıyor. Nacaklı Tepe'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor ve Sivas'ın genel coğrafi yapısını gözler önüne seriyor. Bu tepe, Sivas'ın iklimine uygun olarak, mevsimsel değişimlere göre farklı güzellikler sunuyor. Kış aylarında karla kaplanan Nacaklı Tepe, bahar aylarında yeşillenerek ziyaretçilerini karşılayacak bir güzelliğe sahip oluyor.
+Nacaklı Tepe, Sivas'ın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Nacaklı Tepe'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor ve Sivas'ın genel coğrafi yapısını gözler önüne seriyor. Bu tepe, Sivas'ın iklimine uygun olarak, mevsimsel değişimlere göre farklı güzellikler sunuyor. Kış aylarında karla kaplanan Nacaklı Tepe, bahar aylarında yeşillenerek ziyaretçilerini karşılayacak bir güzelliğe sahip oluyor.
 
 ## Flora ve Fauna
 

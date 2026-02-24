@@ -21,8 +21,8 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Arasa Hamamı","caption":"Arasa Hamamı","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arasa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738901","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti, Şanlıurfa'nın Eyyübiye ilçesinde bulunan Arasa Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Arasa Hamamı","Eyyübiye","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738901"
 ---
@@ -48,8 +48,6 @@ Arasa Hamamı, flora ve fauna açısından zengin bir bölgedir. Burada, bölgey
 Arasa Hamamı, ziyaretçilerine yılın her dönemi açık. Ancak, ilkbahar ve yaz ayları, bu bölgeyi ziyaret etmek için en uygun zamanlardır. Bu aylarda, hava sıcaklığı uygun ve yeşil alan daha da güzelleşir. Arasa Hamamı'na ulaşmak için, Şanlıurfa'nın Eyyübiye ilçesine gelmek gerekir. Bölgeye gelen ziyaretçiler, Arasa Hamamı'nın doğal güzelliğini keşfedebilir, doğanın seslerini dinleyebilir ve sakin bir ortamda dinlenebilir. Arasa Hamamı, ayrıca, doğa yürüyüşleri ve fotoğrafçılık için de ideal bir yer.
 
 ## İlginç Bilgiler
-
-- Arasa Hamamı, 140 hektarlık bir yeşil alana sahip.
 
 - Arasa Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer alıyor.
 - Bölge, flora ve fauna açısından zengin.

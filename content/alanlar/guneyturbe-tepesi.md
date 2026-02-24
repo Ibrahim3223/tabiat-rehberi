@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","p
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Güneytürbe Tepesi","caption":"Güneytürbe Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneyt%C3%BCrbe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873312","tip":"genel"}]
-description: "Çorum'un yükselen tepesi, Güneytürbe Tepesi, Karadeniz Bölgesi'nin gizli hazinelerinden biri. 140 hektarlık yeşil alan, misafirlerini bekliyor."
+description: "Çorum'un yükselen tepesi, Güneytürbe Tepesi, Karadeniz Bölgesi'nin gizli hazinelerinden biri."
 keywords: ["Güneytürbe Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34873312"
@@ -48,7 +48,6 @@ Güneytürbe Tepesi'ni ziyaret etmek, hem gezi hem de keşif açısından öneml
 
 ## İlginç Bilgiler
 
-- Güneytürbe Tepesi, 140 hektarlık yeşil alan
 - Tepenin yamacında, çeşitli bitki türleri
 - Zengin fauna, birçok hayvan türüne ev sahipliği yapar
 - Tepenin çevresi, yemyeşil ormanlarla kaplı

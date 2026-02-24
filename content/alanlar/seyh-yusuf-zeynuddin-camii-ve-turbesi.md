@@ -50,7 +50,7 @@ wikidata_id: "Q132134439"
 ## İlginç Bilgiler
 
 - Şeyh Yusuf Zeynüddin Camii ve Türbesi, Karadeniz Bölgesi'nin önemli dini yapılarından biridir.
-- Cami ve türbe, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bölgenin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir.
 - Cami ve türbe, tarihi ve mimari açıdan önemli bir yapıdır.
 - Ziyaretçiler, cami ve türbenin tarihi ve mimari özelliklerini inceleyebilir.

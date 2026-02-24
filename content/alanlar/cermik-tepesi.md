@@ -48,7 +48,6 @@ wikidata_id: "Q34829030"
 
 ## İlginç Bilgiler
 
-- Çermik Tepesi, 140 hektarlık bir alana yayılmış bir tepe.
 - Bu tepe, Doğu Anadolu Bölgesi'nin önemli noktalarından biri.
 - Çermik Tepesi, çeşitli bitki ve hayvan türleri ile çevrilidir.
 - Bu tepe, mevsimsel değişimlere göre farklı bir güzellik sunuyor.

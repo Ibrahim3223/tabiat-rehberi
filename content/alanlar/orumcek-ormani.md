@@ -31,7 +31,7 @@ wikidata_id: "Q108227236"
 
 ## Coğrafya
 
-Örumcek Ormani, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Orman, 140 hektarlık bir alana yayılmış ve bölgenin en önemli doğal güzelliklerinden biridir. Orman, çeşitli bitki türleri ve yaban hayatı ile dikkat çeker. Bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere benzersiz bir deneyim sunar. Orman, bölgeye özgü flora ve fauna ile zenginleştirilmiştir. Ziyaretçiler, ormanda doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin güzelliklerini keşfedebilirler. Örumcek Ormani, coğrafi olarak önemli bir bölgede yer alır ve doğa severlerin ilgisini çeker.
+Örumcek Ormani, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Orman, çeşitli bitki türleri ve yaban hayatı ile dikkat çeker. Bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere benzersiz bir deneyim sunar. Orman, bölgeye özgü flora ve fauna ile zenginleştirilmiştir. Ziyaretçiler, ormanda doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin güzelliklerini keşfedebilirler. Örumcek Ormani, coğrafi olarak önemli bir bölgede yer alır ve doğa severlerin ilgisini çeker.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ wikidata_id: "Q108227236"
 
 ## İlginç Bilgiler
 
-- Örumcek Ormani, 140 hektarlık bir alana yayılmış bir milli parktır
 - Orman, çeşitli bitki türleri ve yaban hayatı ile dikkat çeker
 - Bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır
 - Örumcek Ormani, doğa severlerin ve macera arayanların vazgeçilmez bir destinasyonudur

@@ -22,7 +22,7 @@ wikidata_id: "Q108228879"
 
 # Putka Gölü Sulak Alanı
 
-Putka Gölü Sulak Alanı, İç Anadolu Bölgesi'nin ortasında, yaklaşık 140 hektarlık bir alanı kapsayan, doğal güzellikler ve zengin fauna ile dolu bir sulak alandır. Gölün suyu, çevredeki tarım alanlarını sulamak için kullanılır ve bu nedenle bölgenin ekosistemini destekler. Putka Gölü Sulak Alanı, aynı zamanda birçok kuş türünün yuvalandığı ve göç ettiği bir yerdir, bu nedenle doğa severler ve kuş gözlemcileri için önemli bir destinasyondur.
+ Gölün suyu, çevredeki tarım alanlarını sulamak için kullanılır ve bu nedenle bölgenin ekosistemini destekler. Putka Gölü Sulak Alanı, aynı zamanda birçok kuş türünün yuvalandığı ve göç ettiği bir yerdir, bu nedenle doğa severler ve kuş gözlemcileri için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Putka Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin e
 
 ## Coğrafya
 
-Putka Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kapsar ve çevresi ile birlikte bir doğa harikasıdır. Gölün suyu, çevredeki tarım alanlarını sulamak için kullanılır ve bu nedenle bölgenin ekosistemini destekler. Putka Gölü Sulak Alanı, aynı zamanda birçok kuş türünün yuvalandığı ve göç ettiği bir yerdir, bu nedenle doğa severler ve kuş gözlemcileri için önemli bir destinasyondur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir, yani soğuk kışlar ve sıcak yazlar görülür. Bu sulak alan, çevresi ile birlikte bir doğa harikasıdır ve birçok farklı bitki ve hayvan türüne ev sahipliği yapar. Putka Gölü Sulak Alanı'nın coğrafi konumu, aynı zamanda bölgenin fauna ve florasının çeşitliliğini destekler.
+Putka Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır. Gölün suyu, çevredeki tarım alanlarını sulamak için kullanılır ve bu nedenle bölgenin ekosistemini destekler. Putka Gölü Sulak Alanı, aynı zamanda birçok kuş türünün yuvalandığı ve göç ettiği bir yerdir, bu nedenle doğa severler ve kuş gözlemcileri için önemli bir destinasyondur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir, yani soğuk kışlar ve sıcak yazlar görülür. Bu sulak alan, çevresi ile birlikte bir doğa harikasıdır ve birçok farklı bitki ve hayvan türüne ev sahipliği yapar. Putka Gölü Sulak Alanı'nın coğrafi konumu, aynı zamanda bölgenin fauna ve florasının çeşitliliğini destekler.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ Kars-Sarikamis-Hamamli Saricam milli parkının tarihi geçmişi, yüzyıllar ö
 
 ## Coğrafya
 
-Kars-Sarikamis-Hamamli Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde yer alır. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile kaplıdır. Milli park, Sarikamis dağlarının eteklerinde yer alır ve 140 hektarlık bir alanı kaplar. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Sarikamis dağları, milli parkın kuzeyinde yer alır ve kayak merkezleriyle ünlüdür. Hamamli Saricam, milli parkın içinde yer alan bir bölgedir ve sıcak su kaynaklarıyla bilinir. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Milli parkın iklimi, karasal iklim özellikleri gösterir ve kışları soğuk, yazları sıcak geçer. Bu iklim, çeşitli bitki türlerinin yetişmesine olanak sağlar ve zengin fauna oluşmasına katkıda bulunur.
+Kars-Sarikamis-Hamamli Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde yer alır. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile kaplıdır. Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Sarikamis dağları, milli parkın kuzeyinde yer alır ve kayak merkezleriyle ünlüdür. Hamamli Saricam, milli parkın içinde yer alan bir bölgedir ve sıcak su kaynaklarıyla bilinir. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Milli parkın iklimi, karasal iklim özellikleri gösterir ve kışları soğuk, yazları sıcak geçer. Bu iklim, çeşitli bitki türlerinin yetişmesine olanak sağlar ve zengin fauna oluşmasına katkıda bulunur.
 
 ## Flora ve Fauna
 

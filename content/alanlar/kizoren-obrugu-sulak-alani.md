@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğraf çekimi","Çevre 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Kızören Obruğu Sulak Alanı","caption":"Kızören Obruğu Sulak Alanı","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C3%B6ren%20Obru%C4%9Fu%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228827","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Kızören Obruğu","Sulak Alan","İç Anadolu Bölgesi","Doğal Alan","Çevre","Ekosistem","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228827"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228827"
 
 # Kızören Obruğu Sulak Alanı
 
-İç Anadolu Bölgesi'nin merkezi bir konumda yer alan Kızören Obruğu Sulak Alanı, 140 hektarlık geniş bir alanda kurulan ve doğa severlerin ilgi odağı haline gelen bir sulak alandır. Sulak alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor. Doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çeken Kızören Obruğu Sulak Alanı, ziyaretçilerini doğanın içlerine davet ediyor.
+ Sulak alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor. Doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çeken Kızören Obruğu Sulak Alanı, ziyaretçilerini doğanın içlerine davet ediyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kızören Obruğu Sulak Alanı, yüzyıllar boyunca bölgenin ekolojik dengesini
 
 ## Coğrafya
 
-Kızören Obruğu Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Bu sulak alan, 140 hektarlık geniş bir alanı kaplayarak, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor. Sulak alanın coğrafi yapısı, bölgenin jeolojik geçmişine ve iklim koşullarına bağlı olarak oluşmuştur. Bu bölgede, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunuyor. Özellikle su kuşları ve diğer canlılar, bu sulak alanda yaşam buluyor. Kızören Obruğu Sulak Alanı, doğal güzelliği ve coğrafi özellikleri ile dikkat çekiyor. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir gözlem alanı sunuyor.
+Kızören Obruğu Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor. Sulak alanın coğrafi yapısı, bölgenin jeolojik geçmişine ve iklim koşullarına bağlı olarak oluşmuştur. Bu bölgede, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunuyor. Özellikle su kuşları ve diğer canlılar, bu sulak alanda yaşam buluyor. Kızören Obruğu Sulak Alanı, doğal güzelliği ve coğrafi özellikleri ile dikkat çekiyor. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir gözlem alanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -41,8 +41,6 @@ Kızören Obruğu Sulak Alanı, zengin flora ve fauna çeşitliliğine sahip bir
 Kızören Obruğu Sulak Alanı, ziyaretçilerine geniş bir gözlem alanı sunuyor. Bu bölgede, çeşitli bitki türleri ve fauna çeşitliliği bulunuyor. Ziyaretçiler, sulak alanın doğal güzelliği ve zengin fauna çeşitliliğini gözlemleyebilir. Özellikle doğa tutkunları, bu bölgede geniş bir gözlem alanı buluyor. Kızören Obruğu Sulak Alanı'na, özel araç veya toplu taşıma araçları ile ulaşımümkün. Bu bölgenin ziyaretçileri, doğal güzelliği ve fauna çeşitliliği ile karşılaşacaklar.
 
 ## İlginç Bilgiler
-
-- Kızören Obruğu Sulak Alanı, 140 hektarlık geniş bir alanı kaplıyor.
 
 - Sulak alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor.
 - Kızören Obruğu Sulak Alanı, zengin fauna çeşitliliğine sahip bir bölgedir.

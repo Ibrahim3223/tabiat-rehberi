@@ -49,7 +49,6 @@ Adana'nın Çukurova bölgesinde yer alan Çobandede Türbesi, tarihi ve doğal 
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - yüzyıllar boyunca çeşitli uygarlıkların etkisi altında kalmış
 - zengin fauna ve flora çeşitliliğine sahip
 - mevsimsel değişimlere uygun olarak farklı türlerde bitki ve hayvanlara ev sahipliği yapıyor

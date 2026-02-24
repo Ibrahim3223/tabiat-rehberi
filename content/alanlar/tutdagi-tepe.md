@@ -48,8 +48,6 @@ Tutdağı Tepe'yi ziyaret etmek, hem tarihi hem de doğal güzellikleri ile zeng
 
 ## İlginç Bilgiler
 
-- Tutdağı Tepe, yaklaşık 140 hektarlık bir alanı kapsamaktadır.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir.
 - Tutdağı Tepe, yüzyıllar boyunca farklı medeniyetlerin hakimiyetinde kaldı.
 - Bu bölge, önemli bir yerleşim yeri olarak kullanılmış ve ticaret yolları üzerinde stratejik bir konumda bulunmuştur.
 - Tutdağı Tepe, ziyaretçilerine geniş ve çeşitli bir manzara sunuyor.

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık"," piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Mucet Tepesi","caption":"Mucet Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mucet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386362","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Mucet Tepesi, Gaziantep'in sınırları içinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Mucet Tepesi, Gaziantep'in sınırları içinde yer alır."
 keywords: ["Mucet Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386362"

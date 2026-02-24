@@ -28,7 +28,7 @@ wikidata_id: "Q31557033"
 
 # Kartallıhanın Tepesi
 
-Ankara'nın merkezinde yer alan Kartallıhanın Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kartallıhanın Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma ihtimaliniz yüksek. Bu tepe, aynı zamanda tarihin izlerini taşıyor ve ziyaretçilere hem doğayı hem de tarihi bir arada keşfetme fırsatı sunuyor.
+ Kartallıhanın Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma ihtimaliniz yüksek. Bu tepe, aynı zamanda tarihin izlerini taşıyor ve ziyaretçilere hem doğayı hem de tarihi bir arada keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -41,7 +41,7 @@ Turgut Alp Türbesi, İnegöl'ün merkezinde yer alıyor ve Marmara Bölgesi'nin
 
 ## Flora ve Fauna
 
-Turgut Alp Türbesi, İnegöl'ün doğal güzelliklerini yansıtan bir alana sahip. Bu bölge, İnegöl'ün 140 hektarlık yeşil alanının içerisinde yer alıyor ve çeşitli bitki türlerini barındırıyor. İnegöl'ün flora ve fauna zenginliği, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Turgut Alp Türbesi, İnegöl'ün doğal güzelliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon sunuyor. Bu bölge, mevsimsel değişimlere göre farklı güzellikler sunuyor ve ziyaretçilere yıl boyunca çeşitli doğal güzellikler sunuyor.
+Turgut Alp Türbesi, İnegöl'ün doğal güzelliklerini yansıtan bir alana sahip. İnegöl'ün flora ve fauna zenginliği, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Turgut Alp Türbesi, İnegöl'ün doğal güzelliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon sunuyor. Bu bölge, mevsimsel değişimlere göre farklı güzellikler sunuyor ve ziyaretçilere yıl boyunca çeşitli doğal güzellikler sunuyor.
 
 ## Ziyaret Bilgileri
 

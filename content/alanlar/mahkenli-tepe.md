@@ -28,7 +28,7 @@ wikidata_id: "Q31389502"
 
 # Mahkenli Tepe
 
-Mahkenli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Mahkenli Tepe, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mahkenli Tepe, aynı zamanda bölgenin coğrafi yapısını da etkileyen önemli bir nokta.
+Mahkenli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. Mahkenli Tepe, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mahkenli Tepe, aynı zamanda bölgenin coğrafi yapısını da etkileyen önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mahkenli Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tep
 
 ## Coğrafya
 
-Mahkenli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Mahkenli Tepe'nin coğrafi yapısı, bölgenin diğer doğal alanlarına benzerlik gösteriyor. Tepe, bölgenin coğrafi yapısını etkileyen önemli bir faktör olarak görülüyor. Mahkenli Tepe, aynı zamanda bölgenin iklimini de etkileyen bir nokta. Tepe, bölgenin flora ve faunasını da etkileyen önemli bir alan olarak kabul ediliyor. Mahkenli Tepe, bölgenin coğrafi yapısını ve doğal alanlarını etkileyen bir faktör olarak görülüyor. Bu tepe, aynı zamanda bölgenin çevresel koşullarını da etkileyen önemli bir nokta.
+Mahkenli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Mahkenli Tepe'nin coğrafi yapısı, bölgenin diğer doğal alanlarına benzerlik gösteriyor. Tepe, bölgenin coğrafi yapısını etkileyen önemli bir faktör olarak görülüyor. Mahkenli Tepe, aynı zamanda bölgenin iklimini de etkileyen bir nokta. Tepe, bölgenin flora ve faunasını da etkileyen önemli bir alan olarak kabul ediliyor. Mahkenli Tepe, bölgenin coğrafi yapısını ve doğal alanlarını etkileyen bir faktör olarak görülüyor. Bu tepe, aynı zamanda bölgenin çevresel koşullarını da etkileyen önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Mahkenli Tepe, ziyaretçilere çeşitli olanaklar sunuyor. Bu tepe, bölgenin co
 ## İlginç Bilgiler
 
 - Mahkenli Tepe, bölgenin en önemli doğal alanlarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Mahkenli Tepe, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Tepe, bölgenin coğrafi yapısını ve doğal alanlarını etkileyen önemli bir faktör olarak görülüyor
 - Mahkenli Tepe, aynı zamanda bölgenin kültürel mirasını da yansıtan bir alan olarak kabul ediliyor

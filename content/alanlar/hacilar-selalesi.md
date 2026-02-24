@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Hacılar Şelalesi
 
-Hacılar Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alan üzerinde yer alan, çeşitli bitki türleriyle çevrili bir yeşil cennettir. Hacılar Şelalesi, Ankara'nın merkezinden uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Şelalenin bulunduğu bölge, yaban hayatı açısından da oldukça zengindir. Burada, çeşitli hayvan türleri ve bitkiler bulunur.
+Hacılar Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Hacılar Şelalesi, Ankara'nın merkezinden uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Şelalenin bulunduğu bölge, yaban hayatı açısından da oldukça zengindir. Burada, çeşitli hayvan türleri ve bitkiler bulunur.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Hacılar Şelalesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu şel
 
 ## Coğrafya
 
-Hacılar Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alan üzerinde yer alan, çeşitli bitki türleriyle çevrili bir yeşil cennettir. Şelale, Ankara'nın merkezinden uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Şelalenin bulunduğu bölge, yaban hayatı açısından da oldukça zengindir. Burada, çeşitli hayvan türleri ve bitkiler bulunur. Şelale, yüksek bir konumda bulunur. Bu yükseklik, şelalenin oluşumunda önemli bir rol oynamıştır. Şelale, özellikle ilkbahar ve yaz aylarında ziyaretçilerini büyüleyen bir doğa harikası olarak bilinir. Bu mevsimlerde, şelale çevresindeki bitkiler ve çiçekler açar ve burası bir doğa cenneti haline gelir.
+Hacılar Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Şelale, Ankara'nın merkezinden uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Şelalenin bulunduğu bölge, yaban hayatı açısından da oldukça zengindir. Burada, çeşitli hayvan türleri ve bitkiler bulunur. Şelale, yüksek bir konumda bulunur. Bu yükseklik, şelalenin oluşumunda önemli bir rol oynamıştır. Şelale, özellikle ilkbahar ve yaz aylarında ziyaretçilerini büyüleyen bir doğa harikası olarak bilinir. Bu mevsimlerde, şelale çevresindeki bitkiler ve çiçekler açar ve burası bir doğa cenneti haline gelir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,7 @@ Hacılar Şelalesi'ni ziyaret etmek, özellikle ilkbahar ve yaz aylarında olduk
 ## İlginç Bilgiler
 
 - Hacılar Şelalesi, Ankara'nın doğal güzelliklerinden biridir.
-- Şelale, yaklaşık 140 hektarlık bir alan üzerinde yer alır.
+
 - Şelale, yüksek bir konumda bulunur.
 - Şelale, özellikle ilkbahar ve yaz aylarında ziyaretçilerini büyüleyen bir doğa harikası olarak bilinir.
 - Şelalenin bulunduğu bölge, yaban hayatı açısından oldukça zengindir.

@@ -48,7 +48,6 @@ Hubek Dağı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini kar�
 
 ## İlginç Bilgiler
 
-- Hubek Dağı, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Dağın yüksekliği, bölgenin iklimini etkileyen önemli bir faktör
 - Hubek Dağı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayacak bir doğa harikası
 - Dağın eteklerinde, tarihi kalıntılar ve eserler bulunmakta

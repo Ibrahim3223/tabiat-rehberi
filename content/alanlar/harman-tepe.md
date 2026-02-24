@@ -37,7 +37,7 @@ Harman Tepe'nin tarihi geçmişi, İstanbul'un tarihinde önemli bir yere sahip.
 
 ## Coğrafya
 
-Harman Tepe, coğrafi olarak İstanbul'un merkezinde yer alıyor ve şehre hakim bir konumda bulunuyor. Bu tepe, yaklaşık 140 hektarlık bir alana sahip ve şehrin en yüksek noktalarından biri olarak kabul ediliyor. Harman Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu tepe, aynı zamanda İstanbul'un iklimini de etkileyen bir faktör olarak, şehrin hava koşullarını şekillendiriyor. Harman Tepe'nin çevresi, çeşitli parklar ve yeşil alanlar ile çevrili ve şehrin doğal güzelliklerini korumak için önemli bir rol oynuyor. Bu tepe, aynı zamanda İstanbul'un su kaynaklarını da etkileyen bir faktör olarak, şehrin su ihtiyacını karşılayan önemli bir kaynak olarak kabul ediliyor.
+Harman Tepe, coğrafi olarak İstanbul'un merkezinde yer alıyor ve şehre hakim bir konumda bulunuyor. Harman Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu tepe, aynı zamanda İstanbul'un iklimini de etkileyen bir faktör olarak, şehrin hava koşullarını şekillendiriyor. Harman Tepe'nin çevresi, çeşitli parklar ve yeşil alanlar ile çevrili ve şehrin doğal güzelliklerini korumak için önemli bir rol oynuyor. Bu tepe, aynı zamanda İstanbul'un su kaynaklarını da etkileyen bir faktör olarak, şehrin su ihtiyacını karşılayan önemli bir kaynak olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q61076472"
 
 # Palovit Şelalesi
 
-Palovit Şelalesi, Rize'nin Çamlıhemşin ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir şelaledir. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir ormanlık alanın içerisinde bulunur. Palovit Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu alan, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+Palovit Şelalesi, Rize'nin Çamlıhemşin ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir şelaledir. Palovit Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu alan, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

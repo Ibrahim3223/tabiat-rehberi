@@ -15,7 +15,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"ODTÜ Tabiat Tarihi Müzesi","caption":"ODTÜ Tabiat Tarihi Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ODT%C3%9C%20Tabiat%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949888","tip":"genel"}]
-description: "Ankara'da yer alan ODTÜ Tabiat Tarihi Müzesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor"
+
 keywords: ["ODTÜ Tabiat Tarihi Müzesi","Ankara","İç Anadolu Bölgesi","doğa","müze","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132949888"
@@ -23,7 +23,7 @@ wikidata_id: "Q132949888"
 
 # ODTÜ Tabiat Tarihi Müzesi
 
-ODTÜ Tabiat Tarihi Müzesi, Ankara'nın kalbinde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor. Müzenin içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğa hakkında derinlemesine bilgi edinme fırsatı sunuyor. Ayrıca, müzenin tarihi geçmişi ve kurulma hikayesi de ziyaretçilerin ilgisini çekmeyi başarıyor.
+ Müzenin içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğa hakkında derinlemesine bilgi edinme fırsatı sunuyor. Ayrıca, müzenin tarihi geçmişi ve kurulma hikayesi de ziyaretçilerin ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ ODTÜ Tabiat Tarihi Müzesi, yüzyıllar boyunca Ankara'nın doğal güzellikler
 
 ## Coğrafya
 
-ODTÜ Tabiat Tarihi Müzesi, Ankara'nın merkezinde yer alıyor ve şehrin en büyük yeşil alanlarından biri olarak kabul ediliyor. Müzenin coğrafi konumu, ziyaretçilerin şehrin merkezinden kolayca ulaşabilmesini sağlıyor. 140 hektarlık alan, ziyaretçilere geniş bir açık alan sunuyor ve çeşitli flora ve fauna türlerini barındırıyor. Müzenin coğrafyası, Ankara'nın iklimine uygun olarak tasarlanmış ve ziyaretçilerin yılın her döneminde doğanın güzelliğini deneyimlemelerine olanak tanıyor. Ayrıca, müzenin çevresinde bulunan diğer yeşil alanlar ve parklar, ziyaretçilere daha geniş bir açık alan deneyimi sunuyor. Müzenin coğrafi yapısı, Ankara'nın doğal güzelliklerini koruma ve ziyaretçilere sunmak amacını taşıyor.
+ODTÜ Tabiat Tarihi Müzesi, Ankara'nın merkezinde yer alıyor ve şehrin en büyük yeşil alanlarından biri olarak kabul ediliyor. Müzenin coğrafi konumu, ziyaretçilerin şehrin merkezinden kolayca ulaşabilmesini sağlıyor. Müzenin coğrafyası, Ankara'nın iklimine uygun olarak tasarlanmış ve ziyaretçilerin yılın her döneminde doğanın güzelliğini deneyimlemelerine olanak tanıyor. Ayrıca, müzenin çevresinde bulunan diğer yeşil alanlar ve parklar, ziyaretçilere daha geniş bir açık alan deneyimi sunuyor. Müzenin coğrafi yapısı, Ankara'nın doğal güzelliklerini koruma ve ziyaretçilere sunmak amacını taşıyor.
 
 ## Flora ve Fauna
 

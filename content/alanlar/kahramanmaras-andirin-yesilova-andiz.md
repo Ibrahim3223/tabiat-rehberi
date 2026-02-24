@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Kahramanmaras-Andirin-Yesilova Andiz","caption":"Kahramanmaras-Andirin-Yesilova Andiz","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Yesilova%20Andiz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228488","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Kahramanmaras-Andirin-Yesilova Andiz, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["doğal alan","milli park","İç Anadolu Bölgesi","yeşil alan","flora","fauna","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228488"
@@ -42,7 +42,6 @@ Kahramanmaras-Andirin-Yesilova Andiz, ziyaretçilerine doğanın güzelliklerini
 
 ## İlginç Bilgiler
 
-- Kahramanmaras-Andirin-Yesilova Andiz, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu milli park, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikası
 - Alanın coğrafi yapısı, geniş bir yeşil alan sunuyor
 - Kahramanmaras-Andirin-Yesilova Andiz, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor

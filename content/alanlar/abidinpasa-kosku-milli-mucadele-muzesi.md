@@ -29,7 +29,7 @@ wikidata_id: "Q132950216"
 
 # Abidinpaşa Köşkü Milli Mücadele Müzesi
 
-Abidinpaşa Köşkü Milli Mücadele Müzesi, Ankara'nın kalbinde yer alan bir tarih hazinesi. Bu müze, yaklaşık 140 hektarlık bir alan üzerinde kurulu ve ziyaretçilerini Ankara'nın zengin tarihine götürüyor. 200 futbol sahası büyüklüğündeki bu alan, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak niteliği taşıyor. Abidinpaşa Köşkü, milli mücadele döneminde önemli bir merkez olarak görev yapmış ve Türk milletinin bağımsızlık mücadelesine tanıklık etmiş. Bu nedenle, müzenin duvarları arasında gizli olan tarih, ziyaretçilere büyük bir heyecan veriyor.
+Abidinpaşa Köşkü Milli Mücadele Müzesi, Ankara'nın kalbinde yer alan bir tarih hazinesi. Abidinpaşa Köşkü, milli mücadele döneminde önemli bir merkez olarak görev yapmış ve Türk milletinin bağımsızlık mücadelesine tanıklık etmiş. Bu nedenle, müzenin duvarları arasında gizli olan tarih, ziyaretçilere büyük bir heyecan veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abidinpaşa Köşkü Milli Mücadele Müzesi, tarihsel olarak önemli bir geçmi
 
 ## Coğrafya
 
-Abidinpaşa Köşkü Milli Mücadele Müzesi, Ankara'nın merkezi bir bölgesinde yer alıyor. Müze, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak niteliği taşıyor. Yaklaşık 140 hektarlık bir alan üzerinde kurulu olan müze, ziyaretçilerine geniş ve yeşil alanlar sunuyor. Müzenin çevresi, Ankara'nın tarihi ve kültürel zenginliklerini yansıtan önemli yapılara ev sahipliği yapıyor. Abidinpaşa Köşkü, Ankara'nın coğrafi yapısını ve iklimini yansıtan bir mimariye sahip. Müzenin duvarları, Türk milletinin tarihini ve kültürünü yansıtan önemli eserlere ev sahipliği yapıyor. Bu nedenle, müze ziyaretçileri, Ankara'nın coğrafi ve kültürel zenginliklerini keşfetme fırsatı buluyor.
+Abidinpaşa Köşkü Milli Mücadele Müzesi, Ankara'nın merkezi bir bölgesinde yer alıyor. Müze, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak niteliği taşıyor. Müzenin çevresi, Ankara'nın tarihi ve kültürel zenginliklerini yansıtan önemli yapılara ev sahipliği yapıyor. Abidinpaşa Köşkü, Ankara'nın coğrafi yapısını ve iklimini yansıtan bir mimariye sahip. Müzenin duvarları, Türk milletinin tarihini ve kültürünü yansıtan önemli eserlere ev sahipliği yapıyor. Bu nedenle, müze ziyaretçileri, Ankara'nın coğrafi ve kültürel zenginliklerini keşfetme fırsatı buluyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Abidinpaşa Köşkü Milli Mücadele Müzesi'ni ziyaret etmek, Ankara'nın tarih
 - Abidinpaşa Köşkü, milli mücadele döneminde önemli bir merkez olarak görev yapmış
 - Müze, Türk milletinin bağımsızlık mücadelesine tanıklık etmiş
 - Abidinpaşa Köşkü, Ankara'nın tarihi ve kültürel zenginliklerini yansıtan önemli yapılara ev sahipliği yapıyor
-- Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulu
+
 - Müze, Türk milletinin tarihini ve kültürünü yansıtan önemli eserlere ev sahipliği yapıyor

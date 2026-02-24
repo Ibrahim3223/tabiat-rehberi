@@ -50,7 +50,7 @@ Abdülfettah Ağa Hamamı ve plaj alanını ziyaret etmek, hem tarihi bir hamam 
 ## İlginç Bilgiler
 
 - Abdülfettah Ağa Hamamı, tarihi bir hamam ve plaj alanıdır.
-- Bu bölge, 140 hektarlık bir yeşil alanın içerisinde yer alır.
+
 - Abdülfettah Ağa Hamamı, Ege Bölgesi'nin güneşli ve sıcak ikliminin hüküm sürdüğü bir bölgede yer alır.
 - Bu bölge, çeşitli bitki türleri ile örtülüdür ve yaban hayatı açısından da zengin bir alandır.
 - Abdülfettah Ağa Hamamı ve plaj alanı, yılın her dönemi ziyaret edilebilir.

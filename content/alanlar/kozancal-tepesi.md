@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Kozançal Tepesi","caption":"Kozançal Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozan%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200804","tip":"genel"}]
-description: "Çankırı'nın İç Anadolu Bölgesi'nde yer alan Kozançal Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kozançal Tepesi","Çankırı","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32200804"
@@ -49,7 +49,6 @@ Kozançal Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini ve doğal 
 
 ## İlginç Bilgiler
 
-- Kozançal Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda.
 - Kozançal Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısını temsil ediyor.
 - Tepenin eteklerinde yer alan ovalar ve vadiler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor.

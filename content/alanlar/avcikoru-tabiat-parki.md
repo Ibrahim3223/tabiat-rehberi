@@ -21,7 +21,7 @@ aktiviteler: ["Yürüyüş","Doğa Gözlemi","Fotografçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vernet_-_31_juillet_1830_-_Louis-Philippe_quitte_le_Palais-Royal.jpg/960px-Vernet_-_31_juillet_1830_-_Louis-Philippe_quitte_le_Palais-Royal.jpg","alt":"Avcıkoru Tabiat Parkı","caption":"Avcıkoru Tabiat Parkı","credit":"Vernet - 31 juillet 1830 - Louis-Philippe quitte le Palais-Royal.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avc%C4%B1koru%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623318","tip":"genel"}]
-description: "İstanbul'un doğal güzelliklerini keşfedin. Avcıkoru Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+description: "İstanbul'un doğal güzelliklerini keşfedin."
 keywords: ["Avcıkoru Tabiat Parkı","İstanbul","Marmara Bölgesi","Tabiat Parkı","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Seyahati"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30623318"
@@ -29,7 +29,7 @@ wikidata_id: "Q30623318"
 
 # Avcıkoru Tabiat Parkı
 
-Avcıkoru Tabiat Parkı, İstanbul'un kalbinde, Marmara Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Avcıkoru Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
+ Parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Avcıkoru Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

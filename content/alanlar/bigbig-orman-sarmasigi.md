@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi","pikn
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Bığbığ Orman Sarmaşığı","caption":"Bığbığ Orman Sarmaşığı","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B1%C4%9Fb%C4%B1%C4%9F%20Orman%20Sarma%C5%9F%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30589996","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["orman","sarmaşık","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30589996"
@@ -28,7 +28,7 @@ wikidata_id: "Q30589996"
 
 # Bığbığ Orman Sarmaşığı
 
-Bığbığ Orman Sarmaşığı, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil cennet. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğanın sesine kula veren bir mekan. Orman sarmaşığı, her mevsim farklı bir güzelliğe bürünüyor. İlkbaharın yeşili, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, bu ormanı her zaman özel kılıyor.
+ Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğanın sesine kula veren bir mekan. Orman sarmaşığı, her mevsim farklı bir güzelliğe bürünüyor. İlkbaharın yeşili, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, bu ormanı her zaman özel kılıyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Bığbığ Orman Sarmaşığı, ziyaretçilerine doğanın güzelliğini sunuyor
 
 ## İlginç Bilgiler
 
-- Ormanın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer
 - Orman, yüzyıllar boyunca bölgenin önemli bir parçası olarak kabul ediliyor
 - Ormanda, çeşitli ağaç türleri, çalılar ve otlar yer alıyor
 - Orman, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor

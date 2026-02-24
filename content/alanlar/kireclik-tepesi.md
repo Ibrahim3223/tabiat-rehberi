@@ -28,7 +28,7 @@ wikidata_id: "Q34803760"
 
 # Kireçlik Tepesi
 
-Kireçlik Tepesi, İç Anadolu Bölgesi'nin Kırıkkale ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Kireçlik Tepesi, ziyaretçilerine doğal güzellikleri ve tarihi değerleriyle birlikte unutulmaz bir deneyim sunuyor. Bu bölge, özellikle doğa severler ve tarih meraklıları için önemli bir destinasyon. Kireçlik Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Ziyaretçiler, bu tepeye çıkarak hem doğal güzellikleri hem de tarihi yapıları görebiliyor.
+Kireçlik Tepesi, İç Anadolu Bölgesi'nin Kırıkkale ilinde yer alan bir tepe. Kireçlik Tepesi, ziyaretçilerine doğal güzellikleri ve tarihi değerleriyle birlikte unutulmaz bir deneyim sunuyor. Bu bölge, özellikle doğa severler ve tarih meraklıları için önemli bir destinasyon. Kireçlik Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Ziyaretçiler, bu tepeye çıkarak hem doğal güzellikleri hem de tarihi yapıları görebiliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kireçlik Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için �
 
 ## İlginç Bilgiler
 
-- Kireçlik Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, Kırıkkale ilinin merkezine yakın bir konumda yer alıyor.
 - Kireçlik Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Bu bölgede, mevsimsel değişimler nedeniyle farklı hava koşulları yaşanıyor.

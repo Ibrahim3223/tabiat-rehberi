@@ -30,7 +30,7 @@ wikidata_id: "Q4765968"
 
 # Türk Hava Kurumu Müzesi
 
-Türk Hava Kurumu Müzesi, Ankara'nın Etimesgut ilçesinde yer alan ve havacılık tarihine adanmış bir mekan. Bu müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve içerisinde çeşitli uçaklar, havacılık ekipmanları ve tarihi belgeler sergileniyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir perspektif sunuyor. Türk Hava Kurumu Müzesi, havacılık meraklıları ve tarih severler için önemli bir destinasyon.
+Türk Hava Kurumu Müzesi, Ankara'nın Etimesgut ilçesinde yer alan ve havacılık tarihine adanmış bir mekan. Türk Hava Kurumu Müzesi, havacılık meraklıları ve tarih severler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Türk Hava Kurumu Müzesi'ni ziyaret etmek, özellikle havacılık meraklıları
 ## İlginç Bilgiler
 
 - Türk Hava Kurumu Müzesi, havacılık tarihine adanmış Türkiye'deki önemli bir mekan.
-- Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - İçerisinde çeşitli uçaklar, havacılık ekipmanları ve tarihi belgeler sergileniyor.
 - Müze, yılın her döneminde ziyaret edilebilir.
 - Rehberli turlarla daha detaylı bilgi sahibi olma mümkün.

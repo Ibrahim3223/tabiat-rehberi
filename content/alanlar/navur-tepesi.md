@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Navur Tepesi","caption":"Navur Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Navur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387667","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Navur Tepesi, 140 hektarlık alanı ve zengin fauna ile dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Navur Tepesi","İç Anadolu Bölgesi","doğal güzellik","fauna","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387667"
@@ -49,7 +49,6 @@ Navur Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için unutu
 
 ## İlginç Bilgiler
 
-- Navur Tepesi, 140 hektarlık alanı ile dikkat çekiyor
 - Bu tepe, zengin fauna ile karşılaşma fırsatı veriyor
 - Navur Tepesi, yıl boyunca ziyaretçilerini ağırlıyor
 - Bu tepe, doğa severlerin ve tarih meraklılarının ortak buluşma noktası olarak kabul ediliyor

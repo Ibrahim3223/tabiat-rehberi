@@ -49,7 +49,7 @@ Hodulbaba Tepe, ziyaretçilerini doğal güzellikleri ve tarihi değerleri ile k
 ## İlginç Bilgiler
 
 - Hodulbaba Tepe, Afyonkarahisar ilinin sınırları içinde yer alıyor
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor
+
 - Hodulbaba Tepe, Ege Bölgesi'nin önemli doğal güzelliklerinden biri
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge
 - Hodulbaba Tepe, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip

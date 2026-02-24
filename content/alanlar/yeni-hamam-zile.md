@@ -50,7 +50,7 @@ Yeni Hamam, Zile, ziyaretçilerine birçok aktivite imkanı sunar. Bu bölgede, 
 ## İlginç Bilgiler
 
 - Yeni Hamam, Zile, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Yeni Hamam, Zile'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır
 - Bu bölgede, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi ve kültürel zenginlikleri deneyimleyebilir
 - Yeni Hamam, Zile, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder

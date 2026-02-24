@@ -29,7 +29,7 @@ wikidata_id: "Q134728310"
 
 # Daskyleion Tümülüsü 4
 
-Daskyleion Tümülüsü 4, Bandırma'nın zengin tarihi mirasının önemli bir parçasıdır. Bu tarihi alan, Marmara Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir arkeolojik sit alanıdır. Daskyleion Tümülüsü 4, geçmişin gizemli duvarları arasında kaybolmak isteyenler için ideal bir destinasyon. Bu tarihi mekan, ziyaretçilere Marmara Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunuyor.
+Daskyleion Tümülüsü 4, Bandırma'nın zengin tarihi mirasının önemli bir parçasıdır. Daskyleion Tümülüsü 4, geçmişin gizemli duvarları arasında kaybolmak isteyenler için ideal bir destinasyon. Bu tarihi mekan, ziyaretçilere Marmara Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

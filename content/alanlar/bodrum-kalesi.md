@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Kale gezi","Plaj aktiviteleri","Doğa yürüyüşü","Tarih araştırması"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/BodrumCastlesoutheast.jpg","alt":"Bodrum Kalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bodrum_Kalesi_13.jpg/960px-Bodrum_Kalesi_13.jpg","alt":"Bodrum Kalesi","caption":"Bodrum Kalesi","credit":"Bodrum Kalesi 13","license":"CC BY 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Bodrum_Kalesi_Denizden_G%C3%B6r%C3%BCn%C3%BCm_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bodrum_Kalesi_Denizden_G%C3%B6r%C3%BCn%C3%BCm_2015.jpg/1280px-Bodrum_Kalesi_Denizden_G%C3%B6r%C3%BCn%C3%BCm_2015.jpg","alt":"Bodrum Kalesi - Bodrum Kalesi Denizden Görünüm 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/77/Bodrum_Kalesi_ve_Mendirek_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bodrum_Kalesi_ve_Mendirek_2015.jpg/1280px-Bodrum_Kalesi_ve_Mendirek_2015.jpg","alt":"Bodrum Kalesi - Bodrum Kalesi ve Mendirek 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Bodrum_Kalesi_ve_Yelkenliler_2015.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bodrum_Kalesi_ve_Yelkenliler_2015.jpg/1280px-Bodrum_Kalesi_ve_Yelkenliler_2015.jpg","alt":"Bodrum Kalesi - Bodrum Kalesi ve Yelkenliler 2015","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/60/Bodrum_kalesi_i%C3%A7_liman.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bodrum_kalesi_i%C3%A7_liman.jpg/1280px-Bodrum_kalesi_i%C3%A7_liman.jpg","alt":"Bodrum Kalesi - Bodrum kalesi iç liman","credit":"Denizcelife","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Bodrum_kalesi_d%C4%B1%C5%9F_duvar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bodrum_kalesi_d%C4%B1%C5%9F_duvar%C4%B1.jpg/1280px-Bodrum_kalesi_d%C4%B1%C5%9F_duvar%C4%B1.jpg","alt":"Bodrum Kalesi - Bodrum kalesi dış duvarı","credit":"Denizcelife","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bodrum%20Kalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q1113602","tip":"genel"}]
 description: "Bodrum Kalesi, Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri"
@@ -50,7 +50,6 @@ Bodrum Kalesi, ziyaretçilere zengin bir tarihi geçmiş sunmaktadır. Ziyaretç
 
 ## İlginç Bilgiler
 
-- Bodrum Kalesi, 140 hektarlık bir alana sahiptir
 - Kale, deniz seviyesinden yüksek bir konumdate bulunmaktadır
 - Bodrum Kalesi, çeşitli bitki türleri ve hayvanlar ile çevrilidir
 - Kale, güzel plajları ve zengin fauna çeşitliliği ile dikkat çekmektedir

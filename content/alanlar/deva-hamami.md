@@ -38,7 +38,7 @@ Deva Hamamı'nın tarihi geçmişi, vùngün tarihine bağlı olarak yüzyıllar
 
 ## Coğrafya
 
-Deva Hamamı, Diyarbakır'ın Sur ilçesinde yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Deva Hamamı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu bölge, yüksek bir konumda yer almaktadır. Deva Hamamı, çevresindeki dağlar ve vadilerle birlikte, birçok farklı coğrafi yapıya ev sahipliği yapmaktadır. Bu bölge, birçok nehir ve derenin birleştiği bir noktada yer almaktadır. Deva Hamamı, ziyaretçilerine, doğal güzelliği ile birlikte, birçok farklı coğrafi yapıyı sunmaktadır.
+Deva Hamamı, Diyarbakır'ın Sur ilçesinde yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Bu bölge, yüksek bir konumda yer almaktadır. Deva Hamamı, çevresindeki dağlar ve vadilerle birlikte, birçok farklı coğrafi yapıya ev sahipliği yapmaktadır. Bu bölge, birçok nehir ve derenin birleştiği bir noktada yer almaktadır. Deva Hamamı, ziyaretçilerine, doğal güzelliği ile birlikte, birçok farklı coğrafi yapıyı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Deva Hamamı, ziyaretçilerine, birçok farklı aktivite sunmaktadır. Bu bölge
 ## İlginç Bilgiler
 
 - Deva Hamamı, Diyarbakır'ın Sur ilçesinde yer alır.
-- Bu bölge, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Deva Hamamı, birçok farklı bitki ve hayvan türüne ev sahipliği yapmaktadır.
 - Bu bölge, birçok farklı coğrafi yapıya ev sahipliği yapmaktadır.
 - Deva Hamamı, ziyaretçilerine, birçok farklı aktivite sunmaktadır.

@@ -36,7 +36,7 @@ Davda Tepe'nin tarihi geçmişi, Karaman'ın tarihine paralel olarak şekillenmi
 
 ## Coğrafya
 
-Davda Tepe, Karaman şehrinin güneyinde yer alan bir tepe ve bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve bölgenin coğrafi yapısını oluşturan önemli bir parçasıdır. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Davda Tepe, aynı zamanda bölgeninsu kaynaklarına da ev sahipliği yapmaktadır. Bölgenin coğrafi yapısı, ziyaretçilere farklı deneyimler sunar. Ziyaretçiler, bölgenin doğal güzelliklerini keşfedebilir, trekking ve doğa yürüyüşü gibi faaliyetleri gerçekleştirebilirler. Davda Tepe, aynı zamanda bölgenin flora ve faunasını gözlemlemek için de ideal bir noktadır. Bölge, farklı türlerde bitkiler ve hayvanlar barındırmaktadır.
+Davda Tepe, Karaman şehrinin güneyinde yer alan bir tepe ve bölgedir. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Davda Tepe, aynı zamanda bölgeninsu kaynaklarına da ev sahipliği yapmaktadır. Bölgenin coğrafi yapısı, ziyaretçilere farklı deneyimler sunar. Ziyaretçiler, bölgenin doğal güzelliklerini keşfedebilir, trekking ve doğa yürüyüşü gibi faaliyetleri gerçekleştirebilirler. Davda Tepe, aynı zamanda bölgenin flora ve faunasını gözlemlemek için de ideal bir noktadır. Bölge, farklı türlerde bitkiler ve hayvanlar barındırmaktadır.
 
 ## Flora ve Fauna
 

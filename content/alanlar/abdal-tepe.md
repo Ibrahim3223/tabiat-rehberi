@@ -29,7 +29,7 @@ wikidata_id: "Q31389686"
 
 # Abdal Tepe
 
-Abdal Tepe, Kastamonu'nun merkezi bir konumda yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa alanıdır. Abdal Tepe, ziyaretçilerini Karadeniz Bölgesi'nin eşsiz güzellikleriyle buluşturuyor. Tepe, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor. Ziyaretçiler, tepeye tırmanırken, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfedebilirler.
+ Abdal Tepe, ziyaretçilerini Karadeniz Bölgesi'nin eşsiz güzellikleriyle buluşturuyor. Tepe, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor. Ziyaretçiler, tepeye tırmanırken, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdal Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tepe, bö
 
 ## Coğrafya
 
-Abdal Tepe, Kastamonu'nun merkezi bir konumda yer alan, Karadeniz Bölgesi'nin önemli bir doğal güzelliğidir. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip. Tepe, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor. Bölge, genellikle yağışlı ve nemli bir iklimi bulunuyor. Abdal Tepe, ziyaretçilerine, Karadeniz Bölgesi'nin eşsiz güzelliklerini keşfetme fırsatı sunuyor. Tepe, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor.
+Abdal Tepe, Kastamonu'nun merkezi bir konumda yer alan, Karadeniz Bölgesi'nin önemli bir doğal güzelliğidir. Bu alan, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip. Tepe, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor. Bölge, genellikle yağışlı ve nemli bir iklimi bulunuyor. Abdal Tepe, ziyaretçilerine, Karadeniz Bölgesi'nin eşsiz güzelliklerini keşfetme fırsatı sunuyor. Tepe, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Abdal Tepe, ziyaretçilerine, Karadeniz Bölgesi'nin eşsiz güzelliklerini keş
 ## İlginç Bilgiler
 
 - Abdal Tepe, Kastamonu'nun merkezi bir konumda yer alıyor.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Abdal Tepe, Karadeniz Bölgesi'nin önemli bir doğal güzelliğidir.
 - Tepe, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip.
 - Abdal Tepe, yılın her mevsiminde ziyaret edilebilir.

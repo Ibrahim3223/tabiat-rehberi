@@ -21,7 +21,7 @@ aktiviteler: ["gezi","fotoğrafçılık","doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Elif Anıt Mezarı","caption":"Elif Anıt Mezarı","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elif%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728156","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nde yer alan Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde bulunmaktadır. 140 hektarlık bir alanı kapsayan bu mezar, bölgenin tarihi ve kültürel zenginliğine önemli bir katkıda bulunmaktadır."
+description: "Güneydoğu Anadolu Bölgesi'nde yer alan Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde bulunmaktadır."
 keywords: ["Elif Anıt Mezarı","Araban","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","kültür","mezar","anıt"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728156"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728156"
 
 # Elif Anıt Mezarı
 
-Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan ve 140 hektarlık bir alanı kapsayan önemli bir tarihi ve kültürel mekândır. Bu mezar, bölgenin zengin tarihine ve kültürüne önemli bir katkıda bulunmakta olup, ziyaretçilere hem tarihi hem de kültürel açıdan önemli bir deneyim sunmaktadır. Elif Anıt Mezarı, bölgenin önemli bir turizm merkezi olarak görülmektedir.
+ Bu mezar, bölgenin zengin tarihine ve kültürüne önemli bir katkıda bulunmakta olup, ziyaretçilere hem tarihi hem de kültürel açıdan önemli bir deneyim sunmaktadır. Elif Anıt Mezarı, bölgenin önemli bir turizm merkezi olarak görülmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Elif Anıt Mezarı'nın tarihi geçmişi, bölgenin tarihine önemli bir katkıd
 
 ## Coğrafya
 
-Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer almaktadır. Bu mezar, 140 hektarlık bir alanı kapsamakta olup, bölgenin coğrafi yapısına önemli bir katkıda bulunmaktadır. Mezarın çevresi, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğal bir ortam sunmaktadır. İklim, bölgenin genel iklimine uygun olarak sıcak ve kurak bir yapıya sahiptir. Elif Anıt Mezarı, bölgenin coğrafi yapısına önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır. Mezarın konumu, bölgenin merkezi bir noktasında yer almakta olup, ziyaretçilerin kolayca ulaşabilmesine olanak sağlamaktadır. Elif Anıt Mezarı, bölgenin coğrafi yapısına ve iklimine önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır.
+Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer almaktadır. Mezarın çevresi, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğal bir ortam sunmaktadır. İklim, bölgenin genel iklimine uygun olarak sıcak ve kurak bir yapıya sahiptir. Elif Anıt Mezarı, bölgenin coğrafi yapısına önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır. Mezarın konumu, bölgenin merkezi bir noktasında yer almakta olup, ziyaretçilerin kolayca ulaşabilmesine olanak sağlamaktadır. Elif Anıt Mezarı, bölgenin coğrafi yapısına ve iklimine önemli bir katkıda bulunmakta olup, ziyaretçilere önemli bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Elif Anıt Mezarı, ziyaretçilere önemli bir deneyim sunmaktadır. Mezarın ko
 
 ## İlginç Bilgiler
 
-- Elif Anıt Mezarı, 140 hektarlık bir alanı kapsamaktadır.
 - Mezarın çevresinde, çeşitli bitki türleri bulunmakta olup, ziyaretçilere doğal bir ortam sunmaktadır.
 - Bölgenin fauna yapısı, çeşitli hayvan türleri ile zengin bir yapıya sahiptir.
 - Elif Anıt Mezarı, bölgenin önemli bir turizm merkezi olarak görülmektedir.

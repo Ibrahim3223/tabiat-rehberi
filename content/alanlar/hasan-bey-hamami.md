@@ -29,7 +29,7 @@ wikidata_id: "Q131738648"
 
 # Hasan Bey Hamamı
 
-Marmara Bölgesi'nin güzide illerinden Bursa'nın Mudanya ilçesinde yer alan Hasan Bey Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan ve Marmara Denizi'nin serin sularına nazır bir konumda bulunan bir plaj ve doğa alanıdır. Hasan Bey Hamamı, Marmara Denizi'nin serin sularına ve yeşilin her tonuna sahip doğasıyla ziyaretçilerini bekliyor.
+ Hasan Bey Hamamı, Marmara Denizi'nin serin sularına ve yeşilin her tonuna sahip doğasıyla ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hasan Bey Hamamı, tarihinin derinliklerinde gizli bir geçmişe sahip. Tarihi g
 
 ## Coğrafya
 
-Hasan Bey Hamamı, Marmara Denizi'nin kıyısında, Mudanya ilçesinin sınırları içerisinde yer alıyor. Bu konum, ziyaretçilerine denizin serin sularına ve güneşin ılıman ışınlarına karşı bir zemin sunuyor. Bölge, yeşilin her tonuna sahip zengin bir flora ve fauna ile çevrilidir. Hasan Bey Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, ziyaretçilerine geniş ve ferah bir mekan sunuyor. Coğrafi olarak, Hasan Bey Hamamı, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, Marmara Denizi'nin kıyısında yer aldığı için, iklimi ılımandır ve ziyaretçilerine dört mevsim boyunca güzel günler vaat ediyor. Ayrıca, Hasan Bey Hamamı'nın etrafında, yeşilin her tonuna sahip ormanlar ve doğal güzellikler yer alıyor.
+Hasan Bey Hamamı, Marmara Denizi'nin kıyısında, Mudanya ilçesinin sınırları içerisinde yer alıyor. Bu konum, ziyaretçilerine denizin serin sularına ve güneşin ılıman ışınlarına karşı bir zemin sunuyor. Bölge, yeşilin her tonuna sahip zengin bir flora ve fauna ile çevrilidir. Coğrafi olarak, Hasan Bey Hamamı, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, Marmara Denizi'nin kıyısında yer aldığı için, iklimi ılımandır ve ziyaretçilerine dört mevsim boyunca güzel günler vaat ediyor. Ayrıca, Hasan Bey Hamamı'nın etrafında, yeşilin her tonuna sahip ormanlar ve doğal güzellikler yer alıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hasan Bey Hamamı, ziyaretçilerine dört mevsim boyunca güzel günler vaat edi
 ## İlginç Bilgiler
 
 - Hasan Bey Hamamı, Marmara Denizi'nin serin sularına nazır bir konumda bulunuyor.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Hasan Bey Hamamı, yeşilin her tonuna sahip zengin bir flora ve fauna ile çevrilidir.
 - Bölge, çeşitli ağaç türleri, çiçekler ve diğer bitkiler ile dolu.
 - Hasan Bey Hamamı, ziyaretçilerine dört mevsim boyunca güzel günler vaat ediyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q32210350"
 
 # Körük Tepesi
 
-Körük Tepesi, Ordu ilinin doğal güzelliklerinin öne çıktığı bir bölge. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Körük Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Körük Tepesi, Ordu'nun önemli turizm noktalarından biri olarak biliniyor.
+Körük Tepesi, Ordu ilinin doğal güzelliklerinin öne çıktığı bir bölge. Körük Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Körük Tepesi, Ordu'nun önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Körük Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölg
 
 ## Coğrafya
 
-Körük Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, dağlık ve engebeli bir yapıya sahip. Körük Tepesi, Ordu ilinin kuzeyinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Körük Tepesi'nin coğrafi konumu, bölgenin iklimini etkiliyor. Bu bölge, Karadeniz ikliminin característicasını taşıyor. Körük Tepesi, yeşilin çeşitli tonlarını sunan bir bölge. Bu tepe, Ordu'nun coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Körük Tepesi'nin çevresi, çeşitli bitki türleri ve fauna ile kaplı.
+Körük Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, dağlık ve engebeli bir yapıya sahip. Körük Tepesi, Ordu ilinin kuzeyinde yer alıyor. Körük Tepesi'nin coğrafi konumu, bölgenin iklimini etkiliyor. Bu bölge, Karadeniz ikliminin característicasını taşıyor. Körük Tepesi, yeşilin çeşitli tonlarını sunan bir bölge. Bu tepe, Ordu'nun coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Körük Tepesi'nin çevresi, çeşitli bitki türleri ve fauna ile kaplı.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Körük Tepesi'ni ziyaret etmek, Ordu'nun doğal güzelliklerini keşfetmek iste
 ## İlginç Bilgiler
 
 - Körük Tepesi, Ordu ilinin en önemli turizm noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Körük Tepesi, çeşitli bitki türleri ve fauna ile zengin bir bölge.
 - Bu bölge, Karadeniz ikliminin característicasını taşıyor.
 - Körük Tepesi, Ordu'nun coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.

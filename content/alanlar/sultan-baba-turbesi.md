@@ -38,7 +38,7 @@ Sultan Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Sultan Baba Türbesi, Kocaeli'nin Gölcük ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu coğrafi bölge, çeşitli iklim ve toprak koşullarına sahip ve bu nedenle flora ve fauna açısından zengin. Sultan Baba Türbesi'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve bu genişlik, ziyaretçilere geniş bir hareket alanı sağlıyor. Coğrafi konumu itibariyle, Sultan Baba Türbesi'nin etrafı ormanlık alanlarla çevrili ve bu nedenle ziyaretçiler, doğanın güzelliğini keşfedebiliyor. Coğrafi olarak önemli bir konumda yer alan Sultan Baba Türbesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri olarak kabul ediliyor.
+Sultan Baba Türbesi, Kocaeli'nin Gölcük ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu coğrafi bölge, çeşitli iklim ve toprak koşullarına sahip ve bu nedenle flora ve fauna açısından zengin. Coğrafi konumu itibariyle, Sultan Baba Türbesi'nin etrafı ormanlık alanlarla çevrili ve bu nedenle ziyaretçiler, doğanın güzelliğini keşfedebiliyor. Coğrafi olarak önemli bir konumda yer alan Sultan Baba Türbesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

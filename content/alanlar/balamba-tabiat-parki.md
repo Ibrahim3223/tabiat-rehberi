@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png","alt":"Balamba Tabiat Parkı manzarası","credit":"Cccefalon; Pushpin: McSush","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png/960px-SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png","alt":"Balamba Tabiat Parkı","caption":"Balamba Tabiat Parkı","credit":"SouthernPartofSabah-Scheme-PulauBalambangan Pushpin","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balamba%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Bartın'da yer alan 140 hektarlık doğal güzellik"
+
 keywords: ["Bartın","Karadeniz Bölgesi","Tabiat Parkı","Doğal Alan","Yeşil Alan","Çevre","Ekosistem","Doğa","Gezi"]
 schema_type: "TouristAttraction"
 ---

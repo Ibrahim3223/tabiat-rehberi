@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Piknik","Manzara İzleme","Fotoğrafçılı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Mantardağı Tepesi","caption":"Mantardağı Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mantarda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558690","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinden biri olan Mantardağı Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ankara'nın doğal güzelliklerinden biri olan Mantardağı Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor."
 keywords: ["Mantardağı Tepesi","Ankara","Doğal Alan","Tepeler","Yeşil Alan","Futbol Saha","Manzara","Ziyaretçi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558690"
@@ -48,7 +48,6 @@ Mantardağı Tepesi'ni ziyaret etmek, doğa severler için büyük bir keyif ola
 
 ## İlginç Bilgiler
 
-- Mantardağı Tepesi, 140 hektarlık bir yeşil alana sahiptir.
 - Tepenin zirvesine tırmanmak, ziyaretçilere daha geniş bir görüş açısı sunar.
 - Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır.
 - Mantardağı Tepesi, yılın her mevsiminde farklı bir güzellik sunar.

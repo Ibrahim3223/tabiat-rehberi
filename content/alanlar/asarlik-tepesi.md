@@ -49,7 +49,7 @@ Asarlık Tepesi'ni ziyaret etmek, oldukça kolay. Bu tepe, Bolu merkezine yakın
 ## İlginç Bilgiler
 
 - Asarlık Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor
-- Bu tepe, 140 hektarlık bir alanı kaplıyor
+
 - Asarlık Tepesi, flora ve fauna açısından oldukça zengin bir bölge
 - Tepenin yüksekliği, ziyaretçilerine, bölgenin tüm güzelliğini sunuyor
 - Asarlık Tepesi, her yıl binlerce ziyaretçi tarafından keşfediliyor

@@ -36,7 +36,7 @@ Leylekdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Leylekdağı Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, 140 hektarlık bir doğal alan olarak dikkat çekmektedir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Leylekdağı Tepesi, ziyaretçilerine güzel bir manzara sunmaktadır. Tepenin yüksekliği ve etrafındaki doğal güzellikler, burayı bir gezi noktası haline getirmiştir. Leylekdağı Tepesi, aynı zamanda yaban hayatı açısından da önemli bir bölgedir. Tepenin etrafındaki fauna, burayı bir doğa koruma alanı haline getirmiştir. Leylekdağı Tepesi'nin coğrafi konumu, burayı bir doğa harikası haline getirmiştir. Tepenin etrafındaki iklim ve çevre koşulları, burayı bir gezi noktası haline getirmiştir. Leylekdağı Tepesi, aynı zamanda ekolojik açıdan da önemli bir bölgedir. Tepenin etrafındaki flora ve fauna, burayı bir doğa koruma alanı haline getirmiştir.
+ Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Leylekdağı Tepesi, ziyaretçilerine güzel bir manzara sunmaktadır. Tepenin yüksekliği ve etrafındaki doğal güzellikler, burayı bir gezi noktası haline getirmiştir. Leylekdağı Tepesi, aynı zamanda yaban hayatı açısından da önemli bir bölgedir. Tepenin etrafındaki fauna, burayı bir doğa koruma alanı haline getirmiştir. Leylekdağı Tepesi'nin coğrafi konumu, burayı bir doğa harikası haline getirmiştir. Tepenin etrafındaki iklim ve çevre koşulları, burayı bir gezi noktası haline getirmiştir. Leylekdağı Tepesi, aynı zamanda ekolojik açıdan da önemli bir bölgedir. Tepenin etrafındaki flora ve fauna, burayı bir doğa koruma alanı haline getirmiştir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Leylekdağı Tepesi'ni ziyaret etmek, bir doğa sever için harika bir deneyim o
 
 ## İlginç Bilgiler
 
-- Leylekdağı Tepesi, 140 hektarlık bir doğal alan olarak dikkat çekmektedir
 - Leylekdağı Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir
 - Leylekdağı Tepesi, yaban hayatı açısından da önemli bir bölgedir
 - Leylekdağı Tepesi, ekolojik açıdan da önemli bir bölgedir

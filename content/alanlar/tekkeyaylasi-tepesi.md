@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara seyretme","Fotoğraf çekme","Picni
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Tekkeyaylası Tepesi","caption":"Tekkeyaylası Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekkeyaylas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389332","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Tekkeyaylası Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tekkeyaylası Tepesi","Mersin","Akdeniz Bölgesi","tepe","doğa","gezi","turizm","Mersin gezilecek yerler","Akdeniz Bölgesi turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389332"
@@ -48,7 +48,6 @@ Tekkeyaylası Tepesi'ni ziyaret etmek, doğa severler için ideal bir deneyim. B
 
 ## İlginç Bilgiler
 
-- Tekkeyaylası Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, deniz seviyesinden belirli bir yükseklikte yer alıyor
 - Tekkeyaylası Tepesi, flora ve fauna açısından zengin bir bölge
 - Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır

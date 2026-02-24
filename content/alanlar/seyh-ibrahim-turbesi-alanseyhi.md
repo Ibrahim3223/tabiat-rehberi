@@ -50,7 +50,7 @@ wikidata_id: "Q135582717"
 ## İlginç Bilgiler
 
 - Şeyh İbrahim Türbesi, Vezirköprü/Samsun'da yer alan tarihi bir mekan
-- 140 hektarlık yeşil alanı bulunmakta
+
 - Karadeniz Bölgesi'nin doğal güzelliğini sunuyor
 - tarihi geçmişi yüzyıllar öncesine dayanıyor
 - çevresi güneşin batışını izleyebileceğiniz bir noktada bulunmakta

@@ -37,7 +37,7 @@ Cerrah Mehmet Paşa Türbesi, tarihsel geçmişi ile dikkat çekiyor. Geçmişte
 
 ## Coğrafya
 
-Cerrah Mehmet Paşa Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un tarihi merkezi olan Fatih'te yer alır. Türbe ve çevresi, 140 hektarlık bir yeşil alanın içerisinde yer alıyor. Çevresinde, tarihi binalar, camiler ve diğer kültürel varlıklar yer alıyor. Bu bölge, aynı zamanda İstanbul'un önemli ulaşım hatlarına yakınlığı ile dikkat çekiyor. Türbenin mimarisi, geleneksel Osmanlı tarzını yansıtıyor ve tarihi değer taşıyor. Çevrede, çeşitli bitki türleri ve zengin fauna da yer alıyor. Bu bölge, hem tarihsel hem de doğal güzellikleri ile ziyaretçilere çekici geliyor.
+Cerrah Mehmet Paşa Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un tarihi merkezi olan Fatih'te yer alır. Çevresinde, tarihi binalar, camiler ve diğer kültürel varlıklar yer alıyor. Bu bölge, aynı zamanda İstanbul'un önemli ulaşım hatlarına yakınlığı ile dikkat çekiyor. Türbenin mimarisi, geleneksel Osmanlı tarzını yansıtıyor ve tarihi değer taşıyor. Çevrede, çeşitli bitki türleri ve zengin fauna da yer alıyor. Bu bölge, hem tarihsel hem de doğal güzellikleri ile ziyaretçilere çekici geliyor.
 
 ## Flora ve Fauna
 

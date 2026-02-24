@@ -28,7 +28,7 @@ wikidata_id: "Q31386823"
 
 # Razinebi Tepesi
 
-Razinebi Tepesi, Batman'ın doğal güzelliklerini ve tarihi zenginliklerini bir arada sunan önemli bir destinasyondur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar veBatman'ın coğrafi yapısını şekillendiren önemli bir noktadır. Razinebi Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölge, yaban hayatı açısından da oldukça zengindir. Tepenin yüksekliği, Batman'ın şehir merkezinden görülebilecek bir noktada olup, buradan şehrin ve çevresinin güzel manzaralarını izleme mümkündür. Razinebi Tepesi, hem doğal güzellikleri hem de tarihi önemi nedeniyle, bölgeyi ziyaret edenler için önemli bir gezi noktasıdır.
+Razinebi Tepesi, Batman'ın doğal güzelliklerini ve tarihi zenginliklerini bir arada sunan önemli bir destinasyondur. Razinebi Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölge, yaban hayatı açısından da oldukça zengindir. Tepenin yüksekliği, Batman'ın şehir merkezinden görülebilecek bir noktada olup, buradan şehrin ve çevresinin güzel manzaralarını izleme mümkündür. Razinebi Tepesi, hem doğal güzellikleri hem de tarihi önemi nedeniyle, bölgeyi ziyaret edenler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 

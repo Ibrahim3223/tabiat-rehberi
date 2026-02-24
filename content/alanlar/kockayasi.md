@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Ko%C3%A7kayas%C4%B1_Nature_Park.jpg","alt":"Koçkayası manzarası","credit":"Metehanwow","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-2.jpg/1280px-Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-2.jpg","alt":"Koçkayası - Koçkayası Yaylası, Giresun 01-2","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/30/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg/1280px-Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg","alt":"Koçkayası - Koçkayası Yaylası, Giresun 01-1","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7kayas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228176","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Koçkayası","İç Anadolu Bölgesi","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228176"
@@ -43,7 +43,6 @@ Koçkayası, ziyaretçilerine birçok aktivite sunuyor. Bu doğal alan, ziyaret�
 
 ## İlginç Bilgiler
 
-- Koçkayası, 140 hektarlık bir yeşil alana sahip
 - Koçkayası, İç Anadolu Bölgesi'nde yer alıyor
 - Koçkayası, ziyaretçilerine birçok aktivite sunuyor
 - Koçkayası, doğa severlerin ve huzur arayanların kaçırmaması gereken bir destinasyon

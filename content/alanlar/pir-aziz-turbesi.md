@@ -37,7 +37,7 @@ Pir Aziz Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Pir Aziz Türbesi, Giresun'un Piraziz ilçesinde yer alır ve Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, dağlık ve engebeli araziye sahiptir ve iklim, Karadeniz ikliminin karakteristik özelliklerini gösterir. Yörede, yağışlı ve nemli bir iklim hakimdir ve bu, flora ve faunayı etkileyen önemli bir faktördür. Giresun'un coğrafi konumu, bu bölgede çeşitli bitki türlerinin yetişmesine olanak sağlar ve fauna da, bu coğrafi koşullara uyum gösteren canlılarla zenginleştirilmiştir. 140 hektarlık alan, ziyaretçilere geniş bir faaliyet alanı sunar ve bu genişlik, hem doğal güzellikleri hem de tarihi yapıları keşfetmek için idealdir. Bu bölge, Karadeniz Bölgesi'nin güzide noktalarından biri olarak kabul edilir ve coğrafi konumu, flora ve fauna, ziyaretçilere benzersiz bir deneyim sunar.
+Pir Aziz Türbesi, Giresun'un Piraziz ilçesinde yer alır ve Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, dağlık ve engebeli araziye sahiptir ve iklim, Karadeniz ikliminin karakteristik özelliklerini gösterir. Yörede, yağışlı ve nemli bir iklim hakimdir ve bu, flora ve faunayı etkileyen önemli bir faktördür. Giresun'un coğrafi konumu, bu bölgede çeşitli bitki türlerinin yetişmesine olanak sağlar ve fauna da, bu coğrafi koşullara uyum gösteren canlılarla zenginleştirilmiştir. Bu bölge, Karadeniz Bölgesi'nin güzide noktalarından biri olarak kabul edilir ve coğrafi konumu, flora ve fauna, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

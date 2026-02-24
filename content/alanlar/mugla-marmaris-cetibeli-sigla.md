@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotografçılık","piknik","doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Mugla-Marmaris-Cetibeli Sigla","caption":"Mugla-Marmaris-Cetibeli Sigla","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Marmaris-Cetibeli%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227757","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide illerinden Muğla'da yer alan Marmaris Cetibeli Sigla, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir."
+"
 keywords: ["Marmaris","Cetibeli Sigla","Muğla","Ege Bölgesi","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227757"
@@ -41,8 +41,6 @@ Marmaris Cetibeli Sigla milli parkı, zengin bir flora ve fauna çeşitliliğine
 Marmaris Cetibeli Sigla milli parkını ziyaret etmek, doğa severler ve Photographerlar için harika bir deneyim olabilir. Ziyaretçiler, parkın doğal güzelliğini ve biyolojik çeşitliliğini gözlemleyebilir. Cetibeli Sigla'ya ulaşım, karayolu veya denizyoluyla sağlanabilir. Parka gelen ziyaretçiler, doğa yürüyüşü, fotoğraf çekimi ve piknik gibi aktiviteleri yapabilir. Ziyaretçilerin, milli parkın kurallarına uyması ve doğal environmentı korumaya özen göstermesi gerekiyor.
 
 ## İlginç Bilgiler
-
-- Marmaris Cetibeli Sigla milli parkı, 140 hektarlık bir alanı kapsıyor.
 
 - Cetibeli Sigla, Ege Denizi'ne yakın bir konumda bulunuyor.
 - Milli parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor: ormanlık alanlar, dağlar ve deniz manzaraları.

@@ -50,7 +50,7 @@ Karaağaç Köyü Hamamı, yıl boyunca ziyaret edilebilir. İlkbahar ve yaz ayl
 ## İlginç Bilgiler
 
 - Karaağaç Köyü Hamamı, Marmara Bölgesi'nin saklı cennetidir.
-- Plaj, 140 hektarlık bir alanı kapsar.
+
 - Karaağaç Köyü Hamamı, tarihi ve kültürel açıdan önemli bir yerdir.
 - Plajın yakınında, ormanlık alanlar ve tarım arazileri bulunur.
 - Karaağaç Köyü Hamamı, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.

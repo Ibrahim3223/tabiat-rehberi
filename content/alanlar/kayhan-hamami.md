@@ -30,7 +30,7 @@ wikidata_id: "Q131738647"
 
 # Kayhan Hamamı
 
-Kayhan Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş, tarihi ve doğal güzelliği ile ziyaretçilerini büyüleyen bir destinasyon. Bu büyüleyici mekan, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor.
+ Bu büyüleyici mekan, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ Kayhan Hamamı'na ziyaretçiler, Bursa'nın Osmangazi ilçesine gelirken, hamam�
 - Kayhan Hamamı, Bursa'nın en önemli tarihi ve kültürel miraslarından biridir.
 - Hamam, Osmanlı döneminde inşa edilmiştir.
 - Kayhan Hamamı'nın çevresinde çeşitli bitki türleri ve zengin fauna bulunur.
-- Hamam, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Kayhan Hamamı, Marmara Bölgesi'nin güzide şehri Bursa'nın Osmangazi ilçesinde yer alır.

@@ -36,7 +36,7 @@ Küçükhacet Tepe, tarihsel açıdan önemli bir geçmişe sahip. Bu tepe, yüz
 
 ## Coğrafya
 
-Küçükhacet Tepe, Kastamonu'nun coğrafi yapısında önemli bir yere sahip. Bu tepe, şehrin merkezine yakın bir konumda yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepe, şehrin etrafındaki doğal güzellikleri ile birlikte, ziyaretçilere şehri farklı bir açıdan gören bir gözlem noktası sunuyor. Kastamonu'nun coğrafi özellikleri, tepe etrafında oluşan peyzajın güzelliğini arttırıyor. Tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve bu bölgenin doğal güzelliklerini yansıtıyor. Kastamonu'nun iklimi, tepe etrafındaki bitki örtüsünü ve fauna çeşitliliğini etkileyen önemli bir faktör. Tepe, ziyaretçilere şehrin coğrafi yapısını ve doğal güzelliklerini keşfetme fırsatı sunuyor.
+Küçükhacet Tepe, Kastamonu'nun coğrafi yapısında önemli bir yere sahip. Tepe, şehrin etrafındaki doğal güzellikleri ile birlikte, ziyaretçilere şehri farklı bir açıdan gören bir gözlem noktası sunuyor. Kastamonu'nun coğrafi özellikleri, tepe etrafında oluşan peyzajın güzelliğini arttırıyor. Tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve bu bölgenin doğal güzelliklerini yansıtıyor. Kastamonu'nun iklimi, tepe etrafındaki bitki örtüsünü ve fauna çeşitliliğini etkileyen önemli bir faktör. Tepe, ziyaretçilere şehrin coğrafi yapısını ve doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Küçükhacet Tepe, ziyaretçilerine keyifli bir gezi deneyimi sunuyor. Tepe, Ka
 ## İlginç Bilgiler
 
 - Kastamonu'nun en yüksek noktalarından biri
-- 140 hektarlık bir alanı kaplıyor
+
 - Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor
 - Tarihi geçmişi zengin
 - Doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon

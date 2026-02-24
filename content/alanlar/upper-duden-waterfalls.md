@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Upper%20Duden%20Falls.jpg","alt":"Upper Düden Waterfalls manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/63/D%C3%BCden_Waterfall.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/D%C3%BCden_Waterfall.jpg/1280px-D%C3%BCden_Waterfall.jpg","alt":"Upper Düden Waterfalls - Düden Waterfall","credit":"OnurKAZAR","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Uper_D%C3%BCden_Waterfalls_2018.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Uper_D%C3%BCden_Waterfalls_2018.jpg/1280px-Uper_D%C3%BCden_Waterfalls_2018.jpg","alt":"Upper Düden Waterfalls - Uper Düden Waterfalls 2018","credit":"Azerifactory","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Upper_Duden_Falls.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Upper_Duden_Falls.jpg/1280px-Upper_Duden_Falls.jpg","alt":"Upper Düden Waterfalls - Upper Duden Falls","credit":"Saffron Blaze","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/D%C3%BCden_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/D%C3%BCden_%C5%9Eelalesi.jpg/1280px-D%C3%BCden_%C5%9Eelalesi.jpg","alt":"Upper Düden Waterfalls - Düden Şelalesi","credit":"tr:User:İlluminati31","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Turkey%2C_Antalya%2C_D%C3%BCden_Waterfall_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Turkey%2C_Antalya%2C_D%C3%BCden_Waterfall_-_panoramio.jpg/1280px-Turkey%2C_Antalya%2C_D%C3%BCden_Waterfall_-_panoramio.jpg","alt":"Upper Düden Waterfalls - Turkey, Antalya, Düden Waterfall - panoramio","credit":"Alx R","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Upper%20D%C3%BCden%20Waterfalls","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q72176536","tip":"genel"}]
-description: "Antalya'nın doğal güzelliklerinin başında gelen Upper Düden Waterfalls, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki genişliğine sahiptir."
+"
 keywords: ["Upper Düden Waterfalls","Antalya","Doğal Alan","Yeşil Alan","Şelale"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q72176536"
@@ -52,6 +52,6 @@ Upper Düden Waterfalls'i ziyaret etmek, doğa severler için unutulmaz bir dene
 
 - Upper Düden Waterfalls, Antalya'nın en önemli doğal güzelliklerinden biridir.
 - Şelalenin yüksekliği 40 metredir.
-- Bölge, 140 hektarlık bir yeşil alanı kaplar.
+
 - Ziyaretçiler, şelale etrafında yürüyüş yapabilir ve doğayı keşfedebilir.
 - Upper Düden Waterfalls, yılın her mevsiminde ziyaret edilebilir.

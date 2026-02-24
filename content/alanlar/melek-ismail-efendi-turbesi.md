@@ -29,7 +29,7 @@ wikidata_id: "Q131390531"
 
 # Melek İsmail Efendi Türbesi
 
-Melek İsmail Efendi Türbesi, İç Anadolu Bölgesi'nin kalbinde, Merzifon ilçesinde yer alan tarihi ve kültürel bir miras. Bu özel yer, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini doğanın ve tarihin kucaklaşmasına tanık olmak için davet ediyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan Melek İsmail Efendi Türbesi, Merzifon'un en önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor.
+Melek İsmail Efendi Türbesi, İç Anadolu Bölgesi'nin kalbinde, Merzifon ilçesinde yer alan tarihi ve kültürel bir miras.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Melek İsmail Efendi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayan�
 
 ## Coğrafya
 
-Melek İsmail Efendi Türbesi, Merzifon'un coğrafi olarak zengin bir bölgesinde yer alıyor. Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Coğrafi konumu itibariyle, ziyaretçiler buraya geldiğinde, doğanın güzelliği ile tarihi ve kültürel zenginliği bir arada deneyimleyebiliyorlar. Türbenin çevresi, Merzifon'un diğer tarihi ve kültürel noktalarına da yakın mesafede bulunuyor. Bu nedenle, Melek İsmail Efendi Türbesi, bir gezi rotasının önemli bir parçası olarak kabul ediliyor. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, ziyaretçilere benzersiz bir deneyim sunuyor.
+Melek İsmail Efendi Türbesi, Merzifon'un coğrafi olarak zengin bir bölgesinde yer alıyor. Coğrafi konumu itibariyle, ziyaretçiler buraya geldiğinde, doğanın güzelliği ile tarihi ve kültürel zenginliği bir arada deneyimleyebiliyorlar. Türbenin çevresi, Merzifon'un diğer tarihi ve kültürel noktalarına da yakın mesafede bulunuyor. Bu nedenle, Melek İsmail Efendi Türbesi, bir gezi rotasının önemli bir parçası olarak kabul ediliyor. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Melek İsmail Efendi Türbesi'ni ziyaret etmek, Merzifon'un tarihini ve kültür
 - Melek İsmail Efendi Türbesi, Merzifon'un en önemli dini merkezlerinden biri.
 - Türbenin tarihi, yüzyıllar öncesine dayanıyor.
 - Çevrede, çeşitli bitki türleri ve hayvanlar bulunur.
-- Türbe, 140 hektarlık bir alanı kaplıyor.
+
 - Merzifon'un kültürel zenginliğini deneyimlemek için ideal bir yer.

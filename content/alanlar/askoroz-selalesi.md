@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik","yaban hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Antalya1.jpg/960px-Antalya1.jpg","alt":"Askoroz Şelalesi","caption":"Askoroz Şelalesi","credit":"Antalya1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Askoroz%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320206","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Askoroz Şelalesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Askoroz Şelalesi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","şelale","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q97320206"
@@ -36,7 +36,7 @@ Askoroz Şelalesi'nin tarihi geçmişi, bölgenin jeolojik oluşumuna dayanıyor
 
 ## Coğrafya
 
-Askoroz Şelalesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yüksek bir alanda yer alıyor. Şelalenin bulunduğu alan, 140 hektarlık bir yeşil alanla çevrilidir. Şelalenin çevresi, zengin flora ve fauna ile dolu. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Şelalenin suyu, bölgedeki tarım alanları için yaşam kaynağı olarak görülüyor. Askoroz Şelalesi, bölgenin en önemli turistik noktalarından biri olarak dikkat çekiyor. Şelalenin güzelliği, çevresindeki doğa ile birlikte, ziyaretçilere unutulmaz bir doğa deneyimi sunuyor.
+Askoroz Şelalesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yüksek bir alanda yer alıyor. Şelalenin çevresi, zengin flora ve fauna ile dolu. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Şelalenin suyu, bölgedeki tarım alanları için yaşam kaynağı olarak görülüyor. Askoroz Şelalesi, bölgenin en önemli turistik noktalarından biri olarak dikkat çekiyor. Şelalenin güzelliği, çevresindeki doğa ile birlikte, ziyaretçilere unutulmaz bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 

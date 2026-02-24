@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Kuşpınar Tepesi","caption":"Kuşpınar Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fp%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387016","tip":"genel"}]
-description: "Amasya'nın yeşil örtüsünü keşfedin, 140 hektarlık alanın güzelliğini görün"
+
 keywords: ["Amasya","Kuşpınar Tepesi","Karadeniz Bölgesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387016"

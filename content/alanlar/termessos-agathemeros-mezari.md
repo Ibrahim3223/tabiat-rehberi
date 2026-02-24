@@ -29,7 +29,7 @@ wikidata_id: "Q134728133"
 
 # Termessos Agathemeros Mezarı
 
-Termessos Agathemeros Mezarı, Antalya'nın Döşemealtı ilçesinde yer alan ve tarihi açıdan büyük önem taşıyan bir mezar anıttır. Bu mezar, yaklaşık olarak 140 hektarlık bir alanı kaplayan Termessos Antik Kenti'nin sınırları içerisinde bulunur. Termessos Agathemeros Mezarı, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında önemli ipuçları sunar. Tarihi ve coğrafi konumu itibarıyla, bu mezar Türkiye'nin önemli turisti ve kültürel noktaları arasında yer alır.
+Termessos Agathemeros Mezarı, Antalya'nın Döşemealtı ilçesinde yer alan ve tarihi açıdan büyük önem taşıyan bir mezar anıttır. Termessos Agathemeros Mezarı, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında önemli ipuçları sunar. Tarihi ve coğrafi konumu itibarıyla, bu mezar Türkiye'nin önemli turisti ve kültürel noktaları arasında yer alır.
 
 ## Tarihçe
 

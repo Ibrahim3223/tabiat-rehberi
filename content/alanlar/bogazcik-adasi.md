@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/Kaputas_Beach_from_bridge.JPG","alt":"Boğazcık Adası manzarası","credit":"Wusel007","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kaputas_Beach_from_bridge.JPG/960px-Kaputas_Beach_from_bridge.JPG","alt":"Boğazcık Adası","caption":"Boğazcık Adası","credit":"Kaputas Beach from bridge","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Fazc%C4%B1k%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49633824","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Boğazcık Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."

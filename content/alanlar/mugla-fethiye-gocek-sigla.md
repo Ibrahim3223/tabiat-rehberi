@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","trekking","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Mugla-Fethiye-Gocek Sigla","caption":"Mugla-Fethiye-Gocek Sigla","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Gocek%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227755","tip":"genel"}]
-description: "Muğla'nın doğal güzelliklerini keşfedin, 140 hektarlık yeşil alanın içinde yer alan Sigla milli parkı"
+
 keywords: ["Mugla","Fethiye","Gocek","Sigla","milli park","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227755"
@@ -42,7 +42,6 @@ Mugla-Fethiye-Gocek Sigla milli parkını ziyaret etmek, doğa severler ve foto�
 
 ## İlginç Bilgiler
 
-- Mugla-Fethiye-Gocek Sigla milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna yer alıyor
 - Milli parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar sunuyor
 - Bu bölgede, farklı mevsimlerde, çeşitli etkinlikler ve festivaller düzenleniyor

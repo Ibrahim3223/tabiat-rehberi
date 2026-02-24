@@ -50,7 +50,7 @@ Musa Dede Türbesi'ni ziyaret etmek için, Alanya'nın merkezine gitmeniz gereki
 ## İlginç Bilgiler
 
 - Musa Dede Türbesi, Alanya'nın önemli tarihi mekanlarından biri.
-- Bu mekan, 140 hektarlık bir yeşil alan içinde yer alıyor.
+
 - Musa Dede Türbesi, Akdeniz Bölgesi'nin güneşli iklimini taşıyor.
 - Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
 - Musa Dede Türbesi, yılın her döneminde ziyaret edilebilir.

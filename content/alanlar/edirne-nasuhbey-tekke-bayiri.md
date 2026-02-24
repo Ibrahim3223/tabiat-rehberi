@@ -42,7 +42,6 @@ Edirne Nasuhbey Tekke Bayırı, ziyaretçilerine birçok olanak sunuyor. Ziyaret
 
 ## İlginç Bilgiler
 
-- Edirne Nasuhbey Tekke Bayırı, 140 hektarlık bir alana sahip.
 - Bölge, flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Ziyaretçiler, bu bölgede gezi yapabilir ve doğa yürüyüşleri yapabilir.
 - Edirne Nasuhbey Tekke Bayırı, tarihi geçmişi ile önemli bir konumda yer alıyor.

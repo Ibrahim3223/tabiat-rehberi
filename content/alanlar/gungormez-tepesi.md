@@ -28,7 +28,7 @@ wikidata_id: "Q32139534"
 
 # Güngörmez Tepesi
 
-Güngörmez Tepesi, Bayburt ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal güzellik olarak tanımlanabilir. Güngörmez Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılayacak bir nokta olarak dikkat çekiyor.
+Güngörmez Tepesi, Bayburt ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Güngörmez Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılayacak bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Güngörmez Tepesi'ni ziyaret etmek, ziyaretçilere dolu bir gezi deneyimi sunuy
 ## İlginç Bilgiler
 
 - Güngörmez Tepesi, Bayburt ilinin doğal güzelliklerinin başında geliyor.
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor.
+
 - Güngörmez Tepesi, ziyaretçilerine büyüleyici manzarasıyla dikkat çekiyor.
 
 - Güngörmez Tepesi, yılın her dönemi ziyaret edilebilir.

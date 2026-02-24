@@ -36,7 +36,7 @@ Güneyinbüyüksivri Tepe, Sivas'ın tarihçesi içinde önemli bir yer tutuyor.
 
 ## Coğrafya
 
-Güneyinbüyüksivri Tepe, Sivas ilinin coğrafi yapısını temsil eden önemli bir oluşum. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri sergiliyor. Güneyinbüyüksivri Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Sivas'ın coğrafi zenginliklerini gözler önüne seriyor. Bu tepe, Sivas'ın iklimini, toprak yapısını ve bitki örtüsünü anlamak için önemli bir nokta. Güneyinbüyüksivri Tepe, Sivas'ın coğrafi yapısını keşfetmek isteyenler için ideal bir destinasyon.
+Güneyinbüyüksivri Tepe, Sivas ilinin coğrafi yapısını temsil eden önemli bir oluşum. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri sergiliyor. Bu tepe, Sivas'ın iklimini, toprak yapısını ve bitki örtüsünü anlamak için önemli bir nokta. Güneyinbüyüksivri Tepe, Sivas'ın coğrafi yapısını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

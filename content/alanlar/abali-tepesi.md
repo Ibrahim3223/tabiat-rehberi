@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Abalı Tepesi","caption":"Abalı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abal%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574350","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Abalı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunar. Zengin fauna ve flora çeşitliliğiyle dikkat çeker."
+ Zengin fauna ve flora çeşitliliğiyle dikkat çeker."
 keywords: ["Abalı Tepesi","Ankara","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31574350"
@@ -47,8 +47,6 @@ Abalı Tepesi, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Bu bölge,
 Abalı Tepesi'ni ziyaret etmek, doğal güzellikleri ve tarihi geçmişi görmek isteyenler için ideal bir destinasyon olarak ön plana çıkar. Bu bölgeye, çeşitli ulaşım araçlarıyla kolayca ulaşılabilir. Abalı Tepesi'ni ziyaret etmek için en uygun zaman, mevsimsel koşullara göre değişir. Bu bölge, ziyaretçilerine çeşitli aktiviteler sunar. Abalı Tepesi, ziyaretçilerine geniş bir deneyim alanı sunar.
 
 ## İlginç Bilgiler
-
-- Abalı Tepesi, 140 hektarlık bir doğal alanı kapsar.
 
 - Abalı Tepesi, zengin fauna ve flora çeşitliliğiyle dikkat çeker.
 - Bu bölge, tarihinin her döneminde önemli bir konuma sahip olmuştur.

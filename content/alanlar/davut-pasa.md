@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Istanbul_Davut_Pa%C5%9Fa_Mosque_dome_and_pendentives_0962.jpg","alt":"Davut Paşa manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Istanbul_Davut_Pa%C5%9Fa_Mosque_dome_and_pendentives_0960.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Istanbul_Davut_Pa%C5%9Fa_Mosque_dome_and_pendentives_0960.jpg/1280px-Istanbul_Davut_Pa%C5%9Fa_Mosque_dome_and_pendentives_0960.jpg","alt":"Davut Paşa - Istanbul Davut Paşa Mosque dome and pendentives 0960","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0957.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0957.jpg/1280px-Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0957.jpg","alt":"Davut Paşa - Istanbul Davut Paşa Mosque cemetery 0957","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0958.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0958.jpg/1280px-Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0958.jpg","alt":"Davut Paşa - Istanbul Davut Paşa Mosque cemetery 0958","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0955.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0955.jpg/1280px-Istanbul_Davut_Pa%C5%9Fa_Mosque_cemetery_0955.jpg","alt":"Davut Paşa - Istanbul Davut Paşa Mosque cemetery 0955","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Istanbul_Davut_Pa%C5%9Fa_Mosque_interior_1130.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Istanbul_Davut_Pa%C5%9Fa_Mosque_interior_1130.jpg/1280px-Istanbul_Davut_Pa%C5%9Fa_Mosque_interior_1130.jpg","alt":"Davut Paşa - Istanbul Davut Paşa Mosque interior 1130","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davut%20Pa%C5%9Fa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386546","tip":"genel"}]
-description: "Hatay'da yer alan Davut Paşa, tarihi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Hatay'da yer alan Davut Paşa, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Hatay","Davut Paşa","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386546"
@@ -48,8 +48,6 @@ Davut Paşa, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyo
 Davut Paşa, ziyaretçilerine farklı deneyim olanakları sunar. Bu bölge, tarihi ve doğal güzellikleriyle birlikte ziyaretçilerini bekliyor. Davut Paşa'ya ulaşım, Hatay ilinin merkezi üzerinden sağlanabilir. Tepe, ziyaretçilerine rehberli turlar ve geziler sunar ve onları bu bölgeye özgü güzelliklerle tanıştırır.
 
 ## İlginç Bilgiler
-
-- Davut Paşa, 140 hektarlık bir alana sahiptir.
 
 - Davut Paşa, Hatay ilinin sınırları içerisindedir.
 - Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.

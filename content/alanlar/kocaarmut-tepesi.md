@@ -48,7 +48,6 @@ Kocaarmut Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi
 
 ## İlginç Bilgiler
 
-- Kocaarmut Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, özellikle gün batımında ziyaret edildiğinde, muhteşem bir manzaraya sahip olur.
 - Tepenin etrafındaki yeşil alanlar, ziyaretçilerin piknik yapabilecekleri veya doğa yürüyüşü yapabilecekleri ideal bir ortam sunar.
 - Kocaarmut Tepesi, çeşitli efsanelere de ev sahipliği yapar.

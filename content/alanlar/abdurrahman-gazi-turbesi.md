@@ -51,7 +51,7 @@ Abdurrahman Gazi Türbesi ve plajını ziyaret etmek, hem tarihi hem de doğal g
 ## İlginç Bilgiler
 
 - Abdurrahman Gazi Türbesi, Palandöken'in tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, özellikle yaz aylarında, serin ve ferah bir hava sunar
 - Palandöken, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır
 - Abdurrahman Gazi Türbesi ve plajı, doğa severler için, flora ve fauna çeşitliliği ile dikkat çekici bir gezi noktasıdır

@@ -49,7 +49,7 @@ wikidata_id: "Q34829684"
 ## İlginç Bilgiler
 
 - Öküz Tepesi, Van iline 1 saat uzaklıktadır.
-- Bu tepe, 140 hektarlık bir alana sahiptir.
+
 - Öküz Tepesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Bu tepe, güzel bir doğa manzarası sunmaktadır.
 - Öküz Tepesi, yürüyüş ve doğa yürüyüşü yapmak isteyenler için ideal bir yerdir.

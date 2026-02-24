@@ -49,7 +49,7 @@ Kılıboğan Tepe'yi ziyaret etmek, doğa severler için benzersiz bir fırsat s
 ## İlginç Bilgiler
 
 - Kılıboğan Tepe, Doğu Anadolu Bölgesi'nin en yüksek tepelerinden biridir.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Kılıboğan Tepe'nin eteklerinde yer alan köyler, geleneksel yaşamın bir parçası olmak için benzersiz bir fırsat sunuyor.
 - Tepenin çevresi, çeşitli bitki türleriyle dolu ve zengin bir fauna çeşitliliğine sahip.
 - Kılıboğan Tepe, ziyaretçilerine tarihin derinliklerinde bir yolculuk yapma fırsatı sunuyor.

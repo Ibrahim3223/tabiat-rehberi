@@ -49,7 +49,7 @@ wikidata_id: "Q34810050"
 ## İlginç Bilgiler
 
 - Ülemez Tepe, Muğla'nın turizm değerleri arasında önemli bir yer tutuyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Ülemez Tepe, tarihi geçmişi ve zengin doğası ile ziyaretçilerini cezbediyor
 - Burada, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Ülemez Tepe, doğa severler için ideal bir yer

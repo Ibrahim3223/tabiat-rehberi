@@ -14,15 +14,14 @@ aktiviteler: ["doğa yürüyüşleri","su sporları","kamp","ekolojik gezi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Sivas Altınkale","caption":"Sivas Altınkale","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivas%20Alt%C4%B1nkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127603891","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Sivas Altınkale, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Sivas","Altınkale","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q127603891"
 ---
 
 # Sivas Altınkale
 
-Sivas Altınkale, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Sivas Altınkale, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon. Burada, geniş ve yeşil alanlar, ziyaretçilere huzurlu ve sakin bir atmosfer sunuyor. Sivas Altınkale, aynı zamanda doğa yürüyüşleri ve çeşitli doğa aktiviteleri için de elverişli bir ortam sunuyor. Sivas Altınkale'nin bu özellikleri, onu doğa severlerin ve huzur arayanların gözdesi haline getiriyor.
+ Sivas Altınkale, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon. Burada, geniş ve yeşil alanlar, ziyaretçilere huzurlu ve sakin bir atmosfer sunuyor. Sivas Altınkale, aynı zamanda doğa yürüyüşleri ve çeşitli doğa aktiviteleri için de elverişli bir ortam sunuyor. Sivas Altınkale'nin bu özellikleri, onu doğa severlerin ve huzur arayanların gözdesi haline getiriyor.
 
 ## Tarihçe
 
@@ -30,7 +29,7 @@ Sivas Altınkale'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev
 
 ## Coğrafya
 
-Sivas Altınkale, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile dikkat çekiyor. Sivas Altınkale, 140 hektarlık bir yeşil alan olarak, ziyaretçilerine geniş ve yeşil bir ortam sunuyor. Sivas Altınkale'nin coğrafi konumu, ziyaretçilere birçok doğal güzelliği keşfetme fırsatı sunuyor. Sivas Altınkale, aynı zamanda birçok nehrin ve derenin bulunduğu bir bölgede yer alıyor ve bu reason ile su sporları ve doğa yürüyüşleri için ideal bir destinasyon. Sivas Altınkale'nin coğrafi özellikleri, ziyaretçilere birçok aktivite ve gezi seçeneği sunuyor.
+Sivas Altınkale, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, geniş ovaları, dağları ve nehirleri ile dikkat çekiyor. Sivas Altınkale'nin coğrafi konumu, ziyaretçilere birçok doğal güzelliği keşfetme fırsatı sunuyor. Sivas Altınkale, aynı zamanda birçok nehrin ve derenin bulunduğu bir bölgede yer alıyor ve bu reason ile su sporları ve doğa yürüyüşleri için ideal bir destinasyon. Sivas Altınkale'nin coğrafi özellikleri, ziyaretçilere birçok aktivite ve gezi seçeneği sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +41,6 @@ Sivas Altınkale, ziyaretçilere birçok aktivite ve gezi seçeneği sunuyor. Si
 
 ## İlginç Bilgiler
 
-- Sivas Altınkale, 140 hektarlık bir yeşil alanı kapsıyor
 - Sivas Altınkale, İç Anadolu Bölgesi'nin kalbinde yer alıyor
 - Sivas Altınkale, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor
 - Sivas Altınkale, birçok mevsimsel değişime uğruyor

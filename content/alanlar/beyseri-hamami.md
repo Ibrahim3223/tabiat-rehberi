@@ -37,7 +37,7 @@ Beyseri Hamamı'nın tarihi geçmişi, Antakya'nın tarihi ile iç içe geçmiş
 
 ## Coğrafya
 
-Beyseri Hamamı, Antakya'nın merkezine yakın bir konumda yer almaktadır. Akdeniz Bölgesi'nin karakteristik özellikleri, bu bölgede de görülmektedir. İklim, genellikle ılıman ve yağışlı olarak tanımlanabilir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını etkilemektedir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Beyseri Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir yeşil alan ve plaj sunmaktadır. Yaklaşık 140 hektarlık bu alan, ziyaretçilerin doğayla iç içe olmasını sağlamaktadır. Ayrıca, Antakya'nın tarihi merkezine yakın olması, ziyaretçilerin tarihi ve kültürel yerleri de kolayca keşfetmesine olanak tanır.
+Beyseri Hamamı, Antakya'nın merkezine yakın bir konumda yer almaktadır. Akdeniz Bölgesi'nin karakteristik özellikleri, bu bölgede de görülmektedir. İklim, genellikle ılıman ve yağışlı olarak tanımlanabilir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını etkilemektedir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Beyseri Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir yeşil alan ve plaj sunmaktadır. Ayrıca, Antakya'nın tarihi merkezine yakın olması, ziyaretçilerin tarihi ve kültürel yerleri de kolayca keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Beyseri Hamamı ve plajını ziyaret etmek, Antakya'nın tarihi ve doğal güzel
 ## İlginç Bilgiler
 
 - Beyseri Hamamı, Antakya'nın tarihi merkezine yakındır.
-- 140 hektarlık bir yeşil alan sunmaktadır.
+
 - Akdeniz Bölgesi'nin karakteristik flora ve faunasına sahiptir.
 - İlkbahar ve yaz aylarında, bölgenin özgü bitkileri ve çiçekleri açmaktadır.
 - Ziyaretçiler, hamamın tarihi geçmişini öğrenebilir ve plajda keyifli anlar geçirebilir.

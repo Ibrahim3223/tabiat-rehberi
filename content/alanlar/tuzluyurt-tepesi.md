@@ -49,7 +49,7 @@ Tuzluyurt Tepesi'ni ziyaret etmek, doğal güzelliği ve tarihi önemi nedeniyle
 ## İlginç Bilgiler
 
 - Tuzluyurt Tepesi, Çanakkale'nin en yüksek noktalarından biri
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Tuzluyurt Tepesi, tarihi olarak önemli bir konuma sahiptir
 - Bu tepe, doğal güzelliği ve ekolojik önemi nedeniyle, ziyaretçilerini cezbetmeye devam etmektedir
 - Tuzluyurt Tepesi, flora ve fauna çeşitliliği açısından önemli bir bölgedir

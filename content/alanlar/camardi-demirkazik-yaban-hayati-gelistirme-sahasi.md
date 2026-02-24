@@ -30,7 +30,7 @@ wikidata_id: "Q119442755"
 
 ## Coğrafya
 
-Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Saha, 140 hektarlık bir alanı kapsar ve bu genişlikte, ziyaretçiler çeşitli coğrafi oluşumları görebilir. Bölge, dağlık ve engebeli bir araziye sahiptir ve bu coğrafi yapı, sahayı doğal güzellikleri ile dikkat çekici kılar. İklim, karasal iklim özellikleri gösterir ve bu, sahanın flora ve fauna çeşitliliğini etkiler. Çevre, doğa ile iç içe bir yapıya sahiptir ve saha, doğal güzellikleri ile ziyaretçilerini etkiler. Coğrafi konumu itibariyle, Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, ziyaretçilerine doğanın güzelliğini sunar.
+Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bölge, dağlık ve engebeli bir araziye sahiptir ve bu coğrafi yapı, sahayı doğal güzellikleri ile dikkat çekici kılar. İklim, karasal iklim özellikleri gösterir ve bu, sahanın flora ve fauna çeşitliliğini etkiler. Çevre, doğa ile iç içe bir yapıya sahiptir ve saha, doğal güzellikleri ile ziyaretçilerini etkiler. Coğrafi konumu itibariyle, Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, ziyaretçilerine doğanın güzelliğini sunar.
 
 ## Flora ve Fauna
 

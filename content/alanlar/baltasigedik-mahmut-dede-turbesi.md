@@ -37,7 +37,7 @@ Baltasıgedik Mahmut Dede Türbesi'nin tam olarak ne zaman inşa edildiği bilin
 
 ## Coğrafya
 
-Baltasıgedik Mahmut Dede Türbesi, Antalya'nın Elmalı ilçesinde, Akdeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, Türkiye'nin en önemli tarihi ve doğal güzelliklerine ev sahipliği yapıyor ve Baltasıgedik Mahmut Dede Türbesi de bu güzelliklerin başında geliyor. Türbe, 140 hektarlık bir alan üzerinde inşa edilmiş ve bu genişlik, ziyaretçilere büyük bir açık hava deneyimi sunuyor. Bölge, genellikle sıcak ve kurak bir iklime sahip, ancak yüksek rakımlı bölgelerde daha serin bir iklim hüküm sürüyor. Baltasıgedik Mahmut Dede Türbesi'nin etrafındaki bölge, genellikle dağlık ve engebeli bir araziye sahip ve bu, ziyaretçilere çeşitli manzaralar ve yürüyüş rotaları sunuyor. Türbenin yakınında, çeşitli bitkiler ve ağaçlar yetişiyor ve bu, bölgenin doğal güzelliğine katkıda bulunuyor.
+Baltasıgedik Mahmut Dede Türbesi, Antalya'nın Elmalı ilçesinde, Akdeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, Türkiye'nin en önemli tarihi ve doğal güzelliklerine ev sahipliği yapıyor ve Baltasıgedik Mahmut Dede Türbesi de bu güzelliklerin başında geliyor. Bölge, genellikle sıcak ve kurak bir iklime sahip, ancak yüksek rakımlı bölgelerde daha serin bir iklim hüküm sürüyor. Baltasıgedik Mahmut Dede Türbesi'nin etrafındaki bölge, genellikle dağlık ve engebeli bir araziye sahip ve bu, ziyaretçilere çeşitli manzaralar ve yürüyüş rotaları sunuyor. Türbenin yakınında, çeşitli bitkiler ve ağaçlar yetişiyor ve bu, bölgenin doğal güzelliğine katkıda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Baltasıgedik Mahmut Dede Türbesi'ni ziyaret etmek, özellikle tarihi ve doğal
 ## İlginç Bilgiler
 
 - Baltasıgedik Mahmut Dede Türbesi, Antalya'nın Elmalı ilçesinde yer alıyor
-- Türbe, 140 hektarlık bir alan üzerinde inşa edilmiş
+
 - Bölge, genellikle sıcak ve kurak bir iklime sahip
 - Türbenin etrafındaki bölge, çeşitli bitkiler ve ağaçlar ile dolu
 - Baltasıgedik Mahmut Dede Türbesi, yılın her dönemi ziyaret edilebilir

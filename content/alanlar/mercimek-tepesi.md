@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Mercimek Tepesi","caption":"Mercimek Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mercimek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386586","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde bulunan Mercimek Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar."
+"
 keywords: ["Mercimek Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","tepe","doğa","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386586"
@@ -49,7 +49,7 @@ Mercimek Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için e�
 ## İlginç Bilgiler
 
 - Mercimek Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Mercimek Tepesi, bölgenin tarihi geçmişi hakkında bilgi edinmek için önemli bir nokta olarak kabul edilir.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Mercimek Tepesi, ziyaretçilerine bölgenin eşsiz güzelliğini keşfetme fırsatı sunar.

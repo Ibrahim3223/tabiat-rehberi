@@ -30,7 +30,7 @@ wikidata_id: "Q135582342"
 
 # Seyyid Burhaneddin Türbesi
 
-Kayseri'nin Melikgazi ilçesinde yer alan Seyyid Burhaneddin Türbesi, yaklaşık 140 hektarlık bir alan üzerine kurulmuş tarihi bir mekan. 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilerini tarihi ve doğal güzelliklerle karşılar. Seyyid Burhaneddin Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Bu mekan, sadece bir türbe değil, aynı zamanda bir kültürel ve tarihi miras olarak kabul edilir. Ziyaretçiler, bu mekanın tarihi atmosferini hissederken, aynı zamanda doğal güzelliklerini de keşfetme fırsatı bulurlar.
+ Seyyid Burhaneddin Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Bu mekan, sadece bir türbe değil, aynı zamanda bir kültürel ve tarihi miras olarak kabul edilir. Ziyaretçiler, bu mekanın tarihi atmosferini hissederken, aynı zamanda doğal güzelliklerini de keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 

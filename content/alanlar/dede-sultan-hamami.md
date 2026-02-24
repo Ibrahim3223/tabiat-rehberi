@@ -21,7 +21,7 @@ aktiviteler: ["denize girme","güneşlenme","piknik yapma","tarihi yapıları ge
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Divers.jpg/960px-Divers.jpg","alt":"Dede Sultan Hamamı","caption":"Dede Sultan Hamamı","credit":"Divers","license":"CC SA 1.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dede%20Sultan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738501","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerinden Dede Sultan Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Dede Sultan Hamamı","Kastamonu","Karadeniz Bölgesi","doğal güzellik","yeşil alan","plaj","deniz","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738501"

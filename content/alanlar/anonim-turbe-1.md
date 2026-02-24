@@ -50,7 +50,7 @@ Anonim Türbe 1'i ziyaret etmek, yılın her dönemi mümkün ve keyiflidir. Pla
 ## İlginç Bilgiler
 
 - Anonim Türbe 1, Milas'ın en önemli turistik noktalarından biridir.
-- Plaj, 140 hektarlık bir alanı kaplar.
+
 - Anonim Türbe 1'in tarihi geçmişi, Milas'ın zengin tarihi mirasıyla iç içe geçmiştir.
 - Plajın etrafındaki arkeolojik sit alanları, ziyaretçilerin ilgisini çekmektedir.
 - Anonim Türbe 1, sadece bir plaj olarak değil, aynı zamanda bir açık hava müzesi gibi düşünülebilir.

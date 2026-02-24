@@ -50,7 +50,7 @@ Harabat Sultan Türbesi'ni ziyaret etmek, hem tarihi yapıları incelemek hem de
 ## İlginç Bilgiler
 
 - Harabat Sultan Türbesi, tarihsel geçmişe sahip bir yapıdır
-- Bölge, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Bu bölgede, çeşitli bitki türleri ve ağaçlar bulunur
 - İklim, genellikle ılımandır ve ziyaretçilere, yılın her döneminde güzel bir atmosfer sunar
 - Bölge, tarihi yapıların yanı sıra, doğal güzellikleriyle de dikkat çeker

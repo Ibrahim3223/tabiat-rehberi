@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Ayg%C4%B1r_g%C3%B6l%C3%BC.jpg","alt":"Aygır Gölü (Erzurum) manzarası","credit":"Okuyangenckiz","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ayg%C4%B1r_g%C3%B6l%C3%BC.jpg/960px-Ayg%C4%B1r_g%C3%B6l%C3%BC.jpg","alt":"Aygır Gölü","caption":"Aygır Gölü","credit":"Aygır gölü","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Suphan_from_aygirgolu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Suphan_from_aygirgolu.jpg/1280px-Suphan_from_aygirgolu.jpg","alt":"Aygır Gölü (Erzurum) - Suphan from aygirgolu","credit":"Kronn","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4d/BRN_4801-.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/4/4d/BRN_4801-.jpg","alt":"Aygır Gölü (Erzurum) - BRN 4801-","credit":"Burhan8160","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayg%C4%B1r%20G%C3%B6l%C3%BC%20(Erzurum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123243592","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Aygır Gölü, Erzurum'un yüksek rakımlı bir bölgesinde yer alır."

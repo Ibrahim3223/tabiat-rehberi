@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Tarih turu"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_room_first_floor._View_looking_south._East_porch_visible_through_window._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_HABS_VA%2C42-CLOV.V%2C2A-14.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Akbenek Tepesi","caption":"Akbenek Tepesi","credit":"South room first floor. View looking south. East porch visible through window. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, HABS VA,42-CLOV.V,2A-14","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbenek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386154","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep'te yer alan Akbenek Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Akbenek Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386154"
@@ -48,7 +48,6 @@ Akbenek Tepesi'ni ziyaret etmek, doğaseverler ve tarih meraklıları için eşs
 
 ## İlginç Bilgiler
 
-- Akbenek Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found
 - Akbenek Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir noktasında yer alıyor
 - Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir veri sunuyor

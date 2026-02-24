@@ -29,7 +29,7 @@ wikidata_id: "Q133683556"
 
 # Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası
 
-Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Bu yapı, 140 hektarlık Yıldız Sarayı kompleksinin içerisinde bulunmaktadır. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve tarihi yapıların ihtişamını keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir ve ziyaretçileri tarihin derinliklerine götürür.
+Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve tarihi yapıların ihtişamını keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir ve ziyaretçileri tarihin derinliklerine götürür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı İmparato
 
 ## Coğrafya
 
-Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un Beşiktaş ilçesinde yer almaktadır. Bu yapı, Boğaziçi'nin güzelliğini ziyaretçilerine sunar. Yıldız Sarayı kompleksi, 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleriyle kaplıdır. Bu kompleks, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir ve ziyaretçileri tarihin derinliklerine götürür. Bu yapı, İstanbul'un coğrafi güzelliğinin bir parçasıdır ve ziyaretçilere şehrin tarihi ve kültürel zenginliklerini sunar. Yıldız Sarayı kompleksi, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır. Bu kompleks, ziyaretçilere bölgenin iklimini, bitki örtüsünü ve fauna çeşitliliğini keşfetme fırsatı sunar.
+Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un Beşiktaş ilçesinde yer almaktadır. Bu yapı, Boğaziçi'nin güzelliğini ziyaretçilerine sunar. Bu kompleks, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir ve ziyaretçileri tarihin derinliklerine götürür. Bu yapı, İstanbul'un coğrafi güzelliğinin bir parçasıdır ve ziyaretçilere şehrin tarihi ve kültürel zenginliklerini sunar. Yıldız Sarayı kompleksi, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıdır. Bu kompleks, ziyaretçilere bölgenin iklimini, bitki örtüsünü ve fauna çeşitliliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,11 @@ Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, çeşitli bitki t�
 
 ## Ziyaret Bilgileri
 
-Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, ziyaretçilere tarihin derinliklerine götürür. Bu yapı, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir. Yıldız Sarayı kompleksi, 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleriyle kaplıdır. Bu kompleks, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un coğrafi güzelliğinin bir parçasıdır ve ziyaretçilere şehrin tarihi ve kültürel zenginliklerini sunar. Ziyaretçiler, bu kompleksi ziyaret ederek tarihin zenginliklerini keşfedebilirler.
+Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, ziyaretçilere tarihin derinliklerine götürür. Bu yapı, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir. Bu kompleks, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un coğrafi güzelliğinin bir parçasıdır ve ziyaretçilere şehrin tarihi ve kültürel zenginliklerini sunar. Ziyaretçiler, bu kompleksi ziyaret ederek tarihin zenginliklerini keşfedebilirler.
 
 ## İlginç Bilgiler
 
 - Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biridir.
-- Bu yapı, 140 hektarlık Yıldız Sarayı kompleksinin içerisinde yer alır.
 
 - Bu kompleks, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 - Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, tarihinin her döneminde önemli bir rol oynamıştır.

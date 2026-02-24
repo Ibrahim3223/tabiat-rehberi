@@ -36,7 +36,7 @@ Beşikli Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Beşikli Tepe, Kocaeli'nin coğrafi yapısını etmek için ideal bir nokta. Bu tepe, 140 hektarlık alanıyla birlikte, bölgenin coğrafi özelliklerini gözlemlemek için uygun bir yer. Burada, Marmara Bölgesi'nin coğrafi özellikleri hakkında detaylı bilgi edinme mümkün. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, aynı zamanda bölgenin iklimini gözlemlemek için de ideal bir nokta. Beşikli Tepe, Kocaeli'nin coğrafi ve doğal güzelliklerini bir arada sunan önemli bir merkez olarak kabul ediliyor. Bu tepenin etrafında, bölgenin coğrafi yapısını oluşturan çeşitli özellikler bulunuyor.
+Beşikli Tepe, Kocaeli'nin coğrafi yapısını etmek için ideal bir nokta. Burada, Marmara Bölgesi'nin coğrafi özellikleri hakkında detaylı bilgi edinme mümkün. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, aynı zamanda bölgenin iklimini gözlemlemek için de ideal bir nokta. Beşikli Tepe, Kocaeli'nin coğrafi ve doğal güzelliklerini bir arada sunan önemli bir merkez olarak kabul ediliyor. Bu tepenin etrafında, bölgenin coğrafi yapısını oluşturan çeşitli özellikler bulunuyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Beşikli Tepe, ziyaretçilerini şehrin kalabalığından uzaklaştıran ve doğ
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - Marmara Bölgesi'nin coğrafi özellikleri
 - zengin flora ve fauna
 - tarihi geçmişi

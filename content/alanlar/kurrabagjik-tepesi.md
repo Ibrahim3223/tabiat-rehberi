@@ -28,7 +28,7 @@ wikidata_id: "Q31552229"
 
 # Kurrabağjik Tepesi
 
-Kurrabağjik Tepesi, Mardin ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. Kurrabağjik Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleriyle de dikkat çekiyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Kurrabağjik Tepesi, Mardin ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Kurrabağjik Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleriyle de dikkat çekiyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kurrabağjik Tepesi, ziyaretçilere geniş bir doğal alan sunuyor. Bu tepe, Mar
 ## İlginç Bilgiler
 
 - Kurrabağjik Tepesi, Mardin ilinin en yüksek noktalarından biri
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Kurrabağjik Tepesi, zengin flora ve fauna çeşitliliğine sahip
 - Bu tepe, ekolojik denge açısından önemli bir bölge
 - Kurrabağjik Tepesi, ziyaretçilere geniş bir doğal alan sunuyor

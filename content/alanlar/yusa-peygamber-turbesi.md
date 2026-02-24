@@ -30,7 +30,7 @@ wikidata_id: "Q131390825"
 
 # Yuşa Peygamber Türbesi
 
-Yuşa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve tarihi mekanlarından biridir. Şahinbey ilçesinde bulunan bu özel yer, hem dini hem de kültürel açıdan büyük bir öneme sahiptir. Yuşa Peygamber Türbesi, yaklaşık 140 hektarlık bir alanda kurulmuştur. Tarihi ve doğal güzellikleri bir arada sunan Yuşa Peygamber Türbesi, ziyaretçilerini büyülemektedir.
+Yuşa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve tarihi mekanlarından biridir. Şahinbey ilçesinde bulunan bu özel yer, hem dini hem de kültürel açıdan büyük bir öneme sahiptir. Tarihi ve doğal güzellikleri bir arada sunan Yuşa Peygamber Türbesi, ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yuşa Peygamber Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. B
 
 ## Coğrafya
 
-Yuşa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin güzel illerinden Gaziantep'in Şahinbey ilçesinde bulunmaktadır. Bu bölge, coğrafi açıdan zengin bir çeşitliliğe sahiptir. Yuşa Peygamber Türbesi, yaklaşık 140 hektarlık bir alanda kurulmuştur. Yuşa Peygamber Türbesi, etrafındaki dağlar ve ovalarla birlikte, güzel bir manzara sunmaktadır. İlkbahar ve sonbahar aylarında, Yuşa Peygamber Türbesi'nin çevresi, renkli bir güzelliğe bürünür. Kış aylarında, karla kaplanan dağlar, özel bir güzelliğe sahip olur. Yuşa Peygamber Türbesi, coğrafi açıdan giàu bir çeşitliliğe sahiptir.
+Yuşa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin güzel illerinden Gaziantep'in Şahinbey ilçesinde bulunmaktadır. Bu bölge, coğrafi açıdan zengin bir çeşitliliğe sahiptir. Yuşa Peygamber Türbesi, etrafındaki dağlar ve ovalarla birlikte, güzel bir manzara sunmaktadır. İlkbahar ve sonbahar aylarında, Yuşa Peygamber Türbesi'nin çevresi, renkli bir güzelliğe bürünür. Kış aylarında, karla kaplanan dağlar, özel bir güzelliğe sahip olur. Yuşa Peygamber Türbesi, coğrafi açıdan giàu bir çeşitliliğe sahiptir.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Yuşa Peygamber Türbesi'ni ziyaret etmek, hem dini hem de kültürel açıdan b
 
 - Yuşa Peygamber Türbesi, dini ve kültürel açıdan önemli bir merkezdir.
 - Yuşa Peygamber Türbesi, yüzyıllar öncesine dayanan bir geçmişe sahiptir.
-- Yuşa Peygamber Türbesi, 140 hektarlık bir alanda kurulmuştur.
+
 - Yuşa Peygamber Türbesi, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Yuşa Peygamber Türbesi, ziyaretçilerine güzel bir deneyim sunar.

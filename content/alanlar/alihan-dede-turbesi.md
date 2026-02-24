@@ -51,7 +51,7 @@ Alihan Dede Türbesi'ni ziyaret etmek, Ege Bölgesi'nin önemli bir kültürel v
 ## İlginç Bilgiler
 
 - Alihan Dede Türbesi, Ege Bölgesi'nin önemli bir kültürel mirası olarak kabul edilir.
-- Bu türbe, 140 hektarlık bir alan üzerine kurulmuştur.
+
 - Alihan Dede Türbesi'nin etrafında bulunan doğa, ziyaretçilere huzurlu bir ortam sunar.
 - Bu türbenin bulunduğu tepe, Ege Bölgesi'nin önemli bir coğrafi noktası olarak kabul edilir.
 - Alihan Dede Türbesi, her yıl birçok ziyaretçi tarafından ziyaret edilir.

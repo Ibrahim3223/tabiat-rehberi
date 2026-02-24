@@ -36,7 +36,7 @@ Kuzkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Kuzkaya Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu tepe, Kahramanmaraş'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Kuzkaya Tepesi'nin etrafındaki coğrafya, ziyaretçilerine büyüleyici bir görünüm sunuyor. Bu bölge, yaklaşık 140 hektarlık alanıyla, ziyaretçilerine geniş bir alanı keşfetme fırsatı sunuyor. Kuzkaya Tepesi'nin coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştiriliyor. Bu tepe, ziyaretçilerine doğal güzellikleri ve coğrafi özellikleri sunuyor. Kuzkaya Tepesi'nin iklimi, Akdeniz Bölgesi'nin genel iklimine uygun olarak shaping ediliyor. Bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor.
+Kuzkaya Tepesi, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu tepe, Kahramanmaraş'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Kuzkaya Tepesi'nin etrafındaki coğrafya, ziyaretçilerine büyüleyici bir görünüm sunuyor. Kuzkaya Tepesi'nin coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştiriliyor. Bu tepe, ziyaretçilerine doğal güzellikleri ve coğrafi özellikleri sunuyor. Kuzkaya Tepesi'nin iklimi, Akdeniz Bölgesi'nin genel iklimine uygun olarak shaping ediliyor. Bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 

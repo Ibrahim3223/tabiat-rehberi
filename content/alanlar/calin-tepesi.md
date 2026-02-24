@@ -36,7 +36,7 @@ wikidata_id: "Q34828075"
 
 ## Coğrafya
 
-Çalın Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresinde çeşitli bitki türleri ile zengin fauna bulunması ile dikkat çekiyor. Çalın Tepesi'nin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere dört mevsim farklı deneyimler sunuyor. Bahar aylarında yeşilin tüm tonlarını görebileceğiniz bu tepede, kış aylarında kar manzaraları ile büyülenebilirsiniz. Çalın Tepesi, aynı zamanda çevresindeki diğer doğal güzelliklerle de ziyaretçilerine geniş bir gezi alanı sunuyor.
+Çalın Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak oldukça zengin bir yapıya sahip. Çalın Tepesi'nin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere dört mevsim farklı deneyimler sunuyor. Bahar aylarında yeşilin tüm tonlarını görebileceğiniz bu tepede, kış aylarında kar manzaraları ile büyülenebilirsiniz. Çalın Tepesi, aynı zamanda çevresindeki diğer doğal güzelliklerle de ziyaretçilerine geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 

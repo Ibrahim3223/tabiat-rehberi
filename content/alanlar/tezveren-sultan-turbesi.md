@@ -37,7 +37,7 @@ Tezveren Sultan Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanır.
 
 ## Coğrafya
 
-Tezveren Sultan Türbesi, Ankara'nın coğrafi olarak merkezi bir bölgesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve çevresinde çeşitli doğal güzellikler bulunur. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve plajdan oluşur. Bu yeşil alan, çeşitli bitki türleri ve ağaçlarla kaplıdır ve ziyaretçilere geniş bir açık alan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Tezveren Sultan Türbesi'nin ziyaretçileri için önemli bir çekim noktası oluşturur.
+Tezveren Sultan Türbesi, Ankara'nın coğrafi olarak merkezi bir bölgesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve çevresinde çeşitli doğal güzellikler bulunur. Bu yeşil alan, çeşitli bitki türleri ve ağaçlarla kaplıdır ve ziyaretçilere geniş bir açık alan sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Tezveren Sultan Türbesi'nin ziyaretçileri için önemli bir çekim noktası oluşturur.
 
 ## Flora ve Fauna
 

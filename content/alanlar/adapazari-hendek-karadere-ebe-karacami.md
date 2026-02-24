@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","fauna gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Adapazari-Hendek-Karadere Ebe Karacami","caption":"Adapazari-Hendek-Karadere Ebe Karacami","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Hendek-Karadere%20Ebe%20Karacami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227967","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Adapazari","Hendek","Karadere","Ebe Karacami","Milli Park","İç Anadolu Bölgesi","doğa","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227967"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227967"
 
 # Adapazari-Hendek-Karadere Ebe Karacami
 
- Bu muhteşem mekân, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunuyor. 140 hektarlık bu yeşil cennet, ziyaretçilerine doğayla baş başa kalmak için mükemmel bir fırsat sunuyor.
+ Bu muhteşem mekân, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, ziyaretçilerine çeşitli 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın içerisinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunur
 - Park, tarihi geçmişiyle dikkat çekiyor
 - Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahip

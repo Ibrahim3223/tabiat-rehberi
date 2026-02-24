@@ -51,7 +51,7 @@ wikidata_id: "Q131391645"
 ## İlginç Bilgiler
 
 - Şemsi Ana Türbesi, tarihsel açıdan önemli bir bölgedir
-- Bölge, yaklaşık 140 hektarlık bir alana sahiptir
+
 - Türbenin çevresi, çeşitli bitki türleri ile zengindir
 - Bu bölgede yaban hayatı da mevcuttur
 - Ziyaretçiler, doğa ile iç içe bir deneyim yaşayabilirler

@@ -48,7 +48,6 @@ Pirali Tepe, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arad
 
 ## İlginç Bilgiler
 
-- Pirali Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Pirali Tepe, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunan bir destinasyon olarak dikkat çekmektedir.
 - Pirali Tepe'nin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Pirali Tepe, ziyaretçiler için önemli bir bilgi kaynağı olmakta ve aynı zamanda bu tepeyi ziyaret etmeleri için bir neden olmaktadır.

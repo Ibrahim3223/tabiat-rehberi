@@ -29,7 +29,7 @@ wikidata_id: "Q31388613"
 
 # Ziyaret Tepesi (Erzurum)
 
-Erzurum'un merkezi bir noktasında yer alan Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle karşılar. Tepenin üzerinde yer alan tarihi eserler ve manzaralar, ziyaretçilerin ilgisini çeker. Ziyaret Tepesi, Erzurum'un önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+ Ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle karşılar. Tepenin üzerinde yer alan tarihi eserler ve manzaralar, ziyaretçilerin ilgisini çeker. Ziyaret Tepesi, Erzurum'un önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

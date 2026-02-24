@@ -37,7 +37,7 @@ Karanlık Evliya Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu mekan, yüzy
 
 ## Coğrafya
 
-Karanlık Evliya Türbesi, Kastamonu ilinin merkezinde yer alıyor. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Karanlık Evliya Türbesi, 140 hektarlık bir yeşil alan üzerinde yer alıyor. Karanlık Evliya Türbesi, Kastamonu ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor. Karanlık Evliya Türbesi, coğrafi açıdan önemli bir noktada yer alıyor. Bu mekan, Karadeniz Bölgesi'nin doğal güzellikleri ile dikkat çekiyor.
+Karanlık Evliya Türbesi, Kastamonu ilinin merkezinde yer alıyor. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Karanlık Evliya Türbesi, Kastamonu ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor. Karanlık Evliya Türbesi, coğrafi açıdan önemli bir noktada yer alıyor. Bu mekan, Karadeniz Bölgesi'nin doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Karanlık Evliya Türbesi, ziyaretçilerine hem dinlenme hem de gezi imkanı sun
 
 - Karanlık Evliya Türbesi, Kastamonu ilinin en önemli tarihi mekanlarından biri olarak kabul ediliyor.
 - Bu mekan, yüzyıllar boyunca önemli bir dini merkez olarak kullanılıyor.
-- Karanlık Evliya Türbesi, 140 hektarlık bir yeşil alan üzerinde yer alıyor.
+
 - Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor.
 - Karanlık Evliya Türbesi, coğrafi açıdan önemli bir noktada yer alıyor.

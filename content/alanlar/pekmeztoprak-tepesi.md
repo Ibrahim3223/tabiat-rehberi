@@ -28,7 +28,7 @@ wikidata_id: "Q31390906"
 
 # Pekmeztoprak Tepesi
 
-Pekmeztoprak Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Kayseri'nin merkezine yakın bir konumda bulunan bu tepe, yaklaşık 140 hektarlık alanıyla, şehrin manzarasını seyretmek için ideal bir noktadır. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini geniş ve yeşil bir mekânla karşılar. Pekmeztoprak Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için keyifli bir gezi deneyimi sunar.
+Pekmeztoprak Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Pekmeztoprak Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için keyifli bir gezi deneyimi sunar.
 
 ## Tarihçe
 

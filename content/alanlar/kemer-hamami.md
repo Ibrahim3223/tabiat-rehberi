@@ -38,7 +38,7 @@ Kemer Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Kemer Hamamı, Kütahya ilinin merkezinde, Ege Bölgesi'nde yer alır. Bu güzel plaj, yaklaşık 140 hektarlık bir alanı kaplar ve geniş, temiz bir sahil şeridine sahiptir. Kemer Hamamı'nın coğrafi konumu, ziyaretçilerine doğal güzellik sunar. Plajın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Kemer Hamamı, Kütahya'nın en çok ziyaret edilen yerlerinden biri olup, yerli ve yabancı turistlerin ilgisini çekmektedir. Bu plaj, Ege Bölgesi'nin önemli turizm noktalarından biri olup, doğal güzelliği ve tarihi atmosferi ile ziyaretçilerini bekliyor.
+Kemer Hamamı, Kütahya ilinin merkezinde, Ege Bölgesi'nde yer alır. Kemer Hamamı'nın coğrafi konumu, ziyaretçilerine doğal güzellik sunar. Plajın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Kemer Hamamı, Kütahya'nın en çok ziyaret edilen yerlerinden biri olup, yerli ve yabancı turistlerin ilgisini çekmektedir. Bu plaj, Ege Bölgesi'nin önemli turizm noktalarından biri olup, doğal güzelliği ve tarihi atmosferi ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Kemer Hamamı, Kütahya ilinin merkezinde yer alan bir plajdır. Ziyaretçiler, 
 
 - Kemer Hamamı, Kütahya'nın en çok ziyaret edilen yerlerinden biridir.
 - Bu plaj, Ege Bölgesi'nin önemli turizm noktalarından biridir.
-- Kemer Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bu güzel plaj, geniş ve temiz plajı, sığ ve berrak suyu ile aileler ve çocuklar için ideal bir destinasyondur.
 - Kemer Hamamı, Kütahya'nın turizm potansiyelini ortaya koyan önemli bir destinasyondur.

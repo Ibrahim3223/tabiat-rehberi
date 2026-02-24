@@ -51,7 +51,7 @@ Babaeski Hamamı ve plajını ziyaret etmek için, Kırklareli'nin Babaeski ilç
 ## İlginç Bilgiler
 
 - Babaeski Hamamı, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Marmara Bölgesi'nin önemli turizm merkezlerinden biri
 - Babaeski Hamamı, plajın da bir parçası olarak düşünülüyor
 - Bu bölgede, birçok farklı bitki ve hayvan türü yaşadığı görülüyor

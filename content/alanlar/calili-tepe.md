@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik","keşif"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çalılı Tepe","caption":"Çalılı Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1l%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828063","tip":"genel"}]
-description: "İzmir'in gizli cenneti, 140 hektarlık yeşil alanda doğa yürüyüşü ve keşif"
+
 keywords: ["İzmir","doğa yürüyüşü","keşif","yeşil alan","Çalılı Tepe","Ege Bölgesi","turizm","gezi","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828063"
@@ -28,7 +28,7 @@ wikidata_id: "Q34828063"
 
 # Çalılı Tepe
 
-İzmir'in Ege Bölgesi'nde bulunan Çalılı Tepe, yaklaşık 140 hektarlık yeşil alanıyla doğa severlerin gözdesi haline gelmiştir. Çalılı Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de bölgenin tarihi geçmişi hakkında bilgiler veriyor. Çalılı Tepe, şehrin gürültüsünden kaçma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+ Çalılı Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de bölgenin tarihi geçmişi hakkında bilgiler veriyor. Çalılı Tepe, şehrin gürültüsünden kaçma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34828063"
 
 ## Coğrafya
 
-Çalılı Tepe, İzmir'in Ege Bölgesi'nde yer alıyor ve 140 hektarlık geniş bir yeşil alanı kapsıyor. Çalılı Tepe'nin coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de deniz kıyısının serinliğini sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Çalılı Tepe, çevre düzenlemesiyle de dikkat çekiyor ve ziyaretçilere temiz ve güvenli bir ortam sunuyor. Çalılı Tepe'nin coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor ve bölgenin güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
+ Çalılı Tepe'nin coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de deniz kıyısının serinliğini sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Çalılı Tepe, çevre düzenlemesiyle de dikkat çekiyor ve ziyaretçilere temiz ve güvenli bir ortam sunuyor. Çalılı Tepe'nin coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor ve bölgenin güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ wikidata_id: "Q34828063"
 
 ## İlginç Bilgiler
 
-- Çalılı Tepe, 140 hektarlık yeşil alana sahip
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Çalılı Tepe, çeşitli bitki türleriyle kaplı
 - Bölgenin iklimi, Akdeniz iklimine uygun
 - Çalılı Tepe, doğa severlerin gözdesi

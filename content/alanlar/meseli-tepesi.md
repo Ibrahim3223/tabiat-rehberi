@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki gözlemi","hayvan g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Meşeli Tepesi","caption":"Meşeli Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Feli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557128","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Meşeli Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Meşeli Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","ziyaret","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557128"
@@ -36,7 +36,7 @@ Meşeli Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Meşeli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık bir alanı kaplar. Meşeli Tepesi, Ankara'nın panoramik manzarasını sunar ve ziyaretçilerine geniş bir sunar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için uygun koşullar sunmaktadır. Meşeli Tepesi, Ankara'nın önemli coğrafi noktalarından biri olarak dikkat çekmekte ve ziyaretçilerine doğal güzelliği ile hizmet vermektedir. Meşeli Tepesi'nin coğrafi konumu, ziyaretçilerin Ankara'nın diğer turistik noktalarına ulaşmasını da kolaylaştırmaktadır.
+ Meşeli Tepesi, Ankara'nın panoramik manzarasını sunar ve ziyaretçilerine geniş bir sunar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için uygun koşullar sunmaktadır. Meşeli Tepesi, Ankara'nın önemli coğrafi noktalarından biri olarak dikkat çekmekte ve ziyaretçilerine doğal güzelliği ile hizmet vermektedir. Meşeli Tepesi'nin coğrafi konumu, ziyaretçilerin Ankara'nın diğer turistik noktalarına ulaşmasını da kolaylaştırmaktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Meşeli Tepesi, ziyaretçilerine doğal güzelliği ve coğrafi özellikleri ile
 
 ## İlginç Bilgiler
 
-- Meşeli Tepesi, 140 hektarlık bir alana sahiptir.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Meşeli Tepesi, Ankara'nın panoramik manzarasını sunar.
 - Meşeli Tepesi, doğal güzelliği ile dikkat çekmektedir.

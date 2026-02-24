@@ -42,7 +42,6 @@ Söğüt Koyu Cinari, ziyaretçilerine çeşitli olanaklar sunuyor. Bu milli par
 
 ## İlginç Bilgiler
 
-- Söğüt Koyu Cinari, 140 hektarlık bir alana sahiptir
 - Bu milli park, çeşitli bitki türleri ve hayvanlar ile dikkat çekiyor
 - Söğüt Koyu Cinari, aynı zamanda yaban hayatı koruma çalışmaları ile de dikkat çekiyor
 - Bu milli park, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer

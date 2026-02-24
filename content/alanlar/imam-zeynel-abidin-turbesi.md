@@ -50,7 +50,7 @@ wikidata_id: "Q131391674"
 ## İlginç Bilgiler
 
 - İmam Zeynel Abidin Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel açıdan önemli merkezlerinden biri.
-- Türbe, 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Bölge, flora ve fauna açısından zengin.
 - İklim, four mevsimi deneyimleme fırsatı sunuyor.
 - Türbe, İmam Zeynel Abidin'in hayatını ve öğretisini yansıtıyor.

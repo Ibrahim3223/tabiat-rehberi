@@ -49,8 +49,6 @@ Bin Tepeler Tümülüsü 33, ziyaretçilerini bekliyor. Salihli/Manisa'da buluna
 
 ## İlginç Bilgiler
 
-- Bin Tepeler Tümülüsü 33, 140 hektarlık bir alanı kapsıyor.
-- Bu özel alan, 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
 - Bin Tepeler Tümülüsü 33, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir tarihi geçmişi sahip.
 - Bu özel alan, ziyaretçilere hem tarihi bir deneyim sunuyor hem de doğanın güzelliklerini keşfetme fırsatı veriyor.
 - Bin Tepeler Tümülüsü 33, zengin bir flora ve fauna sunuyor.

@@ -38,7 +38,7 @@ Koca Hamam Plajı'nın tarihi geçmişi, yüzyıllar boyunca bölgeye yerleşen 
 
 ## Coğrafya
 
-Koca Hamam Plajı, Ege Bölgesi'nin Manisa ilinin Turgutlu ilçesinde, deniz seviyesinde yer alıyor. Plajın çevresi, yaklaşık 140 hektarlık bir yeşil alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, Ege Denizi'nin serin sularına karşı, güneşin ılıman ışıklarını sunuyor. Plajın hinterlandında, tarihi ve kültürel öneme sahip yerleşim yerleri ve arkeolojik sit alanları bulunuyor. Koca Hamam Plajı, coğrafi konumu itibariyle, hem deniz hem de doğa severler için ideal bir destinasyon.
+Koca Hamam Plajı, Ege Bölgesi'nin Manisa ilinin Turgutlu ilçesinde, deniz seviyesinde yer alıyor. Bu bölge, Ege Denizi'nin serin sularına karşı, güneşin ılıman ışıklarını sunuyor. Plajın hinterlandında, tarihi ve kültürel öneme sahip yerleşim yerleri ve arkeolojik sit alanları bulunuyor. Koca Hamam Plajı, coğrafi konumu itibariyle, hem deniz hem de doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Koca Hamam Plajı, ziyaretçilerine, denize girme, güneşlenme, doğa yürüyü
 ## İlginç Bilgiler
 
 - Koca Hamam Plajı, Ege Bölgesi'nin en güzel plajlarından biri.
-- Plajın çevresi, 140 hektarlık bir yeşil alan.
+
 - Koca Hamam Plajı, Turgutlu ilçe merkezine yakındır.
 - Plajda, doğa yürüyüşleri ve piknik alanları bulunur.
 - Koca Hamam Plajı, yıl boyunca ziyaret edilebilir.

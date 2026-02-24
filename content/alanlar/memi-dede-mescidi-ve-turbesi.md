@@ -29,7 +29,7 @@ wikidata_id: "Q135582770"
 
 # Memi Dede Mescidi ve Türbesi
 
-Memi Dede Mescidi ve Türbesi, Bitlis vilayetinin kalbinde, tarihin ve doğanın birleştiği noktada yer alır. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanda, ziyaretçilere hem manevi hem de kültürel bir deneyim sunar. 200 futbol sahası büyüklüğünde bir alanla karşılaştırılabilecek bu genişlik, ziyaretçilerin hem tarihi yapıları incelemesine hem de doğanın güzelliğini seyretmesine olanak tanır. Memi Dede Mescidi ve Türbesi, aynı zamanda bölgenin önemli dini merkezlerinden biri olarak da bilinir ve ziyaretçiler için manevi bir  sunar.
+Memi Dede Mescidi ve Türbesi, Bitlis vilayetinin kalbinde, tarihin ve doğanın birleştiği noktada yer alır. Memi Dede Mescidi ve Türbesi, aynı zamanda bölgenin önemli dini merkezlerinden biri olarak da bilinir ve ziyaretçiler için manevi bir  sunar.
 
 ## Tarihçe
 

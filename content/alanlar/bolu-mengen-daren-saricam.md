@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğraf çekimi","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/G%C3%B6lc%C3%BCk1.jpg/960px-G%C3%B6lc%C3%BCk1.jpg","alt":"Bolu-Mengen-Daren Saricam","caption":"Bolu-Mengen-Daren Saricam","credit":"Gölcük1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mengen-Daren%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227976","tip":"genel"}]
-description: "Bolu'nun doğal güzelliklerini keşfedin, 140 hektarlık milli parkı gezin"
+
 keywords: ["Bolu","Mengen","Daren Saricam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227976"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227976"
 
 # Bolu-Mengen-Daren Saricam
 
-Bolu-Mengen-Daren Saricam milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin çevreyi keşfetmesine olanak tanımaktadır. Mengen ilçesine yakın konumuyla, ziyaretçiler için ulaşım khá kolaydır.
+ Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin çevreyi keşfetmesine olanak tanımaktadır. Mengen ilçesine yakın konumuyla, ziyaretçiler için ulaşım khá kolaydır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Mengen-Daren Saricam milli parkı, yüzyıllar boyunca doğasının güzell
 
 ## Coğrafya
 
-Bolu-Mengen-Daren Saricam milli parkı, Karadeniz Bölgesi'nin güzelliklerini bünyesinde barındırmaktadır. Park, 140 hektarlık geniş bir alana yayılmış olup, çeşitli bitki türleri ile zengin bir flora sunmaktadır. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşıyarak, ziyaretçilere serin ve ferah bir ortam sunmaktadır. Parkın coğrafi yapısı, yürüyüş yolları ve doğa güzellikleri ile ziyaretçileri cezbetmektedir. Çevre, çeşitli canlı türleri ile zengin bir fauna sunmaktadır.
+Bolu-Mengen-Daren Saricam milli parkı, Karadeniz Bölgesi'nin güzelliklerini bünyesinde barındırmaktadır. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşıyarak, ziyaretçilere serin ve ferah bir ortam sunmaktadır. Parkın coğrafi yapısı, yürüyüş yolları ve doğa güzellikleri ile ziyaretçileri cezbetmektedir. Çevre, çeşitli canlı türleri ile zengin bir fauna sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Mengen-Daren Saricam milli parkını ziyaret etmek, doğa severler için ke
 
 ## İlginç Bilgiler
 
-- Bolu-Mengen-Daren Saricam milli parkı, 140 hektarlık bir alana yayılmıştır.
 - Parkta, çeşitli bitki türleri yetişmektedir.
 - Bölge, önemli bir ekolojik değer taşımaktadır.
 - Park, Karadeniz Bölgesi'nin güzelliklerini bünyesinde barındırmaktadır.

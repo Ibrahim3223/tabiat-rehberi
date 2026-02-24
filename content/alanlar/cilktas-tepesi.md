@@ -28,7 +28,7 @@ wikidata_id: "Q34819048"
 
 # Çılktaş Tepesi
 
-Şanlıurfa'nın eşsiz manzarasına ev sahipliği yapan Çılktaş Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi mekanlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Doğal güzelliği ve tarihi önemiyle dikkat çekici bir yer olan Çılktaş Tepesi, ziyaretçilerini şehrin kalabalığından uzaklaştırarak sakin bir atmosfer sunar.
+Şanlıurfa'nın eşsiz manzarasına ev sahipliği yapan Çılktaş Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi mekanlarından biridir. Doğal güzelliği ve tarihi önemiyle dikkat çekici bir yer olan Çılktaş Tepesi, ziyaretçilerini şehrin kalabalığından uzaklaştırarak sakin bir atmosfer sunar.
 
 ## Tarihçe
 

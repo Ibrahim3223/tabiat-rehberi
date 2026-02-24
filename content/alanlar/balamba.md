@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Tarihi kalıntıları ziyaret","Anıtsal yapıları incelemek","Etkinliklere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Avenue_Doyon_-_2024-04-24_-_02.jpg","alt":"Balamba manzarası","credit":"Jeangagnon","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png/960px-SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png","alt":"Balamba","caption":"Balamba","credit":"SouthernPartofSabah-Scheme-PulauBalambangan Pushpin","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png/1280px-SouthernPartofSabah-Scheme-PulauBalambangan_Pushpin.png","alt":"Balamba - SouthernPartofSabah-Scheme-PulauBalambangan Pushpin","credit":"Cccefalon; Pushpin: McSush","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Kasumbalesa.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Kasumbalesa.png/1280px-Flag_of_Kasumbalesa.png","alt":"Balamba - Flag of Kasumbalesa","credit":"Aml-401","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/Aftermath_of_Anti-Kabila_protests_in_Kasumbalesa.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Aftermath_of_Anti-Kabila_protests_in_Kasumbalesa.jpg/1280px-Aftermath_of_Anti-Kabila_protests_in_Kasumbalesa.jpg","alt":"Balamba - Aftermath of Anti-Kabila protests in Kasumbalesa","credit":"Narval Mabila (VOA)","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balamba","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228234","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
+"
 keywords: ["Balamba","İç Anadolu Bölgesi","doğa","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228234"
@@ -43,8 +43,6 @@ Balamba'ya ziyaret, yılın her dönemi möglich. Ancak, bahar ve sonbahar aylar
 
 ## İlginç Bilgiler
 
-- Balamba, 140 hektarlık bir yeşil alan
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Balamba, tarihin çeşitli dönemlerinde önemli bir yerleşim merkezi olarak görev yaptı
 - Bu bölgede, yüzyılların derin izlerini taşıyan tarihi kalıntılar ve anıtsal yapılar bulunuyor
 - Balamba, flora ve fauna açısından zengin bir bölge

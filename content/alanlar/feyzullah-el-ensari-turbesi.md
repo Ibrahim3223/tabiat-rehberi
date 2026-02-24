@@ -29,7 +29,7 @@ wikidata_id: "Q131390700"
 
 # Feyzullah el Ensari Türbesi
 
-Feyzullah el Ensari Türbesi, Bitlis ilinin merkezinde yer alan bir türbe ve tarihi mekan. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli tarihi yapılar bulunmakta. Feyzullah el Ensari Türbesi, Bitlis'in önemli dini ve kültürel mekanlarından biri olarak kabul edilmekte. Türbenin içerisinde çeşitli tarihi eserler ve yazıtlar bulunmakta. Ayrıca, türbenin mimarisi ve tasarımı da dikkat çekici. 200 futbol sahası büyüklüğünde bir alan üzerinde kurulu olan bu türbe, ziyaretçiler için önemli bir çekim merkezi.
+Feyzullah el Ensari Türbesi, Bitlis ilinin merkezinde yer alan bir türbe ve tarihi mekan. Feyzullah el Ensari Türbesi, Bitlis'in önemli dini ve kültürel mekanlarından biri olarak kabul edilmekte. Türbenin içerisinde çeşitli tarihi eserler ve yazıtlar bulunmakta. Ayrıca, türbenin mimarisi ve tasarımı da dikkat çekici.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Feyzullah el Ensari Türbesi, tarihi geçmişi ile önemli bir mekan. Türbenin 
 
 ## Coğrafya
 
-Feyzullah el Ensari Türbesi, Bitlis ilinin merkezinde yer almakta. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresinde çeşitli tarihi yapılar bulunmakta. Bitlis, İç Anadolu Bölgesi'nde yer alan bir il ve coğrafi olarak önemli bir konuma sahip. İl, yüksek dağlar ve ovalarla çevrili ve iklimi karasal. Türbenin bulunduğu alan, genellikle yazları sıcak ve kışları soğuk olan bir iklime sahip. Ayrıca, türbenin çevresi, çeşitli bitki türleri ve hayvanlarla dolu. Türbe, ziyaretçiler için önemli bir gezi noktası ve aynı zamanda bir dini mekan. 200 futbol sahası büyüklüğünde bir alan üzerinde kurulu olan bu türbe, ziyaretçiler için önemli bir çekim merkezi. Türbenin mimarisi ve tasarımı da dikkat çekici ve tarihi öneme sahip.
+Feyzullah el Ensari Türbesi, Bitlis ilinin merkezinde yer almakta. Bitlis, İç Anadolu Bölgesi'nde yer alan bir il ve coğrafi olarak önemli bir konuma sahip. İl, yüksek dağlar ve ovalarla çevrili ve iklimi karasal. Türbenin bulunduğu alan, genellikle yazları sıcak ve kışları soğuk olan bir iklime sahip. Ayrıca, türbenin çevresi, çeşitli bitki türleri ve hayvanlarla dolu. Türbe, ziyaretçiler için önemli bir gezi noktası ve aynı zamanda bir dini mekan. Türbenin mimarisi ve tasarımı da dikkat çekici ve tarihi öneme sahip.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Feyzullah el Ensari Türbesi, ziyaretçiler için önemli bir gezi noktası. Tü
 ## İlginç Bilgiler
 
 - Feyzullah el Ensari Türbesi, Bitlis'in önemli dini ve kültürel mekanlarından biri.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Türbenin mimarisi ve tasarımı dikkat çekici.
 - Türbe, bir dini mekan olarak hizmet vermekte.
 - Türbenin çevresinde çeşitli tarihi yapılar bulunmakta.

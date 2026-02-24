@@ -28,7 +28,7 @@ wikidata_id: "Q32139027"
 
 # Gülbahar Tepe
 
-Gülbahar Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis'in önemli turizm noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık geniş bir alana yayılmış ve şehrin tarihi geçmişi hakkında önemli bilgiler sunmaktadır. Gülbahar Tepe'nin bulunduğu Kilis, coğrafi konumu itibariyle birçok medeniyete ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Tepe, ziyaretçilere hem şehrin tarihi hakkında fikir vermesi hem de doğal güzellikleri sunması açısından önemli bir destinasyon olarak dikkat çekmektedir.
+Gülbahar Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis'in önemli turizm noktalarından biridir. Gülbahar Tepe'nin bulunduğu Kilis, coğrafi konumu itibariyle birçok medeniyete ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Tepe, ziyaretçilere hem şehrin tarihi hakkında fikir vermesi hem de doğal güzellikleri sunması açısından önemli bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gülbahar Tepe'nin tarihi geçmişi, Kilis'in genel tarihini yansıtmaktadır. B
 
 ## Coğrafya
 
-Gülbahar Tepe, Kilis'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezine yakın bir konumda yer almakta ve etrafını geniş ova ve dağlar çevrelemektedir. Tepe, 140 hektarlık geniş bir alana yayılmış ve bu özelliği ile ziyaretçilere geniş bir manzara sunmaktadır. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak sıcak ve kuru bir yapıya sahiptir. Bu coğrafi özellikler, tepe ve çevresinin flora ve faunasını şekillendirmektedir. Gülbahar Tepe'nin coğrafi konumu, aynı zamanda burayı önemli bir turizm merkezi haline getirmektedir.
+Gülbahar Tepe, Kilis'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezine yakın bir konumda yer almakta ve etrafını geniş ova ve dağlar çevrelemektedir. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak sıcak ve kuru bir yapıya sahiptir. Bu coğrafi özellikler, tepe ve çevresinin flora ve faunasını şekillendirmektedir. Gülbahar Tepe'nin coğrafi konumu, aynı zamanda burayı önemli bir turizm merkezi haline getirmektedir.
 
 ## Flora ve Fauna
 

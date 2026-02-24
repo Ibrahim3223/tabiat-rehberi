@@ -37,7 +37,7 @@ Diş Sağlığı Müzesi, diş sağlığı ve tıbbın tarihini anlatmak amacıy
 
 ## Coğrafya
 
-Diş Sağlığı Müzesi, İstanbul'un merkezi bir bölgesinde yer alır ve Marmara Bölgesi'nin önemli kültür merkezlerinden biridir. Müzenin bulunduğu bölge, tarihi ve kültürel açıdan zengin bir alandır. Çevre, çeşitli tarihi yapılar ve kültürel etkinliklerle doludur. Müzenin coğrafi konumu, ziyaretçiler için ulaşım açısından son derece elverişlidir. İstanbul'un merkezinde yer alması, ziyaretçilerin müze ile diğer turistik yerleri rahatça gezebilmesini sağlar. Müze, yaklaşık 140 hektarlık bir alan üzerinde kuruludur ve bu geniş alan, ziyaretçilere geniş bir gezi alanı sunar.
+Diş Sağlığı Müzesi, İstanbul'un merkezi bir bölgesinde yer alır ve Marmara Bölgesi'nin önemli kültür merkezlerinden biridir. Müzenin bulunduğu bölge, tarihi ve kültürel açıdan zengin bir alandır. Çevre, çeşitli tarihi yapılar ve kültürel etkinliklerle doludur. Müzenin coğrafi konumu, ziyaretçiler için ulaşım açısından son derece elverişlidir. İstanbul'un merkezinde yer alması, ziyaretçilerin müze ile diğer turistik yerleri rahatça gezebilmesini sağlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Diş Sağlığı Müzesi'ni ziyaret etmek, diş sağlığı ve tıbbın tarihini
 ## İlginç Bilgiler
 
 - Diş Sağlığı Müzesi, diş sağlığı ve tıbbın tarihini anlatan nadir müzelerden biridir.
-- Müze, yaklaşık 140 hektarlık bir alan üzerinde kuruludur.
+
 - Müzenin koleksiyonunda, diş sağlığı ve tıbbın tarihine ait çeşitli eserler ve araçlar bulunur.
 - Müze, yılın her dönemi ziyaret edilebilir.
 - Müzenin bahçesi, ziyaretçilere dinlenmek için bir alan sunar.

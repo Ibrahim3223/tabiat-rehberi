@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"Kutahya-Simav-Aksaz-Kestane","caption":"Kutahya-Simav-Aksaz-Kestane","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Aksaz-Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228220","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parkı, 140 hektarlık yeşil alan"
+
 keywords: ["milli park","Kutahya","Simav","Aksaz","Kestane","İç Anadolu Bölgesi","doğa","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228220"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228220"
 
 # Kutahya-Simav-Aksaz-Kestane
 
-Kutahya-Simav-Aksaz-Kestane milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor.
+ İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -30,19 +30,18 @@ Kutahya-Simav-Aksaz-Kestane milli parkı, tarihi geçmişiyle dikkat çekiyor. B
 
 ## Coğrafya
 
-Kutahya-Simav-Aksaz-Kestane milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ve orman ekosistemlerinin bir arada yaşadığı bir coğrafyada yer alıyor. Milli parkın 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılıyor. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme imkanı sunuyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu milli park, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
+Kutahya-Simav-Aksaz-Kestane milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ve orman ekosistemlerinin bir arada yaşadığı bir coğrafyada yer alıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılıyor. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme imkanı sunuyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu milli park, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 
-Kutahya-Simav-Aksaz-Kestane milli parkı, zengin flora ve fauna çeşitliliğine sahip. Bu bölgede, çeşitli bitki türleri ve hayvanlar ziyaretçileri karşılıyor. Milli parkın 140 hektarlık alanı, ziyaretçilere geniş bir yeşillik sunuyor. Bu bölgede, mevsimsel değişimler ziyaretçilere farklı bir doğa güzelliği sunuyor. Bahar aylarında yeşeren bitkiler, yaz aylarında yeşil alanlar, sonbahar aylarında renklenen yapraklar ve kış aylarında karla kaplanan manzara, ziyaretçilere dört mevsim farklı bir güzellik sunuyor.
+Kutahya-Simav-Aksaz-Kestane milli parkı, zengin flora ve fauna çeşitliliğine sahip. Bu bölgede, çeşitli bitki türleri ve hayvanlar ziyaretçileri karşılıyor. Bu bölgede, mevsimsel değişimler ziyaretçilere farklı bir doğa güzelliği sunuyor. Bahar aylarında yeşeren bitkiler, yaz aylarında yeşil alanlar, sonbahar aylarında renklenen yapraklar ve kış aylarında karla kaplanan manzara, ziyaretçilere dört mevsim farklı bir güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 
-Kutahya-Simav-Aksaz-Kestane milli parkını ziyaret etmek, doğa severler için harika bir deneyim olabilir. Milli parka ulaşım, çeşitli ulaşım araçları ile sağlanabiliyor. Ziyaretçiler, milli parkın 140 hektarlık alanını keşfederek doğanın güzelliğini yaşayabilirler. Bu bölgede, doğa yürüyüşleri, pikni ve dinlenme gibi faaliyetler yapılabilir. Ziyaretçiler, milli parkın zengin flora ve fauna çeşitliliğini keşfedebilir ve unutulmaz bir deneyim yaşayabilirler.
+Kutahya-Simav-Aksaz-Kestane milli parkını ziyaret etmek, doğa severler için harika bir deneyim olabilir. Milli parka ulaşım, çeşitli ulaşım araçları ile sağlanabiliyor. Bu bölgede, doğa yürüyüşleri, pikni ve dinlenme gibi faaliyetler yapılabilir. Ziyaretçiler, milli parkın zengin flora ve fauna çeşitliliğini keşfedebilir ve unutulmaz bir deneyim yaşayabilirler.
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor
 - Zengin flora ve fauna çeşitliliğine sahip
 - Mevsimsel değişimler, ziyaretçilere farklı bir doğa güzelliği sunuyor

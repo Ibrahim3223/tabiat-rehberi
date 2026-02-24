@@ -38,7 +38,7 @@ Eskici Baba Türbesi'nin tarihi geçmişi, bölgenin önemli bir kültürel mira
 
 ## Coğrafya
 
-Eskici Baba Türbesi, Osmangazi/Bursa'da, Marmara Bölgesi'nin önemli bir konumunda yer alır. Bu plaj, bölgenin doğal güzelliklerini ve coğrafi özelliklerini yansıtan önemli bir noktadır. Yaklaşık 140 hektarlık bir yeşil alan olarak, bu bölge, ziyaretçilere geniş ve ferah bir atmosfer sunar. Ayrıca, buranın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Bu plajın coğrafi konumu, ziyaretçilere Marmara Bölgesi'nin doğal güzelliklerini keşfetme fırsatı verir. Bu bölge, ayrıca, bölgenin jeolojik yapısını ve coğrafi özelliklerini yansıtan önemli bir alandır.
+Eskici Baba Türbesi, Osmangazi/Bursa'da, Marmara Bölgesi'nin önemli bir konumunda yer alır. Bu plaj, bölgenin doğal güzelliklerini ve coğrafi özelliklerini yansıtan önemli bir noktadır. Ayrıca, buranın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Bu plajın coğrafi konumu, ziyaretçilere Marmara Bölgesi'nin doğal güzelliklerini keşfetme fırsatı verir. Bu bölge, ayrıca, bölgenin jeolojik yapısını ve coğrafi özelliklerini yansıtan önemli bir alandır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Eskici Baba Türbesi'ni ziyaret etmek, Marmara Bölgesi'nin doğal güzellikleri
 ## İlginç Bilgiler
 
 - Eskici Baba Türbesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir yeşil alanı kaplar.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Eskici Baba Türbesi, Osmangazi/Bursa'da yer alır.
 - Bu plaj, ilkbahar ve yaz aylarında ziyaret edilebilir.

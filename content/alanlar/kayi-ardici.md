@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/03/Kay%C4%B1_Ard%C4%B1c%C4%B1.jpg","alt":"Kayi Ardici manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayi%20Ardici","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228067","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kayi Ardici","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228067"

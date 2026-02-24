@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Kazan_Pchelin_House_2024-07-18_2610.jpg","alt":"Kovanlık manzarası","credit":"Mike1979 Russia","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/10/Pchelin_house_%282022-03-31%29_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pchelin_house_%282022-03-31%29_02.jpg/1280px-Pchelin_house_%282022-03-31%29_02.jpg","alt":"Kovanlık - Pchelin house (2022-03-31) 02","credit":"Vyacheslav Kirillin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/28/Pchelin_house_%282022-03-31%29_08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pchelin_house_%282022-03-31%29_08.jpg/1280px-Pchelin_house_%282022-03-31%29_08.jpg","alt":"Kovanlık - Pchelin house (2022-03-31) 08","credit":"Vyacheslav Kirillin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Pchelin_house_%282022-03-31%29_11.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pchelin_house_%282022-03-31%29_11.jpg/1280px-Pchelin_house_%282022-03-31%29_11.jpg","alt":"Kovanlık - Pchelin house (2022-03-31) 11","credit":"Vyacheslav Kirillin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Pchelin_Village_hall.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pchelin_Village_hall.JPG/1280px-Pchelin_Village_hall.JPG","alt":"Kovanlık - Pchelin Village hall","credit":"Anton Lefterov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Pchelin_Church.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pchelin_Church.JPG/1280px-Pchelin_Church.JPG","alt":"Kovanlık - Pchelin Church","credit":"Anton Lefterov","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kovanl%C4%B1k","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228175","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Kovanlık, 140 hektarlık yeşil alanı ve zengin faunasıyla dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kovanlık","İç Anadolu Bölgesi","doğa","yeşil alan","fauna","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228175"
@@ -43,7 +43,6 @@ Kovanlık'ı ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak. B
 
 ## İlginç Bilgiler
 
-- Kovanlık, 140 hektarlık yeşil alanı ile dikkat çekiyor
 - Bu bölge, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor
 - Kovanlık, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer
 - Kovanlık'ın coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor

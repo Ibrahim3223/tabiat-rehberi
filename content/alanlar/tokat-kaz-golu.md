@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/KazGolu.jpg","alt":"Tokat-Kaz Golu manzarası","credit":"Zehragulaslan","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Kaz_G%C3%B6l%C3%BC_Tokat.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Kaz_G%C3%B6l%C3%BC_Tokat.jpg","alt":"Tokat-Kaz Golu - Kaz Gölü Tokat","credit":"Çiğdem Gürses","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/de/KAZ_G%C3%96L%C3%9C.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/KAZ_G%C3%96L%C3%9C.jpg/1280px-KAZ_G%C3%96L%C3%9C.jpg","alt":"Tokat-Kaz Golu - KAZ GÖLÜ","credit":"Eminnerol","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Kaz_G%C3%B6l%C3%BC_Resmi-Tokat.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kaz_G%C3%B6l%C3%BC_Resmi-Tokat.jpg/1280px-Kaz_G%C3%B6l%C3%BC_Resmi-Tokat.jpg","alt":"Tokat-Kaz Golu - Kaz Gölü Resmi-Tokat","credit":"Yahya Emir Kaya","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/Kaz_G%C3%B6l%C3%BC-Tokat.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kaz_G%C3%B6l%C3%BC-Tokat.jpg/1280px-Kaz_G%C3%B6l%C3%BC-Tokat.jpg","alt":"Tokat-Kaz Golu - Kaz Gölü-Tokat","credit":"Yahya Emir Kaya","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tokat-Kaz%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228401","tip":"genel"}]
-description: "Tokat'ın doğal güzelliklerinden biri olan Kaz Gölü, 140 hektarlık alanı ile önemli bir ekosistem"
+
 keywords: ["Tokat","Kaz Gölü","milli park","doğal güzellik","ekosistem","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228401"
@@ -43,7 +43,6 @@ Tokat-Kaz Gölü, ziyaretçilere geniş çaplı bir gezi imkanı sunuyor. Gölü
 
 ## İlginç Bilgiler
 
-- Tokat-Kaz Gölü, 140 hektarlık bir alanı kaplıyor
 - Gölün etrafındaki yeşil alanlar, ziyaretçilere geniş çaplı bir manzara sunuyor
 - Gölde balık avı ve su sporları gibi etkinlikler yapılabiliyor
 - Tokat-Kaz Gölü, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor

@@ -29,7 +29,7 @@ wikidata_id: "Q134728253"
 
 # Yıldırım Kemal Şehitliği
 
-Yıldırım Kemal Şehitliği, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak karşımıza çıkıyor. Sinanpaşa, Afyonkarahisar'da bulunan bu mekan, 140 hektarlık bir alanı kapsıyor. Yıldırım Kemal Şehitliği, ziyaretçilerine hem tarihi bir deneyim hem de doğal güzellikleri sunuyor. Bu mekan, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak dikkat çekiyor.
+Yıldırım Kemal Şehitliği, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak karşımıza çıkıyor. Yıldırım Kemal Şehitliği, ziyaretçilerine hem tarihi bir deneyim hem de doğal güzellikleri sunuyor. Bu mekan, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Yıldırım Kemal Şehitliği'ni ziyaret etmek, özellikle tarih meraklıları v
 
 ## İlginç Bilgiler
 
-- Yıldırım Kemal Şehitliği, 140 hektarlık bir alanı kapsıyor
-- Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde
 - Yıldırım Kemal Şehitliği, Sinanpaşa, Afyonkarahisar'da bulunuyor
 - Bu mekan, Ege Bölgesi'nin merkezi bir noktasında yer alıyor
 - Yıldırım Kemal Şehitliği, ziyaretçilerine birçok farklı faaliyet yapma fırsatı sunuyor

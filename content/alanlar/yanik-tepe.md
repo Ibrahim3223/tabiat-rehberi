@@ -29,7 +29,7 @@ wikidata_id: "Q31389948"
 
 # Yanık Tepe
 
-Yanık Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Yanık Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Yanık Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleri ile bekliyor.
+Yanık Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Yanık Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Yanık Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleri ile bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yanık Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölgede
 
 ## Coğrafya
 
-Yanık Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Yanık Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Yanık Tepe, coğrafi konumu ile dikkat çekiyor. Bu bölgede, çeşitli iklim koşulları bulunmakta. Yanık Tepe, ziyaretçilerini coğrafi güzellikleri ile bekliyor. Coğrafi konumu, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+Yanık Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Yanık Tepe, coğrafi konumu ile dikkat çekiyor. Bu bölgede, çeşitli iklim koşulları bulunmakta. Yanık Tepe, ziyaretçilerini coğrafi güzellikleri ile bekliyor. Coğrafi konumu, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Yanık Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu b�
 Yanık Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleri ile bekliyor. Bu bölgede, çeşitli aktiviteleri gerçekleştirebilirsiniz. Yanık Tepe, ziyaretçilerini coğrafi güzellikleri ile bekliyor. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta. Yanık Tepe, ziyaretçilerini flora ve fauna ile bekliyor.
 
 ## İlginç Bilgiler
-
-- Yanık Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 
 - Yanık Tepe, tarihi geçmişi ile dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta.

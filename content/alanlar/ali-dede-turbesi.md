@@ -52,6 +52,6 @@ Ali Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deney
 
 - Ali Dede Türbesi, Eskişehir'in önemli tarihi ve kültürel merkezlerinden biridir.
 - Türbe, yüzyıllar öncesine dayanan bir geçmişe sahiptir.
-- Bölge, 140 hektarlık bir yeşil alan sunmaktadır.
+
 - Ali Dede Türbesi, hem dini hem de kültürel bir merkez olarak ziyaret edilmektedir.
 - Bölge, step ve ova ekosistemlerini bir araya getirmektedir.

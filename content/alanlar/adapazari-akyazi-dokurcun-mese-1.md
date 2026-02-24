@@ -43,7 +43,7 @@ Adapazari-Akyazi-Dokurcun Mese 1'i ziyaret etmek, İç Anadolu Bölgesi'nin doğ
 ## İlginç Bilgiler
 
 - İç Anadolu Bölgesi'nin en büyük milli parklarından biri
-- 140 hektarlık yeşil alan
+
 - çeşitli flora ve fauna türlerine ev sahipliği yapar
 - tarihi geçmişi yüzyıllar boyunca şekillenmiştir
 - rehberli turlar düzenlenmektedir

@@ -30,7 +30,7 @@ Isparta-Egirdir-Boylu Ardic milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Isparta-Egirdir-Boylu Ardic milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en önemli alanlarından biridir. Bu bölge, Isparta ilinin Egirdir ilçesinde bulunur ve 140 hektarlık bir alanı kaplar. Milli parkın coğrafi yapısı, dağlar, ormanlar ve göllerden oluşur. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgedir. Kışları ılıman, yazları ise sıcak ve kurak pasiftir. Bu bölgenin coğrafi konumu, ziyaretçilere, doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Ziyaretçiler, milli parkın içinde, çeşitli bitki türleri ve zengin fauna görebilirler.
+Isparta-Egirdir-Boylu Ardic milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en önemli alanlarından biridir. Milli parkın coğrafi yapısı, dağlar, ormanlar ve göllerden oluşur. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgedir. Kışları ılıman, yazları ise sıcak ve kurak pasiftir. Bu bölgenin coğrafi konumu, ziyaretçilere, doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Ziyaretçiler, milli parkın içinde, çeşitli bitki türleri ve zengin fauna görebilirler.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Isparta-Egirdir-Boylu Ardic milli parkını ziyaret etmek, ziyaretçiler için, 
 
 - Milli parkın içinde, çeşitli bitki türleri bulunur.
 - Bu bölgenin fauna, zengin ve çeşitli türlerden oluşur.
-- Milli park, 140 hektarlık bir alanı kaplar.
+
 - Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgedir.
 - Ziyaretçiler, milli parkın içinde, yürüyüş yapabilir ve doğayı keşfedebilir.

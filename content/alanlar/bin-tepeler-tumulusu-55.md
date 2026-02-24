@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 55, ziyaretçilerini bekliyor. Bu özel alan, Ege Bölg
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 55, Ege Bölgesi'nin önemli tarihi merkezlerinden biri olarak bilinir.
-- Bu özel alan, 140 hektarlık bir alana sahiptir.
+
 - Bin Tepeler Tümülüsü 55, ziyaretçilerine bölge hakkında bilgi verir.
 - Bu özel alan, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunur.
 - Bin Tepeler Tümülüsü 55, ziyaretçilerini doğal güzellikleriyle bekliyor.

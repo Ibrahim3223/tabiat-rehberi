@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa yürüyüşleri","flora ve fauna gö
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Isparta-Sutculer-Sipahiler Sacli Mese","caption":"Isparta-Sutculer-Sipahiler Sacli Mese","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Sipahiler%20Sacli%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228481","tip":"genel"}]
-description: "Isparta'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor."
+"
 keywords: ["Isparta","milli park","Sutculer","Sipahiler","Sacli Mese","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228481"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228481"
 
 # Isparta-Sutculer-Sipahiler Sacli Mese
 
-Isparta-Sutculer-Sipahiler Sacli Mese, Isparta ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu park, Isparta'nın doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini doğanın kucağına davet eder. Milli parkın içinde yürüyüş parkurları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, bu milli parkta zengin bir fauna da mevcuttur.
+ Bu park, Isparta'nın doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini doğanın kucağına davet eder. Milli parkın içinde yürüyüş parkurları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, bu milli parkta zengin bir fauna da mevcuttur.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Isparta-Sutculer-Sipahiler Sacli Mese milli parkını ziyaret etmek, doğayı se
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kapsar.
 - Milli parkta, çeşitli bitki türleri bulunur.
 - Milli parkta, zengin bir fauna mevcuttur.
 - Milli park, Isparta ilinin sınırları içerisinde yer alır.

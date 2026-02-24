@@ -50,7 +50,7 @@ Halvet Baba Türbesi'ni ziyaret etmek, bölgeye gelen ziyaretçiler için öneml
 ## İlginç Bilgiler
 
 - Halvet Baba Türbesi, yüzyıllar boyunca dini ve kültürel açıdan önemli bir merkez olarak bilinmektedir.
-- Bu mekan, 140 hektarlık bir arazide kurulmuştur.
+
 - Ziyaretçiler, burada bulunan tarihi eserleri ve mimari yapıları görerek, bu mekanın kültürel zenginliğini keşfetme fırsatı bulmaktadır.
 - Halvet Baba Türbesi, flora ve fauna açısından zengin bir alandır.
 - Ziyaretçiler, burada bulunan doğal güzellikleri keşfetme fırsatı bulmaktadır.

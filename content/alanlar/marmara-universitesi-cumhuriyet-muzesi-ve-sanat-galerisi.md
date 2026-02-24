@@ -29,7 +29,7 @@ wikidata_id: "Q132949430"
 
 # Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi
 
-Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi, İstanbul'un kalbinde yer alan ve Marmara Üniversitesi'nin önemli kültür merkezlerinden biri olarak dikkat çekmektedir. Bu önemli kültür merkezi, yaklaşık 140 hektarlık bir alana yayılmış olan Marmara Üniversitesi'nin Göztepe Kampüsü içerisinde bulunmaktadır. Müze ve sanat galerisi, bu büyük kampüsün içerisinde yer almakta ve ziyaretçilere zengin bir kültür deneyimi sunmaktadır.
+Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi, İstanbul'un kalbinde yer alan ve Marmara Üniversitesi'nin önemli kültür merkezlerinden biri olarak dikkat çekmektedir. Müze ve sanat galerisi, bu büyük kampüsün içerisinde yer almakta ve ziyaretçilere zengin bir kültür deneyimi sunmaktadır.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi'ni ziyaret etmek, kü
 
 ## İlginç Bilgiler
 
-- Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi, yaklaşık 140 hektarlık bir alana yayılmış olan Marmara Üniversitesi'nin Göztepe Kampüsü içerisinde bulunmaktadır.
 - Müze ve sanat galerisi, Marmara Üniversitesi'nin kültür ve sanat faaliyetlerini desteklemek amacıyla kurulmuştur.
 - Müzenin kuruluş amacı, Türkiye Cumhuriyeti'nin kuruluşuna kadar uzanan tarihi süreçte yaşamış önemli şahsiyetlerin ve sanatçıların eserlerini sergileme ve bu şekilde Türkiye'nin kültür mirasını koruma ve tanıtmaktır.
 - Kampüs, çeşitli ağaç ve bitki türleri ile süslenmiş geniş yeşil alanlara sahiptir.

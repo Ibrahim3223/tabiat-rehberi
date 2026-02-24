@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","bitki ve
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Gora Algvnet","caption":"Gora Algvnet","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Algvnet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386202","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliği Gora Algvnet, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Gora Algvnet","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386202"
@@ -48,7 +48,6 @@ Gora Algvnet'i ziyaret etmek, doğanın güzelliği ile baş başa kalmak isteye
 
 ## İlginç Bilgiler
 
-- Gora Algvnet, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölge, coğrafi özellikleri ve doğal güzellikleriyle ziyaretçileri cezbediyor
 - Gora Algvnet, flora ve fauna yönünden önemli bir bölge olarak kabul ediliyor
 - Ziyaretçiler, bu bölgede yer alan tarihi eserleri ve kalıntıları gezerek, Gora Algvnet'in tarihini yakından keşfedebiliyorlar

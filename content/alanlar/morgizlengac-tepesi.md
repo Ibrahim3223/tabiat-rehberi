@@ -48,7 +48,6 @@ Morgızlengaç Tepesi'ne ziyaret etmek için, en uygun zaman ilkbahar ve sonbaha
 
 ## İlginç Bilgiler
 
-- Morgızlengaç Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Bu tepe, doğu-batı yönünde uzanan bir sırt ile karakterize ediliyor.
 - Bu tepe, çevresindeki dağlar ve vadiler ile birlikte, bir doğa harikası oluşturuyor.

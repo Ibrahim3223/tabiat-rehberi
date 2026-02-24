@@ -30,7 +30,7 @@ Antalya-Alanya-Mahmutlar-Mese milli parkının tarihi geçmişi, yüzyıllar ön
 
 ## Coğrafya
 
-Antalya-Alanya-Mahmutlar-Mese milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Park, 140 hektarlık bir alanı kaplıyor ve deniz seviyesinden yüksekliği nedeniyle, ziyaretçilere mükemmel bir manzara sunuyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve yaban hayvanlarının yaşam alanı olarak hizmet vermektedir. Parkın iklimi, Akdeniz iklimi özellikleri göstermektedir ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı etkinli ve aktivite imkanı sunuyor.
+Antalya-Alanya-Mahmutlar-Mese milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve yaban hayvanlarının yaşam alanı olarak hizmet vermektedir. Parkın iklimi, Akdeniz iklimi özellikleri göstermektedir ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Milli parkın coğrafi konumu, ziyaretçilere birçok farklı etkinli ve aktivite imkanı sunuyor.
 
 ## Flora ve Fauna
 

@@ -49,7 +49,7 @@ Gora Byuyuk'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak. 
 ## İlginç Bilgiler
 
 - Gora Byuyuk, İç Anadolu Bölgesi'nin en yüksek noktalarından biri
-- Tepe, 140 hektarlık bir alana sahip
+
 - Gora Byuyuk, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor
 - Tepe, ilkbahar ve yaz aylarında daha renkli ve canlı
 - Gora Byuyuk'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Photography","Bitki ve Hayvan Gözlemi","Pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","caption":"Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228471","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide illerinden Bursa'da bulunan milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bursa","Marmara Bölgesi","Milli Park","Doğa","Turizm","Yeşil Alan","Futbol Saha","Kızılcağaç"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228471"

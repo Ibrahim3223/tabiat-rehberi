@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Trekking","Doğa Yürüyüşü","Fotoğrafçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Kastamonu-Tosya Gavurdagı","caption":"Kastamonu-Tosya Gavurdagı","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Tosya%20Gavurdag%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227400","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin. Tosya Gavurdagı Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu'nun doğal güzelliklerini keşfedin."
 keywords: ["Kastamonu","Tosya Gavurdagı","Milli Park","Doğa","Yeşil Alan","Futbol Saha","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227400"
@@ -30,20 +30,18 @@ Kastamonu-Tosya Gavurdagı Milli Parkı, yüzyıllar boyunca doğal güzellikler
 
 ## Coğrafya
 
-Kastamonu-Tosya Gavurdagı Milli Parkı, Karadeniz Bölgesi'nde yer alıyor ve coğrafi olarak zengin bir çeşitlilik sunuyor. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve hayvanlarla dolu. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişken ve nemli. Parkın coğrafi yapısı, ziyaretçilerin yürüyüş, trekking ve doğa yürüyüşü gibi aktiviteler melakukan olanak tanıyor. Tosya Gavurdagı Milli Parkı, Kastamonu ilinin Tosya ilçesinde yer alıyor ve ulaşım açısından kolaylık sağlıyor. Parkın etrafındaki köyler ve kasabalar, ziyaretçilere konaklama ve yemek olanakları sunuyor.
+Kastamonu-Tosya Gavurdagı Milli Parkı, Karadeniz Bölgesi'nde yer alıyor ve coğrafi olarak zengin bir çeşitlilik sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişken ve nemli. Parkın coğrafi yapısı, ziyaretçilerin yürüyüş, trekking ve doğa yürüyüşü gibi aktiviteler melakukan olanak tanıyor. Tosya Gavurdagı Milli Parkı, Kastamonu ilinin Tosya ilçesinde yer alıyor ve ulaşım açısından kolaylık sağlıyor. Parkın etrafındaki köyler ve kasabalar, ziyaretçilere konaklama ve yemek olanakları sunuyor.
 
 ## Flora ve Fauna
 
-Kastamonu-Tosya Gavurdagı Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahip. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türleri ve hayvanlarla dolu. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki ve hayvan türleri yaşamlarını sürdürüyor. Parkın fauna çeşitliliği, ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyor. Tosya Gavurdagı Milli Parkı, doğa severler ve bilim insanları tarafından nghiênilmiş ve bölgenin ekolojik önemi anlaşılıyor.
+Kastamonu-Tosya Gavurdagı Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahip. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki ve hayvan türleri yaşamlarını sürdürüyor. Parkın fauna çeşitliliği, ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyor. Tosya Gavurdagı Milli Parkı, doğa severler ve bilim insanları tarafından nghiênilmiş ve bölgenin ekolojik önemi anlaşılıyor.
 
 ## Ziyaret Bilgileri
 
-Kastamonu-Tosya Gavurdagı Milli Parkı, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parka ulaşım, Kastamonu ilinin Tosya ilçesinden kolayca sağlanabiliyor. Ziyaretçiler, parkın 140 hektarlık yeşil alanında yürüyüş, trekking ve doğa yürüyüşü gibi aktiviteler yapabilirler. Parkın etrafındaki köyler ve kasabalar, ziyaretçilere konaklama ve yemek olanakları sunuyor. Tosya Gavurdagı Milli Parkı, yılın her dönemi ziyaret edilebilir, ancak bahar ve yaz ayları, doğanın güzelliğini keşfetmek için en ideal zamanlar.
+Kastamonu-Tosya Gavurdagı Milli Parkı, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parka ulaşım, Kastamonu ilinin Tosya ilçesinden kolayca sağlanabiliyor. Parkın etrafındaki köyler ve kasabalar, ziyaretçilere konaklama ve yemek olanakları sunuyor. Tosya Gavurdagı Milli Parkı, yılın her dönemi ziyaret edilebilir, ancak bahar ve yaz ayları, doğanın güzelliğini keşfetmek için en ideal zamanlar.
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- Yaklaşık 200 futbol sahası büyüklüğünde
 - Zengin flora ve fauna çeşitliliği
 - Tosya Gavurdagı Milli Parkı, 1998 yılında kuruldu
 - Kastamonu ilinin Tosya ilçesinde yer alıyor

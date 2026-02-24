@@ -42,7 +42,6 @@ Sinop-Boyabat-Sarayduzu Kayin milli parkını ziyaret etmek, doğa severler içi
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana sahip
 - Bölgede, çeşitli bitki türleri ve hayvanlar yaşadığından, ziyaretçiler için bir doğa belgeseli gibi
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerinin korunması ve gelecek nesiller için korunması amacıyla gerçekleştirilmiştir
 - Bölgede, mevsimsel değişimlere göre değişen bir flora ve fauna çeşitliliği encontruluyor

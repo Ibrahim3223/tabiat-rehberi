@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna Gözlemi","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Sanliurfa-Adiyaman-Golbasi-Kizilcam","caption":"Sanliurfa-Adiyaman-Golbasi-Kizilcam","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sanliurfa-Adiyaman-Golbasi-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228578","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Şanlıurfa ve Adıyaman'ın sınırında yer alan bu milli park, 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor."
+description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Şanlıurfa","Adıyaman","Güneydoğu Anadolu Bölgesi","Milli Park","Doğal Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228578"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228578"
 
 # Sanliurfa-Adiyaman-Golbasi-Kizilcam
 
-Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Şanlıurfa-Adiyaman-Golbasi-Kizilcam milli parkı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Milli parkın konumu, Şanlıurfa ve Adıyaman illerinin sınırında yer alıyor, bu nedenle her iki ilin doğal güzelliklerini bir arada keşfetme mümkün. Gökyüzünün mavisi, yeşil alanların freshliği ve doğal seslerin uyumuna tanıklık etmek için buraya gelmek gerekir.
+ Milli parkın konumu, Şanlıurfa ve Adıyaman illerinin sınırında yer alıyor, bu nedenle her iki ilin doğal güzelliklerini bir arada keşfetme mümkün. Gökyüzünün mavisi, yeşil alanların freshliği ve doğal seslerin uyumuna tanıklık etmek için buraya gelmek gerekir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sanliurfa-Adiyaman-Golbasi-Kizilcam milli parkının tarihi geçmişi, bölgenin
 
 ## Coğrafya
 
-Sanliurfa-Adiyaman-Golbasi-Kizilcam milli parkı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık yeşil alanı, çeşitli bitki türleri ile kaplı ve fauna açısından zengin bir alandır. Milli parkın coğrafi konumu, Şanlıurfa ve Adıyaman illerinin sınırında yer alıyor. Bölgenin iklimi, genel olarak sıcak ve kurak bir karakterdedir, ancak milli parkın bulunduğu yerin yüksekliği ve bitki örtüsü, mikro iklimlerin oluşmasına neden olur. Bu mikro iklimler, bölgenin fauna ve flora açısından zenginleşmesine katkıda bulunur. Milli parkın coğrafi yapısı, ayrıca çeşitli jeolojik oluşumları da içerir. Bunlar, bölgenin doğal güzelliklerine katkıda bulunur ve ziyaretçilerin ilgisini çekmeye devam eder.
+Sanliurfa-Adiyaman-Golbasi-Kizilcam milli parkı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Milli parkın coğrafi konumu, Şanlıurfa ve Adıyaman illerinin sınırında yer alıyor. Bölgenin iklimi, genel olarak sıcak ve kurak bir karakterdedir, ancak milli parkın bulunduğu yerin yüksekliği ve bitki örtüsü, mikro iklimlerin oluşmasına neden olur. Bu mikro iklimler, bölgenin fauna ve flora açısından zenginleşmesine katkıda bulunur. Milli parkın coğrafi yapısı, ayrıca çeşitli jeolojik oluşumları da içerir. Bunlar, bölgenin doğal güzelliklerine katkıda bulunur ve ziyaretçilerin ilgisini çekmeye devam eder.
 
 ## Flora ve Fauna
 

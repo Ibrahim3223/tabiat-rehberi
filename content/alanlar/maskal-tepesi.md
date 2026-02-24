@@ -37,11 +37,11 @@ Maskal Tepesi, Diyarbakır'ın tarihi geçmişi ile ilgili önemli bir nokta. Bu
 
 ## Coğrafya
 
-Maskal Tepesi, Diyarbakır'ın coğrafi yapısı ile ilgili önemli bir nokta. Bu tepe, şehrin merkezine yakın bir konumda bulunuyor ve Diyarbakır'ın coğrafi yapısını etkileyen önemli faktörlerden biri. Maskal Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ile kaplı. Tepenin eteklerinde, tarihi eserler ve doğal güzellikler bir arada bulunuyor ve bu bölge, çeşitli hayvan türleri için bir yaşam alanı. Maskal Tepesi, coğrafi yapısı ile ilgili somut bilgiler bulunmasa da, bölgenin genel coğrafi yapısı, bu tepe hakkında fikir veriyor. Diyarbakır, coğrafi olarak çeşitli özellikler gösteren bir bölge ve Maskal Tepesi, bu bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri.
+Maskal Tepesi, Diyarbakır'ın coğrafi yapısı ile ilgili önemli bir nokta. Bu tepe, şehrin merkezine yakın bir konumda bulunuyor ve Diyarbakır'ın coğrafi yapısını etkileyen önemli faktörlerden biri. Tepenin eteklerinde, tarihi eserler ve doğal güzellikler bir arada bulunuyor ve bu bölge, çeşitli hayvan türleri için bir yaşam alanı. Maskal Tepesi, coğrafi yapısı ile ilgili somut bilgiler bulunmasa da, bölgenin genel coğrafi yapısı, bu tepe hakkında fikir veriyor. Diyarbakır, coğrafi olarak çeşitli özellikler gösteren bir bölge ve Maskal Tepesi, bu bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri.
 
 ## Flora ve Fauna
 
-Maskal Tepesi, çeşitli bitki türleri ile kaplı bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ile kaplı. Maskal Tepesi, coğrafi yapısı ile ilgili somut bilgiler bulunmasa da, bölgenin genel coğrafi yapısı, bu tepe hakkında fikir veriyor. Diyarbakır, coğrafi olarak çeşitli özellikler gösteren bir bölge ve Maskal Tepesi, bu bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri. Bu tepe, çeşitli hayvan türleri için bir yaşam alanı ve ziyaretçiler, bu bölgeyi ziyaret ederek çeşitli bitki ve hayvan türleri hakkında bilgi edinebilirler.
+Maskal Tepesi, çeşitli bitki türleri ile kaplı bir bölge. Maskal Tepesi, coğrafi yapısı ile ilgili somut bilgiler bulunmasa da, bölgenin genel coğrafi yapısı, bu tepe hakkında fikir veriyor. Diyarbakır, coğrafi olarak çeşitli özellikler gösteren bir bölge ve Maskal Tepesi, bu bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri. Bu tepe, çeşitli hayvan türleri için bir yaşam alanı ve ziyaretçiler, bu bölgeyi ziyaret ederek çeşitli bitki ve hayvan türleri hakkında bilgi edinebilirler.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Maskal Tepesi, Diyarbakır'ı gezenler için önemli bir destinasyon. Bu tepe, �
 ## İlginç Bilgiler
 
 - Maskal Tepesi, Diyarbakır'ın tarihi geçmişi ile ilgili önemli bir nokta
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Maskal Tepesi, coğrafi yapısı ile ilgili somut bilgiler bulunmasa da, bölgenin genel coğrafi yapısı, bu tepe hakkında fikir veriyor
 - Bu tepe, çeşitli bitki türleri ile kaplı bir bölge
 - Maskal Tepesi, coğrafi olarak çeşitli özellikler gösteren bir bölge

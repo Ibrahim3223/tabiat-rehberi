@@ -36,7 +36,7 @@ Alibey Tepesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu tepe, yüzyıl
 
 ## Coğrafya
 
-Alibey Tepesi, Şırnak ilinin coğrafi yapısını önemli ölçüde etkiler. Bu tepe, bölgenin en yüksek noktalarından biridir ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve genişliği, bölgenin iklimini ve bitki örtüsünü etkiler. Alibey Tepesi, aynı zamanda bölgenin hidrolojik yapısını da etkiler. Tepenin eteklerinde, çeşitli su kaynakları vardır ve bu su kaynakları, bölgenin tarımsal faaliyetlerini destekler. Alibey Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin panoramik manzarasını sunar. Bu tepe, aynı zamanda bölgenin doğal güzelliklerini korumak için önemli bir noktadır. Alibey Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
+Alibey Tepesi, Şırnak ilinin coğrafi yapısını önemli ölçüde etkiler. Tepenin yüksekliği ve genişliği, bölgenin iklimini ve bitki örtüsünü etkiler. Alibey Tepesi, aynı zamanda bölgenin hidrolojik yapısını da etkiler. Tepenin eteklerinde, çeşitli su kaynakları vardır ve bu su kaynakları, bölgenin tarımsal faaliyetlerini destekler. Alibey Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin panoramik manzarasını sunar. Bu tepe, aynı zamanda bölgenin doğal güzelliklerini korumak için önemli bir noktadır. Alibey Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Alibey Tepesi, ziyaretçilere bölgenin doğal güzelliklerini keşfetmek için 
 ## İlginç Bilgiler
 
 - Alibey Tepesi, Şırnak ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Alibey Tepesi, çeşitli bitki ve hayvan türlerini barındırır.
 - Bu tepe, bölgenin ekolojik dengesini korumak için önemlidir.
 - Alibey Tepesi, ziyaretçilere bölgenin doğal güzelliklerini keşfetmek için önemli bir fırsat sunar.

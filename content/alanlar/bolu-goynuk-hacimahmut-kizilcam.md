@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abant_Lake_Nature_Park.jpg/960px-Abant_Lake_Nature_Park.jpg","alt":"Bolu-Goynuk-Hacimahmut Kızılçam","caption":"Bolu-Goynuk-Hacimahmut Kızılçam","credit":"Abant Lake Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Goynuk-Hacimahmut%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227323","tip":"genel"}]
-description: "Karadeniz Bölgesi'nde yer alan Bolu-Goynuk-Hacimahmut Kızılçam, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bolu","Karadeniz Bölgesi","milli park","kızılçam","doğa","gezi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227323"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227323"
 
 # Bolu-Goynuk-Hacimahmut Kızılçam
 
-Bolu-Goynuk-Hacimahmut Kızılçam, Karadeniz Bölgesi'nin güzide illerinden Bolu'da yer alan 140 hektarlık bir milli parktır. Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleşmiştir. Bolu-Goynuk-Hacimahmut Kızılçam, ziyaretçilerine geniş yeşil alanlar, yürüyüş parkurları ve bol oksijen sunuyor. Bu milli park, doğa severler ve hafta sonu kaçamağı arayanlar için ideal bir destinasyon olarak dikkat çekiyor.
+ Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleşmiştir. Bolu-Goynuk-Hacimahmut Kızılçam, ziyaretçilerine geniş yeşil alanlar, yürüyüş parkurları ve bol oksijen sunuyor. Bu milli park, doğa severler ve hafta sonu kaçamağı arayanlar için ideal bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Goynuk-Hacimahmut Kızılçam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Bolu-Goynuk-Hacimahmut Kızılçam milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölge, genellikle engebeli arazilere sahiptir ve bu engebe, milli parkın coğrafi yapısını da etkilemiştir. Milli parkın 140 hektarlık alanı, çeşitli yüksekliklerde ve eğimlerde bulunan arazilerden oluşmaktadır. Bu durum, ziyaretçilere farklı manzaralar ve yürüyüş rotaları sunuyor. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşıyor; yani yağışlı ve nemli bir yapıya sahip. Bu iklim, milli parkın flora ve faunasının çeşitlilik göstermesine de katkı sağlıyor. Milli park, ayrıca çevresindeki diğer doğal güzelliklerle de uyum içinde bulunuyor ve bu sayede ziyaretçilere geniş bir doğal alan sunuyor.
+Bolu-Goynuk-Hacimahmut Kızılçam milli parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölge, genellikle engebeli arazilere sahiptir ve bu engebe, milli parkın coğrafi yapısını da etkilemiştir. Bu durum, ziyaretçilere farklı manzaralar ve yürüyüş rotaları sunuyor. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşıyor; yani yağışlı ve nemli bir yapıya sahip. Bu iklim, milli parkın flora ve faunasının çeşitlilik göstermesine de katkı sağlıyor. Milli park, ayrıca çevresindeki diğer doğal güzelliklerle de uyum içinde bulunuyor ve bu sayede ziyaretçilere geniş bir doğal alan sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Goynuk-Hacimahmut Kızılçam milli parkını ziyaret etmek, doğa severler
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bolu-Goynuk-Hacimahmut Kızılçam, Karadeniz Bölgesi'nin önemli milli parklarından biridir
 - Milli park, ziyaretçilerine geniş yeşil alanlar, yürüyüş parkurları ve bol oksijen sunuyor
 - Bölgenin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetler ve kültürlerle şekillenmiştir

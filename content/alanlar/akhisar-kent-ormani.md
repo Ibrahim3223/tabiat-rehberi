@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Akhisar Kent Ormanı","caption":"Akhisar Kent Ormanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akhisar%20Kent%20Orman%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228725","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "İç Anadolu Bölgesi'nin güzelliklerini keşfedin.
 keywords: ["Akhisar Kent Ormanı","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228725"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228725"
 
 # Akhisar Kent Ormanı
 
-Akhisar Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık geniş bir yeşil alana sahiptir. Orman, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Ziyaretçiler, bu doğal cennette hem doğayı keşfedebilir hem de dinlenebilir. Akhisar Kent Ormanı, özellikle şehir hayatının stresinden kaçmak isteyenler için ideal bir kaçış noktasıdır. Ormanın içinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok imkân bulunmaktadır.
+ Orman, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Ziyaretçiler, bu doğal cennette hem doğayı keşfedebilir hem de dinlenebilir. Akhisar Kent Ormanı, özellikle şehir hayatının stresinden kaçmak isteyenler için ideal bir kaçış noktasıdır. Ormanın içinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok imkân bulunmaktadır.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Akhisar Kent Ormanı, çeşitli bitki türleri ile kaplıdır. Orman, farklı me
 Akhisar Kent Ormanı, ziyaretçilere birçok olanak sunar. Orman içinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok imkân bulunmaktadır. Ziyaretçiler, ormanın doğal güzelliğini keşfedebilir, doğa ile iç içe olabilirler. Ormanda, rehberli turlar da düzenlenmektedir. Bu turlar, ziyaretçilerin ormanın gizli köşelerini keşfetmelerine olanak sağlar. Orman, özellikle hafta sonları ve tatil günlerinde ziyaretçilere ev sahipliği yapar. Ziyaretçiler, ormanda hem doğayı keşfedebilir hem de dinlenebilir.
 
 ## İlginç Bilgiler
-
-- Akhisar Kent Ormanı, 140 hektarlık bir alana sahiptir.
 
 - Orman, çeşitli bitki türleri ile kaplıdır.
 - Orman, zengin fauna ile ziyaretçilerini karşılar.

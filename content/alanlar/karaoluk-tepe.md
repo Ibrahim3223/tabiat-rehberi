@@ -49,7 +49,7 @@ Karaoluk Tepe, ziyaretçilerine, çeşitli deneyimler sunuyor. Bu tepe, ziyaret�
 ## İlginç Bilgiler
 
 - Karaoluk Tepe, Sinop'un önemli tarihi noktalarından biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 - Karaoluk Tepe, zengin bir flora ve fauna çeşitliliğine sahip
 - Bu tepe, ziyaretçilerine, çeşitli deneyimler sunuyor

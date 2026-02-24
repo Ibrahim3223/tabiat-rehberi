@@ -50,7 +50,7 @@ Daskyleion Tümülüsü 5'i ziyaret etmek, bölgenin tarihi ve doğal güzellikl
 ## İlginç Bilgiler
 
 - Daskyleion Tümülüsü 5, Marmara Bölgesi'nin en önemli tarihi yapılarından biri olarak biliniyor.
-- Bölge, 140 hektarlık bir alanı kaplıyor.
+
 - Daskyleion Tümülüsü 5'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Bölge, flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Daskyleion Tümülüsü 5'i ziyaret etmek, bölgenin kültürel mirasını öğrenmek isteyenler için önemli bir fırsat olarak kabul ediliyor.

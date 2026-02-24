@@ -37,7 +37,7 @@ Merhum Ali Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktad
 
 ## Coğrafya
 
-Merhum Ali Dede Türbesi, Akdeniz Bölgesi'nin güzelliklerini sunan bir coğrafi konumda yer almaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişlikte ve bu genişlik, ziyaretçilere geniş bir açık alan sunmaktadır. Bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile bilinmektedir. Çevre, doğal güzelliklerle dolu olup, ziyaretçilere çeşitli flora ve fauna örnekleri sunmaktadır. Türbenin yakınında, güzel plajlar ve denize girilebilecek noktalar bulunmaktadır. Bu doğal güzellikler, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlamaktadır.
+Merhum Ali Dede Türbesi, Akdeniz Bölgesi'nin güzelliklerini sunan bir coğrafi konumda yer almaktadır. Bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile bilinmektedir. Çevre, doğal güzelliklerle dolu olup, ziyaretçilere çeşitli flora ve fauna örnekleri sunmaktadır. Türbenin yakınında, güzel plajlar ve denize girilebilecek noktalar bulunmaktadır. Bu doğal güzellikler, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Merhum Ali Dede Türbesi'ni ziyaret etmek, keyifli ve kültürel bir deneyim ola
 ## İlginç Bilgiler
 
 - Merhum Ali Dede Türbesi, Adana'nın en önemli tarihi mekanlarından biridir.
-- Türbe, 140 hektarlık bir alanda yer almaktadır.
+
 - Bölge, Akdeniz ikliminin karakteristik özelliklerine sahiptir.
 - Merhum Ali Dede Türbesi, plajın güzelliği ve tarihi değerlerin birleştiği özel bir noktadır.
 - Ziyaretçiler, türbeyi gezerek tarihi ve kültürel değerleri hakkında bilgi edinebilirler.

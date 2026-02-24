@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşleri","Tarihsel geziler","Doğa fotoğrafçılı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Hasan Baba Hamamı","caption":"Hasan Baba Hamamı","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Baba%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739212","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nde, Şanlıurfa'nın Birecik ilçesinde bulunan Hasan Baba Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Hasan Baba Hamamı","Birecik","Şanlıurfa","Güneydoğu Anadolu Bölgesi","Yeşil Alan","Plaj","Doğa","Tarih","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739212"

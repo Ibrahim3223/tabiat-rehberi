@@ -28,7 +28,7 @@ wikidata_id: "Q31386621"
 
 # Ettayyibe Tepesi
 
-Ettayyibe Tepesi, Şanlıurfa'nın güneydoğu bölümünde yer alan ve bölgeyi panoramik olarak gören bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki diğer tepe ve dağlarla birlikte bir bütünü oluşturur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini sağlar. Ettayyibe Tepesi, aynı zamanda tarihî öneme sahip bir bölgedir ve burada bulunan tarihi eserler, bölgenin geçmişini aydınlatmaktadır.
+Ettayyibe Tepesi, Şanlıurfa'nın güneydoğu bölümünde yer alan ve bölgeyi panoramik olarak gören bir tepedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini sağlar. Ettayyibe Tepesi, aynı zamanda tarihî öneme sahip bir bölgedir ve burada bulunan tarihi eserler, bölgenin geçmişini aydınlatmaktadır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Ettayyibe Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunar. Burada,
 
 ## İlginç Bilgiler
 
-- Ettayyibe Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır
 - Bölgede, çeşitli uygarlıkların izlerini görme mümkündür
 - Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunur

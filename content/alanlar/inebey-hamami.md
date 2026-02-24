@@ -51,7 +51,7 @@ Marmara Bölgesi'nin en güzel plajlarından biri olan İnebey Hamamı, Osmangaz
 ## İlginç Bilgiler
 
 - İnebey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri.
-- İnebey Hamamı, yaklaşık 140 hektarlık bir alan kaplıyor.
+
 - İnebey Hamamı, çeşitli bitki türleri ve ağaçlara ev sahipliği yapıyor.
 - İnebey Hamamı, deniz severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer.
 - İnebey Hamamı, ziyaretçilere hem dinlenme hem de doğa güzelliği sunuyor.

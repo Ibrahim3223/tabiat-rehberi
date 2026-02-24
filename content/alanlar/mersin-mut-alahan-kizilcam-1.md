@@ -22,7 +22,7 @@ wikidata_id: "Q108227910"
 
 # Mersin-Mut-Alahan-Kızılçam 1
 
-Mersin-Mut-Alahan-Kızılçam 1 milli parkı, Mersin ilininMut ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu park, 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile ziyaretçilerini doğanın kucağına davet ediyor. Mersin-Mut-Alahan-Kızılçam 1 milli parkı, sunduğu doğal güzellikler ve zengin fauna çeşitliliği ile doğa severlerin ilgisini çekiyor. Parkın içerisinde çeşitli bitki türleri ve hayvanlar yer alıyor. Ziyaretçiler, bu milli parkı ziyaret ederek doğanın güzelliklerini keşfedebilir ve huzurlu bir ortamda dinlenebilir.
+ Mersin-Mut-Alahan-Kızılçam 1 milli parkı, sunduğu doğal güzellikler ve zengin fauna çeşitliliği ile doğa severlerin ilgisini çekiyor. Parkın içerisinde çeşitli bitki türleri ve hayvanlar yer alıyor. Ziyaretçiler, bu milli parkı ziyaret ederek doğanın güzelliklerini keşfedebilir ve huzurlu bir ortamda dinlenebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mersin-Mut-Alahan-Kızılçam 1 milli parkını ziyaret etmek, doğa severler ve
 
 ## İlginç Bilgiler
 
-- Mersin-Mut-Alahan-Kızılçam 1 milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Parkın içerisinde çeşitli bitki türleri ve hayvanlar yer alıyor.
 - Mersin-Mut-Alahan-Kızılçam 1 milli parkı, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır.
 - Parkın içerisinde yer alan tarihi yapılar ve kalıntılar, bu bölgenin zengin kültürel mirasını gözler önüne seriyor.

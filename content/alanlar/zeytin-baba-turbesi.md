@@ -51,7 +51,7 @@ Zeytin Baba Türbesi'ni ziyaret etmek, hem doğal güzelliği hem de tarihi öne
 ## İlginç Bilgiler
 
 - Zeytin Baba Türbesi, Tuzla'nın merkeziunda yer almaktadır
-- Bu bölge, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Zeytin Baba Türbesi, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu medeniyetler tarafından önemli bir nokta olarak görülmüştür
 - Zeytin Baba Türbesi'nin etrafında oluşan yerleşim ve turizm faaliyetleri, bu bölgenin ekonomi ve sosyal yaşamına önemli katkılar sağlamış ve bölgenin gelişimine büyük ölçüde etki etmişlerdir

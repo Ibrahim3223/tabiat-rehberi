@@ -36,7 +36,7 @@ Sızma Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin e
 
 ## Coğrafya
 
-Sızma Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak bu bölgenin karakteristik özelliklerini taşıyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu genişlik, ziyaretçilere geniş bir manzara sunuyor. Sızma Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafi özelliklerine uygun olarak, bozkır ve step gibi farklı ekosistemleri barındırıyor. Bu coğrafi çeşitlilik, Sızma Tepe'yi bir doğa cenneti haline getiriyor. Tepe ve çevresinde yer alan köyler, tepeye olan yakınlıkları nedeniyle coğrafi açıdan da önemli bir konumda bulunuyor.
+Sızma Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak bu bölgenin karakteristik özelliklerini taşıyor. Sızma Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafi özelliklerine uygun olarak, bozkır ve step gibi farklı ekosistemleri barındırıyor. Bu coğrafi çeşitlilik, Sızma Tepe'yi bir doğa cenneti haline getiriyor. Tepe ve çevresinde yer alan köyler, tepeye olan yakınlıkları nedeniyle coğrafi açıdan da önemli bir konumda bulunuyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228486"
 
 # Kahramanmaras-Andirin-Andirin Defne
 
-Kahramanmaras-Andirin-Andirin Defne Milli Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Ziyaretçiler, bu milli parkta hem doğanın güzelliğini keşfedebilir hem de tarihin izlerini sürebilir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
+Kahramanmaras-Andirin-Andirin Defne Milli Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Ziyaretçiler, bu milli parkta hem doğanın güzelliğini keşfedebilir hem de tarihin izlerini sürebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kahramanmaras-Andirin-Andirin Defne Milli Parkı'nın tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Kahramanmaras-Andirin-Andirin Defne Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bu bölge, dağlık ve engebeli bir arazi yapısına sahiptir. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve karasal bir iklim özelliği taşır. Yıllık yağış miktarı, mevsimsel olarak değişkenlik gösterir. Coğrafi konumu, bu bölgenin doğal güzelliğini ve biyolojik çeşitliliğini etkiler. 140 hektarlık alan, ziyaretçilere geniş bir bitki ve hayvan çeşitliliği sunar.
+Kahramanmaras-Andirin-Andirin Defne Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bu bölge, dağlık ve engebeli bir arazi yapısına sahiptir. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve karasal bir iklim özelliği taşır. Yıllık yağış miktarı, mevsimsel olarak değişkenlik gösterir. Coğrafi konumu, bu bölgenin doğal güzelliğini ve biyolojik çeşitliliğini etkiler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kahramanmaras-Andirin-Andirin Defne Milli Parkı, ziyaretçilere geniş bir faal
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - İç Anadolu Bölgesi
 - Tarihi geçmişi
 - Çeşitli bitki türleri

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/20180618_124945v2.jpg","alt":"Kastamonu-Azdavay Kartdagi manzarası","credit":"Onderdevrim","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Azdavay%20Kartdagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227079","tip":"genel"}]
-description: "Kastamonu'da yer alan Kartdagi Millî Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kastamonu","Kartdagi","Millî Park","Karadeniz Bölgesi","doğa","flora","fauna","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227079"
@@ -31,7 +31,7 @@ Kastamonu-Azdavay Kartdagi Millî Parkı'nın tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Kastamonu-Azdavay Kartdagi Millî Parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak oluşmuş bir doğa harikasıdır. Parkın coğrafi konumu, ziyaretçilerine geniş açılı manzaralar sunuyor ve Karadeniz'in güzelliğini tüm yönleriyle gösteriyor. 140 hektarlık alan, çeşitli bitki türleriyle kaplı ve bu bitkilerin arasında yer alan ağaçlar, ziyaretçilerin doğayla iç içe olması için gereken ortamı sağlıyor. Parkın içinde bulunan yürüyüş yolları, ziyaretçilerin bu güzel coğrafyayı keşfetmelerine olanak tanıyor. Ayrıca, parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemli.
+Kastamonu-Azdavay Kartdagi Millî Parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak oluşmuş bir doğa harikasıdır. Parkın coğrafi konumu, ziyaretçilerine geniş açılı manzaralar sunuyor ve Karadeniz'in güzelliğini tüm yönleriyle gösteriyor. Parkın içinde bulunan yürüyüş yolları, ziyaretçilerin bu güzel coğrafyayı keşfetmelerine olanak tanıyor. Ayrıca, parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemli.
 
 ## Flora ve Fauna
 

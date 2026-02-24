@@ -28,7 +28,7 @@ wikidata_id: "Q32131371"
 
 # Ayrıçal Tepesi
 
-Ayrıçal Tepesi, Kayseri'nin merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine Kayseri'nin panoramik manzarasını sunuyor. Ayrıçal Tepesi, özellikle gün batımında ziyaret edildiğinde, eşsiz bir görsel şölen sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+Ayrıçal Tepesi, Kayseri'nin merkezine yakın bir konumda yer alıyor. Ayrıçal Tepesi, özellikle gün batımında ziyaret edildiğinde, eşsiz bir görsel şölen sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

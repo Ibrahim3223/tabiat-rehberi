@@ -29,7 +29,7 @@ wikidata_id: "Q131390871"
 
 # Şeyh Muhammed Bedevi Türbesi
 
-Şeyh Muhammed Bedevi Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli ve tarihi mekanlarından biridir. Kilis ilinin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Şeyh Muhammed Bedevi Türbesi, hem dini hem de kültürel olarak önemli bir merkez olarak kabul edilir. Türbe, ziyaretçiler için önemli bir çekim merkezi oluştururken, aynı zamanda bölgenin tarihini ve kültürünü de yansıtan bir yapı olarak dikkat çeker.
+Şeyh Muhammed Bedevi Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli ve tarihi mekanlarından biridir. Şeyh Muhammed Bedevi Türbesi, hem dini hem de kültürel olarak önemli bir merkez olarak kabul edilir. Türbe, ziyaretçiler için önemli bir çekim merkezi oluştururken, aynı zamanda bölgenin tarihini ve kültürünü de yansıtan bir yapı olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390871"
 
 ## Coğrafya
 
-Şeyh Muhammed Bedevi Türbesi, Kilis ilinin merkezinde yer alır ve çevresindeki coğrafi yapı, türbenin konumunu ve önemini etkileyen bir faktördür. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi barındırır. Bölgenin iklimi, genellikle sıcak ve kurak geçer ve bu, türbenin mimari yapısını ve çevre düzenlemesini etkiler. Türbenin etrafında, çeşitli meyve ağaçları ve diğer bitki türleri bulunur ve bu, ziyaretçiler için hoş bir atmosfer yaratır. Ayrıca, türbenin yakınında, çeşitli su kaynakları ve tarım alanları yer alır ve bu, bölgenin ekonomisi ve ekolojisi için önemli bir katkı sağlar. Türbenin coğrafi konumu, aynı zamanda ulaşım açısından da önemlidir. Ziyaretçiler, türbeye kolayca ulaşabilir ve çevresindeki diğer tarihi ve kültürel mekanları da gezebilirler.
+Şeyh Muhammed Bedevi Türbesi, Kilis ilinin merkezinde yer alır ve çevresindeki coğrafi yapı, türbenin konumunu ve önemini etkileyen bir faktördür. Bölgenin iklimi, genellikle sıcak ve kurak geçer ve bu, türbenin mimari yapısını ve çevre düzenlemesini etkiler. Türbenin etrafında, çeşitli meyve ağaçları ve diğer bitki türleri bulunur ve bu, ziyaretçiler için hoş bir atmosfer yaratır. Ayrıca, türbenin yakınında, çeşitli su kaynakları ve tarım alanları yer alır ve bu, bölgenin ekonomisi ve ekolojisi için önemli bir katkı sağlar. Türbenin coğrafi konumu, aynı zamanda ulaşım açısından da önemlidir. Ziyaretçiler, türbeye kolayca ulaşabilir ve çevresindeki diğer tarihi ve kültürel mekanları da gezebilirler.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ wikidata_id: "Q131390871"
 
 - Türbenin yakınında, çeşitli su kaynakları ve tarım alanları yer alır
 - Türbenin etrafında, çeşitli bitki türleri ve fauna bulunur
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur
+
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 - Türbe, hem dini hem de kültürel olarak önemli bir merkez olarak kabul edilir

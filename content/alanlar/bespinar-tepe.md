@@ -36,7 +36,7 @@ Beşpınar Tepe'nin tarihi geçmişi, yüzyıllar boyunca bölgenin önemli yerl
 
 ## Coğrafya
 
-Beşpınar Tepe, Bursa'nın merkezi bir konumda yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Tepe, 140 hektarlık geniş bir alana yayılmış ve bölgenin en önemli ekosistemlerinden biri olarak kabul ediliyor. Coğrafi olarak tepe, çevre dağlarla çevrili ve bu da tepeye benzersiz bir güzellik katıyor. İklim olarak bölge, karasal iklimin özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Bahar aylarında yeşeren flora, yaz aylarında sıcak ve kurak bir hava, sonbahar aylarında renk değiştiren yapraklar ve kış aylarında karla kaplı olan tepe, her mevsim ziyaretçilerini farklı güzelliklerle karşılayabiliyor. Çevre, zengin flora ve fauna çeşitliliği ile birlikte önemli bir doğal güzellik olarak kabul ediliyor.
+Beşpınar Tepe, Bursa'nın merkezi bir konumda yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Coğrafi olarak tepe, çevre dağlarla çevrili ve bu da tepeye benzersiz bir güzellik katıyor. İklim olarak bölge, karasal iklimin özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Bahar aylarında yeşeren flora, yaz aylarında sıcak ve kurak bir hava, sonbahar aylarında renk değiştiren yapraklar ve kış aylarında karla kaplı olan tepe, her mevsim ziyaretçilerini farklı güzelliklerle karşılayabiliyor. Çevre, zengin flora ve fauna çeşitliliği ile birlikte önemli bir doğal güzellik olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Beşpınar Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak
 ## İlginç Bilgiler
 
 - Beşpınar Tepe, Bursa'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
-- Tepe, 140 hektarlık geniş bir alana yayılmış ve bölgenin en önemli ekosistemlerinden biri.
+
 - Beşpınar Tepe, zengin flora ve fauna çeşitliliği ile birlikte önemli bir doğal güzellik olarak kabul ediliyor.
 - Tepe, her mevsim ziyaret edilebilir, ancak bahar ve sonbahar ayları en ideal zamanlar olarak kabul ediliyor.
 - Ziyaretçiler, tepe ve çevresini gezdikten sonra, Bursa'nın diğer önemli turizm merkezlerini de ziyaret etmeleri öneriliyor.

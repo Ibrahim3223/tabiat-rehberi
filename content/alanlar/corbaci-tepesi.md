@@ -48,7 +48,6 @@ wikidata_id: "Q34819731"
 
 ## İlginç Bilgiler
 
-- Çorbacı Tepesi, 140 hektarlık bir alana yayılmıştır.
 - Tepenin etrafındaki ormanlar, çeşitli bitki türleri ve hayvanlarla dolu olup, ilin iklimini ve ekolojisini etkilemektedir.
 - Çorum'un tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımaktadır.
 - Çorbacı Tepesi, doğa severler için önemli bir destinasyondur.

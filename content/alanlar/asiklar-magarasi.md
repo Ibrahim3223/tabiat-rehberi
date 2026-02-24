@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Amorous_cave.jpg","alt":"Aşıklar Mağarası manzarası","credit":"Squnxik","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Amorous_cave.jpg/960px-Amorous_cave.jpg","alt":"Aşıklar Mağarası","caption":"Aşıklar Mağarası","credit":"Amorous cave","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1klar%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q794826","tip":"genel"}]
 description: "Antalya'da yer alan Aşıklar Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severleri bekliyor."

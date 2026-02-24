@@ -51,7 +51,7 @@ Yedi Kızlar Türbesi, ziyaretçilerine yıl boyunca açık bir mekan olarak hiz
 ## İlginç Bilgiler
 
 - Yedi Kızlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor
-- Bu mekan, 140 hektarlık bir yeşil alanın içerisinde yer alıyor
+
 - Yedi Kızlar Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor
 - Bu mekan, ziyaretçilerine plaj, tarih ve doğa ile birlikte, benzersiz bir deneyim sunuyor
 - Yedi Kızlar Türbesi, aynı zamanda bir doğa koruma alanı olarak biliniyor

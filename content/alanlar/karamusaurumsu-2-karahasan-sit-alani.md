@@ -42,7 +42,6 @@ Karamusa Sit Alanı, ziyaretçilerine keyifli bir doğa deneyimi sunar. Bu alan�
 
 ## İlginç Bilgiler
 
-- Karamusa Sit Alanı, 140 hektarlık bir alanı kapsar.
 - Bu alan, flora ve fauna açısından zengin bir bölgedir.
 - Karamusa Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir.
 - Bahar ve sonbahar mevsimlerinde ziyaret etmek önerilir.

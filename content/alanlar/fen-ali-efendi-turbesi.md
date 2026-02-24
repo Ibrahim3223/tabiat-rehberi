@@ -38,7 +38,7 @@ Fenâî Ali Efendi Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Tü
 
 ## Coğrafya
 
-Fenâî Ali Efendi Türbesi, Üsküdar ilçesinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu coğrafi konum, türbeye ve plaja eşsiz bir manzara kazandırır. Çevresi, yeşilliklerle dolu ve çeşitli ağaç türleri ile süslenmiştir. 140 hektarlık alan, geniş yeşil alanlar ve yürüyüş yolları ile ziyaretçilere doğa ile iç içe bir deneyim sunar. Marmara Bölgesi'nin iklimi, bu alanın yeşilliklerinin yıl boyunca canlı kalmasını sağlar. Türbenin ve plajın coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri bir arada deneyimleme fırsatı sunar. Üsküdar'ın kent merkezi ile yakın konumu, ulaşım açısından kolaylık sağlar.
+Fenâî Ali Efendi Türbesi, Üsküdar ilçesinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu coğrafi konum, türbeye ve plaja eşsiz bir manzara kazandırır. Çevresi, yeşilliklerle dolu ve çeşitli ağaç türleri ile süslenmiştir. Marmara Bölgesi'nin iklimi, bu alanın yeşilliklerinin yıl boyunca canlı kalmasını sağlar. Türbenin ve plajın coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri bir arada deneyimleme fırsatı sunar. Üsküdar'ın kent merkezi ile yakın konumu, ulaşım açısından kolaylık sağlar.
 
 ## Flora ve Fauna
 

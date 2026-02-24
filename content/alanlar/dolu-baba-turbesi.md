@@ -50,7 +50,7 @@ Dolu Baba Türbesi'ni ziyaret etmek, hem doğal hem de kültürel bir deneyim su
 ## İlginç Bilgiler
 
 - Dolu Baba Türbesi, Bursa'nın en önemli tarihi mekanlarından biridir.
-- Bölge, 140 hektarlık bir alanı kaplar.
+
 - Türbenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 - Ziyaretçiler, ilkbahar ve yaz aylarında burayı ziyaret edebilir.

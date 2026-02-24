@@ -29,7 +29,7 @@ wikidata_id: "Q131738667"
 
 # Geyikli Baba Hamamı
 
-Geyikli Baba Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Kestel/Bursa'da bulunan bu doğal güzellik, etwa 140 hektarlık bir alanı kaplar. Geyikli Baba Hamamı, denizinin berraklığı ve kumsalının güzelliği ile ziyaretçilerini cezbetmektedir. Bu bölge, hem doğa severler hem de deniz tutkunları için ideal bir destinasyon olarak dikkat çeker.
+Geyikli Baba Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Geyikli Baba Hamamı, denizinin berraklığı ve kumsalının güzelliği ile ziyaretçilerini cezbetmektedir. Bu bölge, hem doğa severler hem de deniz tutkunları için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

@@ -42,7 +42,6 @@ Adapazari-Izmit-Gebze Karacam 2 milli-parkını ziyaret etmek, ziyaretçiler iç
 
 ## İlginç Bilgiler
 
-- Milli-parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir
 - Milli-park, çeşitli bitki ve hayvan türleri ile ziyaretçilerini karşılar
 - Milli-parkın coğrafi konumu, bölgenin diğer önemli yerlerine yakın olması bakımından önemlidir
 - Milli-parkın ziyaretçileri, burada çeşitli aktiviteleri gerçekleştirebilir ve doğa ile iç içe bir gün geçirebilir

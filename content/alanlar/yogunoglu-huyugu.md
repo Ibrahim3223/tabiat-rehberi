@@ -28,7 +28,7 @@ wikidata_id: "Q32195291"
 
 # Yoğunoğlu Hüyüğü
 
-Yoğunoğlu Hüyüğü, Güneydoğu Anadolu Bölgesi'nin önemli kültürel miraslarından biri olarak Gaziantep'in merkezinde yer alır. Bu tarihi höyük, yaklaşık 140 hektarlık bir alanı kaplar ve Gaziantep'in zengin tarihi geçmişinin önemli bir parçasını oluşturur. Yoğunoğlu Hüyüğü'nün etrafı, tarihi ve doğal güzellikleri ile dikkat çeker. Höyüğün üzerine tırmanırken, çevredeki manzaranın güzelliği ziyaretçileri büyüler. Yoğunoğlu Hüyüğü, Gaziantep'in kültür ve tarih meraklıları için önemli bir destinasyon olarak dikkat çeker.
+Yoğunoğlu Hüyüğü, Güneydoğu Anadolu Bölgesi'nin önemli kültürel miraslarından biri olarak Gaziantep'in merkezinde yer alır. Yoğunoğlu Hüyüğü'nün etrafı, tarihi ve doğal güzellikleri ile dikkat çeker. Höyüğün üzerine tırmanırken, çevredeki manzaranın güzelliği ziyaretçileri büyüler. Yoğunoğlu Hüyüğü, Gaziantep'in kültür ve tarih meraklıları için önemli bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yoğunoğlu Hüyüğü, tarihi geçmişi ile dikkat çeker. Höyüğün tarihi, 
 
 ## Coğrafya
 
-Yoğunoğlu Hüyüğü, Gaziantep'in merkezinde yer alır ve çevresindeki coğrafi yapı ile dikkat çeker. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve Gaziantep'in doğal güzelliklerini sunar. Yoğunoğlu Hüyüğü'nün etrafı, tarihi ve doğal güzellikleri ile ziyaretçileri etkiler. Höyüğün coğrafi konumu, Gaziantep'in merkezine yakın olması nedeniyle kolayca ulaşılabilir. Yoğunoğlu Hüyüğü, Gaziantep'in kültür ve tarih meraklıları için önemli bir destinasyon olarak dikkat çeker. Höyüğün coğrafi yapısı, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi sunar.
+Yoğunoğlu Hüyüğü, Gaziantep'in merkezinde yer alır ve çevresindeki coğrafi yapı ile dikkat çeker. Yoğunoğlu Hüyüğü'nün etrafı, tarihi ve doğal güzellikleri ile ziyaretçileri etkiler. Höyüğün coğrafi konumu, Gaziantep'in merkezine yakın olması nedeniyle kolayca ulaşılabilir. Yoğunoğlu Hüyüğü, Gaziantep'in kültür ve tarih meraklıları için önemli bir destinasyon olarak dikkat çeker. Höyüğün coğrafi yapısı, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi sunar.
 
 ## Flora ve Fauna
 

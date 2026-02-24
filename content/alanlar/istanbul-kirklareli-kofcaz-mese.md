@@ -22,7 +22,7 @@ wikidata_id: "Q108227765"
 
 # Istanbul-Kirklareli-Kofcaz Mese
 
-Istanbul-Kirklareli-Kofcaz Mese milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli parkın konumu, şehre yakın olmasıyla dikkat çekiyor ve doğa severler için ideal bir kaçış noktası oluşturuyor. Parkın girişinde, misafirleri karşılayacak bir bilgi merkezi bulunuyor ve ziyaretçiler buradan milli park hakkında detaylı bilgi edinebiliyor. Milli parkın içinde, çeşitli yürüyüş yolları ve piknik alanları mevcut, bu da ziyaretçilerin doğayı yakından keşfetmelerine olanak tanıyor.
+ Milli parkın konumu, şehre yakın olmasıyla dikkat çekiyor ve doğa severler için ideal bir kaçış noktası oluşturuyor. Parkın girişinde, misafirleri karşılayacak bir bilgi merkezi bulunuyor ve ziyaretçiler buradan milli park hakkında detaylı bilgi edinebiliyor. Milli parkın içinde, çeşitli yürüyüş yolları ve piknik alanları mevcut, bu da ziyaretçilerin doğayı yakından keşfetmelerine olanak tanıyor.
 
 ## Tarihçe
 

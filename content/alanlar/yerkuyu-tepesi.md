@@ -36,7 +36,7 @@ Yerkuyu Tepesi, tarihi geçmişiyle dikkat çekiyor. Bu tepenin tarihi hakkında
 
 ## Coğrafya
 
-Yerkuyu Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Hatay ilinin sınırları içerisinde yer alıyor ve Akdeniz kıyılarına yakın bir konumda bulunuyor. Yerkuyu Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin eteklerinde ve çevresinde, Akdeniz ikliminin özellikleri görülüyor. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi değerleri sunuyor. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilerine geniş bir manzara sunuyor. Yerkuyu Tepesi, coğrafi konumu itibariyle, ziyaretçilerine hem deniz hem de dağ manzarasını sunuyor.
+Yerkuyu Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, Hatay ilinin sınırları içerisinde yer alıyor ve Akdeniz kıyılarına yakın bir konumda bulunuyor. Bu tepenin eteklerinde ve çevresinde, Akdeniz ikliminin özellikleri görülüyor. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi değerleri sunuyor. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilerine geniş bir manzara sunuyor. Yerkuyu Tepesi, coğrafi konumu itibariyle, ziyaretçilerine hem deniz hem de dağ manzarasını sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yerkuyu Tepesi, ziyaretçilerine kolay ulaşım olanakları sunuyor. Bu tepe, Ha
 ## İlginç Bilgiler
 
 - Yerkuyu Tepesi, Hatay ilinin en yüksek noktalarından birisidir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Yerkuyu Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
 - Yerkuyu Tepesi, farklı mevsimlerde, farklı bitki türleri ve hayvanlar ile ziyaretçilerini karşılıyor.

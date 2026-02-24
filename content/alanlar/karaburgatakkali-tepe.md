@@ -36,7 +36,7 @@ Karaburgatakkalı Tepe'nin tarihi geçmişi, Konya'nın zengin tarihine paralel 
 
 ## Coğrafya
 
-Karaburgatakkalı Tepe, Konya'nın coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik düzlükleri arasında yer alan bir arazide bulunuyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. Karaburgatakkalı Tepe'nin coğrafi konumu, Konya'nın iklimini ve flora/faunasını da etkiliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ziyaretçiler, bu tepeye çıkarak Konya'nın coğrafi güzelliklerini ve doğal yaşamını gözlemleyebilirler. Karaburgatakkalı Tepe, Konya'nın coğrafi zenginliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyon olarak kabul ediliyor.
+Karaburgatakkalı Tepe, Konya'nın coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik düzlükleri arasında yer alan bir arazide bulunuyor. Karaburgatakkalı Tepe'nin coğrafi konumu, Konya'nın iklimini ve flora/faunasını da etkiliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ziyaretçiler, bu tepeye çıkarak Konya'nın coğrafi güzelliklerini ve doğal yaşamını gözlemleyebilirler. Karaburgatakkalı Tepe, Konya'nın coğrafi zenginliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

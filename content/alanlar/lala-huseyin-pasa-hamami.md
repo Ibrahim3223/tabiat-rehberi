@@ -30,7 +30,7 @@ wikidata_id: "Q131738634"
 
 # Lala Hüseyin Paşa Hamamı
 
-Lala Hüseyin Paşa Hamamı, Kütahya'nın merkezinde, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş tarihi bir hamamdır. Hamam, tarihi geçmişi ve mimari yapısı ile dikkat çekici bir yapıdır. Ziyaretçiler, burada hem tarihi bir yapıyı keşfedebilir hem de şehrin doğal güzelliklerini görebilir.
+ Hamam, tarihi geçmişi ve mimari yapısı ile dikkat çekici bir yapıdır. Ziyaretçiler, burada hem tarihi bir yapıyı keşfedebilir hem de şehrin doğal güzelliklerini görebilir.
 
 ## Tarihçe
 

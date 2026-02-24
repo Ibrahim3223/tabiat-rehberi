@@ -50,7 +50,7 @@ Trebenna Anıt Mezarı 3'ü ziyaret etmek, Akdeniz Bölgesi'nin tarihi ve kült�
 ## İlginç Bilgiler
 
 - Trebenna Anıt Mezarı 3, Antalya'nın en önemli tarihi eserlerinden biridir.
-- Anıt mezar, 140 hektarlık bir alanı kaplar.
+
 - Trebenna Anıt Mezarı 3'ün tarihi geçmişi, Akdeniz Bölgesi'nin zengin tarihi hakkında önemli bilgiler sunar.
 - Anıt mezarın çevresi, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi sunar.
 - Trebenna Anıt Mezarı 3, Konyaaltı ilçesinde yer alır ve ulaşımı kolaydır.

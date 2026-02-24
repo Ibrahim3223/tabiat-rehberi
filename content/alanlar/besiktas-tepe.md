@@ -48,7 +48,6 @@ Beşiktaş Tepe'yi ziyaret etmek, bölgenin doğal güzelliğini ve tarihi değe
 
 ## İlginç Bilgiler
 
-- Beşiktaş Tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde
 - Tepe, Ardahan ilinin merkezine yakın bir konumda yer alıyor
 - Beşiktaş Tepe'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak şekillenmiştir
 - Tepe ve çevresinin flora ve fauna, bölgenin coğrafi ve iklimsel koşullarına bağlı olarak çeşitlilik gösteriyor

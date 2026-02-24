@@ -28,7 +28,7 @@ wikidata_id: "Q21694784"
 
 # Alibaba Tepesi
 
-Alibaba Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Erzurum'un güzide mekanlarından biri olan bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkileyen bir güzelliğe sahiptir. Alibaba Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir.
+Alibaba Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Alibaba Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Alibaba Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Alibaba Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin önemli oluşumlarından biri olarak dikkat çekmektedir. Erzurum'un coğrafi yapısına uygun olarak, bu tepe de dağlık ve engebeli bir yapıya sahiptir. Tepenin etrafı, çeşitli bitki türleri ile kaplı olup, ziyaretçilerine doğal bir güzellik sunmaktadır. Alibaba Tepesi, coğrafi olarak 140 hektarlık bir alanı kaplamakta olup, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilerine geniş bir manzara sunmaktadır. Alibaba Tepesi'nin coğrafi özellikleri, ziyaretçilerine doğanın güzelliğini göstermektedir.
+Alibaba Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin önemli oluşumlarından biri olarak dikkat çekmektedir. Erzurum'un coğrafi yapısına uygun olarak, bu tepe de dağlık ve engebeli bir yapıya sahiptir. Tepenin etrafı, çeşitli bitki türleri ile kaplı olup, ziyaretçilerine doğal bir güzellik sunmaktadır. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilerine geniş bir manzara sunmaktadır. Alibaba Tepesi'nin coğrafi özellikleri, ziyaretçilerine doğanın güzelliğini göstermektedir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Alibaba Tepesi, ziyaretçilerine keyifli bir gezi deneyimi sunmaktadır. Ziyaret
 
 ## İlginç Bilgiler
 
-- Alibaba Tepesi, 140 hektarlık bir alanı kaplamaktadır.
 - Tepenin etrafı, çeşitli bitki türleri ile kaplıdır.
 - Alibaba Tepesi, fauna açısından da zengin bir bölgedir.
 - Tepede, çeşitli hayvan türleri yaşamaktadır.

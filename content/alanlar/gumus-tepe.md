@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/Iran_-_Golestan_-_Caspian_Sea_-_Chapaghli_-_panoramio.jpg","alt":"Gümüş Tepe manzarası","credit":"Alireza Javaheri","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Damavand_view_from_Caspian_sea_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Damavand_view_from_Caspian_sea_-_panoramio.jpg/1280px-Damavand_view_from_Caspian_sea_-_panoramio.jpg","alt":"Gümüş Tepe - Damavand view from Caspian sea - panoramio","credit":"Alireza Javaheri","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5e/ISS030-E-27664_-_View_of_Iran.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ISS030-E-27664_-_View_of_Iran.jpg/1280px-ISS030-E-27664_-_View_of_Iran.jpg","alt":"Gümüş Tepe - ISS030-E-27664 - View of Iran","credit":"Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Amir_Khan-e_Sardar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Amir_Khan-e_Sardar.jpg/1280px-Amir_Khan-e_Sardar.jpg","alt":"Gümüş Tepe - Amir Khan-e Sardar","credit":"Abdollah Mirza Qajar","license":"pd"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Mount_Damavand_from_Caspian_Sea_January2013_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mount_Damavand_from_Caspian_Sea_January2013_panoramio.jpg/1280px-Mount_Damavand_from_Caspian_Sea_January2013_panoramio.jpg","alt":"Gümüş Tepe - Mount Damavand from Caspian Sea January2013 panoramio","credit":"Alireza Javaheri","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Le_Tour_du_monde-12-p047.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Le_Tour_du_monde-12-p047.jpg/1280px-Le_Tour_du_monde-12-p047.jpg","alt":"Gümüş Tepe - Le Tour du monde-12-p047","credit":"Émile Bayard","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139206","tip":"genel"}]
-description: "Aydın'ın gizli bir köşesinde yer alan Gümüş Tepe, doğa severlerin keşfetmeyi çok sevdiği bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Aydın'ın gizli bir köşesinde yer alan Gümüş Tepe, doğa severlerin keşfetmeyi çok sevdiği bir nokta."
 keywords: ["Gümüş Tepe","Aydın","Ege Bölgesi","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139206"
@@ -49,7 +49,6 @@ Gümüş Tepe'yi ziyaret etmek, doğa severler için bir macera anlamına geliyo
 
 ## İlginç Bilgiler
 
-- Gümüş Tepe, 140 hektarlık bir alanı kaplıyor.
 - Bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 
 - Bölge, mevsimsel değişimlere göre farklı bir güzellik sergiliyor.

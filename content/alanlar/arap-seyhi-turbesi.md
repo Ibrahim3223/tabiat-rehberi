@@ -50,7 +50,7 @@ Arap Şeyhi Türbesi, Sivas'ın merkezinde yer alan ve tarihi ile doğal güzell
 ## İlginç Bilgiler
 
 - Arap Şeyhi Türbesi, Sivas'ın tarihi ve kültürel mirasının bir parçası.
-- Türbe ve çevresi, 140 hektarlık bir alanı kapsıyor.
+
 - Bu bölge, Sivas'ın flora ve faunası hakkında fikir veren bir gezi noktası.
 - Arap Şeyhi Türbesi, yüzyıllar boyunca Sivas'ın önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor.
 - Türbenin inşa tarihi tam olarak bilinmese de, yüzyıllar boyunca çeşitli dönemlerde restore edilerek günümüze kadar ulaşıyor.

@@ -38,7 +38,7 @@ Davut Paşa Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanır. Bu 
 
 ## Coğrafya
 
-Davut Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak geniş ve çeşitli bir yapıya sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahiptir ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunar. Çevre, tarihi yapılarla dolu olan bir bölgedir ve bu yapılar, İstanbul'un zengin tarihini yansıtır. İklim olarak, Marmara Bölgesi'nin karakteristik özelliklerini taşır; yani, karasal iklimin etkileri görülür. Bölge, geniş ormanlık alanlara ve su kaynaklarına sahiptir. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar. Ayrıca, türbenin bulunduğu yer, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir.
+Davut Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak geniş ve çeşitli bir yapıya sahiptir. Çevre, tarihi yapılarla dolu olan bir bölgedir ve bu yapılar, İstanbul'un zengin tarihini yansıtır. İklim olarak, Marmara Bölgesi'nin karakteristik özelliklerini taşır; yani, karasal iklimin etkileri görülür. Bölge, geniş ormanlık alanlara ve su kaynaklarına sahiptir. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar. Ayrıca, türbenin bulunduğu yer, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Davut Paşa Türbesi'ni ziyaret etmek için, Fatih ilçesine gitmek gerekir. İs
 ## İlginç Bilgiler
 
 - Davut Paşa Türbesi, İstanbul'un en önemli tarihi yapılarından biridir
-- Türbenin bulunduğu alan, 140 hektarlık bir genişliğe sahiptir
+
 - Bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir
 - Ziyaretçiler, türbe ve çevresindeki alanı gezerken, İstanbul'un zengin tarihine de tanık olurlar
 - Davut Paşa Türbesi, Marmara Bölgesi'nin coğrafi ve kültürel özelliklerini yansıtan bir yapıdır

@@ -51,6 +51,6 @@ Meryem Ana Kilisesi'ni ziyaret etmek, hem dini hem de turistik olarak önemli bi
 
 - Meryem Ana Kilisesi, tarihi geçmişiyle önemli bir dini merkez
 - Kilisenin mimarisi, çevreye uygun olarak tasarlanmıştır
-- Ayazini köyü, 140 hektarlık bir alanı kaplar
+
 - Meryem Ana Kilisesi, yıl boyunca ziyaret edilebilir
 - Kilisenin çevresi, yeşilliklerle kaplıdır

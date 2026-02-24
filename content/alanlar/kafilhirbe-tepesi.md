@@ -28,7 +28,7 @@ wikidata_id: "Q31554788"
 
 # Kafılhirbe Tepesi
 
-Kafılhirbe Tepesi, Batman ilinin merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bölge, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çeker. Ziyaretçiler, bu tepeye tırmanarak çevreyi panoramik olarak izleme fırsatı bulur. Ayrıca, tepe çevresinde yapılan arkeolojik kazılarda tarihi eserlere rastlanmıştır.
+ Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bölge, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çeker. Ziyaretçiler, bu tepeye tırmanarak çevreyi panoramik olarak izleme fırsatı bulur. Ayrıca, tepe çevresinde yapılan arkeolojik kazılarda tarihi eserlere rastlanmıştır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390555"
 
 # Tapır Tepesi
 
-Tapır Tepesi, Niğde ilinin içerisinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu bölgede çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Tapır Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, bölgede yaşayan halkın önemli bir gezi ve yürüyüş noktası.
+ İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu bölgede çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Tapır Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, bölgede yaşayan halkın önemli bir gezi ve yürüyüş noktası.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Tapır Tepesi'ni ziyaret etmek, bir gezi sever için önemli bir deneyim. Bu tep
 
 ## İlginç Bilgiler
 
-- Tapır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, bölgenin önemli doğal güzelliklerinden biri.
 - Tapır Tepesi, yüzyıllar boyunca şekillenmiş bir tarihi geçmişi var.
 - Bu tepe, bölgede yaşayan halkın önemli bir gezi ve yürüyüş noktası.

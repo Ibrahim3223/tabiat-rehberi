@@ -22,7 +22,7 @@ wikidata_id: "Q108228539"
 
 # Antalya-Akseki-Akseki-Toros Goknari
 
-Antalya'nın Akseki ilçesinde bulunan Toros Goknari milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikası. Milli park, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve zengin flora ile fauna çeşitliliği sunuyor. Toros Goknari milli parkı, yıl boyunca ziyaretçilerini ağırlamak için hazır bulunuyor.
+ Milli park, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve zengin flora ile fauna çeşitliliği sunuyor. Toros Goknari milli parkı, yıl boyunca ziyaretçilerini ağırlamak için hazır bulunuyor.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Toros Goknari milli parkını ziyaret etmek için, Antalya'nın Akseki ilçesine
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- 200 futbol sahası büyüklüğünde
 - yüksek bir konumda
 - Akdeniz iklimi
 - zengin flora ve fauna çeşitliliği

@@ -36,7 +36,7 @@ Kocakır Tepesi'nin tarihi geçmişi, Uşak ilinin tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Kocakır Tepesi, Ege Bölgesi'nin coğrafi yapısını temsil eden bir tepe olarak bilinir. Bu tepe, Uşak ilinin sınırları içinde yer alır ve yaklaşık olarak 140 hektarlık bir alanı kapsar. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülür. Kocakır Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin yüksekliği, Uşak ilinin genel coğrafi yapısına uygun olarak değişir. Kocakır Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunar. Tepenin yakınında yer alan nehirler ve akarsular, bu bölgenin coğrafi güzelliklerini artırır. Kocakır Tepesi, Uşak ilinin coğrafi çeşitliliğini gösteren önemli bir noktadır.
+Kocakır Tepesi, Ege Bölgesi'nin coğrafi yapısını temsil eden bir tepe olarak bilinir. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülür. Kocakır Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin yüksekliği, Uşak ilinin genel coğrafi yapısına uygun olarak değişir. Kocakır Tepesi'nin coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunar. Tepenin yakınında yer alan nehirler ve akarsular, bu bölgenin coğrafi güzelliklerini artırır. Kocakır Tepesi, Uşak ilinin coğrafi çeşitliliğini gösteren önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Kocakır Tepesi, Uşak ilinin flora ve faunasını temsil eden bir tepe olarak b
 
 ## Ziyaret Bilgileri
 
-Kocakır Tepesi, ziyaretçilerine doğal güzelliklerini sunmaya hazırdır. Bu tepe, Uşak ilinin sınırları içinde yer alır ve yaklaşık olarak 140 hektarlık bir alanı kapsar. Kocakır Tepesi'ne gitmek için, Uşak iline ulaşmak gerekir. Tepenin yakınında yer alan köyler ve kasabalar, ziyaretçilere konaklama imkanı sunar. Kocakır Tepesi, ziyaretçilerine çeşitli manzaralar sunar. Tepenin etrafında yer alan ormanlar ve nehirler, bu bölgenin coğrafi güzelliklerini artırır. Kocakır Tepesi'ni ziyaret etmek için, uygun mevsimi seçmek gerekir.
+Kocakır Tepesi, ziyaretçilerine doğal güzelliklerini sunmaya hazırdır. Kocakır Tepesi'ne gitmek için, Uşak iline ulaşmak gerekir. Tepenin yakınında yer alan köyler ve kasabalar, ziyaretçilere konaklama imkanı sunar. Kocakır Tepesi, ziyaretçilerine çeşitli manzaralar sunar. Tepenin etrafında yer alan ormanlar ve nehirler, bu bölgenin coğrafi güzelliklerini artırır. Kocakır Tepesi'ni ziyaret etmek için, uygun mevsimi seçmek gerekir.
 
 ## İlginç Bilgiler
 

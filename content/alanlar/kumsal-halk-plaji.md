@@ -20,7 +20,7 @@ aktiviteler: ["deniz keyfi","su sporları","güneş banyosu","doğa yürüyüş�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Kumsal Halk Plajı","caption":"Kumsal Halk Plajı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumsal%20Halk%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49321668","tip":"genel"}]
-description: "Antalya'nın gözde plajı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Antalya plajları","Kumsal Halk Plajı","Akdeniz Bölgesi","deniz turizmi","turistik yerler","plaj aktiviteleri","deniz keyfi","güney kıyıları"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49321668"
@@ -28,7 +28,7 @@ wikidata_id: "Q49321668"
 
 # Kumsal Halk Plajı
 
-Kumsal Halk Plajı, Antalya'nın en çok ziyaret edilen plajlarından biri olarak, 140 hektarlık geniş bir alana yayılıyor. Plajın etrafında, denizin maviliği ve güneşin ılık ışıkları, ziyaretçilere huzurlu bir atmosfer sunuyor. Kumsal Halk Plajı, özellikle yaz aylarında, deniz severlerin ve plaj tutkunlarının favori destinasyonlarından biri haline geliyor.
+ Plajın etrafında, denizin maviliği ve güneşin ılık ışıkları, ziyaretçilere huzurlu bir atmosfer sunuyor. Kumsal Halk Plajı, özellikle yaz aylarında, deniz severlerin ve plaj tutkunlarının favori destinasyonlarından biri haline geliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kumsal Halk Plajı'nı ziyaret etmek, özellikle yaz aylarında, gerçek bir key
 ## İlginç Bilgiler
 
 - Kumsal Halk Plajı, Antalya'nın en çok ziyaret edilen plajlarından biri
-- Plaj, 140 hektarlık bir alana yayılmış
+
 - Antalya'nın iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor
 - Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta
 - Plaj, yılın büyük portionunda güneşli ve ılık bir hava sunuyor

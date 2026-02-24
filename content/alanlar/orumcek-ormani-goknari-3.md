@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Örümcek Ormani Goknari 3","caption":"Örümcek Ormani Goknari 3","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCmcek%20Ormani%20Goknari%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227154","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Örümcek Ormani Goknari 3, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","orman"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227154"
@@ -30,7 +30,7 @@ wikidata_id: "Q108227154"
 
 ## Coğrafya
 
-Örümcek Ormani Goknari 3, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor. 140 hektarlık yeşil alan, çeşitli bitki türleriyle kaplı ve zengin fauna ile dolu. Bu bölgenin coğrafi yapısı, ziyaretçilere farklı doğa güzellikleri sunuyor. Örümcek Ormani Goknari 3, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli su kaynaklarına ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bn mevsimi yaşıyor. Kış aylarında kar yağışı görülürken, yaz ayları sıcak ve kurak geçiyor. Örümcek Ormani Goknari 3'ün coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
+Örümcek Ormani Goknari 3, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bu bölgenin coğrafi yapısı, ziyaretçilere farklı doğa güzellikleri sunuyor. Örümcek Ormani Goknari 3, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor ve bu vadi, çeşitli su kaynaklarına ev sahipliği yapıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bn mevsimi yaşıyor. Kış aylarında kar yağışı görülürken, yaz ayları sıcak ve kurak geçiyor. Örümcek Ormani Goknari 3'ün coğrafi konumu, ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227154"
 
 ## İlginç Bilgiler
 
-- Örümcek Ormani Goknari 3, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu bölge, çeşitli medeniyetlere ev sahipliği yapmış
 - Ziyaretçiler, burada doğa yürüyüşü yapabilir, piknik yapabilir ve doğayla iç içe bir gün geçirebilir
 - Örümcek Ormani Goknari 3, doğa severler için bir cennet olarak kabul ediliyor

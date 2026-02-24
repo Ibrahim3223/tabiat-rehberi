@@ -36,7 +36,7 @@ Mileusa Tepe'nin tarihi geçmişi, bölgenin genel tarihçesi ile paralel olara 
 
 ## Coğrafya
 
-Mileusa Tepe, Şırnak ilinin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin dağlık ve engebeli arazisini temsil ediyor. Mileusa Tepe'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve bölgenin doğal güzelliklerini keşfetme fırsatı sağlıyor. Bu tepe, bölgenin iklimini de yansıtıyor ve ziyaretçilere, bölgenin mevsimsel değişimlerini gözlemleme fırsatı veriyor. Mileusa Tepe, bölgenin coğrafi çeşitliliğiçerisinde önemli bir yer tutuyor ve ziyaretçilere, Şırnak'ın doğal güzelliklerini keşfetme fırsatı sağlıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, bölgenin flora ve faunasını barındırıyor.
+Mileusa Tepe, Şırnak ilinin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin dağlık ve engebeli arazisini temsil ediyor. Mileusa Tepe'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve bölgenin doğal güzelliklerini keşfetme fırsatı sağlıyor. Bu tepe, bölgenin iklimini de yansıtıyor ve ziyaretçilere, bölgenin mevsimsel değişimlerini gözlemleme fırsatı veriyor. Mileusa Tepe, bölgenin coğrafi çeşitliliğiçerisinde önemli bir yer tutuyor ve ziyaretçilere, Şırnak'ın doğal güzelliklerini keşfetme fırsatı sağlıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Mileusa Tepe, ziyaretçilere, Şırnak'ın doğal güzelliklerini keşfetme fır
 ## İlginç Bilgiler
 
 - Mileusa Tepe, Şırnak ilinin sınırları içerisinde yer alıyor
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor
+
 - Mileusa Tepe, bölgenin coğrafi ve kültürel zenginliklerini yansıtıyor
 - Bu tepe, ziyaretçilere, Şırnak'ın doğal güzelliklerini keşfetme fırsatı sağlıyor
 - Mileusa Tepe, ilkbahar ve sonbahar aylarında ziyaret edilebilir

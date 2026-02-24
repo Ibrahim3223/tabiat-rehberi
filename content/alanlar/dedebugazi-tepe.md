@@ -44,12 +44,10 @@ Dedebuğazı Tepe, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir.
 
 ## Ziyaret Bilgileri
 
-Dedebuğazı Tepe, ziyaretçilerine çeşitli olanaklar sunar. Bu tepeye çıkarak, ziyaretçiler Samsun şehrinin panoramik manzarasını izleme fırsatı bulur. Ayrıca, Dedebuğazı Tepe'nin tarihi geçmişi ve doğal güzelliği, ziyaretçileri çekmektedir. Ziyaretçiler, bu tepeye çıkarken, yaklaşık 140 hektarlık bir alanı keşfetme fırsatı bulur. Dedebuğazı Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Ziyaretçiler, bu tepeye çıkarken, uygun kıyafet ve ayakkabı seçmelidir. Ayrıca, Dedebuğazı Tepe'ye yapılan geziler, genellikle sabah veya öğleden sonra yapılır.
+Dedebuğazı Tepe, ziyaretçilerine çeşitli olanaklar sunar. Bu tepeye çıkarak, ziyaretçiler Samsun şehrinin panoramik manzarasını izleme fırsatı bulur. Ayrıca, Dedebuğazı Tepe'nin tarihi geçmişi ve doğal güzelliği, ziyaretçileri çekmektedir. Dedebuğazı Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Ziyaretçiler, bu tepeye çıkarken, uygun kıyafet ve ayakkabı seçmelidir. Ayrıca, Dedebuğazı Tepe'ye yapılan geziler, genellikle sabah veya öğleden sonra yapılır.
 
 ## İlginç Bilgiler
 
-- Dedebuğazı Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Dedebuğazı Tepe, Karadeniz Bölgesi'nin önemli bir destinasyonudur.
 - Bu tepe, Samsun şehrinin panoramik manzarasını izleme fırsatı sunar.
 - Dedebuğazı Tepe, tarihi geçmişi ve doğal güzelliği ile dikkat çeker.

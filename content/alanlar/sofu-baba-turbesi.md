@@ -30,7 +30,7 @@ wikidata_id: "Q131391025"
 
 # Sofu Baba Türbesi
 
-Sofu Baba Türbesi, İstanbul'un kalbi olan Beyoğlu'nda, Marmara Bölgesi'nin önemli noktalarından birini oluşturur. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Sofu Baba Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan ender yerlerden biri olarak dikkat çeker. Ziyaretçiler, bu mekanın sunduğu sakin ve huzurlu atmosferi deneyimleyerek, hem tarihin sâuuklarına inebilir hem de doğanın güzelliğini keşfedebilir.
+Sofu Baba Türbesi, İstanbul'un kalbi olan Beyoğlu'nda, Marmara Bölgesi'nin önemli noktalarından birini oluşturur. Sofu Baba Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan ender yerlerden biri olarak dikkat çeker. Ziyaretçiler, bu mekanın sunduğu sakin ve huzurlu atmosferi deneyimleyerek, hem tarihin sâuuklarına inebilir hem de doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sofu Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethi dönemine kadar uzan
 
 ## Coğrafya
 
-Sofu Baba Türbesi, Beyoğlu'nun merkezi bir noktasında yer alır. Bu bölge, İstanbul'un kalbi olarak kabul edilir ve tarihi, kültürel ve doğal güzelliklerin bir araya geldiği bir yerdir. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve çevresinde çeşitli bitki türleri bulunur. Bu yeşil alan, ziyaretçilere geniş ve ferah bir ortam sunar. Bölge, Marmara Bölgesi'nin karakteristik iklimine sahiptir ve dört mevsim, ziyaretçilere farklı güzellikler sunar. Kışın serin, yazın sıcakk olan iklim, bahar ve sonbaharda ise ılıman bir hava sunar. Sofu Baba Türbesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı verir. Çevresinde, çeşitli tarihi yapılar, parklar ve doğal güzellikler bulunur. Bu mekan, İstanbul'un zengin kültürel ve tarihi mirasını yansıtan önemli bir noktadır.
+Sofu Baba Türbesi, Beyoğlu'nun merkezi bir noktasında yer alır. Bu bölge, İstanbul'un kalbi olarak kabul edilir ve tarihi, kültürel ve doğal güzelliklerin bir araya geldiği bir yerdir. Bu yeşil alan, ziyaretçilere geniş ve ferah bir ortam sunar. Bölge, Marmara Bölgesi'nin karakteristik iklimine sahiptir ve dört mevsim, ziyaretçilere farklı güzellikler sunar. Kışın serin, yazın sıcakk olan iklim, bahar ve sonbaharda ise ılıman bir hava sunar. Sofu Baba Türbesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı verir. Çevresinde, çeşitli tarihi yapılar, parklar ve doğal güzellikler bulunur. Bu mekan, İstanbul'un zengin kültürel ve tarihi mirasını yansıtan önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Sofu Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keş
 - Türbe, Sofu Baba'nın hayatını ve öğretilerini yansıtan bir yapı olarak inşa edilmiştir.
 - Bu mekan, yüzyıllar boyunca, birçok önemli olaya şahitlik etmiştir.
 - Sofu Baba Türbesi, flora ve fauna çeşitliliği ile dikkat çeker.
-- Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+

@@ -29,7 +29,7 @@ wikidata_id: "Q131739106"
 
 # Anemurium Liman Hamamı
 
-Anamur'un tarihi zenginliklerini barındıran Anemurium Liman Hamamı, Mersin'in önemli turistik mekanlarından biridir. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Anemurium Liman Hamamı, Antik Dönem'den kalan önemli tarihi yapılardan biridir ve ziyaretçiler tarafından büyük ilgi görür. Hamamın tarihi ve kültürel önemi, ziyaretçileri bu önemli yapıyı görmek için çekmektedir.
+Anamur'un tarihi zenginliklerini barındıran Anemurium Liman Hamamı, Mersin'in önemli turistik mekanlarından biridir. Anemurium Liman Hamamı, Antik Dönem'den kalan önemli tarihi yapılardan biridir ve ziyaretçiler tarafından büyük ilgi görür. Hamamın tarihi ve kültürel önemi, ziyaretçileri bu önemli yapıyı görmek için çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Anemurium Liman Hamamı, Antik Dönem'de inşa edilmiştir. Bu tarihi hamam, o d
 
 ## Coğrafya
 
-Anemurium Liman Hamamı, Mersin'in Anamur ilçesinde yer alır. Bu tarihi hamam, Akdeniz Bölgesi'nin önemli turistik mekanlarından biridir. Hamamın bulunduğu bölge, tarihi ve kültürel değerleri ile zengin bir coğrafyaya sahiptir. Anemurium Liman Hamamı, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Bu büyük alan, ziyaretçilere geniş bir gezme ve keşif alanı sunar. Hamamın coğrafi konumu, ziyaretçilere Mersin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Anemurium Liman Hamamı, ziyaretçileri  ve kültürle dolu bir yolculuğa çıkarır.
+Anemurium Liman Hamamı, Mersin'in Anamur ilçesinde yer alır. Bu tarihi hamam, Akdeniz Bölgesi'nin önemli turistik mekanlarından biridir. Hamamın bulunduğu bölge, tarihi ve kültürel değerleri ile zengin bir coğrafyaya sahiptir. Bu büyük alan, ziyaretçilere geniş bir gezme ve keşif alanı sunar. Hamamın coğrafi konumu, ziyaretçilere Mersin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Anemurium Liman Hamamı, ziyaretçileri  ve kültürle dolu bir yolculuğa çıkarır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Anemurium Liman Hamamı, ziyaretçilere zengin bir tarih ve kültür deneyimi su
 ## İlginç Bilgiler
 
 - Anemurium Liman Hamamı, Antik Dönem'den kalan önemli tarihi yapılardan biridir.
-- Hamam, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur.
+
 - Anemurium Liman Hamamı, Roma ve Bizans dönemlerinde de önemli bir merkez olarak kullanılmıştır.
 - Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır.
 - Anemurium Liman Hamamı, Mersin'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir ziyaret noktasıdır.

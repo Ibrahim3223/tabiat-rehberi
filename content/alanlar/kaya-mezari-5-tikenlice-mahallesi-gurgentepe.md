@@ -50,7 +50,7 @@ Kaya Mezarı 5, ziyaretçilere doğanın güzelliğini ve tarihi değerlerini bi
 ## İlginç Bilgiler
 
 - Kaya Mezarı 5, Ordu'nun en önemli turistik mekanlarından biri
-- Plaj, 140 hektarlık bir alana yayılır
+
 - Kaya Mezarı 5, çeşitli bitki ve hayvan türlerine ev sahipliği yapar
 - Plajın yakınında bulunan tarihi mezarlar ve kalıntılar, bu bölgenin zengin tarihini gözler önüne serer
 - Kaya Mezarı 5, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur

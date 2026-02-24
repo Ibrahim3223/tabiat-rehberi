@@ -44,6 +44,6 @@ Mount Delierman, Mardin'in tarihi ve doğal güzelliklerini keşfetmek isteyenle
 
 - Mount Delierman, Mardin'in en önemli kültür ve turizm merkezlerinden biridir
 - Bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış tarihi bir bölgedir
-- Mount Delierman, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile karakterizedir
 - Mount Delierman, doğa severler ve tarih meraklıları için ideal bir destinasyondur

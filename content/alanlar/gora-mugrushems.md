@@ -48,8 +48,6 @@ Gora Mugrushems, ziyaretçilerine hem doğal güzellikleri hem de tarihi kalınt
 
 ## İlginç Bilgiler
 
-- Gora Mugrushems, 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir
 - Gora Mugrushems, bölgenin en yüksek noktalarından biridir
 - Bu tepe, doğa severler için bir cennet olarak kabul edilir
 - Gora Mugrushems, ziyaretçilerine benzersiz bir deneyim sunar

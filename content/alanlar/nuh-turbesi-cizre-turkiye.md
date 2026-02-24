@@ -30,7 +30,7 @@ wikidata_id: "Q107652034"
 
 # Nuh Türbesi (Cizre, Türkiye)
 
-Nuh Türbesi, Güneydoğu Anadolu Bölgesi'nin Şırnak iline bağlı Cizre ilçesinde yer alan bir tarihi ve dini mekân olarak dikkat çekmektedir. Bu bölge, yaklaşık 140 hektarlık bir alanda, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Nuh Türbesi, hem dini hem de kültürel açıdan önemli bir yer olarak bilinir. 70-yüksek bir konumdateki bir tepe üzerinde bulunan türbe, bölgenin tarihi geçmişini yansıtan önemli bir yapıttır. Nuh Peygamber'in burada huzur bulduğu düşünülür ve türbe, bu sebeple önemli bir dini merkez olarak kabul edilir.
+Nuh Türbesi, Güneydoğu Anadolu Bölgesi'nin Şırnak iline bağlı Cizre ilçesinde yer alan bir tarihi ve dini mekân olarak dikkat çekmektedir. Nuh Türbesi, hem dini hem de kültürel açıdan önemli bir yer olarak bilinir. 70-yüksek bir konumdateki bir tepe üzerinde bulunan türbe, bölgenin tarihi geçmişini yansıtan önemli bir yapıttır. Nuh Peygamber'in burada huzur bulduğu düşünülür ve türbe, bu sebeple önemli bir dini merkez olarak kabul edilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nuh Türbesi'nin tarihi geçmişi, Hz. Nuh'un burada yaşadığına inanılan d�
 
 ## Coğrafya
 
-Nuh Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bölge, Dicle Nehri'nin geçtiği geniş ve verimli bir vadide kurulmuştur. Türbe, Cizre ilçesinin merkezine uzun bir mesafe uzaklıktaki bir tepe üzerinde yer almaktadır. Bu tepe, yaklaşık 70-yüksek bir konumdate olup, çevredeki diğer tepelerden slightly daha yüksektir. Nuh Türbesi'nin bulunduğu bölge, genellikle step iklimi özellikleri gösterir ve yazlar sıcak, kışlar ise soğuk geçer. Bölgenin flora ve faunası da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Türbenin etrafında, yaklaşık 140 hektarlık bir yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için geniş bir mekân sunar.
+Nuh Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bölge, Dicle Nehri'nin geçtiği geniş ve verimli bir vadide kurulmuştur. Türbe, Cizre ilçesinin merkezine uzun bir mesafe uzaklıktaki bir tepe üzerinde yer almaktadır. Bu tepe, yaklaşık 70-yüksek bir konumdate olup, çevredeki diğer tepelerden slightly daha yüksektir. Nuh Türbesi'nin bulunduğu bölge, genellikle step iklimi özellikleri gösterir ve yazlar sıcak, kışlar ise soğuk geçer. Bölgenin flora ve faunası da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Nuh Türbesi'ni ziyaret etmek, hem dini hem de kültürel açıdan önemli bir d
 - Nuh Peygamber'in burada huzur bulduğu düşünülür
 - Türbe, dini ve kültürel açıdan önemli bir merkez olarak kabul edilir
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
-- Türbenin etrafındaki yeşil alan, 140 hektarlık bir alana sahiptir
+
 - Bölge, flora ve fauna açısından oldukça zengindir

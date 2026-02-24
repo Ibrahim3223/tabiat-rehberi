@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MOKFC11.jpg/960px-MOKFC11.jpg","alt":"Izmir-Gordes-Sahinkaya Kızılçam","caption":"Izmir-Gordes-Sahinkaya Kızılçam","credit":"MOKFC11.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Gordes-Sahinkaya%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227425","tip":"genel"}]
-description: "İzmir'in doğal güzellikleri arasında yer alan İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["İzmir","Gordes","Sahinkaya","Kızılçam","Milli Park","Doğa","Turizm","Ege Bölgesi","İzmir Turistik Yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227425"

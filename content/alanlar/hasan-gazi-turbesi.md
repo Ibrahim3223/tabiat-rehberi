@@ -50,7 +50,7 @@ Hasan Gazi Türbesi'ni ziyaret etmek, Darende'nin tarihi ve doğal güzellikleri
 ## İlginç Bilgiler
 
 - Hasan Gazi Türbesi, Darende'nin en önemli tarihi mekanlarından biri.
-- Bu mekan, 140 hektarlık bir alan üzerine kurulu.
+
 - Hasan Gazi Türbesi, Darende'nin coğrafi yapısını yansıtması açısından önemli bir mekan.
 - Bu mekan, çeşitli bitki türleri ve canlılarla dolu.
 - Hasan Gazi Türbesi, Darende'nin flora ve faunasını yansıtan bir mekan.

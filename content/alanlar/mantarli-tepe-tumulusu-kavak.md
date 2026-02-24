@@ -37,7 +37,7 @@ Mantarlı Tepe Tümülüsü Kavak'ın tarihi geçmişi, yüzyıllar boyunca çe�
 
 ## Coğrafya
 
-Mantarlı Tepe Tümülüsü Kavak, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yeşilin farklı tonlarıyla bezeli olan ormanlık alanlarla çevrili ve bu doğal güzelliği, ziyaretçilere huzur verici bir atmosfer sunuyor. Kavak'ın iklimi, Karadeniz ikliminin etkilerini gösteriyor ve bu, tümülüsün çevresindeki bitki örtüsünü ve fauna çeşitliliğini şekillendiriyor. Mantarlı Tepe Tümülüsü, doğa ve tarih severler için bir cennet gibi görünebiliyor. Yaklaşık 140 hektarlık alanı, ziyaretçilere geniş bir keşif alanı sunuyor ve bu, coğrafi açıdan zengin bir deneyim sunuyor.
+Mantarlı Tepe Tümülüsü Kavak, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yeşilin farklı tonlarıyla bezeli olan ormanlık alanlarla çevrili ve bu doğal güzelliği, ziyaretçilere huzur verici bir atmosfer sunuyor. Kavak'ın iklimi, Karadeniz ikliminin etkilerini gösteriyor ve bu, tümülüsün çevresindeki bitki örtüsünü ve fauna çeşitliliğini şekillendiriyor. Mantarlı Tepe Tümülüsü, doğa ve tarih severler için bir cennet gibi görünebiliyor.
 
 ## Flora ve Fauna
 

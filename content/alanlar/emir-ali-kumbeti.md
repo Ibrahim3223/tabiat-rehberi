@@ -51,7 +51,7 @@ Emir Ali Kümbeti'ni ziyaret etmek, Ahlat'ın tarihi ve kültürel zenginlikleri
 ## İlginç Bilgiler
 
 - Emir Ali Kümbeti, Ahlat'ın tarihi ve kültürel zenginliklerinin birleştiği noktada yer alıyor.
-- Bu mekan, yaklaşık 140 hektarlık bir alan üzerine kurulu.
+
 - Emir Ali Kümbeti, Ahlat'ın merkezinde yer alıyor ve ziyaretçiler, buraya kolayca ulaşabiliyor.
 - Bu bölgede, çeşitli flora ve fauna türleri yaşamlarını sürdürüyor.
 - Emir Ali Kümbeti, Ahlat'ın doğal güzelliklerini ve flora ve fauna türlerini korumak amacıyla, önemli bir rol oynuyor.

@@ -30,7 +30,7 @@ Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari'nin tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından biri olarak kabul ediliyor. Bölge, dağların eteklerinde kurulmuş ve yeşilliklerle çevrili. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın coğrafi yapısı, ziyaretçilere birçok farklı peyzaj sunuyor. Dağlar, ormanlar ve nehirler, bu bölgenin coğrafi zenginliğini oluşturuyor. İklim, Karadeniz Bölgesi'nin karakteristik yağmurlu ve nemli havası ile ziyaretçilere doğanın tüm güzelliğini sunuyor.
+Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından biri olarak kabul ediliyor. Bölge, dağların eteklerinde kurulmuş ve yeşilliklerle çevrili. Milli parkın coğrafi yapısı, ziyaretçilere birçok farklı peyzaj sunuyor. Dağlar, ormanlar ve nehirler, bu bölgenin coğrafi zenginliğini oluşturuyor. İklim, Karadeniz Bölgesi'nin karakteristik yağmurlu ve nemli havası ile ziyaretçilere doğanın tüm güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

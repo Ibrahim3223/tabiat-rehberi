@@ -22,7 +22,7 @@ wikidata_id: "Q108227928"
 
 # Balikesir-Edremit Karacam
 
-Balikesir-Edremit Karacam milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğal güzelliği ve zengin fauna ile karşılar. Milli parkın kuruluş amacı, doğanın korunması ve ziyaretçilere doğa ile iç içe bir deneyim sunmaktır. Ziyaretçiler, parkın doğal güzelliğini keşfetme fırsatı bulurken, aynı zamanda fauna çeşitliliği hakkında bilgi sahibi olabilirler.
+ Milli parkın kuruluş amacı, doğanın korunması ve ziyaretçilere doğa ile iç içe bir deneyim sunmaktır. Ziyaretçiler, parkın doğal güzelliğini keşfetme fırsatı bulurken, aynı zamanda fauna çeşitliliği hakkında bilgi sahibi olabilirler.
 
 ## Tarihçe
 

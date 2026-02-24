@@ -38,7 +38,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'in Tillo ilçesinde ye
 
 ## Coğrafya
 
-Şeyh Hasan El Fatirin Türbesi, Tillo'nun merkezinde yer alıyor ve etrafı doğal güzelliklerle çevrili. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulu ve bu geniş alanda hem türbe hem de plaj bulunuyor. Plaj, serin suları ve geniş kumsalı ile ziyaretçilerini cezbediyor. Türbenin etrafındaki coğrafya, dağlar ve vadiler ile karakterize ediliyor ve bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu coğrafi güzellikleri keşfederek a ile iç içe bir deneyim yaşayabiliyor. Şeyh Hasan El Fatirin Türbesi, Tillo'nun coğrafi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak kabul ediliyor.
+Şeyh Hasan El Fatirin Türbesi, Tillo'nun merkezinde yer alıyor ve etrafı doğal güzelliklerle çevrili. Plaj, serin suları ve geniş kumsalı ile ziyaretçilerini cezbediyor. Türbenin etrafındaki coğrafya, dağlar ve vadiler ile karakterize ediliyor ve bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu coğrafi güzellikleri keşfederek a ile iç içe bir deneyim yaşayabiliyor. Şeyh Hasan El Fatirin Türbesi, Tillo'nun coğrafi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

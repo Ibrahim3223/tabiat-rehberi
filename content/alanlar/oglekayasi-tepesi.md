@@ -21,7 +21,7 @@ aktiviteler: ["trekking","kampçılık","doğa yürüyüşü","kuş gözlemcili�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/North_elevation._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Öğlekayasi Tepesi","caption":"Öğlekayasi Tepesi","credit":"North elevation. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96%C4%9Flekayasi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829890","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Öğlekayasi Tepesi, ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Öğlekayasi Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Öğlekayasi Tepesi","İç Anadolu Bölgesi","doğa","gezi","turizm","tepe","manzara","yaban hayatı","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829890"
@@ -49,7 +49,6 @@ wikidata_id: "Q34829890"
 
 ## İlginç Bilgiler
 
-- Öğlekayasi Tepesi, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölgede çeşitli bitki türleri ve zengin fauna bulunur
 - Tepenin eteklerinde tarihi kalıntılar bulunmaktadır
 - Öğlekayasi Tepesi, doğa severler için bir cennet olarak kabul edilebilir

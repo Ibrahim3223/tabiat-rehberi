@@ -51,7 +51,7 @@ Haydar Dede Türbesi'ni ziyaret etmek, hem dini hem de turistik bir deneyim suna
 ## İlginç Bilgiler
 
 - Haydar Dede Türbesi, Marmara Bölgesi'nin önemli dini merkezlerinden biridir.
-- 140 hektarlık bir yeşil alana sahiptir.
+
 - Çevresi çeşitli bitki türleriyle kaplıdır.
 - Mekanda, tarihi yapılar ve anıtlar yer almaktadır.
 - Ziyaretçiler, buradaki doğal güzellikleri keşfedebilirler.

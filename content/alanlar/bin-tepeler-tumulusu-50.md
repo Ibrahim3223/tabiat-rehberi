@@ -29,7 +29,7 @@ wikidata_id: "Q134728338"
 
 # Bin Tepeler Tümülüsü 50
 
-Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerinin bir arada bulunduğu bir bölgedir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan ve çeşitli tümülüslerden oluşan bir arkeolojik sit alanıdır. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Bin Tepeler Tümülüsü 50, Salihli ilçe merkezine yakın bir konumda yer alıyor ve Manisa'nın önemli turizm noktalarından biri olarak biliniyor.
+Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerinin bir arada bulunduğu bir bölgedir. Bin Tepeler Tümülüsü 50, Salihli ilçe merkezine yakın bir konumda yer alıyor ve Manisa'nın önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 50, tarihin derinliklerinden gelen bir geçmişe sahip.
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölgedir. Bu bölge, Salihli ilçe merkezine yakın bir konumda yer alıyor ve Manisa'nın önemli coğrafi noktalarından biri olarak biliniyor. Bin Tepeler Tümülüsü 50, 140 hektarlık bir alanı kaplayan bir arkeolojik sit alanıdır. Coğrafi olarak, bu bölge Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlarla birlikte ılıman ve yağışlı kışlara sahip bir iklimi bulunuyor.
+Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölgedir. Bu bölge, Salihli ilçe merkezine yakın bir konumda yer alıyor ve Manisa'nın önemli coğrafi noktalarından biri olarak biliniyor. Coğrafi olarak, bu bölge Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlarla birlikte ılıman ve yağışlı kışlara sahip bir iklimi bulunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 50, ziyaretçilerine zengin bir deneyim sunuyor. Bu bö
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin en önemli arkeolojik sit alanlarından biri.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bin Tepeler Tümülüsü 50, Salihli ilçe merkezine yakın bir konumda yer alıyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bin Tepeler Tümülüsü 50, Manisa'nın önemli turizm noktalarından biri olarak biliniyor.

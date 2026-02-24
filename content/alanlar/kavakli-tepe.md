@@ -48,7 +48,6 @@ Kavaklı Tepe, ziyaretçilerine hem doğal güzellik hem de tarihi önemi ile ö
 
 ## İlginç Bilgiler
 
-- Kavaklı Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Kavaklı Tepe, çeşitli bitki türleri ile çevrili
 - Kavaklı Tepe, fauna açısından da zengin bir alandır
 - Kavaklı Tepe, tarihi önemi ile önemli bir destinasyon olarak kabul ediliyor

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Antalya-Döşemealtı Kızılçam 2","caption":"Antalya-Döşemealtı Kızılçam 2","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227846","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan Antalya-Döşemealtı Kızılçam 2, 140 hektarlık bir alanı kapsıyor."
+"
 keywords: ["Antalya-Döşemealtı Kızılçam 2","milli park","doğal alan","Akdeniz Bölgesi","kızılçam","orman","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227846"
@@ -30,7 +30,7 @@ Antalya-Döşemealtı Kızılçam 2'nin tarihi geçmişi, yüzyıllar öncesine 
 
 ## Coğrafya
 
-Antalya-Döşemealtı Kızılçam 2, Akdeniz Bölgesi'nin önemli coğrafi özelliklerine sahip bir bölgede yer alıyor. 140 hektarlık bu alan, kızılçam ağaçları ile çevrili ve zengin bir flora ve fauna çeşitliliğine sahip. Milli parkın coğrafi konumu, ziyaretçilerin buraya kolayca ulaşabilmesini sağlıyor ve bölgenin önemli bir turizm merkezi olarak kabul ediliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu ve genellikle ılıman ve yağışlı bir hava hüküm sürüyor. Bu coğrafi özellikler, bölgeyi ziyaretçiler için ideal bir destinasyon haline getiriyor ve her mevsim farklı bir güzelliğe sahip oluyor.
+Antalya-Döşemealtı Kızılçam 2, Akdeniz Bölgesi'nin önemli coğrafi özelliklerine sahip bir bölgede yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerin buraya kolayca ulaşabilmesini sağlıyor ve bölgenin önemli bir turizm merkezi olarak kabul ediliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu ve genellikle ılıman ve yağışlı bir hava hüküm sürüyor. Bu coğrafi özellikler, bölgeyi ziyaretçiler için ideal bir destinasyon haline getiriyor ve her mevsim farklı bir güzelliğe sahip oluyor.
 
 ## Flora ve Fauna
 

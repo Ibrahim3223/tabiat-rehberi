@@ -51,7 +51,7 @@ wikidata_id: "Q15056847"
 ## İlginç Bilgiler
 
 - İsa Bey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alana sahiptir
+
 - İsa Bey Hamamı, Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir
 - Bu plaj, Selçuk'un merkezine uzun bir mesafe uzaklıkta yer almaktadır ve ulaşımı oldukça kolaydır
 - İsa Bey Hamamı, özellikle yaz aylarında tatilciler ve doğa severler tarafından sıklıkla ziyaret edilmektedir

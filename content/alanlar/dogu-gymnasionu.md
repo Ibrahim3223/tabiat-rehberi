@@ -53,5 +53,5 @@ Doğu Gymnasionu'nu ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor.
 - Doğu Gymnasionu, tarihin derinliklerine ışık tutuyor
 - Bu bölge, Ege Bölgesi'nin doğal güzelliklerini bir araya getiriyor
 - Doğu Gymnasionu, ziyaretçilere benzersiz bir deneyim sunuyor
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Doğu Gymnasionu'nun coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı veriyor

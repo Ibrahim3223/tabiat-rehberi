@@ -37,7 +37,7 @@ Laodikeia Merkezi Hamam, tarihin derinliklerinden gelen bir geçmişe sahiptir. 
 
 ## Coğrafya
 
-Laodikeia Merkezi Hamam, Ege Bölgesi'nin coğrafi güzelliklerine de ev sahipliği yapmaktadır. Bu bölge, Pamukkale/Denizli ilçesinde bulunmakta ve çevresi doğal güzelliklerle dolu bir coğrafyaya sahiptir. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu geniş alan, ziyaretçilere çeşitli gezi ve keşif fırsatları sunmaktadır. Laodikeia Merkezi Hamamın coğrafyası, tarihi ve doğal güzelliklerin bir arada bulunduğu bir bölge olarak dikkat çekmektedir. Bu bölge, ziyaretçilere hem tarihin derinliklerine inme hem de anın güzelliklerini keşfetme fırsatı vermektedir. Coğrafi konumu, Laodikeia Merkezi Hamamın ziyaretçilere sunduğu zengin deneyimi daha da özel kılmaktadır.
+Laodikeia Merkezi Hamam, Ege Bölgesi'nin coğrafi güzelliklerine de ev sahipliği yapmaktadır. Bu bölge, Pamukkale/Denizli ilçesinde bulunmakta ve çevresi doğal güzelliklerle dolu bir coğrafyaya sahiptir. Laodikeia Merkezi Hamamın coğrafyası, tarihi ve doğal güzelliklerin bir arada bulunduğu bir bölge olarak dikkat çekmektedir. Bu bölge, ziyaretçilere hem tarihin derinliklerine inme hem de anın güzelliklerini keşfetme fırsatı vermektedir. Coğrafi konumu, Laodikeia Merkezi Hamamın ziyaretçilere sunduğu zengin deneyimi daha da özel kılmaktadır.
 
 ## Flora ve Fauna
 

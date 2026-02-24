@@ -42,7 +42,6 @@ Muhsin Yazıcıoğlu Milli Parkı, ziyaretçilerine hem dinlenme hem de doğayı
 
 ## İlginç Bilgiler
 
-- Muhsin Yazıcıoğlu Milli Parkı, 140 hektarlık bir yeşil alan
 - Parkın etrafında, çeşitli bitki türleri encontrabilir
 - Parkın fauna zenginliği, ziyaretçilerini alıp doğal yaşamın güzelliği ile baş başa bırakıyor
 - Parkın kuruluş amacı, doğal kaynakların korunması ve gelecek nesiller için bu güzelliğin korunmasıydı

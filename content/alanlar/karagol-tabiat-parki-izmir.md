@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Karagol%20Tabiat%20Parki.jpg","alt":"Karagöl Tabiat Parkı (İzmir) manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_06.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_06.jpg","alt":"Karagöl Tabiat Parkı (İzmir) - Borçka-Karagöl Nature Park 06","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_05.jpg/1280px-Bor%C3%A7ka-Karag%C3%B6l_Nature_Park_05.jpg","alt":"Karagöl Tabiat Parkı (İzmir) - Borçka-Karagöl Nature Park 05","credit":"Valen1988","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Karag%C3%B6l_Nature_Park_in_spring.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Karag%C3%B6l_Nature_Park_in_spring.jpg/1280px-Karag%C3%B6l_Nature_Park_in_spring.jpg","alt":"Karagöl Tabiat Parkı (İzmir) - Karagöl Nature Park in spring","credit":"Fivitria","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/1280px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Karagöl Tabiat Parkı (İzmir) - Karagöl Tabiat Parkı in spring","credit":"Fivitria","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Bladder_Campion_grows_in_Karag%C3%B6l_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bladder_Campion_grows_in_Karag%C3%B6l_Nature_Park.jpg/1280px-Bladder_Campion_grows_in_Karag%C3%B6l_Nature_Park.jpg","alt":"Karagöl Tabiat Parkı (İzmir) - Bladder Campion grows in Karagöl Nature Park","credit":"Fivitria","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%B6l%20Tabiat%20Park%C4%B1%20(%C4%B0zmir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48791846","tip":"genel"}]
-description: "İzmir'in Menemen ilçesinde yer alan Karagöl Tabiat Parkı, 140 hektarlık genişlikteki yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
+"
 keywords: ["Karagöl Tabiat Parkı","İzmir","Menemen","Tabiat Parkı","Yeşil Alan","Fauna","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q48791846"
@@ -30,7 +30,7 @@ wikidata_id: "Q48791846"
 
 # Karagöl Tabiat Parkı (İzmir)
 
-İzmir'in Menemen ilçesinde bulunan Karagöl Tabiat Parkı, 140 hektarlık genişlikteki yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor. Parkın içerisinde çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler için keyifli bir gezi imkanı sunuyor. Karagöl Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir.
+ Parkın içerisinde çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler için keyifli bir gezi imkanı sunuyor. Karagöl Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Karagöl Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Karagöl Tabiat Parkı, İzmir'in Menemen ilçesinde yer alan bir doğal güzelliğidir. Park, 140 hektarlık genişlikteki yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunuyor. Parkın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlı bir yapıya sahiptir. Parkın çevresi, doğal güzelliği ile dikkat çekiyor ve ziyaretçilerine keyifli bir gezi imkanı sunuyor. Karagöl Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanıyor.
+Karagöl Tabiat Parkı, İzmir'in Menemen ilçesinde yer alan bir doğal güzelliğidir. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunuyor. Parkın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlı bir yapıya sahiptir. Parkın çevresi, doğal güzelliği ile dikkat çekiyor ve ziyaretçilerine keyifli bir gezi imkanı sunuyor. Karagöl Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Karagöl Tabiat Parkı, ziyaretçilerine keyifli bir gezi imkanı sunuyor. Parka
 
 ## İlginç Bilgiler
 
-- Karagöl Tabiat Parkı, 140 hektarlık genişlikteki yeşil alanı kapsıyor.
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunmakta.
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişkenlik gösteriyor.
 - Park, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir.

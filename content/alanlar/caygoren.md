@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio.jpg","alt":"Caygoren manzarası","credit":"turgay arabaci","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio_-_turgay_arabaci.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio_-_turgay_arabaci.jpg","alt":"Caygoren - Türkiye balıkesir sındırgı caygören köyü - panoramio - turgay arabaci","credit":"turgay arabaci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Caygoren","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227807","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin.
 keywords: ["İç Anadolu Bölgesi","doğal güzellikler","milli park","çevre","ekoloji","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227807"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227807"
 
 # Caygoren
 
- Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Milli parkın establishment tarihi bilinmese de, yüzyıllar boyunca bu bölge, çeşitli bitki ve hayvan türleriyle dolu, canlı bir ekosistem olarak varlığını sürdürmüştür.
+ Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. Milli parkın establishment tarihi bilinmese de, yüzyıllar boyunca bu bölge, çeşitli bitki ve hayvan türleriyle dolu, canlı bir ekosistem olarak varlığını sürdürmüştür.
 
 ## Tarihçe
 

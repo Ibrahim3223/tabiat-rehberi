@@ -30,7 +30,7 @@ Sinop-Ayancik-Kumluk Cinar 2'nin tarihi geçmişi, Karadeniz Bölgesi'nin tarihi
 
 ## Coğrafya
 
-Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu milli park, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve Karadeniz Bölgesi'nin doğal güzellikleri içinde yer alır. Sinop-Ayancik-Kumluk Cinar 2, deniz seviyesinden yüksek bir konumdadır ve ziyaretçilerine güzel manzaralar sunar. Bu milli park, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır ve ziyaretçilerini bekliyor. Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin iklimi ve coğrafi özelliklerine uygun olarak şekillenmiştir. Bu milli park, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzellikleri hakkında bilgi vermektedir. Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini bekliyor.
+Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Sinop-Ayancik-Kumluk Cinar 2, deniz seviyesinden yüksek bir konumdadır ve ziyaretçilerine güzel manzaralar sunar. Bu milli park, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır ve ziyaretçilerini bekliyor. Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin iklimi ve coğrafi özelliklerine uygun olarak şekillenmiştir. Bu milli park, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzellikleri hakkında bilgi vermektedir. Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Sinop-Ayancik-Kumluk Cinar 2, ziyaretçilerini bekliyor. Bu milli park, Karadeni
 ## İlginç Bilgiler
 
 - Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu milli park, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Sinop-Ayancik-Kumluk Cinar 2, ziyaretçilerine güzel manzaralar sunar.
 - Bu milli park, her mevsim ziyaret edilebilir.
 - Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin flora ve faunası ile şekillenmiştir.

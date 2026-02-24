@@ -36,7 +36,7 @@ Aydınlıkkaya Tepe'nin tarihi geçmişi, Bolu'nun tarihi ile iç içe geçmişt
 
 ## Coğrafya
 
-Aydınlıkkaya Tepe, coğrafi olarak Bolu'nun merkezinde bulunmaktadır. Bu tepe, şehrin doğal güzelliğini ve panoramik manzarasını sunar. Aydınlıkkaya Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve ağaçlarla kaplıdır. Tepe, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Aydınlıkkaya Tepe'nin coğrafi konumu, bu bölgeyi hem doğa severler hem de tarih meraklıları için önemli bir destinasyon haline getirir. Bu tepe, aynı zamanda Bolu'nun iklimini ve coğrafi yapısını da etkiler. Aydınlıkkaya Tepe, şehrin merkezi bir noktasında bulunduğundan, bu bölgeyi ziyaret edenler, aynı zamanda şehrin diğer önemli yerlerini de kolayca ziyaret edebilirler.
+Aydınlıkkaya Tepe, coğrafi olarak Bolu'nun merkezinde bulunmaktadır. Bu tepe, şehrin doğal güzelliğini ve panoramik manzarasını sunar. Tepe, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Aydınlıkkaya Tepe'nin coğrafi konumu, bu bölgeyi hem doğa severler hem de tarih meraklıları için önemli bir destinasyon haline getirir. Bu tepe, aynı zamanda Bolu'nun iklimini ve coğrafi yapısını da etkiler. Aydınlıkkaya Tepe, şehrin merkezi bir noktasında bulunduğundan, bu bölgeyi ziyaret edenler, aynı zamanda şehrin diğer önemli yerlerini de kolayca ziyaret edebilirler.
 
 ## Flora ve Fauna
 

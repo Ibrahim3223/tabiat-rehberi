@@ -29,7 +29,7 @@ wikidata_id: "Q131390804"
 
 # Ebu İshak Kazeruni Türbesi
 
-Ebu İshak Kazeruni Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi bir dini merkez. Bu önemli türbe, yaklaşık 140 hektarlık bir alan içinde yer alıyor. Ebu İshak Kazeruni Türbesi, hem dini hem de kültürel açıdan büyük bir önem taşıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ebu İshak Kazeruni Türbesi, ziyaretçilerini tarihin derinına götürmeye hazırlanıyor.
+Ebu İshak Kazeruni Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi bir dini merkez. Ebu İshak Kazeruni Türbesi, hem dini hem de kültürel açıdan büyük bir önem taşıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ebu İshak Kazeruni Türbesi, ziyaretçilerini tarihin derinına götürmeye hazırlanıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ebu İshak Kazeruni Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak
 
 ## Coğrafya
 
-Ebu İshak Kazeruni Türbesi, Erzurum'un Yakutiye ilçesinde yer alıyor. Türbe, yaklaşık 140 hektarlık bir alan içinde yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Türbenin etrafında, dağlar ve vadiler encontrabilir. İklim, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Ebu İshak Kazeruni Türbesi, ziyaretçilere doğal güzellikleri ve tarihi zenginlikleri bir arada sunuyor. Türbenin coğrafi konumu, ziyaretçilere bölgenin doğal ve kültürel zenginliklerini keşfetme fırsatı veriyor.
+Ebu İshak Kazeruni Türbesi, Erzurum'un Yakutiye ilçesinde yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Türbenin etrafında, dağlar ve vadiler encontrabilir. İklim, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Ebu İshak Kazeruni Türbesi, ziyaretçilere doğal güzellikleri ve tarihi zenginlikleri bir arada sunuyor. Türbenin coğrafi konumu, ziyaretçilere bölgenin doğal ve kültürel zenginliklerini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 

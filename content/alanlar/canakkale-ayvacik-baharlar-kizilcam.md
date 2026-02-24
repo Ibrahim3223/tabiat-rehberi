@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara keşfi","fotografcıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Canakkale-Ayvacik-Baharlar Kızılçam","caption":"Canakkale-Ayvacik-Baharlar Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Ayvacik-Baharlar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228586","tip":"genel"}]
-description: "Marmara Bölgesi'nin.guïzel doğası, 140 hektarlık yeşil alan, çeşitli bitki türleri"
+description: "Marmara Bölgesi'nin.
 keywords: ["Marmara Bölgesi","doğa","yeşil alan","bitki türleri","milli park","Çanakkale","Ayvacık","Baharlar Kızılçam","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228586"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228586"
 
 # Canakkale-Ayvacik-Baharlar Kızılçam
 
-Canakkale-Ayvacik-Baharlar Kızılçam milli parkı, Marmara Bölgesi'nin en güzel doğa alanlarından biri. 140 hektarlık geniş yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Doğa severler için ideal bir destinasyon olan Canakkale-Ayvacik-Baharlar Kızılçam, ziyaretçilerine huzurlu ve güzel bir gezi deneyimi sunuyor. Milli parkın güzel manzaraları, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+Canakkale-Ayvacik-Baharlar Kızılçam milli parkı, Marmara Bölgesi'nin en güzel doğa alanlarından biri. Doğa severler için ideal bir destinasyon olan Canakkale-Ayvacik-Baharlar Kızılçam, ziyaretçilerine huzurlu ve güzel bir gezi deneyimi sunuyor. Milli parkın güzel manzaraları, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Canakkale-Ayvacik-Baharlar Kızılçam milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Canakkale-Ayvacik-Baharlar Kızılçam milli parkı, Marmara Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Milli park, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini büyülüyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun. Coğrafi konumu, milli parkı ziyaret etmek için ideal bir destinasyon haline getiriyor. Milli parkın çevresi, güzelliği ve zenginliği ile ziyaretçilerini etkiliyor.
+Canakkale-Ayvacik-Baharlar Kızılçam milli parkı, Marmara Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun. Coğrafi konumu, milli parkı ziyaret etmek için ideal bir destinasyon haline getiriyor. Milli parkın çevresi, güzelliği ve zenginliği ile ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 

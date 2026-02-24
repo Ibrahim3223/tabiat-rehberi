@@ -37,7 +37,7 @@ Mir Hamza Nigârî Türbesi, tarihi geçmişiyle önemli bir yere sahiptir. Bu t
 
 ## Coğrafya
 
-Mir Hamza Nigârî Türbesi, Amasya'nın merkezinde yer alır ve şehrin önemli bir bölümünü kaplar. Türbenin etrafı, yeşilliklerle çevrili olup, ziyaretçilere huzurlu bir ortam sunar. Coğrafi konumu itibariyle, Karadeniz Bölgesi'nin iklim koşullarına sahiptir. Bölge, genellikle ılıman ve yağışlı bir iklimle karakterizedir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir araziye sahiptir ve bu alan, çeşitli bitki türleriyle örtülüdür. Mir Hamza Nigârî Türbesi, Amasya'nın coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktaya sahiptir. Türbe, şehrin merkezinde yer alması nedeniyle, ulaşımı da kolaydır. Ziyaretçiler, türbeye çeşitli ulaşım araçları ile rahatlıkla ulaşabilirler.
+Mir Hamza Nigârî Türbesi, Amasya'nın merkezinde yer alır ve şehrin önemli bir bölümünü kaplar. Türbenin etrafı, yeşilliklerle çevrili olup, ziyaretçilere huzurlu bir ortam sunar. Coğrafi konumu itibariyle, Karadeniz Bölgesi'nin iklim koşullarına sahiptir. Bölge, genellikle ılıman ve yağışlı bir iklimle karakterizedir. Mir Hamza Nigârî Türbesi, Amasya'nın coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktaya sahiptir. Türbe, şehrin merkezinde yer alması nedeniyle, ulaşımı da kolaydır. Ziyaretçiler, türbeye çeşitli ulaşım araçları ile rahatlıkla ulaşabilirler.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Mir Hamza Nigârî Türbesi, ziyaretçilere çeşitli olanaklar sunar. Ziyaretç
 
 - Türbenin inşa edildiği döneme ait tarihi belgeler bulunur
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlarla günümüze ulaşmıştır
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir araziye sahiptir
+
 - Türbe, Amasya'nın tarihine ve kültürüne önemli katkılar sağlamıştır
 - Türbe, özellikle ilkbahar ve yaz aylarında ziyaret edilebilir

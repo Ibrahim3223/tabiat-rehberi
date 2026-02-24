@@ -30,7 +30,7 @@ Izmir-Manisa-Saruhanli Fistik Cami'nin tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Izmir-Manisa-Saruhanli Fistik Cami, Ege Bölgesi'nin coğrafi olarak önemli bir konumda yer alıyor. 140 hektarlık alan, bölgenin en büyük yeşil alanlarından biri olarak dikkat çekiyor. Fistik Cami'nin çevresi, çeşitli bitki türleri ile kaplı ve bölgenin fauna zenginliğini yansıtıyor. Cami, bölgenin iklim koşullarına uygun olarak tasarlanmış ve restore edilmiştir. Fistik Cami'nin coğrafi konumu, ziyaretçilerin doğayı ve tarihi bir arada keşfetmesine olanak sağlıyor. Bölgenin coğrafi özellikleri, Fistik Cami'nin güzelliğini daha da artırıyor.
+Izmir-Manisa-Saruhanli Fistik Cami, Ege Bölgesi'nin coğrafi olarak önemli bir konumda yer alıyor. Fistik Cami'nin çevresi, çeşitli bitki türleri ile kaplı ve bölgenin fauna zenginliğini yansıtıyor. Cami, bölgenin iklim koşullarına uygun olarak tasarlanmış ve restore edilmiştir. Fistik Cami'nin coğrafi konumu, ziyaretçilerin doğayı ve tarihi bir arada keşfetmesine olanak sağlıyor. Bölgenin coğrafi özellikleri, Fistik Cami'nin güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

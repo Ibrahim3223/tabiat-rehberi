@@ -37,7 +37,7 @@ Paşa Türbesi'nin tarihi geçmişi, Mersin'in zengin kültürel mirasının bir
 
 ## Coğrafya
 
-Paşa Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır ve bu bölge, güneşli ve sıcak iklimi ile dikkat çeker. Bu bölge, deniz seviyesinde yer alır ve geniş kumsalları ile bilinir. Paşa Türbesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, çeşitli bitkiler ve ağaçlarla kaplıdır. Plajın etrafında, ziyaretçilere hizmet veren tesisler ve işletmeler bulunur. Ziyaretçiler, bu tesislerde konaklayabilir, yemek yiyebilir ve çeşitli etkinliklere katılabilirler. Paşa Türbesi'nin coğrafi konumu, ziyaretçilere deniz, güneş ve doğanın güzelliklerini keşfetme fırsatı sunar.
+Paşa Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır ve bu bölge, güneşli ve sıcak iklimi ile dikkat çeker. Bu bölge, deniz seviyesinde yer alır ve geniş kumsalları ile bilinir. Plajın etrafında, ziyaretçilere hizmet veren tesisler ve işletmeler bulunur. Ziyaretçiler, bu tesislerde konaklayabilir, yemek yiyebilir ve çeşitli etkinliklere katılabilirler. Paşa Türbesi'nin coğrafi konumu, ziyaretçilere deniz, güneş ve doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Paşa Türbesi, ziyaretçiler için keyifli bir kaçış noktasıdır. Ziyaretç
 ## İlginç Bilgiler
 
 - Paşa Türbesi, Mersin'in en popüler plajlarından biridir.
-- Bu plaj, 140 hektarlık bir alanı kapsar.
+
 - Paşa Türbesi, zengin bir flora ve fauna ile dikkat çeker.
 - Ziyaretçiler, bu plajda çeşitli doğa aktivitelerine katılabilirler.
 - Paşa Türbesi, her mevsim ziyaret edilebilir.

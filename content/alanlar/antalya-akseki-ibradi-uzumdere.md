@@ -22,7 +22,7 @@ wikidata_id: "Q108227096"
 
 # Antalya-Akseki Ibradi Uzumdere
 
-Antalya'nın Akseki ilçesinde yer alan Ibradi Uzumdere Milli Parkı, 140 hektarlık bir alanı kapsıyor. Milli park, doğa severler için bir cennet olarak görülebilir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ibradi Uzumdere Milli Parkı, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı uygarlıkların yerleşim alanı olarak kullanılmış ve bu nedenle önemli bir kültürel mirasa sahip.
+ Milli park, doğa severler için bir cennet olarak görülebilir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ibradi Uzumdere Milli Parkı, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı uygarlıkların yerleşim alanı olarak kullanılmış ve bu nedenle önemli bir kültürel mirasa sahip.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Ibradi Uzumdere Milli Parkı, ziyaretçilerine geniş bir yeşil alan sunuyor. B
 
 ## İlginç Bilgiler
 
-- Ibradi Uzumdere Milli Parkı, 140 hektarlık bir alanı kapsıyor.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ibradi Uzumdere Milli Parkı, tarihi geçmişi ile de dikkat çekiyor.
 - Milli park, doğa severler için bir cennet olarak görülebilir.

@@ -52,6 +52,6 @@ Yavuz Sultan Selim Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel 
 
 - Yavuz Sultan Selim, Osmanlı İmparatorluğu'nun en önemli padişahlarından biridir
 - Türbe, Osmanlı mimarisinin güzel bir örneğidir
-- Yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir
+
 - İstanbul, Boğaz'ın kıyısında ve Avrupa ile Asya'nın birleştiği noktada bulunur
 - Yavuz Sultan Selim Türbesi, İstanbul'un tarihi merkezi olarak bilinen Sultanahmet Meydanı'na yakındır

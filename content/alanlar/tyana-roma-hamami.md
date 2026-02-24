@@ -21,7 +21,7 @@ aktiviteler: ["Yürüyüş","Bisiklet sürme","Fotoğraf çekme","Tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg","alt":"Tyana Roma Hamamı","caption":"Tyana Roma Hamamı","credit":"استانبول","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tyana%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739118","tip":"genel"}]
-description: "Tyana Roma Hamamı, Bor/Niğde'de bulunan tarihi bir hamam ve plaj alanıdır. İç Anadolu Bölgesi'nin wichtığı bu tarihi mekan, 140 hektarlık bir alanı kaplar."
+description: "Tyana Roma Hamamı, Bor/Niğde'de bulunan tarihi bir hamam ve plaj alanıdır."
 keywords: ["Tyana Roma Hamamı","Bor","Niğde","İç Anadolu Bölgesi","tarihi hamam","plaj","Roma dönemi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739118"
@@ -37,7 +37,7 @@ Tyana Roma Hamamı, Roma Dönemi'nde inşa edilmiştir. Tarihi geçmişi yüzyı
 
 ## Coğrafya
 
-Tyana Roma Hamamı, Bor/Niğde'de, İç Anadolu Bölgesi'nin wichtığı bir bölgede bulunmaktadır. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Hamamın etrafındaki bölge, geniş otlaklar ve tarım arazileriyle çevrilidir. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimi hakimdir ve bu bölge, soğuk kışlar ve sıcak yazlarla karakterizedir. Tyana Roma Hamamı, doğal güzelliği ve tarihi geçmişiyle, ziyaretçilere benzersiz bir deneyim sunuyor. 140 hektarlık alanı, ziyaretçilere geniş bir alan sunuyor ve hamamın etrafındaki bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor.
+Tyana Roma Hamamı, Bor/Niğde'de, İç Anadolu Bölgesi'nin wichtığı bir bölgede bulunmaktadır. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Hamamın etrafındaki bölge, geniş otlaklar ve tarım arazileriyle çevrilidir. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimi hakimdir ve bu bölge, soğuk kışlar ve sıcak yazlarla karakterizedir. Tyana Roma Hamamı, doğal güzelliği ve tarihi geçmişiyle, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Tyana Roma Hamamı, ziyaretçiler için kolay ulaşılabilir bir bölgededir. Bo
 ## İlginç Bilgiler
 
 - Tyana Roma Hamamı, Roma Dönemi'nde inşa edilmiştir.
-- Hamam, 140 hektarlık bir alanı kaplar.
+
 - Tyana Roma Hamamı, Bor/Niğde'de bulunan Tyana Antik Kenti'ne yakındır.
 - Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor.
 - Tyana Roma Hamamı, ziyaretçilere benzersiz bir deneyim sunuyor.

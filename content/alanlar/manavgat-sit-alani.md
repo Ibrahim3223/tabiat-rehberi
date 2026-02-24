@@ -22,7 +22,7 @@ wikidata_id: "Q108226640"
 
 # Manavgat Sit Alanı
 
-Manavgat Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir doğal ve tarihi bölge olarak tanımlanabilir. Doğal güzellikleri, tarihi değerleri ve çeşitli flora ile fauna türleri ile dikkat çeken bu sit alanı, gezi severlerin ilgisini çekiyor. Ziyaretçiler, bu bölgeyi keşfetmek için çeşitli yolları kullanabilir ve bölgenin sunduğu olanaklardan yararlanabilir.
+ Doğal güzellikleri, tarihi değerleri ve çeşitli flora ile fauna türleri ile dikkat çeken bu sit alanı, gezi severlerin ilgisini çekiyor. Ziyaretçiler, bu bölgeyi keşfetmek için çeşitli yolları kullanabilir ve bölgenin sunduğu olanaklardan yararlanabilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Manavgat Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve 
 
 ## Coğrafya
 
-Manavgat Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak çeşitlilik gösteren bir bölge. Alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve geniş bir yeşil alan sunuyor. Bölgenin coğrafyası, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine çeşitli flora ve fauna türleri sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Ziyaretçiler, bu bölgeyi keşfetmek için çeşitli yolları kullanabilir ve bölgenin sunduğu olanaklardan yararlanabilir. Manavgat Sit Alanı, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bekliyor. Bölgenin coğrafyası, ziyaretçilere geniş bir yeşil alan sunuyor ve doğal güzellikleri ile dikkat çekiyor.
+Manavgat Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi olarak çeşitlilik gösteren bir bölge. Bölgenin coğrafyası, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine çeşitli flora ve fauna türleri sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Ziyaretçiler, bu bölgeyi keşfetmek için çeşitli yolları kullanabilir ve bölgenin sunduğu olanaklardan yararlanabilir. Manavgat Sit Alanı, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bekliyor. Bölgenin coğrafyası, ziyaretçilere geniş bir yeşil alan sunuyor ve doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Manavgat Sit Alanı, ziyaretçilerine çeşitli olanaklar sunuyor. Ziyaretçiler
 
 ## İlginç Bilgiler
 
-- Manavgat Sit Alanı, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bölge, İç Anadolu Bölgesi'nde yer alıyor.
 - Alan, doğal güzellikleri ve tarihi değerleri ile dikkat çekiyor.
 - Ziyaretçiler, bu bölgeyi keşfetmek için çeşitli yolları kullanabilir.

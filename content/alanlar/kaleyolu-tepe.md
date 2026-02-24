@@ -28,7 +28,7 @@ wikidata_id: "Q31386183"
 
 # Kaleyolu Tepe
 
-Kaleyolu Tepe, Gaziantep'in zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini tarihi ve doğal güzellikleriyle cezbeder. 200 futbol sahası büyüklüğünde olan bu alan, hem tarih severlerin hem de doğa tutkunlarının ilgisini çeker. Kaleyolu Tepe, ziyaretçilerine hem tarihi açıdan hem de doğal güzellikleri açısından zengin bir deneyim sunar.
+Kaleyolu Tepe, Gaziantep'in zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Kaleyolu Tepe, ziyaretçilerine hem tarihi açıdan hem de doğal güzellikleri açısından zengin bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kaleyolu Tepe'nin tarihi geçmişi, Gaziantep'in tarihine paralel olara ilerler.
 
 ## Coğrafya
 
-Kaleyolu Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Gaziantep ilinin sınırları içerisinde bulunur. Bu tepe, coğrafi olarak çeşitlilik gösteren bir bölgede yer alır. Çevresinde bulunan diğer tepe ve dağlar, Kaleyolu Tepe'yi bir doğal güzellik merkezi haline getirir. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı passing. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi çeşitliliği açısından zengin bir deneyim sunar. Kaleyolu Tepe, 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu büyüklük, ziyaretçilerine geniş bir alan sunar. Bu tepe, coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı verir.
+Kaleyolu Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Gaziantep ilinin sınırları içerisinde bulunur. Bu tepe, coğrafi olarak çeşitlilik gösteren bir bölgede yer alır. Çevresinde bulunan diğer tepe ve dağlar, Kaleyolu Tepe'yi bir doğal güzellik merkezi haline getirir. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak ve kurak, kışları ise soğuk ve yağışlı passing. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi çeşitliliği açısından zengin bir deneyim sunar. Bu tepe, coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı verir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kaleyolu Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri açısın
 ## İlginç Bilgiler
 
 - Kaleyolu Tepe, Gaziantep'in en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Kaleyolu Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbeder.
 - Bu tepe, mevsimsel değişimlere göre farklı türde bitkiler ve hayvanlar barındırır.
 - Kaleyolu Tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı verir.

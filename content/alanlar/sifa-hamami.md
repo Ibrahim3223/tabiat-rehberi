@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/30/Giresun_%C5%9Fifa_hamam%C4%B1.jpg","alt":"Şifa Hamamı manzarası","credit":"Girtab2828","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eifa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738512","tip":"genel"}]
-description: "Konya Ereğli'de yer alan Şifa Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde, şehrin kalabalığından kaçmak isteyenler için bir sığınak"
+
 keywords: ["Şifa Hamamı","Ereğli","Konya","doğal alanlar","yeşil alanlar","gezi noktaları","şehir kaçışı","doğa yürüyüşü","piknik alanları","çevre gezileri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738512"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738512"
 
 # Şifa Hamamı
 
-Şifa Hamamı, Konya'nın Ereğli ilçesinde bulunan ve şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olan 140 hektarlık bir yeşil alandır. Şifa Hamamı, doğa yürüyüşleri, piknik alanları ve çevre gezileri için ideal bir yerdir. Bu alan, hem yerel halk hem de şehre gelen ziyaretçiler için önemli bir dinlenme ve eğlence merkezidir. Şifa Hamamı, Konya'nın turizm ve doğa harikaları arasında önemli bir yere sahiptir.
+ Şifa Hamamı, doğa yürüyüşleri, piknik alanları ve çevre gezileri için ideal bir yerdir. Bu alan, hem yerel halk hem de şehre gelen ziyaretçiler için önemli bir dinlenme ve eğlence merkezidir. Şifa Hamamı, Konya'nın turizm ve doğa harikaları arasında önemli bir yere sahiptir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131738512"
 
 ## Coğrafya
 
-Şifa Hamamı, Konya'nın Ereğli ilçesinde yer alır ve 140 hektarlık bir yeşil alanı kapsar. Şifa Hamamı'nın coğrafi yapısı, geniş yeşil alanlar, ağaçlar ve doğal yürüyüş yolları ile dikkat çeker. Bu alan, Konya'nın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve yağışlı bir hava sahiptir. Şifa Hamamı, Konya'nın coğrafi çeşitliliğiçinde önemli bir yer tutmaktadır. Bu alan, hem doğal güzelliği hem de coğrafi konumuyla wicht bir gezi ve dinlenme noktasıdır. Şifa Hamamı, Konya'nın turizm ve doğa harikaları arasında önemli bir yere sahiptir.
+ Şifa Hamamı'nın coğrafi yapısı, geniş yeşil alanlar, ağaçlar ve doğal yürüyüş yolları ile dikkat çeker. Bu alan, Konya'nın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve yağışlı bir hava sahiptir. Şifa Hamamı, Konya'nın coğrafi çeşitliliğiçinde önemli bir yer tutmaktadır. Bu alan, hem doğal güzelliği hem de coğrafi konumuyla wicht bir gezi ve dinlenme noktasıdır. Şifa Hamamı, Konya'nın turizm ve doğa harikaları arasında önemli bir yere sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ wikidata_id: "Q131738512"
 
 ## İlginç Bilgiler
 
-- Şifa Hamamı, 140 hektarlık bir yeşil alanı kapsar
 - Şifa Hamamı, Konya'nın turizm ve doğa harikaları arasında önemli bir yere sahiptir
 - Bu alan, çeşitli ağaç türleri, çiçekler ve diğer bitki türleri ile kaplıdır
 - Şifa Hamamı, yılın her dönemi ziyaret edilebilir

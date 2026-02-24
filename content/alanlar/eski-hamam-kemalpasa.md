@@ -50,7 +50,7 @@ Eski Hamam, Kemalpaşa'ya ziyaret için en iyi zaman, ilkbahar ve yaz aylarıdı
 ## İlginç Bilgiler
 
 - Eski Hamam, İzmir'in en çok tercih edilen plajlarından biri
-- Plaj, 140 hektarlık bir alana sahip
+
 - Ege Bölgesi'nin karakteristik özelliklerini taşıyor
 - Tarihi geçmişi zengin ve çeşitli
 - Doğal güzellikleri ile dikkat çekiyor

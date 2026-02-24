@@ -30,7 +30,7 @@ wikidata_id: "Q115630149"
 
 # Köçeoğlu Hamamı
 
-Köçeoğlu Hamamı, İstanbul'un en eski ve en önemli plajlarından biri olarak kabul edilir. Kadıköy'de bulunan bu plaj, yaklaşık 140 hektarlık bir alanda yer alır. Köçeoğlu Hamamı, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir. Burada, güneşin keyfini çıkarabilir, denizde yüzme gibi faaliyetleri gerçekleştirebilirsiniz. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur.
+Köçeoğlu Hamamı, İstanbul'un en eski ve en önemli plajlarından biri olarak kabul edilir. Köçeoğlu Hamamı, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir. Burada, güneşin keyfini çıkarabilir, denizde yüzme gibi faaliyetleri gerçekleştirebilirsiniz. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Köçeoğlu Hamamı, ziyaretçilerin denize girip, kumsalın keyfini çıkarmak 
 ## İlginç Bilgiler
 
 - Köçeoğlu Hamamı, İstanbul'un en eski plajlarından biri olarak bilinir.
-- Plaj, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Köçeoğlu Hamamı, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir.
 - Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur.
 - Köçeoğlu Hamamı, flora ve faunası ile birlikte, bir ekosistem olarak kabul edilebilir.

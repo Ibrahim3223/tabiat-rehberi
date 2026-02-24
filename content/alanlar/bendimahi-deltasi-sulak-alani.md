@@ -30,7 +30,7 @@ Bendimahi Deltası Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca bölg
 
 ## Coğrafya
 
-Bendimahi Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin en önemli sulak alanlarından biri olarak kabul ediliyor. Bendimahi Deltası Sulak Alanı'nın coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor. Bu alan, aynı zamanda birçok kuş türünün yuvalama ve göç noktalarından biri olarak da önemlidir. Bendimahi Deltası Sulak Alanı'nın iklimi, İç Anadolu Bölgesi'nin karasal iklimine benzer ve yazları sıcak, kışları soğuk geçer. Bu sulak alan, bölgenin ekolojik dengesini koruyan önemli bir rol oynuyor.
+Bendimahi Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bendimahi Deltası Sulak Alanı'nın coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekiyor. Bu alan, aynı zamanda birçok kuş türünün yuvalama ve göç noktalarından biri olarak da önemlidir. Bendimahi Deltası Sulak Alanı'nın iklimi, İç Anadolu Bölgesi'nin karasal iklimine benzer ve yazları sıcak, kışları soğuk geçer. Bu sulak alan, bölgenin ekolojik dengesini koruyan önemli bir rol oynuyor.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Bendimahi Deltası Sulak Alanı, ziyaretçilerini doğayla iç içe bir deneyim 
 
 - Bendimahi Deltası Sulak Alanı, İç Anadolu Bölgesi'nin en önemli sulak alanlarından biri.
 - Bu sulak alan, birçok kuş türünün yuvalama ve göç noktalarından biri olarak önemlidir.
-- Bendimahi Deltası Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bu alanın iklimi, İç Anadolu Bölgesi'nin karasal iklimine benzer.
 - Bendimahi Deltası Sulak Alanı, ziyaretçilerini doğayla iç içe bir deneyim yaşatmak için ideal bir destinasyon.

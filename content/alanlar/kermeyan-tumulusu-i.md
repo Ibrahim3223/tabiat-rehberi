@@ -50,7 +50,7 @@ Kermeyan Tümülüsü I, ziyaretçilere zengin bir tarihi ve kültürel deneyim 
 ## İlginç Bilgiler
 
 - Kermeyan Tümülüsü I, Malkara'nın en önemli tarihi mekanlarından biridir.
-- Bu tümülüs, 140 hektarlık bir alanı kapsar.
+
 - Kermeyan Tümülüsü I, Marmara Bölgesi'nin Tekirdağ iline bağlı Malkara ilçesinde bulunur.
 - Bu tümülüs, Malkara'nın kültürel mirasının önemli bir parçasını oluşturur.
 - Kermeyan Tümülüsü I, yıl boyunca ziyaret edilebilir.

@@ -48,7 +48,6 @@ wikidata_id: "Q97213387"
 
 ## İlginç Bilgiler
 
-- Şelale, yaklaşık 140 hektarlık alan kaplıyor
 - Bölge, çeşitli bitki türleri ile kaplı
 - Şelale, farklı medeniyetlerin izlerini taşıyor
 - Bölge, coğrafi özellikleri ile ziyaretçilerine benzersiz bir deneyim sunuyor

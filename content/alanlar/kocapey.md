@@ -49,7 +49,7 @@ Kocapey, ziyaretçilere çeşitli aktiviteleri sunar. Bu tepe, özellikle doğa 
 ## İlginç Bilgiler
 
 - Kocapey, Hatay ilinin en yüksek tepelerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kocapey, çeşitli bitki türleri ve hayvanları barındıran bir ekosisteme sahiptir.
 - Bu tepe, özellikle doğa severler ve tarih meraklıları için ideal bir destinasyondur.
 - Kocapey, Akdeniz Bölgesi'nin coğrafi olarak önemli bir noktasında bulunmaktadır.

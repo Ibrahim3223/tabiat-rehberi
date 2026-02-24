@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğraf çekimi","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Lika%E2%80%99s_Ka%C5%9F5.jpg","alt":"Antalya Kaş Kıbrıs Çayı manzarası","credit":"Zelenoglazno","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lika%E2%80%99s_Ka%C5%9F.jpg/960px-Lika%E2%80%99s_Ka%C5%9F.jpg","alt":"Antalya Kaş Kıbrıs Çayı","caption":"Antalya Kaş Kıbrıs Çayı","credit":"Lika’s Kaş","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/Lika%E2%80%99s_Ka%C5%9F.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Lika%E2%80%99s_Ka%C5%9F.jpg/1280px-Lika%E2%80%99s_Ka%C5%9F.jpg","alt":"Antalya Kaş Kıbrıs Çayı - Lika’s Kaş","credit":"Zelenoglazno","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Lika%E2%80%99s_Ka%C5%9F1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lika%E2%80%99s_Ka%C5%9F1.jpg/1280px-Lika%E2%80%99s_Ka%C5%9F1.jpg","alt":"Antalya Kaş Kıbrıs Çayı - Lika’s Kaş1","credit":"Zelenoglazno","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Lika%E2%80%99s_Ka%C5%9F2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lika%E2%80%99s_Ka%C5%9F2.jpg/1280px-Lika%E2%80%99s_Ka%C5%9F2.jpg","alt":"Antalya Kaş Kıbrıs Çayı - Lika’s Kaş2","credit":"Zelenoglazno","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/33/Lika%E2%80%99s_Ka%C5%9F4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lika%E2%80%99s_Ka%C5%9F4.jpg/1280px-Lika%E2%80%99s_Ka%C5%9F4.jpg","alt":"Antalya Kaş Kıbrıs Çayı - Lika’s Kaş4","credit":"Zelenoglazno","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Lika%E2%80%99s_Ka%C5%9F3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lika%E2%80%99s_Ka%C5%9F3.jpg/1280px-Lika%E2%80%99s_Ka%C5%9F3.jpg","alt":"Antalya Kaş Kıbrıs Çayı - Lika’s Kaş3","credit":"Zelenoglazno","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Ka%C5%9F%20K%C4%B1br%C4%B1s%20%C3%87ay%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227083","tip":"genel"}]
 description: "Doğal güzellikleri ile dikkat çeken Antalya Kaş Kıbrıs Çayı, ziyaretçilerini bekliyor."
@@ -44,7 +44,7 @@ Antalya Kaş Kıbrıs Çayı, ziyaretçilerine çeşitli aktiviteler sunuyor. Zi
 ## İlginç Bilgiler
 
 - Antalya Kaş Kıbrıs Çayı, İç Anadolu Bölgesi'nde yer alıyor.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Antalya Kaş Kıbrıs Çayı, zengin flora ve faunası ile dikkat çekiyor.
 - Bu bölge, mevsimsel değişimlere göre değişen bir ekosisteme sahip.
 - Ziyaretçiler, bu bölgede doğa yürüyüşü, kamp, fotoğraf çekimi gibi aktiviteler yapabilirler.

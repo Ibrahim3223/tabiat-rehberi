@@ -13,10 +13,10 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-02.jpg","alt":"Aksu Tabiat Parkı manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-05.jpg/960px-Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-05.jpg","alt":"Aksu Tabiat Parkı","caption":"Aksu Tabiat Parkı","credit":"Mavigöl, Kuzalan Tabiat Parkı, Dereli-Giresun Haziran 2019-05","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-01.jpg/1280px-Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-01.jpg","alt":"Aksu Tabiat Parkı - Mavigöl, Kuzalan Tabiat Parkı, Dereli-Giresun Haziran 2019-01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-04.jpg/1280px-Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-04.jpg","alt":"Aksu Tabiat Parkı - Mavigöl, Kuzalan Tabiat Parkı, Dereli-Giresun Haziran 2019-04","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-05.jpg/1280px-Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-05.jpg","alt":"Aksu Tabiat Parkı - Mavigöl, Kuzalan Tabiat Parkı, Dereli-Giresun Haziran 2019-05","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-06.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-06.jpg/1280px-Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-06.jpg","alt":"Aksu Tabiat Parkı - Mavigöl, Kuzalan Tabiat Parkı, Dereli-Giresun Haziran 2019-06","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-07.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-07.jpg/1280px-Mavig%C3%B6l%2C_Kuzalan_Tabiat_Park%C4%B1%2C_Dereli-Giresun_Haziran_2019-07.jpg","alt":"Aksu Tabiat Parkı - Mavigöl, Kuzalan Tabiat Parkı, Dereli-Giresun Haziran 2019-07","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aksu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110423637","tip":"genel"}]
-description: "Kargı, Çorum'da yer alan Aksu Tabiat Parkı, yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılar."
+"
 keywords: ["Aksu Tabiat Parkı","Kargı","Çorum","Karadeniz Bölgesi","doğa","tabiat parkı","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q110423637"
@@ -24,7 +24,7 @@ wikidata_id: "Q110423637"
 
 # Aksu Tabiat Parkı
 
-Aksu Tabiat Parkı, Kargı, Çorum'da yer alan ve yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılayan bir doğa harikasıdır. Park, ziyaretçilerine sunduğu zengin flora ve fauna çeşitliliğiyle dikkat çeker. Konum olarak Karadeniz Bölgesi'nde yer alan park, doğa severlerin ilgisini çeken bir destinasyondur. Aksu Tabiat Parkı, hem doğa güzelliği hem de coğrafi konumuyla önemli bir turizm noktası olarak kabul edilir.
+ Park, ziyaretçilerine sunduğu zengin flora ve fauna çeşitliliğiyle dikkat çeker. Konum olarak Karadeniz Bölgesi'nde yer alan park, doğa severlerin ilgisini çeken bir destinasyondur. Aksu Tabiat Parkı, hem doğa güzelliği hem de coğrafi konumuyla önemli bir turizm noktası olarak kabul edilir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Aksu Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Aksu Tabiat Parkı, Kargı, Çorum'da yer alan bir doğa harikasıdır. Park, yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılar. Parkın coğrafi konumu, Karadeniz Bölgesi'nde yer almasıyla dikkat çeker. Bölge, zengin flora ve fauna çeşitliliğiyle tanınır. Park, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırır. Aksu Tabiat Parkı, ziyaretçilerine sunduğu doğal güzelliklerle, doğa severlerin ilgisini çeken bir destinasyondur. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Bölge, genellikle yağışlı ve nemli bir iklimle tanınır. Aksu Tabiat Parkı, coğrafi konumu ve doğal güzelliği ile, önemli bir turizm noktası olarak kabul edilir.
+Aksu Tabiat Parkı, Kargı, Çorum'da yer alan bir doğa harikasıdır. Parkın coğrafi konumu, Karadeniz Bölgesi'nde yer almasıyla dikkat çeker. Bölge, zengin flora ve fauna çeşitliliğiyle tanınır. Park, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırır. Aksu Tabiat Parkı, ziyaretçilerine sunduğu doğal güzelliklerle, doğa severlerin ilgisini çeken bir destinasyondur. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Bölge, genellikle yağışlı ve nemli bir iklimle tanınır. Aksu Tabiat Parkı, coğrafi konumu ve doğal güzelliği ile, önemli bir turizm noktası olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,6 @@ Aksu Tabiat Parkı, ziyaretçilerine sunduğu doğal güzelliklerle, doğa sever
 
 ## İlginç Bilgiler
 
-- Aksu Tabiat Parkı, yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılar.
 - Park, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırır.
 - Aksu Tabiat Parkı, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır.
 - Park, zengin flora ve fauna çeşitliliğiyle dikkat çeker.

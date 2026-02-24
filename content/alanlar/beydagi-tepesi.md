@@ -50,7 +50,7 @@ Beydağı Tepesi'ni ziyaret etmek, hem doğal güzelliği hem de tarihi zenginli
 ## İlginç Bilgiler
 
 - Beydağı Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Beydağı Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarır.
 - Tepenin zirvesinden, şehrin ve çevresinin panoramik manzarası izlenebilir.
 - Bu tepe, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanıdır.

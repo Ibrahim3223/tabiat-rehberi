@@ -22,7 +22,7 @@ wikidata_id: "Q108229009"
 
 # Karamık Sazlıkları Sulak Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Karamık Sazlıkları Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Karamık Sazlıkları Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekiyor. Bu alan, çeşitli bitki ve hayvan türlerinin yaşadığı bir ekosistem olarak işlev görüyor. Karamık Sazlıkları Sulak Alanı, aynı zamanda önemli bir kuş alanı olarak biliniyor ve birçok kuş türüne ev sahipliği yapıyor.
+ Karamık Sazlıkları Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekiyor. Bu alan, çeşitli bitki ve hayvan türlerinin yaşadığı bir ekosistem olarak işlev görüyor. Karamık Sazlıkları Sulak Alanı, aynı zamanda önemli bir kuş alanı olarak biliniyor ve birçok kuş türüne ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Karamık Sazlıkları Sulak Alanı, önemli bir turizm merkezi olarak biliniyor 
 
 ## İlginç Bilgiler
 
-- Karamık Sazlıkları Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu alan, önemli bir biyolojik çeşitlilik merkezi olarak biliniyor.
 - Karamık Sazlıkları Sulak Alanı, aynı zamanda önemli bir kuş alanı olarak da görev yapıyor.
 - Bu alanın flora ve faunası, bölgenin iklimine ve topoğrafyasına uygun olarak şekillenmiştir.

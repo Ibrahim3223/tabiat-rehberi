@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","bisiklet","çiçek izleme","manzara seyretme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Kartallık Tepesi","caption":"Kartallık Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartall%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558516","tip":"genel"}]
-description: "Ankara'nın eşsiz doğal güzelliklerinden biri olan Kartallık Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Ankara'nın eşsiz doğal güzelliklerinden biri olan Kartallık Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alır."
 keywords: ["Kartallık Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558516"

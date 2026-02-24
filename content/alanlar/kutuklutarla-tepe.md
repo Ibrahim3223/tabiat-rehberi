@@ -49,7 +49,7 @@ Kütüklütarla Tepe, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve
 ## İlginç Bilgiler
 
 - Kütüklütarla Tepe, Kahramanmaraş ilinin en önemli tarihi ve doğal güzelliklerinden biridir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kütüklütarla Tepe, birçok medeniyete ev sahipliği yapmış ve her medeniyet, tepeye kendi izini bırakmıştır.
 - Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
 - Kütüklütarla Tepe, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak görülür.

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","izcilik","piknik","doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Antalya-Finike-Demre Kayacik","caption":"Antalya-Finike-Demre Kayacik","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Finike-Demre%20Kayacik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228463","tip":"genel"}]
-description: "Antalya'da yer alan Finike-Demre Kayacik Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Antalya","Finike","Demre","Kayacik","Milli Park","Doğa","Turizm","Akdeniz Bölgesi","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228463"

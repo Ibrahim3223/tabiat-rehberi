@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Antalya-Alanya-Kargi Kızılçam","caption":"Antalya-Alanya-Kargi Kızılçam","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Alanya-Kargi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227414","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alan milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Antalya","Alanya","Kargi Kızılçam","milli park","Akdeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227414"
@@ -42,7 +42,6 @@ Antalya-Alanya-Kargi Kızılçam milli parkını ziyaret etmek, doğa severlerin
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kaplıyor
 -  Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı oluyor
 - Kargi Kızılçam milli parkı, yüzyılların izlerini taşıyor

@@ -50,7 +50,7 @@ Kleopatra Plajı, yılın her dönemi ziyaret edilebilir. Ancak, plajın en yoğ
 ## İlginç Bilgiler
 
 - Kleopatra Plajı, Akdeniz'in en güzel plajlarından biri olarak kabul edilir.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Plajın su sıcaklığı, yaz aylarında 28 dereceye kadar çıkabilir.
 - Plaj, Caretta türü kaplumbağaların yuvalanma alanı olarak da bilinir.
 - Plajın faunası, mevsimsel olarak değişir.

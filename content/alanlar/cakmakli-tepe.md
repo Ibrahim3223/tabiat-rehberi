@@ -36,7 +36,7 @@ wikidata_id: "Q34827879"
 
 ## Coğrafya
 
-Çakmaklı Tepe, Çankırı ilinin coğrafi açıdan ilgi çekici bir bölgesinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etekleri, çeşitli bitki türleriyle kaplı. Tepenin etrafında, küçük akarsular ve dereler bulunuyor ve bu su kaynakları, bölgenin ekolojisini destekleyen önemli bir unsur. Çakmaklı Tepe'nin coğrafi yapısı, aynı zamanda mevsimsel değişimlere göre şekil değiştiriyor. Kışın karla kaplı tepeler, ilkbaharda yeşilleniyor ve yazın sıcakk günlerine sahne oluyor. Bu doğal güzellikler, Çakmaklı Tepe'yi yılın her dönemi ziyaret etmek için cazip kılıyor.
+Çakmaklı Tepe, Çankırı ilinin coğrafi açıdan ilgi çekici bir bölgesinde yer alıyor. Tepenin etrafında, küçük akarsular ve dereler bulunuyor ve bu su kaynakları, bölgenin ekolojisini destekleyen önemli bir unsur. Çakmaklı Tepe'nin coğrafi yapısı, aynı zamanda mevsimsel değişimlere göre şekil değiştiriyor. Kışın karla kaplı tepeler, ilkbaharda yeşilleniyor ve yazın sıcakk günlerine sahne oluyor. Bu doğal güzellikler, Çakmaklı Tepe'yi yılın her dönemi ziyaret etmek için cazip kılıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34827879"
 
 ## İlginç Bilgiler
 
-- Çakmaklı Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve fauna bulunuyor.
 - Çakmaklı Tepe, coğrafi açıdan ilgi çekici bir bölgede yer alıyor.
 - Tepenin tarihi geçmişi, yüzyıllar öncesine dayanıyor.

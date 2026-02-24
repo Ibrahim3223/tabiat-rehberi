@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Aynzeliha_G%C3%B6l%C3%BC.jpg","alt":"Atar Gölü manzarası","credit":"Cobija","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Aynzeliha_G%C3%B6l%C3%BC.jpg/960px-Aynzeliha_G%C3%B6l%C3%BC.jpg","alt":"Atar Gölü","caption":"Atar Gölü","credit":"Aynzeliha Gölü","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Qizil_Gol_Lake_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Qizil_Gol_Lake_3.jpg","alt":"Atar Gölü - Qizil Gol Lake 3","credit":"Farid Atar","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atar%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123166081","tip":"genel"}]
 description: "Ağrı'nın Taşlıçay ilçesinde bulunan Atar Gölü, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

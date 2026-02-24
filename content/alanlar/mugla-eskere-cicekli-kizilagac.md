@@ -22,7 +22,7 @@ wikidata_id: "Q108227733"
 
 # Mugla-Eskere-Cicekli Kizilagac
 
-Mugla-Eskere-Cicekli Kizilagac milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Parkın konumu, İç Anadolu Bölgesi'nde bulunuyor ve bu bölge, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Parkta, çeşitli bitki türleri ve zengin fauna çeşitliliği ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri ve çeşitliliği ile bu milli park, doğa severlerin ilgi odağı haline geliyor.
+ Parkın konumu, İç Anadolu Bölgesi'nde bulunuyor ve bu bölge, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Parkta, çeşitli bitki türleri ve zengin fauna çeşitliliği ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri ve çeşitliliği ile bu milli park, doğa severlerin ilgi odağı haline geliyor.
 
 ## Tarihçe
 

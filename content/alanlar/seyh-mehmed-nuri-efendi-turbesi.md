@@ -37,7 +37,7 @@ wikidata_id: "Q131391667"
 
 ## Coğrafya
 
-Şeyh Mehmed Nuri Efendi Türbesi, Üsküdar'ın kıyı şeridinde yer alıyor ve Marmara Denizi'ne bakıyor. Bu coğrafi konum, ziyaretçilere deniz manzarası sunmasının yanı sıra, çevredeki yeşil alanlar ve doğal güzellikler de sunuyor. Türbe ve plaj, yaklaşık 140 hektarlık bir arazi üzerinde konumlanmış ve bu geniş alan, hem dinlenmek hem de çeşitli aktivitelere katılmak için yeterli olanak sağlıyor. İklim, Marmara Bölgesi'ne özgü olarak değişkenlik gösteriyor; yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı geçiyor. Çevre, tarihi ve doğal güzelliği koruma altına alınmış ve bu sayede ziyaretçiler, hem tarihi bir mekanın atmosferini soluyor hem de doğayla iç içe zaman geçiriyor.
+Şeyh Mehmed Nuri Efendi Türbesi, Üsküdar'ın kıyı şeridinde yer alıyor ve Marmara Denizi'ne bakıyor. Bu coğrafi konum, ziyaretçilere deniz manzarası sunmasının yanı sıra, çevredeki yeşil alanlar ve doğal güzellikler de sunuyor. İklim, Marmara Bölgesi'ne özgü olarak değişkenlik gösteriyor; yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı geçiyor. Çevre, tarihi ve doğal güzelliği koruma altına alınmış ve bu sayede ziyaretçiler, hem tarihi bir mekanın atmosferini soluyor hem de doğayla iç içe zaman geçiriyor.
 
 ## Flora ve Fauna
 

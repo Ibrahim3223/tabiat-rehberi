@@ -21,7 +21,7 @@ aktiviteler: ["Müze ve sergi salonu gezisi","Doğa yürüyüşleri","Piknik","�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Atatürk Orman Çiftliği Müze ve Sergi Salonu","caption":"Atatürk Orman Çiftliği Müze ve Sergi Salonu","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atat%C3%BCrk%20Orman%20%C3%87iftli%C4%9Fi%20M%C3%BCze%20ve%20Sergi%20Salonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681906","tip":"genel"}]
-description: "Ankara'nın kalbinde, 140 hektarlık yeşil alanıyla ziyaretçilerini bekleyen bir doğa cenneti."
+"
 keywords: ["Atatürk Orman Çiftliği","Müze ve Sergi Salonu","Ankara","İç Anadolu Bölgesi","Doğa Cenneti","Yeşil Alan","Tarihçe","Coğrafya","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132681906"
@@ -37,7 +37,7 @@ Atatürk Orman Çiftliği Müze ve Sergi Salonu'nun tarihi geçmişi, Türkiye'n
 
 ## Coğrafya
 
-Atatürk Orman Çiftliği Müze ve Sergi Salonu, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alır. 140 hektarlık geniş alanda, çeşitli bitki türleri ve zengin fauna bulunur. Bu geniş yeşil alan, Ankara'nın şehir yaşamının içinde bir nefes alma ve doğayla iç içe olma imkanı sunar. Orman çiftliği, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve dinlenme noktaları gibi imkânlar sunar. Coğrafi konumu itibarıyla, ziyaretçiler buraya ulaşımı kolay bir şekilde gerçekleştirebilir ve Ankara'nın diğer önemli noktalarını da keşfedebilir. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine sahip olan bölgede, ziyaretçiler dört mevsimi ayrı ayrı deneyimleme fırsatı bulabilir.
+Atatürk Orman Çiftliği Müze ve Sergi Salonu, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alır. Bu geniş yeşil alan, Ankara'nın şehir yaşamının içinde bir nefes alma ve doğayla iç içe olma imkanı sunar. Orman çiftliği, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve dinlenme noktaları gibi imkânlar sunar. Coğrafi konumu itibarıyla, ziyaretçiler buraya ulaşımı kolay bir şekilde gerçekleştirebilir ve Ankara'nın diğer önemli noktalarını da keşfedebilir. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine sahip olan bölgede, ziyaretçiler dört mevsimi ayrı ayrı deneyimleme fırsatı bulabilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Atatürk Orman Çiftliği Müze ve Sergi Salonu'na ziyaretçiler, toplu taşıma
 
 ## İlginç Bilgiler
 
-- Atatürk Orman Çiftliği Müze ve Sergi Salonu, 140 hektarlık bir yeşil alana kuruludur.
 - Müze ve sergi salonunda, Atatürk'ün kişisel eşyaları ve anıları sergilenir.
 - Buradaki flora ve fauna, çeşitlili ve zenginlik açısından dikkat çeker.
 - Ziyaretçiler, yıl boyunca değişen mevsimsel güzellikleri deneyimleyebilir.

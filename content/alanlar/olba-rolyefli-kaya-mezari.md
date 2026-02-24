@@ -29,7 +29,7 @@ wikidata_id: "Q134728184"
 
 # Olba Rölyefli Kaya Mezarı
 
-Olba Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Kaya mezarları, tarihi duvar resimleri ve diğer arkeolojik buluntular, bu bölgenin zengin kültürel mirasını ortaya koyuyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan Olba Rölyefli Kaya Mezarı, ziyaretçiler için hem eğitim hem de kültür açısından önemli bir gezi noktası.
+Olba Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Kaya mezarları, tarihi duvar resimleri ve diğer arkeolojik buluntular, bu bölgenin zengin kültürel mirasını ortaya koyuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Olba Rölyefli Kaya Mezarı, yüzyıllar boyunca çeşitli uygarlıkların etkis
 
 ## Coğrafya
 
-Olba Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alıyor ve Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri. Bu bölge, coğrafi olarak çeşitli oluşumların birleşmesiyle oluşmuş ve bu reasonla ziyaretçilere farklı bir doğal güzellik sunuyor. Kaya mezarları ve tarihi kalıntılar, bu bölgenin coğrafi yapısını etkileyen önemli faktörler. Olba Rölyefli Kaya Mezarı, ziyaretçilere tarihi mekanların yanı sıra doğal güzellikleri de keşfetme fırsatı sunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilere farklı bir deneyimi yaşamaya olanak tanıyor. Silifke ilçesi, tarihi ve doğal güzellikleriyle ziyaretçileri cezbetmeye devam ediyor. Olba Rölyefli Kaya Mezarı, bu bölgenin önemli gezi noktalarından biri olarak biliniyor. 140 hektarlık alan, ziyaretçilere geniş bir gezi alanı sunuyor ve bu bölgenin coğrafi yapısını keşfetmeleri için olanak tanıyor.
+Olba Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alıyor ve Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri. Bu bölge, coğrafi olarak çeşitli oluşumların birleşmesiyle oluşmuş ve bu reasonla ziyaretçilere farklı bir doğal güzellik sunuyor. Kaya mezarları ve tarihi kalıntılar, bu bölgenin coğrafi yapısını etkileyen önemli faktörler. Olba Rölyefli Kaya Mezarı, ziyaretçilere tarihi mekanların yanı sıra doğal güzellikleri de keşfetme fırsatı sunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilere farklı bir deneyimi yaşamaya olanak tanıyor. Silifke ilçesi, tarihi ve doğal güzellikleriyle ziyaretçileri cezbetmeye devam ediyor. Olba Rölyefli Kaya Mezarı, bu bölgenin önemli gezi noktalarından biri olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Olba Rölyefli Kaya Mezarı, ziyaretçilere tarihi mekanların yanı sıra doğa
 
 - Olba Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alıyor
 - Bu bölgenin tarihi geçmişi yüzyıllar öncesine dayanıyor
-- Olba Rölyefli Kaya Mezarı, 140 hektarlık bir alanı kaplıyor
+
 - Bu bölgede, ziyaretçiler kaya mezarlarını, tarihi duvar resimlerini ve diğer arkeolojik buluntuları görebiliyorlar
 - Olba Rölyefli Kaya Mezarı, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor

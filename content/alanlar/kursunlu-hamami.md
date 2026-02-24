@@ -51,7 +51,7 @@ Kurşunlu Hamamı, Sivas ilinin merkezinde yer aldığında, ulaşım açısınd
 ## İlginç Bilgiler
 
 - Kurşunlu Hamamı, Sivas'ın en önemli tarihi ve turistik mekanlarından biridir.
-- Hamam, 140 hektarlık bir alan üzerinde kurulu durumdadır.
+
 - Sivas ilinin merkezinde yer alır.
 - İç Anadolu Bölgesi'nin karasal iklimine sahiptir.
 - Çevresinde çeşitli tarihi yapılar, parklar ve yeşil alanlar bulunmaktadır.

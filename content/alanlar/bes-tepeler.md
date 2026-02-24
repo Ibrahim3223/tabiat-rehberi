@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki gözlemi","fauna"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Beş Tepeler","caption":"Beş Tepeler","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9F%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388267","tip":"genel"}]
-description: "Kars ilinin doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna."
+description: "Kars ilinin doğal güzelliklerini keşfedin."
 keywords: ["Kars","Doğu Anadolu Bölgesi","doğal güzellik","yeşil alan","bitki türleri","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388267"
@@ -36,7 +36,7 @@ Beş Tepeler, yüzyıllar boyunca önemli bir yerleşim yeri olmuş. Tarihi geç
 
 ## Coğrafya
 
-Beş Tepeler, Kars ilinin coğrafi yapısını oluşturan önemli bir bileşen. Burası, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile beraber, doğanın güzelliğini gözler önüne seriyor. Beş Tepeler, Kars ilinin iklimini de etkileyen önemli bir faktör. Burada, mevsimsel değişimler, ziyaretçileri doğanın güzelliği ile baş başa bırakıyor. Kars ilinin coğrafi yapısı, Beş Tepeleri de içine alan büyük bir bölgeden oluşuyor. Burası, ziyaretçilerini geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna ile beraber, doğanın güzelliği ile baş başa bırakıyor.
+Beş Tepeler, Kars ilinin coğrafi yapısını oluşturan önemli bir bileşen. Beş Tepeler, Kars ilinin iklimini de etkileyen önemli bir faktör. Burada, mevsimsel değişimler, ziyaretçileri doğanın güzelliği ile baş başa bırakıyor. Kars ilinin coğrafi yapısı, Beş Tepeleri de içine alan büyük bir bölgeden oluşuyor. Burası, ziyaretçilerini geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna ile beraber, doğanın güzelliği ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 

@@ -30,11 +30,11 @@ Konya-Alanya-Söğüt-Karacam milli parkının tarihi geçmişi, yüzyıllar ön
 
 ## Coğrafya
 
-Konya-Alanya-Söğüt-Karacam milli parkı, coğrafi olarak Konya'nın merkeziunda yer alıyor. Parkın etrafında yer alan dağlar ve ovalar, ziyaretçilere doğal güzellikler sunuyor. Parkın iklimi, karasal iklim özellikleri gösteriyor ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor. Parkın coğrafi konumu, ziyaretçilere hem gezi hem de doğa hakkında bilgi edinme fırsatı sunuyor. Parkın 140 hektarlık alanındaki çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliklerini tanıma fırsatı veriyor. Parkın etrafında yer alan nehirler ve göller, ziyaretçilere su sporları ve doğa yürüyüşü gibi aktiviteleri deneyimleme fırsatı sunuyor.
+Konya-Alanya-Söğüt-Karacam milli parkı, coğrafi olarak Konya'nın merkeziunda yer alıyor. Parkın etrafında yer alan dağlar ve ovalar, ziyaretçilere doğal güzellikler sunuyor. Parkın iklimi, karasal iklim özellikleri gösteriyor ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor. Parkın coğrafi konumu, ziyaretçilere hem gezi hem de doğa hakkında bilgi edinme fırsatı sunuyor. Parkın etrafında yer alan nehirler ve göller, ziyaretçilere su sporları ve doğa yürüyüşü gibi aktiviteleri deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
-Konya-Alanya-Söğüt-Karacam milli parkı, flora ve fauna açısından zengin bir alana sahip. Parkın 140 hektarlık alanındaki çeşitli bitki türleri, ziyaretçilere doğanın güzelliklerini tanıma fırsatı veriyor. Parkta yer alan ağaçlar, çalılar ve çiçekler, ziyaretçilere doğanın renkli dünyasını deneyimleme fırsatı sunuyor. Ayrıca, parkta yer alan hayvanlar, ziyaretçilere doğanın canlılarını tanıma fırsatı veriyor. Parkın etrafında yer alan nehirler ve göller, ziyaretçilere su sporları ve doğa yürüyüşü gibi aktiviteleri deneyimleme fırsatı sunuyor.
+Konya-Alanya-Söğüt-Karacam milli parkı, flora ve fauna açısından zengin bir alana sahip. Parkta yer alan ağaçlar, çalılar ve çiçekler, ziyaretçilere doğanın renkli dünyasını deneyimleme fırsatı sunuyor. Ayrıca, parkta yer alan hayvanlar, ziyaretçilere doğanın canlılarını tanıma fırsatı veriyor. Parkın etrafında yer alan nehirler ve göller, ziyaretçilere su sporları ve doğa yürüyüşü gibi aktiviteleri deneyimleme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -42,7 +42,6 @@ Konya-Alanya-Söğüt-Karacam milli parkını ziyaret etmek, hem gezi hem de do�
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanındaki çeşitli bitki türleri
 - Parkta yer alan tarihi yapılar
 - Parkın etrafında yer alan nehirler ve göller
 - Parkın coğrafi konumu

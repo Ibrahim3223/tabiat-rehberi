@@ -30,7 +30,7 @@ wikidata_id: "Q108228473"
 
 ## Coğrafya
 
-Çağlayan Dibi Şelalesi, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim, farklı güzellikler sunar. Şelalenin surroundings, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın tüm güzelliğini keşfetme fırsatı sunuyor. Çağlayan Dibi Şelalesi, 140 hektarlık alan, çevresindeki dağlar ve vadiler ile birlikte, ziyaretçilere geniş bir coğrafi alan sunuyor. Bu coğrafi yapı, şelalenin güzelliğini daha da artırıyor ve ziyaretçilere, doğanın tüm güzelliğini keşfetme fırsatı sunuyor.
+Çağlayan Dibi Şelalesi, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim, farklı güzellikler sunar. Şelalenin surroundings, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın tüm güzelliğini keşfetme fırsatı sunuyor. Bu coğrafi yapı, şelalenin güzelliğini daha da artırıyor ve ziyaretçilere, doğanın tüm güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Uykuda.jpg","alt":"Başak Adası manzarası","credit":"Nozomiuk","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Uykuda.jpg/960px-Uykuda.jpg","alt":"Başak Adası","caption":"Başak Adası","credit":"Uykuda","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fak%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q25118235","tip":"genel"}]
 description: "Rodos ilçesi, Meis belediyesinde bulunan Başak Adası, Ege Denizi'nin güzide noktalarından biri."

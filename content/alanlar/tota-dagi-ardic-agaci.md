@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Tota Dagi Ardic Agaci","caption":"Tota Dagi Ardic Agaci","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tota%20Dagi%20Ardic%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227352","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
+
 keywords: ["Tota Dagi Ardic Agaci","milli park","İç Anadolu Bölgesi","doğa alanları","yeşil alanlar","gezi noktaları","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227352"
@@ -30,7 +30,7 @@ Tota Dagi Ardic Agaci milli parkının tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Tota Dagi Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu region, genellikle step ve ormanlık alanların birleştiği bir bölge olarak bilinir. Tota Dagi Ardic Agaci milli parkı da bu coğrafi yapı içerisinde, 140 hektarlık bir alanı kapsar. Parkın coğrafi konumu, ziyaretçilerin hem step hem de ormanlık alanları keşfetmesine olanak tanır. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve genellikle karasal iklim özellikleri gösterir. Tota Dagi Ardic Agaci milli parkının coğrafi konumu ve iklimi, bu bölgede yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlamaktadır.
+Tota Dagi Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu region, genellikle step ve ormanlık alanların birleştiği bir bölge olarak bilinir. Parkın coğrafi konumu, ziyaretçilerin hem step hem de ormanlık alanları keşfetmesine olanak tanır. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve genellikle karasal iklim özellikleri gösterir. Tota Dagi Ardic Agaci milli parkının coğrafi konumu ve iklimi, bu bölgede yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Tota Dagi Ardic Agaci milli parkını ziyaret etmek, doğa severler ve macera ar
 
 ## İlginç Bilgiler
 
-- Tota Dagi Ardic Agaci milli parkı, 140 hektarlık bir alanı kapsar.
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşamaktadır.
 - Tota Dagi Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır.
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere bağlı olarak değişmektedir.

@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Yanıklık Tepesi","caption":"Yanıklık Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yan%C4%B1kl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389990","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yanıklık Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir."
+"
 keywords: ["Yanıklık Tepesi","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389990"
@@ -37,7 +37,7 @@ Yanıklık Tepesi'nin tarihi geçmişi, bölgenin genel tarihi ile bağlantılı
 
 ## Coğrafya
 
-Yanıklık Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, bölgenin genel coğrafi özelliklerini taşıyan bir yapıya sahiptir. Tepenin yüksekliği, bölgenin ortalama yüksekliğine göre değerlendirildiğinde, önemli bir nokta olarak görülebilir. Yanıklık Tepesi'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerden biridir. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu nedenle, Yanıklık Tepesi, bölgenin coğrafi ve ekolojik zenginliğini gözler önüne seren bir doğal güzelliğimizdir.
+ Bu alan, bölgenin genel coğrafi özelliklerini taşıyan bir yapıya sahiptir. Tepenin yüksekliği, bölgenin ortalama yüksekliğine göre değerlendirildiğinde, önemli bir nokta olarak görülebilir. Yanıklık Tepesi'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerden biridir. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu nedenle, Yanıklık Tepesi, bölgenin coğrafi ve ekolojik zenginliğini gözler önüne seren bir doğal güzelliğimizdir.
 
 ## Flora ve Fauna
 

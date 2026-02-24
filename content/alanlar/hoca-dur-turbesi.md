@@ -37,7 +37,7 @@ Hoca Dur Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu alan, yüzyıllar bo
 
 ## Coğrafya
 
-Hoca Dur Türbesi, coğrafi olarak Kilis'in güzelliğini yansıtıyor. Burada, doğal güzellikler ve tarihi yapılar bir arada bulunuyor. Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile örtülü. Coğrafi konumu itibariyle, ziyaretçiler buraya gelerek hem tarihi yapıları hem de doğal güzellikleri görecek. Hoca Dur Türbesi, ziyaretçilerine geniş ve zengin bir coğrafya sunuyor. Bu coğrafya, ziyaretçilerin doğayı ve tarihi aynı anda deneyimlemesine imkan veriyor. Ayrıca, türbenin etrafındaki manzara, ziyaretçilere geniş ve engin bir görünüm sunuyor.
+Hoca Dur Türbesi, coğrafi olarak Kilis'in güzelliğini yansıtıyor. Burada, doğal güzellikler ve tarihi yapılar bir arada bulunuyor. Coğrafi konumu itibariyle, ziyaretçiler buraya gelerek hem tarihi yapıları hem de doğal güzellikleri görecek. Hoca Dur Türbesi, ziyaretçilerine geniş ve zengin bir coğrafya sunuyor. Bu coğrafya, ziyaretçilerin doğayı ve tarihi aynı anda deneyimlemesine imkan veriyor. Ayrıca, türbenin etrafındaki manzara, ziyaretçilere geniş ve engin bir görünüm sunuyor.
 
 ## Flora ve Fauna
 

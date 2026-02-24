@@ -44,7 +44,7 @@ Kuştiyan Tepesi, diversası bitki türleri ve fauna ile zengin bir doğaya sahi
 
 ## Ziyaret Bilgileri
 
-Kuştiyan Tepesi'ni ziyaret etmek, şehrin tarihi ve coğrafi güzelliklerini birleştiren bir deneyim sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere şehrin panoramik manzarasını izleme imkanı sağlar. Ziyaretçiler, burada, şehrin tarihi ve kültürel zenginliklerini keşfedebilir ve doğal güzellikleri gözlemleyebilirler. Tepenin coğrafi konumu, ziyaretçilere şehrin ve çevresinin doğal güzelliklerini keşfetme fırsatı sunar. Ziyaret için en iyi zaman, şehrin iklimine göre belirlenmelidir.
+Kuştiyan Tepesi'ni ziyaret etmek, şehrin tarihi ve coğrafi güzelliklerini birleştiren bir deneyim sunar. Ziyaretçiler, burada, şehrin tarihi ve kültürel zenginliklerini keşfedebilir ve doğal güzellikleri gözlemleyebilirler. Tepenin coğrafi konumu, ziyaretçilere şehrin ve çevresinin doğal güzelliklerini keşfetme fırsatı sunar. Ziyaret için en iyi zaman, şehrin iklimine göre belirlenmelidir.
 
 ## İlginç Bilgiler
 

@@ -37,7 +37,7 @@ Güpür Hamamı'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir süre�
 
 ## Coğrafya
 
-Güpür Hamamı, coğrafi olarak Karadeniz Bölgesi'nin en güzel noktalarından biri. Bu bölge, çam ormanları ve denizin birleştiği noktada bulunuyor. Güpür Hamamı, 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu doğal cennet, ziyaretçilerini doğanın kucağına davet ediyor ve onlara benzersiz bir deneyim sunuyor. Güpür Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor. Bu bölge, hem doğa severlerin hem de tatil makerlerin gözdesi haline gelmiş durumda.
+Güpür Hamamı, coğrafi olarak Karadeniz Bölgesi'nin en güzel noktalarından biri. Bu bölge, çam ormanları ve denizin birleştiği noktada bulunuyor. Bu doğal cennet, ziyaretçilerini doğanın kucağına davet ediyor ve onlara benzersiz bir deneyim sunuyor. Güpür Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor. Bu bölge, hem doğa severlerin hem de tatil makerlerin gözdesi haline gelmiş durumda.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Güpür Hamamı, ziyaretçilerine çeşitli aktiviteleri sunuyor. Bu bölge, hem
 ## İlginç Bilgiler
 
 - Güpür Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri
-- 140 hektarlık yeşil alan
+
 - çam ormanları ve denizin birleştiği nokta
 - zengin flora ve fauna çeşitliliği
 - tarihi geçmişi

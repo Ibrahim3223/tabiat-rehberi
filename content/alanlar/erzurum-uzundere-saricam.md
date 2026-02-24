@@ -22,7 +22,7 @@ wikidata_id: "Q108227690"
 
 # Erzurum-Uzundere Saricam
 
-Erzurum-Uzundere Saricam, yaklaşık 140 hektarlık alanı ile Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Saricam, doğal güzelliği ve zengin ekosistemi ile ziyaretçilerini büyülüyor. Bu milli park, hem doğa severler hem de bölgeye ilgi duyanların keşfetmek için ideal bir destinasyon.
+ Saricam, doğal güzelliği ve zengin ekosistemi ile ziyaretçilerini büyülüyor. Bu milli park, hem doğa severler hem de bölgeye ilgi duyanların keşfetmek için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Uzundere Saricam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Erzurum-Uzundere Saricam, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bölge, dağlık arazi yapısı ve vadiler ile karakterize ediliyor. Saricam, bu coğrafi yapının içerisinde, 140 hektarlık alanıyla önemli bir doğal güzellik olarak ortaya çıkıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim, karasal ve soğuk olarak tanımlanabilir, özellikle kış aylarındaheavy kar yağışları görülüyor. Bu coğrafi ve iklimsel koşullar, Saricam'da benzersiz bir ekosistemın oluşmasına neden olmuş. Milli parkın yakın çevresinde, yerleşim yerleri ve tarım arazileri bulunmakta, ancak parkın kendisi doğal güzelliği ve korunması gereken bir alan olarak ayrılmış.
+Erzurum-Uzundere Saricam, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bölge, dağlık arazi yapısı ve vadiler ile karakterize ediliyor. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim, karasal ve soğuk olarak tanımlanabilir, özellikle kış aylarındaheavy kar yağışları görülüyor. Bu coğrafi ve iklimsel koşullar, Saricam'da benzersiz bir ekosistemın oluşmasına neden olmuş. Milli parkın yakın çevresinde, yerleşim yerleri ve tarım arazileri bulunmakta, ancak parkın kendisi doğal güzelliği ve korunması gereken bir alan olarak ayrılmış.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Erzurum-Uzundere Saricam'ı ziyaret etmek, doğa severler ve bölgeye ilgi duyan
 ## İlginç Bilgiler
 
 - Saricam, Erzurum ilinin Uzundere ilçesinde bulunuyor
-- Milli park, 140 hektarlık bir alanı kaplıyor
+
 - Bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor
 - Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri
 - Yaban hayatı oldukça çeşitli

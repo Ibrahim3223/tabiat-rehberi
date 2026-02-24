@@ -43,7 +43,7 @@ Izmir-Gordes-Golmarmara Karacam milli parkını ziyaret etmek, doğa severler i�
 ## İlginç Bilgiler
 
 - Milli parkın içerisinde, çeşitli arkeolojik kalıntılar bulunur.
-- Milli park, 140 hektarlık bir alana yayılmıştır.
+
 - Bölgenin iklimi, Akdeniz iklimi özellikleri taşır.
 - Milli parkın fauna ve flora çeşitliliği, ekolojik önemi nedeniyle koruma altına alınmıştır.
 - Ziyaretçiler, milli parkın içerisinde yürüyüş yapabilir ve doğayı keşfedebilir.

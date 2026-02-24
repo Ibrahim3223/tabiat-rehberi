@@ -50,7 +50,7 @@ Nisanoğlu Türbesi'ni ziyaret etmek, tarihin derinliklerine dalma fırsatı sun
 ## İlginç Bilgiler
 
 - Nisanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Nisanoğlu Türbesi, flora ve fauna açısından zengin bir bölgede yer almaktadır.
 - Bu mekan, mevsimsel değişimlere göre farklı bir görünüm sunmaktadır.
 - Nisanoğlu Türbesi, ziyaretçilerine doğal güzellikleri sunmakla birlikte, tarihin derinliklerine dalma fırsatı da vermektedir.

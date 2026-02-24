@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Panoramik manzara izleme","Flora ve fauna g
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Akdağ Tepesi","caption":"Akdağ Tepesi","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386093","tip":"genel"}]
-description: "Siirt'in doğa harikaları arasında yer alan Akdağ Tepesi, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Siirt'in en önemli doğal alanlarından biri."
+description: "Siirt'in doğa harikaları arasında yer alan Akdağ Tepesi, ziyaretçilerini büyüleyen bir güzelliğe sahiptir."
 keywords: ["Akdağ Tepesi","Siirt","Doğa harikaları","Yeşil alan","Güneydoğu Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386093"
@@ -49,7 +49,7 @@ Akdağ Tepesi, ziyaretçilerine, çeşitli aktivite seçenekleri sunar. Bu bölg
 ## İlginç Bilgiler
 
 - Akdağ Tepesi, Siirt'in en önemli doğal alanlarından biridir.
-- Bu tepe, 140 hektarlık bir yeşil alan sunar.
+
 - Tepenin etrafı, çeşitli bitki türleri ile çevrilidir.
 - Akdağ Tepesi, zengin fauna ile dikkat çeker.
 - Bu bölge, farklı mevsimlerde, çeşitli bitki türleri ile renklenir.

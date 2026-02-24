@@ -37,7 +37,7 @@ Anonim Türbe–4, Altındağ'ın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Anonim Türbe–4, Altındağ, İç Anadolu Bölgesi'nin kalbinde yer alır. Bu mekan, Ankara'nın en önemli tarihi ve kültürel mekanlarından biri olarak kabul ediliyor. Anonim Türbe–4, Altındağ, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Anonim Türbe–4, Altındağ'ın etrafında bitki türleri ve zengin fauna bulunur. Bu mekan, doğa severler ve tarih meraklıları için ideal bir destinasyon. Anonim Türbe–4, Altındağ, Ankara'nın en önemli tarihi ve kültürel mekanlarından biri olarak ziyaretçilerini bekliyor. Bu mekan, Türkiye'nin zengin tarihi ve kültürünü keşfetmek isteyenler için bir hazine harika bir deneyim.
+Anonim Türbe–4, Altındağ, İç Anadolu Bölgesi'nin kalbinde yer alır. Bu mekan, Ankara'nın en önemli tarihi ve kültürel mekanlarından biri olarak kabul ediliyor. Anonim Türbe–4, Altındağ'ın etrafında bitki türleri ve zengin fauna bulunur. Bu mekan, doğa severler ve tarih meraklıları için ideal bir destinasyon. Anonim Türbe–4, Altındağ, Ankara'nın en önemli tarihi ve kültürel mekanlarından biri olarak ziyaretçilerini bekliyor. Bu mekan, Türkiye'nin zengin tarihi ve kültürünü keşfetmek isteyenler için bir hazine harika bir deneyim.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Anonim Türbe–4, Altındağ, ziyaretçilerini bekliyor. Bu mekan, Ankara'nın 
 ## İlginç Bilgiler
 
 - Anonim Türbe–4, Altındağ, Ankara'nın en önemli tarihi ve kültürel mekanlarından biri olarak kabul ediliyor.
-- Bu mekan, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Anonim Türbe–4, Altındağ, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Bu mekan, doğa severler ve tarih meraklıları için ideal bir destinasyon.
 - Anonim Türbe–4, Altındağ, ziyaretçilerini etkileyece ve onlara unutulmaz bir deneyim sunacak.

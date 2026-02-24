@@ -38,7 +38,7 @@ wikidata_id: "Q131739190"
 
 ## Coğrafya
 
-Ünye Hamamı, Niksar ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yeşil ormanlarla çevrili ve dağların eteklerinde yer alıyor. Ünye Hamamı, 140 hektarlık bir alana yayılıyor ve ziyaretçilerine geniş bir alan sunuyor. Bu plaj, Karadeniz'in temiz ve serin sularına sahip ve özellikle yaz aylarında ziyaretçilerini çekiyor. Ünye Hamamı'nın coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ünye Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin önemli bir parçasını oluşturuyor.
+Ünye Hamamı, Niksar ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yeşil ormanlarla çevrili ve dağların eteklerinde yer alıyor. Bu plaj, Karadeniz'in temiz ve serin sularına sahip ve özellikle yaz aylarında ziyaretçilerini çekiyor. Ünye Hamamı'nın coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ünye Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin önemli bir parçasını oluşturuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31544106"
 
 # Maharabutı Tepesi
 
-Maharabutı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Batman ilinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir tepe olarak dikkat çekiyor. Maharabutı Tepesi, Batman'ın coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Tepe, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında da önemli bilgiler sunuyor.
+Maharabutı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Batman ilinde yer alıyor. Maharabutı Tepesi, Batman'ın coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Tepe, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Maharabutı Tepesi, ziyaretçilerin bölgeyi keşfetmeleri ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Maharabutı Tepesi, Batman ilinin coğrafi yapısını ve doğal güzelliklerini gösteren önemli bir nokta olarak biliniyor.
-- Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Maharabutı Tepesi, bölgenin flora ve fauna çeşitliliği hakkında önemli bilgiler sunuyor.
 - Tepe, bölgenin ekolojik dengesini koruma altına almak amacıyla önemli bir çalışmanın konusu olarak görülüyor.
 - Maharabutı Tepesi, ziyaretçilerin bölgeyi keşfetmeleri ve doğal güzellikleri görmeleri için önemli bir nokta olarak biliniyor.

@@ -48,8 +48,6 @@ Yivlingen Tepesi'ni ziyaret etmek, doğa severler ve tarihi mekanlara ilgi duyan
 
 ## İlginç Bilgiler
 
-- Yivlingen Tepesi, 140 hektarlık bir alana sahip
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Yivlingen Tepesi, Karadeniz Bölgesi'nin karakteristik flora ve faunasını taşıyor
 - Bu bölge, doğa severlerin ve biyologların ilgisini çeken bir alan
 - Yivlingen Tepesi'ni ziyaret etmek, doğa severler ve tarihi mekanlara ilgi duyanlar için unutulmaz bir deneyim olacak

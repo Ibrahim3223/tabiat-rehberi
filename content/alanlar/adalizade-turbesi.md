@@ -51,6 +51,6 @@ Adalızade Türbesi'ni ziyaret etmek, Kuşadası'nın tarihi ve doğal güzellik
 
 - Adalızade Türbesi, Kuşadası'nın en önemli tarihi yapılarından biridir.
 - Bu bölge, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyondur.
-- Adalızade Türbesi, 140 hektarlık bir alana sahiptir.
+
 - Bu bölge, çeşitli bitki türleri ve zengin fauna sahiptir.
 

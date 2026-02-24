@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["rehberli turlar","kale gezi","etkinlikler","yürüyüş"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20Castle.jpg","alt":"Ankara Kalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ankara_Kalesi_Tarih%C3%A7esi.JPG/960px-Ankara_Kalesi_Tarih%C3%A7esi.JPG","alt":"Ankara Kalesi","caption":"Ankara Kalesi","credit":"Ankara Kalesi Tarihçesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-02%2C_DD_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-02%2C_DD_04.jpg/1280px-Castillo_de_Ankara%2C_Ankara%2C_Turqu%C3%ADa%2C_2024-10-02%2C_DD_04.jpg","alt":"Ankara Kalesi - Castillo de Ankara, Ankara, Turquía, 2024-10-02, DD 04","credit":"Diego Delso","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/34/Ankara_Kalesi_%C3%BCst_b%C3%B6l%C3%BCm.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ankara_Kalesi_%C3%BCst_b%C3%B6l%C3%BCm.jpg/1280px-Ankara_Kalesi_%C3%BCst_b%C3%B6l%C3%BCm.jpg","alt":"Ankara Kalesi - Ankara Kalesi üst bölüm","credit":"LordReco","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/Ankara_Kalesi_surlar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ankara_Kalesi_surlar%C4%B1.jpg/1280px-Ankara_Kalesi_surlar%C4%B1.jpg","alt":"Ankara Kalesi - Ankara Kalesi surları","credit":"LordReco","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Ankara_Kalesi_Kap%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ankara_Kalesi_Kap%C4%B1.jpg/1280px-Ankara_Kalesi_Kap%C4%B1.jpg","alt":"Ankara Kalesi - Ankara Kalesi Kapı","credit":"LordReco","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/64/Ankara_kalesi_sur_%C3%B6n%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ankara_kalesi_sur_%C3%B6n%C3%BC.jpg/1280px-Ankara_kalesi_sur_%C3%B6n%C3%BC.jpg","alt":"Ankara Kalesi - Ankara kalesi sur önü","credit":"LordReco","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Kalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q206225","tip":"genel"}]
 description: "Tarihi geçmişi ve zengin kültürel mirası ile dikkat çeken Ankara Kalesi, İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir."
@@ -51,7 +51,7 @@ Ankara Kalesi, ziyaretçilere zengin bir kültürel deneyim sunar. Kale, her yı
 ## İlginç Bilgiler
 
 - Ankara Kalesi, Türkiye'nin en önemli tarihi mekanlarından biridir.
-- Kale, 140 hektarlık alan üzerine kurulmuştur.
+
 - Ankara Kalesi, yüzyıllar boyunca çeşitli uygarlıklar tarafından kullanılmıştır.
 - Kale, Ankara'nın en önemli sembollerinden biridir.
 - Ankara Kalesi, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.

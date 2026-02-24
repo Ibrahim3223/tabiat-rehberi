@@ -29,7 +29,7 @@ wikidata_id: "Q134728117"
 
 # Patara Anıt Mezar
 
-Patara Anıt Mezar, Akdeniz Bölgesi'nin en önemli tarihi ve turistik noktalarından biri olarak karşımıza çıkıyor. Kaş ilçesinde yer alan bu eşsiz mekan, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkiliyor. Patara Anıt Mezar, Patara Antik Kenti'nin bir parçası olarak kabul ediliyor ve tarihi geçmişi ile dikkat çekiyor.
+Patara Anıt Mezar, Akdeniz Bölgesi'nin en önemli tarihi ve turistik noktalarından biri olarak karşımıza çıkıyor. Patara Anıt Mezar, Patara Antik Kenti'nin bir parçası olarak kabul ediliyor ve tarihi geçmişi ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Patara Anıt Mezar, tarihi geçmişi ile dikkat çekiyor. Patara Antik Kenti'nin
 
 ## Coğrafya
 
-Patara Anıt Mezar, Kaş ilçesinde yer alıyor ve Akdeniz Bölgesi'nin en önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Bu mekan, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri ile dikkat çekiyor. Patara Anıt Mezar, Patara Antik Kenti'nin bir parçası olarak kabul ediliyor ve tarihi geçmişi ile dikkat çekiyor. Bu mekan, Akdeniz'in gizli cenneti olarak kabul ediliyor ve ziyaretçilerini zamanda yolculuğa çıkarıyor. Patara Anıt Mezar, çevresi ile birlikte uzun bir mesafelik bir sahil şeridine sahip ve bu sahil şeridi, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor. Ayrıca, Patara Anıt Mezar'ın çevresi, çeşitli bitki türleri ile kaplı ve bu bitki türleri, mekanın doğal güzelliklerine katkıda bulunuyor.
+Patara Anıt Mezar, Kaş ilçesinde yer alıyor ve Akdeniz Bölgesi'nin en önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Patara Anıt Mezar, Patara Antik Kenti'nin bir parçası olarak kabul ediliyor ve tarihi geçmişi ile dikkat çekiyor. Bu mekan, Akdeniz'in gizli cenneti olarak kabul ediliyor ve ziyaretçilerini zamanda yolculuğa çıkarıyor. Patara Anıt Mezar, çevresi ile birlikte uzun bir mesafelik bir sahil şeridine sahip ve bu sahil şeridi, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor. Ayrıca, Patara Anıt Mezar'ın çevresi, çeşitli bitki türleri ile kaplı ve bu bitki türleri, mekanın doğal güzelliklerine katkıda bulunuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Patara Anıt Mezar, ziyaretçilerine keyifli bir gün geçirmesine olanak sağla
 - Patara Anıt Mezar, Patara Antik Kenti'nin bir parçası olarak kabul ediliyor.
 - Patara Anıt Mezar, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılmış.
 - Patara Anıt Mezar, Likya Birliği'nin önemli merkezlerinden biri olarak kabul ediliyor.
-- Patara Anıt Mezar, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor.
+
 - Patara Anıt Mezar, çevresi ile birlikte uzun bir mesafelik bir sahil şeridine sahip.

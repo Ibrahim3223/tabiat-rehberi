@@ -21,8 +21,8 @@ aktiviteler: [" Piknik","Yürüyüş","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87.jpg/960px-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87.jpg","alt":"Şaban Hamamı","caption":"Şaban Hamamı","credit":"دریای مرمره","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eaban%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738944","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden Şanlıurfa'da yer alan Eyyübiye ilçesinde bulunan Şaban Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Şanlıurfa","Eyyübiye","Şaban Hamamı","Güneydoğu Anadolu Bölgesi","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738944"
 ---
@@ -37,7 +37,7 @@ wikidata_id: "Q131738944"
 
 ## Coğrafya
 
-Şaban Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Şanlıurfa'da yer alan Eyyübiye ilçesinde bulunuyor. Bu bölge, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Şanlıurfa, Fırat Nehri'nin kıyısında kurulmuş bir şehir ve bu nedenle coğrafi konumu itibariyle önemli bir merkez. Şaban Hamamı da bu coğrafi çeşitlilik içinde yer alıyor. Yaklaşık 140 hektarlık yeşil alanı, ziyaretçilere geniş bir hareket alanı sunuyor. Bölge, coğrafi olarak da zengin bir flora ve fauna çeşitliliğine sahip. Mevsimsel değişimler, bölgenin coğrafi yapısını daha da ilgi çekici kılıyor. Bahar aylarında yeşeren bitkiler ve ağaçlar, yaz aylarında serin bir ortam sunarken, kış aylarında bölgenin güzelliği farklı bir boyuta ulaşıyor.
+Şaban Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Şanlıurfa'da yer alan Eyyübiye ilçesinde bulunuyor. Bu bölge, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Şanlıurfa, Fırat Nehri'nin kıyısında kurulmuş bir şehir ve bu nedenle coğrafi konumu itibariyle önemli bir merkez. Şaban Hamamı da bu coğrafi çeşitlilik içinde yer alıyor. Bölge, coğrafi olarak da zengin bir flora ve fauna çeşitliliğine sahip. Mevsimsel değişimler, bölgenin coğrafi yapısını daha da ilgi çekici kılıyor. Bahar aylarında yeşeren bitkiler ve ağaçlar, yaz aylarında serin bir ortam sunarken, kış aylarında bölgenin güzelliği farklı bir boyuta ulaşıyor.
 
 ## Flora ve Fauna
 

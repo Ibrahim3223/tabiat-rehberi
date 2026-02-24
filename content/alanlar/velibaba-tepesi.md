@@ -51,6 +51,6 @@ Velibaba Tepesi'ni ziyaret etmek isteyenler, Zonguldak iline ulaştıktan sonra,
 
 - Velibaba Tepesi, Zonguldak ilinin önemli bir coğrafi noktasıdır.
 - Bu bölge, zengin flora ve fauna ile dikkat çekmektedir.
-- Velibaba Tepesi'nin etrafındaki bölge, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Bu tepenin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Velibaba Tepesi, doğa severler ve biyolojik çeşitliliğe ilgi duyanlar için önemli bir destinasyondur.

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/Kenbag_nature_park.jpg","alt":"Kenbag manzarası","credit":"Ugur E. Yidirim","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kenbag","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228178","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık Kenbag"
+
 keywords: ["Kenbag","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228178"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228178"
 
 # Kenbag
 
- Bu bölge, ziyaretçilerini yaban hayatının çeşitliliği ve doğal güzelliği ile karşılar. Kenbag, hem doğa severler hem de tarihi geçmişi merak edenler için bir hazine gibidir. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, Kenbag da coğrafi olarak zengin bir çeşitlilik sunar. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyimi vaat eder.
+ Bu bölge, ziyaretçilerini yaban hayatının çeşitliliği ve doğal güzelliği ile karşılar. Kenbag, hem doğa severler hem de tarihi geçmişi merak edenler için bir hazine gibidir. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, Kenbag da coğrafi olarak zengin bir çeşitlilik sunar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kenbag'i ziyaret etmek, doğa severler ve tarihi geçmişi merak edenler için u
 ## İlginç Bilgiler
 
 - Kenbag, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir
-- 140 hektarlık bir alanı kapsar
+
 - Zengin flora ve faunaya sahiptir
 - İlkbahar ve yaz ayları en iyi ziyaret zamanıdır
 - Doğa severler için ideal bir destinasyondur

@@ -28,7 +28,7 @@ wikidata_id: "Q34888383"
 
 # Oğulluarkaç Tepesi
 
-Oğulluarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, doğa severlerin ve gezi meraklılarının ilgisini çekiyor. Oğulluarkaç Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor.
+Oğulluarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, doğa severlerin ve gezi meraklılarının ilgisini çekiyor. Oğulluarkaç Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Oğulluarkaç Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Oğulluarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, doğa severlerin ve gezi meraklılarının ilgisini çekiyor. Oğulluarkaç Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Oğulluarkaç Tepesi, Ankara'nın coğrafyasında önemli bir yer tutuyor. Bu tepe, Ankara'nın iklimini ve coğrafyasını öğrenmek isteyenler için önemli bir nokta. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yer aldığı için, ulaşımı kolay. Bu tepe, Ankara'nın diğer önemli noktalarına yakın mesafede yer alıyor.
+Oğulluarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, doğa severlerin ve gezi meraklılarının ilgisini çekiyor. Oğulluarkaç Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Oğulluarkaç Tepesi, Ankara'nın coğrafyasında önemli bir yer tutuyor. Bu tepe, Ankara'nın iklimini ve coğrafyasını öğrenmek isteyenler için önemli bir nokta. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yer aldığı için, ulaşımı kolay. Bu tepe, Ankara'nın diğer önemli noktalarına yakın mesafede yer alıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Oğulluarkaç Tepesi, gezi meraklılarının ilgisini çekiyor. Bu tepe, Ankara'
 ## İlginç Bilgiler
 
 - Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yer alıyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Oğulluarkaç Tepesi, çeşitli bitki türleri ile kaplı
 - Bu tepe, Ankara'nın flora ve faunasını öğrenmek isteyenler için önemli bir destinasyon
 - Oğulluarkaç Tepesi, mevsimsel değişimlere göre farklı bir görünüm kazanıyor

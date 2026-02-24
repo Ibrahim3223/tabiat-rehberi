@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","kamp","tarihî mekan ziyaretleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Koşankaya Tepesi","caption":"Koşankaya Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C5%9Fankaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390069","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinden biri olan Koşankaya Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Koşankaya Tepesi","Ankara","doğal güzellik","tepe","İç Anadolu Bölgesi","gezi","turizm","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390069"
@@ -36,7 +36,7 @@ Koşankaya Tepesi'nin tarihi geçmişi, Ankara'nın tarihi ile iç içedir. Bu b
 
 ## Coğrafya
 
-Koşankaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alır. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1200 metre yukarıdadır. Koşankaya Tepesi'nin coğrafi konumu, onu bir çok farklı bitki ve hayvan türünün yaşam alanı haline getirmiştir. Bu tepe, aynı zamanda Ankara'nın su kaynakları için önemli bir bölgedir. Koşankaya Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimini yansıtmaktadır. Bu bölge, soğuk kışlar ve sıcak yazlarla karakterizedir. Koşankaya Tepesi, coğrafi olarak zengin bir bölge olarak ziyaretçilerini beklemektedir.
+Koşankaya Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1200 metre yukarıdadır. Koşankaya Tepesi'nin coğrafi konumu, onu bir çok farklı bitki ve hayvan türünün yaşam alanı haline getirmiştir. Bu tepe, aynı zamanda Ankara'nın su kaynakları için önemli bir bölgedir. Koşankaya Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimini yansıtmaktadır. Bu bölge, soğuk kışlar ve sıcak yazlarla karakterizedir. Koşankaya Tepesi, coğrafi olarak zengin bir bölge olarak ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 
@@ -52,4 +52,4 @@ Koşankaya Tepesi, ziyaretçilerine bir çok farklı aktivite sunar. Bu tepe, do
 - Bu tepe, bir çok farklı bitki ve hayvan türüne ev sahipliği yapar.
 - Koşankaya Tepesi, tarihi ve kültürel mekanlara yakındır.
 - Bu tepe, doğa severlerin ve tarih meraklılarının ilgisini çeken bir destinasyondur.
-- Koşankaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
+

@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Flora ve fauna gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Eskişehir Afyonkarahisar-Cay Turk Findigi","caption":"Eskişehir Afyonkarahisar-Cay Turk Findigi","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir%20Afyonkarahisar-Cay%20Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227712","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Eskişehir Afyonkarahisar-Cay Turk Findigi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227712"
@@ -30,7 +30,7 @@ Eskişehir Afyonkarahisar-Cay Turk Findigi'nin tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Eskişehir Afyonkarahisar-Cay Turk Findigi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile süslenmiştir. Milli parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. İklim, mevsimsel değişimlere göre şekillenir ve bu, bölgenin flora ve faunasını etkiler. Çevre, doğal güzellikleri ve coğrafi özellikleri ile dikkat çeker ve ziyaretçiler, bu eşsiz atmosferi deneyimleyebilir. Milli parkın coğrafi yapısı, aynı zamanda, bölgenin jeolojik geçmişini de yansıtmaktadır. Ziyaretçiler, bu coğrafi özelliklerin arasında yürüyüş yapabilir, doğa ile iç içe olabilir ve bölgenin güzide noktalarını keşfedebilir.
+Eskişehir Afyonkarahisar-Cay Turk Findigi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. Milli parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. İklim, mevsimsel değişimlere göre şekillenir ve bu, bölgenin flora ve faunasını etkiler. Çevre, doğal güzellikleri ve coğrafi özellikleri ile dikkat çeker ve ziyaretçiler, bu eşsiz atmosferi deneyimleyebilir. Milli parkın coğrafi yapısı, aynı zamanda, bölgenin jeolojik geçmişini de yansıtmaktadır. Ziyaretçiler, bu coğrafi özelliklerin arasında yürüyüş yapabilir, doğa ile iç içe olabilir ve bölgenin güzide noktalarını keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Eskişehir Afyonkarahisar-Cay Turk Findigi'ni ziyaret etmek, doğa severler içi
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtan önemli bir noktadır
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre şekillenir
 - Bahar aylarında, flora, renkli çiçeklerle süslenir ve fauna, yeni doğan yavrularla canlanır

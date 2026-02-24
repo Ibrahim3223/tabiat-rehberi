@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Aslan Ardici","caption":"Aslan Ardici","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aslan%20Ardici","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227171","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti Aslan Ardici milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Aslan Ardici","milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","ekosistem","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227171"
@@ -30,7 +30,7 @@ Aslan Ardici milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Aslan Ardici milli parkı, İç Anadolu Bölgesi'nin coğrafyasında önemli bir yer tutar. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistem sunar. Bu bölgenin coğrafyası, farklı yüksekliklerde ve iklim koşullarında çeşitlilik gösteren bir yapıya sahiptir. Parkın coğrafyası, ziyaretçilere doğal güzelliği ve biyolojik çeşitliliği deneyimleme fırsatı sunar. Aslan Ardici, çevresindeki diğer doğal alanlarla birlikte bir bütün olarak düşünülerek koruma altına alınmıştır. Bu bölgenin coğrafyası, yaban hayatının yaşaması ve sürdürülebilir turizmin desteklenmesi için elverişli koşullar sunar.
+Aslan Ardici milli parkı, İç Anadolu Bölgesi'nin coğrafyasında önemli bir yer tutar. Bu bölgenin coğrafyası, farklı yüksekliklerde ve iklim koşullarında çeşitlilik gösteren bir yapıya sahiptir. Parkın coğrafyası, ziyaretçilere doğal güzelliği ve biyolojik çeşitliliği deneyimleme fırsatı sunar. Aslan Ardici, çevresindeki diğer doğal alanlarla birlikte bir bütün olarak düşünülerek koruma altına alınmıştır. Bu bölgenin coğrafyası, yaban hayatının yaşaması ve sürdürülebilir turizmin desteklenmesi için elverişli koşullar sunar.
 
 ## Flora ve Fauna
 

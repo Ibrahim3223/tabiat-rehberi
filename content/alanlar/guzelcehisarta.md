@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"GUZELCEHISAR_TA","caption":"GUZELCEHISAR_TA","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GUZELCEHISAR_TA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228804","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["doğa","milli park","İç Anadolu Bölgesi","flora","fauna","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228804"
@@ -30,7 +30,7 @@ GUZELCEHISAR_TA'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu b
 
 ## Coğrafya
 
-GUZELCEHISAR_TA, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile dolu. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçiler, mevsimsel değişimlere bağlı olarak, farklı hava koşullarıyla karşılaşabiliyor. Milli parkın coğrafi konumu, ziyaretçiler için çeşitli aktivite olanakları sunuyor ve bu bölge, doğa severlerin ilgisini çekerek, bir gezi durağı olarak öne çıkıyor. Milli parkın etrafındaki manzara, ziyaretçilere, geniş ve yeşil bir alan sunuyor ve bu güzelliği, ziyaret edenlerin doğayla iç içe olmasını sağlıyor.
+GUZELCEHISAR_TA, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçiler, mevsimsel değişimlere bağlı olarak, farklı hava koşullarıyla karşılaşabiliyor. Milli parkın coğrafi konumu, ziyaretçiler için çeşitli aktivite olanakları sunuyor ve bu bölge, doğa severlerin ilgisini çekerek, bir gezi durağı olarak öne çıkıyor. Milli parkın etrafındaki manzara, ziyaretçilere, geniş ve yeşil bir alan sunuyor ve bu güzelliği, ziyaret edenlerin doğayla iç içe olmasını sağlıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ GUZELCEHISAR_TA'yı ziyaret etmek, doğa severler için ideal bir deneyim sunuyo
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - çeşitli bitki türleri
 - zengin fauna
 - doğal güzellik

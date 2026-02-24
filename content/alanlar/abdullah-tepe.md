@@ -50,7 +50,7 @@ Abdullah Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak kabul 
 ## İlginç Bilgiler
 
 - Abdullah Tepe, Şanlıurfa'nın en önemli tarihi noktalarından biri
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Abdullah Tepe, çeşitli bitki türleri ile birlikte, zengin bir flora sunuyor
 - Tepe, doğal güzellikleri ile birlikte, bir bütün olarak karşımıza çıkıyor
 - Abdullah Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak kabul ediliyor

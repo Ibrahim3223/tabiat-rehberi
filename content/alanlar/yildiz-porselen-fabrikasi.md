@@ -30,7 +30,7 @@ wikidata_id: "Q6082521"
 
 # Yıldız Porselen Fabrikası
 
-Yıldız Porselen Fabrikası, İstanbul'un Beşiktaş ilçesinde yer alan ve tarihi bir sanayi mirası olarak bilinen bir mekan. Bu fabrika, 100 yılı aşkın bir süredir faaliyet gösteren önemli bir endüstriyel tesis. 1895 yılında kurulmuş olan fabrika, o dönemden bu yana porselen üretimiyle tanınmıştır. Yaklaşık 140 hektarlık bir alanda kurulu olan fabrika, İstanbul'un sanayi tarihindeki önemli bir bölümüdür. Yıldız Porselen Fabrikası, sadece üretim tesisleri açısından değil, aynı zamanda mimari yapısı ve çevresiyle de dikkat çekmektedir. Bu tarihi mekan, sanayi mirasının korunması ve gelecek nesillere aktarılması açısından büyük bir önem taşımaktadır.
+Yıldız Porselen Fabrikası, İstanbul'un Beşiktaş ilçesinde yer alan ve tarihi bir sanayi mirası olarak bilinen bir mekan. Bu fabrika, 100 yılı aşkın bir süredir faaliyet gösteren önemli bir endüstriyel tesis. 1895 yılında kurulmuş olan fabrika, o dönemden bu yana porselen üretimiyle tanınmıştır. Yıldız Porselen Fabrikası, sadece üretim tesisleri açısından değil, aynı zamanda mimari yapısı ve çevresiyle de dikkat çekmektedir. Bu tarihi mekan, sanayi mirasının korunması ve gelecek nesillere aktarılması açısından büyük bir önem taşımaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yıldız Porselen Fabrikası'nın tarihi, 19. yüzyılın sonlarına kadar uzanm
 
 ## Coğrafya
 
-Yıldız Porselen Fabrikası, İstanbul'un Beşiktaş ilçesinde, Boğaziçi'nin kıyısında yer almaktadır. Fabrikanın konumu, İstanbul'un önemli bir sanayi ve ticaret merkezine yakınlığı açısından stratejik bir önem taşımaktadır. Yaklaşık 140 hektarlık bir alanda kurulu olan fabrika, geniş bir araziye sahiptir. Fabrikanın çevresinde, çeşitli endüstriyel tesisler ve iş merkezleri bulunmaktadır. Aynı zamanda, fabrikanın yakınlarında da önemli tarihi ve turistik mekanlar yer almaktadır. Boğaziçi'nin doğal güzelliği ve tarihi dokusu, Yıldız Porselen Fabrikası'nın çevresini zenginleştirmektedir. Fabrikanın mimari yapısı, endüstriyel bir tesis olarak tasarlanmış olup, aynı zamanda tarihi bir değer olarak da korunmaktadır. Yıldız Porselen Fabrikası, İstanbul'un coğrafi ve kültürel zenginliğinin bir parçasını oluşturmaktadır.
+Yıldız Porselen Fabrikası, İstanbul'un Beşiktaş ilçesinde, Boğaziçi'nin kıyısında yer almaktadır. Fabrikanın konumu, İstanbul'un önemli bir sanayi ve ticaret merkezine yakınlığı açısından stratejik bir önem taşımaktadır. Fabrikanın çevresinde, çeşitli endüstriyel tesisler ve iş merkezleri bulunmaktadır. Aynı zamanda, fabrikanın yakınlarında da önemli tarihi ve turistik mekanlar yer almaktadır. Boğaziçi'nin doğal güzelliği ve tarihi dokusu, Yıldız Porselen Fabrikası'nın çevresini zenginleştirmektedir. Fabrikanın mimari yapısı, endüstriyel bir tesis olarak tasarlanmış olup, aynı zamanda tarihi bir değer olarak da korunmaktadır. Yıldız Porselen Fabrikası, İstanbul'un coğrafi ve kültürel zenginliğinin bir parçasını oluşturmaktadır.
 
 ## Flora ve Fauna
 

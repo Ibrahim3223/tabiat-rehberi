@@ -50,7 +50,7 @@ Kangırlı Köyü Hamamı, ziyaretçilere çeşitli olanaklar sunuyor. Buraya, a
 ## İlginç Bilgiler
 
 - Kangırlı Köyü Hamamı, Çanakkale'nin Lapseki ilçesinde yer alıyor.
-- Bölge, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Bölgede, çeşitli bitki ve hayvan türleri yaşanıyor.
 - Ziyaretçiler, buraya arabayla veya toplu taşıma araçları ile ulaşım mogelijk.
 - Bölge, ilkbahar ve yaz aylarında ziyaret etmek için ideal.

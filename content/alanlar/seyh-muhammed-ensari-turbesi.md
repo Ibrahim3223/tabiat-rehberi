@@ -41,7 +41,7 @@ wikidata_id: "Q131390874"
 
 ## Flora ve Fauna
 
-Şeyh Muhammed Ensari Türbesi, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve bu alan, çeşitli ağaçlar ve bitkiler ile kaplıdır. Türbenin etrafında, genellikle çam ve meşe ağaçları bulunmaktadır ve bu ağaçlar, ziyaretçilerin dinlenip huzur bulabileceği bir ortam sağlar. Türbenin bulunduğu bölgede, genellikle ılıman bir iklim hüküm sürer ve bu, çeşitli bitkilerin ve ağaçların yetişmesine uygun bir ortamdır. Şeyh Muhammed Ensari Türbesi, aynı zamanda birçok farklı kuş türüne ev sahipliği yapmakta ve bu, ziyaretçilerin doğayı ve kuşları izleyebileceği bir ortam sağlar. Türbenin bulunduğu bölgede, genellikle bahar ve yaz aylarında, çeşitli çiçekler açar ve bu, ziyaretçilerin güzel bir manzara ile karşılaşabileceği bir ortamdır. Şeyh Muhammed Ensari Türbesi, Kilis ilinin flora ve faunasının önemli bir parçasıdır ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
+ Türbenin etrafında, genellikle çam ve meşe ağaçları bulunmaktadır ve bu ağaçlar, ziyaretçilerin dinlenip huzur bulabileceği bir ortam sağlar. Türbenin bulunduğu bölgede, genellikle ılıman bir iklim hüküm sürer ve bu, çeşitli bitkilerin ve ağaçların yetişmesine uygun bir ortamdır. Şeyh Muhammed Ensari Türbesi, aynı zamanda birçok farklı kuş türüne ev sahipliği yapmakta ve bu, ziyaretçilerin doğayı ve kuşları izleyebileceği bir ortam sağlar. Türbenin bulunduğu bölgede, genellikle bahar ve yaz aylarında, çeşitli çiçekler açar ve bu, ziyaretçilerin güzel bir manzara ile karşılaşabileceği bir ortamdır. Şeyh Muhammed Ensari Türbesi, Kilis ilinin flora ve faunasının önemli bir parçasıdır ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ wikidata_id: "Q131390874"
 
 - Türbenin inşa edildiği tarih tam olarak bilinmemektedir
 - Türbe, 14. yüzyılda inşa edilmiştir
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir
+
 - Türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır
 - Türbe, Kilis ilinin önemli bir sembolüdür

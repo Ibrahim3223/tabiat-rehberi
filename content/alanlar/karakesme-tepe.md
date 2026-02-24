@@ -48,8 +48,6 @@ Karakesme Tepe, ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. Bu 
 
 ## İlginç Bilgiler
 
-- Karakesme Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-
 - Karakesme Tepe, ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılamaktadır.
 - Bu doğal alan, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynamaktadır.
 - Karakesme Tepe, ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.

@@ -37,7 +37,7 @@ Fevzi Baba Türbesi'nin tarihi geçmişi, Merzifon'un tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Fevzi Baba Türbesi, Merzifon'un coğrafi yapısını yansıtan bir bölgede yer almaktadır. Türbe, Merzifon İlçesi'nin merkezi bir noktasında bulunmakta ve etrafı, çeşitli bitki türleri ile zengin fauna tarafından çevrilidir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve özellikle ilkbahar ve sonbahar aylarında ziyaret edilebilecek güzel bir manzaraya sahiptir. Fevzi Baba Türbesi'nin bulunduğu arazi, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve bu da bölgenin geniş bir alan olduğunu göstermektedir. Türbenin etrafındaki coğrafi yapının çeşitliliği, ziyaretçilere farklı deneyimler sunmaktadır.
+Fevzi Baba Türbesi, Merzifon'un coğrafi yapısını yansıtan bir bölgede yer almaktadır. Türbe, Merzifon İlçesi'nin merkezi bir noktasında bulunmakta ve etrafı, çeşitli bitki türleri ile zengin fauna tarafından çevrilidir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve özellikle ilkbahar ve sonbahar aylarında ziyaret edilebilecek güzel bir manzaraya sahiptir. Türbenin etrafındaki coğrafi yapının çeşitliliği, ziyaretçilere farklı deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 

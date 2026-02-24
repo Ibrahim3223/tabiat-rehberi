@@ -29,7 +29,7 @@ wikidata_id: "Q131390760"
 
 # Gazi Süleyman Paşa Türbesi
 
-Gazi Süleyman Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde bulunan bir tarihi türbedir. Bu önemli tarihi mekan, aynı zamanda bir plajın da bulunduğu yerdir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir. Gazi Süleyman Paşa Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir yerdir. Ziyaretçiler, hem tarihi türbeyi gezebilir hem de plajın keyfini çıkarabilirler. Türbenin yakınında bulunan diğer tarihi mekanlar da ziyaretçilerin ilgisini çekmektedir.
+Gazi Süleyman Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde bulunan bir tarihi türbedir. Bu önemli tarihi mekan, aynı zamanda bir plajın da bulunduğu yerdir. Gazi Süleyman Paşa Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir yerdir. Ziyaretçiler, hem tarihi türbeyi gezebilir hem de plajın keyfini çıkarabilirler. Türbenin yakınında bulunan diğer tarihi mekanlar da ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Gazi Süleyman Paşa Türbesi, Osmanlı döneminde inşa edilmiştir. Türbenin 
 
 ## Coğrafya
 
-Gazi Süleyman Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde bulunmaktadır. Türbe, Gelibolu Yarımadası'nın güney kıyısında yer almaktadır. Türbenin bulunduğu alan, yüksek bir konumdadir. Alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir. Türbenin yakınında, çeşitli tarım arazileri bulunmaktadır. Bu araziler, Gelibolu'nun önemli tarım bölgelerinden biridir. Türbenin bulunduğu yer, aynı zamanda bir plajın da bulunduğu yerdir. Plaj, ziyaretçilerin denize girmesine olanak tanır. Plajın yakınında, çeşitli restoran ve kafeler bulunmaktadır. Bunlar, ziyaretçilerin yeme ve içme ihtiyaçlarını karşılar.
+Gazi Süleyman Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde bulunmaktadır. Türbe, Gelibolu Yarımadası'nın güney kıyısında yer almaktadır. Türbenin bulunduğu alan, yüksek bir konumdadir. Türbenin yakınında, çeşitli tarım arazileri bulunmaktadır. Bu araziler, Gelibolu'nun önemli tarım bölgelerinden biridir. Türbenin bulunduğu yer, aynı zamanda bir plajın da bulunduğu yerdir. Plaj, ziyaretçilerin denize girmesine olanak tanır. Plajın yakınında, çeşitli restoran ve kafeler bulunmaktadır. Bunlar, ziyaretçilerin yeme ve içme ihtiyaçlarını karşılar.
 
 ## Flora ve Fauna
 
-Gazi Süleyman Paşa Türbesi ve çevresi, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu alan, çeşitli ağaç ve çalı türleri ile kaplıdır. Alanın flora ve fauna zenginliği, ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, alanın doğal güzelliklerini keşfedebilirler. Alanın yakınında, çeşitli tarım arazileri bulunmaktadır. Bu araziler, Gelibolu'nun önemli tarım bölgelerinden biridir. Tarım arazilerinde, çeşitli ürünler yetiştirilmektedir. Bunlar, ziyaretçilerin yerel ürünler hakkında bilgi edinmesine olanak tanır.
+Gazi Süleyman Paşa Türbesi ve çevresi, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Bu alan, çeşitli ağaç ve çalı türleri ile kaplıdır. Alanın flora ve fauna zenginliği, ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, alanın doğal güzelliklerini keşfedebilirler. Alanın yakınında, çeşitli tarım arazileri bulunmaktadır. Bu araziler, Gelibolu'nun önemli tarım bölgelerinden biridir. Tarım arazilerinde, çeşitli ürünler yetiştirilmektedir. Bunlar, ziyaretçilerin yerel ürünler hakkında bilgi edinmesine olanak tanır.
 
 ## Ziyaret Bilgileri
 

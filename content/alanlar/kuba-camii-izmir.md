@@ -30,7 +30,7 @@ wikidata_id: "Q135581994"
 
 # Kuba Camii (İzmir)
 
-Selçuk'un merkezi konumunda yer alan Kuba Camii, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgede bulunmaktadır. Kuba Camii, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyondur. Tarihi geçmişi, mimarisi ve çevresi ile dikkat çekici bir konumda yer almaktadır. Kuba Camii, ziyaretçiler için hem dinî hem de kültürel bir merkez olarak hizmet vermektedir.
+ Kuba Camii, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyondur. Tarihi geçmişi, mimarisi ve çevresi ile dikkat çekici bir konumda yer almaktadır. Kuba Camii, ziyaretçiler için hem dinî hem de kültürel bir merkez olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Kuba Camii, ziyaretçiler için hem dinî hem de kültürel bir merkez olarak hi
 ## İlginç Bilgiler
 
 - Kuba Camii, Selçuk'un merkezi konumunda yer almaktadır.
-- Cami, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Kuba Camii, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir.
 - Cami, yıl boyunca ziyaretçilerini ağırlamaktadır.
 - Kuba Camii, ziyaretçiler için hem dinî hem de kültürel bir merkez olarak hizmet vermektedir.

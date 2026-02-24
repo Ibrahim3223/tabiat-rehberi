@@ -51,7 +51,7 @@ Ahmet Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleriyle 
 ## İlginç Bilgiler
 
 - Ahmet Dede Türbesi, İstanbul'un önemli tarihi ve dini merkezlerinden biridir
-- Türbenin etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, Marmara Denizi'nin güzelliği ile buluşturur
 - Türbenin tarihi geçmişi, İstanbul'un fethi dönemine kadar uzanır
 - Bölge, yüzyıllar boyunca dini ve kültürel faaliyetlerin merkezi olarak kabul edilmiştir

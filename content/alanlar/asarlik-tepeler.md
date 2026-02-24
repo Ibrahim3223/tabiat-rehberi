@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Asarlık Tepeler","caption":"Asarlık Tepeler","credit":"MOKFC09.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarl%C4%B1k%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28450849","tip":"genel"}]
-description: "Ankara'nın doğal güzelliklerinin örneklerinden biri olan Asarlık Tepeler, 140 hektarlık bir alan üzerinde yer alıyor."
+"
 keywords: ["Asarlık Tepeler","Ankara","doğa","gezi","turizm","milli park","iç Anadolu Bölgesi","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q28450849"
@@ -49,7 +49,7 @@ Asarlık Tepeler'i ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek 
 ## İlginç Bilgiler
 
 - Asarlık Tepeler, Ankara'nın en önemli doğal güzelliklerinden biridir.
-- Bu milli park, 140 hektarlık bir alan üzerinde yer almaktadır.
+
 - Asarlık Tepeler, çeşitli bitki ve hayvan türleriyle zengin bir ekosisteme sahiptir.
 - Bu bölge, Ankara'nın merkezine yakın bir konumda yer almaktadır.
 - Asarlık Tepeler, doğa severler ve biyologlar için önemli bir araştırma ve gözlem alanı olarak kabul edilmektedir.

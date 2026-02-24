@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Canakkale-Bayramic-Gokceici Kızılçam","caption":"Canakkale-Bayramic-Gokceici Kızılçam","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Gokceici%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227642","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin yeşillik cenneti, 140 hektarlık korunan alan"
+
 keywords: ["Kızılçam","İç Anadolu Bölgesi","milli park","doğa","yeşillik","korunan alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227642"
@@ -42,7 +42,6 @@ Canakkale-Bayramic-Gokceici Kızılçam milli parkını ziyaret etmek, doğa ile
 
 ## İlginç Bilgiler
 
-- Parkın toplam alanı yaklaşık 200 futbol sahası büyüklüğünde
 - Bölge, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar
 - Park, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini yansıtır
 - İklim, karasal özellikler gösterir

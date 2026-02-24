@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","keşif","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Yaralıgöz","caption":"Yaralıgöz","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaral%C4%B1g%C3%B6z","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228124","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yaralıgöz, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Yaralıgöz","İç Anadolu Bölgesi","doğal güzellik","yeşil alan"," milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228124"
@@ -41,8 +41,6 @@ Yaralıgöz, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bö
 Yaralıgöz'ü ziyaret etmek, doğa severlerin ve macera arayanların için önemli bir deneyimi sunmaktadır. Bu bölge, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunmaktadır. Yaralıgöz'ü ziyaret etmek için, en iyi mevsim ilkbahar ve sonbahar aylarıdır. Burada, ziyaretçilerin rahatlığı için olan tesisler bulunmaktadır. Yaralıgöz, ziyaretçilerine hem doğanın güzelliğini hem de coğrafi çeşitliliği sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Yaralıgöz, 140 hektarlık bir yeşil alana sahiptir.
 
 - Yaralıgöz, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Bu bölge, İç Anadolu Bölgesi'nin önemli kültür ve doğa merkezlerinden biridir.

@@ -30,7 +30,7 @@ wikidata_id: "Q131391222"
 
 # Şeyh Şaban-ı Veli Türbesi
 
-Kastamonu'nun merkezinde yer alan Şeyh Şaban-ı Veli Türbesi, yaklaşık 140 hektarlık bir alanda, denize nazır olarak konumlandırılmıştır. Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun en önemli tarihi ve kültürel mekanlarından biri olarak kabul edilir. Bu mekan, yüzyıllar boyunca bölge halkının manevi ve kültürel yaşamında önemli bir rol oynamıştır. Şeyh Şaban-ı Veli Türbesi, ziyaretçilere Karadeniz Bölgesi'nin zengin tarihini, kültürünü ve doğal güzelliklerini deneyimleme fırsatı sunar.
+ Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun en önemli tarihi ve kültürel mekanlarından biri olarak kabul edilir. Bu mekan, yüzyıllar boyunca bölge halkının manevi ve kültürel yaşamında önemli bir rol oynamıştır. Şeyh Şaban-ı Veli Türbesi, ziyaretçilere Karadeniz Bölgesi'nin zengin tarihini, kültürünü ve doğal güzelliklerini deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kastamonu'nun merkezinde yer alan Şeyh Şaban-ı Veli Türbesi, yaklaşık 140 
 
 ## Coğrafya
 
-Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun merkezinde, Karadeniz Bölgesi'nin güzide mekanlarından biri olarak yer almaktadır. Bu türebe, deniz seviyesinde, yaklaşık 140 hektarlık bir yeşil alanında konumlandırılmıştır. Bölgenin iklimi, Karadeniz iklimi olarak sınıflandırılır ve yazları serin, kışları ise ılımandır. Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun şehir merkezine yakınlığı ve ulaşım kolaylığı ile ziyaretçilere kolay erişim imkanı sunar. Bu türebe, çevredeki diğer tarihi ve kültürel mekanlarla birlikte, Kastamonu'nun zengin kültürel mirasını yansıtan önemli bir noktadır. Şeyh Şaban-ı Veli Türbesi'nin konumu, ziyaretçilere Karadeniz Bölgesi'nin doğal güzelliklerini ve kültürel değerlerini deneyimleme fırsatı sunar. Bu bölge, yaban hayatının zengin olduğu ve çeşitli bitki türlerinin bulunduğu bir alandır.
+Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun merkezinde, Karadeniz Bölgesi'nin güzide mekanlarından biri olarak yer almaktadır. Bölgenin iklimi, Karadeniz iklimi olarak sınıflandırılır ve yazları serin, kışları ise ılımandır. Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun şehir merkezine yakınlığı ve ulaşım kolaylığı ile ziyaretçilere kolay erişim imkanı sunar. Bu türebe, çevredeki diğer tarihi ve kültürel mekanlarla birlikte, Kastamonu'nun zengin kültürel mirasını yansıtan önemli bir noktadır. Şeyh Şaban-ı Veli Türbesi'nin konumu, ziyaretçilere Karadeniz Bölgesi'nin doğal güzelliklerini ve kültürel değerlerini deneyimleme fırsatı sunar. Bu bölge, yaban hayatının zengin olduğu ve çeşitli bitki türlerinin bulunduğu bir alandır.
 
 ## Flora ve Fauna
 

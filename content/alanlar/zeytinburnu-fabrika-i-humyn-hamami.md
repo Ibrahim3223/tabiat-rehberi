@@ -50,7 +50,7 @@ Zeytinburnu Fabrika-i Hümâyûn Hamamı, yılın her dönemi ziyaret edilebilir
 ## İlginç Bilgiler
 
 - Zeytinburnu Fabrika-i Hümâyûn Hamamı, tarihi geçmişiyle dikkat çeken bir alandır
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir
+
 - Zeytinburnu'nun merkezi bir konumunda bulunmaktadır
 - Alanda çeşitli bitki türleri ve zengin fauna bulunmaktadır
 - Ziyaretçiler, bu alanda yürüyüş yapabilir ve doğayı izleyebilirler

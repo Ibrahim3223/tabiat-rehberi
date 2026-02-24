@@ -51,7 +51,7 @@ Döner Kümbet, ziyaretçiler için bir gezi rehberi sunar. Ziyaretçiler, buray
 ## İlginç Bilgiler
 
 - Döner Kümbet, bir tarihi plajdır
-- Döner Kümbet, 140 hektarlık bir alanı kapsar
+
 - Döner Kümbet, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır
 - Döner Kümbet, zengin bir flora ve fauna çeşitliliğine sahiptir
 - Döner Kümbet, yıl boyunca ziyaret edilebilir

@@ -37,7 +37,7 @@ Saldır Şeyh Horasani Türbesi'nin tarihi geçmişi, Ege Bölgesi'nin zengin k�
 
 ## Coğrafya
 
-Saldır Şeyh Horasani Türbesi, Muğla'nın Bodrum ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer alıyor. Türbe, 140 hektarlık bir alan üzerine kurulu ve çevresi çeşitli bitki türleriyle kaplı. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Saldır Şeyh Horasani Türbesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini sunuyor. Plajın yanında bulunan türbe, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Ege Bölgesi'nin iklimi, bu bölgede yer alan Saldır Şeyh Horasani Türbesi için uygun koşullar sağlıyor. Ilıman iklim, ziyaretçilerin türbeyi ve plajı yıl boyunca ziyaret etmelerine olanak tanıyor.
+Saldır Şeyh Horasani Türbesi, Muğla'nın Bodrum ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer alıyor. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Saldır Şeyh Horasani Türbesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini sunuyor. Plajın yanında bulunan türbe, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Ege Bölgesi'nin iklimi, bu bölgede yer alan Saldır Şeyh Horasani Türbesi için uygun koşullar sağlıyor. Ilıman iklim, ziyaretçilerin türbeyi ve plajı yıl boyunca ziyaret etmelerine olanak tanıyor.
 
 ## Flora ve Fauna
 

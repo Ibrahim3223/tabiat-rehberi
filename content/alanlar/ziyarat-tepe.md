@@ -36,7 +36,7 @@ Ziyarat Tepe'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe. Bu bölg
 
 ## Coğrafya
 
-Ziyarat Tepe, coğrafi olarak Diyarbakır'ın merkezinde yer alıyor. Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve çevresinde çeşitli bitki türleri ve hayvanlar bulunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Ziyaretçiler, tepeye çıkarak, şehrin ve çevresinin geniş manzarasını izleyebilirler. Ziyarat Tepe, Diyarbakır'ın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Ziyarat Tepe, coğrafi olarak Diyarbakır'ın merkezinde yer alıyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Ziyaretçiler, tepeye çıkarak, şehrin ve çevresinin geniş manzarasını izleyebilirler. Ziyarat Tepe, Diyarbakır'ın coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ziyarat Tepe, ziyaretçilerini bekliyor. Ziyaretçiler, tepeye çıkarak, şehri
 ## İlginç Bilgiler
 
 - Ziyarat Tepe, Diyarbakır'ın en yüksek noktalarından biri.
-- Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Ziyaretçiler, tepeye çıkarak, şehrin panoramik manzarasını izleyebilirler.
 - Ziyarat Tepe, doğa severler için önemli bir destinasyon.
 - Tepe, çeşitli bitki türleri ve hayvanlarla dolu bir bölge.

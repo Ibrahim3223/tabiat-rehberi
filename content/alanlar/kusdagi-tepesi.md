@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Trekking","Kamp","Kayak","Snowboard","Pikni
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Kuşdağı Tepesi","caption":"Kuşdağı Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388565","tip":"genel"}]
-description: "Erzurum'un doğal güzelliklerinin başında gelen Kuşdağı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kuşdağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellik","Tepeler","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388565"

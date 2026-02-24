@@ -28,7 +28,7 @@ wikidata_id: "Q31581352"
 
 # Taşocağı Tepesi
 
-Taşocağı Tepesi, Çorum'un merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur. Tarihi geçmişi ve coğrafi konumuyla birlikte, Taşocağı Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezidir.
+ Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur. Tarihi geçmişi ve coğrafi konumuyla birlikte, Taşocağı Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezidir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Taşocağı Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini ve �
 ## İlginç Bilgiler
 
 - Taşocağı Tepesi, Çorum'un tarihi ve kültürel mirasının önemli bir parçasıdır
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Taşocağı Tepesi, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir fauna sunar
 - Bu tepe, yılın her döneminde ziyaret edilebilir
 - Ziyaretçilerin, bu tepeyi ziyaret ederken, doğayı korumaya özen göstermeleri gerekir

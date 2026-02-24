@@ -30,7 +30,7 @@ Sulu İn Kayalığı Sit Alanı, tarihi geçmişi ile dikkat çekiyor. Bu bölge
 
 ## Coğrafya
 
-Sulu İn Kayalığı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumunda yer alıyor. Bu bölge, çeşitli coğrafi oluşumlar ile çevrelenmiş ve zengin bir ekosisteme sahip. İklimi, mevsimsel değişimlere göre şekilleniyor ve bu, bölgenin flora ve faunasını etkiliyor. Sulu İn Kayalığı Sit Alanı, coğrafi güzelliği ve doğal kaynakları ile ziyaretçilerini cezbetmeyi başarıyor. 140 hektarlık bu alan, ziyaretçilere geniş bir açık hava deneyimi sunuyor.
+Sulu İn Kayalığı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumunda yer alıyor. Bu bölge, çeşitli coğrafi oluşumlar ile çevrelenmiş ve zengin bir ekosisteme sahip. İklimi, mevsimsel değişimlere göre şekilleniyor ve bu, bölgenin flora ve faunasını etkiliyor. Sulu İn Kayalığı Sit Alanı, coğrafi güzelliği ve doğal kaynakları ile ziyaretçilerini cezbetmeyi başarıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Sulu İn Kayalığı Sit Alanı, ziyaretçilere çeşitli aktivite olanakları s
 
 ## İlginç Bilgiler
 
-- Sulu İn Kayalığı Sit Alanı, 140 hektarlık bir alana sahip.
 - Bu bölge, çeşitli bitki türleri ile zengin fauna tarafından çevrelenmiştir.
 - Sulu İn Kayalığı Sit Alanı, doğa severler ve tarih meraklıları için önemli bir cazibe merkezi.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.

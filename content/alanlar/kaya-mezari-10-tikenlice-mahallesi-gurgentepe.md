@@ -50,7 +50,6 @@ Kaya Mezarı 10, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Bu bö
 ## İlginç Bilgiler
 
 - Kaya Mezarı 10, Gürgentepe'nin en önemli doğal güzelliği
-- 140 hektarlık bir yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
+
 - Karadeniz Bölgesi'nin karakteristik iklimine sahip
 - çeşitli bitki türleri ve zengin fauna

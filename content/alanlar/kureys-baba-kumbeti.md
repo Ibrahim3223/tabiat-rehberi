@@ -37,7 +37,7 @@ Kureyş Baba Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Kureyş Baba Kümbeti, Sinanpaşa, Afyonkarahisar'da yer almaktadır ve Ege Bölgesi'nin önemli coğrafi özelliklerinden birini oluşturmaktadır. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla ziyaretçilerini çekmektedir. Kureyş Baba Kümbeti'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunmaktadır. Burada, çevredeki dağlar, ovalar ve nehirler, bir arada bulunmakta ve ziyaretçilere geniş bir coğrafi perspektif sunmaktadır. Kureyş Baba Kümbeti, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmakta, zengin bir ekosistem oluşturmaktadır. Bu coğrafi özellikler, Kureyş Baba Kümbeti'ni, ziyaretçilerin doğayı ve tarihi bir arada deneyimleyebilecekleri bir mekân haline getirmektedir.
+Kureyş Baba Kümbeti, Sinanpaşa, Afyonkarahisar'da yer almaktadır ve Ege Bölgesi'nin önemli coğrafi özelliklerinden birini oluşturmaktadır. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla ziyaretçilerini çekmektedir. Kureyş Baba Kümbeti'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunmaktadır. Burada, çevredeki dağlar, ovalar ve nehirler, bir arada bulunmakta ve ziyaretçilere geniş bir coğrafi perspektif sunmaktadır. Bu coğrafi özellikler, Kureyş Baba Kümbeti'ni, ziyaretçilerin doğayı ve tarihi bir arada deneyimleyebilecekleri bir mekân haline getirmektedir.
 
 ## Flora ve Fauna
 

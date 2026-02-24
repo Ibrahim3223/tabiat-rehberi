@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Akkaya Tepe","caption":"Akkaya Tepe","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388627","tip":"genel"}]
-description: "Muğla'nın doğal güzellikleri arasında yer alan Akkaya Tepe, yaklaşık 140 hektarlık alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Akkaya Tepe","Muğla","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388627"
@@ -37,7 +37,7 @@ Akkaya Tepe'nin tarihi geçmişi oldukça zengin. Bu tepe, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Akkaya Tepe, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık alanıyla oldukça geniş bir yeşil alanı ziyaretçilerine sunuyor. Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve çevreyi panoramik bir şekilde görme mümkün. Akkaya Tepe'nin coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Tepe ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçileri cezbediyor. Akkaya Tepe'nin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman ve yağışlı. Bu tepe, yıl boyunca ziyaret edilebiliyor ancak en đp mevsim ilkbahar ve sonbahar ayları. Tepe, ziyaretçilerine trekking ve doğa yürüyüşü gibi aktiviteleri sunuyor.
+Akkaya Tepe, Muğla'nın Ege Bölgesi'nde yer alıyor. Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve çevreyi panoramik bir şekilde görme mümkün. Akkaya Tepe'nin coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Tepe ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçileri cezbediyor. Akkaya Tepe'nin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman ve yağışlı. Bu tepe, yıl boyunca ziyaret edilebiliyor ancak en đp mevsim ilkbahar ve sonbahar ayları. Tepe, ziyaretçilerine trekking ve doğa yürüyüşü gibi aktiviteleri sunuyor.
 
 ## Flora ve Fauna
 

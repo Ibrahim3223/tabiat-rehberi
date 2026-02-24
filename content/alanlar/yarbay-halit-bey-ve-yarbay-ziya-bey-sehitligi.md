@@ -29,7 +29,7 @@ wikidata_id: "Q134728264"
 
 # Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği
 
-Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alan ve Türk milletinin bağımsızlık mücadelesinin önemli sembollerinden biri olan bir anıttır. Bu şehitlik, Çanakkale Savaşı'nın en önemli noktalarından biri olan Eceabat'ın merkezinde bulunmaktadır. Şehitlik, yaklaşık 140 hektarlık bir alanı kaplayan büyük bir yeşil alan üzerine kurulmuştur. Şehitliğin bulunduğu bu büyük yeşil alan, ziyaretçilere hem dinlenme hem de tarihe tanıklık etme fırsatı sunmaktadır.
+Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alan ve Türk milletinin bağımsızlık mücadelesinin önemli sembollerinden biri olan bir anıttır. Bu şehitlik, Çanakkale Savaşı'nın en önemli noktalarından biri olan Eceabat'ın merkezinde bulunmaktadır. Şehitliğin bulunduğu bu büyük yeşil alan, ziyaretçilere hem dinlenme hem de tarihe tanıklık etme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale Savaşı sırasında
 
 ## Coğrafya
 
-Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesinde yer almaktadır. Eceabat, Çanakkale ilinin bir ilçesi olup, il merkezine khong 10 kilometre uzaklıktadır. Şehitlik, Eceabat'ın merkezinde bulunan büyük bir yeşil alan üzerine kurulmuştur. Bu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Şehitliğin bulunduğu bu yeşil alan, ziyaretçilere hem dinlenme hem de tarihe tanıklık etme fırsatı sunmaktadır. Şehitlik, Çanakkale Savaşı'nın en önemli noktalarından biri olan Eceabat'ın merkezinde bulunmaktadır. Bu nedenle, şehitli ve çevresi, Türk milletinin bağımsızlık mücadelesinin önemli bir parçası olarak kabul edilmektedir. Şehitlik, Türkiye'nin tarihi geçmişi ve coğrafyasının önemli bir parçası olarak da kabul edilmektedir.
+Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesinde yer almaktadır. Eceabat, Çanakkale ilinin bir ilçesi olup, il merkezine khong 10 kilometre uzaklıktadır. Şehitlik, Eceabat'ın merkezinde bulunan büyük bir yeşil alan üzerine kurulmuştur. Şehitliğin bulunduğu bu yeşil alan, ziyaretçilere hem dinlenme hem de tarihe tanıklık etme fırsatı sunmaktadır. Şehitlik, Çanakkale Savaşı'nın en önemli noktalarından biri olan Eceabat'ın merkezinde bulunmaktadır. Bu nedenle, şehitli ve çevresi, Türk milletinin bağımsızlık mücadelesinin önemli bir parçası olarak kabul edilmektedir. Şehitlik, Türkiye'nin tarihi geçmişi ve coğrafyasının önemli bir parçası olarak da kabul edilmektedir.
 
 ## Flora ve Fauna
 
-Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alan büyük bir yeşil alan üzerine kurulmuştur. Bu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Şehitliğin bulunduğu bu yeşil alan, ziyaretçilere hem dinlenme hem de tarihe tanıklık etme fırsatı sunmaktadır. Şehitli ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölgede, özellikle çam ve zeytin ağaçları yaygın olarak bulunmaktadır. Ayrıca, bu bölgede birçok kuş türü ve diğer hayvanlar da yaşamaktadır. Şehitli ve çevresi, mevsimsel değişimlere göre farklı bir güzelliğe sahip olmaktadır. İlkbahar ve yaz aylarında, yeşil alanlar ve çiçekler ziyaretçilere renkli bir manzara sunarken, kış aylarında ise beyaz bir örtü ile kaplanmaktadır.
+Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alan büyük bir yeşil alan üzerine kurulmuştur. Şehitliğin bulunduğu bu yeşil alan, ziyaretçilere hem dinlenme hem de tarihe tanıklık etme fırsatı sunmaktadır. Şehitli ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölgede, özellikle çam ve zeytin ağaçları yaygın olarak bulunmaktadır. Ayrıca, bu bölgede birçok kuş türü ve diğer hayvanlar da yaşamaktadır. Şehitli ve çevresi, mevsimsel değişimlere göre farklı bir güzelliğe sahip olmaktadır. İlkbahar ve yaz aylarında, yeşil alanlar ve çiçekler ziyaretçilere renkli bir manzara sunarken, kış aylarında ise beyaz bir örtü ile kaplanmaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Çanakkale'nin Eceabat ilçesin
 ## İlginç Bilgiler
 
 - Şehitlik, Çanakkale Savaşı'nın en önemli noktalarından biri olan Eceabat'ın merkezinde bulunmaktadır.
-- Şehitlik, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Şehitli ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Şehitlik, Türk milletinin bağımsızlık mücadelesinin önemli bir parçası olarak kabul edilmektedir.
 - Şehitlik, Türkiye'nin tarihi geçmişi ve coğrafyasının önemli bir parçası olarak da kabul edilmektedir.

@@ -29,7 +29,7 @@ wikidata_id: "Q134728270"
 
 # Göztepe Tümülüsü
 
-Göztepe Tümülüsü, Karadeniz Bölgesi'nin gözde mekanlarından biri olarak karşımıza çıkıyor. Çorum'un Alaca ilçesinde yer alan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Doğal güzelliği ve tarihi önemi ile dikkat çeken Göztepe Tümülüsü, ziyaretçilerini büyüleyen bir atmosfere sahip. Göztepe Tümülüsü'nü ziyaret ettiğinizde, bu özel alanın neden bu kadar önemli olduğunu daha iyi anlayacaksınız.
+Göztepe Tümülüsü, Karadeniz Bölgesi'nin gözde mekanlarından biri olarak karşımıza çıkıyor. Doğal güzelliği ve tarihi önemi ile dikkat çeken Göztepe Tümülüsü, ziyaretçilerini büyüleyen bir atmosfere sahip. Göztepe Tümülüsü'nü ziyaret ettiğinizde, bu özel alanın neden bu kadar önemli olduğunu daha iyi anlayacaksınız.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Göztepe Tümülüsü, yüzyıllar boyunca önemli bir yerleşim yeri olarak kul
 
 ## Coğrafya
 
-Göztepe Tümülüsü, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtan bir alan olarak karşımıza çıkıyor. Çorum'un Alaca ilçesinde yer alan bu özel alan, 140 hektarlık bir büyüklüğe sahip. Göztepe Tümülüsü'nün coğrafi yapısı, ziyaretçilerini etkileyen bir güzelliğe sahip. Bu özel alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Göztepe Tümülüsü'nü ziyaret ettiğinizde, bu özel alanın coğrafi güzelliğinin büyüklüğünü daha iyi anlayacaksınız. Göztepe Tümülüsü, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan olarak ziyaretçilerini bekliyor.
+Göztepe Tümülüsü, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtan bir alan olarak karşımıza çıkıyor. Göztepe Tümülüsü'nün coğrafi yapısı, ziyaretçilerini etkileyen bir güzelliğe sahip. Bu özel alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Göztepe Tümülüsü'nü ziyaret ettiğinizde, bu özel alanın coğrafi güzelliğinin büyüklüğünü daha iyi anlayacaksınız. Göztepe Tümülüsü, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Göztepe Tümülüsü, ziyaretçilerini büyüleyen bir atmosfere sahip. Bu öze
 
 ## İlginç Bilgiler
 
-- Göztepe Tümülüsü, 140 hektarlık bir alanı kaplıyor
-- Göztepe Tümülüsü, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor
 - Göztepe Tümülüsü, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Göztepe Tümülüsü, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanilmiş
 - Göztepe Tümülüsü, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtan bir alan olarak karşımıza çıkıyor

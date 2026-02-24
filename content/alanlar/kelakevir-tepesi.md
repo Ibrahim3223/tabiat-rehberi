@@ -28,7 +28,7 @@ wikidata_id: "Q31553154"
 
 # Kelakevir Tepesi
 
-Kelakevir Tepesi, Batman ilinin güneydoğu kısmında yer alan bir tepe. Bu tepenin çevresinde bulunan geniş ovalar ve vadiler, bölgeyi önemli bir tarım merkezi haline getiriyor. Tepenin eteklerinde kurulan köyler, burada yaşayan insanların tarım ve hayvancılıkla uğraştıklarını gösteriyor. Kelakevir Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği ise 1000 metreyi aşmıyor. Bu tepe, bölgede yaşayan tarafından önemli bir doğal güzellik olarak kabul ediliyor.
+Kelakevir Tepesi, Batman ilinin güneydoğu kısmında yer alan bir tepe. Bu tepenin çevresinde bulunan geniş ovalar ve vadiler, bölgeyi önemli bir tarım merkezi haline getiriyor. Tepenin eteklerinde kurulan köyler, burada yaşayan insanların tarım ve hayvancılıkla uğraştıklarını gösteriyor. Tepenin yüksekliği ise 1000 metreyi aşmıyor. Bu tepe, bölgede yaşayan tarafından önemli bir doğal güzellik olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kelakevir Tepesi, ziyaretçilerini bekleyen önemli bir doğal güzellik. Tepeni
 
 ## İlginç Bilgiler
 
-- Kelakevir Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Tepenin yüksekliği, 1000 metreyi aşmıyor
 - Kelakevir Tepesi, bölgenin coğrafi özelliklerini taşıyor
 - Tepede, çeşitli bitki ve hayvan türleri yaşiyor

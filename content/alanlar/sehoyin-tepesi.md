@@ -36,7 +36,7 @@ Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olan Şehoyın Te
 
 ## Coğrafya
 
-Şehoyın Tepesi, Mardin'in merkezi bölgesinde yer alır ve şehrin panoramik görünümüne şahitlik eder. Tepenin eteklerinde yer alan vadiler ve ovalar, bölgenin coğrafi çeşitliliğini gösterir. Şehoyın Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu yeşil alan, şehrin merkezi bölgesinde yer alan bir oază gibi görünür. Tepenin zirvesinden bakıldığında, Mardin'in tarihi yapıları, camileri, kiliseleri ve diğer önemli noktaları görülebilir. Şehoyın Tepesi, coğrafi olarak zengin bir bölgede yer alır ve ziyaretçilerini şehrin doğal güzellikleriyle baş başa bırakır.
+Şehoyın Tepesi, Mardin'in merkezi bölgesinde yer alır ve şehrin panoramik görünümüne şahitlik eder. Tepenin eteklerinde yer alan vadiler ve ovalar, bölgenin coğrafi çeşitliliğini gösterir. Tepenin zirvesinden bakıldığında, Mardin'in tarihi yapıları, camileri, kiliseleri ve diğer önemli noktaları görülebilir. Şehoyın Tepesi, coğrafi olarak zengin bir bölgede yer alır ve ziyaretçilerini şehrin doğal güzellikleriyle baş başa bırakır.
 
 ## Flora ve Fauna
 

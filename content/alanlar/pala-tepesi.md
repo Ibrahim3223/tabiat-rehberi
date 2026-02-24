@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Republic_Boulevard%2C_late_1930s_%2816851418951%29.jpg","alt":"Pala Tepesi manzarası","credit":"Directorate General of Press and Information","license":"CC BY-SA"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pala%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391194","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Pala Tepesi, geniş ve yeşil alanları ile ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Pala Tepesi, geniş ve yeşil alanları ile ziyaretçilerini bekliyor."
 keywords: ["Pala Tepesi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391194"
@@ -50,7 +50,6 @@ Pala Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar iç
 ## İlginç Bilgiler
 
 - Pala Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir.
-- 140 hektarlık bir alanı kaplar.
 
 - Zengin ve çeşitli bir flora ve faunaya sahiptir.
 - Bölgenin ekolojik dengesini yansıtan bir yerdir.

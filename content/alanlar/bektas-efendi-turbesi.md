@@ -29,7 +29,7 @@ wikidata_id: "Q131391285"
 
 # Bektaş Efendi Türbesi
 
-Bektaş Efendi Türbesi, Nevşehir'in Hacıbektaş ilçesinde bulunan tarihi bir türbe ve civarındaki doğal alan. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini doğanın güzelliği ile tarihi geçmişin birleştiği bir ortamda ağırlıyor. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri ile dikkat çekiyor. Bektaş Efendi Türbesi, Hacıbektaş'ın merkezinde yer alıyor ve bölgenin önemli kültür ve tarih merkezlerinden biri olarak kabul ediliyor.
+Bektaş Efendi Türbesi, Nevşehir'in Hacıbektaş ilçesinde bulunan tarihi bir türbe ve civarındaki doğal alan. Bektaş Efendi Türbesi, Hacıbektaş'ın merkezinde yer alıyor ve bölgenin önemli kültür ve tarih merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bektaş Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri
 ## İlginç Bilgiler
 
 - Bektaş Efendi Türbesi, Hacıbektaş'ın önemli kültür merkezlerinden biri.
-- Türbenin etrafındaki alan, yaklaşık 140 hektarlık bir büyüklüğe sahip.
+
 - Bu bölge, step ve ormanlık alanların birleştiği bir noktada bulunuyor.
 - İlkbahar ve yaz ayları, ziyaret için en uygun dönemler.
 - Türbe ve çevresi, doğa severler için önemli bir destinasyon.

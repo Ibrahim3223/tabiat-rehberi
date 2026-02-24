@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Tarihî yapıları ziyaret","Flora ve fauna
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Şuınonı Tepesi","caption":"Şuınonı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eu%C4%B1non%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546888","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden Siirt'te bulunan Şuınonı Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Şuınonı Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31546888"
@@ -48,7 +48,6 @@ wikidata_id: "Q31546888"
 
 ## İlginç Bilgiler
 
-- Şuınonı Tepesi, 140 hektarlık yeşil alanı ile önemli bir doğa alanıdır.
 - Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çeker.
 - Bölge, çeşitli bitki türleri ve fauna çeşitliliği ile zengindir.
 - İlkbahar ve yaz aylarında, flora ve fauna çeşitliliği en yüksek seviyededir.

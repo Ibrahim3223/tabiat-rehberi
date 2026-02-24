@@ -28,7 +28,7 @@ wikidata_id: "Q32139460"
 
 # Güneyyatak Tepesi
 
-Güneyyatak Tepesi, Denizli'nin güzide yerlerinden biri olarak bilinir. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar. Denizli'nin coğrafi yapısını gözlemlemek için ideal bir noktadır. Güneyyatak Tepesi, ziyaretçilerini doğal güzellikleri ile büyüler. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, tepeye renkli bir görünüm kazandırır. Güneyyatak Tepesi, aynı zamanda yaban hayatı açısından da zengindir. Bu tepede, çeşitli hayvan türleri yaşar ve bu hayvanlar, tepeye canlılık kazandırır.
+Güneyyatak Tepesi, Denizli'nin güzide yerlerinden biri olarak bilinir. Denizli'nin coğrafi yapısını gözlemlemek için ideal bir noktadır. Güneyyatak Tepesi, ziyaretçilerini doğal güzellikleri ile büyüler. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, tepeye renkli bir görünüm kazandırır. Güneyyatak Tepesi, aynı zamanda yaban hayatı açısından da zengindir. Bu tepede, çeşitli hayvan türleri yaşar ve bu hayvanlar, tepeye canlılık kazandırır.
 
 ## Tarihçe
 

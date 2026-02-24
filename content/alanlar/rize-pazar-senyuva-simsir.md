@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"Rize-Pazar-Senyuva-Simsir","caption":"Rize-Pazar-Senyuva-Simsir","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rize-Pazar-Senyuva-Simsir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228262","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin gizli cenneti Rize-Pazar-Senyuva-Simsir milli parkı, 140 hektarlık alanı ve benzersiz doğasıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Rize","Pazar","Senyuva","Simsir","milli park","Karadeniz Bölgesi","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228262"
@@ -30,7 +30,7 @@ Rize-Pazar-Senyuva-Simsir milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Rize-Pazar-Senyuva-Simsir milli parkı, Karadeniz Bölgesi'nde yer alıyor ve coğrafi konumu, onu özel kılıyor. Park, 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli coğrafi özelliklere sahip. Senyuva ve Simsir gibi önemli bölgeler, parkın içinde yer alıyor ve bu bölgeler, birbirinden güzel manzaralar sunuyor. Parkın coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler sunuyor ve bu aktiviteler, doğayla iç içe bir deneyim sunuyor. Rize-Pazar-Senyuva-Simsir milli parkının coğrafi konumu, onu ziyaretçileri için ideal bir destinasyon haline getiriyor.
+Rize-Pazar-Senyuva-Simsir milli parkı, Karadeniz Bölgesi'nde yer alıyor ve coğrafi konumu, onu özel kılıyor. Senyuva ve Simsir gibi önemli bölgeler, parkın içinde yer alıyor ve bu bölgeler, birbirinden güzel manzaralar sunuyor. Parkın coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler sunuyor ve bu aktiviteler, doğayla iç içe bir deneyim sunuyor. Rize-Pazar-Senyuva-Simsir milli parkının coğrafi konumu, onu ziyaretçileri için ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Rize-Pazar-Senyuva-Simsir milli parkını ziyaret etmek, doğa severler için ge
 
 ## İlginç Bilgiler
 
-- Rize-Pazar-Senyuva-Simsir milli parkı, 140 hektarlık bir alanı kapsıyor.
 - Park, Senyuva ve Simsir gibi önemli yerleri içinde barındırıyor.
 - Rize-Pazar-Senyuva-Simsir milli parkı, çeşitli flora ve faunaya ev sahipliği yapıyor.
 - Parkın coğrafi konumu, onu ziyaretçileri için ideal bir destinasyon haline getiriyor.

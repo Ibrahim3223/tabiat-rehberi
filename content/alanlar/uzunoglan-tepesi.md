@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","çiçek
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Uzunoğlan Tepesi","caption":"Uzunoğlan Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzuno%C4%9Flan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558107","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Uzunoğlan Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Ankara","İç Anadolu Bölgesi","Uzunoğlan Tepesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558107"
@@ -28,7 +28,7 @@ wikidata_id: "Q31558107"
 
 # Uzunoğlan Tepesi
 
-Uzunoğlan Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler ve kasabalar, bu bölgeyi hem ekonomik hem de kültürel olarak önemli kılıyor. Uzunoğlan Tepesi, aynı zamanda bölgenin coğrafi özelliklerini yansıtan bir nokta olarak da kabul ediliyor. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerin ilgi odağı oluyor.
+ Tepenin eteklerinde yer alan köyler ve kasabalar, bu bölgeyi hem ekonomik hem de kültürel olarak önemli kılıyor. Uzunoğlan Tepesi, aynı zamanda bölgenin coğrafi özelliklerini yansıtan bir nokta olarak da kabul ediliyor. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerin ilgi odağı oluyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Uzunoğlan Tepesi'ni ziyaret etmek, Ankara'nın İç Anadolu Bölgesi'nde yer al
 ## İlginç Bilgiler
 
 - Uzunoğlan Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşum
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
+
 - tepenin yüksekliği ve çevresindeki manzara
 - çeşitli bitki türleri ve zengin fauna

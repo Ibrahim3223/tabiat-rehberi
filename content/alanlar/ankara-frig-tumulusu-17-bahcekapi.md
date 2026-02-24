@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 17, Bahçekapı, tarihi geçmişiyle dikkat çeker. Fri
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 17, Bahçekapı, coğrafi konumu itibariyle de önemli bir yere sahiptir. Etimesgut ilçesinde yer alan bu tarihi alan, Ankara'nın merkezine yakındır ve ulaşım açısından thun li bir konumda bulunur. Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve step ikliminin hakim olduğu bir bölgedir. Ankara Frig Tümülüsü 17, Bahçekapı, çevresi itibariyle de ilgi çekici bir destinasyondur. Yakınlarında çeşitli bitki türleri ve hayvanlar bulunmakla birlikte, bu tümülüs, Ankara'nın kültürel ve tarihi zenginliğinin bir parçası olarak ziyaretçilerini bekler. 140 hektarlık bu alan, geniş bir tarihi ve kültürel birikimi içerisinde barındırır ve ziyaretçilerine zengin bir deney sunar.
+Ankara Frig Tümülüsü 17, Bahçekapı, coğrafi konumu itibariyle de önemli bir yere sahiptir. Etimesgut ilçesinde yer alan bu tarihi alan, Ankara'nın merkezine yakındır ve ulaşım açısından thun li bir konumda bulunur. Bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve step ikliminin hakim olduğu bir bölgedir. Ankara Frig Tümülüsü 17, Bahçekapı, çevresi itibariyle de ilgi çekici bir destinasyondur. Yakınlarında çeşitli bitki türleri ve hayvanlar bulunmakla birlikte, bu tümülüs, Ankara'nın kültürel ve tarihi zenginliğinin bir parçası olarak ziyaretçilerini bekler.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Ankara Frig Tümülüsü 17, Bahçekapı, ziyaretçilerine, tarihi ve kültürel
 
 - Ankara Frig Tümülüsü 17, Bahçekapı, Ankara'nın en önemli tarihi ve kültürel destinasyonlarından biridir.
 - Frig uygarlığı, M.Ö. 8. yüzyılda bölgede hüküm sürmüştür.
-- Tümülüs, 140 hektarlık bir alana yayılmıştır.
+
 - Bahçekapı, Etimesgut ilçesinde yer alır.
 - Ankara'nın merkezine yakındır.

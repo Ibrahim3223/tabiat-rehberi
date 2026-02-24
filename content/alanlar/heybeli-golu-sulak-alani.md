@@ -14,7 +14,7 @@ aktiviteler: ["kuş gözlemciliği","bitki gözlemciliği","doğa yürüyüşü"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Heybeli Gölü Sulak Alanı","caption":"Heybeli Gölü Sulak Alanı","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Heybeli%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228457","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli sulak alanlarından biri olan Heybeli Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["sulak alan","İç Anadolu Bölgesi","Heybeli Gölü","doğal yaşam alanı","kuş türleri","bitki çeşitliliği","ekosistem","koruma alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228457"
@@ -30,7 +30,7 @@ Heybeli Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin
 
 ## Coğrafya
 
-Heybeli Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. 140 hektarlık alanı, çeşitli bitki türleri ile kaplıdır ve bu bitki türleri, suyun ve toprağın kalitesini etkiliyor. Sulak alanın coğrafi konumu, birçok farklı canlı türünün yaşamasına olanak tanıyor. Heybeli Gölü, suyun derinliği ve su seviyesinin mevsimsel değişimleri, bu bölgede yaşayan canlılar için önemli bir faktör. Bu sulak alanın etrafında, farklı türde bitkiler ve ağaçlar yetişiyor, bu da bölgenin biyolojik çeşitliliğini artırıyor. İklim koşulları, sulak alanın canlıları ve bitki örtüsünü etkileyen bir diğer önemli faktör olarak karşımıza çıkıyor.
+Heybeli Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Sulak alanın coğrafi konumu, birçok farklı canlı türünün yaşamasına olanak tanıyor. Heybeli Gölü, suyun derinliği ve su seviyesinin mevsimsel değişimleri, bu bölgede yaşayan canlılar için önemli bir faktör. Bu sulak alanın etrafında, farklı türde bitkiler ve ağaçlar yetişiyor, bu da bölgenin biyolojik çeşitliliğini artırıyor. İklim koşulları, sulak alanın canlıları ve bitki örtüsünü etkileyen bir diğer önemli faktör olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Heybeli Gölü Sulak Alanı, doğa severler ve kuş gözlemcileri için bir cenn
 
 ## İlginç Bilgiler
 
-- Heybeli Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bu sulak alan, birçok farklı bitki türüne ev sahipliği yapıyor
 - Heybeli Gölü Sulak Alanı, birçok farklı hayvan türüne de ev sahipliği yapıyor
 - Sulak alanın coğrafi konumu, birçok farklı canlı türünün yaşamasına olanak tanıyor

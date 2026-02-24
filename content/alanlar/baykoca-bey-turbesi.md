@@ -37,7 +37,7 @@ Baykoca Bey Türbesi, İnegöl'ün tarihi geçmişi ile ilgili önemli bir yapı
 
 ## Coğrafya
 
-Baykoca Bey Türbesi, İnegöl'ün merkezinde yer alan bir türbedir. Türbe, 140 hektarlık yeşil alan üzerinde yer alır ve İnegöl'ün en önemli tarihi yapılarından biridir. İnegöl'ün coğrafi konumu, Marmara Bölgesi'nde yer alan bir ilçe olarak bilinir. İnegöl'ün iklimi, karasal iklim özellikleri gösterir ve ziyaretçileri tarafından tercih edilen bir yerdir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İnegöl'ün coğrafi konumu, yaban hayatı için uygun bir ortam sunar ve ziyaretçileri tarafından tercih edilen bir yerdir. Türbe, İnegöl'ün merkezinde yer alan bir yapı olarak, ziyaretçileri tarafından kolayca ulaşılabilecek bir konumda bulunmaktadır.
+Baykoca Bey Türbesi, İnegöl'ün merkezinde yer alan bir türbedir. İnegöl'ün coğrafi konumu, Marmara Bölgesi'nde yer alan bir ilçe olarak bilinir. İnegöl'ün iklimi, karasal iklim özellikleri gösterir ve ziyaretçileri tarafından tercih edilen bir yerdir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İnegöl'ün coğrafi konumu, yaban hayatı için uygun bir ortam sunar ve ziyaretçileri tarafından tercih edilen bir yerdir. Türbe, İnegöl'ün merkezinde yer alan bir yapı olarak, ziyaretçileri tarafından kolayca ulaşılabilecek bir konumda bulunmaktadır.
 
 ## Flora ve Fauna
 

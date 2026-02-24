@@ -50,7 +50,7 @@ wikidata_id: "Q131738505"
 ## İlginç Bilgiler
 
 - İnecik Hamamı, Süleymanpaşa'nın en önemli turizm merkezlerinden biri.
-- Bu bölge, 140 hektarlık bir alan kaplıyor.
+
 - İnecik Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer.
 - Bu bölge, güzel plajları, temiz denizi ve zengin doğası ile dikkat çekiyor.
 - İnecik Hamamı, Süleymanpaşa'nın merkezinden kolayca ulaşabilirsiniz.

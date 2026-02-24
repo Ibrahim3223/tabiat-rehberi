@@ -37,7 +37,7 @@ wikidata_id: "Q131390690"
 
 ## Coğrafya
 
-Şıp Şıp Dede Türbesi, Marmara Bölgesi'nde, Edremit ilçesinde yer alır. Bu bölge, denize yakınlığı ile dikkat çeker ve ziyaretçilere geniş bir kumsal sunar. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sağlar ve burada çeşitli etkinlikler düzenlenebilir. Şıp Şıp Dede Türbesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve buraya gelenler, denizin güzelliğini yakından görebilirler. Bu bölge, aynı zamanda zengin bir fauna ve flora ile dikkat çeker. Ziyaretçiler, buraya gelerek hem doğal güzellikleri hem de tarihi yapıları görebilirler.
+Şıp Şıp Dede Türbesi, Marmara Bölgesi'nde, Edremit ilçesinde yer alır. Bu bölge, denize yakınlığı ile dikkat çeker ve ziyaretçilere geniş bir kumsal sunar. Şıp Şıp Dede Türbesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve buraya gelenler, denizin güzelliğini yakından görebilirler. Bu bölge, aynı zamanda zengin bir fauna ve flora ile dikkat çeker. Ziyaretçiler, buraya gelerek hem doğal güzellikleri hem de tarihi yapıları görebilirler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131390690"
 ## İlginç Bilgiler
 
 - Şıp Şıp Dede Türbesi, Edremit'in en çok ziyaret edilen yerlerinden biridir.
-- Bu bölge, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır.
+
 - Şıp Şıp Dede Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker.
 - Ziyaretçiler, buraya gelerek hem deniz hem de güneşin tadını çıkarabilirler.
 - Bu bölge, yıl boyunca ziyaret edilebilir ancak en iyi ziyaret dönemi, ilkbahar ve yaz aylarıdır.

@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Ada_Hill_-_geograph.org.uk_-_7662289.jpg","alt":"Ada Tepeler manzarası","credit":"Richard Webb ","license":"cc-by-sa-2.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Image_by_Ada_Hill_Walker_N266_w1150.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Image_by_Ada_Hill_Walker_N266_w1150.jpg/1210px-Image_by_Ada_Hill_Walker_N266_w1150.jpg","alt":"Ada Tepeler - Image by Ada Hill Walker N266 w1150","credit":"Biodiversity Heritage Library","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Sheep_pens%2C_Ada_Hill_-_geograph.org.uk_-_7938740.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sheep_pens%2C_Ada_Hill_-_geograph.org.uk_-_7938740.jpg/1280px-Sheep_pens%2C_Ada_Hill_-_geograph.org.uk_-_7938740.jpg","alt":"Ada Tepeler - Sheep pens, Ada Hill - geograph.org.uk - 7938740","credit":"Jim Barton ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Tree_house%2C_Ada_Hill_-_geograph.org.uk_-_8130572.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tree_house%2C_Ada_Hill_-_geograph.org.uk_-_8130572.jpg/1280px-Tree_house%2C_Ada_Hill_-_geograph.org.uk_-_8130572.jpg","alt":"Ada Tepeler - Tree house, Ada Hill - geograph.org.uk - 8130572","credit":"Jim Barton ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/32/Field_entrance%2C_Ada_Hill_-_geograph.org.uk_-_7938763.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Field_entrance%2C_Ada_Hill_-_geograph.org.uk_-_7938763.jpg/1280px-Field_entrance%2C_Ada_Hill_-_geograph.org.uk_-_7938763.jpg","alt":"Ada Tepeler - Field entrance, Ada Hill - geograph.org.uk - 7938763","credit":"Jim Barton ","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/Derelict_caravan%2C_Ada_Hill_-_geograph.org.uk_-_3760765.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/4/45/Derelict_caravan%2C_Ada_Hill_-_geograph.org.uk_-_3760765.jpg","alt":"Ada Tepeler - Derelict caravan, Ada Hill - geograph.org.uk - 3760765","credit":"Jim Barton ","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ada%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390795","tip":"genel"}]
-description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan Ada Tepeler, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir."
+ Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir."
 keywords: ["Ada Tepeler","Yozgat","İç Anadolu Bölgesi","doğa","tepe","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390795"
@@ -49,8 +49,6 @@ Ada Tepeler, ziyaretçilerine doğal güzellikleri ve tarihi zenginliği sunmak 
 
 ## İlginç Bilgiler
 
-- Ada Tepeler, 140 hektarlık bir alanı kapsar
-- Burası, yaklaşık 200 futbol sahası büyüklüğündedir
 - Ada Tepeler, doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çekmektedir
 - Bu bölge, yüzyıllar boyunca insan yerleşimine konu olmuştur
 - Ada Tepeler, ziyaretçilerine doğal güzellikleri ve tarihi zenginliği sunmak için wicht bir destinasyon olarak beklemektedir

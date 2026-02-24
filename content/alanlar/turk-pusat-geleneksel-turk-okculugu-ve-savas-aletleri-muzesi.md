@@ -29,7 +29,7 @@ wikidata_id: "Q132949909"
 
 # Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi
 
-Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi, Ankara'nın merkezinde yer alan bir kültür ve tarih merkezidir. Bu müze, yaklaşık 140 hektarlık bir alanda, geleneksel Türk okçuluğunun ve savaş aletlerinin tarihini ve önemini gösterir. Müzenin koleksiyonunda, çeşitli historical oklar, yaylar, ok başları ve diğer savaş aletleri sergilenir. Türk Pusat Müzesi, Türk tarihinin önemli bir bölümünü oluşturan geleneksel Türk okçuluğunu ve savaş aletlerini merak edenler için mutlaka ziyaret edilmesi gereken bir yerdir.
+Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi, Ankara'nın merkezinde yer alan bir kültür ve tarih merkezidir. Müzenin koleksiyonunda, çeşitli historical oklar, yaylar, ok başları ve diğer savaş aletleri sergilenir. Türk Pusat Müzesi, Türk tarihinin önemli bir bölümünü oluşturan geleneksel Türk okçuluğunu ve savaş aletlerini merak edenler için mutlaka ziyaret edilmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi, yüzyıllar 
 
 ## Coğrafya
 
-Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi, Ankara'nın merkezinde yer alan bir kültür ve tarih merkezidir. Müze, yaklaşık 140 hektarlık bir alanda, Türk okçuluğunun ve savaş aletlerinin tarihini ve önemini gösterir. Müzenin koleksiyonunda, çeşitli historical oklar, yaylar, ok başları ve diğer savaş aletleri sergilenir. Müze, Türk tarihinin önemli bir bölümünü oluşturan geleneksel Türk okçuluğunu ve savaş aletlerini merak edenler için mutlaka ziyaret edilmesi gereken bir yerdir. Ankara'nın merkezi konumu, müzenin ulaşımını kolaylaştırır. Müze, Ankara'nın diğer tarihi ve kültürel mekanlarına yakınlığıyla da dikkat çeker. Türk Pusat Müzesi, Ankara'nın kültür ve tarih zenginliğini yansıtan önemli bir merkezdir.
+Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi, Ankara'nın merkezinde yer alan bir kültür ve tarih merkezidir. Müzenin koleksiyonunda, çeşitli historical oklar, yaylar, ok başları ve diğer savaş aletleri sergilenir. Müze, Türk tarihinin önemli bir bölümünü oluşturan geleneksel Türk okçuluğunu ve savaş aletlerini merak edenler için mutlaka ziyaret edilmesi gereken bir yerdir. Ankara'nın merkezi konumu, müzenin ulaşımını kolaylaştırır. Müze, Ankara'nın diğer tarihi ve kültürel mekanlarına yakınlığıyla da dikkat çeker. Türk Pusat Müzesi, Ankara'nın kültür ve tarih zenginliğini yansıtan önemli bir merkezdir.
 
 ## Flora ve Fauna
 

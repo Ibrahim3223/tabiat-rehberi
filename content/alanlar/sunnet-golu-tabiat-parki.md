@@ -45,7 +45,7 @@ Sünnet Gölü Tabiat Parkı, yılın her dönemi ziyaret edilebilir. Ancak, par
 ## İlginç Bilgiler
 
 - Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir.
-- Park, 140 hektarlık bir alanı kaplıyor.
+
 - Sünnet Gölü, etrafındaki dağlarla çevrili.
 - Parkın iklimi, Karadeniz Bölgesi'nin genel iklimine benzer.
 - Sünnet Gölü Tabiat Parkı, ziyaretçilere, Karadeniz Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.

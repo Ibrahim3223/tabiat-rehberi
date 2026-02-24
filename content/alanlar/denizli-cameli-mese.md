@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","kuş gözlemciliği","fotografçıl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Denizli-Cameli-Mese","caption":"Denizli-Cameli-Mese","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cameli-Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228476","tip":"genel"}]
-description: "Ege Bölgesi'nin en önemli milli parklarından biri olan Denizli-Cameli-Mese, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Denizli","Cameli","Mese","milli park","Ege Bölgesi","doğa","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228476"
@@ -30,7 +30,7 @@ Denizli-Cameli-Mese milli parkı, yüzyıllar boyunca birçok medeniyete ev sahi
 
 ## Coğrafya
 
-Denizli-Cameli-Mese milli parkı, Ege Bölgesi'nin en önemli coğrafi özelliklerinden biridir. Parkın 140 hektarlık alanı, dağlar, vadiler ve yeşil alanlardan oluşur. Parkın coğrafi yapısı, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar. Parkın etrafındaki dağlar, ziyaretçilere eşsiz bir manzara sunarken, vadiler ve yeşil alanlar, ziyaretçilerin doğayı yakından tanımasına olanak sağlar. Ayrıca, parkın iklimi, ziyaretçilere uygun koşullar sunar. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlar.
+Denizli-Cameli-Mese milli parkı, Ege Bölgesi'nin en önemli coğrafi özelliklerinden biridir. Parkın coğrafi yapısı, ziyaretçilere çeşitli gezi ve keşif fırsatları sunar. Parkın etrafındaki dağlar, ziyaretçilere eşsiz bir manzara sunarken, vadiler ve yeşil alanlar, ziyaretçilerin doğayı yakından tanımasına olanak sağlar. Ayrıca, parkın iklimi, ziyaretçilere uygun koşullar sunar. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlar.
 
 ## Flora ve Fauna
 

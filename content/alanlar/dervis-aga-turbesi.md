@@ -37,7 +37,7 @@ Derviş Ağa Türbesi, tarihi geçmişi ile dikkat çeker. Bu bölge, yüzyılla
 
 ## Coğrafya
 
-Derviş Ağa Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesi olan Yakutiye, Erzurum'da yer alır. Bu bölge, yüksek dağlar, geniş ovalar ve nehirler ile çevrili olup, coğrafi açıdan zengin bir yapıya sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve çevresinde yer alan doğal güzellikler, ziyaretçilerin doğayı keşfetmesine olanak sağlar. Bölge, karasal iklimin hüküm sürdüğü bir bölgedir ve yazları sıcak, kışları soğuk geçer. Bu coğrafi yapı, bölgenin flora ve faunasının çeşitliliğini etkilemektedir.
+Derviş Ağa Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesi olan Yakutiye, Erzurum'da yer alır. Bu bölge, yüksek dağlar, geniş ovalar ve nehirler ile çevrili olup, coğrafi açıdan zengin bir yapıya sahiptir. Bölge, karasal iklimin hüküm sürdüğü bir bölgedir ve yazları sıcak, kışları soğuk geçer. Bu coğrafi yapı, bölgenin flora ve faunasının çeşitliliğini etkilemektedir.
 
 ## Flora ve Fauna
 

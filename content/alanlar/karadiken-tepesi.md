@@ -49,7 +49,6 @@ Karadiken Tepesi'ni ziyaret etmek, ziyaretçilere güzel bir deneyim sunuyor. Bu
 
 ## İlginç Bilgiler
 
-- Karadiken Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu tepe, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sergileyen bir bölgedir.
 - Bölgenin tarihi geçmişi, çeşitli medeniyetlere ev sahipliği yapmıştır.
 - Karadiken Tepesi, ziyaretçilere yıl boyunca farklı deneyimler sunar.

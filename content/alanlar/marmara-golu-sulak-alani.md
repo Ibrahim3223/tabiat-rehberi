@@ -30,7 +30,7 @@ Marmara Gölü Sulak Alanı, yüzyıllar boyunca insan yerleşimlerine ve doğal
 
 ## Coğrafya
 
-Marmara Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresinde yer alan dağlar ve ovalar ile birlikte, bir ekosistem olarak işlev görüyor. Alanın coğrafi yapısı, sulak alanın karakterini belirlerken, iklim koşulları da bu ekosistemin canlılarına büyük ölçüde etkide bulunuyor. Sulak alanın su seviyesi, mevsimsel değişimlere bağlı olarak değişkenlik gösteriyor. Marmara Gölü Sulak Alanı, suyun ve suyun.getirdiği canlılığın yanı sıra, çevredeki dağlık ve ovalık alanlar ile bir bütün olarak değerlendirilmeli.
+Marmara Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Alanın coğrafi yapısı, sulak alanın karakterini belirlerken, iklim koşulları da bu ekosistemin canlılarına büyük ölçüde etkide bulunuyor. Sulak alanın su seviyesi, mevsimsel değişimlere bağlı olarak değişkenlik gösteriyor. Marmara Gölü Sulak Alanı, suyun ve suyun.getirdiği canlılığın yanı sıra, çevredeki dağlık ve ovalık alanlar ile bir bütün olarak değerlendirilmeli.
 
 ## Flora ve Fauna
 

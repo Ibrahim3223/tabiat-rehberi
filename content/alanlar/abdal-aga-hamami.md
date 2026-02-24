@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik yapmak","doğayı seyretmek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Abdal Ağa Hamamı","caption":"Abdal Ağa Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdal%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739205","tip":"genel"}]
-description: "Şanlıurfa'nın Siverek ilçesinde yer alan Abdal Ağa Hamamı, doğa severler için bir cennet. 140 hektarlık yeşil alan, çeşitli flora ve fauna türleriyle ziyaretçilerini bekliyor."
+description: "Şanlıurfa'nın Siverek ilçesinde yer alan Abdal Ağa Hamamı, doğa severler için bir cennet."
 keywords: ["Abdal Ağa Hamamı","Siverek","Şanlıurfa","doğa","flora","fauna","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739205"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739205"
 
 # Abdal Ağa Hamamı
 
-Abdal Ağa Hamamı, Şanlıurfa'nın Siverek ilçesinde yer alan 140 hektarlık bir yeşil alan. Hamamın çevresi, çeşitli ağaç türleriyle kaplı ve ziyaretçilere serin bir atmosfer sunuyor. Abdal Ağa Hamamı, doğa yürüyüşleri, piknik yapma ve doğayı seyretmek için ideal bir yer.
+ Hamamın çevresi, çeşitli ağaç türleriyle kaplı ve ziyaretçilere serin bir atmosfer sunuyor. Abdal Ağa Hamamı, doğa yürüyüşleri, piknik yapma ve doğayı seyretmek için ideal bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdal Ağa Hamamı'nın tarihi geçmişi, bölgeye yerleşen ilk insanlara kadar
 
 ## Coğrafya
 
-Abdal Ağa Hamamı, Şanlıurfa'nın Siverek ilçesinde, şehrin merkezine uzun bir mesafe uzaklıkta yer alıyor. Hamamın çevresi, çeşitli ağaç türleriyle kaplı ve ziyaretçilere serin bir atmosfer sunuyor. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilere, geniş otlaklar ve dağ manzaraları sunuyor. Abdal Ağa Hamamı, çevresindeki dağların eteklerinde yer alıyor ve bu konumu, ziyaretçilere, bölgenin coğrafi güzelliğini gösteriyor. Hamamın 140 hektarlık alanı, çeşitli flora ve fauna türleriyle kaplı ve bu çeşitlilik, ziyaretçilere, bölgeyi keşfetme fırsatı sunuyor.
+Abdal Ağa Hamamı, Şanlıurfa'nın Siverek ilçesinde, şehrin merkezine uzun bir mesafe uzaklıkta yer alıyor. Hamamın çevresi, çeşitli ağaç türleriyle kaplı ve ziyaretçilere serin bir atmosfer sunuyor. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilere, geniş otlaklar ve dağ manzaraları sunuyor. Abdal Ağa Hamamı, çevresindeki dağların eteklerinde yer alıyor ve bu konumu, ziyaretçilere, bölgenin coğrafi güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 
@@ -45,11 +45,10 @@ Abdal Ağa Hamamı, çeşitli flora ve fauna türleriyle kaplı. Hamamın çevre
 
 ## Ziyaret Bilgileri
 
-Abdal Ağa Hamamı, doğa severler için bir cennet. Ziyaretçiler, hamamın çevresinde, doğa yürüyüşleri yapabilir, piknik machenabilir ve doğayı seyretmek için ideal bir yer. Hamamın 140 hektarlık alanı, çeşitli flora ve fauna türleriyle kaplı ve bu çeşitlilik, ziyaretçilere, bölgeyi keşfetme fırsatı sunuyor. Ziyaretçiler, bölgede, farklı aktivitelere katılabilir ve bu aktiviteler, ziyaretçilere, doğanın güzelliğini gösteriyor.
+Abdal Ağa Hamamı, doğa severler için bir cennet. Ziyaretçiler, hamamın çevresinde, doğa yürüyüşleri yapabilir, piknik machenabilir ve doğayı seyretmek için ideal bir yer. Ziyaretçiler, bölgede, farklı aktivitelere katılabilir ve bu aktiviteler, ziyaretçilere, doğanın güzelliğini gösteriyor.
 
 ## İlginç Bilgiler
 
-- Abdal Ağa Hamamı, 140 hektarlık bir yeşil alana sahip
 - Hamamın çevresi, çeşitli ağaç türleriyle kaplı
 - Bölge, mevsimsel değişimlere göre, farklı flora türleriyle kaplanıyor
 - Abdal Ağa Hamamı, çeşitli fauna türlerine de ev sahipliği yapıyor

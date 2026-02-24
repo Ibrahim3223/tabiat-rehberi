@@ -49,7 +49,7 @@ Karaanlı Tepe, ziyaretçilerine yılın her döneminde bir gezi deneyimi sunuyo
 ## İlginç Bilgiler
 
 - Karaanlı Tepe, Mersin'in en önemli doğal alanlarından biri
-- Tepe, 140 hektarlık bir alan kaplıyor
+
 - Bölge, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer alıyor
 - Karaanlı Tepe, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor
 - Tepe, Mersin'in ve Akdeniz Bölgesi'nin önemli bir tarihi ve kültürel mirası olarak kabul ediliyor

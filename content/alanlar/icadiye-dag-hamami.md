@@ -51,6 +51,6 @@ wikidata_id: "Q131738593"
 
 - İcadiye Dağ Hamamı, Üsküdar'ın en güzel plajlarından biridir
 - Bu plaj, deniz kıyısında yer alıyor ve Marmara Denizi'nin serin sularına açılıyor
-- İcadiye Dağ Hamamı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bu plajda, çam, meşe ve zeytin ağaçları gibi farklı türler yer alıyor
 - İcadiye Dağ Hamamı, doğa severlerin ve hayvanseverlerin ziyaret edebileceği bir nokta olarak dikkat çekiyor

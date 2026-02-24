@@ -14,15 +14,14 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Amasya-Kargi-Erenlerkos Karacam","caption":"Amasya-Kargi-Erenlerkos Karacam","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Kargi-Erenlerkos%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227472","tip":"genel"}]
-description: "Amasya'da yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Amasya","Kargi","Erenlerkos","Karacam","milli park","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227472"
 ---
 
 # Amasya-Kargi-Erenlerkos Karacam
 
-Amasya ilinde bulunan Amasya-Kargi-Erenlerkos Karacam milli parkı, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Milli park, ziyaretçilerine doğayla iç içe bir ortam sunar. Yeşilin her tonunu görebileceğiniz bu park, aynı zamanda çeşitli bitki türleriyle zengin bir floraya sahiptir. Ziyaretçilerin doğayı keşfetmeleri ve bu muhteşem manzaraları görerek dinlenmeleri için ideal bir yerdir.
+ Milli park, ziyaretçilerine doğayla iç içe bir ortam sunar. Yeşilin her tonunu görebileceğiniz bu park, aynı zamanda çeşitli bitki türleriyle zengin bir floraya sahiptir. Ziyaretçilerin doğayı keşfetmeleri ve bu muhteşem manzaraları görerek dinlenmeleri için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -42,7 +41,6 @@ Amasya-Kargi-Erenlerkos Karacam milli parkını ziyaret etmek için, Amasya ilin
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, Amasya ilinin Karadeniz Bölgesi'nde yer alır
 - Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi destekler
 - Milli parkın fauna zenginliği, dikkat çekicidir

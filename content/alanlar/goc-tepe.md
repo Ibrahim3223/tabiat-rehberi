@@ -50,7 +50,7 @@ Göç Tepe, doğa severler için bir çekim merkezi olarak dikkat çekmekte ve b
 ## İlginç Bilgiler
 
 - Göç Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermektedir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Göç Tepe, doğa severler için bir çekim merkezi olarak dikkat çekmektedir.
 - Tepe ve çevresindeki düzlükler, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır.
 - Göç Tepe, trekking ve doğa yürüyüşü için uygun bir noktadır.

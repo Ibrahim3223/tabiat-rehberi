@@ -29,7 +29,7 @@ wikidata_id: "Q131738628"
 
 # Ayaş Tarihi Paşa Hamamı
 
-Ayaş Tarihi Paşa Hamamı, Ankara'nın Ayaş ilçesinde bulunan ve tarihi değer taşıyan bir hamamdır. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve tarihi geçmişi ile dikkat çekmektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan hamam, ziyaretçilerini tarihi bir atmosfere davet etmektedir. Ayaş Paşa Hamamı, bölgenin önemli tarihi noktalarından biri olarak kabul edilmektedir. İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Ayaş Tarihi Paşa Hamamı, Ankara'nın Ayaş ilçesinde bulunan ve tarihi değer taşıyan bir hamamdır. Ayaş Paşa Hamamı, bölgenin önemli tarihi noktalarından biri olarak kabul edilmektedir. İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

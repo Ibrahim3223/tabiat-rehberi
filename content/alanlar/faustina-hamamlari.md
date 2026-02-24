@@ -53,5 +53,5 @@ Faustina Hamamları, yılın her döneminde ziyaret edilebilir, ancak en iyi ziy
 - Faustina Hamamları, Roma İmparatorluğu döneminde inşa edilmiştir.
 - Bu hamamlar, sağlık ve temizlik amacıyla kullanılan önemli merkezler olarak kabul ediliyordu.
 - Bölge, çeşitli uygarlıkların izlerini taşır ve önemli bir kültürel miras olarak görülür.
-- Faustina Hamamları, 140 hektarlık bir arazide kurulmuştur.
+
 - Bölge, zengin bir flora ve faunaya sahiptir.

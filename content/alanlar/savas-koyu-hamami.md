@@ -21,7 +21,7 @@ aktiviteler: ["Plaj aktiviteleri","Doğa yürüyüşü","Çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Savaş Köyü Hamamı","caption":"Savaş Köyü Hamamı","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sava%C5%9F%20K%C3%B6y%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245689","tip":"genel"}]
-description: "Konya'nın Akşehir ilçesinde yer alan Savaş Köyü Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Savaş Köyü Hamamı","Konya","Akşehir","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245689"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245689"
 
 # Savaş Köyü Hamamı
 
-Savaş Köyü Hamamı, Konya'nın Akşehir ilçesinde yer alan 140 hektarlık bir yeşil alandır. Savaş Köyü Hamamı, aynı zamanda bir plaj olarak da biliniyor ve tatilseverlerin uğrak noktalarından biri. Bu muhteşem mekan, hem doğa severlerin hem de plaj tutkunlarının keyiflenebileceği bir destinasyon.
+ Savaş Köyü Hamamı, aynı zamanda bir plaj olarak da biliniyor ve tatilseverlerin uğrak noktalarından biri. Bu muhteşem mekan, hem doğa severlerin hem de plaj tutkunlarının keyiflenebileceği bir destinasyon.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Savaş Köyü Hamamı'na gitmek için en iyi zaman, genellikle bahar ve yaz ayla
 
 ## İlginç Bilgiler
 
-- Savaş Köyü Hamamı, 140 hektarlık bir yeşil alana sahip
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Savaş Köyü Hamamı, Konya'nın Akşehir ilçesinde yer alıyor
 - Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor
 - Savaş Köyü Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlıyor

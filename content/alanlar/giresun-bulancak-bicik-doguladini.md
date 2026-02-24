@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Giresun Bulancak Bicik-Doguladini","caption":"Giresun Bulancak Bicik-Doguladini","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun%20Bulancak%20Bicik-Doguladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228054","tip":"genel"}]
-description: "Giresun'un Bulancak ilçesinde yer alan Bicik-Doguladini milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Giresun","Bulancak","Bicik-Doguladini","milli park","çevre","doğa","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228054"
@@ -42,7 +42,6 @@ Bicik-Doguladini milli parkını ziyaret etmek, doğa severler için önemli bir
 
 ## İlginç Bilgiler
 
-- Bicik-Doguladini milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Milli parkta, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor
 - Milli parkın iklimi, Karadeniz ikliminin özellikleri gösteriyor

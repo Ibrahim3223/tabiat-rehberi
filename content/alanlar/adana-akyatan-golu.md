@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","göl gezisi","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Senecio_vernalis_-_Eastern_groundsel_-_Kanaryaotu_02.jpg","alt":"Adana-Akyatan Golu manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Senecio_vernalis_-_Eastern_groundsel_-_Kanaryaotu_02.jpg/960px-Senecio_vernalis_-_Eastern_groundsel_-_Kanaryaotu_02.jpg","alt":"Adana-Akyatan Golu","caption":"Adana-Akyatan Golu","credit":"Senecio vernalis - Eastern groundsel - Kanaryaotu 02","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Senecio_vernalis_-_Eastern_groundsel_-_Kanaryaotu_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Senecio_vernalis_-_Eastern_groundsel_-_Kanaryaotu_03.jpg/1280px-Senecio_vernalis_-_Eastern_groundsel_-_Kanaryaotu_03.jpg","alt":"Adana-Akyatan Golu - Senecio vernalis - Eastern groundsel - Kanaryaotu 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Paronychia_argentea_-_Algerian_tea_-_G%C3%BCm%C3%BC%C5%9F_etyaran_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paronychia_argentea_-_Algerian_tea_-_G%C3%BCm%C3%BC%C5%9F_etyaran_02.jpg/1280px-Paronychia_argentea_-_Algerian_tea_-_G%C3%BCm%C3%BC%C5%9F_etyaran_02.jpg","alt":"Adana-Akyatan Golu - Paronychia argentea - Algerian tea - Gümüş etyaran 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a9/Map_of_Akyatan_Forest_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Map_of_Akyatan_Forest_01.jpg/1280px-Map_of_Akyatan_Forest_01.jpg","alt":"Adana-Akyatan Golu - Map of Akyatan Forest 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/Habitat_disruption%2C_Karata%C5%9F_-_Adana_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Habitat_disruption%2C_Karata%C5%9F_-_Adana_02.jpg/1280px-Habitat_disruption%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Adana-Akyatan Golu - Habitat disruption, Karataş - Adana 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Araniella_cucurbitina_-_Cucumber_green_spider_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Araniella_cucurbitina_-_Cucumber_green_spider_03.jpg/1280px-Araniella_cucurbitina_-_Cucumber_green_spider_03.jpg","alt":"Adana-Akyatan Golu - Araniella cucurbitina - Cucumber green spider 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Akyatan%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228364","tip":"genel"}]
-description: "Adana-Akyatan Gölü, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri. 140 hektarlık bir alanı kapsıyor."
+description: "Adana-Akyatan Gölü, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Adana-Akyatan Gölü","Akdeniz Bölgesi","doğal güzellik","milli park","flora","fauna","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228364"
@@ -42,8 +42,6 @@ Adana-Akyatan Gölü, çeşitli bitki türleri ve zengin fauna bulunan bir doğa
 Adana-Akyatan Gölü'ne ziyaretçiler, kolayca ulaşabilir. Göl, şehir merkezine yakın bir yerde bulunmakta. Ziyaretçiler, gölde yürüyüş yapabilir, piknik yapabilir veya gölün güzelliğini seyretmek için oturabilir. Gölün etrafında, ziyaretçilerin ihtiyaçlarını karşılayabilecek tesisler bulunmakta. Ziyaretçiler, gölün güzelliğini ve doğasını deneyimlemek için en uygun zamanı seçmelidir.
 
 ## İlginç Bilgiler
-
-- Adana-Akyatan Gölü, 140 hektarlık bir alanı kapsıyor.
 
 - Gölün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Göl, milli park olarak bilinen bir doğal güzellik.

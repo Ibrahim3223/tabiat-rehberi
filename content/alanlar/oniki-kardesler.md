@@ -22,7 +22,7 @@ wikidata_id: "Q108227169"
 
 # Oniki Kardesler
 
-Oniki Kardesler milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alandan oluşuyor. Parkın ismi, burada bulunan 12 tepeye atıfta bulunuyor. Her bir tepe, benzersiz bir manzara sunuyor ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor. Oniki Kardesler, doğa severler ve macera arayanlar için ideal bir destinasyon.
+ Parkın ismi, burada bulunan 12 tepeye atıfta bulunuyor. Her bir tepe, benzersiz bir manzara sunuyor ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor. Oniki Kardesler, doğa severler ve macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Oniki Kardesler milli parkı, yüzyıllar boyunca bölgenin ekolojik dengesini k
 
 ## Coğrafya
 
-Oniki Kardesler milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın 140 hektarlık alanı, çeşitli bitki türleriyle kaplı ve 12 tepe ile çevrili. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgindir. Parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor. Oniki Kardesler, bölgenin flora ve faunasını korumak amacıyla kurulmuş ve bugün bölgenin en önemli ekolojik alanlarından biri olarak kabul ediliyor. Parkın coğrafi özellikleri, ziyaretçilere bölge hakkında detaylı bilgi edinme fırsatı sunuyor.
+Oniki Kardesler milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgindir. Parkın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor. Oniki Kardesler, bölgenin flora ve faunasını korumak amacıyla kurulmuş ve bugün bölgenin en önemli ekolojik alanlarından biri olarak kabul ediliyor. Parkın coğrafi özellikleri, ziyaretçilere bölge hakkında detaylı bilgi edinme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Oniki Kardesler milli parkı, ziyaretçilere bölgenin doğal güzelliklerini ke
 ## İlginç Bilgiler
 
 - Parkın ismi, 12 tepeye atıfta bulunuyor
-- Park, 140 hektarlık bir alandan oluşuyor
+
 - Parkın flora ve faunası, mevsimsel değişimlere göre değişiyor
 - Park, bölgenin ekolojik dengesini korumak için önemli bir role sahip
 - Parkın girişi ücretsizdir

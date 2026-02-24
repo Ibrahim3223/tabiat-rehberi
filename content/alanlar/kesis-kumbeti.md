@@ -38,7 +38,7 @@ Keşiş Kümbeti'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu böl
 
 ## Coğrafya
 
-Keşiş Kümbeti, coğrafi konumu itibariyle oldukça özel bir bölgede yer alıyor. Doğu Anadolu Bölgesi'nin dağlık ve engebeli arazisi, bu bölgeyi doğal güzellikler açısından oldukça zengin hale getiriyor. Bölge, dağların ve ovaların birleştiği bir noktada yer alıyor. İklim, genel olarak karasal iklim özellikleri gösteriyor ve dört mevsim अलग ayrı yaşanıyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dolu. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor. 140 hektarlık bu alan, ziyaretçilere geniş bir yeşil alan sunuyor ve doğanın güzelliği ile baş başa kalmalarına olanak tanıyor.
+Keşiş Kümbeti, coğrafi konumu itibariyle oldukça özel bir bölgede yer alıyor. Doğu Anadolu Bölgesi'nin dağlık ve engebeli arazisi, bu bölgeyi doğal güzellikler açısından oldukça zengin hale getiriyor. Bölge, dağların ve ovaların birleştiği bir noktada yer alıyor. İklim, genel olarak karasal iklim özellikleri gösteriyor ve dört mevsim अलग ayrı yaşanıyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dolu. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Keşiş Kümbeti'ni ziyaret etmek, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 
-- Keşiş Kümbeti, 140 hektarlık bir alana yayılıyor.
 - Bu bölge, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde yer alıyor.
 - Keşiş Kümbeti, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor.
 

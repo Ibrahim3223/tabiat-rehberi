@@ -50,7 +50,7 @@ Uyku Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri dene
 ## İlginç Bilgiler
 
 - Uyku Dede Türbesi, İstanbul'un fethine kadar uzanan bir geçmişe sahiptir
-- Bölge, 140 hektarlık yeşil alana sahiptir
+
 - Uyku Dede Türbesi, çeşitli flora ve fauna türlerine ev sahipliği yapar
 - Bölge, doğa severler ve fotoğrafçılar için ideal bir destinasyon olarak kabul edilir
 - Uyku Dede Türbesi, yılın her dönemi ziyaret edilebilir

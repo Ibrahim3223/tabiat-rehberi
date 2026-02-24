@@ -30,7 +30,7 @@ Malazgirt Meydan Muharebesi Milli Parkı, 1071 yılında gerçekleşen ve Türk 
 
 ## Coğrafya
 
-Malazgirt Meydan Muharebesi Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Parkın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçilerine geniş açık alanlar sunmaktadır. Bölge, genellikle step iklimi özellikleri göstermekle birlikte, mevsimsel olarak değişen bir hava durumu sergilemektedir. Parkın coğrafyası, ziyaretçilerin doğa ile iç içe olmasını sağlayan yürüyüş yolları, piknik alanları ve diğer açık alan faaliyetleri için uygun bir zemin sunmaktadır. Ayrıca, parkın yakın çevresinde çeşitli tarihi ve kültürel mekânlar bulunmaktadır ve ziyaretçiler, bu bölgeleri de gezebilirler.
+Malazgirt Meydan Muharebesi Milli Parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bölge, genellikle step iklimi özellikleri göstermekle birlikte, mevsimsel olarak değişen bir hava durumu sergilemektedir. Parkın coğrafyası, ziyaretçilerin doğa ile iç içe olmasını sağlayan yürüyüş yolları, piknik alanları ve diğer açık alan faaliyetleri için uygun bir zemin sunmaktadır. Ayrıca, parkın yakın çevresinde çeşitli tarihi ve kültürel mekânlar bulunmaktadır ve ziyaretçiler, bu bölgeleri de gezebilirler.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Malazgirt Meydan Muharebesi Milli Parkı, ziyaretçilerine çeşitli aktivite ve
 ## İlginç Bilgiler
 
 - Malazgirt Meydan Muharebesi, Türk tarihinin önemli bir dönüm noktasıdır.
-- Milli park, 140 hektarlık bir alana sahiptir.
+
 - Parkta çeşitli flora ve fauna türleri yaşamaktadır.
 - Ziyaretçiler, parkın tarihi ve kültürel önemini öğrenmek için rehberli turlara katılabilirler.
 - Parkın yakın çevresinde çeşitli tarihi ve kültürel mekânlar bulunmaktadır.

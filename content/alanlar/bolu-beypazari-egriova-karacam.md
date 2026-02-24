@@ -22,7 +22,7 @@ wikidata_id: "Q108228209"
 
 # Bolu-Beypazarı-Egriova-Karacam
 
-Bolu-Beypazarı-Egriova-Karacam milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir doğa ortamına davet ediyor. Parkın girişinden itibaren, ziyaretçiler kendilerini yemyeşil ormanların ve çiçeklerin arasında bulurlar. Bu milli park, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+ Parkın girişinden itibaren, ziyaretçiler kendilerini yemyeşil ormanların ve çiçeklerin arasında bulurlar. Bu milli park, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

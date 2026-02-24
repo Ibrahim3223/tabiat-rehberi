@@ -49,7 +49,7 @@ Gökboyun Tepesi'ni ziyaret etmek, doğa severlerin keyif alacağı bir deneyim.
 ## İlginç Bilgiler
 
 - Gökboyun Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Gökboyun Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Bu tepe, doğa yürüyüşleri ve doğa için ideal bir yer.
 - Gökboyun Tepesi, ziyaretçilerini güneşin doğuşunu ve batışını izleyebilecekleri manzaralar sunuyor.

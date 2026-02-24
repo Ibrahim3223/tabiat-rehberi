@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","bisiklet sürme","doğa fotoğrafçılığı"," pik
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"BOLU ŞEHİR ORMANI","caption":"BOLU ŞEHİR ORMANI","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BOLU%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228646","tip":"genel"}]
-description: "Bolu Şehir Ormanı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
+"
 keywords: ["Bolu Şehir Ormanı","doğa","orman","yeşil alan","fiziksel aktivite","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228646"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228646"
 
 # BOLU ŞEHİR ORMANI
 
-Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir yeşil alandır. Şehir Ormanı, Bolu'nun merkezine çok yakın bir konumda yer almaktadır. Orman, doğa severler için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Bolu Şehir Ormanı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu doğa harikası, ziyaretçilere hem dinlenme hem de fiziksel aktivite imkanı sunmaktadır.
+ Şehir Ormanı, Bolu'nun merkezine çok yakın bir konumda yer almaktadır. Orman, doğa severler için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Bolu Şehir Ormanı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu doğa harikası, ziyaretçilere hem dinlenme hem de fiziksel aktivite imkanı sunmaktadır.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Bolu Şehir Ormanı, çeşitli bitki türleri ve zengin fauna ile birlikte, ziya
 Bolu Şehir Ormanı, ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunmaktadır. Ormana ulaşım oldukça kolaydır ve ziyaretçilere çeşitli fiziksel aktivite imkanları sunmaktadır. Bolu Şehir Ormanı, hem doğa severler hem de spor severler için ideal bir destinasyonudur. Ziyaretçiler, ormanda yürüyüş yapabilir, bisiklet sürebilir veya doğa fotoğrafçılığı yapabilir. Orman, ayrıca çeşitli restoran ve kafelerle birlikte, ziyaretçilere yeme ve içecek imkanları sunmaktadır. Bolu Şehir Ormanı, ziyaretçilere hem dinlenme hem de fiziksel aktivite imkanı sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Bolu Şehir Ormanı, 140 hektarlık bir yeşil alandır.
 
 - Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir şekilde, dağlık ve engebeli bir arazide yer almaktadır.
 - Orman, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.

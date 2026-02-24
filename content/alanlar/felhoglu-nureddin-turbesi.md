@@ -29,7 +29,7 @@ wikidata_id: "Q131391776"
 
 # Felâhoğlu Nureddin Türbesi
 
-Felâhoğlu Nureddin Türbesi, Tarsus'un tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve ziyaretçilerini tarihi ve doğası ile büyüler. 200 futbol sahası büyüklüğünde olan bu alan, hem historia meraklıları hem de doğa severler için ideal bir destinasyon. Tarsus'un Kilikya bölgesinde yer alan Felâhoğlu Nureddin Türbesi, ziyaretçilerini geçmişin gizemli dünyasına götürmeye hazır.
+Felâhoğlu Nureddin Türbesi, Tarsus'un tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Tarsus'un Kilikya bölgesinde yer alan Felâhoğlu Nureddin Türbesi, ziyaretçilerini geçmişin gizemli dünyasına götürmeye hazır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Felâhoğlu Nureddin Türbesi, tarihi geçmişi ile dikkat çeker. Bu bölgenin 
 
 ## Coğrafya
 
-Felâhoğlu Nureddin Türbesi, Tarsus'un Kilikya bölgesinde yer alır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Türbe ve çevresindeki alan, yaklaşık 140 hektarlık bir alanı kaplar ve doğal güzellikleri ile dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçileri dört mevsim ile karşılar. Tarsus'un coğrafi konumu, tarihi boyunca önemli bir geçiş noktası olmasını sağlamıştır. Felâhoğlu Nureddin Türbesi, bu coğrafi güzelliğin bir parçası olarak, ziyaretçilerine doğanın ve tarihin iç içe geçtiği bir deneyim sunar. Bölgenin coğrafyası, ziyaretçilerin keşfetmeye açık bir sunar.
+Felâhoğlu Nureddin Türbesi, Tarsus'un Kilikya bölgesinde yer alır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçileri dört mevsim ile karşılar. Tarsus'un coğrafi konumu, tarihi boyunca önemli bir geçiş noktası olmasını sağlamıştır. Felâhoğlu Nureddin Türbesi, bu coğrafi güzelliğin bir parçası olarak, ziyaretçilerine doğanın ve tarihin iç içe geçtiği bir deneyim sunar. Bölgenin coğrafyası, ziyaretçilerin keşfetmeye açık bir sunar.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q135582634"
 
 # Niyazi Baba Kümbeti, Burdur
 
-Niyazi Baba Kümbeti, Burdur'un Yeşilova ilçesinde yer alan tarihi bir kümbettir. Bu kümbet, yaklaşık 140 hektarlık bir alan içinde yer alır ve çevresinde çeşitli bitki türleri bulunur. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Niyazi Baba Kümbeti, Burdur'un kültürel mirasının önemli bir parçasıdır ve ziyaretçilerin ilgisini çeker. Bu kümbetin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir ve bugün bir turizm merkezi olarak hizmet vermektedir.
+Niyazi Baba Kümbeti, Burdur'un Yeşilova ilçesinde yer alan tarihi bir kümbettir. Niyazi Baba Kümbeti, Burdur'un kültürel mirasının önemli bir parçasıdır ve ziyaretçilerin ilgisini çeker. Bu kümbetin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir ve bugün bir turizm merkezi olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Niyazi Baba Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Niyazi Baba Kümbeti, Burdur'un Yeşilova ilçesinde yer alır ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu kümbet, yaklaşık 140 hektarlık bir alan içinde yer alır ve çevresinde çeşitli bitki türleri bulunur. 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Niyazi Baba Kümbeti'nin bulunduğu bölge, coğrafi olarak çeşitlilik gösterir ve ziyaretçilere farklı manzaralar sunar. Bu bölge, yeşilin ve mavinin tonlarını bir araya getiren bir güzelliğe sahiptir. Niyazi Baba Kümbeti, Burdur'un coğrafi zenginliklerini keşfetmek için ideal bir noktadır.
+Niyazi Baba Kümbeti, Burdur'un Yeşilova ilçesinde yer alır ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Niyazi Baba Kümbeti'nin bulunduğu bölge, coğrafi olarak çeşitlilik gösterir ve ziyaretçilere farklı manzaralar sunar. Bu bölge, yeşilin ve mavinin tonlarını bir araya getiren bir güzelliğe sahiptir. Niyazi Baba Kümbeti, Burdur'un coğrafi zenginliklerini keşfetmek için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Niyazi Baba Kümbeti'ni ziyaret etmek, Burdur'un tarihi ve kültürel zenginlikl
 ## İlginç Bilgiler
 
 - Niyazi Baba Kümbeti, Burdur'un kültürel mirasının önemli bir parçasıdır.
-- Bu kümbet, yaklaşık 140 hektarlık bir alan içinde yer alır.
+
 - Niyazi Baba Kümbeti, yılın her döneminde ziyaret edilebilir.
 - Bu kümbet, hem tarihi hem de doğal güzellikleri bir arada sunar.
 - Niyazi Baba Kümbeti, Burdur'un coğrafi zenginliklerini keşfetmek için ideal bir noktadır.

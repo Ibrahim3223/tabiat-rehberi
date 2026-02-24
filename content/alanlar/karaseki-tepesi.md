@@ -36,7 +36,7 @@ Karaseki Tepesi'nin tarihi geçmişi, Denizli'nin genel tarihinden ayrı düşü
 
 ## Coğrafya
 
-Karaseki Tepesi, Denizli'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Tepenin konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini gözler önüne seriyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde ve çevresinde, yeşilin farklı tonlarını görme mümkün. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde karakterize ediliyor. Karaseki Tepesi, doğa severler için bir cennet harika bir deneyim. Tepenin coğrafi yapısı, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Karaseki Tepesi, Denizli'nin coğrafi yapısı içerisinde önemli bir yer tutuyor. Tepenin konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini gözler önüne seriyor. Tepenin eteklerinde ve çevresinde, yeşilin farklı tonlarını görme mümkün. Bölgenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar şeklinde karakterize ediliyor. Karaseki Tepesi, doğa severler için bir cennet harika bir deneyim. Tepenin coğrafi yapısı, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

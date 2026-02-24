@@ -50,7 +50,7 @@ Kaptan Kılıç Ali Paşa Hamamı, İstanbul'un tarihi ve doğal güzelliklerini
 ## İlginç Bilgiler
 
 - Kaptan Kılıç Ali Paşa Hamamı, İstanbul'un en eski hamamlarından biri.
-- Hamam, 140 hektarlık bir alana sahip.
+
 - Kaptan Kılıç Ali Paşa Hamamı, Marmara Bölgesi'nin güzelliklerini sunuyor.
 - Hamamın çevresi, çeşitli bitki türleriyle zengin.
 - Kaptan Kılıç Ali Paşa Hamamı, İstanbul'un tarihi geçmişi hakkında bilgi sunuyor.

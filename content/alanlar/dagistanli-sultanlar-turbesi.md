@@ -29,7 +29,7 @@ wikidata_id: "Q131390809"
 
 # Dağıstanlı Sultanlar Türbesi
 
-Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinde, Erzurum'un tarihi zenginliklerini barındıran önemli bir destinasyondur. Doğu Anadolu Bölgesi'nin kalbinde yer alan bu türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Tarihi ve kültürel öneme sahip bu türbenin etrafı, zengin flora ve fauna ile çevrilidir. Doğal güzellikleri ve tarihi önemi bir araya getiren Dağıstanlı Sultanlar Türbesi, ziyaretçilerini bekliyor.
+Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinde, Erzurum'un tarihi zenginliklerini barındıran önemli bir destinasyondur. Tarihi ve kültürel öneme sahip bu türbenin etrafı, zengin flora ve fauna ile çevrilidir. Doğal güzellikleri ve tarihi önemi bir araya getiren Dağıstanlı Sultanlar Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dağıstanlı Sultanlar Türbesi, tarihi geçmişi ile dikkat çeker. Bu türben
 
 ## Coğrafya
 
-Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinin merkezi bir noktasında yer almaktadır. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu bölge, dağlık ve engebeli bir arazide kurulmuştur. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile karşılaşma mümkün. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yaz ayları sıcak, kış ayları soğuk geçer. Türbenin konumu, ziyaretçilere geniş bir manzara sunar ve çevredeki doğal güzellikleri keşfetme imkanı sağlar. 140 hektarlık alan, ziyaretçilere geniş bir açık mekan sunar ve doğa ile iç içe bir atmosfer yaratır.
+Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinin merkezi bir noktasında yer almaktadır. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu bölge, dağlık ve engebeli bir arazide kurulmuştur. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile karşılaşma mümkün. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yaz ayları sıcak, kış ayları soğuk geçer. Türbenin konumu, ziyaretçilere geniş bir manzara sunar ve çevredeki doğal güzellikleri keşfetme imkanı sağlar.
 
 ## Flora ve Fauna
 

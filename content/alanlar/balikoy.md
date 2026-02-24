@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","vadi keşfi","dağ tırmanışı","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Balik%C3%B6y_tren_istasyonu_-_panoramio.jpg","alt":"BALIKÖY manzarası","credit":"nami yildirim","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Balik%C3%B6y_tren_istasyonu_-_panoramio.jpg/960px-Balik%C3%B6y_tren_istasyonu_-_panoramio.jpg","alt":"BALIKÖY","caption":"BALIKÖY","credit":"Baliköy tren istasyonu - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BALIK%C3%96Y","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228599","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
@@ -42,8 +42,6 @@ BALIKÖY, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor
  Milli park, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor ve doğa severlerin hayalini süsleyen bir cennet. BALIKÖY'ü ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar ayları. Ziyaretçilerin, milli parkı ziyaret etmeden önce, bölgenin hava durumunu kontrol etmeleri öneriliyor. BALIKÖY, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor ve doğayla iç içe bir deneyim vaat ediyor.
 
 ## İlginç Bilgiler
-
-- BALIKÖY, 140 hektarlık bir alanı kapsıyor.
 
 - BALIKÖY, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor.
 - Milli park, bölgenin en önemli ekosistemlerinden biri.

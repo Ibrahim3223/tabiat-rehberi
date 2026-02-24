@@ -49,7 +49,7 @@ Taşlıhüyük Tepesi'ni ziyaret etmek, Ankara'nın tarihi ve doğal güzelliği
 ## İlginç Bilgiler
 
 - Taşlıhüyük Tepesi, Ankara'nın merkezinde yer alan bir tepe
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Taşlıhüyük Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 - Bu bölge, çeşitli uygarlıkların yerleşim alanı olarak kullanılmış
 - Taşlıhüyük Tepesi, Ankara'nın doğal güzelliğini ve tarihi öneminin önemli bir parçası

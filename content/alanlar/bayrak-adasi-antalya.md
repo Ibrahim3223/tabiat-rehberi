@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günün yarısı"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/B%C3%BCy%C3%BCkada-Nizam%2C_34970_Adalar-%C4%B0stanbul%2C_Turkey_-_panoramio_%284%29.jpg/960px-B%C3%BCy%C3%BCkada-Nizam%2C_34970_Adalar-%C4%B0stanbul%2C_Turkey_-_panoramio_%284%29.jpg","alt":"Bayrak Adası","caption":"Bayrak Adası","credit":"Büyükada-Nizam, 34970 Adalar-İstanbul, Turkey - panoramio (4)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_orb_Norfolk_Island.svg/960px-Flag_orb_Norfolk_Island.svg.png","alt":"Bayrak Adası","caption":"Bayrak Adası","credit":"Flag orb Norfolk Island","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayrak%20Adas%C4%B1%20(Antalya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49632527","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Bayrak Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Bayrak Adası","Antalya","ada","turizm","gezi","doğa","tarih","yeşil alan","deniz","kumsal"]

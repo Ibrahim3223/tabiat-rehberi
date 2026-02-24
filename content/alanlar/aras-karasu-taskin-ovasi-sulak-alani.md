@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğrafçılık","Bisiklet turları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Aras_Nehri_Karas%C4%B1_%C3%87ay%C4%B1.jpg","alt":"Aras Karasu Taşkın Ovası Sulak Alanı manzarası","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aras_Nehri_Karas%C4%B1_%C3%87ay%C4%B1.jpg/960px-Aras_Nehri_Karas%C4%B1_%C3%87ay%C4%B1.jpg","alt":"Aras Karasu Taşkın Ovası Sulak Alanı","caption":"Aras Karasu Taşkın Ovası Sulak Alanı","credit":"Aras Nehri Karası Çayı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Karasu%27da_Deniz_Maymunu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karasu%27da_Deniz_Maymunu.jpg/1280px-Karasu%27da_Deniz_Maymunu.jpg","alt":"Aras Karasu Taşkın Ovası Sulak Alanı - Karasu'da Deniz Maymunu","credit":"Ekrem.Ozcan","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aras%20Karasu%20Ta%C5%9Fk%C4%B1n%20Ovas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228859","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Aras Karasu Taşkın Ovası Sulak Alanı"

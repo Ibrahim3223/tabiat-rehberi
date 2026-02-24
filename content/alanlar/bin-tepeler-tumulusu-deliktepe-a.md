@@ -21,7 +21,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Tarih keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Bin Tepeler Tümülüsü Deliktepe A","caption":"Bin Tepeler Tümülüsü Deliktepe A","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Deliktepe%20A","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728381","tip":"genel"}]
-description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini birleştiren Bin Tepeler Tümülüsü Deliktepe A, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Bin Tepeler","Tümülüsü","Deliktepe A","Ege Bölgesi","Salihli","Manisa","tarih","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728381"
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü Deliktepe A'nın tarihi geçmişi, Ege Bölgesi'nin ant
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, Salihli, Manisa'nın doğal güzellikleriyle dolu bir alanı olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar. 140 hektarlık bir alanı kaplayan Deliktepe A, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak yaz aylarıyla birlikte ılıman bir iklimi sahiptir. Deliktepe A, çevresi ile birlikte zengin bir flora ve fauna çeşitliliğine sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere hem tarihi kalıntıları keşfetme hem de doğal güzellikleri discovery fırsatı sunar. Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi zenginliklerini bir araya getiren benzersiz bir destinasyondur.
+Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, Salihli, Manisa'nın doğal güzellikleriyle dolu bir alanı olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu bölge, genellikle sıcak ve kurak yaz aylarıyla birlikte ılıman bir iklimi sahiptir. Deliktepe A, çevresi ile birlikte zengin bir flora ve fauna çeşitliliğine sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere hem tarihi kalıntıları keşfetme hem de doğal güzellikleri discovery fırsatı sunar. Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin coğrafi zenginliklerini bir araya getiren benzersiz bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü Deliktepe A, ziyaretçilerine hem tarihi hem de doğal 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin en önemli tarih ve doğa merkezlerinden biri olarak kabul edilir.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Deliktepe A, özellikle bahar aylarında ziyaret edildiğinde, ziyaretçilerini rengarenk çiçeklerle karşılama fırsatı sunar.
 - Bu bölge, çeşitli bitki türleri ile birlikte zengin bir fauna çeşitliliğine sahiptir.
 - Bin Tepeler Tümülüsü Deliktepe A, tarihin ve doğanın bir arada olduğu eşsiz bir deneyim sunar.

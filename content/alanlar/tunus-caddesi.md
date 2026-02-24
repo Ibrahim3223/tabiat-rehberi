@@ -51,7 +51,7 @@ Tunus Caddesi, Ankaranın en önemli caddelerinden biri olmasının yanı sıra,
 ## İlginç Bilgiler
 
 - Tunus Caddesi, Ankaranın en önemli caddelerinden biridir.
-- Cadde, yaklaşık 140 hektarlık bir alan kaplamaktadır.
+
 - Tunus Caddesi, Ankaranın kültürel ve doğal güzelliğini yansıtmaktadır.
 - Cadde, özellikle yaz aylarında Ankaranın en popüler mekanlarından biri haline gelmektedir.
 - Tunus Caddesi, Ankaranın coğrafi yapısını yansıtan bir bölgedir.

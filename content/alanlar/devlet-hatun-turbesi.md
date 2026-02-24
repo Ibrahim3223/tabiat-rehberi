@@ -38,7 +38,7 @@ Devlet Hatun Türbesi, tarihin depthsinde gizli bir hazine gibi bekliyor. Osmanl
 
 ## Coğrafya
 
-Devlet Hatun Türbesi, Bursa'nın Yıldırım ilçesinde, şehrin kalbinde yer alıyor. Şehir merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleriyle dolu. Çevre, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. İklim, Marmara Bölgesi'nin ılıman iklimine uygun olarak, dört mevsim ziyaretçilerini ağırlıyor. Şehir merkezindeki konumu, ziyaretçilerin diğer tarihi mekanları da kolayca keşfetmesine olanak tanıyor. Bursa'nın coğrafi güzellikleri, Devlet Hatun Türbesi'nin çevresinde de kendini gösteriyor.
+Devlet Hatun Türbesi, Bursa'nın Yıldırım ilçesinde, şehrin kalbinde yer alıyor. Şehir merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Çevre, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. İklim, Marmara Bölgesi'nin ılıman iklimine uygun olarak, dört mevsim ziyaretçilerini ağırlıyor. Şehir merkezindeki konumu, ziyaretçilerin diğer tarihi mekanları da kolayca keşfetmesine olanak tanıyor. Bursa'nın coğrafi güzellikleri, Devlet Hatun Türbesi'nin çevresinde de kendini gösteriyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Devlet Hatun Türbesi'ni ziyaret etmek, Bursa'nın tarihi ve kültürel zenginli
 ## İlginç Bilgiler
 
 - Devlet Hatun Türbesi, Osmanlı İmparatorluğu'nun önemli isimlerinden biri olan Devlet Hatun'a ait
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Çevre, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor
 - Türbe, yılın her dönemi ziyaret edilebilir

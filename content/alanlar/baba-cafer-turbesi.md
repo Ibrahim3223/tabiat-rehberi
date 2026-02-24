@@ -29,7 +29,7 @@ wikidata_id: "Q131391038"
 
 # Baba Cafer Türbesi
 
-Baba Cafer Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir destinasyondur. Fatih ilçesinde yer alan bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili olup, ziyaretçilere doğayla iç içe bir deneyim sunar. Baba Cafer Türbesi, İstanbul'un tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker. Burada, tarihi yapıların güzelliği ve çevrenin doğal güzellikleri bir arada bulunmakta, ziyaretçilere unutulmaz anlar yaşatmaktadır.
+Baba Cafer Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir destinasyondur. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili olup, ziyaretçilere doğayla iç içe bir deneyim sunar. Baba Cafer Türbesi, İstanbul'un tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker. Burada, tarihi yapıların güzelliği ve çevrenin doğal güzellikleri bir arada bulunmakta, ziyaretçilere unutulmaz anlar yaşatmaktadır.
 
 ## Tarihçe
 

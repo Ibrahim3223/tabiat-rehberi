@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","su sporları","kumsal aktiviteleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Alibaba Türbesi","caption":"Alibaba Türbesi","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alibaba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391678","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli kumsallarından biri olan Alibaba Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Marmara Bölgesi","Balıkesir","kumsal","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391678"
@@ -50,7 +50,7 @@ Alibaba Türbesi'ni ziyaret etmek için, ziyaretçilerin Marmara Bölgesi'nin Ba
 ## İlginç Bilgiler
 
 - Alibaba Türbesi, Marmara Bölgesi'nin en güzel noktalarından biri olarak görülmektedir
-- 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Marmara Denizi'nin kıyısında yer almakta
 - çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır
 - Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak görülmektedir

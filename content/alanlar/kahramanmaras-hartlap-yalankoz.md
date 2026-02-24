@@ -42,8 +42,6 @@ Kahramanmaras-Hartlap Yalankoz Milli Parkı, ziyaretçilere benzersiz bir deneyi
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana sahiptir.
-
 - Bölge, yüksek dağlar ve yeşil vadiler ile çevrilidir.
 - Milli park, çeşitli bitki türleri ve yaban hayatı ile zengindir.
 - Parkın iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzemektedir.

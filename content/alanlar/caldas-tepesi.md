@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Çevre 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Çaldaş Tepesi","caption":"Çaldaş Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alda%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823603","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin güzide illerinden Çorum'da yer alan Çaldaş Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Çaldaş Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34823603"
@@ -48,7 +48,6 @@ wikidata_id: "Q34823603"
 
 ## İlginç Bilgiler
 
-- Çaldaş Tepesi, 140 hektarlık bir alana yayılıyor.
 - Tepenin etrafı, çeşitli bitki türleriyle dolu.
 - Çaldaş Tepesi, Karadeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor.
 - Tepenin eteklerinde, tarihi köyler ve kasabalar yer alıyor.

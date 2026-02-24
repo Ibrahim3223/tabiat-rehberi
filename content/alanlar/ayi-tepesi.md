@@ -28,7 +28,7 @@ wikidata_id: "Q31386032"
 
 # Ayı Tepesi
 
-Ayı Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu doğal güzellik, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepe, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Ayı Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi.
+Ayı Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Ayı Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Ayı Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmi
 ## İlginç Bilgiler
 
 - Ayı Tepesi, Güneydoğu Anadolu Bölgesi'nin gizli güzelliği.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Ayı Tepesi, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Bu tepe, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 - Ayı Tepesi, tarih meraklıları için bir çekim merkezi.

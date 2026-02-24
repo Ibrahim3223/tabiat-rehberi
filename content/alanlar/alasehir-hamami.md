@@ -50,7 +50,7 @@ Alaşehir Hamamı, özellikle yaz aylarında ziyaret edilebilecek bir destinasyo
 ## İlginç Bilgiler
 
 - Alaşehir Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri.
-- Plaj, 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Bölge, zeytin ağaçları ve diğer yerel bitki türleri ile kaplı.
 - Deniz suyu, çeşitli balık türleri ve diğer deniz canlılarını barındırıyor.
 - Ziyaretçiler, burada denize girme, güneşlenme, piknik yapma ve doğa yürüyüşü gibi aktiviteleri gerçekleştirebiliyor.

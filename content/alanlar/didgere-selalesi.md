@@ -28,7 +28,7 @@ wikidata_id: "Q97207856"
 
 # Didğere Şelalesi
 
-Didğere Şelalesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çeker. Artvin'de yer alan bu şelale, yaklaşık 140 hektarlık bir alanda yer alır. Didğere Şelalesi, bölgenin önemli turizm noktalarından biri olarak bilinir. Şelalenin güzelliği ve doğal ortamı, ziyaretçilerini etkileyen önemli unsurlardır. Didğere Şelalesi, doğa severlerin ve gezi düşkünü kişilerin mutlaka ziyaret etmesi gereken bir yer olarak öne çıkar.
+Didğere Şelalesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çeker. Didğere Şelalesi, bölgenin önemli turizm noktalarından biri olarak bilinir. Şelalenin güzelliği ve doğal ortamı, ziyaretçilerini etkileyen önemli unsurlardır. Didğere Şelalesi, doğa severlerin ve gezi düşkünü kişilerin mutlaka ziyaret etmesi gereken bir yer olarak öne çıkar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Didğere Şelalesi, ziyaretçilerine birçok olanak sunar. Şelaleye, Artvin il 
 ## İlginç Bilgiler
 
 - Didğere Şelalesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biridir.
-- Şelale, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Didğere Şelalesi, yüzyıllar boyunca bölgenin kültürel ve tarihi değerlerini korumuştur.
 - Şelalenin çevresi, zengin flora ve fauna ile çevrilidir.
 - Didğere Şelalesi, ziyaretçilerine hem doğal güzellikleri hem de kültürel zenginliği sunar.

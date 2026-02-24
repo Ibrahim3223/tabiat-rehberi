@@ -50,7 +50,7 @@ Mızraklı Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikler
 ## İlginç Bilgiler
 
 - Mızraklı Dede Türbesi, tarihi ve doğal güzelliklerin birleştiği bir noktadır.
-- 140 hektarlık yeşil alan sunar.
+
 - Ege Bölgesi'nin coğrafi güzelliklerini sunar.
 - Çeşitli bitki türleri ve zengin fauna bulunur.
 - Ekolojik olarak önemli bir bölgedir.

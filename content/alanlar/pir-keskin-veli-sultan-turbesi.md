@@ -37,7 +37,7 @@ Pir Keskin Veli Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca öneml
 
 ## Coğrafya
 
-Pir Keskin Veli Sultan Türbesi, Pendik ilçesinde, İstanbul'un güzel bir bölgesinde yer alıyor. Marmara Bölgesi'nin coğrafyası, bu türbenin çevresi için karakteristik bir özellik sunuyor. Deniz seviyesine yakın bir konumda bulunan türbe, bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biri olarak görülüyor. Çevresinde çeşitli bitki türleri ve hayvanlar bulunan bu mekan, doğa severler için bir cennet olarak düşünülüyor. 140 hektarlık alan, ziyaretçilere geniş bir açık alan sunuyor ve bu, türbenin coğrafi konumunun önemli bir özelliği olarak öne çıkıyor.
+Pir Keskin Veli Sultan Türbesi, Pendik ilçesinde, İstanbul'un güzel bir bölgesinde yer alıyor. Marmara Bölgesi'nin coğrafyası, bu türbenin çevresi için karakteristik bir özellik sunuyor. Deniz seviyesine yakın bir konumda bulunan türbe, bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biri olarak görülüyor. Çevresinde çeşitli bitki türleri ve hayvanlar bulunan bu mekan, doğa severler için bir cennet olarak düşünülüyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Pir Keskin Veli Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğa severl
 
 - Pir Keskin Veli Sultan Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biridir.
 - Türbenin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur.
-- 140 hektarlık alan, ziyaretçilere geniş bir açık alan sunar.
+
 - Bölge, İstanbul'un Pendik ilçesinde yer alır.
 - Türbe, yüzyıllar boyunca önemli olaylara tanıklık etmiş bir tarihi mekândır.

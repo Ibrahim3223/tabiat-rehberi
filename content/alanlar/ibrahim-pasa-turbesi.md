@@ -51,7 +51,7 @@ wikidata_id: "Q131391123"
 ## İlginç Bilgiler
 
 - İbrahim Paşa Türbesi, Marmara Bölgesi'nin önemli kültürel miraslarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor.
+
 - İbrahim Paşa, Osmanlı Devleti'nin önemli isimlerinden biri olarak bilinir.
 - Türbe, İstanbul'un tarihi merkezi olan Fatih'te yer alır.
 - Bölge, dört mevsimi yaşayan bir iklimi sahiptir.

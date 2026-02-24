@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","kuş gözlemi","fotoğraf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Karaahmetli Tabiat Parkı","caption":"Karaahmetli Tabiat Parkı","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaahmetli%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61077823","tip":"genel"}]
-description: "Kırıkkale'de yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alan"
+
 keywords: ["Karaahmetli Tabiat Parkı","Kırıkkale","İç Anadolu Bölgesi","tabiat parkı","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q61077823"
@@ -48,7 +48,6 @@ Karaahmetli Tabiat Parkı'na ziyaretçiler, özellikle ilkbahar ve sonbahar ayla
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Kırıkkale ilinin önemli doğal güzelliklerinden biri
 - zengin flora ve fauna
 - doğa severler için ideal destinasyon

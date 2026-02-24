@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","doğa gözlemi","fotoğrafçılık","picn
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Şarlan","caption":"Şarlan","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Earlan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228497","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık Şarlan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Şarlan","İç Anadolu Bölgesi","doğal güzellik","milli park","çevre","eko-turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228497"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228497"
 
 # Şarlan
 
-Şarlan, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu bölge, yüzyıllar boyunca insanların doğayı koruma ve yaşatma çabalarının bir sonucu olarak korunan bir alandır. Şarlan'ın tarihi geçmişi, insanların doğa ile uyum içinde yaşama konusundaki deneyimlerini yansıtmaktadır.
+ Bu bölge, yüzyıllar boyunca insanların doğayı koruma ve yaşatma çabalarının bir sonucu olarak korunan bir alandır. Şarlan'ın tarihi geçmişi, insanların doğa ile uyum içinde yaşama konusundaki deneyimlerini yansıtmaktadır.
 
 ## Tarihçe
 

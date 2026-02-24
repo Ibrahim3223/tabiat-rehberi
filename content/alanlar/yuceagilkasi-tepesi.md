@@ -36,7 +36,7 @@ Yüceağılkaşı Tepesi'nin tarihi geçmişi, bölgenin diğer yerleri gibi zen
 
 ## Coğrafya
 
-Yüceağılkaşı Tepesi, Gaziantep'in güneydoğusunda yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Yüceağılkaşı Tepesi, bölgenin coğrafi yapısını belirleyen önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Tepenin zirvesinden, Gaziantep'in ve çevresinin panoramik manzarası izlenebilmekte. Yüceağılkaşı Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktör. Tepenin etrafında, çeşitli su kaynakları bulunmakta ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli.
+ Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Yüceağılkaşı Tepesi, bölgenin coğrafi yapısını belirleyen önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Tepenin zirvesinden, Gaziantep'in ve çevresinin panoramik manzarası izlenebilmekte. Yüceağılkaşı Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktör. Tepenin etrafında, çeşitli su kaynakları bulunmakta ve bu su kaynakları, bölgenin tarım ve hayvancılık faaliyetleri için önemli.
 
 ## Flora ve Fauna
 

@@ -50,7 +50,7 @@ Nure Sofi Türbesi'ni ziyaret etmek, Mut'un tarihi ve doğal güzelliklerini ke�
 ## İlginç Bilgiler
 
 - Nure Sofi Türbesi, Mut'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- Mekan, 140 hektarlık bir alana sahip.
+
 - Nure Sofi Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor.
 - Bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak yazlar ve ılıman kışlar ile tanınır.
 - Mekan, ziyaretçilerine çeşitli etkinlikler sunuyor.

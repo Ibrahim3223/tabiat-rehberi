@@ -29,7 +29,7 @@ wikidata_id: "Q131738539"
 
 # Kızlar Ağası Hamamı
 
-Kızlar Ağası Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir noktadır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin zengin kültürel mirasına katkıda bulunur. 140 hektarlık bir alanda değil, daha küçük bir ölçekte kurulan hamam, yaklaşık 2000 metrekarelik bir alanı kaplar. Bu alan, tarihi ve kültürel zenginliklerin bir arada bulunduğu bir mekan olarak dikkat çeker. Kızlar Ağası Hamamı, İstanbul'un turisti ve kültürel değerleri arasında önemli bir yere sahiptir.
+Kızlar Ağası Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir noktadır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin zengin kültürel mirasına katkıda bulunur. Bu alan, tarihi ve kültürel zenginliklerin bir arada bulunduğu bir mekan olarak dikkat çeker. Kızlar Ağası Hamamı, İstanbul'un turisti ve kültürel değerleri arasında önemli bir yere sahiptir.
 
 ## Tarihçe
 

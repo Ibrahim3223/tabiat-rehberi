@@ -30,7 +30,7 @@ wikidata_id: "Q131738520"
 
 # Han Hamamı
 
-Han Hamamı, Bitlis ilinin merkezinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan bir doğa harikasıdır. Han Hamamı, şehrin kalabalığından kaçma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, bu güzel mekanın sunduğu huzurlu atmosferi ve güzelliği keşfetmek için burayı ziyaret edebilirler.
+ Han Hamamı, şehrin kalabalığından kaçma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, bu güzel mekanın sunduğu huzurlu atmosferi ve güzelliği keşfetmek için burayı ziyaret edebilirler.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Han Hamamı, ziyaretçilere çeşitli gezme ve keşfetme fırsatları sunar. Ziy
 
 ## İlginç Bilgiler
 
-- Han Hamamı, yaklaşık 140 hektarlık bir alanı kaplar
 - Han Hamamı, Bitlis ilinin merkezinde yer alır
 - Bu bölge, tarihi öneme sahiptir
 - Han Hamamı, doğa severler için önemli bir destinasyondur

@@ -28,7 +28,7 @@ wikidata_id: "Q34921219"
 
 # Haçbeli Tepesi
 
-Osmaniye'nin güzide noktalarından biri olan Haçbeli Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkiliyor. Haçbeli Tepesi, doğal güzellikleri ve yaban hayatı ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin muhteşem manzarasını seyredebiliyorlar. Haçbeli Tepesi, aynı zamanda doğa yürüyüşleri için ideal bir nokta olarak kabul ediliyor.
+ Haçbeli Tepesi, doğal güzellikleri ve yaban hayatı ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin muhteşem manzarasını seyredebiliyorlar. Haçbeli Tepesi, aynı zamanda doğa yürüyüşleri için ideal bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Haçbeli Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmuyor. Ancak, bu
 
 ## Coğrafya
 
-Haçbeli Tepesi, Osmaniye ilinin güzide noktalarından biri olarak kabul ediliyor. Bu tepe, Akdeniz Bölgesi'nde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Haçbeli Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı bulunuyor. Bu bölgede, çam, meşe ve kayın gibi ağaçlar yaygın olarak görülüyor. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Ziyaretçiler, bu tepeye çıkarak çevredeki köyleri, dağları ve ovaları seyredebiliyorlar. Haçbeli Tepesi, aynı zamanda yaban hayatı açısından zengin bir bölge olarak kabul ediliyor. Bu bölgede, çeşitli hayvan türleri ve kuşlar yaşadığı biliniyor.
+Haçbeli Tepesi, Osmaniye ilinin güzide noktalarından biri olarak kabul ediliyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Haçbeli Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı bulunuyor. Bu bölgede, çam, meşe ve kayın gibi ağaçlar yaygın olarak görülüyor. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Ziyaretçiler, bu tepeye çıkarak çevredeki köyleri, dağları ve ovaları seyredebiliyorlar. Haçbeli Tepesi, aynı zamanda yaban hayatı açısından zengin bir bölge olarak kabul ediliyor. Bu bölgede, çeşitli hayvan türleri ve kuşlar yaşadığı biliniyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Haçbeli Tepesi'ni ziyaret etmek, Osmaniye'nin güzide noktalarından birini ke�
 ## İlginç Bilgiler
 
 - Haçbeli Tepesi, Osmaniye'nin turizm açısından önemli noktalarından biri olarak kabul ediliyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Haçbeli Tepesi, Akdeniz Bölgesi'nde yer alıyor.
 - Tepenin etrafı, çeşitli bitki türleri ile kaplı bulunuyor.
 - Haçbeli Tepesi, yaban hayatı açısından zengin bir bölge olarak kabul ediliyor.

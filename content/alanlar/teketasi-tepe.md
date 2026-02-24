@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora/fauna gözlemi","coğrafi yapı gözl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Teketaşı Tepe","caption":"Teketaşı Tepe","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Teketa%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389418","tip":"genel"}]
-description: "Mersin'in Akdeniz Bölgesi'nde yer alan Teketaşı Tepe, 140 hektarlık bir alanı kaplayan önemli bir doğa alanıdır."
+"
 keywords: ["Teketaşı Tepe","Mersin","Akdeniz Bölgesi","doğa alanı","tepe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389418"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389418"
 
 # Teketaşı Tepe
 
-Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan önemli bir doğa alanıdır. Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etkilemeyi amaçlar. Bu tepe, bölgenin coğrafi yapısını ve flora/faunayı gözlemlemek için ideal bir noktadır.
+ Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etkilemeyi amaçlar. Bu tepe, bölgenin coğrafi yapısını ve flora/faunayı gözlemlemek için ideal bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Teketaşı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu t
 
 ## Coğrafya
 
-Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin en önemli doğal güzelliklerinden biridir. Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve coğrafi yapısıyla etkilemeyi amaçlar. Bu tepe, bölgenin flora ve faunasını gözlemlemek için ideal bir noktadır. Teketaşı Tepe'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler ve ziyaretçilerine benzersiz bir deneyim sunar. Bu tepe, Mersin'in Akdeniz Bölgesi'nde yer alan diğer doğa alanlarıyla birlikte, bölgenin coğrafi ve kültürel yapısını koruma altına alır.
+Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve coğrafi yapısıyla etkilemeyi amaçlar. Bu tepe, bölgenin flora ve faunasını gözlemlemek için ideal bir noktadır. Teketaşı Tepe'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler ve ziyaretçilerine benzersiz bir deneyim sunar. Bu tepe, Mersin'in Akdeniz Bölgesi'nde yer alan diğer doğa alanlarıyla birlikte, bölgenin coğrafi ve kültürel yapısını koruma altına alır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etki
 ## İlginç Bilgiler
 
 - Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgenin coğrafi yapısını etkileyen önemli bir faktördür.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin en önemli doğal güzelliklerinden biridir.
+
 - Teketaşı Tepe, flora/faunayı gözlemlemek için ideal bir noktadır.
 - Bu tepe, ziyaretçilerine doğal güzelliği ve tarihi geçmişi hakkında bilgiler sunar.
 - Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan diğer doğa alanlarıyla birlikte, bölgenin coğrafi ve kültürel yapısını koruma altına alır.

@@ -37,7 +37,7 @@ Daskyleion Tümülüsü 1'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Daskyleion Tümülüsü 1, Marmara Bölgesi'nin Bandırma ilçesinde yer alan bir arkeolojik site. Bu bölgenin coğrafyası, tarih boyunca şekillenmiş ve çeşitli medeniyetlerin izlerini taşımaktadır. Tümülüs, 140 hektarlık bir alanda yer almakta ve bölgenin en önemli arkeolojik sitelerinden biri. Daskyleion Tümülüsü 1'in coğrafyası, Marmara Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtmaktadır. Bölgenin iklimi, flora ve fauna çeşitliliği, ziyaretçilerini cezbeden bir ortam sunmaktadır.
+Daskyleion Tümülüsü 1, Marmara Bölgesi'nin Bandırma ilçesinde yer alan bir arkeolojik site. Bu bölgenin coğrafyası, tarih boyunca şekillenmiş ve çeşitli medeniyetlerin izlerini taşımaktadır. Daskyleion Tümülüsü 1'in coğrafyası, Marmara Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtmaktadır. Bölgenin iklimi, flora ve fauna çeşitliliği, ziyaretçilerini cezbeden bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Daskyleion Tümülüsü 1'i ziyaret etmek, Marmara Bölgesi'nin tarihi ve kült�
 ## İlginç Bilgiler
 
 - Daskyleion Tümülüsü 1, Marmara Bölgesi'nin en önemli arkeolojik sitelerinden biri
-- Tümülüs, 140 hektarlık bir alanda yer almakta
+
 - Bölgenin flora ve fauna çeşitliliği, Marmara Bölgesi'nin zengin doğasını yansıtmaktadır
 - Daskyleion Tümülüsü 1, tarih meraklıları ve arkeoloji severler için bir hazine
 - Bu bölgenin tarihi önemiı, arkeolojik kazılar ve keşiflerle günümüze ulaşmıştır

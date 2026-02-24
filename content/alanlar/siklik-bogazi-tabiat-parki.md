@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/The%20Landscape%20of%20%C3%87orum%20S%C4%B1kl%C4%B1k.jpg","alt":"Sıklık Boğazı Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/1280px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Sıklık Boğazı Tabiat Parkı - The Landscape of Sıklık Gate","credit":"Yunus Gergerlioğlu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/1280px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Sıklık Boğazı Tabiat Parkı - The Landscape of Çorum Sıklık","credit":"Yunus Gergerlioğlu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/1280px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Sıklık Boğazı Tabiat Parkı - The Landscape of Sıklık Gate park Çorum","credit":"Yunus Gergerlioğlu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/The_Landscape_of_S%C4%B1kl%C4%B1k.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Landscape_of_S%C4%B1kl%C4%B1k.jpg/1280px-The_Landscape_of_S%C4%B1kl%C4%B1k.jpg","alt":"Sıklık Boğazı Tabiat Parkı - The Landscape of Sıklık","credit":"Yunus Gergerlioğlu","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg/1280px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","alt":"Sıklık Boğazı Tabiat Parkı - The Landscape of Sıklık Gates","credit":"Yunus Gergerlioğlu","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1kl%C4%B1k%20Bo%C4%9Faz%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228143","tip":"genel"}]
-description: "Çorum'un doğal güzellikleri arasında yer alan Sıklık Boğazı Tabiat Parkı, yaklaşık 140 hektarlık alanı ile dikkat çekiyor."
+"
 keywords: ["Sıklık Boğazı Tabiat Parkı","Çorum","Karadeniz Bölgesi","doğa","tabiat parkı","turizm","gezi","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228143"
@@ -29,7 +29,7 @@ wikidata_id: "Q108228143"
 
 # Sıklık Boğazı Tabiat Parkı
 
-Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin güzel illerinden biri olan Çorum'da yer alıyor. Park, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Sıklık Boğazı Tabiat Parkı, ziyaretçilerini doğal güzellikleri ile karşılamak için hazır. Parka gelen ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı keşfetme fırsatı buluyorlar. Sıklık Boğazı Tabiat Parkı, doğa severler ve çevreciler için gerçek bir cennet olarak tanımlanıyor.
+Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin güzel illerinden biri olan Çorum'da yer alıyor. Sıklık Boğazı Tabiat Parkı, ziyaretçilerini doğal güzellikleri ile karşılamak için hazır. Parka gelen ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı keşfetme fırsatı buluyorlar. Sıklık Boğazı Tabiat Parkı, doğa severler ve çevreciler için gerçek bir cennet olarak tanımlanıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sıklık Boğazı Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca oluş
 
 ## Coğrafya
 
-Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Park, Çorum ilinin sınırları içinde yer alıyor ve yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görme fırsatı bulan ziyaretçiler, sonbahar ve kış aylarında ise doğanın farklı bir yüzünü keşfedebiliyorlar. Sıklık Boğazı Tabiat Parkı, coğrafi güzellikleri ile ziyaretçilerini büyülüyor. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Bu nedenle, parka gelen ziyaretçiler, Karadeniz Bölgesi'nin karakteristik yağışları ve nemli havası ile tanışıyorlar.
+Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görme fırsatı bulan ziyaretçiler, sonbahar ve kış aylarında ise doğanın farklı bir yüzünü keşfedebiliyorlar. Sıklık Boğazı Tabiat Parkı, coğrafi güzellikleri ile ziyaretçilerini büyülüyor. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Bu nedenle, parka gelen ziyaretçiler, Karadeniz Bölgesi'nin karakteristik yağışları ve nemli havası ile tanışıyorlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sıklık Boğazı Tabiat Parkı, ziyaretçilerini doğal güzellikleri ile karş
 ## İlginç Bilgiler
 
 - Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin doğal güzellikleri arasında yer alıyor.
-- Park, yaklaşık 140 hektarlık alanı ile dikkat çekiyor.
+
 - Sıklık Boğazı Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Park, coğrafi güzellikleri ile ziyaretçilerini büyülüyor.
 - Sıklık Boğazı Tabiat Parkı, doğa severler ve çevreciler için gerçek bir cennet olarak tanımlanıyor.

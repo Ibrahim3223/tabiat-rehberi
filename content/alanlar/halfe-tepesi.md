@@ -28,7 +28,7 @@ wikidata_id: "Q31386444"
 
 # Halfe Tepesi
 
-Halfe Tepesi, Kilis şehrinin güneydoğu kesiminde yer alır ve 140 hektarlık bir alanı kaplar. Halfe Tepesi, Kilis'in tarihi ve kültürel mirasının önemli bir parçasıdır. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleri sunar ve bölgenin tarihi geçmişi hakkında bilgi verir. Halfe Tepesi, şehre gelen ziyaretçilerin gezi rotalarında önemli bir yer tutar.
+ Halfe Tepesi, Kilis'in tarihi ve kültürel mirasının önemli bir parçasıdır. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleri sunar ve bölgenin tarihi geçmişi hakkında bilgi verir. Halfe Tepesi, şehre gelen ziyaretçilerin gezi rotalarında önemli bir yer tutar.
 
 ## Tarihçe
 

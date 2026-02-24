@@ -30,7 +30,7 @@ wikidata_id: "Q56008278"
 
 # Sfântu Gheorghe Beach
 
-Sfântu Gheorghe Beach, Hızırilyas'ta yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. Hızırilyas'ta bulunan bu plaj, aynı zamanda Tulcea ilinin önemli turizm merkezlerinden biri olarak bilinir. İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Sfântu Gheorghe Beach, her yıl birçok ziyaretçi tarafından tercih edilmektedir.
+ Hızırilyas'ta bulunan bu plaj, aynı zamanda Tulcea ilinin önemli turizm merkezlerinden biri olarak bilinir. İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Sfântu Gheorghe Beach, her yıl birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sfântu Gheorghe Beach'in tarihi geçmişi, yüzyıllar öncesine dayanmaktadır
 
 ## Coğrafya
 
-Sfântu Gheorghe Beach, Hızırilyas'ta yer alan bir plaj olarak Tulcea ilinin sınırları içerisinde bulunur. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Plajın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsar ve ziyaretçilere geniş bir hareket alanı sunar. Bölgenin coğrafyası, genellikle düz arazilerden oluşur ve plajın bulunduğu yer, denize kıyısı olan bir alandır. Sfântu Gheorghe Beach, aynı zamanda çevresindeki doğal güzellikleriyle de dikkat çeker. Ziyaretçiler, plajın yanı sıra bölgenin diğer doğal güzelliklerini de keşfedebilirler. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarına sahiptir ve ziyaretçiler, mevsimsel değişimlere göre plajı ziyaret edebilirler.
+Sfântu Gheorghe Beach, Hızırilyas'ta yer alan bir plaj olarak Tulcea ilinin sınırları içerisinde bulunur. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölgenin coğrafyası, genellikle düz arazilerden oluşur ve plajın bulunduğu yer, denize kıyısı olan bir alandır. Sfântu Gheorghe Beach, aynı zamanda çevresindeki doğal güzellikleriyle de dikkat çeker. Ziyaretçiler, plajın yanı sıra bölgenin diğer doğal güzelliklerini de keşfedebilirler. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarına sahiptir ve ziyaretçiler, mevsimsel değişimlere göre plajı ziyaret edebilirler.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Sfântu Gheorghe Beach'i ziyaret etmek isteyenler, Hızırilyas'a ulaşarak plaj
 ## İlginç Bilgiler
 
 - Sfântu Gheorghe Beach, Hızırilyas'ta yer alan bir plajdır.
-- Plaj, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Bölge, tarihte önemli bir yerleşim yeri olarak bilinir.
 - Sfântu Gheorghe Beach, doğal güzellikleri ve tarihi değerleri ile dikkat çeker.
 - Plaj, yılın her dönemi ziyaret edilebilir.

@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 63'in tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 63, Ege Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer alıyor. Ahmetli-Manisa'nın doğal güzellikleri içerisinde bulunan bu bölge, 140 hektarlık geniş bir alanı kaplıyor. Coğrafi olarak, bu bölgeye hakim olan iklim, Ege Bölgesi'nin karakteristik Akdeniz iklimidir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu coğrafi konum, bölgenin flora ve faunasını da etkileyerek, ziyaretçilerine zengin bir doğal yaşam sunuyor. Bin Tepeler Tümülüsü 63, aynı zamanda çevresindeki dağlar, ormanlar ve nehirlerle de çevrilidir. Bu coğrafi özellikler, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Bin Tepeler Tümülüsü 63, Ege Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer alıyor. Coğrafi olarak, bu bölgeye hakim olan iklim, Ege Bölgesi'nin karakteristik Akdeniz iklimidir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürüyor. Bu coğrafi konum, bölgenin flora ve faunasını da etkileyerek, ziyaretçilerine zengin bir doğal yaşam sunuyor. Bin Tepeler Tümülüsü 63, aynı zamanda çevresindeki dağlar, ormanlar ve nehirlerle de çevrilidir. Bu coğrafi özellikler, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 63'i ziyaret etmek, hem tarih hem de doğa severler iç
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 63, Ege Bölgesi'nin en önemli tarihi ve coğrafi noktalarından biridir.
-- Bu bölge, 140 hektarlık bir alanı kaplıyor.
+
 - Bin Tepeler Tümülüsü 63, yılın her dönemi ziyaret edilebilir.
 - İlkbahar ve sonbahar ayları, ziyaret için en uygun zaman olarak kabul ediliyor.
 - Bu bölge, yürüyüş parkurlarıyla doğaseverleri cezbediyor.

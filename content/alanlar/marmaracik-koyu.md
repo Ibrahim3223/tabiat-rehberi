@@ -30,7 +30,7 @@ Marmaracık Koyu'nun tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve böl
 
 ## Coğrafya
 
-Marmaracık Koyu, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bölge, genellikle step ve ormanlık alanların birleştiği bir coğrafyaya sahip. Marmaracık Koyu, bu coğrafi yapı içinde, 140 hektarlık bir alanı kapsıyor. Burada, çeşitli bitki türleri ve yaban hayatı bulunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor. Marmaracık Koyu, bu coğrafi ve iklimsel özellikleriyle, ziyaretçilerine benzersiz bir deneyim sunuyor. Bölgenin coğrafi yapısı, yaban hayatının çeşitliliği ve ekolojik dengesi ile dikkat çekiyor.
+Marmaracık Koyu, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bölge, genellikle step ve ormanlık alanların birleştiği bir coğrafyaya sahip. Burada, çeşitli bitki türleri ve yaban hayatı bulunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklim hüküm sürüyor. Marmaracık Koyu, bu coğrafi ve iklimsel özellikleriyle, ziyaretçilerine benzersiz bir deneyim sunuyor. Bölgenin coğrafi yapısı, yaban hayatının çeşitliliği ve ekolojik dengesi ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Marmaracık Koyu'nu ziyaret etmek, doğa severler için benzersiz bir deneyim su
 
 ## İlginç Bilgiler
 
-- Marmaracık Koyu, 140 hektarlık bir alanı kapsıyor.
 - Bölge, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip.
 - Marmaracık Koyu, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor.
 - Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip.

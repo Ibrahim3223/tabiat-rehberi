@@ -28,7 +28,7 @@ wikidata_id: "Q32139013"
 
 # Gül Tepe
 
-İç Anadolu Bölgesi'nde yer alan Gül Tepe, yaklaşık 140 hektarlık alanı ile dikkat çekici bir doğal ve tarihi alandır. Tarihi geçmişi ile önemli bir cazibe merkezi olan Gül Tepe, aynı zamanda coğrafi konumu ile de ziyaretçilerini cezbediyor. Bölgenin eşsiz güzelliği ve tarihi zenginliği, bu alanı özel kılıyor.
+ Tarihi geçmişi ile önemli bir cazibe merkezi olan Gül Tepe, aynı zamanda coğrafi konumu ile de ziyaretçilerini cezbediyor. Bölgenin eşsiz güzelliği ve tarihi zenginliği, bu alanı özel kılıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gül Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izl
 
 ## Coğrafya
 
-Gül Tepe, İç Anadolu Bölgesi'nin coğrafi olarak ilgi çekici bir bölgesinde yer alıyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin jeolojik geçmişini ve coğrafi özelliklerini gözler önüne seriyor. 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve mevsimsel değişimlere uygun bir yapıya sahiptir. Coğrafi konumu itibariyle, Gül Tepe, ziyaretçilerine geniş bir manzara sunuyor ve bölgenin doğal güzelliğini keşfetme fırsatı veriyor.
+Gül Tepe, İç Anadolu Bölgesi'nin coğrafi olarak ilgi çekici bir bölgesinde yer alıyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin jeolojik geçmişini ve coğrafi özelliklerini gözler önüne seriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve mevsimsel değişimlere uygun bir yapıya sahiptir. Coğrafi konumu itibariyle, Gül Tepe, ziyaretçilerine geniş bir manzara sunuyor ve bölgenin doğal güzelliğini keşfetme fırsatı veriyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gül Tepe'yi ziyaret etmek, hem tarihi hem de doğa severler için eşsiz bir de
 
 ## İlginç Bilgiler
 
-- Gül Tepe, yaklaşık 140 hektarlık bir alana sahiptir.
 - Bölge, tarih boyunca çeşitli medeniyetlerin izlerini taşır.
 - Gül Tepe, bir doğa koruma alanı olarak da görev yapmaktadır.
 - Bölgenin flora ve fauna zenginliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.

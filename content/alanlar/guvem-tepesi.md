@@ -48,8 +48,6 @@ Güvem Tepesi, ziyaretçilerini bekleyen bir doğa harikasıdır. Bu tepe, coğr
 
 ## İlginç Bilgiler
 
-- Güvem Tepesi, 140 hektarlık bir alanı kaplar.
-
 - Güvem Tepesi, coğrafi olarak güzel bir noktada bulunmaktadır.
 - Bu tepe, ziyaretçilerine güzel manzaralar sunar ve doğayla iç içe bir deneyimi sağlar.
 - Güvem Tepesi, flora ve fauna açısından zengin bir alandır.

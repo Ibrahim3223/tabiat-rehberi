@@ -49,7 +49,7 @@ Dededağı Tepesi, ziyaretçilerine birçok olanak sunuyor. Ziyaretçiler, bu te
 ## İlginç Bilgiler
 
 - Dededağı Tepesi, Adana'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta.
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor.
+
 - Dededağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Dededağı Tepesi, ziyaretçilerine panoramik manzaralar sunuyor.

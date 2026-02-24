@@ -51,7 +51,7 @@ Orhan Hamamı, ziyaretçilere yılın dört mevsimi keyifli anlar geçirmesine o
 ## İlginç Bilgiler
 
 - Orhan Hamamı, Bursa'nın en önemli plajlarından biridir
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Orhan Hamamı, Marmara Bölgesi'nin coğrafi özelliklerine uygun bir şekilde, deniz seviyesinde yer alır
 - Plajın deniz suyu, temiz ve berra olup, ziyaretçilerin yüzme ve diğer su aktiviteleri yapmasına olanak tanır
 - Orhan Hamamı, aynı zamanda çeşitli kuş türlerinin yaşam alanıdır

@@ -28,7 +28,7 @@ wikidata_id: "Q31389401"
 
 # Sakızsuyu Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Sakızsuyu Tepesi, yaklaşık 140 hektarlık alanı ile bir futbol sahasından 200 kat daha büyük bir alanı kaplar. Bu tepe, Mersin'in doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini büyüleyici manzarasıyla karşılar. Sakızsuyu Tepesi, Mersin'in şehir merkezine yakın konumuyla da dikkat çeker. Bu tepe, doğa severlerin ve manzarayı izlemekten hoşlananların ziyaret ettiği bir yerdir. Sakızsuyu Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, Mersin'in önemli turistik yerlerinden biri olarak kabul edilir.
+ Bu tepe, Mersin'in doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini büyüleyici manzarasıyla karşılar. Sakızsuyu Tepesi, Mersin'in şehir merkezine yakın konumuyla da dikkat çeker. Bu tepe, doğa severlerin ve manzarayı izlemekten hoşlananların ziyaret ettiği bir yerdir. Sakızsuyu Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, Mersin'in önemli turistik yerlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 

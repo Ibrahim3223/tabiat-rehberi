@@ -38,7 +38,7 @@ Yelli Hamamı'nın tarihi geçmişi, Milas'ın tarihi ile iç içe geçmiş duru
 
 ## Coğrafya
 
-Yelli Hamamı, Muğla'nın Milas ilçesinde yer alır. Bu plaj, Ege Denizi'nin kıyısında bulunmaktadır. Yelli Hamamı'nın coğrafi konumu, ziyaretçilerine güzel bir manzara sunmaktadır. Plajın etrafı, yeşil ormanlarla çevrilidir. Bu ormanlar, ziyaretçilerine serinli ve gölge sağlamaktadır. Yelli Hamamı, mavi ve berrak denizi ile birlikte altın rengi kumsalına sahiptir. Bu plaj, 140 hektarlık bir alanı kaplamaktadır. Yelli Hamamı'nın coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu plajda, deniz sporları, yüzme, güneşlenme ve yürüyüş gibi aktiviteler yapılabilmektedir.
+Yelli Hamamı, Muğla'nın Milas ilçesinde yer alır. Bu plaj, Ege Denizi'nin kıyısında bulunmaktadır. Yelli Hamamı'nın coğrafi konumu, ziyaretçilerine güzel bir manzara sunmaktadır. Plajın etrafı, yeşil ormanlarla çevrilidir. Bu ormanlar, ziyaretçilerine serinli ve gölge sağlamaktadır. Yelli Hamamı, mavi ve berrak denizi ile birlikte altın rengi kumsalına sahiptir. Yelli Hamamı'nın coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu plajda, deniz sporları, yüzme, güneşlenme ve yürüyüş gibi aktiviteler yapılabilmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Yelli Hamamı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu plajda, d
 
 ## İlginç Bilgiler
 
-- Yelli Hamamı, 140 hektarlık bir alanı kaplamaktadır.
 - Bu plaj, mavi ve berrak denizi ile birlikte altın rengi kumsalına sahiptir.
 - Yelli Hamamı, etrafını çevreleyen yeşil ormanlarla birlikte çeşitli bitki türlerine ev sahipliği yapmaktadır.
 - Bu plaj, çeşitli hayvan türlerine de ev sahipliği yapmaktadır.

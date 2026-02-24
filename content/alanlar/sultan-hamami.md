@@ -51,7 +51,7 @@ Sultan Hamamı'na gitmek için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu d
 ## İlginç Bilgiler
 
 - Sultan Hamamı, Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir.
-- 140 hektarlık bir alana sahiptir.
+
 - Tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin izlerini taşır.
 - Çeşitli bitki türleri ve zengin fauna bulunur.
 - Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırır.

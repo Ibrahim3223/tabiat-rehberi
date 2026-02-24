@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki türleri keşfi","fauna gözlemi","fo
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Elazig-Mardin-Mardin Fidanligi Toros Sediri","caption":"Elazig-Mardin-Mardin Fidanligi Toros Sediri","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elazig-Mardin-Mardin%20Fidanligi%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227997","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Elazig-Mardin-Mardin Fidanligi Toros Sediri milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Elazig","Mardin","Mardin Fidanligi","Toros Sediri","milli park","İç Anadolu Bölgesi","doğal güzellik","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227997"
@@ -42,8 +42,6 @@ Elazig-Mardin-Mardin Fidanligi Toros Sediri milli parkını ziyaret etmek, doğa
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - zengin fauna
 - doğal güzellikler

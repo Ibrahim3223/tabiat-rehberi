@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/NAMAZGAH_MAHALLES%C4%B0_TAR%C4%B0H%C4%B0_T%C3%9CRBE_BURSA_-_panoramio_%282%29.jpg","alt":"Türbe 2 manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/T%C3%BCrbe_Ziyareti_023_-_panoramio_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/T%C3%BCrbe_Ziyareti_023_-_panoramio_%282%29.jpg/1280px-T%C3%BCrbe_Ziyareti_023_-_panoramio_%282%29.jpg","alt":"Türbe 2 - Türbe Ziyareti 023 - panoramio (2)","credit":"M. PINARCI","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/T%C3%BCrbe_Yarim_K%C3%BCmbet.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/T%C3%BCrbe_Yarim_K%C3%BCmbet.jpg/1280px-T%C3%BCrbe_Yarim_K%C3%BCmbet.jpg","alt":"Türbe 2 - Türbe Yarim Kümbet","credit":"Bernard Gagnon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/T%C3%BCrbe_Silahdar_Damat_Ali_pasha_Mora_Fatihi_%282%29.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/T%C3%BCrbe_Silahdar_Damat_Ali_pasha_Mora_Fatihi_%282%29.JPG/1280px-T%C3%BCrbe_Silahdar_Damat_Ali_pasha_Mora_Fatihi_%282%29.JPG","alt":"Türbe 2 - Türbe Silahdar Damat Ali pasha Mora Fatihi (2)","credit":"Derzsi Elekes Andor","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Green_Tomb_-_Graves_at_some_distance_from_the_Ye%C5%9Fil_T%C3%BCrbe_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Green_Tomb_-_Graves_at_some_distance_from_the_Ye%C5%9Fil_T%C3%BCrbe_%282%29.jpg/1280px-Green_Tomb_-_Graves_at_some_distance_from_the_Ye%C5%9Fil_T%C3%BCrbe_%282%29.jpg","alt":"Türbe 2 - Green Tomb - Graves at some distance from the Yeşil Türbe (2)","credit":"Yahia.Mokhtar","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Ali_Pa%C5%9Fa_Camii_%28Saraybosna%29_t%C3%BCrbe_gece_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ali_Pa%C5%9Fa_Camii_%28Saraybosna%29_t%C3%BCrbe_gece_%282%29.jpg/1280px-Ali_Pa%C5%9Fa_Camii_%28Saraybosna%29_t%C3%BCrbe_gece_%282%29.jpg","alt":"Türbe 2 - Ali Paşa Camii (Saraybosna) türbe gece (2)","credit":"𐰇𐱅𐰚𐰤","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrbe%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391591","tip":"genel"}]
-description: "Germencik'te yer alan 140 hektarlık plaj alanıyla dikkat çeken bir destinasyon"
+
 keywords: ["Germencik","Aydın","Ege Bölgesi","plaj","deniz","kum","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391591"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391591"
 
 # Türbe 2
 
-Türbe 2 plajı, Aydın'ın Germencik ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan geniş bir sahil şerididir. Germencik'in turizm potansiyelini artıran önemli noktalarından biri olan bu plaj, Ege Bölgesi'nin en güzel ve temiz sahillerinden biridir. Denizin maviliği ve kumun beyazlığı, ziyaretçilere doğanın güzelliğini sunar. Türbe 2 plajı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+ Germencik'in turizm potansiyelini artıran önemli noktalarından biri olan bu plaj, Ege Bölgesi'nin en güzel ve temiz sahillerinden biridir. Denizin maviliği ve kumun beyazlığı, ziyaretçilere doğanın güzelliğini sunar. Türbe 2 plajı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Türbe 2 plajının tarihi geçmişi, Germencik'in tarihine paralel olara ilerle
 
 ## Coğrafya
 
-Türbe 2 plajı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alır. Plaj, yaklaşık 140 hektarlık bir alanı kapsar ve geniş bir sahil şeridine sahiptir. Bu sahil, Ege Denizi'nin sularına açılır ve bölgenin karakteristik maviliği ile ziyaretçileri karşılar. Plajın etrafı, genellikle kumla kaplıdır ve bazı noktalarda kaya ve çakıllar bulunur. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılıman ve yağışlı kışlar ile karakterizedir. Türbe 2 plajı, yıl boyunca ziyaretçilerini ağırlar, ancak en fazla ziyaretçi yaz aylarında gelir. Plajın coğrafi konumu, ziyaretçilere geniş bir deniz manzarası ve güzel bir güneş batımı izleme fırsatı sunar. Ayrıca, plajın yakınında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere çeşitli keşif fırsatları sağlar.
+Türbe 2 plajı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alır. Bu sahil, Ege Denizi'nin sularına açılır ve bölgenin karakteristik maviliği ile ziyaretçileri karşılar. Plajın etrafı, genellikle kumla kaplıdır ve bazı noktalarda kaya ve çakıllar bulunur. Bölgenin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılıman ve yağışlı kışlar ile karakterizedir. Türbe 2 plajı, yıl boyunca ziyaretçilerini ağırlar, ancak en fazla ziyaretçi yaz aylarında gelir. Plajın coğrafi konumu, ziyaretçilere geniş bir deniz manzarası ve güzel bir güneş batımı izleme fırsatı sunar. Ayrıca, plajın yakınında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere çeşitli keşif fırsatları sağlar.
 
 ## Flora ve Fauna
 

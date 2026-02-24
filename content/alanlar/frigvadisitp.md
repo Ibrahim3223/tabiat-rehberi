@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Sunrise_take_off_over_Emre_lake.jpg","alt":"FRİG_VADİSİ_TP manzarası","credit":"Cungum","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_02.jpg/1280px-Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_02.jpg","alt":"FRİG_VADİSİ_TP - Afyon Frig Vadisi Oyuk Taşlar ve Evler 02","credit":"Bitiryaki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_01.jpg/1280px-Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_01.jpg","alt":"FRİG_VADİSİ_TP - Afyon Frig Vadisi Oyuk Taşlar ve Evler 01","credit":"Bitiryaki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/92/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_03.jpg/1280px-Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_03.jpg","alt":"FRİG_VADİSİ_TP - Afyon Frig Vadisi Oyuk Taşlar ve Evler 03","credit":"Bitiryaki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_04.jpg/1280px-Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_04.jpg","alt":"FRİG_VADİSİ_TP - Afyon Frig Vadisi Oyuk Taşlar ve Evler 04","credit":"Bitiryaki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_05.jpg/1280px-Afyon_Frig_Vadisi_Oyuk_Ta%C5%9Flar_ve_Evler_05.jpg","alt":"FRİG_VADİSİ_TP - Afyon Frig Vadisi Oyuk Taşlar ve Evler 05","credit":"Bitiryaki","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/FR%C4%B0G_VAD%C4%B0S%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228782","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Fríg Vadisi","İç Anadolu Bölgesi","milli park","doğal güzellik","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228782"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228782"
 
 # FRİG_VADİSİ_TP
 
- Bu alan, yaban hayatının zengin çeşitliliği ve doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu muhteşem doğa harikasını keşfetmek için çeşitli etkinliklere katılabilirler. 140 hektarlık bu yeşil alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyondur.
+ Bu alan, yaban hayatının zengin çeşitliliği ve doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu muhteşem doğa harikasını keşfetmek için çeşitli etkinliklere katılabilirler.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Fríg Vadisi'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal bi
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - yaban hayatı zenginliği
 - flora çeşitliliği
 - mevsimsel değişimler

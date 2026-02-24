@@ -29,7 +29,7 @@ wikidata_id: "Q131390615"
 
 # Sultan Divanı Türbesi
 
-Sultan Divanı Türbesi, Afyonkarahisar'ın merkezinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Sultan Divanı Türbesi, Afyonkarahisar'ın tarihi ve doğal güzelliklerinin birleştiği noktada bulunmaktadır. Bu nokta, şehrin merkezinde yer almakta olup, ulaşımı oldukça kolaydır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Sultan Divanı Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir.
+Sultan Divanı Türbesi, Afyonkarahisar'ın merkezinde yer alan tarihi bir yapıdır. Sultan Divanı Türbesi, Afyonkarahisar'ın tarihi ve doğal güzelliklerinin birleştiği noktada bulunmaktadır. Bu nokta, şehrin merkezinde yer almakta olup, ulaşımı oldukça kolaydır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Sultan Divanı Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 

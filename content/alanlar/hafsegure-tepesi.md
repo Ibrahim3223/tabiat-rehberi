@@ -49,7 +49,7 @@ Hafşegüre Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklılar
 ## İlginç Bilgiler
 
 - Hafşegüre Tepesi, Mardin'in tarihi dokusunu koruyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor.
 - Hafşegüre Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon.
 - Bu bölge, hem flora hem de fauna açısından zengin ve çeşitli bir ekosistemi sunuyor.

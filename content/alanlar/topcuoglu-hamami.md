@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Mazlum%20a%C4%9Fa%20hamam%C4%B1%20Qars%20%282%29.jpg","alt":"Topçuoğlu Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5409.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5409.jpg/1280px-Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5409.jpg","alt":"Topçuoğlu Hamamı - Kars Topçuoğlu Hamamı 5409","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5412.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5412.jpg/1280px-Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5412.jpg","alt":"Topçuoğlu Hamamı - Kars Topçuoğlu Hamamı 5412","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5414.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5414.jpg/1280px-Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5414.jpg","alt":"Topçuoğlu Hamamı - Kars Topçuoğlu Hamamı 5414","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5423.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5423.jpg/1280px-Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5423.jpg","alt":"Topçuoğlu Hamamı - Kars Topçuoğlu Hamamı 5423","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5425.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5425.jpg/1280px-Kars_Top%C3%A7uo%C4%9Flu_Hamam%C4%B1_5425.jpg","alt":"Topçuoğlu Hamamı - Kars Topçuoğlu Hamamı 5425","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Top%C3%A7uo%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738419","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nde Kars iline bağlı bir plaj olan Topçuoğlu Hamamı, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlamaktadır."
+"
 keywords: ["Kars","Doğu Anadolu Bölgesi","plaj","yeşil alan","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738419"
@@ -38,7 +38,7 @@ Topçuoğlu Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Topçuoğlu Hamamı, Kars ilinin coğrafi yapısı içerisinde önemli bir yer tutmaktadır. Bu plaj, 140 hektarlık geniş bir yeşil alan sunmaktadır. Topçuoğlu Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Burası, Kars ilinin doğal güzelliklerini keşfetmek için ideal bir başlangıç noktasıdır. Topçuoğlu Hamamı'nın etrafı, çeşitli bitki türleri ile çevrilidir. Bu bitki türleri, bölgenin ekolojik dengesini korumaktadır. Topçuoğlu Hamamı, Kars ilinin coğrafi özelliklerini yansıtması açısından önemli bir noktadır. Burada, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de bölgenin coğrafi yapısını öğrenebilirler.
+Topçuoğlu Hamamı, Kars ilinin coğrafi yapısı içerisinde önemli bir yer tutmaktadır. Topçuoğlu Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Burası, Kars ilinin doğal güzelliklerini keşfetmek için ideal bir başlangıç noktasıdır. Topçuoğlu Hamamı'nın etrafı, çeşitli bitki türleri ile çevrilidir. Bu bitki türleri, bölgenin ekolojik dengesini korumaktadır. Topçuoğlu Hamamı, Kars ilinin coğrafi özelliklerini yansıtması açısından önemli bir noktadır. Burada, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de bölgenin coğrafi yapısını öğrenebilirler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Topçuoğlu Hamamı, ziyaretçilerine çeşitli olanaklar sunmaktadır. Buraya, 
 
 ## İlginç Bilgiler
 
-- Topçuoğlu Hamamı, 140 hektarlık bir yeşil alan sunmaktadır.
 - Bu plaj, Kars ilinin turizm açısından önemli bir merkezi konumundadır.
 - Topçuoğlu Hamamı, yüzyıllar boyunca şekillenmiş bir tarihi geçmişi vardır.
 - Burada, çeşitli bitki türleri ve hayvanlar bulunmaktadır.

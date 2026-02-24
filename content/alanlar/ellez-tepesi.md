@@ -48,8 +48,6 @@ Ellez Tepesi, önemli bir turizm merkezi olarak biliniyor. Bu tepe, Gaziantep'in
 
 ## İlginç Bilgiler
 
-- Ellez Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer
 - Ellez Tepesi, Gaziantep'in doğal güzelliklerini sunan bir nokta olarak biliniyor
 - Bu tepe, aynı zamanda önemli bir turizm merkezi olarak da biliniyor
 - Ellez Tepesi, flora ve fauna açısından zengin bir bölge olarak biliniyor

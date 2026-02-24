@@ -29,7 +29,7 @@ wikidata_id: "Q135582871"
 
 # Şeyh Kasım Halveti ve Türbesi
 
-Mardin'in Artuklu ilçesinde yer alan Şeyh Kasım Halveti ve Türbesi, tarihin ve kültürün birleştiği önemli bir mekan. Bu bölge, yaklaşık 140 hektarlık bir alanda, Mardin'in tarihi dokusunu yansıtan önemli bir kültürel miras olarak karşımıza çıkıyor. Şeyh Kasım Halveti ve Türbesi, Mardin'in coğrafi konumu ve tarihi geçmişinin birleştiği bir noktada yer alıyor. Bu bölgenin 200 futbol sahası büyüklüğündeki alanı, ziyaretçilere geniş bir perspektif sunuyor.
+Mardin'in Artuklu ilçesinde yer alan Şeyh Kasım Halveti ve Türbesi, tarihin ve kültürün birleştiği önemli bir mekan. Şeyh Kasım Halveti ve Türbesi, Mardin'in coğrafi konumu ve tarihi geçmişinin birleştiği bir noktada yer alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mardin'in Artuklu ilçesinde yer alan Şeyh Kasım Halveti ve Türbesi, tarihin 
 
 ## Coğrafya
 
-Şeyh Kasım Halveti ve Türbesi, Mardin'in Artuklu ilçesinde yer alıyor. Bu bölge, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde bulunuyor. Bölgenin coğrafi konumu, çeşitli dağlar ve ovaların birleştiği bir noktada yer alıyor. Şeyh Kasım Halveti ve Türbesi, Mardin'in tarihi dokusunu yansıtan önemli bir kültürel miras olarak karşımıza çıkıyor. Bu bölgenin coğrafi konumu, yaklaşık 140 hektarlık bir alanda, Mardin'in tarihi ve kültürel önemini yansıtan bir mekan olarak kabul ediliyor. Şeyh Kasım Halveti ve Türbesi, ziyaretçilere geniş bir perspektif sunuyor. Bu bölgenin coğrafi konumu, Mardin'in tarihi ve kültürel önemini yansıtan önemli bir mekan olarak kabul ediliyor.
+Şeyh Kasım Halveti ve Türbesi, Mardin'in Artuklu ilçesinde yer alıyor. Bu bölge, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde bulunuyor. Bölgenin coğrafi konumu, çeşitli dağlar ve ovaların birleştiği bir noktada yer alıyor. Şeyh Kasım Halveti ve Türbesi, Mardin'in tarihi dokusunu yansıtan önemli bir kültürel miras olarak karşımıza çıkıyor. Şeyh Kasım Halveti ve Türbesi, ziyaretçilere geniş bir perspektif sunuyor. Bu bölgenin coğrafi konumu, Mardin'in tarihi ve kültürel önemini yansıtan önemli bir mekan olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -37,11 +37,11 @@ wikidata_id: "Q131738601"
 
 ## Coğrafya
 
-Şifa Hamamı Sultanahmet, İstanbul'un Fatih ilçesinde bulunur ve Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu mekan, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ve tarihi yapılar ile çevrilidir. Şifa Hamamı Sultanahmet'in coğrafi konumu, ziyaretçilerin İstanbul'un diğer önemli turistik noktalarına kolayca ulaşmasına olanak sağlar. Marmara Bölgesi'nin iklimi, Şifa Hamamı Sultanahmet'i ziyaret etmek için uygun bir ortam sunar. Bu bölgede, genellikle ılıman ve yağışlı bir iklim hüküm sürer, ancak ziyaretçilerin mevsimsel değişimlere karşı hazırlıklı olması önerilir. Şifa Hamamı Sultanahmet'in çevresi, çeşitli restoranlar, dükkanlar ve turistik tesisler ile donatılmıştır. Ziyaretçiler, bu mekanlarda yemek yiyebilir, alışveriş yapabilir ve konaklayabilir.
+Şifa Hamamı Sultanahmet, İstanbul'un Fatih ilçesinde bulunur ve Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Şifa Hamamı Sultanahmet'in coğrafi konumu, ziyaretçilerin İstanbul'un diğer önemli turistik noktalarına kolayca ulaşmasına olanak sağlar. Marmara Bölgesi'nin iklimi, Şifa Hamamı Sultanahmet'i ziyaret etmek için uygun bir ortam sunar. Bu bölgede, genellikle ılıman ve yağışlı bir iklim hüküm sürer, ancak ziyaretçilerin mevsimsel değişimlere karşı hazırlıklı olması önerilir. Şifa Hamamı Sultanahmet'in çevresi, çeşitli restoranlar, dükkanlar ve turistik tesisler ile donatılmıştır. Ziyaretçiler, bu mekanlarda yemek yiyebilir, alışveriş yapabilir ve konaklayabilir.
 
 ## Flora ve Fauna
 
-Şifa Hamamı Sultanahmet, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunar. Bu mekan, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ile çevrilidir ve ziyaretçilerin doğayı yakından tanımasına olanak sağlar. Şifa Hamamı Sultanahmet'in flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişir. İlkbahar ve yaz aylarında, bu mekan, çeşitli çiçe ve ağaç türleri ile süslenir. Sonbahar ve kış aylarında ise, Şifa Hamamı Sultanahmet, genellikle serin ve yağışlı bir hava ile ziyaret edilir. Ziyaretçiler, bu mekanın flora ve fauna çeşitliliğini keşfedebilir ve doğanın güzelliğini yakından tanıabilir.
+Şifa Hamamı Sultanahmet, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunar. Şifa Hamamı Sultanahmet'in flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişir. İlkbahar ve yaz aylarında, bu mekan, çeşitli çiçe ve ağaç türleri ile süslenir. Sonbahar ve kış aylarında ise, Şifa Hamamı Sultanahmet, genellikle serin ve yağışlı bir hava ile ziyaret edilir. Ziyaretçiler, bu mekanın flora ve fauna çeşitliliğini keşfedebilir ve doğanın güzelliğini yakından tanıabilir.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131738601"
 ## İlginç Bilgiler
 
 - Şifa Hamamı Sultanahmet, İstanbul'un en önemli turistik noktalarından biridir.
-- Bu mekan, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ile çevrilidir.
+
 - Şifa Hamamı Sultanahmet, yüzyıllar boyunca çeşitli restorasyon ve bakım çalışmaları sonucunda günümüze kadar ulaşmıştır.
 - Bu mekan, genellikle ılıman ve yağışlı bir iklim hüküm sürer.
 - Ziyaretçiler, Şifa Hamamı Sultanahmet'in çevresinde bulunan restoranlar, dükkanlar ve turistik tesisler ile yararlanabilir.

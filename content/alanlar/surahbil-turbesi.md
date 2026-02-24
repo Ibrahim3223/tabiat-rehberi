@@ -49,7 +49,6 @@ wikidata_id: "Q131391332"
 
 ## İlginç Bilgiler
 
-- Şurahbil Türbesi, 140 hektarlık bir alan üzerinde konumlanmaktadır.
 - Şurahbil Türbesi, Kilis şehrinin merkezi konumunda bulunur.
 - Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi keşfetmek isteyenler için ideal bir destinasyondur.
 - Şurahbil Türbesi, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar.

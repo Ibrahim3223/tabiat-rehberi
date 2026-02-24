@@ -38,7 +38,7 @@ Mimar Sinan Türbesi, Osmanlı İmparatorluğu'nun önemli mimarlarından biri o
 
 ## Coğrafya
 
-Mimar Sinan Türbesi, İstanbul'un merkezinde yer alan bir tarihi yapıdır. Bu türbe, şehrin önemli tarihi noktalarından biri olarak kabul edilir ve yaklaşık 16. yüzyılda inşa edilmiştir. İstanbul'un coğrafi konumu, tarihi ve kültürel açıdan önemli bir noktada yer alır. Şehrin merkezinde yer alan Mimar Sinan Türbesi, ziyaretçilere geniş bir tarih ve kültür deneyimi sunar. Türbenin çevresi, tarihi yapılar ve önemli kültürel noktalar ile çevrilidir. İstanbul'un iklimi, karasal ve denizel etkilere sahiptir ve bu durum, şehrin coğrafi yapısını etkiler. Mimar Sinan Türbesi, yaklaşık 140 hektarlık alan üzerine kurulmuştur ve ziyaretçilere geniş bir tarih ve kültür deneyimi sunar.
+Mimar Sinan Türbesi, İstanbul'un merkezinde yer alan bir tarihi yapıdır. Bu türbe, şehrin önemli tarihi noktalarından biri olarak kabul edilir ve yaklaşık 16. yüzyılda inşa edilmiştir. İstanbul'un coğrafi konumu, tarihi ve kültürel açıdan önemli bir noktada yer alır. Şehrin merkezinde yer alan Mimar Sinan Türbesi, ziyaretçilere geniş bir tarih ve kültür deneyimi sunar. Türbenin çevresi, tarihi yapılar ve önemli kültürel noktalar ile çevrilidir. İstanbul'un iklimi, karasal ve denizel etkilere sahiptir ve bu durum, şehrin coğrafi yapısını etkiler.
 
 ## Flora ve Fauna
 

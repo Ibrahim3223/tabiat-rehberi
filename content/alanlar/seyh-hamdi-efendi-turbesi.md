@@ -29,7 +29,7 @@ wikidata_id: "Q131391705"
 
 # Şeyh Hamdi Efendi Türbesi
 
-Şeyh Hamdi Efendi Türbesi, İstanbul'un kalbi olan Beyoğlu'nda yer alan tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. 200 futbol sahası büyüklüğünde olan bu yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Şeyh Hamdi Efendi Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine zengin bir deneyim sunuyor.
+Şeyh Hamdi Efendi Türbesi, İstanbul'un kalbi olan Beyoğlu'nda yer alan tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. Şeyh Hamdi Efendi Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391705"
 ## İlginç Bilgiler
 
 - Şeyh Hamdi Efendi Türbesi, İstanbul'un tarihi ve doğal güzellikleri arasında yer alıyor.
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Şeyh Hamdi Efendi Türbesi, yüzyıllar boyunca çeşitli olaylara tanıklık etti.
 - Bu mekan, ziyaretçilerine zengin bir kültürel deneyim sunuyor.
 - Şeyh Hamdi Efendi Türbesi, doğa severler için ideal bir mekan olarak kabul ediliyor.

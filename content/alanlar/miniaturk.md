@@ -38,7 +38,7 @@ Miniatürk'ün tarihi geçmişi, parkın açılış tarihi olan 2003 yılına da
 
 ## Coğrafya
 
-Miniatürk, İstanbul'un Avrupa Yakası'nda, Haliç kıyısında yer almaktadır. Park, 140 hektarlık bir alana kurulmuş ve içerisinde çeşitli türde bitkiler ve ağaçlar bulunmaktadır. Miniatürk'ün coğrafi konumu, ziyaretçilere hem deniz hem de kara manzarası sunar. Parkın yakınında, çeşitli ulaşım seçenekleri bulunmaktadır, bu da ziyaretçilerin parka ulaşmasını kolaylaştırır. Miniatürk'ün iklimi, İstanbul'un genel iklimi ile benzerlik gösterir ve dört mevsimi yaşanır. Park, her mevsim ziyaret edilebilir, ancak bahar ve yaz ayları en uygun zamanlardır. Miniatürk'ün çevresi, tarihi ve kültürel yapılarla dolu bir bölgedir, bu nedenle ziyaretçiler parkın dışında da çeşitli gezi seçeneklerine sahiptir.
+Miniatürk, İstanbul'un Avrupa Yakası'nda, Haliç kıyısında yer almaktadır. Miniatürk'ün coğrafi konumu, ziyaretçilere hem deniz hem de kara manzarası sunar. Parkın yakınında, çeşitli ulaşım seçenekleri bulunmaktadır, bu da ziyaretçilerin parka ulaşmasını kolaylaştırır. Miniatürk'ün iklimi, İstanbul'un genel iklimi ile benzerlik gösterir ve dört mevsimi yaşanır. Park, her mevsim ziyaret edilebilir, ancak bahar ve yaz ayları en uygun zamanlardır. Miniatürk'ün çevresi, tarihi ve kültürel yapılarla dolu bir bölgedir, bu nedenle ziyaretçiler parkın dışında da çeşitli gezi seçeneklerine sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Miniatürk'ü ziyaret etmek, Türkiye'nin kültürel ve tarihi mirasını keşfe
 
 ## İlginç Bilgiler
 
-- Miniatürk, 140 hektarlık bir alana kurulmuştur.
 - Parkta, 120'den fazla tarihi ve kültürel yapı bulunmaktadır.
 - Miniatürk, Türkiye'nin en büyük minyatür parkıdır.
 - Park, 15 Nisan 2003 tarihinde açılmıştır.

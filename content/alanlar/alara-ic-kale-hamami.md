@@ -50,7 +50,7 @@ Alara İç Kale Hamamı, ziyaretçilerini bekliyor. Buraya ulaşım, Alanya'nın
 ## İlginç Bilgiler
 
 - Alara İç Kale Hamamı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Alara İç Kale Hamamı, Akdeniz Bölgesi'nin en güzel ve tarihi yerlerinden biri olarak kabul ediliyor.
 - Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta.
 - Mekan, zengin bitki örtüsü ve çeşitli fauna ile dikkat çekiyor.

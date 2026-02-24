@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/88/Sera_G%C3%B6l%C3%BCnde_ya%C4%9Fmurlu_bir_g%C3%BCn2.jpg","alt":"Sera Gölü Tabiat Parkı manzarası","credit":"Yusuf Ali Özdemir","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Sera_G%C3%B6l%C3%BCnde_ya%C4%9Fmurlu_bir_g%C3%BCn3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sera_G%C3%B6l%C3%BCnde_ya%C4%9Fmurlu_bir_g%C3%BCn3.jpg/1280px-Sera_G%C3%B6l%C3%BCnde_ya%C4%9Fmurlu_bir_g%C3%BCn3.jpg","alt":"Sera Gölü Tabiat Parkı - Sera Gölünde yağmurlu bir gün3","credit":"Yusuf Ali Özdemir","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Seralake02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Seralake02.jpg/1280px-Seralake02.jpg","alt":"Sera Gölü Tabiat Parkı - Seralake02","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Seralake08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seralake08.jpg/1280px-Seralake08.jpg","alt":"Sera Gölü Tabiat Parkı - Seralake08","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Seralake11.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Seralake11.jpg/1280px-Seralake11.jpg","alt":"Sera Gölü Tabiat Parkı - Seralake11","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/00/Seralake01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Seralake01.jpg/1280px-Seralake01.jpg","alt":"Sera Gölü Tabiat Parkı - Seralake01","credit":"Varvara Kless-Kaminskaia","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sera%20G%C3%B6l%C3%BC%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228141","tip":"genel"}]
-description: "Trabzon'un Akçaabat ilçesinde yer alan Sera Gölü Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Sera Gölü","Tabiat Parkı","Trabzon","Akçaabat","Karadeniz Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228141"
@@ -50,7 +50,6 @@ Sera Gölü Tabiat Parkı, ziyaretçilerine birçok olanak sunmaktadır. Parkta,
 
 ## İlginç Bilgiler
 
-- Sera Gölü Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir
 - Parkta, çeşitli ağaç türleriyle kaplı olan bir orman bulunmaktadır
 - Sera Gölü, bölgenin en önemli su kaynaklarından biridir
 - Parkta, birçok kuş türü ve diğer canlılar yaşamaktadır

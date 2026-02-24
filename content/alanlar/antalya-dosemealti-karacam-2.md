@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","p
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Antalya-Döşemealtı Karaçam 2","caption":"Antalya-Döşemealtı Karaçam 2","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20Kara%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227927","tip":"genel"}]
-description: "Antalya'nın Döşemealtı ilçesinde yer alan milli park, 140 hektarlık alanıyla dikkat çekiyor."
+"
 keywords: ["Antalya","Döşemealtı","Karaçam","milli park","doğa","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227927"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227927"
 
 # Antalya-Döşemealtı Karaçam 2
 
-Antalya-Döşemealtı Karaçam 2, Antalya'nın Döşemealtı ilçesinde yer alan ve 140 hektarlık alanıyla dikkat çeken bir milli parktır. Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor. Karaçam 2 milli parkı, hem doğa severlerin hem de tatil arayanların ilgisini çekiyor. Bu bölge, yüzyıllar boyunca doğal güzelliğini korumuştur ve ziyaretçilere benzersiz bir deneyim sunuyor.
+ Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor. Karaçam 2 milli parkı, hem doğa severlerin hem de tatil arayanların ilgisini çekiyor. Bu bölge, yüzyıllar boyunca doğal güzelliğini korumuştur ve ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

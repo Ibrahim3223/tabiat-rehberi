@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Antalya-Serik-Pinargozu Kızılçam 2","caption":"Antalya-Serik-Pinargozu Kızılçam 2","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Serik-Pinargozu%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227307","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan Antalya-Serik-Pinargozu Kızılçam 2, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Antalya","Serik","Pinargozu","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227307"
@@ -30,7 +30,7 @@ Antalya-Serik-Pinargozu Kızılçam 2'nin tarihi geçmişi, bölgeye özgü doğ
 
 ## Coğrafya
 
-Antalya-Serik-Pinargozu Kızılçam 2, Akdeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu doğal alan, 140 hektarlık bir alanı kaplıyor ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bölge, kızılçam ağaçlarıyla kaplı ve zengin bir flora ve faunaya sahip. İklim, Akdeniz ikliminin característicasını taşıyor ve bölgenin doğal güzelliğini daha da artırıyor. Bölge, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunuyor. Bu doğal alan, ziyaretçilere bölgenin coğrafi güzelliğini keşfetmek için eşsiz bir fırsat sunuyor.
+Antalya-Serik-Pinargozu Kızılçam 2, Akdeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bölge, kızılçam ağaçlarıyla kaplı ve zengin bir flora ve faunaya sahip. İklim, Akdeniz ikliminin característicasını taşıyor ve bölgenin doğal güzelliğini daha da artırıyor. Bölge, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunuyor. Bu doğal alan, ziyaretçilere bölgenin coğrafi güzelliğini keşfetmek için eşsiz bir fırsat sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Antalya-Serik-Pinargozu Kızılçam 2'yi ziyaret etmek, doğa severler ve bölge
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alanı kaplıyor
 - Bölgeye özgü kızılçam ağaçlarıyla kaplı
 - Zengin flora ve faunaya sahip
 - Mevsimsel değişimlere göre farklı bir güzellik gösteriyor

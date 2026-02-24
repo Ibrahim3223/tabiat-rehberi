@@ -36,7 +36,7 @@ Gölük Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, b
 
 ## Coğrafya
 
-Gölük Tepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, Niğde ilinin merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Gölük Tepe, çevresindeki dağlarla birlikte, bir bütün olarak bir doğa manzarasını oluşturuyor. Tepe, iklim olarak İç Anadolu Bölgesi'nin genel özelliklerini taşıyor; yani kışları soğuk, yazları sıcak ve kurak bir iklim hüküm sürüyor. Gölük Tepe, doğa severlerin keşfetmek için önemli bir nokta. Tepe, ziyaretçilerine, büyüleyici bir manzara sunuyor.
+Gölük Tepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Gölük Tepe, çevresindeki dağlarla birlikte, bir bütün olarak bir doğa manzarasını oluşturuyor. Tepe, iklim olarak İç Anadolu Bölgesi'nin genel özelliklerini taşıyor; yani kışları soğuk, yazları sıcak ve kurak bir iklim hüküm sürüyor. Gölük Tepe, doğa severlerin keşfetmek için önemli bir nokta. Tepe, ziyaretçilerine, büyüleyici bir manzara sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gölük Tepe, ziyaretçiler için önemli bir destinasyon. Tepe, Niğde ilinin m
 ## İlginç Bilgiler
 
 - Gölük Tepe, Niğde ilinin en önemli doğal güzelliklerinden biri.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Gölük Tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Tepe, yılın her mevsiminde ziyaret edilebilir.
 - Gölük Tepe, Niğde ilinin merkezinde yer alıyor.

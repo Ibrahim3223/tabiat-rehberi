@@ -37,7 +37,7 @@ Bekiröldü Tepe'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev
 
 ## Coğrafya
 
-Bekiröldü Tepe, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bölgenin coğrafi yapısı, genellikle tepeli ve engebeli arazilerden oluşmaktadır. İklim, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçmektedir. Çevre, genellikle step ve otlak alanlarla kaplıdır. Bekiröldü Tepe, bu coğrafi yapı içerisinde, ziyaretçilerine doğal güzellikleri ve manzaraları sunmaktadır. Bölgenin coğrafi konumu, ayrıca, birçok bitki ve hayvan türünün yaşam alanı olarak hizmet vermektedir. Çeşitli bitki türleri ve zengin fauna, Bekiröldü Tepe'nin doğal güzelliklerini daha da artillerya etmektedir.
+Bekiröldü Tepe, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alan bir tepe. Bölgenin coğrafi yapısı, genellikle tepeli ve engebeli arazilerden oluşmaktadır. İklim, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçmektedir. Çevre, genellikle step ve otlak alanlarla kaplıdır. Bekiröldü Tepe, bu coğrafi yapı içerisinde, ziyaretçilerine doğal güzellikleri ve manzaraları sunmaktadır. Bölgenin coğrafi konumu, ayrıca, birçok bitki ve hayvan türünün yaşam alanı olarak hizmet vermektedir. Çeşitli bitki türleri ve zengin fauna, Bekiröldü Tepe'nin doğal güzelliklerini daha da artillerya etmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Bekiröldü Tepe, ziyaretçilerine birçok aktivite sunmaktadır. Doğa yürüy�
 
 ## İlginç Bilgiler
 
-- Bekiröldü Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır
 - Bölge, çeşitli bitki türleri ile kaplıdır
 - Bekiröldü Tepe, zengin bir fauna ile dikkat çekmektedir
 - Bölge, ilkbahar ve yaz aylarında ziyaret edilebilir

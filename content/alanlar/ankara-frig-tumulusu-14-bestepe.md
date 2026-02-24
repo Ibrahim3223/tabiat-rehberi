@@ -50,7 +50,7 @@ Ankara Frig Tümülüsü 14, Beştepe'yi ziyaret etmek, hem tarihi hem de doğal
 ## İlginç Bilgiler
 
 - Ankara Frig Tümülüsü 14, Beştepe, Frigler dönemine ait önemli bir tarihi eserdir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Ziyaretçiler, buraya gelerek, tarihin farklı dönemlerini keşfedebilir.
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Ankara'nın kent merkezine oldukça yakındır.

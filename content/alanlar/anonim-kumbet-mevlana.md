@@ -37,7 +37,7 @@ Anonim Kümbet Mevlana'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Anonim Kümbet Mevlana, Konya'nın Karatay ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplar ve coğrafi olarak çeşitli özelliklere sahiptir. Anonim Kümbet Mevlana'nın coğrafyası, doğal güzelliklerle dolu olup, ziyaretçilerini birçok farklı manzara ve peyzajla karşılar. Bu mekanın coğrafyası, aynı zamanda birçok farklı bitki ve hayvan türünü barındırır. Anonim Kümbet Mevlana, ziyaretçilerine birçok farklı coğrafi özellik sunar ve bu mekanın coğrafyası, ziyaretçileri birçok farklı deneyime davet eder. Anonim Kümbet Mevlana'nın coğrafyası, Konya'nın coğrafi özelliklerini yansıtan önemli bir bölgedir.
+Anonim Kümbet Mevlana, Konya'nın Karatay ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Anonim Kümbet Mevlana'nın coğrafyası, doğal güzelliklerle dolu olup, ziyaretçilerini birçok farklı manzara ve peyzajla karşılar. Bu mekanın coğrafyası, aynı zamanda birçok farklı bitki ve hayvan türünü barındırır. Anonim Kümbet Mevlana, ziyaretçilerine birçok farklı coğrafi özellik sunar ve bu mekanın coğrafyası, ziyaretçileri birçok farklı deneyime davet eder. Anonim Kümbet Mevlana'nın coğrafyası, Konya'nın coğrafi özelliklerini yansıtan önemli bir bölgedir.
 
 ## Flora ve Fauna
 

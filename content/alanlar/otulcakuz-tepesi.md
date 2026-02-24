@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Tepenin zirvesine tırmanma","Panoramik man
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Otulcakuz Tepesi","caption":"Otulcakuz Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otulcakuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387187","tip":"genel"}]
-description: "Amasya'nın gizli güzelliği Otulcakuz Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Amasya","Otulcakuz Tepesi","Karadeniz Bölgesi","doğa","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387187"

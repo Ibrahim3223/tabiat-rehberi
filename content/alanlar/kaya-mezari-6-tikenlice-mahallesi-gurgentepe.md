@@ -37,7 +37,7 @@ Kaya Mezarı 6'nın tarihi geçmişi, bölgenin genel tarihini yansıtıyor. Kar
 
 ## Coğrafya
 
-Kaya Mezarı 6, coğrafi olarak Gürgentepe'nin önemli bir bölümünü oluşturuyor. Bu alan, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, dağlar, ormanlar ve nehirler ile çevrili ve bu coğrafi yapı, Kaya Mezarı 6'nın çevresini de şekillendiriyor. Kaya Mezarı 6, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, ziyaretçilere geniş bir doğa alanını keşfetme fırsatı sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygun olarak, nemli ve serin bir yapıya sahip. Bu iklim, Kaya Mezarı 6'nın doğal güzelliklerini daha da vurguluyor. Coğrafi konumu ve iklimi, Kaya Mezarı 6'yı hem yerel halk hem de ziyaretçiler için çekici bir destinasyon haline getiriyor.
+Kaya Mezarı 6, coğrafi olarak Gürgentepe'nin önemli bir bölümünü oluşturuyor. Bu alan, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, dağlar, ormanlar ve nehirler ile çevrili ve bu coğrafi yapı, Kaya Mezarı 6'nın çevresini de şekillendiriyor. Bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygun olarak, nemli ve serin bir yapıya sahip. Bu iklim, Kaya Mezarı 6'nın doğal güzelliklerini daha da vurguluyor. Coğrafi konumu ve iklimi, Kaya Mezarı 6'yı hem yerel halk hem de ziyaretçiler için çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kaya Mezarı 6'yı ziyaret etmek, hem yerel halk hem de ziyaretçiler için unut
 ## İlginç Bilgiler
 
 - Kaya Mezarı 6, Gürgentepe'nin önemli doğal güzelliklerinden biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 - İlkbahar ve yaz ayları, ziyaret için en uygun zamandır.

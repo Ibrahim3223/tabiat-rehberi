@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Pasaca-selalesi.jpg","alt":"Paşaca Şelalesi Tabiat Parkı manzarası","credit":"Thecatcherintherye (mesaj)","license":"CC BY-SA"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Faca%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21526811","tip":"genel"}]
-description: "Giresun'un doğal güzelliklerinden biri olan Paşaca Şelalesi Tabiat Parkı, 140 hektarlık yeşil alanı ve şelalesi ile ziyaretçilerini bekliyor."
+"
 keywords: ["Paşaca Şelalesi","Tabiat Parkı","Giresun","Karadeniz Bölgesi","Doğa","Şelale","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q21526811"
@@ -29,7 +29,7 @@ wikidata_id: "Q21526811"
 
 # Paşaca Şelalesi Tabiat Parkı
 
-Paşaca Şelalesi Tabiat Parkı, Giresun'un doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı ve şelalesi ile ziyaretçilerini büyülüyor. Şelalenin güzelliği, ziyaretçilerin huzur ve sükunet bulmasına yardımcı oluyor. Ayrıca, parkın geniş yeşil alanları, ziyaretçilerin doğayla iç içe olmak için ideal bir ortam sunuyor.
+Paşaca Şelalesi Tabiat Parkı, Giresun'un doğal güzelliklerinden biri olarak karşımıza çıkıyor. Şelalenin güzelliği, ziyaretçilerin huzur ve sükunet bulmasına yardımcı oluyor. Ayrıca, parkın geniş yeşil alanları, ziyaretçilerin doğayla iç içe olmak için ideal bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Paşaca Şelalesi Tabiat Parkı, yüzyıllar boyunca bölgenin doğal güzelliğ
 
 ## Coğrafya
 
-Paşaca Şelalesi Tabiat Parkı, Giresun'un Karadeniz Bölgesi'nde yer alıyor. Park, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılıyor. Şelale, parkın en önemli özelliği olarak karşımıza çıkıyor ve ziyaretçilerin ilgisini çekiyor. Parkın coğrafi yapısı, bölgenin iklimine ve jeolojik yapısına bağlı olarak şekillenmiş. Parkın bulunduğu bölgenin iklimi, Karadeniz iklimi olarak biliniyor ve bu iklim, parkın doğal güzelliğine katkıda bulunuyor. Parkın çevresi, ormanlık alanlarla çevrili ve bu ormanlık alanlar, ziyaretçilerin doğa yürüyüşleri yapmasına olanak tanıyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanıyor ve park, bölgenin önemli turizm noktalarından biri olarak kabul ediliyor.
+Paşaca Şelalesi Tabiat Parkı, Giresun'un Karadeniz Bölgesi'nde yer alıyor. Şelale, parkın en önemli özelliği olarak karşımıza çıkıyor ve ziyaretçilerin ilgisini çekiyor. Parkın coğrafi yapısı, bölgenin iklimine ve jeolojik yapısına bağlı olarak şekillenmiş. Parkın bulunduğu bölgenin iklimi, Karadeniz iklimi olarak biliniyor ve bu iklim, parkın doğal güzelliğine katkıda bulunuyor. Parkın çevresi, ormanlık alanlarla çevrili ve bu ormanlık alanlar, ziyaretçilerin doğa yürüyüşleri yapmasına olanak tanıyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanıyor ve park, bölgenin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
-Paşaca Şelalesi Tabiat Parkı, zengin flora ve fauna çeşitliliğine sahip. Parkın 140 hektarlık yeşil alanı, çeşitli bitki türlerine ev sahipliği yapıyor. Parkın bulunduğu bölgenin iklimi, bitki örtüsünün çeşitliliğine katkıda bulunuyor. Parkta, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişiyor. Ayrıca, parkın fauna çeşitliliği de zengin ve çeşitli hayvan türleri parkta yaşamlarını sürdürüyor. Parkın doğal güzelliği, flora ve fauna çeşitliliğine katkıda bulunuyor ve ziyaretçilerin ilgisini çekmeye devam ediyor. Mevsimsel değişimlere bağlı olarak, parkın flora ve fauna çeşitliliği değişiyor ve bu değişim, ziyaretçilerin her mevsim farklı bir güzellikte parkı keşfetmesine olanak tanıyor.
+Paşaca Şelalesi Tabiat Parkı, zengin flora ve fauna çeşitliliğine sahip. Parkın bulunduğu bölgenin iklimi, bitki örtüsünün çeşitliliğine katkıda bulunuyor. Parkta, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişiyor. Ayrıca, parkın fauna çeşitliliği de zengin ve çeşitli hayvan türleri parkta yaşamlarını sürdürüyor. Parkın doğal güzelliği, flora ve fauna çeşitliliğine katkıda bulunuyor ve ziyaretçilerin ilgisini çekmeye devam ediyor. Mevsimsel değişimlere bağlı olarak, parkın flora ve fauna çeşitliliği değişiyor ve bu değişim, ziyaretçilerin her mevsim farklı bir güzellikte parkı keşfetmesine olanak tanıyor.
 
 ## Ziyaret Bilgileri
 

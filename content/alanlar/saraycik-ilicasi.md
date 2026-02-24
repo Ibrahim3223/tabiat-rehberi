@@ -49,7 +49,7 @@ Saraycık Ilıcası, yıl boyunca ziyaret edilebilir. Ancak, en uygun ziyaret za
 ## İlginç Bilgiler
 
 - Saraycık Ilıcası, termal suyu ile ünlü bir destinasyondur.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Saraycık Ilıcası, yaban hayatı ile dikkat çeker.
 - Bu bölgede, çeşitli bitki türleri bulunur.
 - Saraycık Ilıcası, ziyaretçilerine, unutulmaz bir deneyim sunar.

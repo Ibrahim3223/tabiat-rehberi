@@ -43,8 +43,6 @@ DALAMAN'ı ziyaret etmek için, ziyaretçiler, doğal güzelliği keşfetmek iç
 
 ## İlginç Bilgiler
 
-- DALAMAN, 140 hektarlık bir alanı kaplar
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri ve fauna çeşitliliği
 - tarihi geçmişiyle dikkat çekiyor
 - doğa severler için bir cennet

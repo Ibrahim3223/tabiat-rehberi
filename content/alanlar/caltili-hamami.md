@@ -49,7 +49,6 @@ wikidata_id: "Q133245872"
 
 ## İlginç Bilgiler
 
-- Çaltılı Hamamı, 140 hektarlık bir yeşil alan
 - Bu bölgenin tarihi geçmişi, yüzyıllar öncesine dayanıyor
 - Çaltılı Hamamı, çeşitli bitki türlerini barındıran bir bölge
 - Bu bölgenin fauna, çeşitli hayvan türlerini içeriyor

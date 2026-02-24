@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarihi eserleri gezme","flora ve fauna göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Çamrak Tepesi","caption":"Çamrak Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amrak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828246","tip":"genel"}]
-description: "Adana'da bulunan Çamrak Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Adana'da bulunan Çamrak Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Çamrak Tepesi","Adana","Akdeniz Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828246"
@@ -48,7 +48,6 @@ Adana'da yer alan Çamrak Tepesi, Akdeniz Bölgesi'nin önemli doğal güzellikl
 
 ## İlginç Bilgiler
 
-- Çamrak Tepesi, 140 hektarlık bir yeşil alana sahiptir.
 - Tepenin etrafında, çeşitli bitki türleri bulunur.
 - Çamrak Tepesi, tarihsel önemi ile dikkat çeker.
 - Tepenin coğrafi konumu, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir bölgedir.

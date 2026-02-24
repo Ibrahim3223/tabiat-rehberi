@@ -21,7 +21,7 @@ aktiviteler: ["Türbe ziyaret","Tarihi eserleri incelemek","Doğa yürüyüşü"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Taşgun Baba Türbesi","caption":"Taşgun Baba Türbesi","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fgun%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391832","tip":"genel"}]
-description: "Konya'nın Altınekin ilçesinde bulunan tarihi bir türbe. 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Konya'nın Altınekin ilçesinde bulunan tarihi bir türbe."
 keywords: ["Taşgun Baba Türbesi","Altınekin","Konya","İç Anadolu Bölgesi","tarihi mekan","türbe","yeşil alan","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391832"
@@ -50,7 +50,7 @@ Taşgun Baba Türbesi'ni ziyaret etmek, oldukça kolay. Ziyaretçiler, Konya'nı
 ## İlginç Bilgiler
 
 - Taşgun Baba Türbesi, Konya'nın Altınekin ilçesinde yer alıyor.
-- Türbenin etrafı, 140 hektarlık yeşil alanla çevrili.
+
 - Bölge, coğrafi olarak zengin bir yapıya sahip.
 - Ziyaretçiler, burada hem tarihi bir türbeyi ziyaret ediyor hem de doğal güzelliğin keyfini çıkarıyor.
 - Bölgenin flora ve fauna zenginliği, dikkat çekiyor.

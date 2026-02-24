@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","fotoğraf çekimi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/Tomb_of_Alyattes%2C_August_2024.jpg","alt":"Alyattes Tümülüsü manzarası","credit":"Chillenbro","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alyattes_tumulus_reconstitution.jpg/960px-Alyattes_tumulus_reconstitution.jpg","alt":"Alyattes Tümülüsü","caption":"Alyattes Tümülüsü","credit":"Alyattes tumulus reconstitution","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Alyattes_tumulus_reconstitution.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Alyattes_tumulus_reconstitution.jpg","alt":"Alyattes Tümülüsü - Alyattes tumulus reconstitution","credit":"Perrot, Georges, 1832-1914.; Chipiez, Charles, 1835-1901.","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alyattes%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728384","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Salihli ilçesinde bulunan Alyattes Tümülüsü"
@@ -30,7 +30,7 @@ wikidata_id: "Q134728384"
 
 # Alyattes Tümülüsü
 
-Alyattes Tümülüsü, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak Manisa'nın Salihli ilçesinde yer alıyor. Bu tarihi hazinenin bulunduğu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Alyattes Tümülüsü, Lidya Krallığı'nın önemli figürlerinden biri olan Alyattes'in mezarı olarak biliniyor. Bu tarihi mekan, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış ve her birini kendi kültürüyle zenginleştirmiş.
+Alyattes Tümülüsü, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak Manisa'nın Salihli ilçesinde yer alıyor. Alyattes Tümülüsü, Lidya Krallığı'nın önemli figürlerinden biri olan Alyattes'in mezarı olarak biliniyor. Bu tarihi mekan, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış ve her birini kendi kültürüyle zenginleştirmiş.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alyattes Tümülüsü, Lidya Krallığı'nın önemli krallarından biri olan Al
 
 ## Coğrafya
 
-Alyattes Tümülüsü, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Yaklaşık 140 hektarlık bir alanı kapsayan tümülüs, bölgenin en önemli tarihi mekanlarından biri olarak kabul ediliyor. Ege Bölgesi'nin iklimi, genellikle ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş. Bu geniş alan, ziyaretçilere tarihi bir atmosferde gezebilmeleri için geniş bir olanak sunuyor.
+Alyattes Tümülüsü, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Ege Bölgesi'nin iklimi, genellikle ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş. Bu geniş alan, ziyaretçilere tarihi bir atmosferde gezebilmeleri için geniş bir olanak sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Alyattes Tümülüsü'ne ziyaret için en uygun zaman, ilkbahar ve sonbahar ayla
 ## İlginç Bilgiler
 
 - Alyattes Tümülüsü, Lidya Krallığı'nın önemli krallarından biri olan Alyattes'in mezarı olarak inşa edildi.
-- Tümülüs, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Alyattes Tümülüsü, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul ediliyor.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahip.
 - Ziyaretçiler, tümülüsün bulunduğu alana kolayca ulaşabilir ve tarihi mekanın güzelliğini keşfedebilirler.

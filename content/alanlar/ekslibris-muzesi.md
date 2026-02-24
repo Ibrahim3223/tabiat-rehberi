@@ -29,7 +29,7 @@ wikidata_id: "Q132949509"
 
 # Ekslibris Müzesi
 
-Ekslibris Müzesi, İstanbul'un kalbinde, kitap ve sanat severlerin buluşma noktası olarak dikkat çekiyor. İstanbul'da bulunan bu müze, yaklaşık 140 hektarlık bir alan üzerinde kurulu ve kitap koleksiyoncuları için bir cennet olarak görülüyor. Müzenin koleksiyonunda, çeşitli yazar ve sanatçıların eserleri yer alıyor. Ekslibris Müzesi, kitap severler ve sanat aşığılar için önemli bir kültür merkezi olarak kabul ediliyor. Müzenin kuruluş amacı, kitap ve sanatın önemini vurgulama ve bu alanda çalışanların çalışmalarını desteklemek.
+Ekslibris Müzesi, İstanbul'un kalbinde, kitap ve sanat severlerin buluşma noktası olarak dikkat çekiyor. Müzenin koleksiyonunda, çeşitli yazar ve sanatçıların eserleri yer alıyor. Ekslibris Müzesi, kitap severler ve sanat aşığılar için önemli bir kültür merkezi olarak kabul ediliyor. Müzenin kuruluş amacı, kitap ve sanatın önemini vurgulama ve bu alanda çalışanların çalışmalarını desteklemek.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ekslibris Müzesi'nin tarihi geçmişi, kitabın ve sanatın tarihine kadar uzan
 
 ## Coğrafya
 
-Ekslibris Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulu ve kitabın ve sanatın tarihini yansıtacak şekilde tasarlanmış. Müzenin çevresinde, çeşitli kültür merkezleri ve sanat galerileri yer alıyor. Ekslibris Müzesi, ziyaretçilere kitap ve sanatın tarihini keşfetme fırsatı sunuyor. Müze, kitabın ve sanatın önemini vurgulamak için kurulmuş ve bu alanda çalışanların çalışmalarını desteklemek amacıyla faaliyet gösteriyor. Ekslibris Müzesi'nin koleksiyonu, çeşitli dönemlere ait kitap ve sanat eserlerini içeriyor. Müze, ziyaretçilere kitap ve sanatın tarihini keşfetme fırsatı sunuyor. İstanbul'un merkezinde yer alan Ekslibris Müzesi, kitap severler ve sanat aşığılar için önemli bir kültür merkezi olarak kabul ediliyor.
+Ekslibris Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müzenin çevresinde, çeşitli kültür merkezleri ve sanat galerileri yer alıyor. Ekslibris Müzesi, ziyaretçilere kitap ve sanatın tarihini keşfetme fırsatı sunuyor. Müze, kitabın ve sanatın önemini vurgulamak için kurulmuş ve bu alanda çalışanların çalışmalarını desteklemek amacıyla faaliyet gösteriyor. Ekslibris Müzesi'nin koleksiyonu, çeşitli dönemlere ait kitap ve sanat eserlerini içeriyor. Müze, ziyaretçilere kitap ve sanatın tarihini keşfetme fırsatı sunuyor. İstanbul'un merkezinde yer alan Ekslibris Müzesi, kitap severler ve sanat aşığılar için önemli bir kültür merkezi olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ekslibris Müzesi'ni ziyaret etmek, kitap severler ve sanat aşığılar için �
 ## İlginç Bilgiler
 
 - Ekslibris Müzesi, kitabın ve sanatın tarihini yansıtacak şekilde tasarlanmış.
-- Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulu.
+
 - Ekslibris Müzesi, kitabın ve sanatın önemini vurgulamak için kurulmuş.
 - Müze, ziyaretçilere kitap ve sanatın tarihini keşfetme fırsatı sunuyor.
 - Ekslibris Müzesi, kitap severler ve sanat aşığılar için önemli bir kültür merkezi olarak kabul ediliyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q131391814"
 
 # Topçu Baba Türbesi
 
-Topçu Baba Türbesi, Kırklareli'nin Kofçaz ilçesinde, Marmara Bölgesi'nde yer alan tarihi bir turbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan ve plaj ile dikkat çekmektedir. Topçu Baba Türbesi, aynı zamanda tarihi bir geçmişe sahip olup, bölgeye gelen ziyaretçiler için önemli bir kültür mirası olarak kabul edilmektedir. Ziyaretçiler, hem tarihi turbe ve çevresini gezebilmekte hem de plajın keyfini çıkarabilmektedir.
+Topçu Baba Türbesi, Kırklareli'nin Kofçaz ilçesinde, Marmara Bölgesi'nde yer alan tarihi bir turbe ve plajdır. Topçu Baba Türbesi, aynı zamanda tarihi bir geçmişe sahip olup, bölgeye gelen ziyaretçiler için önemli bir kültür mirası olarak kabul edilmektedir. Ziyaretçiler, hem tarihi turbe ve çevresini gezebilmekte hem de plajın keyfini çıkarabilmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Topçu Baba Türbesi'ni ziyaret etmek, hem tarihi bir turbe ve çevresini gezmek
 ## İlginç Bilgiler
 
 - Topçu Baba Türbesi, tarihi bir geçmişe sahiptir
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır
+
 - Topçu Baba Türbesi, plaj ile birlikte, ziyaretçilerine geniş bir açık alan sunmaktadır
 - Bölgenin iklimi, ılıman ve yağışlı bir yapıya sahiptir
 - Topçu Baba Türbesi'nin çevresi, tarihi yapılar ve kültürel miraslar ile dolu olup, ziyaretçilerine zengin bir coğrafya deneyimi sunmaktadır

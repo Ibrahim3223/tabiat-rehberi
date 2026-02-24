@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","piknik","manzara izleme","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Kabırlibel Tepesi","caption":"Kabırlibel Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kab%C4%B1rlibel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536249","tip":"genel"}]
-description: "Hatay'da bulunan Kabırlibel Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kabırlibel Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31536249"
@@ -28,7 +28,7 @@ wikidata_id: "Q31536249"
 
 # Kabırlibel Tepesi
 
-Kabırlibel Tepesi, Hatay ilinin sınırları içerisinde yer alan ve 140 hektarlık geniş bir yeşil alanı kapsayan bir tepe. Tepenin eteklerinde ve etrafında, yüzyıllar boyunca oluşmuş yerleşim yerleri ve tarihi kalıntılar bulunmakta. Bu bölgede yapılan arkeolojik kazılar, tarihi geçmişi hakkında önemli bilgiler sunuyor.
+ Tepenin eteklerinde ve etrafında, yüzyıllar boyunca oluşmuş yerleşim yerleri ve tarihi kalıntılar bulunmakta. Bu bölgede yapılan arkeolojik kazılar, tarihi geçmişi hakkında önemli bilgiler sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kabırlibel Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmı�
 
 ## Coğrafya
 
-Kabırlibel Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktalarından birini oluşturuyor. 140 hektarlık alanı, çeşitli bitki türleri ile kaplı ve etrafında dağlar ile çevrili. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli bir faktör. İklimi, Akdeniz ikliminin característicasını taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu coğrafi yapı, bölgenin flora ve faunasını da etkiliyor. Tepenin eteklerinde, su kaynakları ve akarsular bulunmakta, bu da bölgenin ekolojik dengesini koruyor.
+Kabırlibel Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktalarından birini oluşturuyor. Tepenin yüksekliği, bölgenin coğrafi yapısını etkileyen önemli bir faktör. İklimi, Akdeniz ikliminin característicasını taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu coğrafi yapı, bölgenin flora ve faunasını da etkiliyor. Tepenin eteklerinde, su kaynakları ve akarsular bulunmakta, bu da bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

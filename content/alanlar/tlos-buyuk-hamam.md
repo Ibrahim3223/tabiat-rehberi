@@ -21,8 +21,8 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Tlos Büyük Hamam","caption":"Tlos Büyük Hamam","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tlos%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739134","tip":"genel"}]
-description: "Seydikemer'in tarihi ve doğal güzellikleri ile ünlü Tlos Büyük Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor."
-keywords: ["Tlos Büyük Hamam","Seydikemer","Muğla","Ege Bölgesi","tarih","doğa","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739134"
 ---
@@ -49,7 +49,6 @@ Tlos Büyük Hamam, ziyaretçilerine unutuluz bir deneyim sunuyor. Bu mekan, do�
 
 ## İlginç Bilgiler
 
-- Tlos Büyük Hamam, 140 hektarlık yeşil alanına sahip
 - Tlos Büyük Hamam'da, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Tlos Büyük Hamam, tarihi değerleri ile önemli bir kültürel miras olarak kabul ediliyor
 - Tlos Büyük Hamam, doğa severlerin ve tarih meraklılarının ilgisini çekiyor

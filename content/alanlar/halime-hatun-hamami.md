@@ -29,7 +29,7 @@ wikidata_id: "Q131738670"
 
 # Halime Hatun Hamamı
 
-Halime Hatun Hamamı, Manisa'nın Gölmarmara ilçesinde yer alan bir plajdır. Bu doğa harikası, yaklaşık 140 hektarlık bir alanı kaplar. Gölmarmara'da bulunan bu plaj, Ege Bölgesi'nin en güzel ve sakin noktalarından biridir. Halime Hatun Hamamı, özellikle yaz aylarında serinleme ve doğanın güzelliğini görmek isteyenler için ideal bir destinasyondur.
+Halime Hatun Hamamı, Manisa'nın Gölmarmara ilçesinde yer alan bir plajdır. Gölmarmara'da bulunan bu plaj, Ege Bölgesi'nin en güzel ve sakin noktalarından biridir. Halime Hatun Hamamı, özellikle yaz aylarında serinleme ve doğanın güzelliğini görmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Halime Hatun Hamamı, özellikle yaz aylarında ziyaret edilebilir. Bu plaj, ser
 ## İlginç Bilgiler
 
 - Halime Hatun Hamamı, Gölmarmara'nın en güzel plajlarından biridir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Halime Hatun Hamamı, özellikle yaz aylarında ziyaret edilebilir.
 - Bu plaj, serinleme ve doğanın güzelliğini görmek isteyenler için ideal bir destinasyondur.
 - Ziyaretçiler, plaja arabayla veya toplu taşıma araçlarıyla ulaşabilir.

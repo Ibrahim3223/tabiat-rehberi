@@ -30,7 +30,7 @@ wikidata_id: "Q32339"
 
 # Bursa Ulu Camii
 
-Bursa Ulu Camii, Marmara Bölgesi'nin en büyük ve en önemli dini yapılarından biri olarak kabul edilir. 1396 yılında yapımına başlanılan ve 1400 yılında tamamlanan cami, yaklaşık 140 hektarlık bir alanı kaplar. Bursa'nın kalbinde yer alan Ulu Camii, şehrin en önemli turisti ve dini merkezlerinden biridir. Caminin mimarisi, Osmanlı dönemi mimari özellikleri taşır ve tarihi değerleriyle ziyaretçilerini büyüler.
+Bursa Ulu Camii, Marmara Bölgesi'nin en büyük ve en önemli dini yapılarından biri olarak kabul edilir. Bursa'nın kalbinde yer alan Ulu Camii, şehrin en önemli turisti ve dini merkezlerinden biridir. Caminin mimarisi, Osmanlı dönemi mimari özellikleri taşır ve tarihi değerleriyle ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Bursa Ulu Camii, Osmanlı İmparatorluğu'nun ilk dönemlerinde inşa edilmişti
 
 ## Coğrafya
 
-Bursa Ulu Camii, Bursa ilinin merkezi bölgesinde yer alır. Cami, şehrin en önemli caddelerinden biri olan Atatürk Caddesi'ne yakındır. Ulu Camii'nin etrafı, tarihi ve kültürel öneme sahip çeşitli yapılarla çevrilidir. Cami, 140 hektarlık bir alanı kaplar ve bu geniş alan, çeşitli faaliyetlere ev sahipliği yapar. Caminin mimarisi, Osmanlı dönemi mimari özelliklerini taşır ve tarihi değerleriyle ziyaretçilerini etkiler. Ulu Camii, Marmara Bölgesi'nin en önemli dini merkezlerinden biri olarak kabul edilir ve ziyaretçilerine zengin bir kültürel deneyim sunar. Cami, çevresindeki diğer tarihi yapılara yakınlığıyla da dikkat çeker ve bu nedenle ziyaretçileri için önemli bir gezi noktasıdır.
+Bursa Ulu Camii, Bursa ilinin merkezi bölgesinde yer alır. Cami, şehrin en önemli caddelerinden biri olan Atatürk Caddesi'ne yakındır. Ulu Camii'nin etrafı, tarihi ve kültürel öneme sahip çeşitli yapılarla çevrilidir. Caminin mimarisi, Osmanlı dönemi mimari özelliklerini taşır ve tarihi değerleriyle ziyaretçilerini etkiler. Ulu Camii, Marmara Bölgesi'nin en önemli dini merkezlerinden biri olarak kabul edilir ve ziyaretçilerine zengin bir kültürel deneyim sunar. Cami, çevresindeki diğer tarihi yapılara yakınlığıyla da dikkat çeker ve bu nedenle ziyaretçileri için önemli bir gezi noktasıdır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Bursa Ulu Camii, yılın her dönemi ziyaret edilebilir. Cami, özellikle ramaza
 ## İlginç Bilgiler
 
 - Caminin 12 kubbesi vardır
-- Cami, 140 hektarlık bir alanı kaplar
+
 - Caminin tarihi geçmişi 600 yıldan fazladır
 - Cami, Osmanlı dönemi mimari özelliklerini taşır
 - Cami, Bursa'nın en önemli turistik merkezlerinden biridir

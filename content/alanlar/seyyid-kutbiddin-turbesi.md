@@ -51,7 +51,7 @@ Seyyid Kutbiddin Türbesi'ni ziyaret etmek, ziyaretçilerin tarih ve kültür ha
 ## İlginç Bilgiler
 
 - Seyyid Kutbiddin Türbesi, Karadeniz Bölgesi'nde bulunan önemli bir tarihi mekan.
-- Mekan, 140 hektarlık bir alanda kurulmuş.
+
 - Seyyid Kutbiddin Türbesi, güzel bir mimariye sahip.
 - Mekan, ziyaretçilerini etkiliyor.
 - Seyyid Kutbiddin Türbesi, ekolojik açıdan önemli bir mekan.

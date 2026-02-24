@@ -36,7 +36,7 @@ Gümüşyuva Tepesi, yüzyıllar boyunca çeşitli uygarlıkların etkisi altın
 
 ## Coğrafya
 
-Gümüşyuva Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir nokta. Tepenin konumu, ziyaretçiler için önemli bir avantaj sağlıyor. Bu tepe, Mardin'in şehir merkezi yakınlarında yer alıyor ve ziyaretçiler, şehir merkezinden kolayca ulaşabilirler. Gümüşyuva Tepesi, yaklaşık 140 hektarlık alanıyla, ziyaretçiler için geniş bir alan sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in coğrafi güzelliklerini keşfedebilirler. Gümüşyuva Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir destinasyon.
+Gümüşyuva Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir nokta. Tepenin konumu, ziyaretçiler için önemli bir avantaj sağlıyor. Bu tepe, Mardin'in şehir merkezi yakınlarında yer alıyor ve ziyaretçiler, şehir merkezinden kolayca ulaşabilirler. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in coğrafi güzelliklerini keşfedebilirler. Gümüşyuva Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Gümüşyuva Tepesi, çeşitli bitki türleri ve zengin fauna encontrabile bir y
 
 ## Ziyaret Bilgileri
 
-Gümüşyuva Tepesi, ziyaretçiler için önemli bir destinasyon. Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in tarihi ve doğal güzelliklerini keşfedebilirler. Tepenin konumu, ziyaretçiler için önemli bir avantaj sağlıyor. Ziyaretçiler, şehir merkezinden kolayca ulaşabilirler. Gümüşyuva Tepesi, yaklaşık 140 hektarlık alanıyla, ziyaretçiler için geniş bir alan sunuyor. Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in coğrafi güzelliklerini keşfedebilirler.
+Gümüşyuva Tepesi, ziyaretçiler için önemli bir destinasyon. Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in tarihi ve doğal güzelliklerini keşfedebilirler. Tepenin konumu, ziyaretçiler için önemli bir avantaj sağlıyor. Ziyaretçiler, şehir merkezinden kolayca ulaşabilirler. Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in coğrafi güzelliklerini keşfedebilirler.
 
 ## İlginç Bilgiler
 

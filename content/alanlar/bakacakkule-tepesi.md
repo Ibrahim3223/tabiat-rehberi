@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih keşfi","fotoğraf �
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Bakacakkule Tepesi","caption":"Bakacakkule Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bakacakkule%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387304","tip":"genel"}]
-description: "Edirne'nin tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
+description: "Edirne'nin tarihi ve doğal güzelliklerini keşfedin.
 keywords: ["Edirne","Marmara Bölgesi","Bakacakkule Tepesi","doğa","tarih","gezi","turizm","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387304"

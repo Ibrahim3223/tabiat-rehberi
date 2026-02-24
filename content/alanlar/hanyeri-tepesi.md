@@ -48,8 +48,6 @@ Hanyeri Tepesi, ziyaretçilere çeşitli olanaklar sunar. Bu tepe, doğal güzel
 
 ## İlginç Bilgiler
 
-- Hanyeri Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar
 - Hanyeri Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker
 - Bu bölgede, mevsimsel değişimlere göre değişen bir doğa manzarası ile karşılaşma mümkündür
 - Hanyeri Tepesi, tarihi geçmişi ile dikkat çeker

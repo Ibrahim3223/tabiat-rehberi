@@ -36,7 +36,7 @@ Girgevri Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Girgevri Tepesi, Van'ın coğrafi olarak önemli bir noktasıdır. Bu tepe, Van Gölü'ne yakın bir konumda bulunuyor ve ziyaretçiler buradan gölün muhteşem manzarasını seyretme fırsatı bulabilir. Girgevri Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, Van'ın coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, Girgevri Tepesi'nden Van Gölü'nün ve çevresinin muhteşem manzarasını seyretme fırsatı bulabilir. Bu tepe, Van'ın coğrafi güzelliğini keşfetmek isteyenler için önemli bir noktadır.
+Girgevri Tepesi, Van'ın coğrafi olarak önemli bir noktasıdır. Bu tepe, Van Gölü'ne yakın bir konumda bulunuyor ve ziyaretçiler buradan gölün muhteşem manzarasını seyretme fırsatı bulabilir. Bu tepe, Van'ın coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, Girgevri Tepesi'nden Van Gölü'nün ve çevresinin muhteşem manzarasını seyretme fırsatı bulabilir. Bu tepe, Van'ın coğrafi güzelliğini keşfetmek isteyenler için önemli bir noktadır.
 
 ## Flora ve Fauna
 

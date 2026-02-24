@@ -51,7 +51,7 @@ Hoca Hamamı'na ziyaretçiler, kolayca ulaşabilir. Ulaşım açısından elveri
 ## İlginç Bilgiler
 
 - Hoca Hamamı, Kilis'in en önemli plajlarından biridir.
-- Bu plaj, 140 hektarlık bir yeşil alana sahiptir.
+
 - Hoca Hamamı, Güneydoğu Anadolu Bölgesi'nin güzelliklerini sunar.
 - Bu plajda, çeşitli bitki türleri ve fauna bulunur.
 - Hoca Hamamı, yılın büyük portionunda ziyaret edilebilir.

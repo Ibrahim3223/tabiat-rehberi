@@ -51,7 +51,7 @@ Anadolu Hisarı, yıl boyunca ziyaret edilebilecek bir destinasyondur. Ziyaretç
 ## İlginç Bilgiler
 
 - Anadolu Hisarı, İstanbul'un en eski yerleşim yerlerinden biridir.
-- Kasaba, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
+
 - Bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir.
 - Anadolu Hisarı, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Kasaba, yıl boyunca ziyaret edilebilecek bir destinasyondur.

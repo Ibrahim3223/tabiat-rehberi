@@ -36,7 +36,7 @@ Gözüdağı Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin zengin tarih
 
 ## Coğrafya
 
-Gözüdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve doğu-batı yönünde uzanıyor. Tepenin kuzeyinde, geniş otlaklar ve çayırlar bulunurken, güneyinde ise ormanlık alanlar yer alıyor. Bu coğrafi çeşitlilik, ziyaretçilere doğanın farklı yüzlerini keşfetme fırsatı sunuyor. Gözüdağı Tepesi, aynı zamanda bölgenin iklimini de etkileyen önemli bir coğrafi unsur. Tepenin yüksekliği, bölgede oluşan mikroklimaya katkıda bulunarak, flora ve faunayı zenginleştirmiş. Bu coğrafi özellikler, Gözüdağı Tepesi'ni doğa severler ve coğrafya meraklıları için çekici bir destinasyon haline getiriyor.
+Gözüdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Tepenin kuzeyinde, geniş otlaklar ve çayırlar bulunurken, güneyinde ise ormanlık alanlar yer alıyor. Bu coğrafi çeşitlilik, ziyaretçilere doğanın farklı yüzlerini keşfetme fırsatı sunuyor. Gözüdağı Tepesi, aynı zamanda bölgenin iklimini de etkileyen önemli bir coğrafi unsur. Tepenin yüksekliği, bölgede oluşan mikroklimaya katkıda bulunarak, flora ve faunayı zenginleştirmiş. Bu coğrafi özellikler, Gözüdağı Tepesi'ni doğa severler ve coğrafya meraklıları için çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

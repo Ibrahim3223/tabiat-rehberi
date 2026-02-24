@@ -28,7 +28,7 @@ wikidata_id: "Q31581683"
 
 # Kayatuzu Tepesi
 
-Kayatuzu Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak dikkat çekmektedir. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri ve zengin fauna encontrabilir. Kayatuzu Tepesi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak görünmektedir.
+ Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri ve zengin fauna encontrabilir. Kayatuzu Tepesi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak görünmektedir.
 
 ## Tarihçe
 

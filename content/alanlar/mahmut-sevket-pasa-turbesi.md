@@ -29,7 +29,7 @@ wikidata_id: "Q131391083"
 
 # Mahmut Şevket Paşa Türbesi
 
-Mahmut Şevket Paşa Türbesi, Şişli'nin merkezinde yer alan ve tarihi öneme sahip bir yapıdır. Bu önemli mekan, yaklaşık 140 hektarlık bir alanda, İstanbul'un kalbinde yer alır. Mahmut Şevket Paşa'nın hayatını ve önemini anlatan bu türbe, aynı zamanda şehrin tarihi geçmişi hakkında da bilgi verir. Ziyaretçiler, bu özel mekanın güzelliğini ve tarihi önemini keşfetme fırsatı bulur.
+Mahmut Şevket Paşa Türbesi, Şişli'nin merkezinde yer alan ve tarihi öneme sahip bir yapıdır. Mahmut Şevket Paşa'nın hayatını ve önemini anlatan bu türbe, aynı zamanda şehrin tarihi geçmişi hakkında da bilgi verir. Ziyaretçiler, bu özel mekanın güzelliğini ve tarihi önemini keşfetme fırsatı bulur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mahmut Şevket Paşa Türbesi, Osmanlı Devleti'nin son döneminde önemli bir f
 
 ## Coğrafya
 
-Mahmut Şevket Paşa Türbesi, Şişli'nin merkezinde yer alır ve Marmara Bölgesi'nin önemli bir parçasıdır. Türbe, yaklaşık 140 hektarlık bir alanda, İstanbul'un kalbinde yer alır. Türbe, şehrin merkezi bir konumunda yer alır ve ulaşımı kolaydır. Mahmut Şevket Paşa Türbesi, şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekandır. Ziyaretçiler, türbenin güzelliğini ve tarihi önemini keşfetme fırsatı bulurken, aynı zamanda şehrin diğer önemli mekanlarını da ziyaret edebilirler. İstanbul'un iklimi, türbenin konumu nedeniyle ılımandır ve ziyaretçiler, yılın her döneminde türbeyi ziyaret edebilirler.
+Mahmut Şevket Paşa Türbesi, Şişli'nin merkezinde yer alır ve Marmara Bölgesi'nin önemli bir parçasıdır. Türbe, şehrin merkezi bir konumunda yer alır ve ulaşımı kolaydır. Mahmut Şevket Paşa Türbesi, şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekandır. Ziyaretçiler, türbenin güzelliğini ve tarihi önemini keşfetme fırsatı bulurken, aynı zamanda şehrin diğer önemli mekanlarını da ziyaret edebilirler. İstanbul'un iklimi, türbenin konumu nedeniyle ılımandır ve ziyaretçiler, yılın her döneminde türbeyi ziyaret edebilirler.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Mahmut Şevket Paşa Türbesi, ziyaretçilere yılın her döneminde açık bir 
 
 - Mahmut Şevket Paşa, Osmanlı Devleti'nin son döneminde önemli bir figürdü
 - Türbe, Paşa'nın anısına inşa edilmiştir
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alır
+
 - Türbe, şehrin merkezi bir konumunda yer alır
 - Türbe, çeşitli bitki türleri ve zengin fauna ile çevrilidir

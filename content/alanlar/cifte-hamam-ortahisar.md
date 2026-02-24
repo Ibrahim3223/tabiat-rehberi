@@ -21,8 +21,8 @@ aktiviteler: ["yürüyüş","piknik","doğayı seyretmek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Çifte Hamam, Ortahisar","caption":"Çifte Hamam, Ortahisar","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Hamam%2C%20Ortahisar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245803","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin güzide ilçelerinden biri olan Ortahisar'da yer alan Çifte Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Çifte Hamam","Ortahisar","Karadeniz Bölgesi","Trabzon","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245803"
 ---
@@ -37,7 +37,7 @@ wikidata_id: "Q133245803"
 
 ## Coğrafya
 
-Çifte Hamam, Ortahisar'da yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yeşilin her tonuna sahip ormanlarla kaplı. Çifte Hamam da bu ormanların içinde yer alıyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, aynı zamanda birçok bitki ve hayvanın yaşam alanı. Çifte Hamam'ın coğrafi konumu, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karadeniz Bölgesi'nin iklimi, bu bölgede de hüküm sürüyor. Bu iklim, yeşilin her tonuna sahip ormanları ve zengin faunayı destekleyen nemli ve ılıman bir iklim.
+Çifte Hamam, Ortahisar'da yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yeşilin her tonuna sahip ormanlarla kaplı. Çifte Hamam da bu ormanların içinde yer alıyor. Bu alan, aynı zamanda birçok bitki ve hayvanın yaşam alanı. Çifte Hamam'ın coğrafi konumu, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karadeniz Bölgesi'nin iklimi, bu bölgede de hüküm sürüyor. Bu iklim, yeşilin her tonuna sahip ormanları ve zengin faunayı destekleyen nemli ve ılıman bir iklim.
 
 ## Flora ve Fauna
 

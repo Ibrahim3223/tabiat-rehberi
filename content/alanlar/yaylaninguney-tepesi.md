@@ -36,7 +36,7 @@ Yaylanıngüney Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniy
 
 ## Coğrafya
 
-Yaylanıngüney Tepesi, Erzurum'un merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Yaylanıngüney Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, aynı zamanda birçok tarihi olaya da tanıklık etmiştir. Yaylanıngüney Tepesi'nin coğrafi konumu, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir. Bu tepe, Erzurum'un merkezinde yer alır ve ulaşımı oldukça kolaydır. Yaylanıngüney Tepesi, aynı zamanda birçok farklı coğrafi yapıya da ev sahipliği yapar.
+ Yaylanıngüney Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, aynı zamanda birçok tarihi olaya da tanıklık etmiştir. Yaylanıngüney Tepesi'nin coğrafi konumu, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir. Bu tepe, Erzurum'un merkezinde yer alır ve ulaşımı oldukça kolaydır. Yaylanıngüney Tepesi, aynı zamanda birçok farklı coğrafi yapıya da ev sahipliği yapar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yaylanıngüney Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna
 ## İlginç Bilgiler
 
 - Yaylanıngüney Tepesi, Erzurum'un en önemli turistik merkezlerinden biri olarak kabul edilir.
-- Yaylanıngüney Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Yaylanıngüney Tepesi, Erzurum'un merkezinde yer alır.
 - Yaylanıngüney Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir.
 - Yaylanıngüney Tepesi, mevsimsel değişimlere göre farklı bir güzellik sunar.

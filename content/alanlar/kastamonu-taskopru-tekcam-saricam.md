@@ -42,7 +42,6 @@ Kastamonu-Taskopru-Tekcam Saricam'ı ziyaret etmek, hem doğa hem de tarih merak
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alanı kapsıyor
 - Bölgede çeşitli bitki türleri ve hayvanlar yaşiyor
 - Kastamonu'nun tarihi dokusu, milli parkın bir parçası
 - Milli park, doğa severler ve tarih meraklıları için önemli bir destinasyon

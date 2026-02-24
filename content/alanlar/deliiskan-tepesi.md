@@ -48,8 +48,6 @@ Deliiskan Tepesi'ni ziyaret etmek, özellikle doğal güzelliklerini keşfetmek 
 
 ## İlginç Bilgiler
 
-- Deliiskan Tepesi, 140 hektarlık bir alana sahiptir.
-
 - Deliiskan Tepesi, Burdur'un coğrafi yapısını etkileyen önemli bir tepe.
 - Bu bölge, flora ve fauna açısından zengin bir çeşitlilik sunar.
 - Deliiskan Tepesi, özellikle kuş gözlemcileri ve doğa severler için ideal bir destinasyon.

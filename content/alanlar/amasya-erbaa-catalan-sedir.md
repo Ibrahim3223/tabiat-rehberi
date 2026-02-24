@@ -14,8 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna izleme","fotografcı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Amasya-Erbaa-Catalan Sedir","caption":"Amasya-Erbaa-Catalan Sedir","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Erbaa-Catalan%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228559","tip":"genel"}]
-description: "Amasya'nın Erbaa ve Catalan Sedir milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["milli park","Amasya","Erbaa","Catalan Sedir","yeşil alan","futbol sahası","doğa","gezi","turizm"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228559"
 ---
@@ -42,8 +41,6 @@ Amasya-Erbaa-Catalan Sedir milli parkını ziyaret etmek, doğa severler ve gezi
 
 ## İlginç Bilgiler
 
-- Amasya-Erbaa-Catalan Sedir milli parkı, 140 hektarlık bir alana sahiptir
-- Bu park, yaklaşık 200 futbol sahası büyüklüğündedir
 - Parkın flora ve faunası, Karadeniz Bölgesi'nin doğal güzelliğini yansıtır
 - Milli park, yılın her dönemi ziyaret edilebilir
 - Bu bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygundur

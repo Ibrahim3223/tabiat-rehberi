@@ -20,7 +20,7 @@ aktiviteler: ["Doğa Yürüyüşü","Kültür Gezisi","Fotoğrafçılık","Doğa
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Nirıvari Tepesi","caption":"Nirıvari Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nir%C4%B1vari%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553538","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti, Batman'da yer alan Nirıvari Tepesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
+"
 keywords: ["Nirıvari Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Yeşil Alan","Zengin Fauna","Doğa","Tepeler","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553538"
@@ -36,7 +36,7 @@ Nirıvari Tepesi'nin tarihi geçmişi, yüzyılların izlerini taşıyor. Bu bö
 
 ## Coğrafya
 
-Nirıvari Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık yeşil alan, tepeye hakim olan yüksekli ve çevredeki dağlarla birlikte birwhole coğrafi çeşitlilik sunuyor. Tepenin eteklerinde akan nehirler, bölgenin suyollarının zenginliğini gösteriyor. İklim, bölgenin coğrafi konumuna göre şekilleniyor ve mevsimsel farklılıklar, doğanın renk paletini değiştiriyor. Çevredeki bitki örtüsü, flora ve fauna çeşitliliği, Nirıvari Tepesi'ni doğa severlerin cenneti haline getiriyor. Bu coğrafi özellikler, Nirıvari Tepesi'ni diğer bölgelerden ayıran önemli faktörler olarak öne çıkıyor.
+Nirıvari Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepenin eteklerinde akan nehirler, bölgenin suyollarının zenginliğini gösteriyor. İklim, bölgenin coğrafi konumuna göre şekilleniyor ve mevsimsel farklılıklar, doğanın renk paletini değiştiriyor. Çevredeki bitki örtüsü, flora ve fauna çeşitliliği, Nirıvari Tepesi'ni doğa severlerin cenneti haline getiriyor. Bu coğrafi özellikler, Nirıvari Tepesi'ni diğer bölgelerden ayıran önemli faktörler olarak öne çıkıyor.
 
 ## Flora ve Fauna
 

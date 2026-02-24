@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Trabzon-Pazar-Findikli Dogu Ladini","caption":"Trabzon-Pazar-Findikli Dogu Ladini","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Pazar-Findikli%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227994","tip":"genel"}]
-description: "Trabzon'un doğal güzelliklerini keşfedin, 140 hektarlık milli parkta yeşil alanların keyfini çıkarın"
+
 keywords: ["Trabzon","Pazar","Findikli","Doğu Ladini","Milli Park","Karadeniz","Doğa","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227994"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227994"
 
 # Trabzon-Pazar-Findikli Dogu Ladini
 
-Trabzon-Pazar-Findikli Doğu Ladini milli parkı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir doğal güzellik alanıdır. Bu park, Karadeniz Bölgesi'nin Trabzon ilinde yer alır ve ziyaretçilerine doğanın güzelliğini sunar. Doğal güzellikleri ile dikkat çeken bu park, ziyaretçilerin doğa ile iç içe zaman geçirmesine olanak tanır. Parkın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
+ Bu park, Karadeniz Bölgesi'nin Trabzon ilinde yer alır ve ziyaretçilerine doğanın güzelliğini sunar. Doğal güzellikleri ile dikkat çeken bu park, ziyaretçilerin doğa ile iç içe zaman geçirmesine olanak tanır. Parkın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Trabzon-Pazar-Findikli Doğu Ladini milli parkını ziyaret etmek, doğa ile iç
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunur
 - Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe zaman geçirmesine olanak tanır
 - Parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir

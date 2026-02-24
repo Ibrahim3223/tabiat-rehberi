@@ -42,8 +42,6 @@ Edirne Topsöğüt Devlet Ormanı, ziyaretçilerine dört mevsim boyunca farklı
 
 ## İlginç Bilgiler
 
-- Orman, 140 hektarlık bir alanı kaplıyor.
-
 - Orman, çeşitli bitki türleri ile kaplıdır.
 - Orman, yaban hayatının güzelliğine tanık olma fırsatı sunuyor.
 - Orman, ziyaretçilerine hem eğitim hem de eğlence sunuyor.

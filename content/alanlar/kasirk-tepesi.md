@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Kasirk Tepesi","caption":"Kasirk Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasirk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546534","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Kasirk Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kasirk Tepesi","Batman","Güneydoğu Anadolu Bölgesi","yeşil alan","tepe","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31546534"
@@ -36,7 +36,7 @@ Kasirk Tepesi'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yans�
 
 ## Coğrafya
 
-Kasirk Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin etrafında yer alan dağlar, bölgenin coğrafi yapısını şekillendirmiş. Kasirk Tepesi, yaklaşık 140 hektarlık yeşil alanıyla önemli bir doğal güzelliğe sahip. Tepenin eteklerinde yer alan köyler, geleneksel tarım faaliyetleri yürütüyor. Bölge, aynı zamanda zengin fauna ve flora çeşitliliğine sahip. Kasirk Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Tepenin etrafında yer alan nehirler, bölgenin su kaynaklarını sağlıyor. Kasirk Tepesi, aynı zamanda bölgenin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Kasirk Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin etrafında yer alan dağlar, bölgenin coğrafi yapısını şekillendirmiş. Tepenin eteklerinde yer alan köyler, geleneksel tarım faaliyetleri yürütüyor. Bölge, aynı zamanda zengin fauna ve flora çeşitliliğine sahip. Kasirk Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Tepenin etrafında yer alan nehirler, bölgenin su kaynaklarını sağlıyor. Kasirk Tepesi, aynı zamanda bölgenin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kasirk Tepesi'ni ziyaret etmek isteyenler, Batman şehrine ulaştıktan sonra te
 
 ## İlginç Bilgiler
 
-- Kasirk Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin eteklerinde yer alan köyler, geleneksel mimari örneklerini görmek isteyenler için önemli bir çekim noktası
 - Kasirk Tepesi, bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon
 - Tepenin etrafında yer alan tarihi kalıntılar, bölgenin geçmişine ışık tutuyor

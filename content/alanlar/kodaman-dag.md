@@ -28,7 +28,7 @@ wikidata_id: "Q31385591"
 
 # Kodaman Dağ
 
-Kodaman Dağ, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık alanı ile geniş bir yeşil alan sunuyor. Doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor. Sivas'ın merkezine yakın konumuyla da ulaşım açısından kolaylık sağlıyor. Bu tepe, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Kodaman Dağ, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor. Sivas'ın merkezine yakın konumuyla da ulaşım açısından kolaylık sağlıyor. Bu tepe, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kodaman Dağ'ın tarihi geçmişi, bölgenin kültürel zenginliğini gösteriyo
 
 ## Coğrafya
 
-Kodaman Dağ, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, karasal iklimin hüküm sürdüğü bir alan olarak biliniyor. Yaz aylarında sıcakların yüksek, kış aylarında ise soğukların şiddetli olduğu bir iklim yapısı göze çarpıyor. Coğrafi konumu itibariyle, bu tepe, etrafındaki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendiriliyor. Çevresinde çeşitli bitki türleri ve fauna encontruluyor. Bu bölge, ziyaretçilerin doğayı keşfetmeleri için uygun bir ortam sunuyor. 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunuyor.
+Kodaman Dağ, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, karasal iklimin hüküm sürdüğü bir alan olarak biliniyor. Yaz aylarında sıcakların yüksek, kış aylarında ise soğukların şiddetli olduğu bir iklim yapısı göze çarpıyor. Coğrafi konumu itibariyle, bu tepe, etrafındaki diğer doğal güzelliklerle birlikte bir bütün olarak değerlendiriliyor. Çevresinde çeşitli bitki türleri ve fauna encontruluyor. Bu bölge, ziyaretçilerin doğayı keşfetmeleri için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kodaman Dağ, ziyaretçilerin doğayı keşfetmeleri için ideal bir destinasyon
 ## İlginç Bilgiler
 
 - Kodaman Dağ, Sivas'ın merkezine yakındır
-- Bu tepe, 140 hektarlık bir yeşil alan sunuyor
+
 - Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip
 - Kodaman Dağ, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon
 - Bu tepe, tarihi geçmişi ile ziyaretçilerin ilgisini çekiyor

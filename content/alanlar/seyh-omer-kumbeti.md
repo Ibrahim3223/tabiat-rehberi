@@ -50,7 +50,7 @@ Gülnar, Mersin'de yer alan Şeyh Ömer Kümbeti, tarih ve doğanın birleştiğ
 ## İlginç Bilgiler
 
 - Şeyh Ömer Kümbeti, Gülnar, Mersin'de yer alıyor
-- 140 hektarlık bir yeşil alan
+
 - Tarihi ve doğal güzelliklerin birleştiği bir nokta
 - Zengin fauna çeşitliliği
 - İlkbahar ve yaz aylarında ziyaret edilebilir

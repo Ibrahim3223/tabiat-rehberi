@@ -49,7 +49,6 @@ wikidata_id: "Q34828147"
 ## İlginç Bilgiler
 
 - Çambaşı Tepe, Konya'nın önemli doğal güzelliklerinden biri.
-- Tepe, 140 hektarlık bir alanı kapsıyor.
 
 - Tepe, özellikle doğa severler için önemli bir gezi noktası.
 - Çambaşı Tepe, Konya'nın merkezine uzun bir mesafe uzaklıkta.

@@ -30,7 +30,7 @@ wikidata_id: "Q108227763"
 
 ## Coğrafya
 
-İstanbul-Demirkoy-Istihkamtepe Mese, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bölge, 140 hektarlık geniş bir alana yayılmış ve çeşitli bitki türleri ile hayvanlara ev sahipliği yapmaktadır. İstanbul'un şehir merkezi ile karşılaştırıldığında, daha sakin ve doğal bir ortam sunan bu milli park, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak dinlenmek için ideal bir ortam sunmaktadır. Coğrafi olarak bakıldığında, bölgenin iklimi ve toprak yapısı, çeşitli flora ve fauna için uygun koşullar sağlamaktadır. Ayrıca, bölgenin coğrafi konumu, ziyaretçilerin diğer turistik yerlere de kolayca ulaşabilmesini sağlamaktadır.
+İstanbul-Demirkoy-Istihkamtepe Mese, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. İstanbul'un şehir merkezi ile karşılaştırıldığında, daha sakin ve doğal bir ortam sunan bu milli park, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak dinlenmek için ideal bir ortam sunmaktadır. Coğrafi olarak bakıldığında, bölgenin iklimi ve toprak yapısı, çeşitli flora ve fauna için uygun koşullar sağlamaktadır. Ayrıca, bölgenin coğrafi konumu, ziyaretçilerin diğer turistik yerlere de kolayca ulaşabilmesini sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108227763"
 ## İlginç Bilgiler
 
 - İstanbul-Demirkoy-Istihkamtepe Mese, Marmara Bölgesi'nin önemli doğa alanlarından biridir.
-- Bölge, 140 hektarlık geniş bir alana yayılmış ve çeşitli bitki türleri ile hayvanlara ev sahipliği yapmaktadır.
+
 - Milli park, koruma altına alınmış ve ziyaretçilerin doğayı korumalarına önem verilmektedir.
 - İstanbul-Demirkoy-Istihkamtepe Mese, yılın her mevsiminde ziyaret edilebilir.
 - Bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır.

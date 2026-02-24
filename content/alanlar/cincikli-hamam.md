@@ -50,7 +50,7 @@ Cıncıklı Hamam'a gitmek için, en uygun zaman, ilkbahar ve yaz aylarıdır. B
 ## İlginç Bilgiler
 
 - Cıncıklı Hamam, Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biridir
-- Bu plaj, 140 hektarlık bir yeşil alana sahiptir
+
 - Cıncıklı Hamam, çeşitli bitki türleri ve zengin fauna ile çevrilidir
 - Bu plaj, bölgenin coğrafyasına uygun olarak, çeşitli doğa yürüyüşleri ve keşifler için ideal bir yerdir
 - Cıncıklı Hamam, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir

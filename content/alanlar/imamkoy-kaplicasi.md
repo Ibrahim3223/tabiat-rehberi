@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","kaplıca tedavisi","ormanlık alan gezintis
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"İmamköy Kaplıcası","caption":"İmamköy Kaplıcası","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mamk%C3%B6y%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739017","tip":"genel"}]
-description: "Ege Bölgesi'nin Aydın ilindeki Efeler ilçesinde bulunan İmamköy Kaplıcası, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["İmamköy Kaplıcası","Aydın","Efeler","Ege Bölgesi","kaplıca","doğa","turizm","gezi","seyahat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739017"
@@ -37,7 +37,7 @@ wikidata_id: "Q131739017"
 
 ## Coğrafya
 
-İmamköy Kaplıcası, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunuyor. Kaplıcanın çevresinde, ormanlık alanlar, doğal güzellikler ve çeşitli bitki türleri bulunuyor. İklim bakımından, İmamköy Kaplıcası'nın bulunduğu bölge, ılıman bir iklimi sahip. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, İmamköy Kaplıcası'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor. Ayrıca, kaplıcanın yakınında bulunan Aydın il merkezi, ziyaretçilere kültürel ve tarihi açıdan da zengin bir deneyim sunuyor.
+İmamköy Kaplıcası, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Kaplıcanın çevresinde, ormanlık alanlar, doğal güzellikler ve çeşitli bitki türleri bulunuyor. İklim bakımından, İmamköy Kaplıcası'nın bulunduğu bölge, ılıman bir iklimi sahip. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu coğrafi özellikler, İmamköy Kaplıcası'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor. Ayrıca, kaplıcanın yakınında bulunan Aydın il merkezi, ziyaretçilere kültürel ve tarihi açıdan da zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131739017"
 
 ## İlginç Bilgiler
 
-- İmamköy Kaplıcası, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Kaplıcanın şifalı suları, sağlık turizmi açısından önemli bir destinasyon
 - İmamköy Kaplıcası'nın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış
 - Kaplıcanın çevresinde, ormanlık alanlar, doğal güzellikler ve çeşitli bitki türleri bulunuyor

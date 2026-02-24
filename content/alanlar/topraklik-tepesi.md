@@ -28,7 +28,7 @@ wikidata_id: "Q31385407"
 
 # Topraklık Tepesi
 
-Topraklık Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yer tutuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini geniş bir manzara ile karşılıyor. Topraklık Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin tarihi dokusunu yansıtan önemli bir nokta olarak kabul ediliyor. Tepenin etrafında, Mardin'in tarihi evleri ve camileri yer alıyor ve ziyaretçiler, bu bölgede güzel bir gezi deneyimi yaşayabiliyor.
+Topraklık Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yer tutuyor. Topraklık Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin tarihi dokusunu yansıtan önemli bir nokta olarak kabul ediliyor. Tepenin etrafında, Mardin'in tarihi evleri ve camileri yer alıyor ve ziyaretçiler, bu bölgede güzel bir gezi deneyimi yaşayabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Topraklık Tepesi, tarihsel olarak önemli bir geçmişe sahip. Bu bölgede, çe
 
 ## Coğrafya
 
-Topraklık Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir nokta. Tepenin etrafında, geniş bir ova yer alıyor ve bu ova, Mardin'in tarım alanı olarak kullanılıyor. Topraklık Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, Mardin'in merkezine yakın bir konumda yer alıyor. Tepenin yüksekliği, Mardin'in genel coğrafi yapısına uygun olarak, yaklaşık 500 metre civarında. Topraklık Tepesi, ziyaretçilerine, Mardin'in geniş ovalarını ve tarihi evlerini panoramik bir şekilde görmek için uygun bir gözlem noktası sunuyor. Tepenin coğrafi konumu, Mardin'in iklimini ve doğal güzelliklerini anlamak için önemli bir kaynak teşkil ediyor.
+Topraklık Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir nokta. Tepenin etrafında, geniş bir ova yer alıyor ve bu ova, Mardin'in tarım alanı olarak kullanılıyor. Tepenin yüksekliği, Mardin'in genel coğrafi yapısına uygun olarak, yaklaşık 500 metre civarında. Topraklık Tepesi, ziyaretçilerine, Mardin'in geniş ovalarını ve tarihi evlerini panoramik bir şekilde görmek için uygun bir gözlem noktası sunuyor. Tepenin coğrafi konumu, Mardin'in iklimini ve doğal güzelliklerini anlamak için önemli bir kaynak teşkil ediyor.
 
 ## Flora ve Fauna
 

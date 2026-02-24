@@ -50,7 +50,7 @@ Sultan Memduh Türbesi, ziyaretçilerin ilgisini çekiyor ve birçok ziyaretçi 
 ## İlginç Bilgiler
 
 - Sultan Memduh Türbesi, tarihi geçmişi ile dikkat çekiyor.
-- Mekan, 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Sultan Memduh Türbesi, zengin flora ve fauna yapısı ile dikkat çekiyor.
 - Mekan, coğrafi olarak zengin bir bölgeye sahip.
 - Sultan Memduh Türbesi, ziyaretçilerin ilgisini çekiyor.

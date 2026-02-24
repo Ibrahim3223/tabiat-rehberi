@@ -28,7 +28,7 @@ wikidata_id: "Q31390779"
 
 # Alidede Tepesi
 
-Alidede Tepesi, Yozgat'ın kalbinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Alidede Tepesi, doğa severler ve macera tutkunları için ideal bir destinasyon olup, ziyaretçilerine hem güzel manzaralar hem de aktivite olanakları sunmaktadır.
+ Alidede Tepesi, doğa severler ve macera tutkunları için ideal bir destinasyon olup, ziyaretçilerine hem güzel manzaralar hem de aktivite olanakları sunmaktadır.
 
 ## Tarihçe
 

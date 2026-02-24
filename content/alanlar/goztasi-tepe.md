@@ -36,7 +36,7 @@ Göztaşı Tepe'nin tarihi geçmişi, Karaman'ın tarihinde önemli bir yer tutu
 
 ## Coğrafya
 
-Göztaşı Tepe, Karaman'ın coğrafi konumunu da etkiliyor. Bu tepe, şehrin merkezi bir konumunda yer alıyor ve coğrafi açıdan önemli bir nokta oluşturuyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Karaman'ın iklimini de etkileyen bir faktör olarak görülüyor. Coğrafi konumu, ziyaretçilere şehrin doğal güzelliklerini sunuyor. Göztaşı Tepe, Karaman'ın coğrafi haritasında önemli bir yer tutuyor ve ziyaretçiler için bir gezi noktası olarak kabul ediliyor.
+Göztaşı Tepe, Karaman'ın coğrafi konumunu da etkiliyor. Bu tepe, şehrin merkezi bir konumunda yer alıyor ve coğrafi açıdan önemli bir nokta oluşturuyor. Bu tepe, Karaman'ın iklimini de etkileyen bir faktör olarak görülüyor. Coğrafi konumu, ziyaretçilere şehrin doğal güzelliklerini sunuyor. Göztaşı Tepe, Karaman'ın coğrafi haritasında önemli bir yer tutuyor ve ziyaretçiler için bir gezi noktası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

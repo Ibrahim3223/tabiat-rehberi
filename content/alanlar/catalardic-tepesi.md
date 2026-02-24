@@ -36,7 +36,7 @@ Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Çatalardıç Tepesi, 
 
 ## Coğrafya
 
-Çatalardıç Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Bu tepe, Karabük'ilinin kuzeyinde yer alır. Çatalardıç Tepesi, 140 hektarlık bir alanı kapsar. Bu tepe, yüksek bir konumda yer alır. Çatalardıç Tepesi'nin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunar. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Çatalardıç Tepesi, flora ve faunası ile dikkat çeker. Bu tepe, çeşitli bitki türleri ve hayvan türlerine ev sahipliği yapar.
+Çatalardıç Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerine sahiptir. Bu tepe, Karabük'ilinin kuzeyinde yer alır. Bu tepe, yüksek bir konumda yer alır. Çatalardıç Tepesi'nin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunar. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Çatalardıç Tepesi, flora ve faunası ile dikkat çeker. Bu tepe, çeşitli bitki türleri ve hayvan türlerine ev sahipliği yapar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Çatalardıç Tepesi, 
 
 ## İlginç Bilgiler
 
-- Çatalardıç Tepesi, 140 hektarlık bir alanı kapsar.
 - Bu tepe, yüksek bir konumda yer alır.
 - Çatalardıç Tepesi, flora ve faunası ile dikkat çeker.
 - Bu tepe, çeşitli bitki türleri ve hayvan türlerine ev sahipliği yapar.

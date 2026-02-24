@@ -46,4 +46,4 @@ Amasya-Koyulhisar-Sisorta Saricam milli parkını ziyaret etmek, doğa severler 
 
 - Milli parkın coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de ormanların zenginliğini sunuyor.
 - Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak, genellikle yağışlı ve serin geçiyor.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+

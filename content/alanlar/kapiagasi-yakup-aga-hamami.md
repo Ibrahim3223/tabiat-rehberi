@@ -29,7 +29,7 @@ wikidata_id: "Q131738560"
 
 # Kapıağası Yakup Ağa Hamamı
 
-Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi semtlerinden biri olan Fatih'te, Marmara Bölgesi'nde yer alan önemli bir kültürel miras alanıdır. Hamamın tarihi geçmişi, İstanbul'un zengin mimari çeşitliliğini yansıtan önemli bir yapıdır. 140 hektarlık bu yeşil alan, ziyaretçilere hem tarihi bir gezi hem de dinlenme alanı sunar. Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir destinasyondur.
+Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi semtlerinden biri olan Fatih'te, Marmara Bölgesi'nde yer alan önemli bir kültürel miras alanıdır. Hamamın tarihi geçmişi, İstanbul'un zengin mimari çeşitliliğini yansıtan önemli bir yapıdır. Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

@@ -51,6 +51,6 @@ Hasan Feyzi Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellik
 
 - Pamukkale, Denizli ilinin en önemli turizm merkezlerinden biri olarak bilinir.
 - Hasan Feyzi Efendi Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çeker.
-- Türbenin bulunduğu bölge, 140 hektarlık bir araziye sahiptir.
+
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - İlkbahar ve yaz ayları, bu bölgenin en güzel zamanı olarak kabul edilir.

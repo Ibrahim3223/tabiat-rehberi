@@ -37,7 +37,7 @@ wikidata_id: "Q131738707"
 
 ## Coğrafya
 
-İmamoğlu Hamamı, coğrafi olarak Sivas'ın Divriği ilçesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölgede, hamam da benzer bir yapıya sahip. 180 hektarlık bir alana yayılan bölgede, İmamoğlu Hamamı yaklaşık 140 hektarlık alan kaplıyor. Bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Hamamın coğrafi konumu, ziyaretçilere yöre hakkındaki bilgileri sunuyor. Bölge, zengin flora ve fauna ile dikkat çekiyor. İmamoğlu Hamamı, coğrafi olarak önemli bir konuma sahip.
+İmamoğlu Hamamı, coğrafi olarak Sivas'ın Divriği ilçesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölgede, hamam da benzer bir yapıya sahip. Bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Hamamın coğrafi konumu, ziyaretçilere yöre hakkındaki bilgileri sunuyor. Bölge, zengin flora ve fauna ile dikkat çekiyor. İmamoğlu Hamamı, coğrafi olarak önemli bir konuma sahip.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131738707"
 ## İlginç Bilgiler
 
 - İmamoğlu Hamamı, Sivas'ın Divriği ilçesinde yer alıyor.
-- Hamam, 140 hektarlık bir alanı kaplıyor.
+
 - İmamoğlu Hamamı, tarihi geçmişi ile dikkat çekiyor.
 - Bölge, flora ve fauna açısından zengin.
 - Hamam, ilkbahar ve yaz aylarında ziyaretçilere daha çok çekici geliyor.

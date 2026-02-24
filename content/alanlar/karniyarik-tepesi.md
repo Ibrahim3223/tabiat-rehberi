@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşleri","kampçılık","gözlem","fotografcılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Karnıyarık Tepesi","caption":"Karnıyarık Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karn%C4%B1yar%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387020","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Karnıyarık Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Karnıyarık Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387020"
@@ -48,7 +48,6 @@ Karnıyarık Tepesi'ni ziyaret etmek, özellikle ilkbahar ve yaz aylarında idea
 
 ## İlginç Bilgiler
 
-- Karnıyarık Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin etrafında, birçok gezi yolu ve gözlem noktaları var
 - Karnıyarık Tepesi, flora ve fauna açısından zengin bir bölge
 - Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor

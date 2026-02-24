@@ -37,7 +37,7 @@ Bozburun Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu böl
 
 ## Coğrafya
 
-Bozburun Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, yaklaşık olarak 500 metre. Bozburun Tepesi, çevresindeki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor. Bu bölge, Akdeniz ikliminin etkisi altında. Kışlar ılıman, yazlar ise sıcak ve kuru passing. Bozburun Tepesi'nin coğrafyası, ziyaretçilerin çeşitli doğa aktivitelerini gerçekleştirmesine olanak tanıyor. Ziyaretçiler, bu tepeye tırmanarak Ege Bölgesi'nin güzelliğini keşfedebilir.
+Bozburun Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Tepenin yüksekliği, yaklaşık olarak 500 metre. Bozburun Tepesi, çevresindeki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor. Bu bölge, Akdeniz ikliminin etkisi altında. Kışlar ılıman, yazlar ise sıcak ve kuru passing. Bozburun Tepesi'nin coğrafyası, ziyaretçilerin çeşitli doğa aktivitelerini gerçekleştirmesine olanak tanıyor. Ziyaretçiler, bu tepeye tırmanarak Ege Bölgesi'nin güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bozburun Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayla
 ## İlginç Bilgiler
 
 - Bozburun Tepesi, Muğla'nın en yüksek tepelerinden biri.
-- Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde.
+
 - Bozburun Tepesi, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Bu bölge, zengin faunaya sahip.
 - Ziyaretçiler, bu tepeyi ziyaret ederek Ege Bölgesi'nin güzelliğini keşfedebilir.

@@ -48,7 +48,6 @@ Kayacık Ilıcası, yıl boyunca ziyaret edilebilecek bir destinasyon. İl merke
 
 ## İlginç Bilgiler
 
-- Kayacık Ilıcası, 140 hektarlık bir yeşil alan üzerinde yer alıyor.
 - Bu termal kaynak, zengin flora ve fauna ile birlikte, ziyaretçilerine doğanın güzelliğini sunuyor.
 - Kayacık Ilıcası, sağlık turizmi kapsamında önemli bir merkez olarak kabul ediliyor.
 - Bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor.

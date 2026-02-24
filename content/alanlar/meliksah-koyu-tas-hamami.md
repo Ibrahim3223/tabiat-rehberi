@@ -29,7 +29,7 @@ wikidata_id: "Q20472124"
 
 # Melikşah Köyü Taş Hamamı
 
-Melikşah Köyü Taş Hamamı, Ankara'nın Çubuk ilçesinde, şehrin gürültüsünden uzak, sakin bir atmosfere sahip bir mekan. Bu tarihi hamam, 140 hektarlık bir alanı kapsayan köyün merkezinde yer alıyor. Köyünüfusu yaklaşık bin kişiden oluşuyor ve burada yaşayan halk, genellikle tarım ve hayvancılıkla uğraşıyor. Melikşah Köyü Taş Hamamı, köyün tarihi ve kültürel mirasını yansıtan önemli bir yapı. Hamamın etrafında, köylülerin evleri ve tarihi yapılar bulunuyor. Köyde, tarihi geçmişi yansıtan birçok yapı ve eser mevcut.
+Melikşah Köyü Taş Hamamı, Ankara'nın Çubuk ilçesinde, şehrin gürültüsünden uzak, sakin bir atmosfere sahip bir mekan. Köyünüfusu yaklaşık bin kişiden oluşuyor ve burada yaşayan halk, genellikle tarım ve hayvancılıkla uğraşıyor. Melikşah Köyü Taş Hamamı, köyün tarihi ve kültürel mirasını yansıtan önemli bir yapı. Hamamın etrafında, köylülerin evleri ve tarihi yapılar bulunuyor. Köyde, tarihi geçmişi yansıtan birçok yapı ve eser mevcut.
 
 ## Tarihçe
 

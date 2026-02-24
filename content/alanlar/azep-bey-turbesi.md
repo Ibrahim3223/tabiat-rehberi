@@ -51,7 +51,7 @@ Azep Bey Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bir araya get
 ## İlginç Bilgiler
 
 - Azep Bey Türbesi, Bursa'nın en önemli tarihi mekanlarından biri.
-- Mekan, 140 hektarlık bir alana sahip.
+
 - Azep Bey Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Mekan, zengin flora ve faunaya sahip.
 - Azep Bey Türbesi, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunuyor.

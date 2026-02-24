@@ -29,7 +29,7 @@ wikidata_id: "Q131391722"
 
 # Muğdat Dede Türbesi
 
-Muğdat Dede Türbesi, Mersin'in Yenişehir ilçesinde yer alan ve tarihi ile doğal güzelliğini bir araya getiren önemli bir destinasyon. Bu özel alan, yaklaşık 140 hektarlık bir arazide yer almakta ve ziyaretçilere geniş bir yeşil alan sunmakta. 200 futbol sahası büyüklüğünde olan bu yeşil alan, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası. Muğdat Dede Türbesi, ziyaretçilerini tarihi atmosferi ve doğal güzelliği ile büyülemektedir. Bu mekan, Mersin'in turizm açısından önemli noktalarından biri olarak dikkat çekmekte ve her yıl birçok ziyaretçi tarafından tercih edilmektedir.
+Muğdat Dede Türbesi, Mersin'in Yenişehir ilçesinde yer alan ve tarihi ile doğal güzelliğini bir araya getiren önemli bir destinasyon. Muğdat Dede Türbesi, ziyaretçilerini tarihi atmosferi ve doğal güzelliği ile büyülemektedir. Bu mekan, Mersin'in turizm açısından önemli noktalarından biri olarak dikkat çekmekte ve her yıl birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

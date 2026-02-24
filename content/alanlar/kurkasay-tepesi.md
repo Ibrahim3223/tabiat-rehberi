@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih turu","kültürel gezi","fotoğrafç�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Kurkasay Tepesi","caption":"Kurkasay Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurkasay%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553792","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'ninBatman şehrinde yer alan Kurkasay Tepesi, 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Kurkasay Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553792"

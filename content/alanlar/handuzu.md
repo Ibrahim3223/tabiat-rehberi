@@ -42,8 +42,6 @@ Handüzü'ne ziyaretçiler, çeşitli ulaşım seçenekleri ile gelebilirler. Bu
 
 ## İlginç Bilgiler
 
-- Handüzü, 140 hektarlık bir alana sahiptir.
-
 - Handüzü, zengin flora ve faunasıyla dikkat çeker.
 - Bu alan, doğa severlerin ve yaban hayatı gözlemcilerinin ziyaret etmesi gereken bir yerdir.
 - Handüzü, İç Anadolu Bölgesi'nin önemli bir turizm merkezidir.

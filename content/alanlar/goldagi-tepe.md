@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","İki tekerlek
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Göldağı Tepe","caption":"Göldağı Tepe","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138453","tip":"genel"}]
-description: "Bilecik'in doğal güzellikleri arasında yer alan Göldağı Tepe, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Bilecik'in doğal güzellikleri arasında yer alan Göldağı Tepe, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Göldağı Tepe","Bilecik","Marmara Bölgesi","doğal güzellik","coğrafi oluşum","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32138453"
@@ -36,11 +36,11 @@ Göldağı Tepe'nin tarihi geçmişi, bölgenin yerleşim tarihi ile paralellik 
 
 ## Coğrafya
 
-Göldağı Tepe, Bilecik ilinin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtan bir oluşumdur. 140 hektarlık bu yeşil alan, bölgenin flora ve faunasının çeşitliliğini gösterir. Göldağı Tepe'nin coğrafi konumu, ziyaretçilerini dört mevsim farklı güzelliklerle karşılar. İlkbaharda yeşeren çiçekler, yazın serin gölgelik alanlar, sonbaharda renklenen yapraklar ve kışın karla kaplı manzaralar, bu tepenin yıl boyunca ziyaretçilerine sunduğu çeşitliliktedir. Tepenin etrafındaki coğrafi yapı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu oluşum, bölgenin iklimini ve coğrafi özelliklerini anlamak için önemli bir gözlem noktasıdır.
+Göldağı Tepe, Bilecik ilinin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtan bir oluşumdur. Göldağı Tepe'nin coğrafi konumu, ziyaretçilerini dört mevsim farklı güzelliklerle karşılar. İlkbaharda yeşeren çiçekler, yazın serin gölgelik alanlar, sonbaharda renklenen yapraklar ve kışın karla kaplı manzaralar, bu tepenin yıl boyunca ziyaretçilerine sunduğu çeşitliliktedir. Tepenin etrafındaki coğrafi yapı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Bu oluşum, bölgenin iklimini ve coğrafi özelliklerini anlamak için önemli bir gözlem noktasıdır.
 
 ## Flora ve Fauna
 
-Göldağı Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu 140 hektarlık yeşil alan, çeşitli bitki türlerini barındırır. Mevsimsel değişimler, bu tepenin güzelliğini daha da artırır. İlkbahar ve yaz aylarında çiçeklerin açması, sonbaharda yaprakların renklenmesi, kışın karla kaplanması, her mevsim ziyaretçilere farklı bir güzellik sunar. Tepenin florası, bölgenin iklimine uygun olarak gelişmiştir ve ziyaretçilere doğanın renk paletini gösterir. Fauna açısından da zengin olan Göldağı Tepe, verschilli hayvan türlerine ev sahipliği yapar.
+Göldağı Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir. Mevsimsel değişimler, bu tepenin güzelliğini daha da artırır. İlkbahar ve yaz aylarında çiçeklerin açması, sonbaharda yaprakların renklenmesi, kışın karla kaplanması, her mevsim ziyaretçilere farklı bir güzellik sunar. Tepenin florası, bölgenin iklimine uygun olarak gelişmiştir ve ziyaretçilere doğanın renk paletini gösterir. Fauna açısından da zengin olan Göldağı Tepe, verschilli hayvan türlerine ev sahipliği yapar.
 
 ## Ziyaret Bilgileri
 

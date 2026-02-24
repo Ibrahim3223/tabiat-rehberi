@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa","tarihî kalıntıları gezmek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"EĞİL PEYGAMBERLER_TP","caption":"EĞİL PEYGAMBERLER_TP","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9E%C4%B0L%20PEYGAMBERLER_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228784","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cevheri, 140 hektarlık bir yeşil alan."
+"
 keywords: ["İç Anadolu Bölgesi","doğa alanları","milli park","yeşil alan","gezi noktaları","tarihçe","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228784"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228784"
 
 # EĞİL PEYGAMBERLER_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan EĞİL PEYGAMBERLER_TP, ziyaretçilerini yaklaşık 140 hektarlık bir yeşil alana davet ediyor. İnsanın doğayla iç içe olabileceği, çam ağaçlarının gölgesinde dinlenebileceği, çeşitli bitki türleriyle karşılaşabileceği bir mekan. EĞİL PEYGAMBERLER_TP, hem doğa tutkunları hem de tarih meraklıları için bir hazine. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
+ İnsanın doğayla iç içe olabileceği, çam ağaçlarının gölgesinde dinlenebileceği, çeşitli bitki türleriyle karşılaşabileceği bir mekan. EĞİL PEYGAMBERLER_TP, hem doğa tutkunları hem de tarih meraklıları için bir hazine. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ EĞİL PEYGAMBERLER_TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-EĞİL PEYGAMBERLER_TP, İç Anadolu Bölgesi'nin coğrafi olarak da önemli bir konumda bulunuyor. 140 hektarlık yeşil alan, ziyaretçilerine geniş bir açık alan sunuyor. Bu bölgenin coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu. İklim, mevsimsel değişimlere uygun olarak şekilleniyor ve bu, flora ve faunayı etkiliyor. EĞİL PEYGAMBERLER_TP, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine doğanın güzelliklerini sunuyor. Burada, yürüyüş parkurları, piknik alanları ve doğa noktaları gibi birçok olanak bulunmakta. Ziyaretçiler, bu coğrafi güzellikleri keşfederek, doğayla iç içe olabilirler.
+EĞİL PEYGAMBERLER_TP, İç Anadolu Bölgesi'nin coğrafi olarak da önemli bir konumda bulunuyor. Bu bölgenin coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu. İklim, mevsimsel değişimlere uygun olarak şekilleniyor ve bu, flora ve faunayı etkiliyor. EĞİL PEYGAMBERLER_TP, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine doğanın güzelliklerini sunuyor. Burada, yürüyüş parkurları, piknik alanları ve doğa noktaları gibi birçok olanak bulunmakta. Ziyaretçiler, bu coğrafi güzellikleri keşfederek, doğayla iç içe olabilirler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ EĞİL PEYGAMBERLER_TP'yi ziyaret etmek, doğa severler ve tarih meraklıları i
 
 ## İlginç Bilgiler
 
-- EĞİL PEYGAMBERLER_TP, 140 hektarlık bir yeşil alana sahiptir.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşar.
 - EĞİL PEYGAMBERLER_TP, tarihi kalıntılar ve eserler içerir.
 - Ziyaretçiler, burada yürüyüşler yaparak, flora ve faunayı edebilirler.

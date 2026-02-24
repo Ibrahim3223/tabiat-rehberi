@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Adana-Kozan-Meydan Toros Kizilagaci","caption":"Adana-Kozan-Meydan Toros Kizilagaci","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Meydan%20Toros%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228460","tip":"genel"}]
-description: "Adana'nın Kozan ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
+"
 keywords: ["Adana","Kozan","Meydan","Toros","Kizilagaci","milli park","doğa","flora","fauna","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228460"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228460"
 
 # Adana-Kozan-Meydan Toros Kizilagaci
 
- Bu doğal alan, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Toros dağlarının eteklerinde yer alan milli park, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Ziyaretçiler, bu milli parkı gezerken hem doğanın güzelliğini keşfeder, hem de bölgenin tarihi geçmişi hakkında bilgi sahibi olabilir.
+ Bu doğal alan, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Toros dağlarının eteklerinde yer alan milli park, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu milli parkı gezerken hem doğanın güzelliğini keşfeder, hem de bölgenin tarihi geçmişi hakkında bilgi sahibi olabilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Kozan-Meydan Toros Kizilagaci milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Adana-Kozan-Meydan Toros Kizilagaci milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Toros dağlarının eteklerinde yer alan bu milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Bu bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve genellikle ılımandır. Çevre, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Milli parkın coğrafi konumu, ziyaretçilerin आसaniyle ulaşabileceği bir bölgede yer alır. Toros dağları, bu milli parkın doğal güzelliğini tamamlayan önemli bir coğrafi özelliktir. Bu dağların eteklerinde yer alan milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar.
+Adana-Kozan-Meydan Toros Kizilagaci milli parkı, Akdeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Bu bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve genellikle ılımandır. Çevre, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Milli parkın coğrafi konumu, ziyaretçilerin आसaniyle ulaşabileceği bir bölgede yer alır. Toros dağları, bu milli parkın doğal güzelliğini tamamlayan önemli bir coğrafi özelliktir. Bu dağların eteklerinde yer alan milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Adana-Kozan-Meydan Toros Kizilagaci milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Toros dağları, milli parkın doğal güzelliğini tamamlayan önemli bir coğrafi özelliktir
 - Milli parkın flora ve fauna çeşitliliği, ziyaretçilerin dikkatini çeker
 - Milli parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir

@@ -30,7 +30,7 @@ wikidata_id: "Q131738787"
 
 # Baki Hamamı
 
-Bilecik'in merkezinde, tarihi dokusuyla dikkat çeken Baki Hamamı, 140 hektarlık bir alanı kapsıyor. Baki Hamamı, Marmara Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir nokta olarak görülebilir. Historik öneme sahip bu mekan, aynı zamanda doğa severlerin ilgisini çekmeyi başaran bir destinasyon olarak da öne çıkıyor. Ziyaretçiler, hem tarihi keşfetmek hem de doğanın güzelliğini yaşamak için Baki Hamamı'na gelmeyi tercih ediyorlar.
+ Baki Hamamı, Marmara Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir nokta olarak görülebilir. Historik öneme sahip bu mekan, aynı zamanda doğa severlerin ilgisini çekmeyi başaran bir destinasyon olarak da öne çıkıyor. Ziyaretçiler, hem tarihi keşfetmek hem de doğanın güzelliğini yaşamak için Baki Hamamı'na gelmeyi tercih ediyorlar.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Baki Hamamı'na ziyaretçiler, yılın her dönemi gelebilirler. Ancak, mevsimse
 ## İlginç Bilgiler
 
 - Baki Hamamı, Bilecik'in merkezi konumunda yer alıyor.
-- 140 hektarlık bir alanı kapsıyor.
+
 - Marmara Bölgesi'nin coğrafi ve kültürel özelliklerini taşıyor.
 - Çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Tarihi geçmişi ve kültürel önemi ile önemli bir turizm noktası olarak kabul ediliyor.

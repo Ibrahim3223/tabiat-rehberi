@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Tahkim Tepesi","caption":"Tahkim Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahkim%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387985","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nde yer alan Tahkim Tepesi, Tunceli ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Doğu Anadolu Bölgesi'nde yer alan Tahkim Tepesi, Tunceli ilinin önemli doğal güzelliklerinden biridir."
 keywords: ["Tahkim Tepesi","Tunceli","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387985"
@@ -47,8 +47,6 @@ Tahkim Tepesi, bölgenin flora ve faunasını yansıtan önemli bir noktadır. B
 Tahkim Tepesi, ziyaretçilere doğal güzelliklerini ve tarihi geçmişini sunmaktadır. Bu tepe, Tunceli ilinin sınırları içerisinde yer almakta ve ziyaretçilere ulaşım için çeşitli olanaklar sunmaktadır. Tahkim Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Bu tepe, aynı zamanda bölgenin tarihi geçmişini yansıtan önemli bir noktadır. Ziyaretçiler, Tahkim Tepesi'ni ziyaret ederek bölgenin doğal güzelliklerini ve tarihi geçmişini keşfedebilirler.
 
 ## İlginç Bilgiler
-
-- Tahkim Tepesi, 140 hektarlık bir alanı kaplamaktadır.
 
 - Tahkim Tepesi, Tunceli ilinin sınırları içerisinde yer almaktadır.
 - Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır.

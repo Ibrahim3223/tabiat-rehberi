@@ -37,7 +37,7 @@ Komutan Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Komutan Baba Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Akçakoca ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbe ve etrafındaki yeşil alanlar, Karadeniz'in yeşilliği ve doğal güzelliği ile çevrilidir. Bölge, genellikle ılıman bir iklimi olan Karadeniz Bölgesi'nde yer alıyor ve bu iklim, ziyaretçilere yılın dört mevsimi uygun bir gezi imkanı sunuyor. Komutan Baba Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip ve bu alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunuyor.
+Komutan Baba Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Akçakoca ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbe ve etrafındaki yeşil alanlar, Karadeniz'in yeşilliği ve doğal güzelliği ile çevrilidir. Bölge, genellikle ılıman bir iklimi olan Karadeniz Bölgesi'nde yer alıyor ve bu iklim, ziyaretçilere yılın dört mevsimi uygun bir gezi imkanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Komutan Baba Türbesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklı
 ## İlginç Bilgiler
 
 - Komutan Baba Türbesi, Düzce'nin önemli bir turizm merkezi
-- Türbenin etrafındaki yeşil alanlar, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Bu mekan, hem manevi hem de doğal bir çekim merkezi olarak kabul ediliyor
 - Komutan Baba Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahip

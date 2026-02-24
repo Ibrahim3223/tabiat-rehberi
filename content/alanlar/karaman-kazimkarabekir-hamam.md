@@ -49,8 +49,6 @@ Karaman Kazımkarabekir Hamam'ı ziyaret etmek için, Karaman ilinin Kazımkarab
 
 ## İlginç Bilgiler
 
-- Karaman Kazımkarabekir Hamam, 140 hektarlık bir alanı kaplar
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
 - Karaman Kazımkarabekir Hamam, flora ve fauna açısından zengin bir bölgedir
 - Bu plajda, çeşitli kuş türleri, memeliler ve sürüngenler yaşamlarını sürdürüyorlar
 - Karaman Kazımkarabekir Hamam'ı ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır

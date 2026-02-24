@@ -29,7 +29,7 @@ wikidata_id: "Q131739040"
 
 # Perge Batı Hamamı
 
-Perge Batı Hamamı, Aksu/Antalya'da bulunan ve tarihi ile doğal güzelliklerinin birleştiği benzersiz bir yer. Perge Batı Hamamı, Antalya'nın Aksu ilçesinde yer alıyor ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. 200 futbol sahası büyüklüğünde bu yeşil alan, ziyaretçilerini tarihi bir yolculuğa çıkarıyor.
+Perge Batı Hamamı, Aksu/Antalya'da bulunan ve tarihi ile doğal güzelliklerinin birleştiği benzersiz bir yer. Perge Batı Hamamı, Antalya'nın Aksu ilçesinde yer alıyor ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Perge Batı Hamamı'na ziyaretçiler, Aksu/Antalya'ya ulaştıktan sonra kolayca
 ## İlginç Bilgiler
 
 - Perge Batı Hamamı, Aksu/Antalya'da bulunan bir tarihi ve doğal güzellik alanıdır
-- Bu alan, yaklaşık 140 hektarlık bir bölgeye yayılmış ve tarihi geçmişi ile dikkat çekiyor
+
 - Perge Batı Hamamı, Antalya'nın Aksu ilçesinde yer alıyor ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor
 - Perge'nin tarihi, Helenistik Dönem'de başlıyor ve Roma İmparatorluğu'nun egemenliğine kadar devam ediyor
 - Perge Batı Hamamı, bu tarihi bölgenin önemli parçalarından biri olarak kabul ediliyor

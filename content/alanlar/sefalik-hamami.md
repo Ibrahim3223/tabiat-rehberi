@@ -37,7 +37,7 @@ Sefalık Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Sefalık Hamamı, Karadeniz Bölgesi'nin Ordu ilinin Aybastı ilçesinde yer alır. Bu plaj, deniz seviyesinde ve yaklaşık 140 hektarlık bir alanı kaplar. Sefalık Hamamı'nın çevresi ormanlarla kaplıdır ve bu ormanlar, plaja doğal bir güzellik kazandırır. Plajın kumu ince ve beyazdır, denizi ise temiz ve serindir. Sefalık Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve bu dönemde deniz suyu sıcaklığı 22-25 derece arasında değişir. Plajın iklimi, Karadeniz iklimi özellikleri gösterir ve yazları serin, kışları ise yağışlıdır. Sefalık Hamamı, doğa severler için ideal bir noktadır ve çevresi trekking ve kamp yapma olanakları sunar.
+Sefalık Hamamı, Karadeniz Bölgesi'nin Ordu ilinin Aybastı ilçesinde yer alır. Sefalık Hamamı'nın çevresi ormanlarla kaplıdır ve bu ormanlar, plaja doğal bir güzellik kazandırır. Plajın kumu ince ve beyazdır, denizi ise temiz ve serindir. Sefalık Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve bu dönemde deniz suyu sıcaklığı 22-25 derece arasında değişir. Plajın iklimi, Karadeniz iklimi özellikleri gösterir ve yazları serin, kışları ise yağışlıdır. Sefalık Hamamı, doğa severler için ideal bir noktadır ve çevresi trekking ve kamp yapma olanakları sunar.
 
 ## Flora ve Fauna
 

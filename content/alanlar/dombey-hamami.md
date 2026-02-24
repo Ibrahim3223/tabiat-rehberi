@@ -50,7 +50,7 @@ Dombey Hamamı'na ziyaretçiler, especialmente yaz aylarında gidebiliyor. Bu pl
 ## İlginç Bilgiler
 
 - Dombey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Zengin flora ve fauna
 - Tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Ege Bölgesi'nin zengin tarihine ışık tutuyor
 - Deniz ve güneşin keyfini çıkarmak için ideal bir ortam sunuyor

@@ -50,7 +50,7 @@ Kayalık Tepe Kaya Mezarı, ziyaretçilere yıl boyunca açık. Ziyaretçiler, m
 ## İlginç Bilgiler
 
 - Kayalık Tepe Kaya Mezarı, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Kayalık Tepe Kaya Mezarı, özellikle tarih ve doğa severlerin ilgisini çekiyor.
 - Bölgenin iklimi, Karadeniz ikliminin özellikleri gösteriyor.
 - Kayalık Tepe Kaya Mezarı, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor.

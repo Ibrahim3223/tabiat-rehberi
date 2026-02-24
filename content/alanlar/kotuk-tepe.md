@@ -49,7 +49,6 @@ Kotuk Tepe, ziyaretçiler için önemli bir destinasyon olarak karşımıza çı
 ## İlginç Bilgiler
 
 - Kotuk Tepe, Diyarbakır'ın önemli coğrafi oluşumlarından biridir.
-- Bu tepe, 140 hektarlık bir alanı kaplamaktadır.
 
 - Bu tepe, bölgenin tarihi geçmişi hakkında önemli bilgiler içermektedir.
 - Kotuk Tepe, bölgenin flora ve faunası hakkında önemli bilgiler içermektedir.

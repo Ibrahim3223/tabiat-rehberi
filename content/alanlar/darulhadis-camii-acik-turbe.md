@@ -37,7 +37,7 @@ Darülhadis Camii Açık Türbe'nin tarihi geçmişi, Edirne'nin tarihinde önem
 
 ## Coğrafya
 
-Darülhadis Camii Açık Türbe, Edirne'nin merkezinde yer alıyor ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biri. Bu özel mekan, 140 hektarlık bir alanı kapsıyor ve Edirne'nin en büyük tarihi alanlarından biri. Darülhadis Camii Açık Türbe, doğal güzellikleri ile de dikkat çekiyor. Burada, yeşilin çeşitli tonlarını görebileceğiniz geniş alanlar, ziyaretçilerin dinlenmesine ve doğayı keşfetmesine olanak sağlıyor. Edirne'nin iklimi, Karadeniz ve Akdeniz iklimlerinin arasında bir geçiş iklimi olarak tanımlanabilir. Bu nedenle, Darülhadis Camii Açık Türbe, yılın her döneminde ziyaret edilebilir. Darülhadis Camii Açık Türbe, Edirne'nin en önemli tarihi ve doğal güzelliklerinden biri ve ziyaretçilerini bekliyor. Bu özel mekan, Edirne'nin tarihi ve kültürel zenginliklerini ziyaretçilerine sunuyor.
+Darülhadis Camii Açık Türbe, Edirne'nin merkezinde yer alıyor ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biri. Darülhadis Camii Açık Türbe, doğal güzellikleri ile de dikkat çekiyor. Burada, yeşilin çeşitli tonlarını görebileceğiniz geniş alanlar, ziyaretçilerin dinlenmesine ve doğayı keşfetmesine olanak sağlıyor. Edirne'nin iklimi, Karadeniz ve Akdeniz iklimlerinin arasında bir geçiş iklimi olarak tanımlanabilir. Bu nedenle, Darülhadis Camii Açık Türbe, yılın her döneminde ziyaret edilebilir. Darülhadis Camii Açık Türbe, Edirne'nin en önemli tarihi ve doğal güzelliklerinden biri ve ziyaretçilerini bekliyor. Bu özel mekan, Edirne'nin tarihi ve kültürel zenginliklerini ziyaretçilerine sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Darülhadis Camii Açık Türbe, yılın her döneminde ziyaret edilebilir. Bura
 ## İlginç Bilgiler
 
 - Edirne'nin en önemli tarihi mekanlarından biri
-- 140 hektarlık alan
+
 - Marmara Bölgesi'nin önemli bir merkezi
 - Osmanlı döneminde önemli bir merkez
 - Darülhadis Camii, din ve bilim merkezi olarak hizmet vermiştir

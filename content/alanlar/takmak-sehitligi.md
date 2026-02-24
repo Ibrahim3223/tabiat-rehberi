@@ -21,7 +21,7 @@ aktiviteler: ["plajda güneşlenmek","denizde yüzmek","doğa yürüyüşleri ya
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Takmak Şehitliği","caption":"Takmak Şehitliği","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Takmak%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728244","tip":"genel"}]
-description: "Ege Bölgesi'nin güzide illerinden Uşak'ın Eşme ilçesinde bulunan Takmak Şehitliği, 140 hektarlık geniş bir alana yayılmış bir doğa harikası"
+
 keywords: ["Uşak","Eşme","Takmak Şehitliği","doğa","gezi","Ege Bölgesi","plaj","deniz"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728244"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728244"
 
 # Takmak Şehitliği
 
-Takmak Şehitliği, Ege Bölgesi'nin güzide illerinden Uşak'ın Eşme ilçesinde bulunan, 140 hektarlık geniş bir alana yayılmış bir doğa harikası. Takmak Şehitliği, plajın güzelliği ve denizinin berraklığı ile dikkat çekiyor. Doğal güzelliği, temiz havası ve sakin atmosferi ile ziyaretçilerini büyülüyor. Takmak Şehitliği, hem doğa severler hem de deniz aşığı olanlar için mükemmel bir destinasyon.
+ Takmak Şehitliği, plajın güzelliği ve denizinin berraklığı ile dikkat çekiyor. Doğal güzelliği, temiz havası ve sakin atmosferi ile ziyaretçilerini büyülüyor. Takmak Şehitliği, hem doğa severler hem de deniz aşığı olanlar için mükemmel bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Takmak Şehitliği'ni ziyaret etmek, hem doğa severler hem de deniz aşığı o
 
 ## İlginç Bilgiler
 
-- Takmak Şehitliği, 140 hektarlık geniş bir alana yayılmış bir doğa harikası
 - Bölge, Ege Denizi'nin sahillerini süsleyen bir plaj olarak, ziyaretçilerine denizin serinli ve güzelliğini sunuyor
 - Takmak Şehitliği, flora ve fauna açısından zengin bir çeşitlilik sunuyor
 - Bölge, mevsimsel değişimlere göre farklı bir güzellik sunuyor

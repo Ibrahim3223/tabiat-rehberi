@@ -30,7 +30,7 @@ Küçükkapi Sedir Agaci'nin tarihi geçmişi, yüzyıllar boyunca sedir ağacı
 
 ## Coğrafya
 
-Küçükkapi Sedir Agaci, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bölge, sedir ağacının hakim olduğu bir ekosisteme sahiptir ve ziyaretçilere benzersiz bir doğa deneyimi sunar. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim ayrı bir güzellik sunar. Sedir ağacının etrafında, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmaktadır. Bu parkurlar, ziyaretçilere doğayı keşfetme ve sedir ağacının güzelliğini yakından görme fırsatı verir.
+Küçükkapi Sedir Agaci, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bölge, sedir ağacının hakim olduğu bir ekosisteme sahiptir ve ziyaretçilere benzersiz bir doğa deneyimi sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim ayrı bir güzellik sunar. Sedir ağacının etrafında, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmaktadır. Bu parkurlar, ziyaretçilere doğayı keşfetme ve sedir ağacının güzelliğini yakından görme fırsatı verir.
 
 ## Flora ve Fauna
 

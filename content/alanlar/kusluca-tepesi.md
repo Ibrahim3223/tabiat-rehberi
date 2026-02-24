@@ -28,7 +28,7 @@ wikidata_id: "Q31389053"
 
 # Kuşluca Tepesi
 
-Erzurum'un doğal güzelliği ve tarihi zenginliğiyle ön plana çıkan Kuşluca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kuşluca Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın içinde yer alma fırsatı sunuyor.
+ Kuşluca Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın içinde yer alma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kuşluca Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için ha
 
 ## İlginç Bilgiler
 
-- Kuşluca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin eteklerinde bulunan köyler, geleneksel yaşamın içinde yer alma fırsatı sunuyor.
 - Kuşluca Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge.
 - Tepenin güzelliği, mevsimsel değişimlere göre farklılık gösteriyor.

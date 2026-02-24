@@ -23,7 +23,7 @@ wikidata_id: "Q108227808"
 
 # Yalova Kaplicalari
 
-Yalova Kaplıcaları, yaklaşık 140 hektarlık bir alanı kaplayan, doğal güzellikleri ve termal suları ile tanınan bir destinasyondur. Ziyaretçiler, kaplıcanın şifalı sularının yanı sıra, çevredeki ormanlık alanları ve doğal güzellikleri keşfedebilirler. Yalova Kaplıcaları, hem sağlık turizmi hem de doğa turizmi açısından önemli bir merkezi oluşturur.
+ Ziyaretçiler, kaplıcanın şifalı sularının yanı sıra, çevredeki ormanlık alanları ve doğal güzellikleri keşfedebilirler. Yalova Kaplıcaları, hem sağlık turizmi hem de doğa turizmi açısından önemli bir merkezi oluşturur.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Yalova Kaplıcaları, ziyaretçilere, doğal güzellikleri ve termal suları ile
 
 ## İlginç Bilgiler
 
-- Yalova Kaplıcaları, yaklaşık 140 hektarlık bir alanı kaplar
 - Kaplıcanın etrafındaki ormanlık alanlar, çeşitli ağaç türleri ve bitki örtüsü ile kaplıdır
 - Yalova Kaplıcaları, hem sağlık turizmi hem de doğa turizmi açısından önemli bir merkezi oluşturur
 - Kaplıcanın yakınında, çeşitli doğa yürüyüş parkurları ve piknik alanları da bulunmaktadır

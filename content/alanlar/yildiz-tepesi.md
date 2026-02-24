@@ -29,7 +29,7 @@ wikidata_id: "Q31390324"
 
 # Yıldız Tepesi
 
-Yıldız Tepesi, Afyonkarahisar ilinin Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Yıldız Tepesi, ziyaretçilerini doğanın güzelliği ve zenginliğiyle karşılar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Yıldız Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bu tepe, yüzyıllar boyunca önemli bir gözlem ve savunma noktası olarak kullanılmıştır.
+ Yıldız Tepesi, ziyaretçilerini doğanın güzelliği ve zenginliğiyle karşılar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Yıldız Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bu tepe, yüzyıllar boyunca önemli bir gözlem ve savunma noktası olarak kullanılmıştır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Tepesi'nin tarihi geçmişi, Afyonkarahisar ilinin tarihine bağlı ola
 
 ## Coğrafya
 
-Yıldız Tepesi, Afyonkarahisar ilinin Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu tepe, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Yıldız Tepesi'nin etrafı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir flora ve fauna sunar. Bu tepe, aynı zamanda bölgenin iklimini de yansıtan bir yapıya sahiptir. Yıldız Tepesi, Ege Bölgesi'nin karakteristik iklimine sahip olup, genellikle ılıman ve yağışlı bir hava durumu sunar. Bu tepe, aynı zamanda bölgenin coğrafi konumu nedeniyle, çeşitli su kaynaklarına da sahiptir. Yıldız Tepesi, bölgenin doğal güzelliklerini ve coğrafi özelliklerini ziyaretçilerine sunar.
+ Bu tepe, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Yıldız Tepesi'nin etrafı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir flora ve fauna sunar. Bu tepe, aynı zamanda bölgenin iklimini de yansıtan bir yapıya sahiptir. Yıldız Tepesi, Ege Bölgesi'nin karakteristik iklimine sahip olup, genellikle ılıman ve yağışlı bir hava durumu sunar. Bu tepe, aynı zamanda bölgenin coğrafi konumu nedeniyle, çeşitli su kaynaklarına da sahiptir. Yıldız Tepesi, bölgenin doğal güzelliklerini ve coğrafi özelliklerini ziyaretçilerine sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Yıldız Tepesi'ni ziyaret etmek, doğanın güzelliği ve zenginliğiyle karş�
 
 ## İlginç Bilgiler
 
-- Yıldız Tepesi, yaklaşık 140 hektarlık bir alanı kapsar
 - Bu tepe, Ege Bölgesi'nin önemli doğal alanlarından biridir
 - Yıldız Tepesi, bölgenin tarihi geçmişi hakkında önemli bilgiler sunar
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetler tarafından kullanılan bir gözlem ve savunma noktası olarak önemli bir role sahip olmuştur

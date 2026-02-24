@@ -21,8 +21,7 @@ aktiviteler: ["plaj","doğa yürüyüşleri","güneşlenme","tarih turu"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Kurdunos Hamamı","caption":"Kurdunos Hamamı","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurdunos%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739198","tip":"genel"}]
-description: "Niğde'nin güzide plajlarından biri olan Kurdunos Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Niğde plajları","Kurdunos Hamamı","İç Anadolu Bölgesi","yeşil alan","futbol sahası","plaj","doğa"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739198"
 ---
@@ -37,7 +36,7 @@ Kurdunos Hamamı'nın tarihi geçmişi, yüzyıllar boyunca farklı uygarlıklar
 
 ## Coğrafya
 
-Kurdunos Hamamı, Niğde ilinin merkezi yakınlarında yer alan bir plaj olarak, coğrafi olarak önemli bir konuma sahiptir. Bu plaj, yaklaşık 140 hektarlık yeşil alanı ile birlikte, ziyaretçilerine geniş bir alan sunuyor. Kurdunos Hamamı'nın coğrafi yapısı, genellikle düz ve yeşil alanlardan oluşmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları genellikle soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Kurdunos Hamamı, Niğde ilinin merkezi yakınlarında yer alan bir plaj olarak, coğrafi olarak önemli bir konuma sahiptir. Kurdunos Hamamı'nın coğrafi yapısı, genellikle düz ve yeşil alanlardan oluşmaktadır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Kış ayları genellikle soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +48,6 @@ Kurdunos Hamamı, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunmak
 
 ## İlginç Bilgiler
 
-- Kurdunos Hamamı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bu plaj, Niğde ilinin merkezi yakınlarında yer alıyor
 - Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor
 - Bu bölgenin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların etkisi altında kalmıştır

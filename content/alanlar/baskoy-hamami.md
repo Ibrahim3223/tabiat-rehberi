@@ -37,7 +37,7 @@ Başköy Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Başköy Hamamı, Bilecik ilinin merkezine uzun bir mesafe uzaklıkta bulunuyor ve Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Bu plaj, 140 hektarlık bir alana yayılmış ve çevredeki dağlarla çevrili. Başköy Hamamı'nın etrafı, yeşilliklerle dolu ve bu yeşillik, plajın güzelliğini daha da artırıyor. Bu plajda, ziyaretçiler, temiz suyun ve geniş kumsalın keyfini çıkarabilirler. Ayrıca, çevredeki dağlarda yürüyüş yapabilir, doğayı keşfedebilir ve muhteşem manzaraların tadını çıkarabilirler. Başköy Hamamı, aynı zamanda, çevredeki bölgede bulunan diğer turistik yerlere de yakın bir konumda bulunuyor ve ziyaretçiler, bu yerleri kolayca ziyaret edebilirler.
+Başköy Hamamı, Bilecik ilinin merkezine uzun bir mesafe uzaklıkta bulunuyor ve Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Başköy Hamamı'nın etrafı, yeşilliklerle dolu ve bu yeşillik, plajın güzelliğini daha da artırıyor. Bu plajda, ziyaretçiler, temiz suyun ve geniş kumsalın keyfini çıkarabilirler. Ayrıca, çevredeki dağlarda yürüyüş yapabilir, doğayı keşfedebilir ve muhteşem manzaraların tadını çıkarabilirler. Başköy Hamamı, aynı zamanda, çevredeki bölgede bulunan diğer turistik yerlere de yakın bir konumda bulunuyor ve ziyaretçiler, bu yerleri kolayca ziyaret edebilirler.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Başköy Hamamı, ziyaretçilerine, çeşitli aktiviteleri sunuyor. Ziyaretçile
 
 ## İlginç Bilgiler
 
-- 140 hektarlık bir alana yayılmış
-- Approximately 200 futbol sahası büyüklüğünde
 - çevredeki dağlarla çevrili
 - Zengin flora ve fauna çeşitliliğine sahip
 - İlkbahar ve yaz aylarında yeşillenir

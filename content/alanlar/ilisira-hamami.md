@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Piknik","Doğal güzell
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"İlisıra Hamamı","caption":"İlisıra Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lis%C4%B1ra%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245692","tip":"genel"}]
-description: "Karaman'ın doğal güzellikleri arasında yer alan İlisıra Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["İlisıra Hamamı","Karaman","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","gezi","turizm","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245692"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245692"
 
 # İlisıra Hamamı
 
-İlisıra Hamamı, Karaman'ın merkezinde yer alan ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğal güzelliktir. İlisıra Hamamı, şehrin gürültüsünden uzaklaşma ve doğanın sakinliğiçinde vakit geçirmek isteyenler için ideal bir destinasyon.
+ İlisıra Hamamı, şehrin gürültüsünden uzaklaşma ve doğanın sakinliğiçinde vakit geçirmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q133245692"
 
 ## Coğrafya
 
-İlisıra Hamamı, Karaman'ın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, geniş otlak alanları, ormanlık bölgeleri ve akarsularıyla birlikte, zengin bir coğrafi çeşitliliğe sahiptir. İlisıra Hamamı, bu coğrafi çeşitlilik içinde, 140 hektarlık yeşil alanıyla önemli bir doğal güzellik olarak yer alır. Bu alanda, ziyaretçiler, şehrin gürültüsünden uzaklaşarak, doğanın sakinliği ve güzelliğiçinde vakit geçirebilirler. İlisıra Hamamı'nın coğrafi konumu, ayrıca, ziyaretçilerin çevre bölgeleri keşfetmeleri için de elverişlidir.
+İlisıra Hamamı, Karaman'ın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, geniş otlak alanları, ormanlık bölgeleri ve akarsularıyla birlikte, zengin bir coğrafi çeşitliliğe sahiptir. Bu alanda, ziyaretçiler, şehrin gürültüsünden uzaklaşarak, doğanın sakinliği ve güzelliğiçinde vakit geçirebilirler. İlisıra Hamamı'nın coğrafi konumu, ayrıca, ziyaretçilerin çevre bölgeleri keşfetmeleri için de elverişlidir.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ wikidata_id: "Q133245692"
 İlisıra Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, bahar ve yaz ayları, bu doğal güzelliği ziyaret etmek için en uygun mevsimlerdir. Ziyaretçiler, İlisıra Hamamı'na, Karaman şehir merkezinden dàng ulaşabilirler. Buraya gelmek için, toplu taşıma araçları veya özel araçlar kullanılabilir. İlisıra Hamamı, ziyaretçilere, doğayla iç içe olmayı ve şehrin gürültüsünden uzaklaşmayı sağlar.
 
 ## İlginç Bilgiler
-
-- İlisıra Hamamı, 140 hektarlık bir yeşil alana sahiptir.
 
 - İlisıra Hamamı, Karaman'ın turizm merkezlerinden biridir.
 - Bu doğal güzellik, yılın her dönemi ziyaret edilebilir.

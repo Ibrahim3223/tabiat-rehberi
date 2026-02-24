@@ -50,7 +50,7 @@ Tortum Şelalesi, yıl boyunca ziyaretçilerini ağırlamaktadır. Ziyaretçiler
 ## İlginç Bilgiler
 
 - Şelalenin yüksekliği yaklaşık 48 metredir.
-- Şelale, 140 hektarlık bir alanı kaplamaktadır.
+
 - Şelalenin etrafındaki ormanlık alan, çeşitli ağaç türleri ile kaplıdır.
 - Şelale, yıl boyunca akan bir su kaynağına sahiptir.
 - Şelale ve etrafındaki ormanlık alan, zengin bir flora ve fauna çeşitliliğine sahiptir.

@@ -29,7 +29,7 @@ wikidata_id: "Q135582352"
 
 # Helvacı Baba Türbesi, Ereğli
 
-Helvacı Baba Türbesi, Konya'nın Ereğli ilçesinde yer alan tarihi bir türbedir. Bu türbe, aynı zamanda Ereğli'nin önemli turizm merkezlerinden biridir. Türbenin etrafı, yaklaşık 140 hektarlık bir yeşil alanla çevrilidir. Helvacı Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Helvacı Baba Türbesi, Konya'nın Ereğli ilçesinde yer alan tarihi bir türbedir. Bu türbe, aynı zamanda Ereğli'nin önemli turizm merkezlerinden biridir. Helvacı Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

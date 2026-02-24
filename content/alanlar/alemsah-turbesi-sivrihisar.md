@@ -30,7 +30,7 @@ wikidata_id: "Q135582404"
 
 # Alemşah Türbesi, Sivrihisar
 
-Sivrihisar'da bulunan Alemşah Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Alemşah Türbesi, Sivrihisar'ın merkezinde bulunuyor ve şehrin en önemli tarihi yapılarından biri olarak kabul ediliyor. Türbe, tarihi ve kültürel değerleriyle dikkat çekiyor ve her yıl çok sayıda ziyaretçi çekiyor. Alemşah Türbesi, Sivrihisar'ın önemli bir turizm merkezi olarak kabul ediliyor ve şehrin ekonomisine önemli bir katkı sağlıyor.
+ Alemşah Türbesi, Sivrihisar'ın merkezinde bulunuyor ve şehrin en önemli tarihi yapılarından biri olarak kabul ediliyor. Türbe, tarihi ve kültürel değerleriyle dikkat çekiyor ve her yıl çok sayıda ziyaretçi çekiyor. Alemşah Türbesi, Sivrihisar'ın önemli bir turizm merkezi olarak kabul ediliyor ve şehrin ekonomisine önemli bir katkı sağlıyor.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Alemşah Türbesi, tarihi geçmişiyle dikkat çekiyor. Türbe, yüzyıllar boyu
 
 ## Coğrafya
 
-Alemşah Türbesi, Sivrihisar'ın merkezinde yer alıyor. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve şehrin en önemli tarihi yapılarından biri olarak kabul ediliyor. Alemşah Türbesi, Sivrihisar'ın coğrafi konumuyla dikkat çekiyor. Şehir, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle önemli bir geçiş noktası olarak kabul ediliyor. Alemşah Türbesi, Sivrihisar'ın coğrafi özellikleriyle dikkat çekiyor ve şehrin doğal güzelliklerini ziyaretçilere sunuyor. Türbe, Sivrihisar'ın iklimi ve coğrafi özellikleri hakkında bilgi sahibi olmak isteyen ziyaretçilerin ilgisini çekiyor. Alemşah Türbesi, Sivrihisar'ın coğrafi konumu ve tarihi geçmişiyle dikkat çekiyor ve her yıl çok sayıda ziyaretçi çekiyor.
+Alemşah Türbesi, Sivrihisar'ın merkezinde yer alıyor. Alemşah Türbesi, Sivrihisar'ın coğrafi konumuyla dikkat çekiyor. Şehir, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle önemli bir geçiş noktası olarak kabul ediliyor. Alemşah Türbesi, Sivrihisar'ın coğrafi özellikleriyle dikkat çekiyor ve şehrin doğal güzelliklerini ziyaretçilere sunuyor. Türbe, Sivrihisar'ın iklimi ve coğrafi özellikleri hakkında bilgi sahibi olmak isteyen ziyaretçilerin ilgisini çekiyor. Alemşah Türbesi, Sivrihisar'ın coğrafi konumu ve tarihi geçmişiyle dikkat çekiyor ve her yıl çok sayıda ziyaretçi çekiyor.
 
 ## Flora ve Fauna
 
-Alemşah Türbesi, Sivrihisar'ın flora ve fauna çeşitliliğiyle dikkat çekiyor. Türbe, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alanda çeşitli bitki ve hayvan türleri bulunuyor. Alemşah Türbesi, Sivrihisar'ın mevsimsel değişimlerine uygun olarak flora ve fauna çeşitliliği gösteriyor. Türbe, bahar aylarında çiçek açan bitkilerle, yaz aylarında yeşil yapraklı bitkilerle ve kış aylarında karla kaplı bir manzara sunuyor. Alemşah Türbesi, Sivrihisar'ın fauna çeşitliliğiyle dikkat çekiyor ve çeşitli hayvan türlerini barındırıyor. Türbe, Sivrihisar'ın ekolojik dengesi hakkında bilgi sahibi olmak isteyen ziyaretçilerin ilgisini çekiyor.
+Alemşah Türbesi, Sivrihisar'ın flora ve fauna çeşitliliğiyle dikkat çekiyor. Alemşah Türbesi, Sivrihisar'ın mevsimsel değişimlerine uygun olarak flora ve fauna çeşitliliği gösteriyor. Türbe, bahar aylarında çiçek açan bitkilerle, yaz aylarında yeşil yapraklı bitkilerle ve kış aylarında karla kaplı bir manzara sunuyor. Alemşah Türbesi, Sivrihisar'ın fauna çeşitliliğiyle dikkat çekiyor ve çeşitli hayvan türlerini barındırıyor. Türbe, Sivrihisar'ın ekolojik dengesi hakkında bilgi sahibi olmak isteyen ziyaretçilerin ilgisini çekiyor.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Alemşah Türbesi, Sivrihisar'ın merkezinde yer alıyor ve şehrin en önemli t
 ## İlginç Bilgiler
 
 - Alemşah Türbesi, Sivrihisar'ın en önemli tarihi yapılarından biri olarak kabul ediliyor.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - Alemşah Türbesi, Sivrihisar'ın coğrafi konumu ve tarihi geçmişiyle dikkat çekiyor.
 - Türbe, her yıl çok sayıda ziyaretçi çekiyor.
 - Alemşah Türbesi, Sivrihisar'ın flora ve fauna çeşitliliği hakkında bilgi sahibi olmak isteyen ziyaretçilerin ilgisini çekiyor.

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Latasor Tepesi","caption":"Latasor Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latasor%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553281","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nde, Batman'ın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Güneydoğu Anadolu Bölgesi'nde, Batman'ın doğal güzelliklerini keşfedin."
 keywords: ["Latasor Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellikler","tepe","gezi","keşif","orman","dağ"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553281"
@@ -36,7 +36,7 @@ Latasor Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Latasor Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu bölge, ormanlık alanlar, dağlar ve çevresiyle birlikte yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin yüksekliği ve çevresindeki dağlar, ziyaretçilere eşsiz bir manzara sunuyor. İklim olarak, Latasor Tepesi ve çevresi, bölgenin genel iklimine uygun olarak karasal bir iklimi yaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu çeşitlilik, bölgenin flora ve faunasını da etkiliyor. Çevre, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçilere doğanın güzelliklerini sunuyor.
+Latasor Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin yüksekliği ve çevresindeki dağlar, ziyaretçilere eşsiz bir manzara sunuyor. İklim olarak, Latasor Tepesi ve çevresi, bölgenin genel iklimine uygun olarak karasal bir iklimi yaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Bu çeşitlilik, bölgenin flora ve faunasını da etkiliyor. Çevre, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçilere doğanın güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 

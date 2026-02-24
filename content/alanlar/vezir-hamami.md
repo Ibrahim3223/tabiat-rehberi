@@ -50,7 +50,7 @@ Vezir Hamamı, ziyaretçilere yılın her döneminde farklı bir deneyim sunar. 
 ## İlginç Bilgiler
 
 - Vezir Hamamı, Şanlıurfa'nın en önemli turizm noktalarından biridir.
-- Bu plaj, 140 hektarlık bir alanı kaplar.
+
 - Vezir Hamamı, çeşitli bitki türleri ve hayvanları barındırmaktadır.
 - Bu plaj, ziyaretçilere yılın her döneminde farklı bir deneyim sunar.
 - Vezir Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak görülür.

@@ -29,7 +29,7 @@ wikidata_id: "Q31389808"
 
 # Uzundere Tepesi
 
-Uzundere Tepesi, İç Anadolu Bölgesi'nin önemli coğrafik oluşumlarından biridir. Çankırı ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu tepe, yaklaşık 140 hektarlık alanı kaplar. Bu tepe, not only bölgenin coğrafi yapısını şekillendiren önemli bir unsur olmakla birlikte, aynı zamanda ziyaretçilerine doğayla iç içe bir  sunar.
+Uzundere Tepesi, İç Anadolu Bölgesi'nin önemli coğrafik oluşumlarından biridir. Bu tepe, not only bölgenin coğrafi yapısını şekillendiren önemli bir unsur olmakla birlikte, aynı zamanda ziyaretçilerine doğayla iç içe bir  sunar.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Uzundere Tepesi'ni ziyaret etmek, doğayla iç içe bir  sunar. Tepenin etekleri
 
 ## İlginç Bilgiler
 
-- Uzundere Tepesi, 140 hektarlık alanı kaplar
 - Tepenin yüksekliği, bölgenin iklimini etkileyen önemli bir faktördür
 - Tepenin eteklerinde, çeşitli bitki türleri bulunur
 - Tepenin çevresi, zengin fauna ile kaplıdır

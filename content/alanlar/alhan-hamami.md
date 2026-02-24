@@ -21,8 +21,8 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg/960px-Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg","alt":"Alhan Hamamı","caption":"Alhan Hamamı","credit":"Dodecanese & Anatolian Coasts, 2016","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alhan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738932","tip":"genel"}]
-description: "Ege Bölgesi'nde yer alan Alhan Hamamı, doğal güzelliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Alhan Hamamı","Yenipazar","Aydın","Ege Bölgesi","doğal güzellik","yeşil alan","futbol sahası"]
+description: "Ege Bölgesi'nde yer alan Alhan Hamamı, doğal güzelliği ile dikkat çekiyor."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738932"
 ---
@@ -49,8 +49,6 @@ Alhan Hamamı, özellikle yaz aylarında serinli ve huzur arayanların sıklıkl
 
 ## İlginç Bilgiler
 
-- Alhan Hamamı, 140 hektarlık bir yeşil alan
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Alhan Hamamı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri
 - Bu bölge, özellikle yaz aylarında serinli ve huzur arayanların sıklıkla ziyaret ettiği bir destinasyon
 - Alhan Hamamı, doğa severler ve macera arayanlar için ideal bir seçim

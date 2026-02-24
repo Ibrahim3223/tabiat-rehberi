@@ -50,6 +50,5 @@ Kocadağı Tepesi'ni ziyaret etmek, doğa severler ve trekking yapanlar için ö
 
 - Kocadağı Tepesi, Ege Bölgesi'nin en yüksek noktalarından biridir.
 - Bu tepe, Muğla ilinin sınırları içerisinde yer alır.
-- Kocadağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Kocadağı Tepesi, ziyaretçilere unutulmaz bir deneyim sunar.

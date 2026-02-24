@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Artabel_G%C3%B6lleri..._-_panoramio.jpg","alt":"Artabel Gölleri Tabiat Parkı manzarası","credit":"Sinan Şahin","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Artabel_G%C3%B6lleri..._-_panoramio.jpg/960px-Artabel_G%C3%B6lleri..._-_panoramio.jpg","alt":"Artabel Gölleri Tabiat Parkı","caption":"Artabel Gölleri Tabiat Parkı","credit":"Artabel Gölleri... - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Artabel_%C5%9Eelalesi..._-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Artabel_%C5%9Eelalesi..._-_panoramio.jpg","alt":"Artabel Gölleri Tabiat Parkı - Artabel Şelalesi... - panoramio","credit":"Sinan Şahin","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artabel%20G%C3%B6lleri%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20476870","tip":"genel"}]
 description: "Gümüşhane'de bulunan Artabel Gölleri Tabiat Parkı, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"

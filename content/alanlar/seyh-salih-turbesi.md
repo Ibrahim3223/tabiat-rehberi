@@ -30,7 +30,7 @@ wikidata_id: "Q135582868"
 
 # Şeyh Salih Türbesi
 
-Şeyh Salih Türbesi, Mardin'in Artuklu ilçesinde, tarihin ve doğanın birleştiği bir noktada yer alır. Bu tarihi mekan, yaklaşık 140 hektarlık bir alana yayılmış ve çevresinde çeşitli bitki türleri ile zengin fauna bulunur. Şeyh Salih Türbesi, Mardin'in coğrafi yapısını ve tarihi geçmişi yansıtan önemli bir kültürel mirastır. 70'li yıllarda restore edilen bu türkü, bugün önemli bir turizm merkezidir.
+Şeyh Salih Türbesi, Mardin'in Artuklu ilçesinde, tarihin ve doğanın birleştiği bir noktada yer alır. Şeyh Salih Türbesi, Mardin'in coğrafi yapısını ve tarihi geçmişi yansıtan önemli bir kültürel mirastır. 70'li yıllarda restore edilen bu türkü, bugün önemli bir turizm merkezidir.
 
 ## Tarihçe
 

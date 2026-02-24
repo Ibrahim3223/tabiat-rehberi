@@ -49,7 +49,7 @@ wikidata_id: "Q34829591"
 ## İlginç Bilgiler
 
 - Çukuryurt Tepe, Konya'nın en önemli tarihi noktalarından biri
-- Tepe, 140 hektarlık bir alanı kaplıyor
+
 - Çevresindeki düzlüklerle birlikte şehrin doğal güzelliklerini sergiliyor
 - Tarihi belgelerde yer alan bilgiler, Çukuryurt Tepe'nin önemli bir yerleşim merkezi olarak kullanıldığını gösteriyor
 - Tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edilebilecek en uygun yerlerden biri

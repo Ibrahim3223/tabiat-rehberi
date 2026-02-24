@@ -49,7 +49,7 @@ Büyükkülek Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini g�
 ## İlginç Bilgiler
 
 - Büyükkülek Tepesi, Hatay ilinin önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Büyükkülek Tepesi, ziyaretçilerine doğanın güzelliğini gözler önüne seriyor
 - Burada, çeşitli bitki ve hayvan türleri yaşuyor
 - Büyükkülek Tepesi, yıl boyunca ziyaret edilebilir

@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","gezi","fotoğraf çekme","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kıygındede Tepesi","caption":"Kıygındede Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1yg%C4%B1ndede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389591","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide illerinden Balıkesir'de yer alan Kıygındede Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğal güzellikleriyle büyüler."
+"
 keywords: ["Kıygındede Tepesi","Balıkesir","Marmara Bölgesi","doğa","tepe","gezi","yürüyüş","manzara","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389591"

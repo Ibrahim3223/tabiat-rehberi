@@ -37,7 +37,7 @@ Saraç Sinan Türbesi'nin tarihi geçmişi, Ankara'nın zengin kültürel miras�
 
 ## Coğrafya
 
-Saraç Sinan Türbesi, Ankara'nın Altındağ ilçesinde yer alır ve şehrin merkezi kısmına yakındır. Bu bölge, Ankara'nın tarihi ve kültürel merkezlerinden biridir ve çok sayıda tarihi mekan ve kültürel aktiviteye ev sahipliği yapar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilere geniş bir tarihi atmosfer sunar. Ankara'nın coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, kara iklimi özellikleri gösterir. Bu bölgede, kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Saraç Sinan Türbesi, bu coğrafi koşullar altında, ziyaretçilere tarihi bir atmosfer sunar.
+Saraç Sinan Türbesi, Ankara'nın Altındağ ilçesinde yer alır ve şehrin merkezi kısmına yakındır. Bu bölge, Ankara'nın tarihi ve kültürel merkezlerinden biridir ve çok sayıda tarihi mekan ve kültürel aktiviteye ev sahipliği yapar. Ankara'nın coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, kara iklimi özellikleri gösterir. Bu bölgede, kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Saraç Sinan Türbesi, bu coğrafi koşullar altında, ziyaretçilere tarihi bir atmosfer sunar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Saraç Sinan Türbesi'ni ziyaret etmek, Ankara'nın tarihi ve kültürel zenginl
 - Saraç Sinan Türbesi, Ankara'nın önemli bir kültürel mirasıdır
 - Türbenin tarihi geçmişi, Ankara'nın zengin kültürel mirasına ışık tutar
 - Saraç Sinan Türbesi, yıl boyunca ziyaretçilere açık olup, hafta içi ve hafta sonu ziyaret edilebilir
-- Türbe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Ankara'nın coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, kara iklimi özellikleri gösterir

@@ -50,7 +50,7 @@ Kadı Burhanettin Türbesi'ni ziyaret etmek, Sivas'ın tarihi ve kültürel zeng
 ## İlginç Bilgiler
 
 - Kadı Burhanettin Türbesi, Sivas'ın en önemli tarihi yapılarından biridir
-- Türbe, 140 hektarlık bir yeşil alanın içerisinde yer alır
+
 - Buraya, toplu taşıma araçları veya özel araçlarla ulaşılabilir
 - Türbe ve çevresindeki yeşil alan, çeşitli bitki ve hayvan türlerine ev sahipliği yapar
 - Ziyaretçiler, buradaki tarihi ve kültürel yapıları inceleyerek Sivas'ın geçmişini öğrenebilirler

@@ -41,7 +41,7 @@ Fatih, İstanbul'da bulunan Çaşnıgir Osman Ağa Türbesi, Marmara Bölgesi'ni
 
 ## Flora ve Fauna
 
-Çaşnıgir Osman Ağa Türbesi ve çevresindeki alan, çeşitli bitki türleri ile zengin bir flora sunar. Bu yeşil alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu, birçok farklı bitki türünün yetişmesi için ideal bir ortamdır. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitkilerin çiçek açtığı görülür. Ayrıca, bu bölgede birçok kuş türünün yaşadığı bilinmektedir ve bu, doğa severler için önemli bir çekim noktasıdır. Ziyaretçiler, türbenin yakınında ve plajda, çeşitli yaban hayatı örnekleri ile karşılaşabilirler. Bu bölge, hem flora hem de fauna açısından zengin bir doğal ortam sunar ve ziyaretçilere doğayı deneyimleme fırsatı verir.
+Çaşnıgir Osman Ağa Türbesi ve çevresindeki alan, çeşitli bitki türleri ile zengin bir flora sunar. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitkilerin çiçek açtığı görülür. Ayrıca, bu bölgede birçok kuş türünün yaşadığı bilinmektedir ve bu, doğa severler için önemli bir çekim noktasıdır. Ziyaretçiler, türbenin yakınında ve plajda, çeşitli yaban hayatı örnekleri ile karşılaşabilirler. Bu bölge, hem flora hem de fauna açısından zengin bir doğal ortam sunar ve ziyaretçilere doğayı deneyimleme fırsatı verir.
 
 ## Ziyaret Bilgileri
 

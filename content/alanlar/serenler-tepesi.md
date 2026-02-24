@@ -14,7 +14,7 @@ aktiviteler: ["piknik yapmak","doğayı seyretmek","fotograf çekmek","yürüyü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Serenler Tepesi","caption":"Serenler Tepesi","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serenler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228298","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olan Serenler Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Serenler Tepesi","İç Anadolu Bölgesi","doğal alan","milli park","gezi","doğa","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228298"
@@ -42,7 +42,6 @@ Serenler Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları için 
 
 ## İlginç Bilgiler
 
-- Serenler Tepesi, 140 hektarlık bir doğal alan olarak yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin eteklerinde, çeşitli bitki türleri bulunur
 - Tepenin coğrafi yapısı, ziyaretçilerin doğayla iç içe olarak zaman geçirmelerini sağlıyor
 - Serenler Tepesi, bölgede yaşayan halk tarafından genellikle doğayı seyretme ve fotograf çekmek için tercih ediliyor

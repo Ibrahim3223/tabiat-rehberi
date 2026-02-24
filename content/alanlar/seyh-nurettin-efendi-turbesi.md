@@ -29,7 +29,7 @@ wikidata_id: "Q131391810"
 
 # Şeyh Nurettin Efendi Türbesi
 
-Şeyh Nurettin Efendi Türbesi, İstanbul'un Fatih ilçesinde yer alan önemli bir tarihi ve kültürel mekân olarak dikkat çekmektedir. İstanbul'un merkezinde, Marmara Bölgesi'nin kalbinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Şeyh Nurettin Efendi Türbesi, hem tarihi hem de kültürel açıdan zengin bir geçmişe sahiptir ve İstanbul'un önemli ziyaret noktalarından biridir. Ziyaretçiler, bu türbeyi ziyaret ederek hem tarihi hem de kültürel açıdan zengin bir deneyim yaşayabilirler.
+Şeyh Nurettin Efendi Türbesi, İstanbul'un Fatih ilçesinde yer alan önemli bir tarihi ve kültürel mekân olarak dikkat çekmektedir. Şeyh Nurettin Efendi Türbesi, hem tarihi hem de kültürel açıdan zengin bir geçmişe sahiptir ve İstanbul'un önemli ziyaret noktalarından biridir. Ziyaretçiler, bu türbeyi ziyaret ederek hem tarihi hem de kültürel açıdan zengin bir deneyim yaşayabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391810"
 
 ## Coğrafya
 
-Şeyh Nurettin Efendi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer almaktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve çevresinde çeşitli tarihi ve kültürel mekânlar bulunmaktadır. Türbenin coğrafi konumu, ziyaretçiler için önemli bir avantajdır, çünkü İstanbul'un merkezi ve tarihi bölgelerine yakın bir konumda bulunmaktadır. Türbenin bulunduğu alan, aynı zamanda çeşitli bitki türleri ve fauna ile çevrilidir, bu da ziyaretçiler için zengin bir doğa deneyimi sunar. İstanbul'un iklimi, türbenin bulunduğu bölgede ılıman ve nemlidir, bu da ziyaretçiler için uygun bir gezi ortamı sağlar. Türbenin coğrafi konumu ve çevresi, ziyaretçiler için hem tarihi hem de doğaçısından zengin bir deneyim sunar.
+Şeyh Nurettin Efendi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer almaktadır. Türbenin coğrafi konumu, ziyaretçiler için önemli bir avantajdır, çünkü İstanbul'un merkezi ve tarihi bölgelerine yakın bir konumda bulunmaktadır. Türbenin bulunduğu alan, aynı zamanda çeşitli bitki türleri ve fauna ile çevrilidir, bu da ziyaretçiler için zengin bir doğa deneyimi sunar. İstanbul'un iklimi, türbenin bulunduğu bölgede ılıman ve nemlidir, bu da ziyaretçiler için uygun bir gezi ortamı sağlar. Türbenin coğrafi konumu ve çevresi, ziyaretçiler için hem tarihi hem de doğaçısından zengin bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391810"
 ## İlginç Bilgiler
 
 - Şeyh Nurettin Efendi Türbesi, İstanbul'un önemli tarihi ve kültürel mekânlarından biridir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Türbe, Şeyh Nurettin Efendi'nin anısına inşa edilmiştir.
 - Türbenin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 - Türbenin bulunduğu alan, çeşitli bitki türleri ve fauna ile çevrilidir.

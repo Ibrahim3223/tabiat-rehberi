@@ -50,7 +50,7 @@ Ortakçı Kaplıcası, yıl boyunca ziyaret edilebilecek bir destinasyondur. Anc
 ## İlginç Bilgiler
 
 - Ortakçı Kaplıcası, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Buharkent ilçesinde yer alan kaplıca, 140 hektarlık bir yeşil alana sahiptir.
+
 - Kaplıcanın suyu, yeraltından çıkan ve şifalı özellikleri bulunan bir su kaynağından gelmektedir.
 - Bölge, çeşitli bitki türleri ile kaplıdır ve zengin fauna çeşitliliğine sahiptir.
 - Ortakçı Kaplıcası, yıl boyunca ziyaret edilebilecek bir destinasyondur.

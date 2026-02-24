@@ -38,7 +38,7 @@ wikidata_id: "Q122195565"
 
 ## Coğrafya
 
-Şah Sultan Türbesi, Marmara Bölgesi'nde bulunan Eyüpsultan ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Şah Sultan Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kurulmuş. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Ziyaretçiler, bu mekanın doğal güzelliklerini keşfetme fırsatı buluyor. Şah Sultan Türbesi'nin etrafında, tarihi yapılar ve önemli gezi noktaları bulunuyor. Bu mekan, coğrafi olarak zengin ve çeşitlilik gösteren bir bölge olarak biliniyor.
+Şah Sultan Türbesi, Marmara Bölgesi'nde bulunan Eyüpsultan ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Ziyaretçiler, bu mekanın doğal güzelliklerini keşfetme fırsatı buluyor. Şah Sultan Türbesi'nin etrafında, tarihi yapılar ve önemli gezi noktaları bulunuyor. Bu mekan, coğrafi olarak zengin ve çeşitlilik gösteren bir bölge olarak biliniyor.
 
 ## Flora ve Fauna
 

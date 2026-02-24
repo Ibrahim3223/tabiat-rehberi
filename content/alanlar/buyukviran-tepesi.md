@@ -28,7 +28,7 @@ wikidata_id: "Q35731449"
 
 # Büyükviran Tepesi
 
-Büyükviran Tepesi, Diyarbakır'ilinin merkezinde yer alan ve şehrin önemli coğrafi noktalarından biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve şehrin panoramik manzarasını sunar. Büyükviran Tepesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini içinde barındıran bir noktada yer alır. Tepenin etrafında bulunan tarihi eserler ve doğal güzellikler, ziyaretçilerin ilgisini çeker.
+Büyükviran Tepesi, Diyarbakır'ilinin merkezinde yer alan ve şehrin önemli coğrafi noktalarından biri olan bir tepedir. Büyükviran Tepesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini içinde barındıran bir noktada yer alır. Tepenin etrafında bulunan tarihi eserler ve doğal güzellikler, ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 

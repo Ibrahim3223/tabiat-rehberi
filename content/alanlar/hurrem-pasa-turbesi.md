@@ -37,7 +37,7 @@ Hürrem Paşa Türbesi, tarihi geçmişi ile önemli bir yere sahiptir. Tarihi k
 
 ## Coğrafya
 
-Hürrem Paşa Türbesi, Karatay, Konya'da bulunan bir türbe ve plaj alanıdır. Coğrafi olarak, İç Anadolu Bölgesi'nde yer alan bu mekân, geniş ve açık bir alan sunmaktadır. 140 hektarlık alan, ziyaretçilere büyük bir açık alan deneyimi sunarken, aynı zamanda çeşitli bitki türleri ve zengin fauna ile de dikkat çekmektedir. Türbenin etrafında, geniş ve yeşil alanlar bulunmaktadır. Bu alanlar, ziyaretçilere hem dinlenme hem de gezi imkanı sunmaktadır. Ayrıca, plaj alanı olarak da kullanılan bu mekân, yaz aylarında serinlemek isteyenler için ideal bir destinasyondur. Coğrafi konumu itibariyle, Hürrem Paşa Türbesi, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunmaktadır.
+Hürrem Paşa Türbesi, Karatay, Konya'da bulunan bir türbe ve plaj alanıdır. Coğrafi olarak, İç Anadolu Bölgesi'nde yer alan bu mekân, geniş ve açık bir alan sunmaktadır. Türbenin etrafında, geniş ve yeşil alanlar bulunmaktadır. Bu alanlar, ziyaretçilere hem dinlenme hem de gezi imkanı sunmaktadır. Ayrıca, plaj alanı olarak da kullanılan bu mekân, yaz aylarında serinlemek isteyenler için ideal bir destinasyondur. Coğrafi konumu itibariyle, Hürrem Paşa Türbesi, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Hürrem Paşa Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri 
 - Tarihi geçmişi
 - Variası değil, çeşitli bitki türleri
 - Zengin fauna
-- 140 hektarlık alan
+
 - Plaj ve gezi alanı olarak kullanılan bir mekân

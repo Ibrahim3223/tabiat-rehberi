@@ -38,7 +38,7 @@ Mamure Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge,
 
 ## Coğrafya
 
-Mamure Hamamı, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Plajları, denizi ve çevresindeki dağlar, bu bölgenin coğrafi özelliklerini oluşturuyor. Mamure Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir alan sunuyor. Akdeniz ikliminin etkisi altında olan bu bölge, genellikle sıcak ve kurak bir havaya sahip. Çevresindeki dağlar ve deniz, bu bölgenin iklimini ve coğrafi yapısını etkiliyor. Mamure Hamamı, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+Mamure Hamamı, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Plajları, denizi ve çevresindeki dağlar, bu bölgenin coğrafi özelliklerini oluşturuyor. Akdeniz ikliminin etkisi altında olan bu bölge, genellikle sıcak ve kurak bir havaya sahip. Çevresindeki dağlar ve deniz, bu bölgenin iklimini ve coğrafi yapısını etkiliyor. Mamure Hamamı, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Mamure Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en uygun ziyaret 
 
 - Mamure Hamamı, Mersin'in en önemli turizm merkezlerinden biridir.
 - Bu bölge, tarihi ve doğal güzellikleri bir araya getiriyor.
-- Mamure Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Bu bölge, Akdeniz Bölgesi'nin güzelliklerini ve tarihi değerlerini bir araya topluyor.
 - Mamure Hamamı, ziyaretçilerine çeşitli etkinli ve aktivite seçenekleri sunuyor.

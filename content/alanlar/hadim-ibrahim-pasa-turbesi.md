@@ -52,5 +52,5 @@ Hadım İbrahim Paşa Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyi
 - Hadım İbrahim Paşa, Osmanlı İmparatorluğu'nun önemli isimlerinden biridir.
 - Türbe, 16. yüzyılda inşa edilmiştir.
 - Hadım İbrahim Paşa Türbesi, İstanbul'un tarihi mekanlarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alır.
+
 - Hadım İbrahim Paşa Türbesi, Marmara Bölgesi'nde yer alır.

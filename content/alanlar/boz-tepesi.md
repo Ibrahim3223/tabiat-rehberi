@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Boz Tepesi","caption":"Boz Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539630","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nde yer alan Boz Tepesi, Van ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık alana sahip olan Boz Tepesi, yaklaşık 200 futbol sahası büyüklüğündedir."
+description: "Doğu Anadolu Bölgesi'nde yer alan Boz Tepesi, Van ilinin önemli doğal güzelliklerinden biridir."
 keywords: ["Boz Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31539630"
@@ -48,7 +48,6 @@ Boz Tepesi'ni ziyaret etmek, aynı zamanda, trekking ve doğa yürüyüşü içi
 
 ## İlginç Bilgiler
 
-- Boz Tepesi, 140 hektarlık alana sahiptir.
 - Boz Tepesi, yüksek bir konumda yer almaktadır.
 - Boz Tepesi, coğrafi konumu itibariyle, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 - Boz Tepesi, trekking ve doğa yürüyüşü için ideal bir yerdir.

@@ -43,7 +43,7 @@ Bolu-Aladag-Sarıalan-Uludağ Göknarı1 milli parkını ziyaret etmek, doğa se
 ## İlginç Bilgiler
 
 - Bolu-Aladag-Sarıalan-Uludağ Göknarı1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Milli park, 140 hektarlık bir alanı kapsıyor.
+
 - Bölge, çeşitli bitki ve canlı türlerine ev sahipliği yapıyor.
 - Ziyaretçiler, parkta doğa yürüyüşü ve bitki gözlemi gibi etkinlikler gerçekleştirebiliyor.
 - Milli parkın kuruluşu, bölgenin doğal güzelliğini korumak amacıyla gerçekleştirilmiştir.

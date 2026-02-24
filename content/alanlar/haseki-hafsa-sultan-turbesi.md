@@ -38,7 +38,7 @@ Haseki Hafsa Sultan Türbesi, Osmanlı Devleti'nin önemli kadın figürlerinden
 
 ## Coğrafya
 
-Haseki Hafsa Sultan Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer almaktadır. Bu bölge, tarihi ve coğrafi açıdan oldukça önemlidir. Türbe, yaklaşık 140 hektarlık bir yeşil alanın içerisinde bulunmaktadır. Bu yeşil alan, ziyaretçilerine güzel bir manzara sunuyor. Çevre, tarihi yapılar, camiler ve diğer dini mekanlarla dolu. Bölge, coğrafi olarak Boğaziçi'nin güneyinde, Haliç'in batısında yer alıyor. Haseki Hafsa Sultan Türbesi, İstanbul'un coğrafi ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir gezi noktasıdır. Türbenin etrafındaki yeşil alan, çeşitli bitki türleri ve ağaçlarla dolu. Bu doğal güzellik, ziyaretçilere şehir hayatının stresinden uzaklaşmak için ideal bir ortam sunuyor. Haseki Hafsa Sultan Türbesi ve çevresi, İstanbul'un önemli gezi noktalarından biri olarak kabul ediliyor.
+Haseki Hafsa Sultan Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer almaktadır. Bu bölge, tarihi ve coğrafi açıdan oldukça önemlidir. Bu yeşil alan, ziyaretçilerine güzel bir manzara sunuyor. Çevre, tarihi yapılar, camiler ve diğer dini mekanlarla dolu. Bölge, coğrafi olarak Boğaziçi'nin güneyinde, Haliç'in batısında yer alıyor. Haseki Hafsa Sultan Türbesi, İstanbul'un coğrafi ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir gezi noktasıdır. Türbenin etrafındaki yeşil alan, çeşitli bitki türleri ve ağaçlarla dolu. Bu doğal güzellik, ziyaretçilere şehir hayatının stresinden uzaklaşmak için ideal bir ortam sunuyor. Haseki Hafsa Sultan Türbesi ve çevresi, İstanbul'un önemli gezi noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

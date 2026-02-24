@@ -50,7 +50,6 @@ wikidata_id: "Q131738426"
 
 ## İlginç Bilgiler
 
-- İki Göbek Hamamı, 140 hektarlık bir alana sahiptir.
 - Bu bölge, yüksek dağlarla çevrili bir vadi içinde yer almaktadır.
 - İki Göbek Hamamı, flora ve fauna açısından çok zengin bir bölgedir.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmaktadır.

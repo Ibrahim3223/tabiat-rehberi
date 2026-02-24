@@ -51,7 +51,7 @@ wikidata_id: "Q131391277"
 ## İlginç Bilgiler
 
 - İskender Paşa Türbesi, İstanbul'un tarihi yapıları arasında önemli bir yere sahiptir.
-- Bu tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde konumlanmıştır.
+
 - İskender Paşa Türbesi, İstanbul Boğazı'nın güzelliğine tanıklık eden bir noktada yer alır.
 - İlkbahar ve sonbahar ayları, İstanbul Boğazı'nın güzelliğini keşfetmek için en uygun zamanlardır.
 - İskender Paşa Türbesi, ziyaretçilere hem tarihi bir deneyim hem de doğal güzelliğin keyfini çıkarma fırsatı sunar.

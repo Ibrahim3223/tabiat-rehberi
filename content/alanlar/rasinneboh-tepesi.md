@@ -28,7 +28,7 @@ wikidata_id: "Q31547984"
 
 # Rasınneboh Tepesi
 
-Rasınneboh Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Rasınneboh Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş. Rasınneboh Tepesi, ziyaretçilerini bekliyor.
+Rasınneboh Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Rasınneboh Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş. Rasınneboh Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Rasınneboh Tepesi, tarihsel olarak önemli bir bölge. Bu bölge, yüzyıllar b
 
 ## Coğrafya
 
-Rasınneboh Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Rasınneboh Tepesi, etrafındaki dağlar ve ovalar ile birlikte bir bütün oluşturuyor. Tepenin iklimi, bölgenin genel iklimine benzer. Rasınneboh Tepesi, ziyaretçilerine doğal güzellikleri sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş.
+Rasınneboh Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Rasınneboh Tepesi, etrafındaki dağlar ve ovalar ile birlikte bir bütün oluşturuyor. Tepenin iklimi, bölgenin genel iklimine benzer. Rasınneboh Tepesi, ziyaretçilerine doğal güzellikleri sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Rasınneboh Tepesi, ziyaretçilerini bekliyor. Bu tepe, tarihi ve doğal güzell
 
 ## İlginç Bilgiler
 
-- Rasınneboh Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş.
 - Rasınneboh Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor.

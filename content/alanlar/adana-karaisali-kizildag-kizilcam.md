@@ -14,7 +14,7 @@ aktiviteler: ["Trekking","Kamp","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Adana-Karaisali-Kizildag-Kizilcam","caption":"Adana-Karaisali-Kizildag-Kizilcam","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Karaisali-Kizildag-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228544","tip":"genel"}]
-description: "Adana'nın Karaisali ilçesinde bulunan Kizildag Milli Parkı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Adana","Karaisali","Kizildag","Milli Park","Doğa","Turizm","Gezi","Aktivite"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228544"

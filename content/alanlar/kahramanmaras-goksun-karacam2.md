@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","yaban hayatı g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Kahramanmaras-Goksun Karacam2","caption":"Kahramanmaras-Goksun Karacam2","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun%20Karacam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227520","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kahramanmaras","Goksun","Karacam2","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227520"
@@ -30,7 +30,7 @@ Kahramanmaras-Goksun Karacam2 milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Kahramanmaras-Goksun Karacam2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ile kaplı. Burada, zengin fauna ile karşılaşma mümkün. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunuyor. İç Anadolu Bölgesi'nin iklimi, bu alanda da etkili. Kışları soğuk, yazları sıcak olan iklim, doğanın güzelliğini farklı şekillerde gösteriyor. Kahramanmaras-Goksun Karacam2 milli parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, birçok doğa yürüyüşü ve piknik alanı bulunuyor.
+Kahramanmaras-Goksun Karacam2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Burada, zengin fauna ile karşılaşma mümkün. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunuyor. İç Anadolu Bölgesi'nin iklimi, bu alanda da etkili. Kışları soğuk, yazları sıcak olan iklim, doğanın güzelliğini farklı şekillerde gösteriyor. Kahramanmaras-Goksun Karacam2 milli parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, birçok doğa yürüyüşü ve piknik alanı bulunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kahramanmaras-Goksun Karacam2 milli parkını ziyaret etmek, doğa severler içi
 ## İlginç Bilgiler
 
 - Kahramanmaras-Goksun Karacam2 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Milli park, 140 hektarlık bir yeşil alana sahip.
+
 - Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Kahramanmaras-Goksun Karacam2 milli parkı, doğa severlerin mutlaka görmesi gereken bir yer.
 - Milli parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiş.

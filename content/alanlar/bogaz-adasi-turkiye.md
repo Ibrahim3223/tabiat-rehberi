@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kapidag_Peninsula_and_neighbouring_islands_%28cropped%29.tiff/lossy-page1-800px-Kapidag_Peninsula_and_neighbouring_islands_%28cropped%29.tiff.jpg","alt":"Boğaz Adası","caption":"Boğaz Adası","credit":"Kapidag Peninsula and neighbouring islands (cropped)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Galatasaray_Adas%C4%B1_location.svg/960px-Galatasaray_Adas%C4%B1_location.svg.png","alt":"Boğaz Adası","caption":"Boğaz Adası","credit":"Galatasaray Adası location","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Faz%20Adas%C4%B1%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49633823","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Boğaz Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Boğaz Adası","İzmir Adaları","Türkiye Adaları","İzmir Turizm","Boğaz Adası Gezi","Ada Tatili","İzmir Gezilecek Yerler","Türkiye Turizm","Ege Adaları"]

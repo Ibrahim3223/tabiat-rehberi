@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","yaban hayatı gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Antalya-Cevizli Gidengelmez Dagi","caption":"Antalya-Cevizli Gidengelmez Dagi","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Cevizli%20Gidengelmez%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227074","tip":"genel"}]
-description: "Antalya'nın güzide milli parklarından biri olan Cevizli Gidengelmez Dağı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","Antalya","Cevizli Gidengelmez Dağı","doğa","turizm","gezi","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227074"
@@ -30,7 +30,7 @@ Cevizli Gidengelmez Dağı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Cevizli Gidengelmez Dağı, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin bir yapıya sahip. Dağın eteklerinde, çeşitli bitki türleri ve yaban hayatı bulunmakta. Milli parkın coğrafyası, ziyaretçilere farklı iklim ve çevre koşullarını deneyimleme fırsatı sunuyor. Cevizli Gidengelmez Dağı, yaklaşık 140 hektarlık alanı ile ziyaretçilere geniş bir gezi alanı sunuyor. Burada, doğa yürüyüşleri, piknik alanları ve noktaları gibi çeşitli imkanlar bulunmakta. Milli parkın coğrafi konumu, ziyaretçilere Akdeniz'in güzelliğini keşfetme fırsatı sunuyor.
+Cevizli Gidengelmez Dağı, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin bir yapıya sahip. Dağın eteklerinde, çeşitli bitki türleri ve yaban hayatı bulunmakta. Milli parkın coğrafyası, ziyaretçilere farklı iklim ve çevre koşullarını deneyimleme fırsatı sunuyor. Burada, doğa yürüyüşleri, piknik alanları ve noktaları gibi çeşitli imkanlar bulunmakta. Milli parkın coğrafi konumu, ziyaretçilere Akdeniz'in güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Cevizli Gidengelmez Dağı, ziyaretçiler için çeşitli imkanlar sunuyor. Mill
 
 ## İlginç Bilgiler
 
-- Cevizli Gidengelmez Dağı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, yaban hayatı ve ekosistem açısından önemli bir merkez
 - Cevizli Gidengelmez Dağı, yılın her dönemi ziyaret edilebilir
 - Bahar aylarında, çiçeklerin açması ile birlikte, doğa gerçek bir renk cümbüşüne dönüşüyor

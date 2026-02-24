@@ -28,7 +28,7 @@ wikidata_id: "Q34819826"
 
 # Çukuryatak Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde bulunan Çukuryatak Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çukuryatak Tepesi, hem yerel halk hem de şehri ziyaret edenler için keyifli bir gezi noktası olarak dikkat çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrável. Bu tepe, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
+ Çukuryatak Tepesi, hem yerel halk hem de şehri ziyaret edenler için keyifli bir gezi noktası olarak dikkat çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrável. Bu tepe, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
 
 ## Tarihçe
 

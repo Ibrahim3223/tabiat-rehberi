@@ -37,7 +37,7 @@ Syedra Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş bir hika
 
 ## Coğrafya
 
-Syedra Hamamı, coğrafi açıdan zengin bir konumda yer alıyor. Alanya'nın güneyinde bulunan bu bölge, 140 hektarlık alanı ile önemli bir doğal güzellik sunuyor. Syedra Hamamı'nın coğrafi yapısı, ziyaretçilerine çeşitli olanaklar sunuyor. Bu bölgede, ziyaretçiler çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Syedra Hamamı'nın coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerini bu güzelliklerle baş başa bırakıyor.
+Syedra Hamamı, coğrafi açıdan zengin bir konumda yer alıyor. Syedra Hamamı'nın coğrafi yapısı, ziyaretçilerine çeşitli olanaklar sunuyor. Bu bölgede, ziyaretçiler çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Syedra Hamamı'nın coğrafi konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerini bu güzelliklerle baş başa bırakıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Syedra Hamamı, ziyaretçilerini bekliyor. Buraya ulaşmak için, Antalya'nın A
 ## İlginç Bilgiler
 
 - Syedra Hamamı, Alanya'nın güneyinde yer alıyor.
-- 140 hektarlık alanı ile önemli bir doğal güzellik sunuyor.
+
 - Tarihi geçmişi, yüzyıllar boyunca şekillenmiş bir hikayeye sahip.
 - Ziyaretçilerine, tarihi ve doğal güzelliklerini bir arada sunuyor.
 - İlkbahar ve yaz ayları, ziyaret için en iyi dönem.

@@ -30,7 +30,7 @@ wikidata_id: "Q131390952"
 
 # Sümbül Baba Türbesi
 
-Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor ve Tokat'ın önemli tarihi noktalarından biri olarak kabul ediliyor. Tokat'ın merkezinde bulunan bu türbe, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Sümbül Baba Türbesi, Tokat'ın ziyaret edilmesi gereken önemli noktalarından biri.
+Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan. Tokat'ın merkezinde bulunan bu türbe, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Sümbül Baba Türbesi, Tokat'ın ziyaret edilmesi gereken önemli noktalarından biri.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sümbül Baba Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu türbenin tar
 
 ## Coğrafya
 
-Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor ve Tokat'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Tokat'ın coğrafi yapısı, karasal iklimin özellikleri ile şekilleniyor. İlkbahar ve yaz aylarında sıcaklıklar artarken, kış aylarında soğuk ve kar yağışlı bir hava hakim oluyor. Sümbül Baba Türbesi, Tokat'ın merkezinde bulunması sebebiyle, ulaşım açısından kolay bir konumda yer alıyor. Ziyaretçiler, Tokat şehir merkezinden türbeye kolayca ulaşabiliyorlar. Ayrıca, türbenin etrafında bulunan yeşil alanlar ve doğal güzellikler, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sunuyor.
+Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Tokat'ın coğrafi yapısı, karasal iklimin özellikleri ile şekilleniyor. İlkbahar ve yaz aylarında sıcaklıklar artarken, kış aylarında soğuk ve kar yağışlı bir hava hakim oluyor. Sümbül Baba Türbesi, Tokat'ın merkezinde bulunması sebebiyle, ulaşım açısından kolay bir konumda yer alıyor. Ziyaretçiler, Tokat şehir merkezinden türbeye kolayca ulaşabiliyorlar. Ayrıca, türbenin etrafında bulunan yeşil alanlar ve doğal güzellikler, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Sümbül Baba Türbesi'ni ziyaret etmek, Tokat'ın tarihi ve doğal güzellikler
 - Sümbül Baba Türbesi, Tokat'ın önemli tarihi noktalarından biri.
 - Türbenin etrafında, çeşitli ağaç türleri ve bitkiler bulunuyor.
 - Sümbül Baba, bir din alimi ve mutasavvıf olarak biliniyor.
-- Türbe, yaklaşık 140 hektarlık bir alanda yer alıyor.
+
 - Tokat'ın merkezinde yer alan bu türbe, ziyaretçilerini tarihi bir yolculuğa çıkarıyor.

@@ -38,7 +38,7 @@ Osmangazi Köprüsü'nün tarihi geçmişi, bölgenin ulaşım ihtiyacına cevap
 
 ## Coğrafya
 
-Osmangazi Köprüsü, Marmara Bölgesi'nin Dilovası/Kocaeli bölümünde yer alır ve bu konumu itibariyle, bölgenin ulaşım ağının önemli bir noktası olarak hizmet verir. Köprü, Asya ve Avrupa'yı bağlayan önemli bir ulaşım arteri üzerinde bulunur ve bu nedenle, hem lokal hem de uluslararası ulaşımda büyük bir role sahiptir. Köprünün çevresindeki coğrafya, Marmara Denizi'ne yakın olması nedeniyle, denizel iklimin etkilerini taşır ve bu, bölgenin flora ve faunasını zenginleştiren önemli bir faktördür. Osmangazi Köprüsü'nün bulunduğu alan, 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunar. Köprü, bölgenin doğal güzelliklerini korurken, aynı zamanda ulaşım ihtiyacını da karşılar ve bu denge, Osmangazi Köprüsü'nü önemli bir gezi noktası haline getirir.
+Osmangazi Köprüsü, Marmara Bölgesi'nin Dilovası/Kocaeli bölümünde yer alır ve bu konumu itibariyle, bölgenin ulaşım ağının önemli bir noktası olarak hizmet verir. Köprü, Asya ve Avrupa'yı bağlayan önemli bir ulaşım arteri üzerinde bulunur ve bu nedenle, hem lokal hem de uluslararası ulaşımda büyük bir role sahiptir. Köprünün çevresindeki coğrafya, Marmara Denizi'ne yakın olması nedeniyle, denizel iklimin etkilerini taşır ve bu, bölgenin flora ve faunasını zenginleştiren önemli bir faktördür. Köprü, bölgenin doğal güzelliklerini korurken, aynı zamanda ulaşım ihtiyacını da karşılar ve bu denge, Osmangazi Köprüsü'nü önemli bir gezi noktası haline getirir.
 
 ## Flora ve Fauna
 

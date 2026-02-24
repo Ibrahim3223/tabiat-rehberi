@@ -30,7 +30,7 @@ Kastamonu-Sinop-İnceburun-Sahilcami milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Kastamonu-Sinop-İnceburun-Sahilcami milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde bulunur. Parkın coğrafi konumu, denize kıyısı olan bir sahil şerididir. İnceburun ve Sahilcami arasındaki bu bölge, Karadeniz'in en güzel sahillerinden biridir. Parkın yüzölçümü, 140 hektarlık bir alanı kapsar. Parkın iklimi, Karadeniz iklimi özellikleri taşır. Bölge, yazları serin ve yağışlı, kışları ise soğuk ve yağışlı bir iklimi sahiptir. Parkın çevresi, ormanlar ve dağlar ile çevrilidir. Bu coğrafi konum, parkın doğal güzelliklerini ve ekosistemini korur.
+Kastamonu-Sinop-İnceburun-Sahilcami milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde bulunur. Parkın coğrafi konumu, denize kıyısı olan bir sahil şerididir. İnceburun ve Sahilcami arasındaki bu bölge, Karadeniz'in en güzel sahillerinden biridir. Parkın iklimi, Karadeniz iklimi özellikleri taşır. Bölge, yazları serin ve yağışlı, kışları ise soğuk ve yağışlı bir iklimi sahiptir. Parkın çevresi, ormanlar ve dağlar ile çevrilidir. Bu coğrafi konum, parkın doğal güzelliklerini ve ekosistemini korur.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kastamonu-Sinop-İnceburun-Sahilcami milli parkını ziyaret etmek, ziyaretçile
 
 ## İlginç Bilgiler
 
-- Parkın sahili, 140 hektarlık bir alanı kapsar.
 - Parkın çevresi, ormanlar ve dağlar ile çevrilidir.
 - Parkın iklimi, Karadeniz iklimi özellikleri taşır.
 - Parkta, çeşitli bitki ve hayvan türleri bulunur.

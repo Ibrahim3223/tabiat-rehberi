@@ -50,6 +50,6 @@ Sarıot Kaplıcası, ziyaretçilerine sağlık, rahatlık ve keyifli bir deneyim
 
 - Sarıot Kaplıcası, Karadeniz Bölgesi'nin en önemli termal merkezlerinden biri
 - Kaplıcanın suyu, zengin minerallerle dolu
-- Sarıot Kaplıcası, yaklaşık 140 hektarlık bir alanı kapsar
+
 - Kaplıcanın çevresindeki ormanlar, çeşitli ağaç türleri ve bitkilerle dolu
 - Sarıot Kaplıcası, çeşitli hayvan türlerine ev sahipliği yapar

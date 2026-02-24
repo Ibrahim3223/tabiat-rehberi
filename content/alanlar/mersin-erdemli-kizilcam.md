@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Mersin-Erdemli-Kizilcam","caption":"Mersin-Erdemli-Kizilcam","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/27/Pines_in_Mersin_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pines_in_Mersin_04.jpg/1280px-Pines_in_Mersin_04.jpg","alt":"Mersin-Erdemli-Kizilcam - Pines in Mersin 04","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Pines_in_Mersin_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pines_in_Mersin_02.jpg/1280px-Pines_in_Mersin_02.jpg","alt":"Mersin-Erdemli-Kizilcam - Pines in Mersin 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Pines_in_Mersin_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pines_in_Mersin_03.jpg/1280px-Pines_in_Mersin_03.jpg","alt":"Mersin-Erdemli-Kizilcam - Pines in Mersin 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Pines_in_Mersin_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pines_in_Mersin_01.jpg/1280px-Pines_in_Mersin_01.jpg","alt":"Mersin-Erdemli-Kizilcam - Pines in Mersin 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/K%C4%B1z%C4%B1l%C3%A7am_-_Turkish_pines_-_Pinus_brutia_01.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/K%C4%B1z%C4%B1l%C3%A7am_-_Turkish_pines_-_Pinus_brutia_01.JPG/1280px-K%C4%B1z%C4%B1l%C3%A7am_-_Turkish_pines_-_Pinus_brutia_01.JPG","alt":"Mersin-Erdemli-Kizilcam - Kızılçam - Turkish pines - Pinus brutia 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Erdemli-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228533","tip":"genel"}]
-description: "Mersin'in Erdemli ilçesinde bulunan Kızılcam Milli Parkı, 140 hektarlık yeşil bir alan"
+
 keywords: ["Mersin","Erdemli","Kızılcam","Milli Park","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228533"
@@ -31,7 +31,7 @@ Mersin-Erdemli-Kizilcam Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesin
 
 ## Coğrafya
 
-Mersin-Erdemli-Kizilcam Milli Parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. 140 hektarlık bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Yazlar sıcak ve kuru, kışlar ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini artırıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Ziyaretçiler, burada Akdeniz'in güzelliğini ve çevrenin doğal yapısını görebiliyor.
+Mersin-Erdemli-Kizilcam Milli Parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Yazlar sıcak ve kuru, kışlar ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini artırıyor. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Ziyaretçiler, burada Akdeniz'in güzelliğini ve çevrenin doğal yapısını görebiliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Mersin-Erdemli-Kizilcam Milli Parkı, yıl boyunca birçok ziyaretçi çekiyor. 
 
 ## İlginç Bilgiler
 
-- Mersin-Erdemli-Kizilcam Milli Parkı, 140 hektarlık bir alana sahip
 - Milli park, çeşitli bitki türleri ve zengin fauna ile kaplı
 - Bölge, yüzyıllar öncesine dayanan bir tarihi geçmişe sahip
 - Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor

@@ -21,7 +21,7 @@ aktiviteler: ["Denize girme","Güneşlenme","Doga yürüyüşleri","Su sporları
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Keramos Hamamı","caption":"Keramos Hamamı","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keramos%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245737","tip":"genel"}]
-description: "Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alan Keramos Hamamı, 140 hektarlık alanıyla dikkat çekiyor."
+"
 keywords: ["Keramos Hamamı","Milas","Muğla","Ege Bölgesi","plaj","doğa","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245737"
@@ -48,8 +48,6 @@ Keramos Hamamı, çeşitli bitki türlerine ev sahipliği yapıyor. Bu plajın e
 Keramos Hamamı'na ulaşım, genellikle özel araç ya da toplu taşıma araçlarıyla sağlanıyor. Plaja gitmek isteyenler, Milas'a ulaştıktan sonra, Keramos Hamamı'na giden yol üzerinde bulunan işaretlerden yararlanabilir. Keramos Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, yaz aylarında plajın ziyaretçi sayısı artıyor. Bu plajda, denize girme, güneşlenme, doğa yürüyüşleri ve su sporları gibi faaliyetler yapılabiliyor.
 
 ## İlginç Bilgiler
-
-- Keramos Hamamı, 140 hektarlık bir alana kurulmuştur.
 
 - Keramos Hamamı, denize sıfır bir konumda yer alıyor.
 - Plajın etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkilerle çevrilidir.

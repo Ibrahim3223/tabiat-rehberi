@@ -48,8 +48,6 @@ Gaca Tepe'yi ziyaret etmek, doğa severler için bir rüya gibi olabilir. Bu bö
 
 ## İlginç Bilgiler
 
-- Gaca Tepe, 140 hektarlık bir alana sahiptir.
-
 - Gaca Tepe, Akdeniz Bölgesi'nde yer alır.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Gaca Tepe, doğa severler ve doğa fotoğrafçıları için ideal bir destinasyondur.

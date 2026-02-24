@@ -49,7 +49,7 @@ Neşfikeft Tepesi'ni ziyaret etmek, doğa severler ve tarihi mekanlara ilgi duya
 ## İlginç Bilgiler
 
 - Neşfikeft Tepesi, Batman'ın en yüksek noktalarından biri.
-- Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor.
+
 - Neşfikeft Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor.
 - Neşfikeft Tepesi, coğrafi konumu itibariyle, hem doğal güzelliği hem de stratejik önemi ile dikkat çekiyor.

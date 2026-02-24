@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 35, ziyaretçilere birçok opportunity sunuyor. Bu plaj
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 35, Ege Bölgesi'nin en güzel plajlarından birisidir.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Bin Tepeler Tümülüsü 35, Salihli-Manisa'da yer almaktadır.
 - Bu plaj, Ege Denizi'nin güzel kıyılarına sahiptir.
 - Bin Tepeler Tümülüsü 35, ziyaretçilere birçok opportunity sunuyor.

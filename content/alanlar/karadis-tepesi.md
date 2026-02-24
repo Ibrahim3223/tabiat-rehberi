@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Karadiş Tepesi","caption":"Karadiş Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadi%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390182","tip":"genel"}]
-description: "Antalya'nın doğal güzelliklerinden biri olan Karadiş Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Karadiş Tepesi","Antalya","doğa","tepe","gezi","Akdeniz Bölgesi","turizm","yayla"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390182"

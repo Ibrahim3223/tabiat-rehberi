@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20din%C3%A7er%20heykel%2C%20yenimahalle%20Ankara.jpg","alt":"Ali Dinçer Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ali_din%C3%A7er_heykel%2C_yenimahalle_Ankara.jpg/960px-Ali_din%C3%A7er_heykel%2C_yenimahalle_Ankara.jpg","alt":"Ali Dinçer Parkı","caption":"Ali Dinçer Parkı","credit":"Ali dinçer heykel, yenimahalle Ankara","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/df/Ali_din%C3%A7er_heykel%2C_yenimahalle_Ankara.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ali_din%C3%A7er_heykel%2C_yenimahalle_Ankara.jpg/1280px-Ali_din%C3%A7er_heykel%2C_yenimahalle_Ankara.jpg","alt":"Ali Dinçer Parkı - Ali dinçer heykel, yenimahalle Ankara","credit":"Modern primat","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%20Din%C3%A7er%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q117307596","tip":"genel"}]
 description: "Yenimahalle'de bulunan 1200 hektarlık botanik bahçesi, Kentkoop'un yeşillendirme projesi"

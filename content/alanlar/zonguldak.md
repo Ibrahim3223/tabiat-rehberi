@@ -23,7 +23,7 @@ wikidata_id: "Q108228688"
 
 # ZONGULDAK
 
- Bu milli park, zengin flora ve fauna çeşitliliği ile dikkat çeker. Zonguldak'ın doğal güzellikleri, tarihi geçmişi ve coğrafi konumu, ziyaretçileri için unutulmaz bir deneyim sunar. Milli parkın sunduğu çeşitli aktiviteler, ziyaretçilerin doğayla iç içe olmasını sağlar. 140 hektarlık bu yeşil alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı verir.
+ Bu milli park, zengin flora ve fauna çeşitliliği ile dikkat çeker. Zonguldak'ın doğal güzellikleri, tarihi geçmişi ve coğrafi konumu, ziyaretçileri için unutulmaz bir deneyim sunar. Milli parkın sunduğu çeşitli aktiviteler, ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Zonguldak milli parkını ziyaret etmek, ziyaretçilere, doğayla iç içe olma 
 
 ## İlginç Bilgiler
 
-- Zonguldak milli parkı, 140 hektarlık bir alana sahiptir.
 - Milli parkın flora çeşitliliği, ziyaretçileri için önemli bir bilgi kaynağıdır.
 - Zonguldak milli parkının fauna çeşitliliği, ziyaretçilere, doğal güzelliklerin yanı sıra, canlıların yaşam alanlarını sunar.
 - Bu milli park, ziyaretçilere, mevsimsel değişimlerin güzelliğini sunar.

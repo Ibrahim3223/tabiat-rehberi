@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Çardağınkayası Tepesi","caption":"Çardağınkayası Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87arda%C4%9F%C4%B1nkayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828402","tip":"genel"}]
-description: "Akdeniz Bölgesi'nin güzide illerinden Hatay'da bulunan Çardağınkayası Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Çardağınkayası Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","turizm","çevre","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828402"
@@ -48,7 +48,6 @@ wikidata_id: "Q34828402"
 
 ## İlginç Bilgiler
 
-- Çardağınkayası Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor
 - Çardağınkayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor
 - Tepenin eteklerinde, tarihin derin izlerini taşıyan kalıntılara rastlama mümkün

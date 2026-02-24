@@ -51,7 +51,7 @@ Sefer Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri den
 ## İlginç Bilgiler
 
 - Sefer Baba Türbesi, İstanbul'un merkezine yakın bir konumda yer alır
-- Bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur
+
 - Sefer Baba Türbesi, tarihi ve doğal güzellikleriyle dikkat çeker
 - Bölge, ziyaretçilerine çeşitli flora ve fauna sunar
 - Sefer Baba Türbesi, ilkbahar ve yaz aylarında ziyaret edilmeye uygundur

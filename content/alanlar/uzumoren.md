@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Üzümören","caption":"Üzümören","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cz%C3%BCm%C3%B6ren","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227800","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Üzümören","İç Anadolu Bölgesi","Milli Park","Doğa","Yeşil Alan","İklim","Fauna","Flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227800"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227800"
 
 # Üzümören
 
-Üzümören, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Üzümören, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Üzümören'in storia geçmişi, yüzyıllar boyunca bu bölgeyi önemli kılmıştır.
+ İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Üzümören, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Üzümören'in storia geçmişi, yüzyıllar boyunca bu bölgeyi önemli kılmıştır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227800"
 
 ## İlginç Bilgiler
 
-- Üzümören, 140 hektarlık bir yeşil alan
 - İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli park
 - Çeşitli bitki türleri ve zengin fauna
 - Tarihi geçmişi yüzyıllar boyunca şekillenmiştir

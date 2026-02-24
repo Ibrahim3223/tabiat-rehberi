@@ -50,7 +50,7 @@ Keler Roma Hamamı ve Kaplıcaları, ziyaretçilerine yıl boyunca çeşitli zam
 ## İlginç Bilgiler
 
 - Keler Roma Hamamı ve Kaplıcaları, tarihi Roma dönemine kadar uzanır.
-- Tesis, yaklaşık 140 hektarlık bir arazide kurulmuştur.
+
 - Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker.
 - Ziyaretçiler, bu bölgede doğayla iç içe bir deneyim yaşayabilir.
 - Tesisin etrafındaki doğal güzellikler, ziyaretçilere açık hava etkinliklerine katılma imkanı da tanır.

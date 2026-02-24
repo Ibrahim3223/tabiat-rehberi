@@ -43,7 +43,7 @@ Doğubeyazıt Sazlıkları Sulak Alanı, doğa severler ve kuş gözlemcileri i�
 ## İlginç Bilgiler
 
 - Doğubeyazıt Sazlıkları Sulak Alanı, Türkiye'nin en önemli sulak alanlarından biridir.
-- Sulak alan, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemi destekler.
 - Doğubeyazıt Sazlıkları Sulak Alanı, özellikle kuş gözlemcileri için bir cennet olarak kabul edilir.
 - Sulak alanın flora ve faunası, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini destekler.

@@ -28,7 +28,7 @@ wikidata_id: "Q31386222"
 
 # Banasor Tepesi
 
-Banasor Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan yeşil bir alandır. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Banasor Tepesi, aynı zamanda Şanlıurfa'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
+Banasor Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Banasor Tepesi, aynı zamanda Şanlıurfa'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Banasor Tepesi, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılm
 
 ## Coğrafya
 
-Banasor Tepesi, Şanlıurfa'nın merkezinde yer alır. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütünü oluşturur. Banasor Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin çevresinde, Şanlıurfa'nın diğer önemli noktaları bulunur. Burada, şehir merkezine yakın bir konumda yer alan Banasor Tepesi, ziyaretçilerin kolayca ulaşabileceği bir noktadadır. Banasor Tepesi, aynı zamanda Şanlıurfa'nın coğrafi yapısını öğrenmek isteyenler için önemli bir noktadır. Burada, bölgenin coğrafi özellikleri hakkında bilgi edinme mümkündür.
+Banasor Tepesi, Şanlıurfa'nın merkezinde yer alır. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütünü oluşturur. Tepenin çevresinde, Şanlıurfa'nın diğer önemli noktaları bulunur. Burada, şehir merkezine yakın bir konumda yer alan Banasor Tepesi, ziyaretçilerin kolayca ulaşabileceği bir noktadadır. Banasor Tepesi, aynı zamanda Şanlıurfa'nın coğrafi yapısını öğrenmek isteyenler için önemli bir noktadır. Burada, bölgenin coğrafi özellikleri hakkında bilgi edinme mümkündür.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Banasor Tepesi, ziyaretçilerin keyif alacağı bir noktadır. Burada, özellikl
 
 ## İlginç Bilgiler
 
-- Banasor Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
 - Banasor Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır
 - Banasor Tepesi, Şanlıurfa'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir kaynak teşkil eder
 - Banasor Tepesi, aynı zamanda ekoloji hakkında bilgi edinmek isteyenler için önemli bir kaynak teşkil eder

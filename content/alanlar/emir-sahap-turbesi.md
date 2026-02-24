@@ -38,7 +38,7 @@ Emir Şahap Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin kim taraf
 
 ## Coğrafya
 
-Emir Şahap Türbesi, Kayseri'nin Melikgazi ilçesinde, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunar. Türbe, geniş bir yeşil alan içerisinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bölge, iklim açısından İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Emir Şahap Türbesi ve çevresindeki doğal güzellikler, ziyaretçilere doğayı iç içe deneyimleme fırsatı sunar. Türbenin bulunduğu Melikgazi ilçesi, tarihi ve kültürel açıdan önemli bir merkezdir. İlçe, birçok tarihi yapı ve kültürel etkinliğe ev sahipliği yapar. Emir Şahap Türbesi, bu bölgenin önemli bir parçası olarak kabul edilir ve ziyaretçilere tarihi ve doğal güzellikleri bir arada deneyimleme fırsatı sunar.
+Emir Şahap Türbesi, Kayseri'nin Melikgazi ilçesinde, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunar. Bölge, iklim açısından İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Emir Şahap Türbesi ve çevresindeki doğal güzellikler, ziyaretçilere doğayı iç içe deneyimleme fırsatı sunar. Türbenin bulunduğu Melikgazi ilçesi, tarihi ve kültürel açıdan önemli bir merkezdir. İlçe, birçok tarihi yapı ve kültürel etkinliğe ev sahipliği yapar. Emir Şahap Türbesi, bu bölgenin önemli bir parçası olarak kabul edilir ve ziyaretçilere tarihi ve doğal güzellikleri bir arada deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Emir Şahap Türbesi ve plajını ziyaret etmek, tarihi ve doğal güzellikleri 
 ## İlginç Bilgiler
 
 - Emir Şahap Türbesi, tarihi ve dinî açıdan önemli bir merkezdir.
-- Türbe, 140 hektarlık bir yeşil alan içerisinde yer alır.
+
 - Bölge, İç Anadolu Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Emir Şahap Türbesi, yıl boyunca ziyaret edilebilir.
 - Türbenin tarihi hakkında daha ayrıntılı bilgiler bulunmasa da, ziyaretçiler bu önemli kültürel mirası deneyimleme fırsatı bulabilirler.

@@ -30,7 +30,7 @@ wikidata_id: "Q131391400"
 
 # Şeyh Eyüp Türbesi
 
-Şeyh Eyüp Türbesi, Konya'nın Akşehir ilçesinde yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar. Akşehir'in tarihi geçmişi, Şeyh Eyüp Türbesi ile birlikte zengin bir kültürel mirası temsil eder.
+Şeyh Eyüp Türbesi, Konya'nın Akşehir ilçesinde yer alan bir tarihi yapıdır. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar. Akşehir'in tarihi geçmişi, Şeyh Eyüp Türbesi ile birlikte zengin bir kültürel mirası temsil eder.
 
 ## Tarihçe
 

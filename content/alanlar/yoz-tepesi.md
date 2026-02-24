@@ -48,7 +48,6 @@ Yöz Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyimdir. Bu te
 
 ## İlginç Bilgiler
 
-- Yöz Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olup, 140 hektarlık bir alanı kaplar.
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapar ve bu bitkiler, bölgenin iklim koşullarına uyum sağlamıştır.
 - Yöz Tepesi, çeşitli hayvan türlerinin yaşam alanıdır ve bu hayvanlar, bölgenin ekolojik dengesini sağlar.
 - Yöz Tepesi'ne ulaşım, Kahramanmaraş il merkezinden możliktir ve ziyaretçilerin, tepeye ulaşmak için çeşitli ulaşım araçlarını kullanabilecekleri gibi, yürüyüş yaparak da ulaşabilirler.

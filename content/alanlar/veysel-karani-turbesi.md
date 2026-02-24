@@ -46,7 +46,7 @@ Veysel Karani Türbesi, Osmangazi/Bursa'da bulunmaktadır. Türk mimari özellik
 
 ## Ziyaret Bilgileri
 
-Veysel Karani Türbesi'ni ziyaret etmek, Türk dini tarihinde önemli bir figür olan Veysel Karani'nin hayatını ve mirasını öğrenmek için bir fırsat sunar. Türbeye ulaşım, Osmangazi/Bursa'dan fácilce sağlanabilir. Ziyaretçilere, türbenin bulunduğu bölge hakkında rehberlik hizmetleri sunulmaktadır. Ziyaretçilerin, türbenin tarihi ve dini önemini öğrenmek için birçok olanak bulunmaktadır. Türbe, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir ve ziyaretçilere, Türk dini tarihinde önemli bir yere sahip olan bu mekanın atmosferini yaşamak için bir şans sunar.
+Veysel Karani Türbesi'ni ziyaret etmek, Türk dini tarihinde önemli bir figür olan Veysel Karani'nin hayatını ve mirasını öğrenmek için bir fırsat sunar. Türbeye ulaşım, Osmangazi/Bursa'dan kolayce sağlanabilir. Ziyaretçilere, türbenin bulunduğu bölge hakkında rehberlik hizmetleri sunulmaktadır. Ziyaretçilerin, türbenin tarihi ve dini önemini öğrenmek için birçok olanak bulunmaktadır. Türbe, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir ve ziyaretçilere, Türk dini tarihinde önemli bir yere sahip olan bu mekanın atmosferini yaşamak için bir şans sunar.
 
 ## İlginç Bilgiler
 

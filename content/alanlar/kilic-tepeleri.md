@@ -28,7 +28,7 @@ wikidata_id: "Q32211131"
 
 # Kılıç Tepeleri
 
-Kılıç Tepeleri, Erzurum'un eşsiz doğa güzelliklerinden biridir. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini etkileyen bir manzaraya sahip. 200 futbol sahası büyüklüğünde bir alanı kaplayan Kılıç Tepeleri, doğa severlerin keyif alacağı bir yer. Bu tepeler, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekıyor. Kılıç Tepeleri, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Kılıç Tepeleri, Erzurum'un eşsiz doğa güzelliklerinden biridir. Bu tepeler, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekıyor. Kılıç Tepeleri, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yaban ha
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Avcılar Tepesi","caption":"Avcılar Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avc%C4%B1lar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388980","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin güzel illerinden biri olan Bingöl'de yer alan Avcılar Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Avcılar Tepesi","Bingöl","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388980"
@@ -28,7 +28,7 @@ wikidata_id: "Q31388980"
 
 # Avcılar Tepesi
 
-Avcılar Tepesi, Doğu Anadolu Bölgesi'nin güzel illerinden biri olan Bingöl'de yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yaban hayatı oldukça önemlidir. Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur.
+Avcılar Tepesi, Doğu Anadolu Bölgesi'nin güzel illerinden biri olan Bingöl'de yer alıyor. Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yaban hayatı oldukça önemlidir. Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Avcılar Tepesi'nin tarihi geçmişi oldukça eskidir. Bu tepenin, yüzyıllar b
 
 ## Coğrafya
 
-Avcılar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yaban hayatı oldukça önemlidir. Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur. Tepenin coğrafi yapısı, ziyaretçilerin ilgisini çekiyor. Avcılar Tepesi, Bingöl ilinin en yüksek noktalarından biridir. Tepenin yüksekliği, yaklaşık 2500 metre. Bu yükseklik, ziyaretçilerin bölgeyi panoramik olarak görmesine olanak sağlıyor. Avcılar Tepesi'nin coğrafi konumu, bölgenin iklimini de etkiliyor. Bu bölgede, karasal iklim hüküm sürüyor. Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor.
+Avcılar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yaban hayatı oldukça önemlidir. Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur. Tepenin coğrafi yapısı, ziyaretçilerin ilgisini çekiyor. Avcılar Tepesi, Bingöl ilinin en yüksek noktalarından biridir. Tepenin yüksekliği, yaklaşık 2500 metre. Bu yükseklik, ziyaretçilerin bölgeyi panoramik olarak görmesine olanak sağlıyor. Avcılar Tepesi'nin coğrafi konumu, bölgenin iklimini de etkiliyor. Bu bölgede, karasal iklim hüküm sürüyor. Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor. Tep
 
 ## İlginç Bilgiler
 
-- Avcılar Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur.
 - Tepenin coğrafi yapısı, ziyaretçilerin ilgisini çekiyor.

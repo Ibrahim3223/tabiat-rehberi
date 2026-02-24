@@ -49,6 +49,6 @@ Elincikl Tepe, ziyaretçilerine zengin bir deneyim sunar. Tepeye ulaşmak için,
 ## İlginç Bilgiler
 
 - Elincikl Tepe, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Elincikl Tepe, doğa severler için bir cennet olarak bilinir.
 - Tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi verir.

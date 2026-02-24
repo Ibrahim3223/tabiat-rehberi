@@ -28,7 +28,7 @@ wikidata_id: "Q31386649"
 
 # Fazlı Tepe
 
-Fazlı Tepe, Şanlıurfa'nın tarihi ve kültürel zenginliklerini gözler önüne seren özel bir mekan. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Şanlıurfa'nın merkezine yakın konumuyla kolayca ulaşılabiliyor. Fazlı Tepe, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
+Fazlı Tepe, Şanlıurfa'nın tarihi ve kültürel zenginliklerini gözler önüne seren özel bir mekan. Şanlıurfa'nın merkezine yakın konumuyla kolayca ulaşılabiliyor. Fazlı Tepe, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
 
 ## Tarihçe
 

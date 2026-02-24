@@ -29,7 +29,7 @@ wikidata_id: "Q133475499"
 
 # Yıldız Sarayı Silahhane
 
-Yıldız Sarayı Silahhane, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir plajdır. Beşiktaş'ta bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kapsar. Yıldız Sarayı Silahhane, İstanbul'un en önemli tarihi mekanlarından biridir. Bu plaj, Marmara Denizi'nin kıyısında yer alır ve ziyaretçilerine güzel bir manzara sunar. Yıldız Sarayı Silahhane, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir.
+Yıldız Sarayı Silahhane, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir plajdır. Yıldız Sarayı Silahhane, İstanbul'un en önemli tarihi mekanlarından biridir. Bu plaj, Marmara Denizi'nin kıyısında yer alır ve ziyaretçilerine güzel bir manzara sunar. Yıldız Sarayı Silahhane, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Sarayı Silahhane'nin tarihi geçmişi, Osmanlı İmparatorluğu dönem
 
 ## Coğrafya
 
-Yıldız Sarayı Silahhane, Beşiktaş'ta yer alan bir plajdır. Bu plaj, Marmara Denizi'nin kıyısında yer alır ve yaklaşık 140 hektarlık bir alanı kapsar. Yıldız Sarayı Silahhane, İstanbul'un en önemli coğrafi mekanlarından biridir. Bu plaj, doğal güzellikleri ile ziyaretçilerini çekmektedir. Yıldız Sarayı Silahhane'nin etrafında, çeşitli bitki türleri yer alır. Bu bitki türleri, plajın doğal güzelliklerini zenginleştirmektedir. Yıldız Sarayı Silahhane, İstanbul'un coğrafi çeşitliliğini gösteren önemli bir mekandır. Bu plaj, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Yıldız Sarayı Silahhane, ziyaretçilerine güzel bir manzara sunar ve İstanbul'un coğrafi güzelliklerini keşfetme imkanı sağlar.
+Yıldız Sarayı Silahhane, Beşiktaş'ta yer alan bir plajdır. Yıldız Sarayı Silahhane, İstanbul'un en önemli coğrafi mekanlarından biridir. Bu plaj, doğal güzellikleri ile ziyaretçilerini çekmektedir. Yıldız Sarayı Silahhane'nin etrafında, çeşitli bitki türleri yer alır. Bu bitki türleri, plajın doğal güzelliklerini zenginleştirmektedir. Yıldız Sarayı Silahhane, İstanbul'un coğrafi çeşitliliğini gösteren önemli bir mekandır. Bu plaj, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Yıldız Sarayı Silahhane, ziyaretçilerine güzel bir manzara sunar ve İstanbul'un coğrafi güzelliklerini keşfetme imkanı sağlar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Yıldız Sarayı Silahhane, ziyaretçilerine çeşitli olanaklar sunar. Bu plaj,
 - Yıldız Sarayı Silahhane, Osmanlı İmparatorluğu döneminde inşa edilmiştir
 - Bu plaj, İstanbul'un en önemli tarihi mekanlarından biridir
 - Yıldız Sarayı Silahhane, Marmara Denizi'nin kıyısında yer alır
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar
+
 - Yıldız Sarayı Silahhane, çeşitli bitki türleri ile zengin bir flora sahiptir

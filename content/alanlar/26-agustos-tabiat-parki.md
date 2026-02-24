@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşleri","Piknik","Kuş İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/26%20August%20Nature%20Park.jpg","alt":"26 Ağustos Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bolu_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_A%C4%9Fustos_2024_03.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_A%C4%9Fustos_2024_03.jpg","alt":"26 Ağustos Tabiat Parkı","caption":"26 Ağustos Tabiat Parkı","credit":"Bolu Gölcük Tabiat Parkı Ağustos 2024 03","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dd/26_August_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/26_August_Nature_Park.jpg/1280px-26_August_Nature_Park.jpg","alt":"26 Ağustos Tabiat Parkı - 26 August Nature Park","credit":"Mustafacetin03","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Bolu_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_A%C4%9Fustos_2024_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bolu_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_A%C4%9Fustos_2024_03.jpg/1280px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_A%C4%9Fustos_2024_03.jpg","alt":"26 Ağustos Tabiat Parkı - Bolu Gölcük Tabiat Parkı Ağustos 2024 03","credit":"Sezenkerem","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/T%C3%9CRK%C4%B0YE_%C4%B0%C5%9E_BANKASI_M%C3%9CZES%C4%B0.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/T%C3%9CRK%C4%B0YE_%C4%B0%C5%9E_BANKASI_M%C3%9CZES%C4%B0.jpg/1280px-T%C3%9CRK%C4%B0YE_%C4%B0%C5%9E_BANKASI_M%C3%9CZES%C4%B0.jpg","alt":"26 Ağustos Tabiat Parkı - TÜRKİYE İŞ BANKASI MÜZESİ","credit":"Uğurgüler06","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dd/Aziziye_Tabyas%C4%B1_Toplar_ve_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aziziye_Tabyas%C4%B1_Toplar_ve_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg/1280px-Aziziye_Tabyas%C4%B1_Toplar_ve_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg","alt":"26 Ağustos Tabiat Parkı - Aziziye Tabyası Toplar ve Şehitler Anıtı","credit":"Eğitmen Mahmut at Turkish Wikipedia","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Zafer_Y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC_1922.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Zafer_Y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC_1922.png/1280px-Zafer_Y%C3%BCr%C3%BCy%C3%BC%C5%9F%C3%BC_1922.png","alt":"26 Ağustos Tabiat Parkı - Zafer Yürüyüşü 1922","credit":"Aynamahruti","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/26%20A%C4%9Fustos%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110422209","tip":"genel"}]
-description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Sinanpaşa/Afyonkarahisar'da yer alan 26 Ağustos Tabiat Parkı, 140 hektarlık alanı ile doğa severleri bekliyor."
+description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Tabiat Parkı","Ege Bölgesi","Sinanpaşa","Afyonkarahisar","Doğa","Yeşil Alan","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q110422209"
@@ -30,7 +30,7 @@ wikidata_id: "Q110422209"
 
 # 26 Ağustos Tabiat Parkı
 
-26 Ağustos Tabiat Parkı, Ege Bölgesi'nin kalbinde, Sinanpaşa/Afyonkarahisar'da yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Parkın içerisinde çeşitli değil, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. 26 Ağustos Tabiat Parkı, hem doğa yürüyüşleri hem de piknik için ideal bir destinasyon olarak dikkat çekiyor. Burada, şehrin gürültüsünden uzaklaşarak, doğanın sesine kula verebilir ve güzel anılar yaratabilirsiniz.
+ Parkın içerisinde çeşitli değil, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. 26 Ağustos Tabiat Parkı, hem doğa yürüyüşleri hem de piknik için ideal bir destinasyon olarak dikkat çekiyor. Burada, şehrin gürültüsünden uzaklaşarak, doğanın sesine kula verebilir ve güzel anılar yaratabilirsiniz.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ wikidata_id: "Q110422209"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
 - Variası değil, çeşitli bitki türleri
 - Zengin fauna
 - Yürüyüş yolları ve patikalar

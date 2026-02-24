@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kampçılık","doğa fotoğrafçılığı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Isparta-Egirdir Karacam","caption":"Isparta-Egirdir Karacam","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egirdir%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227506","tip":"genel"}]
-description: "Isparta'nın doğal güzelliklerini keşfedin. Egirdir Karacam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Isparta'nın doğal güzelliklerini keşfedin."
 keywords: ["Isparta","Egirdir","Karacam","doğa","yeşil","alan","futbol","sahası"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227506"

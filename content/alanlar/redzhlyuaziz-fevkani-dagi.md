@@ -36,7 +36,7 @@ Redzhlyuaziz-Fevkani Dağı, yüzyıllar boyunca bölgenin coğrafi ve kültüre
 
 ## Coğrafya
 
-Redzhlyuaziz-Fevkani Dağı, İç Anadolu Bölgesi'nin coğrafi yapısını önemli ölçüde etkileyen bir oluşumdur. Dağın konumu, bölgenin iklimini ve coğrafi özelliklerini belirlemede önemli bir rol oynar. Redzhlyuaziz-Fevkani Dağı, yaklaşık 140 hektarlık bir alanı kaplar ve yüksekliği, bölgenin coğrafi çeşitliliğini artırır. Dağın eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini korur. Redzhlyuaziz-Fevkani Dağı, aynı zamanda bölgenin su kaynaklarını düzenlemede bir rol oynar ve bu sayede, bölgenin tarımsal faaliyetleri için gerekli suyun sağlanmasına katkıda bulunur.
+Redzhlyuaziz-Fevkani Dağı, İç Anadolu Bölgesi'nin coğrafi yapısını önemli ölçüde etkileyen bir oluşumdur. Dağın konumu, bölgenin iklimini ve coğrafi özelliklerini belirlemede önemli bir rol oynar. Dağın eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini korur. Redzhlyuaziz-Fevkani Dağı, aynı zamanda bölgenin su kaynaklarını düzenlemede bir rol oynar ve bu sayede, bölgenin tarımsal faaliyetleri için gerekli suyun sağlanmasına katkıda bulunur.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Redzhlyuaziz-Fevkani Dağı, ziyaretçilerine önemli bir doğa mirası sunar. D
 
 ## İlginç Bilgiler
 
-- Redzhlyuaziz-Fevkani Dağı, yaklaşık 140 hektarlık bir alanı kaplar.
 - Dağın yüksekliği, bölgenin coğrafi çeşitliliğini artırır.
 - Redzhlyuaziz-Fevkani Dağı, önemli bir kuş göç yolu üzerinde bulunur.
 - Dağın flora ve faunası, bölgenin ekolojik zenginliğini gösterir.

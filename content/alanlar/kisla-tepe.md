@@ -49,7 +49,7 @@ Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaş�
 ## İlginç Bilgiler
 
 - Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri
-- Kışla Tepe, yaklaşık 140 hektarlık alan
+
 - Kışla Tepe, yüksek bir konumda
 - Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta
 - Kışla Tepe, ziyaretçilerine güzel manzaralar sunar

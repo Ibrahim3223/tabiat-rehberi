@@ -51,6 +51,6 @@ Yıldız Dede Hamamı, özellikle yaz aylarında plaj olarak tercih edilir. Bu m
 
 - Yıldız Dede Hamamı, tarihi bir hamam ve plaj olarak bilinir
 - Bu mekan, Marmara Bölgesi'nin önemli bir turizm merkezlerinden biridir
-- Yıldız Dede Hamamı, yaklaşık 140 hektarlık bir alanı kapsar
+
 - Bu mekan, yılın her dönemi ziyaret edilebilir
 - Yıldız Dede Hamamı, flora ve fauna açısından zengin bir alandır

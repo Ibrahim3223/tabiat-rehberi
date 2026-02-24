@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Üçköy Tepesi","caption":"Üçköy Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7k%C3%B6y%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810130","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin, 140 hektarlık yeşil alan, Karadeniz Bölgesi'nin wichtığı"
+
 keywords: ["Kastamonu","Karadeniz Bölgesi","Üçköy Tepesi","doğa","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34810130"

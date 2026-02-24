@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","tarihî kalıntıları keşfetme","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Tülce Tepesi","caption":"Tülce Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BClce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34816132","tip":"genel"}]
-description: "Kahramanmaraş'ın doğal güzelliklerinden biri olan Tülce Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kahramanmaraş'ın doğal güzelliklerinden biri olan Tülce Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor."
 keywords: ["Tülce Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğa","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34816132"
@@ -47,8 +47,6 @@ Tülce Tepesi, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikka
 Tülce Tepesi'ni ziyaret etmek, doğa severler ve tarihi merak edenler için bir fırsat. Ziyaretçiler, bu bölgeye ulaşmak için çeşitli ulaşım seçeneklerini kullanabilirler. Tülce Tepesi'ne gitmek için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu mevsimlerde, ziyaretçiler, doğanın güzelliğini ve tarihi kalıntıları daha iyi keşfedebilirler. Ziyaret süresi, ziyaretçilerin ilgi alanlarına göre değişebilir. Ancak, genel olarak, Tülce Tepesi'ni ziyaret etmek için en az yarım gün ayırmanız önerilir. Ziyaretçiler, bu bölgeyi keşfetmek için yürüyüş yapabilir, tarihi kalıntıları inceleyebilir ve doğanın güzelliğini seyrederek, bu experiencia'yı yaşamaya değer bulabilirler.
 
 ## İlginç Bilgiler
-
-- Tülce Tepesi, 140 hektarlık bir alana sahiptir.
 
 - Tülce Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölgedir.
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.

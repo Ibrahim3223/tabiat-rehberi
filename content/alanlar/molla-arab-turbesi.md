@@ -21,7 +21,7 @@ aktiviteler: ["tarihleme","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Molla Arab Türbesi","caption":"Molla Arab Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Molla%20Arab%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390741","tip":"genel"}]
-description: "Molla Arab Türbesi, Bursa'nın Yıldırım ilçesinde yer alan tarihi bir mekan. 140 hektarlık bir alan üzerinde kurulmuştur."
+description: "Molla Arab Türbesi, Bursa'nın Yıldırım ilçesinde yer alan tarihi bir mekan."
 keywords: ["Molla Arab Türbesi","Bursa","Yıldırım","tarih","türbe","molla","arab","molla arab"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390741"
@@ -48,8 +48,6 @@ Molla Arab Türbesi, flora ve fauna açısından zengin bir alandır. Bu mekan, 
 Molla Arab Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini görmek için harika bir fırsat. Bu mekan, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve sonbahar aylarıdır. Molla Arab Türbesi'ne ulaşım kolaydır ve toplu taşıma araçları ile ulaşılabilir. Bu mekan, ziyaretçilerine yaklaşık 2 saatlik bir gezi imkanı sunar. Molla Arab Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle etkileyecek bir mekan.
 
 ## İlginç Bilgiler
-
-- Molla Arab Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur.
 
 - Molla Arab Türbesi, yüzyıllar öncesine dayanan bir tarihe sahiptir.
 - Bu mekan, flora ve fauna açısından zengin bir alandır.

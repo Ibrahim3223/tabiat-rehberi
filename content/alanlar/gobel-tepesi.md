@@ -28,7 +28,7 @@ wikidata_id: "Q34871846"
 
 # Göbel Tepesi
 
-Göbel Tepesi, Çorum'un merkezi bir konumunda yer alan ve bölgeyi kuşbakışı izleyebileceğiniz bir tepedir. Bu 200 futbol sahası büyüklüğünde alan, doğa severlerin ve fotoğraf meraklılarının ilgi odağıdır. Göbel Tepesi'ne tırmanmak, hem bedeni hem de ruhu dinç tutmanın en güzel yollarından biridir. Bu tepe, Çorum'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir noktadır. Göbel Tepesi'ni ziyaret ettiğinizde, Karadeniz Bölgesi'nin muhteşem manzarasını izleyebilir ve bölgenin zengin tarihini keşfedebilirsiniz.
+Göbel Tepesi, Çorum'un merkezi bir konumunda yer alan ve bölgeyi kuşbakışı izleyebileceğiniz bir tepedir. Göbel Tepesi'ne tırmanmak, hem bedeni hem de ruhu dinç tutmanın en güzel yollarından biridir. Bu tepe, Çorum'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir noktadır. Göbel Tepesi'ni ziyaret ettiğinizde, Karadeniz Bölgesi'nin muhteşem manzarasını izleyebilir ve bölgenin zengin tarihini keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Göbel Tepesi'ni ziyaret etmek, Çorum'un tarihi ve kültürel zenginliklerini k
 ## İlginç Bilgiler
 
 - Göbel Tepesi, Çorum'un merkezi bir konumunda yer alır
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Göbel Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır
 - Bu tepe, çeşitli bitki türleri ve ağaçlarla kaplıdır
 - Göbel Tepesi, bölgenin ekolojik dengesini korumak için önemli bir noktadır

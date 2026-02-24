@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık"," pi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Sakarya-Geyve-Tarakli Kızılçam 2","caption":"Sakarya-Geyve-Tarakli Kızılçam 2","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Geyve-Tarakli%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227410","tip":"genel"}]
-description: "Marmara Bölgesi'nin saklı cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Sakarya","Marmara Bölgesi","milli park","Kızılçam","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227410"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227410"
 
 # Sakarya-Geyve-Tarakli Kızılçam 2
 
-Sakarya-Geyve-Tarakli Kızılçam 2 milli parkı, Marmara Bölgesi'nin gözdeleri arasında yer alıyor. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, saklı bir cennete davet ediyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. 140 hektarlık alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dolu. Her mevsim, bu milli parkı ziyaret etmek ayrı bir keyif sunuyor.
+Sakarya-Geyve-Tarakli Kızılçam 2 milli parkı, Marmara Bölgesi'nin gözdeleri arasında yer alıyor. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, saklı bir cennete davet ediyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. Her mevsim, bu milli parkı ziyaret etmek ayrı bir keyif sunuyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Sakarya-Geyve-Tarakli Kızılçam 2 milli parkını ziyaret etmek, doğa severle
 ## İlginç Bilgiler
 
 - Marmara Bölgesi'nin en büyük milli parklarından biri
-- 140 hektarlık yeşil alan
+
 - farklı bitki türleri ve zengin fauna
 - yaban hayatı ile dikkat çekiyor
 - ilkbahar ve sonbahar mevsimlerinde ziyaret etmek öneriliyor

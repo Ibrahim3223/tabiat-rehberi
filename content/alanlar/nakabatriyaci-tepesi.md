@@ -28,7 +28,7 @@ wikidata_id: "Q31543375"
 
 # Nakabatriyaci Tepesi
 
-Diyarbakır'ın güneydoğusunda yer alan Nakabatriyaci Tepesi, şehrin tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Bu tepe, khong 140 hektarlık bir alanı kaplayan geniş bir bölgedir. Nakabatriyaci Tepesi, aynı zamanda Diyarbakır'ın tarihi geçmişine de ışık tutar. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle önemli bir tarihi değer taşımaktadır. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulurlar.
+Diyarbakır'ın güneydoğusunda yer alan Nakabatriyaci Tepesi, şehrin tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Nakabatriyaci Tepesi, aynı zamanda Diyarbakır'ın tarihi geçmişine de ışık tutar. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle önemli bir tarihi değer taşımaktadır. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulurlar.
 
 ## Tarihçe
 

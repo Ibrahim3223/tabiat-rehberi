@@ -37,7 +37,7 @@ Cumalıkızık Hamamı, tarihi geçmişi ile önemli bir kültürel mirastır. O
 
 ## Coğrafya
 
-Cumalıkızık Hamamı, Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Hamam, doğal güzelliği ile dikkat çeker ve ziyaretçilerine geniş bir yeşil alan sunar. Yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile zengin bir floraya sahiptir. Ayrıca, çevredeki dağlar ve ormanlar, ziyaretçilere doğa ile iç içe bir deneyim sunar. İklimi, Marmara Bölgesi'nin karakteristik özelliklerine sahiptir ve dört mevsim farklı güzellikler sunar. Bahar aylarında çiçek açan ağaçlar, yaz aylarında serin ormanlar, sonbahar aylarında renkli yapraklar ve kış aylarında karla kaplı dağlar, her mevsim ziyaretçilere farklı bir güzellik sunar.
+Cumalıkızık Hamamı, Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Hamam, doğal güzelliği ile dikkat çeker ve ziyaretçilerine geniş bir yeşil alan sunar. Ayrıca, çevredeki dağlar ve ormanlar, ziyaretçilere doğa ile iç içe bir deneyim sunar. İklimi, Marmara Bölgesi'nin karakteristik özelliklerine sahiptir ve dört mevsim farklı güzellikler sunar. Bahar aylarında çiçek açan ağaçlar, yaz aylarında serin ormanlar, sonbahar aylarında renkli yapraklar ve kış aylarında karla kaplı dağlar, her mevsim ziyaretçilere farklı bir güzellik sunar.
 
 ## Flora ve Fauna
 

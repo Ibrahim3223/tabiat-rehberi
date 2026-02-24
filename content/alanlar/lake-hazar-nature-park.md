@@ -23,7 +23,7 @@ wikidata_id: "Q112656912"
 
 # Lake Hazar Nature Park
 
-Lake Hazar Nature Park, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık bir alan üzerinde kurulmuş bir doğa harikasıdır. Park, doğa severler için bir cennet olarak düşünülebilir, çünkü burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Göl kenarında yürüyüş yapmak, doğanın seslerini dinleme ve yaban hayatını gözlemlemek için mükemmel bir yerdir.
+ Park, doğa severler için bir cennet olarak düşünülebilir, çünkü burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Göl kenarında yürüyüş yapmak, doğanın seslerini dinleme ve yaban hayatını gözlemlemek için mükemmel bir yerdir.
 
 ## Tarihçe
 

@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Bafa_lake_1.jpg","alt":"Bafa Gölü Tabiat Parkı manzarası","credit":"Mchtbayram","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1.jpg","alt":"Bafa Gölü Tabiat Parkı","caption":"Bafa Gölü Tabiat Parkı","credit":"Bafa Gölü Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d4/Bafa_lake_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bafa_lake_2.jpg/1280px-Bafa_lake_2.jpg","alt":"Bafa Gölü Tabiat Parkı - Bafa lake 2","credit":"Mchtbayram","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/1280px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Bafa Gölü Tabiat Parkı - Bafa Gölü Tabiat Parkı (bilgekorkmaz)","credit":"BilgeKorkmaz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Lake_Bafa_Region.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Bafa_Region.jpg/1280px-Lake_Bafa_Region.jpg","alt":"Bafa Gölü Tabiat Parkı - Lake Bafa Region","credit":"Özge Bekmezci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Bafa%2C_Mugla_20230925_163900.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bafa%2C_Mugla_20230925_163900.jpg/1280px-Bafa%2C_Mugla_20230925_163900.jpg","alt":"Bafa Gölü Tabiat Parkı - Bafa, Mugla 20230925 163900","credit":"Erdalkara","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Bafa%2C_Mugla_20230925_163838.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bafa%2C_Mugla_20230925_163838.jpg/1280px-Bafa%2C_Mugla_20230925_163838.jpg","alt":"Bafa Gölü Tabiat Parkı - Bafa, Mugla 20230925 163838","credit":"Erdalkara","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bafa%20G%C3%B6l%C3%BC%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227125","tip":"genel"}]
-description: "Aydın'da yer alan 140 hektarlık Bafa Gölü Tabiat Parkı, doğa severler için bir cennet"
+
 keywords: ["Bafa Gölü","Tabiat Parkı","Aydın","Ege Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227125"
@@ -43,7 +43,6 @@ Bafa Gölü Tabiat Parkı, ziyaretçilerine çeşitli etkinlik olanakları sunar
 
 ## İlginç Bilgiler
 
-- Bafa Gölü Tabiat Parkı, 140 hektarlık bir alanı kapsar
 - Park, Bafa Gölü'nün güneyinde yer alır
 - Parkın iklimi, Akdeniz ikliminin karakteristik özelliklerini taşır
 - Park, zengin bir flora ve faunaya sahiptir

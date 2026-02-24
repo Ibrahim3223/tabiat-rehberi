@@ -51,6 +51,5 @@ Seyyid Bilal Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini
 
 - Seyyid Bilal Türbesi, Sinop'un önemli dini ve tarihi yapılarından biridir.
 - Bu türbe, yüzyıllar önce inşa edildiği bilinir.
-- Seyyid Bilal Türbesi, 140 hektarlık alan üzerinde yer alır.
 
 - Seyyid Bilal Türbesi, Sinop'un merkezine yakın bir konumda yer alır.

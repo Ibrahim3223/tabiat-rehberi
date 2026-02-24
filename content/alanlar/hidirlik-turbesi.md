@@ -22,8 +22,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c1/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave1.jpg","alt":"Hıdırlık Türbesi manzarası","credit":"Uğur Başak","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave_of_Sheikh.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave_of_Sheikh.jpg/1280px-H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave_of_Sheikh.jpg","alt":"Hıdırlık Türbesi - Hıdırlık Hasan Paşa Türbesi grave of Sheikh","credit":"Uğur Başak","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave_of_H%C4%B1d%C4%B1r.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave_of_H%C4%B1d%C4%B1r.jpg/1280px-H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave_of_H%C4%B1d%C4%B1r.jpg","alt":"Hıdırlık Türbesi - Hıdırlık Hasan Paşa Türbesi grave of Hıdır","credit":"Uğur Başak","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave.jpg/1280px-H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_grave.jpg","alt":"Hıdırlık Türbesi - Hıdırlık Hasan Paşa Türbesi grave","credit":"Uğur Başak","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d8/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_inscription.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_inscription.jpg/1280px-H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi_inscription.jpg","alt":"Hıdırlık Türbesi - Hıdırlık Hasan Paşa Türbesi inscription","credit":"Uğur Başak","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi.jpg/1280px-H%C4%B1d%C4%B1rl%C4%B1k_Hasan_Pa%C5%9Fa_T%C3%BCrbesi.jpg","alt":"Hıdırlık Türbesi - Hıdırlık Hasan Paşa Türbesi","credit":"Uğur Başak","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rl%C4%B1k%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391466","tip":"genel"}]
-description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Ankara","Hıdırlık Türbesi","tarih","doğa","yeşil alan","futbol sahası"]
+description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin.
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391466"
 ---
@@ -51,7 +51,6 @@ Hıdırlık Türbesi, ziyaretçiler için birçok farklı aktivite sunuyor. Bu t
 ## İlginç Bilgiler
 
 - Hıdırlık Türbesi, Ankara'nın tarihi geçmişinin önemli bir parçası
-- Türbenin etrafındaki yeşil alan, 140 hektarlık bir alanı kapsıyor
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Hıdırlık Türbesi, birçok farklı türde bitkiler ve hayvanlar ile dolu
 - Bu alan, mevsimsel değişimlere göre farklı bir güzellik sunuyor

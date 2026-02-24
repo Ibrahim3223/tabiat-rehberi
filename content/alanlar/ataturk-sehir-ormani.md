@@ -43,7 +43,7 @@ Atatürk Şehir Ormanı, ziyaretçilere birçok imkân sunar. Ormanda, yürüyü
 ## İlginç Bilgiler
 
 - Atatürk Şehir Ormanı, İç Anadolu Bölgesi'nin en büyük şehir ormanlarından biridir.
-- Orman, 140 hektarlık bir yeşil alana sahiptir.
+
 - Ormanda, çeşitli ağaç türleri ve zengin fauna bulunmaktadır.
 - Orman, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğindedir.
 - Ormanda, rehberli turlar düzenlenmektedir.

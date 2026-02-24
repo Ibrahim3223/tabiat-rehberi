@@ -14,8 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","kuş gözlemciliği"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Adana-Pozanti Sedir","caption":"Adana-Pozanti Sedir","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pozanti%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227608","tip":"genel"}]
-description: "Akdeniz Bölgesi'nde yer alan Adana-Pozanti Sedir milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Adana-Pozanti Sedir","milli park","Akdeniz Bölgesi","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227608"
 ---
@@ -42,7 +41,6 @@ Adana-Pozanti Sedir milli parkını ziyaret etmek, doğa severler ve tarihi meka
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Milli park, çeşitli bitki türleri ve zengin fauna'ya ev sahipliği yapıyor
 - Milli parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 - Milli park, doğa severler ve tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon

@@ -28,7 +28,7 @@ wikidata_id: "Q31532863"
 
 # Akınkale Tepesi
 
-Akınkale Tepesi, Konya'nın içindedir ve yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, 200 futbol sahası büyüklüğüne eşittir. Akınkale Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar.
+ Akınkale Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar.
 
 ## Tarihçe
 

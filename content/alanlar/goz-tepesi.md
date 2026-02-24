@@ -36,7 +36,7 @@ Göz Tepesi'nin tarihi geçmişi, Siirt ilinin tarihine paralel olara ilerler. B
 
 ## Coğrafya
 
-Göz Tepesi, Siirt ilinin coğrafi yapısını oluşturan önemli bir tepe ve doğal güzellik merkezidir. Bu tepe, bölgenin coğrafi özelliklerini ziyaretçilere sunar. Göz Tepesi'nin coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine olanak tanır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bölgenin en önemli doğal güzelliklerinden biridir. Göz Tepesi, ziyaretçilerini muhteşem manzarasıyla karşılar ve Siirt'in coğrafi güzelliklerini keşfetme fırsatı sunar. Bu tepe, aynı zamanda bölgeye özgü bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi'nin coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine yardımcı olur.
+Göz Tepesi, Siirt ilinin coğrafi yapısını oluşturan önemli bir tepe ve doğal güzellik merkezidir. Bu tepe, bölgenin coğrafi özelliklerini ziyaretçilere sunar. Göz Tepesi'nin coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine olanak tanır. Göz Tepesi, ziyaretçilerini muhteşem manzarasıyla karşılar ve Siirt'in coğrafi güzelliklerini keşfetme fırsatı sunar. Bu tepe, aynı zamanda bölgeye özgü bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi'nin coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine yardımcı olur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Göz Tepesi'ni ziyaret etmek, Siirt'in doğal güzelliklerini ve kültürel zeng
 ## İlginç Bilgiler
 
 - Göz Tepesi, Siirt ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Göz Tepesi, bölgenin flora ve fauna açısından zengin bir alandır.
 - Bu tepe, ziyaretçilerine muhteşem manzarasıyla karşılar.
 - Göz Tepesi, Siirt'in tarihine ve kültürel zenginliklerine ışık tutan önemli bir noktadır.

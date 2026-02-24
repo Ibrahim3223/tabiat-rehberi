@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/AkbabaSultan01.jpg","alt":"Akbaba Sultan manzarası","credit":"Muhsin Kadıoğlu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AkbabaSultan01.jpg/960px-AkbabaSultan01.jpg","alt":"Akbaba Sultan","caption":"Akbaba Sultan","credit":"AkbabaSultan01","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/ce/AkbabaSultan02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AkbabaSultan02.jpg/1280px-AkbabaSultan02.jpg","alt":"Akbaba Sultan - AkbabaSultan02","credit":"Muhsin Kadıoğlu","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbaba%20Sultan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20474511","tip":"genel"}]
 description: "İstanbul'un Beykoz ilçesinde yer alan Akbaba Sultan, Marmara Bölgesi'nin güzide plajlarından biri olarak bilinir."
@@ -51,7 +51,7 @@ Akbaba Sultan Plajı, ziyaretçilerine çeşitli olanaklar sunar. Plajda, denize
 ## İlginç Bilgiler
 
 - Akbaba Sultan Plajı, Marmara Denizi'nin sakin sularına sahiptir.
-- Plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Akbaba Sultan Plajı, ziyaretçilerine geçmişin izlerini taşıyan bir bölge olarak sunulur.
 - Plajın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker.
 - Akbaba Sultan Plajı, coğrafi konumu itibari ile İstanbul'un diğer önemli noktalarına da yakınlık sağlar.

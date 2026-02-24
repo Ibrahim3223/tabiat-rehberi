@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Fauna izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Abdurrahmangazi_Tomb%2C_Erzurum_02.jpg","alt":"ABDURRAHMANGAZİ manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Abdurrahmangazi_Camii_-_Abdurrahmangazi_Mosque.jpg/960px-Abdurrahmangazi_Camii_-_Abdurrahmangazi_Mosque.jpg","alt":"ABDURRAHMANGAZİ","caption":"ABDURRAHMANGAZİ","credit":"Abdurrahmangazi Camii - Abdurrahmangazi Mosque","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/62/Abdurrahmangazi_Mosque%2C_Erzurum_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abdurrahmangazi_Mosque%2C_Erzurum_01.jpg/1280px-Abdurrahmangazi_Mosque%2C_Erzurum_01.jpg","alt":"ABDURRAHMANGAZİ - Abdurrahmangazi Mosque, Erzurum 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Fountain%2C_Abdurrahmangazi_Mosque.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fountain%2C_Abdurrahmangazi_Mosque.jpg/1280px-Fountain%2C_Abdurrahmangazi_Mosque.jpg","alt":"ABDURRAHMANGAZİ - Fountain, Abdurrahmangazi Mosque","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Erzurum_Genel_G%C3%B6r%C3%BCn%C3%BCm_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erzurum_Genel_G%C3%B6r%C3%BCn%C3%BCm_02.jpg/1280px-Erzurum_Genel_G%C3%B6r%C3%BCn%C3%BCm_02.jpg","alt":"ABDURRAHMANGAZİ - Erzurum Genel Görünüm 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/21/Abdurrahmangazi_Camii_-_Abdurrahmangazi_Mosque.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Abdurrahmangazi_Camii_-_Abdurrahmangazi_Mosque.jpg/1280px-Abdurrahmangazi_Camii_-_Abdurrahmangazi_Mosque.jpg","alt":"ABDURRAHMANGAZİ - Abdurrahmangazi Camii - Abdurrahmangazi Mosque","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Erzurum_Genel_G%C3%B6r%C3%BCn%C3%BCm_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erzurum_Genel_G%C3%B6r%C3%BCn%C3%BCm_01.jpg/1280px-Erzurum_Genel_G%C3%B6r%C3%BCn%C3%BCm_01.jpg","alt":"ABDURRAHMANGAZİ - Erzurum Genel Görünüm 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ABDURRAHMANGAZ%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228721","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, zengin fauna ve flora ile büyüleyici bir deneyim sunuyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["ABDURRAHMANGAZİ","İç Anadolu Bölgesi","doğal alan","yeşil alan","fauna","flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228721"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228721"
 
 # ABDURRAHMANGAZİ
 
-İç Anadolu Bölgesi'nin kalbinde yer alan ABDURRAHMANGAZİ, 140 hektarlık geniş bir yeşil alana sahiptir. Doğal güzellikleri ve zengin fauna ile ziyaretçilerini cezbeden bu milli park, aynı zamanda çeşitli bitki türleri ile de dikkat çeker. Ziyaretçiler, bu eşsiz doğa harikasını keşfetmek için yılın her dönemi burayı ziyaret edebilir. İlkbahar ve sonbahar mevsimlerinde, parkın güzelliği daha da artar.
+ Doğal güzellikleri ve zengin fauna ile ziyaretçilerini cezbeden bu milli park, aynı zamanda çeşitli bitki türleri ile de dikkat çeker. Ziyaretçiler, bu eşsiz doğa harikasını keşfetmek için yılın her dönemi burayı ziyaret edebilir. İlkbahar ve sonbahar mevsimlerinde, parkın güzelliği daha da artar.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ ABDURRAHMANGAZİ'yi ziyaret etmek için, ziyaretçiler yılın her dönemi buray
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Zengin fauna ve flora
 - İç Anadolu Bölgesi'nin önemli güzelliklerinden biri
 - Tarihi geçmişi yüzyıllar boyunca şekillenmiştir

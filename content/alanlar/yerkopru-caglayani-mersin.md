@@ -30,7 +30,7 @@ wikidata_id: "Q27929635"
 
 # Yerköprü Çağlayanı (Mersin)
 
-Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğa harikasıdır. Yerköprü Çağlayanı, Mut ilçesinin merkezinden uzun bir mesafe uzaklıkta yer alıyor. Buraya ulaşmak için, Mut'a giden ana yol üzerinde ilerleyerek, sonra çağlayana özel bir yol üzerinden ulaşabilirsiniz. Yerköprü Çağlayanı, özellikle ilkbahar ve yaz aylarında, doğanın tüm renklerini ve güzelliğini sergiliyor.
+ Yerköprü Çağlayanı, Mut ilçesinin merkezinden uzun bir mesafe uzaklıkta yer alıyor. Buraya ulaşmak için, Mut'a giden ana yol üzerinde ilerleyerek, sonra çağlayana özel bir yol üzerinden ulaşabilirsiniz. Yerköprü Çağlayanı, özellikle ilkbahar ve yaz aylarında, doğanın tüm renklerini ve güzelliğini sergiliyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Yerköprü Çağlayanı, ziyaretçilerini, doğanın güzelliği ve tarihi geçm
 ## İlginç Bilgiler
 
 - Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alıyor.
-- Yerköprü Çağlayanı, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Yerköprü Çağlayanı, yüzyıllar boyunca, birçok farklı medeniyete ev sahipliği yapıyor.
 - Yerköprü Çağlayanı, coğrafi olarak, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Yerköprü Çağlayanı, flora ve fauna açısından, oldukça zengin bir alan.

@@ -28,7 +28,7 @@ wikidata_id: "Q31513684"
 
 # Kocayokuş Tepesi
 
-Kocayokuş Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkileyen bir doğal güzellik. 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ilgisini çekiyor. Kocayokuş Tepesi, Ankara'nın şehir merkezine yakın konumu ile kolay ulaşılabilir. Bu tepe, hem doğa yürüyüşleri hem de manzara seyri için ideal bir yer. Kocayokuş Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Bu tepede, doğa yürüyüşleri, fotoğrafçılık ve piknik gibi etkinlikler yapılabiliyor.
+Kocayokuş Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Kocayokuş Tepesi, Ankara'nın şehir merkezine yakın konumu ile kolay ulaşılabilir. Bu tepe, hem doğa yürüyüşleri hem de manzara seyri için ideal bir yer. Kocayokuş Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Bu tepede, doğa yürüyüşleri, fotoğrafçılık ve piknik gibi etkinlikler yapılabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocayokuş Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar bo
 
 ## Coğrafya
 
-Kocayokuş Tepesi, coğrafi konumu ile dikkat çekiyor. Bu tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Kocayokuş Tepesi, çevresindeki diğer tepelerden daha yüksek değil, ancak manzarası ile ziyaretçilerini etkiliyor. Bu tepe, yaklaşık 140 hektarlık alanı ile büyük bir doğal güzellik. Kocayokuş Tepesi, Ankara'nın şehir merkezine yakın konumu ile kolay ulaşılabilir. Bu tepe, çevresindeki diğer doğal güzelliklere de yakın. Kocayokuş Tepesi, ziyaretçilerine çeşitli coğrafi özellikler sunuyor. Bu tepe, ziyaretçilerine doğal güzellikleri ve manzaraları ile zengin bir coğrafi deneyim sunuyor. Kocayokuş Tepesi, coğrafi konumu ile Ankara'nın önemli bir doğal güzelliği.
+Kocayokuş Tepesi, coğrafi konumu ile dikkat çekiyor. Bu tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Kocayokuş Tepesi, çevresindeki diğer tepelerden daha yüksek değil, ancak manzarası ile ziyaretçilerini etkiliyor. Kocayokuş Tepesi, Ankara'nın şehir merkezine yakın konumu ile kolay ulaşılabilir. Bu tepe, çevresindeki diğer doğal güzelliklere de yakın. Kocayokuş Tepesi, ziyaretçilerine çeşitli coğrafi özellikler sunuyor. Bu tepe, ziyaretçilerine doğal güzellikleri ve manzaraları ile zengin bir coğrafi deneyim sunuyor. Kocayokuş Tepesi, coğrafi konumu ile Ankara'nın önemli bir doğal güzelliği.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kocayokuş Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Bu t
 ## İlginç Bilgiler
 
 - Kocayokuş Tepesi, Ankara'nın önemli bir doğal güzelliği.
-- Bu tepe, yaklaşık 140 hektarlık alanı ile büyük bir doğal güzellik.
+
 - Kocayokuş Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunuyor.
 - Bu tepe, Ankara'nın şehir merkezine yakın konumu ile kolay ulaşılabilir.
 - Kocayokuş Tepesi, ziyaretçilerine zengin bir doğa deneyimi sunuyor.

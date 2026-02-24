@@ -42,7 +42,6 @@ Meles Şelalesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim ola
 
 ## İlginç Bilgiler
 
-- Meles Şelalesi, 140 hektarlık bir alanda yer almaktadır.
 - Şelalenin etrafında yer alan ağaçlar ve bitki türleri, bu alanı bir doğa cenneti haline getirmektedir.
 - Meles Şelalesi, bölgede yer alan diğer turistik noktalarla birlikte, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır.
 - Şelalenin yer aldığı bölge, dağlar ve ovalarla çevrili bir coğrafi yapıya sahiptir.

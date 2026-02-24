@@ -50,7 +50,7 @@ Hamam, Değirmencik'i ziyaret etmek, özellikle yaz aylarında idealdir. Bu böl
 ## İlginç Bilgiler
 
 - Hamam, Değirmencik, Marmara Bölgesi'nin en güzel plajlarından biridir
-- Bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur
+
 - Tarihi değirmenler, ziyaretçilerin ilgisini çekmektedir
 - Bölgenin flora ve faunası, coğrafi konum ve iklimin etkisiyle zenginleşmiştir
 - Ziyaretçilere, geniş bir açık alan sunulmaktadır

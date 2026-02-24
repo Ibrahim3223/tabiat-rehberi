@@ -20,7 +20,7 @@ aktiviteler: ["Tepenin zirvesine tırmanmak","Çevreyi gezmek","Isparta şehir m
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Namazgâh Tepesi","caption":"Namazgâh Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Namazg%C3%A2h%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884730","tip":"genel"}]
-description: "Isparta'nın gözde doğal güzelliği Namazgâh Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
+"
 keywords: ["Namazgâh Tepesi","Isparta","Akdeniz Bölgesi","doğal güzellik","yeşil alan","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34884730"
@@ -28,7 +28,7 @@ wikidata_id: "Q34884730"
 
 # Namazgâh Tepesi
 
-Namazgâh Tepesi, Isparta'nın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyüleyen bir doğal güzelliğimizdir. Namazgâh Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini de gözler önüne seren önemli bir noktadır. Tepenin üzerinde bulunan tarihi eserler ve anıtlar, ziyaretçilere şehrin geçmişini anlatan bir kaynak olarak hizmet vermektedir.
+ Namazgâh Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini de gözler önüne seren önemli bir noktadır. Tepenin üzerinde bulunan tarihi eserler ve anıtlar, ziyaretçilere şehrin geçmişini anlatan bir kaynak olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Namazgâh Tepesi, tarihin çeşitli dönemlerinde önemli bir merkez olarak kull
 
 ## Coğrafya
 
-Namazgâh Tepesi, Isparta ilinin merkezinde yer alan bir tepe olup, 140 hektarlık yeşil alanıyla şehrin en önemli doğal güzelliğidir. Tepenin yüksekliği ve konumu, şehrin birçok noktasından görülebilmesini sağlamaktadır. Namazgâh Tepesi, aynı zamanda çevredeki diğer doğal güzelliklere de yakın bir konumda bulunmakta ve bu nedenle ziyaretçilere birçok farklı güzelliği aynı anda keşfetme imkanı sunmaktadır. Tepenin eteklerinde yer alan yerleşim yerleri ve tarihi eserler, ziyaretçilere şehrin tarihini ve kültürünü yakından tanıma fırsatı vermektedir. Akdeniz Bölgesi'nin karakteristik iklimini taşıyan Namazgâh Tepesi, ziyaretçilere dört mevsim boyunca farklı güzellikler sunmaktadır.
+ Tepenin yüksekliği ve konumu, şehrin birçok noktasından görülebilmesini sağlamaktadır. Namazgâh Tepesi, aynı zamanda çevredeki diğer doğal güzelliklere de yakın bir konumda bulunmakta ve bu nedenle ziyaretçilere birçok farklı güzelliği aynı anda keşfetme imkanı sunmaktadır. Tepenin eteklerinde yer alan yerleşim yerleri ve tarihi eserler, ziyaretçilere şehrin tarihini ve kültürünü yakından tanıma fırsatı vermektedir. Akdeniz Bölgesi'nin karakteristik iklimini taşıyan Namazgâh Tepesi, ziyaretçilere dört mevsim boyunca farklı güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 

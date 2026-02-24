@@ -28,7 +28,7 @@ wikidata_id: "Q31538120"
 
 # Domuzdam Tepesi
 
-Hatay ilinin güzide tepelerinden biri olan Domuzdam Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu bitki türleri, tepeye ayrı bir güzellik katıyor. Ayrıca, tepeye tırmananların karşılaştığı manzara, gerçekten büyüleyici.
+ Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu bitki türleri, tepeye ayrı bir güzellik katıyor. Ayrıca, tepeye tırmananların karşılaştığı manzara, gerçekten büyüleyici.
 
 ## Tarihçe
 

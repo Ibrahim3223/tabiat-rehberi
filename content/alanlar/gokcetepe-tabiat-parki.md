@@ -43,7 +43,6 @@ Gökçetepe Tabiat Parkı, ziyaretçilerini her mevsim ağırlamaya hazır. Park
 
 ## İlginç Bilgiler
 
-- Gökçetepe Tabiat Parkı, 140 hektarlık bir alana sahip
 - Parkta, çeşitli bitki türleri ve ağaçlar yetişiyor
 - Bölgenin fauna çeşitliliği de oldukça zengin
 - Park, doğa severler için bir cennet niteliğinde

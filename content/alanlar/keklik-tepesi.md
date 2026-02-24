@@ -28,7 +28,7 @@ wikidata_id: "Q31389720"
 
 # Keklik Tepesi
 
-Keklik Tepesi, Kastamonu'nun dağlıkarithane bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Keklik Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin etrafındaki ormanlar, çeşitli ağaç türleriyle kaplı. Bu tepenin üzerinde, güneş batımı izlemek, doğayı keşfetme ve temiz hava alma mümkün.
+ Keklik Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin etrafındaki ormanlar, çeşitli ağaç türleriyle kaplı. Bu tepenin üzerinde, güneş batımı izlemek, doğayı keşfetme ve temiz hava alma mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Keklik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge
 
 ## Coğrafya
 
-Keklik Tepesi, Kastamonu'nun dağlık bölgesinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin etrafındaki ormanlar, çeşitli ağaç türleriyle kaplı. Bu ormanlar, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı sunuyor. Keklik Tepesi, Karadeniz Bölgesi'nin iklimine sahip. Bu bölge, nemli ve serin bir iklimi nedeniyle, ziyaretçilerine, rahat bir gezi deneyimi sunuyor. Keklik Tepesi, ziyaretçilerine, eşsiz bir manzara sunuyor. Tepenin etrafındaki dağlar, bu manzaranın bir parçası. Bu dağlar, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı sunuyor.
+Keklik Tepesi, Kastamonu'nun dağlık bölgesinde yer alıyor. Tepenin etrafındaki ormanlar, çeşitli ağaç türleriyle kaplı. Bu ormanlar, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı sunuyor. Keklik Tepesi, Karadeniz Bölgesi'nin iklimine sahip. Bu bölge, nemli ve serin bir iklimi nedeniyle, ziyaretçilerine, rahat bir gezi deneyimi sunuyor. Keklik Tepesi, ziyaretçilerine, eşsiz bir manzara sunuyor. Tepenin etrafındaki dağlar, bu manzaranın bir parçası. Bu dağlar, ziyaretçilerine, doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

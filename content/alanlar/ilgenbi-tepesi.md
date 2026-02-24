@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarihî kalıntıları
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"İlgenbi Tepesi","caption":"İlgenbi Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lgenbi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389881","tip":"genel"}]
-description: "Sinop'un doğal güzellikleri arasında yer alan İlgenbi Tepesi, 140 hektarlık alanıyla ziyaretçilerine geniş bir yeşillik sunar."
+"
 keywords: ["İlgenbi Tepesi","Sinop","Karadeniz Bölgesi","doğa","yeşillik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389881"
@@ -47,8 +47,6 @@ wikidata_id: "Q31389881"
 İlgenbi Tepesi'ni ziyaret etmek, doğa severler ve tarihi zenginliklere meraklı olanlar için unutulmaz bir deneyim olabilir. Tepenin etrafında yürüyüş yapabilir, tarihi kalıntıları inceleyebilir ve Karadeniz Bölgesi'nin eşsiz manzarasını seyrederek, bu doğal güzelliği deneyimleyebilirsiniz. İlgenbi Tepesi'ne ulaşım, Sinop il merkezinden araçla yaklaşık 30-40 dakika sürer. Ziyaretçiler, bu bölgede, özellikle ilkbahar ve yaz aylarında, en güzel manzaraları görebilirler.
 
 ## İlginç Bilgiler
-
-- İlgenbi Tepesi, 140 hektarlık bir alana sahiptir.
 
 - İlgenbi Tepesi, Karadeniz Bölgesi'nin eşsiz manzarasını sunar.
 - Bu bölge, tarihi ve kültürel zenginliklere sahiptir.

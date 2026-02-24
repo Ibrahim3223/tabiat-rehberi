@@ -37,7 +37,7 @@ Okçular Köyü Türbesi, tarihi geçmişi ile birlikte, yüzyıllar boyunca ön
 
 ## Coğrafya
 
-Okçular Köyü Türbesi, İç Anadolu Bölgesi'nde yer alan Çubuk ilçesinde bulunmaktadır. Bu bölge, coğrafi olarak 140 hektarlık bir alanı kaplamaktadır. Bölgenin coğrafyası, doğal güzellikleri ile birlikte, tarihi eserlerin bir arada bulunduğu bir mekan olarak dikkat çekmektedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak sağlamaktadır. Bölgenin doğal güzellikleri, ziyaretçilerin ilgisini çekmekte ve onların dikkatini çekmektedir. Bu bölge, coğrafi olarak zengin bir yapıya sahip olup, ziyaretçilerine çeşitli deneyimler sunmaktadır.
+Okçular Köyü Türbesi, İç Anadolu Bölgesi'nde yer alan Çubuk ilçesinde bulunmaktadır. Bölgenin coğrafyası, doğal güzellikleri ile birlikte, tarihi eserlerin bir arada bulunduğu bir mekan olarak dikkat çekmektedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermektedir. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak sağlamaktadır. Bölgenin doğal güzellikleri, ziyaretçilerin ilgisini çekmekte ve onların dikkatini çekmektedir. Bu bölge, coğrafi olarak zengin bir yapıya sahip olup, ziyaretçilerine çeşitli deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -49,7 +49,6 @@ Lale Tepe Höyük, ziyaretçilerini bekleyen bir arkeolojik alandır. Höyüğe 
 
 ## İlginç Bilgiler
 
-- Lale Tepe Höyük, 140 hektarlık bir alanı kaplıyor
 - Höyüğün bulunduğu bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor
 - Lale Tepe Höyük, bölgenin tarihini ve kültürünü yansıtan önemli bir arkeolojik alandır
 - Höyüğün coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkileyen önemli faktörlerden biri olarak dikkat çekiyor

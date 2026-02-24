@@ -50,7 +50,7 @@ Benliler Türbesi, ziyaretçilerini bekliyor. Buraya ulaşmak için, Köyceğiz'
 ## İlginç Bilgiler
 
 - Benliler Türbesi, yüzyıllar boyunca şekillenen bir kültür mirası
-- 140 hektarlık bir yeşil alan üzerinde kurulmuş
+
 - Ege Bölgesi'nin doğal güzelliklerini bir araya getiren özel bir yer
 - çeşitli bitki türleri ve zengin fauna
 - tarih meraklıları için ideal bir yer

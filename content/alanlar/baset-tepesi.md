@@ -28,7 +28,7 @@ wikidata_id: "Q21210152"
 
 # Başet Tepesi
 
-Başet Tepesi, Doğu Anadolu Bölgesi'nin Van şehrinde bulunan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alanın içinde yer alır. Başet Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir mekan olarak bilinir. Tepenin etrafında yer alan dağlar ve vadiler, ziyaretçilerin keşfetmek için heyecan verici bir ortam sağlar. Başet Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyondur.
+Başet Tepesi, Doğu Anadolu Bölgesi'nin Van şehrinde bulunan bir doğa harikasıdır. Başet Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir mekan olarak bilinir. Tepenin etrafında yer alan dağlar ve vadiler, ziyaretçilerin keşfetmek için heyecan verici bir ortam sağlar. Başet Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

@@ -48,8 +48,6 @@ Til Tepesi'ni ziyaret etmek, doğa severler için bir rüya harika bir deneyim. 
 
 ## İlginç Bilgiler
 
-- Til Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
-
 - Til Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrili.
 - Til Tepesi, doğa severler için bir cennet olarak kabul edilebilir.
 - Til Tepesi, coğrafi konumu itibariyle, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor.

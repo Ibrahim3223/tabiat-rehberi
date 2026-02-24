@@ -29,7 +29,7 @@ wikidata_id: "Q31388211"
 
 # Şehit Tepesi
 
-Kars ilinin coğrafi ve tarihi açıdan önemli bir noktası olan Şehit Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor ve ilin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehit Tepesi, aynı zamanda tarihsel bir öneme sahip ve ziyaretçilerini bölge hakkında bilgi sahibi olmaya davet ediyor.
+ Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor ve ilin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehit Tepesi, aynı zamanda tarihsel bir öneme sahip ve ziyaretçilerini bölge hakkında bilgi sahibi olmaya davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kars ilinin coğrafi ve tarihi açıdan önemli bir noktası olan Şehit Tepesi,
 
 ## Coğrafya
 
-Şehit Tepesi, Kars ilinin coğrafi açıdan önemli bir bölgesinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir görüş açısı sunuyor. Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor ve ilin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehit Tepesi, aynı zamanda coğrafi açıdan önemli bir nokta ve ziyaretçilerine bölgenin doğasını keşfetme fırsatı sunuyor. Bölge, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilerini güzelliklerle baş başa bırakıyor. Şehit Tepesi, Kars ilinin coğrafi açıdan önemli bir noktası ve ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin coğrafi yapısı, çeşitli tepeler ve vadilerle dolu ve ziyaretçilerini bir doğa belgeseli içinde gibi hissettiriyor.
+Şehit Tepesi, Kars ilinin coğrafi açıdan önemli bir bölgesinde yer alıyor. Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor ve ilin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehit Tepesi, aynı zamanda coğrafi açıdan önemli bir nokta ve ziyaretçilerine bölgenin doğasını keşfetme fırsatı sunuyor. Bölge, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilerini güzelliklerle baş başa bırakıyor. Şehit Tepesi, Kars ilinin coğrafi açıdan önemli bir noktası ve ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin coğrafi yapısı, çeşitli tepeler ve vadilerle dolu ve ziyaretçilerini bir doğa belgeseli içinde gibi hissettiriyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kars ilinin coğrafi ve tarihi açıdan önemli bir noktası olan Şehit Tepesi,
 ## İlginç Bilgiler
 
 - Şehit Tepesi, Kars ilinin coğrafi ve tarihi açıdan önemli bir noktası
-- Bölge, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor
 - Bölge, çeşitli bitki türleri ve hayvanlarla dolu
 - Şehit Tepesi, tarihsel bir öneme sahip

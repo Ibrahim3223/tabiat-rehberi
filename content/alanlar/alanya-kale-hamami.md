@@ -21,7 +21,7 @@ aktiviteler: ["plajda güneşlenmek","denizde yüzmek","tarihi kale kalıntılar
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Alanya Kale Hamamı","caption":"Alanya Kale Hamamı","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Kale%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738754","tip":"genel"}]
-description: "Alanya'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, yüzyılların geçmişi ve zengin fauna."
+description: "Alanya'nın tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Alanya","Kale Hamamı","tarih","doğa","yeşil alan","flora","fauna","gezi","seyahat","Antalya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738754"
@@ -49,7 +49,6 @@ Alanya Kale Hamamı'na ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunar
 
 ## İlginç Bilgiler
 
-- Alanya Kale Hamamı, 140 hektarlık bir yeşil alan kaplar.
 - Bölge, tarihi kale kalıntıları ile dikkat çeker.
 - Alanya Kale Hamamı, plajının güzelliği ile de bilinir.
 - Bölge, zengin flora ve fauna ile dikkat çeker.

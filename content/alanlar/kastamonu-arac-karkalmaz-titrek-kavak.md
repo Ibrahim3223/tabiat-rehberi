@@ -30,7 +30,7 @@ Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, tarihi geçmişi ile dikkat 
 
 ## Coğrafya
 
-Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Milli park, dağlık bir arazi üzerinde kurulmuş ve çeşitli bitki türleri ile zengin fauna tarafından çevreleniyor. Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, ziyaretçilerine doğanın güzelliğini ve coğrafi çeşitliliğini keşfetme fırsatı sunuyor. Milli parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunuyor. Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Milli parkın coğrafi özellikleri, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor.
+Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Milli park, dağlık bir arazi üzerinde kurulmuş ve çeşitli bitki türleri ile zengin fauna tarafından çevreleniyor. Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, ziyaretçilerine doğanın güzelliğini ve coğrafi çeşitliliğini keşfetme fırsatı sunuyor. Milli parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunuyor. Milli parkın coğrafi özellikleri, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkını ziyaret etmek, doğanın g
 
 ## İlginç Bilgiler
 
-- Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, 140 hektarlık bir alanı kapsıyor
 - Milli park, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor
 - Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, zengin bir flora ve fauna tarafından çevreleniyor
 - Milli park, ziyaretçilerine mevsimsel değişimleri ve ekolojik dengeleri keşfetme fırsatı sunuyor

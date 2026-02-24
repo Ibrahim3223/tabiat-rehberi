@@ -50,7 +50,7 @@ Yalman Dede Türbesi'ni ziyaret etmek, hem tarihe hem de doğaya ilgi duyanlar i
 ## İlginç Bilgiler
 
 - Yalman Dede Türbesi, Mersin'in Silifke ilçesinde yer alıyor
-- Bu mekan, 140 hektarlık bir arazide konumlanıyor
+
 - Yalman Dede Türbesi, tarihin derinliklerine inmek isteyenler için ideal bir destinasyon
 - Bu bölge, flora ve fauna açısından oldukça zengin
 - Yalman Dede Türbesi, Akdeniz'in güzel plajlarına da ev sahipliği yapıyor

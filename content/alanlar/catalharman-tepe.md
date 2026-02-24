@@ -50,6 +50,6 @@ wikidata_id: "Q34828567"
 
 - Çatalharman Tepe, Karaman'ın en yüksek noktalarından birisidir
 - Bu tepe, tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri ile de dikkat çeker
-- Çatalharman Tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyan bir kültürel mirasa sahiptir
 - Çatalharman Tepe, özellikle Selçuklu ve Osmanlı dönemlerinde önemli bir merkez olarak kullanılmıştır

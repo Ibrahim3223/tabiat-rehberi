@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi yerleri ziyaret"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Yüzerlik Tepesi","caption":"Yüzerlik Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCzerlik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822639","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Yüzerlik Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur."
+ Tepenin eteklerinde çeşitli bitki türleri bulunur."
 keywords: ["Yüzerlik Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34822639"
@@ -48,7 +48,6 @@ Yüzerlik Tepesi'ni ziyaret etmek, doğa severler ve tarihe meraklı olanlar iç
 
 ## İlginç Bilgiler
 
-- Yüzerlik Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
 - Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın bir parçası olma fırsatı sunar.
 
 - Tepenin çevresinde bulunan dağlar ve ovalar, bölgenin coğrafi çeşitliliğini yansıtır.

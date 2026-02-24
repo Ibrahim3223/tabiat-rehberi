@@ -20,7 +20,7 @@ aktiviteler: ["kaplıca ziyaretleri","doğa yürüyüşleri","kuş gözlemciliğ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg/960px-The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg","alt":"Haymana Ilıcası","caption":"Haymana Ilıcası","credit":"The travertines from a distance- the people look like ants! (16124352159)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haymana%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741921","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Haymana Ilıcası, 140 hektarlık bir alana yayılmış termal bir kaynak"
+
 keywords: ["Haymana Ilıcası","termal kaynak","Ankara","İç Anadolu Bölgesi","turizm","sağlık turizmi","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49741921"
@@ -28,7 +28,7 @@ wikidata_id: "Q49741921"
 
 # Haymana Ilıcası
 
-Haymana Ilıcası, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir alana yayılmış termal bir kaynak. Haymana Ilıcası, sağlık turizmi açısından önemli bir merkez olarak dikkat çekiyor. Termal suların tedavi edici özellikleri, bu bölgeyi ziyaret edenler için büyük bir çekim noktası oluşturuyor. Ilıcanın bulunduğu bölge, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Çevre, çeşitli bitki türleriyle kaplı ve bu atmosfer, ziyaretçilere huzur verici bir ortam sunuyor.
+ Haymana Ilıcası, sağlık turizmi açısından önemli bir merkez olarak dikkat çekiyor. Termal suların tedavi edici özellikleri, bu bölgeyi ziyaret edenler için büyük bir çekim noktası oluşturuyor. Ilıcanın bulunduğu bölge, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Çevre, çeşitli bitki türleriyle kaplı ve bu atmosfer, ziyaretçilere huzur verici bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -48,8 +48,7 @@ Haymana Ilıcası, ziyaretçilere birçok aktivite sunuyor. Bu bölgede, termal 
 
 ## İlginç Bilgiler
 
-- Haymana Ilıcası, 140 hektarlık bir alana yayılmış termal bir kaynak
 - Bölge, çeşitli bitki türleriyle kaplı ve doğal güzelliği ile dikkat çekiyor
 - Haymana Ilıcası, sağlık turizmi açısından önemli bir merkez olarak kabul ediliyor
 - Bölge, Ankara şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor
-- Ilıcanın bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde
+

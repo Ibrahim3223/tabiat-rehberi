@@ -14,8 +14,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","bitki gözlemi","hayvan gözl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Istanbul Demirkoy Bulanikdere-Disbudak 2","caption":"Istanbul Demirkoy Bulanikdere-Disbudak 2","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul%20Demirkoy%20Bulanikdere-Disbudak%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228056","tip":"genel"}]
-description: "Istanbul Demirkoy Bulanikdere-Disbudak 2 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Demirkoy","Bulanikdere","Disbudak","milli park","Istanbul","doğa","yeşil alan","futbol sahası"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228056"
 ---
@@ -42,7 +41,6 @@ Istanbul Demirkoy Bulanikdere-Disbudak 2 milli parkını ziyaret etmek, ziyaret�
 
 ## İlginç Bilgiler
 
-- Demirkoy Bulanikdere-Disbudak 2 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın flora ve fauna zenginliği, ziyaretçilerini cezbeden önemli bir özelliktir
 - Demirkoy Bulanikdere-Disbudak 2 milli parkı, Istanbul'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor
 - Parkın ziyaret saatleri, ziyaretçilerin planlarını yapmasına olanak tanıyor

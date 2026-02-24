@@ -23,7 +23,7 @@ wikidata_id: "Q108228657"
 
 # MALTEPE
 
-MALTEPE milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan doğa harikası bir destinasyondur. Parkın büyüklüğü, ziyaretçilere geniş ve çeşitli bir doğa deneyimi sunar. MALTEPE'nin konumu, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunar. Parkın girişinden itibaren, ziyaretçiler doğanın seslerini duyup, güneşin ışığını hissetmeye başlarlar. MALTEPE, ziyaretçilerine doğa ile iç içe bir deneyim sunar.
+ Parkın büyüklüğü, ziyaretçilere geniş ve çeşitli bir doğa deneyimi sunar. MALTEPE'nin konumu, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunar. Parkın girişinden itibaren, ziyaretçiler doğanın seslerini duyup, güneşin ışığını hissetmeye başlarlar. MALTEPE, ziyaretçilerine doğa ile iç içe bir deneyim sunar.
 
 ## Tarihçe
 

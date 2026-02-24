@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/7.Belemedik%20Nature%20Park.jpg","alt":"Belemedik Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Belemedik_Tabiat_Park%C4%B1.jpg/960px-Belemedik_Tabiat_Park%C4%B1.jpg","alt":"Belemedik Tabiat Parkı","caption":"Belemedik Tabiat Parkı","credit":"Belemedik Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Belemedik_ve_samanyolu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Belemedik_ve_samanyolu.jpg/1280px-Belemedik_ve_samanyolu.jpg","alt":"Belemedik Tabiat Parkı - Belemedik ve samanyolu","credit":"Fatih YILMAZ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f9/1.Belemedik_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/1.Belemedik_Nature_Park.jpg/1280px-1.Belemedik_Nature_Park.jpg","alt":"Belemedik Tabiat Parkı - 1.Belemedik Nature Park","credit":"MehmetNasuh1949","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2a/7.Belemedik_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/7.Belemedik_Nature_Park.jpg/1280px-7.Belemedik_Nature_Park.jpg","alt":"Belemedik Tabiat Parkı - 7.Belemedik Nature Park","credit":"MehmetNasuh1949","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/08/11.Belemedik_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/11.Belemedik_Nature_Park.jpg/1280px-11.Belemedik_Nature_Park.jpg","alt":"Belemedik Tabiat Parkı - 11.Belemedik Nature Park","credit":"MehmetNasuh1949","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/15.Belemedik_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/15.Belemedik_Nature_Park.jpg/1280px-15.Belemedik_Nature_Park.jpg","alt":"Belemedik Tabiat Parkı - 15.Belemedik Nature Park","credit":"MehmetNasuh1949","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Belemedik%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228467","tip":"genel"}]
-description: "Pozantı, Adana'da yer alan Belemedik Tabiat Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Pozantı","Adana","Tabiat Parkı","Yeşil Alan","Futbol Sahanı","Doğa","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228467"
@@ -50,8 +50,6 @@ Belemedik Tabiat Parkı, ziyaretçilere farklı bir deneyim sunmaktadır. Parka,
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - zengin fauna
 - tarihi geçmişi

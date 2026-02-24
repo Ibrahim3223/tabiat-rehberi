@@ -48,7 +48,6 @@ Ayrıdağ Tepesi'ni ziyaret etmek, doğa severler için bir çekim merkezi olara
 
 ## İlginç Bilgiler
 
-- Ayrıdağ Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Ayrıdağ Tepesi, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün
 - Ayrıdağ Tepesi, coğrafi yapısı ve doğal güzellikleri ile ziyaretçilerini cezbeder
 - Ayrıdağ Tepesi, ilkbahar ve yaz aylarında, yeşilin farklı tonlarını gösterirken, sonbahar ve kış aylarında, farklı bir güzelliğe bürünür

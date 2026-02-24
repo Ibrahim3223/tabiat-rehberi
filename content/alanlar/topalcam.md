@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekmek",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Topalçam","caption":"Topalçam","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topal%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228342","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Topalçam, 140 hektarlık geniş bir alanı kaplıyor."
+"
 keywords: ["Topalçam","İç Anadolu Bölgesi","doğal alan","milli park","turizm","ekoloji","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228342"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228342"
 
 # Topalçam
 
-Topalçam, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli park. Topalçam'ın sunduğu doğal güzellikler, ziyaretçilerini büyülemeye yetiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Topalçam, hem doğaşığı hem de macera severler için ideal bir yer.
+ Topalçam'ın sunduğu doğal güzellikler, ziyaretçilerini büyülemeye yetiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Topalçam, hem doğaşığı hem de macera severler için ideal bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Topalçam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, do
 
 ## Coğrafya
 
-Topalçam, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık alanı, farklı doğa şekilleri ve bitki türleri ile dolu. Burada, dağlar, ormanlar ve otlaklar bir arada bulunuyor. Topalçam'ın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve mevsimsel değişimlere göre şekilleniyor. Topalçam, çevreye duyarlı bir şekilde yönetiliyor ve doğal dengenin korunmasına önem veriliyor. Bu milli park, ziyaretçilerine geniş açık alanlar ve doğal güzellikler sunuyor.
+Topalçam, coğrafi açıdan oldukça zengin bir bölge. Burada, dağlar, ormanlar ve otlaklar bir arada bulunuyor. Topalçam'ın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve mevsimsel değişimlere göre şekilleniyor. Topalçam, çevreye duyarlı bir şekilde yönetiliyor ve doğal dengenin korunmasına önem veriliyor. Bu milli park, ziyaretçilerine geniş açık alanlar ve doğal güzellikler sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Topalçam'ı ziyaret etmek, doğaşığılar için unutulmaz bir deneyim olacak.
 
 ## İlginç Bilgiler
 
-- Topalçam, 140 hektarlık bir alanı kapsıyor.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Topalçam, yılın her mevsiminde ziyaret edilebilir.
 - İlkbahar ve sonbahar, Topalçam'ı ziyaret etmek için en uygun mevsimler.

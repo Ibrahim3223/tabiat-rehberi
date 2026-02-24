@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/DSC_0763-01.jpg","alt":"Kadıpınarı manzarası","credit":"Ahmetyoldas18","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1p%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228193","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği 140 hektarlık alan"
+
 keywords: ["Kadıpınarı","İç Anadolu Bölgesi","doğal alan","milli park","gezi","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228193"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228193"
 
 # Kadıpınarı
 
-Kadıpınarı, İç Anadolu Bölgesi'nin doğal güzelliklerini bir araya getiren 140 hektarlık bir alandır. Doğal güzelliği ve zengin ekosistemi ile dikkat çeken bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Alanın etrafında bulunan tepe ve vadiler, ziyaretçilere doğal bir güzelliğin yanı sıra tarihi bir perspektif de sunmaktadır.
+ Doğal güzelliği ve zengin ekosistemi ile dikkat çeken bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Alanın etrafında bulunan tepe ve vadiler, ziyaretçilere doğal bir güzelliğin yanı sıra tarihi bir perspektif de sunmaktadır.
 
 ## Tarihçe
 
@@ -43,8 +43,6 @@ Kadıpınarı, ziyaretçilere birçok aktivite sunmaktadır. Ziyaretçiler, bu d
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan
-- yaklaşık 200 futbol sahası büyüklüğünde
 - çeşitli bitki türleri
 - zengin fauna
 - tarihi yapılar ve kalıntılar

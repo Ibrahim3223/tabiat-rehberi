@@ -37,7 +37,7 @@ Demirciler Hamamı, tarihi geçmişi ile dikkat çeker. Bu bölge, yüzyıllar b
 
 ## Coğrafya
 
-Demirciler Hamamı, Kocaeli'nin Gebze ilçesinde, Marmara Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi konumu itibariyle İstanbul'a yakın bir konumda yer alır. Demirciler Hamamı, 140 hektarlık bir alanı kaplar ve yaklaşık 1000 metre uzunluğundaki kumsalı ile bilinir. Bu plaj, berrak denizi ve temiz kumsalı ile ünlü bir destinasyondur. Demirciler Hamamı, çevresindeki yeşil alanları ve doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir. Bu bölge, ayrıca çeşitli bitki türleri ve zengin faunası ile dikkat çeker. Demirciler Hamamı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Demirciler Hamamı, Kocaeli'nin Gebze ilçesinde, Marmara Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi konumu itibariyle İstanbul'a yakın bir konumda yer alır. Bu plaj, berrak denizi ve temiz kumsalı ile ünlü bir destinasyondur. Demirciler Hamamı, çevresindeki yeşil alanları ve doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir. Bu bölge, ayrıca çeşitli bitki türleri ve zengin faunası ile dikkat çeker. Demirciler Hamamı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Demirciler Hamamı, visitedenler için çeşitli aktiviteler sunar. Bu plaj, öz
 
 ## İlginç Bilgiler
 
-- Demirciler Hamamı, 140 hektarlık bir alanı kaplar
 - Bu plaj, yaklaşık 1000 metre uzunluğundaki kumsalı ile bilinir
 - Demirciler Hamamı, berrak denizi ve temiz kumsalı ile ünlü bir destinasyondur
 - Bu bölge, özellikle yaz aylarında ziyaretçilerini çeken bir destinasyondur

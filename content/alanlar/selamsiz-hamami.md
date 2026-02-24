@@ -29,7 +29,7 @@ wikidata_id: "Q131739143"
 
 # Selamsız Hamamı
 
-Selamsız Hamamı, Üsküdar'ın güzide bir bölgesinde, yaklaşık 140 hektarlık bir alanı kaplayan, Marmara Denizi'nin sakin ve berrak sularına ev sahipliği yapan bir plajdır. Deniz kenarında yer alan bu plaj, hem güneşin tadını çıkarmak hem de denizin serin sularında serinlemek için idealdir. Selamsız Hamamı, doğal güzelliği ve sunduğu olanaklarla, İstanbul'un önemli turizm noktalarından biri haline gelmiştir.
+ Deniz kenarında yer alan bu plaj, hem güneşin tadını çıkarmak hem de denizin serin sularında serinlemek için idealdir. Selamsız Hamamı, doğal güzelliği ve sunduğu olanaklarla, İstanbul'un önemli turizm noktalarından biri haline gelmiştir.
 
 ## Tarihçe
 

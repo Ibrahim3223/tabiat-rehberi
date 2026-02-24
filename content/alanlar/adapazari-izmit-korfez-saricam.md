@@ -43,7 +43,7 @@ Adapazari-Izmit-Korfez Saricam milli parkını ziyaret etmek, doğaseverler içi
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, doğal kaynakların korunması amacıyla gerçekleştirilmiştir.
-- Milli park, 140 hektarlık bir alanı kaplıyor.
+
 - Burada, çeşitli bitki türleri ve yaban hayvanları ziyaretçileri bekliyor.
 - Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor.
 - Milli park, yaban hayatının korunması için önemli bir alan olarak kabul ediliyor.

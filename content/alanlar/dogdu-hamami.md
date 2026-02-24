@@ -29,7 +29,7 @@ wikidata_id: "Q131739110"
 
 # Doğdu Hamamı
 
-Doğdu Hamamı, Çerkeş'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Doğdu Hamamı, Çerkeş'in en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Doğdu Hamamı'nın etrafı, çeşitli bitki türleri ile kaplıdır ve ziyaretçiler, bu doğa harikasını keşfetmek için buraya gelirler. Ayrıca, Doğdu Hamamı'nın tarihi geçmişi de çok eskidir ve buradaki tarihi eserler, ziyaretçilerin ilgisini çekmektedir.
+ Doğdu Hamamı, Çerkeş'in en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Doğdu Hamamı'nın etrafı, çeşitli bitki türleri ile kaplıdır ve ziyaretçiler, bu doğa harikasını keşfetmek için buraya gelirler. Ayrıca, Doğdu Hamamı'nın tarihi geçmişi de çok eskidir ve buradaki tarihi eserler, ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Doğdu Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu b
 
 ## Coğrafya
 
-Doğdu Hamamı, Çerkeş'in merkezinde yer alan bir vadi içinde bulunmaktadır. Bu vadi, yüksek dağlar ile çevrili ve yaklaşık 140 hektarlık bir alanı kapsamaktadır. Doğdu Hamamı'nın coğrafi konumu, ziyaretçilerin burayı ziyaret etmesini kolaylaştırmaktadır. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Doğdu Hamamı'nın etrafı, ormanlık alanlar ile kaplıdır ve buradaki iklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kuru ve karasal bir iklimdir. Doğdu Hamamı, Çerkeş'in en önemli coğrafi noktalarından biri olarak bilinir ve buradaki doğal güzellikler, ziyaretçilerin ilgisini çekmektedir. Bu bölgede, çeşitli coğrafi oluşumlar da bulunmaktadır. Doğdu Hamamı, bir doğa harikası olarak kabul edilmektedir ve buradaki coğrafi güzellikler, ziyaretçilerin burayı ziyaret etmesini sağlamaktadır.
+Doğdu Hamamı, Çerkeş'in merkezinde yer alan bir vadi içinde bulunmaktadır. Doğdu Hamamı'nın coğrafi konumu, ziyaretçilerin burayı ziyaret etmesini kolaylaştırmaktadır. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Doğdu Hamamı'nın etrafı, ormanlık alanlar ile kaplıdır ve buradaki iklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak kuru ve karasal bir iklimdir. Doğdu Hamamı, Çerkeş'in en önemli coğrafi noktalarından biri olarak bilinir ve buradaki doğal güzellikler, ziyaretçilerin ilgisini çekmektedir. Bu bölgede, çeşitli coğrafi oluşumlar da bulunmaktadır. Doğdu Hamamı, bir doğa harikası olarak kabul edilmektedir ve buradaki coğrafi güzellikler, ziyaretçilerin burayı ziyaret etmesini sağlamaktadır.
 
 ## Flora ve Fauna
 

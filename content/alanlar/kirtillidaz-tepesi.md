@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kırtıllıdaz Tepesi","caption":"Kırtıllıdaz Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rt%C4%B1ll%C4%B1daz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535272","tip":"genel"}]
-description: "Kırtıllıdaz Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kırtıllıdaz Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe."
 keywords: ["Kırtıllıdaz Tepesi","Hatay","Akdeniz Bölgesi","tepe","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31535272"
@@ -48,7 +48,6 @@ Kırtıllıdaz Tepesi, ziyaretçiler için bir çekim merkezi olarak kabul edili
 
 ## İlginç Bilgiler
 
-- Kırtıllıdaz Tepesi, 140 hektarlık bir yeşil alana sahiptir.
 - Tepenin yüksekliği, yaklaşık 500 metredir.
 - Bölgenin iklimi, ılıman ve nemlidir.
 - Kırtıllıdaz Tepesi, ziyaretçiler için bir doğa cenneti olarak kabul ediliyor.

@@ -48,7 +48,6 @@ wikidata_id: "Q34827793"
 
 ## İlginç Bilgiler
 
-- Çakalbayır Tepesi, yaklaşık 140 hektarlık bir alanı kaplar
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 300 metre yukarıdadır
 - Çakalbayır Tepesi, Marmara Denizi'ne uzun bir mesafe uzaklıktadır
 - Tepenin eteklerinde, çeşitli akarsular ve dereler bulunur

@@ -22,7 +22,7 @@ wikidata_id: "Q108227859"
 
 # Balikesir-Bandirma-Susurluk Kızılçam
 
- Bu milli park, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölge, yaban hayatının korunması ve doğanın güzelliğinin korunması açısından önemli bir rol oynuyor.
+ Bu milli park, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölge, yaban hayatının korunması ve doğanın güzelliğinin korunması açısından önemli bir rol oynuyor.
 
 ## Tarihçe
 

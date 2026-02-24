@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","spor"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"TAVUSBABA ŞEHİR ORMANI","caption":"TAVUSBABA ŞEHİR ORMANI","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TAVUSBABA%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228696","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Tavusbaba Şehir Ormanı, yaklaşık 140 hektarlık alanı ile önemli bir yeşillik alanıdır."
+"
 keywords: ["Tavusbaba Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","yeşillik alanı","doğa","orman","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228696"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228696"
 
 # TAVUSBABA ŞEHİR ORMANI
 
-Tavusbaba Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan yaklaşık 140 hektarlık bir yeşil alandır. Orman, çeşitli ağaç türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, ormanda doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir veya spor yapabilir. Tavusbaba Şehir Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+ Orman, çeşitli ağaç türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, ormanda doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir veya spor yapabilir. Tavusbaba Şehir Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tavusbaba Şehir Ormanı, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyunc
 
 ## Coğrafya
 
-Tavusbaba Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve orman ekosisteminin birleştiği bir bölgede yer alır. Orman, yaklaşık 140 hektarlık alanı ile önemli bir yeşil alan olup, bölgenin iklimini ve ekolojisini etkiler. Ormanın coğrafi konumu, bölgede yaşayan çeşitli bitki ve hayvan türleri için uygun bir habitat sağlar. Orman, doğu-batı yönünde uzanan bir vadi içerisinde yer alır ve bu vadi, ormanın coğrafi yapısını etkileyen önemli bir faktördür. Tavusbaba Şehir Ormanı'nın coğrafi konumu, bölgenin doğal güzellikleri ve zengin fauna ile dikkat çeker. Orman, ziyaretçiler için keşfedilecek birçok doğal güzelliğe ve yürüyüş rotasına sahiptir.
+Tavusbaba Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bozkır ve orman ekosisteminin birleştiği bir bölgede yer alır. Ormanın coğrafi konumu, bölgede yaşayan çeşitli bitki ve hayvan türleri için uygun bir habitat sağlar. Orman, doğu-batı yönünde uzanan bir vadi içerisinde yer alır ve bu vadi, ormanın coğrafi yapısını etkileyen önemli bir faktördür. Tavusbaba Şehir Ormanı'nın coğrafi konumu, bölgenin doğal güzellikleri ve zengin fauna ile dikkat çeker. Orman, ziyaretçiler için keşfedilecek birçok doğal güzelliğe ve yürüyüş rotasına sahiptir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Tavusbaba Şehir Ormanı, ziyaretçiler için birçok aktivite sunar. Ziyaretçi
 
 ## İlginç Bilgiler
 
-- Tavusbaba Şehir Ormanı, yaklaşık 140 hektarlık bir yeşil alandır.
 - Orman, çeşitli ağaç türleri ve zengin fauna ile dikkat çeker.
 - Tavusbaba Şehir Ormanı, yüzyıllar boyunca halkın doğa ile iç içe yaşadığı bir alan olarak bilinir.
 - Orman, bölgenin iklimini ve ekolojisini etkiler.

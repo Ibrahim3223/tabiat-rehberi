@@ -28,7 +28,7 @@ wikidata_id: "Q31542721"
 
 # Narıoalbık Tepesi
 
-Narıoalbık Tepesi, Diyarbakır'ın merkeziunda yer alan ve şehrin önemli bir bölümünü kapsayan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve şehrin en yüksek noktalarından biri olarak kabul ediliyor. Tepenin zirvesinden, şehrin ve çevresinin panoramik manzarası izlenebiliyor. Tepenin eteklerinde, tarihi yapılar ve doğal güzellikler bulunuyor. Narıoalbık Tepesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini büyülüyor.
+Narıoalbık Tepesi, Diyarbakır'ın merkeziunda yer alan ve şehrin önemli bir bölümünü kapsayan bir tepe. Tepenin zirvesinden, şehrin ve çevresinin panoramik manzarası izlenebiliyor. Tepenin eteklerinde, tarihi yapılar ve doğal güzellikler bulunuyor. Narıoalbık Tepesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

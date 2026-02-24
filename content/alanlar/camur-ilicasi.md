@@ -29,7 +29,7 @@ wikidata_id: "Q131738527"
 
 # Çamur Ilıcası
 
-Dikili'nin sakin ve güzel bir köşesinde bulunan Çamur Ilıcası, yaklaşık 140 hektarlık bir alanı kaplayan ve doğası ile büyüleyici bir  sunan bir destinasyon. Çamur Ilıcası, şifalı çamurları ve temiz havası ile ziyaretçilerini çekiyor ve onlar için unutulmaz bir deneyim sunuyor. Bu alan, hem sağlık hem de doğa severler için ideal bir nokta.
+ Çamur Ilıcası, şifalı çamurları ve temiz havası ile ziyaretçilerini çekiyor ve onlar için unutulmaz bir deneyim sunuyor. Bu alan, hem sağlık hem de doğa severler için ideal bir nokta.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Dikili'nin sakin ve güzel bir köşesinde bulunan Çamur Ilıcası, yaklaşık 
 
 ## İlginç Bilgiler
 
-- Çamur Ilıcası, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu bölge, Dikili'ye uzun bir mesafe uzaklıktadır.
 - Çamur Ilıcası, şifalı çamurları ile ünlü.
 - Bu bölge, özellikle sağlık ve doğa severler için ideal bir nokta.

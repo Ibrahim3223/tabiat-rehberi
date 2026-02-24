@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"ALLEBEN_TP","caption":"ALLEBEN_TP","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ALLEBEN_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228776","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla doğa severleri bekliyor."
+"
 keywords: ["ALLEBEN_TP","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228776"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228776"
 
 # ALLEBEN_TP
 
- Bu doğa harikasının içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. ALLEBEN_TP, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu geniş alan, ziyaretçilerin doğayla iç içe olmasını sağlıyor. İster yürüyüş yapmak, ister doğa fotoğrafçılığı yapmak, ALLEBEN_TP her türlü doğaaktivitesine ev sahipliği yapıyor.
+ Bu doğa harikasının içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. ALLEBEN_TP, ziyaretçilerini doğanın kucağına davet ediyor. İster yürüyüş yapmak, ister doğa fotoğrafçılığı yapmak, ALLEBEN_TP her türlü doğaaktivitesine ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ ALLEBEN_TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-ALLEBEN_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kuru geçmektedir. ALLEBEN_TP'nin coğrafi konumu, ziyaretçilerin dört mevsim boyunca farklı doğa güzelliklerini deneyimlemesine olanak tanır. İlkbahar ve sonbahar aylarında, bölgenin rengarenk bitki örtüsü, ziyaretçilere unutulmaz manzaralar sunar. Kış aylarında ise, karla kaplı alanlar, ziyaretçilere kaya ve snowboard gibi kış sporları yapma imkanı verir.
+ALLEBEN_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kuru geçmektedir. ALLEBEN_TP'nin coğrafi konumu, ziyaretçilerin dört mevsim boyunca farklı doğa güzelliklerini deneyimlemesine olanak tanır. İlkbahar ve sonbahar aylarında, bölgenin rengarenk bitki örtüsü, ziyaretçilere unutulmaz manzaralar sunar. Kış aylarında ise, karla kaplı alanlar, ziyaretçilere kaya ve snowboard gibi kış sporları yapma imkanı verir.
 
 ## Flora ve Fauna
 
@@ -38,11 +38,10 @@ ALLEBEN_TP, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgede, m
 
 ## Ziyaret Bilgileri
 
-ALLEBEN_TP'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim olabilir. Ziyaretçiler, 140 hektarlık yeşil alanda yürüyüş yapabilir, doğa fotoğrafçılığı yapabilir veya einfach doğanın güzelliklerini izleyebilir. ALLEBEN_TP, ziyaretçilerine, doğal güzellikleri ve tarihsel değerleri sunmaktadır. Ziyaretçiler, bölgenin coğrafi özelliklerini ve iklimini dikkate alarak, ziyaretlerini planlayabilirler.
+ALLEBEN_TP'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim olabilir. ALLEBEN_TP, ziyaretçilerine, doğal güzellikleri ve tarihsel değerleri sunmaktadır. Ziyaretçiler, bölgenin coğrafi özelliklerini ve iklimini dikkate alarak, ziyaretlerini planlayabilirler.
 
 ## İlginç Bilgiler
 
-- ALLEBEN_TP, 140 hektarlık bir yeşil alana sahiptir.
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - ALLEBEN_TP, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir.
 - Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir.

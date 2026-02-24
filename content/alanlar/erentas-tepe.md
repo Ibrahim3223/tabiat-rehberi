@@ -36,7 +36,7 @@ Erentaş Tepe'nin tarihi geçmişi, binlerce yıl öncesine kadar uzanır. Bu b�
 
 ## Coğrafya
 
-Erentaş Tepe, Denizli'nin doğusunda yer alır ve Ege Bölgesi'nin coğrafi özelliklerini taşır. 140 hektarlık alan, Erentaş Tepe'nin geniş bir coğrafi alanı kaplar. Bu bölgede yer alan kaya oluşumları, milyonlarca yıllık bir geçmişe sahiptir. Erentaş Tepe, trekking ve doğa yürüyüşü severler için ideal bir destinasyon olup, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetmek isteyenler için de önemli bir merkez olarak kabul edilir. Erentaş Tepe, ziyaretçilerini büyüleyici manzaralar ve eşsiz doğal güzelliklerle karşılar. Erentaş Tepe'nin coğrafi konumu, ziyaretçilere bu bölgenin güzelliğini ve önemini daha iyi anlamaları için önemli bir fırsat sunar. Erentaş Tepe, Ege Bölgesi'nin en ilginç doğa harikalarından biri olarak dikkat çeker.
+Erentaş Tepe, Denizli'nin doğusunda yer alır ve Ege Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgede yer alan kaya oluşumları, milyonlarca yıllık bir geçmişe sahiptir. Erentaş Tepe, trekking ve doğa yürüyüşü severler için ideal bir destinasyon olup, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetmek isteyenler için de önemli bir merkez olarak kabul edilir. Erentaş Tepe, ziyaretçilerini büyüleyici manzaralar ve eşsiz doğal güzelliklerle karşılar. Erentaş Tepe'nin coğrafi konumu, ziyaretçilere bu bölgenin güzelliğini ve önemini daha iyi anlamaları için önemli bir fırsat sunar. Erentaş Tepe, Ege Bölgesi'nin en ilginç doğa harikalarından biri olarak dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Erentaş Tepe, yılın her döneminde ziyaret edilebilir. Ancak, en iyi ziyaret 
 ## İlginç Bilgiler
 
 - Erentaş Tepe, Ege Bölgesi'nin en ilginç doğa harikalarından biri
-- 140 hektarlık alan
+
 - milyonlarca yıllık kaya oluşumları
 - zengin flora ve fauna çeşitliliği
 - trekking ve doğa yürüyüşü için ideal destinasyon

@@ -50,7 +50,7 @@ Karakamış Türbesi'ni ziyaret etmek, Sakarya ilinin önemli turizm noktaların
 ## İlginç Bilgiler
 
 - Karakamış Türbesi, Sakarya ilinin önemli turizm noktalarından biri.
-- Bu bölge, 140 hektarlık bir alanı kaplıyor.
+
 - Karakamış Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna yaşanıyor.
 - Karakamış Türbesi'ni ziyaret etmek, Sakarya ilinin önemli kültür ve tarih miraslarından birini keşfetmek anlamına geliyor.

@@ -21,7 +21,7 @@ aktiviteler: ["Sergi gezisi","Etkinliklere katılma","Oyun oynama","Bahçe gezis
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Da Vinci Çocuk Müzesi","caption":"Da Vinci Çocuk Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Da%20Vinci%20%C3%87ocuk%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950164","tip":"genel"}]
-description: "Ankara'da çocukların bilim ve sanatla buluştuğu 140 hektarlık yeşil alan"
+
 keywords: ["Da Vinci Çocuk Müzesi","Ankara","İç Anadolu Bölgesi","çocuk müzesi","bilim","sanat","eğitim","eğlence","aile","çocuk"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132950164"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950164"
 
 # Da Vinci Çocuk Müzesi
 
-Da Vinci Çocuk Müzesi, Ankara'nın kalbinde, çocukların bilim ve sanatla buluştuğu 140 hektarlık yeşil bir alan olarak dikkat çekiyor. Müzenin tasarımı, çocukların farklı disiplinleri keşfetmelerine olanak tanır ve burada bilim, sanat, teknoloji ve mühendislik gibi çeşitli alanlar bir araya gelir. Çocukların eğitim ve eğlenceyi bir arada deneyimlemeleri için tasarlanan bu mekan, ailelerin çocuklarıyla birlikte keyifli zaman geçirmeleri için ideal bir destinasyon.
+ Müzenin tasarımı, çocukların farklı disiplinleri keşfetmelerine olanak tanır ve burada bilim, sanat, teknoloji ve mühendislik gibi çeşitli alanlar bir araya gelir. Çocukların eğitim ve eğlenceyi bir arada deneyimlemeleri için tasarlanan bu mekan, ailelerin çocuklarıyla birlikte keyifli zaman geçirmeleri için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Da Vinci Çocuk Müzesi'nin tarihi geçmişi, çocukların eğitim ve gelişimin
 
 ## Coğrafya
 
-Da Vinci Çocuk Müzesi, Ankara'nın merkezi bir bölgesinde, 140 hektarlık geniş bir yeşil alanda yer alır. Bu alan, çocukların açık hava etkinlikleri ve doğayla iç içe olması için tasarlanmıştır. Müzenin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada olup, çevresinde çeşitli bitkiler ve ağaçlar bulunmaktadır. İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, müzenin bahçesi, mevsimsel değişimlere göre düzenlenen bitkiler ve lerle süslenmiştir. Müzenin yapısı, modern ve çocuk dostu bir tasarıma sahip olup, çocukların rahatça dolaşabileceği geniş koridorlar ve salonlara sahiptir. Çevresinde, çocukların oyun oynayabileceği ve açık hava etkinliklerine katılabileceği geniş alanlar mevcuttur. Bu geniş yeşil alan, çocukların doğayı keşfetmelerine ve açık havada oyun oynamalarına olanak tanır.
+ Bu alan, çocukların açık hava etkinlikleri ve doğayla iç içe olması için tasarlanmıştır. Müzenin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada olup, çevresinde çeşitli bitkiler ve ağaçlar bulunmaktadır. İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, müzenin bahçesi, mevsimsel değişimlere göre düzenlenen bitkiler ve lerle süslenmiştir. Müzenin yapısı, modern ve çocuk dostu bir tasarıma sahip olup, çocukların rahatça dolaşabileceği geniş koridorlar ve salonlara sahiptir. Çevresinde, çocukların oyun oynayabileceği ve açık hava etkinliklerine katılabileceği geniş alanlar mevcuttur. Bu geniş yeşil alan, çocukların doğayı keşfetmelerine ve açık havada oyun oynamalarına olanak tanır.
 
 ## Flora ve Fauna
 

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Mağara keşfi","Flora ve fauna gözlemi","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Kaklık Mağarası Sit Alanı","caption":"Kaklık Mağarası Sit Alanı","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kakl%C4%B1k%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226810","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Kaklık Mağarası Sit Alanı, 140 hektarlık geniş bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğal ortam sunar."
+"
 keywords: ["Kaklık Mağarası","İç Anadolu Bölgesi","doğa sit alanı","mağara","turizm","gezi","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226810"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226810"
 
 # Kaklık Mağarası Sit Alanı
 
-Kaklık Mağarası Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. 140 hektarlık bu geniş alan, ziyaretçilere doğayla iç içe bir ortam sunar. Doğal güzellikleri, tarihi geçmişi ve zengin fauna çeşitliliği ile Kaklık Mağarası Sit Alanı, ziyaretçilerini bekleyen bir doğa harikasıdır.
+Kaklık Mağarası Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Doğal güzellikleri, tarihi geçmişi ve zengin fauna çeşitliliği ile Kaklık Mağarası Sit Alanı, ziyaretçilerini bekleyen bir doğa harikasıdır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kaklık Mağarası Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine dayan
 
 ## Coğrafya
 
-Kaklık Mağarası Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık bu geniş alan, çeşitli coğrafi oluşumları ve doğal güzellikleri barındırmaktadır. Mağaranın girişi, ziyaretçilere geniş bir doğal ortam sunar. İç Anadolu Bölgesi'nin iklimi, bu bölgenin coğrafi yapısını ve doğal güzelliklerini etkilemektedir. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı bir iklime sahiptir. Bu iklim koşulları, Kaklık Mağarası Sit Alanı'nın flora ve faunasını şekillendirmiştir. Coğrafi konumu itibariyle, bu sit alanı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Kaklık Mağarası Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Mağaranın girişi, ziyaretçilere geniş bir doğal ortam sunar. İç Anadolu Bölgesi'nin iklimi, bu bölgenin coğrafi yapısını ve doğal güzelliklerini etkilemektedir. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı bir iklime sahiptir. Bu iklim koşulları, Kaklık Mağarası Sit Alanı'nın flora ve faunasını şekillendirmiştir. Coğrafi konumu itibariyle, bu sit alanı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kaklık Mağarası Sit Alanı, ziyaretçilere doğayla iç içe bir ortam sunar.
 
 ## İlginç Bilgiler
 
-- Kaklık Mağarası Sit Alanı, 140 hektarlık bir alanı kapsar.
 - Bu bölge, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir.
 - Kaklık Mağarası, jeolojik süreçlerin bir sonucu olarak oluşmuştur.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.

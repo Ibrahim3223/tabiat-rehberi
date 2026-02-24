@@ -38,7 +38,7 @@ Hüseyin Bey Hamamı'nın tarihi geçmişi, oldukça zengin ve çeşitli olaylar
 
 ## Coğrafya
 
-Hüseyin Bey Hamamı, Kocasinan, Kayseri'de yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi özellikleri gösterir. Step iklimi, soğuk kışlar ve sıcak yazlarla karakterizedir. Hüseyin Bey Hamamı'nın coğrafi konumu, bu iklim koşullarına uygun olarak şekillenmiştir. Burası, doğal güzellikleri ile dikkat çeker. Yaklaşık 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla doludur. Hüseyin Bey Hamamı, çevresindeki yapılar ve tarihi eserler ile birlikte, bir bütün olarak ele alınabilecek bir coğrafi ve kültürel alandır. Bu bölge, ziyaretçilere, doğal güzellikleri ve tarihi yapıları hakkında bilgi verebilecek bir gezi noktası olarak hizmet eder.
+Hüseyin Bey Hamamı, Kocasinan, Kayseri'de yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi özellikleri gösterir. Step iklimi, soğuk kışlar ve sıcak yazlarla karakterizedir. Hüseyin Bey Hamamı'nın coğrafi konumu, bu iklim koşullarına uygun olarak şekillenmiştir. Burası, doğal güzellikleri ile dikkat çeker. Hüseyin Bey Hamamı, çevresindeki yapılar ve tarihi eserler ile birlikte, bir bütün olarak ele alınabilecek bir coğrafi ve kültürel alandır. Bu bölge, ziyaretçilere, doğal güzellikleri ve tarihi yapıları hakkında bilgi verebilecek bir gezi noktası olarak hizmet eder.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Hüseyin Bey Hamamı, ziyaretçilere, tarihi ve doğal güzellikleri hakkında b
 
 ## İlginç Bilgiler
 
-- Hüseyin Bey Hamamı, 140 hektarlık bir alanı kaplar
 - Bu bölge, tarihi ve doğal güzellikleri ile dikkat çeker
 - Hüseyin Bey Hamamı, İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir
 - Bu bölgede, çeşitli bitki ve hayvan türleri bulunur

@@ -43,7 +43,7 @@ Paşaçukuru Şelalesi'ni ziyaret etmek, doğa severler için unutulmaz bir dene
 ## İlginç Bilgiler
 
 - Paşaçukuru Şelalesi, Rize'nin en önemli doğal güzelliklerinden biri
-- Şelale, yaklaşık 140 hektarlık bir alan içinde, 200 futbol sahası büyüklüğünde bir yeşil alanın içinde bulunmaktadır
+
 - Paşaçukuru Şelalesi'nin yüksekliği khong 10 metre civarında
 - Şelalenin yakınında, yürüyüş parkurları ve piknik alanları da bulunmaktadır
 - Paşaçukuru Şelalesi, mevsimsel olarak değişen flora ve faunaya ev sahipliği yapıyor

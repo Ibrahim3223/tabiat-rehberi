@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Manisa-Alaşehir Karacam","caption":"Manisa-Alaşehir Karacam","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa-Ala%C5%9Fehir%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227680","tip":"genel"}]
-description: "Manisa'nın doğal güzellikleri arasında yer alan Karacam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Manisa","Alaşehir","Karacam","Milli Park","Doğa","Turizm","Ege Bölgesi","Yeşil Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227680"
@@ -42,7 +42,6 @@ Manisa-Alaşehir Karacam Milli Parkı, ziyaretçilere birçok olanak sunuyor. Pa
 
 ## İlginç Bilgiler
 
-- Manisa-Alaşehir Karacam Milli Parkı, 140 hektarlık bir alanı kapsıyor
 - Parkın flora ve fauna çeşitliliği oldukça zengin
 - Park, yıl boyunca ziyaret edilebilir
 - Parkın içerisinde, yürüyüş yolları ve piknik alanları gibi tesisler mevcut

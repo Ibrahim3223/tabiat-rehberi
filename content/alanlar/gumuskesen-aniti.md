@@ -52,6 +52,6 @@ Gümüşkesen Anıtı, ziyaretçilerini yılın her döneminde ağırlıyor. An�
 
 - Gümüşkesen Anıtı, Muğla'nın Milas ilçesinde bulunuyor.
 - Anıtın tarihi geçmişi, zengin ve çeşitli.
-- Gümüşkesen Anıtı, 140 hektarlık bir alana sahip.
+
 - Anıtın çevresi, zengin flora ve fauna ile dolu.
 - Gümüşkesen Anıtı, ziyaretçilerine keyif alacağı bir gezi deneyimi vaat ediyor.

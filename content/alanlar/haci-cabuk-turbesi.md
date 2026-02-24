@@ -50,7 +50,7 @@ Hacı Çabuk Türbesi'ni ziyaret etmek, özellikle tarihi ve doğa severler içi
 ## İlginç Bilgiler
 
 - Hacı Çabuk Türbesi, Tokat'ın Niksar ilçesinde yer alıyor
-- Türbe, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor
+
 - Bölge, Karadeniz Bölgesi'nin coğrafi özelliklerine sahip
 - Türbe ve çevresindeki doğa, özellikle ilkbahar ve yaz aylarında ziyaretçilere güzelliklerini sunuyor
 - Bölgede, çeşitli bitki ve hayvan türlerine rastlama mümkün

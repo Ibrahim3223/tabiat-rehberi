@@ -38,7 +38,7 @@ Ekmek Yemez Tekkesi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanı
 
 ## Coğrafya
 
-Ekmek Yemez Tekkesi Türbesi, Üsküdar'da bulunuyor ve Marmara Bölgesi'nin en önemli tarihi noktalarından biri olarak biliniyor. Mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine zengin bir tarihi geçmişi sunuyor. Ekmek Yemez Tekkesi Türbesi, Üsküdar'ın önemli tarihi mekanlarından biri olarak dikkat çekiyor ve ziyaretçilerini bekliyor. Mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor ve ziyaretçilerine tarihi geçmişi ile birlikte coğrafi güzelliğini de sunuyor. Ekmek Yemez Tekkesi Türbesi, Üsküdar'ın en önemli tarihi mekanlarından biri olarak biliniyor ve ziyaretçilerine zengin bir tarihi geçmişi sunuyor.
+Ekmek Yemez Tekkesi Türbesi, Üsküdar'da bulunuyor ve Marmara Bölgesi'nin en önemli tarihi noktalarından biri olarak biliniyor. Ekmek Yemez Tekkesi Türbesi, Üsküdar'ın önemli tarihi mekanlarından biri olarak dikkat çekiyor ve ziyaretçilerini bekliyor. Mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor ve ziyaretçilerine tarihi geçmişi ile birlikte coğrafi güzelliğini de sunuyor. Ekmek Yemez Tekkesi Türbesi, Üsküdar'ın en önemli tarihi mekanlarından biri olarak biliniyor ve ziyaretçilerine zengin bir tarihi geçmişi sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ekmek Yemez Tekkesi Türbesi'ni ziyaret etmek için Üsküdar'a gelmek gerekiyor
 ## İlginç Bilgiler
 
 - Ekmek Yemez Tekkesi Türbesi, Üsküdar'ın en önemli tarihi mekanlarından biri olarak biliniyor.
-- Mekan, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Ekmek Yemez Tekkesi Türbesi, ziyaretçilerine zengin bir tarihi geçmişi sunuyor.
 - Mekan, mevsimsel değişimlere göre ziyaretçilerine farklı bir atmosfer sunuyor.
 - Ekmek Yemez Tekkesi Türbesi, Üsküdar'ın önemli tarihi mekanlarından biri olarak dikkat çekiyor.

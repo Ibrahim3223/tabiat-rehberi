@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Trabzon-Torul-Gunyuzu-Dogu Ladini","caption":"Trabzon-Torul-Gunyuzu-Dogu Ladini","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Torul-Gunyuzu-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228283","tip":"genel"}]
-description: "Trabzon'un Torul ilçesinde yer alan milli park, 140 hektarlık alanı ile doğa severlerin gözdesi"
+
 keywords: ["Trabzon","Torul","Milli Park","Doğa","Gezi","Turizm","Karadeniz","Yeşil","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228283"
@@ -42,7 +42,6 @@ Trabzon-Torul-Gunyuzu-Dogu Ladini milli parkına ziyaretçiler, kolayca ulaşabi
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar
 - Milli park, ziyaretçilerine çeşitli bitki türleri ve zengin fauna sunar
 - Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak bilinir
 - Milli park, ziyaretçilerine keyif alacağı bir yer olarak bilinir ve geniş yeşil alanlar sunar

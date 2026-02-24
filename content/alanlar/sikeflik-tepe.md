@@ -28,7 +28,7 @@ wikidata_id: "Q31386783"
 
 # Şikeflik Tepe
 
-Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepenin yüksekliği ve genişliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Şikeflik Tepe, doğal güzellikleri ve tarihi geçmişiyle birlikte, bölgeye gelen ziyaretçilerin ilgisini çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor.
+Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepenin yüksekliği ve genişliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe, doğal güzellikleri ve tarihi geçmişiyle birlikte, bölgeye gelen ziyaretçilerin ilgisini çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31386783"
 
 ## Coğrafya
 
-Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor. Tepenin iklimi, bölgenin genel iklimine benzer. Şikeflik Tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi experiencing. Tepenin etrafında, çeşitli su kaynakları bulunuyor. Bu su kaynakları, bölgede yaşayan insanların su ihtiyacını karşılamakta önemli bir rol oynuyor.
+Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin yüksekliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor. Tepenin iklimi, bölgenin genel iklimine benzer. Şikeflik Tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklimi experiencing. Tepenin etrafında, çeşitli su kaynakları bulunuyor. Bu su kaynakları, bölgede yaşayan insanların su ihtiyacını karşılamakta önemli bir rol oynuyor.
 
 ## Flora ve Fauna
 

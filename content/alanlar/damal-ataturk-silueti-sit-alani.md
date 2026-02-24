@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Damal Atatürk Silüeti Sit Alanı","caption":"Damal Atatürk Silüeti Sit Alanı","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damal%20Atat%C3%BCrk%20Sil%C3%BCeti%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226259","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Damal Atatürk Silüeti Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsar."
+"
 keywords: ["Damal Atatürk Silüeti","Sit Alanı","İç Anadolu Bölgesi","doğal alan","korunan bölge"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226259"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226259"
 
 # Damal Atatürk Silüeti Sit Alanı
 
-Damal Atatürk Silüeti Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak khong 140 hektarlık bir alanı kapsar. Alanın özel bir özelliği, Atatürk'ün silüetini andıran doğal bir oluşumdur. Bu özellik, sit alanını Türkiye'nin önemli kültürel ve doğal miraslarından biri haline getirir. Ziyaretçiler, bu doğal güzelliği keşfederek hem doğayı hem de kültürel değerleri öğrenme fırsatı bulurlar.
+ Alanın özel bir özelliği, Atatürk'ün silüetini andıran doğal bir oluşumdur. Bu özellik, sit alanını Türkiye'nin önemli kültürel ve doğal miraslarından biri haline getirir. Ziyaretçiler, bu doğal güzelliği keşfederek hem doğayı hem de kültürel değerleri öğrenme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Damal Atatürk Silüeti Sit Alanı'nın tarihi geçmişi, Türkiye'nin kuruluşu
 
 ## Coğrafya
 
-Damal Atatürk Silüeti Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ova gibi düzlükler ile çevredeki dağlarla çevrilidir. Sit alanı, bu coğrafi yapı içinde yaklaşık 140 hektarlık bir alanı kapsar ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini karşılar. Alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu iklim koşulları, sit alanının flora ve faunasını etkileyerek özel bir ekosistem oluşturur. Damal Atatürk Silüeti Sit Alanı, çevresindeki diğer doğal alanlarla birlikte bir bütün olarak ele alındığında, Türkiye'nin önemli coğrafi ve ekolojik bölgelerinden biri olarak dikkat çeker.
+Damal Atatürk Silüeti Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ova gibi düzlükler ile çevredeki dağlarla çevrilidir. Alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu iklim koşulları, sit alanının flora ve faunasını etkileyerek özel bir ekosistem oluşturur. Damal Atatürk Silüeti Sit Alanı, çevresindeki diğer doğal alanlarla birlikte bir bütün olarak ele alındığında, Türkiye'nin önemli coğrafi ve ekolojik bölgelerinden biri olarak dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Damal Atatürk Silüeti Sit Alanı, ziyaretçilerine çeşitli olanaklar sunar. 
 ## İlginç Bilgiler
 
 - Damal Atatürk Silüeti Sit Alanı, Atatürk'ün silüetini andıran doğal bir oluşuma sahiptir.
-- Sit alanı, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Alan, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir.
 - Damal Atatürk Silüeti Sit Alanı, zengin bir flora ve faunaya sahiptir.
 - Sit alanı, yılın her dönemi ziyaret edilebilir.

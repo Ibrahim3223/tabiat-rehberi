@@ -28,7 +28,7 @@ wikidata_id: "Q31386750"
 
 # Girıeşiri Tepesi
 
-Girıeşiri Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Girıeşiri Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor. Girıeşiri Tepesi'ni ziyaret etmek, bu regionun tarihini ve doğasını keşfetmek için mükemmel bir fırsat.
+Girıeşiri Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Girıeşiri Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor. Girıeşiri Tepesi'ni ziyaret etmek, bu regionun tarihini ve doğasını keşfetmek için mükemmel bir fırsat.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Girıeşiri Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Girıeşiri Tepesi, Diyarbakır'ın coğrafi yapısını etkileyen önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekilleniyor. Girıeşiri Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu region, çeşitli coğrafi oluşumları barındırıyor. Tepenin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiliyor. Girıeşiri Tepesi, ziyaretçilerine coğrafi güzelliklerini sunuyor. Tepenin coğrafi özellikleri, ziyaretçilerin bu bölgeyi daha iyi anlamalarına yardımcı oluyor. Girıeşiri Tepesi, coğrafi ve doğal güzelliklerinin birleştiği bir nokta olarak kabul ediliyor.
+Girıeşiri Tepesi, Diyarbakır'ın coğrafi yapısını etkileyen önemli bir nokta. Tepenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekilleniyor. Girıeşiri Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu region, çeşitli coğrafi oluşumları barındırıyor. Tepenin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiliyor. Girıeşiri Tepesi, ziyaretçilerine coğrafi güzelliklerini sunuyor. Tepenin coğrafi özellikleri, ziyaretçilerin bu bölgeyi daha iyi anlamalarına yardımcı oluyor. Girıeşiri Tepesi, coğrafi ve doğal güzelliklerinin birleştiği bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -47,8 +47,6 @@ Girıeşiri Tepesi, çeşitli bitki türleri ve zengin fauna tarafından şekill
 Girıeşiri Tepesi'ni ziyaret etmek, bu regionun tarihini ve doğasını keşfetmek için mükemmel bir fırsat. Bu tepe, ziyaretçilerine coğrafi ve doğal güzelliklerini sunuyor. Girıeşiri Tepesi'ne gitmek için, Diyarbakır'a ulaşmak gerekiyor. Diyarbakır'a ulaştıktan sonra, Girıeşiri Tepesi'ne giden yolları takip etme mümkün. Bu tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Girıeşiri Tepesi'ni ziyaret etmek, bölgenin tarihini ve doğasını daha iyi anlamak için önemli bir adım.
 
 ## İlginç Bilgiler
-
-- Girıeşiri Tepesi, 140 hektarlık bir alanı kapsıyor.
 
 - Girıeşiri Tepesi, bitki türleri ve zengin fauna tarafından şekilleniyor.
 - Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor.

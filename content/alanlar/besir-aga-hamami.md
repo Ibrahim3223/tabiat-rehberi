@@ -29,7 +29,7 @@ wikidata_id: "Q131738955"
 
 # Beşir Ağa Hamamı
 
-Beşir Ağa Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültürel varlık olarak karşımıza çıkıyor. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin zengin tarihi geçmişinin bir parçası olarak görülüyor. 140 hektarlık bir alanı kaplayan hamamın çevresinde, çeşitli tarihi yapılar ve önemli kültürel merkezler yer alıyor. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenerek günümüze ulaşmıştır.
+Beşir Ağa Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültürel varlık olarak karşımıza çıkıyor. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin zengin tarihi geçmişinin bir parçası olarak görülüyor. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenerek günümüze ulaşmıştır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Beşir Ağa Hamamı, ziyaretçilerine önemli bir kültürel deneyim sunuyor. Bu
 ## İlginç Bilgiler
 
 - Beşir Ağa Hamamı, Osmanlı Dönemi'nde inşa edilen önemli yapılar arasında yer alıyor.
-- Hamam, 140 hektarlık bir alanı kaplıyor.
+
 - Hamamın çevresinde, çeşitli tarihi yapılar ve kültürel merkezler yer alıyor.
 - Hamam, uzun yıllardır hizmet vermeye devam ediyor.
 - Hamamın tarihi geçmişi, yüzyıllar boyunca şekillenerek günümüze ulaşmıştır.

@@ -49,7 +49,6 @@ Trebenna Anıt Mezarı 2'yi ziyaret etmek, hem tarihi hem de doğa severler içi
 
 ## İlginç Bilgiler
 
-- Trebenna Anıt Mezarı 2, 140 hektarlık bir alana sahip
 - Tarih öncesi dönemden kalan kalıntılar bulunmuştur
 - Akdeniz'in güzelliğini tüm ihtişamıyla sunuyor
 - Zengin bir flora ve fauna çeşitliliğine sahip

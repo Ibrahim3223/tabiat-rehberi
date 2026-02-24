@@ -37,7 +37,7 @@ Sultaniye Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. T
 
 ## Coğrafya
 
-Sultaniye Kaplıcası, Köyceğiz'in merkezine uzun bir mesafe uzaklıkta bulunuyor. Kaplıca, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olan Muğla'nın, en güzel ilçelerinden biri olan Köyceğiz'de yer alıyor. Kaplıcanın coğrafi konumu, ziyaretçilerine, eşsiz bir doğa manzarası sunuyor. Kaplıca, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulu ve ziyaretçilerine, geniş bir alan sunuyor. Kaplıcanın etrafı, çeşitli ağaçlar ve bitkiler ile çevrili ve ziyaretçilerine, doğanın güzelliğini deneyimleme fırsatı sunuyor. Kaplıcanın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ılıman ve yağışlı olarak geçiyor. Kaplıca, yılın her dönemi ziyaret edilebilir, ancak en uygun ziyaret zamanı, ilkbahar ve sonbahar aylarıdır.
+Sultaniye Kaplıcası, Köyceğiz'in merkezine uzun bir mesafe uzaklıkta bulunuyor. Kaplıca, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olan Muğla'nın, en güzel ilçelerinden biri olan Köyceğiz'de yer alıyor. Kaplıcanın coğrafi konumu, ziyaretçilerine, eşsiz bir doğa manzarası sunuyor. Kaplıcanın etrafı, çeşitli ağaçlar ve bitkiler ile çevrili ve ziyaretçilerine, doğanın güzelliğini deneyimleme fırsatı sunuyor. Kaplıcanın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ılıman ve yağışlı olarak geçiyor. Kaplıca, yılın her dönemi ziyaret edilebilir, ancak en uygun ziyaret zamanı, ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sultaniye Kaplıcası, yılın her dönemi ziyaret edilebilir, ancak en uygun zi
 ## İlginç Bilgiler
 
 - Sultaniye Kaplıcası, yüzyıllar öncesine dayanan bir tarihi geçmişi vardır
-- Kaplıca, 140 hektarlık bir yeşil alan üzerine kurulu
+
 - Kaplıca, zengin bir flora ve fauna çeşitliliğine sahiptir
 - Kaplıca, özellikle ilkbahar aylarında, rengarenk çiçeklerle dolu
 - Kaplıca, kuş gözlemcilerinin favori mekanlarından biri olarak biliniyor

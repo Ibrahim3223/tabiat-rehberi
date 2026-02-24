@@ -48,7 +48,6 @@ Kocakavak Tepe, ziyaretçilere doğal güzelliği ve tarihi değerleriyle dikkat
 
 ## İlginç Bilgiler
 
-- Kocakavak Tepe, yaklaşık 140 hektarlık bir alanı kaplar
 - Tepe, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır
 - Kocakavak Tepe, farklı medeniyetlere ev sahipliği yapmıştır
 - Tepe, flora ve fauna çeşitliliği açısından önemlidir

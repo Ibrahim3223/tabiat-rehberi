@@ -37,7 +37,7 @@ Dümbüldek Dede Türbesi'nin tam tarihi bilinmese de, tarihi geçmişi yüzyıl
 
 ## Coğrafya
 
-Dümbüldek Dede Türbesi, Derince ilçesinde yer almakta ve Marmara Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bölgenin coğrafyası, genellikle engebeli arazilerden oluşmekte ve bu nedenle, ziyaretçiler, farklı coğrafi oluşumları görebilme fırsatı bulmaktadır. Türbe ve çevresinin coğrafi konumu, ziyaretçilere, Marmara Denizi'ne ve çevresindeki dağlara karşı eşsiz manzaralar sunar. Ayrıca, bölgenin iklimi ılımandır ve bu özelliği, ziyaretçilerin yıl boyunca bölgeyi ziyaret etmesini sağlar. Derince'nin coğrafi konumu, bölgenin turizm potansiyelini artırmakta ve ziyaretçilerin, farklı coğrafi oluşumları görebilmesi için önemli bir fırsat sunmaktadır. 140 hektarlık yeşil alan, ziyaretçilere, geniş ve ferah bir ortam sunar ve bu sayede, ziyaretçiler, doğanın güzelliklerinin keyfini çıkarabilirler.
+Dümbüldek Dede Türbesi, Derince ilçesinde yer almakta ve Marmara Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bölgenin coğrafyası, genellikle engebeli arazilerden oluşmekte ve bu nedenle, ziyaretçiler, farklı coğrafi oluşumları görebilme fırsatı bulmaktadır. Türbe ve çevresinin coğrafi konumu, ziyaretçilere, Marmara Denizi'ne ve çevresindeki dağlara karşı eşsiz manzaralar sunar. Ayrıca, bölgenin iklimi ılımandır ve bu özelliği, ziyaretçilerin yıl boyunca bölgeyi ziyaret etmesini sağlar. Derince'nin coğrafi konumu, bölgenin turizm potansiyelini artırmakta ve ziyaretçilerin, farklı coğrafi oluşumları görebilmesi için önemli bir fırsat sunmaktadır.
 
 ## Flora ve Fauna
 

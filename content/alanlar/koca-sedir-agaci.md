@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Koca Sedir Agaci","caption":"Koca Sedir Agaci","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Sedir%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227822","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Koca Sedir Agaci, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor"
+
 keywords: ["Koca Sedir Agaci","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","milli park","sedir ağacı","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227822"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227822"
 
 # Koca Sedir Agaci
 
-Koca Sedir Agaci, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Koca Sedir Agaci, tarihi geçmişi ve doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu milli park, doğa severler için bir cennet ve tarih meraklıları için ise bir hazine.
+ Koca Sedir Agaci, tarihi geçmişi ve doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu milli park, doğa severler için bir cennet ve tarih meraklıları için ise bir hazine.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Koca Sedir Agaci, yıl boyunca ziyaret edilebilir. Ancak, en iyi ziyaret dönemi
 
 ## İlginç Bilgiler
 
-- Koca Sedir Agaci, 140 hektarlık yeşil alanı ile dikkat çekiyor
 - Bu milli park, sedir ağaçları ile ünlü
 - Koca Sedir Agaci, tarihi geçmişi ile önemli bir destinasyon
 - Bu bölge, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahip

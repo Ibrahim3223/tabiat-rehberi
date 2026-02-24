@@ -36,7 +36,7 @@ Kocaçal Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Kocaçal Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe ve çevresiyle birlikte yaklaşık 140 hektarlık bir alanı kapsıyor. Bu bölge, Ankara'nın şehir merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Kocaçal Tepe'nin coğrafyası, geniş otlak alanları, ormanlık bölgeleri ve çeşitli su kaynaklarıyla zengin bir ekosistemi barındırıyor. Bölge, İç Anadolu Bölgesi'nin karakteristik iklimini paylaşarak, kışın soğuk ve kar yağışlı, yazın ise sıcak ve kurak bir hava koşullarına sahip. Ziyaretçiler, bu tepeyi ziyaret ederek, Ankara'nın doğal güzelliklerini ve coğrafi çeşitliliğini keşfedebilirler.
+ Bu bölge, Ankara'nın şehir merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Kocaçal Tepe'nin coğrafyası, geniş otlak alanları, ormanlık bölgeleri ve çeşitli su kaynaklarıyla zengin bir ekosistemi barındırıyor. Bölge, İç Anadolu Bölgesi'nin karakteristik iklimini paylaşarak, kışın soğuk ve kar yağışlı, yazın ise sıcak ve kurak bir hava koşullarına sahip. Ziyaretçiler, bu tepeyi ziyaret ederek, Ankara'nın doğal güzelliklerini ve coğrafi çeşitliliğini keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kocaçal Tepe, ziyaretçilerini dört mevsim boyunca ağırlayan bir bölgedir. 
 ## İlginç Bilgiler
 
 - Kocaçal Tepe, Ankara'nın önemli bir doğal güzelliği
-- Bölge, 140 hektarlık bir alanı kapsıyor
+
 - Kocaçal Tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Bölge, dört mevsim boyunca ziyaret edilebilir
 - Kocaçal Tepe, Ankara'nın şehir merkezine yakın bir konumda yer alıyor

@@ -37,7 +37,7 @@ Ege Bölgesi'nin güzide illerinden Manisa'nın Soma ilçesinde bulunan Çifte H
 
 ## Coğrafya
 
-Çifte Hamam, Manisa'nın Soma ilçesinde yer alır ve Ege Bölgesi'nin turizm haritasında önemli bir yere sahiptir. Bu bölge, geniş bir sahile ve 140 hektarlık yeşil alana sahiptir. Çifte Hamam'ın coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu özel mekan, ziyaretçilerine geniş bir plaj ve yeşilin her tonunu sunar. Çifte Hamam, Ege Bölgesi'nin güzelliklerini ve turizm değerlerini bir araya getiren bir noktadır. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilerine uygun koşullar sağlar. Çifte Hamam'ın coğrafi konumu, ziyaretçilerine geniş bir perspektif sunar.
+Çifte Hamam, Manisa'nın Soma ilçesinde yer alır ve Ege Bölgesi'nin turizm haritasında önemli bir yere sahiptir. Çifte Hamam'ın coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu özel mekan, ziyaretçilerine geniş bir plaj ve yeşilin her tonunu sunar. Çifte Hamam, Ege Bölgesi'nin güzelliklerini ve turizm değerlerini bir araya getiren bir noktadır. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilerine uygun koşullar sağlar. Çifte Hamam'ın coğrafi konumu, ziyaretçilerine geniş bir perspektif sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ege Bölgesi'nin güzide illerinden Manisa'nın Soma ilçesinde bulunan Çifte H
 ## İlginç Bilgiler
 
 - Çifte Hamam, Ege Bölgesi'nin turizm değerlerinden biridir.
-- 140 hektarlık yeşil alan
+
 - Geniş bir sahile sahiptir.
 - Zengin flora ve fauna
 - Tarihi geçmişi

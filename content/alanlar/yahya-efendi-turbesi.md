@@ -51,7 +51,7 @@ Yahya Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güzellikl
 ## İlginç Bilgiler
 
 - Yahya Efendi Türbesi, İstanbul'un en önemli dinî merkezlerinden biridir.
-- Türbe, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Çevresinde çeşitli doğal güzellikler bulunmaktadır.
 - Yahya Efendi Türbesi, yılın her döneminde ziyaret edilebilir.
 - Türbenin tarihi yapısını ve çevresindeki doğal güzellikleri keşfetme mümkündür.

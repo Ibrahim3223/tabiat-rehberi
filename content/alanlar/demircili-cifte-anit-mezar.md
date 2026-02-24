@@ -51,6 +51,5 @@ Demircili Çifte Anıt Mezar, ziyaretçilere, tarihi ve kültürel zenginlikleri
 
 - Demircili Çifte Anıt Mezar, Mersin'in Silifke ilçesinde yer alır.
 - Bu mezarlar, Akdeniz Bölgesi'nin önemli ziyaret noktaları arasında yer alır.
-- 140 hektarlık bir alanı kaplar.
 
 - Tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

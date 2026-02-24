@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotoğrafçılık","Yerel k�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kelsivri Tepesi","caption":"Kelsivri Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelsivri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390684","tip":"genel"}]
-description: "Amasya'da yer alan Kelsivri Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık alanıyla dikkat çeker."
+description: "Amasya'da yer alan Kelsivri Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Kelsivri Tepesi","Amasya","Karadeniz Bölgesi","doğal güzellik","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390684"

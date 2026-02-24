@@ -49,7 +49,7 @@ Karlıdağ Tepesi'ni ziyaret etmek, doğa severler için harika bir deneyim olac
 ## İlginç Bilgiler
 
 - Karlıdağ Tepesi, tarihsel geçmişi ile dikkat çekiyor.
-- Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Karlıdağ Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, doğa severler için ideal bir destinasyon.
 - Karlıdağ Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar ayları.

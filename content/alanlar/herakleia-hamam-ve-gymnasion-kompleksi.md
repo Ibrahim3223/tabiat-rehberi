@@ -29,7 +29,7 @@ wikidata_id: "Q131738862"
 
 # Herakleia Hamam ve Gymnasion Kompleksi
 
-Herakleia Hamam ve Gymnasion Kompleksi, Milas'ta bulunan bir antik site olarak historical bir bölge. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuş ve historical öneme sahip. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kompleks, ziyaretçilerini historical bir yolculuğa çıkarıyor. Historical bir bölge olan bu kompleks, ziyaretçilerine historical bilgileri sunuyor.
+Herakleia Hamam ve Gymnasion Kompleksi, Milas'ta bulunan bir antik site olarak historical bir bölge. Historical bir bölge olan bu kompleks, ziyaretçilerine historical bilgileri sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Herakleia Hamam ve Gymnasion Kompleksi, historical bir geçmişe sahip. Historic
 
 ## Coğrafya
 
-Herakleia Hamam ve Gymnasion Kompleksi, Milas'ta bulunan bir antik site olarak Ege Bölgesi'nde yer alıyor. Bu kompleks, historical bir bölge olarak, 140 hektarlık bir alanda kurulmuş. Historical bir site olarak, bu kompleks historical öneme sahip. Ege Bölgesi'nin historical bir bölgesinde bulunan bu kompleks, ziyaretçilerini historical bir yolculuğa çıkarıyor. Historical bir bölge olarak, bu kompleks historical bilgiler sunuyor. Historical bir site olarak, bu kompleks historical olaylara tanıklık etmiş. Historical bir bölge olarak, bu kompleks historical öneme sahip.
+Herakleia Hamam ve Gymnasion Kompleksi, Milas'ta bulunan bir antik site olarak Ege Bölgesi'nde yer alıyor. Historical bir site olarak, bu kompleks historical öneme sahip. Ege Bölgesi'nin historical bir bölgesinde bulunan bu kompleks, ziyaretçilerini historical bir yolculuğa çıkarıyor. Historical bir bölge olarak, bu kompleks historical bilgiler sunuyor. Historical bir site olarak, bu kompleks historical olaylara tanıklık etmiş. Historical bir bölge olarak, bu kompleks historical öneme sahip.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Herakleia Hamam ve Gymnasion Kompleksi, historical bir bölge olarak, ziyaretçi
 ## İlginç Bilgiler
 
 - Herakleia Hamam ve Gymnasion Kompleksi historical bir site
-- 140 hektarlık bir alanda kurulmuş
+
 - Ege Bölgesi'nde yer alıyor
 - çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor
 - historical öneme sahip

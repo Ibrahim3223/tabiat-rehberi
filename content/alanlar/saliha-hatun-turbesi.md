@@ -37,7 +37,7 @@ Saliha Hatun Türbesi, Aksaray'ın tarihi geçmişinde önemli bir yere sahiptir
 
 ## Coğrafya
 
-Aksaray'ın coğrafi konumu, İç Anadolu Bölgesi'nde yer almaktadır. Saliha Hatun Türbesi, şehrin merkezinde bulunmakta ve etrafında, şehrin tarihi dokusunu yansıtan çeşitli yapılar yer almaktadır. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamakta ve bu alan, şehrin en büyük yeşil alanlarından biridir. Şehrin iklimi, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir. Türbenin coğrafi konumu, Aksaray'ın tarihi ve kültürel zenginliklerini keşfetmek için ideal bir noktadır.
+Aksaray'ın coğrafi konumu, İç Anadolu Bölgesi'nde yer almaktadır. Saliha Hatun Türbesi, şehrin merkezinde bulunmakta ve etrafında, şehrin tarihi dokusunu yansıtan çeşitli yapılar yer almaktadır. Şehrin iklimi, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir. Türbenin coğrafi konumu, Aksaray'ın tarihi ve kültürel zenginliklerini keşfetmek için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Saliha Hatun Türbesi, Aksaray'ı ziyaret edenlerin mutlaka görmesi gereken bir
 - Saliha Hatun Türbesi, Aksaray'ın en önemli tarihi yapılarından biridir.
 - Türbenin inşası, şehrin önemli dini ve kültürel figürlerinin yaşam öykülerine ışık tutmaktadır.
 - Saliha Hatun, Aksaray'ın tarihinde önemli bir figür olarak bilinmektedir.
-- Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamakta ve bu alan, şehrin en büyük yeşil alanlarından biridir.
+
 - Şehrin iklimi, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31547779"
 
 # Ayınmehmet Tepesi
 
-Ayınmehmet Tepesi, Siirt'in yükseltisi olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ayınmehmet Tepesi, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. Kışın karla kaplı, ilkbaharda çiçeklerin dans ettiği, yazın serin ve ferah, sonbaharda ise renk cümbüşü içinde olan bu tepe, her mevsim ziyaretçilerini bekliyor.
+Ayınmehmet Tepesi, Siirt'in yükseltisi olarak dikkat çekiyor. Ayınmehmet Tepesi, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. Kışın karla kaplı, ilkbaharda çiçeklerin dans ettiği, yazın serin ve ferah, sonbaharda ise renk cümbüşü içinde olan bu tepe, her mevsim ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

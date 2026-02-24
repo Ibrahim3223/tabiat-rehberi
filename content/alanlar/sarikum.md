@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Yelkenli%2C_Bozburun%2C_Marmaris_2015.jpg","alt":"Sarikum manzarası","credit":"Hamdigumus","license":"cc0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Bozburun_Da%C4%9F%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bozburun_Da%C4%9F%C4%B1.jpg/1280px-Bozburun_Da%C4%9F%C4%B1.jpg","alt":"Sarikum - Bozburun Dağı","credit":"Huseyinkastan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Marmaris_Bozburun_IMG_2713.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Marmaris_Bozburun_IMG_2713.jpg/1280px-Marmaris_Bozburun_IMG_2713.jpg","alt":"Sarikum - Marmaris Bozburun IMG 2713","credit":"Nurtenarkun","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/de/Sar%C4%B1kum.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sar%C4%B1kum.jpg/1280px-Sar%C4%B1kum.jpg","alt":"Sarikum - Sarıkum","credit":"Minz96","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/10/Bozburun_3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/10/Bozburun_3.jpg","alt":"Sarikum - Bozburun 3","credit":"Dmitry A. Mottl","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Bozburun_4.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Bozburun_4.jpg","alt":"Sarikum - Bozburun 4","credit":"Dmitry A. Mottl","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarikum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227049","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Sarikum, 140 hektarlık bir milli parktır. Zengin flora ve fauna çeşitliliği ile dikkat çeker."
+ Zengin flora ve fauna çeşitliliği ile dikkat çeker."
 keywords: ["Sarikum","milli park","İç Anadolu Bölgesi","flora","fauna","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227049"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227049"
 
 # Sarikum
 
-Sarikum, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık bir milli park olarak yer alır. Sarikum'un zengin historia'sı, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Bu milli park, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyüler. Ziyaretçiler, Sarikum'un sunduğu benzersiz deneyimi yaşamak için burayı tercih ederler.
+ Sarikum'un zengin historia'sı, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Bu milli park, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyüler. Ziyaretçiler, Sarikum'un sunduğu benzersiz deneyimi yaşamak için burayı tercih ederler.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Sarikum'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olabilir. Mi
 
 ## İlginç Bilgiler
 
-- Sarikum, 140 hektarlık bir milli parktır.
 - Bölge, yüzyılların ötesine uzanan bir tarihi geçmişi sahiptir.
 
 - Milli park, doğa severler için önemli bir destinasyondur.

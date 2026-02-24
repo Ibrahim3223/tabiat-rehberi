@@ -48,7 +48,6 @@ Ardıçlık Tepe, ziyaretçilere doğal güzelliği ve tarihi zenginliğiyle dik
 
 ## İlginç Bilgiler
 
-- Ardıçlık Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepe, Karaman ilinin sınırları içerisinde yer alıyor.
 - Ardıçlık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı.
 - Tepe ve çevresinde, zengin fauna çeşitliliği bulunuyor.

@@ -38,7 +38,7 @@ Kesikbaşlar Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu türbenin tarihi 
 
 ## Coğrafya
 
-Kesikbaşlar Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alıyor. Bu bölgenin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Çevresindeki geniş ovalar ve dağlar, bu bölgenin coğrafyasını şekillendiriyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahip ve ziyaretçilere geniş bir gezi alanı sunuyor. Bu geniş alan, ziyaretçilerin doğayı keşfetmesine ve tarihi yapıları incelemesine olanak tanıyor. Kesikbaşlar Türbesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları keşfetme fırsatı sunuyor. İç Anadolu Bölgesi'nin iklim özellikleri, bu bölgede de hakim olup, karasal iklim koşulları görülüyor.
+Kesikbaşlar Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alıyor. Bu bölgenin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Çevresindeki geniş ovalar ve dağlar, bu bölgenin coğrafyasını şekillendiriyor. Bu geniş alan, ziyaretçilerin doğayı keşfetmesine ve tarihi yapıları incelemesine olanak tanıyor. Kesikbaşlar Türbesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları keşfetme fırsatı sunuyor. İç Anadolu Bölgesi'nin iklim özellikleri, bu bölgede de hakim olup, karasal iklim koşulları görülüyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kesikbaşlar Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri keşfetme
 ## İlginç Bilgiler
 
 - Kesikbaşlar Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alıyor.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahip.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna dikkat çekiyor.
 - Kesikbaşlar Türbesi, yılın her döneminde ziyaret edilebilir.
 - Türbenin tarihi geçmişi, ziyaretçilere bu bölge hakkında derinlemesine bilgi edinme fırsatı sunuyor.

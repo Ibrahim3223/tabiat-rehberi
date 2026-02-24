@@ -36,7 +36,7 @@ Dikme Tepesi'nin tarihi geçmişi, Sivas'ın tarihinde önemli bir yer tutar. Bu
 
 ## Coğrafya
 
-Dikme Tepesi, Sivas'ın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Sivas'ın merkezine yakın bir konumda yer alıyor. Dikme Tepesi'nin coğrafi konumu, ziyaretçilerin Sivas'ın diğer önemli yerlerine de kolayca ulaşabilmesini sağlıyor. Bu tepenin etrafı, çeşitli bitki türleriyle kaplı ve zengin bir fauna yaşıyor. Dikme Tepesi, Sivas'ın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, Sivas'ın doğal güzelliklerini sergileyen önemli bir nokta.
+Dikme Tepesi, Sivas'ın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Dikme Tepesi'nin coğrafi konumu, ziyaretçilerin Sivas'ın diğer önemli yerlerine de kolayca ulaşabilmesini sağlıyor. Bu tepenin etrafı, çeşitli bitki türleriyle kaplı ve zengin bir fauna yaşıyor. Dikme Tepesi, Sivas'ın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, Sivas'ın doğal güzelliklerini sergileyen önemli bir nokta.
 
 ## Flora ve Fauna
 

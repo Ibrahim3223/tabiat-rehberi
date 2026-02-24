@@ -38,7 +38,7 @@ Akbıyık Sultan Türbesi, 16. yüzyılda inşa edilmiş bir tarihi yapı. Bu d�
 
 ## Coğrafya
 
-Akbıyık Sultan Türbesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olan Osmangazi/Bursa'da bulunuyor. Türbe, yaklaşık 140 hektarlık bir yeşil alana kurulmuş durumda. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Türbenin etrafında, Marmara Denizi'nin güzel manzaraları encontrar, ziyaretçilere bölgenin güzelliğini gösteriyor. Coğrafi konum itibariyle, türbe birçok önemli noktaya yakın mesafede bulunuyor. Bursa'nın tarihi merkezi, türbeden uzun bir mesafe uzaklıkta ve kolayca ulaşılabilir durumda.
+Akbıyık Sultan Türbesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olan Osmangazi/Bursa'da bulunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Türbenin etrafında, Marmara Denizi'nin güzel manzaraları encontrar, ziyaretçilere bölgenin güzelliğini gösteriyor. Coğrafi konum itibariyle, türbe birçok önemli noktaya yakın mesafede bulunuyor. Bursa'nın tarihi merkezi, türbeden uzun bir mesafe uzaklıkta ve kolayca ulaşılabilir durumda.
 
 ## Flora ve Fauna
 

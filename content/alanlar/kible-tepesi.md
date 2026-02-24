@@ -28,7 +28,7 @@ wikidata_id: "Q31388456"
 
 # Kıble Tepesi
 
-Kıble Tepesi, Rize ilinin sınırları içerisinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanı kaplar. Kıble Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, ziyaretçilerine muhteşem bir doğa manzarası sunar. Ayrıca, burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kıble Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir. Burada, ziyaretçiler doğanın güzelliğini keşfedebilir ve huzurlu bir atmosferde vakit geçirebilirler.
+ Kıble Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, ziyaretçilerine muhteşem bir doğa manzarası sunar. Ayrıca, burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kıble Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir. Burada, ziyaretçiler doğanın güzelliğini keşfedebilir ve huzurlu bir atmosferde vakit geçirebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kıble Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmı�
 
 ## Coğrafya
 
-Kıble Tepesi, Rize ilinin coğrafi yapısında önemli bir yer tutar. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle engebeli ve dağlık bir araziye sahiptir. Kıble Tepesi, bu coğrafi yapı içerisinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alır ve manzarası oldukça güzeldir. Ayrıca, burada iklim, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, bölgenin flora ve faunasını etkiler ve çeşitli bitki türleri ile zengin fauna oluşmasına katkıda bulunur. Kıble Tepesi'nin coğrafi konumu, aynı zamanda ulaşım açısından önemlidir. Bu tepe, Rize il merkezine belirli bir uzaklıkta yer alır ve ulaşım olanakları mevcuttur.
+Kıble Tepesi, Rize ilinin coğrafi yapısında önemli bir yer tutar. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle engebeli ve dağlık bir araziye sahiptir. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alır ve manzarası oldukça güzeldir. Ayrıca, burada iklim, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, bölgenin flora ve faunasını etkiler ve çeşitli bitki türleri ile zengin fauna oluşmasına katkıda bulunur. Kıble Tepesi'nin coğrafi konumu, aynı zamanda ulaşım açısından önemlidir. Bu tepe, Rize il merkezine belirli bir uzaklıkta yer alır ve ulaşım olanakları mevcuttur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kıble Tepesi, ziyaretçiler için birçok olanak sunar. Bu tepe, trekking ve do
 ## İlginç Bilgiler
 
 - Kıble Tepesi, Rize ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Kıble Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Bu tepe, zengin bir flora ve faunaya sahiptir.
 - Kıble Tepesi'ne ulaşım, Rize il merkezinden belirli bir uzaklıkta yer alan bir yoldan sağlanabilir.

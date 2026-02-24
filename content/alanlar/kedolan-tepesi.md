@@ -49,7 +49,6 @@ Kedolan Tepesi'ni ziyaret etmek, ziyaretçiler için unutulmaz bir deneyim olabi
 
 ## İlginç Bilgiler
 
-- Kedolan Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Bölge, tarihin çeşitli dönemlerinde önemli bir yerleşim ve geçiş noktası olarak hizmet vermiş
 - Kedolan Tepesi, flora ve fauna açısından zengin bir bölge
 - Bölge, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor

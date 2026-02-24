@@ -48,8 +48,6 @@ Karapolat Dağı, ziyaretçilerini doğanın güzelliğine ve bölgenin coğrafi
 
 ## İlginç Bilgiler
 
-- Karapolat Dağı, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe.
-- Bu bölge, 200 futbol sahası büyüklüğünde.
 - Karapolat Dağı, bölgenin coğrafi yapısını ve iklimini yansıtan bir bölge.
 - Bu bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.
 - Karapolat Dağı, ziyaretçilerini tarihin derinliklerine götürerek, bu bölgenin zengin kültürel mirasını keşfetme fırsatı sunuyor.

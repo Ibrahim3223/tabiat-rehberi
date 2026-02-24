@@ -19,10 +19,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa seyretme","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Akyokus%20parki.jpg","alt":"Akyokuş Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Konya_Akyoku%C5%9F_Tabiat_Park%C4%B1_Konya_Manzaras%C4%B1.jpg/960px-Konya_Akyoku%C5%9F_Tabiat_Park%C4%B1_Konya_Manzaras%C4%B1.jpg","alt":"Akyokuş Tabiat Parkı","caption":"Akyokuş Tabiat Parkı","credit":"Konya Akyokuş Tabiat Parkı Konya Manzarası","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/1280px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Akyokuş Tabiat Parkı - Konya Akyokuş Nature Park Konya Landscape","credit":"Muratrahimm","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Konya_Akyoku%C5%9F_Tabiat_Park%C4%B1_Konya_Manzaras%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Konya_Akyoku%C5%9F_Tabiat_Park%C4%B1_Konya_Manzaras%C4%B1.jpg/1280px-Konya_Akyoku%C5%9F_Tabiat_Park%C4%B1_Konya_Manzaras%C4%B1.jpg","alt":"Akyokuş Tabiat Parkı - Konya Akyokuş Tabiat Parkı Konya Manzarası","credit":"Muratrahimm","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Konya_Akyoku%C5%9F.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Konya_Akyoku%C5%9F.jpg/1280px-Konya_Akyoku%C5%9F.jpg","alt":"Akyokuş Tabiat Parkı - Konya Akyokuş","credit":"Barış Güngör TOSUN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Konya_Akyoku%C5%9F_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Konya_Akyoku%C5%9F_Park%C4%B1.jpg/1280px-Konya_Akyoku%C5%9F_Park%C4%B1.jpg","alt":"Akyokuş Tabiat Parkı - Konya Akyokuş Parkı","credit":"Barış Güngör TOSUN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Dibi_Delik_Han_%28auch_Hocaci_Han%2C_Akba%C5%9Fhi_Han%2C_Akyoku%C5%9F_Han%29_erbaut_von_1200_bis_1220.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dibi_Delik_Han_%28auch_Hocaci_Han%2C_Akba%C5%9Fhi_Han%2C_Akyoku%C5%9F_Han%29_erbaut_von_1200_bis_1220.jpg/1280px-Dibi_Delik_Han_%28auch_Hocaci_Han%2C_Akba%C5%9Fhi_Han%2C_Akyoku%C5%9F_Han%29_erbaut_von_1200_bis_1220.jpg","alt":"Akyokuş Tabiat Parkı - Dibi Delik Han (auch Hocaci Han, Akbaşhi Han, Akyokuş Han) erbaut von 1200 bis 1220","credit":"Christian1311","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akyoku%C5%9F%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110423684","tip":"genel"}]
-description: "Konya'nın Meram ilçesinde bulunan Akyokuş Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Akyokuş Tabiat Parkı","Konya","Meram","Tabiat Parkı","Yeşil Alan","Doğa","Gezi","Tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q110423684"
@@ -30,7 +30,7 @@ wikidata_id: "Q110423684"
 
 # Akyokuş Tabiat Parkı
 
-Akyokuş Tabiat Parkı, Konya'nın Meram ilçesinde yer alan 140 hektarlık bir yeşil alandır. Akyokuş Tabiat Parkı, ziyaretçilerine doğayla iç içe bir ortam sunarken, aynı zamanda çeşitli bitkiler ve hayvanlar ile karşılaşma fırsatı da sunar. Parkın içi, geniş yürüyüş yolları ve oturmak için uygun alanlarla donatılmış olup, ziyaretçilerin doğayı seyretmelerine olanak tanır.
+ Akyokuş Tabiat Parkı, ziyaretçilerine doğayla iç içe bir ortam sunarken, aynı zamanda çeşitli bitkiler ve hayvanlar ile karşılaşma fırsatı da sunar. Parkın içi, geniş yürüyüş yolları ve oturmak için uygun alanlarla donatılmış olup, ziyaretçilerin doğayı seyretmelerine olanak tanır.
 
 ## Tarihçe
 
@@ -49,8 +49,6 @@ Akyokuş Tabiat Parkı, çeşitli bitkiler ve hayvanlar ile ziyaretçilerini kar
 Akyokuş Tabiat Parkı, ziyaretçilerine çeşitli olanaklar sunar. Parka,Meritam ilçesinden kolayca ulaşılabilir. Ziyaretçiler, parkın içinde yürüyüş yapabilir, doğayı seyretebilir ve çeşitli bitkiler ve hayvanlar ile karşılaşabilir. Parkın girişinde, ziyaretçilere bilgi veren tabelalar bulunur. Akyokuş Tabiat Parkı, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmeye uygun olup, bu mevsimlerde parkın doğası en güzel hali ile ziyaretçilerini karşılar.
 
 ## İlginç Bilgiler
-
-- Akyokuş Tabiat Parkı, 140 hektarlık bir alana yayılır.
 
 - Parkın coğrafi yapısı, geniş otlaklar ve ağaçlık alanlardan oluşur.
 - Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir.

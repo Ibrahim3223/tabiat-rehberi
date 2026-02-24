@@ -49,7 +49,7 @@ wikidata_id: "Q31386150"
 ## İlginç Bilgiler
 
 - İtdağı Tepe, Gaziantep'in en önemli tarihi ve doğal güzelliklerinden biri.
-- Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - İtdağı Tepe, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Tepe, yaban hayatının korunması için önemli bir merkez.
 

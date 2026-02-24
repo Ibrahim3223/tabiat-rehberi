@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Seytan Sofrası Sulak Alanı","caption":"Seytan Sofrası Sulak Alanı","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seytan%20Sofras%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228874","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Seytan Sofrası","Sulak Alan","İç Anadolu Bölgesi","doğa","turizm","gezi","yaban hayatı","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228874"
@@ -30,7 +30,7 @@ Seytan Sofrası Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca çeşitl
 
 ## Coğrafya
 
-Seytan Sofrası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yere sahiptir. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve çeşitli bitki türleri ile zengin fauna barındırıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Sulak alanın coğrafi yapısı, insan faaliyetleri ve doğal etkenler tarafından şekillenmiştir. Bu bölge, yaban hayatının korunması için önemli bir merkez olarak dikkat çekiyor ve doğa severler için ideal bir gezi destinasyonu olarak kabul ediliyor. Seytan Sofrası Sulak Alanı, ziyaretçilerini doğal güzelliği, sakin atmosferi ve çeşitli bitki türleri ile zengin fauna ile büyülüyor.
+Seytan Sofrası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yere sahiptir. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanıyor. Sulak alanın coğrafi yapısı, insan faaliyetleri ve doğal etkenler tarafından şekillenmiştir. Bu bölge, yaban hayatının korunması için önemli bir merkez olarak dikkat çekiyor ve doğa severler için ideal bir gezi destinasyonu olarak kabul ediliyor. Seytan Sofrası Sulak Alanı, ziyaretçilerini doğal güzelliği, sakin atmosferi ve çeşitli bitki türleri ile zengin fauna ile büyülüyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Seytan Sofrası Sulak Alanı, doğa severler ve gezi tutkunları için ideal bir
 
 ## İlginç Bilgiler
 
-- Seytan Sofrası Sulak Alanı, 140 hektarlık bir alanı kaplıyor
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Seytan Sofrası Sulak Alanı, yaban hayatının korunması için önemli bir merkez
 - Bu bölge, çeşitli bitki türleri ve zengin fauna barındırıyor
 - Seytan Sofrası Sulak Alanı, doğa severler ve gezi tutkunları için ideal bir destinasyon

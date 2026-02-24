@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi","doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Kastamonu-Bozkurt-Goynuk Kestane","caption":"Kastamonu-Bozkurt-Goynuk Kestane","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Bozkurt-Goynuk%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227732","tip":"genel"}]
-description: "Kastamonu'nun doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu'nun doğal güzelliklerini keşfedin."
 keywords: ["Kastamonu","Bozkurt","Goynuk Kestane","milli park","doğal güzellik","Karadeniz Bölgesi","kestane","orman","doga"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227732"
@@ -42,7 +42,6 @@ Kastamonu-Bozkurt-Goynuk Kestane milli parkını ziyaret etmek, ziyaretçilere b
 
 ## İlginç Bilgiler
 
-- Kastamonu-Bozkurt-Goynuk Kestane milli parkı, 140 hektarlık bir alana sahiptir.
 - Milli park, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır.
 - Kestane ağaçlarının bolca bulunduğu bu alanda, ziyaretçiler birçok farklı bitki türü görebilir.
 - Mevsimsel değişimler, bu bölgede birçok farklı canlıyı ortaya çıkarır.

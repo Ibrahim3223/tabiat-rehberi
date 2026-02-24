@@ -41,7 +41,7 @@ Tilmen Höyük, Gaziantep'in İslahiye ilçesi yakınlarında yer alır ve Güne
 
 ## Flora ve Fauna
 
-Tilmen Höyük'ün bulunduğu bölgenin flora ve fauna zenginliği, höyüğün coğrafi konumunu ve iklimini yansıtan bir çeşitliliktir. Höyüğün yakınında yer alan dağlar ve ovalar, bölgenin bitki örtüsünü ve hayvan çeşitliliğini etkileyen faktörlerden biridir. Höyüğün 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Tilmen Höyük'ün flora ve fauna zenginliği, bölgenin mevsimsel değişimlerini ve ekolojik dengesini yansıtan bir çeşitliliktir. Höyüğün yakınında yer alan su kaynakları, bölgenin flora ve fauna zenginliğini etkileyen faktörlerden biridir. Tilmen Höyük'ün flora ve fauna zenginliği, bölgenin kültürel zenginliği ve tarihi geçmişi hakkında önemli bilgiler sunar.
+Tilmen Höyük'ün bulunduğu bölgenin flora ve fauna zenginliği, höyüğün coğrafi konumunu ve iklimini yansıtan bir çeşitliliktir. Höyüğün yakınında yer alan dağlar ve ovalar, bölgenin bitki örtüsünü ve hayvan çeşitliliğini etkileyen faktörlerden biridir. Tilmen Höyük'ün flora ve fauna zenginliği, bölgenin mevsimsel değişimlerini ve ekolojik dengesini yansıtan bir çeşitliliktir. Höyüğün yakınında yer alan su kaynakları, bölgenin flora ve fauna zenginliğini etkileyen faktörlerden biridir. Tilmen Höyük'ün flora ve fauna zenginliği, bölgenin kültürel zenginliği ve tarihi geçmişi hakkında önemli bilgiler sunar.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Tilmen Höyük'ü ziyaret etmek, bölgenin tarihi geçmişi ve kültürel zengin
 ## İlginç Bilgiler
 
 - Tilmen Höyük'ün tarihi geçmişi, bölgenin kültürel zenginliğini yansıtan bir geçmişe sahiptir
-- Höyüğün 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Tilmen Höyük'ün coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biridir
 - Höyüğün yakınında yer alan diğer höyükler ve arkeolojik alanlar, bölgenin coğrafi çeşitliliğini ve kültürel zenginliğini ortaya koyar
 - Tilmen Höyük'ün flora ve fauna zenginliği, bölgenin mevsimsel değişimlerini ve ekolojik dengesini yansıtan bir çeşitliliktir

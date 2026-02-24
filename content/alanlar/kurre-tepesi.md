@@ -28,7 +28,7 @@ wikidata_id: "Q31555107"
 
 # Kurre Tepesi
 
-Kurre Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Kurre Tepesi ve çevresindeki alanlar, geniş ovalar ve dağlarla çevrili. Batman ilinin coğrafi özelliklerinin bir parçası olan Kurre Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kurre Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kurre Tepesi, ziyaretçilerini bekliyor.
+Kurre Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Kurre Tepesi ve çevresindeki alanlar, geniş ovalar ve dağlarla çevrili. Kurre Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kurre Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kurre Tepesi, ziyaretçilerine, doğal güzelliği ve tarihi zenginliği hakkın
 
 ## İlginç Bilgiler
 
-- Kurre Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepe ve çevresindeki alanlar, çeşitli bitki türleri ve hayvanlarla dolu.
 - Kurre Tepesi, Batman ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor.
 - Tepe, ziyaretçilerine, dört mevsim farklı deneyimler sunuyor.

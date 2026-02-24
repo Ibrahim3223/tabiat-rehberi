@@ -23,7 +23,7 @@ wikidata_id: "Q6055563"
 
 # Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu
 
-Beşiktaş'ın kalbinde, Marmara Bölgesi'nin en önemli kültür merkezlerinden biri olarak kabul edilen Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu özel koleksiyon, yaklaşık 140 hektarlık bir alanda, ziyaretçilere Sanat ve tarihle dolu bir dünya sunuyor. Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilerini geçmişin gizemli sayfalarına götürerek, tarihin en önemli anlarını gözler önüne seriyor.
+Beşiktaş'ın kalbinde, Marmara Bölgesi'nin en önemli kültür merkezlerinden biri olarak kabul edilen Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilerini geçmişin gizemli sayfalarına götürerek, tarihin en önemli anlarını gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, tarihi geçmişiyle dikkat
 
 ## Coğrafya
 
-Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, tarihi ve kültürel değerleriyle ünlü. Koleksiyon, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevresi tarihi binalar, bahçeler ve ormanlık alanlarla çevrili. İklim, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve ılıman. Bahçeler ve ormanlık alanlar, koleksiyonun güzelliğini ve atmosferini zenginleştiren önemli unsurlar. Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilere doğa ve kültür arasında bir denge sunuyor. Bu koleksiyon, Marmara Bölgesi'nin coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir merkez.
+Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, tarihi ve kültürel değerleriyle ünlü. İklim, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve ılıman. Bahçeler ve ormanlık alanlar, koleksiyonun güzelliğini ve atmosferini zenginleştiren önemli unsurlar. Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilere doğa ve kültür arasında bir denge sunuyor. Bu koleksiyon, Marmara Bölgesi'nin coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir merkez.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, ziyaretçilere yıl boyunc
 
 ## İlginç Bilgiler
 
-- Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, yaklaşık 140 hektarlık bir alanda kurulmuştur.
 - Koleksiyon, yüzyıllar boyunca biriken değerli fotoğraflarla dolu.
 - Yıldız Sarayı, Osmanlı İmparatorluğu'nun son döneminde inşa edilmiştir.
 - Kütüphane ve fotoğraf koleksiyonu, sarayın kültürel mirasını zenginleştiren önemli parçalarıdır.

@@ -51,6 +51,6 @@ Karamanoğlu Mehmet Bey Türbesi ve plaj alanını ziyaret etmek, hem tarihi hem
 
 - Karamanoğlu Mehmet Bey, Karamanoğulları Beyliği'nin kurucusudur.
 - Türbe, Karamanoğlu Mehmet Bey'in mezarının bulunduğu yerdir.
-- Bölge, 140 hektarlık bir yeşil alan üzerine kuruludur.
+
 - Plaj alanı, çeşitli bitki türleri ve yaban hayatı ile çevrilidir.
 

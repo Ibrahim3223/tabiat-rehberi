@@ -37,7 +37,7 @@ Ahmet Turan Türbesi, yüzyıllar boyunca önemli bir dinî ve kültürel merkez
 
 ## Coğrafya
 
-Ahmet Turan Türbesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir konumunda yer alır. Malatya'nın Battalgazi ilçesinde bulunan bu mekan, bölgenin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir. 140 hektarlık alan, bölgenin coğrafi yapısına uygun bir şekilde düzenlenmiştir. Bu geniş alan, ziyaretçilere hem tarihi hem de kültürel açıdan zengin bir deneyim sunar. Bölgenin iklimi, ziyaretçilerin bu mekanı ziyaret etmeleri için uygun koşullar sağlar. Ahmet Turan Türbesi, bölgenin coğrafi özelliklerini ve kültürel önemini bir araya getiren bir mekandır.
+Ahmet Turan Türbesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir konumunda yer alır. Malatya'nın Battalgazi ilçesinde bulunan bu mekan, bölgenin coğrafi özellikleri ile uyumlu bir şekilde inşa edilmiştir. Bu geniş alan, ziyaretçilere hem tarihi hem de kültürel açıdan zengin bir deneyim sunar. Bölgenin iklimi, ziyaretçilerin bu mekanı ziyaret etmeleri için uygun koşullar sağlar. Ahmet Turan Türbesi, bölgenin coğrafi özelliklerini ve kültürel önemini bir araya getiren bir mekandır.
 
 ## Flora ve Fauna
 

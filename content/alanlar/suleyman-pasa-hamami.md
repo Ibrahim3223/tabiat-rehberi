@@ -30,7 +30,7 @@ wikidata_id: "Q131738700"
 
 # Süleyman Paşa Hamamı
 
-Karaman şehrinin merkezinde bulunan Süleyman Paşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan tarihi bir hamam ve plaj alanıdır. Karaman'ın tarihi dokusunu koruyan bu hamam, şehrin önemli turistik noktalarından biridir. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip olan hamam, aynı zamanda bölgenin kültürel zenginliklerini de yansıtmaktadır.
+ Karaman'ın tarihi dokusunu koruyan bu hamam, şehrin önemli turistik noktalarından biridir. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip olan hamam, aynı zamanda bölgenin kültürel zenginliklerini de yansıtmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Süleyman Paşa Hamamı, tarihi geçmişi ile dikkat çekmektedir. Bu hamam, yü
 
 ## Coğrafya
 
-Süleyman Paşa Hamamı, Karaman şehrinin merkezinde yer alan bir plaj ve hamam alanıdır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu hamam, şehrin merkezi kısmında bulunmakta olup, ziyaretçilere kolay ulaşım imkânı sunmaktadır. Hamamın coğrafi yapısı, bölgenin genel coğrafi özelliklerine uygun olarak karasal bir iklimi yansıtmaktadır. Bölgenin coğrafi konumu itibariyle, hamam ve plaj alanı, ziyaretçilere geniş bir açık mekan sunmaktadır. Yaklaşık 140 hektarlık bir alanı kaplayan hamam, ziyaretçilere geniş bir açık mekan sunmaktadır.
+Süleyman Paşa Hamamı, Karaman şehrinin merkezinde yer alan bir plaj ve hamam alanıdır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu hamam, şehrin merkezi kısmında bulunmakta olup, ziyaretçilere kolay ulaşım imkânı sunmaktadır. Hamamın coğrafi yapısı, bölgenin genel coğrafi özelliklerine uygun olarak karasal bir iklimi yansıtmaktadır. Bölgenin coğrafi konumu itibariyle, hamam ve plaj alanı, ziyaretçilere geniş bir açık mekan sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Süleyman Paşa Hamamı ve plaj alanını ziyaret etmek, Karaman şehrinin tarih
 ## İlginç Bilgiler
 
 - Süleyman Paşa Hamamı, Karaman şehrinin tarihi dokusunu koruyan önemli bir yapıdır.
-- Hamam, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
+
 - Hamam ve plaj alanında, çeşitli bitki türleri ve hayvanlar bulunmakta olup, bölgenin ekolojik dengesini korumaktadır.
 - Ziyaretçilerin, hamam ve plaj alanında keyifli bir gün geçirmelerine olanak tanıyan çeşitli aktiviteler bulunmakta olup, ziyaretçilere farklı deneyimler sunmaktadır.
 

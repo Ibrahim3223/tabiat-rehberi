@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Çayır gezileri","Orman keşifleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Do%C4%9Fal_ortam.jpg","alt":"Bespinarlar manzarası","credit":"Nadirbay","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Do%C4%9Fal_ortam.jpg/960px-Do%C4%9Fal_ortam.jpg","alt":"Bespinarlar","caption":"Bespinarlar","credit":"Doğal ortam","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bespinarlar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228213","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti: Bespinarlar."
@@ -43,7 +43,6 @@ Bespinarlar'ı ziyaret etmek, doğa severler için bir rüya. Ziyaretçiler, bu 
 
 ## İlginç Bilgiler
 
-- Bespinarlar, yaklaşık 140 hektarlık bir alana sahip.
 - Bu milli park, ziyaretçilerine çeşitli bitki türleri sunuyor.
 - Bespinarlar, doğa severlerin gözdesi haline geliyor.
 - Bu bölge, ziyaretçilerine mevsimsel değişimler hakkında bilgi veriyor.

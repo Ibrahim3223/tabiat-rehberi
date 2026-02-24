@@ -30,7 +30,7 @@ wikidata_id: "Q131390731"
 
 # Molla Fenari Türbesi
 
-Molla Fenari Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihte önemli bir yer tutan bir kültürel merkez. Bu bölge, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve ziyaretçiler için önemli bir destinasyon. 200 futbol sahası büyüklüğünde olan bu alan, tarih severler ve kültürel zenginlik merakı olanların ilgisini çekiyor. Molla Fenari Türbesi, Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak kabul ediliyor.
+Molla Fenari Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihte önemli bir yer tutan bir kültürel merkez. Molla Fenari Türbesi, Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Molla Fenari Türbesi'nin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanıyor.
 
 ## Coğrafya
 
-Molla Fenari Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin coğrafi olarak önemli bir kısmını oluşturuyor. Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve çevresinde çeşitli tarihi ve kültürel yapılar yer alıyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Molla Fenari Türbesi, ziyaretçiler için önemli bir coğrafi ve kültürel destinasyon olarak hizmet vermeye devam ediyor. Bölgenin coğrafi yapısı, ziyaretçilerin gezerken keyif alacağı bir ortam sunuyor.
+Molla Fenari Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin coğrafi olarak önemli bir kısmını oluşturuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Molla Fenari Türbesi, ziyaretçiler için önemli bir coğrafi ve kültürel destinasyon olarak hizmet vermeye devam ediyor. Bölgenin coğrafi yapısı, ziyaretçilerin gezerken keyif alacağı bir ortam sunuyor.
 
 ## Flora ve Fauna
 

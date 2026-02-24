@@ -51,7 +51,7 @@ wikidata_id: "Q131738498"
 ## İlginç Bilgiler
 
 - Çifte Hamam, Kastamonu'nun en güzel plajlarından biridir.
-- 140 hektarlık bir alana sahiptir.
+
 - Çam ormanlarıyla çevrili bir plajdır.
 - Kastamonu il merkezine yakındır.
 - Zengin bir flora ve fauna sahiptir.

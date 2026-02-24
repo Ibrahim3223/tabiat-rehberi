@@ -29,7 +29,7 @@ wikidata_id: "Q31387740"
 
 # Evliya Tepesi
 
-Evliya Tepesi, Artvin'in merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede özellikle bahar aylarında doğa canlı renklerle süslenir. Evliya Tepesi, hem doğa severler hem de tarihe ilgi duyan ziyaretçiler için önemli bir destinasyon olarak görülür.
+ Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede özellikle bahar aylarında doğa canlı renklerle süslenir. Evliya Tepesi, hem doğa severler hem de tarihe ilgi duyan ziyaretçiler için önemli bir destinasyon olarak görülür.
 
 ## Tarihçe
 

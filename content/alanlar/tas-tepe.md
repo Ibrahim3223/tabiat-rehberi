@@ -37,7 +37,7 @@ Taş Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, fark
 
 ## Coğrafya
 
-Taş Tepe, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerine sahip. Bu tepe, 140 hektarlık bir alanı kaplıyor ve çevresindeki diğer tepelerle birlikte, bir bütün olarak görülebiliyor. Coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sağlıyor. İklim, karasal ve yağışların yıl boyunca dağıldığı bir yapıya sahip. Çevre, doğal güzelliklerle dolu ve ziyaretçiler, buraya gelerek, bu güzellikleri keşfedebiliyor. Taş Tepe, coğrafi konumu ve přírodní güzellikleri ile dikkat çekiyor ve ziyaretçilerini, Marmara Bölgesi'nin coğrafi zenginliğine davet ediyor.
+Taş Tepe, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerine sahip. Coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sağlıyor. İklim, karasal ve yağışların yıl boyunca dağıldığı bir yapıya sahip. Çevre, doğal güzelliklerle dolu ve ziyaretçiler, buraya gelerek, bu güzellikleri keşfedebiliyor. Taş Tepe, coğrafi konumu ve přírodní güzellikleri ile dikkat çekiyor ve ziyaretçilerini, Marmara Bölgesi'nin coğrafi zenginliğine davet ediyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Taş Tepe'yi ziyaret etmek, Marmara Bölgesi'nin tarihi ve doğal güzelliklerin
 ## İlginç Bilgiler
 
 - Taş Tepe, Marmara Bölgesi'nin en önemli tarihi noktalarından biri.
-- Bu tepe, 140 hektarlık bir alanı kaplıyor.
+
 - Taş Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ziyaretçiler, buraya gelerek, hem doğal güzellikleri keşfedebiliyor hem de tarihi önemi hakkında bilgi edinebiliyor.
 - Taş Tepe, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerine sahip.

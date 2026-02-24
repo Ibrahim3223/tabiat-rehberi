@@ -37,7 +37,7 @@ Yedi Sekiz Hasan Paşa Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar u
 
 ## Coğrafya
 
-Yedi Sekiz Hasan Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan bir coğrafi alandır. Bu alan, Marmara Bölgesi'nde bulunmaktadır. Yedi Sekiz Hasan Paşa Türbesi, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu alan, yeşillikler ve çeşitli bitki türleri ile kaplıdır. Yedi Sekiz Hasan Paşa Türbesi, deniz seviyesinden yüksek bir konumda bulunmaktadır. Bu mekan, İstanbul'un merkezi bir bölgesinde yer almaktadır. Yedi Sekiz Hasan Paşa Türbesi, coğrafi konumu itibariyle önemli bir yerdir. Burada, tarihi yapılar, yeşillikler ve doğal güzellikler bulunmaktadır. Yedi Sekiz Hasan Paşa Türbesi, coğrafi güzellikleri ile dikkat çekmektedir.
+Yedi Sekiz Hasan Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan bir coğrafi alandır. Bu alan, Marmara Bölgesi'nde bulunmaktadır. Bu alan, yeşillikler ve çeşitli bitki türleri ile kaplıdır. Yedi Sekiz Hasan Paşa Türbesi, deniz seviyesinden yüksek bir konumda bulunmaktadır. Bu mekan, İstanbul'un merkezi bir bölgesinde yer almaktadır. Yedi Sekiz Hasan Paşa Türbesi, coğrafi konumu itibariyle önemli bir yerdir. Burada, tarihi yapılar, yeşillikler ve doğal güzellikler bulunmaktadır. Yedi Sekiz Hasan Paşa Türbesi, coğrafi güzellikleri ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

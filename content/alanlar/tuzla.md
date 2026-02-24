@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Tuzla_Thermal_Power_Plant02A.jpg","alt":"TUZLA manzarası","credit":"User:Felky","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Bird%27s_eye_view_of_Tuzla_from_the_AJet_aircraft_departing_from_Sabiha_G%C3%B6k%C3%A7en_International_Airport.IMG_1910.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bird%27s_eye_view_of_Tuzla_from_the_AJet_aircraft_departing_from_Sabiha_G%C3%B6k%C3%A7en_International_Airport.IMG_1910.jpg/1280px-Bird%27s_eye_view_of_Tuzla_from_the_AJet_aircraft_departing_from_Sabiha_G%C3%B6k%C3%A7en_International_Airport.IMG_1910.jpg","alt":"TUZLA - Bird's eye view of Tuzla from the AJet aircraft departing from Sabiha Gökçen International Airport.IMG 1910","credit":"YG01","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Tuzla_Wild_Life_Development_Area%2C_Adana_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tuzla_Wild_Life_Development_Area%2C_Adana_01.jpg/1280px-Tuzla_Wild_Life_Development_Area%2C_Adana_01.jpg","alt":"TUZLA - Tuzla Wild Life Development Area, Adana 01","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Tuzla_Fethiye.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tuzla_Fethiye.jpg/1280px-Tuzla_Fethiye.jpg","alt":"TUZLA - Tuzla Fethiye","credit":"Vano111ru","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Hotel_Tuzla_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hotel_Tuzla_02.jpg/1280px-Hotel_Tuzla_02.jpg","alt":"TUZLA - Hotel Tuzla 02","credit":"Apokar","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/Hotel_Tuzla_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hotel_Tuzla_01.jpg/1280px-Hotel_Tuzla_01.jpg","alt":"TUZLA - Hotel Tuzla 01","credit":"Apokar","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TUZLA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228645","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan TUZLA, 140 hektarlık bir alanı kapsayan önemli bir milli parktır."
+"
 keywords: ["TUZLA","milli park","İç Anadolu Bölgesi","doğa","turizm","gezi","yerel","çevre","korunma alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228645"
@@ -43,7 +43,6 @@ TUZLA milli parkını ziyaret etmek, doğa severler ve yerel kültürü keşfetm
 
 ## İlginç Bilgiler
 
-- TUZLA milli parkı, 140 hektarlık bir alanı kapsar.
 - TUZLA, İç Anadolu Bölgesi'nde yer alır.
 - TUZLA milli parkı, çeşitli bitki türleri ve zengin fauna tarafından şekillenir.
 - TUZLA, yerel halkın yaşam alanı olarak kullanılır.

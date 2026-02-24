@@ -30,7 +30,7 @@ wikidata_id: "Q126682080"
 
 # Hızırbey Hamamı
 
-Hızırbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Kırklareli'nin merkezinde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Hızırbey Hamamı'nın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir. Bu nedenle, özellikle aileler ve çocuklu kişiler için ideal bir seçimdir. Plajda, çeşitli olanaklar ve hizmetler bulunur. Bunların arasında, şezlong ve şemsiye kiralama, duş ve tuvalet gibi temel ihtiyaçların karşılanması, yeme ve içme olanakları gibi hizmetler yer alır. Hızırbey Hamamı, hem doğası hem de sunduğu olanaklarla, ziyaretçilerine keyifli ve konforlu bir deneyim sunar.
+Hızırbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Hızırbey Hamamı'nın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir. Bu nedenle, özellikle aileler ve çocuklu kişiler için ideal bir seçimdir. Plajda, çeşitli olanaklar ve hizmetler bulunur. Bunların arasında, şezlong ve şemsiye kiralama, duş ve tuvalet gibi temel ihtiyaçların karşılanması, yeme ve içme olanakları gibi hizmetler yer alır. Hızırbey Hamamı, hem doğası hem de sunduğu olanaklarla, ziyaretçilerine keyifli ve konforlu bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hızırbey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Hızırbey Hamamı, Marmara Bölgesi'nin en güzel ve en geniş plajlarından biridir. Bu plaj, Kırklareli'nin merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Plajın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir. Hızırbey Hamamı'nın etrafı, yeşilliklerle çevrilidir ve bu yeşillikler, plaja doğal bir güzellik kazandırır. Plajda, çeşitli ağaçlar ve bitki türleri bulunur. Bu ağaçlar, ziyaretçilere gölge ve serinlik sağlar. Hızırbey Hamamı, özellikle yaz aylarında, sıcaklıkların yüksek olduğu zamanlarda, serin ve rahat bir ortam sunar. Plajın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve bn mevsim ziyaret edilebilir. Hızırbey Hamamı, hem doğal güzelliği hem de sunduğu olanaklarla, ziyaretçilerine keyifli ve konforlu bir deneyim sunar.
+Hızırbey Hamamı, Marmara Bölgesi'nin en güzel ve en geniş plajlarından biridir. Plajın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir. Hızırbey Hamamı'nın etrafı, yeşilliklerle çevrilidir ve bu yeşillikler, plaja doğal bir güzellik kazandırır. Plajda, çeşitli ağaçlar ve bitki türleri bulunur. Bu ağaçlar, ziyaretçilere gölge ve serinlik sağlar. Hızırbey Hamamı, özellikle yaz aylarında, sıcaklıkların yüksek olduğu zamanlarda, serin ve rahat bir ortam sunar. Plajın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve bn mevsim ziyaret edilebilir. Hızırbey Hamamı, hem doğal güzelliği hem de sunduğu olanaklarla, ziyaretçilerine keyifli ve konforlu bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hızırbey Hamamı, ziyaretçilerine keyifli ve konforlu bir deneyim sunar. Plaj
 ## İlginç Bilgiler
 
 - Hızırbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hızırbey Hamamı'nın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir.
 - Plajda, çeşitli ağaçlar ve bitki türleri bulunur.
 - Hızırbey Hamamı, zengin bir flora ve faunaya sahiptir.

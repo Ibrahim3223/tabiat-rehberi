@@ -28,7 +28,7 @@ wikidata_id: "Q31548068"
 
 # Hirpanoz Tepesi
 
-Hirpanoz Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile belangırları ve tarihi geçmişi ile dikkat çekiyor. Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını şekillendirmiş. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Hirpanoz Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını şekillendirmiş. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hirpanoz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe
 
 ## Coğrafya
 
-Hirpanoz Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile belangırları ve doğal güzellikleri ile dikkat çekiyor. Tepenin yüksekliği, bölgenin coğrafi yapısını etkilemiş. Hirpanoz Tepesi, bölgenin iklimini ve çevre koşullarını şekillendiren önemli bir faktör. Tepenin etrafında yer alan vadiler ve dağlar, bölgenin coğrafi çeşitliliğini gösteriyor. Hirpanoz Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin coğrafi konumu, bölgenin diğer coğrafi mekanları ile sammenlik gösteriyor.
+Hirpanoz Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir tepe. Tepenin yüksekliği, bölgenin coğrafi yapısını etkilemiş. Hirpanoz Tepesi, bölgenin iklimini ve çevre koşullarını şekillendiren önemli bir faktör. Tepenin etrafında yer alan vadiler ve dağlar, bölgenin coğrafi çeşitliliğini gösteriyor. Hirpanoz Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin coğrafi konumu, bölgenin diğer coğrafi mekanları ile sammenlik gösteriyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Hirpanoz Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için ö
 
 ## İlginç Bilgiler
 
-- Hirpanoz Tepesi, yaklaşık 140 hektarlık alanı ile belangırları ve tarihi geçmişi ile dikkat çekiyor.
 - Hirpanoz Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir tepe.
 - Hirpanoz Tepesi, çeşitli bitki türleri ve hayvan türleri ile dikkat çekiyor.
 - Hirpanoz Tepesi, bölgenin flora'sını ve fauna'sını şekillendiren önemli bir faktör.

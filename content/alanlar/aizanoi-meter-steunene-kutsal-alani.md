@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BCtahya%20aizanoi%20panorama.jpg","alt":"Aizanoi Meter Steunene Kutsal Alanı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/K%C3%BCtahya_aizanoi_panorama.jpg/960px-K%C3%BCtahya_aizanoi_panorama.jpg","alt":"Aizanoi Meter Steunene Kutsal Alanı","caption":"Aizanoi Meter Steunene Kutsal Alanı","credit":"Kütahya aizanoi panorama","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/K%C3%BCtahya_aizanoi_panorama.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/K%C3%BCtahya_aizanoi_panorama.jpg/1280px-K%C3%BCtahya_aizanoi_panorama.jpg","alt":"Aizanoi Meter Steunene Kutsal Alanı - Kütahya aizanoi panorama","credit":"Arif miletli","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aizanoi%20Meter%20Steunene%20Kutsal%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133817606","tip":"genel"}]
 description: "Kütahya'nın Çavdarhisar ilçesinde yer alan Aizanoi Meter Steunene Kutsal Alanı, 1200 hektarlık bir jeopark alanıdır."

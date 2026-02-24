@@ -37,7 +37,7 @@ Garip Dede Türbesi'nin tarihi geçmişi, Osmanlı döneminde başlar. Bu dönem
 
 ## Coğrafya
 
-Garip Dede Türbesi, Küçükçekmece ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi özellikleri ile örtüşür. Bu bölge, genel olarak düz ve yeşil alanlardan oluşur. 140 hektarlık bir alanı kaplayan Garip Dede Türbesi, ziyaretçilerine geniş ve ferah bir ortam sunar. Bölgenin coğrafi yapısı, aynı zamanda çeşitli bitki türleri ve hayvanların yaşamasına elverişlidir. Garip Dede Türbesi'nin coğrafi konumu, İstanbul'un merkezine yakın olmasına rağmen, şehrin kalabalık ve gürültülü ortamından uzak bir konumda yer alır. Bu durum, ziyaretçilerin doğa ile iç içe bir ortamda zaman geçirmelerine olanak tanır. Ayrıca, Garip Dede Türbesi'nin bulunduğu bölge, İstanbul'un önemli ulaşım noktalarına da yakındır. Bu nedenle, ziyaretçiler için ulaşım kolaylığı sağlanmış durumdadır.
+Garip Dede Türbesi, Küçükçekmece ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi özellikleri ile örtüşür. Bu bölge, genel olarak düz ve yeşil alanlardan oluşur. Bölgenin coğrafi yapısı, aynı zamanda çeşitli bitki türleri ve hayvanların yaşamasına elverişlidir. Garip Dede Türbesi'nin coğrafi konumu, İstanbul'un merkezine yakın olmasına rağmen, şehrin kalabalık ve gürültülü ortamından uzak bir konumda yer alır. Bu durum, ziyaretçilerin doğa ile iç içe bir ortamda zaman geçirmelerine olanak tanır. Ayrıca, Garip Dede Türbesi'nin bulunduğu bölge, İstanbul'un önemli ulaşım noktalarına da yakındır. Bu nedenle, ziyaretçiler için ulaşım kolaylığı sağlanmış durumdadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Garip Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri den
 ## İlginç Bilgiler
 
 - Garip Dede Türbesi, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu bölge, 140 hektarlık bir alanı kaplar.
+
 - Garip Dede Türbesi, çeşitli bitki türleri ve hayvanlarla birlikte zengin bir ekosisteme sahiptir.
 - Bu bölge, mevsimsel değişimlere göre farklı bitki türleri ile renklenir.
 - Garip Dede Türbesi, ziyaretçilerine geniş ve ferah bir ortam sunar.

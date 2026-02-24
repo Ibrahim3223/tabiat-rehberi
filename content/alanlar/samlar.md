@@ -44,7 +44,7 @@ wikidata_id: "Q108228356"
 ## İlginç Bilgiler
 
 - Şamlar, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir
-- Bu milli park, 140 hektarlık bir alana sahiptir
+
 - Şamlar'da, çeşitli bitki türleri ve hayvanlar yaşar
 - Şamlar, coğrafi olarak çeşitlilik gösterir
 - Bu milli park, ekolojik dengenin korunmasına önemli katkılar sağlar

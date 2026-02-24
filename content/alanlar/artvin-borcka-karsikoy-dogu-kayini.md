@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Bitki ve hayvan gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Artvin-Borcka-Karsikoy Dogu Kayini","caption":"Artvin-Borcka-Karsikoy Dogu Kayini","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Karsikoy%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227774","tip":"genel"}]
-description: "Artvin'de yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor"
+
 keywords: ["Artvin","milli park","doğal alan","fauna","flora","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227774"

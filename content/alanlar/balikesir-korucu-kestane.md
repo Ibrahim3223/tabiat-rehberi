@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Balikesir-Korucu Kestane","caption":"Balikesir-Korucu Kestane","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Korucu%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228585","tip":"genel"}]
-description: "Doğal güzellikleri keşfedin, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna"
+
 keywords: ["Balikesir","Korucu Kestane","milli park","doğal güzellik","yeşil alan","bitki türleri","fauna","iç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228585"
@@ -30,7 +30,7 @@ Balikesir-Korucu Kestane milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Balikesir-Korucu Kestane milli parkı, coğrafi konumu itibariyle oldukça özel bir noktada yer alıyor. İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına uygun olarak, burada çeşitli bitki türleri ve zengin fauna bir arada bulunuyor. Parkın coğrafi yapısı, 140 hektarlık yeşil alanı içerisinde birçok farklı habitatı barındıriyor. Bu habitatlar, çeşitli bitki türlerinin ve hayvanların yaşam alanı olarak görev yapıyor ve bu sayede ziyaretçilerine doğal bir môiuvre sunuyor. Ayrıca, parkın içinde ve çevresinde birçok yürüyüş yolu ve gözlem alanı bulunuyor, bu da ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyor. Coğrafi açıdan zengin bir çeşitlilik gösteren bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Balikesir-Korucu Kestane milli parkı, coğrafi konumu itibariyle oldukça özel bir noktada yer alıyor. İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına uygun olarak, burada çeşitli bitki türleri ve zengin fauna bir arada bulunuyor. Bu habitatlar, çeşitli bitki türlerinin ve hayvanların yaşam alanı olarak görev yapıyor ve bu sayede ziyaretçilerine doğal bir môiuvre sunuyor. Ayrıca, parkın içinde ve çevresinde birçok yürüyüş yolu ve gözlem alanı bulunuyor, bu da ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyor. Coğrafi açıdan zengin bir çeşitlilik gösteren bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Balikesir-Korucu Kestane milli parkını ziyaret etmek isteyenler, ulaşım konu
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Çeşitli bitki türleri
 - Zengin fauna
 - İç Anadolu Bölgesi

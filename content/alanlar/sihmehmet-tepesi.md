@@ -36,7 +36,7 @@ wikidata_id: "Q31386440"
 
 ## Coğrafya
 
-Şıhmehmet Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepe, Kilis'in merkezine yakın bir konumda bulunuyor ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şıhmehmet Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve fauna ile zenginleştiriliyor. Bu tepe, bölgenin coğrafi özelliklerini ve iklimini keşfetmek isteyenler için mükemmel bir seçim. Şıhmehmet Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor ve bölgenin coğrafi çeşitliliğini keşfetmek isteyenler için önemli bir destinasyon.
+Şıhmehmet Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepe, Kilis'in merkezine yakın bir konumda bulunuyor ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, bölgenin coğrafi özelliklerini ve iklimini keşfetmek isteyenler için mükemmel bir seçim. Şıhmehmet Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor ve bölgenin coğrafi çeşitliliğini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31386440"
 ## İlginç Bilgiler
 
 - Şıhmehmet Tepesi, Kilis'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Şıhmehmet Tepesi, çeşitli bitki türleri ve fauna ile zenginleştirilmiş bir alana sahip.
 - Bu tepe, bölgenin coğrafi özelliklerini ve iklimini keşfetmek isteyenler için mükemmel bir seçim.
 - Şıhmehmet Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor.

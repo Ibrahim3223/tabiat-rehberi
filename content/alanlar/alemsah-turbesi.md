@@ -30,7 +30,7 @@ wikidata_id: "Q131390480"
 
 # Alemşah Türbesi
 
-Alemşah Türbesi, Ezine ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış olup, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir ortama davet ediyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu türbe, ziyaretçilerine geniş bir açık alan sunuyor. Alemşah Türbesi, Ezine'nin önemli turizm noktalarından biri olarak kabul ediliyor.
+Alemşah Türbesi, Ezine ilçesinde yer alan tarihi bir yapıdır. Alemşah Türbesi, Ezine'nin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alemşah Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Alemşah Türbesi, Ezine ilçesinin merkezinde yer alıyor. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır. Alemşah Türbesi'nin bulunduğu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir açık alan sunuyor. Alemşah Türbesi, çevresindeki doğal güzellikleriyle birlikte, ziyaretçilerine geniş bir gezi alanı sunuyor. Bu türbenin bulunduğu bölgede, çeşitli fauna türleri de yaşuyor. Alemşah Türbesi, Ezine'nin önemli coğrafi noktalarından biri olarak kabul ediliyor.
+Alemşah Türbesi, Ezine ilçesinin merkezinde yer alıyor. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır. Alemşah Türbesi'nin bulunduğu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer. Bu bölgenin coğrafi yapısı, ziyaretçilere geniş bir açık alan sunuyor. Alemşah Türbesi, çevresindeki doğal güzellikleriyle birlikte, ziyaretçilerine geniş bir gezi alanı sunuyor. Bu türbenin bulunduğu bölgede, çeşitli fauna türleri de yaşuyor. Alemşah Türbesi, Ezine'nin önemli coğrafi noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Alemşah Türbesi'ni ziyaret etmek, Ezine'nin tarihi ve doğal güzelliklerini k
 ## İlginç Bilgiler
 
 - Alemşah Türbesi, Ezine'nin önemli tarihi yapılarından biridir.
-- Bu türbe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Alemşah Türbesi, ziyaretçilerine bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
 - Bu türbenin bulunduğu bölgede, çeşitli fauna türleri yaşiyor.
 - Alemşah Türbesi, Ezine'nin önemli coğrografik noktalarından biridir.

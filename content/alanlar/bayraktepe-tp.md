@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"BAYRAKTEPE TP","caption":"BAYRAKTEPE TP","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BAYRAKTEPE%20TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228770","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Bayraktepe TP, 140 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor."
+ Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor."
 keywords: ["Bayraktepe TP","İç Anadolu Bölgesi","doğal güzellik","flora","fauna","yeşil alan","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228770"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228770"
 
 # BAYRAKTEPE TP
 
-Bayraktepe TP, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alan 140 hektarlık bir milli parktır. Bayraktepe TP, zengin flora ve fauna çeşitliliği ile dikkat çekmekte olup, özellikle doğa severlerin ilgi odağı haline gelmiştir. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları yer almakta olup, ziyaretçiler burada keyifli anlar geçirebilmektedir.
+ Bayraktepe TP, zengin flora ve fauna çeşitliliği ile dikkat çekmekte olup, özellikle doğa severlerin ilgi odağı haline gelmiştir. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları yer almakta olup, ziyaretçiler burada keyifli anlar geçirebilmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bayraktepe TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Milli 
 
 ## Coğrafya
 
-Bayraktepe TP, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Milli park, 140 hektarlık bir alanı kaplamakta olup, çeşitli coğrafi oluşumlar ile dikkat çekmektedir. Bayraktepe TP'nin coğrafyası, genellikle ormanlık ve çayırlık alanlardan oluşmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermekte olup, karasal iklim özellikleri ile dikkat çekmektedir. Bayraktepe TP'nin coğrafi konumu, çeşitli flora ve fauna türlerinin yaşamasına elverişli olup, bu nedenle ziyaretçilerin ilgisini çekmektedir.
+Bayraktepe TP, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bayraktepe TP'nin coğrafyası, genellikle ormanlık ve çayırlık alanlardan oluşmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik göstermekte olup, karasal iklim özellikleri ile dikkat çekmektedir. Bayraktepe TP'nin coğrafi konumu, çeşitli flora ve fauna türlerinin yaşamasına elverişli olup, bu nedenle ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bayraktepe TP'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim olabi
 
 ## İlginç Bilgiler
 
-- Bayraktepe TP, 140 hektarlık bir yeşil alanı kaplamaktadır.
 - Milli parkın içinde, çeşitli flora ve fauna türleri yaşamaktadır.
 - Bayraktepe TP, özellikle doğa severlerin ve bilim insanlarının ilgisini çekmektedir.
 - Milli parkın kurulması, bölgenin doğal güzelliklerinin korunmasına katkıda bulunmuştur.

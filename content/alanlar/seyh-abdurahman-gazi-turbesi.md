@@ -38,7 +38,7 @@ wikidata_id: "Q131390521"
 
 ## Coğrafya
 
-Şeyh Abdurahman Gazi Türbesi, Van ilinin İpekyolu ilçesinde, yaklaşık 140 hektarlık bir alanda kurulmuştur. Türbenin bulunduğu bölge, dağlık bir araziye sahiptir ve çevresi, çeşitli ağaçlar ve bitkilerle kaplıdır. Türbenin etrafında, birkaç küçüköy ve yerleşim yeri bulunmaktadır. İpekyolu ilçesi, Van ilinin merkezi ile uzun bir mesafe uzaklıktadır. Şeyh Abdurahman Gazi Türbesi, ilçe merkezine uzun bir mesafe uzaklıktadır. Türbenin bulunduğu bölge, genel olarak, step ve dağlık bir coğrafyaya sahiptir. İklim, karasal bir iklimdir ve yazlar sıcak, kışlar soğuk geçer.
+ Türbenin bulunduğu bölge, dağlık bir araziye sahiptir ve çevresi, çeşitli ağaçlar ve bitkilerle kaplıdır. Türbenin etrafında, birkaç küçüköy ve yerleşim yeri bulunmaktadır. İpekyolu ilçesi, Van ilinin merkezi ile uzun bir mesafe uzaklıktadır. Şeyh Abdurahman Gazi Türbesi, ilçe merkezine uzun bir mesafe uzaklıktadır. Türbenin bulunduğu bölge, genel olarak, step ve dağlık bir coğrafyaya sahiptir. İklim, karasal bir iklimdir ve yazlar sıcak, kışlar soğuk geçer.
 
 ## Flora ve Fauna
 

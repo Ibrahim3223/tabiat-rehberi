@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekme"," Piknik","Tarihî yapıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Yeşildere Hamamı","caption":"Yeşildere Hamamı","credit":"Mediterranean ^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fildere%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245706","tip":"genel"}]
-description: "Karaman'ın doğal güzelliklerinden biri olan Yeşildere Hamamı, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Yeşildere Hamamı","Karaman","doğal güzellik","gezi","turizm","plaj","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245706"
@@ -37,7 +37,7 @@ Yeşildere Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlı
 
 ## Coğrafya
 
-Yeşildere Hamamı, Karaman'ın coğrafi yapısını yansıtan önemli bir bölgedir. 140 hektarlık geniş alan, çeşitli bitki türleriyle kaplıdır ve zengin bir fauna sahiptir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilerine geniş bir doğal alanı keşfetme fırsatı sunar. Yeşildere Hamamı'nın coğrafi konumu, ziyaretçilerin doğayı ve çevreyi gözlemlemeleri için idealdir. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir ve ziyaretçilere four mevsimi deneyimleme fırsatı sunar.
+Yeşildere Hamamı, Karaman'ın coğrafi yapısını yansıtan önemli bir bölgedir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilerine geniş bir doğal alanı keşfetme fırsatı sunar. Yeşildere Hamamı'nın coğrafi konumu, ziyaretçilerin doğayı ve çevreyi gözlemlemeleri için idealdir. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir ve ziyaretçilere four mevsimi deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

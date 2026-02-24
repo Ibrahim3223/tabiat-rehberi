@@ -48,7 +48,6 @@ Kartalkayası Tepesi'ni ziyaret etmek, özellikle doğa severler ve fotoğraf tu
 
 ## İlginç Bilgiler
 
-- Kartalkayası Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Tepenin zirvesi, yüksek bir konumda olup, çevreyi panoramik olarak görmeyi sağlar.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta olup, özellikle ilkbahar ve yaz aylarında, tepeye renkli bir görünüm kazandırmaktadır.
 - Tepenin eteklerinde, çeşitli hayvan türleri yaşamaktadır.

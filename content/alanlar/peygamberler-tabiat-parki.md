@@ -23,7 +23,7 @@ wikidata_id: "Q110487927"
 
 # Peygamberler Tabiat Parkı
 
-Peygamberler Tabiat Parkı, Diyarbakır'ın güneydoğu bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunur. Burada, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleme mümkündür. Ayrıca, parkın konumu itibarıyla, bölgenin tarihi ve kültürel zenginliklerini de keşfetme mümkündür.
+ Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunur. Burada, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleme mümkündür. Ayrıca, parkın konumu itibarıyla, bölgenin tarihi ve kültürel zenginliklerini de keşfetme mümkündür.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Peygamberler Tabiat Parkı, ziyaretçilerine çeşitli imkanlar sunar. Burada, d
 
 ## İlginç Bilgiler
 
-- Peygamberler Tabiat Parkı, yaklaşık 140 hektarlık bir alanı kapsar
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur
 - Parkın coğrafi konumu, bölgeyi keşfetme fırsatı sunar
 - Parkın iklimi, bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları soğuk ve yağışlıdır

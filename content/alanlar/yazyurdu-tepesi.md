@@ -20,7 +20,7 @@ aktiviteler: ["trekking","kamp yapma","doğa yürüyüşü","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Yazyurdu Tepesi","caption":"Yazyurdu Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yazyurdu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560123","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Yazyurdu Tepesi, yüksek bir konumdate, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["Yazyurdu Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31560123"
@@ -28,7 +28,7 @@ wikidata_id: "Q31560123"
 
 # Yazyurdu Tepesi
 
-Erzurum'un doğusunda yer alan Yazyurdu Tepesi, yüksek bir konumda ve 140 hektarlık bir alanı kapsar. Yazyurdu Tepesi, Erzurum'un önemli doğal güzelliklerinden biridir ve doğa severler için ideal bir gezi noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yazyurdu Tepesi, aynı zamanda tarihsel açıdan önemli bir bölgedir ve yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olmuştur.
+ Yazyurdu Tepesi, Erzurum'un önemli doğal güzelliklerinden biridir ve doğa severler için ideal bir gezi noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yazyurdu Tepesi, aynı zamanda tarihsel açıdan önemli bir bölgedir ve yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olmuştur.
 
 ## Tarihçe
 
@@ -44,11 +44,10 @@ Yazyurdu Tepesi, flora ve fauna açısından zengin bir bölgedir. Tepenin etraf
 
 ## Ziyaret Bilgileri
 
-Yazyurdu Tepesi, doğa severler için ideal bir gezi noktasıdır. Erzurum'un doğusunda yer alan bu tepe, yüksek bir konumda ve 140 hektarlık bir alanı kapsar. Yazyurdu Tepesi'ne gitmek için, Erzurum'a ulaşmak gerekir ve buradan, çeşitli ulaşım araçlarıyla tepeye gitme mümkündür. Yazyurdu Tepesi, aynı zamanda, tarihsel açıdan önemli bir bölgedir ve burada bulunan tarihi eserler, bölgenin zengin kültürel mirasını yansıtır. Yazyurdu Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz aylarıdır ve bu dönemde, tepe ve çevresindeki doğal güzellikler, en güzel hallerini sunar.
+Yazyurdu Tepesi, doğa severler için ideal bir gezi noktasıdır. Yazyurdu Tepesi'ne gitmek için, Erzurum'a ulaşmak gerekir ve buradan, çeşitli ulaşım araçlarıyla tepeye gitme mümkündür. Yazyurdu Tepesi, aynı zamanda, tarihsel açıdan önemli bir bölgedir ve burada bulunan tarihi eserler, bölgenin zengin kültürel mirasını yansıtır. Yazyurdu Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz aylarıdır ve bu dönemde, tepe ve çevresindeki doğal güzellikler, en güzel hallerini sunar.
 
 ## İlginç Bilgiler
 
-- Yazyurdu Tepesi, yüksek bir konumda ve 140 hektarlık bir alanı kapsar.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Yazyurdu Tepesi, tarihsel açıdan önemli bir bölgedir ve burada bulunan tarihi eserler, bölgenin zengin kültürel mirasını yansıtır.
 - Yazyurdu Tepesi, doğa severler için ideal bir gezi noktasıdır.

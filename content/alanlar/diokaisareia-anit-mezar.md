@@ -51,6 +51,6 @@ Diokaisareia Anıt Mezar, yıl boyunca ziyaret edilebilecek bir bölgedir. Ancak
 
 - Diokaisareia Anıt Mezar, Roma İmparatorluğu dönemine ait bir tarihi yapıdır.
 - Bu alan, Silifke'nin merkezine uzun bir mesafe uzaklıktadır.
-- Diokaisareia Anıt Mezar, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşamaktadır.
 - Diokaisareia Anıt Mezar, yıl boyunca ziyaret edilebilecek bir bölgedir.

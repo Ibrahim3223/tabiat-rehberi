@@ -28,7 +28,7 @@ wikidata_id: "Q31386186"
 
 # Feslikaya Tepesi
 
-Feslikaya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Gaziantep ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık alanı kaplamaktadır. Feslikaya Tepesi, bölgenin coğrafi özelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafında yer alan diğer doğal güzellikler, ziyaretçilere geniş bir keşif alanı sunmaktadır. Feslikaya Tepesi'nin yüksekliği, bölgenin panoramik manzarasını seyretmek için ideal bir noktadır. Tepenin zirvesine ulaşan ziyaretçiler, Güneydoğu Anadolu Bölgesi'nin geniş ve yeşil ovalarını, dağlarını ve nehirlerini görebilmektedir.
+Feslikaya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Feslikaya Tepesi, bölgenin coğrafi özelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafında yer alan diğer doğal güzellikler, ziyaretçilere geniş bir keşif alanı sunmaktadır. Feslikaya Tepesi'nin yüksekliği, bölgenin panoramik manzarasını seyretmek için ideal bir noktadır. Tepenin zirvesine ulaşan ziyaretçiler, Güneydoğu Anadolu Bölgesi'nin geniş ve yeşil ovalarını, dağlarını ve nehirlerini görebilmektedir.
 
 ## Tarihçe
 

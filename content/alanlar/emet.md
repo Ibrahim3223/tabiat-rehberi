@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/74/11_-_Ibrahim_Emet_4_October_2017.jpg","alt":"EMET manzarası","credit":"Sakhalinio","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/EMET_in_Suk_A-Dir_Jaffa.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/EMET_in_Suk_A-Dir_Jaffa.jpg/1280px-EMET_in_Suk_A-Dir_Jaffa.jpg","alt":"EMET - EMET in Suk A-Dir Jaffa","credit":"Nizzan Cohen","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/DP%C3%9C_Emet_Meslek_Y%C3%BCksekokulu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DP%C3%9C_Emet_Meslek_Y%C3%BCksekokulu.jpg/1280px-DP%C3%9C_Emet_Meslek_Y%C3%BCksekokulu.jpg","alt":"EMET - DPÜ Emet Meslek Yüksekokulu","credit":"E-92","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Photos_of_the_construction_masters%2C_chosen_from_the_Ali_Saim_%C3%9Clgen_Collection_%2814195695548%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Photos_of_the_construction_masters%2C_chosen_from_the_Ali_Saim_%C3%9Clgen_Collection_%2814195695548%29.jpg/1280px-Photos_of_the_construction_masters%2C_chosen_from_the_Ali_Saim_%C3%9Clgen_Collection_%2814195695548%29.jpg","alt":"EMET - Photos of the construction masters, chosen from the Ali Saim Ülgen Collection (14195695548)","credit":"SALTOnline","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/Derech_Emet_Teens_Minyan_Room.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Derech_Emet_Teens_Minyan_Room.jpg/1280px-Derech_Emet_Teens_Minyan_Room.jpg","alt":"EMET - Derech Emet Teens Minyan Room","credit":"Eddie Alkechk","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/28/Beauty_Of_Universe_%2851922142%29.jpeg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Beauty_Of_Universe_%2851922142%29.jpeg/1280px-Beauty_Of_Universe_%2851922142%29.jpeg","alt":"EMET - Beauty Of Universe (51922142)","credit":"\nAhmed Mustafa","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/EMET","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228732","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan EMET, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir milli park"
+
 keywords: ["EMET","milli park","İç Anadolu Bölgesi","doğal alanlar","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228732"
@@ -43,7 +43,6 @@ EMET'i ziyaret etmek, doğa severler ve tarihe ilgi duyanlar için harika bir de
 
 ## İlginç Bilgiler
 
-- EMET, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Bölgede çeşitli bitki türleri ve hayvanlar bulunur
 - EMET, flora ve fauna açısından zengin bir alandır
 - İlkbahar ve yaz ayları, EMET'i ziyaret etmek için en uygun zamanlardır

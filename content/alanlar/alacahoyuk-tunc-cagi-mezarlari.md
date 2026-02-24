@@ -37,7 +37,7 @@ Alacahöyük Tunç Çağı Mezarları, M.Ö. 3. binyıla ait olduğu düşünül
 
 ## Coğrafya
 
-Alacahöyük Tunç Çağı Mezarları, Çorum'un Alaca ilçesinde yer almaktadır. Karadeniz Bölgesi'nin coğrafi yapısı, bu bölgede yer alan mezarların korunmasına katkıda bulunmuştur. Mezarların bulunduğu alan, 140 hektarlık bir arazide kurulmuştur. Bu geniş alan, ziyaretçilere mezarları gezme ve tarihi geçmişi keşfetmek için yeterli oportunite sunmaktadır. Coğrafi konumu itibariyle, Alacahöyük mezarları, Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri haline gelmiştir. Bölge, zengin flora ve fauna ile çevrilidir ve ziyaretçilere doğal güzellikler sunmaktadır.
+Alacahöyük Tunç Çağı Mezarları, Çorum'un Alaca ilçesinde yer almaktadır. Karadeniz Bölgesi'nin coğrafi yapısı, bu bölgede yer alan mezarların korunmasına katkıda bulunmuştur. Bu geniş alan, ziyaretçilere mezarları gezme ve tarihi geçmişi keşfetmek için yeterli oportunite sunmaktadır. Coğrafi konumu itibariyle, Alacahöyük mezarları, Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri haline gelmiştir. Bölge, zengin flora ve fauna ile çevrilidir ve ziyaretçilere doğal güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Alacahöyük Tunç Çağı Mezarları, yıl boyunca ziyaret edilebilmektedir. İ
 - Mezarlar, M.Ö. 3. binyıla aittir.
 - Bölge, Karadeniz Bölgesi'nin önemli kültür ve tarih merkezlerinden biridir.
 - Alacahöyük, doğal güzellikleri ile de dikkat çekmektedir.
-- Mezarların bulunduğu alan, 140 hektarlık bir arazide kurulmuştur.
+

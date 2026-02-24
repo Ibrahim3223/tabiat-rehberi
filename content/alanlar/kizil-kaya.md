@@ -50,7 +50,7 @@ Kızıl Kaya'yı ziyaret etmek, Hatay'ın doğal güzelliklerini keşfetmek iste
 ## İlginç Bilgiler
 
 - Kızıl Kaya, Hatay'ın coğrafyasında önemli bir yer tutuyor
-- Kaya, 140 hektarlık bir alana sahip
+
 - Kaya, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor
 - Kaya'yı ziyaret etmek, Hatay'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon
 - Kaya, ilkbahar ve sonbahar aylarında ziyaret edilebilir

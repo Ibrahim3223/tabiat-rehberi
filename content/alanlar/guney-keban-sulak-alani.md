@@ -43,7 +43,7 @@ Güney Keban Sulak Alanı, ziyaretçilerini doğanın güzelliği ile karşılay
 ## İlginç Bilgiler
 
 - Sulak alanlar, su kaynaklarının zengin olduğu bölgelerde oluşur.
-- Güney Keban Sulak Alanı, 140 hektarlık bir alanı kapsar.
+
 - Bölgede, çeşitli bitki ve hayvan türleri yaşamlarını sürdürüyor.
 - Sulak alanların doğal dengesi, ekosistemin korunması için büyük önem taşıyor.
 - Güney Keban Sulak Alanı, doğa severler için önemli bir destinasyon

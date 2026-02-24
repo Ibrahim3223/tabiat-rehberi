@@ -50,7 +50,7 @@ Yeni Hamam Plajı, ziyaretçiler için çeşitli olanaklar sunuyor. İnsanlar, p
 ## İlginç Bilgiler
 
 - Yeni Hamam Plajı, İskenderun'un en önemli turistik noktalarından biri olarak kabul ediliyor.
-- Plaj, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - İskenderun'un tarihi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış zengin bir kültüre sahip.
 - Plajın bulunduğu bölgede, tarihi kalıntılar ve yapılar bulunmakta.
 - Yeni Hamam Plajı, İskenderun'un coğrafi güzelliğinin bir parçası olarak kabul ediliyor.

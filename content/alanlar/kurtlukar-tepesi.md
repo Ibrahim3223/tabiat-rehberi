@@ -36,7 +36,7 @@ Kurtlukar Tepesi, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı bir
 
 ## Coğrafya
 
-Kurtlukar Tepesi, Erzincan'ın coğrafi güzelliklerini sunan bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevreyi keşfetmek için ideal bir yer sunuyor. Burada, çeşitli bitki türleri ve zengin fauna bulunabilir. Kurtlukar Tepesi, Erzincan'ın iklimini yansıtan bir bölge olarak kabul ediliyor. Bu tepe, ziyaretçilerini doğanın güzellikleri ile baş başa bırakıyor. Çevre, doğal güzellikleri ile dikkat çekiyor ve ziyaretçileri için önemli bir deneyim sunuyor.
+Kurtlukar Tepesi, Erzincan'ın coğrafi güzelliklerini sunan bir nokta olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunabilir. Kurtlukar Tepesi, Erzincan'ın iklimini yansıtan bir bölge olarak kabul ediliyor. Bu tepe, ziyaretçilerini doğanın güzellikleri ile baş başa bırakıyor. Çevre, doğal güzellikleri ile dikkat çekiyor ve ziyaretçileri için önemli bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kurtlukar Tepesi, ziyaretçilerini bekliyor. Burada, doğa yürüyüşleri yapab
 ## İlginç Bilgiler
 
 - Kurtlukar Tepesi, Erzincan'ın önemli turizm noktalarından biri olarak dikkat çekiyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Kurtlukar Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu tepe, ekoloji açısından önemli bir bölge olarak kabul ediliyor.
 - Kurtlukar Tepesi, ziyaretçilerini doğanın güzellikleri ile baş başa bırakıyor.

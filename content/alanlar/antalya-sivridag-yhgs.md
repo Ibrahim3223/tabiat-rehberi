@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Flora ve fauna gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Sivridag_national_park.jpg","alt":"Antalya Sivridağ YHGS manzarası","credit":"Leyla kılınç","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sivridag_national_park.jpg/960px-Sivridag_national_park.jpg","alt":"Antalya Sivridağ YHGS","caption":"Antalya Sivridağ YHGS","credit":"Sivridag national park","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Citdibi_in_city_of_Antalya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Citdibi_in_city_of_Antalya.jpg/1280px-Citdibi_in_city_of_Antalya.jpg","alt":"Antalya Sivridağ YHGS - Citdibi in city of Antalya","credit":"Leyla kılınç","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Sivridag_national_park%2C_citdibi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sivridag_national_park%2C_citdibi.jpg/1280px-Sivridag_national_park%2C_citdibi.jpg","alt":"Antalya Sivridağ YHGS - Sivridag national park, citdibi","credit":"Leyla kılınç","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Sivrida%C4%9F%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227380","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Antalya Sivridağ YHGS, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzellikleri ve zengin faunasıyla dikkat çekiyor."
+ Doğal güzellikleri ve zengin faunasıyla dikkat çekiyor."
 keywords: ["Antalya","Sivridağ","YHGS","İç Anadolu Bölgesi","doğal alan","fauna","flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227380"
@@ -42,8 +42,6 @@ Antalya Sivridağ YHGS, flora ve fauna çeşitliliği ile dikkat çekiyor. Bu do
 Antalya Sivridağ YHGS'yi ziyaret etmek, doğa severler için bir rüya harika bir deneyim. YHGS'ye ulaşım, İç Anadolu Bölgesi'nden kolayca sağlanabiliyor. YHGS, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de dinlenme fırsatı sunuyor. Ziyaretçilerin, YHGS'nin flora ve faunasını gözlemleyebileceği gibi, burada doğa yürüyüşleri yapma veya piknik yapma imkanları da bulunuyor. YHGS'nin etrafı, yüksek dağlarla çevrilidir ve bu da burayı bir vaha haline getiriyor. Ziyaretçilerin, buraya gelirken, mevsimsel değişimlere göre uygun giysiler ile gelmeleri tavsiye ediliyor.
 
 ## İlginç Bilgiler
-
-- Antalya Sivridağ YHGS, 140 hektarlık bir yeşil alanı kapsıyor.
 
 - YHGS'nin coğrafyası, yüksek dağlarla çevrilidir.
 - YHGS, flora ve fauna çeşitliliği ile dikkat çekiyor.

@@ -52,6 +52,6 @@ wikidata_id: "Q131738617"
 
 - İstanbul'un en eski plajlarından biri
 - Marmara Bölgesi'nin en güzel noktalarından biri
-- 140 hektarlık alan
+
 - tarihi Türk hamamı kalıntıları üzerine kurulmuştur
 - çeşitli su sporları ve etkinliklere ev sahipliği yapar

@@ -53,5 +53,5 @@ Patara Küçük Hamam, ziyaretçilere birçok olanak sunar. Bu plaj, denizin ve 
 - Patara Antik Kenti'nin yakınlarında bulunur
 - Caretta yuvalanma alanıdır
 - 12 kilometre uzunluğundadır
-- 140 hektarlık alana sahiptir
+
 - Likya Uygarlığı'nın önemli merkezlerinden biri olarak bilinir

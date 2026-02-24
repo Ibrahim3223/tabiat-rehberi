@@ -22,8 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Brooklyn_Botanic_Garden_New_York_May_2015_panorama_2.jpg","alt":"Sit Tepe manzarası","credit":"King of Hearts","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/PK_Thatta_asv2020-02_img14_Makli_Necropolis.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/PK_Thatta_asv2020-02_img14_Makli_Necropolis.jpg/1280px-PK_Thatta_asv2020-02_img14_Makli_Necropolis.jpg","alt":"Sit Tepe - PK Thatta asv2020-02 img14 Makli Necropolis","credit":"A.Savin","license":"CC BY-SA"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3d/G%C3%B6beklitepe_2015-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/G%C3%B6beklitepe_2015-2.jpg/1280px-G%C3%B6beklitepe_2015-2.jpg","alt":"Sit Tepe - Göbeklitepe 2015-2","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7a/G%C3%B6beklitepe_2015-3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/G%C3%B6beklitepe_2015-3.jpg/1280px-G%C3%B6beklitepe_2015-3.jpg","alt":"Sit Tepe - Göbeklitepe 2015-3","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/G%C3%B6beklitepe_2015-12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/G%C3%B6beklitepe_2015-12.jpg/1280px-G%C3%B6beklitepe_2015-12.jpg","alt":"Sit Tepe - Göbeklitepe 2015-12","credit":"Hamdigumus","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/G%C3%B6beklitepe_2015-20.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/G%C3%B6beklitepe_2015-20.jpg/1280px-G%C3%B6beklitepe_2015-20.jpg","alt":"Sit Tepe - Göbeklitepe 2015-20","credit":"Hamdigumus","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sit%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389275","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Sit Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Sit Tepe","İç Anadolu Bölgesi","yeşil alan","futbol sahası","coğrafya","doğa","gezi","turizm"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389275"
 ---
@@ -50,7 +49,6 @@ Sit Tepe, ziyaretçilerine, çeşitli aktivite seçenekleri sunar. Burada, doğa
 
 ## İlginç Bilgiler
 
-- Sit Tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Sit Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor
 - Sit Tepe, flora ve fauna açısından zengin bir bölgedir
 - Sit Tepe, mevsimsel değişimlere uygun bir şekilde, farklı bitki ve hayvan türlerini barındırır

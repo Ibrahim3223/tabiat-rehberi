@@ -49,7 +49,7 @@ Safyolağı Tepesi'ni ziyaret etmek, ziyaretçilere doğal güzellikleri ve tari
 ## İlginç Bilgiler
 
 - Safyolağı Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedeceğiniz önemli bir noktadır
-- Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor
+
 - Safyolağı Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir
 - Bu tepe, ziyaretçilerine doğal güzellikleri ve tarihi geçmişi ile birlikte hem eğitim hem de eğlence imkanı sunuyor
 - Safyolağı Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan önemli bir noktadır

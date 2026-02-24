@@ -50,7 +50,7 @@ Köristan Örenyeri'ni ziyaret etmek, ziyaretçilere tarihi ve doğal güzellikl
 ## İlginç Bilgiler
 
 - Köristan Örenyeri, tarihi geçmişi ile bilinir
-- Bu örenyeri, 140 hektarlık bir alanı kapsar
+
 - Köristan Örenyeri, flora ve fauna açısından zengindir
 - Bu örenyeri, ziyaretçilerine unutulmaz bir deneyim sunar
 - Köristan Örenyeri, Sarıveliler ilçesinde yer alır

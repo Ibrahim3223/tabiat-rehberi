@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Tarihi_Kayseri_Mahallesi_360_Panorama.jpg","alt":"Setenönü Hamamı manzarası","credit":"Abdurrahman Çam","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seten%C3%B6n%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738776","tip":"genel"}]
-description: "Kayseri'nin Melikgazi ilçesinde bulunan Setenönü Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini çekiyor."
+"
 keywords: ["Setenönü Hamamı","Kayseri","Melikgazi","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738776"
@@ -50,8 +50,6 @@ Setenönü Hamamı, ziyaretçilerine farklı deneyimler sunmak için uygun bir o
 
 ## İlginç Bilgiler
 
-- Setenönü Hamamı, 140 hektarlık bir yeşil alan
-- Bu alanda, yaklaşık 200 futbol sahası büyüklüğünde
 - Setenönü Hamamı, yüzyıllar boyunca insan yerleşimine sahne olmuş
 - Bu bölgede, çeşitli uygarlıkların izlerine rastlama mümkün
 - Setenönü Hamamı, doğa severlerin ve gezi tutkunlarının ilgisini çekmektedir

@@ -50,7 +50,7 @@ Hürriyet Hamamı'na ziyaretçiler, toplu taşıma veya özel araçlar ile kolay
 ## İlginç Bilgiler
 
 - Hürriyet Hamamı, İstanbul'un en eski plajlarından biridir.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hürriyet Hamamı, Marmara Bölgesi'nin en güzel kıyılarında yer alır.
 - Plajın etrafı, çeşitli bitki türleri ile çevrili olan bir bölgedir.
 - Hürriyet Hamamı, ziyaretçilere hem doğa hem de şehir hayatının keyfini çıkarmak için ideal bir seçenektir.

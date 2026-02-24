@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşleri","deniz etkinlikleri","hayvan izleme","picn
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Batık Hamam","caption":"Batık Hamam","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bat%C4%B1k%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739030","tip":"genel"}]
-description: "Dalaman'da bulunan Batık Hamam, Muğla'nın gizli cennetlerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Dalaman'da bulunan Batık Hamam, Muğla'nın gizli cennetlerinden biri."
 keywords: ["Dalaman","Muğla","Ege Bölgesi","plaj","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739030"
@@ -49,7 +49,6 @@ Batık Hamam'a ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dö
 
 ## İlginç Bilgiler
 
-- Batık Hamam, 140 hektarlık bir alana sahiptir.
 - Bu bölge, Ege Bölgesi'nin güzelliklerini taşır.
 - Batık Hamam, tarihi ve coğrafi özellikleri ile dikkat çeker.
 - Bu bölgede, birçok farklı bitki türü ve hayvan yaşam alanı bulunur.

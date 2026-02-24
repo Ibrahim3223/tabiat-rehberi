@@ -28,7 +28,7 @@ wikidata_id: "Q31389097"
 
 # Karapınar Tepe
 
-Karapınar Tepe, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Karapınar Tepe, özellikle doğa severlerin ve tarihi geçmişe merak duyanların ilgi odağı haline geliyor. Bu tepe, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+ Karapınar Tepe, özellikle doğa severlerin ve tarihi geçmişe merak duyanların ilgi odağı haline geliyor. Bu tepe, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karapınar Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve birç
 
 ## Coğrafya
 
-Karapınar Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yükse ve dağlık bir arazide yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi, çeşitli bitki türleri ile kaplı. Karapınar Tepe'nin coğrafi konumu, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Bu tepe, aynı zamanda bölgede yaşayan zengin fauna ile dikkat çekiyor. Karapınar Tepe'nin coğrafi yapısı, ziyaretçilere birçok doğal güzelliği keşfetme fırsatı sunuyor. Bu tepe, özellikle ilkbahar ve yaz aylarında, yeşilin birçok tonunu ziyaretçilere sunuyor.
+Karapınar Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, yükse ve dağlık bir arazide yer alıyor. Karapınar Tepe'nin coğrafi konumu, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Bu tepe, aynı zamanda bölgede yaşayan zengin fauna ile dikkat çekiyor. Karapınar Tepe'nin coğrafi yapısı, ziyaretçilere birçok doğal güzelliği keşfetme fırsatı sunuyor. Bu tepe, özellikle ilkbahar ve yaz aylarında, yeşilin birçok tonunu ziyaretçilere sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Karapınar Tepe, ziyaretçilere birçok aktivite sunuyor. Bu tepe, özellikle do
 
 ## İlginç Bilgiler
 
-- Karapınar Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Bu tepe, birçok bitki türünün yetiştiği bir bölgede yer alıyor.
 - Karapınar Tepe, birçok tarihi eseri barındırıyor.
 - Bu tepe, özellikle doğa severlerin ve tarihi geçmişe merak duyanların ilgi odağı haline geliyor.

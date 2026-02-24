@@ -36,7 +36,7 @@ Dallıkavak Tepesi'nin tarihi geçmişi oldukça zengin. Bu tepe, yüzyıllar bo
 
 ## Coğrafya
 
-Dallıkavak Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Sivas'ın coğrafi yapısını şekillendiren önemli bir nokta olarak görülüyor. Dallıkavak Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip. Dallıkavak Tepesi'nin coğrafi yapısı, Sivas'ın iklimini ve çevre koşullarını etkileyen önemli faktörlerden biri olarak görülüyor. Bu tepe, Sivas'ın coğrafi ve kültürel yapısını anlamak için önemli bir kaynak olarak görülüyor. Dallıkavak Tepesi, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir ziyaret noktası olarak görülüyor.
+Dallıkavak Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Dallıkavak Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip. Dallıkavak Tepesi'nin coğrafi yapısı, Sivas'ın iklimini ve çevre koşullarını etkileyen önemli faktörlerden biri olarak görülüyor. Bu tepe, Sivas'ın coğrafi ve kültürel yapısını anlamak için önemli bir kaynak olarak görülüyor. Dallıkavak Tepesi, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir ziyaret noktası olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Dallıkavak Tepesi'ni ziyaret etmek, Sivas'ın doğal güzelliklerini keşfetmek
 ## İlginç Bilgiler
 
 - Dallıkavak Tepesi, Sivas'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Dallıkavak Tepesi, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip
 - Bu tepe, Sivas'ın coğrafi ve kültürel yapısını anlamak için önemli bir kaynak olarak görülüyor
 - Dallıkavak Tepesi'ni ziyaret etmek için en iyi mevsim ilkbahar ve sonbahar olarak görülüyor

@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Samsun-Vezirkopru-Akcay Kızılçam","caption":"Samsun-Vezirkopru-Akcay Kızılçam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samsun-Vezirkopru-Akcay%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227296","tip":"genel"}]
-description: "Samsun'da yer alan doğal güzellikler arasında bulunan Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Samsun","Vezirkopru","Akcay Kızılçam","Milli Park","Doğa","Yeşil Alan","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227296"
@@ -41,8 +41,6 @@ Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, zengin bir flora ve fauna ile 
 Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, ziyaretçiler için çeşitli olanaklar sunuyor. Ziyaretçiler, parkı gezerken, farklı yürüyüş parkurları kullanabilir ve doğanın güzelliğini keşfedebilir. Parka, özel araç veya toplu taşıma araçları ile ulaşım sağlanabilir. Ziyaretçilerin, parkın giriş ücretini ödemesi gerekiyor. Parkın içinde, ziyaretçilerin dinlenebileceği ve yeme içme ihtiyaçlarını karşılayabileceği alanlar found.
 
 ## İlginç Bilgiler
-
-- Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, 140 hektarlık bir alana sahip.
 
 - Parkta, çeşitli bitki türleri ve zengin fauna found.
 - Parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve manzaralar sunuyor.

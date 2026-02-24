@@ -28,7 +28,7 @@ wikidata_id: "Q31386893"
 
 # Ziraat Tepesi
 
-Kırıkkale'nin merkezi bir noktasında yer alan Ziraat Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Ziraat Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Tepenin zirvesinden şehrin panoramik manzarasını izleme mümkün. Ziraat Tepesi, Kırıkkale'nin önemli doğal güzelliklerinden biri olarak tanınır ve ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
+ Ziraat Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Tepenin zirvesinden şehrin panoramik manzarasını izleme mümkün. Ziraat Tepesi, Kırıkkale'nin önemli doğal güzelliklerinden biri olarak tanınır ve ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
 
 ## Tarihçe
 

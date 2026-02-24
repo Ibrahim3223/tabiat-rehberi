@@ -36,7 +36,7 @@ Gayser Tepesi'nin tarihi geçmişi, bölgenin kadim uygarlıklarına dayanıyor.
 
 ## Coğrafya
 
-Gayser Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yere sahip. Bu tepe, Şırnak ilinin güneydoğu kısmında yer almakta ve yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin çevresi, çeşitli bitki türleri ile kaplı ve zengin bir fauna barındırıyor. Gayser Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal kaynaklarını etkileyen faktörlerden biri. Tepenin yüksekliği ve konumu, bölgenin hava akımlarını ve yağış düzenini etkilemekte. Ayrıca, Gayser Tepesi'nin eteklerinde ve yakın çevresinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamakta önemli bir role sahip. Gayser Tepesi, bölgenin coğrafi çeşitliliği ve doğal güzellikleri açısından önemli bir destinasyon
+Gayser Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yere sahip. Tepenin çevresi, çeşitli bitki türleri ile kaplı ve zengin bir fauna barındırıyor. Gayser Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal kaynaklarını etkileyen faktörlerden biri. Tepenin yüksekliği ve konumu, bölgenin hava akımlarını ve yağış düzenini etkilemekte. Ayrıca, Gayser Tepesi'nin eteklerinde ve yakın çevresinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamakta önemli bir role sahip. Gayser Tepesi, bölgenin coğrafi çeşitliliği ve doğal güzellikleri açısından önemli bir destinasyon
 
 ## Flora ve Fauna
 

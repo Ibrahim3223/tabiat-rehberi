@@ -50,7 +50,7 @@ Açı Baba, ziyaretçilerini bekliyor. Açı Baba, doğal güzelliği ve tarihi 
 ## İlginç Bilgiler
 
 - Açı Baba, İç Anadolu Bölgesi'nin en yüksek noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Açı Baba, tarihi geçmişi ile dikkat çekici bir destinasyon.
 - Bu tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 - Açı Baba, muhteşem manzaralara ve panoramik görüntülere sahip.

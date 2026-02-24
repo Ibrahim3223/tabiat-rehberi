@@ -49,7 +49,7 @@ Ardıçdağ Tepe, ziyaretçilerine, birçok farklı aktivite sunar. Bu tepe, yü
 ## İlginç Bilgiler
 
 - Ardıçdağ Tepe, Hatay ilinin en yüksek noktalarından biridir
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Ardıçdağ Tepe, birçok farklı bitki ve hayvan türüne ev sahipliği yapar
 - Tepe, panoramik seyir için ideal bir noktadır
 - Ardıçdağ Tepe, birçok farklı fotoğraf çekme noktasına sahiptir

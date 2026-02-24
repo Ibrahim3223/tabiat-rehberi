@@ -28,7 +28,7 @@ wikidata_id: "Q31554086"
 
 # Şeyhsultan Tepesi
 
-Şeyhsultan Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Batman'ın tarihi ve coğrafi zenginliklerini bir araya getiren bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Şeyhsultan Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülüyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennet haline getiriyor.
+Şeyhsultan Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Şeyhsultan Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülüyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31554086"
 
 ## Coğrafya
 
-Şeyhsultan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesinde yer alıyor. Batman'ın coğrafi yapısı, tepeyi çevreleyen dağlar ve ovalarla şekillenmiştir. Tepenin konumu, ziyaretçilere bölgenin coğrafi güzelliğini keşfetme fırsatı sunuyor. Şeyhsultan Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri ve keşifler için uygun bir ortam sunuyor. Batman'ın iklimi, tepeyi çevreleyen coğrafi yapıyla şekillenmiştir ve bu iklim, bölgenin flora ve faunasını etkiliyor. Şeyhsultan Tepesi, ziyaretçilerine coğrafi güzelliği ve doğanın zenginliğini sunuyor.
+Şeyhsultan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir bölgesinde yer alıyor. Batman'ın coğrafi yapısı, tepeyi çevreleyen dağlar ve ovalarla şekillenmiştir. Tepenin konumu, ziyaretçilere bölgenin coğrafi güzelliğini keşfetme fırsatı sunuyor. Tepenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri ve keşifler için uygun bir ortam sunuyor. Batman'ın iklimi, tepeyi çevreleyen coğrafi yapıyla şekillenmiştir ve bu iklim, bölgenin flora ve faunasını etkiliyor. Şeyhsultan Tepesi, ziyaretçilerine coğrafi güzelliği ve doğanın zenginliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q31554086"
 
 ## İlginç Bilgiler
 
-- Şeyhsultan Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Tepenin adı, tarihi figürlerle bağlantılıdır.
 - Şeyhsultan Tepesi, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Tepenin tarihi önemi, ziyaretçilere tarihin depthsine götürerek, bölgenin geçmişini discoverye davet ediyor.

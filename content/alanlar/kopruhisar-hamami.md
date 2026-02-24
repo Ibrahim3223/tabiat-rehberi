@@ -37,7 +37,7 @@ Köprühisar Hamamı'nın tarihi geçmişi, Osmanlı dönemine kadar uzanıyor. 
 
 ## Coğrafya
 
-Köprühisar Hamamı, Bursa'nın Yenişehir ilçesinde yer alıyor. Marmara Bölgesi'ndeki konumuyla birlikte, hamam ve çevresindeki yeşil alanlar, bölgenin coğrafi özelliklerini yansıtıyor. Yaklaşık 140 hektarlık bir alana yayılan bu bölge, doğa güzellikleri ve tarihi yapılardan oluşan bir bütün. Çevresindeki ormanlık alanlar, hamamın doğal güzelliğini daha da artırıyor. İklim olarak, Marmara Bölgesi'nin ılıman iklimini yansıtan bu bölge, yıl boyunca ziyaret edilebilir. Köprühisar Hamamı ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunuyor.
+Köprühisar Hamamı, Bursa'nın Yenişehir ilçesinde yer alıyor. Marmara Bölgesi'ndeki konumuyla birlikte, hamam ve çevresindeki yeşil alanlar, bölgenin coğrafi özelliklerini yansıtıyor. Çevresindeki ormanlık alanlar, hamamın doğal güzelliğini daha da artırıyor. İklim olarak, Marmara Bölgesi'nin ılıman iklimini yansıtan bu bölge, yıl boyunca ziyaret edilebilir. Köprühisar Hamamı ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 

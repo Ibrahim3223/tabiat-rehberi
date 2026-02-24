@@ -29,7 +29,7 @@ wikidata_id: "Q133245850"
 
 # Saray Hamamı, Kastamonu
 
-Kastamonu'nun merkezinde bulunan Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Saray Hamamı, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir mekandır. Bu mekan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Kastamonu'nun en önemli gezi noktalarından biridir.
+ Saray Hamamı, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir mekandır. Bu mekan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Kastamonu'nun en önemli gezi noktalarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Saray Hamamı'nın tarihi geçmişi, Kastamonu'nun tarihi ile iç içe geçmişt
 
 ## Coğrafya
 
-Saray Hamamı, Kastamonu'nun merkezinde bulunmaktadır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Saray Hamamı'nın bulunduğu alan, yaklaşık 140 hektarlık bir arazidir. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Saray Hamamı'nın çevresi, Kastamonu'nun tarihi ve kültürel mekanları ile çevrilidir. Bu mekan, Kastamonu'nun en önemli gezi noktalarından biridir. Saray Hamamı, Kastamonu'nun coğrafi ve kültürel zenginliklerini yansıtan önemli bir mekandır. Bu mekan, Karadeniz Bölgesi'nin doğal güzelliklerini ve kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur.
+Saray Hamamı, Kastamonu'nun merkezinde bulunmaktadır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Saray Hamamı'nın çevresi, Kastamonu'nun tarihi ve kültürel mekanları ile çevrilidir. Bu mekan, Kastamonu'nun en önemli gezi noktalarından biridir. Saray Hamamı, Kastamonu'nun coğrafi ve kültürel zenginliklerini yansıtan önemli bir mekandır. Bu mekan, Karadeniz Bölgesi'nin doğal güzelliklerini ve kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Saray Hamamı, Kastamonu'nun merkezinde bulunmaktadır. Bu mekan, ulaşım açı
 
 - Saray Hamamı, Kastamonu'nun en eski hamamlarından biridir.
 - Bu mekan, Kastamonu'nun tarihi ve kültürel mirasını yansıtan önemli bir mekandır.
-- Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir.
 - Saray Hamamı, Kastamonu'nun en önemli gezi noktalarından biridir.

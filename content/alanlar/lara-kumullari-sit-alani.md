@@ -42,7 +42,6 @@ Lara Kumulları Sit Alanı, ziyaretçiler için bir doğal güzelli ve biyolojik
 
 ## İlginç Bilgiler
 
-- Lara Kumulları Sit Alanı, 140 hektarlık bir doğal alandan oluşuyor
 - Bu alan, tuzlu su kaynaklarına yakın bir konumda yer alıyor
 - Kumulların etrafında bulunan çeşitli bitki türleri, bu doğal alanın güzelliğini ve biyolojik çeşitliliğini arttırıyor
 - Lara Kumulları Sit Alanı, birçok hayvan türüne de ev sahipliği yapıyor

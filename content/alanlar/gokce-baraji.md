@@ -31,7 +31,7 @@ Gokce Baraji'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Gokce Baraji, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alır. Bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Gokce Baraji'nin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Kış aylarında, bölgenin karla kaplı manzaraları, ziyaretçilere huzurlu bir atmosfer sağlar. İlkbahar ve yaz aylarında ise, bölgenin yeşilliği ve çiçeklerinin açması, ziyaretçilere renkli ve canlı bir görünüm sunar. Gokce Baraji, aynı zamanda, çeşitli su kaynaklarına sahiptir ve bu su kaynakları, bölgenin ekolojisini destekler. Bölge, coğrafi olarak, İç Anadolu Bölgesi'nin diğer önemli destinasyonlarına da yakındır, bu nedenle, ziyaretçiler, Gokce Baraji'ni ziyaret ederken, aynı zamanda diğer önemli yerleri de keşfedebilir.
+Gokce Baraji, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alır. Gokce Baraji'nin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Kış aylarında, bölgenin karla kaplı manzaraları, ziyaretçilere huzurlu bir atmosfer sağlar. İlkbahar ve yaz aylarında ise, bölgenin yeşilliği ve çiçeklerinin açması, ziyaretçilere renkli ve canlı bir görünüm sunar. Gokce Baraji, aynı zamanda, çeşitli su kaynaklarına sahiptir ve bu su kaynakları, bölgenin ekolojisini destekler. Bölge, coğrafi olarak, İç Anadolu Bölgesi'nin diğer önemli destinasyonlarına da yakındır, bu nedenle, ziyaretçiler, Gokce Baraji'ni ziyaret ederken, aynı zamanda diğer önemli yerleri de keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Gokce Baraji'ni ziyaret etmek, ziyaretçilere, doğa ile iç içe bir deneyim su
 
 ## İlginç Bilgiler
 
-- Gokce Baraji, 140 hektarlık bir alanı kaplar
 - Bölge, çeşitli bitki türleri ile kaplıdır
 - Gokce Baraji, farklı hayvan türlerine ev sahipliği yapar
 - Bölge, mevsimsel değişimlere göre, farklı manzaralar sunar

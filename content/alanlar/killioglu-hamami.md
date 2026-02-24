@@ -50,7 +50,7 @@ Kıllıoğlu Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en iyi z
 ## İlginç Bilgiler
 
 - Kıllıoğlu Hamamı, İzmir'in en güzel plajlarından biri
-- Bu plaj, 140 hektarlık bir alana sahip
+
 - Bu bölgenin flora'sı, çeşitli bitki türlerinden oluşuyor
 - Bu bölgenin fauna'sı, çeşitli hayvanlardan oluşuyor
 - Bu bölgede, ziyaretçiler çeşitli aktiviteler yapabilirler

@@ -50,7 +50,7 @@ Kurtboğan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri hak
 ## İlginç Bilgiler
 
 - Kurtboğan Türbesi, Amasya'nın en önemli tarihi ve doğal güzelliklerinden biri olarak kabul ediliyor.
-- Bu türbe, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor.
+
 - Kurtboğan Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu alan, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimini taşıyor.
 - Ziyaretçiler, bu alanda, doğal güzellikleri ve canlıları yakından gözlemleyebilir.

@@ -36,7 +36,7 @@ wikidata_id: "Q34810087"
 
 ## Coğrafya
 
-Üvez Tepe, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresindeki diğer tepelerle birlikte, bölgenin coğrafi yapısına önemli katkılar sağlıyor. Üvez Tepe'nin coğrafi konumu, çevresindeki diğer tepelerle birlikte, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bu tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi çeşitliliğine katkıda bulunuyor. Ayrıca, Üvez Tepe, çevresindeki diğer tepelerle birlikte, bölgenin su kaynaklarını ve suyun coğrafi dağılımını etkiliyor.
+Üvez Tepe, coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Üvez Tepe'nin coğrafi konumu, çevresindeki diğer tepelerle birlikte, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bu tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi çeşitliliğine katkıda bulunuyor. Ayrıca, Üvez Tepe, çevresindeki diğer tepelerle birlikte, bölgenin su kaynaklarını ve suyun coğrafi dağılımını etkiliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34810087"
 
 ## İlginç Bilgiler
 
-- Üvez Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi yapısına önemli katkılar sağlıyor.
 - Üvez Tepe, flora ve fauna açısından zengin bir bölge olarak, çeşitli bitkiler ve hayvanlar barındırıyor.
 - Tepe, mevsimsel değişimlerle birlikte, farklı bitkiler ve hayvanlar barındırarak, bölgenin ekolojik zenginliğini gösteriyor.

@@ -49,7 +49,7 @@ Kuruziyaret Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve 
 ## İlginç Bilgiler
 
 - Kuruziyaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Kuruziyaret Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir.
 - Bu tepe, aynı zamanda bölgenin flora ve faunasını gözlemlemek için ideal bir noktadır.
 - Kuruziyaret Tepesi, doğa yürüyüşleri, fotoğrafçılık ve doğa gözlemi için ideal bir noktadır.

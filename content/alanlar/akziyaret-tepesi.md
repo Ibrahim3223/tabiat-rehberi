@@ -28,7 +28,7 @@ wikidata_id: "Q31391002"
 
 # Akziyaret Tepesi
 
-Akziyaret Tepesi, Kahramanmaraş'ın güzelliklerini bir araya getiren bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanda, ziyaretçilerine geniş bir görüş açısı sunuyor. 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin keyiflenebileceği bir yer. Akziyaret Tepesi, ziyaretçilerini bekliyor ve onların bu güzel doğa parçasını keşfetmelerine olanak tanıyor. Bu tepe, Kahramanmaraş'ın önemli bir turizm merkezi olarak dikkat çekiyor.
+Akziyaret Tepesi, Kahramanmaraş'ın güzelliklerini bir araya getiren bir doğa harikasıdır. Akziyaret Tepesi, ziyaretçilerini bekliyor ve onların bu güzel doğa parçasını keşfetmelerine olanak tanıyor. Bu tepe, Kahramanmaraş'ın önemli bir turizm merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akziyaret Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Akziyaret Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, çevre ile uyumlu bir şekilde diseñ edilmiştir ve ziyaretçilerine geniş bir görüş açısı sunuyor. 200 futbol sahası büyüklüğündeki bu alan, doğa severlerin keyiflenebileceği bir yer. Akziyaret Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Kahramanmaraş'ın önemli bir turizm merkezi olarak kabul ediliyor ve ziyaretçilerini ağırlıyor. Akziyaret Tepesi'nin coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor ve onların bu güzel doğa parçasını keşfetmelerine olanak tanıyor. Bu tepe, Kahramanmaraş'ın güzelliklerini bir araya getiren bir doğa harikasıdır.
+Akziyaret Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, çevre ile uyumlu bir şekilde diseñ edilmiştir ve ziyaretçilerine geniş bir görüş açısı sunuyor. Akziyaret Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Kahramanmaraş'ın önemli bir turizm merkezi olarak kabul ediliyor ve ziyaretçilerini ağırlıyor. Akziyaret Tepesi'nin coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor ve onların bu güzel doğa parçasını keşfetmelerine olanak tanıyor. Bu tepe, Kahramanmaraş'ın güzelliklerini bir araya getiren bir doğa harikasıdır.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Akziyaret Tepesi'ni ziyaret etmek, doğa severler için bir zorunluluktur. Bu te
 
 ## İlginç Bilgiler
 
-- Akziyaret Tepesi, 140 hektarlık bir alanda yer alıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Akziyaret Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bu tepe, Kahramanmaraş'ın önemli bir turizm merkezi olarak kabul ediliyor
 - Akziyaret Tepesi, mevsimsel değişimlere göre değişen bir doğa harikasıdır

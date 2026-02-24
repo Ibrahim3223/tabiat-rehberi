@@ -22,8 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/TR%20Izmir%20asv2020-02%20img31%20Konak%20Square.jpg","alt":"Konak Meydanı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Pigeons_in_Konak_Square%2C_December_2018.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pigeons_in_Konak_Square%2C_December_2018.jpg/1280px-Pigeons_in_Konak_Square%2C_December_2018.jpg","alt":"Konak Meydanı - Pigeons in Konak Square, December 2018","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Konak_Square%2C_December_2018.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Konak_Square%2C_December_2018.jpg/1280px-Konak_Square%2C_December_2018.jpg","alt":"Konak Meydanı - Konak Square, December 2018","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Konak_Square_at_night.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Konak_Square_at_night.jpg/1280px-Konak_Square_at_night.jpg","alt":"Konak Meydanı - Konak Square at night","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Konak_Square%2C_July_2020.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Konak_Square%2C_July_2020.jpg/1280px-Konak_Square%2C_July_2020.jpg","alt":"Konak Meydanı - Konak Square, July 2020","credit":"BSRF","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Konak_Meydan%C4%B1%2C_2019.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Konak_Meydan%C4%B1%2C_2019.jpg/1280px-Konak_Meydan%C4%B1%2C_2019.jpg","alt":"Konak Meydanı - Konak Meydanı, 2019","credit":"Gargarapalvin","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konak%20Meydan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6428726","tip":"genel"}]
-description: "İzmir'in kalbinde yer alan Konak Meydanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Konak Meydanı","İzmir","Ege Bölgesi","yeşil alan","futbol sahası","gezi","turizm"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q6428726"
 ---
@@ -38,7 +37,7 @@ Konak Meydanı, İzmir'in tarih boyunca önemli merkezlerinden biri olarak kabul
 
 ## Coğrafya
 
-Konak Meydanı, İzmir'in merkezinde yer alan bir meydandır. Bu meydanda, yaklaşık 140 hektarlık bir yeşil alan bulunur. Yeşil alan, ziyaretçilere doğayı deneyimleme fırsatı sunar. Meydanda, çeşitli ağaç türleri ve çiçekler bulunur. Ayrıca, meydanda yer alan bir aantal farklı bitki türleri, ziyaretçilere renkli bir atmosfer sunar. Konak Meydanı, İzmir'in iklimi açısından da önemli bir noktadır. İzmir, Ege Bölgesi'nde yer alan bir şehirdir ve bu bölgenin iklimine sahiptir. İzmir'in iklimi, genellikle ılımandır ve bu reason, Konak Meydanı'nı ziyaret etmek için ideal bir destinasyon haline getirir. Konak Meydanı, ayrıca, İzmir'in önemli noktalarına da yakındır. Bu reason, ziyaretçilerin hem Konak Meydanı'nı hem de diğer önemli noktaları rahatlıkla ziyaret etmelerini sağlar.
+Konak Meydanı, İzmir'in merkezinde yer alan bir meydandır. Yeşil alan, ziyaretçilere doğayı deneyimleme fırsatı sunar. Meydanda, çeşitli ağaç türleri ve çiçekler bulunur. Ayrıca, meydanda yer alan bir aantal farklı bitki türleri, ziyaretçilere renkli bir atmosfer sunar. Konak Meydanı, İzmir'in iklimi açısından da önemli bir noktadır. İzmir, Ege Bölgesi'nde yer alan bir şehirdir ve bu bölgenin iklimine sahiptir. İzmir'in iklimi, genellikle ılımandır ve bu reason, Konak Meydanı'nı ziyaret etmek için ideal bir destinasyon haline getirir. Konak Meydanı, ayrıca, İzmir'in önemli noktalarına da yakındır. Bu reason, ziyaretçilerin hem Konak Meydanı'nı hem de diğer önemli noktaları rahatlıkla ziyaret etmelerini sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +50,7 @@ Konak Meydanı, ziyaretçilere keyifli zaman geçirebileceği bir destinasyondur
 ## İlginç Bilgiler
 
 - Konak Meydanı, İzmir'in kalbinde yer alan bir meydandır
-- Meydanda, yaklaşık 140 hektarlık bir yeşil alan bulunur
+
 - Meydanda, çeşitli ağaç türleri ve çiçekler bulunur
 - Konak Meydanı, yaban hayatını gözlemlemek için ideal bir destinasyondur
 - Meydanda, mevsimsel değişimler bulunur

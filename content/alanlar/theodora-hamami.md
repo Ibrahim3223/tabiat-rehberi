@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Doğa fotoğrafçılığı","Ku�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Theodora Hamamı","caption":"Theodora Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Theodora%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738952","tip":"genel"}]
-description: "Tuzla'da bulunan Theodora Hamamı, Marmara Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle çevrilidir."
+description: "Tuzla'da bulunan Theodora Hamamı, Marmara Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Theodora Hamamı","Tuzla","Marmara Bölgesi","doğal alan","yeşil alan","bitki türleri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738952"
@@ -48,8 +48,6 @@ Theodora Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çeker. Bu ala
 Theodora Hamamı, ziyaretçilere yıl boyunca çeşitli deneyimler sunar. Bahar aylarında çiçeklerin açması, yaz aylarında sıcak günlerin keyfini çıkarmak, sonbahar aylarında renklerin değişimi ve kış aylarında yağmurun güzelliği, ziyaretçilere farklı deneyimler sunmaktadır. Theodora Hamamı'na ulaşım, kolaylıkla sağlanabilir. Tuzla'da bulunan bu alan, toplu taşıma araçları ile ulaşılabilir. Theodora Hamamı, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, piknik yapabilir ve doğanın güzelliğini keşfedebilir.
 
 ## İlginç Bilgiler
-
-- Theodora Hamamı, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
 
 - Theodora Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çeker.
 - Theodora Hamamı, tarihi geçmişi ile de önemlidir.

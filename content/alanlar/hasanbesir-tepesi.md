@@ -49,7 +49,7 @@ Hasanbeşir Tepesi, ziyaretçilerine, çeşitli etkinlikler sunar. Bu tepe, doğ
 ## İlginç Bilgiler
 
 - Hasanbeşir Tepesi, Van ilinin doğal güzelliklerini sunar.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Hasanbeşir Tepesi, çeşitli bitki türleri ile dolu bir alandır.
 - Bu tepe, zengin fauna ile dolu bir alandır.
 - Hasanbeşir Tepesi, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapar.

@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Altıkardesler","caption":"Altıkardesler","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1kardesler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227354","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Altıkardesler, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227354"
@@ -42,7 +42,6 @@ Altıkardesler milli parkını ziyaret etmek, doğa severler için önemli bir d
 
 ## İlginç Bilgiler
 
-- Altıkardesler milli parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor
 - Bölgenin fauna zenginliği, çeşitli hayvan türlerini barındırıyor
 - Parkta, ziyaretçilerin karşılaşabileceği hayvan türleri arasında, geyik, yaban domuzu ve çeşitli kuş türleri yer alıyor

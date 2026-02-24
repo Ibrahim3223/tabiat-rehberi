@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Geyik Tepesi","caption":"Geyik Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385819","tip":"genel"}]
-description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Geyik Tepesi, 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Geyik Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385819"
@@ -48,7 +48,6 @@ Geyik Tepesi'ne ziyaretçiler, Sivas il merkezinden aproximadamente 1 saatlik bi
 
 ## İlginç Bilgiler
 
-- Geyik Tepesi, 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Tepenin coğrafi konumu, ziyaretçilere farklı mevsimlerde farklı güzellikler sunmaktadır
 - Geyik Tepesi, flora ve fauna açısından zengin bir çeşitliliğe sahiptir
 - Tepenin ziyaretçilere sunduğu güzellikler, özellikle doğa severler ve trekking tutkunları için bir cennet olarak kabul edilmektedir

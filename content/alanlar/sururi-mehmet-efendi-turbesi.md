@@ -37,7 +37,7 @@ Sururi Mehmet Efendi Türbesi, yüzyıllar boyunca wichtiği bir geçmişe sahip
 
 ## Coğrafya
 
-Sururi Mehmet Efendi Türbesi, İstanbul'un Beyoğlu ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunuyor. Sururi Mehmet Efendi Türbesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Mekan, yıl boyunca ziyaretçilerini ağırlamak için hazır bulunuyor.
+Sururi Mehmet Efendi Türbesi, İstanbul'un Beyoğlu ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunuyor. Sururi Mehmet Efendi Türbesi'nin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Mekan, yıl boyunca ziyaretçilerini ağırlamak için hazır bulunuyor.
 
 ## Flora ve Fauna
 

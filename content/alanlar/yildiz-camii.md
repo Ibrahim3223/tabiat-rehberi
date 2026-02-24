@@ -51,7 +51,6 @@ Yıldız Camii, ziyaretçilere, İstanbul'un tarihi ve kültürel zenginliklerin
 ## İlginç Bilgiler
 
 - Yıldız Camii, İstanbul'un en önemli camileri arasında yer alır.
-- Cami, 140 hektarlık bir alanda bulunur.
 
 - Caminin giriş kısmı, geniş ve yüksek bir kapıdan oluşur.
 - Caminin bahçesi, geniş ve ferah bir alan olarak tasarlanmıştır.

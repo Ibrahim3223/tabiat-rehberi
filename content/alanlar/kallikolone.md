@@ -29,7 +29,7 @@ wikidata_id: "Q123925327"
 
 # Kallikolone
 
-İç Anadolu Bölgesi'nin merkezinde yer alan Kallikolone, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Kallikolone, ziyaretçilerini büyüleyen bir manzaraya sahip ve burada yapılan yürüyüşler, ziyaretçilere unutulmaz anlar yaşatıyor. Kallikolone, aynı zamanda bölgenin flora ve faunasını keşfetmek için ideal bir yer.
+ Kallikolone, ziyaretçilerini büyüleyen bir manzaraya sahip ve burada yapılan yürüyüşler, ziyaretçilere unutulmaz anlar yaşatıyor. Kallikolone, aynı zamanda bölgenin flora ve faunasını keşfetmek için ideal bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kallikolone'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin
 
 ## Coğrafya
 
-Kallikolone, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin en yüksek noktalarından biri. Kallikolone, aynı zamanda bölgenin iklimini şekillendiren önemli bir faktör ve buradaki hava koşulları, bölgenin flora ve faunasını etkiliyor. Kallikolone'nin çevresi, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna sunuyor. Bu tepe, aynı zamanda bölgenin en önemli su kaynaklarından biri ve buradaki suyun kalitesi, bölgenin diğer bölgelerine göre daha yüksek. Kallikolone, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği sunuyor.
+Kallikolone, İç Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden biri. Kallikolone, aynı zamanda bölgenin iklimini şekillendiren önemli bir faktör ve buradaki hava koşulları, bölgenin flora ve faunasını etkiliyor. Kallikolone'nin çevresi, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna sunuyor. Bu tepe, aynı zamanda bölgenin en önemli su kaynaklarından biri ve buradaki suyun kalitesi, bölgenin diğer bölgelerine göre daha yüksek. Kallikolone, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kallikolone, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültür
 
 ## İlginç Bilgiler
 
-- Kallikolone, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu tepe, bölgenin en yüksek noktalarından biri.
 - Kallikolone, bölgenin flora ve faunasını keşfetmek için ideal bir yer.
 - Buradaki bitkiler, bölgenin iklimini ve hava koşullarını etkiliyor.

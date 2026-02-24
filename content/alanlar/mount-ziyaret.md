@@ -37,7 +37,7 @@ Mount Ziyaret'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe
 
 ## Coğrafya
 
-Mount Ziyaret, Doğu Anadolu Bölgesi'nin coğrafyasında önemli bir yer tutar. Bu tepe, Bingöl ilinin merkezinde yer alır ve çevresinde birçok doğal güzellik bulunur. Mount Ziyaret'in coğrafyası, ziyaretçileri için bir çekim merkezi olarak kabul edilir. Tepe, 140 hektarlık bir alanı kaplar ve çevresi, çeşitli bitki türleri ile kaplıdır. Mount Ziyaret'in iklimi, karasal iklim özellikleri gösterir ve ziyaretçiler, tepeye çıkarak bu güzel iklimi deneyimleyebilirler. Mount Ziyaret, birçok doğal güzelliğe de ev sahipliği yapar ve ziyaretçiler, bu güzel tepeye çıkarak çevreyi keşfedebilirler. Mount Ziyaret'in coğrafyası, birçok önemli noktaya da yakın bir mesafede yer alır ve ziyaretçiler, bu güzel tepeye çıkarak çevresini keşfedebilirler.
+Mount Ziyaret, Doğu Anadolu Bölgesi'nin coğrafyasında önemli bir yer tutar. Bu tepe, Bingöl ilinin merkezinde yer alır ve çevresinde birçok doğal güzellik bulunur. Mount Ziyaret'in coğrafyası, ziyaretçileri için bir çekim merkezi olarak kabul edilir. Mount Ziyaret'in iklimi, karasal iklim özellikleri gösterir ve ziyaretçiler, tepeye çıkarak bu güzel iklimi deneyimleyebilirler. Mount Ziyaret, birçok doğal güzelliğe de ev sahipliği yapar ve ziyaretçiler, bu güzel tepeye çıkarak çevreyi keşfedebilirler. Mount Ziyaret'in coğrafyası, birçok önemli noktaya da yakın bir mesafede yer alır ve ziyaretçiler, bu güzel tepeye çıkarak çevresini keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Mount Ziyaret, ziyaretçiler için birçok olanak sunar. Ziyaretçiler, tepeye �
 
 ## İlginç Bilgiler
 
-- Mount Ziyaret, 140 hektarlık bir alanı kaplar.
 - Tepe, birçok bitki türüne ev sahipliği yapar.
 - Mount Ziyaret'in çevresinde, birçok hayvan türü bulunur.
 - Tepe, birçok mevsimsel değişime de sahne olur.

@@ -42,7 +42,6 @@ Eşmekaya Bataklığı Sit Alanı, doğa severler için bir cennet. Buraya nası
 
 ## İlginç Bilgiler
 
-- Eşmekaya Bataklığı Sit Alanı, 140 hektarlık bir alanı kapsıyor.
 - Bu alan, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için gerçek bir hazine.
 - Eşmekaya Bataklığı, yaban hayatının zengin çeşitliliğine ev sahipliği yapıyor.
 - Bu doğal sit alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.

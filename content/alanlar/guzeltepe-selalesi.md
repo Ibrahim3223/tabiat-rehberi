@@ -22,7 +22,7 @@ wikidata_id: "Q118929894"
 
 # Güzeltepe Şelalesi
 
-Güzeltepe Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir alanın içinde bulunan, ziyaretçilerini doğanın güzelliği ile baş başa bırakabilen bir doğa harikası. Şelalenin güzelliği, çevreyi saran yeşilli ve suyun sesi ile birleşerek, ziyaretçilere huzurlu bir ortam sunuyor. Güzeltepe Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+ Şelalenin güzelliği, çevreyi saran yeşilli ve suyun sesi ile birleşerek, ziyaretçilere huzurlu bir ortam sunuyor. Güzeltepe Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Güzeltepe Şelalesi'ni ziyaret etmek, hem doğa severler hem de fotoğraf tutku
 
 ## İlginç Bilgiler
 
-- Güzeltepe Şelalesi, yaklaşık 140 hektarlık bir alanın içinde yer alıyor.
 - Şelale, ziyaretçilere, doğanın güzelliği ve huzurlu bir ortam sunuyor.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Şelale, ilkbahar ve yaz aylarında, yeşilin tüm tonlarını görme mümkün.

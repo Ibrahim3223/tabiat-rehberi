@@ -28,7 +28,7 @@ wikidata_id: "Q28136374"
 
 # MKE Silahsan Özel Müzesi
 
-MKE Silahsan Özel Müzesi, Kırıkkale ilinde, İç Anadolu Bölgesi'nin kalbinde yer alan özel bir müze olarak dikkat çekiyor. Bu müze, yaklaşık 140 hektarlık bir alanda, ziyaretçilerine tarihi silah koleksiyonlarını sunuyor. 200 futbol sahası büyüklüğünde bir alan üzerine kurulu olan MKE Silahsan Özel Müzesi, geniş koleksiyonu ve etkileyici atmosferi ile ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Müzenin konumu, ziyaretçilerin rahatça ulaşabileceği bir noktada bulunuyor ve bölgenin önemli kültürel merkezlerinden biri olarak kabul ediliyor.
+MKE Silahsan Özel Müzesi, Kırıkkale ilinde, İç Anadolu Bölgesi'nin kalbinde yer alan özel bir müze olarak dikkat çekiyor. Müzenin konumu, ziyaretçilerin rahatça ulaşabileceği bir noktada bulunuyor ve bölgenin önemli kültürel merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

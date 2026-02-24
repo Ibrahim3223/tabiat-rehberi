@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Doğa yürüyü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Doğanlar Tepesi","caption":"Doğanlar Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fanlar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525527","tip":"genel"}]
-description: "Antalya'nın gizli cenneti Doğanlar Tepesi, 140 hektarlık geniş bir alan üzerine kurulu"
+
 keywords: ["Doğanlar Tepesi","Antalya","Akdeniz Bölgesi","tepe","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31525527"
@@ -28,7 +28,7 @@ wikidata_id: "Q31525527"
 
 # Doğanlar Tepesi
 
-Doğanlar Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan ve 140 hektarlık geniş bir alan üzerine kurulu olan bir tepe. Doğanlar Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Doğanlar Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Doğanlar Tepesi'ni ziyaret etmek isteyenler, Antalya'nın Akdeniz Bölgesi'ne g
 
 ## İlginç Bilgiler
 
-- Doğanlar Tepesi, 140 hektarlık geniş bir alan üzerine kurulu
 - Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta
 - Bölge, ekolojik açıdan önemli bir bölge olarak kabul ediliyor
 - Tepede, çeşitli hayvan türleri de yaşamakta

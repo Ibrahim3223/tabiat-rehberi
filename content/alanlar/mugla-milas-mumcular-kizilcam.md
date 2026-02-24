@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Mugla-Milas-Mumcular Kızılçam","caption":"Mugla-Milas-Mumcular Kızılçam","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Mumcular%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227460","tip":"genel"}]
-description: "Muğla'nın doğal güzellikleri arasında yer alan Mumcular Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Mugla-Milas-Mumcular Kızılçam","Milli Park","Muğla","Doğa","Kızılçam","Ege Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227460"
@@ -42,7 +42,6 @@ Mugla-Milas-Mumcular Kızılçam Milli Parkı, ziyaretçiler için önemli bir d
 
 ## İlginç Bilgiler
 
-- Mugla-Milas-Mumcular Kızılçam Milli Parkı, 140 hektarlık bir alanı kapsıyor.
 - Milli parkın içinde, özellikle kızılçam ağaçları bulunmakta.
 - Milli park, Muğla'nın Milas ilçesinde bulunuyor.
 - Milli parkın iklimi, Akdeniz ikliminin características'ini taşıyor.

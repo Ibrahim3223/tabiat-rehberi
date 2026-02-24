@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Dinginlik.jpg","alt":"Ekmeksiz Plajı Tabiat Parkı manzarası","credit":"Hazal Durgun","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/G%C3%BCne%C5%9F.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/G%C3%BCne%C5%9F.jpg/1280px-G%C3%BCne%C5%9F.jpg","alt":"Ekmeksiz Plajı Tabiat Parkı - Güneş","credit":"Hazal Durgun","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d2/View_of_Ekmeksiz_Beach.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/View_of_Ekmeksiz_Beach.jpg/1280px-View_of_Ekmeksiz_Beach.jpg","alt":"Ekmeksiz Plajı Tabiat Parkı - View of Ekmeksiz Beach","credit":"Fivitria","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/27/Forest_trails.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Forest_trails.jpg/1280px-Forest_trails.jpg","alt":"Ekmeksiz Plajı Tabiat Parkı - Forest trails","credit":"Fivitria","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d2/View_of_Ekmeksiz_Beach_from_the_hill.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/View_of_Ekmeksiz_Beach_from_the_hill.jpg/1280px-View_of_Ekmeksiz_Beach_from_the_hill.jpg","alt":"Ekmeksiz Plajı Tabiat Parkı - View of Ekmeksiz Beach from the hill","credit":"Fivitria","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Turquoise-blue_beach.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Turquoise-blue_beach.jpg/1280px-Turquoise-blue_beach.jpg","alt":"Ekmeksiz Plajı Tabiat Parkı - Turquoise-blue beach","credit":"Fivitria","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ekmeksiz%20Plaj%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228169","tip":"genel"}]
-description: "İzmir'in Seferihisar ilçesinde yer alan Ekmeksiz Plajı Tabiat Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
+"
 keywords: ["Ekmeksiz Plajı","Tabiat Parkı","Seferihisar","İzmir","Ege Bölgesi","Plaj","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228169"
@@ -30,7 +30,7 @@ wikidata_id: "Q108228169"
 
 # Ekmeksiz Plajı Tabiat Parkı
 
-Ekmeksiz Plajı Tabiat Parkı, İzmir'in Seferihisar ilçesinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini bekleyen bir doğa harikasıdır. Parkın konumu, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğanın içinde huzur bulma fırsatı sunuyor. Ekmeksiz Plajı Tabiat Parkı, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak ortaya çıkarken, aynı zamanda bölgenin turizm potansiyelini de artırıyor.
+ Parkın konumu, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğanın içinde huzur bulma fırsatı sunuyor. Ekmeksiz Plajı Tabiat Parkı, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak ortaya çıkarken, aynı zamanda bölgenin turizm potansiyelini de artırıyor.
 
 ## Tarihçe
 

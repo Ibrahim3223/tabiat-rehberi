@@ -29,7 +29,7 @@ wikidata_id: "Q131739140"
 
 # Silivri Belediye Hamamı
 
-Silivri Belediyesi Hamamı, İstanbul'un Silivri ilçesinde yer alan bir plajdır. Marmara Denizi'nin güzelliğini sunan bu plaj, yaklaşık 140 hektarlık bir alan üzerinde kuruludur. Silivri Belediyesi Hamamı, hem yerli hem de yabancı turistler için çekici bir destinasyon olarak bilinir. Bu plajda, güneşin tadını çıkarmak, denizde serinleme ve çeşitli su sporları yapma mümkündür. Ayrıca, plajın çevresinde çeşitli restoran ve kafeler bulunmakta olup, ziyaretçiler Burada lezzetli yemeklerin ve içeceklerin tadını çıkarabilirler.
+Silivri Belediyesi Hamamı, İstanbul'un Silivri ilçesinde yer alan bir plajdır. Silivri Belediyesi Hamamı, hem yerli hem de yabancı turistler için çekici bir destinasyon olarak bilinir. Bu plajda, güneşin tadını çıkarmak, denizde serinleme ve çeşitli su sporları yapma mümkündür. Ayrıca, plajın çevresinde çeşitli restoran ve kafeler bulunmakta olup, ziyaretçiler Burada lezzetli yemeklerin ve içeceklerin tadını çıkarabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Silivri Belediyesi Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu b
 
 ## Coğrafya
 
-Silivri Belediyesi Hamamı, Marmara Denizi kıyısında, Silivri ilçesinde yer almaktadır. Bu plaj, İstanbul'un batı ucunda, Avrupa yakasında bulunmaktadır. Coğrafi olarak, plajın etrafı tepelerle çevrilidir ve bu tepe, plaja doğal bir koruma sağlamlar. Silivri Belediyesi Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kuruludur ve bu alan, geniş kumsalları, temiz suyu ve çeşitli su sporları imkanları ile dikkat çekmektedir. Plajın hinterlandında, çeşitli turistik yerler ve tarihi yapılar bulunmaktadır. Silivri, İstanbul'un önemli bir turizm merkezi olup, bu plaj da bölgenin en çok ziyaret edilen noktalarından birisidir. Silivri Belediyesi Hamamı, Marmara Denizi'nin güzelliğini sunmakta ve ziyaretçilere keyifli bir tatil imkanı sağlamaktadır.
+Silivri Belediyesi Hamamı, Marmara Denizi kıyısında, Silivri ilçesinde yer almaktadır. Bu plaj, İstanbul'un batı ucunda, Avrupa yakasında bulunmaktadır. Coğrafi olarak, plajın etrafı tepelerle çevrilidir ve bu tepe, plaja doğal bir koruma sağlamlar. Plajın hinterlandında, çeşitli turistik yerler ve tarihi yapılar bulunmaktadır. Silivri, İstanbul'un önemli bir turizm merkezi olup, bu plaj da bölgenin en çok ziyaret edilen noktalarından birisidir. Silivri Belediyesi Hamamı, Marmara Denizi'nin güzelliğini sunmakta ve ziyaretçilere keyifli bir tatil imkanı sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Silivri Belediyesi Hamamı, yıl boyunca ziyaret edilebilir. Ancak, en uygun ziy
 ## İlginç Bilgiler
 
 - Silivri Belediyesi Hamamı, Marmara Denizi'nin güzelliğini sunar.
-- Plaj, yaklaşık 140 hektarlık bir alan üzerinde kuruludur.
+
 - Silivri Belediyesi Hamamı, hem yerli hem de yabancı turistler için çekici bir destinasyon olarak bilinir.
 - Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.
 - Silivri Belediyesi Hamamı, deniz canlıları açısından da zengindir.

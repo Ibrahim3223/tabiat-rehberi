@@ -29,7 +29,7 @@ wikidata_id: "Q131391711"
 
 # Ahi Fahreddin Türbesi
 
-Ahi Fahreddin Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destino. Yakutiye, Erzurum'da bulunan bu tarihi mekan, yaklaşık 140 hektarlık bir alanda kurulan bir dini kompleksin parçası. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kompleks, ziyaretçilerini geçmişin derinliklerine götürüyor. Ahi Fahreddin Türbesi, tarihi geçmişi ve dini önemi ile dikkat çekiyor. Ziyaretçiler, bu mekanın atmosferini hissederken, aynı zamanda bölgenin zengin kültürel mirasını da keşfetme fırsatı buluyor.
+Ahi Fahreddin Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destino. Ahi Fahreddin Türbesi, tarihi geçmişi ve dini önemi ile dikkat çekiyor. Ziyaretçiler, bu mekanın atmosferini hissederken, aynı zamanda bölgenin zengin kültürel mirasını da keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Ahi Fahreddin Türbesi'ni ziyaret etmek, hem dini hem de kültürel açıdan ön
 ## İlginç Bilgiler
 
 - Ahi Fahreddin Türbesi, Selçuklu dönemi alim ve mutasavvıfı Ahi Fahreddin'e ait bir türbedir.
-- Türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur.
+
 - Ahi Fahreddin Türbesi, Doğu Anadolu Bölgesi'nin önemli dini ve kültürel mekanlarından biridir.
 - Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere doğal bir ortam sunuyor.
 - Ahi Fahreddin Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak bahar ve yaz ayları, ziyaret için en uygun zamanlar.

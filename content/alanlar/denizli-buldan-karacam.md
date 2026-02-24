@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Doğa ile iç içe olma
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Denizli-Buldan Karacam","caption":"Denizli-Buldan Karacam","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Buldan%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227499","tip":"genel"}]
-description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık alan"
+
 keywords: ["Denizli","Buldan","Karacam","Milli Park","Ege Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227499"
@@ -43,7 +43,7 @@ Denizli-Buldan Karacam'ı ziyaret etmek, doğa severler için mükemmel bir dene
 ## İlginç Bilgiler
 
 - Denizli-Buldan Karacam, Ege Bölgesi'nin en güzel köşelerinden biri
-- 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Çeşitli bitki türleri ve zengin fauna ile dolu bir doğa cenneti
 - İlkbahar ve sonbahar ayları, ziyaret için en iyi zamanlar
 - Doğa yürüyüşü, fotoğraf çekimi ve doğa ile iç içe olma gibi aktiviteleri yapma mümkün

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Erendede Tepesi","caption":"Erendede Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erendede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387850","tip":"genel"}]
-description: "İzmir'in doğal güzelliklerinin başında gelen Erendede Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Erendede Tepesi","İzmir","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387850"
@@ -48,8 +48,7 @@ Erendede Tepesi'ni ziyaret etmek, hem doğa severler hem de turistler için idea
 
 ## İlginç Bilgiler
 
-- Erendede Tepesi, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Erendede Tepesi, Ege Bölgesi'nin karakteristik özellikleri olan, sıcak ve kuru yazlar ve ılık ve yağışlı kışlar ile karakterize edilen bir iklime sahip
 - Erendede Tepesi, flora ve fauna açısından, Ege Bölgesi'nin karakteristik özellikleri olan, zeytin ağaçları, kestane ağaçları ve diğer bitki türleri ile karakterize edilen bir bölge
 - Erendede Tepesi, hem doğa severler hem de turistler için ideal bir yer
-- Erendede Tepesi, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ve zengin fauna bulunmakta
+

@@ -48,8 +48,6 @@ Kuharikamuslimin Tepesi, ziyaretçilerini bekleyen bir doğa harikasıdır. Bu t
 
 ## İlginç Bilgiler
 
-- Kuharikamuslimin Tepesi, 140 hektarlık bir alanı kaplar.
-
 - Kuharikamuslimin Tepesi, eşsiz manzarası ile dikkat çeker.
 - Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir.
 - Kuharikamuslimin Tepesi, her yıl binlerce ziyaretçi tarafından ziyaret edilir.

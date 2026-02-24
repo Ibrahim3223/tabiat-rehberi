@@ -51,6 +51,6 @@ Eşenköy Tümülüsü, yılın her mevsiminde ziyaret edilebilir ve her mevsim 
 
 - Eşenköy Tümülüsü, Marmara Bölgesi'nin en önemli turizm noktalarından biridir.
 - Bu tarihi mekân, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır.
-- Eşenköy Tümülüsü, 140 hektarlık bir büyüklüğe sahiptir.
+
 - Bu alan, yüksek bir konumda yer alır.
 - Eşenköy Tümülüsü, zengin bir flora ve fauna çeşitliliğine sahiptir.

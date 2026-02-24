@@ -38,7 +38,7 @@ Murat Baba Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, 
 
 ## Coğrafya
 
-Murat Baba Türbesi, Ayvalık'ın merkezine yakın bir konumda bulunur ve Marmara Bölgesi'nin eşsiz doğal güzelliklerini sunar. Plajın bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir ve bu geniş alan, ziyaretçilere rahat bir şekilde güneşlenmeleri ve denizden yararlanmaları için yeterli olanak sağlar. Bölgenin coğrafi yapısı, genellikle düz ve geniş kumsallardan oluşur. Murat Baba Türbesi'nin deniz suyu, temiz ve berra olup, ziyaretçilerin yüzme ve diğer su aktivitelerından keyif almasına olanak tanır. Plajın etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir ve bu, ziyaretçilere gölge ve serinlik sağlar. İklim, geral olarak ılımandır ve yaz aylarında sıcaklık artar. Murat Baba Türbesi, özellikle yaz mevsiminde, ziyaretçilerine keyifli bir tatil deneyimi sunar.
+Murat Baba Türbesi, Ayvalık'ın merkezine yakın bir konumda bulunur ve Marmara Bölgesi'nin eşsiz doğal güzelliklerini sunar. Bölgenin coğrafi yapısı, genellikle düz ve geniş kumsallardan oluşur. Murat Baba Türbesi'nin deniz suyu, temiz ve berra olup, ziyaretçilerin yüzme ve diğer su aktivitelerından keyif almasına olanak tanır. Plajın etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir ve bu, ziyaretçilere gölge ve serinlik sağlar. İklim, geral olarak ılımandır ve yaz aylarında sıcaklık artar. Murat Baba Türbesi, özellikle yaz mevsiminde, ziyaretçilerine keyifli bir tatil deneyimi sunar.
 
 ## Flora ve Fauna
 

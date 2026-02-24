@@ -23,7 +23,7 @@ wikidata_id: "Q108228633"
 
 # KOCAELİ
 
-Kocaeli milli parkı, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğa alanıdır. Kocaeli milli parkı, doğa severlerin ziyaret edebileceği bir alan olarak bilinir ve burada çeşitli bitki türleri ile karşılaşma mümkündür. Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar.
+ Kocaeli milli parkı, doğa severlerin ziyaret edebileceği bir alan olarak bilinir ve burada çeşitli bitki türleri ile karşılaşma mümkündür. Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kocaeli milli parkını ziyaret etmek, doğa severler için benzersiz bir deneyi
 ## İlginç Bilgiler
 
 - Kocaeli milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa alanıdır.
-- Park, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Kocaeli milli parkı, çeşitli bitki türleri ile zengin bir fauna sunar.
 - Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar.
 - Kocaeli milli parkı, ziyaretçilere, bölgenin ekolojik yapısını ve doğa güzelliğini keşfetme fırsatı sunar.

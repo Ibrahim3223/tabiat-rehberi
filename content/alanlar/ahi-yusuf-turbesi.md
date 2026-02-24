@@ -50,7 +50,7 @@ Ahi Yusuf Türbesi'ni ziyaret etmek, hem dini hem de kültürel bir deneyim olab
 ## İlginç Bilgiler
 
 - Ahi Yusuf Türbesi, Sivas'ın Divriği ilçesindeki önemli tarihi ve dini yapılardan biri.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde.
+
 - Ahi Yusuf, bir dini lider olarak bilinir ve bu bölgede yaşayan halk tarafından saygı görmüş.
 - Türbe, zaman içinde restore edilmiş ve günümüzde de ziyaretçilerini ağırlamaya devam ediyor.
 - Ahi Yusuf Türbesi'nin çevresi, hem doğal güzellikleri hem de tarihi yapıları ile ziyaretçilerini cezbediyor.

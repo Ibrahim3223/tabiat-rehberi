@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_03.JPG","alt":"Erzurum Saricam manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_02.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_02.JPG/1280px-Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_02.JPG","alt":"Erzurum Saricam - Pinus sylvestris - Sarıçam 02","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_01.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_01.JPG/1280px-Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_01.JPG","alt":"Erzurum Saricam - Pinus sylvestris - Sarıçam 01","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_04.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_04.JPG/1280px-Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_04.JPG","alt":"Erzurum Saricam - Pinus sylvestris - Sarıçam 04","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_05.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_05.JPG/1280px-Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_05.JPG","alt":"Erzurum Saricam - Pinus sylvestris - Sarıçam 05","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/57/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_06.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_06.JPG/1280px-Pinus_sylvestris_-_Sar%C4%B1%C3%A7am_06.JPG","alt":"Erzurum Saricam - Pinus sylvestris - Sarıçam 06","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227977","tip":"genel"}]
-description: "Doğal güzellikleri ve zengin fauna ile dikkat çeken Erzurum Saricam, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+"
 keywords: ["Erzurum","Saricam","Doğa","Fauna","Yeşil Alan","Fiziksel Veriler","Hikaye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227977"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227977"
 
 # Erzurum Saricam
 
-Erzurum Saricam, yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir milli parktır. Saricam, zengin flora ve faunası ile bilinir ve çeşitli bitki türleri ile hayvanların yaşam alanıdır. Milli park, ziyaretçilerine doğa yürüyüşleri, gözlem ve fotoğraf çekme gibi aktiviteler için elverişli bir ortam sunar.
+ Saricam, zengin flora ve faunası ile bilinir ve çeşitli bitki türleri ile hayvanların yaşam alanıdır. Milli park, ziyaretçilerine doğa yürüyüşleri, gözlem ve fotoğraf çekme gibi aktiviteler için elverişli bir ortam sunar.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ Erzurum Saricam, zengin flora ve faunası ile bilinir. Milli park, çeşitli bit
 Erzurum Saricam'ı ziyaret etmek, doğa severler için mükemmel bir deneyimdir. Milli parka, özel araçlar ile veya toplu taşıma araçları ile ulaşımümkündür. Saricam'ı ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, bölgede çiçeklenen bitkiler ve yeşeren otlar, ziyaretçilere renkli bir manzara sunar. Ziyaretçiler, milli parkta doğa yürüyüşleri, gözlem ve fotoğraf çekme gibi aktiviteler yapabilirler. Saricam, ziyaretçilere geniş bir doğa deneyimi sunar ve çeşitli bitki türleri ile hayvanların yaşam alanıdır.
 
 ## İlginç Bilgiler
-
-- Erzurum Saricam, 140 hektarlık bir alanı kaplar.
 
 - Saricam, zengin flora ve faunası ile bilinir.
 - Milli park, çeşitli bitki türleri ile hayvanların yaşam alanıdır.

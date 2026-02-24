@@ -30,7 +30,7 @@ wikidata_id: "Q20471012"
 
 # Emir Saltuk Kümbeti
 
-Erzurum'un merkezinde yer alan Emir Saltuk Kümbeti, yaklaşık 140 hektarlık bir alanı kaplayan tarihi ve kültürel bir mirastır. Emir Saltuk Kümbeti, Selçuklu döneminde inşa edilmiş ve tarihin farklı dönemlerinde çeşitli restorasyonlar geçirmiştir. Kümbet, Türk mimarisinin güzel örneklerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürür.
+ Emir Saltuk Kümbeti, Selçuklu döneminde inşa edilmiş ve tarihin farklı dönemlerinde çeşitli restorasyonlar geçirmiştir. Kümbet, Türk mimarisinin güzel örneklerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürür.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Saltuk Kümbeti, 12. yüzyılda Selçuklu Sultanı I. Rükneddin Mesud dön
 
 ## Coğrafya
 
-Emir Saltuk Kümbeti, Erzurum'un merkezinde, şehrin tarihi dokusu içerisinde yer alır. Yaklaşık 140 hektarlık bir alanı kaplayan bu tarihi mekan, şehrin en önemli kültürel ve turistik merkezlerinden biridir. Kümbet, şehrin diğer tarihi yapıları ile birlikte, bir bütün olarak düşünülür ve ziyaretçilere şehrin tarihini ve kültürünü anlatır. Erzurum'un coğrafi konumu, karasal iklimin hüküm sürdüğü bir bölgedir. Bu nedenle, Emir Saltuk Kümbeti ve şehrin diğer tarihi mekanları, ziyaretçilere hem tarihi hem de coğrafi olarak zengin bir deneyim sunar.
+Emir Saltuk Kümbeti, Erzurum'un merkezinde, şehrin tarihi dokusu içerisinde yer alır. Kümbet, şehrin diğer tarihi yapıları ile birlikte, bir bütün olarak düşünülür ve ziyaretçilere şehrin tarihini ve kültürünü anlatır. Erzurum'un coğrafi konumu, karasal iklimin hüküm sürdüğü bir bölgedir. Bu nedenle, Emir Saltuk Kümbeti ve şehrin diğer tarihi mekanları, ziyaretçilere hem tarihi hem de coğrafi olarak zengin bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Emir Saltuk Kümbeti'ni ziyaret etmek, Erzurum'un tarihi ve kültürel zenginlik
 - Emir Saltuk Kümbeti, Selçuklu döneminde inşa edilmiştir
 - Kümbet, 14. yüzyılda önemli bir restorasyon geçirmiştir
 - Emir Saltuk Kümbeti, Türk mimarisinin güzel örneklerinden biridir
-- Kümbet, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Emir Saltuk Kümbeti, Erzurum'un merkezinde yer alır

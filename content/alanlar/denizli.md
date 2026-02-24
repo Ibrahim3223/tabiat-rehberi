@@ -15,8 +15,8 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/TR_Denizli_asv2020-02_img11_view_from_Teleferik_viewpoint.jpg","alt":"DENİZLİ manzarası","credit":"A.Savin","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/Denizli_Ac%C4%B1payam_14.06.2024_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Denizli_Ac%C4%B1payam_14.06.2024_02.jpg/1280px-Denizli_Ac%C4%B1payam_14.06.2024_02.jpg","alt":"DENİZLİ - Denizli Acıpayam 14.06.2024 02","credit":"Wiki leylek","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Denizli_Ac%C4%B1payam_14.06.2024_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Denizli_Ac%C4%B1payam_14.06.2024_01.jpg/1280px-Denizli_Ac%C4%B1payam_14.06.2024_01.jpg","alt":"DENİZLİ - Denizli Acıpayam 14.06.2024 01","credit":"Wiki leylek","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Cankurtaran%2C_Denizli_%2805072024%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cankurtaran%2C_Denizli_%2805072024%29.jpg/1280px-Cankurtaran%2C_Denizli_%2805072024%29.jpg","alt":"DENİZLİ - Cankurtaran, Denizli (05072024)","credit":"Kadı Kadı","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Cankurtaran%2C_Denizli_%2805072024%29_-_53837453235.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cankurtaran%2C_Denizli_%2805072024%29_-_53837453235.jpg/1280px-Cankurtaran%2C_Denizli_%2805072024%29_-_53837453235.jpg","alt":"DENİZLİ - Cankurtaran, Denizli (05072024) - 53837453235","credit":"Kadı Kadı","license":"cc-by-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Cankurtaran%2C_Denizli_%2805072024%29_-_53837008216.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cankurtaran%2C_Denizli_%2805072024%29_-_53837008216.jpg/1280px-Cankurtaran%2C_Denizli_%2805072024%29_-_53837008216.jpg","alt":"DENİZLİ - Cankurtaran, Denizli (05072024) - 53837008216","credit":"Kadı Kadı","license":"cc-by-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228894","tip":"genel"}]
-description: "DENİZLİ milli parkı, İç Anadolu Bölgesi'nin gizli bir hazinesi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["DENİZLİ","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","futbol sahası"]
+description: "DENİZLİ milli parkı, İç Anadolu Bölgesi'nin gizli bir hazinesi olarak karşımıza çıkıyor."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228894"
 ---
@@ -31,7 +31,7 @@ DENİZLİ milli parkı, tarihsel geçmişi ile dikkat çekiyor. Bu bölge, yüzy
 
 ## Coğrafya
 
-DENİZLİ milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile dikkat çekiyor. Bu bölge, 140 hektarlık bir alanı kapsıyor. DENİZLİ milli parkı, çeşitli bitki türleri ve zengin fauna ile birlikte coğrafi özellikleri ile de dikkat çekiyor. Bu bölge, dağlık ve engebeli bir araziye sahip. DENİZLİ milli parkı, aynı zamanda bir su kaynağı olarak da kabul ediliyor. Burada, çeşitli nehirler ve akarsular bulunmakta. DENİZLİ milli parkı, coğrafi yapısı ile birlikte iklimi ile de dikkat çekiyor. Bu bölge, karasal iklim özellikleri gösteriyor. DENİZLİ milli parkı, coğrafi ve iklim özellikleri ile birlikte doğal güzelliğini de korumak için çeşitli çalışmalar yapıyor.
+DENİZLİ milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile dikkat çekiyor. DENİZLİ milli parkı, çeşitli bitki türleri ve zengin fauna ile birlikte coğrafi özellikleri ile de dikkat çekiyor. Bu bölge, dağlık ve engebeli bir araziye sahip. DENİZLİ milli parkı, aynı zamanda bir su kaynağı olarak da kabul ediliyor. Burada, çeşitli nehirler ve akarsular bulunmakta. DENİZLİ milli parkı, coğrafi yapısı ile birlikte iklimi ile de dikkat çekiyor. Bu bölge, karasal iklim özellikleri gösteriyor. DENİZLİ milli parkı, coğrafi ve iklim özellikleri ile birlikte doğal güzelliğini de korumak için çeşitli çalışmalar yapıyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ DENİZLİ milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çek
 DENİZLİ milli parkı, doğa severler için bir cennet olarak kabul ediliyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. DENİZLİ milli parkı, aynı zamanda bir eğitim merkezi olarak da hizmet veriyor. Burada, doğa ve çevre hakkında bilgi sahibi olmak isteyenler için çeşitli etkinlikler düzenleniyor. DENİZLİ milli parkı, ziyaretçiler için bir rehber hizmeti de sunuyor. Bu bölge, aynı zamanda bir konaklama merkezi olarak da kabul ediliyor.
 
 ## İlginç Bilgiler
-
-- DENİZLİ milli parkı, 140 hektarlık bir alanı kapsıyor.
 
 - DENİZLİ milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, bir eğitim merkezi olarak da hizmet veriyor.

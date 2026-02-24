@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Antalya-Finike-Demre-Bozpirnal Mesesi","caption":"Antalya-Finike-Demre-Bozpirnal Mesesi","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Finike-Demre-Bozpirnal%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228571","tip":"genel"}]
-description: "Antalya'nın Finike ilçesinde yer alan Bozpirnal Mesesi, 140 hektarlık bir alanı kaplayan milli park, ziyaretçilerine doğal güzellikleri ve tarihi değerleri sunuyor."
+"
 keywords: ["Antalya","Finike","Demre","Bozpirnal Mesesi","milli park","doğa","tarih","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228571"
@@ -30,7 +30,7 @@ Bozpirnal Mesesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu böl
 
 ## Coğrafya
 
-Bozpirnal Mesesi, Akdeniz Bölgesi'nin Finike ilçesinde yer alıyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın coğrafi yapısı, ziyaretçilerine farklı doğal güzellikler sunuyor. Alanın büyük bir kısmı ormanlık arazilerden oluşuyor ve bu ormanlar, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Kışları ılıman, yazları sıcak ve kurak olan bu iklim, ziyaretçilere yıl boyunca ziyaret imkanı sunuyor. Çevre düzenlemeleri de ziyaretçilerin rahatça gezebilmeleri için yapılmış. Yürüyüş yolları, piknik alanları ve gözlem noktaları, ziyaretçilerin doğal güzellikleri keşfetmesine yardımcı oluyor.
+Bozpirnal Mesesi, Akdeniz Bölgesi'nin Finike ilçesinde yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilerine farklı doğal güzellikler sunuyor. Alanın büyük bir kısmı ormanlık arazilerden oluşuyor ve bu ormanlar, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösteriyor. Kışları ılıman, yazları sıcak ve kurak olan bu iklim, ziyaretçilere yıl boyunca ziyaret imkanı sunuyor. Çevre düzenlemeleri de ziyaretçilerin rahatça gezebilmeleri için yapılmış. Yürüyüş yolları, piknik alanları ve gözlem noktaları, ziyaretçilerin doğal güzellikleri keşfetmesine yardımcı oluyor.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Bozpirnal Mesesi'ni ziyaret etmek, doğa ve tarih severler için ideal bir deney
 
 ## İlginç Bilgiler
 
-- 140 hektarlık milli park
-- 200 futbol sahası büyüklüğünde
 - Finike merkezine 10 kilometre uzaklıkta
 - Zengin flora ve fauna
 - Tarihi geçmişi

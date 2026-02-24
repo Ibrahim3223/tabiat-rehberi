@@ -43,7 +43,7 @@ Bolu-Kokez Uludag Goknari, ziyaretçileri için bir çok aktivite ve gezi imkan�
 ## İlginç Bilgiler
 
 - Bolu-Kokez Uludag Goknari, Karadeniz Bölgesi'nin en önemli milli parklarından biri.
-- Milli park, 140 hektarlık bir alanı kaplıyor.
+
 - Bölge, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerini karşılıyor.
 - Bolu-Kokez Uludag Goknari, doğa severler için bir cennet olarak düşünülüyor.
 - Milli parka, en yakın ulaşım noktaları hakkında bilgi sahibi olmak, ziyaretçilerin buraya gelmesini kolaylaştırabilir.

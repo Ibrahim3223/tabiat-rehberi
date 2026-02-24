@@ -28,7 +28,7 @@ wikidata_id: "Q31385473"
 
 # Gora Şendzeri
 
-Gora Şendzeri, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak tanımlanabilir. Gora Şendzeri, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle büyülemeye hazırlanıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Gora Şendzeri'nin güzellikleri, sadece doğal manzaralarından değil, aynı zamanda zengin tarihinden de kaynaklanmaktadır. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri kendi kültürünü bu bölgeye bırakmıştır.
+Gora Şendzeri, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Gora Şendzeri, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle büyülemeye hazırlanıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Gora Şendzeri'nin güzellikleri, sadece doğal manzaralarından değil, aynı zamanda zengin tarihinden de kaynaklanmaktadır. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri kendi kültürünü bu bölgeye bırakmıştır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gora Şendzeri'nin tarihi geçmişi, oldukça zengin ve çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Gora Şendzeri, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve coğrafi olarak çeşitli özellikler gösteriyor. Gora Şendzeri'nin coğrafyası, ziyaretçilerine doğal güzellikleri sunmaya hazırlanıyor. Bu bölge, özellikle iklimi ve çevresiyle dikkat çekiyor. Gora Şendzeri, ziyaretçilerini dört mevsim boyunca farklı doğal güzelliklerle karşılayacak bir destinasyon olarak karşımıza çıkıyor. Bu tepe, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Gora Şendzeri'nin coğrafyası, bu bölgeyi özel kılıyor ve ziyaretçilerini büyülemeye hazırlanıyor. Bu bölge, doğa severlerin ilgisini çekmektedir ve özellikle coğrafi güzellikleri ile dikkat çekiyor.
+Gora Şendzeri, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Gora Şendzeri'nin coğrafyası, ziyaretçilerine doğal güzellikleri sunmaya hazırlanıyor. Bu bölge, özellikle iklimi ve çevresiyle dikkat çekiyor. Gora Şendzeri, ziyaretçilerini dört mevsim boyunca farklı doğal güzelliklerle karşılayacak bir destinasyon olarak karşımıza çıkıyor. Bu tepe, coğrafi olarak zengin bir yapıya sahip ve ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Gora Şendzeri'nin coğrafyası, bu bölgeyi özel kılıyor ve ziyaretçilerini büyülemeye hazırlanıyor. Bu bölge, doğa severlerin ilgisini çekmektedir ve özellikle coğrafi güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Gora Şendzeri, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle bü
 
 ## İlginç Bilgiler
 
-- Gora Şendzeri, 140 hektarlık bir alanı kaplıyor
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Gora Şendzeri, İç Anadolu Bölgesi'nin önemli bir kültür merkezi
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Gora Şendzeri, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir

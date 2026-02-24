@@ -36,7 +36,7 @@ Dereşikefta Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş
 
 ## Coğrafya
 
-Dereşikefta Tepesi, Mardin'in coğrafi olarak önemli bir noktası olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin bu önemli noktası, ziyaretçilerine geniş bir hareket alanı sunuyor. 140 hektarlık alan, çeşitli bitki türleri ile kaplı ve bu reason ile bölgeye gelen ziyaretçiler, doğal güzellikleri ile büyüleniyor. Dereşikefta Tepesi, Mardin'in coğrafi özelliklerini gözler önüne seren önemli bir nokta olarak öne çıkıyor. Bu tepe, bölgenin iklimini, coğrafi yapısını ve doğal güzelliklerini öğrenmek isteyenler için önemli bir merkez olarak görev yapıyor. Dereşikefta Tepesi'nin coğrafi konumu, Mardin'in diğer önemli noktaları ile birlikte, bölgeye gelen ziyaretçilere geniş bir gezi alanı sunuyor.
+Dereşikefta Tepesi, Mardin'in coğrafi olarak önemli bir noktası olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin bu önemli noktası, ziyaretçilerine geniş bir hareket alanı sunuyor. Dereşikefta Tepesi, Mardin'in coğrafi özelliklerini gözler önüne seren önemli bir nokta olarak öne çıkıyor. Bu tepe, bölgenin iklimini, coğrafi yapısını ve doğal güzelliklerini öğrenmek isteyenler için önemli bir merkez olarak görev yapıyor. Dereşikefta Tepesi'nin coğrafi konumu, Mardin'in diğer önemli noktaları ile birlikte, bölgeye gelen ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Dereşikefta Tepesi, Mardin'in önemli noktalarından biri olarak öne çıkıyo
 ## İlginç Bilgiler
 
 - Dereşikefta Tepesi, Mardin'in en önemli noktalarından biri olarak öne çıkıyor.
-- Bu tepe, 140 hektarlık bir alanı kapsıyor.
+
 - Dereşikefta Tepesi, Mardin'in tarihi ve kültürel zenginliklerini öğrenmek isteyenler için önemli bir merkez olarak görev yapıyor.
 - Bu tepe, Mardin'in coğrafi özelliklerini gözler önüne seren önemli bir nokta olarak öne çıkıyor.
 - Dereşikefta Tepesi, mevsimsel değişimlere göre farklı bir görünüm sunuyor.

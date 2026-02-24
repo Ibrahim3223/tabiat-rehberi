@@ -43,7 +43,7 @@ Sinop Kayin milli parkını ziyaret etmek, doğa severler için harika bir deney
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerini korumak amacıyla yapılmıştır.
-- Milli park, 140 hektarlık bir alanı kapsamaktadır.
+
 - Milli parkta, çeşitli bitki ve hayvan türleri yaşamaktadır.
 - Milli parkın coğrafi konumu, birçok su kaynağının da bulunduğu bir bölgedir.
 - Milli park, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden birisidir.

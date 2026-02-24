@@ -36,7 +36,7 @@ wikidata_id: "Q34823706"
 
 ## Coğrafya
 
-Çaltarla Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasıdır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilerine bölgeyi keşfetme fırsatı sunar. Tepenin etrafındaki manzara, Ankara'nın panoramik görünümünü sunar ve ziyaretçilerini şehrin güzelliği ile baş başa bırakır. Çaltarla Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi barındırır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine uygun olarak karasal bir yapı gösterir. Çaltarla Tepesi, Ankara'nın coğrafi güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
+Çaltarla Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasıdır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilerine bölgeyi keşfetme fırsatı sunar. Tepenin etrafındaki manzara, Ankara'nın panoramik görünümünü sunar ve ziyaretçilerini şehrin güzelliği ile baş başa bırakır. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine uygun olarak karasal bir yapı gösterir. Çaltarla Tepesi, Ankara'nın coğrafi güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

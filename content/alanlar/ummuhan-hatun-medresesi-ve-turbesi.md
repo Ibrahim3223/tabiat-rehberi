@@ -29,7 +29,7 @@ wikidata_id: "Q131391249"
 
 # Ümmühan Hatun Medresesi ve Türbesi
 
-Ümmühan Hatun Medresesi ve Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan tarihi ve kültürel bir yapıdır. Bu yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş olup, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Ümmühan Hatun Medresesi ve Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kompleks, tarihi ve kültürel zenginliklerin bir araya geldiği bir noktadır.
+Ümmühan Hatun Medresesi ve Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan tarihi ve kültürel bir yapıdır. Ümmühan Hatun Medresesi ve Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır.
 
 ## Tarihçe
 

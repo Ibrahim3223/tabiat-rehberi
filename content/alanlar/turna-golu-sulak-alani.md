@@ -14,7 +14,7 @@ aktiviteler: ["Kuş gözlemciliği","Trekking","Doğa yürüyüşü","Balık av�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Turna Gölü Sulak Alanı","caption":"Turna Gölü Sulak Alanı","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turna%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228877","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, Turna Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Turna Gölü","Sulak Alanı","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna","Ziyaret","Gezi","Tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228877"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228877"
 
 # Turna Gölü Sulak Alanı
 
-Turna Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Göl ve çevresindeki flora, fauna ile birlikte, bu bölgeyi ziyaret edenler için eşsiz bir deneyim sunar. Turna Gölü Sulak Alanı, doğa severlerin ve bilim insanlarının ilgisini çeken bir noktadır. Gölün suyu, çevredeki bitki örtüsünü besler ve çeşitli canlılara yaşam alanı sağlar. Bu sulak alan, özellikle kuş gözlemcilerinin favori mekanlarından biridir. Her yıl binlerce kuş, bu bölgeyi ziyaret eder ve burada yaşamını sürdürür. Turna Gölü Sulak Alanı, sadece doğal güzelliği ile değil, aynı zamanda çevresindeki tarihi ve kültürel zenginliklerle de dikkat çeker.
+ Göl ve çevresindeki flora, fauna ile birlikte, bu bölgeyi ziyaret edenler için eşsiz bir deneyim sunar. Turna Gölü Sulak Alanı, doğa severlerin ve bilim insanlarının ilgisini çeken bir noktadır. Gölün suyu, çevredeki bitki örtüsünü besler ve çeşitli canlılara yaşam alanı sağlar. Bu sulak alan, özellikle kuş gözlemcilerinin favori mekanlarından biridir. Her yıl binlerce kuş, bu bölgeyi ziyaret eder ve burada yaşamını sürdürür. Turna Gölü Sulak Alanı, sadece doğal güzelliği ile değil, aynı zamanda çevresindeki tarihi ve kültürel zenginliklerle de dikkat çeker.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Turna Gölü Sulak Alanı, ziyaretçilerine hem doğal güzelliklerini hem de ta
 
 ## İlginç Bilgiler
 
-- Turna Gölü Sulak Alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Gölün suyu, yağmur ve kar suları ile beslenir
 - Turna Gölü Sulak Alanı, birçok kuş türünün yuvalanma ve üreme alanı olarak kullanılır
 - Bölge, trekking ve doğa yürüyüşü gibi etkinlikler için ideal bir ortam sunar

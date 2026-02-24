@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","trekking","doğa gezisi","kültür turu"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Buğra Tepesi","caption":"Buğra Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bu%C4%9Fra%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31529138","tip":"genel"}]
-description: "Siirt'in doğal güzelliklerini keşfedin. 140 hektarlık Buğra Tepesi, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Siirt'in doğal güzelliklerini keşfedin."
 keywords: ["Buğra Tepesi","Siirt","doğal güzellik","tepe","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31529138"
@@ -28,7 +28,7 @@ wikidata_id: "Q31529138"
 
 # Buğra Tepesi
 
-Buğra Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan 140 hektarlık bir doğa harikasıdır. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı verir. Buğra Tepesi, doğa severlerin ve macera arayışında olanların uğrak noktalarından biri haline gelmiştir. Tepenin etrafında yer alan dağlar ve vadiler, yürüyüş ve trekking için ideal bir ortam sunar. Ziyaretçiler, Buğra Tepesi'nin yüksekli ve genişliğinden dolayı, bölgenin diğer noktalarına da kolayca ulaşabilir.
+ Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı verir. Buğra Tepesi, doğa severlerin ve macera arayışında olanların uğrak noktalarından biri haline gelmiştir. Tepenin etrafında yer alan dağlar ve vadiler, yürüyüş ve trekking için ideal bir ortam sunar. Ziyaretçiler, Buğra Tepesi'nin yüksekli ve genişliğinden dolayı, bölgenin diğer noktalarına da kolayca ulaşabilir.
 
 ## Tarihçe
 

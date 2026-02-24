@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa seyri","Fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"KARAMAN YUNUS EMRE ŞEHİR ORMANI","caption":"KARAMAN YUNUS EMRE ŞEHİR ORMANI","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KARAMAN%20YUNUS%20EMRE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228695","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Karaman Yunus Emre Şehir Ormanı, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar."
+"
 keywords: ["Karaman","Yunus Emre","Şehir Ormanı","İç Anadolu Bölgesi","doğa","yeşil alan","orman","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228695"
@@ -43,7 +43,7 @@ Karaman Yunus Emre Şehir Ormanı, yıl boyunca ziyaret edilebilir. Ancak, ilkba
 ## İlginç Bilgiler
 
 - Ormanın ismi, Türk edebiyatının önemli isimlerinden biri olan Yunus Emre'den gelmektedir.
-- Karaman Yunus Emre Şehir Ormanı, 140 hektarlık bir yeşil alanı kaplar.
+
 - Ormanda, çeşitli bitki türleri ve hayvanlar bulunur.
 - Orman, Karaman şehrinin merkezine yakındır ve ulaşılması kolaydır.
 - İlkbahar ve sonbahar mevsimleri, ormanın güzelliğini görmenin en ideal zamanlarıdır.

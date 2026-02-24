@@ -22,7 +22,7 @@ wikidata_id: "Q108228503"
 
 # Adana-Pos-Sogut Servi
 
-Adana-Pos-Sogut Servi milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Doğal güzellikleri, tarihi geçmişi ve zengin flora ve faunası ile dikkat çekiyor. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğal güzellikleri keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
+ Park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Doğal güzellikleri, tarihi geçmişi ve zengin flora ve faunası ile dikkat çekiyor. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğal güzellikleri keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
 
 ## Tarihçe
 

@@ -20,8 +20,8 @@ aktiviteler: ["doğa yürüyüşü","kamp","fotografcılık","bitki gözlemcili�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ward_and_Lock%27s_descriptive_and_pictorial_guide_to_the_Isle_of_Man_-_towns%2C_mountains%2C_glens%2C_waterfalls%2C_legends%2C_romantic_associations%2C_and_history_-_how_to_reach_the_island%2C_routes%2C_distances%2C_%2814782701734%29.jpg/960px-thumbnail.jpg","alt":"Faso Şelalesi","caption":"Faso Şelalesi","credit":"Ward and Lock's descriptive and pictorial guide to the Isle of Man - towns, mountains, glens, waterfalls, legends, romantic associations, and history - how to reach the island, routes, distances, (14782701734)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Faso%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q112748145","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, Faso Şelalesi. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Faso Şelalesi","İç Anadolu Bölgesi","şelale","doğa","gezi","turizm","yeşil alan","futbol sahası"]
+description: "İç Anadolu Bölgesi'nin gizli cenneti, Faso Şelalesi."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q112748145"
 ---
@@ -48,7 +48,6 @@ Faso Şelalesi'ni ziyaret etmek, bir doğa severin hayali olabilir. Bu şelaleye
 
 ## İlginç Bilgiler
 
-- Faso Şelalesi, 140 hektarlık bir yeşil alana sahiptir.
 - Şelalenin suyu, çevredeki dağlardan gelen kaynak suları ile beslenmektedir.
 - Faso Şelalesi, çeşitli bitki türleri ile kaplı bir alandır.
 - Bu bölgede, mevsimsel değişimlere göre, farklı bitki türleri yetişmektedir.

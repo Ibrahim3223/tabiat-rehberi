@@ -29,7 +29,7 @@ wikidata_id: "Q31386403"
 
 # Belen Tepe
 
-Kilis'in tarihi ve doğal güzellikleri arasında yer alan Belen Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Belen Tepe, Kilis'in merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Belen Tepe, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilerine Kilis'in geçmişini keşfetme fırsatı sunuyor.
+ Belen Tepe, Kilis'in merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Belen Tepe, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilerine Kilis'in geçmişini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Belen Tepe'nin tarihi geçmişi, Kilis'in tarihi ile birlikte düşünülüyor. 
 
 ## Coğrafya
 
-Belen Tepe, Kilis'in merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine geniş bir açık alan sunuyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerine Kilis'in panoramik manzarasını izleme fırsatı sunuyor. Belen Tepe'nin coğrafyası, şehir merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Belen Tepe, aynı zamanda iklimi ile de dikkat çekiyor ve ziyaretçilerine dört mevsim boyunca farklı bir deneyim sunuyor. Belen Tepe'nin flora ve fauna zenginliği, ziyaretçilerine şehrin doğal güzelliklerini keşfetme fırsatı sunuyor ve ziyaretçiler, tepeye çıkarak Kilis'in panoramik manzarasını izleyebilir.
+Belen Tepe, Kilis'in merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine geniş bir açık alan sunuyor. Belen Tepe'nin coğrafyası, şehir merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Belen Tepe, aynı zamanda iklimi ile de dikkat çekiyor ve ziyaretçilerine dört mevsim boyunca farklı bir deneyim sunuyor. Belen Tepe'nin flora ve fauna zenginliği, ziyaretçilerine şehrin doğal güzelliklerini keşfetme fırsatı sunuyor ve ziyaretçiler, tepeye çıkarak Kilis'in panoramik manzarasını izleyebilir.
 
 ## Flora ve Fauna
 

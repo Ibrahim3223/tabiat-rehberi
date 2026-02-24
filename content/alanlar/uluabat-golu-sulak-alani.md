@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Su sporları","Doğa gözlemciliği"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Uluabat Gölü Sulak Alanı","caption":"Uluabat Gölü Sulak Alanı","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluabat%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228823","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
+
 keywords: ["Uluabat Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Sulak Alanları","Korunan Alanlar","Göl","Doğa Sporları"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228823"
@@ -30,7 +30,7 @@ Uluabat Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin
 
 ## Coğrafya
 
-Uluabat Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biri olarak dikkat çekiyor. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin ekolojik dengesini korumada önemli bir rol oynuyor. Gölün etrafındaki arazi yapısı, genellikle düzlük ve hafif eğimli bir yapıya sahip. Bu sulak alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve genellikle karasal bir iklim özelliği gösteriyor. Uluabat Gölü Sulak Alanı, birçok farklı türde bitki ve hayvanın yaşadığı zengin bir ekosisteme sahip. Gölün suyu, bölgenin sulama ve içme suyu ihtiyacını karşılamada önemli bir kaynak olarak kullanılıyor.
+Uluabat Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biri olarak dikkat çekiyor. Gölün etrafındaki arazi yapısı, genellikle düzlük ve hafif eğimli bir yapıya sahip. Bu sulak alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve genellikle karasal bir iklim özelliği gösteriyor. Uluabat Gölü Sulak Alanı, birçok farklı türde bitki ve hayvanın yaşadığı zengin bir ekosisteme sahip. Gölün suyu, bölgenin sulama ve içme suyu ihtiyacını karşılamada önemli bir kaynak olarak kullanılıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Uluabat Gölü Sulak Alanı, doğa severler ve macera arayışında olanlar içi
 
 ## İlginç Bilgiler
 
-- Uluabat Gölü Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bu sulak alan, birçok farklı türde bitki ve hayvanın yaşadığı zengin bir ekosisteme sahip.
 - Gölün suyu, bölgenin sulama ve içme suyu ihtiyacını karşılamada önemli bir kaynak olarak kullanılıyor.
 - Uluabat Gölü Sulak Alanı, özellikle su kuşları ve diğer su canlıları için önemli bir yaşam alanı olarak görev yapıyor.

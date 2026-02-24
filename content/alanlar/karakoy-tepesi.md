@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7e/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_29_03_1984_Hochfl%C3%A4che_von_Karak%C3%B6y_mit_Waldresten_vor_dem_K%C3%B6ro%C4%9Flu_Da%C4%9F%C4%B1.jpg","alt":"Karaköy Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karak%C3%B6y%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878004","tip":"genel"}]
-description: "Denizli'nin gizli cenneti Karaköy Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Karaköy Tepesi","Denizli","Ege Bölgesi","yeşil alan","doğa","gezi","turizm","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34878004"
@@ -49,7 +49,6 @@ Karaköy Tepesi'ni ziyaret etmek için, Denizli merkezinden uzun bir mesafe uzak
 
 ## İlginç Bilgiler
 
-- Karaköy Tepesi, yaklaşık 140 hektarlık yeşil alanına sahiptir.
 - Tepenin zirvesi, yüksek bir konumdadir.
 - Karaköy Tepesi, her mevsim farklı bir güzelliğe bürünerek, ziyaretçilerini büyülemeye devam etmektedir.
 - Tepenin etrafında, çeşitli akarsular ve göller bulunması, bölgenin su kaynaklarını zenginleştirmektedir.

@@ -51,6 +51,6 @@ Fatih Türbesi ve Dehliz, İstanbul'un tarihi ve doğal güzelliklerini keşfetm
 
 - Fatih Sultan Mehmet'in türbesi olarak bilinmektedir
 - İstanbul'un fethinin ardından kurulan ilk Türk mahallelerinden biridir
-- 140 hektarlık bir alanı kapsamakta olup, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir
+
 - Tarihî soka ve yapılar bulunmakta olup, ziyaretçilerin ilgisini çekmektedir
 - Çeşitli flora ve fauna örnekleri sunmaktadır

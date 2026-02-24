@@ -48,8 +48,6 @@ Gökağaçbaşı Tepesi'ni ziyaret etmek, hem doğa severler hem de macera tutku
 
 ## İlginç Bilgiler
 
-- Gökağaçbaşı Tepesi, 140 hektarlık bir alanı kaplıyor
-- Bu tepe, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor
 - Gökağaçbaşı Tepesi, Muğla'nın merkezine yakın bir konumda bulunuyor
 - Bu tepe, yılın her döneminde ziyaret edilebilir
 - Gökağaçbaşı Tepesi, flora ve fauna açısından oldukça zengin bir bölge

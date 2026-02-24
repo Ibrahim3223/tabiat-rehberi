@@ -38,7 +38,7 @@ wikidata_id: "Q131390849"
 
 ## Coğrafya
 
-Şeyh Yunus Türbesi, Karaman ilinin coğrafi olarak zengin bir bölgesinde yer alır. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülür. Bölge, genel olarak bozkır ve step ikliminin özellikleri gösterir. Şeyh Yunus Türbesi ve çevresindeki arazi, 140 hektarlık bir alanda yayılır ve bu geniş alan, ziyaretçilere geniş bir açık alan sunar. Bölgenin coğrafi yapısı, tarihi ve kültürel zenginliklerin birleştiği bir noktada yer alır. Şeyh Yunus Türbesi, Karaman'ın merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer.
+Şeyh Yunus Türbesi, Karaman ilinin coğrafi olarak zengin bir bölgesinde yer alır. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülür. Bölge, genel olarak bozkır ve step ikliminin özellikleri gösterir. Bölgenin coğrafi yapısı, tarihi ve kültürel zenginliklerin birleştiği bir noktada yer alır. Şeyh Yunus Türbesi, Karaman'ın merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer.
 
 ## Flora ve Fauna
 

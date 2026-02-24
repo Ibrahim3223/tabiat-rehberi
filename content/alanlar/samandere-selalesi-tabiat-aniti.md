@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/35/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9526_hamdigumus.jpg","alt":"Samandere Şelalesi Tabiat Anıtı manzarası","credit":"Hamdigumus","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg/1280px-Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg","alt":"Samandere Şelalesi Tabiat Anıtı - Samandere Şelalesi Tabiat Anıtı - Ağustos 2013 IMG 9443 hamdigumus","credit":"Hamdigumus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Samandere_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Samandere_%C5%9Eelalesi.jpg/1280px-Samandere_%C5%9Eelalesi.jpg","alt":"Samandere Şelalesi Tabiat Anıtı - Samandere Şelalesi","credit":"Photogrepher98","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/69/Samandere_%C5%9Eelalesi_D%C3%BCzce.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Samandere_%C5%9Eelalesi_D%C3%BCzce.jpg/1280px-Samandere_%C5%9Eelalesi_D%C3%BCzce.jpg","alt":"Samandere Şelalesi Tabiat Anıtı - Samandere Şelalesi Düzce","credit":"Aierturk","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ab/D%C3%BCzce_Samandere_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/a/ab/D%C3%BCzce_Samandere_%C5%9Eelalesi.jpg","alt":"Samandere Şelalesi Tabiat Anıtı - Düzce Samandere Şelalesi","credit":"Photogrepher98","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/SamandereSelalesi-SamandereProvince.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f6/SamandereSelalesi-SamandereProvince.jpg","alt":"Samandere Şelalesi Tabiat Anıtı - SamandereSelalesi-SamandereProvince","credit":"Mehmetserifpasa","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samandere%20%C5%9Eelalesi%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6015569","tip":"genel"}]
-description: "Düzce'nin gizli cenneti, 140 hektarlık yeşil alan, şelaleler ve zengin fauna"
+
 keywords: ["Samandere Şelalesi","Tabiat Anıtı","Düzce","Karadeniz Bölgesi","şelale","doğa","yeşil alan","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6015569"
@@ -29,7 +29,7 @@ wikidata_id: "Q6015569"
 
 # Samandere Şelalesi Tabiat Anıtı
 
-Samandere Şelalesi Tabiat Anıtı, Karadeniz Bölgesi'nin Düzce ilinde bulunan 140 hektarlık bir yeşil alandır. Şelaleler, zengin fauna ve florasıyla birlikte, Samandere Şelalesi Tabiat Anıtı, ziyaretçilerine doğayla iç içe bir deneyim sunar. Doğal güzelliği, yürüyüş parkurları ve piknik alanlarıyla, bu tabiat anıtı, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir.
+ Şelaleler, zengin fauna ve florasıyla birlikte, Samandere Şelalesi Tabiat Anıtı, ziyaretçilerine doğayla iç içe bir deneyim sunar. Doğal güzelliği, yürüyüş parkurları ve piknik alanlarıyla, bu tabiat anıtı, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Samandere Şelalesi Tabiat Anıtı'nın tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Samandere Şelalesi Tabiat Anıtı, Karadeniz Bölgesi'nin Düzce ilinde, dağlık bir arazide yer almaktadır. 140 hektarlık bir yeşil alana sahiptir ve şelaleler, nehirler ve zengin fauna ile birlikte, bu bölge doğa severler için bir cennet haline gelmiştir. İklimi, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimidir. Bu, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Çevre, ormanlık alanlarla çevrilidir ve bu, tabiat anıtının doğal güzelliğini daha da artırmaktadır. Samandere Şelalesi Tabiat Anıtı, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar.
+Samandere Şelalesi Tabiat Anıtı, Karadeniz Bölgesi'nin Düzce ilinde, dağlık bir arazide yer almaktadır. İklimi, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimidir. Bu, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Çevre, ormanlık alanlarla çevrilidir ve bu, tabiat anıtının doğal güzelliğini daha da artırmaktadır. Samandere Şelalesi Tabiat Anıtı, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Samandere Şelalesi Tabiat Anıtı, yıl boyunca ziyaret edilebilir. İlkbahar v
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - Şelaleler ve nehirler
 - Zengin flora ve fauna
 - Doğal güzelliği

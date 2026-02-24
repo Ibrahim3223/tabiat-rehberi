@@ -29,7 +29,7 @@ wikidata_id: "Q131391740"
 
 # Nasuhbaba Türbesi ve Haziresi
 
-Tekirdağ'ın Kapaklı ilçesinde yer alan Nasuhbaba Türbesi ve Haziresi, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilerine tarihi ve doğal güzelliklerin bir arada sunulduğu eşsiz bir deneyim sağlar. 200 futbol sahası büyüklüğünde olan bu arazi, ziyaretçilerini tarihin derinliklerine götürür. Nasuhbaba Türbesi ve Haziresi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeker. Bu mekan, Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biridir.
+ Bu geniş alan, ziyaretçilerine tarihi ve doğal güzelliklerin bir arada sunulduğu eşsiz bir deneyim sağlar. Nasuhbaba Türbesi ve Haziresi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeker. Bu mekan, Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nasuhbaba Türbesi ve Haziresi, yüzyılların geride bıraktığı izleri taş�
 
 ## Coğrafya
 
-Nasuhbaba Türbesi ve Haziresi, Tekirdağ'ın Kapaklı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. İklimi, karasal ve Akdeniz iklimlerinin bir karışımıdır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Coğrafi olarak, 140 hektarlık bir alanı kaplayan Nasuhbaba Türbesi ve Haziresi, ziyaretçilerine geniş bir açıdan tarihi ve doğal güzellikleri sunar. Bu mekan, çevresindeki yeşilli ve doğal güzelliği ile dikkat çeker. Nasuhbaba Türbesi ve Haziresi, ziyaretçilerini tarihin ve doğanın bir arada sunulduğu bir dünya içerisinde bulundurmaya davet eder.
+Nasuhbaba Türbesi ve Haziresi, Tekirdağ'ın Kapaklı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. İklimi, karasal ve Akdeniz iklimlerinin bir karışımıdır. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Bu mekan, çevresindeki yeşilli ve doğal güzelliği ile dikkat çeker. Nasuhbaba Türbesi ve Haziresi, ziyaretçilerini tarihin ve doğanın bir arada sunulduğu bir dünya içerisinde bulundurmaya davet eder.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Nasuhbaba Türbesi ve Haziresi'ni ziyaret etmek, tarihi ve doğal güzelliği bi
 
 ## İlginç Bilgiler
 
-- Nasuhbaba Türbesi ve Haziresi, 140 hektarlık bir alanı kaplar.
 - Bu mekan, Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biridir.
 - Nasuhbaba Türbesi ve Haziresi, yüzyılların geride bıraktığı izleri taşıyan bir tarihi geçmişe sahiptir.
 - Bu mekan, çevresindeki yeşilli ve doğal güzelliği ile dikkat çeker.

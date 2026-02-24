@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Fotoğrafçılık","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Köprüçay Zincirli Sit Alanı","caption":"Köprüçay Zincirli Sit Alanı","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BC%C3%A7ay%20Zincirli%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226651","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin yeni durağı"
+
 keywords: ["Köprüçay Zincirli Sit Alanı","İç Anadolu Bölgesi","doğa","turizm","gezi","milli park","sit alanı","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226651"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226651"
 
 # Köprüçay Zincirli Sit Alanı
 
-Köprüçay Zincirli Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış bir doğa harikasıdır. Bu muhteşem sit alanı, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini büyülüyor. Doğa severler, bu alanın sunduğu benzersiz deneyimle, anın güzelliğini keşfedebilirler.
+ Bu muhteşem sit alanı, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini büyülüyor. Doğa severler, bu alanın sunduğu benzersiz deneyimle, anın güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Köprüçay Zincirli Sit Alanı, çeşitli bitki türleri ve zengin fauna çeşi
 Köprüçay Zincirli Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunar. Bu doğal cennete ulaşmak için, İç Anadolu Bölgesi'ne giden herhangi bir ulaşım aracını kullanabilirsiniz. Alan, yılın her dönemi ziyaret edilebilir, ancak bahar ve yaz ayları en ideal zamanlardır. Ziyaretçiler, bu doğal güzelliği keşfetmek için yürüyüşDoing, fotoğrafçılık ve doğa gözlemi gibi etkinlikler yapabilirler. Köprüçay Zincirli Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve bu, unutulmaz bir deneyim haline gelir.
 
 ## İlginç Bilgiler
-
-- Köprüçay Zincirli Sit Alanı, 140 hektarlık bir alana yayılmıştır.
 
 - Köprüçay Zincirli Sit Alanı, zengin fauna ve flora çeşitliliğine ev sahipliği yapar.
 - Bu sit alanı, doğa severler için bir cennettir.

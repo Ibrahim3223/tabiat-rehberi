@@ -36,7 +36,7 @@ Gökburun Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şehrin gelişimine t
 
 ## Coğrafya
 
-Gökburun Tepesi, Ankara'nın coğrafi yapısının bir parçası olarak, şehrin etrafını saran dağların bir uzantısı. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafındaki diğer tepelerle birlikte, Ankara'nın doğal güzelliklerini oluşturan bir bölgeyi meydana getiriyor. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak, şehrin diğer yüksek noktalarına benzer. Bu yükseklik, ziyaretçilere, şehri ve etrafındaki dağları panoramik olarak izleme imkanı sunuyor. Gökburun Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bitki örtüsü, tepeyi bir doğa cenneti haline getiriyor. Ayrıca, tepe ve etrafındaki bölge, zengin fauna ile dolu ve bu, doğa severler için bir çekim merkezi.
+Gökburun Tepesi, Ankara'nın coğrafi yapısının bir parçası olarak, şehrin etrafını saran dağların bir uzantısı. Tepenin yüksekliği, Ankara'nın genel coğrafi yapısına uygun olarak, şehrin diğer yüksek noktalarına benzer. Bu yükseklik, ziyaretçilere, şehri ve etrafındaki dağları panoramik olarak izleme imkanı sunuyor. Gökburun Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bitki örtüsü, tepeyi bir doğa cenneti haline getiriyor. Ayrıca, tepe ve etrafındaki bölge, zengin fauna ile dolu ve bu, doğa severler için bir çekim merkezi.
 
 ## Flora ve Fauna
 

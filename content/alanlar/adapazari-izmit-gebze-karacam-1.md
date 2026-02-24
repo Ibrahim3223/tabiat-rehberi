@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","piknik","kuş gözlemciliği","doğa foto
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Adapazari-Izmit-Gebze Karacam 1","caption":"Adapazari-Izmit-Gebze Karacam 1","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Izmit-Gebze%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227922","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Adapazari-Izmit-Gebze Karacam 1 milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Adapazari-Izmit-Gebze Karacam 1","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227922"

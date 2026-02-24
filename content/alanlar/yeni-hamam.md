@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Tarsus%20K%C4%B1rkka%C5%9F%C4%B1k%20Bedesteni%20in%202007%200497.jpg","alt":"Yeni Hamam manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/01/Adana_Yeni_Hamam_in_2019_10_0560.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Adana_Yeni_Hamam_in_2019_10_0560.jpg/1280px-Adana_Yeni_Hamam_in_2019_10_0560.jpg","alt":"Yeni Hamam - Adana Yeni Hamam in 2019 10 0560","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Tarsus_Yeni_Hamam_in_2013_9746.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarsus_Yeni_Hamam_in_2013_9746.jpg/1280px-Tarsus_Yeni_Hamam_in_2013_9746.jpg","alt":"Yeni Hamam - Tarsus Yeni Hamam in 2013 9746","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Tarsus_Yeni_Hamam_in_2014_4691.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tarsus_Yeni_Hamam_in_2014_4691.jpg/1280px-Tarsus_Yeni_Hamam_in_2014_4691.jpg","alt":"Yeni Hamam - Tarsus Yeni Hamam in 2014 4691","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Tarsus_Yeni_Hamam_in_2014_4696.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tarsus_Yeni_Hamam_in_2014_4696.jpg/1280px-Tarsus_Yeni_Hamam_in_2014_4696.jpg","alt":"Yeni Hamam - Tarsus Yeni Hamam in 2014 4696","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/71/Tarsus_Yeni_Hamam_in_2014_4695.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tarsus_Yeni_Hamam_in_2014_4695.jpg/1280px-Tarsus_Yeni_Hamam_in_2014_4695.jpg","alt":"Yeni Hamam - Tarsus Yeni Hamam in 2014 4695","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124433365","tip":"genel"}]
-description: "Tarsus'un Kilikya bölgesinde, İç Anadolu Bölgesi'nde yer alan Yeni Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Yeni Hamam","Tarsus","Kilikya","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q124433365"
@@ -50,7 +50,6 @@ Yeni Hamam, ziyaretçilerine çeşitli olanaklar sunuyor. Plajın genişliği ve
 
 ## İlginç Bilgiler
 
-- Yeni Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Yeni Hamam, Tarsus'un Kilikya bölgesinde, İç Anadolu Bölgesi'nde yer alıyor
 - Yeni Hamam, denize sıfır bir konumda yer alıyor
 - Yeni Hamam, özellikle Roma ve Bizans dönemlerinde önemli bir yerleşim merkezi olarak biliniyor

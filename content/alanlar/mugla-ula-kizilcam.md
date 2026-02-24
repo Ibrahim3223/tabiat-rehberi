@@ -42,7 +42,6 @@ Muğla-Ula Kızılçam milli parkını ziyaret etmek, doğa severler için unutu
 
 ## İlginç Bilgiler
 
-- Parkta yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunur
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre farklılık gösterir
 - Park, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır
 - Parkın iklimi, Ege Bölgesi'nin ılıman iklimine benzer

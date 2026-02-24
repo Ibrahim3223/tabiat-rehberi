@@ -36,7 +36,7 @@ Susuz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin önemli bir nok
 
 ## Coğrafya
 
-Susuz Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu tepe, Batman ilinin merkezine yakın bir konumda bulunmakta ve ulaşımı kolay. Tepenin coğrafi konumu, ziyaretçiler için geniş bir manzara sunuyor. Susuz Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta ve bu alan, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir perspektif sunuyor. Susuz Tepesi'nin coğrafi özellikleri, bölgenin iklimini ve çevreyi etkileyen önemli faktörler. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Susuz Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu tepe, Batman ilinin merkezine yakın bir konumda bulunmakta ve ulaşımı kolay. Tepenin coğrafi konumu, ziyaretçiler için geniş bir manzara sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir perspektif sunuyor. Susuz Tepesi'nin coğrafi özellikleri, bölgenin iklimini ve çevreyi etkileyen önemli faktörler. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Susuz Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için unutu
 ## İlginç Bilgiler
 
 - Susuz Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta.
+
 - Susuz Tepesi, farklı mevsimlerde ziyaret edildiğinde, ziyaretçiler farklı doğal güzellikleri keşfetme fırsatı buluyor.
 - Bu tepe, bölgenin turizm potansiyelini artırmak için önemli bir kaynak.
 - Susuz Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Kuş Gözlemi","Fotoğrafçılık","Bilim A
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Nazik Gölü Sulak Alanı","caption":"Nazik Gölü Sulak Alanı","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nazik%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228880","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Nazik Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar ve bölgenin önemli ekolojik değerlerinden biridir."
+"
 keywords: ["Nazik Gölü","Sulak Alan","İç Anadolu Bölgesi","Ekolojik Değer","Doğa Koruma","Sulak Alan Ekosistemi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228880"
@@ -41,8 +41,6 @@ Nazik Gölü Sulak Alanı, çeşitli bitki türleri ve hayvanları barındıran 
 Nazik Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul edilir. Bu sulak alan, birçok canlıya ev sahipliği yapar ve özellikle su kuşları, bu bölgede bulunur. Ziyaretçiler, sulak alanın güzelliklerini edebilir ve birçok canlıyı görebilir. Nazik Gölü Sulak Alanı'na ulaşım, karayolu veya demiryolu ile mümkündür ve ziyaretçiler, sulak alanın çevresinde bulunan yerleşim yerlerinde konaklayabilir. Ziyaretçiler, sulak alanın güzelliklerini etmek için rehberli turlara katılabilir veya kendi başlarına keşfe çıkabilir.
 
 ## İlginç Bilgiler
-
-- Nazik Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar.
 
 - Nazik Gölü, binlerce yıl önce oluşmaya başlayan bir göldür.
 - Sulak alan, birçok canlıya ev sahipliği yapar ve especialmente su kuşları, bu bölgede bulunur.

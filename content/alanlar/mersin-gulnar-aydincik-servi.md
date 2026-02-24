@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarihi gezinti"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kad%C4%B1nc%C4%B1k_Valley_27.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_27.jpg","alt":"Mersin-Gulnar-Aydincik Servi","caption":"Mersin-Gulnar-Aydincik Servi","credit":"Kadıncık Valley 27.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Gulnar-Aydincik%20Servi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227736","tip":"genel"}]
-description: "Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor."
+"
 keywords: ["Mersin","Gulnar","Aydincik","Servi","milli park","doğa","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227736"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227736"
 
 # Mersin-Gulnar-Aydincik Servi
 
-Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alan, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikasıdır. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Mersin'in Akdeniz Bölgesi'nde yer alan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+ Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Mersin'in Akdeniz Bölgesi'nde yer alan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Gulnar-Aydincik Servi milli parkının tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alıyor. Milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar şeklinde gerçekleşiyor. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Milli parkın bulunduğu alan, deniz seviyesinden yaklaşık 100-yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere milli parkın panoramik görünümünü sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli ativiteler sunuyor. Milli park, ziyaretçilerini bekliyor.
+Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar şeklinde gerçekleşiyor. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Milli parkın bulunduğu alan, deniz seviyesinden yaklaşık 100-yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere milli parkın panoramik görünümünü sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli ativiteler sunuyor. Milli park, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Gulnar-Aydincik Servi milli parkını ziyaret etmek, doğanın güzelliğ
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı bulunuyor.
 - Milli park, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alıyor.
 - Milli parkın flora ve fauna yapısı, mevsimsel değişimlere göre şekilleniyor.
 - Milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.

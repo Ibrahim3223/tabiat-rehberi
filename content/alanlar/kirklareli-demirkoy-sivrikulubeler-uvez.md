@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","yaban hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%C4%B0%C4%9FneadaFloodplainForestsNP_%287%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%287%29.JPG","alt":"Kırklareli-Demirkoy-Sivrikulubeler-Uvez","caption":"Kırklareli-Demirkoy-Sivrikulubeler-Uvez","credit":"İğneadaFloodplainForestsNP (7).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklareli-Demirkoy-Sivrikulubeler-Uvez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228221","tip":"genel"}]
-description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
+
 keywords: ["Kırklareli","Demirköy","Sivrikulubeler","Uvez","Marmara Bölgesi","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228221"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228221"
 
 # Kırklareli-Demirkoy-Sivrikulubeler-Uvez
 
-Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkı, Marmara Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dolu bir cennet. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir ve kendi iç huzurlarını bulabilirler. 140 hektarlık bu yeşil cennet, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkı, Marmara Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dolu bir cennet. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir ve kendi iç huzurlarını bulabilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkı, Marmara Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birini oluşturuyor. Yaklaşık 140 hektarlık bu alan, çeşitli coğrafi özellikler sunuyor. Burada, ziyaretçiler hem dağların güzelliğini hem de vadilerin serinliğini deneyimleyebilirler. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin ve hayvanların yaşamına ev sahipliği yapıyor. İklimi, ziyaretçilere dört mevsim boyunca farklı bir güzellik sunuyor. Kışın karla kaplı dağlar, ilkbaharda çiçeklerle dolu vadiler, yazın serin ormanlar ve sonbaharda renkli yapraklarla dolu ağaçlar, her mevsim ziyaretçilere farklı bir deneyim sunuyor.
+Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkı, Marmara Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birini oluşturuyor. Burada, ziyaretçiler hem dağların güzelliğini hem de vadilerin serinliğini deneyimleyebilirler. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin ve hayvanların yaşamına ev sahipliği yapıyor. İklimi, ziyaretçilere dört mevsim boyunca farklı bir güzellik sunuyor. Kışın karla kaplı dağlar, ilkbaharda çiçeklerle dolu vadiler, yazın serin ormanlar ve sonbaharda renkli yapraklarla dolu ağaçlar, her mevsim ziyaretçilere farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

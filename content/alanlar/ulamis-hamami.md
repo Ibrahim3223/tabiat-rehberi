@@ -50,7 +50,7 @@ Ulamış Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve tatilc
 ## İlginç Bilgiler
 
 - Ulamış Hamamı, Seferihisar'ın en güzel plajlarından biri olarak bilinir.
-- Plaj, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Ulamış Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar.
 - Plajda, çeşitli deniz canlıları bulunmaktadır.
 - Ulamış Hamamı, Ege Bölgesi'nin güzelliği ile baş başa bırakır.

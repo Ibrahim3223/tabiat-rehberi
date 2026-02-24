@@ -20,7 +20,7 @@ aktiviteler: ["Tepenin etrafındaki tarihi eserleri keşfetmek","Doğal güzelli
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Divane Tepesi","caption":"Divane Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divane%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388561","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Divane Tepesi, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir."
+"
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","Divane Tepesi","coğrafya","tarihçe","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388561"
@@ -36,7 +36,7 @@ Divane Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Divane Tepesi, Erzurum'un doğusunda yer alan bir tepe olup, 140 hektarlık geniş bir alanı kaplar. Tepenin eteklerinde yer alan vadiler ve ovalar, bölgenin coğrafi yapısını şekillendirmektedir. Ayrıca, tepe etrafındaki dağlar ve tepeler, bölgenin coğrafi çeşitliliğini artırmaktadır. Divane Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktördür. Tepenin yüksekliği, bölgenin sıcaklık ve nem oranlarını etkilemektedir. Ayrıca, tepe etrafındaki bitki örtüsü, bölgenin ekolojisini desteklemektedir. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna ve floraya sahiptir.
+ Tepenin eteklerinde yer alan vadiler ve ovalar, bölgenin coğrafi yapısını şekillendirmektedir. Ayrıca, tepe etrafındaki dağlar ve tepeler, bölgenin coğrafi çeşitliliğini artırmaktadır. Divane Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktördür. Tepenin yüksekliği, bölgenin sıcaklık ve nem oranlarını etkilemektedir. Ayrıca, tepe etrafındaki bitki örtüsü, bölgenin ekolojisini desteklemektedir. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna ve floraya sahiptir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Divane Tepesi, ziyaretçilere birçok aktivite ve deneyim sunar. Ziyaretçiler, 
 
 ## İlginç Bilgiler
 
-- Divane Tepesi, 140 hektarlık geniş bir alanı kaplar
 - Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşar
 - Tepenin yüksekliği, bölgenin iklimini etkiler
 - Tepenin etrafındaki tarihi eserler, bölgenin tarihini gözler önüne serer

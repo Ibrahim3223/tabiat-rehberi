@@ -49,7 +49,7 @@ Hakkari'nin görkemli doğası, Çelimirya Tepesi'ne ev sahipliği yapıyor. Çe
 ## İlginç Bilgiler
 
 - Çelimirya Tepesi, Hakkari'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Çelimirya Tepesi, çeşitli bitki türlerine ev sahipliği yapıyor
 - Bu tepe, aynı zamanda, çeşitli hayvan türlerine de ev sahipliği yapıyor
 - Çelimirya Tepesi, doğa severler için önemli bir destinasyon olarak kabul ediliyor

@@ -22,14 +22,14 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Bursa_Uluda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Uludağ Milli Parkı manzarası","credit":"Elnur Ahmadov","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_ve_teleferik.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_ve_teleferik.jpg/1280px-Bursa_Uluda%C4%9F_Milli_Park%C4%B1_ve_teleferik.jpg","alt":"Uludağ Milli Parkı - Bursa Uludağ Milli Parkı ve teleferik","credit":"Elnur Ahmadov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_Teleferik.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_Teleferik.jpg/1280px-Bursa_Uluda%C4%9F_Milli_Park%C4%B1_Teleferik.jpg","alt":"Uludağ Milli Parkı - Bursa Uludağ Milli Parkı Teleferik","credit":"Elnur Ahmadov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_Manzaras%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_Manzaras%C4%B1.jpg/1280px-Bursa_Uluda%C4%9F_Milli_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Uludağ Milli Parkı - Bursa Uludağ Milli Parkı Manzarası","credit":"Elnur Ahmadov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/35/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_G%C3%BCnbat%C4%B1m%C4%B1nda_Teleferik.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bursa_Uluda%C4%9F_Milli_Park%C4%B1_G%C3%BCnbat%C4%B1m%C4%B1nda_Teleferik.jpg/1280px-Bursa_Uluda%C4%9F_Milli_Park%C4%B1_G%C3%BCnbat%C4%B1m%C4%B1nda_Teleferik.jpg","alt":"Uludağ Milli Parkı - Bursa Uludağ Milli Parkı Günbatımında Teleferik","credit":"Elnur Ahmadov","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/35/Bursa_Uluda%C4%9F_Milli_Park%C4%B1%2C_Teleferik.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bursa_Uluda%C4%9F_Milli_Park%C4%B1%2C_Teleferik.jpg/1280px-Bursa_Uluda%C4%9F_Milli_Park%C4%B1%2C_Teleferik.jpg","alt":"Uludağ Milli Parkı - Bursa Uludağ Milli Parkı, Teleferik","credit":"Elnur Ahmadov","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluda%C4%9F%20Milli%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-description: "Bursa'nın kalbinde yer alan Uludağ Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Uludağ","Milli Park","Bursa","Marmara Bölgesi","Doğa","Turizm","Yeşil Alan","Futbol Sahası"]
+"
+
 schema_type: "TouristAttraction"
 ---
 
 # Uludağ Milli Parkı
 
-Uludağ Milli Parkı, Bursa'nın kalbinde yer alan 140 hektarlık bir yeşil alandır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Uludağ Milli Parkı, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir. Parkın tarihi geçmişi, yüzyıllar boyunca insan yerleşimine ve doğal yaşamına ev sahipliği yapmıştır.
+ Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Uludağ Milli Parkı, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir. Parkın tarihi geçmişi, yüzyıllar boyunca insan yerleşimine ve doğal yaşamına ev sahipliği yapmıştır.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Uludağ Milli Parkı, ziyaretçilerine geniş bir coğrafi çeşitlilik sunmakta
 
 - Uludağ Milli Parkı, Türkiye'nin en önemli milli parklarından biridir.
 - Parkın tarihi geçmişi, yüzyıllar boyunca insan yerleşimine ve doğal yaşamına ev sahipliği yapmıştır.
-- Uludağ Milli Parkı, 140 hektarlık bir yeşil alana sahiptir.
+
 - Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Uludağ Milli Parkı, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir.

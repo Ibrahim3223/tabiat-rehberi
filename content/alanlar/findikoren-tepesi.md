@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tepe tırmanışı","ku
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Fındıkören Tepesi","caption":"Fındıkören Tepesi","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/F%C4%B1nd%C4%B1k%C3%B6ren%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32207034","tip":"genel"}]
-description: "Kahramanmaraş'ta yer alan Fındıkören Tepesi, doğa severler için bir cennet. Yeşilin her tonunu görebileceğiniz bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor."
+description: "Kahramanmaraş'ta yer alan Fındıkören Tepesi, doğa severler için bir cennet."
 keywords: ["Fındıkören Tepesi","Kahramanmaraş","doğa","tepe","yeşil","gezi","turizm","Akdeniz Bölgesi","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32207034"
@@ -48,7 +48,6 @@ Fındıkören Tepesi'ni ziyaret etmek, doğa severler için bir rüya harika bir
 
 ## İlginç Bilgiler
 
-- Fındıkören Tepesi, 140 hektarlık bir alanı kapsıyor.
 - Tepenin zirvesine çıktığınızda, Akdeniz Bölgesi'nin geniş ve yeşil ovalarını görebiliyorsunuz.
 - Tepede, özellikle gün batımı saatleri, ziyaretçilere büyüleyici bir güzellik sunuyor.
 - Fındıkören Tepesi, flora ve fauna açısından zengin bir bölge.

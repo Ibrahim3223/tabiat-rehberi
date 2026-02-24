@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Çiçek İzleme","Kuş Gözlemi","Fotograf�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Papazın Bağı Sit Alanı","caption":"Papazın Bağı Sit Alanı","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Papaz%C4%B1n%20Ba%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226618","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Papazın Bağı Sit Alanı, 140 hektarlık genişliğiyle yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Papazın Bağı","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Yeşil Alan","Çevre","Doğa","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226618"
@@ -30,7 +30,7 @@ Papazın Bağı Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Papazın Bağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. 140 hektarlık alanı, çeşitli bitki türleri ve hayvanlarla dolu. Bu bölgenin coğrafi konumu, ziyaretçilere doğal yaşamı gözlemleme fırsatı sunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Papazın Bağı, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Bahar aylarında çiçeklerle dolu, yaz aylarında yeşilin her tonunu gösteren, sonbaharın renk cümbüşüne tanık olan ve kışın karla kaplanan bu bölge, her mevsim ziyaretçilerini bekliyor.
+Papazın Bağı Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Bu bölgenin coğrafi konumu, ziyaretçilere doğal yaşamı gözlemleme fırsatı sunuyor. İklim, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Papazın Bağı, ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Bahar aylarında çiçeklerle dolu, yaz aylarında yeşilin her tonunu gösteren, sonbaharın renk cümbüşüne tanık olan ve kışın karla kaplanan bu bölge, her mevsim ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

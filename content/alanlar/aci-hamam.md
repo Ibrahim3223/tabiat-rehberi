@@ -51,7 +51,7 @@ Acı Hamam'ı ziyaret etmek, özellikle İstanbul'da yaşayanlar için kolaylık
 ## İlginç Bilgiler
 
 - Acı Hamam, Fatih/İstanbul'da Marmara Denizi kıyısında yer alıyor.
-- Bölge, 140 hektarlık bir alana sahip.
+
 - Acı Hamam, İstanbul'un merkezine yakın olmasına rağmen sakin bir kaçış noktası olarak biliniyor.
 - Bölgede, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor.
 - Acı Hamam, yılın her dönemi ziyaret edilebilir.

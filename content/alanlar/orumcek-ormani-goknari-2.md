@@ -31,7 +31,7 @@ wikidata_id: "Q108228026"
 
 ## Coğrafya
 
-Örümcek Ormani Goknari 2, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Milli park, 140 hektarlık bir alana yayılmış ve çeşitli arazilerle kaplıdır. Burada, ormanlık alanlar, çayırlar ve kayalık bölgeler bulunmaktadır. İklim, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir. Çevre, doğal güzellikleriyle dolu ve birçok farklı bitki ve hayvan türüne ev sahipliği yapmaktadır. Milli parkın coğrafi yapısı, aynı zamanda çeşitli doğal kaynaklara da sahiptir. Burada, yeraltı suları, nehirler ve göller gibi su kaynakları bulunmaktadır.
+Örümcek Ormani Goknari 2, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biridir. Burada, ormanlık alanlar, çayırlar ve kayalık bölgeler bulunmaktadır. İklim, karasal iklim özellikleri göstermekte ve yazları sıcak, kışları soğuk geçmektedir. Çevre, doğal güzellikleriyle dolu ve birçok farklı bitki ve hayvan türüne ev sahipliği yapmaktadır. Milli parkın coğrafi yapısı, aynı zamanda çeşitli doğal kaynaklara da sahiptir. Burada, yeraltı suları, nehirler ve göller gibi su kaynakları bulunmaktadır.
 
 ## Flora ve Fauna
 

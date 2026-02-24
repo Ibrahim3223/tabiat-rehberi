@@ -22,7 +22,7 @@ wikidata_id: "Q108228059"
 
 # Mersin Erdemli Alata-Kızılçam
 
-Mersin Erdemli'de bulunan Alata-Kızılçam Milli Parkı, yaklaşık 140 hektarlık bir alanı kaplayan ve doğa severlerin ilgi odağı olan bir destinasyon. Bu milli park, ziyaretçilerini yemyeşil ormanları, çeşitliliği yüksek flora ve fauna ile karşılar. Alata-Kızılçam Milli Parkı, Mersin Erdemli'nin önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi ağırlar.
+ Bu milli park, ziyaretçilerini yemyeşil ormanları, çeşitliliği yüksek flora ve fauna ile karşılar. Alata-Kızılçam Milli Parkı, Mersin Erdemli'nin önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi ağırlar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Alata-Kızılçam Milli Parkı, ziyaretçilere yıl boyunca açık bir destinasy
 ## İlginç Bilgiler
 
 - Alata-Kızılçam Milli Parkı, Mersin Erdemli'nin en önemli turizm noktalarından biri
-- Milli park, 140 hektarlık bir alanı kaplar
+
 - Alata-Kızılçam, flora ve fauna açısından oldukça zengindir
 - Milli parkta, rehberli turlar düzenlenmektedir
 - Ziyaretçiler, milli parkı gezerken, doğa yürüyüşleri yapabilir ve piknik alanlarında dinlenebilir

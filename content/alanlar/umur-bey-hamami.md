@@ -37,7 +37,7 @@ Umur Bey Hamamı, tarihi geçmişi ile dikkat çeker. Hamamın inşa tarihi tam 
 
 ## Coğrafya
 
-Umur Bey Hamamı, Afyonkarahisar'ın merkezinde yer alır. Hamam, şehrin önemli turizm merkezlerinden biridir. Hamamın çevresinde, çeşitli tarihi ve kültürel yapılar bulunur. Hamamın bulunduğu alan, şehrin en önemli caddelerinden biri olan Atatürk Caddesi'ne yakındır. Hamamın yakınında, çeşitli restoranlar, kafeler ve dükkanlar bulunur. Umur Bey Hamamı, şehrin merkezinde yer alması nedeniyle, ulaşım açısından kolaylık sağlar. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alana sahiptir. Hamamın çevresi, şehrin önemli par ve bahçeleri ile çevrilidir. Umur Bey Hamamı, şehrin en önemli turizm merkezlerinden biridir.
+Umur Bey Hamamı, Afyonkarahisar'ın merkezinde yer alır. Hamam, şehrin önemli turizm merkezlerinden biridir. Hamamın çevresinde, çeşitli tarihi ve kültürel yapılar bulunur. Hamamın bulunduğu alan, şehrin en önemli caddelerinden biri olan Atatürk Caddesi'ne yakındır. Hamamın yakınında, çeşitli restoranlar, kafeler ve dükkanlar bulunur. Umur Bey Hamamı, şehrin merkezinde yer alması nedeniyle, ulaşım açısından kolaylık sağlar. Hamamın çevresi, şehrin önemli par ve bahçeleri ile çevrilidir. Umur Bey Hamamı, şehrin en önemli turizm merkezlerinden biridir.
 
 ## Flora ve Fauna
 

@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/21/Emirsultan_cami_ve_Emir_Sultan_Hamam%C4%B1-_panoramio_%281%29.jpg","alt":"Türbe Çamı manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/Karaman_%C4%B0maret_Cami_4819.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Karaman_%C4%B0maret_Cami_4819.jpg/1280px-Karaman_%C4%B0maret_Cami_4819.jpg","alt":"Türbe Çamı - Karaman İmaret Cami 4819","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/21/Karaman_%C4%B0maret_Cami_2194.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Karaman_%C4%B0maret_Cami_2194.jpg/1280px-Karaman_%C4%B0maret_Cami_2194.jpg","alt":"Türbe Çamı - Karaman İmaret Cami 2194","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Karaman_%C4%B0maret_Cami_4822.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Karaman_%C4%B0maret_Cami_4822.jpg/1280px-Karaman_%C4%B0maret_Cami_4822.jpg","alt":"Türbe Çamı - Karaman İmaret Cami 4822","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Karaman_%C4%B0maret_Cami_4829.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karaman_%C4%B0maret_Cami_4829.jpg/1280px-Karaman_%C4%B0maret_Cami_4829.jpg","alt":"Türbe Çamı - Karaman İmaret Cami 4829","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/16/Karaman_%C4%B0maret_Cami_4827.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Karaman_%C4%B0maret_Cami_4827.jpg/1280px-Karaman_%C4%B0maret_Cami_4827.jpg","alt":"Türbe Çamı - Karaman İmaret Cami 4827","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrbe%20%C3%87am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228083","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Türbe Çamı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Türbe Çamı","milli park","İç Anadolu Bölgesi","doğa","çevre","turizm","gezi","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228083"
@@ -45,6 +45,6 @@ Türbe Çamı'na ziyaretçiler, çeşitli ulaşım araçları ile gelebilirler. 
 
 - Türbe Çamı, İç Anadolu Bölgesi'nin en önemli milli parklarından biridir.
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşamaktadır.
-- Milli park, 140 hektarlık bir alanı kaplamaktadır.
+
 - Ziyaretçiler, milli park içinde, çeşitli yürüyüş parkurları ve piknik alanlarından yararlanabilirler.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapı göstermektedir.

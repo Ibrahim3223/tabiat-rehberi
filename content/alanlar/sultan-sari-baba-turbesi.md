@@ -37,7 +37,7 @@ Sultan Sarı Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Sultan Sarı Baba Türbesi, Denizli'nin Sarayköy ilçesinde bulunmaktadır. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Sultan Sarı Baba Türbesi, coğrafi olarak, Ege Bölgesi'nin önemli bir kısmını kapsamaktadır. Burada, ziyaretçiler, çeşitli coğrafi özellikler görebilirler. Sultan Sarı Baba Türbesi, deniz seviyesinden belirli bir yükseklikte bulunmaktadır. Bu mekan, coğrafi olarak, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Sultan Sarı Baba Türbesi, ziyaretçilere, coğrafi olarak çeşitli olanaklar sunmaktadır.
+Sultan Sarı Baba Türbesi, Denizli'nin Sarayköy ilçesinde bulunmaktadır. Sultan Sarı Baba Türbesi, coğrafi olarak, Ege Bölgesi'nin önemli bir kısmını kapsamaktadır. Burada, ziyaretçiler, çeşitli coğrafi özellikler görebilirler. Sultan Sarı Baba Türbesi, deniz seviyesinden belirli bir yükseklikte bulunmaktadır. Bu mekan, coğrafi olarak, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Sultan Sarı Baba Türbesi, ziyaretçilere, coğrafi olarak çeşitli olanaklar sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Sultan Sarı Baba Türbesi'ni ziyaret etmek, tarih ve kültür meraklıları iç
 
 ## İlginç Bilgiler
 
-- Sultan Sarı Baba Türbesi, 140 hektarlık bir alanı kaplar.
 - Sultan Sarı Baba Türbesi, Denizli'nin Sarayköy ilçesinde bulunmaktadır.
 - Sultan Sarı Baba Türbesi, tarihin izlerini taşıyan çeşitli yapılar ve tarihi eserler barındırır.
 - Sultan Sarı Baba Türbesi, coğrafi olarak, Ege Bölgesi'nin önemli bir kısmını kapsamaktadır.

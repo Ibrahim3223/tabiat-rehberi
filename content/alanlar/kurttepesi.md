@@ -28,7 +28,7 @@ wikidata_id: "Q31387497"
 
 # Kurttepesi
 
-Kurttepesi, Van'ın tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Van Gölü'ne hakim bir konumdadır. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini Van'ın tarihi ve doğal güzellikleriyle baş başa bırakır. Kurttepesi, hem doğa hem de tarih severlerin ilgisini çeken bir destinasyondur.
+Kurttepesi, Van'ın tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Kurttepesi, hem doğa hem de tarih severlerin ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 

@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Sinop-Ayancik-Yenice Kayin","caption":"Sinop-Ayancik-Yenice Kayin","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Yenice%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227267","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin en güzel milli parklarından biri olan Sinop-Ayancik-Yenice Kayin, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile ziyaretçilerini bekliyor."
+"
 keywords: ["Sinop","Ayancik","Yenice Kayin","milli park","Karadeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227267"
@@ -30,7 +30,7 @@ Sinop-Ayancik-Yenice Kayin milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Sinop-Ayancik-Yenice Kayin milli parkı, Karadeniz Bölgesi'nin kuzeyinde ve Sinop ilinin Ayanci ve Yenice ilçeleri arasında yer alıyor. Bu milli park, 140 hektarlık yeşil alanı ve çeşitli coğrafi özelliklere sahip. Burada, ziyaretçiler doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir veya fotoğrafçılık yapabilir. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna çeşitliliği de bulunuyor. Sinop-Ayancik-Yenice Kayin milli parkı, Karadeniz Bölgesi'nin en güzel ve önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve ziyaretçilere yıl boyunca çeşitli doğa güzellikleri sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz bu bölgede, sonbahar ve kış aylarında ise farklı bir güzelliğe şahit olabilirsiniz.
+Sinop-Ayancik-Yenice Kayin milli parkı, Karadeniz Bölgesi'nin kuzeyinde ve Sinop ilinin Ayanci ve Yenice ilçeleri arasında yer alıyor. Burada, ziyaretçiler doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir veya fotoğrafçılık yapabilir. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna çeşitliliği de bulunuyor. Sinop-Ayancik-Yenice Kayin milli parkı, Karadeniz Bölgesi'nin en güzel ve önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve ziyaretçilere yıl boyunca çeşitli doğa güzellikleri sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz bu bölgede, sonbahar ve kış aylarında ise farklı bir güzelliğe şahit olabilirsiniz.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Sinop-Ayancik-Yenice Kayin milli parkına ziyarette bulunmak için, Sinop ilinin
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
 - zengin fauna çeşitliliği
 - çeşitli bitki türleri
 - tarihi kalıntılar

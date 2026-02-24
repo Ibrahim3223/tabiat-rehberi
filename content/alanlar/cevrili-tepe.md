@@ -48,8 +48,6 @@ Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan Çevrili Tepe, coğrafi açı
 
 ## İlginç Bilgiler
 
-- Çevrili Tepe, 140 hektarlık bir alanı kaplar.
-
 - Çevrili Tepe'nin etrafında dağlar ve vadiler bulunur.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir.
 - Çevrili Tepe, coğrafi açıdan oldukça çeşitli bir bölgeye sahiptir.

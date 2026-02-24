@@ -37,11 +37,11 @@ Aşağı Cami Türbesi'nin tarihi geçmişi, Denizli ilinin zengin kültürel mi
 
 ## Coğrafya
 
-Aşağı Cami Türbesi, Çivril'in 10 kilometre güneydoğusunda, Ege Bölgesi'nin en güzel noktalarından biri olan bir kıyı bandında yer alıyor. Bu bölge, yüksek bir konumda ve 140 hektarlık bir alanı kapsıyor. Coğrafi olarak, Aşağı Cami Türbesi, Çivril Ovası'nın güneyinde, Akdeniz ikliminin etkisinde kalıyor. Bölgenin iklimi, yazları sıcak ve kurak, kışları ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasını da etkiliyor. Çivril Ovası'nın verimli toprakları, çeşitli tarım faaliyetlerine ev sahipliği yapıyor ve bölgenin ekonomisine katkıda bulunüyor.
+Aşağı Cami Türbesi, Çivril'in 10 kilometre güneydoğusunda, Ege Bölgesi'nin en güzel noktalarından biri olan bir kıyı bandında yer alıyor. Coğrafi olarak, Aşağı Cami Türbesi, Çivril Ovası'nın güneyinde, Akdeniz ikliminin etkisinde kalıyor. Bölgenin iklimi, yazları sıcak ve kurak, kışları ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasını da etkiliyor. Çivril Ovası'nın verimli toprakları, çeşitli tarım faaliyetlerine ev sahipliği yapıyor ve bölgenin ekonomisine katkıda bulunüyor.
 
 ## Flora ve Fauna
 
-Aşağı Cami Türbesi, Çivril'in doğal güzelliklerini sunan bir bölge. Bu 140 hektarlık alan, çeşitli bitki türleri ve fauna ile dolu. Bölgenin flora ve faunası, Akdeniz ikliminin etkisinde kalıyor ve mevsimsel değişimlere göre şekilleniyor. Kış aylarında, bölgenin flora ve faunası daha aktif ve çeşitliken, yaz aylarında daha sakin ve kurak bir görünüm sergiliyor. Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler yaşüyor ve bu bölge, doğa severlerin ilgisini çekiyor.
+Aşağı Cami Türbesi, Çivril'in doğal güzelliklerini sunan bir bölge. Bölgenin flora ve faunası, Akdeniz ikliminin etkisinde kalıyor ve mevsimsel değişimlere göre şekilleniyor. Kış aylarında, bölgenin flora ve faunası daha aktif ve çeşitliken, yaz aylarında daha sakin ve kurak bir görünüm sergiliyor. Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler yaşüyor ve bu bölge, doğa severlerin ilgisini çekiyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Aşağı Cami Türbesi'ni ziyaret etmek, Çivril'in doğal güzelliklerini keşf
 ## İlginç Bilgiler
 
 - Aşağı Cami Türbesi, Çivril'in en önemli turizm noktalarından biri.
-- Bölge, 140 hektarlık bir alanı kapsıyor.
+
 - Aşağı Cami Türbesi, Ege Bölgesi'nin güzide bir noktasında yer alıyor.
 - Bölge, çeşitli bitki türleri ve fauna ile dolu.
 - Aşağı Cami Türbesi, doğa severlerin ve tarih meraklılarının ilgisini çekiyor.

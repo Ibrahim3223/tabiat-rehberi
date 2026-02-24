@@ -23,7 +23,7 @@ wikidata_id: "Q56242714"
 
 # Ara Güler Müzesi
 
-Ara Güler Müzesi, İstanbul'un merkezinde, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini bekleyen bir kültür ve sanat merkezidir. Bu müzenin içerisinde, Ara Güler'in hayatını ve eserlerini yakından tanıyabilirsiniz. Ara Güler, Türk fotoğraf sanatının önemli isimlerinden biri olarak bilinir ve eserleri, Türkiye'nin eşsiz güzelliğini gözler önüne serer.
+ Bu müzenin içerisinde, Ara Güler'in hayatını ve eserlerini yakından tanıyabilirsiniz. Ara Güler, Türk fotoğraf sanatının önemli isimlerinden biri olarak bilinir ve eserleri, Türkiye'nin eşsiz güzelliğini gözler önüne serer.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Ara Güler Müzesi, ünlü Türk fotoğraf sanatçısı Ara Güler'in hayatı ve
 
 ## Coğrafya
 
-Ara Güler Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde bulunmaktadır. Müze, yaklaşık 140 hektarlık bir alanda kurulmuştur ve çevresinde çeşitli tarihi ve kültürel yapılar bulunmaktadır. Müzenin bulunduğu bölge, İstanbul'un en eski ve tarihi bölgelerinden biridir. Bu bölgede, çeşitli camiler, kiliseler, sinagoglar ve diğer tarihi yapılar bulunmaktadır. Ara Güler Müzesi, İstanbul'un kalbinde, Boğaziçi Köprüsü'ne yakın bir mesafede bulunmaktadır. Müze, yüksek bir konumda kurulmuş ve çevresinde çeşitli yeşillik alanları bulunmaktadır. Ara Güler Müzesi, İstanbul'un iklimine uygun olarak tasarlanmış ve içerisinde çeşitli iklimlendirme sistemleri bulunmaktadır.
+Ara Güler Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde bulunmaktadır. Müzenin bulunduğu bölge, İstanbul'un en eski ve tarihi bölgelerinden biridir. Bu bölgede, çeşitli camiler, kiliseler, sinagoglar ve diğer tarihi yapılar bulunmaktadır. Ara Güler Müzesi, İstanbul'un kalbinde, Boğaziçi Köprüsü'ne yakın bir mesafede bulunmaktadır. Müze, yüksek bir konumda kurulmuş ve çevresinde çeşitli yeşillik alanları bulunmaktadır. Ara Güler Müzesi, İstanbul'un iklimine uygun olarak tasarlanmış ve içerisinde çeşitli iklimlendirme sistemleri bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -45,6 +45,6 @@ Ara Güler Müzesi, yıl boyunca ziyaretçilere açık bir kültür merkezidir. 
 
 - Ara Güler, Türk fotoğraf sanatının önemli isimlerinden biridir
 - Ara Güler Müzesi, İstanbul'un merkezinde kurulmuştur
-- Müze, yaklaşık 200 futbol sahası büyüklüğünde bir alana kurulmuştur
+
 - Ara Güler Müzesi, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır
 - Müze, ziyaretçilerine, çeşitli sergi alanları, kütüphane ve eğitim odaları sunmaktadır

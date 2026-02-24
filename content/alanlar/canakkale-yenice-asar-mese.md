@@ -30,7 +30,7 @@ Canakkale-Yenice-Asar Mese milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Canakkale-Yenice-Asar Mese milli parkı, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sergiliyor. Park, 140 hektarlık bir alanı kaplıyor ve çeşitli coğrafi özellikler sunuyor. Bölge, dağlar, vadiler ve ova gibi farklı coğrafi oluşumları içeriyor. Parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmelerine olanak sağlıyor. İklim, parkın coğrafi konumuna göre şekilleniyor ve ziyaretçilerin farklı mevsimlerde farklı deneyimler yaşamasına olanak sağlıyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Canakkale-Yenice-Asar Mese milli parkı, coğrafi güzellikleri ve doğanın çeşitliliği ile ziyaretçilerini bekliyor.
+Canakkale-Yenice-Asar Mese milli parkı, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sergiliyor. Bölge, dağlar, vadiler ve ova gibi farklı coğrafi oluşumları içeriyor. Parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmelerine olanak sağlıyor. İklim, parkın coğrafi konumuna göre şekilleniyor ve ziyaretçilerin farklı mevsimlerde farklı deneyimler yaşamasına olanak sağlıyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Canakkale-Yenice-Asar Mese milli parkı, coğrafi güzellikleri ve doğanın çeşitliliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Canakkale-Yenice-Asar Mese milli parkını ziyaret etmek, doğa severler için g
 ## İlginç Bilgiler
 
 - Parkın kuruluşu, bölgenin doğal güzelliklerinin korunmasına yönelik çabaların sonucudur.
-- Park, 140 hektarlık bir alanı kaplıyor.
+
 - Parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmelerine olanak sağlıyor.
 - Park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Parkın ekosistemi, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak sağlıyor.

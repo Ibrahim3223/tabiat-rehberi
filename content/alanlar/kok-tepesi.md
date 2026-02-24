@@ -49,7 +49,6 @@ Kok Tepesi, ziyaretçilerini ağırlamak için hazırdır. Bu bölge, özellikle
 
 ## İlginç Bilgiler
 
-- Kok Tepesi, 140 hektarlık bir alana kurulmuştur
 - Bölge, çeşitli bitki türleri yetişen bir alana sahiptir
 - Kok Tepesi, yaban hayatı için önemli bir yaşam alanıdır
 - Bölge, tarihi kalıntılar ve anıtlara sahiptir

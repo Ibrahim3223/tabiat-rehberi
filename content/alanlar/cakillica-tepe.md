@@ -49,7 +49,7 @@ wikidata_id: "Q34827805"
 ## İlginç Bilgiler
 
 - Çakıllıca Tepe, Antalya'nın önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Çakıllıca Tepe, ziyaretçilerine geniş bir manzara sunuyor.
 - Bu bölge, zengin bir flora ve fauna ile dikkat çekiyor.
 - Çakıllıca Tepe, yılın her dönemi ziyaret edilebilir.

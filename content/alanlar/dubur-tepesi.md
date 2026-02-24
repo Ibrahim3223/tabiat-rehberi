@@ -36,7 +36,7 @@ Dubur Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Dubur Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil ediyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleriyle dolu. Bölgenin iklimi, tepeye çıkan ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Kışın karla kaplı tepe, bahar ve yaz aylarında ise yeşilin tüm tonlarını ziyaretçilere gösteriyor. Tepe, aynı zamanda zengin fauna ile dolu ve bu, doğa severler için büyük bir çekim merkezi. Ziyaretçiler, tepeye tırmanırken, bölgenin coğrafi güzelliğini ve çeşitliliğini deneyimleyebiliyorlar. Dubur Tepesi, coğrafi konumu itibariyle, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepe, ziyaretçilere bölge hakkında geniş bir perspektif sunuyor ve bu perspektif, ziyaretçilerin bölgeyi daha iyi anlamalarına yardımcı oluyor.
+Dubur Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil ediyor. Bölgenin iklimi, tepeye çıkan ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Kışın karla kaplı tepe, bahar ve yaz aylarında ise yeşilin tüm tonlarını ziyaretçilere gösteriyor. Tepe, aynı zamanda zengin fauna ile dolu ve bu, doğa severler için büyük bir çekim merkezi. Ziyaretçiler, tepeye tırmanırken, bölgenin coğrafi güzelliğini ve çeşitliliğini deneyimleyebiliyorlar. Dubur Tepesi, coğrafi konumu itibariyle, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepe, ziyaretçilere bölge hakkında geniş bir perspektif sunuyor ve bu perspektif, ziyaretçilerin bölgeyi daha iyi anlamalarına yardımcı oluyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Dubur Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için bir m
 ## İlginç Bilgiler
 
 - Dubur Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir doğal güzelliğidir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile doludur.
 - Dubur Tepesi, tarih boyunca önemli bir gözlem ve savunma noktası olarak kullanılmıştır.
 - Tepe, yılın her mevsiminde ziyaret edilebilir.

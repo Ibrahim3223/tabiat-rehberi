@@ -29,7 +29,7 @@ wikidata_id: "Q131390771"
 
 # Elyasa Peygamber Türbesi
 
-Elyasa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve kültürel merkezlerinden biri olarak bilinen Diyarbakır'ın Eğilçesinde yer alır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve tarihi geçmişiyle dikkat çekmektedir. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini büyüleyici bir atmosfere davet etmektedir. Elyasa Peygamber Türbesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır.
+Elyasa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve kültürel merkezlerinden biri olarak bilinen Diyarbakır'ın Eğilçesinde yer alır. Elyasa Peygamber Türbesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Elyasa Peygamber Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyim olm
 - Elyasa Peygamber Türbesi, Diyarbakır'ın en önemli dini merkezlerinden birisidir.
 - Türbenin etrafında, çeşitli bitki türleri ve fauna bulunmaktadır.
 - Elyasa Peygamber, halk arasında saygı görmüş bir figür olarak bilinir.
-- Türbe, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Elyasa Peygamber Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli bir kültürel merkezi olarak bilinmektedir.

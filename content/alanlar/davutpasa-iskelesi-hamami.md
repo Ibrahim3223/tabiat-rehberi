@@ -50,7 +50,7 @@ Davutpaşa İskelesi Hamamı, ziyaretçilerine geniş bir yelpaze sunuyor. Bu b�
 ## İlginç Bilgiler
 
 - Davutpaşa İskelesi Hamamı, İstanbul'un en önemli turizm merkezlerinden biri
-- Bu bölge, 140 hektarlık bir yeşil alan sunuyor
+
 - Davutpaşa İskelesi Hamamı, Marmara Bölgesi'nin en önemli coğrafi özelliklerine sahip
 - Bu bölge, çeşitli bitki türlerine ev sahipliği yapıyor
 - Davutpaşa İskelesi Hamamı, ziyaretçilerine geniş bir yelpaze sunuyor

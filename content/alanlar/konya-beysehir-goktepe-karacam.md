@@ -14,7 +14,7 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Konya-Beyşehir Goktepe-Karacam","caption":"Konya-Beyşehir Goktepe-Karacam","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Bey%C5%9Fehir%20Goktepe-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228104","tip":"genel"}]
-description: "Konya'nın doğal güzelliklerini keşfedin. Beyşehir Gölü'nün kıyısında yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+description: "Konya'nın doğal güzelliklerini keşfedin."
 keywords: ["Konya","Beyşehir Gölü","Milli Park","Doğa","Yeşil Alan","Göktepe","Karacam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228104"
@@ -30,7 +30,7 @@ Konya-Beyşehir Goktepe-Karacam milli parkının tarihi geçmişi, yüzyıllar �
 
 ## Coğrafya
 
-Konya-Beyşehir Goktepe-Karacam milli parkı, Konya ilinin Beyşehir ilçesinde yer alıyor. Milli park, 140 hektarlık yeşil alanıyla, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Beyşehir Gölü'nün kıyısında yer alan milli park, gölün eşsiz manzarasını ziyaretçilerine sunuyor. Milli parkın coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, milli parkın doğal güzelliklerini daha da artırıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, milli parkın flora ve faunasının çeşitliliğini etkiliyor. Milli parkın etrafı, genellikle ormanlık alanlarla çevrili ve bu ormanlık alanlar, milli parkın doğal güzelliklerini daha da artırıyor.
+Konya-Beyşehir Goktepe-Karacam milli parkı, Konya ilinin Beyşehir ilçesinde yer alıyor. Beyşehir Gölü'nün kıyısında yer alan milli park, gölün eşsiz manzarasını ziyaretçilerine sunuyor. Milli parkın coğrafi yapısı, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, milli parkın doğal güzelliklerini daha da artırıyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim özellikleri, milli parkın flora ve faunasının çeşitliliğini etkiliyor. Milli parkın etrafı, genellikle ormanlık alanlarla çevrili ve bu ormanlık alanlar, milli parkın doğal güzelliklerini daha da artırıyor.
 
 ## Flora ve Fauna
 
@@ -43,6 +43,6 @@ Konya-Beyşehir Goktepe-Karacam milli parkına ziyaretçiler, kolayca ulaşabili
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, yıllar önce oldu.
-- Milli park, 140 hektarlık yeşil alanıyla, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+
 - Milli parkın etrafı, genellikle ormanlık alanlarla çevrili.
 - Milli parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşamlarını sürdürüyorlar.

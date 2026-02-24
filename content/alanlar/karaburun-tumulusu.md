@@ -37,7 +37,7 @@ Karaburun Tümülüsü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 
 ## Coğrafya
 
-Karaburun Tümülüsü, Antalya'nın Elmalı ilçesinde yer alıyor. Bu bölge, coğrafi konumu nedeniyle, Akdeniz Bölgesi'nin önemli noktalarından biri. Karaburun Tümülüsü, 140 hektarlık bir alana yayılmış ve doğal güzelliği ile dikkat çekiyor. Bölge, çeşitli bitki türleri ile kaplı ve bu bitki türleri, Karaburun Tümülüsü'nün doğal güzelliğini artırıyor. Ayrıca, Karaburun Tümülüsü, zengin fauna ile dikkat çekiyor. Bu fauna, bölgenin ekolojik dengesini koruyor ve Karaburun Tümülüsü'nün doğal güzelliğini artırıyor. Karaburun Tümülüsü, coğrafi konumu ve doğal güzelliği nedeniyle, ziyaretçilerin ilgisini çekiyor.
+Karaburun Tümülüsü, Antalya'nın Elmalı ilçesinde yer alıyor. Bu bölge, coğrafi konumu nedeniyle, Akdeniz Bölgesi'nin önemli noktalarından biri. Bölge, çeşitli bitki türleri ile kaplı ve bu bitki türleri, Karaburun Tümülüsü'nün doğal güzelliğini artırıyor. Ayrıca, Karaburun Tümülüsü, zengin fauna ile dikkat çekiyor. Bu fauna, bölgenin ekolojik dengesini koruyor ve Karaburun Tümülüsü'nün doğal güzelliğini artırıyor. Karaburun Tümülüsü, coğrafi konumu ve doğal güzelliği nedeniyle, ziyaretçilerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Karaburun Tümülüsü, yılın her döneminde ziyaret edilebilir. Ancak, ilkbah
 
 ## İlginç Bilgiler
 
-- Karaburun Tümülüsü, 140 hektarlık bir alana yayılmış
 - Bölge, çeşitli bitki türleri ile kaplı
 - Karaburun Tümülüsü, zengin fauna ile dikkat çekiyor
 - Bölge, mevsimsel değişimlere göre, farklı bitki ve hayvan türleri ile karşılaşma mümkün

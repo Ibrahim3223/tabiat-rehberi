@@ -49,7 +49,6 @@ wikidata_id: "Q132950133"
 
 ## İlginç Bilgiler
 
-- Kompleks, 140 hektarlık bir alana yayılmıştır.
 - Marmara Bölgesi'nin doğal güzelliklerini sergiler.
 - Tarihi eserlerin sergilendiği bir müze barındırır.
 - Ziyaretçilere mevsimsel değişimlerle birlikte farklı güzellikler sunar.

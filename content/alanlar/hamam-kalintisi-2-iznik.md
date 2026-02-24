@@ -29,7 +29,7 @@ wikidata_id: "Q131739176"
 
 # Hamam Kalıntısı 2, İznik
 
-Hamam Kalıntısı 2, İznik, Marmara Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak dikkat çekiyor. Bu alan, İznik'in zengin tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini büyülüyor. İznik Gölü'nün kıyısında yer alan Hamam Kalıntısı 2, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaretçiler, bu geniş ve yeşil alanda hem tarihi kalıntıları keşfedebilir hem de doğanın güzelliğini yaşayabilir.
+Hamam Kalıntısı 2, İznik, Marmara Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak dikkat çekiyor. Bu alan, İznik'in zengin tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini büyülüyor. Ziyaretçiler, bu geniş ve yeşil alanda hem tarihi kalıntıları keşfedebilir hem de doğanın güzelliğini yaşayabilir.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Hamam Kalıntısı 2, İznik'i ziyaret etmek isteyenler için önemli bir destin
 - İznik Gölü, Türkiye'nin en büyük 5. gölü
 - Hamam Kalıntısı 2, İznik'in tarihi mirasının önemli bir parçası
 - İznik, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış
-- Hamam Kalıntısı 2, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - İznik Gölü'nün kıyısında yer alan Hamam Kalıntısı 2, su kenarının doğal güzelliğini sunuyor

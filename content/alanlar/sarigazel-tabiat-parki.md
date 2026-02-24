@@ -30,7 +30,7 @@ Sarıgazel Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Sarıgazel Tabiat Parkı, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Parkın coğrafi yapısı, zengin bitki çeşitliliği ve çeşitli hayvan türleri ile dikkat çekiyor. Bölge, Karadeniz ikliminin özellikleri ile şekillenmiş, yağışlı ve nemli bir ortam sunuyor. Sarıgazel Tabiat Parkı, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi konumu, ziyaretçilere çevre bölgeleri keşfetme fırsatı da sunuyor.
+Sarıgazel Tabiat Parkı, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Parkın coğrafi yapısı, zengin bitki çeşitliliği ve çeşitli hayvan türleri ile dikkat çekiyor. Bölge, Karadeniz ikliminin özellikleri ile şekillenmiş, yağışlı ve nemli bir ortam sunuyor. Parkın coğrafi konumu, ziyaretçilere çevre bölgeleri keşfetme fırsatı da sunuyor.
 
 ## Flora ve Fauna
 

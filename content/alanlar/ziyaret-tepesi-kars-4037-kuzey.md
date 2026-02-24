@@ -49,7 +49,7 @@ Ziyaret Tepesi'ne gitmek isteyenler, Kars şehrinin kuzeyine gitmelidir. Ziyaret
 ## İlginç Bilgiler
 
 - Ziyaret Tepesi, Kars şehrinin kuzeyinde yer alır
-- Ziyaret Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
+
 - Ziyaret Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar
 - Ziyaret Tepesi, Kars şehrinin coğrafi güzelliğini sergileyen önemli bir noktadır
 - Ziyaret Tepesi, ziyaretçilerine tarihin sayfalarını açar ve bölgenin kültürel zenginliğini keşfetme fırsatı sunar

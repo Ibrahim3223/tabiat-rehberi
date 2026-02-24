@@ -36,7 +36,7 @@ Latahüseyin Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Latahüseyin Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. Tepenin etrafında yer alan dağlar, vadiler ve ovalar, bölgeyi coğrafi olarak zenginleştiren önemli ögeler. Latahüseyin Tepesi, 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleri ve hayvanlarla dolu. Tepenin yüksekliği, bölgeyi coğrafi olarak önemli kılan bir diğer öge. Latahüseyin Tepesi, Batman'ın iklimini ve coğrafyasını etkileyen önemli bir faktör. Tepenin etrafında yer alan nehirler ve akarsular, bölgeyi su kaynakları açısından zenginleştiren önemli ögeler. Latahüseyin Tepesi, coğrafi olarak çeşitli ve zengin bir bölge olarak dikkat çekiyor.
+Latahüseyin Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde yer alıyor. Tepenin etrafında yer alan dağlar, vadiler ve ovalar, bölgeyi coğrafi olarak zenginleştiren önemli ögeler. Tepenin yüksekliği, bölgeyi coğrafi olarak önemli kılan bir diğer öge. Latahüseyin Tepesi, Batman'ın iklimini ve coğrafyasını etkileyen önemli bir faktör. Tepenin etrafında yer alan nehirler ve akarsular, bölgeyi su kaynakları açısından zenginleştiren önemli ögeler. Latahüseyin Tepesi, coğrafi olarak çeşitli ve zengin bir bölge olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Latahüseyin Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran v
 
 ## İlginç Bilgiler
 
-- Latahüseyin Tepesi, 140 hektarlık bir alanı kaplıyor
 - Tepenin etrafında yer alan köyler ve kasabalar, bölgeyi keşfetmek isteyenler için önemli birer merkezdir
 - Latahüseyin Tepesi, flora ve fauna açısından zengin bir bölge
 - Tepenin etrafında yer alan tarihi kalıntılar ve antik kentler, bölgeyi ziyaret etmek isteyenler için önemli birer çekim merkezi

@@ -37,7 +37,7 @@ Gevher Nesibe Hatun Kümbeti, 13. yüzyılda inşa edilmiş. Selçuklu Dönemi'n
 
 ## Coğrafya
 
-Gevher Nesibe Hatun Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özellikleri ile karakterize ediliyor. İç Anadolu Bölgesi, Türkiye'nin en büyük bölgelerinden biri olarak biliniyor. Bu bölge, yüksek platolar, dağlar ve ovalar ile karakterize ediliyor. Gevher Nesibe Hatun Kümbeti, 140 hektarlık yeşil alan üzerine kurulu. Gevher Nesibe Hatun Kümbeti'nin etrafı, çeşitli bitki türleri ile çevrili. Bu bölgede, zengin fauna da bulunuyor. Gevher Nesibe Hatun Kümbeti, Kayseri'nin coğrafi ve iklimsel özellikleri ile şekillenmiş bir yapı.
+Gevher Nesibe Hatun Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özellikleri ile karakterize ediliyor. İç Anadolu Bölgesi, Türkiye'nin en büyük bölgelerinden biri olarak biliniyor. Bu bölge, yüksek platolar, dağlar ve ovalar ile karakterize ediliyor. Gevher Nesibe Hatun Kümbeti'nin etrafı, çeşitli bitki türleri ile çevrili. Bu bölgede, zengin fauna da bulunuyor. Gevher Nesibe Hatun Kümbeti, Kayseri'nin coğrafi ve iklimsel özellikleri ile şekillenmiş bir yapı.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Gevher Nesibe Hatun Kümbeti, yıl boyunca ziyaret edilebilir. Bu yapı, Kayseri
 
 - Gevher Nesibe Hatun Kümbeti, Selçuklu Dönemi'nin önemli eserlerinden biri
 - Bu yapı, Gevher Nesibe Hatun adına yaptırılmış
-- Gevher Nesibe Hatun Kümbeti, 140 hektarlık yeşil alan üzerine kurulu
+
 - Bu yapı, Kayseri'nin en önemli tarihi yapılarından biri
 - Gevher Nesibe Hatun Kümbeti, Türk tarihi ve kültürü hakkında bilgi edinmek isteyenler için önemli bir kaynak

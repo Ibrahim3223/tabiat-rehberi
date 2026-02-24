@@ -49,7 +49,7 @@ wikidata_id: "Q34820586"
 ## İlginç Bilgiler
 
 - Üçpınar Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Üçpınar Tepesi, yüksek bir konumda bulunur.
 - Bu tepe, Karadeniz Bölgesi'nin karakteristik flora ve faunasını yansıtan bir doğal güzelliktir.
 - Üçpınar Tepesi, ziyaretçilerine çeşitli aktivite olanakları sunar.

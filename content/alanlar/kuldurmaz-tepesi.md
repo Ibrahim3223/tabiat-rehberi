@@ -48,7 +48,6 @@ Küldurmaz Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini görmek ist
 
 ## İlginç Bilgiler
 
-- Küldurmaz Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Tepenin yüksekliği ve genişliği, bölgenin coğrafyasını etkileyen önemli faktörler
 - Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor
 - Tepede, çeşitli hayvan türleri de yaşadığı biliniyor

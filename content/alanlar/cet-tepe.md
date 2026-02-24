@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%87et%20Tepe%2001.jpg","alt":"Çet Tepe manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f4/%C3%87et_Tepe_10.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%C3%87et_Tepe_10.jpg/1280px-%C3%87et_Tepe_10.jpg","alt":"Çet Tepe - Çet Tepe 10","credit":"Ingeborg Simon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/32/%C3%87et_Tepe_11.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%C3%87et_Tepe_11.jpg/1280px-%C3%87et_Tepe_11.jpg","alt":"Çet Tepe - Çet Tepe 11","credit":"Ingeborg Simon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/%C3%87et_Tepe_12.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%C3%87et_Tepe_12.jpg/1280px-%C3%87et_Tepe_12.jpg","alt":"Çet Tepe - Çet Tepe 12","credit":"Ingeborg Simon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/%C3%87et_Tepe_13.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%C3%87et_Tepe_13.jpg/1280px-%C3%87et_Tepe_13.jpg","alt":"Çet Tepe - Çet Tepe 13","credit":"Ingeborg Simon","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/83/%C3%87et_Tepe_08.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%C3%87et_Tepe_08.jpg/1280px-%C3%87et_Tepe_08.jpg","alt":"Çet Tepe - Çet Tepe 08","credit":"Ingeborg Simon","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87et%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q84604883","tip":"genel"}]
-description: "Mersin'in Erdemli ilçesinde yer alan Çet Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Mersin'in Erdemli ilçesinde yer alan Çet Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Çet Tepe","Erdemli","Mersin","doğa","tarih","gezi","turizm","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q84604883"
@@ -38,7 +38,7 @@ Mersin'in Erdemli ilçesinde yer alan Çet Tepe, doğal güzellikleri ve tarihi 
 
 ## Coğrafya
 
-Çet Tepe, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Çet Tepe, 140 hektarlık alanı ile önemli bir doğal alan olarak kabul ediliyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı passing. Çet Tepe'nin coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçilere benzersiz bir deneyim sunuyor.
+Çet Tepe, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bölgenin iklimi, Akdeniz ikliminin karakteristik özellikleri taşıyor; yazları sıcak ve kurak, kışları ılıman ve yağışlı passing. Çet Tepe'nin coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

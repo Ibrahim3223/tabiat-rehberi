@@ -50,7 +50,7 @@ wikidata_id: "Q131390708"
 ## İlginç Bilgiler
 
 - Ümmi Kemal Türbesi, Bolu ilinin merkezinde yer alıyor.
-- Bu mekan, 140 hektarlık bir alana sahip.
+
 - Ümmi Kemal Türbesi, Karadeniz Bölgesi'nin önemli kültürel miraslarından biri.
 - Bu mekan, ziyaretçilerine zengin bir doğa deneyimi sunuyor.
 - Ümmi Kemal Türbesi, Bolu ilinin önemli turistik noktalarından biri.

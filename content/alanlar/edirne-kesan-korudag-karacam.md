@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Edirne-Kesan-Korudag Karacam","caption":"Edirne-Kesan-Korudag Karacam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Edirne-Kesan-Korudag%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227676","tip":"genel"}]
-description: "Marmara Bölgesi'nde yer alan Edirne-Kesan-Korudag Karacam Milli Parkı, 140 hektarlık geniş bir alan üzerinde kurulmuştur."
+"
 keywords: ["Edirne","Marmara Bölgesi","Milli Park","Korudag Karacam","Doğa","Turizm","Çevre","Ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227676"
@@ -30,7 +30,7 @@ Edirne-Kesan-Korudag Karacam Milli Parkı'nın tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Edirne-Kesan-Korudag Karacam Milli Parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, bölgenin genel iklimi ile benzerlik gösterir ve dört mevsim de ziyaret edilebilir. Parkın çevresi, doğal güzelliklerin yanı sıra, tarihi ve kültürel zenginliklere de ev sahipliği yapar. Parkın yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyan yürüyüş yolları, piknik alanları ve gözlem noktaları ile donatılmıştır. Parkın coğrafi konumu, ziyaretçilerine bölgenin tüm güzelliklerini keşfetme fırsatı sunar. 140 hektarlık bu geniş alan, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar.
+Edirne-Kesan-Korudag Karacam Milli Parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, bölgenin genel iklimi ile benzerlik gösterir ve dört mevsim de ziyaret edilebilir. Parkın çevresi, doğal güzelliklerin yanı sıra, tarihi ve kültürel zenginliklere de ev sahipliği yapar. Parkın yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyan yürüyüş yolları, piknik alanları ve gözlem noktaları ile donatılmıştır. Parkın coğrafi konumu, ziyaretçilerine bölgenin tüm güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Edirne-Kesan-Korudag Karacam Milli Parkı, ziyaretçilerine kolayca ulaşılabil
 ## İlginç Bilgiler
 
 - Parkın kuruluşu, bölgenin doğal güzelliklerini korumak amacıyla gerçekleştirilmiştir.
-- Park, 140 hektarlık bir alanı kaplar.
+
 - Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir.
 - Parkta, ziyaretçilerin gözlemleyebileceği birçok canlı türü bulunur.
 - Parkın ekosistemi, doğal dengenin korunması amacıyla yönetilir.

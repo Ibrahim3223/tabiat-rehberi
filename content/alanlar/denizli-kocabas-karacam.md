@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemleme","fotoğrafçıl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Denizli-Kocabas Karacam","caption":"Denizli-Kocabas Karacam","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Kocabas%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227501","tip":"genel"}]
-description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık milli park."
+description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["milli park","Denizli","Ege Bölgesi","doğa","gezi","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227501"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227501"
 
 # Denizli-Kocabas Karacam
 
-Ege Bölgesi'nin kalbinde yer alan Denizli-Kocabas Karacam milli parkı, 140 hektarlık bir alanı kapsıyor. Milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de yaban hayatının çeşitliliğini gözlemleme fırsatı sunuyor. Doğal güzellikleri ve biyolojik çeşitliliğiyle dikkat çeken bu alan, Ege Bölgesi'nin önemli ekolojik bölgelerinden biri.
+ Milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de yaban hayatının çeşitliliğini gözlemleme fırsatı sunuyor. Doğal güzellikleri ve biyolojik çeşitliliğiyle dikkat çeken bu alan, Ege Bölgesi'nin önemli ekolojik bölgelerinden biri.
 
 ## Tarihçe
 

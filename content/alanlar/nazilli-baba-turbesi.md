@@ -37,7 +37,7 @@ Nazilli Baba Türbesi, yüzyıllar boyunca önemli bir kültürel ve dini merkez
 
 ## Coğrafya
 
-Nazilli Baba Türbesi, Pasinler'in merkezinde yer alıyor ve doğa ile iç içe bir konumda bulunuyor. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu bölge, özellikle bahar ve yaz aylarında yeşilin farklı tonlarını sunuyor. İklim, karasal iklim özellikleri gösteriyor ve ziyaretçilere dört mevsim farklı bir güzellik sunuyor. Nazilli Baba Türbesi'nin çevresi, tarihi ve kültürel yapılar ile dolu ve ziyaretçilere zengin bir gezi deneyimi sunuyor. Bu bölge, doğa severler ve tarih meraklıları için ideal bir destinasyon.
+Nazilli Baba Türbesi, Pasinler'in merkezinde yer alıyor ve doğa ile iç içe bir konumda bulunuyor. Bu bölge, özellikle bahar ve yaz aylarında yeşilin farklı tonlarını sunuyor. İklim, karasal iklim özellikleri gösteriyor ve ziyaretçilere dört mevsim farklı bir güzellik sunuyor. Nazilli Baba Türbesi'nin çevresi, tarihi ve kültürel yapılar ile dolu ve ziyaretçilere zengin bir gezi deneyimi sunuyor. Bu bölge, doğa severler ve tarih meraklıları için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

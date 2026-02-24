@@ -36,7 +36,7 @@ Ulutepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşa
 
 ## Coğrafya
 
-Ulutepe, Kastamonu'nun coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık bir alana yayılan bu tepe, Karadeniz Bölgesi'nin caracteristik coğrafi özelliklerini taşır. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve ziyaretçiler, mevsimsel değişimlere tanıklık edebilir. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin geniş ve yeşillik bir manzarası ile karşılaşabilirsiniz. Ulutepe, aynı zamanda çevresindeki köylerle birlikte bir bütün olarak düşünülür ve bu köyler, ziyaretçilere geleneksel yaşamı tanıma fırsatı sunar.
+Ulutepe, Kastamonu'nun coğrafi olarak en dikkat çekici noktalarından biridir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve ziyaretçiler, mevsimsel değişimlere tanıklık edebilir. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin geniş ve yeşillik bir manzarası ile karşılaşabilirsiniz. Ulutepe, aynı zamanda çevresindeki köylerle birlikte bir bütün olarak düşünülür ve bu köyler, ziyaretçilere geleneksel yaşamı tanıma fırsatı sunar.
 
 ## Flora ve Fauna
 

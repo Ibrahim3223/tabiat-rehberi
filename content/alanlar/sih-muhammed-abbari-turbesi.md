@@ -29,7 +29,7 @@ wikidata_id: "Q131391720"
 
 # Şıh Muhammed Abbari Türbesi
 
-Mersin'in güneşli kıyılarında yer alan Şıh Muhammed Abbari Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Bu özel mekan, yaklaşık 140 hektarlık bir alanda, Akdeniz'in masmavi sularına karşı konumlanmış durumda. 200 futbol sahası büyüklüğünde bir alan kaplayan Şıh Muhammed Abbari Türbesi, ziyaretçilerine geniş ve ferah bir ortam sunuyor. Bu büyüleyici noktada, tarihin izlerini taşıyan bir türbe ile karşılaşırken, aynı zamanda Akdeniz'in eşsiz manzarasını da seyretme fırsatını bulacaksınız.
+Mersin'in güneşli kıyılarında yer alan Şıh Muhammed Abbari Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Bu büyüleyici noktada, tarihin izlerini taşıyan bir türbe ile karşılaşırken, aynı zamanda Akdeniz'in eşsiz manzarasını da seyretme fırsatını bulacaksınız.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mersin'in güneşli kıyılarında yer alan Şıh Muhammed Abbari Türbesi, hem 
 
 ## Coğrafya
 
-Şıh Muhammed Abbari Türbesi, Mersin'in Akdeniz kıyılarında yer alıyor ve bu konumu itibariyle, ziyaretçilerine Akdeniz'in güzelliğini sunuyor. Türbe, 140 hektarlık bir alanda kurulmuş ve bu geniş alan, ziyaretçilere geniş ve ferah bir ortam sağlıyor. Akdeniz'in masmavi suları ve güneşli bir iklim, bu bölgeyi ziyaret etmek için ideal bir ortam yaratıyor. Şıh Muhammed Abbari Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da ziyaretçilere doğanın güzelliğini gösteriyor. Bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de kara etkinlikleri yapma fırsatı sunuyor. Şıh Muhammed Abbari Türbesi, Mersin'in güzelliğini ve zenginliğini keşfetmek isteyenler için ideal bir destinasyon.
+Şıh Muhammed Abbari Türbesi, Mersin'in Akdeniz kıyılarında yer alıyor ve bu konumu itibariyle, ziyaretçilerine Akdeniz'in güzelliğini sunuyor. Akdeniz'in masmavi suları ve güneşli bir iklim, bu bölgeyi ziyaret etmek için ideal bir ortam yaratıyor. Şıh Muhammed Abbari Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da ziyaretçilere doğanın güzelliğini gösteriyor. Bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de kara etkinlikleri yapma fırsatı sunuyor. Şıh Muhammed Abbari Türbesi, Mersin'in güzelliğini ve zenginliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mersin'in güneşli kıyılarında yer alan Şıh Muhammed Abbari Türbesi, hem 
 ## İlginç Bilgiler
 
 - Mersin'in en önemli tarihi noktalarından biri
-- 140 hektarlık geniş bir alanda kurulmuş
+
 - Akdeniz'in güzelliğini sunan bir konum
 - çeşitli bitki türleri ve fauna
 - tarih ve doğa severler için ideal

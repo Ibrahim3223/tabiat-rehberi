@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Kulakeftar Tepesi","caption":"Kulakeftar Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kulakeftar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544570","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nde bulunan Kulakeftar Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Kulakeftar Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31544570"

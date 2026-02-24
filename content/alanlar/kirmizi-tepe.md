@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/Zeleia.jpg","alt":"Kırmızı Tepe manzarası","credit":"Kırmızı","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Zeleia2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zeleia2.jpg/1280px-Zeleia2.jpg","alt":"Kırmızı Tepe - Zeleia2","credit":"Kırmızı","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388590","tip":"genel"}]
-description: "Erzurum'un doğal güzelliklerinin başında gelen Kırmızı Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kırmızı Tepe","Erzurum","Doğu Anadolu Bölgesi","Doğal Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388590"

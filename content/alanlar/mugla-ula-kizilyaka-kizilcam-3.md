@@ -42,7 +42,6 @@ Mugla-Ula-Kizilyaka Kızılçam 3'ü ziyaret etmek, doğa severler için gerçek
 
 ## İlginç Bilgiler
 
-- Mugla-Ula-Kizilyaka Kızılçam 3, 140 hektarlık bir alana sahip
 - Bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor
 - Mugla-Ula-Kizilyaka Kızılçam 3, doğa severler için gerçek bir cennet
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerinin korunması amacını taşıyor

@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c9/20210723-amazon-3.jpg","alt":"Amazon Tabiat Parkı manzarası","credit":"Msalihdamlibag","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20210723-amazon-3.jpg/960px-20210723-amazon-3.jpg","alt":"Amazon Tabiat Parkı","caption":"Amazon Tabiat Parkı","credit":"20210723-amazon-3","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amazon%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228768","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["İç Anadolu Bölgesi","tabiat parkı","yeşil alan","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228768"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228768"
 
 # Amazon Tabiat Parkı
 
-Amazon Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunduğunu söyleyebiliriz, ancak burası özellikle zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 70-80 hektarlık bir bölümü ormanlarla kaplı olan bu park, aynı zamanda birçok su kaynağına ev sahipliği yapıyor.
+ Parkın içinde çeşitli bitki türleri ve hayvanlar bulunduğunu söyleyebiliriz, ancak burası özellikle zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 70-80 hektarlık bir bölümü ormanlarla kaplı olan bu park, aynı zamanda birçok su kaynağına ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Amazon Tabiat Parkı, ziyaretçilerini doğanın güzelliği ve zenginliği ile 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Parkta, birçok su kaynağı bulunmakta
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre çeşitlilik gösteriyor
 - Parkın ekosistemi, doğal ve dengeli bir şekilde çalışıyor

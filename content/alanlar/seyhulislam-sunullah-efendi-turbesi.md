@@ -41,7 +41,7 @@ wikidata_id: "Q131391161"
 
 ## Flora ve Fauna
 
-Şeyhülislam Sunullah Efendi Türbesi, çevresindeki flora ve fauna ile dikkat çekiyor. Türbenin bulunduğu 140 hektarlık yeşil alan, çeşitli bitki türlerini barındırıyor. Mevsimsel değişimler, bu bölgede canlı bir doğa manzarası sunuyor. İlkbahar ve yaz aylarında yeşillikler hüküm sürerken, sonbahar ve kış aylarında renkli bir manzara ortaya çıkıyor. Bu bölgede, çeşitli kuş türleri ve diğer canlılar da yaşanıyor. Türbenin etrafındaki yeşillikler, ziyaretçilere doğayla iç içe bir atmosfer sunuyor. Ziyaretçiler, türbenin huzurlu atmosferini ve doğanın güzelliğini aynı anda deneyimleyebiliyorlar.
+Şeyhülislam Sunullah Efendi Türbesi, çevresindeki flora ve fauna ile dikkat çekiyor. Mevsimsel değişimler, bu bölgede canlı bir doğa manzarası sunuyor. İlkbahar ve yaz aylarında yeşillikler hüküm sürerken, sonbahar ve kış aylarında renkli bir manzara ortaya çıkıyor. Bu bölgede, çeşitli kuş türleri ve diğer canlılar da yaşanıyor. Türbenin etrafındaki yeşillikler, ziyaretçilere doğayla iç içe bir atmosfer sunuyor. Ziyaretçiler, türbenin huzurlu atmosferini ve doğanın güzelliğini aynı anda deneyimleyebiliyorlar.
 
 ## Ziyaret Bilgileri
 

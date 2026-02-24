@@ -37,7 +37,7 @@ Atatürk Orman Çiftliği Hamamı, tarihsel olarak önemli bir geçmişe sahip. 
 
 ## Coğrafya
 
-Atatürk Orman Çiftliği Hamamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir alan. 140 hektarlık geniş yeşil alanı, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Bu bölgede çeşitli bitki türleri ve zengin fauna found. Coğrafi konumu itibariyle, ziyaretçiler buraya gelerek hem doğayı keşfedebilir hem de tarihi yapıları görebilir. Atatürk Orman Çiftliği Hamamı, özellikle yaz aylarında serin ve ferah bir atmosfere sahip. Burada bulunan hamam ve diğer yapılar, ziyaretçilere konaklama ve dinlenme imkanı tanıyor.
+Atatürk Orman Çiftliği Hamamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir alan. Bu bölgede çeşitli bitki türleri ve zengin fauna found. Coğrafi konumu itibariyle, ziyaretçiler buraya gelerek hem doğayı keşfedebilir hem de tarihi yapıları görebilir. Atatürk Orman Çiftliği Hamamı, özellikle yaz aylarında serin ve ferah bir atmosfere sahip. Burada bulunan hamam ve diğer yapılar, ziyaretçilere konaklama ve dinlenme imkanı tanıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Atatürk Orman Çiftliği Hamamı, ziyaretçilere çeşitli aktiviteler sunuyor.
 
 ## İlginç Bilgiler
 
-- Atatürk Orman Çiftliği Hamamı, 140 hektarlık bir alana sahip
 - burada çeşitli bitki türleri ve fauna found
 - tarihi geçmişi ile dikkat çekiyor
 - yaz aylarında visit etmek için ideal bir destinasyon

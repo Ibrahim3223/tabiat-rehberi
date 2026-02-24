@@ -50,7 +50,7 @@ Demircili Aşağı Anıt Mezar, ziyaretçilere tarihî ve doğal güzellikleri k
 ## İlginç Bilgiler
 
 - Demircili Aşağı Anıt Mezar, Mersin'in tarihî zenginliklerini keşfetmek isteyenler için önemli bir durak.
-- Bu mezar, yaklaşık 140 hektarlık bir yeşil alanı kaplıyor.
+
 - Silifke'nin coğrafî konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere de kolayca ulaşabilmesini sağlıyor.
 - Bölgenin flora ve fauna zenginliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 - Ziyaretçilerin, bölgenin tarihî ve doğal güzelliklerini keşfetmek için en az 2-3 saat ayırmaları öneriliyor.

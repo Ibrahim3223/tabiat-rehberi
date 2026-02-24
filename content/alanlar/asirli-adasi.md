@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/A%C5%9F%C4%B1rl%C4%B1_Ma%C4%9Faras%C4%B1.jpg","alt":"Aşırlı Adası manzarası","credit":"Brbbl","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/A%C5%9F%C4%B1rl%C4%B1_Ma%C4%9Faras%C4%B1.jpg/960px-A%C5%9F%C4%B1rl%C4%B1_Ma%C4%9Faras%C4%B1.jpg","alt":"Aşırlı Adası","caption":"Aşırlı Adası","credit":"Aşırlı Mağarası","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1rl%C4%B1%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49632154","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Aşırlı Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

@@ -38,7 +38,7 @@ Akbıyık Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu 
 
 ## Coğrafya
 
-Akbıyık Hamamı, Fatih ilçesinde, İstanbul'un merkezine yakın bir konumda yer alır. Bu tarihi hamam ve plaj, Marmara Denizi'nin kıyısında bulunur ve ziyaretçilere muhteşem bir deniz manzarası sunar. Akbıyık Hamamı'nın coğrafi konumu, ziyaretçilerinhem tarihi bir yapıyı keşfetmelerine hem de denize girerek güneşin tadını çıkarmalarına olanak sağlar. Hamamın etrafında, çeşitli tesisler ve yapılar bulunur, bunlar arasında restoranlar, kafeler ve hediyelik eşya dükkanları da vardır. Akbıyık Hamamı, ziyaretçilerine geniş bir alan sunar, yaklaşık 140 hektarlık bir alanı kaplar. Hamam ve plajın coğrafi konumu, ziyaretçilerin rahatça gezebilmeleri ve keyifli bir gün geçirmeleri için idealdir.
+Akbıyık Hamamı, Fatih ilçesinde, İstanbul'un merkezine yakın bir konumda yer alır. Bu tarihi hamam ve plaj, Marmara Denizi'nin kıyısında bulunur ve ziyaretçilere muhteşem bir deniz manzarası sunar. Akbıyık Hamamı'nın coğrafi konumu, ziyaretçilerinhem tarihi bir yapıyı keşfetmelerine hem de denize girerek güneşin tadını çıkarmalarına olanak sağlar. Hamamın etrafında, çeşitli tesisler ve yapılar bulunur, bunlar arasında restoranlar, kafeler ve hediyelik eşya dükkanları da vardır. Hamam ve plajın coğrafi konumu, ziyaretçilerin rahatça gezebilmeleri ve keyifli bir gün geçirmeleri için idealdir.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Akbıyık Hamamı ve çevresinde, çeşitli bitki türleri bulunur. Bu bitki tü
 
 ## Ziyaret Bilgileri
 
-Akbıyık Hamamı'na gitmek için, Fatih ilçesine ulaşmak gerekir. Buraya, çeşitli toplu taşıma araçları ile ulaşma mümkündür. Hamam ve plaj, yılın her günü açık olup, ziyaretçiler her zaman gelebilirler. Akbıyık Hamamı, ziyaretçilerine geniş bir alan sunar, yaklaşık 140 hektarlık bir alanı kaplar. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir, denize girerek güneşin tadını çıkarabilir ve çeşitli tesisleri ziyaret edebilirler.
+Akbıyık Hamamı'na gitmek için, Fatih ilçesine ulaşmak gerekir. Buraya, çeşitli toplu taşıma araçları ile ulaşma mümkündür. Hamam ve plaj, yılın her günü açık olup, ziyaretçiler her zaman gelebilirler. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir, denize girerek güneşin tadını çıkarabilir ve çeşitli tesisleri ziyaret edebilirler.
 
 ## İlginç Bilgiler
 

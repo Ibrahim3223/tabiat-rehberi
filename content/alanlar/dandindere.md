@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Kamp","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Dandindere","caption":"Dandindere","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dandindere","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227189","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor"
+
 keywords: ["Dandindere","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227189"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227189"
 
 # Dandindere
 
- Bu doğal cennet, ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılar. 140 hektarlık bu yeşil alan, hem doğa severleri hem de macera tutkunlarını cezbedecek bir destinasyon. Dandindere, ziyaretçilerine hem huzur verici bir atmosfer hem de heyecan dolu aktivite seçenekleri sunar. Bu milli park, özellikle bahar ve yaz aylarında, rengarenk çiçeklerle bezendiğinde ziyaretçilerini büyüler.
+ Bu doğal cennet, ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılar. Dandindere, ziyaretçilerine hem huzur verici bir atmosfer hem de heyecan dolu aktivite seçenekleri sunar. Bu milli park, özellikle bahar ve yaz aylarında, rengarenk çiçeklerle bezendiğinde ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Dandindere, zengin flora ve fauna çeşitliliği ile dikkat çeker. Bu milli par
 Dandindere, ziyaretçilerine çeşitli ulaşım seçenekleri sunar. Bu milli parka, araç ile veya toplu taşıma araçları ile ulaşılabilir. Dandindere, ziyaretçilerini yılın her döneminde karşılar. Ancak, bahar ve yaz ayları, bu milli parkı ziyaret etmek için en ideal zamanlardır. Dandindere, ziyaretçilerine hem doğal güzellikleri hem de heyecan dolu aktivite seçenekleri sunar. Bu milli park, özellikle doğa yürüyüşleri, kamp ve fotoğraf çekimi için ideal bir destinasyondur. Dandindere, ziyaretçilerini büyüleyici bir coğrafi güzelliğe davet eder.
 
 ## İlginç Bilgiler
-
-- Dandindere, 140 hektarlık bir alanı kaplar.
 
 - Dandindere, ziyaretçilerine zengin flora ve fauna çeşitliliği sunar.
 - Bu milli park, özellikle doğa severleri ve fotoğraf tutkunlarını cezbedecek bir destinasyondur.

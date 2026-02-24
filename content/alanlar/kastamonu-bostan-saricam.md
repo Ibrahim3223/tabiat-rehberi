@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","çevre keşfi","bitki türleri gözlemi","f
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Kastamonu-Bostan Saricam","caption":"Kastamonu-Bostan Saricam","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Bostan%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227698","tip":"genel"}]
-description: "Kastamonu ilinin doğal güzelliklerini keşfedin. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu ilinin doğal güzelliklerini keşfedin."
 keywords: ["Kastamonu","Bostan Saricam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227698"
@@ -30,7 +30,7 @@ Kastamonu-Bostan Saricam milli parkı, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Kastamonu-Bostan Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. 140 hektarlık alan, ormanlık araziler, çayır ve meralar ile kaplıdır. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve ziyaretçiler, mevsimsel değişimlere göre farklı deneyimler yaşayabilir. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunaın oluşmasına olanak sağlar. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve bölgenin güzelliklerini keşfetmek için birçok fırsat bulabilir.
+Kastamonu-Bostan Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve ziyaretçiler, mevsimsel değişimlere göre farklı deneyimler yaşayabilir. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunaın oluşmasına olanak sağlar. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve bölgenin güzelliklerini keşfetmek için birçok fırsat bulabilir.
 
 ## Flora ve Fauna
 

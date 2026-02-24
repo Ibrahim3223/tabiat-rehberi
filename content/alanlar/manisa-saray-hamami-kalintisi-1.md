@@ -52,5 +52,5 @@ Manisa Saray Hamamı Kalıntısı'na ziyaretçiler, kolayca ulaşabilirler. Şeh
 - Saray Hamamı Kalıntısı, Manisa'nın en önemli tarihî eserlerinden biridir.
 - Bu kalıntı, geçmişte bir sosyal ve kültürel merkez olarak görev yapmıştır.
 - Manisa, Ege Bölgesi'nin önemli kültür merkezlerinden biridir.
-- Saray Hamamı Kalıntısı, 140 hektarlık bir alanı kaplar.
+
 - Bu bölge, çeşitli bitki türleri ile zengindir.

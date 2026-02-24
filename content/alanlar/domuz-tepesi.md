@@ -36,7 +36,7 @@ Domuz Tepesi, tarihi geçmişi olan özel bir yer. Yüzyıllar boyunca, çeşitl
 
 ## Coğrafya
 
-Domuz Tepesi, Doğu Anadolu Bölgesi'nde yer alan Hakkari ilinin en yüksek noktalarından biridir. yüksek bir konumdate bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, 200 futbol sahası büyüklüğüne eşdeğer. Tepenin eteklerinde, yemyeşil çayırlar ve yüksek dağlar bulunuyor. Bu coğrafi konumu, ziyaretçilerine geniş açılı manzaralar sunuyor. Ayrıca, temiz hava ve güzel doğa manzaraları, burayı ziyaret etmek için iyi nedenler. Yüksekli ve coğrafi konum, Domuz Tepesi'ni özel bir yer haline getiriyor. Burada, doğanın tüm güzelliğini ve coğrafi zenginliği bir arada görebilirsiniz.
+Domuz Tepesi, Doğu Anadolu Bölgesi'nde yer alan Hakkari ilinin en yüksek noktalarından biridir. Tepenin eteklerinde, yemyeşil çayırlar ve yüksek dağlar bulunuyor. Bu coğrafi konumu, ziyaretçilerine geniş açılı manzaralar sunuyor. Ayrıca, temiz hava ve güzel doğa manzaraları, burayı ziyaret etmek için iyi nedenler. Yüksekli ve coğrafi konum, Domuz Tepesi'ni özel bir yer haline getiriyor. Burada, doğanın tüm güzelliğini ve coğrafi zenginliği bir arada görebilirsiniz.
 
 ## Flora ve Fauna
 

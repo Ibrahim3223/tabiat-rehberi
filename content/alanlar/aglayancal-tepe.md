@@ -28,7 +28,7 @@ wikidata_id: "Q32131431"
 
 # Ağlayançal Tepe
 
-Ağlayançal Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ağlayançal Tepe'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bölgede, yaban hayatı oldukça zengin. Ağlayançal Tepe, Konya'nın önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, tarihi ve coğrafi açıdan önemli bir konumda yer alıyor.
+Ağlayançal Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Ağlayançal Tepe'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bölgede, yaban hayatı oldukça zengin. Ağlayançal Tepe, Konya'nın önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, tarihi ve coğrafi açıdan önemli bir konumda yer alıyor.
 
 ## Tarihçe
 

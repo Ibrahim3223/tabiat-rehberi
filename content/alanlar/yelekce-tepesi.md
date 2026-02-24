@@ -48,8 +48,6 @@ Yelekçe Tepesi'ni ziyaret etmek, bölgenin coğrafi ve kültürel özelliklerin
 
 ## İlginç Bilgiler
 
-- Yelekçe Tepesi, yaklaşık 140 hektarlık bir alanı kaplar.
-- Bu tepe, 200 futbol sahası büyüklüğünde bir alanı temsil eder.
 - Yelekçe Tepesi, bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır.
 - Bu tepe, çeşitli bitki türleri ile kaplıdır.
 - Yelekçe Tepesi, bölgenin fauna özelliklerini temsil eder ve çeşitli hayvan türleri ile oluşmuştur.

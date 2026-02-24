@@ -51,7 +51,7 @@ Hasan Baba Türbesi'ni ziyaret etmek, Eskişehir'i ziyaret edenlerin görmeden d
 ## İlginç Bilgiler
 
 - Hasan Baba Türbesi, Eskişehir'in önemli tarihi mekanlarından biri
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Hasan Baba Türbesi'ni ziyaret etmek, Eskişehir'i ziyaret edenlerin görmeden dönmemesi gereken bir yer
 - Bölge, karasal iklimin hüküm sürdüğü bir bölge

@@ -37,7 +37,7 @@ Terzi Baba Türbesi, yüzyıllar boyunca Erzincan'ın önemli spiritual ve kült
 
 ## Coğrafya
 
-Terzi Baba Türbesi, Erzincan'ın merkezinde yer alır ve şehrin önemli coğrafi özelliklerini taşır. Bölge, 140 hektarlık geniş bir yeşil alan üzerinde kurulmuştur ve bu alan, şehrin kalabalığından uzaklaşmak isteyenler için önemli bir kaçış noktası olarak hizmet eder. Türbenin etrafında, çeşitli ağaç türleri ve bitkiler bulunur ve bu bölge, Erzincan'ın doğal güzelliğini göstermesi bakımından önemlidir. Terzi Baba Türbesi, şehrin önemli coğrafi ve kültürel özelliklerini bir araya getiren bir mekândır ve ziyaretçilere Erzincan'ın güzelliğini sunar.
+Terzi Baba Türbesi, Erzincan'ın merkezinde yer alır ve şehrin önemli coğrafi özelliklerini taşır. Türbenin etrafında, çeşitli ağaç türleri ve bitkiler bulunur ve bu bölge, Erzincan'ın doğal güzelliğini göstermesi bakımından önemlidir. Terzi Baba Türbesi, şehrin önemli coğrafi ve kültürel özelliklerini bir araya getiren bir mekândır ve ziyaretçilere Erzincan'ın güzelliğini sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Terzi Baba Türbesi, Erzincan'ı ziyaret edenlerin mutlaka görmesi gereken bir 
 ## İlginç Bilgiler
 
 - Terzi Baba Türbesi, Erzincan'ın en önemli tarihi mekânlarından biridir.
-- Türbe, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
+
 - Bölge, çeşitli ağaç türleri ve bitkiler ile kaplıdır.
 - Terzi Baba Türbesi, Erzincan'ın doğal güzelliğini gösteren önemli bir mekândır.
 - Türbe, yüzyıllar boyunca Erzincan'ın önemli spiritual ve kültürel merkezlerinden biri olarak bilinir.

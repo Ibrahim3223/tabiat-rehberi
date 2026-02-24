@@ -51,6 +51,6 @@ Rüstem Bey Kümbeti'ni ziyaret etmek, tarihi ve doğal güzellikleri keşfetmek
 
 - Rüstem Bey Kümbeti, Konya'nın en önemli tarihi eserlerinden biridir.
 - Rüstem Bey Kümbeti, Selçuklu veya Osmanlı dönemlerine ait olabilecek bir yapıdır.
-- Rüstem Bey Kümbeti, 140 hektarlık bir alanı kaplar.
+
 - Rüstem Bey Kümbeti, ziyaretçilerine tarihin ve doğanın birleştiği bir ortam sunar.
 - Rüstem Bey Kümbeti, Konya'nın turizm potansiyeline önemli bir katkı sağlar.

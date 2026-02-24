@@ -36,7 +36,7 @@ Sakız Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış tar
 
 ## Coğrafya
 
-Sakız Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, şehrin merkezine poměrně yakın bir konumda bulunmakta ve ulaşımı kolaydır. Sakız Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Bu tepe, etrafındaki diğer tepelerle birlikte, güzel bir manzara sunuyor. Ziyaretçiler, Sakız Tepesi'ne çıkarak, şehrin ve çevrenin güzel manzarasını seyredebiliyor. Ayrıca, bu tepe, zengin flora ve fauna çeşitliliğine sahip olup, ziyaretçilerin doğayı yakından tanımasına olanak tanıyor.
+Sakız Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, şehrin merkezine poměrně yakın bir konumda bulunmakta ve ulaşımı kolaydır. Bu tepe, etrafındaki diğer tepelerle birlikte, güzel bir manzara sunuyor. Ziyaretçiler, Sakız Tepesi'ne çıkarak, şehrin ve çevrenin güzel manzarasını seyredebiliyor. Ayrıca, bu tepe, zengin flora ve fauna çeşitliliğine sahip olup, ziyaretçilerin doğayı yakından tanımasına olanak tanıyor.
 
 ## Flora ve Fauna
 
@@ -49,6 +49,6 @@ Sakız Tepesi'ni ziyaret etmek, doğa severler için harika bir deneyim olabilir
 ## İlginç Bilgiler
 
 - Sakız Tepesi, Adana'nın önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Sakız Tepesi, zengin flora ve fauna çeşitliliğine sahip
 - Ziyaretçiler, bu güzel tepeyi keşfederek, doğanın güzelliğini görebiliyor

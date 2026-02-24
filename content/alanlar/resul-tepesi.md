@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Manzara izleme","Fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Resul Tepesi","caption":"Resul Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Resul%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574795","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin en önemli noktalarından biri olan Resul Tepesi, Van kentinde yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
+description: "Doğu Anadolu Bölgesi'nin en önemli noktalarından biri olan Resul Tepesi, Van kentinde yer alır."
 keywords: ["Resul Tepesi","Van","Doğu Anadolu Bölgesi","tepe","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31574795"
@@ -28,7 +28,7 @@ wikidata_id: "Q31574795"
 
 # Resul Tepesi
 
-Resul Tepesi, Van kentinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan önemli bir noktadır. Doğu Anadolu Bölgesi'nin en önemli noktalarından biri olan Resul Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafyası ve fiziksel verileri hakkında bilgi edinmek isteyenler için önemli bir noktadır. Resul Tepesi, Van kentindeki diğer önemli noktalarına göre daha yüksek bir konumda yer alır ve bu nedenle bölgenin panoramik görünümünü sunar.
+ Doğu Anadolu Bölgesi'nin en önemli noktalarından biri olan Resul Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafyası ve fiziksel verileri hakkında bilgi edinmek isteyenler için önemli bir noktadır. Resul Tepesi, Van kentindeki diğer önemli noktalarına göre daha yüksek bir konumda yer alır ve bu nedenle bölgenin panoramik görünümünü sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Resul Tepesi'nin tarihi geçmişi, bölgenin coğrafyası ve fiziksel verileri i
 
 ## Coğrafya
 
-Resul Tepesi, Van kentinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan önemli bir noktadır. Resul Tepesi, Van kentindeki diğer önemli noktalarına göre daha yüksek bir konumda yer alır ve bu nedenle bölgenin panoramik görünümünü sunar. Bu tepe, bölgenin coğrafyası ve fiziksel verileri hakkında bilgi edinmek isteyenler için önemli bir noktadır. Resul Tepesi'nin coğrafyası, bölgenin iklimi ve çevre koşulları ile yakından ilgilidir. Bu tepe, bölgenin coğrafyası ve fiziksel verileri hakkında bilgi edinmek isteyenler için önemli bir noktadır ve ziyaretçilerini bekliyor. Resul Tepesi, Van kentindeki diğer önemli noktalarına göre daha yüksek bir konumda yer alır ve bu nedenle bölgenin panoramik görünümünü sunar.
+ Resul Tepesi, Van kentindeki diğer önemli noktalarına göre daha yüksek bir konumda yer alır ve bu nedenle bölgenin panoramik görünümünü sunar. Bu tepe, bölgenin coğrafyası ve fiziksel verileri hakkında bilgi edinmek isteyenler için önemli bir noktadır. Resul Tepesi'nin coğrafyası, bölgenin iklimi ve çevre koşulları ile yakından ilgilidir. Bu tepe, bölgenin coğrafyası ve fiziksel verileri hakkında bilgi edinmek isteyenler için önemli bir noktadır ve ziyaretçilerini bekliyor. Resul Tepesi, Van kentindeki diğer önemli noktalarına göre daha yüksek bir konumda yer alır ve bu nedenle bölgenin panoramik görünümünü sunar.
 
 ## Flora ve Fauna
 

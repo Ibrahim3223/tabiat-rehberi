@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","trekking"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Artvin-Arhavi-Kayadibi-Kizilagac","caption":"Artvin-Arhavi-Kayadibi-Kizilagac","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kayadibi-Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228552","tip":"genel"}]
-description: "Karadeniz Bölgesi'nde yer alan Artvin-Arhavi-Kayadibi-Kizilagac, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Artvin","Arhavi","Kayadibi","Kizilagac","Karadeniz Bölgesi","doğa","yeşil alan","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228552"

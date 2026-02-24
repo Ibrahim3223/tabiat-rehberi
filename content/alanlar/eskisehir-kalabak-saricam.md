@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Bisiklet Turu","Doğa Fotoğrafçılığı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Eskişehir-Kalabak Saricam","caption":"Eskişehir-Kalabak Saricam","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Kalabak%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227696","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en güzel milli parklarından biri olan Eskişehir-Kalabak Saricam, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
+"
 keywords: ["Eskişehir","Kalabak Saricam","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227696"
@@ -34,15 +34,13 @@ Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun 
 
 ## Flora ve Fauna
 
-Eskişehir-Kalabak Saricam, zengin bir flora ve fauna çeşitliliğine sahiptir. Milli parkın 140 hektarlık alanı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu bitkiler, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, milli parkın yeşil alanları, renkli çiçeklerle süslü bir hal alıyor. Kış aylarında ise, karla kaplı bir manzara sunuyor. Milli parkın fauna çeşitliliği de oldukça zengindir. Çeşitli kuş türleri, küçük memeliler ve böcekler, milli parkın canlılarını oluşturuyor. Ziyaretçiler, milli parkın yürüyüş yollarında, bu canlılarla karşılaşma fırsatı bulabilirler.
+Eskişehir-Kalabak Saricam, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu bitkiler, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, milli parkın yeşil alanları, renkli çiçeklerle süslü bir hal alıyor. Kış aylarında ise, karla kaplı bir manzara sunuyor. Milli parkın fauna çeşitliliği de oldukça zengindir. Çeşitli kuş türleri, küçük memeliler ve böcekler, milli parkın canlılarını oluşturuyor. Ziyaretçiler, milli parkın yürüyüş yollarında, bu canlılarla karşılaşma fırsatı bulabilirler.
 
 ## Ziyaret Bilgileri
 
 Eskişehir-Kalabak Saricam, ziyaretçilerine çeşitli imkanlar sunuyor. Milli parkın yürüyüş yolları, piknik alanları ve çocuk oyun alanları, ziyaretçilerin doğayla iç içe vakit geçirmelerini sağlıyor. Ziyaretçiler, milli parkın güzelliğini keşfetmek için, yürüyüş yapabilir veya bisiklet kullanarak milli parkı gezebilirler. Milli parka ulaşım, toplu taşıma veya özel araçla oldukça kolaydır. Ziyaretçilerin, milli parkı ziyaret etmeden önce, milli parkın giriş saatleri ve kuralları hakkında bilgi almaları önerilir.
 
 ## İlginç Bilgiler
-
-- Eskişehir-Kalabak Saricam, 140 hektarlık bir alana sahiptir.
 
 - Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 - Milli parkın flora ve fauna çeşitliliği oldukça zengindir.

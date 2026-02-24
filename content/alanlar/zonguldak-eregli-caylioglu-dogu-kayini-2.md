@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Orman gezi","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Zonguldak-Eregli-Caylioglu Dogu Kayini 2","caption":"Zonguldak-Eregli-Caylioglu Dogu Kayini 2","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Eregli-Caylioglu%20Dogu%20Kayini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227740","tip":"genel"}]
-description: "Zonguldak'ta yer alan doğal güzellikler arasında gösterilen milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar."
+"
 keywords: ["Zonguldak","milli park","doğal güzellik","yeşil alan","Karadeniz Bölgesi","Çaycuma","Ereğli","Caylıoğlu"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227740"

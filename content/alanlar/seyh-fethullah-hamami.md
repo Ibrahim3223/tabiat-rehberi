@@ -37,7 +37,7 @@ wikidata_id: "Q131738679"
 
 ## Coğrafya
 
-Şeyh Fethullah Hamamı, Güneydoğu Anadolu Bölgesi'nin Şahinbey/Gaziantep ilçesinde yer alır. Bu bölge, coğrafi olarak çok çeşitli ve zengin bir yapıya sahiptir. Plajın bulunduğu alan, 140 hektarlık bir kumsal ve deniz suyu ile çevrilidir. çevredeki peyzaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir açık alan sunar. Şeyh Fethullah Hamamı, iklimi ve coğrafi konumu itibariyle, yıl boyunca ziyaret edilebilecek bir mekan olarak bilinir. Bu bölgenin coğrafi yapısı, ziyaretçilerin deniz, güneş ve kumsalın keyfini çıkarmalarına olanak tanır.
+Şeyh Fethullah Hamamı, Güneydoğu Anadolu Bölgesi'nin Şahinbey/Gaziantep ilçesinde yer alır. Bu bölge, coğrafi olarak çok çeşitli ve zengin bir yapıya sahiptir. çevredeki peyzaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir açık alan sunar. Şeyh Fethullah Hamamı, iklimi ve coğrafi konumu itibariyle, yıl boyunca ziyaret edilebilecek bir mekan olarak bilinir. Bu bölgenin coğrafi yapısı, ziyaretçilerin deniz, güneş ve kumsalın keyfini çıkarmalarına olanak tanır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131738679"
 
 ## İlginç Bilgiler
 
-- Şeyh Fethullah Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu plaj, Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biridir.
 - Şeyh Fethullah Hamamı, tarihi ve kültürel zenginliği ile dikkat çeker.
 - Bu bölgenin coğrafi yapısı, ziyaretçilerin deniz, güneş ve kumsalın keyfini çıkarmalarına olanak tanır.

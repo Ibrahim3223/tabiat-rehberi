@@ -22,8 +22,8 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/A%C4%9Faran%20%C5%9Eelalesi.JPG","alt":"Maral Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Camili_maral_%C5%9Felalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Camili_maral_%C5%9Felalesi.jpg/1280px-Camili_maral_%C5%9Felalesi.jpg","alt":"Maral Şelalesi - Camili maral şelalesi","credit":"Enverkaranfil","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Camili_Maral_Waterfall.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camili_Maral_Waterfall.jpg/1280px-Camili_Maral_Waterfall.jpg","alt":"Maral Şelalesi - Camili Maral Waterfall","credit":"Gezgin renkler","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maral%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076476","tip":"genel"}]
-description: "Rize ve Artvin arasında yer alan Maral Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Maral Şelalesi","Rize","Artvin","Karadeniz Bölgesi","doğal güzellik","yeşil alan","futbol sahası"]
+description: "Rize ve Artvin arasında yer alan Maral Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir."
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q61076476"
 ---
@@ -38,7 +38,7 @@ Maral Şelalesi'nin tarihi geçmişi oldukça eskidir. Bu bölge, yüzyıllar bo
 
 ## Coğrafya
 
-Maral Şelalesi, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biridir. Şelale, Rize ve Artvin illerinin sınırında yer alır ve yaklaşık 140 hektarlık bir yeşil alan içinde bulunur. Bu bölge, dağlık ve engebeli bir araziye sahiptir ve şelalenin suyu, yüksek dağlardan gelen sellerle beslenir. Maral Şelalesi'nin çevresi, çeşitli bitki türleriyle kaplıdır ve bu bölgede, özellikle kayın, çam ve ladin ağaçları bulunur. Şelalenin yakınında, bazı küçüköyler ve kasabalar da bulunmaktadır. Bu köyler ve kasabalar, genellikle tarımla uğraşan halkın yaşadığı yerlerdir ve şelalenin güzelliğini seyretmek için gelen ziyaretçiler, bu köylerde konaklayabilir ve yerel halkın yaşamını öğrenebilirler.
+Maral Şelalesi, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biridir. Bu bölge, dağlık ve engebeli bir araziye sahiptir ve şelalenin suyu, yüksek dağlardan gelen sellerle beslenir. Maral Şelalesi'nin çevresi, çeşitli bitki türleriyle kaplıdır ve bu bölgede, özellikle kayın, çam ve ladin ağaçları bulunur. Şelalenin yakınında, bazı küçüköyler ve kasabalar da bulunmaktadır. Bu köyler ve kasabalar, genellikle tarımla uğraşan halkın yaşadığı yerlerdir ve şelalenin güzelliğini seyretmek için gelen ziyaretçiler, bu köylerde konaklayabilir ve yerel halkın yaşamını öğrenebilirler.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Maral Şelalesi'ni ziyaret etmek, özellikle ilkbahar ve yaz aylarında möglich
 
 - Maral Şelalesi, Rize ve Artvin illerinin sınırında yer alır.
 - Şelalenin yüksekliği 30 metreden fazla değildir.
-- Maral Şelalesi, yaklaşık 140 hektarlık bir yeşil alan içinde yer alır.
+
 - Şelalenin suyu, yüksek dağlardan gelen sellerle beslenir.
 - Maral Şelalesi'nin çevresi, çeşitli bitki türleriyle kaplıdır.

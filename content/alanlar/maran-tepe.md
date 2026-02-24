@@ -49,8 +49,6 @@ Maran Tepe, zengin bir flora ve fauna çeşitliliğine sahip bir doğa harikası
 
 ## İlginç Bilgiler
 
-- Maran Tepe, 140 hektarlık bir yeşil alanı kaplar.
-
 - Maran Tepe, Hatay ilinin sınırları içerisinde yer alır.
 - Bu bölge, yüzyıllar boyunca farklı medeniyetlerin izlerini taşımaktadır.
 - Maran Tepe, ziyaretçilerine benzersiz bir doğa deneyimi sunar.

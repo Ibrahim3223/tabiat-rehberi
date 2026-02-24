@@ -21,7 +21,7 @@ aktiviteler: ["gezi","fotografçılık","doğa yürüyüşü","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Hunat Hatun Hamamı","caption":"Hunat Hatun Hamamı","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hunat%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738522","tip":"genel"}]
-description: "Kayseri'nin tarihi ve doğal güzelliklerinin buluştuğu yer, 140 hektarlık alan"
+
 keywords: ["Hunat Hatun Hamamı","Kayseri","Melikgazi","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738522"
@@ -37,7 +37,7 @@ Hunat Hatun Hamamı, lch tarihinde önemli bir yere sahip. Bu alan, yüzyıllar 
 
 ## Coğrafya
 
-Hunat Hatun Hamamı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bu bölge, geniş otlaklarla ve verimli topraklarla çevrili. İklim olarak, İç Anadolu Bölgesi'nin genel özelliklerini taşıyan Hunat Hatun Hamamı, ziyaretçilerine dört mevsimin güzelliğini sunuyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı olan bu bölgede, ziyaretçiler her mevsim farklı bir güzellikle karşılaşıyor. 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunarken, aynı zamanda doğanın güzelliğini de gözler önüne seriyor. Bu coğrafi konum, ziyaretçilere hem tarihi bir mekan hem de doğal bir güzellik sunuyor.
+Hunat Hatun Hamamı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip. Bu bölge, geniş otlaklarla ve verimli topraklarla çevrili. İklim olarak, İç Anadolu Bölgesi'nin genel özelliklerini taşıyan Hunat Hatun Hamamı, ziyaretçilerine dört mevsimin güzelliğini sunuyor. Yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı olan bu bölgede, ziyaretçiler her mevsim farklı bir güzellikle karşılaşıyor. Bu coğrafi konum, ziyaretçilere hem tarihi bir mekan hem de doğal bir güzellik sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,6 @@ Hunat Hatun Hamamı, ziyaretçilerine birçok olanak sunuyor. Ziyaretçiler, bu 
 
 ## İlginç Bilgiler
 
-- Hunat Hatun Hamamı, 140 hektarlık bir alana yayılmış
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Hunat Hatun Hamamı, İç Anadolu Bölgesi'nin karakteristik özelliklerine sahip
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşamını sürdürüyor
 - Ziyaretçiler, özellikle bahar ve yaz aylarında gitmeleri öneriliyor

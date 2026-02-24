@@ -48,7 +48,6 @@ Yörükdağı Tepesi'ni ziyaret etmek, doğa severler için birdır. Tepenin etr
 
 ## İlginç Bilgiler
 
-- Yörükdağı Tepesi, 140 hektarlık bir alanı kaplar
 - Tepenin etrafında çeşitli bitki türleri bulunur
 - Yörükdağı Tepesi, zengin fauna ile karşılaşma mümkün
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir

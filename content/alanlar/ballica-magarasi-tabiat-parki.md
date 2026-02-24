@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mağara gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Ball%C4%B1ca_Ma%C4%9Faras%C4%B11.jpg","alt":"Ballıca Mağarası Tabiat Parkı manzarası","credit":"Acar54","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_Sark%C4%B1t_ve_Dikitler.jpg/960px-Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_Sark%C4%B1t_ve_Dikitler.jpg","alt":"Ballıca Mağarası Tabiat Parkı","caption":"Ballıca Mağarası Tabiat Parkı","credit":"Ballıca Mağarası Sarkıt ve Dikitler","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Tokat_Ball%C4%B1ca_Ma%C4%9Faras%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tokat_Ball%C4%B1ca_Ma%C4%9Faras%C4%B1.jpg/1280px-Tokat_Ball%C4%B1ca_Ma%C4%9Faras%C4%B1.jpg","alt":"Ballıca Mağarası Tabiat Parkı - Tokat Ballıca Mağarası","credit":"Aybike Kaplan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_So%C4%9Fan_Sark%C4%B1tlar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/05/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_So%C4%9Fan_Sark%C4%B1tlar.jpg","alt":"Ballıca Mağarası Tabiat Parkı - Ballıca Mağarası Soğan Sarkıtlar","credit":"Çiğdem Gürses","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_Sark%C4%B1t_ve_Dikitler.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/82/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_Sark%C4%B1t_ve_Dikitler.jpg","alt":"Ballıca Mağarası Tabiat Parkı - Ballıca Mağarası Sarkıt ve Dikitler","credit":"Cigdemgurses","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Ball%C4%B1ca%27dan_bir_Ma%C4%9Fara_S%C3%BCtunu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/e4/Ball%C4%B1ca%27dan_bir_Ma%C4%9Fara_S%C3%BCtunu.jpg","alt":"Ballıca Mağarası Tabiat Parkı - Ballıca'dan bir Mağara Sütunu","credit":"Ebutore60","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/Y%C3%BCksekten_Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_Manzaras%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/4/43/Y%C3%BCksekten_Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_Manzaras%C4%B1.jpg","alt":"Ballıca Mağarası Tabiat Parkı - Yüksekten Ballıca Mağarası Manzarası","credit":"Ebutore60","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1ca%20Ma%C4%9Faras%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en büyük mağaralarından biri olan Ballıca Mağarası Tabiat Parkı, Muş ilinde bulunmaktadır."
@@ -43,7 +43,7 @@ Ballıca Mağarası Tabiat Parkı, ziyaretçilere çeşitli olanaklar sunmaktad�
 ## İlginç Bilgiler
 
 - Mağaranın oluşumu milyonlarca yıl önceye dayanmaktadır
-- Mağara, 140 hektarlık bir alana sahiptir
+
 - Mağaranın etrafında, çeşitli bitki ve hayvan türleri bulunmaktadır
 - Mağara, doğal güzelliği ve tarihi önemini korumak amacıyla tabiat parkı olarak ilan edilmiştir
 - Mağaranın coğrafi konumu, ziyaretçilerin mağaraya ulaşmasını kolaylaştırmaktadır

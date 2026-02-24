@@ -37,7 +37,7 @@ Yüceören Nekropolü, tarihi geçmişi ile dikkat çekmektedir. Bu nekropolün 
 
 ## Coğrafya
 
-Yüceören Nekropolü, Ceyhan'da bulunmaktadır. Bu nekropol, Akdeniz Bölgesi'nde yer alan bir alandır. Ceyhan, Adana iline bağlı bir ilçedir. Yüceören Nekropolü, 140 hektarlık bir alanda kurulmuştur. Yüceören Nekropolü, coğrafi olarak önemli bir konuma sahiptir. Bu nekropol, ziyaretçilerini geçmişe götürerek, tarihi bir atmosfer sunar. Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi mekan olarak, ziyaretçilerini beklemektedir. Bu nekropol, ziyaretçiler tarafından gezilebilecek bir alandır. Yüceören Nekropolü, coğrafi konumu itibari ile, ziyaretçilerine çeşitli olanaklar sunar. Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir.
+Yüceören Nekropolü, Ceyhan'da bulunmaktadır. Bu nekropol, Akdeniz Bölgesi'nde yer alan bir alandır. Ceyhan, Adana iline bağlı bir ilçedir. Yüceören Nekropolü, coğrafi olarak önemli bir konuma sahiptir. Bu nekropol, ziyaretçilerini geçmişe götürerek, tarihi bir atmosfer sunar. Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi mekan olarak, ziyaretçilerini beklemektedir. Bu nekropol, ziyaretçiler tarafından gezilebilecek bir alandır. Yüceören Nekropolü, coğrafi konumu itibari ile, ziyaretçilerine çeşitli olanaklar sunar. Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Yüceören Nekropolü, ziyaretçilerini geçmişe götürerek, tarihi bir atmosf
 ## İlginç Bilgiler
 
 - Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi alandır.
-- Bu nekropol, 140 hektarlık bir alanda kurulmuştur.
 
 - Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir.
 - Yüceören Nekropolü, ziyaretçilerini geçmişe götürerek, tarihi bir atmosfer sunar.

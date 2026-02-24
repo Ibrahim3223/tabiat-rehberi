@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 21'i ziyaret etmek, hem tarihi hem de doğa severler i�
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 21, Lidya Dönemi'ne ait bir arkeolojik site.
-- Bölge, 140 hektarlık bir alana sahip.
+
 - Tümülüsler, Lidya krallarının ve soylularının mezarları olarak kullanılmıştır.
 - Bölge, Ege Bölgesi'nin coğrafi özelliklerine sahip.
 - Bin Tepeler Tümülüsü 21, yılın her döneminde ziyaret edilebilir.

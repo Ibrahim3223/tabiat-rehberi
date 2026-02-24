@@ -42,8 +42,6 @@ Denizli Gavur Deliği Kanyonu, ziyaretçilerine çeşitli aktivitelerine imkân 
 
 ## İlginç Bilgiler
 
-- Gavur Deliği Kanyonu, yaklaşık 140 hektarlık alanı kaplayan bir milli park.
-
 - Gavur Deliği Kanyonu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bir bölge.
 - Kanyon, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Gavur Deliği Kanyonu, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği sunuyor.

@@ -42,8 +42,6 @@ Antalya-Kumluca Kızılçam, ziyaretçilerini bekliyor. Burada, nasıl gidilece�
 
 ## İlginç Bilgiler
 
-- Antalya-Kumluca Kızılçam, 140 hektarlık bir alanda yer alıyor.
-
 - Antalya-Kumluca Kızılçam, bölgenin en önemli ekosistemlerinden biri.
 - Antalya-Kumluca Kızılçam, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerin ilgisini çekiyor.
 - Antalya-Kumluca Kızılçam, bölgenin turizm merkezi olarak da kabul ediliyor.

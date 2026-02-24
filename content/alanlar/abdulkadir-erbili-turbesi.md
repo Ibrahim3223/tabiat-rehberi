@@ -37,7 +37,7 @@ Abdulkadir Erbili Türbesi, tarihi geçmişi ile dikkat çekmektedir. Abdulkadir
 
 ## Coğrafya
 
-Abdulkadir Erbili Türbesi, Şanlıurfa'nın Eyyübiye ilçesinde yer almaktadır. Türbe, 140 hektarlık bir alanda kurulmuştur ve bu geniş alanda ziyaretçiler birçok tarihi yapı ve anıtı keşfedebilir. Türbenin çevresinde, tarihi yapılar, anıtlar ve yeşillikler bulunmaktadır. Ayrıca, türbe çevresindeki diğer tarihi yapılar ve anıtlar da ziyaretçilerin ilgisini çekmektedir. Abdulkadir Erbili Türbesi, Şanlıurfa'nın kurak iklimine rağmen, yeşilliklerle dolu bir ortamda yer almaktadır. Türbenin bulunduğu alan, şehrin gürültüsünden uzak bir ortam sunar ve ziyaretçiler, burada huzur ve sükunet bulabilirler. Abdulkadir Erbili Türbesi, Şanlıurfa'nın en önemli kültürel merkezlerinden biridir ve ziyaretçiler, bu türbeyi ziyaret ederek şehrin zengin tarihini ve kültürünü öğrenebilirler.
+Abdulkadir Erbili Türbesi, Şanlıurfa'nın Eyyübiye ilçesinde yer almaktadır. Türbenin çevresinde, tarihi yapılar, anıtlar ve yeşillikler bulunmaktadır. Ayrıca, türbe çevresindeki diğer tarihi yapılar ve anıtlar da ziyaretçilerin ilgisini çekmektedir. Abdulkadir Erbili Türbesi, Şanlıurfa'nın kurak iklimine rağmen, yeşilliklerle dolu bir ortamda yer almaktadır. Türbenin bulunduğu alan, şehrin gürültüsünden uzak bir ortam sunar ve ziyaretçiler, burada huzur ve sükunet bulabilirler. Abdulkadir Erbili Türbesi, Şanlıurfa'nın en önemli kültürel merkezlerinden biridir ve ziyaretçiler, bu türbeyi ziyaret ederek şehrin zengin tarihini ve kültürünü öğrenebilirler.
 
 ## Flora ve Fauna
 

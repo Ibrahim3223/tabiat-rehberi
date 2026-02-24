@@ -21,7 +21,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","yerel lez
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Osmanlı Türbesi, Beyşehir","caption":"Osmanlı Türbesi, Beyşehir","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osmanl%C4%B1%20T%C3%BCrbesi%2C%20Bey%C5%9Fehir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582354","tip":"genel"}]
-description: "Konya'nın Beyşehir ilçesinde bulunan Osmanlı Türbesi, tarihi ve kültürel öneme sahip bir yapıdır. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar."
+description: "Konya'nın Beyşehir ilçesinde bulunan Osmanlı Türbesi, tarihi ve kültürel öneme sahip bir yapıdır."
 keywords: ["Osmanlı Türbesi","Beyşehir","Konya","tarih","kültür","mimari","türbe","İç Anadolu Bölgesi","gezi","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582354"
@@ -37,7 +37,7 @@ Osmanlı Türbesi, Beyşehir, tarihi geçmişi ile dikkat çeker. Bu türbe, Osm
 
 ## Coğrafya
 
-Osmanlı Türbesi, Beyşehir, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu bölge, geniş ovaları, dağları ve gölleri ile karakterizedir. Türbe, Beyşehir Gölü'nün kıyısında yer alır ve bu göl, bölgenin en önemli doğal güzelliklerinden biridir. Osmanlı Türbesi, Beyşehir'in merkezinde yer alır ve şehrin diğer önemli noktalarına yakın bir mesafededir. Bu türbe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, tarihi yapıların yanı sıra doğal güzelliklere de ev sahipliği yapar. Bölgenin iklimi, karasal iklimin özellikleri taşır ve kışları soğuk, yazları sıcak geçer. Bu iklim, bölgenin flora ve faunasını da etkiler ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlar.
+Osmanlı Türbesi, Beyşehir, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu bölge, geniş ovaları, dağları ve gölleri ile karakterizedir. Türbe, Beyşehir Gölü'nün kıyısında yer alır ve bu göl, bölgenin en önemli doğal güzelliklerinden biridir. Osmanlı Türbesi, Beyşehir'in merkezinde yer alır ve şehrin diğer önemli noktalarına yakın bir mesafededir. Bölgenin iklimi, karasal iklimin özellikleri taşır ve kışları soğuk, yazları sıcak geçer. Bu iklim, bölgenin flora ve faunasını da etkiler ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Osmanlı Türbesi, Beyşehir, ziyaretçilerine çeşitli olanaklar sunar. Türbe
 ## İlginç Bilgiler
 
 - Osmanlı Türbesi, Beyşehir, Konya'nın en önemli kültürel varlıklarından biridir.
-- Türbe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Beyşehir Gölü, bölgenin en önemli doğal güzelliklerinden biridir.
 - Osmanlı İmparatorluğu döneminde inşa edilmiştir.
 - Türbenin mimarisi, Osmanlı döneminin karakteristik özelliklerini taşır.

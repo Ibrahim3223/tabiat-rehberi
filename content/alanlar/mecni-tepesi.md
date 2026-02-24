@@ -28,7 +28,7 @@ wikidata_id: "Q31385547"
 
 # Mecni Tepesi
 
-Mecni Tepesi, Şanlıurfa'nın zengin tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve şehrin önemli bir bölümünü kapsayan geniş bir manzaraya sahiptir. Mecni Tepesi, aynı zamanda bir tepe olarak, şehrin panoramik görünümünü sunar ve ziyaretçilere şehri keşfetmek için bir başlangıç noktası sunar. Şanlıurfa'nın tarihi geçmişi, bu tepe çevresinde yoğunlaşmıştır ve bölgede çeşitli tarihi yapılar ve kalıntılar bulunmaktadır. Mecni Tepesi, Şanlıurfa'nın sunduğu doğal ve tarihi güzellikleri bir araya getiren önemli bir destinasyon olarak dikkat çekmektedir.
+Mecni Tepesi, Şanlıurfa'nın zengin tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır. Mecni Tepesi, aynı zamanda bir tepe olarak, şehrin panoramik görünümünü sunar ve ziyaretçilere şehri keşfetmek için bir başlangıç noktası sunar. Şanlıurfa'nın tarihi geçmişi, bu tepe çevresinde yoğunlaşmıştır ve bölgede çeşitli tarihi yapılar ve kalıntılar bulunmaktadır. Mecni Tepesi, Şanlıurfa'nın sunduğu doğal ve tarihi güzellikleri bir araya getiren önemli bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 

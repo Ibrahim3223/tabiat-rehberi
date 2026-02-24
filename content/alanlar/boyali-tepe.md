@@ -49,7 +49,7 @@ Boyalı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle karşı
 ## İlginç Bilgiler
 
 - Boyalı Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer almaktadır
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır
+
 - Boyalı Tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir
 - Bu tepe, özellikle doğal güzelliği sevenler ve tarih meraklıları için önemli bir destinasyon olarak görünmektedir
 - Boyalı Tepe, ziyaretçilerine geniş bir manzara sunmakta ve aynı zamanda tarihi kalıntılarını keşfetme fırsatı sunmaktadır

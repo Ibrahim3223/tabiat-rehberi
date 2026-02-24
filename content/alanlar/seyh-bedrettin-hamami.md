@@ -51,6 +51,6 @@ wikidata_id: "Q133245738"
 
 - Şeyh Bedrettin Hamamı, İvrindi'nin en çok ziyaret edilen yerlerinden biri.
 - Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri.
-- Şeyh Bedrettin Hamamı, 140 hektarlık bir alanı kapsıyor.
+
 - Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor.
 - Şeyh Bedrettin Hamamı, zengin bir flora ve fauna çeşitliliğine sahip.

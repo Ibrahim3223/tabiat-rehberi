@@ -50,7 +50,7 @@ Phaselis Küçük Hamam'ı ziyaret etmek, ziyaretçilere tarihi ve doğal güzel
 ## İlginç Bilgiler
 
 - Phaselis Küçük Hamam, tarihi ve doğal güzellikleri bir araya getiren bir bölgedir.
-- Bu plaj, 140 hektarlık bir alan üzerinde kurulmuştur.
+
 - Phaselis, antik dönemlerde önemli bir liman kenti olarak bilinirdi.
 - Bölge, 180 hektarlık bir orman alanı ile çevrili olarak, zengin bir flora sunmaktadır.
 - Phaselis Küçük Hamam, Akdeniz ikliminin etkisi altında bulunmakta ve thus, ziyaretçilere yıl boyunca ılıman bir hava sunuyor.

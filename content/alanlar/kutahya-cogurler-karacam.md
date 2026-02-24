@@ -14,7 +14,7 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Kutahya-Cogurler Karacam","caption":"Kutahya-Cogurler Karacam","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Cogurler%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227683","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Kutahya","Cogurler Karacam","milli park","doğal alan","iç Anadolu Bölgesi","bitki türleri","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227683"
@@ -30,11 +30,11 @@ Kutahya-Cogurler Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Kutahya-Cogurler Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafyası ile şekillenmiştir. Parkın 140 hektarlık alanı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu doğal alan, ziyaretçilere hem dinlenme hem de keşif fırsatı sunuyor. Parkın coğrafyası, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi birçok olanak encontruyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve stresini atabilir. Parkın coğrafyası, ayrıca ziyaretçilere bölgenin iklimi ve çevre koşulları hakkında bilgi sahibi olma fırsatı sunuyor.
+Kutahya-Cogurler Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafyası ile şekillenmiştir. Bu doğal alan, ziyaretçilere hem dinlenme hem de keşif fırsatı sunuyor. Parkın coğrafyası, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi birçok olanak encontruyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve stresini atabilir. Parkın coğrafyası, ayrıca ziyaretçilere bölgenin iklimi ve çevre koşulları hakkında bilgi sahibi olma fırsatı sunuyor.
 
 ## Flora ve Fauna
 
-Kutahya-Cogurler Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parkın 140 hektarlık alanı, birçok bitki türüne ev sahipliği yapıyor. Bu bitki türleri, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın fauna ise, birçok hayvan türüne ev sahipliği yapıyor. Ziyaretçiler, burada birçok hayvan türünü gözlemleyebilir ve doğanın güzelliklerini keşfedebilir. Parkın flora ve fauna, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor ve doğanın önemi anlaşılmasına yardımcı oluyor.
+Kutahya-Cogurler Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bitki türleri, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın fauna ise, birçok hayvan türüne ev sahipliği yapıyor. Ziyaretçiler, burada birçok hayvan türünü gözlemleyebilir ve doğanın güzelliklerini keşfedebilir. Parkın flora ve fauna, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor ve doğanın önemi anlaşılmasına yardımcı oluyor.
 
 ## Ziyaret Bilgileri
 

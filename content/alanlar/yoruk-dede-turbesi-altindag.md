@@ -29,7 +29,7 @@ wikidata_id: "Q135582401"
 
 # Yörük Dede Türbesi, Altındağ
 
-Yörük Dede Türbesi, Ankara'nın Altındağ ilçesinde yer alan önemli bir tarihi mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamakta. Yörük Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle Ankara'nın önemli turistik mekanlarından biri.
+Yörük Dede Türbesi, Ankara'nın Altındağ ilçesinde yer alan önemli bir tarihi mekan. Yörük Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle Ankara'nın önemli turistik mekanlarından biri.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yörük Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmakta. Bu
 
 ## Coğrafya
 
-Yörük Dede Türbesi, Ankara'nın Altındağ ilçesinde yer almakta. Bu bölge, İç Anadolu Bölgesi'nin merkezi bölümünde yer almakta ve coğrafi olarak önemli bir konuma sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişlikte ve ziyaretçilere geniş bir görüş açısı sunmakta. Bölge, doğal güzellikleriyle dikkat çekmekte ve ziyaretçilere çeşitli manzaralar sunmekte. Yörük Dede Türbesi'nin coğrafi konumu, ziyaretçilere Ankara'nın tarihi ve doğal güzelliklerini keşfetme fırsatı sunmakta. Bölge, Ankara'nın önemli turistik mekanlarından biri ve ziyaretçilere zengin bir coğrafi çeşitlilik sunmakta.
+Yörük Dede Türbesi, Ankara'nın Altındağ ilçesinde yer almakta. Bu bölge, İç Anadolu Bölgesi'nin merkezi bölümünde yer almakta ve coğrafi olarak önemli bir konuma sahip. Bölge, doğal güzellikleriyle dikkat çekmekte ve ziyaretçilere çeşitli manzaralar sunmekte. Yörük Dede Türbesi'nin coğrafi konumu, ziyaretçilere Ankara'nın tarihi ve doğal güzelliklerini keşfetme fırsatı sunmakta. Bölge, Ankara'nın önemli turistik mekanlarından biri ve ziyaretçilere zengin bir coğrafi çeşitlilik sunmakta.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yörük Dede Türbesi'ni ziyaret etmek, Ankara'nın tarihi ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Yörük Dede Türbesi, Ankara'nın en önemli tarihi mekanlarından biri.
-- Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş.
+
 - Bölge, çeşitli bitki ve hayvan türleriyle zengin bir fauna sunmakta.
 - Yörük Dede, bölgenin önemli dini figürlerinden biri.
 - Türbe, ziyaretçilere tarihi ve doğal güzelliklerini keşfetme fırsatı sunmakta.

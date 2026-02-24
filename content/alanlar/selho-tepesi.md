@@ -48,7 +48,6 @@ Selho Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olabil
 
 ## İlginç Bilgiler
 
-- Selho Tepesi, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde
 - 70 metrelik yüksekliğiyle, çevreyi panoramik olarak izleme mümkün
 - İlkbahar ve yaz aylarında, bölgede, yeşilin verschillileri hakim
 - Selho Tepesi, ekolojik açıdan önemli bir bölge

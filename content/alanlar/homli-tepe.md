@@ -48,8 +48,6 @@ Homlı Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile çekmek
 
 ## İlginç Bilgiler
 
-- Homlı Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-
 - Homlı Tepe, tarihi geçmişi ile dikkat çekmektedir.
 - Tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, tepeye kendi izini bırakmıştır.
 - Homlı Tepe, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer almaktadır.

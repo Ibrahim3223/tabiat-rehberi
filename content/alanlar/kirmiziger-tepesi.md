@@ -28,7 +28,7 @@ wikidata_id: "Q31386308"
 
 # Kırmızıger Tepesi
 
-Kırmızıger Tepesi, Akdeniz Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Hatay ili sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ise, deniz seviyesinden yaklaşık 500 metre yüksektir. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme imkanı tanır. Doğal güzellikleri ve tarihi geçmişi ile dikkat çeken Kırmızıger Tepesi, ziyaretçilerini bekliyor.
+Kırmızıger Tepesi, Akdeniz Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Tepenin yüksekliği ise, deniz seviyesinden yaklaşık 500 metre yüksektir. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme imkanı tanır. Doğal güzellikleri ve tarihi geçmişi ile dikkat çeken Kırmızıger Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

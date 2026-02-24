@@ -44,7 +44,7 @@ Yaylakent'i ziyaret etmek, doğa severler ve turistler için bir fırsat sunuyor
 ## İlginç Bilgiler
 
 - Yaylakent, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alır.
-- Yaylakent, 140 hektarlık bir alanı kaplar.
+
 - Yaylakent, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Yaylakent, doğa severler ve turistler için bir çekim merkezi olarak dikkat çekiyor.
 - Yaylakent'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

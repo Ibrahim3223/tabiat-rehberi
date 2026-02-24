@@ -48,7 +48,6 @@ wikidata_id: "Q34828758"
 
 ## İlginç Bilgiler
 
-- Çayır Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Tepenin etrafı, çeşitli bitki türleriyle kaplı
 - Bölge, iklim olarak karasal iklim özellikleri gösteriyor
 - Çayır Tepesi, doğa severler için ideal bir destinasyon

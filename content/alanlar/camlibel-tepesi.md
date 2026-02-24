@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","orman gezisi","nehir kenarı gezisi","yerel
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Detail_of_west_elevation_bay_window%2C_interior._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-12.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Çamlıbel Tepesi","caption":"Çamlıbel Tepesi","credit":"Detail of west elevation bay window, interior. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-12","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1bel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823844","tip":"genel"}]
-description: "Tokat'ın en yüksek noktası, 140 hektarlık yeşil alan, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
+
 keywords: ["Çamlıbel Tepesi","Tokat","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34823844"
@@ -28,7 +28,7 @@ wikidata_id: "Q34823844"
 
 # Çamlıbel Tepesi
 
-Çamlıbel Tepesi, Tokat'ın en yüksek noktası olarak bilinir ve yaklaşık 140 hektarlık yeşil alanı ile Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Çamlıbel Tepesi, aynı zamanda Tokat'ın coğrafi yapısını ve tarihini anlamak için önemli bir noktadır. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere yerel kültürü ve gelenekleri hakkında bilgi vermekte ve bu bölgenin zengin tarihini keşfetme fırsatı sunmaktadır.
+ Çamlıbel Tepesi, aynı zamanda Tokat'ın coğrafi yapısını ve tarihini anlamak için önemli bir noktadır. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere yerel kültürü ve gelenekleri hakkında bilgi vermekte ve bu bölgenin zengin tarihini keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34823844"
 
 ## Coğrafya
 
-Çamlıbel Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin yüksekliği, yaklaşık 140 hektarlık yeşil alanı ve eteklerinde bulunan köyler, bölgenin coğrafi çeşitliliğini gözler önüne serer. Çamlıbel Tepesi'nin etrafındaki coğrafi yapı, dağlar, vadiler ve nehirler ile çevrilidir ve bu da bölgenin ekosistemini büyük ölçüde etkiler. Tepenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösterir ve bu da bölgenin flora ve faunasını büyük ölçüde etkiler. Çamlıbel Tepesi, aynı zamanda bölgenin su kaynaklarını şekillendiren önemli bir noktadır ve tepenin etrafındaki nehirler ve akarsular, bölgenin su ihtiyacını karşılar.
+Çamlıbel Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir noktadır. Çamlıbel Tepesi'nin etrafındaki coğrafi yapı, dağlar, vadiler ve nehirler ile çevrilidir ve bu da bölgenin ekosistemini büyük ölçüde etkiler. Tepenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimi ile benzerlik gösterir ve bu da bölgenin flora ve faunasını büyük ölçüde etkiler. Çamlıbel Tepesi, aynı zamanda bölgenin su kaynaklarını şekillendiren önemli bir noktadır ve tepenin etrafındaki nehirler ve akarsular, bölgenin su ihtiyacını karşılar.
 
 ## Flora ve Fauna
 

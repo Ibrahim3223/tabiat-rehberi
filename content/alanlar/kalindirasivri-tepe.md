@@ -49,7 +49,7 @@ Kalındırasivri Tepe, gezi severler için bir çekim noktası olarak dikkat çe
 ## İlginç Bilgiler
 
 - Kalındırasivri Tepe, Antalya'nın en yüksek noktalarından biri.
-- Tepe, 140 hektarlık bir alana yayılmış.
+
 - Kalındırasivri Tepe, Antalya'nın panoramik manzarasını sunuyor.
 - Bu bölge, çeşitli bitki türleri ve fauna ile dolu.
 - Kalındırasivri Tepe, gezi severler için bir gezi noktası olarak ön plana çıkıyor.

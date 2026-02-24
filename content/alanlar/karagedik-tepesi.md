@@ -28,7 +28,7 @@ wikidata_id: "Q31385704"
 
 # Karagedik Tepesi
 
-Karagedik Tepesi, Adana'nın merkezi bir konumunda yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Tepenin eteklerinde çeşitli değil, çeşitli bitki türleri ve ağaçlar bulunmakta. Karagedik Tepesi, hem yerel halk hem de turistler için popüler bir gezi noktası.
+ Tepenin eteklerinde çeşitli değil, çeşitli bitki türleri ve ağaçlar bulunmakta. Karagedik Tepesi, hem yerel halk hem de turistler için popüler bir gezi noktası.
 
 ## Tarihçe
 

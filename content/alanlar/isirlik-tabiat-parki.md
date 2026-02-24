@@ -42,7 +42,7 @@ Isırlık Tabiat Parkı, ziyaretçilere birçok aktivite sunuyor. Parka, Rize il
 ## İlginç Bilgiler
 
 - Isırlık Tabiat Parkı, Rize'nin en çok ziyaret edilen yerlerinden biri
-- Park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - Isırlık Tabiat Parkı, Karadeniz Bölgesi'nin flora ve fauna çeşitliliği açısından zengin bir alana sahip
 - Parkta, ekolojik dengenin korunmasına önem veriliyor
 - Isırlık Tabiat Parkı, yılın her dönemi ziyaret edilebilir

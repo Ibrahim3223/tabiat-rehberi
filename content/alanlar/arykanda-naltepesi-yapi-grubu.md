@@ -50,7 +50,7 @@ Arykanda Naltepesi Yapı Grubu'nu ziyaret etmek, tarihe ve doğaya ilgi duyanlar
 ## İlginç Bilgiler
 
 - Arykanda Naltepesi Yapı Grubu, Likya bölgesinin önemli bir parçasıdır.
-- Bu yapı grubu, 140 hektarlık bir alanı kaplar.
+
 - Arykanda, Finike merkezine uzun bir mesafe uzaklıktadır.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Arykanda Naltepesi, yılın her dönemi ziyaret edilebilir.

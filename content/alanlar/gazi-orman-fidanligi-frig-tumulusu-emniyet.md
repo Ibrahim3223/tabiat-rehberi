@@ -29,7 +29,7 @@ wikidata_id: "Q134728280"
 
 # Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet
 
-Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet, Ankara'nın Yenimahalle ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir orman fidanlığıdır. Gazi Orman Fidanlığı, not only doğal güzellikleri sunmakla kalmaz, aynı zamanda tarihsel önem taşıyan Frig Tümülüsü'ne de ev sahipliği yapar. Emniyet Plajı ise, ziyaretçilerin dinlenip eğlenebilecekleri bir diğer önemli noktadır. Bu özel mekan, hem tarihin hem de doğanın güzelliklerini bir araya getirmesiyle dikkat çeker.
+ Gazi Orman Fidanlığı, not only doğal güzellikleri sunmakla kalmaz, aynı zamanda tarihsel önem taşıyan Frig Tümülüsü'ne de ev sahipliği yapar. Emniyet Plajı ise, ziyaretçilerin dinlenip eğlenebilecekleri bir diğer önemli noktadır. Bu özel mekan, hem tarihin hem de doğanın güzelliklerini bir araya getirmesiyle dikkat çeker.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet'i ziyaret etmek, hem tarihi h
 
 ## İlginç Bilgiler
 
-- Gazi Orman Fidanlığı, 140 hektarlık bir alanı kaplar.
 - Frig Tümülüsü, tarihi önemi taşıyan bir yapıdır.
 - Emniyet Plajı, serin ve temiz bir su kaynağıdır.
 - Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet, yüzyıllar boyu süregelen bir geçmişe sahiptir.

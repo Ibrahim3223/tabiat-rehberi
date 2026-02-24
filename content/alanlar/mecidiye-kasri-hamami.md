@@ -49,7 +49,6 @@ Mecidiye Kasrı Hamamı, ziyaretçilere birçok aktivite sunmaktadır. Ziyaretç
 
 ## İlginç Bilgiler
 
-- Mecidiye Kasrı Hamamı, 140 hektarlık bir yeşil alan
 - Beykoz ilçesinde yer alan Mecidiye Kasrı Hamamı, Marmara Bölgesi'nin önemli bir noktası
 - Mecidiye Kasrı Hamamı, tarihi geçmişi ile dikkat çekmektedir
 - Bölge, zengin flora ve faunaya sahip

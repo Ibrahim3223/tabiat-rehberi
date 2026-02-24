@@ -36,7 +36,7 @@ wikidata_id: "Q31385500"
 
 ## Coğrafya
 
-Şabanbaba Tepesi, Elazığ şehrinin coğrafi yapısını oluşturan önemli bir unsurdur. Tepenin coğrafi konumu, ziyaretçilere şehrin ve çevresinin manzarasını sunar. Şabanbaba Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleri ile kaplıdır. Tepenin etrafı, dağlık bir bölge tarafından çevrelenmiştir ve bu da ziyaretçilere eşsiz bir manzara sunar. Şabanbaba Tepesi, coğrafi konumu itibariyle, Elazığ'ın önemli bir doğal güzelliğidir. Tepenin iklimi, bölgenin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı bir güzellik sunar. Şabanbaba Tepesi, coğrafi konumu ve iklimi ile ziyaretçilere benzersiz bir deneyim sunar.
+Şabanbaba Tepesi, Elazığ şehrinin coğrafi yapısını oluşturan önemli bir unsurdur. Tepenin coğrafi konumu, ziyaretçilere şehrin ve çevresinin manzarasını sunar. Tepenin etrafı, dağlık bir bölge tarafından çevrelenmiştir ve bu da ziyaretçilere eşsiz bir manzara sunar. Şabanbaba Tepesi, coğrafi konumu itibariyle, Elazığ'ın önemli bir doğal güzelliğidir. Tepenin iklimi, bölgenin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı bir güzellik sunar. Şabanbaba Tepesi, coğrafi konumu ve iklimi ile ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

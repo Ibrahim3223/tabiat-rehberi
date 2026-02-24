@@ -49,7 +49,7 @@ Gözlağı Tepesi'ni ziyaret etmek, ziyaretçilere, doğal güzellikleri ve tari
 ## İlginç Bilgiler
 
 - Gözlağı Tepesi, Hatay ilinin en önemli doğal güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor
+
 - Gözlağı Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Bu tepe, aynı zamanda, bölgenin coğrafi yapısını ve kültürel mirasını yansıtan bir yer
 - Gözlağı Tepesi, ziyaretçilerini, tarihin derinliklerine götürmeye davet ediyor

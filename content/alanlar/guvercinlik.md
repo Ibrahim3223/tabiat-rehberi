@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/G%C3%BCvercinlik_Sahili_02.jpg","alt":"Güvercinlik manzarası","credit":"Gargarapalvin","license":"cc-by-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/G%C3%BCvercinlik_Sahili_04.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/G%C3%BCvercinlik_Sahili_04.jpg/1280px-G%C3%BCvercinlik_Sahili_04.jpg","alt":"Güvercinlik - Güvercinlik Sahili 04","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/G%C3%BCvercinlik_Sahili_07.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/G%C3%BCvercinlik_Sahili_07.jpg/1280px-G%C3%BCvercinlik_Sahili_07.jpg","alt":"Güvercinlik - Güvercinlik Sahili 07","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/G%C3%BCvercinlik_Sahili_41.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/G%C3%BCvercinlik_Sahili_41.jpg/1280px-G%C3%BCvercinlik_Sahili_41.jpg","alt":"Güvercinlik - Güvercinlik Sahili 41","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/G%C3%BCvercinlik_Sahili_46.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/G%C3%BCvercinlik_Sahili_46.jpg/1280px-G%C3%BCvercinlik_Sahili_46.jpg","alt":"Güvercinlik - Güvercinlik Sahili 46","credit":"Gargarapalvin","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/G%C3%BCvercinlik_Sahili_50.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/G%C3%BCvercinlik_Sahili_50.jpg/1280px-G%C3%BCvercinlik_Sahili_50.jpg","alt":"Güvercinlik - Güvercinlik Sahili 50","credit":"Gargarapalvin","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercinlik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228152","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz 140 hektarlık alan"
+
 keywords: ["Güvercinlik","İç Anadolu Bölgesi","doğa","gezi","turizm"," milli park","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228152"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228152"
 
 # Güvercinlik
 
-Güvercinlik, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir milli parktır. Güvercinlik, doğa severlerin ve macera arayanların buluşma noktalarından biri haline gelmiştir. Bölge, zengin flora ve faunası ile dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Güvercinlik, aynı zamanda tarihi geçmişi ile de önemli bir noktadır. Yüzyıllar boyunca, bu bölge farklı medeniyetlere ev sahipliği yapmış ve bu nedenle kültürel açıdan da önemli bir değer taşımaktadır.
+ Güvercinlik, doğa severlerin ve macera arayanların buluşma noktalarından biri haline gelmiştir. Bölge, zengin flora ve faunası ile dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Güvercinlik, aynı zamanda tarihi geçmişi ile de önemli bir noktadır. Yüzyıllar boyunca, bu bölge farklı medeniyetlere ev sahipliği yapmış ve bu nedenle kültürel açıdan da önemli bir değer taşımaktadır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Güvercinlik'in tarihi geçmişi, binlerce yıl öncesine dayanmaktadır. Bu bö
 
 ## Coğrafya
 
-Güvercinlik, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında yer almaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamakta ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Coğrafi olarak, Güvercinlik'in çevresi dağlar ve ovalar ile çevrilidir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşarken, aynı zamanda önemli bir ekosistemi de barındırmaktadır. Güvercinlik'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklimi trilemektedir. Güvercinlik'in coğrafi yapısı, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Burada, doğa yürüyüşleri, kampçılık ve fotoğraf çekimi gibi aktiviteler yapılabilmektedir.
+Güvercinlik, İç Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında yer almaktadır. Coğrafi olarak, Güvercinlik'in çevresi dağlar ve ovalar ile çevrilidir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşarken, aynı zamanda önemli bir ekosistemi de barındırmaktadır. Güvercinlik'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklimi trilemektedir. Güvercinlik'in coğrafi yapısı, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Burada, doğa yürüyüşleri, kampçılık ve fotoğraf çekimi gibi aktiviteler yapılabilmektedir.
 
 ## Flora ve Fauna
 
@@ -42,8 +42,6 @@ Güvercinlik, zengin bir flora ve faunaya sahiptir. Burada, çeşitli bitki tür
 Güvercinlik'i ziyaret etmek, doğa severler ve macera arayanlar için önemli bir deneyim olabilir. Bu bölgeye, özellikle ilkbahar ve sonbahar aylarında ziyaret etmek, en uygun zamandır. Bu mevsimlerde, hava sıcaklığı ve doğa koşulları, ziyaretçilere en uygun ortamı sunmaktadır. Güvercinlik'e ulaşmak için, toplu taşıma araçları veya özel araçlar kullanılabilir. Bölgeye gittiğinizde, doğa yürüyüşleri, kampçılık ve fotoğraf çekimi gibi aktiviteler yapabilirsiniz. Ayrıca, bölgede, çeşitli restoran ve kafeler de bulunmaktadır.
 
 ## İlginç Bilgiler
-
-- Güvercinlik, 140 hektarlık bir alana sahiptir.
 
 - Güvercinlik, zengin bir flora ve faunaya sahiptir.
 - Bölge, tarihi geçmişi ile de önemlidir.

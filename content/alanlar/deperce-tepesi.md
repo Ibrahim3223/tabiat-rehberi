@@ -28,7 +28,7 @@ wikidata_id: "Q31390488"
 
 # Deperce Tepesi
 
-Deperce Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alan olarak düşünülebilir. Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak olarak hizmet vermektedir. Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
+Deperce Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak olarak hizmet vermektedir. Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Deperce Tepesi'nin tarihi geçmişi, Konya'nın tarihi geçmişiyle iç içedir.
 
 ## Coğrafya
 
-Deperce Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alan olarak düşünülebilir. Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak olarak hizmet vermektedir. Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir. Bu tepe, Konya'nın coğrafi özellikleri ile birlikte ele alınmalıdır. Deperce Tepesi, Konya'nın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak hizmet vermektedir. Deperce Tepesi, Konya'nın iklimi ve coğrafi özellikleri ile birlikte düşünüldüğünde, bu tepe, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
+Deperce Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak olarak hizmet vermektedir. Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir. Bu tepe, Konya'nın coğrafi özellikleri ile birlikte ele alınmalıdır. Deperce Tepesi, Konya'nın coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak hizmet vermektedir. Deperce Tepesi, Konya'nın iklimi ve coğrafi özellikleri ile birlikte düşünüldüğünde, bu tepe, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için id
 ## İlginç Bilgiler
 
 - Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alan olarak düşünülebilir.
+
 - Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
 - Bu tepe, Konya'nın coğrafi özellikleri ile birlikte ele alınmalıdır.
 - Deperce Tepesi, Konya'nın iklimi ve coğrafi özellikleri ile birlikte düşünüldüğünde, bu tepe, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.

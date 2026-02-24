@@ -49,7 +49,7 @@ Setlibaşı Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için
 ## İlginç Bilgiler
 
 - Setlibaşı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Setlibaşı Tepesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 - Setlibaşı Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini temsil eder.

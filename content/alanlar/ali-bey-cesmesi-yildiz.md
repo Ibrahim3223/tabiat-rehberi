@@ -52,6 +52,6 @@ Ali Bey Çeşmesi, Yıldız, ziyaretçilere birçok olanak sunmaktadır. Ziyaret
 
 - Ali Bey Çeşmesi, Yıldız, İstanbul'un en eski çeşmelerinden biridir
 - Çeşme, Osmanlı döneminde inşa edilmiştir
-- Yeşil alanlar, 200 futbol sahası büyüklüğündedir
+
 - Çeşme, denize yakın bir konumda bulunmaktadır
 - Ali Bey Çeşmesi, Yıldız, sosyal ve kültürel etkinliklere ev sahipliği yapmaktadır

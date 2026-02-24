@@ -28,7 +28,7 @@ wikidata_id: "Q31386351"
 
 # Karaahmet Tepesi
 
-Karaahmet Tepesi, Gaziantep'in önemli bir doğal ve tarihi alanlarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Gaziantep'in tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor. Tepenin üstünden Gaziantep'in güzel manzarasını izleme mümkün. Karaahmet Tepesi, aynı zamanda şehrin önemli bir turizm noktası olarak ziyaretçilerini ağırlıyor.
+Karaahmet Tepesi, Gaziantep'in önemli bir doğal ve tarihi alanlarından biri olarak dikkat çekiyor. Tepenin üstünden Gaziantep'in güzel manzarasını izleme mümkün. Karaahmet Tepesi, aynı zamanda şehrin önemli bir turizm noktası olarak ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31390441"
 
 # Hisar Tepe
 
-Konya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Hisar Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Hisar Tepe, Konya'nın merkezine yakın bir konumda bulunmasıyla kolay ulaşılabilirlik sağlıyor. Konya'nın tarihi geçmişine ışık tutan bu tepe, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Hisar Tepe'nin etrafında bulunan tarihi yapılar ve anıtlar, bu bölgenin zengin tarihini gözler önüne seriyor.
+ Hisar Tepe, Konya'nın merkezine yakın bir konumda bulunmasıyla kolay ulaşılabilirlik sağlıyor. Konya'nın tarihi geçmişine ışık tutan bu tepe, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Hisar Tepe'nin etrafında bulunan tarihi yapılar ve anıtlar, bu bölgenin zengin tarihini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hisar Tepe'nin tarihi geçmişi, Konya'nın tarihinde önemli bir yere sahip. Bu
 
 ## Coğrafya
 
-Hisar Tepe, Konya'nın coğrafi yapısını yansıtan bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Konya'nın merkezine yakın bir konumda bulunuyor. Hisar Tepe'nin etrafında bulunan doğal güzellikler, ziyaretçilerine geniş bir sunuyor. Bu bölge, Konya'nın coğrafi çeşitliliğini gözler önüne seriyor. Hisar Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Bu tepe, Konya'nın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için önemli bir nokta olarak kabul ediliyor. Hisar Tepe'nin coğrafi konumu, Konya'nın iç anadolu bölgesinde yer almasıyla karakterize ediliyor. Bu bölge, Konya'nın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için bir çekim merkezi olarak kabul ediliyor.
+Hisar Tepe, Konya'nın coğrafi yapısını yansıtan bir bölge. Hisar Tepe'nin etrafında bulunan doğal güzellikler, ziyaretçilerine geniş bir sunuyor. Bu bölge, Konya'nın coğrafi çeşitliliğini gözler önüne seriyor. Hisar Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Bu tepe, Konya'nın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için önemli bir nokta olarak kabul ediliyor. Hisar Tepe'nin coğrafi konumu, Konya'nın iç anadolu bölgesinde yer almasıyla karakterize ediliyor. Bu bölge, Konya'nın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için bir çekim merkezi olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hisar Tepe, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyen ziyar
 ## İlginç Bilgiler
 
 - Hisar Tepe, Konya'nın merkezine yakın bir konumda bulunuyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Hisar Tepe, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyen ziyaretçiler için önemli bir nokta
 - Bu tepe, Konya'nın flora ve faunasını keşfetmek isteyen ziyaretçiler için bir çekim merkezi olarak kabul ediliyor
 - Hisar Tepe, Konya'nın tarihini anlamak için önemli bir nokta

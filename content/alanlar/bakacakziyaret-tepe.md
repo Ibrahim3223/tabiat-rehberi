@@ -48,7 +48,6 @@ Bakacakziyaret Tepe, ziyaretçiler tarafından sıklıkla ziyaret edilmektedir. 
 
 ## İlginç Bilgiler
 
-- Bakacakziyaret Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülür.
 - Bakacakziyaret Tepe, flora ve fauna açısından zengin bir alandır.
 - Tepe, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.

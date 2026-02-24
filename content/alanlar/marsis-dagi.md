@@ -22,7 +22,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a0/ISS027-E-29028_-_View_of_Italy.jpg","alt":"Marsis Dağı manzarası","credit":"Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center","license":"pd"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marsis%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562616","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Marsis Dağı, 140 hektarlık bir alanı kaplayan geniş bir tepe"
+
 keywords: ["Marsis Dağı","İç Anadolu Bölgesi","tepe","doğa","gezi","keşif","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31562616"
@@ -30,7 +30,7 @@ wikidata_id: "Q31562616"
 
 # Marsis Dağı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Marsis Dağı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe olarak karşımıza çıkıyor. Bölgenin coğrafi yapısını şekillendiren Marsis Dağı, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak düşünüldüğünde, bölgenin sosyo-ekonomik yapısına da önemli katkılar sağlıyor. Marsis Dağı'nın eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlıyorlar. Bu faaliyetler, bölgenin ekonomisine önemli katkılar sağlarken, aynı zamanda Marsis Dağı'nın doğal güzelliklerini de koruyor.
+ Bölgenin coğrafi yapısını şekillendiren Marsis Dağı, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak düşünüldüğünde, bölgenin sosyo-ekonomik yapısına da önemli katkılar sağlıyor. Marsis Dağı'nın eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlıyorlar. Bu faaliyetler, bölgenin ekonomisine önemli katkılar sağlarken, aynı zamanda Marsis Dağı'nın doğal güzelliklerini de koruyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Marsis Dağı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret dö
 
 ## İlginç Bilgiler
 
-- Marsis Dağı, 140 hektarlık bir alanı kaplayan geniş bir tepe
 - Dağın yüksekliği, bölgenin iklimini şekillendirirken, aynı zamanda bitki örtüsünü de etkiliyor
 - Marsis Dağı'nın eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlıyorlar
 - Dağın fauna çeşitliliği, bölgenin yaban hayatı için de önemli bir habitat olarak görev yapıyor

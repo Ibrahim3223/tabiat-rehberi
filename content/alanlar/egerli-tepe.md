@@ -48,8 +48,6 @@ Eğerli Tepe, ziyaretçiler için oldukça önemli bir destinasyon. Bu tepe, hem
 
 ## İlginç Bilgiler
 
-- Eğerli Tepe, 140 hektarlık bir alanı kapsıyor
-- Eğerli Tepe, yaklaşık 200 futbol sahası büyüklüğünde
 - Eğerli Tepe, Erzurum'un merkezine yakın bir konumda bulunuyor
 - Eğerli Tepe, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor
 - Eğerli Tepe, tarihi açıdan önemli bir nokta olarak kabul ediliyor

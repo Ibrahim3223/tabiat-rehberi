@@ -50,7 +50,7 @@ Salar Kaya Mezarı, Sinop'un Boyabat ilçesinde yer almaktadır. Buraya ulaşım
 ## İlginç Bilgiler
 
 - Salar Kaya Mezarı, Sinop'un en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bölge, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Salar Kaya Mezarı, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır.
 - Bölge, flora ve fauna açısından zengin bir alandır.
 - Salar Kaya Mezarı, ziyaretçilere tarih ve doğa ile iç içe bir gezi deneyimi sunmaktadır.

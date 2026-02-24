@@ -29,7 +29,7 @@ wikidata_id: "Q131391001"
 
 # Tezveren Baba Türbesi
 
-Tezveren Baba Türbesi, İstanbul'un Şişli ilçesinde yer alan bir türbedir. Bu tarihi mekan, Marmara Bölgesi'nin kalbinde, İstanbul'un merkezi bir noktasında bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplamaktadır. Tezveren Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Bu özel mekan, İstanbul'un keşfedilmeyi bekleyen gizli köşelerinden biridir.
+Tezveren Baba Türbesi, İstanbul'un Şişli ilçesinde yer alan bir türbedir. Bu tarihi mekan, Marmara Bölgesi'nin kalbinde, İstanbul'un merkezi bir noktasında bulunmaktadır. Tezveren Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Bu özel mekan, İstanbul'un keşfedilmeyi bekleyen gizli köşelerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tezveren Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Tezveren Baba Türbesi, Şişli ilçesinde yer alan bir bölgede bulunmaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, genellikle yeşil alanlarla çevrilidir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanı kaplamaktadır. Bölgenin coğrafi yapısı, genellikle engebeli ve tepelik bir yapıya sahiptir. Tezveren Baba Türbesi, bu coğrafi yapı içerisinde, ziyaretçilerine doğal güzellik sunmaktadır. Türbenin etrafındaki bölge, çeşitli bitki türleri ve canlılarla doludur. Bölgenin iklimi, Marmara Bölgesi'nin iklimine uygun olarak, genellikle ılımandır. Bu ılıman iklim, ziyaretçilere yılın her mevsiminde keyifli bir gezi imkanı sunar.
+Tezveren Baba Türbesi, Şişli ilçesinde yer alan bir bölgede bulunmaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, genellikle yeşil alanlarla çevrilidir. Bölgenin coğrafi yapısı, genellikle engebeli ve tepelik bir yapıya sahiptir. Tezveren Baba Türbesi, bu coğrafi yapı içerisinde, ziyaretçilerine doğal güzellik sunmaktadır. Türbenin etrafındaki bölge, çeşitli bitki türleri ve canlılarla doludur. Bölgenin iklimi, Marmara Bölgesi'nin iklimine uygun olarak, genellikle ılımandır. Bu ılıman iklim, ziyaretçilere yılın her mevsiminde keyifli bir gezi imkanı sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Tezveren Baba Türbesi'ni ziyaret etmek, yılın her mevsiminde mümkün olmakla
 ## İlginç Bilgiler
 
 - Tezveren Baba Türbesi, İstanbul'un tarihi mekanlarından biridir.
-- Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplamaktadır.
+
 - Bölge, çeşitli bitki ve hayvan türleri ile doludur.
 - Türbenin etrafındaki bölge, bir ekosistem olarak işlev görür.
 - Tezveren Baba Türbesi, hem dini hem de turistik bir amaç için ziyaret edilmektedir.

@@ -43,7 +43,6 @@ Keramet Dutu'nu ziyaret etmek, doğa severler için bir cennet olarak tanımlana
 
 ## İlginç Bilgiler
 
-- Keramet Dutu, 140 hektarlık bir alana sahiptir
 - Milli park, zengin flora ve fauna çeşitliliği ile dikkat çeker
 - Keramet Dutu, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır
 - Milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır

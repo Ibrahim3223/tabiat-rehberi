@@ -30,7 +30,7 @@ Ankara Kara Akbaba YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Ankara Kara Akbaba YHGS, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, 140 hektarlık bir alanı kapsıyor ve çeşitli bitki türleri ile zengin fauna çeşitliliği sunuyor. Coğrafi olarak, bu bölge, dağlık ve ovalık alanların birleştiği bir noktada bulunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösteriyor ve ziyaretçilere, dört mevsimi yaşayan bir bölge sunuyor. Çevre olarak, bu bölge, doğal güzelliklerini koruma altına almak amacıyla, korunan bir alan olarak belirlenmiştir. Ziyaretçiler, bu bölgede, flora ve fauna çeşitliliğini gözlemleyerek, doğal güzellikleri keşfedebilir.
+Ankara Kara Akbaba YHGS, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Coğrafi olarak, bu bölge, dağlık ve ovalık alanların birleştiği bir noktada bulunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösteriyor ve ziyaretçilere, dört mevsimi yaşayan bir bölge sunuyor. Çevre olarak, bu bölge, doğal güzelliklerini koruma altına almak amacıyla, korunan bir alan olarak belirlenmiştir. Ziyaretçiler, bu bölgede, flora ve fauna çeşitliliğini gözlemleyerek, doğal güzellikleri keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Ankara Kara Akbaba YHGS'yi ziyaret etmek, doğa severler için ideal bir deneyim
 
 ## İlginç Bilgiler
 
-- Ankara Kara Akbaba YHGS, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, çeşitli bitki türleri ile zengin fauna çeşitliliği sunuyor.
 - Ziyaretçiler, bu bölgede, flora ve fauna çeşitliliğini gözlemleyerek, doğal güzellikleri keşfedebilir.
 - Bahar ve yaz ayları, en iyi ziyaret dönemi olarak öneriliyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q134728091"
 
 # Şahin Bey Anıtı
 
-Şahin Bey Anıtı, Gaziantep'in Şahinbey ilçesinde yer alan ve tarihinde önemli bir yere sahip olan bir tarihi mekân. Bu anıt, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevresi tarihi yapılar ile dolu. 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilerine geniş ve yeşillik bir ortam sunuyor. Anıtın etrafında bulunan tarihi yapılar, bölgenin kültürel zenginliğini gözler önüne seriyor. Şahin Bey Anıtı, hem tarih severler hem de doğaşığılar için bir çekim merkezi oluyor.
+Şahin Bey Anıtı, Gaziantep'in Şahinbey ilçesinde yer alan ve tarihinde önemli bir yere sahip olan bir tarihi mekân. Anıtın etrafında bulunan tarihi yapılar, bölgenin kültürel zenginliğini gözler önüne seriyor. Şahin Bey Anıtı, hem tarih severler hem de doğaşığılar için bir çekim merkezi oluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q134728091"
 
 ## Coğrafya
 
-Şahin Bey Anıtı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir mekân. Anıt, Gaziantep'in Şahinbey ilçesinde yer alıyor ve çevresi çeşitli coğrafi oluşumlar ile dolu. Bu bölgenin coğrafyası, geniş ovalar, dağlar ve nehirler ile şekillenmiş. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yeşillik bir ortam sunuyor. Şahin Bey Anıtı, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı tanıyor. Anıtın etrafında bulunan dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini gösteriyor. Bu coğrafi çeşitlilik, Şahin Bey Anıtı'nı ziyaret etmek için birçok neden sunuyor.
+Şahin Bey Anıtı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir mekân. Anıt, Gaziantep'in Şahinbey ilçesinde yer alıyor ve çevresi çeşitli coğrafi oluşumlar ile dolu. Bu bölgenin coğrafyası, geniş ovalar, dağlar ve nehirler ile şekillenmiş. Şahin Bey Anıtı, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı tanıyor. Anıtın etrafında bulunan dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini gösteriyor. Bu coğrafi çeşitlilik, Şahin Bey Anıtı'nı ziyaret etmek için birçok neden sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ wikidata_id: "Q134728091"
 
 - Şahin Bey Anıtı, Gaziantep'in tarihinde önemli bir yere sahip.
 - Anıtın etrafında bulunan tarihi yapılar, bölgenin kültürel zenginliğini gösteriyor.
-- Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip.
+
 - Şahin Bey Anıtı, ziyaretçilerine tarihin sayfalarını karıştırmak için bir fırsat sunuyor.
 - Anıtın etrafında bulunan dağlar ve ovalar, birçok hayvan türüne yaşam alanı sağlıyor.

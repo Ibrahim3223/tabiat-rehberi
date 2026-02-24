@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MOKFC13.jpg/960px-MOKFC13.jpg","alt":"İzmir-Bayindir-Selcuk Defne","caption":"İzmir-Bayindir-Selcuk Defne","credit":"MOKFC13.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir-Bayindir-Selcuk%20Defne","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228483","tip":"genel"}]
-description: "İzmir'in doğal güzelliklerini keşfedin, 140 hektarlık Defne milli parkı"
+
 keywords: ["İzmir","milli park","doğa","Defne","Bayındır","Selçuk"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228483"
@@ -42,8 +42,6 @@ wikidata_id: "Q108228483"
 
 ## İlginç Bilgiler
 
-- Defne milli parkı, 140 hektarlık bir alanı kaplar
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir
 - Defne milli parkı, 1998 yılında milli park statüsü kazanmıştır
 - Park, Ege Bölgesi'nin en güzel köşelerinden biridir
 - Defne milli parkı, yılın her dönemi ziyaret edilebilir

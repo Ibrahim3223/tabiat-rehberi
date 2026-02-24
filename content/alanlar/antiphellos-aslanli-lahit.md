@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi Lahit ziyaret","güzel manzaralar","flora ve fauna keşfi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Antiphellos%20Aslanl%C4%B1%20Lahit.jpg","alt":"Antiphellos Aslanlı Lahit manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Antiphellos_Aslanl%C4%B1_Lahit.jpg/960px-Antiphellos_Aslanl%C4%B1_Lahit.jpg","alt":"Antiphellos Aslanlı Lahit","caption":"Antiphellos Aslanlı Lahit","credit":"Antiphellos Aslanlı Lahit","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Antiphellos_Aslanl%C4%B1_Lahit.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Antiphellos_Aslanl%C4%B1_Lahit.jpg/1280px-Antiphellos_Aslanl%C4%B1_Lahit.jpg","alt":"Antiphellos Aslanlı Lahit - Antiphellos Aslanlı Lahit","credit":"Aerdemsenturk","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antiphellos%20Aslanl%C4%B1%20Lahit","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728431","tip":"genel"}]
 description: "Antalya'nın Kaş ilçesinde bulunan Antiphellos Aslanlı Lahit, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan."

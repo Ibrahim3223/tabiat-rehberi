@@ -54,4 +54,4 @@ Hacı İzzet Paşa Türbesi'ni ziyaret etmek, Edirne'nin tarihi ve doğal güzel
 - Doğal alanın zengin flora ve fauna çeşitliliği
 - Şehrin merkezine yakın konumu
 - İlkbahar ve sonbaharın en iyi ziyaret mevsimleri olduğu
-- Türbenin 140 hektarlık alanı
+

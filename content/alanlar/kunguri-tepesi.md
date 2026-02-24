@@ -20,7 +20,7 @@ aktiviteler: ["tepeye çıkmak","etrafı gezmek","bitki türleri ile karşılaş
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Kunguri Tepesi","caption":"Kunguri Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kunguri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548904","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinesi Kunguri Tepesi, 140 hektarlık geniş alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Kunguri Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31548904"
@@ -28,7 +28,7 @@ wikidata_id: "Q31548904"
 
 # Kunguri Tepesi
 
-Kunguri Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, 140 hektarlık geniş alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Kunguri Tepesi, bölgeye gelen ziyaretçiler için önemli bir gezi noktası olarak kabul ediliyor ve ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine olanak sağlıyor. Kunguri Tepesi'nin etrafı, çeşitli bitki türleri ile çevrili ve bu bitki türleri, tepeye ayrı bir güzellik katıyor.
+ Kunguri Tepesi, bölgeye gelen ziyaretçiler için önemli bir gezi noktası olarak kabul ediliyor ve ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine olanak sağlıyor. Kunguri Tepesi'nin etrafı, çeşitli bitki türleri ile çevrili ve bu bitki türleri, tepeye ayrı bir güzellik katıyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kunguri Tepesi'ni ziyaret etmek, bölge hakkında daha fazla bilgi edinmek için
 
 ## İlginç Bilgiler
 
-- Kunguri Tepesi, 140 hektarlık geniş alanı ile ziyaretçilerini büyülüyor.
 - Tepenin adı, bölgenin tarihi ve kültürel özelliklerini yansıtıyor.
 - Kunguri Tepesi, bölgede yaşayan halkın yaşam tarzı ve kültürel faaliyetleri hakkında bilgi edinmek için ziyaretçilere olanak sağlıyor.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge, farklı medeniyetlerin etkisi altında kalmıştır.

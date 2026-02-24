@@ -50,7 +50,7 @@ wikidata_id: "Q131391631"
 ## İlginç Bilgiler
 
 - Şenlik Dede Türbesi, Beşiktaş ilçesinde bulunmaktadır
-- Bölge, 140 hektarlık alan ile yaklaşık 200 futbol sahası büyüklüğünde
+
 - Şenlik Dede Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır
 - Bölge, flora ve fauna açısından zengin bir bölge olarak bilinir
 - Şenlik Dede Türbesi, yılın her mevsiminde ziyaret edilebilir

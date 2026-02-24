@@ -51,5 +51,5 @@ Senavat Şelalesi'ni ziyaret etmek, doğa severler için önemli bir deneyim. Ş
 - Senavat Şelalesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri.
 - Şelalenin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Bölgenin iklimi, karasal iklim özellikleri gösteriyor.
-- Senavat Şelalesi, 140 hektarlık alan üzerinde bulunuyor.
+
 - Şelalenin yüksekliği, çevredeki yeşilli ve doğal güzellik, ziyaretçilere etkileyici bir manzara sunuyor.

@@ -49,7 +49,6 @@ Kızılca Tepe, ziyaretçilerin keyifli anlar geçirebileceği bir yer olarak bi
 ## İlginç Bilgiler
 
 - Kızılca Tepe, Yozgat ilinin İç Anadolu Bölgesi'nde yer alır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
 
 - Bu bölge, zengin fauna ve flora ile dikkat çekicidir.
 - Bu tepe, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekicidir.

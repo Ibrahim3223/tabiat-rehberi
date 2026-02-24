@@ -36,7 +36,7 @@ Kesmeli Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Kesmeli Tepe, Akdeniz Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bu tepe, 140 hektarlık bir alanı kaplar ve çevresinde çeşitli bitki türleri bulunur. Tepe, deniz seviyesinden khong yüksek bir konumdate yer alır ve bu yükseklik, ziyaretçilere geniş bir manzara sunar. Kesmeli Tepe'nin etrafında, çeşitli akarsular ve nehirler bulunur ve bu su kaynakları, tepe ve çevresinin ekolojisini destekler. İklim, genel olarak Akdeniz iklimi özellikleri gösterir ve bu, tepe ve çevresindeki bitki türlerinin çeşitliliğini etkiler. Kesmeli Tepe, coğrafi konumu ve doğal güzellikleriyle dikkat çeken bir bölgedir.
+Kesmeli Tepe, Akdeniz Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Tepe, deniz seviyesinden khong yüksek bir konumdate yer alır ve bu yükseklik, ziyaretçilere geniş bir manzara sunar. Kesmeli Tepe'nin etrafında, çeşitli akarsular ve nehirler bulunur ve bu su kaynakları, tepe ve çevresinin ekolojisini destekler. İklim, genel olarak Akdeniz iklimi özellikleri gösterir ve bu, tepe ve çevresindeki bitki türlerinin çeşitliliğini etkiler. Kesmeli Tepe, coğrafi konumu ve doğal güzellikleriyle dikkat çeken bir bölgedir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kesmeli Tepe'yi ziyaret etmek, doğal güzellikleri keşfetme ve tarihi zenginli
 
 ## İlginç Bilgiler
 
-- Kesmeli Tepe, 140 hektarlık bir alanı kaplar
 - tepe, yüksek bir konumda yer alır
 - çeşitli bitki türleri ve hayvanlar bulunur
 - tarihi geçmişi yüzyıllar boyunca verschiedene medeniyetlerin izlerini taşır

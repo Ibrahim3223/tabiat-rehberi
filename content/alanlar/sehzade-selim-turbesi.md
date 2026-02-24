@@ -51,7 +51,7 @@ wikidata_id: "Q131391270"
 ## İlginç Bilgiler
 
 - Şehzade Selim Türbesi, yüzyıllar boyunca önemli bir kültür merkezi olarak görev yaptı
-- Bölge, 140 hektarlık bir alanı kaplıyor
+
 - Yeşil alanlar, çeşitli bitki türleri barındırıyor
 - Mevsimsel değişimlere bağlı olarak, flora ve fauna zenginleşiyor
 - Şehzade Selim Türbesi, ekolojik zenginliği ile dikkat çekiyor

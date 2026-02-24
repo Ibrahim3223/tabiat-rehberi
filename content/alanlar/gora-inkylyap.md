@@ -28,7 +28,7 @@ wikidata_id: "Q31386181"
 
 # Gora Inkylyap
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Gora Inkylyap, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Doğal yapısı, tarihi geçmişi ve zengin ekosistemiyle Gora Inkylyap, İç Anadolu Bölgesi'nin önemli bir turizm merkezi haline gelmektedir.
+ Doğal yapısı, tarihi geçmişi ve zengin ekosistemiyle Gora Inkylyap, İç Anadolu Bölgesi'nin önemli bir turizm merkezi haline gelmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gora Inkylyap'ın tarihi geçmişi, zengin bir kültürel mirası barındırır.
 
 ## Coğrafya
 
-Gora Inkylyap, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki doğal güzellikleriyle birlikte, ziyaretçilerine geniş bir doğa alanı sunar. Gora Inkylyap'ın coğrafi konumu, ziyaretçilerine bölgenin iklimini, florasını ve faunasını keşfetme fırsatı verir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve ziyaretçilere dört mevsimi deneyimleme olanağı sağlar. Gora Inkylyap'ın coğrafi yapısı, ziyaretçilerine geniş bir doğa alanı sunar ve bu bölge, doğa severlerin keyifle keşfedeceği bir ortam sunar.
+Gora Inkylyap, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alan bir tepe olarak bilinir. Gora Inkylyap'ın coğrafi konumu, ziyaretçilerine bölgenin iklimini, florasını ve faunasını keşfetme fırsatı verir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve ziyaretçilere dört mevsimi deneyimleme olanağı sağlar. Gora Inkylyap'ın coğrafi yapısı, ziyaretçilerine geniş bir doğa alanı sunar ve bu bölge, doğa severlerin keyifle keşfedeceği bir ortam sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gora Inkylyap'ı ziyaret etmek, doğa severler için unutulmaz bir deneyim sunar
 
 ## İlginç Bilgiler
 
-- Gora Inkylyap, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu bölge, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır.
 - Gora Inkylyap, zengin bir flora ve fauna yapısına sahiptir.
 - Bu bölge, ziyaretçilerine mevsimsel değişimleri gözlemleme fırsatı verir.

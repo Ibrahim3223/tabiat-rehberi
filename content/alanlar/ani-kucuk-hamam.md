@@ -49,8 +49,6 @@ Ani Küçük Hamam'a gitmek, hem doğayı hem de tarihin derinliklerini keşfetm
 
 ## İlginç Bilgiler
 
-- Ani Küçük Hamam, 140 hektarlık bir alana sahip.
-
 - Ani Küçük Hamam, tarihi geçmişiyle dikkat çekiyor.
 - Bu bölge, flora ve fauna açısından zengin.
 - Ani Küçük Hamam, doğa yürüyüşleri için ideal bir yer.

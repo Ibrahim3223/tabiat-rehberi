@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Doğa gözlemleri","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 1","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 1","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227935","tip":"genel"}]
-description: "Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alan milli park. 140 hektarlık yeşil alan."
+description: "Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alan milli park."
 keywords: ["Bursa","Marmara Bölgesi","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Seyahati"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227935"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227935"
 
 # Bursa-Mustafakemalpaşa-Karacabey Karacam 1
 
-Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alan Bursa-Mustafakemalpaşa-Karacabey Karacam 1 milli parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini karşılıyor. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontruluyor. Doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bu milli park, hem doğa severler hem de turistler için önemli bir destinasyon.
+ Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontruluyor. Doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bu milli park, hem doğa severler hem de turistler için önemli bir destinasyon.
 
 ## Tarihçe
 

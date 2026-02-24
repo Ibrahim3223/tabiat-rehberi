@@ -48,7 +48,6 @@ wikidata_id: "Q34829188"
 
 ## İlginç Bilgiler
 
-- Çıngırdaklı Tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde
 - Tepe, Yozgat il merkezine uzun bir mesafe uzaklıkta bulunuyor
 - Çıngırdaklı Tepe, özellikle Hitit ve Roma dönemlerinde önemli bir rol oynamış
 - Tepe, flora ve fauna açısından zengin bir yer

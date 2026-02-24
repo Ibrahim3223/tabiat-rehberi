@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Ku%C5%9Fbak%C4%B1%C5%9F%C4%B1.jpg","alt":"Ardahan-Posof YHGS manzarası","credit":"Cglclk","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ku%C5%9Fbak%C4%B1%C5%9F%C4%B1.jpg/960px-Ku%C5%9Fbak%C4%B1%C5%9F%C4%B1.jpg","alt":"Ardahan-Posof YHGS","caption":"Ardahan-Posof YHGS","credit":"Kuşbakışı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/51/G%C3%B6kku%C5%9Fa%C4%9F%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/G%C3%B6kku%C5%9Fa%C4%9F%C4%B1.jpg/1280px-G%C3%B6kku%C5%9Fa%C4%9F%C4%B1.jpg","alt":"Ardahan-Posof YHGS - Gökkuşağı","credit":"Cglclk","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ardahan-Posof%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227091","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Ardahan ilinde yer alan Ardahan-Posof YHGS, doğal güzellikleri ile dikkat çekiyor."
@@ -42,8 +42,6 @@ Ardahan-Posof YHGS, flora ve faunası bakımından zengin bir çeşitlilik sunuy
 Ardahan-Posof YHGS, ziyaretçilerine çeşitli olanaklar sunuyor. Bu bölge, özellikle doğa severlerin ve macera tutkunlarının ziyaret ettiği bir yer. Ardahan-Posof YHGS, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor ve onların doğa ile iç içe olması için uygun bir ortam sağlıyor. Bu bölge, ziyaretçilerine çeşitli aktivite olanakları sunuyor ve onların doğayı keşfetmesine yardımcı oluyor.
 
 ## İlginç Bilgiler
-
-- Ardahan-Posof YHGS, 140 hektarlık bir yeşil alana sahip.
 
 - Ardahan-Posof YHGS, flora ve faunası bakımından zengin bir çeşitlilik sunuyor.
 - Bu bölge, özellikle doğa severlerin ve macera tutkunlarının ziyaret ettiği bir yer.

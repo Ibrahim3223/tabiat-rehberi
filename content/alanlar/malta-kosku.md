@@ -30,7 +30,7 @@ wikidata_id: "Q6744675"
 
 # Malta Köşkü
 
-Malta Köşkü, Beşiktaş'ın kalbinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde kurulu olan bu köşkün tarihi oldukça eskidir. Köşkün mimarisi ve tarihi geçmişi, ziyaretçilerini zamanda yolculuğa çıkarır. Historik bir atmosfere sahip olan Malta Köşkü, İstanbul'un en önemli turistik mekanlarından biridir.
+Malta Köşkü, Beşiktaş'ın kalbinde yer alan tarihi bir yapıdır. Köşkün mimarisi ve tarihi geçmişi, ziyaretçilerini zamanda yolculuğa çıkarır. Historik bir atmosfere sahip olan Malta Köşkü, İstanbul'un en önemli turistik mekanlarından biridir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Malta Köşkü'nün tarihi geçmişi oldukça zengindir. Yüzyıllar boyunca çe
 
 ## Coğrafya
 
-Malta Köşkü, Beşiktaş ilçesinin merkezinde yer alır. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul'da bulunur. Köşkün coğrafi konumu, ziyaretçilerine geniş bir görünüm sunar. Yaklaşık 140 hektarlık bir alanı kapsayan Malta Köşkü, yeşil alanlar ve historical yapılar ile çevrilidir. İklimi, Marmara Bölgesi'nin karakteristik özellikleri taşır. Köşkün çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Malta Köşkü'nün coğrafi konumu ve çevresi, ziyaretçilerine doğa ile iç içe bir deneyim sunar. Köşkün yapısal özellikleri,historik bir atmosferi yansıtır. Malta Köşkü, İstanbul'un coğrafi ve kültürel zenginliklerini bir arada sunan önemli bir turistik mekândır.
+Malta Köşkü, Beşiktaş ilçesinin merkezinde yer alır. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul'da bulunur. Köşkün coğrafi konumu, ziyaretçilerine geniş bir görünüm sunar. İklimi, Marmara Bölgesi'nin karakteristik özellikleri taşır. Köşkün çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Malta Köşkü'nün coğrafi konumu ve çevresi, ziyaretçilerine doğa ile iç içe bir deneyim sunar. Köşkün yapısal özellikleri,historik bir atmosferi yansıtır. Malta Köşkü, İstanbul'un coğrafi ve kültürel zenginliklerini bir arada sunan önemli bir turistik mekândır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Malta Köşkü'ne ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu 
 
 - Malta Köşkü, Beşiktaş'ın en önemli turistik mekanlarından biridir.
 - Köşkün tarihi geçmişi, İstanbul'un kültür ve turizm değerlerini zenginleştiren önemli bir bileşendir.
-- Malta Köşkü, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Köşkün çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Malta Köşkü, ziyaretçilerine tarihi bir atmosferi ve doğa ile iç içe bir deneyim sunar.

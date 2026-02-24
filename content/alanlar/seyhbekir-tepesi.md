@@ -36,7 +36,7 @@ wikidata_id: "Q31385465"
 
 ## Coğrafya
 
-Şeyhbekir Tepesi, Şanlıurfa'nın merkezine yakın bir konumda bulunuyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde bulunan tarihi yapılar ve çevresindeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Tepenin coğrafi konumu, ziyaretçilere Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada keşfetme fırsatı sunuyor. Şanlıurfa'nın iklimi, tepenin doğal güzelliklerini etkileyen önemli bir faktör. Tepenin çevresindeki doğal güzellikler, özellikle ilkbahar ve sonbahar aylarında ziyaretçilere muhteşem bir manzara sunuyor. Tepenin yüksekliği, ziyaretçilere şehrin panoramik manzarasını sunuyor ve ziyaretçilere Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor.
+ Tepenin eteklerinde bulunan tarihi yapılar ve çevresindeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Tepenin coğrafi konumu, ziyaretçilere Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada keşfetme fırsatı sunuyor. Şanlıurfa'nın iklimi, tepenin doğal güzelliklerini etkileyen önemli bir faktör. Tepenin çevresindeki doğal güzellikler, özellikle ilkbahar ve sonbahar aylarında ziyaretçilere muhteşem bir manzara sunuyor. Tepenin yüksekliği, ziyaretçilere şehrin panoramik manzarasını sunuyor ve ziyaretçilere Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

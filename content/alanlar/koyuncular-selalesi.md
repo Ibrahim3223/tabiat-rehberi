@@ -30,7 +30,7 @@ Koyuncular Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Koyuncular Şelalesi, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul ediliyor. Bu şelale, Trabzon'un dağlık ve ormanlık alanlarına kurulmuş ve yaklaşık 140 hektarlık bir alanı kaplıyor. Şelalenin çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölge, aynı zamanda verschilli iklim koşullarına sahip ve her mevsim ziyaretçilerini farklı güzelliklerle karşılıyor. Koyuncular Şelalesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Şelalenin güzelliği, sadece doğa severlerin değil, aynı zamanda coğrafya meraklılarının da ilgisini çekiyor. Koyuncular Şelalesi, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin coğrafi zenginliğine de dikkat çekiyor.
+Koyuncular Şelalesi, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul ediliyor. Şelalenin çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölge, aynı zamanda verschilli iklim koşullarına sahip ve her mevsim ziyaretçilerini farklı güzelliklerle karşılıyor. Koyuncular Şelalesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Şelalenin güzelliği, sadece doğa severlerin değil, aynı zamanda coğrafya meraklılarının da ilgisini çekiyor. Koyuncular Şelalesi, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin coğrafi zenginliğine de dikkat çekiyor.
 
 ## Flora ve Fauna
 

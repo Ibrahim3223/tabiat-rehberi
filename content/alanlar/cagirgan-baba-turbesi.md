@@ -38,7 +38,7 @@ wikidata_id: "Q131391208"
 
 ## Coğrafya
 
-Çağırgan Baba Türbesi, coğrafi olarak İç Anadolu Bölgesi'nin kuzeydoğusunda, Gümüşhane ilinin Trabzon Vilayeti sınırında yer alır. Bu bölge, Karadeniz Bölgesi'nin doğu ucuna yakındır ve coğrafi olarak oldukça çeşitli bir yapıya sahiptir. Türbe ve çevresindeki alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, doğal güzelliği ile dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin karasal iklimine benzer, ancak Karadeniz Bölgesi'nin etkileri nedeniyle daha ılıman bir yapıya sahiptir. Çağırgan Baba Türbesi'nin bulunduğu yer, yüksek dağların ve ormanların arasında yer alır, bu nedenle ziyaretçiler, hem tarihi bir türbe hem de doğal güzelliğin keyfini çıkarabilirler. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Ziyaretçiler, özellikle ilkbahar ve yaz aylarında, bu doğal güzelliğin keyfini çıkarabilirler.
+Çağırgan Baba Türbesi, coğrafi olarak İç Anadolu Bölgesi'nin kuzeydoğusunda, Gümüşhane ilinin Trabzon Vilayeti sınırında yer alır. Bu bölge, Karadeniz Bölgesi'nin doğu ucuna yakındır ve coğrafi olarak oldukça çeşitli bir yapıya sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karasal iklimine benzer, ancak Karadeniz Bölgesi'nin etkileri nedeniyle daha ılıman bir yapıya sahiptir. Çağırgan Baba Türbesi'nin bulunduğu yer, yüksek dağların ve ormanların arasında yer alır, bu nedenle ziyaretçiler, hem tarihi bir türbe hem de doğal güzelliğin keyfini çıkarabilirler. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Ziyaretçiler, özellikle ilkbahar ve yaz aylarında, bu doğal güzelliğin keyfini çıkarabilirler.
 
 ## Flora ve Fauna
 

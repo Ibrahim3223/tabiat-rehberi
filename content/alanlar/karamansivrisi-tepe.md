@@ -36,7 +36,7 @@ Karamansivrisi Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Karamansivrisi Tepe, Akdeniz Bölgesi'nde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu tepe, Burdur'un merkezine yakın bir mesafede bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Karamansivrisi Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Bu bölgede, yaban hayatı çeşitlilik gösterir ve birçok farklı canlı türü bulunur. Karamansivrisi Tepe, coğrafi konumu ve doğal güzellikleri ile dikkat çeker. Burada, mevsimsel değişimler gözlemlenebilir ve doğanın güzelliği tüm yıl boyunca farklı şekillerde deneyimlenebilir.
+Karamansivrisi Tepe, Akdeniz Bölgesi'nde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Karamansivrisi Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Bu bölgede, yaban hayatı çeşitlilik gösterir ve birçok farklı canlı türü bulunur. Karamansivrisi Tepe, coğrafi konumu ve doğal güzellikleri ile dikkat çeker. Burada, mevsimsel değişimler gözlemlenebilir ve doğanın güzelliği tüm yıl boyunca farklı şekillerde deneyimlenebilir.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31562519"
 
 # Mescit Tepesi
 
-Mescit Tepesi, Erzurum'un merkezinde yer alan ve şehre hakim olan bir tepe. Yaklaşık 140 hektarlık alanı ile çevreye geniş bir açıdan bakma imkanı sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Şehre gelenlerin ve yerli halkın sıkça ziyaret ettiği bir nokta olan Mescit Tepesi, doğa severlerin ilgisini çekiyor. Tepenin zirvesine ulaşan yol, yürüyüş severler için keyifli bir rota sunuyor.
+Mescit Tepesi, Erzurum'un merkezinde yer alan ve şehre hakim olan bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Şehre gelenlerin ve yerli halkın sıkça ziyaret ettiği bir nokta olan Mescit Tepesi, doğa severlerin ilgisini çekiyor. Tepenin zirvesine ulaşan yol, yürüyüş severler için keyifli bir rota sunuyor.
 
 ## Tarihçe
 

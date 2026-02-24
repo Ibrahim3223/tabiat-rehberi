@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Manzara seyretme","Fotoğrafçılık","Pikn
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Meydankayası Tepesi","caption":"Meydankayası Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meydankayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389908","tip":"genel"}]
-description: "Samsun'un yeşil alanlarından biri olan Meydankayası Tepesi, 140 hektarlık bir alan üzerinde kurulmuştur. Bu tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir."
+ Bu tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir."
 keywords: ["Meydankayası Tepesi","Samsun","Karadeniz Bölgesi","yeşil alan","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389908"
@@ -36,7 +36,7 @@ Meydankayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Meydankayası Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olup, 140 hektarlık bir alanı kaplamaktadır. Bu tepe, yüksek bir konumda yer almakta ve Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Meydankayası Tepesi'nin coğrafi konumu, ziyaretçilerine hem deniz hem de kara manzaralarını sunmaktadır. Bu tepe, Samsun'un merkezine yakın bir konumda yer almakta ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir. Meydankayası Tepesi'nin iklimi, Karadeniz Bölgesi'nin iklimine benzerlik göstermekte ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır.
+ Bu tepe, yüksek bir konumda yer almakta ve Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir. Meydankayası Tepesi'nin coğrafi konumu, ziyaretçilerine hem deniz hem de kara manzaralarını sunmaktadır. Bu tepe, Samsun'un merkezine yakın bir konumda yer almakta ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir. Meydankayası Tepesi'nin iklimi, Karadeniz Bölgesi'nin iklimine benzerlik göstermekte ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Meydankayası Tepesi'ni ziyaret etmek, Samsun'un doğal güzelliklerini keşfetm
 ## İlginç Bilgiler
 
 - Meydankayası Tepesi, Samsun'un doğal güzelliklerini barındıran bir bölgedir.
-- Bu tepe, 140 hektarlık bir alanı kaplamaktadır.
+
 - Meydankayası Tepesi, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir.
 - Bu tepe, Samsun'un merkezine yakın bir konumda yer almaktadır.
 - Meydankayası Tepesi, ziyaretçilerine hem flora hem de fauna açısından zengin bir deneyimi sunmaktadır.

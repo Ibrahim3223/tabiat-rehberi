@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","kaya tırmanışı","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Asarkale.jpg","alt":"Asarkale Kaya Mezarı -2 manzarası","credit":"Chidgk1","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Asarkale.jpg/960px-Asarkale.jpg","alt":"Asarkale Kaya Mezarı -2","caption":"Asarkale Kaya Mezarı -2","credit":"Asarkale","license":"CC0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarkale%20Kaya%20Mezar%C4%B1%20-2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728225","tip":"genel"}]
 description: "Trabzon'un Bafra ilçesinde bulunan Asarkale Kaya Mezarı -2, coğrafyası ve tarihi geçmişiyle dikkat çekiyor"
@@ -50,7 +50,6 @@ Asarkale Kaya Mezarı -2, ziyaretçilerine tarih, doğa ve kültür ile baş ba�
 
 ## İlginç Bilgiler
 
-- Asarkale Kaya Mezarı -2, 140 hektarlık bir alana sahip
 - Bu bölgede, çeşitli uygarlıkların izleri encontrado
 - Asarkale Kaya Mezarı -2, flora ve fauna açısından zengin bir bölge
 - Bu bölgede, mevsimsel değişimlere göre farklı flora ve fauna türlerine ev sahipliği yapıyor

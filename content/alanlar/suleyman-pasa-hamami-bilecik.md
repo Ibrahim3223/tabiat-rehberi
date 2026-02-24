@@ -29,7 +29,7 @@ wikidata_id: "Q133245759"
 
 # Süleyman Paşa Hamamı, Bilecik
 
-Süleyman Paşa Hamamı, Bilecik ilinin merkezinde, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir hamamdır. Hamam, şehrin tarihi geçmişi ve kültürel mirasının önemli bir parçasıdır. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir ve yakın çevresinde bulunan diğer tarihi yapıları keşfedebilir. Bilecik'in merkezi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar ve bölgenin diğer turistik noktalarına da yakınlığıyla dikkat çeker.
+ Hamam, şehrin tarihi geçmişi ve kültürel mirasının önemli bir parçasıdır. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir ve yakın çevresinde bulunan diğer tarihi yapıları keşfedebilir. Bilecik'in merkezi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar ve bölgenin diğer turistik noktalarına da yakınlığıyla dikkat çeker.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Süleyman Paşa Hamamı'na ziyaretçiler, Bilecik'in merkezi konumundan yararlan
 ## İlginç Bilgiler
 
 - Süleyman Paşa Hamamı, Bilecik'in tarihi merkezinde yer alır.
-- Hamam, yaklaşık 140 hektarlık bir alanda bulunmaktadır.
+
 - Bilecik, Marmara Bölgesi'nde yer alır ve karasal iklimin hüküm sürdüğü bir bölgedir.
 - Süleyman Paşa Hamamı, Bilecik'in kültür mirasının önemli bir parçasıdır.
 - Hamam, ziyaretçilere zengin bir tarihi ve kültürel  sunar.

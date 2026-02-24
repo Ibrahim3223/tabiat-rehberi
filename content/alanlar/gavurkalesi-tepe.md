@@ -37,7 +37,7 @@ Gavurkalesi Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Gavurkalesi Tepe, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin önemli noktalarından biridir. Bu tepe, Konya il merkezine yakındır ve şehrin coğrafi yapısını etkileyen önemli bir faktördür. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, çeşitli bitki türleriyle kaplıdır. Gavurkalesi Tepe'nin coğrafi yapısı, bölgenin iklimini ve doğal kaynaklarını etkiler. Tepe, aynı zamanda yaban hayatı için de önemli bir alandır. Burada, çeşitli hayvan türlerine rastlama mümkün. Gavurkalesi Tepe'nin coğrafi konumu, Konya'nın turizm ve doğa alanındaki potansiyelini göstermesi açısından da önemlidir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunar.
+Gavurkalesi Tepe, coğrafi konumu itibariyle İç Anadolu Bölgesi'nin önemli noktalarından biridir. Bu tepe, Konya il merkezine yakındır ve şehrin coğrafi yapısını etkileyen önemli bir faktördür. Gavurkalesi Tepe'nin coğrafi yapısı, bölgenin iklimini ve doğal kaynaklarını etkiler. Tepe, aynı zamanda yaban hayatı için de önemli bir alandır. Burada, çeşitli hayvan türlerine rastlama mümkün. Gavurkalesi Tepe'nin coğrafi konumu, Konya'nın turizm ve doğa alanındaki potansiyelini göstermesi açısından da önemlidir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Gavurkalesi Tepe'yi ziyaret etmek, Konya'nın tarihi ve doğal güzelliklerini k
 
 - Gavurkalesi Tepe, Konya ilinin en önemli tarihi ve turistik noktalarından biridir.
 - Tepe, Hitit ve Roma dönemlerine ait kalıntılarla doludur.
-- Gavurkalesi Tepe, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Tepe, yaban hayatı için önemli bir alandır.
 - Gavurkalesi Tepe, Konya'nın turizm potansiyelini göstermesi açısından önemlidir.

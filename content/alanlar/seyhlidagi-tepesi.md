@@ -28,7 +28,7 @@ wikidata_id: "Q31388990"
 
 # Şeyhlidağı Tepesi
 
-Erzurum'un büyüleyici manzarasına ev sahipliği yapan Şeyhlidağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Şeyhlidağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak biliniyor. Bölgenin coğrafi yapısı ve iklimi, bu tepeye özel bir güzellik katıyor. Ziyaretçiler, buraya geldiğinde hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı buluyor.
+ Şeyhlidağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak biliniyor. Bölgenin coğrafi yapısı ve iklimi, bu tepeye özel bir güzellik katıyor. Ziyaretçiler, buraya geldiğinde hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Erzurum'un büyüleyici manzarasına ev sahipliği yapan Şeyhlidağı Tepesi, y
 
 ## Coğrafya
 
-Şeyhlidağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısının önemli bir kısmını oluşturuyor. Bu tepe, Erzurum'un merkezine yakın bir konumda bulunuyor. Bölgenin coğrafi özellikleri, Şeyhlidağı Tepesi'nin güzelliğini arttırıyor. Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu geniş alan, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Şeyhlidağı Tepesi, bölgenin iklimini de etkiliyor. Bölge, karasal iklimin özellikleri gösteriyor ve bu, tepeye özel bir güzellik katıyor. Şeyhlidağı Tepesi, Erzurum'un doğal güzelliklerinden biri olarak biliniyor ve ziyaretçilerini doğanın içinde bir maceraya davet ediyor.
+Şeyhlidağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısının önemli bir kısmını oluşturuyor. Bu tepe, Erzurum'un merkezine yakın bir konumda bulunuyor. Bölgenin coğrafi özellikleri, Şeyhlidağı Tepesi'nin güzelliğini arttırıyor. Şeyhlidağı Tepesi, bölgenin iklimini de etkiliyor. Bölge, karasal iklimin özellikleri gösteriyor ve bu, tepeye özel bir güzellik katıyor. Şeyhlidağı Tepesi, Erzurum'un doğal güzelliklerinden biri olarak biliniyor ve ziyaretçilerini doğanın içinde bir maceraya davet ediyor.
 
 ## Flora ve Fauna
 

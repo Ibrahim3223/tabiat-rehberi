@@ -30,7 +30,7 @@ Kutahya-Simav-Alasogut Kayin milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Kutahya-Simav-Alasogut Kayin milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Parkın coğrafyası, geniş ormanlık alanlar, dağlık araziler ve çeşitli su kaynaklarından oluşuyor. Bölgenin iklimi, karasal iklimin özellikleri gösteriyor ve mevsimsel değişimler, parkın ekosistemini şekillendiriyor. Milli parkın coğrafi yapısı, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor ve doğa yürüyüşleri, kampçılık ve doğa gözlemciliği gibi aktivitelerin keyfini çıkarmalarına olanak sağlıyor. Parkın 140 hektarlık alanı, ziyaretçilere geniş bir açık alan sunuyor ve doğayla iç içe bir deneyim yaşamalarına olanak tanıyor.
+Kutahya-Simav-Alasogut Kayin milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Parkın coğrafyası, geniş ormanlık alanlar, dağlık araziler ve çeşitli su kaynaklarından oluşuyor. Bölgenin iklimi, karasal iklimin özellikleri gösteriyor ve mevsimsel değişimler, parkın ekosistemini şekillendiriyor. Milli parkın coğrafi yapısı, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor ve doğa yürüyüşleri, kampçılık ve doğa gözlemciliği gibi aktivitelerin keyfini çıkarmalarına olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kutahya-Simav-Alasogut Kayin milli parkını ziyaret etmek, doğa severler için
 ## İlginç Bilgiler
 
 - Kutahya-Simav-Alasogut Kayin milli parkı, İç Anadolu Bölgesi'nin en büyük milli parklarından biri
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
+
 - Milli parkın ekosistemi, çeşitli bitki ve hayvan türlerini içeriyor
 - Parkın coğrafi yapısı, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor
 - Milli parkın kuruluş hikayesi, bölgenin ekolojik öneminin anlaşılmasıyla başlamış

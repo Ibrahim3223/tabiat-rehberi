@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Tekkoz-Kengerliduz","caption":"Tekkoz-Kengerliduz","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekkoz-Kengerliduz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227061","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Tekkoz-Kengerliduz","İç Anadolu Bölgesi","doğal alan","milli park","çevre","ekosistem","flora","fauna","gezgin","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227061"
@@ -48,7 +48,6 @@ Tekkoz-Kengerliduz milli parkını ziyaret etmek, doğa severler için unutulmaz
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana sahiptir.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar bulunur.
 - Milli park, doğal dengenin korunmasına büyük önem verir.
 - Milli park, ziyaretçilerine çeşitli etkinlikler sunar.

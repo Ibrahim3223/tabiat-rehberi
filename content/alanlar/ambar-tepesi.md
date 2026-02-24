@@ -28,7 +28,7 @@ wikidata_id: "Q31388056"
 
 # Ambar Tepesi
 
-Ambar Tepesi, Diyarbakır'ın güneydoğusunda yer alan bir tepe olup, yaklaşık 140 hektarlık alanı kaplar. Tepenin yüksekliği ise, deniz seviyesinden yaklaşık 500 metre yukarıda bulunmaktadır. Bu tepe, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeder. Tepenin eteklerinde yer alan tarihi yapılar ve kalıntılar, bu bölgenin zengin bir tarihe sahip olduğunu gösterir.
+ Tepenin yüksekliği ise, deniz seviyesinden yaklaşık 500 metre yukarıda bulunmaktadır. Bu tepe, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeder. Tepenin eteklerinde yer alan tarihi yapılar ve kalıntılar, bu bölgenin zengin bir tarihe sahip olduğunu gösterir.
 
 ## Tarihçe
 

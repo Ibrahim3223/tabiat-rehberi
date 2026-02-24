@@ -28,7 +28,7 @@ wikidata_id: "Q135582714"
 
 # Erzurum Dede Türbesi
 
-Erzurum Dede Türbesi, Çorum'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Erzurum Dede Türbesi, hem tarihi değerleriyle hem de doğal güzellikleriyle dikkat çekiyor.
+Erzurum Dede Türbesi, Çorum'un güzide noktalarından biri olarak karşımıza çıkıyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Erzurum Dede Türbesi, hem tarihi değerleriyle hem de doğal güzellikleriyle dikkat çekiyor.
 
 ## Tarihçe
 

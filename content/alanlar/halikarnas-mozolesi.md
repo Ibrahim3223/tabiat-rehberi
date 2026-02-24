@@ -29,7 +29,7 @@ wikidata_id: "Q45368"
 
 # Halikarnas Mozolesi
 
-Halikarnas Mozolesi, Muğla'nın merkezinde yer alan ve tarihin en önemli yapılarından biri olarak kabul edilen bir tarihi mozole. Bu mozole, yaklaşık 140 hektarlık bir alanda kurulmuş ve etrafındaki doğal güzelliklerle birlikte ziyaretçilerini büyülüyor. Mozolenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Halikarnas Mozolesi, Muğla'nın merkezinde yer alan ve tarihin en önemli yapılarından biri olarak kabul edilen bir tarihi mozole. Mozolenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

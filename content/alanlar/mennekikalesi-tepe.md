@@ -49,7 +49,7 @@ Mennekikalesi Tepe, ziyaretçilere çeşitli olanaklar sunuyor. Tepeye ulaşım,
 ## İlginç Bilgiler
 
 - Mennekikalesi Tepe, Konya'nın en önemli tarihi noktalarından biri.
-- Tepe, 140 hektarlık bir alanı kaplıyor.
+
 - Mennekikalesi Tepe, çeşitli medeniyetlere ev sahipliği yapmış.
 - Tepe, Konya'nın kültürel ve tarihi mirasının önemli bir parçasıdır.
 - Mennekikalesi Tepe, yılın her mevsiminde ziyaret edilebilir.

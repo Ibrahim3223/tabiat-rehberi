@@ -50,7 +50,7 @@ Saray Hamamı, özellikle yaz aylarında ziyaret edilen bir plaj olarak biliniyo
 ## İlginç Bilgiler
 
 - Saray Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak biliniyor
-- Plaj, 140 hektarlık bir alan üzerinde yer alıyor
+
 - Saray Hamamı, özellikle yaz aylarında ziyaret ediliyor
 - Plajın denizi, berra ve mavi
 - Saray Hamamı, çeşitli restoran ve kafeler ile dolu

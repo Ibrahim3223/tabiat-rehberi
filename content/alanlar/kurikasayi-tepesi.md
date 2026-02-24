@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotografcılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Kurikasayi Tepesi","caption":"Kurikasayi Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurikasayi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553824","tip":"genel"}]
-description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Kurikasayi Tepesi, yaklaşık 140 hektarlık alanda yer alan bir tepe"
+
 keywords: ["Kurikasayi Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553824"
@@ -28,7 +28,7 @@ wikidata_id: "Q31553824"
 
 # Kurikasayi Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Kurikasayi Tepesi, yaklaşık 140 hektarlık alanda yer alan bir tepe. Kurikasayi Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan village, misafirlerini sıcacık bir şekilde karşılıyor. Kurikasayi Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+ Kurikasayi Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan village, misafirlerini sıcacık bir şekilde karşılıyor. Kurikasayi Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kurikasayi Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için 
 
 ## İlginç Bilgiler
 
-- Kurikasayi Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor
 - Kurikasayi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık bir arazi üzerinde yer alıyor
 - Tepenin yüksekliği, ziyaretçilerine eşsiz bir manzara sunuyor

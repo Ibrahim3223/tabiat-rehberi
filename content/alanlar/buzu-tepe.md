@@ -36,7 +36,7 @@ Buzu Tepe'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin etkis
 
 ## Coğrafya
 
-Buzu Tepe, Diyarbakır'ın merkezinde yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, 140 hektarlık bir alanı kaplar ve Diyarbakır'ın en önemli doğal güzelliklerinden biridir. Buzu Tepe, ziyaretçilerine zengin bir flora ve fauna sunar ve bu bölgenin iklimi, ziyaretçilerine yılın her mevsiminde farklı güzellikler sunar. Bu tepe, aynı zamanda çevresi ile birlikte bir bütünü oluşturur ve ziyaretçilerine geniş bir alan sunar.
+Buzu Tepe, Diyarbakır'ın merkezinde yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Buzu Tepe, ziyaretçilerine zengin bir flora ve fauna sunar ve bu bölgenin iklimi, ziyaretçilerine yılın her mevsiminde farklı güzellikler sunar. Bu tepe, aynı zamanda çevresi ile birlikte bir bütünü oluşturur ve ziyaretçilerine geniş bir alan sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Buzu Tepe, ziyaretçilerine zengin bir tarihi ve doğal güzellikler sunar. Bu t
 ## İlginç Bilgiler
 
 - Buzu Tepe, Diyarbakır'ın en önemli kültür merkezlerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Buzu Tepe, ziyaretçilerine zengin bir tarihi sunar.
 - Bu tepe, doğal güzellikleri ile ziyaretçilerini büyüler.
 - Buzu Tepe, Diyarbakır'ın en önemli turizm merkezlerinden biridir.

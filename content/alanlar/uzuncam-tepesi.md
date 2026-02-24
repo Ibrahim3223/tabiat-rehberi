@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Uzunçam Tepesi","caption":"Uzunçam Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzun%C3%A7am%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34816696","tip":"genel"}]
-description: "Karabük'ün en yüksek noktalarından biri olan Uzunçam Tepesi, yaklaşık 140 hektarlık yeşil alanıyla doğa severlerin gözdesi"
+
 keywords: ["Uzunçam Tepesi","Karabük","Karadeniz Bölgesi","doğa turizmi","tepe","yeşil alan","vadi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34816696"

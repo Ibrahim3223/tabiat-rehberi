@@ -28,7 +28,7 @@ wikidata_id: "Q31390240"
 
 # Kocatarla Tepe
 
-Kocatarla Tepe, İç Anadolu Bölgesi'nin geniş düzlüklerinde yükselen bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini geniş bir manzara ile karşılıyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Kocatarla Tepe'nin eteklerinde çeşitli bitki türleri ve zengin fauna encontrado, bu bölgeyi bir doğa cenneti haline getiriyor. Ziyaretçiler, bu tepeye çıkarak hem tarihin derinına hem de doğanın güzelliğine tanıklık edebiliyorlar.
+Kocatarla Tepe, İç Anadolu Bölgesi'nin geniş düzlüklerinde yükselen bir tepe olarak dikkat çekiyor. Kocatarla Tepe'nin eteklerinde çeşitli bitki türleri ve zengin fauna encontrado, bu bölgeyi bir doğa cenneti haline getiriyor. Ziyaretçiler, bu tepeye çıkarak hem tarihin derinına hem de doğanın güzelliğine tanıklık edebiliyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocatarla Tepe'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile iç i�
 
 ## Coğrafya
 
-Kocatarla Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Bu tepe, geniş düzlüklerin ortasında yükselen bir yapıya sahip ve yaklaşık 140 hektarlık bir alanı kapsıyor. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplı durumda ve ziyaretçileri doğanın güzelliğine tanıklık etme fırsatı sunuyor. Kocatarla Tepe'nin eteklerinde, çeşitli su kaynakları ve akarsular encontrado ve bu bölgeyi bir doğa cenneti haline getiriyor. İç Anadolu Bölgesi'nin iklimi, Kocatarla Tepe'nin flora ve faunasını etkiliyor ve bu tepe, ziyaretçileri için bir doğa gözlem merkezi olarak kullanılıyor. Kocatarla Tepe'nin coğrafi konumu, ziyaretçileri için bir çekim merkezi oluşturuyor ve bu tepe, doğa severlerin ve tarih meraklılarının gözdesi haline geliyor.
+Kocatarla Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplı durumda ve ziyaretçileri doğanın güzelliğine tanıklık etme fırsatı sunuyor. Kocatarla Tepe'nin eteklerinde, çeşitli su kaynakları ve akarsular encontrado ve bu bölgeyi bir doğa cenneti haline getiriyor. İç Anadolu Bölgesi'nin iklimi, Kocatarla Tepe'nin flora ve faunasını etkiliyor ve bu tepe, ziyaretçileri için bir doğa gözlem merkezi olarak kullanılıyor. Kocatarla Tepe'nin coğrafi konumu, ziyaretçileri için bir çekim merkezi oluşturuyor ve bu tepe, doğa severlerin ve tarih meraklılarının gözdesi haline geliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kocatarla Tepe, ziyaretçileri için bir çekim merkezi oluşturuyor. Bu tepe, h
 ## İlginç Bilgiler
 
 - Kocatarla Tepe, İç Anadolu Bölgesi'nin gizli hazinelerinden biri olarak kabul ediliyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Kocatarla Tepe'nin eteklerinde, çeşitli su kaynakları ve akarsular encontrado.
 - Bu tepe, bir doğa cenneti ve gözlem merkezi olarak kullanılıyor.
 - Kocatarla Tepe, ziyaretçileri için bir çekim merkezi oluşturuyor.

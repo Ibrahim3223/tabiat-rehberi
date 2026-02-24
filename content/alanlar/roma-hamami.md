@@ -38,7 +38,7 @@ Roma Hamamı'nın tarihi geçmişi, Roma İmparatorluğu dönemine kadar uzanıy
 
 ## Coğrafya
 
-Roma Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, Fırat Nehri'nin kıyısında kurulmuş ve doğal güzellikleri ile dikkat çekiyor. Roma Hamamı'nın etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Burası, ziyaretçilere hem tarihin gizemli atmosferini hem de doğanın güzelliğini keşfetme imkanı sunuyor. Roma Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, çeşitli coğrafi özelliklere sahip. Burası, ziyaretçilere geniş bir gezi alanı sunuyor ve her mevsim farklı bir güzelliğe sahip.
+Roma Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, Fırat Nehri'nin kıyısında kurulmuş ve doğal güzellikleri ile dikkat çekiyor. Roma Hamamı'nın etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Burası, ziyaretçilere hem tarihin gizemli atmosferini hem de doğanın güzelliğini keşfetme imkanı sunuyor. Burası, ziyaretçilere geniş bir gezi alanı sunuyor ve her mevsim farklı bir güzelliğe sahip.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Roma Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer alıyor ve buraya ulaş�
 
 - Roma Hamamı, tarihin derinliklerine uzanan bir plajdır.
 - Burası, Güneydoğu Anadolu Bölgesi'nin gizli cennetlerinden biri olarak biliniyor.
-- Roma Hamamı, 140 hektarlık bir alanı kapsıyor.
+
 - Burası, çeşitli bitki türleri ve ağaçlarla kaplıdır.
 - Roma Hamamı, zengin bir fauna ile dikkat çekiyor.

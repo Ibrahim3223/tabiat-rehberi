@@ -50,7 +50,7 @@ Arıkbaşı Şehitlik Anıtı, ziyaretçilere önemli bir tarihi ve kültürel d
 ## İlginç Bilgiler
 
 - Arıkbaşı Şehitlik Anıtı, Kurtuluş Savaşı'nın kahramanlarını anmak için kurulmuştur.
-- Anıtın bulunduğu bölge, 140 hektarlık bir yeşil alana sahiptir.
+
 - Bölgenin flora ve faunası, Ege Bölgesi'nin karakteristik özelliklerini taşır.
 - Anıtın bulunduğu alan, önemli bir turizm merkezidir.
 - Ziyaretçiler, anıtı gezdikten sonra, bölgenin diğer güzelliklerini de keşfedebilirler.

@@ -28,7 +28,7 @@ wikidata_id: "Q31564977"
 
 # Karsaduran Tepesi
 
-Kastamonu'nun güzide bir bölgesi olan Karsaduran Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın kucağına davet ediyor. Karsaduran Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor. Bu tepe, doğa severler için bir cennet olarak tanımlanabilir ve ziyaretçilerini büyüleyici manzaralarıyla karşılıyor.
+ Karsaduran Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor. Bu tepe, doğa severler için bir cennet olarak tanımlanabilir ve ziyaretçilerini büyüleyici manzaralarıyla karşılıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karsaduran Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu bölge, yüzyıllar 
 
 ## Coğrafya
 
-Karsaduran Tepesi, Kastamonu'nun en güzel noktalarından biri olarak biliniyor. Bu tepe, Karadeniz Bölgesi'nde yer alıyor ve yaklaşık 140 hektarlık bir alanı kaplıyor. Karsaduran Tepesi'nin coğrafi yapısı, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Bu tepe, yeşilin her tonunu barındıran bir bölge ve ziyaretçilerini doğanın kucağına davet ediyor. Karsaduran Tepesi'nin iklimi, Karadeniz Bölgesi'nin genel iklimine benzer ve bu bölge, her mevsim ziyaret edilebilir. Karsaduran Tepesi'nin çevresi, çeşitli bitki türleri ile dolu ve bu bölge, doğa severler için bir cennet olarak tanımlanabilir. Bu tepe, Kastamonu'nun en önemli turizm merkezlerinden biri olarak kabul ediliyor ve her yıl çok sayıda ziyaretçi tarafından ziyaret ediliyor.
+Karsaduran Tepesi, Kastamonu'nun en güzel noktalarından biri olarak biliniyor. Karsaduran Tepesi'nin coğrafi yapısı, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Bu tepe, yeşilin her tonunu barındıran bir bölge ve ziyaretçilerini doğanın kucağına davet ediyor. Karsaduran Tepesi'nin iklimi, Karadeniz Bölgesi'nin genel iklimine benzer ve bu bölge, her mevsim ziyaret edilebilir. Karsaduran Tepesi'nin çevresi, çeşitli bitki türleri ile dolu ve bu bölge, doğa severler için bir cennet olarak tanımlanabilir. Bu tepe, Kastamonu'nun en önemli turizm merkezlerinden biri olarak kabul ediliyor ve her yıl çok sayıda ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Karsaduran Tepesi'ni ziyaret etmek, doğa severler için bir rüya harika bir de
 ## İlginç Bilgiler
 
 - Karsaduran Tepesi, Kastamonu'nun en güzel noktalarından biri olarak biliniyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor
+
 - Karsaduran Tepesi, Karadeniz Bölgesi'nde yer alıyor
 - Bu tepe, yeşilin her tonunu barındıran bir bölge
 - Karsaduran Tepesi, doğa severler için bir cennet olarak tanımlanabilir

@@ -38,7 +38,7 @@ Sultan Şuca Türbesi, tarihi geçmişiyle dikkat çeken bir mekan olarak yüzy�
 
 ## Coğrafya
 
-Sultan Şuca Türbesi, Diyarbakır'ın Sur ilçesinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu mekan, 200 futbol sahası büyüklüğünde bir alanı kapladığı için oldukça geniş bir alana sahiptir. Sultan Şuca Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve bölgenin iklimine uyum sağlamış bir mekan olarak dikkat çeker. Bu mekan, çeşitli bitki türleri ve hayvanlarla birlikte zengin bir fauna ve flora yapısına sahiptir. Sultan Şuca Türbesi, coğrafi konumu ve mimari yapısıyla birlikte ziyaretçilerini etkileyen bir mekan olarak sayılır. Bu türbe, Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ziyaretçilerini bekliyor.
+ Sultan Şuca Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve bölgenin iklimine uyum sağlamış bir mekan olarak dikkat çeker. Bu mekan, çeşitli bitki türleri ve hayvanlarla birlikte zengin bir fauna ve flora yapısına sahiptir. Sultan Şuca Türbesi, coğrafi konumu ve mimari yapısıyla birlikte ziyaretçilerini etkileyen bir mekan olarak sayılır. Bu türbe, Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Sultan Şuca Türbesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini keş
 ## İlginç Bilgiler
 
 - Sultan Şuca Türbesi, Diyarbakır'ın en önemli tarihi mekanlarından biri olarak sayılır
-- Bu mekan, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Sultan Şuca Türbesi, tarihi geçmişi ve mimari yapısıyla dikkat çeker
 - Bu türbe, Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ziyaretçilerini bekliyor
 - Sultan Şuca Türbesi, zengin bir flora ve fauna yapısına sahiptir

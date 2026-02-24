@@ -37,7 +37,7 @@ Akaretler Mustafa Kemal Müzesi, tarihçesi itibariyle oldukça önemli bir yere
 
 ## Coğrafya
 
-Akaretler Mustafa Kemal Müzesi, coğrafi konumu itibariyle İstanbul'un merkezi bir bölgesinde yer alıyor. Beşiktaş ilçesinde bulunan müze, şehir merkezine oldukça yakın. Marmara Bölgesi'nin kalbinde yer alan bu bölge, coğrafi açıdan önemli bir yer. Müzenin bulunduğu alan, yaklaşık 140 hektarlık bir araziye yayılmış durumda. Burada, ziyaretçiler hem Atatürk'ün yaşantısına dair bilgiler edinebiliyor hem de İstanbul'un tarihi ve kültürel zenginliklerini keşfedebiliyor. Çevre, tarihi yapılar ve yeşillik alanlarla dolu. İklim, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişken.
+Akaretler Mustafa Kemal Müzesi, coğrafi konumu itibariyle İstanbul'un merkezi bir bölgesinde yer alıyor. Beşiktaş ilçesinde bulunan müze, şehir merkezine oldukça yakın. Marmara Bölgesi'nin kalbinde yer alan bu bölge, coğrafi açıdan önemli bir yer. Burada, ziyaretçiler hem Atatürk'ün yaşantısına dair bilgiler edinebiliyor hem de İstanbul'un tarihi ve kültürel zenginliklerini keşfedebiliyor. Çevre, tarihi yapılar ve yeşillik alanlarla dolu. İklim, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişken.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Akaretler Mustafa Kemal Müzesi'ni ziyaret etmek, Türkiye'nin kurucusu Atatürk
 ## İlginç Bilgiler
 
 - Atatürk'ün bu evde kaldığı süre, Türk milletinin bağımsızlık mücadelesinin önemli bir parçası.
-- Müze, yaklaşık 140 hektarlık bir araziye yayılmış.
+
 - Atatürk'ün persönel eşyaları ve belgeleri, müzenin en önemli parçaları.
 - Müze, yıl boyunca ziyaretçilere açık.
 - Ziyaretçiler, müzenin resmi internet sitesinden güncel ziyaret saatleri hakkında bilgi alabilir.

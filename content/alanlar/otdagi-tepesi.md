@@ -20,8 +20,7 @@ aktiviteler: ["manzara izleme","bitki türleri izleme","fauna izleme","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Otdağı Tepesi","caption":"Otdağı Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572573","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin Van şehrinde bulunan Otdağı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
-keywords: ["Otdağı Tepesi","Van","Doğu Anadolu Bölgesi","yeşil alan","futbol sahası","tepe","coğrafya","flora","fauna"]
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q31572573"
 ---
@@ -49,7 +48,7 @@ Otdağı Tepesi'ni ziyaret etmek, Van'ın coğrafi yapısını ve doğal güzell
 ## İlginç Bilgiler
 
 - Otdağı Tepesi, Van şehrinin panoramik manzarasına hakim olan bir tepe
-- 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
+
 - tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta
 - Otdağı Tepesi, Van'ın coğrafi yapısını ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon
 - tepenin yüksekliği ve konumuna bağlı olarak, Van Gölü'nün ve şehrin panoramik manzarasına hakim olma mümkün

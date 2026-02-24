@@ -28,7 +28,7 @@ wikidata_id: "Q34827867"
 
 # Mount Çakmak
 
-Mount Çakmak, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Gaziantep'in eşsiz manzaralarına ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Mount Çakmak, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakıyor.
+Mount Çakmak, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Mount Çakmak, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Mount Çakmak, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Bu tepe
 ## İlginç Bilgiler
 
 - Mount Çakmak, Gaziantep'in önemli güzelliklerinden biri
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Mount Çakmak, çeşitli bitki türlerine ev sahipliği yapıyor
 - Bu tepe, mevsimsel değişimlere göre farklı bitki türlerini barındırıyor
 - Mount Çakmak, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor

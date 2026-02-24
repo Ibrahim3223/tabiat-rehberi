@@ -37,7 +37,7 @@ Kaya Mezarı, Belen'in tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Kaya Mezarı, Belen, coğrafi olarak Ege Bölgesi'nde yer alıyor ve Muğla'nın doğal güzelliklerini temsil ediyor. Bu bölge, 140 hektarlık geniş bir alana sahip ve çeşitli coğrafi özellikler sunuyor. Kaya Mezarı, Belen'in coğrafi yapısı, ziyaretçilere geniş ve zengin bir doğal ambiente sunuyor. Bölge, farklı mevsimlerde değişen iklim koşulları ile ziyaretçilere dört mevsim boyunca farklı deneyimler sunabiliyor. Kaya Mezarı, Belen'in coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmelerine olanak tanıyor.
+Kaya Mezarı, Belen, coğrafi olarak Ege Bölgesi'nde yer alıyor ve Muğla'nın doğal güzelliklerini temsil ediyor. Kaya Mezarı, Belen'in coğrafi yapısı, ziyaretçilere geniş ve zengin bir doğal ambiente sunuyor. Bölge, farklı mevsimlerde değişen iklim koşulları ile ziyaretçilere dört mevsim boyunca farklı deneyimler sunabiliyor. Kaya Mezarı, Belen'in coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmelerine olanak tanıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kaya Mezarı, Belen'i ziyaret etmek, ziyaretçilere birçok olanak sunuyor. Bura
 ## İlginç Bilgiler
 
 - Kaya Mezarı, Belen, Muğla'nın en önemli doğal güzelliklerinden biri
-- Bölge, 140 hektarlık geniş bir alana sahip
+
 - Kaya Mezarı, Belen, Ege Bölgesi'nde yer alıyor
 - Burada, çeşitli uygarlıkların izleri görülebilir
 - Ziyaretçiler, Kaya Mezarı, Belen'i ziyaret ederek doğal güzellikleri ve tarihi değerleri keşfedebilir

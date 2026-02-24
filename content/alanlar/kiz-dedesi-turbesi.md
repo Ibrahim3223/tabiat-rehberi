@@ -50,7 +50,7 @@ Kız Dedesi Türbesi, ziyaretçilerine çeşitli etkinlikler sunan bir destinasy
 ## İlginç Bilgiler
 
 - Kız Dedesi Türbesi, Balıkesir'in Karesi ilçesinde yer alır.
-- Bölge, yaklaşık 140 hektarlık bir alanı kapsar.
+
 - Tarihi geçmişi, çeşitli medeniyetlere ev sahipliği yapan bir bölgede yer alır.
 - Zengin flora ve fauna ile dikkat çeker.
 - Mevsimsel değişimler, bölgenin güzelliğini farklı şekillerde yansıtır.

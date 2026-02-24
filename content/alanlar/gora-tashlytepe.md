@@ -28,7 +28,7 @@ wikidata_id: "Q31386133"
 
 # Gora Tashlytepe
 
-Gora Tashlytepe, Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep'in sınırları içinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile bir futbol sahasının yaklaşık 200 katına eşdeğer bir büyüklüğe sahip. Gora Tashlytepe'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Burada doğa severler, yaban hayatını gözlemleme fırsatı bulabilirler. Gora Tashlytepe, hem doğa tutkunları hem de tarih meraklıları için bir hazine.
+Gora Tashlytepe, Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep'in sınırları içinde yer alan bir tepe. Gora Tashlytepe'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Burada doğa severler, yaban hayatını gözlemleme fırsatı bulabilirler. Gora Tashlytepe, hem doğa tutkunları hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

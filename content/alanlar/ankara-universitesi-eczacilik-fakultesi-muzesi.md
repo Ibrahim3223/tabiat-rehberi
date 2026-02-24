@@ -49,7 +49,6 @@ Ankara Üniversitesi Eczacılık Fakültesi Müzesi, eczacılık tarihi ve bilim
 
 ## İlginç Bilgiler
 
-- Müze, 140 hektarlık bir alanda kurulmuştur
 - Müze, eczacılık tarihi ve bilimi hakkında geniş bir bilgi yelpazesi sunmaktadır
 - Müze, eczacılık alanında eğitim gören öğrenciler ve bu alanda çalışmak isteyenler için önemli bir kaynak olarak kabul edilmektedir
 - Müze, hafta içi her gün açık olup, hafta sonu kapalıdır

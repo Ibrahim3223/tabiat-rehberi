@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Orman Gezisi","Vahşi Yaşam İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Ay%C4%B1kayas%C4%B1-Tabiat-Park%C4%B1.jpg","alt":"Ayıkayası Tabiat Parkı manzarası","credit":"Turgutduzman","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ay%C4%B1kayas%C4%B1-Tabiat-Park%C4%B1.jpg/960px-Ay%C4%B1kayas%C4%B1-Tabiat-Park%C4%B1.jpg","alt":"Ayıkayası Tabiat Parkı","caption":"Ayıkayası Tabiat Parkı","credit":"Ayıkayası-Tabiat-Parkı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1kayas%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Bolu'da yer alan Ayıkayası Tabiat Parkı, Karadeniz Bölgesi'nin güzelliklerini sunar."

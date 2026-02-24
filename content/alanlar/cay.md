@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/17/%C3%87ay%3B_Ta%C5%9F_Medrese_%28heute_Moschee%29_von_1278%3B_Westseite.jpg","alt":"ÇAY manzarası","credit":"Christian1311","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e3/Camellia_sinensis_MHNT.BOT.2016.12.24.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Camellia_sinensis_MHNT.BOT.2016.12.24.jpg/1280px-Camellia_sinensis_MHNT.BOT.2016.12.24.jpg","alt":"ÇAY - Camellia sinensis MHNT.BOT.2016.12.24","credit":"\nRoger Culos","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Camellia_sinensis_in_Bao_Loc.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Camellia_sinensis_in_Bao_Loc.jpg/1280px-Camellia_sinensis_in_Bao_Loc.jpg","alt":"ÇAY - Camellia sinensis in Bao Loc","credit":"P.T.Đ","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Sunset%2C_%C3%87ay%2C_Afyonkarahisar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sunset%2C_%C3%87ay%2C_Afyonkarahisar.jpg/1280px-Sunset%2C_%C3%87ay%2C_Afyonkarahisar.jpg","alt":"ÇAY - Sunset, Çay, Afyonkarahisar","credit":"Imcalledasparg","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/db/Cay_station.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cay_station.jpg/1280px-Cay_station.jpg","alt":"ÇAY - Cay station","credit":"Btian P. Dorsam","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Camellia_sinensis_seedling1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Camellia_sinensis_seedling1.jpg/1280px-Camellia_sinensis_seedling1.jpg","alt":"ÇAY - Camellia sinensis seedling1","credit":"DouglasGoldman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87AY","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228614","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en güzide milli parklarından biri olan ÇAY, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor."
+"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228614"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228614"
 
 # ÇAY
 
-İç Anadolu Bölgesi'nin kalbinde yer alan ÇAY milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Böyle geniş bir alan, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Milli park, bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve doğal güzellikleri ile ziyaretçilerini çekmektedir. ÇAY, bölgede yer alan diğer milli parklardan farklı olarak, benzersiz flora ve fauna çeşitliliğine sahiptir.
+ Böyle geniş bir alan, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Milli park, bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve doğal güzellikleri ile ziyaretçilerini çekmektedir. ÇAY, bölgede yer alan diğer milli parklardan farklı olarak, benzersiz flora ve fauna çeşitliliğine sahiptir.
 
 ## Tarihçe
 
@@ -43,8 +43,6 @@ wikidata_id: "Q108228614"
 
 ## İlginç Bilgiler
 
-- 140 hektarlık yeşil alan
-- 200 futbol sahası büyüklüğünde
 - çeşitli flora ve fauna
 - tarihi geçmişi
 - doğa yürüyüşü

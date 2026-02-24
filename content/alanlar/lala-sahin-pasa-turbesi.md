@@ -38,7 +38,7 @@ Lala Şahin Paşa Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu'nun ö
 
 ## Coğrafya
 
-Lala Şahin Paşa Türbesi, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Mustafakemalpaşa'nın doğal güzellikleri, türbenin etrafını çevreliyor ve ziyaretçilere geniş bir gezi alanı sunuyor. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerinde kurulu ve bu genişlik, ziyaretçilere geniş bir açık alan sunuyor. Coğrafi olarak, Lala Şahin Paşa Türbesi, Marmara Denizi'ne yakın bir konumda yer alıyor ve bu nedenle, ziyaretçilere denizin güzelliğini de sunuyor. Ayrıca, türbenin bulunduğu bölgede çeşitli bitki türleri ve hayvanlar da yaşamaktadır ve bu nedenle, ziyaretçilere doğal bir ortam sunuyor.
+Lala Şahin Paşa Türbesi, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Mustafakemalpaşa'nın doğal güzellikleri, türbenin etrafını çevreliyor ve ziyaretçilere geniş bir gezi alanı sunuyor. Coğrafi olarak, Lala Şahin Paşa Türbesi, Marmara Denizi'ne yakın bir konumda yer alıyor ve bu nedenle, ziyaretçilere denizin güzelliğini de sunuyor. Ayrıca, türbenin bulunduğu bölgede çeşitli bitki türleri ve hayvanlar da yaşamaktadır ve bu nedenle, ziyaretçilere doğal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Lala Şahin Paşa Türbesi'ni ziyaret etmek, ziyaretçilere tarihin derinlikleri
 - Lala Şahin Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi değerlerinden biridir.
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlar ve onarımlar görmüştür.
 - Lala Şahin Paşa Türbesi, ziyaretçilerine tarihin derinliklerine bir yolculuk sunuyor.
-- Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerindedir.
+
 - Lala Şahin Paşa Türbesi, Marmara Denizi'ne yakın bir konumda yer alıyor.

@@ -21,7 +21,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Gaziler%20Tepesi%20-%20panoramio.jpg","alt":"Gaziler Tepesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/77/Gaziler_Tepesi_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gaziler_Tepesi_-_panoramio.jpg/1280px-Gaziler_Tepesi_-_panoramio.jpg","alt":"Gaziler Tepesi - Gaziler Tepesi - panoramio","credit":"Allen Turner","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gaziler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387159","tip":"genel"}]
-description: "Marmara Bölgesi'nin Kocaeli ilinde yer alan Gaziler Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Kocaeli","Marmara Bölgesi","Gaziler Tepesi","doğa","gezi","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387159"

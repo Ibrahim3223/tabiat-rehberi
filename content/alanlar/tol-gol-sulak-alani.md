@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","eğitim p
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Tol Gol Sulak Alanı","caption":"Tol Gol Sulak Alanı","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tol%20Gol%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228860","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli cenneti, Tol Gol Sulak Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Tol Gol Sulak Alanı","İç Anadolu Bölgesi","sulak alan","doğa","çevre","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228860"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228860"
 
 # Tol Gol Sulak Alanı
 
-Tol Gol Sulak Alanı, İç Anadolu Bölgesi'nin merkezinde yer alan 140 hektarlık bir sulak alan olarak dikkat çekiyor. Tol Gol Sulak Alanı, zengin flora ve faunasıyla birlikte, yaban hayatının çeşitliliğini gözler önüne seriyor. Bu sulak alan, aynı zamanda bir doğa koruma alanı olarak da görev yapıyor ve birçok canlıya ev sahipliği yapıyor. Tol Gol Sulak Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve unutulmaz bir deneyim sunuyor.
+ Tol Gol Sulak Alanı, zengin flora ve faunasıyla birlikte, yaban hayatının çeşitliliğini gözler önüne seriyor. Bu sulak alan, aynı zamanda bir doğa koruma alanı olarak da görev yapıyor ve birçok canlıya ev sahipliği yapıyor. Tol Gol Sulak Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -41,8 +41,6 @@ Tol Gol Sulak Alanı, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistem
 Tol Gol Sulak Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve unutulmaz bir deneyim sunuyor. Bu sulak alan, aynı zamanda bir doğa koruma alanı olarak görev yapıyor ve birçok canlıya ev sahipliği yapıyor. Tol Gol Sulak Alanı, ziyaretçilerini bu zengin tarihinin içine çekerek, doğanın güzelliği ile baş başa bırakıyor. Tol Gol Sulak Alanı, ziyaretçilerine çeşitli etkinlikler sunuyor ve doğa severlerin ilgisini çekiyor. Bu sulak alan, aynı zamanda bir eğitim ve araştırma merkezi olarak da hizmet veriyor ve doğa severlerin ilgisini çekiyor.
 
 ## İlginç Bilgiler
-
-- Tol Gol Sulak Alanı, 140 hektarlık bir alanı kapsıyor.
 
 - Tol Gol Sulak Alanı, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırıyor.
 - Bu sulak alan, aynı zamanda bir doğa koruma alanı olarak görev yapıyor.

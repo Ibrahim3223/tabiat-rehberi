@@ -51,7 +51,7 @@ Kilise Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en iyi ziyaret
 ## İlginç Bilgiler
 
 - Kilise Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alana sahiptir.
+
 - Kilise Hamamı, tarihsel bir geçmişe sahiptir.
 - Bu bölge, çeşitli uygarlıklar tarafından yerleşim yeri olarak kullanılmıştır.
 - Kilise Hamamı, doğa severler ve kuş gözlemcileri için önemli bir destinasyondur.

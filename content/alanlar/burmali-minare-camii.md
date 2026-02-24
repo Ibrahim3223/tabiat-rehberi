@@ -22,7 +22,7 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Amasya-Mosque-06.JPG","alt":"Burmalı Minare Camii manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_133.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_133.jpg/1280px-Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_133.jpg","alt":"Burmalı Minare Camii - Amasya Burmalı Minare Mosque Exterior 133","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Burmal%C4%B1_Minare_Camii_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burmal%C4%B1_Minare_Camii_%282%29.jpg/1280px-Burmal%C4%B1_Minare_Camii_%282%29.jpg","alt":"Burmalı Minare Camii - Burmalı Minare Camii (2)","credit":"Cobija","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Burmal%C4%B1_Minare_Camii_giri%C5%9F.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burmal%C4%B1_Minare_Camii_giri%C5%9F.jpg/1280px-Burmal%C4%B1_Minare_Camii_giri%C5%9F.jpg","alt":"Burmalı Minare Camii - Burmalı Minare Camii giriş","credit":"Cobija","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/03/Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_7598.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_7598.jpg/1280px-Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_7598.jpg","alt":"Burmalı Minare Camii - Amasya Burmalı Minare Mosque Exterior 7598","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_7597.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_7597.jpg/1280px-Amasya_Burmal%C4%B1_Minare_Mosque_Exterior_7597.jpg","alt":"Burmalı Minare Camii - Amasya Burmalı Minare Mosque Exterior 7597","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burmal%C4%B1%20Minare%20Camii","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6043868","tip":"genel"}]
-description: "Amasya'nın tarihi ve kültürel hazinelerinden biri olan Burmalı Minare Camii, 140 hektarlık bir alanda yer alan tarihi bir cami"
+
 keywords: ["Amasya","Burmalı Minare Camii","tarihi mekan","camiler","Karadeniz Bölgesi","Amasya ilinin tarihi","kültürel miras","tarih","mimari"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6043868"
@@ -30,7 +30,7 @@ wikidata_id: "Q6043868"
 
 # Burmalı Minare Camii
 
- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Cami, Amasya'nın merkezinde yer alır ve şehrin önemli simgelerinden biridir. Burmalı Minare Camii, Amasya'nın tarihi ve kültürel mirasını yansıtan önemli bir yapıdır.
+ Cami, Amasya'nın merkezinde yer alır ve şehrin önemli simgelerinden biridir. Burmalı Minare Camii, Amasya'nın tarihi ve kültürel mirasını yansıtan önemli bir yapıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Burmalı Minare Camii, tarihsel geçmişi ile dikkat çeker. Caminin tarihi, Ama
 
 ## Coğrafya
 
-Burmalı Minare Camii, Amasya ilinin merkezinde yer alır. Cami, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölge, yeşilliği ve su kaynakları ile bilinir. Cami, çevresindeki yeşilliklerle çevrili olup, ziyaretçilerine doğayla iç içe bir ortam sunar. Caminin bulunduğu alan, yaklaşık 140 hektarlık bir arazide yer alır. Bu alan, Amasya'nın coğrafi özelliklerini yansıtan önemli bir bölgedir. Cami, Karadeniz Bölgesi'nin coğrafi yapısını ve Amasya'nın doğal güzelliklerini yansıtan önemli bir yapıdır. Caminin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severlerin ilgisini çeker ve ziyaretçilerine doğanın güzelliklerini sunar.
+Burmalı Minare Camii, Amasya ilinin merkezinde yer alır. Cami, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölge, yeşilliği ve su kaynakları ile bilinir. Cami, çevresindeki yeşilliklerle çevrili olup, ziyaretçilerine doğayla iç içe bir ortam sunar. Bu alan, Amasya'nın coğrafi özelliklerini yansıtan önemli bir bölgedir. Cami, Karadeniz Bölgesi'nin coğrafi yapısını ve Amasya'nın doğal güzelliklerini yansıtan önemli bir yapıdır. Caminin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severlerin ilgisini çeker ve ziyaretçilerine doğanın güzelliklerini sunar.
 
 ## Flora ve Fauna
 

@@ -49,7 +49,6 @@ Karaman Tepesi'ne ziyaret, bölgenin doğal güzelliklerini keşfetme ve tarihin
 
 ## İlginç Bilgiler
 
-- Karaman Tepesi, yaklaşık 140 hektarlık bir alana sahiptir.
 - Bu tepe, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir.
 - Karaman Tepesi, flora ve fauna çeşitliliği açısından önemlidir.
 - Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini şekillendiren doğal olayların da etkisinde kalmıştır.

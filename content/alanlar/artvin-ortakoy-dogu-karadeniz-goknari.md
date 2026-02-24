@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Kamp","Çiçek toplama","Hayvan izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Artvin-Ortakoy Dogu Karadeniz Goknari","caption":"Artvin-Ortakoy Dogu Karadeniz Goknari","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Ortakoy%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227584","tip":"genel"}]
-description: "Doğu Karadeniz'in güzide illerinden Artvin'de yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor."
+"
 keywords: ["Artvin","Ortakoy","Dogu Karadeniz","Goknari","Milli Park","Doğa","Yeşil Alan","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227584"
@@ -46,4 +46,4 @@ Artvin-Ortakoy Dogu Karadeniz Goknari, ziyaretçilere keyifli bir gün geçirmes
 - Bölgenin flora çeşitliliği, mevsimsel değişimlere göre değişmektedir
 - Bölgenin fauna çeşitliliği, çeşitli hayvan türleri ile karakterizedir
 - Bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, serin ve yağışlı bir iklime sahiptir
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
+

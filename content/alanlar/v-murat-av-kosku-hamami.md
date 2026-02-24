@@ -37,7 +37,7 @@ V. Murat Av Köşkü Hamamı'nın tarihi geçmişi, İstanbul'un önemli olaylar
 
 ## Coğrafya
 
-V. Murat Av Köşkü Hamamı, Kadıköy'de yer alan bir tarihi alan olarak coğrafi konumu itibariyle dikkat çekiyor. Bu alan, Marmara Bölgesi'nin önemli coğrafi özelliklerini taşıyor. Yeşil alanlar, tarihi yapılar ve bölgenin doğal güzellikleri, bu alanı ziyaret etmeye değer kılıyor. V. Murat Av Köşkü Hamamı, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulu ve bu alanda çeşitli bitki türleri ve hayvanlar yaşuyor. Bölgenin iklimi, ziyaretçiler için uygun koşullar sunuyor. Coğrafi konumu itibariyle, V. Murat Av Köşkü Hamamı, İstanbul'un önemli turisti ve kültürel merkezlerinden biri olarak kabul ediliyor.
+V. Murat Av Köşkü Hamamı, Kadıköy'de yer alan bir tarihi alan olarak coğrafi konumu itibariyle dikkat çekiyor. Bu alan, Marmara Bölgesi'nin önemli coğrafi özelliklerini taşıyor. Yeşil alanlar, tarihi yapılar ve bölgenin doğal güzellikleri, bu alanı ziyaret etmeye değer kılıyor. V. Bölgenin iklimi, ziyaretçiler için uygun koşullar sunuyor. Coğrafi konumu itibariyle, V. Murat Av Köşkü Hamamı, İstanbul'un önemli turisti ve kültürel merkezlerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ V. Murat Av Köşkü Hamamı, ziyaretçiler için güzel bir deneyim sunuyor. Bu
 ## İlginç Bilgiler
 
 - V. Murat Av Köşkü Hamamı, İstanbul'un önemli tarihi mekanlarından biri
-- Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulu
+
 - V. Murat Av Köşkü Hamamı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor
 - Bu alan, mevsimsel değişimlere göre farklı türlerin yaşam alanı oluyor
 - V. Murat Av Köşkü Hamamı, İstanbul'un önemli turisti ve kültürel merkezlerinden biri olarak kabul ediliyor

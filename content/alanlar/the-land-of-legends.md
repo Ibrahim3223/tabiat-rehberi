@@ -15,15 +15,15 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/The%20Land%20of%20Legends%20670DSC%200573%20%2848212748826%29.jpg","alt":"The Land of Legends manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/The_land_of_legends_in_Antalya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_land_of_legends_in_Antalya.jpg/1280px-The_land_of_legends_in_Antalya.jpg","alt":"The Land of Legends - The land of legends in Antalya","credit":"Soul Flora","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Hyper_Coaster_Land_of_Legends_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyper_Coaster_Land_of_Legends_1.jpg/1280px-Hyper_Coaster_Land_of_Legends_1.jpg","alt":"The Land of Legends - Hyper Coaster Land of Legends 1","credit":"Philippe-Minh Nguyen","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Land_of_Legends_670DSC_0575_%2848212801987%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Land_of_Legends_670DSC_0575_%2848212801987%29.jpg/1280px-The_Land_of_Legends_670DSC_0575_%2848212801987%29.jpg","alt":"The Land of Legends - The Land of Legends 670DSC 0575 (48212801987)","credit":"János Korom Dr.  &gt;17 Million views from Wien, Austria","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/da/The_Land_of_Legends_670DSC_0579_%2848212798612%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Land_of_Legends_670DSC_0579_%2848212798612%29.jpg/1280px-The_Land_of_Legends_670DSC_0579_%2848212798612%29.jpg","alt":"The Land of Legends - The Land of Legends 670DSC 0579 (48212798612)","credit":"János Korom Dr.  &gt;17 Million views from Wien, Austria","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/69/The_Land_of_Legends_810DSC_0363_%2848307253601%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Land_of_Legends_810DSC_0363_%2848307253601%29.jpg/1280px-The_Land_of_Legends_810DSC_0363_%2848307253601%29.jpg","alt":"The Land of Legends - The Land of Legends 810DSC 0363 (48307253601)","credit":"János Korom Dr.  &gt;17 Million views from Wien, Austria","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/The%20Land%20of%20Legends","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110199633","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan The Land of Legends, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir."
-keywords: ["The Land of Legends","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q110199633"
 ---
 
 # The Land of Legends
 
-The Land of Legends, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. The Land of Legends, ziyaretçilerini bir doğa cennetine davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. The Land of Legends, aynı zamanda bir gezi alanı olarak da hizmet vermektedir. Ziyaretçiler, bu yeşil alanda doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler.
+ The Land of Legends, ziyaretçilerini bir doğa cennetine davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. The Land of Legends, aynı zamanda bir gezi alanı olarak da hizmet vermektedir. Ziyaretçiler, bu yeşil alanda doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler.
 
 ## Tarihçe
 
@@ -42,8 +42,6 @@ The Land of Legends, çeşitli bitki türleri ile kaplı bir yeşil alandır. Bu
 The Land of Legends, ziyaretçilerini, geniş bir yeşil alana davet ediyor. Ziyaretçiler, bu alanda, doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler. The Land of Legends, aynı zamanda, bir gezi alanı olarak da hizmet vermekte olup, ziyaretçiler, burada, farklı türlerde bitkiler ve hayvanlar ile karşılaşabilirler. The Land of Legends'i ziyaret etmek için en iyi mevsim, ilkbahar ve yaz aylarıdır. Bu aylarda, hava sıcaklığı, ziyaretçilerin, rahat bir şekilde, doğa yürüyüşü yapmasına veya piknik yapmasına olanak sağlamaktadır.
 
 ## İlginç Bilgiler
-
-- The Land of Legends, 140 hektarlık bir yeşil alana sahiptir.
 
 - The Land of Legends, İç Anadolu Bölgesi'nde yer alan bir yeşil alandır.
 - Bu alan, çeşitli bitki türleri ile kaplı olup, zengin bir fauna ile karşılaşma mümkün.

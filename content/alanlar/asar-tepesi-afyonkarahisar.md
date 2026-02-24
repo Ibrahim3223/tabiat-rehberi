@@ -29,7 +29,7 @@ wikidata_id: "Q31531696"
 
 # Asar Tepesi (Afyonkarahisar)
 
-Asar Tepesi, Afyonkarahisar'ın gözde noktalarından biri olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Ege Bölgesi'nin coğrafi yapısını güzel bir şekilde yansıtır. Asar Tepesi, şehrin merkezine yakın bir konumda yer alır ve şehre hakim bir noktada . Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu da burayı doğa severler için bir cennet haline getirir. Asar Tepesi, aynı zamanda tarihi bir geçmişe sahiptir ve buradaki kalıntılar, geçmişin izlerini taşır.
+Asar Tepesi, Afyonkarahisar'ın gözde noktalarından biri olarak dikkat çeker. Asar Tepesi, şehrin merkezine yakın bir konumda yer alır ve şehre hakim bir noktada . Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu da burayı doğa severler için bir cennet haline getirir. Asar Tepesi, aynı zamanda tarihi bir geçmişe sahiptir ve buradaki kalıntılar, geçmişin izlerini taşır.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ Elazig-Mardin-Mardin Fidanligi Fistik Cami'nin tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Elazig-Mardin-Mardin Fidanligi Fistik Cami, coğrafi olarak İç Anadolu Bölgesi'nin sınırında yer alır. Bu bölgenin coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. İklim, mevsimsel değişimlere göre farklılık gösterir ve bu, bölgenin güzelliğini daha da artırır. Çevre, tarihi eserlerle dolu ve ziyaretçilere geniş bir gezi alanı sunar. 140 hektarlık bu alan, ziyaretçilerin doğayı keşfetmelerine olanak sağlar. Bu mekanın coğrafi konumu, ziyaretçilere geniş bir gezi alanı sunar ve çeşitli faaliyetler için idealdir.
+Elazig-Mardin-Mardin Fidanligi Fistik Cami, coğrafi olarak İç Anadolu Bölgesi'nin sınırında yer alır. Bu bölgenin coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. İklim, mevsimsel değişimlere göre farklılık gösterir ve bu, bölgenin güzelliğini daha da artırır. Çevre, tarihi eserlerle dolu ve ziyaretçilere geniş bir gezi alanı sunar. Bu mekanın coğrafi konumu, ziyaretçilere geniş bir gezi alanı sunar ve çeşitli faaliyetler için idealdir.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ Elazig-Mardin-Mardin Fidanligi Fistik Cami'ni ziyaret etmek, doğa severler ve t
 
 - Mardin'in tarihi önemi'ı
 - İç Anadolu Bölgesi'nin sınırında yer alır
-- 140 hektarlık yeşil alan
+
 - Tarihi eserlerin ve doğal güzelliklerin bir arada bulunması
 - Varius medeniyetlerin izlerini taşır

@@ -36,7 +36,7 @@ Alemli Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Alemli Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak, geniş ve dalgalı arazilerle çevrilidir. Bu tepe, bölgenin iklim koşullarına uygun olarak, çeşitli bitki türleri ve fauna örnekleriyle zengin bir ekosisteme sahiptir. Alemli Tepe'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve bölgenin doğal güzelliklerini keşfetme fırsatı verir. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlikte, çeşitli coğrafi özellikler bulunur. Alemli Tepe'nin coğrafyası, bölgenin jeolojik yapısını ve iklim koşullarını yansıtan bir yapıya sahiptir. Bu tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir noktadır.
+Alemli Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak, geniş ve dalgalı arazilerle çevrilidir. Bu tepe, bölgenin iklim koşullarına uygun olarak, çeşitli bitki türleri ve fauna örnekleriyle zengin bir ekosisteme sahiptir. Alemli Tepe'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve bölgenin doğal güzelliklerini keşfetme fırsatı verir. Alemli Tepe'nin coğrafyası, bölgenin jeolojik yapısını ve iklim koşullarını yansıtan bir yapıya sahiptir. Bu tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Alemli Tepe, ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle ka
 - Alemli Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak bilinir.
 - Bu tepe, tarih boyunca stratejik konumu nedeniyle önemli bir yerleşim ve geçiş noktası olarak kullanılmıştır.
 - Alemli Tepe, ziyaretçilere bir zaman yolculuğu fırsatı sunar ve tarihin izlerini keşfetmek isteyenler için önemli bir destinasyondur.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlikte, çeşitli coğrafi özellikler bulunur.
+
 - Alemli Tepe, bir bütün olarak doğa severler ve fauna meraklıları için ideal bir gezi noktasıdır.

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşleri","Kampçılık","Photography"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg","alt":"Bolu-Aladag Saricam 2","caption":"Bolu-Aladag Saricam 2","credit":"Bolu Gölcük Tabiat 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227555","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin doğa harikalarından biri olan Bolu-Aladag Saricam 2, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Bolu","Aladag","Saricam","milli park","doğa","yeşil alan","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227555"
@@ -41,8 +41,6 @@ Bolu-Aladag Saricam 2, çeşitli bitki türleri ve zengin fauna ile dikkat çekm
 Bolu-Aladag Saricam 2'yi ziyaret etmek için, ziyaretçilerin milli parka ulaşmaları gerekmektedir. Milli parka ulaşım, çeşitli ulaşım araçları ile sağlanabilir. Ziyaretçiler, bu güzel mekanda doğayla iç içe olmanın keyfini çıkarabilirler. Bolu-Aladag Saricam 2, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur. Ziyaretçiler, milli parkta çeşitli etkinlikler yapabilirler. Milli parkın güzelliği ve zenginliği, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## İlginç Bilgiler
-
-- Bolu-Aladag Saricam 2, 140 hektarlık yeşil alanına sahiptir.
 
 - Bolu-Aladag Saricam 2, Karadeniz Bölgesi'nde yer alan bir milli parktır.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.

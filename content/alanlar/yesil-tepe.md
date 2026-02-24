@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","manzara seyri","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Yeşil Tepe","caption":"Yeşil Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388609","tip":"genel"}]
-description: "Tortum, Erzurum'da yer alan Yeşil Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
+
 keywords: ["Yeşil Tepe","Tortum","Erzurum","Doğu Anadolu Bölgesi","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388609"
@@ -49,7 +49,6 @@ Yeşil Tepe, ziyaretçilerine doğanın güzelliğini sunmakla kalmaz, aynı zam
 
 ## İlginç Bilgiler
 
-- Yeşil Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Yeşil Tepe, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir
 - Yeşil Tepe, ziyaretçilerine doğanın güzelliğini sunmakla kalmaz, aynı zamanda bölgenin tarihi ve kültürel değerlerini de gözler önüne serer
 - Yeşil Tepe, çeşitli bitki türlerine ev sahipliği yapar

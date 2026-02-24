@@ -14,7 +14,7 @@ aktiviteler: ["Yaban hayatı izleme","Doğa yürüyüşü","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Yeşilöz Yaban Hayatı Geliştirme Sahası","caption":"Yeşilöz Yaban Hayatı Geliştirme Sahası","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%C3%B6z%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q119442770","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nde yer alan Yeşilöz Yaban Hayatı Geliştirme Sahası, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan"
+
 keywords: ["Yeşilöz","Yaban Hayatı Geliştirme Sahası","İç Anadolu Bölgesi","doğal alan","yaban hayatı","korunan bölge"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q119442770"
@@ -41,8 +41,6 @@ Yeşilöz Yaban Hayatı Geliştirme Sahası, zengin bir flora ve fauna ile dikka
 Yeşilöz Yaban Hayatı Geliştirme Sahası, ziyaretçilere doğal güzelliğini keşfetme fırsatı sunar. Bu saha, yaban hayatının güzelliğini yakından görme fırsatı verir ve ziyaretçiler, çeşitli bitki türleri ve canlıları görebilir. Ziyaretçiler, buraya nasıl gidilir, ne zaman gidilir ve ne yapılır gibi soruların cevaplarını öğrenmek için bu rehberi kullanabilir. Yeşilöz Yaban Hayatı Geliştirme Sahası, ziyaretçilere yaban hayatının güzelliğini keşfetme fırsatı sunar ve bu doğal güzelliği korumak için önemli bir rol oynar.
 
 ## İlginç Bilgiler
-
-- Yeşilöz Yaban Hayatı Geliştirme Sahası, 140 hektarlık bir alanı kapsar.
 
 - Yeşilöz Yaban Hayatı Geliştirme Sahası, yaban hayatının korunması için önemli bir merkezdir.
 - Bu saha, çeşitli bitki türleri ve canlılar ile dikkat çeker.

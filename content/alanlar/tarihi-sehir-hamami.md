@@ -30,7 +30,7 @@ wikidata_id: "Q131738452"
 
 # Tarihi Şehir Hamamı
 
-Tarihi Şehir Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Çermik/Diyarbakır'da bulunan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar. Tarihi Şehir Hamamı, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini etkileyen bir mekandır. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
+Tarihi Şehir Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Tarihi Şehir Hamamı, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini etkileyen bir mekandır. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tarihi Şehir Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Tarihi Şehir Hamamı, Çermik/Diyarbakır'da yer alan bir doğal güzelliktir. Bu mekan, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle dağlık ve engebeli bir araziye sahiptir. Tarihi Şehir Hamamı'nın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerine geniş bir açık alan sunar. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır. İklim, genellikle sıca ve kura olup, ziyaretçilerin bu durumdan etkilenmemesi için önlem alması gerekir. Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de coğrafi özellikleri ile unutulmaz bir deneyim sunar.
+Tarihi Şehir Hamamı, Çermik/Diyarbakır'da yer alan bir doğal güzelliktir. Bu mekan, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle dağlık ve engebeli bir araziye sahiptir. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır. İklim, genellikle sıca ve kura olup, ziyaretçilerin bu durumdan etkilenmemesi için önlem alması gerekir. Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de coğrafi özellikleri ile unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Tarihi Şehir Hamamı, çeşitli bitki türleri ve fauna ile ziyaretçilerini et
 
 ## İlginç Bilgiler
 
-- Tarihi Şehir Hamamı, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
 - Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile unutulmaz bir deneyim sunar.
 - Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkileyen önemli bir unsurdur.

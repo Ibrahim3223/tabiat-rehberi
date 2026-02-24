@@ -22,7 +22,7 @@ wikidata_id: "Q108225547"
 
 # Gökova Sit Alanı
 
-Gökova Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan, doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir destinasyondur. Bu bölge, 200 futbol sahası büyüklüğünde bir alanı kaplayan geniş arazisiyle, ziyaretçilerini doğanın kucağına davet ediyor. Gökova Sit Alanı, ziyaretçilerine zengin bir flora ve fauna sunuyor. Burada, çeşitli bitkiler ve hayvanlar, ziyaretçilerin ilgisini çekiyor. Bu alan, aynı zamanda, tarihi geçmişiyle de dikkat çekiyor. Tarihi kalıntılar ve eserler, ziyaretçilerin ilgisini çekerek, bir zaman yolculuğuna çıkarıyor.
+ Gökova Sit Alanı, ziyaretçilerine zengin bir flora ve fauna sunuyor. Burada, çeşitli bitkiler ve hayvanlar, ziyaretçilerin ilgisini çekiyor. Bu alan, aynı zamanda, tarihi geçmişiyle de dikkat çekiyor. Tarihi kalıntılar ve eserler, ziyaretçilerin ilgisini çekerek, bir zaman yolculuğuna çıkarıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gökova Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine kadar uzanıyor.
 
 ## Coğrafya
 
-Gökova Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş araziler ve doğal güzelliklerle çevrili. Bu bölge, 140 hektarlık bir alanı kapsıyor. Burada, çeşitli araziler, ziyaretçilerin ilgisini çekiyor. Dağlar, ovalar ve vadiler, bu bölgenin coğrafi yapısını oluşturuyor. Gökova Sit Alanı, aynı zamanda, iklimsel olarak, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri gösteriyor. Kışları soğuk, yazları sıcak ve kurak olan bu iklim, ziyaretçilerin, doğa ile iç içe bir gezi deneyimi yaşamasına olanak tanıyor. Bu bölgenin coğrafi yapısı, ziyaretçilere, çeşitli gezi olanakları sunuyor. Yürüyüş, trekking ve doğa gözlemciliği, bu bölgede yapılan popüler aktiviteler arasında yer alıyor.
+Gökova Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş araziler ve doğal güzelliklerle çevrili. Burada, çeşitli araziler, ziyaretçilerin ilgisini çekiyor. Dağlar, ovalar ve vadiler, bu bölgenin coğrafi yapısını oluşturuyor. Gökova Sit Alanı, aynı zamanda, iklimsel olarak, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri gösteriyor. Kışları soğuk, yazları sıcak ve kurak olan bu iklim, ziyaretçilerin, doğa ile iç içe bir gezi deneyimi yaşamasına olanak tanıyor. Bu bölgenin coğrafi yapısı, ziyaretçilere, çeşitli gezi olanakları sunuyor. Yürüyüş, trekking ve doğa gözlemciliği, bu bölgede yapılan popüler aktiviteler arasında yer alıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Gökova Sit Alanı, ziyaretçilerine, çeşitli gezi olanakları sunuyor. Yürü
 
 ## İlginç Bilgiler
 
-- Gökova Sit Alanı, 140 hektarlık bir alanı kapsıyor.
 - Bu bölge, yüzyıllar öncesine kadar uzanan bir tarihi geçmişi sahip.
 - Gökova Sit Alanı, ziyaretçilerine, zengin bir flora ve fauna sunuyor.
 - Bu bölgede, çeşitli bitkiler ve hayvanlar, ziyaretçilerin ilgisini çekiyor.

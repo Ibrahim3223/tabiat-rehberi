@@ -49,7 +49,7 @@ Mistaino Tepesi'ni ziyaret etmek, Mardin ilinin doğal güzelliklerini keşfetme
 ## İlginç Bilgiler
 
 - Mistaino Tepesi, Mardin ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Mistaino Tepesi, çeşitli flora ve fauna türlerine ev sahipliği yapar.
 - Bu tepe, Mardin ilinin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır.
 - Mistaino Tepesi'ni ziyaret etmek, Mardin ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir oportunite sunar.

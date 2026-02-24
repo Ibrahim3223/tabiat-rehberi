@@ -21,15 +21,15 @@ aktiviteler: ["denize girme","doğa yürüyüşü","picnic","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Özel Hamam","caption":"Özel Hamam","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zel%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739041","tip":"genel"}]
-description: "Muğla'nın Milas ilçesinde yer alan Özel Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
-keywords: ["Özel Hamam","Milas","Muğla","Ege Bölgesi","plaj","yeşil alan","futbol sahası"]
+"
+
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739041"
 ---
 
 # Özel Hamam
 
- Bu alan, ziyaretçilerini doğal güzellikleriyle büyülüyor. Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer. Yeşil alanın büyüklüğü, ziyaretçilerin doğayla iç içe olmasını sağlıyor. 140 hektarlık bu yeşil alan, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Bu alan, ziyaretçilerini doğal güzellikleriyle büyülüyor. Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer. Yeşil alanın büyüklüğü, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131739041"
 
 ## Coğrafya
 
-Özel Hamam, Muğla'nın Milas ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin en güzel yerlerinden biri olarak biliniyor. 140 hektarlık yeşil alan, ziyaretçilerini doğal güzellikleriyle büyülüyor. Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer. Yeşil alanın büyüklüğü, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Özel Hamam'ın coğrafi konumu, ziyaretçilerin Muğla'nın diğer güzelliklerini keşfetmesine de olanak sağlıyor. Ege Bölgesi'nin iklimi, Özel Hamam'ı ziyaret etmek için ideal bir ortam sunuyor.
+Özel Hamam, Muğla'nın Milas ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin en güzel yerlerinden biri olarak biliniyor. Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer. Yeşil alanın büyüklüğü, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Özel Hamam'ın coğrafi konumu, ziyaretçilerin Muğla'nın diğer güzelliklerini keşfetmesine de olanak sağlıyor. Ege Bölgesi'nin iklimi, Özel Hamam'ı ziyaret etmek için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

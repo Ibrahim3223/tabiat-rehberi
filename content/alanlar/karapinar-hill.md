@@ -21,7 +21,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Karap%C4%B1nar%3B_Meke_G%C3%B6l%C3%BC.JPG","alt":"Karapınar Hill manzarası","credit":"Christian1311","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karap%C4%B1nar%20Hill","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389111","tip":"genel"}]
-description: "Erzurum'un doğusunda yer alan Karapınar Hill, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir alana sahiptir."
+"
 keywords: ["Karapınar Hill","Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389111"
@@ -29,7 +29,7 @@ wikidata_id: "Q31389111"
 
 # Karapınar Hill
 
- Bu bölge, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. 140 hektarlık alan, geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir.
+ Bu bölge, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir.
 
 ## Tarihçe
 
@@ -37,19 +37,17 @@ Karapınar Hill'in tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlere e
 
 ## Coğrafya
 
-Karapınar Hill, Erzurum'un doğusunda yer alan bir tepe olarak coğrafi konumu ile dikkat çekmektedir. Bu bölge, 140 hektarlık yeşil alanı ile geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill'in coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir. Karapınar Hill'in coğrafyası, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır.
+Karapınar Hill, Erzurum'un doğusunda yer alan bir tepe olarak coğrafi konumu ile dikkat çekmektedir. Karapınar Hill'in coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir. Karapınar Hill'in coğrafyası, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır.
 
 ## Flora ve Fauna
 
-Karapınar Hill, doğal güzelliği ile birlikte ziyaretçilere çeşitli flora ve fauna sunmaktadır. Bu bölge, 140 hektarlık yeşil alanı ile geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir. Bu bölge, çeşitli bitki türleri ve hayvanlar ile birlikte ziyaretçilere doğal güzelliğini keşfetme fırsatı vermektedir. Karapınar Hill'in flora ve fauna, bu bölgenin önemini ve ziyaretçilere neler sunabileceğini göstermektedir.
+Karapınar Hill, doğal güzelliği ile birlikte ziyaretçilere çeşitli flora ve fauna sunmaktadır. Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir. Bu bölge, çeşitli bitki türleri ve hayvanlar ile birlikte ziyaretçilere doğal güzelliğini keşfetme fırsatı vermektedir. Karapınar Hill'in flora ve fauna, bu bölgenin önemini ve ziyaretçilere neler sunabileceğini göstermektedir.
 
 ## Ziyaret Bilgileri
 
 Karapınar Hill'i ziyaret etmek, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmaktadır. Karapınar Hill, ziyaretçilerine tarihi geçmişini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır. Karapınar Hill'i ziyaret etmek, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir.
 
 ## İlginç Bilgiler
-
-- Karapınar Hill, 140 hektarlık yeşil alanı ile geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır.
 
 - Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmaktadır.
 - Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır.

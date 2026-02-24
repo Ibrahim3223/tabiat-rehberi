@@ -29,7 +29,7 @@ wikidata_id: "Q131390613"
 
 # Abapuş-i Veli Türbesi
 
-Abapuş-i Veli Türbesi, Afyonkarahisar'ın merkezinde, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir yapıdır. Bu alanda, ziyaretçiler 200 futbol sahası büyüklüğünde bir yeşil alanın içerisinde huzur bulabilirler. Abapuş-i Veli Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çekmektedir. Ziyaretçiler, bu türbenin tarihi öneminin yanı sıra, çevresindeki doğanın güzelliğini de keşfedebilirler. Abapuş-i Veli Türbesi, hem tarihi hem de doğal güzellik açısından ziyaretçilerini beklemektedir.
+ Abapuş-i Veli Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çekmektedir. Ziyaretçiler, bu türbenin tarihi öneminin yanı sıra, çevresindeki doğanın güzelliğini de keşfedebilirler. Abapuş-i Veli Türbesi, hem tarihi hem de doğal güzellik açısından ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abapuş-i Veli Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli mede
 
 ## Coğrafya
 
-Abapuş-i Veli Türbesi, Afyonkarahisar ilinin merkezinde yer almaktadır. Bu türbe, Ege Bölgesi'nin coğrafi güzelliklerini ziyaretçilerine sunmaktadır. Abapuş-i Veli Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer almaktadır. Bu alan, ziyaretçilere geniş bir açık alan sunmakta ve onları doğanın güzelliği ile baş başa bırakmaktadır. Abapuş-i Veli Türbesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta olup, ziyaretçiler bu doğal güzellikleri keşfedebilirler. Abapuş-i Veli Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellik açısından zengin bir deneyim sunmaktadır. Bu türbenin bulunduğu bölge, iklimi ve coğrafi yapısı ile ziyaretçilerini etkilemektedir.
+Abapuş-i Veli Türbesi, Afyonkarahisar ilinin merkezinde yer almaktadır. Bu türbe, Ege Bölgesi'nin coğrafi güzelliklerini ziyaretçilerine sunmaktadır. Bu alan, ziyaretçilere geniş bir açık alan sunmakta ve onları doğanın güzelliği ile baş başa bırakmaktadır. Abapuş-i Veli Türbesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta olup, ziyaretçiler bu doğal güzellikleri keşfedebilirler. Abapuş-i Veli Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellik açısından zengin bir deneyim sunmaktadır. Bu türbenin bulunduğu bölge, iklimi ve coğrafi yapısı ile ziyaretçilerini etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Abapuş-i Veli Türbesi'ni ziyaret etmek, tarihi ve doğal güzellik açısında
 ## İlginç Bilgiler
 
 - Abapuş-i Veli Türbesi, tarihi önemi ile dikkat çekmektedir.
-- Bu türbe, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer almaktadır.
+
 - Abapuş-i Veli Türbesi, ziyaretçilerine hem dini hem de kültürel bir deneyim sunmaktadır.
 - Bu türbenin bulunduğu bölge, ekolojik açıdan zengin bir alandır.
 - Abapuş-i Veli Türbesi, Ege Bölgesi'nin coğrafi güzelliklerini ziyaretçilerine sunmaktadır.

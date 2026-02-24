@@ -36,7 +36,7 @@ Bartıl Tepe'nin tarihi geçmişi, Güneydoğu Anadolu Bölgesi'nin tarihini anl
 
 ## Coğrafya
 
-Bartıl Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bölgenin en önemli coğrafi oluşumlarından biri. Tepe, etrafını çevreleyen dağlar ve vadiler ile birlikte, bir bütün olarak düşünüldüğünde, bölgenin coğrafi çeşitliliğini gösteriyor. Bu coğrafi çeşitlilik, tepeyi ziyaret edenler için benzersiz bir deneyim sunuyor. Bartıl Tepe'nin coğrafi konumu, aynı zamanda iklim koşullarını da etkiliyor. Bu bölge, genel olarak sıcak ve kurak bir iklime sahip, ancak tepe ve çevresindeki dağlar, iklimi daha serin ve nemli hale getirebiliyor. Bu tepe, coğrafi güzelliği ve çeşitliliği ile ziyaretçileri cezbediyor ve bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
+Bartıl Tepe, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Tepe, etrafını çevreleyen dağlar ve vadiler ile birlikte, bir bütün olarak düşünüldüğünde, bölgenin coğrafi çeşitliliğini gösteriyor. Bu coğrafi çeşitlilik, tepeyi ziyaret edenler için benzersiz bir deneyim sunuyor. Bartıl Tepe'nin coğrafi konumu, aynı zamanda iklim koşullarını da etkiliyor. Bu bölge, genel olarak sıcak ve kurak bir iklime sahip, ancak tepe ve çevresindeki dağlar, iklimi daha serin ve nemli hale getirebiliyor. Bu tepe, coğrafi güzelliği ve çeşitliliği ile ziyaretçileri cezbediyor ve bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bartıl Tepe, ziyaretçileri için önemli bir gezi destinasyonu. Bu tepe, hem d
 ## İlginç Bilgiler
 
 - Bartıl Tepe, Şırnak ilinin güneydoğu portionunda yer alıyor
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Bartıl Tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Bu tepe, coğrafi özellikleri ile dikkat çeken bir tepe
 - Bartıl Tepe, ziyaretçileri için önemli bir gezi destinasyonu

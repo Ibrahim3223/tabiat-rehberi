@@ -36,7 +36,7 @@ Deliktaş Tepesi'nin geçmişi, tarihi belgelerde net bir şekilde yer almıyor.
 
 ## Coğrafya
 
-Deliktaş Tepesi, Kars ilinin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafı, çeşitli bitki türleriyle çevrili. Deliktaş Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal güzelliklerini etkiliyor. Bu tepe, aynı zamanda bölgenin su kaynaklarını şekillendiren önemli bir faktör olarak kabul ediliyor. Deliktaş Tepesi'nin etrafı, zengin fauna yapısıyla dikkat çekiyor ve bu bölge, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir nokta olarak kabul ediliyor.
+Deliktaş Tepesi, Kars ilinin coğrafi yapısını şekillendiren önemli bir nokta. Deliktaş Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal güzelliklerini etkiliyor. Bu tepe, aynı zamanda bölgenin su kaynaklarını şekillendiren önemli bir faktör olarak kabul ediliyor. Deliktaş Tepesi'nin etrafı, zengin fauna yapısıyla dikkat çekiyor ve bu bölge, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Deliktaş Tepesi, Kars ilinin sınırları içerisinde yer alan bir tepe. Bu bö
 ## İlginç Bilgiler
 
 - Deliktaş Tepesi, Kars ilinin sınırları içerisinde yer alıyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Deliktaş Tepesi'nin etrafı, çeşitli bitki türleriyle çevrili.
 - Bu tepe, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir nokta olarak kabul ediliyor.
 - Deliktaş Tepesi, doğa severlerin ziyaret ettiği bir destinasyon.

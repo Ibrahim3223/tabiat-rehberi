@@ -48,8 +48,6 @@ Gök Tepe, ziyaretçiler için önemli bir destinasyon. Tepeye ulaşım, Kastamo
 
 ## İlginç Bilgiler
 
-- Gök Tepe, 140 hektarlık bir alanı kaplıyor
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde
 - Gök Tepe, deniz seviyesinden 1000 metre yukarıda bulunuyor
 - Bölgede, çeşitli ağaç türleri ve hayvanlar yaşiyor
 - Gök Tepe, ilkbahar ve yaz aylarında en güzel haliyle görülebilir

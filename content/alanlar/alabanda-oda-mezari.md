@@ -29,7 +29,7 @@ wikidata_id: "Q134728111"
 
 # Alabanda Oda Mezarı
 
-Alabanda Oda Mezarı, Aydın'ın Çine ilçesinde, Ege Bölgesi'nin kalbinde yer alan tarihi bir mezar kompleksi. Bu mezar, antik Alabanda kentinde bulunan, tarihi geçmişi ile dikkat çeken bir yapı. Alabanda Oda Mezarı, yaklaşık 140 hektarlık bir alanda, antik dünyanın izlerini taşıyor. 200 futbol sahası büyüklüğünde bir alanın üzerine inşa edilen bu mezar, ziyaretçilerini tarihin derinliklerine götürüyor. Alabanda Oda Mezarı'nın tarihi ve mimarisi, ziyaretçilerini büyülüyor ve onları antik dünyanın atmosferine çekiyor. Bu mezarın hikayesi, Ege Bölgesi'nin zengin tarihi mirasının bir parçasını oluşturuyor.
+Alabanda Oda Mezarı, Aydın'ın Çine ilçesinde, Ege Bölgesi'nin kalbinde yer alan tarihi bir mezar kompleksi. Bu mezar, antik Alabanda kentinde bulunan, tarihi geçmişi ile dikkat çeken bir yapı. Alabanda Oda Mezarı'nın tarihi ve mimarisi, ziyaretçilerini büyülüyor ve onları antik dünyanın atmosferine çekiyor. Bu mezarın hikayesi, Ege Bölgesi'nin zengin tarihi mirasının bir parçasını oluşturuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alabanda Oda Mezarı'nın tarihi geçmişi, antik Alabanda kentinin kuruluş dö
 
 ## Coğrafya
 
-Alabanda Oda Mezarı, Ege Bölgesi'nin Aydın ilinin Çine ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Mezarın bulunduğu alan, yaklaşık 140 hektarlık bir arazide, antik Alabanda kentinin kalıntıları arasında yer alıyor. Bu arazi, 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilere geniş bir alan sunuyor. Alabanda Oda Mezarı, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kuru bir iklime sahip, ancak mevsimsel değişimler, mezarın çevresindeki doğayı renkli bir paletle süsüyor. Bahar aylarında, mezarın etrafı, çiçeklerin rengarenk tonlarıyla doluyor, yaz aylarında ise, sıcak güneş ışıkları, mezarın taşlarını ısıtıyor. Kış aylarında, mezarın manzarası, yağmurların ardından, yeşilin farklı tonlarıyla süsleniyor. Alabanda Oda Mezarı'nın coğrafi konumu, Ege Bölgesi'nin doğal güzelliklerini ve tarihi değerlerini bir araya getiren bir nokta.
+Alabanda Oda Mezarı, Ege Bölgesi'nin Aydın ilinin Çine ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Alabanda Oda Mezarı, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kuru bir iklime sahip, ancak mevsimsel değişimler, mezarın çevresindeki doğayı renkli bir paletle süsüyor. Bahar aylarında, mezarın etrafı, çiçeklerin rengarenk tonlarıyla doluyor, yaz aylarında ise, sıcak güneş ışıkları, mezarın taşlarını ısıtıyor. Kış aylarında, mezarın manzarası, yağmurların ardından, yeşilin farklı tonlarıyla süsleniyor. Alabanda Oda Mezarı'nın coğrafi konumu, Ege Bölgesi'nin doğal güzelliklerini ve tarihi değerlerini bir araya getiren bir nokta.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Alabanda Oda Mezarı, ziyaretçilere, tarihin derinliklerine inme fırsatı sunu
 - Alabanda Oda Mezarı, antik Alabanda kentinde yer alıyor
 - Mezarın odaları, antik dünyanın mimari anlayışını ve sanatını gözler önüne seriyor
 - Alabanda Oda Mezarı, Ege Bölgesi'nin tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon
-- Mezarın bulunduğu alan, yaklaşık 140 hektarlık bir arazide, antik Alabanda kentinin kalıntıları arasında yer alıyor
+
 - Alabanda Oda Mezarı, ziyaretçilerine, tarihin derinliklerine inme fırsatı sunuyor

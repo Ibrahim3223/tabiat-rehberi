@@ -49,6 +49,6 @@ Koçkabanı Şelalesi'ni ziyaret etmek, doğa severler için önemli bir deneyim
 ## İlginç Bilgiler
 
 - Koçkabanı Şelalesi, Rize'nin en güzel şelalelerinden biri
-- şelale, 140 hektarlık bir alanda yer alıyor
+
 - bölgede, çeşitli bitki türleri ve zengin fauna mevcut
 - Koçkabanı Şelalesi, turizm açısından önemli bir nokta

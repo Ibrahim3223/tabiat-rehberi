@@ -52,6 +52,6 @@ Beyazıt Hamam Kültürü Müzesi'ni ziyaret etmek için, ziyaretçiler Fatih'te
 
 - Hamam kültürü, Osmanlı döneminde ortaya çıktı
 - Hamamlar, sosyal ve kültürel faaliyetler için de kullanılmaktaydı
-- Beyazıt Hamam Kültürü Müzesi, 140 hektarlık bir arazide kurulmuştur
+
 - Müze, flora ve fauna açısından zengin bir bölgede yer almaktadır
 - Müze, yıl boyunca ziyaretçilere açık olup, belirli gün ve saatlerde ziyaret edilebilir

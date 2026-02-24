@@ -14,7 +14,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","gözlem"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Koca Katran Lubnan Sediri","caption":"Koca Katran Lubnan Sediri","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Katran%20Lubnan%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227163","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Koca Katran Lubnan Sediri, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Koca Katran Lubnan Sediri","İç Anadolu Bölgesi","doğal alan","Lubnan sediri","orman","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227163"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227163"
 
 # Koca Katran Lubnan Sediri
 
- Bu bölge, Lubnan sedirlerinin yoğunluğu ve çeşitliliği ile dikkat çeker. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. Koca Katran Lubnan Sediri, bölgenin ekolojik dengesini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, Lubnan sedirlerinin yanı sıra, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+ Bu bölge, Lubnan sedirlerinin yoğunluğu ve çeşitliliği ile dikkat çeker. Koca Katran Lubnan Sediri, bölgenin ekolojik dengesini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, Lubnan sedirlerinin yanı sıra, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Koca Katran Lubnan Sediri'nin tarihi geçmişi, yüzyıllar boyunca süregelen b
 
 ## Coğrafya
 
-Koca Katran Lubnan Sediri, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alır. 140 hektarlık alan, Lubnan sedirleri ve diğer bitki türleriyle kaplıdır. Bu bölgede, iklim koşulları, bitki örtüsünün çeşitliliği ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunar. Koca Katran Lubnan Sediri, bölgenin coğrafi özellikleri ile birlikte, ziyaretçilere trekking, doğa yürüyüşü ve gibi aktiviteleri gerçekleştirebilecekleri bir ortam sağlar. Bölgenin coğrafi yapısı, aynı zamanda, çeşitli yaban hayvanlarının yaşam alanı olarak dikkat çeker. Bu milli park, ziyaretçilere, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
+Koca Katran Lubnan Sediri, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alır. Bu bölgede, iklim koşulları, bitki örtüsünün çeşitliliği ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunar. Koca Katran Lubnan Sediri, bölgenin coğrafi özellikleri ile birlikte, ziyaretçilere trekking, doğa yürüyüşü ve gibi aktiviteleri gerçekleştirebilecekleri bir ortam sağlar. Bölgenin coğrafi yapısı, aynı zamanda, çeşitli yaban hayvanlarının yaşam alanı olarak dikkat çeker. Bu milli park, ziyaretçilere, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

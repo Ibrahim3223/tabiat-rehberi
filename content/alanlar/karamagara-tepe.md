@@ -36,7 +36,7 @@ Karamağara Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe
 
 ## Coğrafya
 
-Karamağara Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alana sahip. Karamağara Tepe, coğrafi olarak çok çeşitli bir yapıya sahip. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Karamağara Tepe, aynı zamanda iklim olarak çok çeşitli bir yapıya sahip. Burada, ziyaretçiler dört mevsimi yaşayabilir. Karamağara Tepe, coğrafi olarak çok önemli bir noktada yer alıyor. Bu nedenle, buradaki coğrafya, çok çeşitli ve zengin. Karamağara Tepe, ziyaretçilerine doğayla baş başa bırakıyor. Burada, ziyaretçiler doğal güzelliklerle iç içe olabilirler. Karamağara Tepe, coğrafi olarak çok güzel bir yer. Buradaki manzara, çok güzel ve ziyaretçileri etkiliyor.
+Karamağara Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alıyor. Karamağara Tepe, coğrafi olarak çok çeşitli bir yapıya sahip. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Karamağara Tepe, aynı zamanda iklim olarak çok çeşitli bir yapıya sahip. Burada, ziyaretçiler dört mevsimi yaşayabilir. Karamağara Tepe, coğrafi olarak çok önemli bir noktada yer alıyor. Bu nedenle, buradaki coğrafya, çok çeşitli ve zengin. Karamağara Tepe, ziyaretçilerine doğayla baş başa bırakıyor. Burada, ziyaretçiler doğal güzelliklerle iç içe olabilirler. Karamağara Tepe, coğrafi olarak çok güzel bir yer. Buradaki manzara, çok güzel ve ziyaretçileri etkiliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Karamağara Tepe, ziyaretçilerine çok çeşitli bir deneyim sunuyor. Burada, z
 
 ## İlginç Bilgiler
 
-- Karamağara Tepe, 140 hektarlık bir alana sahip.
 - Karamağara Tepe, coğrafi olarak çok çeşitli bir yapıya sahip.
 - Karamağara Tepe, flora ve fauna açısından çok çeşitli ve zengin.
 - Karamağara Tepe, mevsimsel olarak çok çeşitli bir yapıya sahip.

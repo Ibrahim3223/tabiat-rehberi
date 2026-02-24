@@ -37,7 +37,7 @@ Behiç Erkin, Türk Silahlı Kuvvetlerinin kuruluşunda önemli bir rol oynayan 
 
 ## Coğrafya
 
-Behiç Erkin Kabri ve Anıt Mezarı, Eskişehir'in Tepebaşı ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumundadır. Alan, 140 hektarlık bir yeşil alan üzerine kurulmuş ve çevresindeki doğal güzelliklerle beraber ziyaretçilere geniş bir açık alan sunar. Coğrafi olarak çevredeki bölgede çeşitli doğal oluşumlar ve tarihi mekânlar bulunmaktadır. Behiç Erkin Kabri ve Anıt Mezarı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunan bir mekândır. Çevresinde bulunan diğer historical ve doğal mekânlar da ziyaretçilere geniş bir gezi alanı sunmaktadır.
+Behiç Erkin Kabri ve Anıt Mezarı, Eskişehir'in Tepebaşı ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumundadır. Coğrafi olarak çevredeki bölgede çeşitli doğal oluşumlar ve tarihi mekânlar bulunmaktadır. Behiç Erkin Kabri ve Anıt Mezarı, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunan bir mekândır. Çevresinde bulunan diğer historical ve doğal mekânlar da ziyaretçilere geniş bir gezi alanı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Behiç Erkin Kabri ve Anıt Mezarı, yılın her dönemi ziyaret edilebilir. Anc
 ## İlginç Bilgiler
 
 - Behiç Erkin, Türk Silahlı Kuvvetlerinin kuruluşunda önemli bir rol oynayan bir askeri liderdir.
-- Behiç Erkin Kabri ve Anıt Mezarı, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
 
 - Behiç Erkin'in yaşamı ve hizmetleri, Türk milletinin bağımsızlık mücadelesinin önemli bir parçası olarak görülmektedir.
 - Behiç Erkin Kabri ve Anıt Mezarı, sadece bir historical mekân değil, aynı zamanda bir doğal güzellik alanıdır.

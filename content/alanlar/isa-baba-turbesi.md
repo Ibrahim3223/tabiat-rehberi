@@ -50,7 +50,7 @@ wikidata_id: "Q131391607"
 ## İlginç Bilgiler
 
 - İsa Baba Türbesi, Tire'nin en önemli turizm noktalarından biri
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde
+
 - İsa Baba Türbesi, özellikle plaj severlerin ve doğaşığılarının ziyaret ettiği bir yer
 - Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
 - İsa Baba Türbesi, Ege Bölgesi'nin güzelliklerine bir örnek

@@ -28,7 +28,7 @@ wikidata_id: "Q31551778"
 
 # Geredelki Tepesi
 
-Geredelki Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta olarak ziyaretçilerini bekliyor. Bu tepe, Mardin şehir merkezine yakınlığıyla dikkat çekiyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Geredelki Tepesi, aynı zamanda Mardin'in tarihi geçmişi hakkında da bilgi veren önemli bir kültürel miras olarak kabul ediliyor.
+Geredelki Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta olarak ziyaretçilerini bekliyor. Geredelki Tepesi, aynı zamanda Mardin'in tarihi geçmişi hakkında da bilgi veren önemli bir kültürel miras olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Geredelki Tepesi'nin tarihi geçmişi, Mardin'in zengin kültürel mirasıyla i�
 
 ## Coğrafya
 
-Geredelki Tepesi, Mardin city merkezine yakın bir konumda yer alıyor ve şehrin doğal güzelliklerini sergiliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve birçok farklı bitki türünü barındırıyor. Geredelki Tepesi'nin coğrafi konumu, ziyaretçilerine Mardin şehrinin panoramik manzarasını sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu bölge, Mardin'in flora çeşitliliği hakkında bilgi veriyor. Geredelki Tepesi, aynı zamanda bölgenin iklimini ve coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin yüksekliği ve konumu, Mardin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir gözlem noktası sağlıyor.
+Geredelki Tepesi, Mardin city merkezine yakın bir konumda yer alıyor ve şehrin doğal güzelliklerini sergiliyor. Geredelki Tepesi'nin coğrafi konumu, ziyaretçilerine Mardin şehrinin panoramik manzarasını sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu bölge, Mardin'in flora çeşitliliği hakkında bilgi veriyor. Geredelki Tepesi, aynı zamanda bölgenin iklimini ve coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin yüksekliği ve konumu, Mardin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir gözlem noktası sağlıyor.
 
 ## Flora ve Fauna
 

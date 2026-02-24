@@ -28,7 +28,7 @@ wikidata_id: "Q97213092"
 
 # Çatak Üçgöl Şelalesi
 
-Rize'nin Çatak ilçesinde yer alan Çatak Üçgöl Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan ve doğa severlerin ziyaret etmekten keyif alacağı bir destinasyon. Bu şelale, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayacak.
+ Bu şelale, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -49,6 +49,6 @@ Rize'nin Çatak ilçesinde yer alan Çatak Üçgöl Şelalesi, yaklaşık 140 he
 ## İlginç Bilgiler
 
 - Şelalenin yüksekliği 200 metredir
-- Şelale, 140 hektarlık bir alanı kaplar
+
 - Bölge, çeşitli bitki türleri ile kaplıdır
 - Fauna, bölgenin ekolojik dengesini korumaya yardımcı olur

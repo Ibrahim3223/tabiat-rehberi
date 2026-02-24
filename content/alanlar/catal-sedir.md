@@ -43,8 +43,6 @@ wikidata_id: "Q108227139"
 
 ## İlginç Bilgiler
 
-- Çatal Sedir, 140 hektarlık bir alanı kaplıyor.
-
 - Çatal Sedir, birçok farklı bitki türüne ev sahipliği yapıyor.
 - Bu bölge, birçok farklı hayvan türüne de ev sahipliği yapıyor.
 - Çatal Sedir, ekolojik olarak zengin ve çeşitli bir bölge olarak biliniyor.

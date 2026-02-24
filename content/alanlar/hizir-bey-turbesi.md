@@ -51,7 +51,6 @@ Hızır Bey Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin tarihi ve kültür
 ## İlginç Bilgiler
 
 - Hızır Bey Türbesi, Karadeniz Bölgesi'nin önemli tarihi ve turistik mekanlarından biridir.
-- Bu mekan, 140 hektarlık bir alanı kaplar.
 
 - Bu mekan, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Hızır Bey Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin tarihi ve kültürünü keşfetmeye davet eder.

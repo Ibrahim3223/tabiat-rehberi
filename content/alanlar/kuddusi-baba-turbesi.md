@@ -21,7 +21,7 @@ aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Kuddusi Baba Türbesi","caption":"Kuddusi Baba Türbesi","credit":"Elmasburnu2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuddusi%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390930","tip":"genel"}]
-description: "Bor/Niğde'de yer alan Kuddusi Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Bor/Niğde'de yer alan Kuddusi Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Kuddusi Baba Türbesi","Bor","Niğde","İç Anadolu Bölgesi","tarihi mekanlar","doğa alanları","turizm","gezi","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390930"

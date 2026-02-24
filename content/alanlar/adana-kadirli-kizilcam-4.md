@@ -30,7 +30,7 @@ Adana-Kadirli Kızılçam 4'ün tarihi geçmişi, bölgenin doğal güzelliğini
 
 ## Coğrafya
 
-Adana-Kadirli Kızılçam 4, Akdeniz Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bu bölgenin coğrafyası, dağlar, ormanlar ve akarsuların bir araya gelmesi ile oluşmuş ve ziyaretçilerine çeşitli coğrafi oluşumları gözlemleme fırsatı sunuyor. Milli parkın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alanın büyük bir kısmı ormanlık arazi ile kaplı. Bölgenin iklimi, Akdeniz ikliminin özellikleri ile uyumlu ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Kış aylarında yeşilin çeşitli tonlarını, ilkbahar ve sonbahar aylarında ise rengarenk çiçekleri izleme mümkün.
+Adana-Kadirli Kızılçam 4, Akdeniz Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bu bölgenin coğrafyası, dağlar, ormanlar ve akarsuların bir araya gelmesi ile oluşmuş ve ziyaretçilerine çeşitli coğrafi oluşumları gözlemleme fırsatı sunuyor. Bölgenin iklimi, Akdeniz ikliminin özellikleri ile uyumlu ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Kış aylarında yeşilin çeşitli tonlarını, ilkbahar ve sonbahar aylarında ise rengarenk çiçekleri izleme mümkün.
 
 ## Flora ve Fauna
 

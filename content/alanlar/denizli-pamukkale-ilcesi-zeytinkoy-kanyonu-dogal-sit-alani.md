@@ -22,7 +22,7 @@ wikidata_id: "Q108228992"
 
 # DENIZLI PAMUKKALE ILÇESI ZEYTINKÖY KANYONU DOGAL SIT ALANI
 
-Denizli Pamukkale ilçesinde yer alan Zeytinköy Kanyonu Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsar. Zeytinköy Kanyonu, eşsiz manzaraları, çeşitli bitki türleri ve zengin fauna çeşitliliği ile ziyaretçilerini büyüler. Doğal Sit Alanı, doğa yürüyüşleri, fotoğraf çekimi ve doğa gözlemi gibi faaliyetler için ideal bir destinasyondur.
+ Zeytinköy Kanyonu, eşsiz manzaraları, çeşitli bitki türleri ve zengin fauna çeşitliliği ile ziyaretçilerini büyüler. Doğal Sit Alanı, doğa yürüyüşleri, fotoğraf çekimi ve doğa gözlemi gibi faaliyetler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zeytinköy Kanyonu Doğal Sit Alanı, yüzyıllar boyunca oluşan jeolojik oluş
 
 ## Coğrafya
 
-Zeytinköy Kanyonu Doğal Sit Alanı, İç Anadolu Bölgesi'nde yer alır ve Denizli Pamukkale ilçesine bağlıdır. Bölge, coğrafi olarak çeşitli dağlar, vadiler ve ovalardan oluşur. Zeytinköy Kanyonu, kanyonun merkezinde yer alır ve yaklaşık 140 hektarlık bir alanı kapsar. Doğal Sit Alanı, deniz seviyesinden yüksek bir konumda yer alır ve iklimi karasal iklim özellikleri gösterir. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Zeytinköy Kanyonu'nun coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin fauna çeşitliliğinin oluşmasına olanak sağlar.
+Zeytinköy Kanyonu Doğal Sit Alanı, İç Anadolu Bölgesi'nde yer alır ve Denizli Pamukkale ilçesine bağlıdır. Bölge, coğrafi olarak çeşitli dağlar, vadiler ve ovalardan oluşur. Doğal Sit Alanı, deniz seviyesinden yüksek bir konumda yer alır ve iklimi karasal iklim özellikleri gösterir. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Zeytinköy Kanyonu'nun coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin fauna çeşitliliğinin oluşmasına olanak sağlar.
 
 ## Flora ve Fauna
 

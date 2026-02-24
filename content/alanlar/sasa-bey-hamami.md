@@ -50,7 +50,7 @@ Sasa Bey Hamamı, ziyaretçiler için birçok aktivite sunar. Bu bölgede, güne
 ## İlginç Bilgiler
 
 - Sasa Bey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilir
-- Bu bölge, 140 hektarlık bir alana sahiptir
+
 - Sasa Bey Hamamı'nın kumsalı, Ege Bölgesi'nin en güzel kumsallarından biri olarak bilinir
 - Bu bölgede, çeşitli bitki türleri ve hayvan türleri bulunur
 - Sasa Bey Hamamı, özellikle yaz aylarında ziyaretçilerin uğrak noktalarından biri olarak bilinir

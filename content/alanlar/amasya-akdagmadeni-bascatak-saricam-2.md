@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","fotoğraf çekme","doğa gözlemi","tarihî yapıla
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MOKFC04.jpg/960px-MOKFC04.jpg","alt":"Amasya-Akdagmadeni-Bascatak Saricam 2","caption":"Amasya-Akdagmadeni-Bascatak Saricam 2","credit":"MOKFC04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Akdagmadeni-Bascatak%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227542","tip":"genel"}]
-description: "Amasya'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor"
+
 keywords: ["Amasya","milli park","doğa","yeşil alan","fauna","flora","gezi","ziyaret","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227542"
@@ -42,7 +42,6 @@ Amasya-Akdagmadeni-Bascatak Saricam 2 milli parkını ziyaret etmek, doğa sever
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde
 - Bölgede çeşitli bitki türleri ve zengin fauna found
 - Tarihi yapılar ve kalıntılar, geçmişin izlerini taşıyor
 - Milli park, doğa severler ve gezi tutkunları için ideal bir destinasyon

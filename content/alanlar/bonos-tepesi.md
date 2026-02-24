@@ -36,7 +36,7 @@ Bonoş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Bonoş Tepesi, Kayseri'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Tepenin yüksekliği, çevredeki diğer tepelerden daha fazla olduğu için, buradan görülen manzara oldukça geniş ve etkileyici. Bonoş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, çeşitli bitki türleriyle örtülü. Tepenin eteklerinde ve çevresinde, ovalar ve vadiler yer alıyor ve bu bölgeler, insanların yaşamlarını sürdürmeleri için elverişli bir ortam sunuyor. Bonoş Tepesi'nin coğrafi yapısı, çeşitli iklim koşullarına uyum sağlamış ve bu nedenle, flora ve fauna çeşitliliği oldukça yüksek. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir karakter taşıyor ve bu, yerel bitki ve hayvan türlerinin çeşitliliğini etkiliyor.
+Bonoş Tepesi, Kayseri'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Tepenin yüksekliği, çevredeki diğer tepelerden daha fazla olduğu için, buradan görülen manzara oldukça geniş ve etkileyici. Tepenin eteklerinde ve çevresinde, ovalar ve vadiler yer alıyor ve bu bölgeler, insanların yaşamlarını sürdürmeleri için elverişli bir ortam sunuyor. Bonoş Tepesi'nin coğrafi yapısı, çeşitli iklim koşullarına uyum sağlamış ve bu nedenle, flora ve fauna çeşitliliği oldukça yüksek. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir karakter taşıyor ve bu, yerel bitki ve hayvan türlerinin çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Bonoş Tepesi, ziyaretçilerini tarihi geçmişi, coğrafi yapısı ve doğal g�
 
 ## İlginç Bilgiler
 
-- Bonoş Tepesi, 140 hektarlık bir alanı kaplıyor.
 - Tepenin etrafındaki ovalar ve vadiler, yürüyüş ve trekking için ideal bir ortam sunuyor.
 - Bonoş Tepesi, flora ve fauna çeşitliliği açısından oldukça zengin bir bölge.
 - Tepenin yüksekliği, çevredeki diğer tepelerden daha fazla.

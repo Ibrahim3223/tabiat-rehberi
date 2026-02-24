@@ -37,7 +37,7 @@ Patara Pseudoperipteros Tapınak Mezarının tarihi geçmişi, Likya Uygarlığ�
 
 ## Coğrafya
 
-Patara Pseudoperipteros Tapınak Mezarı, Kaş, Antalya'da encontrando. Bu bölge, Akdeniz Bölgesi'nin eşsiz coğrafi güzelliğini sunmakta. 140 hektarlık alan, denize yakın bir konumda yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. Patara Plajı'nın yakınlarında bulunan bu tapınak mezar, aynı zamanda doğa severler için de önemli bir destinasyon. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. İklim, Akdeniz iklimi özellikleri göstermekte ve genellikle ılıman ve güneşli bir hava hakim. Bu coğrafi konum, Patara Pseudoperipteros Tapınak Mezarını ziyaret etmek için ideal bir noktaya çeviriyor.
+Patara Pseudoperipteros Tapınak Mezarı, Kaş, Antalya'da encontrando. Bu bölge, Akdeniz Bölgesi'nin eşsiz coğrafi güzelliğini sunmakta. Patara Plajı'nın yakınlarında bulunan bu tapınak mezar, aynı zamanda doğa severler için de önemli bir destinasyon. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. İklim, Akdeniz iklimi özellikleri göstermekte ve genellikle ılıman ve güneşli bir hava hakim. Bu coğrafi konum, Patara Pseudoperipteros Tapınak Mezarını ziyaret etmek için ideal bir noktaya çeviriyor.
 
 ## Flora ve Fauna
 

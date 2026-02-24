@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Talat Göktepe Tabiat Parkı","caption":"Talat Göktepe Tabiat Parkı","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Talat%20G%C3%B6ktepe%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48790814","tip":"genel"}]
-description: "Mersin'in Erdemli ilçesinde yer alan Talat Göktepe Tabiat Parkı, 140 hektarlık alanı ile ziyaretçilerini çekiyor."
+"
 keywords: ["Talat Göktepe Tabiat Parkı","Erdemli","Mersin","Tabiat Parkı","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q48790814"
@@ -37,7 +37,7 @@ Talat Göktepe Tabiat Parkı, tarihi geçmişi ile birlikte ziyaretçilerini cez
 
 ## Coğrafya
 
-Talat Göktepe Tabiat Parkı, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanıyor. Talat Göktepe Tabiat Parkı, ziyaretçilerine geniş ve çeşitli bir coğrafi yapı sunuyor. Parkın 140 hektarlık alanı, ziyaretçilerin doğanın güzelliğini keşfetmeleri için ideal bir ortam sağlıyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir konumda yer alıyor.
+Talat Göktepe Tabiat Parkı, Mersin'in Erdemli ilçesinde yer alıyor ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanıyor. Talat Göktepe Tabiat Parkı, ziyaretçilerine geniş ve çeşitli bir coğrafi yapı sunuyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir konumda yer alıyor.
 
 ## Flora ve Fauna
 

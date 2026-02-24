@@ -30,7 +30,7 @@ Kahramanmaras-Andirin-Yesilova Kızılçam milli parkının tarihi geçmişi, b�
 
 ## Coğrafya
 
-Kahramanmaras-Andirin-Yesilova Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli coğrafi özellikler bulunduruyor. Milli park, yaklaşık 140 hektarlık bir alanı kapsıyor ve coğrafi yapısı itibariyle, ziyaretçilere farklı deneyim olanakları sunuyor. Bölgenin coğrafi yapısı, flora ve fauna çeşitliliği ile dikkat çekiyor. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve doğal güzellikleri keşfetme olanakları sunuyor. Ayrıca, milli parkın coğrafi yapısı, bölgenin iklimine de uygun olarak şekillenmiştir. Milli park, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtan bir yapıya sahiptir.
+Kahramanmaras-Andirin-Yesilova Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli coğrafi özellikler bulunduruyor. Bölgenin coğrafi yapısı, flora ve fauna çeşitliliği ile dikkat çekiyor. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve doğal güzellikleri keşfetme olanakları sunuyor. Ayrıca, milli parkın coğrafi yapısı, bölgenin iklimine de uygun olarak şekillenmiştir. Milli park, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtan bir yapıya sahiptir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kahramanmaras-Andirin-Yesilova Kızılçam milli parkını ziyaret etmek, doğa 
 ## İlginç Bilgiler
 
 - Kahramanmaras-Andirin-Yesilova Kızılçam milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri
-- Milli park, yaklaşık 140 hektarlık bir alanı kapsıyor
+
 - Bölgenin flora ve fauna çeşitliliği, ziyaretçilere farklı doğal güzellikleri keşfetme olanakları sunuyor
 - Milli park, mevsimsel değişimlere uygun olarak, flora ve fauna çeşitliliği ile dikkat çekiyor
 - Ziyaretçilerin, milli parkı ziyaret etmek için en uygun zaman, mevsimsel değişimlere bağlı olarak değişebilir

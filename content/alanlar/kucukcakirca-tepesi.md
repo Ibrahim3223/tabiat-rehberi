@@ -20,7 +20,7 @@ aktiviteler: ["tepeye çıkmak","manzara izlemek","çevreyi gezmek","tarihi öne
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Küçükçakırca Tepesi","caption":"Küçükçakırca Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7ak%C4%B1rca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211087","tip":"genel"}]
-description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Küçükçakırca Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzellikleri ve tarihi önemi ile dikkat çeker."
+ Doğal güzellikleri ve tarihi önemi ile dikkat çeker."
 keywords: ["Eskişehir","İç Anadolu Bölgesi","Küçükçakırca Tepesi","doğa","tarih","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211087"
@@ -36,7 +36,7 @@ Küçükçakırca Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel t
 
 ## Coğrafya
 
-Küçükçakırca Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alır ve 140 hektarlık bir alanı kapsar. Tepenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Bölge, genellikle düz veya hafif eğimli arazilerden oluşur ve tepenin etrafı, çeşitli bitki türleri ile kaplıdır. İklim, karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar soğuk geçer. Çevre, yaban hayatı için önemli bir yaşam alanıdır ve buradaki fauna, çeşitli hayvan türleri ile temsil edilir. Tepenin yüksekliği, bölgenin genel yüksekliği ile benzerlik gösterir ve burası, manzarası ile dikkat çeker. İç Anadolu Bölgesi'nin coğrafi özellikleri, Küçükçakırca Tepesi'ni özel kılar ve burası, doğal güzellikleri ile dikkat çeker.
+ Tepenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Bölge, genellikle düz veya hafif eğimli arazilerden oluşur ve tepenin etrafı, çeşitli bitki türleri ile kaplıdır. İklim, karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar soğuk geçer. Çevre, yaban hayatı için önemli bir yaşam alanıdır ve buradaki fauna, çeşitli hayvan türleri ile temsil edilir. Tepenin yüksekliği, bölgenin genel yüksekliği ile benzerlik gösterir ve burası, manzarası ile dikkat çeker. İç Anadolu Bölgesi'nin coğrafi özellikleri, Küçükçakırca Tepesi'ni özel kılar ve burası, doğal güzellikleri ile dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Küçükçakırca Tepesi'ni ziyaret etmek, ziyaretçilere farklı deneyimler sun
 
 ## İlginç Bilgiler
 
-- Küçükçakırca Tepesi, 140 hektarlık bir alanı kapsar
 - Tepenin etrafı, çeşitli bitki türleri ile kaplıdır
 - Burası, yaban hayatı için önemli bir yaşam alanıdır
 - Tepenin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihçesi ile bağlantılıdır

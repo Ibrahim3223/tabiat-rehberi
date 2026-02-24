@@ -49,7 +49,7 @@ Dinek Tepesi, ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe ve A
 ## İlginç Bilgiler
 
 - Dinek Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor.
-- Dinek Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
+
 - Dinek Tepesi, ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe.
 - Dinek Tepesi, Ankara'nın önemli gezi noktalarından biri olarak kabul ediliyor.
 - Dinek Tepesi, ziyaretçilerini Ankara'nın doğal güzellikleriyle tanıştırıyor.

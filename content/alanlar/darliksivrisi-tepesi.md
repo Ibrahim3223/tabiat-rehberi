@@ -28,7 +28,7 @@ wikidata_id: "Q31387869"
 
 # Darlıksivrisi Tepesi
 
-Darlıksivrisi Tepesi, Manisa ilinin gözde noktalarından biri olarak ziyaretçilerini etkileyen bir güzelliğe sahiptir. Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide yer alır. Doğa severler için bir cennet olan bu bölge, ziyaretçilerini güler yüzlü bir şekilde karşılar. Darlıksivrisi Tepesi, Ege Bölgesi'nin en güzel noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Tepenin manzarası, çevredeki diğer tepeleri ve vadileri kapsar, böylece ziyaretçiler bu bölgenin güzelliğini tam anlamıyla keşfedebilir.
+Darlıksivrisi Tepesi, Manisa ilinin gözde noktalarından biri olarak ziyaretçilerini etkileyen bir güzelliğe sahiptir. Doğa severler için bir cennet olan bu bölge, ziyaretçilerini güler yüzlü bir şekilde karşılar. Darlıksivrisi Tepesi, Ege Bölgesi'nin en güzel noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Tepenin manzarası, çevredeki diğer tepeleri ve vadileri kapsar, böylece ziyaretçiler bu bölgenin güzelliğini tam anlamıyla keşfedebilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Darlıksivrisi Tepesi'ni ziyaret etmek, doğa severler için bir zorunluluktur. 
 ## İlginç Bilgiler
 
 - Darlıksivrisi Tepesi, Manisa ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Darlıksivrisi Tepesi, Ege Bölgesi'nin en güzel noktalarından biri olarak bilinir.
 - Bu bölge, her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 - Tepenin manzarası, çevredeki diğer tepeleri ve vadileri kapsar.

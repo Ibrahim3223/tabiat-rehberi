@@ -22,7 +22,7 @@ wikidata_id: "Q108228038"
 
 # Adana-Maras-Hancerderesi
 
-Adana-Maras-Hancerderesi milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir milli parktır. Bu park, Adana ilinin zengin doğal güzelliklerini sunan bir bölgedir. 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerine geniş bir doğal ortam sunar. Parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin zenginliğini öğrenmesine olanak tanır. Adana-Maras-Hancerderesi milli parkı, ziyaretçilerini bekleyen bir doğa harikasıdır.
+ Bu park, Adana ilinin zengin doğal güzelliklerini sunan bir bölgedir. Parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin zenginliğini öğrenmesine olanak tanır. Adana-Maras-Hancerderesi milli parkı, ziyaretçilerini bekleyen bir doğa harikasıdır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Adana-Maras-Hancerderesi milli parkını ziyaret etmek, ziyaretçilere doğayı 
 
 ## İlginç Bilgiler
 
-- Adana-Maras-Hancerderesi milli parkı, yaklaşık 140 hektarlık bir alanı kapsar
 - Park, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir
 - Parkın flora ve fauna türleri, mevsimsel değişimlere göre şekillenir
 - Park, ziyaretçilerine çeşitli aktivite olanakları sunar

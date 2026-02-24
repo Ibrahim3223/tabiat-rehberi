@@ -38,7 +38,7 @@ Yıldırım Bayezid Türbesi, 14. yüzyılın sonlarında inşa edilmiştir. Tü
 
 ## Coğrafya
 
-Yıldırım Bayezid Türbesi, Bursa'nın Yıldırım ilçesinde yer alır. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi özellikleri ile uyumludur. Bölge, genel olarak ılıman bir iklim özelliği gösterir ve yıl boyunca ziyaret edilebilir. Türbenin çevresi, yeşillik alanlar ve tarihi yapılarla çevrilidir. Türbe, Bursa'nın merkezi bölgesine yakındır ve ulaşımı kolaydır. Yıldırım Bayezid Türbesi'nin coğrafi konumu, tarihi ve kültürel zenginliklerin bir arada bulunduğu bir bölgedir. Bursa, tarihi ve doğal güzellikleri ile ünlü bir şehirdir ve Yıldırım Bayezid Türbesi, bu güzelliklerin önemli bir parçasını oluşturur. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ile çevrilidir ve bu yeşil alan, ziyaretçilere dinlenme ve gezi imkanı sunar.
+Yıldırım Bayezid Türbesi, Bursa'nın Yıldırım ilçesinde yer alır. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi özellikleri ile uyumludur. Bölge, genel olarak ılıman bir iklim özelliği gösterir ve yıl boyunca ziyaret edilebilir. Türbenin çevresi, yeşillik alanlar ve tarihi yapılarla çevrilidir. Türbe, Bursa'nın merkezi bölgesine yakındır ve ulaşımı kolaydır. Yıldırım Bayezid Türbesi'nin coğrafi konumu, tarihi ve kültürel zenginliklerin bir arada bulunduğu bir bölgedir. Bursa, tarihi ve doğal güzellikleri ile ünlü bir şehirdir ve Yıldırım Bayezid Türbesi, bu güzelliklerin önemli bir parçasını oluşturur.
 
 ## Flora ve Fauna
 

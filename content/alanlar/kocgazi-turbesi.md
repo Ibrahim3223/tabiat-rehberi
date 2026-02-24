@@ -37,7 +37,7 @@ Koçgazi Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin tarihi hak
 
 ## Coğrafya
 
-Koçgazi Türbesi, Ege Bölgesi'nin coğrafi güzelliklerini bir araya getiren özel bir noktada yer alıyor. Sandıklı ilçesi, doğal güzellikleri ve tarihi mekanları ile dikkat çekiyor. Türbenin bulunduğu alan, 140 hektarlık bir genişliğe sahip ve bu genişlik, ziyaretçilere doğayı keşfetme imkanı sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi konumu, ziyaretçilere hem tarihi bir mekan hem de doğal güzellikleri keşfetme fırsatı sunuyor. Koçgazi Türbesi, Ege Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir destinasyon olarak kabul ediliyor. Bölgenin iklimi, ziyaretçilere yılın dört mevsiminde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin çeşitli tonlarını gösteren bölge, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
+Koçgazi Türbesi, Ege Bölgesi'nin coğrafi güzelliklerini bir araya getiren özel bir noktada yer alıyor. Sandıklı ilçesi, doğal güzellikleri ve tarihi mekanları ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi konumu, ziyaretçilere hem tarihi bir mekan hem de doğal güzellikleri keşfetme fırsatı sunuyor. Koçgazi Türbesi, Ege Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir destinasyon olarak kabul ediliyor. Bölgenin iklimi, ziyaretçilere yılın dört mevsiminde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin çeşitli tonlarını gösteren bölge, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
 
 ## Flora ve Fauna
 

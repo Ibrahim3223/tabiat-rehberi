@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kamp","fotoğraf çekimi","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/First_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-9.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Armut Tepesi","caption":"Armut Tepesi","credit":"First floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-9","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Armut%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389005","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin gizli güzelliği Armut Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
+
 keywords: ["Armut Tepesi","Bingöl","Doğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389005"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389005"
 
 # Armut Tepesi
 
-Armut Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde bulunan ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğa harikasıdır. Armut Tepesi, hem doğa severlerin hem de macera arayanların ilgisini çeken bir destinasyon olarak dikkat çeker. Burada, doğanın seslerini dinleyerek, güneşin doğuşunu ve batışını izleyerek, çevreyi keşfedere ve bol oksijenli havayı soluyarak huzur bulabilirsiniz.
+ Armut Tepesi, hem doğa severlerin hem de macera arayanların ilgisini çeken bir destinasyon olarak dikkat çeker. Burada, doğanın seslerini dinleyerek, güneşin doğuşunu ve batışını izleyerek, çevreyi keşfedere ve bol oksijenli havayı soluyarak huzur bulabilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Armut Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Armut Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu tepe, Bingöl ilinin merkezi ve çevresindeki dağlarla çevrili bir alanda bulunur. Armut Tepesi'nin coğrafi konumu, ziyaretçilerine, doğanın güzelliğini sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevreyi keşfetmek isteyenler için ideal bir destinasyondur. Armut Tepesi'nin coğrafi yapısı, dağlar, ormanlar ve yeşil alanlardan oluşur. Bu tepe, doğa severlerin ve macera arayanların ilgisini çeken bir yerdir. Armut Tepesi, ziyaretçilerine, doğanın güzelliğini, tarihin izlerini ve çevreyi keşfetme fırsatı sunar. Bu tepe, hem doğa hem de tarih açısından zengin bir destinasyondur.
+Armut Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu tepe, Bingöl ilinin merkezi ve çevresindeki dağlarla çevrili bir alanda bulunur. Armut Tepesi'nin coğrafi konumu, ziyaretçilerine, doğanın güzelliğini sunar. Armut Tepesi'nin coğrafi yapısı, dağlar, ormanlar ve yeşil alanlardan oluşur. Bu tepe, doğa severlerin ve macera arayanların ilgisini çeken bir yerdir. Armut Tepesi, ziyaretçilerine, doğanın güzelliğini, tarihin izlerini ve çevreyi keşfetme fırsatı sunar. Bu tepe, hem doğa hem de tarih açısından zengin bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -48,8 +48,6 @@ Armut Tepesi'ni ziyaret etmek, doğa severler ve macera arayanlar için ideal bi
 
 ## İlginç Bilgiler
 
-- Armut Tepesi, 140 hektarlık bir alanı kaplar
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar
 - Armut Tepesi, flora ve fauna açısından zengin bir bölgedir
 - Bu tepe, doğa severlerin ve macera arayanların ilgisini çeken bir destinasyon olarak dikkat çeker
 - Armut Tepesi, tarihin farklı dönemlerinde önemli bir yerleşim ve geçiş noktası olarak kullanılmıştır

@@ -37,7 +37,7 @@ Karnıyarık Tepe Tümülüsü, yüzyıllar boyunca bölgenin önemli tarihi ola
 
 ## Coğrafya
 
-Karnıyarık Tepe Tümülüsü, Ege Bölgesi'nin coğrafi güzelliklerini barındıran bir bölgede yer alır. Manisa'nın Salihli ilçesinde bulunan bu tümülüs, çevresi ile birlikte ziyaretçilere görsel bir şölen sunar. Yaklaşık 140 hektarlık bir alanı kaplayan Karnıyarık Tepe Tümülüsü, ziyaretçilere geniş bir tarihi alan sunar. Bu coğrafi konum, ziyaretçilere bölgeyi keşfetme fırsatı verir. Ege Bölgesi'nin iklimi, bu tümülüsün ziyaret edilmesini kolaylaştırır. Ziyaretçiler, tümülüsün coğrafi konumu hakkında bilgi sahibi olarak, burayı ziyaret edebilirler.
+Karnıyarık Tepe Tümülüsü, Ege Bölgesi'nin coğrafi güzelliklerini barındıran bir bölgede yer alır. Manisa'nın Salihli ilçesinde bulunan bu tümülüs, çevresi ile birlikte ziyaretçilere görsel bir şölen sunar. Bu coğrafi konum, ziyaretçilere bölgeyi keşfetme fırsatı verir. Ege Bölgesi'nin iklimi, bu tümülüsün ziyaret edilmesini kolaylaştırır. Ziyaretçiler, tümülüsün coğrafi konumu hakkında bilgi sahibi olarak, burayı ziyaret edebilirler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Karnıyarık Tepe Tümülüsü, ziyaretçilere tarihi bir yolculuk sunar. Ziyare
 ## İlginç Bilgiler
 
 - Karnıyarık Tepe Tümülüsü, Ege Bölgesi'nin tarihi hazinesi olarak bilinir
-- Bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplar
+
 - Ziyaretçiler, bu tümülüsün tarihini ve coğrafi konumunu öğrenmek için çeşitli kaynaklardan yararlanabilirler
 - Bu tümülüs, doğa severlerin ilgisini çeken bir destinasyon olarak bilinir
 - Ziyaretçilere, bu tümülüsün tarihi önemini öğrenmek için rehberlik hizmeti sunulur

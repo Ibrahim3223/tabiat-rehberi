@@ -50,7 +50,6 @@ Zeytinburnu Buz Adası, ziyaretçilerine çeşitli imkanlar sunar. Bu doğal ala
 
 ## İlginç Bilgiler
 
-- Zeytinburnu Buz Adası, yaklaşık olarak 140 hektarlık bir alanı kaplar.
 - Bu doğal alan, deniz ve kumsalın birleştiği noktada, ziyaretçilerine eşsiz bir deneyim sunar.
 - Zeytinburnu Buz Adası, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 - Bu doğal alan, mevsimsel değişimlere göre, farklı canlıları ve bitki türlerini barındırır.

@@ -29,7 +29,7 @@ wikidata_id: "Q131390996"
 
 # Mehmed Şemseddin Efendi Türbesi
 
-Mehmed Şemseddin Efendi Türbesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan önemli bir tarihi mekan. Bu türbe, yaklaşık 15. yüzyılda inşa edilen bir Osmanlı yapısı olarak dikkat çeker. 140 hektarlık bir alanın içinde yer almayan bu mekan, daha küçük bir alanı kaplar. Türbenin mimarisi, klasik Osmanlı tarzını yansıtır ve tarihi geçmişi ile ziyaretçilerini etkiler. Mehmed Şemseddin Efendi Türbesi, İstanbul'un zengin tarihi mirasını keşfetmek isteyenler için önemli bir destinasyon.
+Mehmed Şemseddin Efendi Türbesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan önemli bir tarihi mekan. Bu türbe, yaklaşık 15. yüzyılda inşa edilen bir Osmanlı yapısı olarak dikkat çeker. Türbenin mimarisi, klasik Osmanlı tarzını yansıtır ve tarihi geçmişi ile ziyaretçilerini etkiler. Mehmed Şemseddin Efendi Türbesi, İstanbul'un zengin tarihi mirasını keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

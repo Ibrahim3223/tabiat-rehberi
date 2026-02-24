@@ -36,7 +36,7 @@ Zarı Tepesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu tepe, yüzy
 
 ## Coğrafya
 
-Zarı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Bu tepe, bölgenin en yüksek noktalarından biri. Zarı Tepesi, etrafındaki ovaları ve dağları ile birlikte bir bütün oluşturuyor. Bu tepe, bölgenin iklimini de ediyor. Zarı Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, doğa severlerin ve fotoğraf tutkunlarının ilgisini çekiyor. Zarı Tepesi, 140 hektarlık bir alana sahip. Zarı Tepesi, Kilis il merkezine uzun bir mesafe uzaklıkta. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri.
+Zarı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Bu tepe, bölgenin en yüksek noktalarından biri. Zarı Tepesi, etrafındaki ovaları ve dağları ile birlikte bir bütün oluşturuyor. Bu tepe, bölgenin iklimini de ediyor. Zarı Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, doğa severlerin ve fotoğraf tutkunlarının ilgisini çekiyor. Zarı Tepesi, Kilis il merkezine uzun bir mesafe uzaklıkta. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Zarı Tepesi, ziyaretçilerine birçok aktivite sunuyor. Bu tepe, doğa severler
 ## İlginç Bilgiler
 
 - Zarı Tepesi, Kilis ilinin en önemli doğal güzelliklerinden biri.
-- Bu tepe, 140 hektarlık bir alana sahip.
 
 - Bu tepe, Kilis il merkezine uzun bir mesafe uzaklıkta.
 - Zarı Tepesi, her yıl birçok ziyaretçiyi ağırlıyor.

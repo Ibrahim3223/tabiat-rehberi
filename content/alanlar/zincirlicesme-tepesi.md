@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi yapıları ziyar
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Zincirliçeşme Tepesi","caption":"Zincirliçeşme Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zincirli%C3%A7e%C5%9Fme%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196335","tip":"genel"}]
-description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Zincirliçeşme Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
+"
 keywords: ["Zincirliçeşme Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32196335"

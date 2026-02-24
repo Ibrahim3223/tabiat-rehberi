@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","piknik","su sporları","kuş gözlemciliği
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Sakarya-Izmit-Kerpe-Sahilcami","caption":"Sakarya-Izmit-Kerpe-Sahilcami","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Izmit-Kerpe-Sahilcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228517","tip":"genel"}]
-description: "Marmara Bölgesi'nin saklı cenneti, 140 hektarlık yeşil alan"
+
 keywords: ["Sakarya","Marmara Bölgesi","milli park","doğa","yeşil alan","Sahilcami","Izmit","Kerpe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228517"

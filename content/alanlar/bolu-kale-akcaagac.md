@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","yaban hayatı izleme"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Bolu Kale-Akcaagac","caption":"Bolu Kale-Akcaagac","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Kale-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228092","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Bolu Kale-Akcaagac, 140 hektarlık geniş bir alanı kapsıyor."
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Bolu Kale-Akcaagac","İç Anadolu Bölgesi","doğa","milli park","gezilecek yerler","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228092"
@@ -30,7 +30,7 @@ Bolu Kale-Akcaagac'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu b
 
 ## Coğrafya
 
-Bolu Kale-Akcaagac, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Burada, geniş otlaklar ve ormanlık alanlar bulunuyor. Milli parkın coğrafyası, çeşitli bitki türlerinin yetişmesine uygun. İklim, karasal özellikleri taşıyor ve mevsimsel değişimler belirgin. Çevre, doğal güzellikleri ile ziyaretçileri etkileyen bir manzara sunuyor. Bolu Kale-Akcaagac, coğrafi çeşitliliği ile zengin bir doğa birikimine sahip. 140 hektarlık alanı, ziyaretçilere geniş bir keşif alanı sunuyor.
+Bolu Kale-Akcaagac, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Burada, geniş otlaklar ve ormanlık alanlar bulunuyor. Milli parkın coğrafyası, çeşitli bitki türlerinin yetişmesine uygun. İklim, karasal özellikleri taşıyor ve mevsimsel değişimler belirgin. Çevre, doğal güzellikleri ile ziyaretçileri etkileyen bir manzara sunuyor. Bolu Kale-Akcaagac, coğrafi çeşitliliği ile zengin bir doğa birikimine sahip.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu Kale-Akcaagac'ı ziyaret etmek, doğa severler için bir macera. Milli park
 
 ## İlginç Bilgiler
 
-- Bolu Kale-Akcaagac, 140 hektarlık bir alanı kapsıyor.
 - Milli park, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Bolu Kale-Akcaagac, flora ve fauna açısından zengin bir çeşitliliğe sahip.
 - Milli park, yılın her mevsiminde ziyaret edilebilir.

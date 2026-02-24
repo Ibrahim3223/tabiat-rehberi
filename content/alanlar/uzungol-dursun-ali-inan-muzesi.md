@@ -49,7 +49,6 @@ Uzungöl Dursun Ali İnan Müzesi'ni ziyaret etmek, hem bölgenin tarihini öğr
 
 ## İlginç Bilgiler
 
-- Uzungöl Dursun Ali İnan Müzesi, 140 hektarlık bir alan üzerinde kurulmuştur.
 - Müze, Uzungöl'ün tarihini ve kültürünü korumak amacıyla kurulmuştur.
 - Uzungöl, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden birisidir.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.

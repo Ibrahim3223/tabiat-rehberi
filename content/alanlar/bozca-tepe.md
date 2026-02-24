@@ -48,7 +48,6 @@ Bozca Tepe, ziyaretçilerini doğal güzelliği ile karşılar. Bu tepe, ziyaret
 
 ## İlginç Bilgiler
 
-- Bozca Tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış
 - Doğu Anadolu Bölgesi'nin Muş ilinde yer alır
 - Bozca Tepe, flora ve fauna açısından önemli bir destinasyon
