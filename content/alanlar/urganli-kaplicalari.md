@@ -20,7 +20,6 @@ aktiviteler: ["Termal su tedavisi","Dinlenme","Doğa yürüyüşleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pamukkale%2C_Turkey_%28ASTER%29.jpg/960px-Pamukkale%2C_Turkey_%28ASTER%29.jpg","alt":"Urganlı Kaplıcaları","caption":"Urganlı Kaplıcaları","credit":"Pamukkale, Turkey (ASTER)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Urganl%C4%B1%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31189587","tip":"genel"}]
-"
 keywords: ["Urganlı Kaplıcaları","Manisa","termal kaynak","Ege Bölgesi","kaplıca","turizm","sağlık"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31189587"

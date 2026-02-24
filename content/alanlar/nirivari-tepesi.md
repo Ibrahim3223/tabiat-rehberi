@@ -20,7 +20,6 @@ aktiviteler: ["Doğa Yürüyüşü","Kültür Gezisi","Fotoğrafçılık","Doğa
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Nirıvari Tepesi","caption":"Nirıvari Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nir%C4%B1vari%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553538","tip":"genel"}]
-"
 keywords: ["Nirıvari Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Yeşil Alan","Zengin Fauna","Doğa","Tepeler","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553538"

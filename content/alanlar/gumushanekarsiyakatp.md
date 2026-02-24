@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","kuş gözlemciliği","b
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"GÜMÜŞHANE_KARŞIYAKA_TP","caption":"GÜMÜŞHANE_KARŞIYAKA_TP","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%9CM%C3%9C%C5%9EHANE_KAR%C5%9EIYAKA_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228767","tip":"genel"}]
-"
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Gümüşhane","Karşıyaka"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228767"

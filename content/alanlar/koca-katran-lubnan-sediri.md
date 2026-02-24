@@ -14,7 +14,6 @@ aktiviteler: ["trekking","doğa yürüyüşü","gözlem"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Koca Katran Lubnan Sediri","caption":"Koca Katran Lubnan Sediri","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Katran%20Lubnan%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227163","tip":"genel"}]
-"
 keywords: ["Koca Katran Lubnan Sediri","İç Anadolu Bölgesi","doğal alan","Lubnan sediri","orman","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227163"

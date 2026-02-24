@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotoğrafçılık","Bitki İ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Haydarlar Gölü Sulak Alanı","caption":"Haydarlar Gölü Sulak Alanı","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarlar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229026","tip":"genel"}]
-"
 keywords: ["Haydarlar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Sulak Alanları","Korunan Alanlar","Doğa Turizmi","İç Anadolu'nun Gizli Cenneti"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229026"

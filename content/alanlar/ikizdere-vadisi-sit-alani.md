@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"İkizdere Vadisi Sit Alanı","caption":"İkizdere Vadisi Sit Alanı","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kizdere%20Vadisi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226750","tip":"genel"}]
-"
 keywords: ["İkizdere Vadisi","Sit Alanı","İç Anadolu Bölgesi","doğal alan","yeşil alan","fiziksel veriler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226750"

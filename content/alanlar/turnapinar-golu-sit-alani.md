@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","balık tutma","su sporları"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Turnapınar Gölü Sit Alanı","caption":"Turnapınar Gölü Sit Alanı","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turnap%C4%B1nar%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226224","tip":"genel"}]
-"
 keywords: ["Turnapınar Gölü","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Göl","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226224"

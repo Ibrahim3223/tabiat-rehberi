@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa keşfi","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","caption":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Karacam-Dogu%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228541","tip":"genel"}]
-"
 keywords: ["Mugla-Koycegiz-Karacam-Dogu Kizilagaci","milli park","Muğla","Koycegiz","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228541"

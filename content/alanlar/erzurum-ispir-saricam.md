@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Trekking","Kamp","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Erzurum-Ispir Saricam","caption":"Erzurum-Ispir Saricam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Ispir%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227560","tip":"genel"}]
-"
 keywords: ["Erzurum","Ispir","Saricam","Milli Park","Doğu Anadolu Bölgesi","Yeşil Alan","Doğal Güzelik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227560"

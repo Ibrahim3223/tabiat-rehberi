@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Tonya_Canik_%C5%9Eelalesi.jpg","alt":"Canikdere Şelalesi manzarası","credit":"Serhat Baştan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tonya_Canik_%C5%9Eelalesi.jpg/960px-Tonya_Canik_%C5%9Eelalesi.jpg","alt":"Canikdere Şelalesi","caption":"Canikdere Şelalesi","credit":"Tonya Canik Şelalesi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canikdere%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367202","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinden biri olan Canikdere Şelalesi, ziyaretçilerini büyüleyici bir doğa ile karşılıyor."

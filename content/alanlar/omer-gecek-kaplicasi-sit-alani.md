@@ -14,7 +14,6 @@ aktiviteler: ["Kaplıca ziyaretleri","Doğa yürüyüşleri","Bitki ve hayvan g�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Ömer Gecek Kaplıcası Sit Alanı","caption":"Ömer Gecek Kaplıcası Sit Alanı","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96mer%20Gecek%20Kapl%C4%B1cas%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226054","tip":"genel"}]
-"
 keywords: ["Ömer Gecek Kaplıcası","Sit Alanı","İç Anadolu Bölgesi","Kaplıca","Doğa","Turizm","Gezi","Tarihi Yerler","Doğal Güzellikler","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226054"

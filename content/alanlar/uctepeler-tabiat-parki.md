@@ -20,7 +20,6 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Flora ve Fauna Gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Üçtepeler Tabiat Parkı","caption":"Üçtepeler Tabiat Parkı","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7tepeler%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228269","tip":"genel"}]
-"
 keywords: ["Üçtepeler Tabiat Parkı","İç Anadolu Bölgesi","Tabiat Parkı","Doğa","Gezi","Türkiye","Park","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228269"

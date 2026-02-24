@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/34/Dalyan_Lake_S%C3%BCl%C3%BCng%C3%BCr_in_2016_2769.jpg","alt":"Dalyan Gölü (Bursa) manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dalyan_Lake_S%C3%BCl%C3%BCng%C3%BCr_in_2016_2767.jpg/960px-Dalyan_Lake_S%C3%BCl%C3%BCng%C3%BCr_in_2016_2767.jpg","alt":"Dalyan Gölü","caption":"Dalyan Gölü","credit":"Dalyan Lake Sülüngür in 2016 2767","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Dalyan_Lake_S%C3%BCl%C3%BCng%C3%BCr_in_2016_2767.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dalyan_Lake_S%C3%BCl%C3%BCng%C3%BCr_in_2016_2767.jpg/1280px-Dalyan_Lake_S%C3%BCl%C3%BCng%C3%BCr_in_2016_2767.jpg","alt":"Dalyan Gölü (Bursa) - Dalyan Lake Sülüngür in 2016 2767","credit":"Dosseman","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dalyan%20G%C3%B6l%C3%BC%20(Bursa)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49301349","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerinden biri olan Dalyan Gölü, 1200 hektarlık yeşil alanı ile şehrin önemli bir çekim merkezi."

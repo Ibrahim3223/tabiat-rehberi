@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","bisiklet sürüşü","piknik","spor"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"BELÖREN KENT ORMANI","caption":"BELÖREN KENT ORMANI","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BEL%C3%96REN%20KENT%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228655","tip":"genel"}]
-"
 keywords: ["Belören Kent Ormanı","İç Anadolu Bölgesi","kent ormanı","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228655"

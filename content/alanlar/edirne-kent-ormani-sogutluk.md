@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki ve hayva
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"EDİRNE KENT ORMANI (SÖĞÜTLÜK)","caption":"EDİRNE KENT ORMANI (SÖĞÜTLÜK)","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ED%C4%B0RNE%20KENT%20ORMANI%20(S%C3%96%C4%9E%C3%9CTL%C3%9CK)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228901","tip":"genel"}]
-"
 keywords: ["Edirne Kent Ormanı","Söğütlük","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228901"

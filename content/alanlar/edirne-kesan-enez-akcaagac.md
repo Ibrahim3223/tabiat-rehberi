@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Edirne-Kesan Enez-Akcaagac","caption":"Edirne-Kesan Enez-Akcaagac","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Edirne-Kesan%20Enez-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228098","tip":"genel"}]
-"
 keywords: ["Edirne","Kesan","Enez","Akcaagac","Marmara Bölgesi","doğal alan","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228098"

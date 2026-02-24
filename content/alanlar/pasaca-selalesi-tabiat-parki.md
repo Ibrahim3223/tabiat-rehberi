@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Pasaca-selalesi.jpg","alt":"Paşaca Şelalesi Tabiat Parkı manzarası","credit":"Thecatcherintherye (mesaj)","license":"CC BY-SA"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Faca%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21526811","tip":"genel"}]
-"
 keywords: ["Paşaca Şelalesi","Tabiat Parkı","Giresun","Karadeniz Bölgesi","Doğa","Şelale","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q21526811"

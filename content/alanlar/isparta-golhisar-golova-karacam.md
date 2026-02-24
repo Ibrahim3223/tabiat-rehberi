@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Isparta-Golhisar-Golova Karacam","caption":"Isparta-Golhisar-Golova Karacam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar-Golova%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227943","tip":"genel"}]
-"
 keywords: ["Isparta","Golhisar","Golova Karacam","milli park","yeşil alan","fauna","Isparta milli parkları","Akdeniz Bölgesi","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227943"

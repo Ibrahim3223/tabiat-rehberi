@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık","Kampçılık
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/MOKFC12.jpg/960px-MOKFC12.jpg","alt":"İzmir-Kemalpaşa-Kemalpaşa Kızılçam","caption":"İzmir-Kemalpaşa-Kemalpaşa Kızılçam","credit":"MOKFC12.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir-Kemalpa%C5%9Fa-Kemalpa%C5%9Fa%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228484","tip":"genel"}]
-"
 keywords: ["Kemalpaşa Kızılçam Milli Parkı","İzmir","Kemalpaşa","Milli Park","Doğa","Turizm","Çevre","Kızılçam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228484"

@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bocas_Bambu_Beach_-_panoramio.jpg/960px-Bocas_Bambu_Beach_-_panoramio.jpg","alt":"Bambus Plajı","caption":"Bambus Plajı","credit":"Bocas Bambu Beach - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bambus%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49320110","tip":"genel"}]
-"
 keywords: ["Bambus Plajı","Antalya","plaj","kumsal","yeşil alan","deniz","turizm","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49320110"

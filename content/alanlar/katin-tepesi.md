@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihî eserleri ziyare
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Katin Tepesi","caption":"Katin Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551443","tip":"genel"}]
-"
 keywords: ["Katin Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","yaban hayatı","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31551443"

@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","termal kaynak kullanımı","flora ve fauna 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/There_is_a_separate_fee_to_swim_in_this_pool_%2815688236854%29.jpg/960px-There_is_a_separate_fee_to_swim_in_this_pool_%2815688236854%29.jpg","alt":"Çavuşçuköyü Açık Ilıcası","caption":"Çavuşçuköyü Açık Ilıcası","credit":"There is a separate fee to swim in this pool (15688236854)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9F%C3%A7uk%C3%B6y%C3%BC%20A%C3%A7%C4%B1k%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49742033","tip":"genel"}]
-"
 keywords: ["Çavuşçuköyü Açık Ilıcası","Konya","İç Anadolu Bölgesi","termal kaynak","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49742033"

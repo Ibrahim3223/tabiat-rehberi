@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","vahşi yaşam gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Burdur-Bucak-Kestel Ardic","caption":"Burdur-Bucak-Kestel Ardic","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Kestel%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227224","tip":"genel"}]
-"
 keywords: ["Burdur","milli park","doğal güzellik","Kestel Ardic","Bucak","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227224"

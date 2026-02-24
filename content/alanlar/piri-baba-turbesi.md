@@ -21,7 +21,6 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Piri Baba Türbesi","caption":"Piri Baba Türbesi","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piri%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390529","tip":"genel"}]
-"
 keywords: ["Piri Baba Türbesi","Merzifon","İç Anadolu Bölgesi","tarihi mekanlar","yeşil alanlar","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390529"

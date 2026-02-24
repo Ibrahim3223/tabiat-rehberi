@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Seyir_Tepesi_%C5%9Eehir_Orman%C4%B1_Horoz_Heykeli.jpg","alt":"Şehir Ormanı manzarası","credit":"Ebrar Günay","license":"cc0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehir%20Orman%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228654","tip":"genel"}]
-"
 keywords: ["Şehir Ormanı","İç Anadolu Bölgesi","yeşillendirme","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228654"

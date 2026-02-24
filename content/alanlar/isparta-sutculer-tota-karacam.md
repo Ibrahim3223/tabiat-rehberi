@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Isparta-Sutculer-Tota Karacam","caption":"Isparta-Sutculer-Tota Karacam","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Tota%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227508","tip":"genel"}]
-"
 keywords: ["Isparta","milli park","doğa","yeşil alan","fauna","flora","ekosistem","çevre","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227508"

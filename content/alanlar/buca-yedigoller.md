@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Faik%20Sarikaya%20YEDIGOLLER%20FOTO%2020.jpg","alt":"Buca Yedigöller manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Faik_Sarikaya_YEDIGOLLER_FOTO_20.jpg/960px-Faik_Sarikaya_YEDIGOLLER_FOTO_20.jpg","alt":"Buca Yedigöller","caption":"Buca Yedigöller","credit":"Faik Sarikaya YEDIGOLLER FOTO 20","license":"Attribution"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Faik_Sarikaya_YEDIGOLLER_FOTO_20.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Faik_Sarikaya_YEDIGOLLER_FOTO_20.jpg","alt":"Buca Yedigöller - Faik Sarikaya YEDIGOLLER FOTO 20","credit":"Faik Sarıkaya","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buca%20Yedig%C3%B6ller","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6015778","tip":"genel"}]
 description: "İzmir'in Buca ilçesinde bulunan botanik bahçesi, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."

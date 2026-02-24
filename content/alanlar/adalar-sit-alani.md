@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","gözlem","fotografcilik","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Adalar Sit Alanı","caption":"Adalar Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adalar%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225857","tip":"genel"}]
-"
 keywords: ["doğa","sit alanı","İç Anadolu Bölgesi","korunan alan","çevre","ekosistem","koruma","doğa turizmi","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108225857"

@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Erzurum-Sarikamis Saricam","caption":"Erzurum-Sarikamis Saricam","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Sarikamis%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227563","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227563"

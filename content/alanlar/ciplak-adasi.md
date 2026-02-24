@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%87%C4%B1plak%20Ada%2C%20Ayval%C4%B1k%20-%20panoramio.jpg","alt":"Çıplak Adası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%C3%87%C4%B1plak_Ada%2C_Ayval%C4%B1k_-_panoramio.jpg/960px-%C3%87%C4%B1plak_Ada%2C_Ayval%C4%B1k_-_panoramio.jpg","alt":"Çıplak Adası","caption":"Çıplak Adası","credit":"Çıplak Ada, Ayvalık - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e9/%C3%87%C4%B1plak_Ada%2C_Ayval%C4%B1k_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%C3%87%C4%B1plak_Ada%2C_Ayval%C4%B1k_-_panoramio.jpg/1280px-%C3%87%C4%B1plak_Ada%2C_Ayval%C4%B1k_-_panoramio.jpg","alt":"Çıplak Adası - Çıplak Ada, Ayvalık - panoramio","credit":"collage bird's eye v…","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plak%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632472","tip":"genel"}]
 description: "Balıkesir'in gizli cenneti, 1200 hektarlık yeşil alanıyla doğaseverlerin buluşma noktası"

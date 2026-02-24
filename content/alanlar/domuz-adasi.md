@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/27/Domuz_Adas%C4%B1_-_panoramio.jpg","alt":"Domuz Adası manzarası","credit":"Jorge Franganillo","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Domuz_Adas%C4%B1_-_panoramio.jpg/960px-Domuz_Adas%C4%B1_-_panoramio.jpg","alt":"Domuz Adası","caption":"Domuz Adası","credit":"Domuz Adası - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Domuz_Adas%C4%B1_-_panoramio_%281%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Domuz_Adas%C4%B1_-_panoramio_%281%29.jpg/1280px-Domuz_Adas%C4%B1_-_panoramio_%281%29.jpg","alt":"Domuz Adası - Domuz Adası - panoramio (1)","credit":"Jorge Franganillo","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Domuz_Adas%C4%B1_-_panoramio_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Domuz_Adas%C4%B1_-_panoramio_%282%29.jpg/1280px-Domuz_Adas%C4%B1_-_panoramio_%282%29.jpg","alt":"Domuz Adası - Domuz Adası - panoramio (2)","credit":"Jorge Franganillo","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domuz%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49636840","tip":"genel"}]
 description: "Muğla'nın güzel adalarından biri olan Domuz Adası, 1200 hektarlık yeşil cenneti ile dikkat çekiyor."

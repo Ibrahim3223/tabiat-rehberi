@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg","alt":"Bolu-Gölyaka-Gölyaka Karaçam","caption":"Bolu-Gölyaka-Gölyaka Karaçam","credit":"Bolu Gölcük Tabiat 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-G%C3%B6lyaka-G%C3%B6lyaka%20Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228435","tip":"genel"}]
-"
 keywords: ["Bolu","Gölyaka","Karaçam","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228435"

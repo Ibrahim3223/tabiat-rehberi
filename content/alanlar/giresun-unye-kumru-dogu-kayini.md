@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","kamp","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Giresun-Unye-Kumru Dogu Kayini","caption":"Giresun-Unye-Kumru Dogu Kayini","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Unye-Kumru%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227791","tip":"genel"}]
-"
 keywords: ["Giresun","Unye","Kumru","Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227791"

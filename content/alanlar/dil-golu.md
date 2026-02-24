@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Sapanca-golu_2013.jpg","alt":"Dil Gölü manzarası","credit":"Kafkasmurat-ℳ","license":"cc-by-2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sapanca-golu_2013.jpg/960px-Sapanca-golu_2013.jpg","alt":"Dil Gölü","caption":"Dil Gölü","credit":"Sapanca-golu 2013","license":"CC BY 2.5"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dil%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6044485","tip":"genel"}]
 description: "Aydın'da bulunan Dil Gölü, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar bir alanı kaplıyor."

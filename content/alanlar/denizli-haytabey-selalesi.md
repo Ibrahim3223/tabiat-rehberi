@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik","bitki gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"DENİZLİ HAYTABEY ŞELALESİ","caption":"DENİZLİ HAYTABEY ŞELALESİ","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20HAYTABEY%20%C5%9EELALES%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228922","tip":"genel"}]
-"
 keywords: ["Denizli","Haytabey Şelalesi","İç Anadolu","doğa","şelale","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228922"

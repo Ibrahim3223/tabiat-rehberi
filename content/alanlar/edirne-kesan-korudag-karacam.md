@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Edirne-Kesan-Korudag Karacam","caption":"Edirne-Kesan-Korudag Karacam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Edirne-Kesan-Korudag%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227676","tip":"genel"}]
-"
 keywords: ["Edirne","Marmara Bölgesi","Milli Park","Korudag Karacam","Doğa","Turizm","Çevre","Ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227676"

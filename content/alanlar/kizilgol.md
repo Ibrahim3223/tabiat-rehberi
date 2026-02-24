@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","orman gezi","fotoğrafçılık","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Kızılgöl","caption":"Kızılgöl","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lg%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211272","tip":"genel"}]
-"
 keywords: ["Kızılgöl","Samsun","Karadeniz Bölgesi","doğa harikası","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211272"

@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Piknik","Manzara seyretme","Doğa keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Çirişlik Tepesi","caption":"Çirişlik Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iri%C5%9Flik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829315","tip":"genel"}]
-"
 keywords: ["Sivas","İç Anadolu Bölgesi","Çirişlik Tepesi","doğa","gezi","turizm","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829315"

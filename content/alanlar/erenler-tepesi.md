@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Erenler_tepesi_-_panoramio.jpg","alt":"Erenler Tepesi manzarası","credit":"abdullah ünlü","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erenler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388345","tip":"genel"}]
-"
 keywords: ["Erenler Tepesi","Aydın","Ege Bölgesi","doğa","gezi","tepe","manzara","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388345"

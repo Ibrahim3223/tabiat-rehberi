@@ -20,7 +20,6 @@ aktiviteler: ["trekking","kampçılık","doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Ayınşavkı Tepesi","caption":"Ayınşavkı Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1n%C5%9Favk%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386517","tip":"genel"}]
-"
 keywords: ["Ayınşavkı Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386517"

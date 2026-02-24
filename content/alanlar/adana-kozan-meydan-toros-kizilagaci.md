@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Adana-Kozan-Meydan Toros Kizilagaci","caption":"Adana-Kozan-Meydan Toros Kizilagaci","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Meydan%20Toros%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228460","tip":"genel"}]
-"
 keywords: ["Adana","Kozan","Meydan","Toros","Kizilagaci","milli park","doğa","flora","fauna","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228460"

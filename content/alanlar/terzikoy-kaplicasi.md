@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Kaplıca suyunun tedavi edici öze
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pastel_Hues_Of_Sunset_Pamukkale_%28227577267%29.jpeg/960px-Pastel_Hues_Of_Sunset_Pamukkale_%28227577267%29.jpeg","alt":"Terziköy Kaplıcası","caption":"Terziköy Kaplıcası","credit":"Pastel Hues Of Sunset Pamukkale (227577267)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Terzik%C3%B6y%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49742002","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q49742002"

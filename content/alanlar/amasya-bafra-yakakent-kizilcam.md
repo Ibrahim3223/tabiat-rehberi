@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Photografi","Yaban Hayatı İzleme","Picnic
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Amasya-Bafra-Yakakent Kızılçam","caption":"Amasya-Bafra-Yakakent Kızılçam","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Bafra-Yakakent%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227412","tip":"genel"}]
-"
 keywords: ["Amasya","Bafra","Yakakent","Kızılçam","Milli Park","Karadeniz Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227412"

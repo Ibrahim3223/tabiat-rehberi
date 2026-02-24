@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","kamp","tarihî mekan ziyaretleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Koşankaya Tepesi","caption":"Koşankaya Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C5%9Fankaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390069","tip":"genel"}]
-"
 keywords: ["Koşankaya Tepesi","Ankara","doğal güzellik","tepe","İç Anadolu Bölgesi","gezi","turizm","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390069"

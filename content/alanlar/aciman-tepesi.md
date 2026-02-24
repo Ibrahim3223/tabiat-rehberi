@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Divrik_Da%C4%9F%C4%B1_Zirvesi_-_Summit_of_Divrik_Mountain.JPG","alt":"Acıman Tepesi manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Divrik_Da%C4%9F%C4%B1_-_Divrik_Mountain.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Divrik_Da%C4%9F%C4%B1_-_Divrik_Mountain.JPG/1280px-Divrik_Da%C4%9F%C4%B1_-_Divrik_Mountain.JPG","alt":"Acıman Tepesi - Divrik Dağı - Divrik Mountain","credit":"Zeynel Cebeci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ac%C4%B1man%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31533871","tip":"genel"}]
-"
 keywords: ["Acıman Tepesi","Adana","Akdeniz Bölgesi","doğa","yeşil alan","fotoğraf","gezi","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31533871"

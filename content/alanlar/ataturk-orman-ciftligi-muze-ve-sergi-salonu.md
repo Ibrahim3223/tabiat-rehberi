@@ -21,7 +21,6 @@ aktiviteler: ["Müze ve sergi salonu gezisi","Doğa yürüyüşleri","Piknik","�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Atatürk Orman Çiftliği Müze ve Sergi Salonu","caption":"Atatürk Orman Çiftliği Müze ve Sergi Salonu","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atat%C3%BCrk%20Orman%20%C3%87iftli%C4%9Fi%20M%C3%BCze%20ve%20Sergi%20Salonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681906","tip":"genel"}]
-"
 keywords: ["Atatürk Orman Çiftliği","Müze ve Sergi Salonu","Ankara","İç Anadolu Bölgesi","Doğa Cenneti","Yeşil Alan","Tarihçe","Coğrafya","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132681906"

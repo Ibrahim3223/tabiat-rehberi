@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","gözlem"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Kelibik Tepesi","caption":"Kelibik Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelibik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534719","tip":"genel"}]
-"
 keywords: ["Kelibik Tepesi","Osmaniye","doğal güzellik","tepe","Akdeniz Bölgesi","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31534719"

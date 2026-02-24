@@ -21,7 +21,6 @@ aktiviteler: ["Müze koleksiyonlarını keşfetmek","Yeşil alanı gezmek","Rehb
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg/960px-B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg","alt":"Trakya Üniversitesi Doğa Tarihi Müzesi","caption":"Trakya Üniversitesi Doğa Tarihi Müzesi","credit":"Büyükada island, Turkey - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trakya%20%C3%9Cniversitesi%20Do%C4%9Fa%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681860","tip":"genel"}]
-"
 keywords: ["Trakya Üniversitesi","Doğa Tarihi Müzesi","Edirne","Marmara Bölgesi","yeşil alan","müze","doğa","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132681860"

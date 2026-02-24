@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","çevre gezisi","flora ve fauna gözlemi","f
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Bursa-Uludag Milli Parki Uludag Goknari","caption":"Bursa-Uludag Milli Parki Uludag Goknari","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Uludag%20Milli%20Parki%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227290","tip":"genel"}]
-"
 keywords: ["Bursa","Uludag Milli Parki","Marmara Bölgesi","doğal alan","milli park","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227290"

@@ -20,7 +20,6 @@ aktiviteler: ["Tepenin zirvesine tırmanmak","Çevreyi gezmek","Isparta şehir m
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Namazgâh Tepesi","caption":"Namazgâh Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Namazg%C3%A2h%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884730","tip":"genel"}]
-"
 keywords: ["Namazgâh Tepesi","Isparta","Akdeniz Bölgesi","doğal güzellik","yeşil alan","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34884730"

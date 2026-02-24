@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Mugla-Yilanli Cakmak","caption":"Mugla-Yilanli Cakmak","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Yilanli%20Cakmak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227404","tip":"genel"}]
-"
 keywords: ["Mugla-Yilanli Cakmak","Muğla","Ege Bölgesi","doğal güzellik","milli park","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227404"

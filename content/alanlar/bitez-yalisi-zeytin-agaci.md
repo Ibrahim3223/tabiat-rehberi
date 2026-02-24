@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","zeytin ağacı gezisi","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Bitez Yalisi Zeytin Agaci","caption":"Bitez Yalisi Zeytin Agaci","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bitez%20Yalisi%20Zeytin%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227170","tip":"genel"}]
-"
 keywords: ["Bitez Yalisi Zeytin Agaci","İç Anadolu Bölgesi","doğa","zeytin ağacı","milli park","turizm","gezi","doğal güzellik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227170"

@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Alanın Ardici","caption":"Alanın Ardici","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alan%C4%B1n%20Ardici","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227374","tip":"genel"}]
-"
 keywords: ["İç Anadolu Bölgesi","yeşil alan","doğa","gezi","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227374"

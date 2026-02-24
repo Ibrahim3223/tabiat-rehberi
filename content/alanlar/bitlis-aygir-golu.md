@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/S%C3%BCphan_Da%C4%9F%C4%B1_ve_Ayg%C4%B1r_G%C3%B6l%C3%BC.jpg/960px-S%C3%BCphan_Da%C4%9F%C4%B1_ve_Ayg%C4%B1r_G%C3%B6l%C3%BC.jpg","alt":"BİTLİS AYGIR GÖLÜ","caption":"BİTLİS AYGIR GÖLÜ","credit":"Süphan Dağı ve Aygır Gölü","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B0TL%C4%B0S%20AYGIR%20G%C3%96L%C3%9C","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228884","tip":"genel"}]
-"
 keywords: ["Bitlis Aygır Gölü","Doğal Alan","Historik Geçmiş","Turizm","Göl","Doğa","Bitlis","Aygır Gölü"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228884"

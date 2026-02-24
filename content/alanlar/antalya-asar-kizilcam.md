@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","çiçek izleme","vahşi yaşamleme","fotogr
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Antalya-Asar Kızılçam","caption":"Antalya-Asar Kızılçam","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Asar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227838","tip":"genel"}]
-"
 keywords: ["Antalya","Asar Kızılçam","Milli Park","Akdeniz Bölgesi","doğa","yeşil alan","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227838"

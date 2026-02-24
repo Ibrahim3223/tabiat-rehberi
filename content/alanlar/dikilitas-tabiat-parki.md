@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğaleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Turgut_%C3%96zal_Tabiat_Park%C4%B1.jpg","alt":"Dikilitaş Tabiat Parkı manzarası","credit":"Medine Dikilitaş","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Turgut_%C3%96zal_Tabiat_Park%C4%B1.jpg/960px-Turgut_%C3%96zal_Tabiat_Park%C4%B1.jpg","alt":"Dikilitaş Tabiat Parkı","caption":"Dikilitaş Tabiat Parkı","credit":"Turgut Özal Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b9/Dikilita%C5%9F_nature_park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dikilita%C5%9F_nature_park.jpg/1280px-Dikilita%C5%9F_nature_park.jpg","alt":"Dikilitaş Tabiat Parkı - Dikilitaş nature park","credit":"Habibepoyraz","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Dikilita%C5%9F_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dikilita%C5%9F_Nature_Park.jpg/1280px-Dikilita%C5%9F_Nature_Park.jpg","alt":"Dikilitaş Tabiat Parkı - Dikilitaş Nature Park","credit":"RDlife","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikilita%C5%9F%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228338","tip":"genel"}]
 

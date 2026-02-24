@@ -21,7 +21,6 @@ aktiviteler: ["Güneşlenmek","Denize girmek","Yeşil alanda yürüyüş yapmak"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667202636%29.jpg/960px-thumbnail.jpg","alt":"Düzce Hamamı","caption":"Düzce Hamamı","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667202636)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCzce%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738850","tip":"genel"}]
-"
 keywords: ["Düzce Hamamı","Seferihisar","İzmir","Ege Bölgesi","plaj","yeşil alan","zengin fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738850"

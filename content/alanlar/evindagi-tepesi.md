@@ -20,7 +20,6 @@ aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna Gözlemi","Manzara İzleme",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Evindağı Tepesi","caption":"Evindağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evinda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568078","tip":"genel"}]
-"
 keywords: ["Evindağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal Alan","Tepeler","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31568078"

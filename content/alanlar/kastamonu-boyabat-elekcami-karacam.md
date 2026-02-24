@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Kastamonu-Boyabat-Elekcami Karacam","caption":"Kastamonu-Boyabat-Elekcami Karacam","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Boyabat-Elekcami%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227826","tip":"genel"}]
-"
 keywords: ["Kastamonu","milli park","doğa","yürüyüş","gözlem","Karadeniz Bölgesi","boyabat","elekcami","karacam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227826"

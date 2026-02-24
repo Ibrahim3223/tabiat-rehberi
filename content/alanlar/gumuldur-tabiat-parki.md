@@ -21,7 +21,6 @@ aktiviteler: ["Doğa yürüyüşü","Piknik","Bitki gözlemi","Hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Gümüldür Tabiat Parkı","caption":"Gümüldür Tabiat Parkı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BCld%C3%BCr%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228154","tip":"genel"}]
-"
 keywords: ["Gümüldür Tabiat Parkı","Menderes","İzmir","Ege Bölgesi","Tabiat Parkı","Yeşil Alan","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228154"

@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","manzara izleme","picnic"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Dedebayırı Tepesi","caption":"Dedebayırı Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedebay%C4%B1r%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389601","tip":"genel"}]
-"
 keywords: ["Dedebayırı Tepesi","Balıkesir","Marmara Bölgesi","doğal güzellik","yeşil alan","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389601"

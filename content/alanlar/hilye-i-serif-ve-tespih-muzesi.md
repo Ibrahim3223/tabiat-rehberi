@@ -21,7 +21,6 @@ aktiviteler: ["Müze gezisi","Bahçe turu","Sanat eserleri incelemesi","Tarih ke
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Hilye-i Şerif ve Tespih Müzesi","caption":"Hilye-i Şerif ve Tespih Müzesi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hilye-i%20%C5%9Eerif%20ve%20Tespih%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949494","tip":"genel"}]
-"
 keywords: ["Hilye-i Şerif","Tespih Müzesi","İstanbul","Marmara Bölgesi","Müze","Yeşil Alan","Tarih","Sanat","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132949494"

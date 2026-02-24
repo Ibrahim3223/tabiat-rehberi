@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotoğrafçılık","Doğa Ar
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Gölhisar Gölü Sulak Alanı","caption":"Gölhisar Gölü Sulak Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lhisar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228843","tip":"genel"}]
-"
 keywords: ["Gölhisar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa Rezervi","Korunan Alan","Sulak Alan Ekosistemi","Doğal Hayatı","Çevre Koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228843"

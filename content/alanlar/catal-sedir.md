@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","photography","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Admiralty_Chart_No_1533_Anchorages_in_Kerme_Korfezi%2C_Published_1961.jpg","alt":"Çatal Sedir manzarası","credit":"United Kingdom Hydrographic Office","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Admiralty_Chart_No_1533_Anchorages_in_Kerme_Korfezi%2C_Published_1961.jpg/960px-Admiralty_Chart_No_1533_Anchorages_in_Kerme_Korfezi%2C_Published_1961.jpg","alt":"Çatal Sedir","caption":"Çatal Sedir","credit":"Admiralty Chart No 1533 Anchorages in Kerme Korfezi, Published 1961","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atal%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227139","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."

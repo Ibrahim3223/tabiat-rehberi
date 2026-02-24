@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotoğraf ç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ahlatlıbayır Tepesi","caption":"Ahlatlıbayır Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahlatl%C4%B1bay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557759","tip":"genel"}]
-"
 keywords: ["Ahlatlıbayır Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557759"

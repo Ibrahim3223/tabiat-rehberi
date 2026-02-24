@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","manzara seyri","flora ve fauna keşfi","tep
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Buruklu Tepe","caption":"Buruklu Tepe","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buruklu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388194","tip":"genel"}]
-"
 keywords: ["Buruklu Tepe","Denizli","Ege Bölgesi","doğa","gezi","tepe","manzara","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388194"

@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic","Yaban Hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Aklıman Sit Alanı","caption":"Aklıman Sit Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akl%C4%B1man%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226184","tip":"genel"}]
-"
 keywords: ["Aklıman Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Sit Alanı","Çevre","Doğa","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226184"

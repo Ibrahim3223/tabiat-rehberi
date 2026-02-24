@@ -14,7 +14,6 @@ aktiviteler: ["Piknik yapmak","Doğayı seyretmek","Yürüyüş yapmak","Fotoğr
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/State_road_D865_%28Turkey%29_10.jpg/960px-State_road_D865_%28Turkey%29_10.jpg","alt":"Çağlayandibi Şelalesi Tabiat Parkı","caption":"Çağlayandibi Şelalesi Tabiat Parkı","credit":"State road D865 (Turkey) 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-"
 keywords: ["Gümüşhane","Karadeniz Bölgesi","Tabiat Parkı","Şelale","Doğal Alan","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 ---

@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","bitki ve hayvan türleri gözlemi","fotogra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"KÖROĞLU_TP","caption":"KÖROĞLU_TP","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%96RO%C4%9ELU_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228785","tip":"genel"}]
-"
 keywords: ["KÖROĞLU_TP","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228785"

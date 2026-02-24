@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Göl gezisi","Kuş gözlemi","Fotoğrafçı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Ladik Gölü Sulak Alanı","caption":"Ladik Gölü Sulak Alanı","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ladik%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228807","tip":"genel"}]
-"
 keywords: ["Ladik Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Göl","Sulak Alan","Doğal Güzellik","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228807"

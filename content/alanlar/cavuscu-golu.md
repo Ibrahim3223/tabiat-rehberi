@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/27/%C3%87avu%C5%9F%C3%A7u_G%C3%B6l%C3%BC%2C_S%C3%BCdufer.jpg","alt":"Çavuşçu Gölü manzarası","credit":"Christian1311","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%C3%87avu%C5%9F%C3%A7u_G%C3%B6l%C3%BC%2C_S%C3%BCdufer.jpg/960px-%C3%87avu%C5%9F%C3%A7u_G%C3%B6l%C3%BC%2C_S%C3%BCdufer.jpg","alt":"Çavuşçu Gölü","caption":"Çavuşçu Gölü","credit":"Çavuşçu Gölü, Südufer","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9F%C3%A7u%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q272701","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinden biri olan Çavuşçu Gölü, şehir merkezine yakınlığıyla dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

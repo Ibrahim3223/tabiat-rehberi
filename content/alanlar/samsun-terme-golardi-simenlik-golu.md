@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Samsun-Terme Golardı Simenlik Golu","caption":"Samsun-Terme Golardı Simenlik Golu","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samsun-Terme%20Golard%C4%B1%20Simenlik%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228399","tip":"genel"}]
-"
 keywords: ["Samsun","Terme","Golardı","Simenlik Golu","Karadeniz Bölgesi","Doğa","Turizm","Milli Park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228399"

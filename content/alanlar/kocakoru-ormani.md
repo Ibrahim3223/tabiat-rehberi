@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","tırmanma"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Kocakoru Ormani","caption":"Kocakoru Ormani","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakoru%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227341","tip":"genel"}]
-"
 keywords: ["Kocakoru Ormani","İç Anadolu Bölgesi","doğal güzellik","orman","milli park","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227341"

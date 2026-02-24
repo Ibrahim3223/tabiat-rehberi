@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","tırmanma","spor aktiviteleri"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Yelken Tepesi","caption":"Yelken Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelken%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389747","tip":"genel"}]
-"
 keywords: ["Kocaeli","Marmara Bölgesi","Yelken Tepesi","doğal alan","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389747"

@@ -20,7 +20,6 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Latagersimenki Tepesi","caption":"Latagersimenki Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latagersimenki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553727","tip":"genel"}]
-"
 keywords: ["Latagersimenki Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","yeşil alan","tepeler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553727"

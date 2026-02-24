@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotograf çekimi","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Mehdi Abbas Türbesi","caption":"Mehdi Abbas Türbesi","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehdi%20Abbas%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582831","tip":"genel"}]
-"
 keywords: ["Mehdi Abbas Türbesi","Erzurum","Yakutiye","tarih","doğa","yeşil alan","turizm","gezi","türbe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582831"

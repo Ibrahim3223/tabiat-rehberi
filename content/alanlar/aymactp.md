@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","kampçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"AYMAÇ_TP","caption":"AYMAÇ_TP","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AYMA%C3%87_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228789","tip":"genel"}]
-"
 keywords: ["İç Anadolu Bölgesi","AYMAÇ_TP","doğa","gezi","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228789"

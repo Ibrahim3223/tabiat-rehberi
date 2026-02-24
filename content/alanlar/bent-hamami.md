@@ -21,7 +21,6 @@ aktiviteler: ["Doğa yürüyüşü","Çiçek izleme","Kuş gözlemi","Fotoğraf 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Bent Hamamı","caption":"Bent Hamamı","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bent%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738709","tip":"genel"}]
-"
 keywords: ["Bent Hamamı","Bayburt","Karadeniz Bölgesi","doğa","yeşil alan","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738709"

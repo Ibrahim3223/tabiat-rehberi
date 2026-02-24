@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/57/Bolu_Da%C4%9Flar%C4%B1_05_09_1978_Yedi_G%C3%B6ller_Grenze_zur_Tannenstufe_Blick_von_den_H%C3%B6hen_des_Celedoru%C4%9Fu_Tepesi_ins_Becken_von_Bolu.jpg","alt":"Göller Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ller%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138481","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q32138481"

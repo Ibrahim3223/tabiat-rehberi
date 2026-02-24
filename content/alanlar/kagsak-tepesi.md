@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","doğa yürüyü
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Kağşak Tepesi","caption":"Kağşak Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C4%9F%C5%9Fak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390501","tip":"genel"}]
-"
 keywords: ["Konya","İç Anadolu Bölgesi","Kağşak Tepesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390501"

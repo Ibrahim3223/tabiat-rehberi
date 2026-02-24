@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Manzara izleme","Tarihî araştırma","Doğa gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Günışıkdağ Tepesi","caption":"Günışıkdağ Tepesi","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCn%C4%B1%C5%9F%C4%B1kda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873345","tip":"genel"}]
-"
 keywords: ["Şanlıurfa","Güneydoğu Anadolu Bölgesi","tepe","coğrafi güzellik","tarih","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34873345"

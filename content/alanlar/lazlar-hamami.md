@@ -21,7 +21,6 @@ aktiviteler: ["Denizde yüzme","Güneşlenme","Yeşil alanda piknik","Doğa yür
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nea_Moni_and_the_Aegean_Sea.JPG/960px-Nea_Moni_and_the_Aegean_Sea.JPG","alt":"Lazlar Hamamı","caption":"Lazlar Hamamı","credit":"Nea Moni and the Aegean Sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lazlar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118947930","tip":"genel"}]
-"
 keywords: ["Lazlar Hamamı","Marmara Bölgesi","Karesi","plaj","yeşil alan","doğa","gezi","turizm","sahil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q118947930"

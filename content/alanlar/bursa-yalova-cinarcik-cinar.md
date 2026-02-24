@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","kuş gözlemcil
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Bursa-Yalova-Cinarcik Cinar","caption":"Bursa-Yalova-Cinarcik Cinar","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Yalova-Cinarcik%20Cinar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228589","tip":"genel"}]
-"
 keywords: ["Marmara Bölgesi","Bursa","Cinarcik Cinar","milli park","doğa harikası","yeşil alan","orman","çam ağacı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228589"

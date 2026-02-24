@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/G%C3%B6lc%C3%BCk1.jpg/960px-G%C3%B6lc%C3%BCk1.jpg","alt":"Bolu-Duzce Karacam","caption":"Bolu-Duzce Karacam","credit":"Gölcük1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Duzce%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227933","tip":"genel"}]
-"
 keywords: ["Bolu","Duzce","Karacam","Milli Park","Karadeniz Bölgesi","doğa","gezi","türkiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227933"

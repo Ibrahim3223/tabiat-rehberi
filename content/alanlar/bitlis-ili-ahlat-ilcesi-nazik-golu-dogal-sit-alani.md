@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Piknik","Balık avı","Doğa fotoğrafçılığı"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","caption":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BITLIS%20ILI%20AHLAT%20IL%C3%87ESI%20NAZIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228967","tip":"genel"}]
-"
 keywords: ["Nazik Gölü","Doğal Sit Alanı","Bitlis","Ahlat","Doğa","Turizm","Göl","Doğal Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228967"

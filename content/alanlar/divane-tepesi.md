@@ -20,7 +20,6 @@ aktiviteler: ["Tepenin etrafındaki tarihi eserleri keşfetmek","Doğal güzelli
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Divane Tepesi","caption":"Divane Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divane%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388561","tip":"genel"}]
-"
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","Divane Tepesi","coğrafya","tarihçe","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388561"

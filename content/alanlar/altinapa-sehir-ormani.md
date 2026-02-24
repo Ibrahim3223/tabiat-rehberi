@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","canlı gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"ALTINAPA ŞEHİR ORMANI","caption":"ALTINAPA ŞEHİR ORMANI","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ALTINAPA%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228700","tip":"genel"}]
-"
 keywords: ["Altınapa Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","doğa alanı","yeşil alan","orman","doğal yaşam","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228700"

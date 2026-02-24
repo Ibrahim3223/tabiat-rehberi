@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","trekking","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Kurakçam Tepesi","caption":"Kurakçam Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurak%C3%A7am%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206009","tip":"genel"}]
-"
 keywords: ["Kurakçam Tepesi","Hatay","Akdeniz Bölgesi","doğal alan","tepe","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32206009"

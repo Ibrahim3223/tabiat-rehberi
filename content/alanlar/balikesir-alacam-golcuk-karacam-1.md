@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Balikesir-Alacam-Golcuk Karacam 1","caption":"Balikesir-Alacam-Golcuk Karacam 1","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Alacam-Golcuk%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227484","tip":"genel"}]
-"
 keywords: ["milli park","doğal güzellik","fauna","iç anadolu","balikesir","alacam","golcuk","karacam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227484"

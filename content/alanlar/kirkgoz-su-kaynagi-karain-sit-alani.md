@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Tarihî geçmişi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"Kırkgöz Su Kaynağı Karain Sit Alanı","caption":"Kırkgöz Su Kaynağı Karain Sit Alanı","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkg%C3%B6z%20Su%20Kayna%C4%9F%C4%B1%20Karain%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226658","tip":"genel"}]
-"
 keywords: ["Kırkgöz Su Kaynağı","Karain Sit Alanı","İç Anadolu Bölgesi","doğal alan","su kaynağı","sit alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226658"

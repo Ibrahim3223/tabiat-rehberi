@@ -21,7 +21,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Piknik","Doğal güzell
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"İlisıra Hamamı","caption":"İlisıra Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lis%C4%B1ra%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245692","tip":"genel"}]
-"
 keywords: ["İlisıra Hamamı","Karaman","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","gezi","turizm","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245692"

@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Adana-Kadirli Kızılçam 6","caption":"Adana-Kadirli Kızılçam 6","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%206","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227828","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227828"

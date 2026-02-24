@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","bisiklet","kuş gözlemciliği","bitki gözlemcili�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"BARMA YAYLASI","caption":"BARMA YAYLASI","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BARMA%20YAYLASI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228940","tip":"genel"}]
-"
 keywords: ["Barma Yaylası","İç Anadolu Bölgesi","doğal güzellikler","yayla","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228940"

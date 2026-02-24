@@ -21,7 +21,6 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","arkeoloj
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Antandros Roma Villası","caption":"Antandros Roma Villası","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antandros%20Roma%20Villas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738782","tip":"genel"}]
-"
 keywords: ["Antandros","Roma Villası","Edremit","Balıkesir","Marmara Bölgesi","tarih","arkeoloji","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738782"

@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Tlos Büyük Hamam","caption":"Tlos Büyük Hamam","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tlos%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739134","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739134"

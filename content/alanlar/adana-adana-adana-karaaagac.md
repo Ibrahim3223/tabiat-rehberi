@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Adana-Adana-Adana-Karaaagac","caption":"Adana-Adana-Adana-Karaaagac","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Adana-Adana-Karaaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228284","tip":"genel"}]
-"
 keywords: ["Adana","Akdeniz Bölgesi","milli park","doğa","turizm","gezi","yaban hayatı","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228284"

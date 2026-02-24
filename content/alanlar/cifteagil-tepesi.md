@@ -20,7 +20,6 @@ aktiviteler: ["Piknik yapmak","Doğa yürüyüşü","Fotograf çekmek","Tarihçe
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Çifteağıl Tepesi","caption":"Çifteağıl Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftea%C4%9F%C4%B1l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818940","tip":"genel"}]
-"
 keywords: ["Ankara","Çifteağıl Tepesi","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34818940"

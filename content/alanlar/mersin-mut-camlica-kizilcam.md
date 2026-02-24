@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğrafçılık","Doğa g
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Mersin Mut Camlica-Kızılçam","caption":"Mersin Mut Camlica-Kızılçam","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Mut%20Camlica-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228117","tip":"genel"}]
-"
 keywords: ["Mersin","Mut Camlica-Kızılçam","Milli Park","Doğa","Turizm","Gezi","Çevre","İç Anadolu Bölgesi","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228117"

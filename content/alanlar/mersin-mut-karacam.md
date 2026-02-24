@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Çiçek izleme","Hayvan izleme","Fotoğraf 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Mersin-Mut Karacam","caption":"Mersin-Mut Karacam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227952","tip":"genel"}]
-"
 keywords: ["Mersin","Mut Karacam","Doğa","Flora","Fauna","Milli Park","Akdeniz Bölgesi","Turizm","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227952"

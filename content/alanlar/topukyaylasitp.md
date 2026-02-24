@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MOKFC04.jpg/960px-MOKFC04.jpg","alt":"TOPUK_YAYLASI_TP","caption":"TOPUK_YAYLASI_TP","credit":"MOKFC04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TOPUK_YAYLASI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228780","tip":"genel"}]
-"
 keywords: ["Topuk Yaylası","İç Anadolu Bölgesi","doğal güzellik","yayla","turizm","gezi","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228780"

@@ -20,7 +20,6 @@ aktiviteler: ["Tepenin zirvesine çıkmak","Çevreyi keşfetmek","Bölge hakkın
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Merelikasımtiği Tepesi","caption":"Merelikasımtiği Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merelikas%C4%B1mti%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391169","tip":"genel"}]
-"
 keywords: ["Merelikasımtiği Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391169"

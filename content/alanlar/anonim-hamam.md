@@ -21,7 +21,6 @@ aktiviteler: ["Yüzme","Güneşlenme","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_20.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_20.jpg","alt":"Anonim Hamam","caption":"Anonim Hamam","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 20","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738989","tip":"genel"}]
-"
 keywords: ["Anonim Hamam","Bodrum","Muğla","Ege Bölgesi","plaj","doğa","gezi","turizm","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738989"

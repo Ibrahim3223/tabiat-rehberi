@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/21/Karacaahmet_Sultan_T%C3%BCrbesi.jpg","alt":"Karaca Ahmet Türbesi manzarası","credit":"Sureta","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Karaca_Ahmet_T%C3%BCrbesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Karaca_Ahmet_T%C3%BCrbesi.jpg/1280px-Karaca_Ahmet_T%C3%BCrbesi.jpg","alt":"Karaca Ahmet Türbesi - Karaca Ahmet Türbesi","credit":"Ahmet Yurtbakan","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Karacaahmet_T%C3%BCrbesi_%C4%B0stanbul_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Karacaahmet_T%C3%BCrbesi_%C4%B0stanbul_-_panoramio.jpg","alt":"Karaca Ahmet Türbesi - Karacaahmet Türbesi İstanbul - panoramio","credit":"M. PINARCI","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaca%20Ahmet%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391611","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391611"

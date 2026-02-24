@@ -14,7 +14,6 @@ aktiviteler: ["trekking","doğa yürüyüşü","doğa","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Eskisehir-Seyitgazi Alic","caption":"Eskisehir-Seyitgazi Alic","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskisehir-Seyitgazi%20Alic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228594","tip":"genel"}]
-"
 keywords: ["milli park","İç Anadolu Bölgesi","Eskisehir","Seyitgazi","Alic","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228594"

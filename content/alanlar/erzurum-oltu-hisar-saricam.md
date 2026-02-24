@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki ve hayvan gözlemi","f
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Erzurum-Oltu-Hisar Saricam","caption":"Erzurum-Oltu-Hisar Saricam","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Oltu-Hisar%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227691","tip":"genel"}]
-"
 keywords: ["Erzurum","Oltu","Hisar Saricam","Doğu Anadolu Bölgesi","milli park","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227691"

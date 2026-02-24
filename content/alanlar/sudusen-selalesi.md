@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b6/Su_D%C3%BC%C5%9Fen_%C5%9Eelalesi_-_panoramio.jpg","alt":"Sudüşen Şelalesi manzarası","credit":"Oğuz Han Erol","license":"cc-by-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sud%C3%BC%C5%9Fen%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320238","tip":"genel"}]
-"
 keywords: ["Sudüşen Şelalesi","Yalova","Marmara Bölgesi","şelale","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q97320238"

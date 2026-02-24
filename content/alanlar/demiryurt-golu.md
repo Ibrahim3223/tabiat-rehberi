@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Hafik_06_1988_T%C3%B6d%C3%BCrge_G%C3%B6l%C3%BC_2.jpg","alt":"Demiryurt Gölü manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hafik_06_1988_T%C3%B6d%C3%BCrge_G%C3%B6l%C3%BC.jpg/960px-Hafik_06_1988_T%C3%B6d%C3%BCrge_G%C3%B6l%C3%BC.jpg","alt":"Demiryurt Gölü","caption":"Demiryurt Gölü","credit":"Hafik 06 1988 Tödürge Gölü","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Hafik_06_1988_T%C3%B6d%C3%BCrge_G%C3%B6l%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hafik_06_1988_T%C3%B6d%C3%BCrge_G%C3%B6l%C3%BC.jpg/1280px-Hafik_06_1988_T%C3%B6d%C3%BCrge_G%C3%B6l%C3%BC.jpg","alt":"Demiryurt Gölü - Hafik 06 1988 Tödürge Gölü","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demiryurt%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49301574","tip":"genel"}]
 description: "Sivas'ta bulunan Demiryurt Gölü, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

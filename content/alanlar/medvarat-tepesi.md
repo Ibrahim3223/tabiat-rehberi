@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","tarihi yerleri gezme","manzara izleme","fot
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Medvarat Tepesi","caption":"Medvarat Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Medvarat%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555249","tip":"genel"}]
-"
 keywords: ["Mardin","Medvarat Tepesi","Güneydoğu Anadolu Bölgesi","tarihi yerler","doğa yürüyüşü","tepe","manzara","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31555249"

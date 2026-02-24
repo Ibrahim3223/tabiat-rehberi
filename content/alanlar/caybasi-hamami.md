@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Çaybaşı Hamamı","caption":"Çaybaşı Hamamı","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ayba%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739037","tip":"genel"}]
-"
 keywords: ["Çaybaşı Hamamı","Korkuteli","Antalya","Akdeniz Bölgesi","doğa","flora","fauna","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739037"

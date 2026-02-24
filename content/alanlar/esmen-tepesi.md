@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","yaban hayatı gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Esmen Tepesi","caption":"Esmen Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esmen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388947","tip":"genel"}]
-"
 keywords: ["Esmen Tepesi","Bingöl","Doğu Anadolu Bölgesi","doğa","yaban hayatı","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388947"

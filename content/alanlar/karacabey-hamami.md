@@ -22,7 +22,6 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ankara%20asv2021-10%20img26%20Karacabey%20Hamam.jpg","alt":"Karacabey Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Ankara_asv2021-10_img26_Karacabey_Hamam.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ankara_asv2021-10_img26_Karacabey_Hamam.jpg/1280px-Ankara_asv2021-10_img26_Karacabey_Hamam.jpg","alt":"Karacabey Hamamı - Ankara asv2021-10 img26 Karacabey Hamam","credit":"A.Savin","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacabey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19611618","tip":"genel"}]
-"
 keywords: ["Karacabey Hamamı","Ankara","doğa","yeşil alan","gezi","tatil","iç Anadolu Bölgesi","Altındağ","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q19611618"

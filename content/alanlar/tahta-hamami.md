@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Haydar_Hamam%C4%B1.jpg","alt":"Tahta Hamamı manzarası","credit":"Selin Şener","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahta%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738690","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738690"

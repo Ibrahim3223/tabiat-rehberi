@@ -20,7 +20,6 @@ aktiviteler: ["höyüğü gezmek","tarihi geçmişi hakkında bilgi edinmek","do
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Furuncu Höyük","caption":"Furuncu Höyük","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Furuncu%20H%C3%B6y%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206042","tip":"genel"}]
-"
 keywords: ["Furuncu Höyük","Malatya","Doğu Anadolu Bölgesi","tarih","arkeoloji","kültür","coğrafya","Doğu Anadolu","Malatya gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32206042"

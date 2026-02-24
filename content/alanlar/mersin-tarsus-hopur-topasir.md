@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Çevre keşifleri","Kuş gözlemciliği",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kad%C4%B1nc%C4%B1k_Valley_23.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_23.jpg","alt":"Mersin-Tarsus Hopur Topasir","caption":"Mersin-Tarsus Hopur Topasir","credit":"Kadıncık Valley 23.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus%20Hopur%20Topasir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227398","tip":"genel"}]
-"
 keywords: ["Mersin","Tarsus","Hopur Topasir","Milli Park","Doğa","Yeşil Alan","Ekosistem","Çevre","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227398"

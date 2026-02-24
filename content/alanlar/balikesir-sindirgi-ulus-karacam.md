@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Balikesir-Sindirgi-Ulus Karacam","caption":"Balikesir-Sindirgi-Ulus Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Sindirgi-Ulus%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227932","tip":"genel"}]
-"
 keywords: [" milli park","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm","çevre","ekosistem","koruma","çeşitli bitki türleri","zengin fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227932"

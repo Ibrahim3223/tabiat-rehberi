@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Söğüt Yaylasi Ulu Ardic","caption":"Söğüt Yaylasi Ulu Ardic","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCt%20Yaylasi%20Ulu%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227134","tip":"genel"}]
-"
 keywords: ["Söğüt Yaylasi","Ulu Ardic","İç Anadolu Bölgesi","doğa","yayla","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227134"

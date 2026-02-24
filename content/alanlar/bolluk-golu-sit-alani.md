@@ -14,7 +14,6 @@ aktiviteler: ["Balık avı","Su sporları","Doğa yürüyüşleri","Trekking","K
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Bolluk Gölü Sit Alanı","caption":"Bolluk Gölü Sit Alanı","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolluk%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226402","tip":"genel"}]
-"
 keywords: ["Bolluk Gölü","Sit Alanı","İç Anadolu Bölgesi","Doğa","Göl","Turizm","Gezi","Yaban Hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226402"

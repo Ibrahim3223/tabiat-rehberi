@@ -20,7 +20,6 @@ aktiviteler: ["Trekking","Doğa yürüyüşleri","Fotoğrafçılık","Yaban haya
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Kargıdık Tepesi","caption":"Kargıdık Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karg%C4%B1d%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388730","tip":"genel"}]
-"
 keywords: ["Kargıdık Tepesi","Muğla","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388730"

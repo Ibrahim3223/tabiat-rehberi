@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak","caption":"Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Hendek-Suleymaniye%20Sivri%20Meyveli%20Disbudak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228050","tip":"genel"}]
-"
 keywords: ["Sakarya","Marmara Bölgesi","milli park","doğa","flora","fauna","gezi","ziyaret","Suleymaniye","Hendek"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228050"

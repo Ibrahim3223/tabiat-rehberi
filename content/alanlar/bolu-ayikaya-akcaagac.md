@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Yaban hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Bolu Ayikaya-Akcaagac","caption":"Bolu Ayikaya-Akcaagac","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Ayikaya-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228091","tip":"genel"}]
-"
 keywords: ["Bolu","Ayikaya-Akcaagac","Milli Park","İç Anadolu Bölgesi","doğa","turizm","gezi","yaban hayatı","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228091"

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna İzleme","Fotoğrafçılık","Çevre Gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/20240618_164642_minik_yabani_dag_cicegi.jpg","alt":"Domaniç-Kaşalıç manzarası","credit":"Wentiu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20240618_164642_minik_yabani_dag_cicegi.jpg/960px-20240618_164642_minik_yabani_dag_cicegi.jpg","alt":"Domaniç-Kaşalıç","caption":"Domaniç-Kaşalıç","credit":"20240618 164642 minik yabani dag cicegi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Antalya_Falez.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Antalya_Falez.jpg/1280px-Antalya_Falez.jpg","alt":"Domaniç-Kaşalıç - Antalya Falez","credit":"Akgul Era Erdem","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domani%C3%A7-Ka%C5%9Fal%C4%B1%C3%A7","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227059","tip":"genel"}]
 

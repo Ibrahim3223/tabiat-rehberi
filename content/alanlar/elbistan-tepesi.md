@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Elbistan Tepesi","caption":"Elbistan Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elbistan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385853","tip":"genel"}]
-"
 keywords: ["Elbistan Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","turizm","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385853"

@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","keşif","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Yaralıgöz","caption":"Yaralıgöz","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaral%C4%B1g%C3%B6z","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228124","tip":"genel"}]
-"
 keywords: ["Yaralıgöz","İç Anadolu Bölgesi","doğal güzellik","yeşil alan"," milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228124"

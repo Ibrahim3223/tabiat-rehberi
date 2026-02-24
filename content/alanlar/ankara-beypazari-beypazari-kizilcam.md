@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Ankara-Beypazarı-Beypazarı-Kızılçam","caption":"Ankara-Beypazarı-Beypazarı-Kızılçam","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Beypazar%C4%B1-Beypazar%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228259","tip":"genel"}]
-"
 keywords: ["Ankara","Beypazarı","Kızılçam","milli park","İç Anadolu Bölgesi","doğal alan","yeşil alan","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228259"

@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Sunset_over_the_Devil%27s_Hill.jpg","alt":"Şeytan Tepesi manzarası","credit":"Ozenc Irmak","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/%C5%9Eeytan_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/%C5%9Eeytan_Tepesi.jpg/1280px-%C5%9Eeytan_Tepesi.jpg","alt":"Şeytan Tepesi - Şeytan Tepesi","credit":"Ayser ","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeytan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389034","tip":"genel"}]
-"
 keywords: ["Şeytan Tepesi","Doğu Anadolu Bölgesi","Erzurum","tepe","doğa","gezi","tarih","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389034"

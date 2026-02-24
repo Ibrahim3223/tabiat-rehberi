@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Piknik","Doğa gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Bahal Vadisi Sit Alanı","caption":"Bahal Vadisi Sit Alanı","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahal%20Vadisi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226506","tip":"genel"}]
-"
 keywords: ["Bahal Vadisi","Sit Alanı","İç Anadolu Bölgesi","Doğa","Gezi","Türkiye"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226506"

@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Tanay Tabiat Parkı","caption":"Tanay Tabiat Parkı","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tanay%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228347","tip":"genel"}]
-"
 keywords: ["Tanay Tabiat Parkı","Çeşme","İzmir","Tabiat Parkı","doğa","flora","fauna","çevre","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228347"

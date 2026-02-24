@@ -18,10 +18,9 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","yürüyüş"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi.jpg","alt":"Doğançay Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg/960px-Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg","alt":"Doğançay Şelalesi","caption":"Doğançay Şelalesi","credit":"Doğançay Şelalesi","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg/1280px-Do%C4%9Fan%C3%A7ay_%C5%9Eelalesi.jpg","alt":"Doğançay Şelalesi - Doğançay Şelalesi","credit":"Acar54","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q27610263","tip":"genel"}]
-"
 keywords: ["Doğançay Şelalesi","Sakarya","Marmara Bölgesi","şelale","yeşil alan","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q27610263"

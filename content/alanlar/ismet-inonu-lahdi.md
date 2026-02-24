@@ -21,7 +21,6 @@ aktiviteler: ["dinlenme","eğlenme","doğa yürüyüşü","fotografcılık","pic
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"İsmet İnönü Lahdi","caption":"İsmet İnönü Lahdi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0smet%20%C4%B0n%C3%B6n%C3%BC%20Lahdi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728099","tip":"genel"}]
-"
 keywords: ["İsmet İnönü Lahdi","Çankaya","Ankara","İç Anadolu Bölgesi","plaj","yeşil alan","tarihi geçmişi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728099"

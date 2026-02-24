@@ -21,7 +21,6 @@ aktiviteler: ["Tarih gezisi","Arkeoloji turu","Kültür gezisi","Flora ve fauna 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 36","caption":"Bin Tepeler Tümülüsü 36","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2036","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728340","tip":"genel"}]
-"
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","Tarih","Arkeoloji","Kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728340"

@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","denize girme","restoranlarda yemek yeme","o
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Balık Pazarı Hamamı","caption":"Balık Pazarı Hamamı","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1k%20Pazar%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738895","tip":"genel"}]
-"
 keywords: ["Antalya","Muratpaşa","Balık Pazarı Hamamı","yeşil alan","doğal güzellik","gezi","turizm","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738895"

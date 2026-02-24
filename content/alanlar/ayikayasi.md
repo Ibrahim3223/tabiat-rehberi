@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ay%C4%B1kayas%C4%B1-Tabiat-Park%C4%B1.jpg/960px-Ay%C4%B1kayas%C4%B1-Tabiat-Park%C4%B1.jpg","alt":"Ayıkayası","caption":"Ayıkayası","credit":"Ayıkayası-Tabiat-Parkı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1kayas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228466","tip":"genel"}]
-"
 keywords: ["Ayıkayası","İç Anadolu Bölgesi","doğal güzellik","milli park","turizm","gezi","yaban hayatı","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228466"

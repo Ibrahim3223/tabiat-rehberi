@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","keşif gezisi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Mersin-Mut Kestel Dagi","caption":"Mersin-Mut Kestel Dagi","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Kestel%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227082","tip":"genel"}]
-"
 keywords: ["Mersin","Kestel Dağı","doğal güzellik","yeşil alan","turizm","gezi","Mersin-Mut"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227082"

@@ -21,7 +21,6 @@ aktiviteler: ["yürüyüş","piknik","doğayı seyretmek"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Çifte Hamam, Ortahisar","caption":"Çifte Hamam, Ortahisar","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Hamam%2C%20Ortahisar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245803","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245803"

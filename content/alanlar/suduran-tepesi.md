@@ -21,7 +21,6 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Suduran Tepesi","caption":"Suduran Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suduran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31561284","tip":"genel"}]
-"
 keywords: ["Zonguldak","Karadeniz Bölgesi","Suduran Tepesi","doğa","tepe","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31561284"

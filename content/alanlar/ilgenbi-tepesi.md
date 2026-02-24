@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarihî kalıntıları
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"İlgenbi Tepesi","caption":"İlgenbi Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lgenbi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389881","tip":"genel"}]
-"
 keywords: ["İlgenbi Tepesi","Sinop","Karadeniz Bölgesi","doğa","yeşillik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389881"

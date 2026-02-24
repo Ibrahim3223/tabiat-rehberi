@@ -22,7 +22,6 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Bekirbey%20hamam%C4%B1.jpg","alt":"Bekir Bey Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Bekirbey_hamam%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bekirbey_hamam%C4%B1.jpg/1280px-Bekirbey_hamam%C4%B1.jpg","alt":"Bekir Bey Hamamı - Bekirbey hamamı","credit":"Beytullah eles","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekir%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739220","tip":"genel"}]
-"
 keywords: ["Bekir Bey Hamamı","Adıyaman","Besni","Güneydoğu Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739220"

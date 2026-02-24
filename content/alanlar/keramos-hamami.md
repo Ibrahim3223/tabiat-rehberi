@@ -21,7 +21,6 @@ aktiviteler: ["Denize girme","Güneşlenme","Doga yürüyüşleri","Su sporları
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Keramos Hamamı","caption":"Keramos Hamamı","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keramos%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245737","tip":"genel"}]
-"
 keywords: ["Keramos Hamamı","Milas","Muğla","Ege Bölgesi","plaj","doğa","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245737"

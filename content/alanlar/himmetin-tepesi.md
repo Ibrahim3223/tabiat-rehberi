@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","tarihi yerleri
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Himmetin Tepesi","caption":"Himmetin Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Himmetin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390682","tip":"genel"}]
-"
 keywords: ["Himmetin Tepesi","Amasya","Karadeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390682"

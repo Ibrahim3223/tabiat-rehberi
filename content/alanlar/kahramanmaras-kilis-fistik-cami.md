@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotografcılık","tarihî yapıları ziyare
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Kahramanmaras-Kilis Fistik Cami","caption":"Kahramanmaras-Kilis Fistik Cami","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kilis%20Fistik%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228005","tip":"genel"}]
-"
 keywords: ["Kahramanmaras","Kilis","Fistik Cami","tarihi yapılar","yeşil alanlar","doğa","kültür","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228005"

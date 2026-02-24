@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Tarihi_Kayseri_Mahallesi_360_Panorama.jpg","alt":"Setenönü Hamamı manzarası","credit":"Abdurrahman Çam","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seten%C3%B6n%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738776","tip":"genel"}]
-"
 keywords: ["Setenönü Hamamı","Kayseri","Melikgazi","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738776"

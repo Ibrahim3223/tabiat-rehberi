@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Sinop Erfelek Sit Alanı","caption":"Sinop Erfelek Sit Alanı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop%20Erfelek%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226185","tip":"genel"}]
-"
 keywords: ["Sinop","Erfelek","Sit Alanı","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226185"

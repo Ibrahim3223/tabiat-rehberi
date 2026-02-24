@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Aslan Ardici","caption":"Aslan Ardici","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aslan%20Ardici","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227171","tip":"genel"}]
-"
 keywords: ["Aslan Ardici","milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","ekosistem","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227171"

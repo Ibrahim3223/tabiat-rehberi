@@ -22,7 +22,6 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BCpl%C3%BC%20Hamam%20Wiki.jpg","alt":"Küplü Hamam manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/95/K%C3%BCpl%C3%BC_Hamam_Wiki.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/K%C3%BCpl%C3%BC_Hamam_Wiki.jpg/1280px-K%C3%BCpl%C3%BC_Hamam_Wiki.jpg","alt":"Küplü Hamam - Küplü Hamam Wiki","credit":"Canercangul","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCpl%C3%BC%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738929","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738929"

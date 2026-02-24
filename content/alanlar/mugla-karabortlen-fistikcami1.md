@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","bitki gözlemi","hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Mugla-Karabortlen-Fistikcami1","caption":"Mugla-Karabortlen-Fistikcami1","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Karabortlen-Fistikcami1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228520","tip":"genel"}]
-"
 keywords: ["milli park","Muğla","Ege Bölgesi","yeşil alan","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228520"

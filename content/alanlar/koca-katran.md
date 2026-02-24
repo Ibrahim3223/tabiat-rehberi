@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","bit
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Koca Katran","caption":"Koca Katran","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Katran","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227129","tip":"genel"}]
-"
 keywords: ["doğal alan","İç Anadolu Bölgesi","Koca Katran","milli park","flora","fauna","coğrafya","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227129"

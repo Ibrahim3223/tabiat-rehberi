@@ -12,10 +12,9 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Bisiklet","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Dibek_Sedir_A%C4%9Fac%C4%B1_monumental_tree.jpg","alt":"Dibek Sedir Ağaci manzarası","credit":"Gokhan aktas 07","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dibek_Sedir_A%C4%9Fac%C4%B1_monumental_tree.jpg/960px-Dibek_Sedir_A%C4%9Fac%C4%B1_monumental_tree.jpg","alt":"Dibek Sedir Ağaci","caption":"Dibek Sedir Ağaci","credit":"Dibek Sedir Ağacı monumental tree","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dibek%20Sedir%20A%C4%9Faci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227350","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227350"

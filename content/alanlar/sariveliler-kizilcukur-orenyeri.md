@@ -21,7 +21,6 @@ aktiviteler: ["gezi","yürüyüş","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Sarıveliler Kızılçukur Örenyeri","caption":"Sarıveliler Kızılçukur Örenyeri","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1veliler%20K%C4%B1z%C4%B1l%C3%A7ukur%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728147","tip":"genel"}]
-"
 keywords: ["Sarıveliler","Kızılçukur Örenyeri","Karaman","doğal güzellik","iç Anadolu Bölgesi","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728147"

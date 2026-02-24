@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","bisiklet sürme","doğa fotoğrafçılığı"," pik
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"BOLU ŞEHİR ORMANI","caption":"BOLU ŞEHİR ORMANI","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BOLU%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228646","tip":"genel"}]
-"
 keywords: ["Bolu Şehir Ormanı","doğa","orman","yeşil alan","fiziksel aktivite","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228646"

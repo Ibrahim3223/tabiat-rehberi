@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Ayvat Bendi Tabiat Parkı","caption":"Ayvat Bendi Tabiat Parkı","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/AyvatBendiNaturePark.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/1280px-AyvatBendiNaturePark.jpg","alt":"Ayvat Bendi Tabiat Parkı - AyvatBendiNaturePark","credit":"CeeGee","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayvat%20Bendi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28220088","tip":"genel"}]
-"
 keywords: ["Ayvat Bendi Tabiat Parkı","İç Anadolu Bölgesi","Tabiat Parkı","Yeşil Alan","Fauna","Doğa","Gezi","Trekking","Kamp"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q28220088"

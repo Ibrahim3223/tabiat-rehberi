@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%C4%B0%C4%9FneadaFloodplainForestsNP_%283%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%283%29.JPG","alt":"Kırklareli-Demirkoy-Kurudere Kayin","caption":"Kırklareli-Demirkoy-Kurudere Kayin","credit":"İğneadaFloodplainForestsNP (3).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklareli-Demirkoy-Kurudere%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227256","tip":"genel"}]
-"
 keywords: ["Kırklareli","Demirköy","Kurudere Kayın","Milli Park","Marmara Bölgesi","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227256"

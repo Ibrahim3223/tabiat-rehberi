@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/SIZIR%20SELALESI%202009%2004%2018.JPG","alt":"Çır Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%87%C4%B1r_%C5%9Eelalesi.jpg/960px-%C3%87%C4%B1r_%C5%9Eelalesi.jpg","alt":"Çır Şelalesi","caption":"Çır Şelalesi","credit":"Çır Şelalesi","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/%C3%87%C4%B1r_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/4/4e/%C3%87%C4%B1r_%C5%9Eelalesi.jpg","alt":"Çır Şelalesi - Çır Şelalesi","credit":"Mahmut Bozarslan","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1r%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5626513","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği, Çır Şelalesi"

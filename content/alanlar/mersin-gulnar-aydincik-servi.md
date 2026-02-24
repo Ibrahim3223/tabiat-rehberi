@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarihi gezinti"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kad%C4%B1nc%C4%B1k_Valley_27.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_27.jpg","alt":"Mersin-Gulnar-Aydincik Servi","caption":"Mersin-Gulnar-Aydincik Servi","credit":"Kadıncık Valley 27.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Gulnar-Aydincik%20Servi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227736","tip":"genel"}]
-"
 keywords: ["Mersin","Gulnar","Aydincik","Servi","milli park","doğa","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227736"

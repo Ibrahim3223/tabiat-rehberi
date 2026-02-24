@@ -21,7 +21,6 @@ aktiviteler: ["Doğa Yürüyüşleri","Trekking","Kaplıca","Doğa Fotoğrafçı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altinkum_Beaches_10_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_10_%28October2009%29_-_panoramio.jpg","alt":"Sakarıılıca Kaplıcaları","caption":"Sakarıılıca Kaplıcaları","credit":"Altinkum Beaches 10 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakar%C4%B1%C4%B1l%C4%B1ca%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738534","tip":"genel"}]
-"
 keywords: ["Sakarıılıca Kaplıcaları","Mihalgazi","Eskişehir","Kaplıca","Doğa","Yeşil Alan","Turizm","Sağlık"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738534"

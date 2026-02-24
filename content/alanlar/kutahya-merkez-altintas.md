@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Fotografcılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Kutahya-Merkez Altıntas","caption":"Kutahya-Merkez Altıntas","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Merkez%20Alt%C4%B1ntas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227087","tip":"genel"}]
-"
 keywords: ["Kutahya","Altıntas","milli park","doğal alan","yeşil alan","fiziksel veriler","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227087"

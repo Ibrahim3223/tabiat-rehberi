@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Isparta-Bucak-Pamucak Kızılçam","caption":"Isparta-Bucak-Pamucak Kızılçam","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak-Pamucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227419","tip":"genel"}]
-"
 keywords: ["Isparta","Bucak","Pamucak","Kızılçam","milli park","doğa","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227419"

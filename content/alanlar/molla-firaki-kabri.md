@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Molla Firaki Kabri","caption":"Molla Firaki Kabri","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Molla%20Firaki%20Kabri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390896","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390896"

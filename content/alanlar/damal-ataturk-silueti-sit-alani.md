@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Damal Atatürk Silüeti Sit Alanı","caption":"Damal Atatürk Silüeti Sit Alanı","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damal%20Atat%C3%BCrk%20Sil%C3%BCeti%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226259","tip":"genel"}]
-"
 keywords: ["Damal Atatürk Silüeti","Sit Alanı","İç Anadolu Bölgesi","doğal alan","korunan bölge"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226259"

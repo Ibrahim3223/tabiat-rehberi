@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio.jpg","alt":"Caygoren manzarası","credit":"turgay arabaci","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3e/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio.jpg","alt":"Caygoren","caption":"Caygoren","credit":"Türkiye balıkesir sındırgı caygören köyü - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio_-_turgay_arabaci.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCrkiye_bal%C4%B1kesir_s%C4%B1nd%C4%B1rg%C4%B1_cayg%C3%B6ren_k%C3%B6y%C3%BC_-_panoramio_-_turgay_arabaci.jpg","alt":"Caygoren - Türkiye balıkesir sındırgı caygören köyü - panoramio - turgay arabaci","credit":"turgay arabaci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Caygoren","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227807","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin.

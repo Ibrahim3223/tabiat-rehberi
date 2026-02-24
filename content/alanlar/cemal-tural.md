@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Grave_of_Cemal_Tural.jpg","alt":"Cemal Tural manzarası","credit":"Kolhisli","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Grave_of_Cemal_Tural.jpg/960px-Grave_of_Cemal_Tural.jpg","alt":"Cemal Tural","caption":"Cemal Tural","credit":"Grave of Cemal Tural","license":"CC BY 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/These_old_guys_are_the_our_source_of_fresh_air.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/b/b0/These_old_guys_are_the_our_source_of_fresh_air.jpg","alt":"Cemal Tural - These old guys are the our source of fresh air","credit":"Umay BAHADIR","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemal%20Tural","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228243","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"

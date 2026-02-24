@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","bitki gözlemi","hayvan
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Creek_-_panoramio.jpg/960px-The_Creek_-_panoramio.jpg","alt":"Bozada Tepesi","caption":"Bozada Tepesi","credit":"The Creek - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozada%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390641","tip":"genel"}]
-"
 keywords: ["Kırşehir","Bozada Tepesi","doğal güzellik","tepe","gezi","İç Anadolu Bölgesi","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390641"

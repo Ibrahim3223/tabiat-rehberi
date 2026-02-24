@@ -21,7 +21,6 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","çevre gez
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Sitti Zeynep Kümbeti","caption":"Sitti Zeynep Kümbeti","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sitti%20Zeynep%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582843","tip":"genel"}]
-"
 keywords: ["Sitti Zeynep Kümbeti","Battalgazi","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","gezi","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582843"

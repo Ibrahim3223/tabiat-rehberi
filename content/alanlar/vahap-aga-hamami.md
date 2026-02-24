@@ -22,7 +22,6 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Himama%20Vahap%20Amed%202009.JPG","alt":"Vahap Ağa Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Himama_Vahap_Amed_2009.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Himama_Vahap_Amed_2009.JPG/1280px-Himama_Vahap_Amed_2009.JPG","alt":"Vahap Ağa Hamamı - Himama Vahap Amed 2009","credit":"MikaelF","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vahap%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q87768671","tip":"genel"}]
-"
 keywords: ["Diyarbakır","Vahap Ağa Hamamı","tarih","plaj","yeşil alan","güneydoğu anadolu","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q87768671"

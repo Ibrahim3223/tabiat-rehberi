@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","çocuk oyunları","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Istanbul-Bahcekoy-Bentler Ihlamur","caption":"Istanbul-Bahcekoy-Bentler Ihlamur","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Bahcekoy-Bentler%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227746","tip":"genel"}]
-"
 keywords: ["milli park","Ihlamur","Bahçeköy","İstanbul","doğa","yeşil alan","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227746"

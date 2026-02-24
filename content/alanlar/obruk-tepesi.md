@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihsel ve kült
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Obruk Tepesi","caption":"Obruk Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Obruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388034","tip":"genel"}]
-"
 keywords: ["Obruk Tepesi","Kütahya","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388034"

@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Gözlem","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Konya-Kadinhani-Karacam","caption":"Konya-Kadinhani-Karacam","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Kadinhani-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228106","tip":"genel"}]
-"
 keywords: ["Konya","Kadinhani","Karacam","Milli Park","Doğa","Flora","Fauna","Tarihçe","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228106"

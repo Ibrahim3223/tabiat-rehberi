@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Historical_Turkish_bath_in_Su%C5%9Fehri.jpg","alt":"Hasan Gedik Hamamı manzarası","credit":"Maurice Flesier","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Gedik%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738519","tip":"genel"}]
-"
 keywords: ["Hasan Gedik Hamamı","Suşehri","Sivas","İç Anadolu Bölgesi","doğal güzellikler","tarihi geçmişi","yeşil alan","turizm","gezi","seyahat"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738519"

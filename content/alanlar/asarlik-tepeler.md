@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Asarlık Tepeler","caption":"Asarlık Tepeler","credit":"MOKFC09.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarl%C4%B1k%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28450849","tip":"genel"}]
-"
 keywords: ["Asarlık Tepeler","Ankara","doğa","gezi","turizm","milli park","iç Anadolu Bölgesi","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q28450849"

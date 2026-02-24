@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotografçılık","Picnic","Marmaris'in tar
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Mugla Marmaris Datca-Datca Hurmasi","caption":"Mugla Marmaris Datca-Datca Hurmasi","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla%20Marmaris%20Datca-Datca%20Hurmasi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228120","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228120"

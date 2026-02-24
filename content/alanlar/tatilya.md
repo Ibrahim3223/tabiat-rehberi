@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşleri","kampçılık","trekking","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Tatilya","caption":"Tatilya","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tatilya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6037020","tip":"genel"}]
-"
 keywords: ["Tatilya","İç Anadolu Bölgesi","doğa","yeşil alan","plaj","gezi","turizm","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6037020"

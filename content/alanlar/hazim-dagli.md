@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1f/WhatsApp_G%C3%B6rsel_2024-06-20_saat_11.10.08_16eb6145.jpg","alt":"Hazım Dagli manzarası","credit":"JeanForSted","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haz%C4%B1m%20Dagli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228138","tip":"genel"}]
-"
 keywords: ["Hazım Dagli","İç Anadolu Bölgesi","doğal alan","milli park","flora","fauna","coğrafya","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228138"

@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Piknik","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"ESKİPAZAR KENT ORMAN","caption":"ESKİPAZAR KENT ORMAN","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ESK%C4%B0PAZAR%20KENT%20ORMAN","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228604","tip":"genel"}]
-"
 keywords: ["Eskipazar","Kent Ormanı","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228604"

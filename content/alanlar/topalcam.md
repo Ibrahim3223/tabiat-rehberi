@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekmek",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Topalçam","caption":"Topalçam","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topal%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228342","tip":"genel"}]
-"
 keywords: ["Topalçam","İç Anadolu Bölgesi","doğal alan","milli park","turizm","ekoloji","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228342"

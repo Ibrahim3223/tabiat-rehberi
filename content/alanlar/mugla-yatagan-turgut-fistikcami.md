@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","fotografc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Mugla-Yatagan-Turgut Fistikçami","caption":"Mugla-Yatagan-Turgut Fistikçami","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Yatagan-Turgut%20Fistik%C3%A7ami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227735","tip":"genel"}]
-"
 keywords: ["milli park","Mugla","Yatagan","Turgut","Fistikçami","doğa","flora","fauna","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227735"

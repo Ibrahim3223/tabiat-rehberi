@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/2023-02-06_Central_Turkey_M6.7_earthquake_shakemap_%28USGS%29.jpg","alt":"Damlataş Mağarası","caption":"Damlataş Mağarası","credit":"2023-02-06 Central Turkey M6.7 earthquake shakemap (USGS)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Damlata%C5%9F_Ma%C4%9Faras%C4%B1_1.jpg/960px-Damlata%C5%9F_Ma%C4%9Faras%C4%B1_1.jpg","alt":"Damlataş Mağarası","caption":"Damlataş Mağarası","credit":"Damlataş Mağarası 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damlata%C5%9F%20Ma%C4%9Faras%C4%B1%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319116","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Damlataş Mağarası, jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Damlataş Mağarası","Çorum","Jeopark","Doğal Alanlar","Mağara Gezisi","Çorum Turizm","Jeolojik Oluşumlar","Turistik Yerler","Doğa Harikaları"]

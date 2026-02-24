@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/28/Bal%C4%B1kesir_Burhaniye-Pazarba%C5%9F%C4%B1_Hamam%C4%B1-%C3%96mer_Gemici.jpg","alt":"Pazarbaşı Hamamı manzarası","credit":"Gemici49","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pazarba%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739170","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739170"

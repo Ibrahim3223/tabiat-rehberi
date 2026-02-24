@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografçılık","tarihî 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Çaylak Tepesi","caption":"Çaylak Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aylak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828827","tip":"genel"}]
-"
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","Çaylak Tepesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34828827"

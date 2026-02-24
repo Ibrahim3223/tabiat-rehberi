@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/66/Zonguldak_Cehennem_A%C4%9Fz%C4%B1_Ma%C4%9Faralar%C4%B1.jpg","alt":"Cehennemağzı Mağaraları manzarası","credit":"Oğuz67","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zonguldak_Cehennem_A%C4%9Fz%C4%B1_Ma%C4%9Faralar%C4%B1.jpg/960px-Zonguldak_Cehennem_A%C4%9Fz%C4%B1_Ma%C4%9Faralar%C4%B1.jpg","alt":"Cehennemağzı Mağaraları","caption":"Cehennemağzı Mağaraları","credit":"Zonguldak Cehennem Ağzı Mağaraları","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cehennema%C4%9Fz%C4%B1%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319098","tip":"genel"}]
 description: "Zonguldak'ta yer alan Cehennemağzı Mağaraları, jeolojik oluşumlarıyla dikkat çeker. Doğal güzellikleri keşfedin."

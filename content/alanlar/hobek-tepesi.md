@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Hobek Tepesi","caption":"Hobek Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hobek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536139","tip":"genel"}]
-"
 keywords: ["Hobek Tepesi","Hatay","Akdeniz Bölgesi","doğa alanı","tepe","gezi","turizm","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31536139"

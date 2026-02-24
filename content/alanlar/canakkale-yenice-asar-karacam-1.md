@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Doğa gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Canakkale-Yenice-Asar Karacam 1","caption":"Canakkale-Yenice-Asar Karacam 1","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice-Asar%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227497","tip":"genel"}]
-"
 keywords: ["Çanakkale","Marmara Bölgesi","Asar Karacam","milli park","doğa","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227497"

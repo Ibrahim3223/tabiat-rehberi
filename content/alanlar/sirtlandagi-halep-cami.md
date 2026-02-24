@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Sırtlandağı Halep Çamı","caption":"Sırtlandağı Halep Çamı","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rtlanda%C4%9F%C4%B1%20Halep%20%C3%87am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227057","tip":"genel"}]
-"
 keywords: ["Sırtlandağı Halep Çamı","milli park","İç Anadolu Bölgesi","doğal güzellik","Halep çamı","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227057"

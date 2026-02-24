@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezileri","Flora ve fauna gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg","alt":"Bolu-Duzce-Samandere Dogu Kayini","caption":"Bolu-Duzce-Samandere Dogu Kayini","credit":"Bolu Gölcük Tabiat 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Duzce-Samandere%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227777","tip":"genel"}]
-"
 keywords: ["Bolu-Duzce-Samandere Dogu Kayini","Karadeniz Bölgesi","Doğa","Turizm","Milli Park","Doğal Alan","Çevre","Ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227777"

@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Kamilet Doğu Kayını","caption":"Kamilet Doğu Kayını","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamilet%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227375","tip":"genel"}]
-"
 keywords: ["Kamilet Doğu Kayını","İç Anadolu Bölgesi","Doğal Alanlar","Yeşil Alanlar","Milli Parklar","Doğa","Çevre","Ekosistem","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227375"

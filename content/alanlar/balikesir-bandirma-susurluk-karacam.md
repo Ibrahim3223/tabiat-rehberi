@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic","Doğa İzleme"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Balikesir-Bandırma-Susurluk-Karaçam","caption":"Balikesir-Bandırma-Susurluk-Karaçam","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Band%C4%B1rma-Susurluk-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228420","tip":"genel"}]
-"
 keywords: ["Balikesir","Bandırma","Susurluk","Karaçam","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228420"

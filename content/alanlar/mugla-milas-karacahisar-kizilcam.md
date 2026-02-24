@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Bitki ve hayvan gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Mugla-Milas-Karacahisar Kızılçam","caption":"Mugla-Milas-Karacahisar Kızılçam","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Karacahisar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227669","tip":"genel"}]
-"
 keywords: ["Mugla","Milas","Karacahisar","Kızılçam","Milli Park","Doğa","Flora","Fauna","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227669"

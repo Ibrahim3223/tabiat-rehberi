@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Yaban hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Bolu Mudurnu Almacik-Akcaagac","caption":"Bolu Mudurnu Almacik-Akcaagac","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Mudurnu%20Almacik-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228093","tip":"genel"}]
-"
 keywords: ["Bolu","Mudurnu","Almacik-Akcaagac","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228093"

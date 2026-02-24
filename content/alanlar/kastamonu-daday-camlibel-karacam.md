@@ -14,7 +14,6 @@ aktiviteler: ["trekking","kamp","doğa yürüyüşü","rehberli turlar"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Kastamonu-Daday-Camlibel-Karacam","caption":"Kastamonu-Daday-Camlibel-Karacam","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Camlibel-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227681","tip":"genel"}]
-"
 keywords: ["Kastamonu","milli park","doğa","gezi","turizm","Karadeniz","Kastamonu-Daday-Camlibel-Karacam","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227681"

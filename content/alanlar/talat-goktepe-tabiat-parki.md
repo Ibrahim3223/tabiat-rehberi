@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Talat Göktepe Tabiat Parkı","caption":"Talat Göktepe Tabiat Parkı","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Talat%20G%C3%B6ktepe%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48790814","tip":"genel"}]
-"
 keywords: ["Talat Göktepe Tabiat Parkı","Erdemli","Mersin","Tabiat Parkı","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q48790814"

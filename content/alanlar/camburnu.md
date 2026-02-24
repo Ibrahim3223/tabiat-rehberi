@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Bu%C4%9Fdayl%C4%B1k_%C3%A7amburnu_-_panoramio.jpg","alt":"Çamburnu manzarası","credit":"Ibrahim Kara","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bu%C4%9Fdayl%C4%B1k_%C3%A7amburnu_-_panoramio.jpg/960px-Bu%C4%9Fdayl%C4%B1k_%C3%A7amburnu_-_panoramio.jpg","alt":"Çamburnu","caption":"Çamburnu","credit":"Buğdaylık çamburnu - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amburnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228028","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Çamburnu milli parkı, benzersiz bir doğa deneyimi sunuyor."

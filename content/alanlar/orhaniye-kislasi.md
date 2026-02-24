@@ -21,7 +21,6 @@ aktiviteler: ["Deniz keyfi","Piknik","Doğa yürüyüşü","Tarih turu"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Orhaniye Kışlası","caption":"Orhaniye Kışlası","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orhaniye%20K%C4%B1%C5%9Flas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6040231","tip":"genel"}]
-"
 keywords: ["Orhaniye Kışlası","İstanbul plajları","tarihçe","coğrafya","flora","fauna","ziyaret","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6040231"

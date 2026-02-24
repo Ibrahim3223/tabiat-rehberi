@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Çamgölü","caption":"Çamgölü","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amg%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227798","tip":"genel"}]
-"
 keywords: ["Çamgölü","İç Anadolu Bölgesi","doğa","göl","orman","flora","fauna","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227798"

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Dipsiz_g%C3%B6l%C3%BCn_do%C4%9Fal_manzaras%C4%B1.jpg","alt":"Dipsiz Göl (Erzurum) manzarası","credit":"Vahap bilgin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yalova_dipsiz_g%C3%B6l.jpg/960px-Yalova_dipsiz_g%C3%B6l.jpg","alt":"Dipsiz Göl","caption":"Dipsiz Göl","credit":"Yalova dipsiz göl","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Dipsiz_g%C3%B6l_2019.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dipsiz_g%C3%B6l_2019.jpg/1280px-Dipsiz_g%C3%B6l_2019.jpg","alt":"Dipsiz Göl (Erzurum) - Dipsiz göl 2019","credit":"Vahap bilgin","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dipsiz%20G%C3%B6l%20(Erzurum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6023590","tip":"genel"}]
 description: "Erzurum'un Doğanşar ilçesinde bulunan Dipsiz Göl, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

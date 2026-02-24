@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Elik Tepesi","caption":"Elik Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389924","tip":"genel"}]
-"
 keywords: ["Samsun","Karadeniz Bölgesi","Elik Tepesi","doğa","flora","fauna","gezi","turizm","Samsun doğa alanları","Karadeniz Bölgesi turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389924"

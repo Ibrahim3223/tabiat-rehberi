@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Mercimek Tepesi","caption":"Mercimek Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mercimek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386586","tip":"genel"}]
-"
 keywords: ["Mercimek Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","tepe","doğa","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386586"

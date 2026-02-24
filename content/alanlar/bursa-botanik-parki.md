@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Bursa_Botanik_Park%C4%B12.JPG","alt":"Bursa Botanik Parkı manzarası","credit":"Onurkayabasi","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bursa_Botanik_Park%C4%B12.JPG/960px-Bursa_Botanik_Park%C4%B12.JPG","alt":"Bursa Botanik Parkı","caption":"Bursa Botanik Parkı","credit":"Bursa Botanik Parkı2","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa%20Botanik%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q527767","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan 1200 hektarlık botanik park, 250.000'den fazla bitki türünü barındırır."

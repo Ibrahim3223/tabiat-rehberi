@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","müze gezisi","bitki ve hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Sebahattin Yıldız Müzesi","caption":"Sebahattin Yıldız Müzesi","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebahattin%20Y%C4%B1ld%C4%B1z%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85974608","tip":"genel"}]
-"
 keywords: ["Sebahattin Yıldız Müzesi","Ankara","Çankaya","müze","yayla","doğa","tarih","kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q85974608"

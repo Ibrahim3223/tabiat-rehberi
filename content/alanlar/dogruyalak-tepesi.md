@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Flora ve fauna gözlemi","Manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Doğruyalak Tepesi","caption":"Doğruyalak Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fruyalak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389589","tip":"genel"}]
-"
 keywords: ["Doğruyalak Tepesi","Balıkesir","Marmara Bölgesi","Doğal Alan","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389589"

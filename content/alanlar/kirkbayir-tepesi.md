@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Bitki ve ağaç gözlemi","Ha
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Kırkbayır Tepesi","caption":"Kırkbayır Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkbay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557586","tip":"genel"}]
-"
 keywords: ["Kırkbayır Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557586"

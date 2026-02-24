@@ -16,7 +16,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Hal%C4%B1c%C4%B1_Ahmet_Urkay_M%C3%BCzesi_giri%C5%9Fi.jpg","alt":"Halıcı Ahmet Urkay Müzesi manzarası","credit":"İmmortalance","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hal%C4%B1c%C4%B1%20Ahmet%20Urkay%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6019696","tip":"genel"}]
-"
 keywords: ["Marmaris","Muğla","Ege Bölgesi","Halıcı Ahmet Urkay Müzesi","yayla","müze","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6019696"

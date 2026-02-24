@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/%C3%87AMLIHEM%C5%9E%C4%B0N_2010_-_panoramio.jpg","alt":"Çamlıhemşin Şelalesi manzarası","credit":"nurettingülay(from T…","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%C3%87AMLIHEM%C5%9E%C4%B0N_2010_-_panoramio.jpg/960px-%C3%87AMLIHEM%C5%9E%C4%B0N_2010_-_panoramio.jpg","alt":"Çamlıhemşin Şelalesi","caption":"Çamlıhemşin Şelalesi","credit":"ÇAMLIHEMŞİN 2010 - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1hem%C5%9Fin%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366737","tip":"genel"}]
 description: "Doğal güzellikleri ile ön plana çıkan Çamlıhemşin Şelalesi, ziyaretçilerini doğanın içerisine davet ediyor."

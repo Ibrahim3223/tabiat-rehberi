@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Fotografcılık","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Sakarya-Akyazi-Dokurcun Saricam","caption":"Sakarya-Akyazi-Dokurcun Saricam","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Akyazi-Dokurcun%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227540","tip":"genel"}]
-"
 keywords: ["Sakarya","Akyazı","Dokurcun Saricam","milli park","Marmara Bölgesi","doğa","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227540"

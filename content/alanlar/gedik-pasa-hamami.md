@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotograf çekimi","tarih keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Gedik Paşa Hamamı","caption":"Gedik Paşa Hamamı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedik%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738986","tip":"genel"}]
-"
 keywords: ["Gedik Paşa Hamamı","Çivril","Denizli","Ege Bölgesi","yeşil alan","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738986"

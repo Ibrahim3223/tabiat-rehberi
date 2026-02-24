@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Tarihî önemi hakkında b
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Eflatunpınar Sit Alanı","caption":"Eflatunpınar Sit Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eflatunp%C4%B1nar%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226400","tip":"genel"}]
-"
 keywords: ["Eflatunpınar","Sit Alanı","İç Anadolu Bölgesi","Doğa","Tarih","Çevre","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226400"

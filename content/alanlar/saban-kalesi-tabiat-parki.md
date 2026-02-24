@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","doğa","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Şaban Kalesi Tabiat Parkı","caption":"Şaban Kalesi Tabiat Parkı","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eaban%20Kalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228998","tip":"genel"}]
-"
 keywords: ["Şaban Kalesi","Tabiat Parkı","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228998"

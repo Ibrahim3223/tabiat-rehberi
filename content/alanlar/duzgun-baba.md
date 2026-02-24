@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/There%27s_a_new_policeman_on_the_beat_-_DPLA_-_1a310185be7ae8169ecbaa25f5e79e0b.jpg","alt":"Düzgün Baba manzarası","credit":"Gillam, Bernhard, 1856-1896","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg/960px-Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg","alt":"Düzgün Baba","caption":"Düzgün Baba","credit":"Diri Baba türbəsi (1402-ci il)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg/1280px-Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg","alt":"Düzgün Baba - Diri Baba türbəsi (1402-ci il)","credit":"Elnur26","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCzg%C3%BCn%20Baba","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6078467","tip":"genel"}]
 

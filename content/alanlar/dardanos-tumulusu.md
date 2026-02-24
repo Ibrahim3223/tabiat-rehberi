@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Aphrodite_Dardanos_T%C3%BCm%C3%BCl%C3%BCs%C3%BC_M%C3%96_1._Y%C3%BCzy%C4%B1l_%2853022428076%29.jpg","alt":"Dardanos Tümülüsü manzarası","credit":"Troya  Müzesi from Çanakkale, Türkiye","license":"cc-by-sa-2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aphrodite_Dardanos_T%C3%BCm%C3%BCl%C3%BCs%C3%BC_M%C3%96_1._Y%C3%BCzy%C4%B1l_%2853022428076%29.jpg/960px-Aphrodite_Dardanos_T%C3%BCm%C3%BCl%C3%BCs%C3%BC_M%C3%96_1._Y%C3%BCzy%C4%B1l_%2853022428076%29.jpg","alt":"Dardanos Tümülüsü","caption":"Dardanos Tümülüsü","credit":"Aphrodite Dardanos Tümülüsü MÖ 1. Yüzyıl (53022428076)","license":"CC BY-SA 2.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dardanos%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728427","tip":"genel"}]
 description: "Çanakkale'nin tarihi ve doğal güzelliklerini keşfedin."

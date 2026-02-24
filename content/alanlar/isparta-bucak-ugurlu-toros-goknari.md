@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Kamp","Ormanlık alanlarda gezi","Nehir k
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P_20180323_150213-01.jpg/960px-P_20180323_150213-01.jpg","alt":"Isparta-Bucak-Ugurlu Toros Goknari","caption":"Isparta-Bucak-Ugurlu Toros Goknari","credit":"P 20180323 150213-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak-Ugurlu%20Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227285","tip":"genel"}]
-"
 keywords: ["Isparta","Bucak","Ugurlu","Toros Goknari","Milli Park","Doğa","Yeşil Alan","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227285"

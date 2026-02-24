@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Şeyhhasan Tepesi","caption":"Şeyhhasan Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhhasan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506855","tip":"genel"}]
-"
 keywords: ["Van","Doğu Anadolu Bölgesi","Şeyhhasan Tepesi","Doğal güzellik","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31506855"

@@ -21,7 +21,6 @@ aktiviteler: ["tarihi yapıları incelemek","yeşil alanlarda dolaşmak","çevre
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg/960px-Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg","alt":"Sefer Şah Türbesi","caption":"Sefer Şah Türbesi","credit":"Karadouran village, Syria-Turkey boarderline, Kessab","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sefer%20%C5%9Eah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391500","tip":"genel"}]
-"
 keywords: ["Sefer Şah Türbesi","Edirne","tarihi mekan","yeşil alan","türk tarihi","tarihi yapı","mimarlık","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391500"

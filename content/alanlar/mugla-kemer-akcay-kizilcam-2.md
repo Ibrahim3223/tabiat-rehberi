@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Flora ve fauna hakkında bilgi edinme","F
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Mugla-Kemer-Akcay Kızılçam 2","caption":"Mugla-Kemer-Akcay Kızılçam 2","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Akcay%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227917","tip":"genel"}]
-"
 keywords: ["Mugla-Kemer-Akcay Kızılçam 2","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227917"

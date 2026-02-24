@@ -21,7 +21,6 @@ aktiviteler: ["Doğa Yürüyüşü","Piknik","Doğa Fotoğrafçılığı","Kuş 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%C3%87ilingozNaturePark_%2814%29.jpg/960px-%C3%87ilingozNaturePark_%2814%29.jpg","alt":"İncüvez Çamlığı Tabiat Parkı","caption":"İncüvez Çamlığı Tabiat Parkı","credit":"ÇilingozNaturePark (14)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nc%C3%BCvez%20%C3%87aml%C4%B1%C4%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228195","tip":"genel"}]
-"
 keywords: ["İncüvez Çamlığı","Tabiat Parkı","Zonguldak","Karadeniz Bölgesi","Doğa","Yeşil Alan","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228195"

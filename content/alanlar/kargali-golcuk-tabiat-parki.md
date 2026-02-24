@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","bitki ve hayv
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Kargalı Gölcük Tabiat Parkı","caption":"Kargalı Gölcük Tabiat Parkı","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kargal%C4%B1%20G%C3%B6lc%C3%BCk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228494","tip":"genel"}]
-"
 keywords: ["Kargalı Gölcük","Tabiat Parkı","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228494"

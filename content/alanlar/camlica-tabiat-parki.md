@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/K%C3%BCtahya_%C3%87aml%C4%B1ca_Tabiat_Park%C4%B1.jpg","alt":"Çamlıca Tabiat Parkı manzarası","credit":"Tugrul499","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/K%C3%BCtahya_%C3%87aml%C4%B1ca_Tabiat_Park%C4%B1.jpg/960px-K%C3%BCtahya_%C3%87aml%C4%B1ca_Tabiat_Park%C4%B1.jpg","alt":"Çamlıca Tabiat Parkı","caption":"Çamlıca Tabiat Parkı","credit":"Kütahya Çamlıca Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1ca%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228240","tip":"genel"}]
 

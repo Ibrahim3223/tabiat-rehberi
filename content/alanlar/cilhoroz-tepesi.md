@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Çilhoroz Tepesi","caption":"Çilhoroz Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ilhoroz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819037","tip":"genel"}]
-"
 keywords: ["Çilhoroz Tepesi","Erzincan","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34819037"

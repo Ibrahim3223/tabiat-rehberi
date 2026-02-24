@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Big%20%C4%B0lyosta%20island%20-%20Ayval%C4%B1k%20%22diving%22%20-%20panoramio.jpg","alt":"Büyük İlyosta Adası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Big_%C4%B0lyosta_island_-_Ayval%C4%B1k_%22diving%22_-_panoramio.jpg/960px-Big_%C4%B0lyosta_island_-_Ayval%C4%B1k_%22diving%22_-_panoramio.jpg","alt":"Büyük İlyosta Adası","caption":"Büyük İlyosta Adası","credit":"Big İlyosta island - Ayvalık \"diving\" - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Big_%C4%B0lyosta_island_-_Ayval%C4%B1k_%22diving%22_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Big_%C4%B0lyosta_island_-_Ayval%C4%B1k_%22diving%22_-_panoramio.jpg/1280px-Big_%C4%B0lyosta_island_-_Ayval%C4%B1k_%22diving%22_-_panoramio.jpg","alt":"Büyük İlyosta Adası - Big İlyosta island - Ayvalık \"diving\" - panoramio","credit":"collage bird's eye v…","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20%C4%B0lyosta%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632493","tip":"genel"}]
 description: "Balıkesir'de yer alan Büyük İlyosta Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

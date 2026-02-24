@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"DÜZCE ŞEHİR ORMANI","caption":"DÜZCE ŞEHİR ORMANI","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%9CZCE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228671","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228671"

@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","su sporları","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Istanbul_beaches-_Sea_of_Marmara_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_03.jpg","alt":"Keçeli Hamamı","caption":"Keçeli Hamamı","credit":"Istanbul beaches- Sea of Marmara 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7eli%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738651","tip":"genel"}]
-"
 keywords: ["Bursa","Osmangazi","Keçeli Hamamı","yeşil alan","plaj","Marmara Bölgesi","doğal alanlar","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738651"

@@ -21,7 +21,6 @@ aktiviteler: ["gezi","doğa yürüyüşü","göl manzarası"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Istanbul_beaches-_Sea_of_Marmara_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_14.jpg","alt":"Şeyh Kutbettin Türbesi","caption":"Şeyh Kutbettin Türbesi","credit":"Istanbul beaches- Sea of Marmara 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Kutbettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390726","tip":"genel"}]
-"
 keywords: ["İznik","Bursa","Marmara Bölgesi","tarih","doğa","turizm","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390726"

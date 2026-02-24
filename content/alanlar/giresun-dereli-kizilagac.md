@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sis_da%C4%9F%C4%B1_%286%29.jpg/960px-Sis_da%C4%9F%C4%B1_%286%29.jpg","alt":"Giresun-Dereli Kizilagac","caption":"Giresun-Dereli Kizilagac","credit":"Sis dağı (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Dereli%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227749","tip":"genel"}]
-"
 keywords: ["Giresun","Dereli","Kizilagac","milli park","Karadeniz Bölgesi","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227749"

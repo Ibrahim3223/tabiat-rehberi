@@ -20,7 +20,6 @@ aktiviteler: ["piknik","doğa yürüyüşü","fotoğraf çekme","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Hatunkaya Deresi","caption":"Hatunkaya Deresi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatunkaya%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389300","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389300"

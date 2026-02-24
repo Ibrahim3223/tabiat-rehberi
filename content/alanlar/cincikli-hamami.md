@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/41/Urfa_H%C4%B1zano%C4%9Flu_Camii_9441.jpg","alt":"Cincıklı Hamamı manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cinc%C4%B1kl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q87817713","tip":"genel"}]
-"
 keywords: ["Cincıklı Hamamı","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q87817713"

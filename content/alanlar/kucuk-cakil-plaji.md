@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","picnic","fotoğraf çekme","doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Küçük Çakıl Plajı","caption":"Küçük Çakıl Plajı","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6010141","tip":"genel"}]
-"
 keywords: ["Küçük Çakıl Plajı","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm","çevre","ekoloji","gezgin"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6010141"

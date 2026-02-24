@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI","caption":"HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HAKKAR%C4%B0%20Y%C3%9CKSEKOVA%20NEH%C4%B0L%20SAZLIKLARI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228930","tip":"genel"}]
-"
 keywords: ["Hakkâri","Yüksekova","Nehil sazlıkları","doğal alanlar","sazlıklar","flora","fauna","milli parklar","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228930"

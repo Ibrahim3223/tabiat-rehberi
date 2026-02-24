@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Gümüşki Tepesi","caption":"Gümüşki Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873170","tip":"genel"}]
-"
 keywords: ["Gümüşki Tepesi","Trabzon","Karadeniz Bölgesi","doğal güzellik","yeşil alan","tepeler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34873170"

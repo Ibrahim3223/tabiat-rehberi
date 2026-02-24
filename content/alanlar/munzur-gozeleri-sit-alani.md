@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Munzur_Vadisi_Milli_Park%C4%B1_Munzur_G%C3%B6zeleri.jpg","alt":"Munzur Gözeleri Sit Alanı manzarası","credit":"Zgcnkygsz","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Munzur%20G%C3%B6zeleri%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226258","tip":"genel"}]
-"
 keywords: ["doğa","gözeler","sit alanı","Munzur","İç Anadolu Bölgesi","turizm","gezi","doğal güzellik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226258"

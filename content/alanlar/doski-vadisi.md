@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Doski%20Vadisi.jpg","alt":"Doski Vadisi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Doski_Vadisi.jpg/960px-Doski_Vadisi.jpg","alt":"Doski Vadisi","caption":"Doski Vadisi","credit":"Doski Vadisi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/48/Gal%C4%AB_Hamb%C4%AB.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gal%C4%AB_Hamb%C4%AB.jpg/1280px-Gal%C4%AB_Hamb%C4%AB.jpg","alt":"Doski Vadisi - Galī Hambī","credit":"Emir doski","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/Doski_Vadisi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Doski_Vadisi.jpg/1280px-Doski_Vadisi.jpg","alt":"Doski Vadisi - Doski Vadisi","credit":"Emir doski","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doski%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125507355","tip":"genel"}]
 description: "Hakkari'nin Yüksekova ilçesinde bulunan Doski Vadisi, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"

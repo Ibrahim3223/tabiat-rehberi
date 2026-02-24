@@ -21,7 +21,6 @@ aktiviteler: ["Denize girmek","Güneşlenmek","Doğa yürüyüşü","Yaban hayat
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Yeni Hamam, Elmalı","caption":"Yeni Hamam, Elmalı","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Elmal%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245822","tip":"genel"}]
-"
 keywords: ["Elmalı","Antalya","Akdeniz Bölgesi","plaj","yeşil alan","deniz","kumsal"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245822"

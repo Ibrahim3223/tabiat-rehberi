@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Delikli%20Kaya.jpg","alt":"Delikli Kaya Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Murgul_Deliklikaya_%C5%9Eelalesi.jpg/960px-Murgul_Deliklikaya_%C5%9Eelalesi.jpg","alt":"Delikli Kaya Şelalesi","caption":"Delikli Kaya Şelalesi","credit":"Murgul Deliklikaya Şelalesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/13/Delikli_Kaya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Delikli_Kaya.jpg/1280px-Delikli_Kaya.jpg","alt":"Delikli Kaya Şelalesi - Delikli Kaya","credit":"Engin Tavlı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/Murgul_Deliklikaya_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Murgul_Deliklikaya_%C5%9Eelalesi.jpg/1280px-Murgul_Deliklikaya_%C5%9Eelalesi.jpg","alt":"Delikli Kaya Şelalesi - Murgul Deliklikaya Şelalesi","credit":"Beyza Küçük","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikli%20Kaya%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207563","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerinden Delikli Kaya Şelalesi, ziyaretçilerini doğanın sessizliğini keşfetmeye davet ediyor."

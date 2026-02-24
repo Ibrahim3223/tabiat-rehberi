@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Tangled02.jpg","alt":"Mehmet Akif Ersoy Tabiat Parkı manzarası","credit":"Meryemb Ince","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Tangled01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tangled01.jpg/1280px-Tangled01.jpg","alt":"Mehmet Akif Ersoy Tabiat Parkı - Tangled01","credit":"Meryemb Ince","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/Fern100.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fern100.jpg/1280px-Fern100.jpg","alt":"Mehmet Akif Ersoy Tabiat Parkı - Fern100","credit":"Meryemb Ince","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Tangled03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tangled03.jpg/1280px-Tangled03.jpg","alt":"Mehmet Akif Ersoy Tabiat Parkı - Tangled03","credit":"Meryemb Ince","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmet%20Akif%20Ersoy%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623258","tip":"genel"}]
-"
 keywords: ["Mehmet Akif Ersoy Tabiat Parkı","Sarıyer","İstanbul","Marmara Bölgesi","Tabiat Parkı","Yeşil Alan","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q30623258"

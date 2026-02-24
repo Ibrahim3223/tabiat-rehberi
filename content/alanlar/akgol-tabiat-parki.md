@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Akg%C3%B6l_Tabiat_Park%C4%B1.jpg/960px-Akg%C3%B6l_Tabiat_Park%C4%B1.jpg","alt":"Akgöl Tabiat Parkı","caption":"Akgöl Tabiat Parkı","credit":"Akgöl Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Akg%C3%B6l-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Akg%C3%B6l-1.jpg/1280px-Akg%C3%B6l-1.jpg","alt":"Akgöl Tabiat Parkı - Akgöl-1","credit":"Chetele","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Akg%C3%B6l_Tabiat_Park%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Akg%C3%B6l_Tabiat_Park%C4%B1.jpg/1280px-Akg%C3%B6l_Tabiat_Park%C4%B1.jpg","alt":"Akgöl Tabiat Parkı - Akgöl Tabiat Parkı","credit":"Egalmak","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/Akg%C3%B6l-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Akg%C3%B6l-2.jpg/1280px-Akg%C3%B6l-2.jpg","alt":"Akgöl Tabiat Parkı - Akgöl-2","credit":"Chetele","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akg%C3%B6l%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110423280","tip":"genel"}]
-"
 keywords: ["Akgöl Tabiat Parkı","Ayancık","Sinop","Tabiat Parkı","Karadeniz Bölgesi","yeşil alan","fauna","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q110423280"

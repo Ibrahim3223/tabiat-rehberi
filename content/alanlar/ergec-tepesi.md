@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","doğa gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Ergeç Tepesi","caption":"Ergeç Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erge%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867830","tip":"genel"}]
-"
 keywords: ["Ergeç Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34867830"

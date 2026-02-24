@@ -12,10 +12,9 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Çevre Gezisi","Fotoğrafçılık","Doğa İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/An%C4%B1t_Kara%C3%A7am_%28Pinus_nigra%29%2C_Denizli.jpg","alt":"Denizli Karacam manzarası","credit":"Şahin 1","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/An%C4%B1t_Kara%C3%A7am_%28Pinus_nigra%29%2C_Denizli.jpg","alt":"Denizli Karacam","caption":"Denizli Karacam","credit":"Anıt Karaçam (Pinus nigra), Denizli","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227500","tip":"genel"}]
-"
 keywords: ["Doğal Alan","İç Anadolu Bölgesi","Denizli Karacam","Yeşil Alan","Ziyaretçi","Doğa","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227500"

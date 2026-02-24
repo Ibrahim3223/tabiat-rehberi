@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","fotografç
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abant_Lake_Nature_Park.jpg/960px-Abant_Lake_Nature_Park.jpg","alt":"Bolu-Aladag Saricam 4","caption":"Bolu-Aladag Saricam 4","credit":"Abant Lake Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227557","tip":"genel"}]
-"
 keywords: ["Bolu-Aladag Saricam 4","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekosistem","koruma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227557"

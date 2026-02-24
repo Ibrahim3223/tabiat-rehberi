@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa keşfi","fotografcılık","kuş gözlemciliğ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Sülüklü Göl Sit Alanı","caption":"Sülüklü Göl Sit Alanı","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226226","tip":"genel"}]
-"
 keywords: ["Sülüklü Göl","Sit Alanı","İç Anadolu Bölgesi","doğal alan","göl","flora","fauna","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226226"

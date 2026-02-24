@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg/960px-Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg","alt":"Bayır Çınarı","caption":"Bayır Çınarı","credit":"Bayır Köyü Çınarı 1800 Yaş - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg/1280px-Bay%C4%B1r_K%C3%B6y%C3%BC_%C3%87%C4%B1nar%C4%B1_1800_Ya%C5%9F_-_panoramio.jpg","alt":"Bayır Çınarı - Bayır Köyü Çınarı 1800 Yaş - panoramio","credit":"Necdet Tunçer","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bay%C4%B1r%20%C3%87%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227345","tip":"genel"}]
-"
 keywords: ["Bayır Çınarı","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227345"

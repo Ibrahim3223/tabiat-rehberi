@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik yapmak"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Kükürtlü Su Kaynağı Sit Alanı","caption":"Kükürtlü Su Kaynağı Sit Alanı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrtl%C3%BC%20Su%20Kayna%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226405","tip":"genel"}]
-"
 keywords: ["Kükürtlü Su Kaynağı Sit Alanı","İç Anadolu Bölgesi","doğal alan","flora","fauna","ziyaret","gezilecek yerler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226405"

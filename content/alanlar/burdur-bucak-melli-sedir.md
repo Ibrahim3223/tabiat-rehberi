@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","tarihî mekanları keşfetmek","bitki türl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Burdur-Bucak-Melli Sedir","caption":"Burdur-Bucak-Melli Sedir","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Melli%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227211","tip":"genel"}]
-"
 keywords: ["Burdur","Bucak","Melli Sedir","milli park","Akdeniz Bölgesi","doğa","yeşil alan","bitki türleri"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227211"

@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Karap%C4%B1nar%3B_Meke_G%C3%B6l%C3%BC.JPG","alt":"Karapınar Hill manzarası","credit":"Christian1311","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karap%C4%B1nar%20Hill","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389111","tip":"genel"}]
-"
 keywords: ["Karapınar Hill","Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389111"

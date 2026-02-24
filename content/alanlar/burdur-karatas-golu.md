@@ -12,10 +12,9 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","flora ve fauna gözlemleme","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Burdur-Karataş Gölü","caption":"Burdur-Karataş Gölü","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Karata%C5%9F_-_panoramio.jpg/960px-Karata%C5%9F_-_panoramio.jpg","alt":"Burdur-Karataş Gölü","caption":"Burdur-Karataş Gölü","credit":"Karataş - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Columba_livia_-_Rock_Dove_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Columba_livia_-_Rock_Dove_02.jpg/1280px-Columba_livia_-_Rock_Dove_02.jpg","alt":"Burdur-Karataş Gölü - Columba livia - Rock Dove 02","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Columba_livia_-_Rock_Dove_03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Columba_livia_-_Rock_Dove_03.jpg/1280px-Columba_livia_-_Rock_Dove_03.jpg","alt":"Burdur-Karataş Gölü - Columba livia - Rock Dove 03","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Karata%C5%9F_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Karata%C5%9F_-_panoramio.jpg","alt":"Burdur-Karataş Gölü - Karataş - panoramio","credit":"hursitakinci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Karata%C5%9F%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228372","tip":"genel"}]
-"
 keywords: ["Burdur-Karataş Gölü","Burdur","Akdeniz Bölgesi","doğal alan","göl","milli park","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228372"

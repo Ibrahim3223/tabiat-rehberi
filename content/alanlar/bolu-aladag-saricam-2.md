@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Kampçılık","Photography"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg","alt":"Bolu-Aladag Saricam 2","caption":"Bolu-Aladag Saricam 2","credit":"Bolu Gölcük Tabiat 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227555","tip":"genel"}]
-"
 keywords: ["Bolu","Aladag","Saricam","milli park","doğa","yeşil alan","Karadeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227555"

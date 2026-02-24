@@ -21,7 +21,6 @@ aktiviteler: ["Denizde yüzme","Güneşlenme","Plaj voleybolu","Yürüyüş"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%40_babaylon_beach_%28october_2009%29_-_panoramio.jpg/960px-%40_babaylon_beach_%28october_2009%29_-_panoramio.jpg","alt":"Türbe (Pirlibey Mahallesi)","caption":"Türbe (Pirlibey Mahallesi)","credit":"@ babaylon beach (october 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrbe%20(Pirlibey%20Mahallesi)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391623","tip":"genel"}]
-"
 keywords: ["Türbe Plajı","Nazilli","Aydın","Ege Bölgesi","plajlar","deniz","turizm","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391623"

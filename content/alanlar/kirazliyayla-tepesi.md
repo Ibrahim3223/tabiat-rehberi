@@ -20,7 +20,6 @@ aktiviteler: ["doğal yürüyüş","manzara izleme","fotografçılık","tarihî 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Kirazlıyayla Tepesi","caption":"Kirazlıyayla Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazl%C4%B1yayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388470","tip":"genel"}]
-"
 keywords: ["Kirazlıyayla Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388470"

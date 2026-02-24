@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/T%C3%BCrbenin_bah%C3%A7esi.jpg","alt":"Melikgazi Türbesi manzarası","credit":"Demir dude","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melikgazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6085378","tip":"genel"}]
-"
 keywords: ["Melikgazi Türbesi","Niksar","Tokat","Karadeniz Bölgesi","tarihi mekan","yeşil alan","turistik yer","gezi","tarihçe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6085378"

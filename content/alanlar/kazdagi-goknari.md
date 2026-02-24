@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Abiesnordmannianaequitrojani.jpg","alt":"Kazdagi Goknari manzarası","credit":"Stickpen","license":"pd"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/%C5%9Eahin_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%C5%9Eahin_Tepesi.jpg/1280px-%C5%9Eahin_Tepesi.jpg","alt":"Kazdagi Goknari - Şahin Tepesi","credit":"Jhihongear","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazdagi%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227056","tip":"genel"}]
-"
 keywords: ["İç Anadolu Bölgesi","doğal güzellik","Kazdagi Goknari","yeşil alan","fiziksel veriler","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227056"

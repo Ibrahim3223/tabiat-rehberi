@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","termal su tedavisi","kuş gözlemciliği","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/It%27s_an_extensive_ruin%2C_nearly_1.7_km_long_%2816309025721%29.jpg/960px-It%27s_an_extensive_ruin%2C_nearly_1.7_km_long_%2816309025721%29.jpg","alt":"Kazancı Kaplıcası","caption":"Kazancı Kaplıcası","credit":"It's an extensive ruin, nearly 1.7 km long (16309025721)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazanc%C4%B1%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741944","tip":"genel"}]
-"
 keywords: ["Kazancı Kaplıcası","Çankırı","İç Anadolu Bölgesi","termal kaynak","kaplıca","doğal güzellik","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49741944"

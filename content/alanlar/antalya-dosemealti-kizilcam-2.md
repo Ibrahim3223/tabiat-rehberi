@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Antalya-Döşemealtı Kızılçam 2","caption":"Antalya-Döşemealtı Kızılçam 2","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227846","tip":"genel"}]
-"
 keywords: ["Antalya-Döşemealtı Kızılçam 2","milli park","doğal alan","Akdeniz Bölgesi","kızılçam","orman","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227846"

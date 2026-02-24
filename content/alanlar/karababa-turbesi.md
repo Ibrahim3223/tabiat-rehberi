@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Istanbul%2C_%C4%B0stanbul%2C_Turkey_-_panoramio_%28214%29.jpg","alt":"Karababa Türbesi manzarası","credit":"Maksym Kozlenko","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karababa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391816","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391816"

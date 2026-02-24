@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","tarih turu"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Konak Tepesi","caption":"Konak Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390617","tip":"genel"}]
-"
 keywords: ["Kırıkkale","Konak Tepesi","doğal güzellik","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390617"

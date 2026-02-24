@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Çiyil Tepesi","caption":"Çiyil Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iyil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829352","tip":"genel"}]
-"
 keywords: ["Afyonkarahisar","doğa","gezi","tepe","çevre","iklim","bitki","hayvan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829352"

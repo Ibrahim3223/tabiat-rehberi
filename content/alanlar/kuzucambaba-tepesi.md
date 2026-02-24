@@ -20,7 +20,6 @@ aktiviteler: ["trekking","kamp","doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Kuzuçambaba Tepesi","caption":"Kuzuçambaba Tepesi","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzu%C3%A7ambaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206357","tip":"genel"}]
-"
 keywords: ["Kuzuçambaba Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","dağ","doğa","gezi","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32206357"

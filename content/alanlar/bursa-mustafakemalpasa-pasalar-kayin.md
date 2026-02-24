@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Bisiklet Turu","Piknik","Doğa Fotoğrafçılığı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Bursa-Mustafakemalpaşa-Paşalar Kayin","caption":"Bursa-Mustafakemalpaşa-Paşalar Kayin","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227239","tip":"genel"}]
-"
 keywords: ["Bursa","Milli Park","Paşalar Kayin","Marmara Bölgesi","Doğa","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227239"

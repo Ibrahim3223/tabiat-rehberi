@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa keşfi","Tarih gezisi","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Eskipazar Turbe Çamı","caption":"Eskipazar Turbe Çamı","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskipazar%20Turbe%20%C3%87am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228012","tip":"genel"}]
-"
 keywords: ["Eskipazar Turbe Çamı","İç Anadolu Bölgesi","doğa harikası","milli park","çamlık alan","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228012"

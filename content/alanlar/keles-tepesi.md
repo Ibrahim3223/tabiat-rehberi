@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme"," piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Keleş Tepesi","caption":"Keleş Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kele%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564589","tip":"genel"}]
-"
 keywords: ["Karabük","Keleş Tepesi","doğa","yürüyüş","manzara","gezi","Karadeniz Bölgesi","tepe","gezinti"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31564589"

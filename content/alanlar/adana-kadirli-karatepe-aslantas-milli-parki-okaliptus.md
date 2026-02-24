@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Tarih Gezisi","Flora ve Fauna Gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","caption":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Karatepe%20Aslantas%20Milli%20Parki%20Okaliptus","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227754","tip":"genel"}]
-"
 keywords: ["Adana","Kadirli","Karatepe Aslantas Milli Parkı","Okaliptus","Milli Park","Doğa","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227754"

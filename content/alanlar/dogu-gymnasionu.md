@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Gezi","Tarih keşfi","Doğa yürüyüşü","Fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Ruins_at_Ephesus_LCCN94513614.jpg","alt":"Doğu Gymnasionu manzarası","credit":"Miscellaneous Items in High Demand, PPOC, Library of Congress","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_at_Ephesus_LCCN94513614.tif/lossy-page1-900px-Ruins_at_Ephesus_LCCN94513614.tif.jpg","alt":"Doğu Gymnasionu","caption":"Doğu Gymnasionu","credit":"Ruins at Ephesus LCCN94513614","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/32/Ruins_at_Ephesus_LCCN94513614.tif","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_at_Ephesus_LCCN94513614.tif/lossy-page1-1200px-Ruins_at_Ephesus_LCCN94513614.tif.jpg","alt":"Doğu Gymnasionu - Ruins at Ephesus LCCN94513614","credit":"Miscellaneous Items in High Demand, PPOC, Library of Congress","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fu%20Gymnasionu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97341135","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzellikleriyle dolu bir köşesi"

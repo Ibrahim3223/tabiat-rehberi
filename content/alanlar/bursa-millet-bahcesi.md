@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b4/20240717_D%C3%BCnya_Aynas%C4%B1_Heykeli%2C_Bursa.jpg","alt":"Bursa Millet Bahçesi manzarası","credit":"Basak","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BurTram_T1_-_K%C3%BClt%C3%BCrpark_%28Millet_Bah%C3%A7esi%29_station%2C_January_2026.jpg/960px-BurTram_T1_-_K%C3%BClt%C3%BCrpark_%28Millet_Bah%C3%A7esi%29_station%2C_January_2026.jpg","alt":"Bursa Millet Bahçesi","caption":"Bursa Millet Bahçesi","credit":"BurTram T1 - Kültürpark (Millet Bahçesi) station, January 2026","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa%20Millet%20Bah%C3%A7esi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127598743","tip":"genel"}]
 description: "Bursa'nın yeşillik alanlarından biri olan Bursa Millet Bahçesi, botanik çeşitliliği ile dikkat çekiyor."

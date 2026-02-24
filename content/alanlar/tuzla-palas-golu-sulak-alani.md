@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekimi",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Tuzla Palas Gölü Sulak Alanı","caption":"Tuzla Palas Gölü Sulak Alanı","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuzla%20Palas%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229011","tip":"genel"}]
-"
 keywords: ["Tuzla Palas Gölü Sulak Alanı","İç Anadolu Bölgesi","doğal güzellik","sulak alan","fauna","flora","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229011"

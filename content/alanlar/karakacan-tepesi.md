@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","yöresel
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Karakaçan Tepesi","caption":"Karakaçan Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaka%C3%A7an%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877967","tip":"genel"}]
-"
 keywords: ["Karakaçan Tepesi","Kırklareli","Marmara Bölgesi","doğa","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34877967"

@@ -21,7 +21,6 @@ aktiviteler: ["deniz kenarında yürüyüş","bitki ve ağaçları incelemek","m
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Kamera Müzesi, İstanbul","caption":"Kamera Müzesi, İstanbul","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamera%20M%C3%BCzesi%2C%20%C4%B0stanbul","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61852762","tip":"genel"}]
-"
 keywords: ["Kamera Müzesi","İstanbul","plaj","Marmara Bölgesi","Bakırköy","yeşil alan","deniz"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q61852762"

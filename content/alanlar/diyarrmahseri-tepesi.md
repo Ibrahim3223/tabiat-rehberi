@@ -21,7 +21,6 @@ aktiviteler: ["yürüyüş","trekking","doğa gözlem","kuş gözlem"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Diyarrmahseri Tepesi","caption":"Diyarrmahseri Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyarrmahseri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553586","tip":"genel"}]
-"
 keywords: ["Diyarrmahseri Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31553586"

@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"," Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Yediler Tepesi (Kırıkkale)","caption":"Yediler Tepesi (Kırıkkale)","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yediler%20Tepesi%20(K%C4%B1r%C4%B1kkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502854","tip":"genel"}]
-"
 keywords: ["Yediler Tepesi","Kırıkkale","doğa","gezi","turizm","tepe","manzara","iç anadolu","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31502854"

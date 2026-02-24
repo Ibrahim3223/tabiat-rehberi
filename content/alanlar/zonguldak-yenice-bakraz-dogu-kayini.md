@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","keşif","gezi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Zonguldak-Yenice-Bakraz Dogu Kayini","caption":"Zonguldak-Yenice-Bakraz Dogu Kayini","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Yenice-Bakraz%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227742","tip":"genel"}]
-"
 keywords: ["Zonguldak","Yenice","Bakraz Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227742"

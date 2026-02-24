@@ -20,7 +20,6 @@ aktiviteler: ["Trekking","Fotoğrafçılık","Piknik","Doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Sazlı Tepe","caption":"Sazlı Tepe","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sazl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385477","tip":"genel"}]
-"
 keywords: ["Mersin","Akdeniz Bölgesi","Sazlı Tepe","doğa","tepe","gezi","turizm","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385477"

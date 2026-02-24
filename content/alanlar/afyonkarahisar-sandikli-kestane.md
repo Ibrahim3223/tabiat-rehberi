@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğrafçılık","Doğa izl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Afyonkarahisar-Sandikli Kestane","caption":"Afyonkarahisar-Sandikli Kestane","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyonkarahisar-Sandikli%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227731","tip":"genel"}]
-"
 keywords: ["Afyonkarahisar","milli park","kestane","doğa","flora","fauna","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227731"

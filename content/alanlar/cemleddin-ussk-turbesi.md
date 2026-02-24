@@ -21,7 +21,6 @@ aktiviteler: ["Türbe ziyaret","Yeşil alan gezintisi","Doğa fotoğrafçılığ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg","alt":"Cemâleddin Uşşâkî Türbesi","caption":"Cemâleddin Uşşâkî Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cem%C3%A2leddin%20U%C5%9F%C5%9F%C3%A2k%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390966","tip":"genel"}]
-"
 keywords: ["Cemâleddin Uşşâkî","Eyüpsultan","İstanbul","Marmara Bölgesi","Türbe","Yeşil Alan","Tarih","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390966"

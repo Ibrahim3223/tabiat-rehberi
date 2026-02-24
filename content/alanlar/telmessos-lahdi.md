@@ -21,7 +21,6 @@ aktiviteler: ["Deniz keyfi","Güneş banyosu","Doğa yürüyüşü","Kuş gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Telmessos Lahdi","caption":"Telmessos Lahdi","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telmessos%20Lahdi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728236","tip":"genel"}]
-"
 keywords: ["Telmessos Lahdi","Muğla","Ege Bölgesi","plaj","doğa","turizm","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728236"

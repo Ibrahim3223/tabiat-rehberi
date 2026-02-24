@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","bitki gözle
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Örenönü","caption":"Örenönü","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96ren%C3%B6n%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228334","tip":"genel"}]
-"
 keywords: ["Örenönü","milli park","İç Anadolu Bölgesi","doğa","gezinti","yaban hayatı","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228334"

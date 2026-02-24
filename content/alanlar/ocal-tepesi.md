@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Alaaddin_Tepesi_-_panoramio.jpg","alt":"Öcal Tepesi manzarası","credit":"Hüseyin Öcal","license":"cc-by-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96cal%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829657","tip":"genel"}]
-"
 keywords: ["Öcal Tepesi","Samsun","Karadeniz Bölgesi","doğa","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34829657"

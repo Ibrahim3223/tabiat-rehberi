@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Delikada%20Ada%20from%20Iztuzu%20Beach.jpg","alt":"Delikada manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Delikada_Ada_from_Iztuzu_Beach.jpg/960px-Delikada_Ada_from_Iztuzu_Beach.jpg","alt":"Delikada","caption":"Delikada","credit":"Delikada Ada from Iztuzu Beach","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/Delikada_Ada_from_Iztuzu_Beach.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Delikada_Ada_from_Iztuzu_Beach.jpg/1280px-Delikada_Ada_from_Iztuzu_Beach.jpg","alt":"Delikada - Delikada Ada from Iztuzu Beach","credit":"Space00010","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49636504","tip":"genel"}]
 description: "Muğla'da bulunan Delikada, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi önemi ile dikkat çekiyor."

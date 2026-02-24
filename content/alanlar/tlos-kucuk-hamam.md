@@ -22,7 +22,6 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Arched%20ruins%20of%20the%20ancient%20city%20of%20Tlos.jpg","alt":"Tlos Küçük Hamam manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tlos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739135","tip":"genel"}]
-"
 keywords: ["Tlos Küçük Hamam","Seydikemer","Muğla","Ege Bölgesi","doğaseverler","yeşil alan","plaj"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739135"

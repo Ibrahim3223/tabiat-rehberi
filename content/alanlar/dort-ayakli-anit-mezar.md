@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Al-Samra_beach.jpg/960px-Al-Samra_beach.jpg","alt":"Dört Ayaklı Anıt Mezar","caption":"Dört Ayaklı Anıt Mezar","credit":"Al-Samra beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%B6rt%20Ayakl%C4%B1%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728161","tip":"genel"}]
-"
 keywords: ["Dört Ayaklı Anıt Mezar","Aydıncık","Mersin","tarihi mekanlar","yeşil alan","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728161"

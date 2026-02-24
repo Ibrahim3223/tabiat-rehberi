@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik","yaban hayatı 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Antalya1.jpg/960px-Antalya1.jpg","alt":"Askoroz Şelalesi","caption":"Askoroz Şelalesi","credit":"Antalya1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Askoroz%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320206","tip":"genel"}]
-"
 keywords: ["Askoroz Şelalesi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","şelale","turizm","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q97320206"

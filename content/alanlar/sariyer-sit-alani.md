@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","bitki türleri keşfi","kuş gözlemciliği
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Sarıyer Sit Alanı","caption":"Sarıyer Sit Alanı","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1yer%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225594","tip":"genel"}]
-"
 keywords: ["Sarıyer Sit Alanı","İç Anadolu Bölgesi","doğal alan","yeşil alan","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108225594"

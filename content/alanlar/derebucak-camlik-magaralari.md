@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/de/Gavurbe%C5%9Fi%C4%9Fi_Ma%C4%9Faras%C4%B1.jpg","alt":"Derebucak Çamlık Mağaraları manzarası","credit":"Kaandegeroglu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gavurbe%C5%9Fi%C4%9Fi_Ma%C4%9Faras%C4%B1.jpg/960px-Gavurbe%C5%9Fi%C4%9Fi_Ma%C4%9Faras%C4%B1.jpg","alt":"Derebucak Çamlık Mağaraları","caption":"Derebucak Çamlık Mağaraları","credit":"Gavurbeşiği Mağarası","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derebucak%20%C3%87aml%C4%B1k%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30589984","tip":"genel"}]
 description: "Türkiye'nin önemli jeoparklarından biri olan Derebucak Çamlık Mağaraları, doğal güzelliği ile dikkat çekiyor."

@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","doğa gözlem","kuş gözlem","fotoğrafçılık","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Yatak Tepesi","caption":"Yatak Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yatak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386906","tip":"genel"}]
-"
 keywords: ["Yatak Tepesi","Balıkesir","Marmara Bölgesi","yeşil alan","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386906"

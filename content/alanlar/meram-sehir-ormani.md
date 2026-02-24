@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Bisiklet sürme","Doğa gözlemi","Fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"MERAM ŞEHİR ORMANI","caption":"MERAM ŞEHİR ORMANI","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MERAM%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228694","tip":"genel"}]
-"
 keywords: ["MERAM ŞEHİR ORMANI","İç Anadolu Bölgesi","şehir ormanları","doğal alanlar","yeşillikler","huzurlu mekanlar","gezi noktaları","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228694"

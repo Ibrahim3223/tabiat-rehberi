@@ -22,7 +22,6 @@ images:
   hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Isparta%3B%20Hamam%20von%201694.jpg","alt":"Dalboyunoğlu Hamamı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Isparta%3B_Hamam_von_1694.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isparta%3B_Hamam_von_1694.jpg/1280px-Isparta%3B_Hamam_von_1694.jpg","alt":"Dalboyunoğlu Hamamı - Isparta; Hamam von 1694","credit":"Christian1311","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dalboyuno%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738485","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738485"

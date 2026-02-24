@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa Gezisi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canavar_%C3%A7i%C3%A7e%C4%9Fi_%28y%C3%B6resel_ismi%29.jpg/960px-Canavar_%C3%A7i%C3%A7e%C4%9Fi_%28y%C3%B6resel_ismi%29.jpg","alt":"Buzluk Tabiat Parkı","caption":"Buzluk Tabiat Parkı","credit":"Canavar çiçeği (yöresel ismi)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buzluk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-"
 keywords: ["Buzluk Tabiat Parkı","Ankara","Doğal Alan","Yeşil Alan","Tabiat Parkı","Ankara Turizmi","İç Anadolu Bölgesi","Doğa","Yeşillendirme"]
 schema_type: "TouristAttraction"
 ---

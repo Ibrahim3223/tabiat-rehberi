@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","yürüyüş"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Kıyıdüzü Köyü Rahova Mevkii Sit Alanı","caption":"Kıyıdüzü Köyü Rahova Mevkii Sit Alanı","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1y%C4%B1d%C3%BCz%C3%BC%20K%C3%B6y%C3%BC%20Rahova%20Mevkii%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226188","tip":"genel"}]
-"
 keywords: ["Kıyıdüzü Köyü","Rahova Mevkii","Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226188"

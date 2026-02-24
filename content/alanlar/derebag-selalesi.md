@@ -12,10 +12,9 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Dereba%C4%9F_%C5%9Eelalesi_karl%C4%B1.jpg","alt":"Derebağ Şelalesi manzarası","credit":"Bircan3438","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg/960px-Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg","alt":"Derebağ Şelalesi","caption":"Derebağ Şelalesi","credit":"Derebağ Şelalesi,KAYSERİ - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/1280px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Derebağ Şelalesi - Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","credit":"NNeo11","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg/1280px-Dereba%C4%9F_%C5%9Eelalesi%2CKAYSER%C4%B0_-_panoramio.jpg","alt":"Derebağ Şelalesi - Derebağ Şelalesi,KAYSERİ - panoramio","credit":"cankurtaran","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dereba%C4%9F%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228226","tip":"genel"}]
-"
 keywords: ["Derebağ Şelalesi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","şelale","milli park","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228226"

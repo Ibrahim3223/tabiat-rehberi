@@ -14,7 +14,6 @@ aktiviteler: ["trekking","doğa yürüyüşü","dinlenme","yeme içme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Denizli-Saraykoy Kestane","caption":"Denizli-Saraykoy Kestane","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Saraykoy%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227730","tip":"genel"}]
-"
 keywords: ["Denizli-Saraykoy Kestane","Ege Bölgesi","Denizli","Sarayköy","kestane","milli park","doğa","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227730"

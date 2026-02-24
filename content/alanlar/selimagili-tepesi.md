@@ -20,7 +20,6 @@ aktiviteler: ["Doğa yürüyüşleri","Keşifler","Manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Selimağılı Tepesi","caption":"Selimağılı Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selima%C4%9F%C4%B1l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390499","tip":"genel"}]
-"
 keywords: ["Selimağılı Tepesi","Konya","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390499"

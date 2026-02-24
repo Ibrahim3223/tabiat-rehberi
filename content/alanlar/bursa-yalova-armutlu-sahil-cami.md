@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Cami ziyareti","Deniz manzarası","Yöresel
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Bursa-Yalova-Armutlu Sahil Cami","caption":"Bursa-Yalova-Armutlu Sahil Cami","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Yalova-Armutlu%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227278","tip":"genel"}]
-"
 keywords: ["Bursa","Yalova","Armutlu","Sahil Cami","Marmara Bölgesi","Doğa","Turizm","Gezi","Cami"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227278"

@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","dinlenme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Arasa Hamamı","caption":"Arasa Hamamı","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arasa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738901","tip":"genel"}]
-"
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738901"

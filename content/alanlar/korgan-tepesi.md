@@ -20,7 +20,6 @@ aktiviteler: ["Doğa yürüyüşü","Tarihçe öğrenme","Flora ve fauna keşfi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Korgan Tepesi","caption":"Korgan Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Korgan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388517","tip":"genel"}]
-"
 keywords: ["Korgan Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Coğrafya","Tarihçe","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388517"

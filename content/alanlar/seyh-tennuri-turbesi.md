@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Kayseri_%C5%9Eeyh_Ibrahim_Tennuri_T%C3%BCrbesi_007.jpg","alt":"Şeyh Tennuri Türbesi manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Tennuri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582408","tip":"genel"}]
-"
 keywords: ["Şeyh Tennuri Türbesi","Melikgazi","Kayseri","tarihi mekanlar","türk tarihi","iç anadolu bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582408"

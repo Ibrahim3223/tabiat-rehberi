@@ -14,7 +14,6 @@ aktiviteler: ["trekking","doğa yürüyüşü","kampçılık","yaban hayatı gö
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Antalya-Akseki Toros Goknari","caption":"Antalya-Akseki Toros Goknari","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki%20Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227284","tip":"genel"}]
-"
 keywords: ["Antalya","Akseki","Toros Goknari","milli park","doğa","gezi","Akdeniz Bölgesi","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227284"

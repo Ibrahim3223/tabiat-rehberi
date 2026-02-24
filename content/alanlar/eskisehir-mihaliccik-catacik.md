@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/Eski%C5%9Fehir_Mihal%C4%B1%C3%A7%C3%A7%C4%B1k.jpg","alt":"Eskişehir-Mihaliccik Çatacık manzarası","credit":"Photogrepher98","license":"cc-by-sa-4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Mihal%C4%B1%C3%A7%C3%A7%C4%B1k_%C5%9Eelalesi_Eski%C5%9Fehir.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mihal%C4%B1%C3%A7%C3%A7%C4%B1k_%C5%9Eelalesi_Eski%C5%9Fehir.jpg/1280px-Mihal%C4%B1%C3%A7%C3%A7%C4%B1k_%C5%9Eelalesi_Eski%C5%9Fehir.jpg","alt":"Eskişehir-Mihaliccik Çatacık - Mihalıççık Şelalesi Eskişehir","credit":"Photogrepher98","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/5/59/Eski%C5%9Fehir_Mihal%C4%B1%C3%A7%C3%A7%C4%B1k_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Eski%C5%9Fehir_Mihal%C4%B1%C3%A7%C3%A7%C4%B1k_%C5%9Eelalesi.jpg/1280px-Eski%C5%9Fehir_Mihal%C4%B1%C3%A7%C3%A7%C4%B1k_%C5%9Eelalesi.jpg","alt":"Eskişehir-Mihaliccik Çatacık - Eskişehir Mihalıççık Şelalesi","credit":"Photogrepher98","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Mihaliccik%20%C3%87atac%C4%B1k","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227396","tip":"genel"}]
-"
 keywords: ["Eskişehir","Mihaliccik","Çatacık","milli park","doğal alan","turizm","gezilecek yerler","iç anadolu","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227396"

@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Mağara keşfi","Flora ve fauna gözlemi","
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Kaklık Mağarası Sit Alanı","caption":"Kaklık Mağarası Sit Alanı","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kakl%C4%B1k%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226810","tip":"genel"}]
-"
 keywords: ["Kaklık Mağarası","İç Anadolu Bölgesi","doğa sit alanı","mağara","turizm","gezi","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226810"

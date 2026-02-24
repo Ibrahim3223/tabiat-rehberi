@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Turgutreis_lighthouse.jpg","alt":"Çatalada manzarası","credit":"User:Patrickneil","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turgutreis_lighthouse.jpg/960px-Turgutreis_lighthouse.jpg","alt":"Çatalada","caption":"Çatalada","credit":"Turgutreis lighthouse","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q272668","tip":"genel"}]
 description: "Muğla'da bulunan Çatalada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

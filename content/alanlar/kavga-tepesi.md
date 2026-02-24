@@ -20,7 +20,6 @@ aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Yaban h
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kavga Tepesi","caption":"Kavga Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavga%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391196","tip":"genel"}]
-"
 keywords: ["Kavga Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","çevre","yaban hayatı","eko-turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31391196"

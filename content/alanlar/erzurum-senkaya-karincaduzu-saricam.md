@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa keşfi","kültürel miras keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Erzurum-Senkaya-Karincaduzu Saricam","caption":"Erzurum-Senkaya-Karincaduzu Saricam","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Senkaya-Karincaduzu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227564","tip":"genel"}]
-"
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","Karincaduzu Saricam","milli park","doğal güzellik","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227564"

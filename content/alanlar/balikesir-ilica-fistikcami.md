@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Yaban Hayatı İzleme","Çevre Gezisi","Fot
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AgaricusMushroom.jpg/960px-AgaricusMushroom.jpg","alt":"Balıkesir-Ilıca-Fıstıkcamı","caption":"Balıkesir-Ilıca-Fıstıkcamı","credit":"AgaricusMushroom.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Il%C4%B1ca-F%C4%B1st%C4%B1kcam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228285","tip":"genel"}]
-"
 keywords: ["Balıkesir","Ilıca-Fıstıkcamı","Marmara Bölgesi","Milli Park","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228285"

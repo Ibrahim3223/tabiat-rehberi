@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşleri","Balık Tutma","Orman Gezileri","Tarihî K
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"Güneşli Göl Sit Alanı","caption":"Güneşli Göl Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9Fli%20G%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226229","tip":"genel"}]
-"
 keywords: ["Güneşli Göl","Sit Alanı","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Gezi","Tarihçe","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226229"

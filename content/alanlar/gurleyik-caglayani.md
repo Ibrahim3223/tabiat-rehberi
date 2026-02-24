@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","bisiklet turu","doğa fotoğraf çekimi","kuş göz
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_03.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_03.JPG","alt":"Gürleyik Çağlayanı","caption":"Gürleyik Çağlayanı","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrleyik%20%C3%87a%C4%9Flayan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q65934613","tip":"genel"}]
-"
 keywords: ["Gürleyik Çağlayanı","İç Anadolu Bölgesi","doğal alanlar","yeşil alan","çevre","gezi","turizm","doğa","çağlayan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q65934613"

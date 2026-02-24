@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Lookig_from_%C3%87avu%C5%9F_Tepe_-_panoramio.jpg","alt":"Çavuş Tepe manzarası","credit":"fatma alan","license":"cc-by-3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg/1280px-%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg","alt":"Çavuş Tepe - Çavuş Köyü-Doğan Tepe- Ahmet YAZAR - panoramio","credit":"İlyas YAZAR","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824417","tip":"genel"}]
-"
 keywords: ["Kırklareli","Marmara Bölgesi","doğal güzellik","tepe","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q34824417"

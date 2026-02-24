@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Kale Bolu Fındığı","caption":"Kale Bolu Fındığı","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kale%20Bolu%20F%C4%B1nd%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227058","tip":"genel"}]
-"
 keywords: ["Kale Bolu Fındığı","İç Anadolu Bölgesi","doğa harikası","yeşil alan","milli park","flora","fauna","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227058"

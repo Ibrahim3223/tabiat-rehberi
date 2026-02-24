@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/Nameless_tomb_near_alamgir_gate.JPG","alt":"İsimsiz Türbe manzarası","credit":"Sayantan07","license":"cc-by-sa-3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0simsiz%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390574","tip":"genel"}]
-"
 keywords: ["Ayvalık","Balıkesir","Marmara Bölgesi","plaj","kumsal","doğa","gezi","tatil"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390574"

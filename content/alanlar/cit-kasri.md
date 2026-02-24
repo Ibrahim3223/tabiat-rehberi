@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","su sporları","dinlenme"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/%C4%B0stanbul%205722.jpg","alt":"Çit Kasrı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%C4%B0stanbul_5722.jpg/960px-%C4%B0stanbul_5722.jpg","alt":"Çit Kasrı","caption":"Çit Kasrı","credit":"İstanbul 5722","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bc/%C4%B0stanbul_5722.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%C4%B0stanbul_5722.jpg/1280px-%C4%B0stanbul_5722.jpg","alt":"Çit Kasrı - İstanbul 5722","credit":"User:Darwinek","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87it%20Kasr%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31191088","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin birleştiği nokta, Çit Kasrı"

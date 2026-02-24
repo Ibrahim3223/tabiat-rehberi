@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","kuş gözlemcil
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Ana_Ard%C4%B1%C3%A7_Foto%C4%9Fraf%C4%B1.jpg","alt":"Ana Ardıç Tabiat Anıtı","caption":"Ana Ardıç Tabiat Anıtı","credit":"Ana Ardıç Fotoğrafı","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ana%20Ard%C4%B1%C3%A7%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
-"
 keywords: ["Ana Ardıç Tabiat Anıtı","İç Anadolu Bölgesi","doğa","tabiat anıtı","gezi","turizm","çevre","ekosistem"]
 schema_type: "TouristAttraction"
 ---

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Mavikent_Kumluca.jpg","alt":"Devecitaşı Adası manzarası","credit":"DilaraY16","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mavikent_Kumluca.jpg/960px-Mavikent_Kumluca.jpg","alt":"Devecitaşı Adası","caption":"Devecitaşı Adası","credit":"Mavikent Kumluca","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Devecita%C5%9F%C4%B1%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49636547","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Devecitaşı Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."

@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kad%C4%B1nc%C4%B1k_Valley_14.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_14.jpg","alt":"Mersin-Mut-Alahan Kizilcam2","caption":"Mersin-Mut-Alahan Kizilcam2","credit":"Kadıncık Valley 14.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Alahan%20Kizilcam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228535","tip":"genel"}]
-"
 keywords: ["Mersin","milli park","yeşil alan","doğa","gezi","turizm","Mersin-Mut-Alahan Kizilcam2","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228535"

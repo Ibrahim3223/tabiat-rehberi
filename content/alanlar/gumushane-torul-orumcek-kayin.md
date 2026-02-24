@@ -14,7 +14,6 @@ aktiviteler: ["Doga yürüyüşü","Kamp kurma","Balık tutma"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Gumushane-Torul-Orumcek Kayin","caption":"Gumushane-Torul-Orumcek Kayin","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gumushane-Torul-Orumcek%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227273","tip":"genel"}]
-"
 keywords: ["Gümüşhane","Torul","Orumcek Kayın","Milli Park","Karadeniz Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227273"

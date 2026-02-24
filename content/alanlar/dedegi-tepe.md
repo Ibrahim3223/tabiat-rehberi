@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Dedeği Tepe","caption":"Dedeği Tepe","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dede%C4%9Fi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390458","tip":"genel"}]
-"
 keywords: ["Dedeği Tepe","Konya","doğal alan","tepe","İç Anadolu Bölgesi","gezi","turizm","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390458"

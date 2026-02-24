@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Do%C4%9Fanc%C4%B1_baraj%C4%B1_3_-_panoramio.jpg","alt":"Doganci Baraji manzarası","credit":"nami yildirim","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Do%C4%9Fanc%C4%B1_baraj%C4%B1_3_-_panoramio.jpg/960px-Do%C4%9Fanc%C4%B1_baraj%C4%B1_3_-_panoramio.jpg","alt":"Doğancı Barajı","caption":"Doğancı Barajı","credit":"Doğancı barajı 3 - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Do%C4%9Fanc%C4%B1_baraj%C4%B1_2_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Do%C4%9Fanc%C4%B1_baraj%C4%B1_2_-_panoramio.jpg/1280px-Do%C4%9Fanc%C4%B1_baraj%C4%B1_2_-_panoramio.jpg","alt":"Doganci Baraji - Doğancı barajı 2 - panoramio","credit":"nami yildirim","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doganci%20Baraji","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227809","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan önemli bir su kaynağı"

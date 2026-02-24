@@ -19,10 +19,9 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/%C3%87aml%C4%B1yayla-Cehennemderesi.jpg","alt":"Cehennem Deresi Kanyonu Tabiat Parkı manzarası","credit":"Ahmet Kagan Hancer","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%C3%87aml%C4%B1yayla-Cehennemderesi.jpg/960px-%C3%87aml%C4%B1yayla-Cehennemderesi.jpg","alt":"Cehennem Deresi Kanyonu Tabiat Parkı","caption":"Cehennem Deresi Kanyonu Tabiat Parkı","credit":"Çamlıyayla-Cehennemderesi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cehennem%20Deresi%20Kanyonu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49097008","tip":"genel"}]
-"
 keywords: ["Cehennem Deresi Kanyonu","Tabiat Parkı","Artvin","Karadeniz Bölgesi","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q49097008"

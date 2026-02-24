@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","kamp","kuş gözlemciliği","fotoğrafçıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Kahramanmaras-Elmalar Toros Sediri","caption":"Kahramanmaras-Elmalar Toros Sediri","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Elmalar%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228000","tip":"genel"}]
-"
 keywords: ["Kahramanmaras","Elmalar","Toros Sediri","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228000"

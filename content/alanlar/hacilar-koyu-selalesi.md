@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","bitki gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_04.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_04.JPG","alt":"Hacılar Köyü Şelalesi","caption":"Hacılar Köyü Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20k%C3%B6y%C3%BC%20%C5%9Felalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19611391","tip":"genel"}]
-"
 keywords: ["Hacılar Köyü Şelalesi","Ankara","İç Anadolu Bölgesi","şelale","yeşil alan","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q19611391"

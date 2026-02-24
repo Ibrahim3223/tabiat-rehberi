@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gezisi","kuş gözlemciliği","fotografçıl�
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Denizli-Cameli-Mese","caption":"Denizli-Cameli-Mese","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cameli-Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228476","tip":"genel"}]
-"
 keywords: ["Denizli","Cameli","Mese","milli park","Ege Bölgesi","doğa","yeşil alan","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228476"

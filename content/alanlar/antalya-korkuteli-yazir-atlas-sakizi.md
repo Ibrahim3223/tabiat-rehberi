@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Antalya-Korkuteli-Yazir-Atlas Sakizi","caption":"Antalya-Korkuteli-Yazir-Atlas Sakizi","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Korkuteli-Yazir-Atlas%20Sakizi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228580","tip":"genel"}]
-"
 keywords: ["Antalya","Korkuteli","Yazır","Atlas Sakızı","Milli Park","Akdeniz Bölgesi","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228580"

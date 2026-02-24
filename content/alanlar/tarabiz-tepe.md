@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Tarabiz Tepe","caption":"Tarabiz Tepe","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarabiz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389420","tip":"genel"}]
-"
 keywords: ["Mersin","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","Mersin turizm","Akdeniz turizm","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389420"

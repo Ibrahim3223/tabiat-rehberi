@@ -21,7 +21,6 @@ aktiviteler: ["Tarihçe öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek","M
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Yakup Baba Türbesi","caption":"Yakup Baba Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakup%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390927","tip":"genel"}]
-"
 keywords: ["Marmaris","Muğla","Ege Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","tarihçe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390927"

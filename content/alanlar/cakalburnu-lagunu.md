@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/IzBal%C3%A7ovaU05.jpg","alt":"Çakalburnu Lagünü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IzBal%C3%A7ovaU05.jpg/960px-IzBal%C3%A7ovaU05.jpg","alt":"Çakalburnu Lagünü","caption":"Çakalburnu Lagünü","credit":"IzBalçovaU05","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/IzBal%C3%A7ovaU05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IzBal%C3%A7ovaU05.jpg/1280px-IzBal%C3%A7ovaU05.jpg","alt":"Çakalburnu Lagünü - IzBalçovaU05","credit":"Ziegler175","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akalburnu%20Lag%C3%BCn%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6038772","tip":"genel"}]
 description: "İzmir'in Balçova ilçesinde bulunan Çakalburnu Lagünü, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve zengin florası ile ziyaretçilerini bekliyor."

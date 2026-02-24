@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","bisiklet","doğa yürüyüşü","fotoğrafçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Topakkaya Tepesi","caption":"Topakkaya Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topakkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557539","tip":"genel"}]
-"
 keywords: ["Topakkaya Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557539"

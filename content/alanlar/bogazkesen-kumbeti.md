@@ -21,7 +21,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Maden_Koyu_Beach_2021-11-13-6.jpg/960px-Maden_Koyu_Beach_2021-11-13-6.jpg","alt":"Boğazkesen Kümbeti","caption":"Boğazkesen Kümbeti","credit":"Maden Koyu Beach 2021-11-13-6","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Fazkesen%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582403","tip":"genel"}]
-"
 keywords: ["Boğazkesen Kümbeti","Beypazarı","Ankara","İç Anadolu Bölgesi","yeşil alan","kültür","tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582403"

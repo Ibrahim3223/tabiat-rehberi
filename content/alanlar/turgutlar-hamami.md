@@ -21,7 +21,6 @@ aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotoğraf �
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/1%2C000_shades_of_the_sea.jpg/960px-1%2C000_shades_of_the_sea.jpg","alt":"Turgutlar Hamamı","caption":"Turgutlar Hamamı","credit":"1,000 shades of the sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turgutlar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738695","tip":"genel"}]
-"
 keywords: ["Sinop","Turgutlar Hamamı","Karadeniz Bölgesi","yeşil alan","plaj","deniz","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738695"

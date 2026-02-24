@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğraf çekimi","Rehberl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Aygır Gölü Sulak Alanı","caption":"Aygır Gölü Sulak Alanı","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayg%C4%B1r%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228829","tip":"genel"}]
-"
 keywords: ["Aygır Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Sulak Alan Ekosistemi","Korunan Alan","Doğa Turizmi","Çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228829"

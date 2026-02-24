@@ -21,7 +21,6 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekme"," Piknik","Tarihî yapıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Yeşildere Hamamı","caption":"Yeşildere Hamamı","credit":"Mediterranean ^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fildere%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245706","tip":"genel"}]
-"
 keywords: ["Yeşildere Hamamı","Karaman","doğal güzellik","gezi","turizm","plaj","İç Anadolu Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245706"

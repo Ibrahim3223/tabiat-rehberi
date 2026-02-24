@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Sedir ağaçları altında dinlenmek","Flor
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Burdur-Golhisar-Dirmil Sedir","caption":"Burdur-Golhisar-Dirmil Sedir","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Dirmil%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227212","tip":"genel"}]
-"
 keywords: ["Burdur","Golhisar","Dirmil","Sedir","Milli Park","Akdeniz Bölgesi","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227212"

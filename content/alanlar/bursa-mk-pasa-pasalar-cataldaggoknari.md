@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","picnic","fotografcılık","bitki gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","caption":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa%20M.K.%20pa%C5%9Fa%20pa%C5%9Falar-Cataldaggoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228095","tip":"genel"}]
-"
 keywords: ["milli park","Bursa","yeşil alan","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228095"

@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Kampçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"BURDUR SERENÇAY KANYONU","caption":"BURDUR SERENÇAY KANYONU","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BURDUR%20SEREN%C3%87AY%20KANYONU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228939","tip":"genel"}]
-"
 keywords: ["Burdur","Serençay Kanyonu","İç Anadolu Bölgesi","doğal güzellik","kanyon","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228939"

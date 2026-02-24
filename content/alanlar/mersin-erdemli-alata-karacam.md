@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kad%C4%B1nc%C4%B1k_Valley_14.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_14.jpg","alt":"Mersin-Erdemli-Alata Karacam","caption":"Mersin-Erdemli-Alata Karacam","credit":"Kadıncık Valley 14.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Erdemli-Alata%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227533","tip":"genel"}]
-"
 keywords: ["Mersin","Erdemli","Alata Karacam","milli park","Akdeniz Bölgesi","doğa","çevre","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227533"

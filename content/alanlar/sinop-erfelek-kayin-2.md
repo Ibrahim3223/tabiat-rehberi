@@ -14,7 +14,6 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Sinop-Erfelek Kayin 2","caption":"Sinop-Erfelek Kayin 2","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Erfelek%20Kayin%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227269","tip":"genel"}]
-"
 keywords: ["Sinop","Erfelek","Kayin","Milli Park","Karadeniz Bölgesi","Doğa","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227269"

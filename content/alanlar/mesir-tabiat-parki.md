@@ -21,7 +21,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Renkli_Tabiat.jpg","alt":"Mesir Tabiat Parkı manzarası","credit":"Nanelisakız","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mesir%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228122","tip":"genel"}]
-"
 keywords: ["Mesir Tabiat Parkı","Manisa","Ege Bölgesi","doğal alan","tabiat parkı","gezi","yerel flora","yerel fauna","orman","orman ekosistemi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228122"
